@@ -19,3 +19,13 @@ To load test documents into the index, start up the cluster and run:
 $ test_index.sh
 ```
 
+## Bag of Words (BoW)
+
+Note: Only codes are included. Data files are not.
+
+Steps:
+
+1. Run `bag_of_words.py` to convert the corpus to a doc-by-word BoW matrix.
+2. Run `doc_labels.py` to build a doc-by-label matrix.
+3. Run `classifiers.py` to train and test various classifiers.
+
