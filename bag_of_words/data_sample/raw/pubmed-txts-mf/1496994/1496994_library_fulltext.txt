@@ -1,0 +1,508 @@
+Am. J. Hum. Genet. S1:660-665, 1992
+
+High Frequency of Mutations in Exon 10 of the Porphobilinogen
+Deaminase Gene in Patients with a CRIM-positive Subtype of
+Acute Intermittent Porphyria
+Xue-Fan Gu,* Felix de Rooijt Gardi Voortmant Kor Te Veldet Yves Nordmann,§
+and Bernard Grandchamp*
+*Laboratoire de Genetique Moleculaire, Faculte X. Bichat, Paris; tDepartment of Internal Medicine 11, University Hospital Dijkzigt, Rotterdam;
+$Department of Internal Medicine, St. Geertruiden Hospital, Deventer, The Netherlands; and §Laboratoire de Biochimie, H6pital Louis Mourier
+Colombes, France
+
+Summary
+Acute intermittent porphyria (AIP) is an autosomal dominant disease characterized by a partial deficiency of
+porphobilinogen (PBG) deaminase. Different subtypes of the disease have been defined, and more than 10
+different mutations have been described. We focused our study on exon 10, since we previously found that
+three different mutations were located in this exon and that two of them seemed to be relatively common.
+We used denaturing gradient gel electrophoresis (DGGE) after in vitro amplification to detect all possible
+mutations in exon 10 in 41 unrelated AIP patients. In about one-fourth of these patients we could distinguish
+three abnormal migration patterns, indicating the presence of various mutations. Additional sequencing
+demonstrated the presence of three different single-base substitutions. Two of these mutations had already
+been described. A third one consisted of a C-to-T transition located at position 499 of the PBG deaminase
+mRNA and resulted in an Arg-to-Trp substitution. All three mutations were found in patients with crossreacting immunological material (CRIM)-positive forms of AIP. The high frequency of these mutations make
+DGGE analysis of exon 10 a useful approach allowing the direct detection of the DNA abnormality in most
+of the families with the CRIM-positive subtype of AIP.
+
+Introduction
+Acute intermittent porphyria (AIP) is an autosomal
+dominant disease which is defined by a partial de-
+
+ficiency of porphobilinogen (PBG) deaminase (hydroxymethylbilane synthase; E.C.4.3.1.8), the third
+enzyme of the heme biosynthetic pathway. The clinical manifestations are characterized by acute attacks
+of neurological dysfunctions, with abdominal pains,
+hypertension, tachycardia, and peripheral neuropathy
+(Kappas et al. 1989).
+The molecular heterogeneity of the mutations producing AIP was suggested by DNA studies at the PBG
+Received April 26, 1991; final revision received April 24, 1992.
+Address for correspondence and reprints: Bernard Grandchamp,
+Laboratoire de Genetique Moleculaire, Faculte X. Bichat, 16 rue
+H. Huchard, 75018 Paris, France.
+i 1992 by The American Society of Human Genetics. All rights reserved.
+0002-9297/92/5103-0023$02.00
+
+660
+
+deaminase locus, which demonstrated that AIP mutations were associated with different restriction haplotypes (Llewellyn et al. 1987; Lee et al. 1988; Scobie et
+al. 1990). We have previously identified two different
+mutations in exon 1 of the PBG deaminase gene, accounting for a subgroup of AIP families in which the
+expression of the enzymatic defect is restricted to nonerythropoietic cells (Grandchamp et al. 1989b, 1989c).
+Moreover, several phenotypic subtypes at the protein
+level have been described. In the more common forms
+of AIP, in which the PBG deaminase deficiency is present in all cell types, different investigators have documented the existence of two subgroups of patients on
+the basis of measurement of cross-reacting immunological material (CRIM) in erythrocytes, groups referred to as "CRIM-negative" and "CRIM-positive"
+mutations (Desnick et al. 1985; De Rooij et al. 1987).
+Recent studies in our laboratory identified two mutations responsible for CRIM-positive forms of the
+
+Mutations in Exon 10 of PBG Deaminase Gene
+
+disease (Delfau et al. 1990). These single-base substitutions, both located in exon 10 of the PBG deaminase
+gene, accounted for the enzymatic abnormality in six
+of eight patients with this subtype of AIP. In the
+CRIM-negative group, five different mutations were
+described, and each of them was detected in only one
+family (Scobie et al. 1990; Delfau et al. 1991). One of
+these mutations is also located in exon 10. The high
+frequency of mutations in exon 10 of the PBG deaminase gene prompted us to establish the overall frequency of the mutations located in this exon in AIP
+patients. For this purpose, we used denaturing gradient gel electrophoresis (DGGE) as a mean of detecting
+all possible mutations in this exon after in vitro DNA
+amplification (Sheffield et al. 1989).
+Patients and Methods
+Patients
+A total of 41 unrelated patients from The Netherlands were studied. All of them were AIP patients with
+unknown mutations, 10 patients with CRIM-positive
+and 31 with CRIM-negative forms of AIP. The diagnosis was established on the basis of clinical symptoms
+of the disease accompanied by increased urinary excretion of PBG and 5-aminolevulinic acid and by normal
+fecal porphyrin excretion. Diminished activity of PBG
+deaminase was also observed in erythrocytes of these
+patients. CRIM determination was performed according to a method described elsewhere (De Rooij et
+al. 1987; Grandchamp et al. 1989a).
+DNA Amplification
+
+DNA was prepared from peripheral blood leukocyte samples according to the method of Higuchi
+(1989). DNA amplifications were carried out using
+the PCR according to the method of Saiki et al. (1988).
+DNA samples were amplified in 50-gl reaction mixtures containing 200 ng of genomic DNA, 50 mmol
+KCl/liter, 10 mmol Tris pH 8.3/liter, 1.5 mmol
+MgCl2/liter, 0.2 mmol dATP/liter, 0.2 mmol dCTP/
+liter, 0.2 mmol dGTP/liter, 0.2 mmol dTTP/liter, 25
+pmol of each primer, and 1 unit of Taq polymerase
+(Stratagene). The cycling reaction was performed in a
+programmable heating block (DNA thermal reactor;
+Hybaid). The DNA samples were initially denatured
+for 3 min at 95°C, and then, with each cycle consisting
+of 15 s at 95°C, 30 s at 56°C, and 40 s at 72°C,
+the PCR was carried out for 30 cycles. To allow the
+formation of heteroduplexes, the incubation mixture
+
+661
+
+was heated at 95°C for 5 min and was allowed to
+reanneal for 5 min at 72°C after completion of the last
+cycle. Two primers were designed to match a genomic
+sequence in intron 9 for the sense primer (Phi9, 5'CCGACACTGTGGTCCTTAGCAA-3') and in intron 10 for the antisense primer with the addition of
+a 30-base clamp (PhilO clamp, 5'-CGCCCGGCGGCCCTCCCGCGGGCGGCGGGCTGGGGATGACTGTAAGGCAGAA-3'), allowing the amplification of
+a 240-bp segment containing exon 10 of the PBG deaminase gene.
+DGGE
+
+DGGE was performed according to the method of
+Myers et al. (1987). Computer analyses were carried
+out using Melt 87 meltmap programs according to
+the method of Lerman and Silverstein (1987). Each
+amplified sample (15 gl) was mixed with loading
+buffer and electrophoresed in an 8% polyacrylamide
+gel with a linear gradient of 50%-80% denaturant
+(100% denaturant = 7 mol/liter urea/40% formamide) at 150 V for 3 h. The gel was stained in
+ethidium bromide and was photographed under UV
+light with Polaroid film type 667.
+DNA Sequencing
+
+Direct DNA sequencing was carried out after PCR
+amplification, according to a method described by
+Hutman et al. (1989). Primers used for amplification
+were Phi9 and PhilO (without clamp), the former
+primer being biotinylated. After amplification, singlestranded DNA was obtained by mixing 25 pl of PCR
+products with 30 pl of Dynabeads M-280 streptavidin
+(Dynal, Norway), denaturing the DNA with 0.15 mol
+NaOH/liter, and washing twice with water. Sequencing was performed using a sequenase kit (U.S. Biochemical). The sequencing primer was the same as
+the amplification primer (PhilO), and internal labeling
+was obtained with a-35 S-dATP (Amersham).
+Site-directed Mutagenesis
+A normal human cDNA sequence cloned in the plasmid vector PGEM3 (Promega Biotech) was modified
+to introduce the C-to-T mutation at position 499 (see
+Results) by using site-directed mutagenesis. The PCR
+was performed according to a method described by
+Higuchi (1990), except that the thermostable polymerase pfu (Stratagene) was used instead of Taq polymerase. In brief, two partially overlapping fragments
+were synthesized using two sets of primers, one primer
+from each pair targeting the desired sequence to be
+
+Gu et al.
+
+662
+
+changed. The following sets of primers were used:
+PheNco, 5'-ATGTCTGGTAACGGCAATGCGG-3'
+and Phe499AS, 5'-GGTTTCCCCGAATACTCCT-3';
+and Phe499, 5'-AGGAGTATTCGGGGAAACCTCA-3' and Phel 5Hind, 5'-CATCTGTGCCCCACAAACCA-3'. The reaction mixtures contained 1 ng of
+plasmid, 25 pmol of each primer, 0.2 mmol each
+dNTP/liter, and 1 unit of pfu polymerase (Stratagene)
+in 50 1 of 1 x buffer 1 from the manufacturer.
+After an initial denaturation for 3 min at 940C, 30
+cycles of PCR were performed, each cycle consisting
+of 15 s at 950C, 1 min 30 s at 440C, and 1 min 10 s
+at 720 C. The resulting PCR products were gel purified
+on a 3 % Nusieve gel and were mixed in a 1:1 molar
+ratio, and about 5 ng of each fragment was added to
+a reaction mixture of 50 gl containing containing 1 x
+buffer 1 (Statagene), 0.2 mmol each dNTP/liter, and
+1 unit of pfu DNA polymerase. After five cycles, each
+consisting of 15 s at 950C, 1 min at 48°C, and 1 min
+30 s at 72°C, primers PheNco and Phel5Hind were
+added (25 pmol each), and the PCR was allowed to
+process for 25 additional cycles, each consisting of
+15 s at 95°C, 40 s at 55°C, and 1 min 40 s at 72°C.
+Bacterial Expression of PBG Deaminase
+cDNA fragments were phenol extracted and ethanol
+precipitated. The purified fragments were digested
+with NcoI and HindIll, were purified through spundown chromatography using Sephacryl S200, and
+were cloned into the bacterial expression vector PKK
+233-2. The sequence of cloned cDNA was verified,
+and PBG deaminase activity was determined from bacterial cultures according to a method described elsewhere (Delfau et al. 1990). Both separation of normal
+and mutated human PBG deaminase from the enzyme
+from Escherichia coli and western blot analysis were
+performed according to methods described elsewhere
+(Delfau et al. 1990).
+Results
+A rapid screening for the presence of mutations in
+exon 10 of the PBG deaminase gene was performed by
+DNA analysis of 41 unrelated AIP patients from The
+Netherlands by using PCR amplification and subsequent DGGE analysis of the PCR products. The melting map of this fragment is represented on figure 1. Of
+the 41 patients that we studied, 8 gave rise to amplified
+products with an abnormal melting pattern (fig. 2 and
+data not shown). In each case, in addition to a band
+corresponding to the normal fragment, three addi-
+
+inn
+
+95.
+90
+
+85 -
+
+80
+
+-
+
+75 ln
+
+50
+
+0
+
+100
+
+150
+
+200
+
+250
+
+EXON 10
+
+I
+
+I
+
+Figure I Melting map of the amplified fragment containing
+exon 10 of the PBG deaminase gene with a GC-clamp at its 3' end.
+The Tm is plotted as a function of the nucleotide sequence position
+of the DNA fragment. The line shows the temperatures at which
+each base pair is in 50:50 equilibrium between the helical and melted
+configuration.
+
+tional bands were observed, corresponding to a fragment with a mutated sequence and to two heteroduplexes. Three different patterns of migration were
+observed, suggesting that at least three different muta-
+
+11~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.
+
+8
+5
+6
+2 3
+7
+4
+Figure 2 Analysis of exon 10 of the PBG deaminase gene by
+DGGE. Ethidium bromide-stained gels after DGGE of amplified
+fragments from AlP patients (lanes 1-3 and 5-9) heterozygous for
+1
+
+three different mutations in exon 10 and from a normal control
+(lane 4) show mutations 500 (lanes 1, 2, 5, 6, and 9), 518 (lanes
+3 and 8), and 499 (lane 7). The location of the mutations is numbered from the initiating codon in the PBG deaminase mRNA. h=
+Heteroduplexes; and H = homoduplexes.
+
+Mutations in Exon 10 of PBG Deaminase Gene
+tions could be detected. The nature of these mutations
+was determined by direct sequencing of amplified
+products. Two mutations consisted of G-to-A transitions, one at position 500 and one at position 518 of
+the coding sequence of the PBG deaminase mRNA.
+Such mutations had previously been found in other
+patients in our laboratory (Delfau et al. 1990). In the
+present study, six patients had the mutation at position 500, and two had the mutation at position 518.
+A previously undescribed type of mutation was found
+in another patient and consisted of a C-to-T transition
+at position 499 of the open reading frame, resulting in
+an arginine-to-tryptophan amino acid substitution in
+the abnormal protein. The same mutation was also
+detected in two relatives of the patient. In order to
+evaluate the functional consequences of this mutation,
+the base change was introduced into a normal cDNA
+sequence by site-directed mutagenesis, and the mutated cDNA was cloned in the expression plasmid PKK
+233-2. Of 10 clones that we tested, all of them failed
+to express the human enzyme activity, although clones
+containing the normal cDNA overexpressed PBG deaminase activity. After verification of its nucleotide
+sequence, one mutated cDNA clone was further studied. The specific activity of the abnormal enzyme was
+4% of the normal human PBG deaminase activity
+(mean of four independent determinations) when measured at the optimal pH of the normal enzyme (pH 8).
+A western blot analysis of the bacterial proteins by
+using a specific antiserum against PBG deaminase revealed the presence of a stable immunoreactive enzyme (fig. 3). All the patients whom we found with a
+mutation in exon 10 during the present study presented CRIM-positive forms of AIP (table 1), and,
+conversely, only 2 of 10 patients with the same subtype
+of the disease had no abnormality in this exon; in these
+2 patients, the absence of a base change in exon 10
+was confirmed by direct sequencing of PCR products.
+In the CRIM-negative group, none of the patients presented any detectable abnormality in exon 10.
+
+663
+1
+
+2
+
+3
+
+A.
+
+46 KD
+
+30 KD
+21 KD
+
+B.
+
+Figure 3 Electrophoretic analysis of samples containing human PBG deaminse. A, Samples submitted to SDS gel electrophoresis using homogeneous Phastgels 12.5% (Pharmacia, Sweden). The
+gel was silver stained. Lane 1, Molecular-weight markers. Lane
+2, lysate from Escherichia coli cells expressing a normal human
+nonerythroid form of PBG deaminase. Lane 3, Lysate from E. coli
+expressing mutant M499 of the nonerythroid form of PBG deaminase. B, Western blot analysis of PBG deaminase. The samples are
+identical to those in panel A. After migration, the proteins were
+electrophoretically transferred to a nitrocellulose membrane, and
+human PBG deaminase was detected by using specific antibodies.
+The arrowhead indicates the position of PBG deaminase.
+
+Discussion
+
+Previous work has indicated that AIP is a heterogeneous disease at the molecular level and that point
+mutations, rather than large deletions, are likely to
+account for most of the cases (Llewellyn et al. 1987).
+Eleven different mutations have already been identified (Grandchamp et al. 1989a, 1989b, 1989c; Delfau
+et al. 1990, 1991; Scobie et al. 1990). All known
+mutations are readily detectable by hybridization of
+
+PCR-amplified genomic sequences by allele-specific
+oligonucleotides. However, the efficiency of this approach is limited by the extent of the heterogeneity of
+the mutations. For this reason, we used DGGE as an
+alternative approach to detect all possible mutations
+in a defined DNA fragment after PCR amplification
+(Myers et al. 1987; Sheffield et al. 1989). Elsewhere
+we have used this method to detect mutations in exon
+
+664
+
+Gu et al.
+
+Table I
+CRIM Ratios in 10 CRIM-positive AlP Patients with
+Different Mutations in Exon 10 of
+PBG Deaminase
+
+No. of
+Patients
+
+Mutation 499
+Mutation 500
+Mutation 518 ........
+Not detected .2
+Control
+........
+
+........
+
+3
+6
+2
+10
+
+CRIM Ratio
+2.07
+2.89
+1.84
+1.67
+1
+
+±
+±
+and
+and
+
+0.15
+0.90
+1.75
+2
+± 0.15
+
+1 of the PBG deaminase gene (Bourgeois et al. 1992).
+The major advantages of the DGGE approach are its
+simplicity, since neither hybridization nor enzymatic
+digestion is required, and, most important, the possible ability to detect mutations in the domain under
+investigation, mutations which may be different from
+already known mutations. About one-fourth of the
+unrelated patients whom we studied by DGGE yielded
+an abnormal pattern of migration and were shown to
+carry single-base substitutions in exon 10. Two of
+these mutations have already been described (Delfau et
+al. 1990). A third one consisted of a C-to-T transition
+located at position 499 of the PBG deaminase mRNA
+and changed the same codon as did the previously
+described G-to-A transition at position 500. The functional consequences of this base change were further
+investigated by introducing the 499 mutation into a
+normal PBG deaminase cDNA by site-directed mutagenesis and then cloning the mutated cDNA into a
+bacterial expression vector. As previously reported for
+other CRIM-positive mutations (Delfau et al. 1990),
+the abnormal cDNA was able to direct the synthesis
+of an immunodetectable but catalytically inactive protein in the bacterial system. All three mutations reported here were found in patients with CRIMpositive forms of AIP. Only two other patients with
+the same phenotypic subtype of the disease had no
+abnormality of exon 10. CRIM-positive mutations
+have been found in 15%-25% of AIP families (Desnick et al. 1985; De Rooij et al. 1987; present study).
+It is noteworthy that the newly found mutation leads
+to an arginine-to-tryptophan amino acid change in the
+mutated protein, involving the same arginine as does
+the G-to-A transition located at position 500. This
+confirms the importance of this amino acid residue for
+the catalytic activity of the enzyme. This role may
+involve the binding of either PBG or one of the poly-
+
+pyrrole intermediates during the stepwise polymerization of four PBG molecules. It is of interest that this
+arginine is highly conserved between species for which
+sequence data are available, including rat, mouse,
+Escherichia coli, and Euglena gracilis (Thomas and Jordan 1986; Stubnicer et al. 1988; Beaumont et al.
+1989; Sharif et al. 1989). Other lines of evidence suggest that arginine residues may be involved in substrate
+binding in other enzymes of the heme biosynthetic
+pathway (Dailey et al. 1986). Taken together with
+previous results from our laboratory (Delfau et al.
+1990), our data suggest that a large majority of
+CRIM-positive patients (12 of 16 patients) have
+single-base substitution in exon 10 of the PBG deaminase gene, with a higher frequency of the G-to-A transition at position 500 (10 patients). However, since
+the majority of the patients in our studies originated
+from The Netherlands and from France, the frequency
+of these mutations must be evaluated in CRIM-positive patients from different origins. In the CRIMnegative forms of AIP, most of the mutations reported
+so far consist of point mutations resulting in single
+amino acid changes (Delfau et al. 1990, 1991), premature stop codons (Scobie et al. 1990), or splicing defects (Grandchamp et al. 1989a, 1989b, and 1989c).
+Such mutations could potentially be detected by using
+DGGE analysis of PCR products containing different
+exons and exon-intron junctions of the gene. This will
+allow evaluation of the extent of the diversity of the
+mutations responsible for AIP.
+
+Acknowledgments
+This work was supported by INSERM research grant CJF
+8904 and by l'Association Francaise Contre les Myopathies.
+We thank Dr. Lerman for providing us with the program
+MELT87 used to predict the DNA melting profiles of DNA
+
+molecules.
+
+References
+Beaumont C, Porcher C, Picat C, Nordmann Y, Grandchamp B (1989) The mouse porphobilinogen deamiliase
+gene: structural organization, sequence, and transcriptional analysis. J Biol Chem 264:14829-14834
+
+Dailey HA, Fleming JE (1986) The role of arginyl residues
+in porphyrin binding to ferrochelatase. J Biol Chem 261:
+7902-7905
+
+Delfau MH, Picat C, De Rooij FWM, Hamer K, Bogard M,
+Wilson WHP, Deybach JC, et al (1990) Two different
+point mutations G to A in exon 10 of the porphobilinogen
+
+Mutations in Exon 10 of PBG Deaminase Gene
+deaminase gene are responsible for acute intermittent porphyria. J Clin Invest 86:1511-1516
+Delfau MH, Picat C, De Rooij F, Voortman G, Deybach
+JC, Nordmann Y, Grandchamp B (1991) Molecular heterogeneity of acute intermittent porphyria: identification
+of four additional mutations resulting in the CRIMnegative subtype of the disease. AmJ Hum Genet 49:421428
+De Rooij FWM, Hamer CM, Wilson JPH (1987) Heterogeneity in acute intermittent porphyria: biochemical evidence for family related variation in the mutant enzyme
+porphobilinogen deaminase. Proceedings of the International Meeting on Porphyrins and Porphyrias. In: Topi
+GC, D'Alesandro Gandolfo L (eds) Bolletino Dell'instituto Dermatologica S. Gallicano, vol 13. Instituto Dermatologica S. Gallicano, Rome, pp 175-180
+Desnick RJ, Ostasiewicz LT, Tishler PA, Mustajoki P
+(1985) Acute intermittent porphyria: characterization of a
+novel mutation in the structural gene for porphobilinogen
+deaminase. J Clin Invest 76:865-874
+Grandchamp B. Picat C, de Rooij F, Beaumont C, Deybach
+JC, Nordmann Y (1989a) A point mutation G/A in exon
+12 of the PBG deaminase gene results in exon skipping and
+is responsible for acute intermittent porphyria. Nucleic
+Acids Res 17:6637-6649
+Grandchamp B, Picat C, Kaupinen R, Mignotte V, Peltonen
+L, Mustajoki P, Romeo PH, et al (1989b) Molecular analysis of acute intermittent porphyria in a Finnish family
+with normal erythrocyte porphobilinogen deaminase. Eur
+J Clin Invest 19:415-418
+Grandchamp B, Picat C, Mignotte V, Wilson JHP, Te Velde
+K, Sandkuyl L, Romeo PH, et al (1989c) Tissue specific
+splicing mutation in acue intermittent porphyria. Proc
+Natl Acad Sci USA 86:661-664
+Higuchi R (1989) Simple and rapid preparation of samples
+for PCR. In: Erlich HA (ed) PCR technology: principles
+and applications for DNA amplification. Stockton, New
+York, pp 31-38
+(1990) Recombinant PCR. In: Innis MA, Gelfand
+DH, SninskyJJ, White TJ (eds) PCR protocols. Academic
+Press, San Diego, pp 177-183
+Hutman T, Stahl S, Hornes E, Mathias U (1989) Direct
+sequencing of genomic and plasmid DNA using magnetic
+beads as solid support. Nucleic Acids Res 17:4937-4946
+
+665
+Kappas A, Sassa SGalbraith RA, Nordmann Y (1989) The
+porphyrias. In: StanburyJB, WyngaardenJB, Fredrickson
+DS, Goldstein JL, Brown MS (eds) The metabolic basis of
+inherited disease, 6th ed. McGraw-Hill, New York, pp
+1305-1365
+Lee JS, Anvret M, Lindsten J, Lannfelt L, Gellerfors P, Wetterberg L, Floderus Y, et al (1988) DNA polymorphisms
+within the porphobilinogen deaminase gene in two Swedish families with acute intermittent porphyria. Hum Genet
+79:379-381
+Lerman LS, Silverstein K (1987) Computational simulation
+of DNA melting and its application to denaturing gradient
+gel electrophoresis. Methods Enzymol 155:482-501
+Llewellyn DH, Elder GH, Kalsheker NA, Marsh OW, Harrisson PR, Grandchamp B, Picat C, et al (1987) DNA
+polymorphism of human porphobilinogen deaminase
+gene in acute intermittent porphyria. Lancet 2:706-708
+Myers RM, Maniatis T, Lerman LS (1987) Detection and
+localisation of single base changes by denaturing gradient
+gel electrophoresis. Methods Enzymol 155:501-527
+Saiki KR, Gelfand DH, Stoffel S, Scharf SJ, Higuchi R, Horn
+GT, Mullis KB, et al (1988) Primer-directed enzymatic
+amplification of DNA with a thermostable DNA polymerase. Science 239:487-491
+Scobie GA, Llewellyn DH, Urquhart AJ, Smyth SJ, Kalsheker NA, Harrison PR (1990) Acute intermittent porphyria caused by a C to T mutation that produces a stop
+codon in the porphobilinogen deaminase gene. Hum
+Genet 85:631-634
+Sharif AL, Smith AG, Abell C (1989) Isolation and characterization of a cDNA clone for a chlorophyll synthesis
+enzyme in Euglena gracilis. Eur J Biochem 184:353-359
+Sheffield VC, Cox DR, Lerman LS, Myers RM (1989) Attachment of a 40-base-pair G + C rich sequence (GCclamp) to genomic DNA by the polymerase chain reaction
+results in improved detection of single-base changes. Proc
+Natl Acad Sci USA 86:232-236
+Stubnicer AC, Picat C, and Grandchamp B (1988) Rat porphobilinogen deaminase cDNA: nucleotide sequence of
+the erythropoietic form. Nucleic Acids Res 16:3102
+Thomas SD, Jordan P (1986) Nucleotide sequence of the
+hemC locus encoding porphobilinogen deaminase of E.
+coli K 12. Nucleic Acids Res 14:6215-6226
+
+

@@ -1,0 +1,540 @@
+Am. J. Hum. Genet. 43:182-187, 1988
+
+A DNA Test for Indiana/Swiss Hereditary Amyloidosis (FAP 11)
+Margaret R. Wallace,* P. Michael Conneally,* and Merrill D. Benson* tjt
+Departments of *Medical Genetics and tMedicine, Indiana University School of Medicine; and tRichard L. Roudebush Veterans'
+Administration Medical Center, Indianapolis
+
+Summary
+Autosomal dominant amyloidosis of the Indiana/Swiss type is a late-onset disorder characterized by carpal
+tunnel syndrome, progressive peripheral neuropathy, vitreous deposits, and cardiomyopathy. This disorder
+was originally described in a large Indiana family of Swiss descent and is also known as familial amyloidotic polyneuropathy (FAP) type II. In the Indiana family, the genetic basis of the disease is a variant of
+plasma prealbumin (transthyretin), which has a serine-for-isoleucine substitution at amino acid 84 of the
+127-residue prealbumin molecule. We predicted that the corresponding mutation in the prealbumin gene
+consisted of a T-to-G change in codon 84 (which created an AlMI recognition site) and then demonstrated
+the extra Alul site in the DNA of patients by Southern blot analysis with a genomic prealbumin probe.
+This verifies the protein findings at the DNA level and provides a direct, reliable DNA test for the Ser-84
+prealbumin gene associated with Indiana/Swiss hereditary amyloidosis.
+Introduction
+
+All amyloidosis syndromes are characterized by the
+extracellular deposition of fibrillar, proteinaceous
+material called amyloid (Cohen and Connors 1987).
+As these deposits accumulate they interfere with the
+functioning of surrounding tissues, resulting in illness. Many clinically distinct forms of autosomal
+dominant systemic amyloidosis have been reported
+throughout the world, with all sharing adult onset as
+a common feature (Andrade et al. 1970). Peripheral
+neuropathy is also a finding in most of the hereditary
+forms, which accounts for the disease's alternate
+name, "familial amyloidotic polyneuropathy" (FAP).
+The most widespread form, FAP I, has been reported
+in families of Portuguese, Swedish, Japanese, Greek,
+and English descent (Andrade 1952; Araki et al.
+1968; Andersson 1970; Benson and Cohen 1977;
+Kincaid et al. 1984; Saraiva et al. 1986). Other FAP
+kindreds with somewhat different syndromes have
+Received January 25, 1988; revision received March 14, 1988.
+Address for correspondence and reprints: Merrill D. Benson,
+M.D., Chief of Rheumatology, A772, Richard L. Roudebush
+V. A. M. C., 1481 West Tenth Street, Indianapolis, IN 46202.
+© 1988 by The American Society of Human Genetics. All rights reserved.
+0002-9297/88/4302-0012$02.00
+
+182
+
+been identified in a number of regions, including
+Iowa, Maryland, Illinois, France, Denmark, Israel,
+Finland, and the Appalachian U.S. (Frederiksen et al.
+1962; Mahloudji et al. 1969; Van Allen et al. 1969;
+Meretoja 1973; Julien et al. 1983; Gafni et al. 1985;
+Benson et al. 1987; Wallace et al. 1988).
+The subject of the present study is an Indiana family of Swiss descent with arn amyloidosis syndrome
+that has been labeled FAP II. In this family, clinical
+findings (beginning between the ages of 30 and 50
+years) include carpal tunnel syndrome, peripheral
+neuropathy, vitreous opacities, gastrointestinal dysfunction, and cardiomyopathy (Rukavina et al.
+1956). Most patients die 10-20 years after disease
+onset, owing to heart failure or associated complications.
+
+Recently, several single-amino-acid variants of prealbumin (a plasma transport protein produced in
+liver and choroid plexus) have been identified as the
+major amyloid subunit proteins in patients with autosomal dominant amyloidosis (see table 1). Prealbumin circulates as a tetramer composed of four identical subunits, each a beta-structured molecule
+containing 127 amino acids (Blake et al. 1978). The
+tetramer's two known functions are the binding and
+
+DNA Test for Hereditary Amyloidosis
+
+183
+
+Table I
+DNA Tests for Prealbumin Variants in Hereditary Amyloidosis
+
+Variant
+
+Clinical
+Syndrome
+
+Methionine 30 ..............
+FAP I
+Isoleucine 33 ...............
+Jewish
+Alanine 60 ................. Appalachian
+Tyrosine 77 ................ Illinois/German
+Serine 84 ...................
+FAP II
+Methionine 111 .............
+Danish
+
+Restriction
+Enzyme
+Nsil or Ball
+BclI
+PvuII
+SspI
+AluI
+
+Ddeja
+
+Probe
+cDNA
+cDNA
+cDNA
+Genomic
+Genomic
+?
+
+aTheoretical.
+
+transport of thyroxine and retinol binding protein
+(RBP) (Robbins et al. 1978). The human prealbumin
+gene encodes the 127-residue subunit and has a
+unique locus on the long arm of chromosome 18
+(Wallace et al. 1985; Sparkes et al. 1987). The
+finding of prealbumin variants in families with hereditary amyloidosis has led to the hypothesis that the
+disease is caused by the gradual destruction of normal tissue by amyloid formed from the variant prealbumin molecules. Thus, the prealbumin gene is considered to be the hereditary amyloidosis gene in these
+kindreds, with the disease genes differing from normal only by the mutations that encode the amino acid
+substitutions (Shimada et al. 1986).
+Four DNA mutations deduced from identified protein substitutions have been verified by Southern blot
+analysis, by virtue of the fact that these mutations
+create specific restriction-enzyme sites (Sasaki et al.
+1984; Wallace et al. 1986, 1988; Jacobson et al.
+1987). Since hereditary amyloidosis has adult onset,
+direct DNA tests are of great importance in providing preclinical detection of gene carriers.
+The prealbumin variant (Ser-84) in the Indiana
+family contains a serine at position 84 in place of the
+normal isoleucine (Dwulet and Benson 1986). We
+report both development of a DNA test for the Ser84 mutation and application of this test in the Indiana family.
+Material and Methods
+
+High-molecular-weight genomic DNA was extracted from venous blood leukocytes by the method
+of Madisen et al. (1987). For two affected members
+of the Indiana family who died before this study,
+DNA was extracted from frozen tissues (liver and
+spleen) according to a method described by Kunkel et
+al. (1977).
+
+Southern blot analyses were performed as follows:
+Ten-microgram genomic DNA samples were digested to completion with AluI (Bethesda Research
+Laboratories) and subjected to horizontal electrophoresis in a 1.5% agarose gel. The DNA was denatured and transferred to nitrocellulose (Southern
+1975). After transfer the nitrocellulose filter was
+baked and prehybridized for 4 h at 65 C in the following solution: 6 x SSC (0.9 M NaCI and 0.09 M
+Na citrate, pH 7.0), 2% SDS, 1 x Denhardt's solution (0.02% ficoll, 0.02% polyvinylpyrrolidone,
+0.02% BSA fraction V), and 100 ,g sheared salmonsperm DNA/ml. A genomic probe was isolated from
+a 4.7-kb/HindIII prealbumin gene insert in lambda
+Ch21A by cleaving the insert with SphI. This gave a
+775-bp SphIIHindIII fragment which includes the 3'
+end of exon 3 and part of intron 3. The 775-bp prealbumin genomic probe fragment (Wallace et al. 1987)
+was radiolabeled by the random-primer method
+(Feinberg and Vogelstein 1983) and the probe (105
+cpm/ng) was hybridized to filters for 48 h at 65 C in
+fresh prehybridization solution (probe concentration
+20 ng/ml). The filter was washed and autoradiographed, with the final wash (65 C) containing 0.2 x
+SSC and 1% SDS.
+Results
+On the basis of the prealbumin gene sequence
+
+(Sasaki et al. 1985), the DNA mutation corresponding to the Ser-84 protein substitution was predicted to be a T-to-G change in codon 84 (fig. 1). This
+mutation creates an AluI recognition site, shown
+underlined in figure 1, and therefore presents a
+method for direct detection of the Ser-84 mutation
+from patient DNA by Southern blot analysis.
+Figure 2 shows a schematic map of the prealbumin
+gene and the region involved in the mutation. Codon
+
+184
+
+Wallace et al.
+
+amino acids:
+normal gene:
+
+83
+Gl y
+GGC
+
+84
+I le
+ATC
+
+85
+Ser
+TCC
+
+Ser-84 gene:
+
+GGC
+
+AC
+Ser
+
+TCC
+
+Figure I
+Predicted DNA mutation and corresponding AMuI
+site in Ser-84 prealbumin gene. The normal and variant gene sequences of the codon 84 region are given. The only single nucleotide difference that would result in a serine at position 84 in the
+protein is a T-to-G change in the second base of codon 84 (indicated by arrow). The palindromic AMuI site, coincidentally created
+by the mutation, is underlined.
+
+84 is at the 3' end of exon 3. Initial Southern analyses
+using a full-length prealbumin cDNA probe failed to
+show a difference between Alul-digested DNA from
+normals and that from affected individuals (data not
+shown). Therefore, a 775-bp prealbumin genomic
+fragment (fig. 2) which was expected to detect an
+880-bp fragment from the normal prealbumin gene
+and a 790-bp fragment from the variant Ser-84 gene
+was chosen as probe. Southern analysis with the
+genomic probe successfully identified the additional
+AluI site and thus the mutation. Lanes 1, 2, and 5-7
+in figure 3 contain Alul-digested DNA from Indiana
+
+Figure 3
+Autoradiograph of DNAs tested for the Ser-84
+prealbumin gene. Lanes 1, 2, and 5-7 show both the normal (880bp) and variant (790-bp) fragments for five individuals with the
+Ser-84 mutation. Three normal individuals (lanes, 3, 4, and 8) have
+only one band.
+
+5Ia
+
+0-I
+
+H._I
+h
+w
+r
+
+H
+
+3
+
+2
+
+-
+
+A
+
+4
+
+AH
+
+[Al
+775
+
+NORMAL
+
+880
+
+SER-84
+
+790
+
+probe
+
+Figure 2
+Schema of prealbumin gene, derived 775-bp probe,
+and DNA fragments from normal and Ser-84 prealbumin genes
+detected by the probe. The units for fragment sizes are nucleotide
+base pairs (e.g., 880 bp). The open boxes represent Alu sequences.
+Shaded boxes indicate exons 1-4. S = SphI site; H = HindIII site;
+A = AluM site. [A] indicates the AluI site created by the Ser-84
+mutation. The probe detects a constant 880-base fragment in the
+normal gene and a 790-base fragment in the Ser-84 variant gene.
+
+amyloidosis patients and show both the normal (880bp) and variant (790-bp) fragments. Lanes 3,4, and 8
+contain DNA from nonaffected individuals and show
+only the normal fragment, as expected. The results
+also show that the patients are heterozygous for the
+Ser-84 mutation, a finding that is consistent with an
+autosomal dominant disease.
+A total of 50 Indiana family members were tested
+for the Ser-84 gene. All nine clinically affected individuals in the study showed the Ser-84 gene while
+eight spouses (negative controls) showed only the
+normal pattern. Thirteen of 24 at-risk individuals
+under the age of 40 years (all of whom were asymptomatic) had positive Ser-84 DNA tests. Nine additional at-risk members over age 40 years had normal
+DNA tests. All Ser-84 gene carriers were heterozygous for the mutation. These DNA results agree completely with prealbumin protein analysis of a number
+of family members, affected and at risk, with the Ser84 gene found only in those individuals in whom the
+Ser-84 protein had been identified (Dwulet and Benson 1986).
+A 1983 study of the Indiana family found that all
+patients and approximately one-half of at-risk relatives had significantly low serum RBP levels, and it
+was suggested that a low RBP level might be indicative of the FAP II gene (Benson and Dwulet 1983).
+When DNA results were compared with RBP levels
+in Indiana family members, the Ser-84 gene was
+found only in those 21 individuals having decreased
+RBP levels, with one exception: one showed the Ser84 gene but had a normal RBP level; however, this
+person also had renal failure (serum creatinine 4.0
+mg/dl), which can result in elevated RBP levels.
+
+DNA Test for Hereditary Amyloidosis
+Discussion
+
+Since 1983 a total of five prt.albumin variants other
+than Ser-84 have beej2 identified, all in association
+with hereditary amyloidosis. These variants and corresponding syndromes are listed in table 1. The variant found in FAP I has a methionine in place of valine
+at position 30 (Met-30) (Dwulet and Benson 1983).
+The Met-30 variant is most commonly associated
+with an amyloidosis syndrome that includes lowerlimb neuropathy, autonomic dysfunction, and renal
+failure. Two other variants have also been found in
+families with similar symptoms. These are the Ile-33
+variant, found in one Israeli family (Nakazato et al.
+1984), and the Tyr-77 variant, which was identified
+in one American/German family (Wallace et al.
+1988). In addition to its identification in a large Appalachian kindred (Wallace et al. 1986; Benson et al.
+1987), the Ala-60 variant has been found in several
+other U.S. families with hereditary amyloidosis (unpublished data). The syndrome in the Ala-60 families
+features severe cardiomyopathy with mild peripheral
+and autonomic neuropathy, and it generally has very
+late onset (50s or 60s or later). The Danish hereditary
+amyloidosis also features severe cardiac involvement
+(Frederiksen et al. 1962), and initial reports indicate
+that the variant has a methionine at position 111
+(Met-111) (Husby and Sletten 1986; K. Sletten, personal communication). In addition to these, a number of kindreds remain to be characterized at the
+biochemical or DNA level, and some of these families
+have syndromes that are unique. It is apparent that
+many substitutions in the prealbumin molecule can
+cause the subunit to be amyloidogenic. However, the
+mechanisms behind the late onset or the specificity of
+the amyloid for certain tissues are unknown. A fair
+amount of clinical variation is seen between and even
+among prealbumin variants, which indicates that
+other factors are contributing to the expression of the
+disease.
+The DNA patterns in the Indiana family agree perfectly with the predicted Ser-84 gene mutation and
+the prealbumin gene map. The variant 790-bp fragment results from the additional AluI site in the normal 880-bp fragment that is created by the Ser-84
+mutation. This verifies the protein findings and provides a method for detection of Ser-84 gene carriers.
+The Ser-84 DNA test is the fifth such test for hereditary amyloidosis genes. Of the variants described
+above, the Met-30, Ile-33, Ala-60, and Tyr-77 genes
+can also be directly identified by straightforward
+
+185
+
+Southern analysis using specific restriction enzymes,
+which are listed in table 1.
+However, the Tyr-77 and Ser-84 DNA tests have
+the additional requirement for genomic rather than
+cDNA probes. In the Ser-84 case, as is evident from
+figure 2, the cDNA is unable to hybridize to the 790bp fragment (under normal conditions) because it
+contains only 25 bp of exon 3 sequence. Our initial
+Southern analyses using the cDNA probe showed a
+reduction in the intensity of the 880-bp band in gene
+carriers, as expected, but the 790-bp fragment was
+never evident, possibly being masked by comigrating
+prealbumin sequences. Thus, we chose to develop the
+test using the genomic probe to avoid those problems
+and make interpretation clear. The choice of genomic
+probe was limited by the need to avoid detection of
+comigrating sequences and also by the close proximity of an Alu highy repetitive DNA sequence to
+exon 3.
+In addition to AMuI, three other enzymes theoretically could have been used to detect the Ser-84 gene
+in a Southern analysis. The T-to-G mutation creates
+sites for BbvI and Fnu4HI while eliminating an SfaNI
+
+site. However BbvI and SfaNI were considered to be
+prohibitively expensive, while Fnu4HI is impractical
+because it cuts several times within exon 3, with the
+fragments of interest thus being too small to resolve
+and detect with the standard Southern analysis procedure. Fortunately, the AluI fragments are of reasonable size and the variant fragment can be easily
+separated from the normal one in a short 1.5% agarose gel.
+The DNA results were used to test the 1983 hypothesis that a low serum RBP level is a marker for
+the FAP II gene (Benson and Dwulet 1983). When
+compared with RBP concentrations for individuals in
+the Indiana family, there was almost perfect correlation between a positive Ser-84 DNA test and low
+RBP level. The only exception was one amyloidosis
+patient. However, we feel that this normal rather
+than low RBP level is due to his renal failure, since
+free RBP (not bound to prealbumin) is excreted by
+functioning kidneys. Thus, the DNA results show the
+direct relationship between the mutant protein and
+low RBP levels.
+Consistent with this finding is the preliminary evidence that the Ser-84 prealbumin has a greatly reduced affinity for RBP (Helvie et al. 1986). On the
+basis of the data from the DNA tests, it appears that
+a low RBP level can be considered to be an accurate
+indicator of the Ser-84 (FAP II) gene, excluding con-
+
+Wallace et al.
+
+186
+
+ditions such as renal failure which might lead to falsenegative or positive results. This plasma protein test
+is, of course, only applicable to adults and not to
+prenatal diagnosis.
+Although as yet unknown secondary factors play
+a role in modifying expression of hereditary amyloidosis, the development of DNA tests for the primary factors (the prealbumin variants) is an important step in defining the incidence and diversity of the
+hereditary amyloidoses. DNA testing is also important for genetic counseling by offering a means of
+carrier detection that is direct and accurate. While
+carrier detection can be accomplished by protein
+chemistry (using prealbumin purified from plasma),
+only DNA testing is applicable to prenatal diagnosis.
+The Ser-84 gene test is one of five direct DNA tests
+for hereditary amyloidosis, with all five tests being
+based on the presence of mutations that create restriction-enzyme recognition sites. This may not be
+possible for prealbumin variants that have not yet
+been characterized. Theoretically the mutation predicted for the Met-111 variant deletes a DdeI site in
+exon 4, but it is possible that technical difficulties
+may be encountered that render such a test impossible. In such cases, or when a mutation fails to create
+or delete an enzyme site, it may be possible to develop
+a DNA test using an oligonucleotide probe, as has
+been done for other disorders such as beta thalassemia (Orkin et al. 1983).
+It seems likely that additional prealbumin variants
+will be found that are associated with hereditary
+amyloidosis, and it is possible that prealbumin alleles
+may also exist that are not associated with amyloid
+formation. DNA testing will be valuable in categorizing new amyloidosis families, in establishing connections between families, and also as a tool for genetic
+counseling.
+
+Acknowledgments
+We wish to thank Dr. Francis Dwulet for characterization of plasma prealbumin samples. This work was supported by Veterans Administration Medical Research grant
+MRIS 583-0888 and U. S. Public Health Service grant RR00750 (GCRC); National Institute of Arthritis, Diabetes
+and Digestive and Kidney Diseases grants AM 20582, AM
+7448, and AM 35482; the Arthritis Foundation; the Grace
+M. Showalter Trust; the Marion E. Jacobson Fund; Sigma
+Xi; and the National Science Foundation. M.R.W. is the
+recipient of an American Fellowship from the American
+Association of University Women and of a John H. Ed-
+
+wards Fellowship from Indiana University.
+
+References
+Andersson, R. 1970. Hereditary amyloidosis with polyneuropathy. Acta Med. Scand. 188:85-94.
+Andrade, C. 1952. A peculiar form of peripheral neuropathy. Brain 75:408-426.
+Andrade, C., S. Araki, W. D. Block, A. S. Cohen, C. E.
+Jackson, Y. Kuroiwa, V. A. McKusick, J. Nissim, E.
+Sohar, and M. W. Van Allen. 1970. Hereditary amyloidosis. Arthritis Rheum. 13:902-915.
+Araki, S., S. Mawatari, M. Ohta, A. Nakajima, and Y.
+Kuroiwa. 1968. Polyneuritic amyloidosis in a Japanese
+family. Arch. Neurol. 18:593-602.
+Benson, M. D., and A. S. Cohen. 1977. Generalized amyloid in a family of Swedish origin. Ann. Intern. Med.
+86:419-424.
+Benson, M. D., and F. E. Dwulet. 1983. Prealbumin and
+retinol binding protein serum concentrations in the Indiana type hereditary amyloidosis. Arthritis Rheum.
+26:1493-1498.
+Benson, M. D., M. R. Wallace, E. Tejada, H. Baumann,
+and B. Page. 1987. Hereditary amyloidosis: description
+of a new American kindred with late onset cardiomyopathy. Arthritis Rheum. 30:195-200.
+Blake, C. C. F., M. J. Geisow, and S. J. Oatley. 1978.
+Structure of prealbumin: secondary, tertiary, and quaternary interactions determined by fourier refinement at 1.8
+angstroms. J. Med. Biol. 121:339-356.
+Cohen, A. S., and L. H. Connors. 1987. The pathogenesis
+and biochemistry of amyloidosis. J. Pathol. 151:1-10.
+Dwulet, F. E., and M. D. Benson. 1983. Polymorphism of
+human plasma thyroxine binding prealbumin. Biochem.
+Biophys. Res. Commun. 114:657-662.
+.1986. Characterization of a transthyretin (prealbumin) variant associated with familial amyloidotic polyneuropathy type II (Indiana/Swiss). J. Clin. Invest.
+78:880-886.
+Feinberg, A. P., and B. Vogelstein. 1983. A technique for
+radiolabelling DNA restriction endonuclease fragments
+to high specific activity. Anal. Biochem. 132:6-13.
+Frederiksen, T., H. Gotzsche, N. Harboe, W. Kiaer, and K.
+Mellemgaard. 1962. Familial primary amyloidosis with
+severe amyloid heart disease. Am. J. Med. 33:328-348.
+Gafni, J., B. Fischel, R. Reif, M. Yaron, and M. Pras. 1985.
+Amyloidotic polyneuropathy in a Jewish family: evidence for the genetic heterogeneity of the lower limb
+familial amyloidotic neuropathies. Q. J. Med. 55:33-43.
+Helvie, J., M. D. Benson, and F. E. Dwulet. 1986. Abnormal binding of retinol binding protein to plasma prealbumin in familial amyloidotic polyneuropathy type II. Clin.
+Res. 34:704A.
+Husby, G., and K. Sletten. 1986. Chemical and clinical
+classification of amyloidosis 1985. Scand. J. Immunol.
+23:253-265.
+
+Jacobson, D. R., F. Santiago-Schwarz, C. J. Rosenthal, and
+J. Buxbaum. 1987. Identification of new restriction frag-
+
+DNA Test for Hereditary Amyloidosis
+ment length polymorphisms associated with familial
+amyloidotic polyneuropathy. Clin. Res. 35:594A.
+Julien, J., C. Vital, J. M. Vallat, A. Lagueny, and X. Ferrer.
+1983. Neuropathies amyloides familiales dans trois
+familles d'origine franqaise. Rev. Neurol. 139:259-267.
+Kincaid, J. C., M. D. Benson, F. E. Dwulet, P. R. Greipp,
+and R. L. Lautzenheiser. 1984. A new family with hereditary amyloidosis. Clin. Res. 32:821A.
+Kunkel, L. M., K. D. Smith, S. H. Boyer, D. S. Borgaonkar,
+S. S. Wachtel, 0. J. Miller, W. R. Breg, H. W. Jones, and
+J. M. Rary. 1977. Analysis of human Y chromosome
+specific reiterated DNA in chromosome variants. Proc.
+Natl. Acad. Sci. USA 74:1245-1249.
+Madisen, L., D. I. Hoar, C. D. Holroyd, M. Crisp, and
+M. E. Hodes. 1987. DNA banking: the effects of storage
+of blood and isolated DNA on the integrity of DNA.
+Am. J. Med. Genet. 27:379-390.
+Mahloudji, M., R. D. Teasdall, J. J. Adamkiewicz, W. H.
+Hartmann, P. A. Lambird, and V. A. McKusick. 1969.
+The genetic amyloidoses: with particular reference to hereditary neuropathic amyloidosis type II (Indiana or
+Rukavina type). Medicine 48:1-37.
+Meretoja, J. 1973. Genetic aspects of familial amyloidosis
+with corneal lattice dystrophy and cranial neuropathy.
+Clin. Genet. 4:173-185.
+Nakazato, M., K. Kangawa, N. Minamino, S. Tawara, H.
+Matsuo, and S. Araki. 1984. Revised analysis of amino
+acid replacement in a prealbumin variant (SKO-III) associated with familial amyloidotic polyneuropathy of Jewish origin. Biochem. Biophys. Res. Commun. 123:921928.
+Orkin, S. H., A. F. Markham, and H. H. Kazazian. 1983.
+Direct detection of the common Mediterranean betathalassemia gene with synthetic DNA probes. J. Clin.
+Invest. 71:775-779.
+Robbins, J., S.-Y. Cheng, M. C. Gershengorn, D. Glinoer,
+H. J. Cahnmann, and H. Edelnoch. 1978. Thyroxine
+transport proteins of plasma: molecular properties and
+biosynthesis. Recent Prog. Horm. Res. 34:477-519.
+Rukavina, J. G., W. D. Block, C. E. Jackson, H. F. Falls,
+J. H. Carey, and A. C. Curtis. 1956. Primary systemic
+amyloidosis: a review and an experimental, genetic and
+clinical study of 29 cases with particular emphasis on the
+familial form. Medicine 35:239-334.
+
+187
+Saraiva, M. J. M., W. Sherman, and D. S. Goodman. 1986.
+Presence of a plasma transthyretin (prealbumin) variant
+in familial amyloidotic polyneuropathy in a kindred of
+Greek origin. J. Lab. Clin. Med. 108:17-22.
+Sasaki, H., Y. Sakaki, H. Matsuo, I. Goto, Y. Kuroiwa, I.
+Sahashi, A. Takahashi, T. Shinoda, T. Isobe, and Y.
+Takagi. 1984. Diagnosis of familial amyloidotic polyneuropathy by recombinant DNA techniques. Biochem.
+Biophys. Res. Comm. 125:636-642.
+Sasaki, H., N. Yoshioka, Y. Takagi, and Y. Sakaki. 1985.
+Structure of the chromosomal gene for human serum
+prealbumin. Gene 37:191-197.
+Shimada, K., S. Maeda, and S. Araki. 1986. Genetic basis
+for familial amyloidotic polyneuropathy. Bioessays
+4:208-212.
+Southern, E. M. 1975. Detection of specific sequences
+among DNA fragments separated by gel electrophoresis.
+J. Mol. Biol. 98:503-517.
+Sparkes, R. S., H. Sasaki, T. Mohandas, K. Yoshioka, I.
+Klisak, Y. Sakaki, C. Heinzmann, and M. I. Simon.
+1987. Assignment of the prealbumin (PALB) gene (familial amyloidotic polyneuropathy) to human chromosome region 18q11.2-q12.1. Hum. Genet. 75:151-154.
+Van Allen, M. W., J. A. Frohlich, and J. R. Davis. 1969.
+Inherited predisposition to generalized amyloidosis.
+Neurology 19:10-25.
+Wallace, M. R., F. E. Dwulet, P. M. Conneally, and M. D.
+Benson. 1986. Biochemical and molecular genetic characterization of a new variant prealbumin associated with
+hereditary amyloidosis. J. Clin. Invest. 78:6-12.
+. 1987. A direct DNA test for Indiana/Swiss hereditary amyloidosis (FAP type II) (prealbumin variant Ser84). Clin. Res. 35:419A.
+Wallace, M. R., F. E. Dwulet, E. C. Williams, P. M. Conneally, and M. D. Benson. 1988. Identification of a new
+hereditary amyloidosis prealbumin variant, Tyr-77, and
+detection of the gene by DNA analysis. J. Clin. Invest.
+81:189-193.
+Wallace, M. R., S. L. Naylor, B. Kluve-Beckerman, G. L.
+Long, L. McDonald, T. B. Shows, and M. D. Benson.
+1985. Localization of the human prealbumin gene to
+chromosome 18. Biochem. Biophys. Res. Commun. 129:
+753-758.
+
+

@@ -1,0 +1,2501 @@
+Cell, Vol. 66, 219-232,
+
+July 26, 1991, Copyright
+
+0 1991 by Cell Press
+
+DNA Duplication Associated with
+Charcot-Marie-Tooth
+Disease Type 1A
+James R. Lupski,*tO Roberto Montes de Oca-Luna,*
+Susan Slaugenhaupt,t
+Liu Pentao, * Vito Guzzetta,
+Barbara J. Trask,§ Odila Saucedo-Carclenas,
+*
+David F. Barker& James M. Killian,#
+Carlos A. Garcia,* * Aravinda Chakravarti,t
+and Pragna I. Patel*O
+*Institute for Molecular Genetics
+OHuman Genome Center
+tDepartment of Pediatrics
+#Department of Neurology
+Baylor College of Medicine
+Houston, Texas 77030
+*Departments of Human Genetics and Psychiatry
+University of Pittsburgh
+Pittsburgh, Pennsylvania 15261
+§Biomedical Sciences Division
+Lawrence Livermore National Laboratories
+Livermore, California 94550
+[IDepartment of Medical lnformatics
+University of Utah School of Medicine
+Salt Lake City, Utah 84130
+**Departments
+of Neurology and Pathology
+Louisiana State University
+New Orleans, Louisiana 70112
+
+l
+
+Summary
+Charcot-Marie-Tooth
+disease type 1A (CMTi A) was
+localized by genetic mapping to a 3 CM interval on human chromosome
+17~. DNA markers within this interval revealed a duplication that is completely linked and
+associated with CMTl A. The duplication
+was demonstrated in affected individuals
+by the presence of three
+alleles at a highly polymorphic
+locus, by dosage differences at RFLP alleles, and by two-color fluorescence
+in situ hybridization.
+Pulsed-field
+gel electrophoresis
+of genomic DNA from patients of different ethnic origins showed a novel Sacll fragment of 500 kb associated
+with CMTlA. A severely affected CMTIA offspring
+from a mating between two affected individuals
+was
+demonstrated
+to have this duplication
+present on each
+chromosome
+17. We have demonstrated
+that failure to
+recognize the molecular duplication
+can lead to misinterpretation
+of marker genotypes for affected individuals, identification
+of false recombinant!%
+and incorrect
+localization
+of the disease locus.
+Introduction
+Charcot-Marie-Tooth
+disease (CMT) is an inherited peripheral neuropathy in humans with involvement of both
+the motor and sensory nerves (Charcot and Marie, 1886;
+Lupski et al., 1991) and a prevalence rate of 1 in 2500
+(Skre, 1974). Most families demonstrate autosomal dominant Mendelian segregation, although autosomal recessive and X-linked forms of the disease have been reported
+(McKusick, 1990). The most common form of the disease,
+
+CMT type 1 (CMTl), is characterized by distal muscle atrophy, decreased nerve conduction velocities (NCV), and
+a hypertrophic neuropathyon nerve biopsy. CMTl is inherited as an autosomal dominant disease, the clinical expression of which is age dependent and the penetrance
+of which is nearly complete (Bird and Kraft, 1978). The
+average age at onset of clinical symptoms is 12.2 + 7.3
+years. Recent studies provide convincing evidence that
+abnormal NCV (<40 m/s) is highly diagnostic of CMTl and
+is a 100% penetrant phenotype that is essentially independent of age (Lupski et al., 1991).
+CMTl displays marked clinical variability both within
+and between families, suggesting genetic heterogeneity.
+Since the molecular basis of this disorder is unknown,
+linkage studies are indispensable for mapping the gene(s)
+responsible for CMTl and to ascertain whether multiple
+genes, multiple alleles, or both lead to the clinical variation
+in symptoms. Genetic linkage studies in large pedigrees
+(see Lupski et al., 1991, for review) suggest the existence
+of at least three distinct loci causing CMTl: the CMTlA
+locus maps to human chromosome 17 (region pl I-~12)
+(Vance et al., 1989; Raeymakers et al., 1989; MiddletonPrice et al., 1990; Timmerman et al., 1990; McAlpine et
+al., 1990; Chance et al., 1990; Pate1 et al., 1990a, 1990b;
+Vance et al., 1991); the CMTlB locus maps to human
+chromosome 1 (region q23-q25) (Bird et al., 1982); and a
+third type is unlinked to both the CMTlA and CMTIB loci
+(Chance et al., 1990).
+These studies provide the basis for isolating the disease
+gene(s) by virtue of map position. Positional cloning experiments can be aided by the existence of patients with specific chromosomal
+DNA rearrangements.
+However, no
+chromosomal anomaly, indicative of genomic DNA rearrangement, has been described in CMTlA patients. We
+have now identified a DNA duplication in CMTlA. By a
+series of molecular and genetic methods, we demonstrate
+complete linkage and association of this duplication in
+seven multigenerational
+CMTlA pedigrees and in several
+isolated, unrelated patients. The DNA duplication is transmitted to affected offspring without recombination, but failure to recognize this duplication leads to incorrect interpretation of the marker genotypes of affected individuals and
+an incorrect localization of the disease gene. The discoveryof this DNA rearrangement is an important step toward
+the identification of the gene(s) involved by positional cloning and has implications for disease diagnosis in individuals without a firm family history. Our findings implicate a
+local DNA duplication, a segmental trisomy, as a novel
+mechanism for an autosomal dominant human disease.
+Results
+RFLP and Family Studies
+Seven large families segregating
+autosomal dominant
+CMTI , as evidenced by vertical male-to-male transmission, were identified. Six of these families, HOUl (Pate1 et
+al., 199Oa), HOU2, HOU42 (Pate1 et al., 1990b), HOU85,
+
+Cdl
+220
+
+v-
+
+HOUI
+
+ABE CE ABE
+
+ATE
+A’B’CAiD Ah
+
+AB
+tl (21)
+II? AB
+21 ABE
+26 ABC
+21 ABC
+19
+ABD
+
+(JI)
+3,
+38
+1~ ABG ABF
+ABG
+
+HOU76
+
+h
+
+I
+0
+
+CD
+
+352 351
+BCE BC
+
+a
+
+A
+
+CE
+
+CE BE
+
+215 116
+EE CC
+
+HOU42
+
+121 223
+
+CG AEG ACE DE
+
+AEF
+
+AE AE BCD CC CD CD
+
+Figure
+
+1. (GT).
+
+Genotypes
+
+at the D17S122
+
+Locus
+
+for Kindreds
+
+CD CC CC
+Segregating
+
+Autosomal
+
+Dominant
+
+CMTIA
+
+HOUI, HOU2 (Killian and Kloepfer, 1979), HOU42, HOU85, HOU88, and HOU89 are of French-Acadian
+descent while HOU76 is of Ashkenazic
+Jewish descent. Standard pedigree symbols are used; disease is indicated by the darkened symbols. The laboratory identification
+number andthe
+(GT), genotype of each individual are indicated below the-pedigree
+symbols. (GT). genotypes were obtained by PCR analysis and were scored for
+the number of visible alleles using a standardized
+coding system: A = 165 bp, B = 163 bp, C = 161 bp, D = 159 bp, E = 157 bp, F = 155 bp,
+G = 153 bp. When a single allele was evident in an individual, it was scored as being present in two copies. Data were scored blind to disease
+status, and scoring was confirmed
+by two other investigators.
+Careful inspection of the relative intensity of the Mendelian inheritance
+of each allele
+was conducted
+to avoid scoring of shadow bands as alleles. The number of alleles evident in an affected individual depends on the number of
+distinguishable
+alleles segregating
+in the parents. In cases where all four parental chromosomes
+can be distinguished
+(e.g., unaffected father 1-49
+genotype FG and affected mother 1-9 genotype ABC), the three alleles in the affected sons (l-153 and I-37ABG;
+1-38 ABF) can be easily visualized.
+On the other hand, in HOU76 the affected father 76-270, with genotype BCE, and his unaffected spouse, 76-271, with genotype DE have an affected
+
+DNA Duplication
+221
+
+Table
+
+Mutation
+
+1. LOD Scores
+
+Associated
+
+between
+
+with CMTlA
+
+Chromosome
+
+Recombination
+
+Iq and 17~ Markers
+
+and CMTlA
+
+Value
+
+Marker
+
+0.00
+
+0.05
+
+0.10
+
+0.20
+
+0.30
+
+0.40
+
+FcyRll
+LEW301
+YNM67-R5
+1516
+Al O-41
+S6.1-HB2
+1517
+MYHP
+1541
+
+--m
+
+-16.17
+13.36
+9.47
+14.63
+10.26
+12.69
+15.17
+1.10
+-1.57
+
+- 9.42
+ii.95
+6.72
+13.24
+9.59
+12.11
+13.71
+2.91
+1.17
+
+- 3.66
+8.90
+6.67
+10.16
+7.46
+9.73
+10.26
+3.56
+2.89
+
+-1.20
+5.65
+4.26
+6.75
+4.92
+6.59
+6.47
+2.81
+2.38
+
+-0.16
+2.36
+1.78
+3.17
+2.27
+3.10
+2.65
+1.45
+1.27
+
+14.74
+-m
+15.89
+-co
+-03
+-co
+-cc
+-co
+
+HOU88, and HOU89, are of French-Acadian origin, while
+HOU76 is an Ashkenazic Jewish family (Figure 1). To accurately map the CMTl A gene in these pedigrees, 17 DNA
+polymorphisms localized to the proximal region of chromosome 17p and a highly polymorphic marker on chromosome 1q were studied. In view of the demonstrated genetic
+heterogeneity, we required that each family provide independent evidence of linkage to a specific chromosomal
+region. Initial linkage analysis was restricted to the large
+families HOUl, HOU2, HOU42, HOU85, and HOU89 (Figure 1). Families HOU76 and HOU88 were too small to
+include or exclude linkage to a specific location but were
+useful in the association study described below.
+The pooled evidence for linkage (LOD scores) from all
+five pedigrees, the maximum likelihood estimates of the
+recombination
+value (4) between CMTl and various genetic markers, and the peak LOD scores (2) for nine loci
+are shown in Table 1. The immunoglobulin
+receptor FcyRll
+on chromosome Iq shows complete linkage to C,MTl in a
+large Indiana kindred (R. Lebo, personal communication)
+and is diagnostic of CMTlB. None of our families show
+linkage to FcyRll (6 = 0.5,i = 0.0, Table 1). Individually,
+each pedigree showed negative LOD scores (data not
+shown), and together these families exclude linkage to a
+region 20 recombination units (0 = 0.20) on either side of
+FcrRII.
+Linkage analysis was performed using the 17p probes
+LEW301, YNM67R5,
+1516, AlO-41, S6.1-HB2, 1517,
+MYH2, and 1541. All markers except 1541 showed LOD
+scores exceeding 3.0 (Table l), and all loci except MYHP
+and 1541 showed recombination values of 4.6% or less,
+demonstrating tight linkage of the disease to the 17p region. Each individual family, except HOU42, showed a
+LOD score of 3.0 or greater with one or more DNA markers
+in this region (data not shown); HOU42 showed a peak
+LOD score of 2.9 at i? = 6 with the DNA probe YNM67-R5.
+
+e
+o.500
+0.000
+0.023
+0.000
+0.035
+0.046
+0.013
+0.180
+0.222
+
+2
+0.00
+14.74
+9.68
+15.89
+10.35
+12.70
+15.84
+3.58
+2.72
+
+Statistical tests on all the marker data suggested that the
+disease locus in these families mapped to the same location on chromosome 17p and segregated CMTl A. For further confirmation, we calculated the peak multipoint LOD
+score for each family, including HOU42, with respect to
+the map LEW301 -YNM67-R5-Al0-41
+-MYHP
+using
+the computer program CRI-MAP; these LOD scores were
+6.27,3.79,3.98,4.28,
+and 4.84for HOUl, HOU2, HOU42,
+HOU85, and HOU89, respectively, and confirmed their
+classification as CMTlA families.
+The DNA probes MYH2 and 1541, located on distal chromosome 17p, demonstrated loose linkage to CMT; consequently, multiple recombinants between the disease and
+these markers are observed in each family. On the other
+hand, only five recombinants were detected for the markers closely linked to CMTl A. Of these, LEW301 and 1516
+show no recombinants.
+However, individual 89-401 in
+HOU89 is recombinant for YNM67-R5, individual 85-326
+in HOU85 is recombinant for AlO-41 and S6.1-HB2 (same
+event detected), individual 1-13 in HOUl is recombinant
+for S6.1-HB2, and individual 2-448 and one of the spouses
+of 2-439 in HOU2 are recombinant for 1517. The order of
+the closely linked 17p DNA probes is LEW301 -(YNM67R5, 1516)-(AlO-41,
+S6.1-HB2)-1517
+and covers a distance of 9.9 CM. The five families contain approximately
+108 meioses, which for the LEW301-1517
+interval should
+contain 9.7 f 3.1 recombinants. The observed number of
+recombinants (5) is well within expectations (x2 = 2.30, 1
+degree of freedom, P > 0.10). These recombinants suggest that CMTlA is localized between LEW301 and 1517,
+which corresponds to an interval of approximately 10 million bp, assuming that recombination is uniform in the human genome. In the following section we report isolation
+of a highly informative (CT), polymorphism that detects
+multiple alleles in CMTl A patients. Genotypes at this locus
+are also provided in Figure 1.
+
+son, 76-272, of apparent genotype BE, but shows a double dose for allele E. Since dosage differences
+were not always reproducible
+from PCR,
+we scored absolute number of alleles visualized
+on the autoradiograph.
+The disease status of all at-risk individuals
+was determined
+by NCV
+measurements
+with the exception of individuals
+1-45, l-46, l-47, l-72, l-73, and l-74, who were diagnosed by clinical examination
+only. Note the
+nuclear family of individuals 42-331, 42-332, 42-333, where a mating occurs between two affected individuals. CMTIA segregates
+with the alleles
+A and E in HOU2, HOU42, and HOU88, with alleles A and B in HOUl, with alleles C and D in HOU85 and HOU89, and with alleles B and E in
+HOU76.
+
+Cell
+222
+
+HOU88
+
+DIE DiE E/AE EIAEUAE Bit
+
+WAE
+
+HOU76
+
+Bgiii&iF
+
+352 353
+C/C B/C CBE B/C CisE CBE C/BE
+
+Figure 2. Detection
+Patients
+
+of Three
+
+Alleles with the Marker
+
+RMI I-GT in CMT
+
+(GT), genotypes
+obtained by PCR analysis were scored as described
+in the legend to Figure 1. The genotypes
+are indicated below the pedigrees, with the slash indicating the pair of alleles segregating
+with
+CMTlA
+in each nuclear family. Shadow bands that differ from the
+primary bands in size by multiples of 2 bases are invariably seen with
+dinucleotide
+repeat polymorphisms;
+however,
+even without special
+precautions
+it is possible to read the genotypes
+unambiguously
+(Weber, 1990). (A) represents
+a nuclear family where CMTIA patients
+66-336 and 66-340 exhibit three (GT), alleles. The patients 88-339 and
+86-380 are partially informative
+with respect to the number of (GT),
+alleles, but the higher intensity of allele E in each of these patients
+suggests
+a double dose for this allele. (6) shows inheritance
+of three
+alleles in CMT patients from a nuclear family of Ashkenazic
+Jewish
+descent, in contrast to the other families, which are of French-Acadian
+descent.
+
+A (GT). Polymorphism
+at the Dl7Sl22
+Locus
+Demonstrates
+a Duplication
+Associated
+with CMTIA
+We screened CMTl A-linked 17p DNA probes for the presence of simple sequence repeats such as (GT),, which
+are known to be highly polymorphic and can be rapidly
+analyzed by the polymerase chain reaction (PCR) (Weber
+and May, 1989; Litt and Luty, 1989). (CT), sequences were
+identified in several probes, one of which, RMl I-GT, was
+identified from VAW409Rl located at the Dl7S122 locus
+(Wright et al., 1990). This marker maps to 17p11.2-pl2
+and is also closely linked to CMTIA (Vance et al., 1991).
+The five large French-Acadian
+pedigrees segregating
+CMTlA and the two small kindreds of French-Acadian
+(HOUSS) and Ashkenazic Jewish (HOU76) descent were
+genotyped for RMl l-GT. Genotype data from two nuclear
+CMTIA families within HOU88 and HOU76 are shown in
+Figure 2. These data demonstrate a striking observation:
+
+six of eight CMTIA individuals show three (CT), alleles
+(e.g., individuals 88-340, 76-352), but all unaffected individuals are either homozygous or heterozygous for (GT).
+alleles. In certain matings, only two (GT), alleles were segregating and thus only two (CT), alleles could be detected
+in the affected child. However, careful examination of the
+autoradiograph
+often revealed that one of the two (CT),
+alleles was present in two copies (e.g., 88-339, 88-380 in
+Figure 2A). These data indicate that CMTIA patients of
+French-Acadian
+(Figure 2A) and Ashkenazic Jewish (Figure 2B) descent have three copies of the Dl7Sl22 locus,
+suggesting a duplication of this locus in CMTlA patients.
+Genotypes for RMI I-GT for all seven CMTl A pedigrees
+are shown in Figure 1 and demonstrate that three RMI lGT alleles are present only in affected individuals and are
+never observed in 53 unaffected offspring and 31 unaffected spouses. The transmission of this duplication is also
+highly specific. By considering all completely informative
+RMI l-GT matings, such as ABC x DE, we observed 45
+cases of transmission of the duplicated allele from affected
+parents to affected offspring and 18 cases where the affected parent transmitted a single allele to their normal
+offspring. In these matings, none of the unaffected offspring received the duplicated DNA segment and none
+of the affected offspring received a single allele from the
+affected parent. Thus, in 63 fully informative meioses the
+duplication was faithfully transmitted to the affected offspring and without recombination with the normal chromosome (LOD score, 2 = 18.96 at r!r = 0.0).
+
+Dosage Differences at an Mspl RFLP Detected by
+Probe VAW409R3 at the Dl7Sl22
+Locus Confirm
+the CMTI A-Specific
+Duplication
+The demonstration of three copies of D175122 in CMTlA
+patients by (CT), allele analysis led us to examine the
+dosage of polymorphic Mspl alleles at this locus. Two Mspl
+restriction fragment length polymorphisms
+(RFLPs) are
+detected by the marker D17Sl22 (Wright et al., 1989;
+Vance et al. 1991) by Southern blot analysis using 11 kb
+(VAW409Rl) and 2.1 kb EcoRl (VAW409R3) subclones of
+phage VAW409 as standard two- and three-allele RFLPs,
+respectively. Dosage differences that followed Mendelian
+inheritance were observed in CMTIA patients using the
+probe VAW409R3, as shown in Figure 3.
+The Mspl genotypes in a nuclear family of pedigree
+HOU85 are shown in Figure 3A. The unaffected father
+(85-301) has genotype BB, and his unaffected daughters
+(85-326 and 85-312) have genotype AB The affected
+mother (85-302) and her affected sons (85-303 and 85-304)
+also have genotype AB, but inspection of the autoradiograph shows clear dosage differences between the two
+alleles such that 85-302, 85-303, and 85-304 have genotypes AAB, ABB, and ABB, respectively. The VAW409R3
+genotypes in Figure3Aalsoshowthat
+theCMT1 Achromosome harbors both an A and a B allele and that the AB
+combination segregates in a Mendelian fashion.
+Comparative
+Southern
+analysis of eight unrelated
+CMTlA patients (Figure 3C) and control individuals (Figure 3D) with the probe VAW409R3 is also shown. The most
+
+DNA Duplication
+223
+
+Mutation
+
+Associated
+
+with CMTlA
+
+HOU85
+
+A
+
+%*b*b
+
+c kb
+
+Figure 3. Southern
+Blot
+strates Dosage Differences
+leles in CMTlA Patients
+
+12345618
+
+2.8 2.1-
+
+Analysis
+Demonof Polymorphic
+Al-
+
+-A
+-B
+
+(A) Southern analysis of Mspl-digested
+genomic DNA from a nuclear family (HOU85) with
+the probe VAW409R3
+(D17S122).
+Southern
+.
+__
+::
+:.
+::,; ’ .I.. ..
+analysis was conducted
+on 5 pg of genomic
+i:
+DNA as described
+(Pate1 et al., 199Oa).
+Squares and circles represent
+males and females, respectively.
+Note the difference
+in the
+relative intensity of alleles A and B in CMT patients (85-302, 85-303, 85-304) versus
+unaffected individuals
+(85-301, 85-312, 85-326).
+(B) Southern analysis with a probe from outside
+the duplication
+region. The Southern blot from
+BC
+AA
+AC
+AB
+AC
+AB
+D
+B
+(A) was rehybridized
+with the control probe
+10-5, representing
+the myosin heavy chain locus in 17p13(Schwartzet
+al., 1986; Nakamura
+et al., 1988). No difference
+in the intensity of
+the polymorphic
+alleles was noted.
+(C) Southern analysis of Mspl-digested
+genomic DNA from eight unrelated CMTlA patients
+2.6 - ConsIant
+with the probe VAW409R3
+(D17S122).
+Note
+the presence
+of three polymorphic
+alleles in
+lanes l-3. This genotype clearly illustrates the duplication,
+but was observed
+in only 3 of 131 CMTlA patients. Lanes 4-8 show individuals who
+had two polymorphic
+alleles and in whom a duplication
+could be discerned
+by noting the difference
+in the relative intensity of one ,allele when
+compared
+to that of the other allele. This Southern blot was rehybridized
+with a control VNTR probe, YNH24 from chromosome
+2 (Nakamura
+et
+al., 1987), and showed no difference
+in the intensity of the polymorphic
+alleles (data not shown).
+(D) Southern analysis of Mspl-digested
+genomic DNA from eight control individuals with the probe VAW409R3.
+Note the lack of dosage difference
+between alleles in all individuals.
+303 304 326 312
+
+common examples of informative CMTlA individuals are
+shown in lanes 4-6 (genotype ABB) and lanes 7 and 8
+(genotype AAB). The presence of an extra allele can be
+noted in individuals of AAB and ABB genotypes by comparing the ratio of the hybridization signal for one allele
+to the other. Lanes l-3 in Figure 3C represent CMTlA
+individuals who were fully informative for the RFLP and
+demonstrated three polymorphic alleles resulting in a genotype ABC. Three copies of the allele could also be noted
+in affected individuals of genotype AAA or BBB when the
+signal from a control probe was used for normalization
+(data not shown).
+To confirm this observation, 103 CMTlA patients from
+seven families (Figure 1) as well as 26 other unrelated
+patients were examined by Southern blot analysis with
+VAW409R3. Dosage of alleles was determined by visual
+examination and densitometry of autoradiographs
+or by
+quantitation of total radioactivity in each allele using a Betascope analyzer (Sullivan et al., 1987). Dosage was determined only in individuals who were heterozygous for the
+RFLP since the results were most reproducible and reliable in such cases. Seventy-six CMTl A patients were heterozygous for this RFLP and were conclusively demonstrated to have three copies of the D17S122 locus. In contrast, none of 63 controls (27 unaffected at-risk individuals
+with normal NCV and 36 controls with no family history
+of CMT) who were heterozygous for this marker showed
+dosage differences for this RFLP, suggesting that the genotype with dosage differences was specific to CMTlA
+patients (x2 = 48.72; P < 1 Om5).Similar dosage differences
+were observed with the marker VAW409Rl
+(data not
+shown).
+
+Demonstration
+of Two (GT). Alleles in Mspl
+Fragments Showing Dosage Differences
+We next demonstrated that the Mspl allele8 present in two
+copies by dosage differences in CMTlA patients contain
+two (CT), alleles, using preparative gel separation of the
+polymorphic alleles (Bedford and van Helden, 1990). Mspl
+alleles revealed by VAW409Rl
+(Di 7S122) showing dosage differences in CMTlA patients, and from which the
+marker RM 11 -GT was derived, were separated on agarose
+gels and used as templates for PCR amplification
+of
+RMl l-GT. The analysis required affected individuals to
+have three distinguishable (GT), alleles and that these individuals be heterozygous for the Mspl RFLP.
+Figure 4A displays representative data from a nuclear
+family within kindred HOU42. The unfractionated genomic
+DNA from these individuals as well as their separated Mspl
+allelic fractions were genotyped for RMl l-GT. Figure 48
+indicates that in each instance, a patient with a polymorphic allele of double intensity had two (CT), alleles,
+whereas a single (CT)” allele was evident in the other polymorphic allele showing normal intensity in the patients and
+in all unaffected individuals.
+Homozygosity
+for the Duplication
+Mutation
+in a Severely Affected Individual
+A severe clinical phenotype has been previously reported
+in an individual who was the product of a consanguineous
+mating between first cousins affected with CMT and hypothesized to represent homozygous expression of adominant gene for CMT (Killian and Kloepfer, 1979). A Small
+nuclear family within pedigree HOU42 (Figure 1) demonstrated a mating between two affected individuals. One of
+
+A
+
+218
+
+HOU42
+219
+
+?c
+
+332
+
+289 225
+I\IAB AI8 AJAB AIB
+
+a
+
+b 333 a
+
+b
+
+331
+
+a
+
+b
+
+Allele
+-A
+
+E -
+
+2.1 -
+
+2.6 -
+
+B
+210 A
+
+B
+
+289 A
+
+B 225
+
+A
+
+8219
+
+A
+
+B
+
+/
+Figure 4. Demonstration
+of Two (GT), Alleles in Polymorphic
+Mspl
+Fragments
+at the D17S.122 Locus Showing Double Dosage by Allele
+Separation
+(A) A 5.3 kb Mspl fragment from within VAW409Rl
+at the D175122
+locus was hybridized
+to a Southern blot of Mspl-digested
+DNAs from
+a nuclear family from HOU42. The RFLP genotypes
+based on dosage
+of alleles are indicated at the top of the autoradiograph.
+Measurement
+of total counts in each band using the Betascope analyzer (Sullivan et
+al., 1987) confirmed this visually determined
+genotype.
+Note that the
+affected individuals 42-218 and 42-225 have two copies of the A allele
+and one copy of the B allele. Examination
+of Mendelian inheritance
+in
+this kindred indicated that the disease segregates
+with the alleles AB.
+(B) An agarose gel similar to that in (A) was prepared, and the regions
+corresponding
+to alleles A and B, respectively,
+were cut out and the
+allelic fractions
+genotyped
+for (GT), alleles as described
+in Experimental Procedures.
+The products obtained with undigested
+DNA from
+each individual are shown in the lanes identified by the identification
+number of the individual, and those obtained from the corresponding
+A and B alleles are shown in the lanes marked A and B. Note that the
+A allele of individual 42-218 and 42-225, which is present in two copies,
+shows two (GT), alleles while all other alleles are present in a single
+copy and show one (GT), allele.
+
+the two affected offsprings of this mating (42-333) demonstrated a severe clinical phenotype including early onset
+(<1 year) and markedly reduced motor NCV (ml 0 m/s vs.
+affected 20-40 m/s; unaffected >40 m/s). Examination of
+the segregation of 17p markers in HOU42 demonstrated
+that individual 42-333 had inherited two CMTlA chromosomes. The (GT), alleles A and E segregate with CMTlA
+in the families of both the affected mother and affected
+father. The (CT)” genotype of individual 42-333 is AE and
+suggests that she inherited a CMTlA chromosome from
+each of her parents. Her sister, 42-332, has inherited one
+chromosome with the duplication genotype AE and has a
+less severe clinical phenotype.
+For further confirmation, somatic cell hybrids retaining
+individual chromosome 17 homologs from patient 42-333,
+her affected mother (42-331), and her affected sister (42-
+
+Figure 5. Demonstration
+Analysis of Chromosome
+brids
+
+of a Homozygous
+CMTlA Patient
+17 Homologs Separated in Somatic
+
+by (GT),
+Cell Hy
+
+The chromosomes
+17 of patients 42-332 and 42-333, offspring of a
+mating between two affected individuals, and of their affected mother,
+42-331, were isolated in somatic cell hybrids as described
+in Experimental Procedures.
+Positive clones from each fusion were screened
+for the identity of the chromosome(s)
+17 retained by PCR analysis of
+the cell lysate with primers to a polymorphic
+marker within the gene
+for the 0 subunit of the muscle acetylcholine
+receptor locus in 17~.
+Lysates from clones retaining each of the two chromosome
+17 homologs were analyzed for the (GT), polymorphism
+at the D17S122
+locus. The results of this analysis are shown in (A), where the numbered lanes referto the productsobtained
+from the respective patients’
+DNA and the letters a and b identify lanes showing amplification
+products from the corresponding
+pair of hybrids, each retaining a chromosome 17 homolog from the respective patient. (6) shows the amplification products obtained with primers from the acetylcholine
+receptor 8
+subunit gene polymorphic
+locus in 17p outside the duplication
+region
+using DNA from patients 42-332 and 42-333 and the corresponding
+hybrids illustrating the successful
+separation
+of the chromosome
+17
+homologs. The disease segregates
+with the (GT), alleles A and E in
+the families of both the mother and the father of patient 42-333, who
+is homozygous
+for the disease chromosome.
+The pedigree symbols
+reflect the scoring of the genotype with respect to the disease allele.
+
+332) were constructed. These hybrids were genotyped for
+RMl I-GT, and the results are shown in Figure 5A. They
+confirm the following: first, patients 42-331 and 42-332 are
+heterozygous for the chromosome carrying the duplication; and second, patient 42-333 is homozygous for the
+duplication, and each chromosome 17 homolog contains
+two copies of the Dl7Sl22 locus. This nuclear family lends
+support to the hypothesis that the duplication is responsible for the clinical phenotype of CMTlA and that CMTlA
+is a semidominant mutation, since homozygosity for the
+duplication results in a more severe clinical phenotype.
+PFGE Analysis Identifies a Novel Sacll Fragment
+in CMTlA Patients
+To define this duplication more precisely and obtain an
+estimate of its size, we performed long-range restriction
+mapping using pulsed-field gel electrophoresis
+(PFGE)
+(Schwartz and Cantor, 1984). The restriction enzymes
+Notl, Mlul, Sacll, and Nrul were used to digest DNA from
+
+DNA Duplication
+225
+
+Mutation
+
+Associated
+
+with CMTlA
+
+similarsize in CMTl Apatientsof
+kenazic Jewish origin.
+
+Kb
+
+\
+_“li
+
+Figure 6. An Additional
+by PFGE
+
+Sack Allele Is Identified
+
+in CMTIA
+
+Individuals
+
+(A) Lymphoblasts
+from five CMTIA patients (lanes 1-5) and seven
+unaffected
+control individuals (lanes 6-12) were used for preparation
+of plugs as described (Westerveld
+et al., 1971). Approximately
+one-fifth
+of each plug (4 ug of DNA) was digested with Sacll and electrophoresed in a CHEFII-DR
+PFGE apparatus
+(Bio-Rad) for 24 hr in 0.5 x
+TBE buffer using pulse times of 50-90 s ramp at 200 V. The Southern
+blot was hybridized
+with the probe VAW409R3
+as described (Pate1 et
+al., 199Oa) with the exception that 0.5 mglml human placental DNA
+was used for preassociation
+of repeats in the probe. The patients used
+were individual 76-270, 76-272, 42-332, 42-333, and 42-266 in lanes
+1 through 5, respectively.
+The additional PFGE fragment of approximately 350 kb in patient 76-272 is sometimes
+faintly visible in other
+lymphoblastoid
+cell lines and may represent
+a methylation
+artifact. It
+does not demonstrate
+Mendelian inheritance.
+Note that lane 4 shows
+the pattern for the homozygous
+patient 42-333.
+(B) PFGE plugs were prepared from lymphocytes
+isolated from the
+whole blood of related affected and unaffected individuals. They were
+digested with Sacll and electrophoresed,
+and the resulting Southern
+blot was hybridized
+as described
+above. Note the Mendelian inheritance of the novel 500 kb Sacll allele in affected individuals.
+
+affected and control individuals to identify altered and/or
+novel fragments in CMTlA patients. Two Sacll fragments
+of 600 kb and 550 kb, which are either polymorphic alleles
+or variants arising as a result of methylation differences,
+were seen in 16 control individuals using VAW409R3 as a
+probe (Figure 6A, lanes 6-l 2, and further data not shown).
+However, a novel 500 kb Sacll fragment was seen in
+CMTlA patients of French-Acadian
+and Ashkenazic Jewish origin (Figure 6A), and this Sacll fragment showed
+Mendelian inheritance (Figure 6B). These results suggest
+the presence of a large genomic DNA rearrangement
+of
+
+French-Acadian
+
+andAsh-
+
+FISH Analysis Reveals a Duplication
+in Nuclei
+of CMTlA Patients
+Two-color fluorescence in situ hybridization (FISH) in interphase nuclei (Lawrence et al., 1990; Trasket al., 1991)
+provided direct visualization of duplication of the VAW409
+locus in CMTlA patients. VAW409 and a control probe
+from 17~11.2 (~1516) were hybridized in a blind study to
+nuclei from CMTlA patients 2-440 and 42-331 and unaffected controls 42-289 and 76-271. The hybridization sites
+of VAW409 and cl516 were labeled with red and green
+fluorochromes,
+respectively. Because DNA replication
+can result in double hybridization signals in interphase,
+cl516 was included to identify cells that contained only
+two single hybridization sites for this probe and, therefore,
+had not replicated the CMTlA region.
+A total of three red VAW409 sites (two near one of the
+cl516 sites and one paired with the second cl516 site)
+were observed in the majority of these cells ,from the
+CMTlA patients (60% and 59% in 2-440 and 42-331, respectively) but in few cells from unaffected individuals (3%
+and 6% in 42-289 and 76-271, respectively). In contrast,
+only one VAW409 hybridization site was paired with each
+single cl516 site in the majority of cells from unaffected
+individuals (90% and 79% in 42-289 and 76-271, respectively). The nuclei from the homozygous patient 42-333
+were similarly subjected to FISH analysis and demonstrated a total of four red VAW409 sites, two paired with
+each green cl 516 site (Figure 7). Lymphoblasts from an
+additional three CMTl A patients and four control individuals, for a total of six patients including one from the Ashkenazic Jewish family and six controls, were included in a
+blind study to determine the relative number of hybridization sites of VAW409 and ~1516. In each case, the presence of a duplicated region in CMTlA patients was confirmed. This study demonstrates that duplications can be
+readily detected in interphase nuclei using FISH.
+Consequences
+of the Duplication
+on Linkage
+Analysis for CMTlA Gene Localization
+Genetic mapping in the CEPH reference families (Dausset, 1986) localizes probe VAW409 between A10-41 and
+MYH2 at a distance of 1.3 CM from AlO-41. In Table 2, LOD
+scores between CMTl A and polymorphisms detected by
+probe VAW409 are presented. When scored as disomic
+allelic systems, the recombination value between CMTlA
+and VAW409R3 is 7.3% and surprisingly higher than the
+other closely linked CMTlA markers. There were six recombinants with this probe, three each in families HOU85
+(85312,85-320,85-326)
+and HOU89 (89-342,89-343,
+and
+89-344). These recombinants were surprising since they
+were clustered and greater in number than the five previously detected with other 17p markers spanning 9.9 CM.
+The observation of dosage differences detected by VAW409 clarified not only the occurrence of a DNA duplication,
+but also that failure to account for this duplication in linkage
+analyses produces false recombinants.
+This important phenomenon
+is illustrated in Figure 8A
+
+Cell
+226
+
+Figure 7. FlSHAnalysisof
+Individuals with VAW409
+
+Interphase
+and cl516
+
+Nuclei from CMTlAand
+
+spring from a BB x AB mating is in itself a low probability
+event [P = 0.002].) Dosage differences suggest instead
+that the affected mother’s genotype is AAB, with the mutant gene-bearing
+chromosome containing the two alleles
+AB. The six affected offspring have genotype ABB based
+on dosage, while the three unaffected offspring have genotype AB. Consequently,
+the affected parent transmitted
+the AB and A alleles to her affected and unaffected offspring, respectively, and no recombinants are evident. A
+similar situation pertains to the three clustered recombinants in pedigree HOU89.
+The VAW409R3 data were recoded as trisomic allele
+systems and the data reanalyzed by linkage analysis. This
+analysis (Table 2) based on dosage (VAW409R3d) shows
+no recombination
+between this marker and CMTlA at a
+LOD score of 31.08 (Table 2) in 103 informative meioses.
+Similarly, a second Mspl RFLP detected by the DNA probe
+VAW409Rl also demonstrates dosage differences and recombination with CMTl A; taking dosage into account, this
+probe (VAW409Rld)
+shows complete linkage to CMTlA
+at a LOD score of 17.56 in 58 informative meioses.
+The genotypes for RMI l-GT were also used for linkage
+analysis. CMTlA in these pedigrees shows complete linkage to RMl 1-GT at a LOD score of 36.74, with no recombinants being evident in 122 informative meioses. Individually, each family showed peak LOD scores of 3.0 or
+greater, except HOU76 (2 = 2.01) and HOU88 (2 = 2.19);
+these latter families have seven informative meioses each.
+Thus, taking dosage differences into account at VAW409R1, VAW409R3, and RMl 1-GT, locus D17S122 shows
+complete linkage to CMTlA.
+Multipoint linkage analysis of CMTlA using the map
+AlO-41-(1.3
+CM)-RMll-GT-(11.7
+CM)-MYH2
+was
+then performed using the program LINKAGE to calculate
+confidence limits on the location of CMTl A. The peak
+multipoint LOD score was 34.5; the CMTlA locus had the
+maximum likelihood position at RMl l-GT, between AlO41 and MYHP. All other intervals were excluded with odds
+of lO’*:l or greater. The approximate 95% confidence limits on the CMTlA location defined a 3 CM interval containing the probe RMll-GT.
+A more extensive analysis
+using the markers LEW301 -YNM67-R5-A10-41
+-RMl lGT-MYHP
+and the program CRI-MAP verified the placement of CMTlA at locus RMll-GT
+and between the
+probes Al O-41 and MYH2 with odds exceeding 1OOO:l.
+
+Normal
+
+Four lymphoblastoid
+cell lines were analyzed in a blind study by FISH
+as described
+(Trask et al., 1991). Interphase
+nuclei preparations
+were
+hybridized
+simultaneously
+with biotinylated
+probes VAW409Rl
+and
+VAW409R3
+and digoxigenin-labeled
+cosmid ~1516, which maps to
+17~11.2. The hybridization
+sites of VAW409 and cl 516 were labeled
+with Texas red and fluorescein,
+respectively,
+and viewed together
+through a double band-pass
+filter. The hybridization
+pattern of cl516
+was used as an internal assay for the replication status of the proximal
+17p region. The nuclei shown are representative
+of the predominant
+hybridization
+pattern observed in each sample in terms of the relative
+number of red and green sites. The difference
+in the hybridization
+pattern of patient and control samples was not due to differences
+in
+hybridization
+efficiency; the fraction of nuclei lacking aVAW409
+signal
+paired with one or both cl516 sites was similar in all cell lines (9%17%). (a) and (b) represent CMTl A patients 2-440 and 42-331, respectively; (c) represents
+a normal control, 42-289; (d) represents
+the homozygous CMTIA patient 42-333. Bar = 5 pm.
+
+with the VAW409R3 Mspl RFLP data from a nuclear family
+from HOU85. If dosage differences are ignored, the affected mother has genotype AB with the A chromosome
+carrying the CMTlA mutant gene; the unaffected father is
+BB. Since all nine offspring are AB but six are affected
+and three are unaffected, the unaffected individuals are
+recombinant. (Note that the segregation of nine AB off-
+
+Table 2. LOD Scores
+
+between
+
+DNA Markers
+
+Recombination
+
+Value
+
+within
+
+the Duplication
+
+Mutation
+
+and CMTlA
+
+Marker
+
+0.00
+
+0.05
+
+0.10
+
+0.20
+
+0.30
+
+0.40
+
+6
+
+2
+
+409R3
+409R3d
+409Rl
+409Rl d
+RMI I-GT
+
+-co
+31.08
+-cc
+17.56
+36.74
+
+6.75
+28.26
+5.34
+15.86
+31.76
+
+6.76
+25.35;
+4.81
+14.21
+29.96
+
+5.60
+19.23
+3.42
+10.55
+22.67
+
+3.89
+12.67
+1.99
+6.86
+14.85
+
+1.98
+5.70
+0.72
+3.10
+6.47
+
+0.073
+0.000
+0.027
+0.000
+0.000
+
+6.86
+31.08
+5.46
+17.56
+36.74
+
+..~
+
+LOD scores at the D17S122 marker locus. 409Rl and 409R3 refer to the Mspl RFLPs scored without
+to scoring of VAW409 Mspl RFLPs with dosage, and RMl 1-GT refers to the (GT), repeat polymorphism.
+HOU76 and HOU88.
+
+dosage between alleles, the suffix “d” refers
+The RMl 1-GT linkage analysis also includes
+
+A
+B
+
+DNA Duplication
+
+227
+
+VAW409R3
+VAW409R3d
+
+Mutation
+
+303
+A0
+(AB)B
+
+Associated
+
+with CMTlA
+
+Figure 8. Consequences
+tion on Linkage Analysis
+
+304
+
+309
+
+(A;B
+
+(A;B
+
+312
+AB
+AB
+
+313
+
+315
+
+(A;B
+
+(A;B
+
+----
+
+35
+
+320
+
+321
+
+AB
+AB
+
+(A;B
+
+326
+AB
+AB
+
+RMII-GT
+VAW409-R3
+
+‘,,P\’ 1’/-‘\\\
+I: : \\
+Y
+\
+.
+i‘;,
+:,h&v4,“,~1,
+O’*O
+MLo’25
+Genetic
+
+of Duplication
+
+Muta-
+
+(A) A nuclear family of pedigree HOU85 showing the misclassification
+of the VAW409R3
+Mspl RFLP. Shown below the pedigree symbol
+in descending
+order are the identification
+number of the individual and the VAW409R3
+genotype scored without and with consideration
+of
+dosage of the alleles, respectively.
+Segregation of marker alleles demonstrates
+that individual 85-302 carries the A allele on the CMTlA
+chromosome
+if dosage is ignored but the AB
+allele on the CMTIA
+chromosome
+if dosage
+is considered.
+Individuals 85-312, 85-320, and
+85-326 appear as recombinants
+with VAW409R3; however, VAW409R3d
+shows that this
+is due to misclassification.
+(B) Multipoint linkage mapping of CMTlA on a
+genetic map of chromosome
+17~. The locus
+positions of the markers are indicated on the
+horizontal axis. The height of the curves represents the relative likelihood of location (LOD
+score) at any specified
+point along the map.
+When dosage differences
+are ignored (VAW409R3), the most likely position of the CMTlA
+gene is proximal
+to LEWBOI;
+however,
+the
+RMI I-GT locus data clearly place CMTlA at
+RMI I-GT.
+
+Map (CM)
+
+The failure to account for dosage differences at a twoallele RFLP in linkage analysis, when it exists, leads to
+misinterpretation
+of the parental origin of alleles, as shown
+in Figure 8A. These errors appear as multiple, clustered
+(within sibships) recombination
+events that reduce the
+LOD score and increase the recombination value between
+the disease and the marker. More importantly, when these
+errors are included, multipoint linkage analysis can seriously distort the positioning of the disease locus. This dramatic effect is shown in Figure 88, where we present the
+multipoint LOD score for CMTlA versus a fixed map of
+the markers LEW301 -YNM67-R5-AlO-41
+-VAW409R3/
+RMll-GT-1517-MYHP.
+Figure8Bshowsthemultipoint
+LOD score curve for two analyses using CRI-MAP that
+are identical except that VAW409 was first coded as a
+two-allele RFLP without dosage (VAW409R3) and a second time using the RMll-GT
+polymorphism.
+Using the
+(GT), polymorphism, the multipoint LOD score is 31.4 and
+correctly places the CMTlA locus at VAW409. The 95%
+confidence limits on the CMTIA location define a 3 CM
+interval around the (CT), locus. On the other hand, ignoring the duplication produces a peak LOD score of 26.81
+and incorrectly places CMTlA 1 CM proximal to LEW301.
+The 95% confidence limits on this location define a 6 CM
+interval around LEW301. Not only do these two confidence
+intervals fail to overlap, but the two LOD scores have an
+odds difference of 104.6! Furthermore, the correct location
+of CMTI at VAW409 is 50 times less likely than the incor-
+
+rect location when dosage at VAW409R3 is not scored.
+The misclassification
+leads to multiple recombination
+events with VAW409 and thus places the CMTlA locus
+toward LEW301, with which no recombinants
+were observed.
+Discussion
+We have demonstrated
+that CMTlA is associated with
+a DNA duplication using (GT), polymorphism
+and RFLP
+analysis, FISH analysis, and isolation of parental chromosomes in somatic cell hybrids. Three polymorphic markers
+at the D17S122 locus have displayed this duplication,
+namely, VAW409R3, VAW409R1, and RMI l-GT, and in
+each case there is a perfect correlation between the duplication genotype and the CMTlA disease phenotype.
+PFGE suggests that the duplication includes a large genomic region. We have shown that failure to understand the
+molecular nature of the polymorphism leads to the mislocalization of CMTlA and reduced evidence for linkage.
+Preliminary data by RFLP analysis and dosage of polymorphic alleles indicate that two additional markers, VAW412R3 (D17S125) and EW401 (D17S61) (Wright et al.,
+1990), which are linked to VAW409, may also be duplicated, while other CMTl A-linked markers do not appear
+to show evidence for duplication.
+The demonstration of an autosomal dominant inherited
+mutation involving DNA duplication in multiple families is
+
+Cdl
+228
+
+unprecedented. Several linesof evidencesuggest
+thatthis
+duplication is responsible for the CMTlA phenotype. First,
+the duplication mutation was observed only in CMTlA patients and not observed in 63 control individuals. Second,
+the duplication was demonstrated in CMTlA patients of
+French-Acadian
+descent as well as Ashkenazic Jewish
+origin. Third, a severely affected offspring of a mating between two affected individuals was shown to be homozygous for the duplication.
+An important consequence
+of our study is the use of
+RMll-GT for CMTlA diagnosis. With the determination
+of dosage at the D17S122 locus in CMTlA patients, the
+positive predictive value of this DNA-based diagnostic test
+is likely to increase dramatically. Furthermore, the novel
+Sacll fragment observed by PFGE analysis as well as twocolor FISH of lymphoblasts or fresh lymphocytes may also
+be useful diagnostic methods for CMTl A. The availability
+of highly polymorphic markers similar to those demonstrated in this study from most regions of the human genome may enable the detection of segmental trisomy as
+the molecular basis for other human diseases
+The mechanism by which a duplication could result in
+the CMT phenotype is unknown, but possible mechanisms
+for the disease phenotype include the following: first, overexpression of one or more genes in the region (dosage
+effect); second, interruption of a candidate gene at the
+duplication junction leading either to an altered gene product with a dominant deleterious effect or to an absence of
+the gene product, thus resulting in decreased levels; third,
+occurrence of a stable dominant mutation in one of the
+duplicated candidate genes that results in a gene product
+with a deleterious effect; and fourth, a change in the physical location of the gene(s) within the duplication region,
+leading to altered regulation of gene expression, secondary to a position effect. The human gene for the b subunit
+of the muscle nicotinic acetylcholine receptor has recently
+been mapped to the 17p11.2-p12
+region (Beeson et al.,
+1990). This receptor plays an important role in signal transduction at the neuromuscular junction. Using a highly polymorphic marker within this gene (OS1 -f3GT), we have demonstrated that it lies outside the duplication region (data
+not shown). However, the genes for the subunits of the
+neuronal acetylcholine receptor tend to locate in clustered
+arrays (Boulter et al., 1990). It is thus possible that altered
+expression of one or more of such receptor subunits could
+result in an altered stoichiometry of the subunits and lead
+to CMT.
+The mechanism by which theduplication
+mutation arose
+is unknown. De novo mutations that include deletions and
+duplications have been observed in the proximal region of
+the short arm of chromosome 17 (Smith et al., 1986; Stratton et al., 1986; Magenis et al., 1986). It is possible that
+the same recombination mechanisms that result in microdeletion on one chromosome homolog can result in duplication on the reciprocal homolog. Recent studies on chromosomal duplications
+in Escherichia coli and humans
+have demonstrated that duplication junctions occur in regions containing repetitive extragenic palindromic (REP)
+sequences (Shyamala et al., 1990) as well as near Alu
+sequences (Kornreich et al., 1990; Devlin et al., 1990).
+
+Mutations at the Bar locus in Drosophila melanogaster are
+gain of function and semidominant (Lindsley and Zimm,
+1985) and are frequently associated with a tandem duplication of chromosome bands 16Al-A7 (Bridges, 1936).
+Recent molecular analysis has suggested that there is a
+transposable element (B104) located at the duplication
+junction. It has been proposed that this element is involved
+in the generation of the duplication. DNA sequencing analysis of the junctions of the B104 element support a model
+whereby the duplication is generated by a recombination
+event between two 8104 elements, one in 16Al and the
+other in 16A7 (Tsubota et al., 1989). A detailed analysis of
+the CMTlA duplicated region, particularly the duplication
+junctions, in CMTlA patients of varied ethnic origin may
+clarify the molecular mechanism for generating this dupliSome probable animal models for CMT are the mouse
+mutants trembler (Tr, dominant) (Falconer, 1951) and
+trembler-J (TrJ, semidominant) (Green, 1989). These mice
+exhibit a demyelinating
+neuropathy with decreased NCV
+similar to CMTl, and their mutations map to mouse chromosome 11, which is syntenic with human chromosome
+17. It will be interesting to determine if the candidate disease locus is duplicated in these mice as in humans. Determination of the molecular basis of CMTlA will be possible
+by definition of the limits of the duplicated region, facilitated by identifying overlapping genomic clones that span
+the region and identifying candidate expressed sequences
+that map within the duplication. Ultimate confirmation of
+this finding may require expression of the candidate mutated region in transgenic mice and observation of the
+phenotype.
+Experimental
+
+Procedures
+
+Clinical Evaluation
+and Sampling
+of Families
+All available at-risk members of pedigrees
+were subjected to a thorough clinical and electrophysiological
+examination.
+In pedigree HOW,
+NCVs were initially determined
+only for clinically affected individuals.
+Further evaluation
+indicated that the clinically unaffected
+individuals
+l-13,1-37,
+and l-38 had abnormal NCVs; therefore, thediseasestatus
+of these individuals is different from that reported in the original pedigree (Pate1 et al., 1990a). In all other pedigrees
+at-risk individuals,
+whether clinically affected or unaffected, had motor NCVs determined.
+Diagnosis of CMTl wasestablished
+by slowed median and ulnar motor
+NCVs bilaterally (<40 m/s). A single normal motor NCV of the peroneal
+nerve excluded the diagnosis of CMTI in patients 5 years or older.
+Blood was collected
+from each participating
+family member, under
+informed consent,
+and used to establish
+EBV-transformed
+lymphoblasts (Anderson
+and Gusella, 1984) and for isolating high molecular
+weight DNA (Miller et al., 1988). The variable numbers
+of tandem
+repeat locus YNH24 (D2S44) (Nakamura
+et al., 1987a, 198713) in addition to the marker loci used in linkage analysis, were used to check
+parental origins for each individual in the seven pedigrees in Figure 1.
+Some parental exclusions
+were detected: these individuals were not
+incorporated
+in the linkage analysis.
+Linkage Analysis
+The chromosome
+17~ markers comprise 17 standard RFLPs and were
+detected using nine DNA probes and Southern analysis as previously
+described (Pate1 et al., 1990a, 19906). The DNA probe FcTRll (chromosome lq) was studied by Southern analysis to exclude linkage to chromosome 1. LOD score analysis used two-point or multipoint methods
+(Morton, 1956; Ott, 1985; Lathrop and Lalouel, 1988) and the computer
+programs
+LINKAGE version 4.7 (Lathrop and Lalouel, 1988) and CRIMAP version 2.4 (Donis-Keller
+et al., 1987). CMTl was considered
+as
+
+DNA Duplication
+229
+
+Mutation
+
+Associated
+
+with CMTlA
+
+a fully penetrant
+autosomal
+dominant trait with a mutant gene frequency of 0.0001. The following markers, where alleles were codominant systems
+with frequencies
+as described
+in the literature,
+were
+used: LEW301 (D17858) (Fain et al., 1987); pA10-41 (D17S71) (Barker
+et al., 1987); pYNM87R5
+(D17S29)
+(Ray et al., 1990); cl516
+(D17S258) (Pate1 et al., 199Oa); p1516R4
+(D175258)
+(Franc0 et al.,
+1990); pS6.1-HB2
+(D17S445) (Pate1 et al., 1990b); cl517 (D17S259)
+(Pate1 et al., 1990a) Mspl allele lengths
+= 6.2/4.0/2.4
+kb; cl541
+(D17S260) (Pate1 et al., 1990a) Bglll allele lengths = 3.4/2.0 + 1.4 kb;
+Hindlll 14.0113.0 kb; BamHl 11.017.6 kb (allele lengths for probes
+cl517 and cl541 reflect changes
+from the original report); ~10-5
+(MYH2) (Schwartz
+et al., 1986; Nakamura
+et al., 1988); VAW409R1,
+VAW409R3
+(D17S122) (Wright et al., 1990); FcrRII, HFc3.0 (FCG2)
+(Hibbs et al., 1988; Grundy et al., 1989).
+Haplotypes
+were constructed
+for multiple DNA polymorphisms
+detected by the same DNA probe, except for VAW409, and assumed to
+be equifrequent,
+as were the alleles at RMl 1 -GT. For markers with five
+or more alleles, haplotypes were recoded into four-allele systems (Ott,
+1978). LOD scores Z(6) at assumed recombination
+values (6) of 0.0,
+0.05, 0.10, 0.20, 0.30, and 0.40 were calculated
+for individual pedigrees and pooled. The maximum likelihood estimate of 8 (6) and the
+peak LOD score (Z = Z(6)) were estimated
+using the ILINK program
+in LINKAGE. Linkage was accepted if the LOD score was 3 or greater;
+the exclusion
+criterion was a LOD score of -2 (odds 1OO:l against
+linkage) at a specified recombination
+value. Approximate
+95% confidence intervals on location were calculated
+by including all points on
+a map that have LOD scores at most one unit lower than the peak LOD
+score (Conneally et al., 1985).
+The x2 test of homogeneity
+(Morton, 1956) with 4 degrees of freedom
+was calculated for each of the eight 17~ DNA polymorphisms
+in Table
+1. The x2 values ranged from 0.00 to 7.14 and were not statistically
+significant
+(P > 0.10).
+The order between the proximal chromosome
+17~ markers was
+established
+by analyses of these markers in the CEPH (Centre d’Etude
+du Polymorphisme
+Humain, Paris, France [Dausset, 1986)) reference
+families, and from analyses of somatic cell hybrids (Pate1 et al., 199Oa).
+The distances
+between adjacent markers
+in centimorgans
+were estimated from the CEPH panel (P. Fain, personal communication,
+1991)
+except for 1517, whose distance from YNM67-R5 was estimated from
+thefiveCMTlA
+kindredsdescribed
+in this paper. The map is as follows:
+LEW301-2.6
+CM-[YNM67-R5,
+1516]-1.8
+CM-[AlO-41,
+S6.1-HB2]1.3 CM-VAW409-4.2
+CM-1517-7.5
+CM-MYH2,
+where [
+] indicates markers for which the order is unknown.
+CRI-MAP is more
+efficient in likelihood calculations
+than LINKAGE, since it ignores population allele frequencies
+and the genotypes
+of specific individuals
+in
+analyses,
+In comparing
+the results of identical analyses in these five
+kindreds using both CRI-MAP and LINKAGE, a 20% information loss
+was observed
+for two-point
+LOD scores
+but only a 4% loss for
+multipoint LOD scores. For efficient calculations,
+only CRI-MAP was
+used for multipoint analysis.
+Detection
+of (GT). Polymorphic
+Markers
+and Genotype
+Determination
+(GT). repeat sequences
+were identified by Southern hybridization
+of
+dot blots of the plasmid or cosmid DNA to synthetic
+nick-translated
+poly(dC-dA).poly(dG-dl)
+(Pharmacia)
+using [@P]dCTP
+(New England
+Nuclear). Hybridizations
+were performed
+in 1 M NaCI, 1% SDS, 10%
+dextran sulfate at 65OC, and the filters were washed at room temperature in 2 x SSC, 0.1% SDS. A (GT), repeat sequence
+was identified
+in an 11 kb EcoRl fragment cloned in pUCl8 (VAW409Rl).
+A 250 bp
+Haelll fragment contained the (GT), repeat and was further subcloned
+into pTZ19 (pRM1 l-GT) and sequenced
+by the dideoxy chain-termination method (Sanger et al., 1977) using the Sequenase
+Kit (United
+States Biochemical
+Corporation).
+The repeat sequence
+present
+in
+pRM1 l-GT was (TA),(GT),,(AT),.
+Analysis of 83 unrelated individuals
+identified at least eight different alleles, ranging in size from 153 bp to
+167 bp, with an observed
+heterozygosity
+of 74%.
+For PCR amplification
+either the GT strand (CAGAACCACAAAATGTCTTGCATTC)
+or CA strand (GGCCAGACAGACCAGGCTCTGC)
+oligonucleotide
+primer flanking the (GT), repeat sequence
+was endlabeled at 37OC in a 15 ~1 reaction volume containing 1.2 9M primer,
+100 &i of [y-32P]ATP at 6000 Cilmmol, 1 x One Phor-All Plus buffer
+(Pharmacia),
+and 10 U of polynucleotide
+kinase (Pharmacia).
+The ki-
+
+nase was inactivated
+at 65OC for 10 min and the primer used directly
+in the PCR reaction (0.4 frl per reaction).
+PCR was performed
+using
+standard conditions in a 25 ~1 reaction volume in a mixture containing
+1 PM each oligodeoxynucleotide
+primer, 250 NM each dATP, dCTP,
+dGTP, and dTTP, 2.5 hl of 10x PCR buffer (500 mM KCI, 120 mM
+Tris-HCI
+[pH 8.0],1.5 mM MgCI,, and 0.01% gelatin), 0.63 U of AmpliTaq (Cetus) DNA polymerase,
+and 0.4 pl of end-labeled
+GT primer
+reaction mix. The amplification
+conditions were an initial denaturation
+at 94OC for 5 min followed by 30 cycles of 94OC denaturation
+for 1
+min, 55OC annealing for 1 min, and 72OC extension
+for 2 min in an
+automated
+thermal cycler (Perkin-ElmerlCetus).
+Reaction products
+(1.5 ~1) were mixed with 2 al of formamide stop solution (United States
+Biochemical
+Corporation)
+and electrophoresed
+in a 8% polyacrylamide DNA sequencing
+gel at 40 W for 3.5 hr. Gels were dried and
+autoradiographed
+for 2-12 hr by exposure
+to Kodak XARQ film at
+
+-70%.
+Southern
+Analysis
+and Dosage Determination
+Samples (5.5 frg) of genomic DNA were digested with 3-4 U of the
+appropriate restriction endonuclease
+under conditions specified by the
+manufacturer.
+A 0.5 pg aliquot was examined by gel electrophoresis
+to determine
+completeness
+of digestion.
+The digested DNAs were
+electrophoresed
+in a 1% agarose gel in 1 x TAE buffer (40 mM TrisHCI [pH 8.51, 40 mM sodium acetate, 2 mM EDTA) for *I6 hr. The
+DNA was transferred
+to a nylon membrane (Sureblot, Oncor) and hybridized to the probe after preassociation
+of repeats as described
+previously(Patel
+et al., 1990b). Dosageof alleles wasdetermined
+by visual
+inspection of autoradiographs
+and comparison
+of the intensity of one
+polymorphic
+allele to the other within each lane. Alternatively,
+such
+comparisons
+were made on autoradiographs
+using a densitometer
+(LKB Ultrascan) or by direct quantitation of radioactivity
+in the polymorphic alleles on the nylon membrane
+using the Betascope
+analyzer
+(Betagen) (Sullivan et al., 1987).
+Allele Separation
+for PCR Analysis
+Samples (5 Kg) of genomic DNA from members of a nuclear family in
+HOU42 were digested with Mspl and electrophoresed
+in a 1% agarose
+gel in 1 x TAE buffer at 20 V overnight to allow separation of 3 kb and
+6 kb alleles. The gel was sliced to isolate these fractions in a minimal
+volume, and the DNAwas purified using Geneclean (810101). Approximately 1130th of the isolated DNA was subjected to PCR analysis with
+the RMll-GT
+primers as described
+before.
+Construction
+and Analysis
+of Somatic Cell Hybrids
+Somatic cell hybrids were used to separate the maternal and paternal
+chromosomes
+17 of individuals 42-331, 42-332, and 42-333. Hybrids
+were constructed
+as described
+by Zoghbi et al. (1989) using a23, a
+thymidine kinase-deficient
+Chinese hamster cell line (Westerveld
+et
+al., 1971) as the rodent parent. Briefly, two 100 mm plateswere
+seeded
+with 10’ a23 cells per plate 16-20 hr before fusion. The cells were
+washed with Dulbecco’s
+modified Eagle’s medium (DMEM). To a 10 ml
+suspension
+of 5 x 10’ lymphoblasts
+in Hanks’ balanced salt solution
+(GIBCO), 250 ~1 of a 1 mg/ml phytohemagglutinin
+(Sigma) solution was
+added. Five milliliters of this cell suspension
+was added to each plate
+of a23 cells, and the plates were incubated for 15 min at 37°C. The
+solution was aspirated,
+and 2 ml of 50% polyethylene
+glycol 1500
+(Eoehringer
+Mannheim Biochemicals)
+was spread over the surface of
+the plate. After 1 min the polyethylene
+glycol was aspirated,
+and the
+cells were washed three times with DMEM and incubated with 10 ml
+of DMEM for 30 min at 37°C. The medium was aspirated and the plates
+were incubated overnight
+with 10 ml of DMEM with 10% fetal calf
+serum (FCS). Hybrids were selected by growth in DMEM containing
+10% FCS, 0.1 mM hypoxanthine,
+0.001 mM aminopterin, and 0.01 mM
+thymidine.
+Hybrids were isolated with cloning rings IO-14 days later
+and transferred
+to 24-well microtiter plates.
+For analysis of the hybrids, cells from each confluent well were
+collected and lysed by boiling in 30 yl of 1 x PCR buffer. Three microliters of the lysate was used for PCR amplification
+with primers flanking
+a (GT), repeat (OSI-8GT)
+at the locus for the gene for the 8 subunit
+of the nicotinic acetylcholine
+receptor in 17~11.2. The sequence of the
+GT strand primer is AACTTTACTACAGGAGTTACACCC,
+and that of
+the CA strand primer is CTCGAGCCCCCGCATTCAAGAA.
+The PCR
+was conducted
+as described
+before using 3 ~1 of the cell lysate or
+
+Cell
+230
+
+<lOO ng of
+separation
+comparison
+ing human
+
+genomic DNA from the individual patients. The successful
+of the chromosome
+17 homologs in hybrids was noted by
+of the (GT), allele in each hybrid to that of the correspondparent.
+
+PFGE
+Lymphoblasts
+were used for preparation
+of plugs as described
+(Herrmann et al., 1987). Briefly, exponentially
+growing lymphoblasts
+were
+collected and counted using a hemacytometer.
+The cells were resuspended at 1 x 10’lml in lysis buffer I(O.l M EDTA, 0.02 M NaCI, 0.01
+M Tris-HCI
+[pH 7.8]), and an equal volume of 1% lncert agarose (FMC
+Corporation)
+was added. The mixture was aliquoted into plug molds
+kept on ice. The plugs were suspended
+in lysis buffer II (lysis buffer I
+with 1.0% N-lauroylsarcosine
+and 2 mg/ml proteinase
+K). The digestion was carried out at 50°C for 48 hr. The plugs were dialyzed extensively against 10 mM Tris-HCI
+(pH 7.5) 1 mM EDTA. Approximately
+one-fifth of each plug (4 ug of DNA) was digested with ~20 U of restriction endonuclease
+in a 150 PI volume and electrophoresed
+in a
+CHEFII-DR
+PFGE apparatus
+(Bio-Rad) for 24 hr in 0.5 x TBE buffer
+using pulse times of 50-90 s ramp at 200 V. The gel was transferred
+to a nylon membrane,
+and the Southern blot was hybridized
+with the
+probe VAW409R3 as described above with the exception that 0.5 mgl
+ml human placental DNA was used for preassociation
+of repeats in the
+probe.
+FISH
+Two-color FISH was performed
+as described previously
+(Trask et al.,
+1991). Briefly, VAW409Rl
+and VAW409R3 were combined and biotinylated using a nick translation kit (BRL). The cosmid cl516 was similarly labeled with digoxigenin
+(Boehringer
+Mannheim).
+The probes
+were mixed and hybridized
+to nuclei from post-log phase but unsynchronized
+lymphoblasts
+fixed on slides after hypotonic
+swelling and
+methanol-acetic
+acid fixation. After hybridization,
+hybridization
+sites
+of biotinylated
+and digoxigenin-labeled
+probes were labeled with
+Texas red and fluorescein,
+respectively,
+by sequential
+incubation of
+slides, alternated
+with wash steps, in avidin-Texas
+red; biotinylated
+goat anti-avidin
+and sheep anti-digoxigenin
+antibodies;
+and avidinTexas red and fluoresceinated
+rabbit anti-sheep IgG antibodies. Slides
+were viewed on a Zeiss Axiophot microscope
+(100x
+magnification)
+through a dual band-pass filter (Omega, Erattleboro,
+VT), which allows
+fluorescein
+and Texas red to be viewed simultaneously.
+Slides were
+coded before analysis. Nuclei were scored randomly for the number
+of red and green hybridization
+sites on each chromosome.
+Photographs of representative
+nuclei were taken on 3M Scotch 640T color
+slide film (15-20 s exposures).
+Acknowledgments
+We are grateful to the CMT patients and families for their continued
+cooperation,
+and the Muscular
+Dystrophy
+Association
+(MDA) clinics
+in New Orleans, Baton Rouge, and Lafayette, Louisiana, for clinical
+evaluation, treatment, and patient specimen collection. We thank Drs.
+R. Malamut and G. Parry for electrophysiological
+evaluation of CMTIA
+families and Dr. F. Axelrod (New York University
+Medical Center) for
+clinical evaluation
+and collection
+of HOU76. The excellent technical
+assistance
+of R. Wright, Zhang Heju, S. Davis, V. Holliday, and H.
+Massa, graphics assistance
+by R. Ross, and manuscript
+preparation
+by L. Hayway are gratefully acknowledged.
+We thank all investigators
+who provided probes. We gratefully appreciate
+the critical review of
+the manuscript
+by Drs. A. Beaudet, H. Bellen, J. Belmont, D. Ledbetter,
+D. Nelson, and H. Zoghbi. Work of B. J. T. at Lawrence
+Livermore
+National Laboratories
+was performed under US Department
+of Energy
+contract number W-7405ENG-48
+with support from US Public Health
+Service grant HG-00256-01.
+This research was also supported by an
+MDA Task Force on Genetics
+grant, a Texas Higher Education Advanced Technology
+Program grant, and NIH grants ROI NS27042 to
+J. R. L. and P. I. P. and HG 00344 to A. C., and by Baylor Mental
+Retardation Center grant HD 24064-02. R. M. is a recipient of a fellowship from the National Council of Science and Technology
+(CONACYT)
+of Mexico. V. G. is the recipient of an MDA postdoctoral
+fellowship.
+A. C. is a recipient of a Research Career Development
+Award from the
+NIH (HD 00774). J. R. L. acknowledges
+support from the Pew Scholars
+Program in Biomedical Sciences.
+
+The costs of publication
+of this article were defrayed
+in part by
+the payment of page charges. This article must therefore be hereby
+marked “advertisement”
+in accordance
+with 18 USC Section 1734
+solely to indicate this fact.
+Received
+
+May 15, 1991; revised
+
+June
+
+5, 1991.
+
+References
+Anderson,
+M. A., and Gusella, J. R. (1984).
+in establishing
+Epstein-Barr
+virus-transformed
+cell lines. In Vitro 20, 856-858.
+
+The use of cyclosporin
+human lymphoblastoid
+
+A
+
+Barker, D., Wright, E., Nguyen, K., Cannon, L., Fain, P., Goldgar, D.,
+Bishop, D. T., Carey, J., Baty, B., Kivlin, J., Willard, H., Waye, J. S.,
+Greig, G., Leinwand,
+L., Nakamura,
+Y., O’Connell,
+P., Leppert, M.,
+Lalouel, J.-M., White, R., and Skolnick,
+M. (1987). Gene for von
+Recklinghausen
+neurofibromatosis
+is in the pericentromeric
+region of
+chromosome
+17. Science 236, 1100-l 102.
+Bedford, M. T., and van Helden, P. D. (1990). A method
+allele-specific
+methylation.
+BioTechniques
+9, 744-748.
+
+to analyze
+
+Beeson, D., Jeremiah, S., West, L. F., Povey, S., and Newsom-Davis,
+J. (1990). Assignment’
+of the human nicotinic acetylcholine
+receptor
+genes: the alpha and delta subunit genes to chromosome
+2 and the
+beta subunit gene to chromosome
+17. Ann. Hum. Genet. 54,199-208.
+Bird, T. D., and Kraft, G. H. (1978). Charcot-Marie-Tooth
+disease:
+data for genetic counseling
+relating age to risk. Clin. Genet. 74, 4349.
+Bird, T. D., Ott, J., and Giblett, E. R. (1982). Evidence for linkage of
+Charcot-Marie-Tooth
+neuropathy
+to the Duffy locus on chromosome
+1. Am. J. Hum. Genet. 34, 388-394.
+Boulter, J., O’Shea-Greenfield,
+A., Duvoisin, R. M., Connolly, J. G.,
+Wada, E., Jensen, A., Gardner,
+P. D., Ballivet, M., Deneris, E. S.,
+McKinnon, D., Heinemann,
+S., and Patrick, J. (1990). a3, ~5, and 84:
+three members of the rat neuronal nicotinic acetylcholine
+receptorrelated gene family form a gene cluster. J. Biol. Chem. 265, 44724482.
+Bridges,
+211.
+
+C. B. (1936).
+
+The Bar “gene”
+
+a duplication.
+
+Science
+
+83, 210-
+
+Chance, P. F., Bird, T. D., O’Connell, P., Lipe, H., Lalouel, J.-M., and
+Leppert, M. (1990). Genetic linkage and heterogeneity
+in type 1 Charcot-Marie-Tooth
+disease (hereditary
+motor and sensory neuropathy
+type 1). Am. J. Hum. Genet. 47, 915-925.
+Charcot, J.-M., and Marie, P. (1886). Sur une forme particuliere
+d’atrophie musculaire
+progressive
+souvent familiale debutant par les pieds
+et les jambes et atteignant plus tard les mains. Rev. Med. 6, 97-138.
+Conneally, P. M., Edwards, J. H., Kidd, K. K., Lalouel, J.-M., Morton,
+N. E., Ott, J., and White, R. (1985). Reportofthecommitteeon
+methods
+of linkage analysis and reporting.
+Cytogenet.
+Cell. Genet. 40, 356359.
+Dausset, J. (1986). Le Centre
+Presse Med. 75, 1801.
+
+d’Etude
+
+du Polymorphisme
+
+Humain.
+
+Devlin, Ft. H., Deeb, S., Brunzell, J., and Hayden, M. R. (1990). Partial
+gene duplication involving exon-Alu interchange
+results in lipoprotein
+lipase deficiency.
+Am. J. Hum. Genet. 46, 112-I 19.
+Donis-Keller,
+H., Green, P., Helms, C., Cartinhour,
+S., Weiffenbach,
+B., Stephens, K., Keith, T. P., Bowden, D. W., Smith, D. R., Lander,
+E. S., Botstein, D., Akots, G., Rediker, K. S., Gravius, T., Brown, V. A.,
+Rising, M. B., Parker, C., Powers, J. A., Watt, D. E., Kauffman, E. R.,
+Bricker,
+A., Phipps, P., Muller-Kahle,
+H., Fulton, T. R., Ng, S.,
+Schumm, J. W., Braman, J. C., Knowlton, R. G., Barker, D. F., Crooks,
+S. M., Lincoln, S. E., Daly, M. J., and Abrahamson,
+J. (1987). A genetic
+linkage map of the human genome. Cell 57, 319-337.
+Fain, P. R., Barker, D. F., Goldgar, D. E., Wright, E., Nguyen, K.,
+Carey, J., Johnson, J., Kivlin, J., Willard, H., Mathew, D., Ponder, B.,
+and Skolnick, M. (1987). Geneticanalysisof
+NFl: identification of close
+flanking markers on chromosome
+17. Genomics
+7, 340-345.
+Falconer, D. S. (1951). Two new mutants, “trembler”
+and “reeler,” with
+neurological
+action in the house mouse (Mos musculus L.). J. Genet.
+50. 192-201.
+
+DNA Duplication
+231
+
+Mutation
+
+Associated
+
+with CMTlA
+
+France, B., Rincon-Limas,
+D., Nakamura,
+Y., Patel, P. I., and Lupski,
+J. Ft. (1990). An Mspl RFLP at the D17S258 locus. Nucl. Acids Ftes.
+78, 7196.
+Green,
+Mouse
+
+M. C. (1989). Genetic Variants and Strains
+(New York: Oxford University
+Press).
+
+of the Laboratory
+
+Grundy, H. O., Peltz, G., Moore, K. W., Golbus, M, S., Jackson,
+L. G.,
+and Lebo, R. V. (1989). The polymorphic
+Fey receptor gene maps to
+human chromosome
+lq. Immunogenetics
+29, 331-339.
+Herrmann,
+B. G., Barlow, D. P., and Lehrach, H. (1987). A large inverted duplication
+allows homologous
+recombination
+between chromosomes heterozygous
+for the proximal t complex inversion. Cell 48,
+813-825.
+Hibbs, M. L., Bonadonna,
+L., Scott, B. M., McKenzie,
+I. F. C., and
+Hogarth, P. M. (1988). Molecular cloning of a human immunoglobulin
+G Fc receptor.
+Proc. Natl. Acad. Sci. USA 85, 2240-2244.
+Killian, J. M., and Kloepfer, H. W. (1979).
+a dominant gene for Charcot-Marie-Tooth
+5, 515-522.
+
+Homozygous
+neuropathy.
+
+expression
+of
+Ann. Neural.
+
+Kornreich,
+R., Bishop, D. F., and Desnick, R. J. (1990). a-Galactosidase A gene rearrangements
+causing Fabry disease. Identification
+of
+short direct repeats at breakpoints
+in an A/u-rich gene. J. Biol. Chem.
+265, 9319-9326.
+Lathrop, G. M., and Lalouel, J.-M. (1988). Efficient computations
+multilocus
+linkage analysis. Am. J. Hum. Genet. 42, 498-505.
+
+in
+
+Lawrence,
+J. B., Singer, R. H., and McNeil, J. A. (1990). Interphase
+and metaphase
+resolution of different distances within the human dystrophin gene. Science 249, 928-932.
+Lindsley, D., and Zimm, G. (1985). The genome of Drosophila
+gasfer. Part 1: genes A-K. Dros. Inf. Serv. 62.
+
+melano-
+
+Litt, M., and Luty, J. A. (1989). A hypervariable
+microsatellite
+revealed
+by in vitro amplification
+of a dinucleotide
+repeat within the cardiac
+muscle actin gene. Am. J. Hum. Genet. 44, 397-401.
+Lupski, J. R., Garcia, C. A., Parry, G. J., and Patel, P. I, (1991). Charcot-Marie-Tooth
+polyneuropathy
+syndrome:
+clinical, electrophysiological, and genetic aspects. In Current Neurology. S. Appel, ed. (Chicago: Mosby-Yearbook),
+pp. 1-25.
+Magenis, R. E., Brown, M. G., Allen, L., and Reiss, J. (1986). De novo
+partial duplication of 17~ [dup(l7)(pl2-pl1.2)]:
+Clinical Report. Am.
+J. Med. Genet. 24, 415-420.
+McAlpine, P. J., Feasby, T. E., Hahn, A. F., Komamicki,
+L., James, S.,
+Guy, C., Dixon, M., Qayyum, S., Wright, J., Coopland, G., Lewis, M.,
+Kaita, H., Philipps, S., Wong, P., Koopman, W., Cox, D. W., and Yee,
+W. C. (1990). Localization
+of a locus for Charcot-Marie-Tooth
+neuropathy type IA (CMTIA)
+to chromosome
+17. Genomics
+7, 408-415.
+McKusick,
+V. A. (1990). Mendelian
+Johns Hopkins University
+Press).
+
+Inheritance
+
+in Man (Baltimore:
+
+The
+
+Middleton-Price,
+l-f. R., Harding, A. E., Monteiro, C., Berciano, J., and
+Malcolm, S. (1990). Linkage of hereditary motor and sensory neuropathy type I to the pericentromeric
+region of chromosome
+17. Am. J.
+Hum. Genet. 46, 92-94.
+Miller, S. A., Dykes, D. D., and Polesky,
+out procedure
+for extracting
+DNA from
+Acids Res. 76, 1215.
+
+H. F. (1988). A simple salting
+human nucleated cells. Nucl.
+
+Morton, N. E. (1956). The detection and estimation of linkage between
+the genes for elliptocytosis
+and the Rh blood type. Am. J. Hum. Genet.
+8, 80-96.
+
+Ott, J. (1978). A simple scheme for the analysis
+pedigrees.
+Ann. Hum. Genet. 42, 255-257.
+Ott, J. (1985).
+Johns Hopkins
+
+Analysis of Human
+University
+Press).
+
+Genetic
+
+of HLA linkages
+
+Linkage
+
+(Baltimore:
+
+in
+The
+
+Patel, P. I., France, B., Garcia, C., Slaugenhaupt,
+S. A., Nakamura,
+Y., Ledbetter, D. H., Chakravarti,
+A., and Lupski, J. R. (1990a). Genetic
+mapping of autosomal
+dominant Charcot-Marie-Tooth
+disease in a
+large French-Acadian
+kindred: identification
+of new linked markers on
+chromosome
+17. Am. J. Hum. Genet. 46, 801-809.
+Patel, P. I., Garcia, C., MontesdeOca-Luna,
+R., Malamut, R. I., France,
+B., Slaugenhaupt,
+S. A., Chakravarti, A., and Lupski, J. R. (1990b). Isolation of a marker linked to the Charcot-Marie-Tooth
+disease type 1A
+gene by differential Alu-PCR of human chromosome
+17-retaining
+hybrids. Am. J. Hum. Genet. 47, 926-934.
+Raeymaekers,
+P., Timmerman,
+V., De Jonghe,
+P., Swerts,
+L.,
+Gheuens, J., Martin, J.-J., Muylle, L., De Winter, G., Vandenberghe,
+A., and Van Broeckhoven,
+C. (1989). Localization of the mutation in an
+extended family with Charcot-Marie-Tooth
+neuropathy(HMSN
+I). Am.
+J. Hum. Genet. 45, 953-958.
+Ray, R., Rincon-Limas,
+D., Wright, R. A., Davis, S. N., Lupski, J. R.,
+and Patel, P. I. (1990). Three polymorphisms
+at the D17S29 locus.
+Nucl. Acids Res. 78, 4958.
+Sanger, F., Nicklen,
+with chain-terminating
+5467.
+
+S., and Coulson, A. R. (1977). DNA sequencing
+inhibitors. Proc. Natl. Acad. Sci. USA 74,5463-
+
+Schwartz, C. E., McNally, E., Leinwand, L., and Skolnick, M. H. (1986).
+A polymorphic
+human myosin heavy chain locus is linked to an anonymous single copy locus (D17Sl) at 17~13. Cytogenet.
+Cell. Genet. 43,
+117-l 20.
+Schwartz,
+D. C.,
+chromosome-sized
+Cell 37, 67-75.
+
+and Cantor,
+C. Ft. (1984). Separation
+of yeast
+DNAs by pulsed field gradient gel electrophoresis.
+
+Shyamala, V., Schneider,
+E., and Ferro-Luzzi
+Ames,
+dem chromosomal
+duplications:
+role of REP sequences
+nation event at the join-point. EMBO J. 9, 939-946.
+Skre, H. (1974). Genetic and clinical aspects
+Tooths disease. Clin. Genet. 6, 98-l 18.
+
+G. (1990). Tanin the recombi-
+
+of Charcot-Marie-
+
+Smith, A. C. M., McGavran,
+L., Robinson, J., Waldstein,
+G., Macfarlane, J., Zonona, J., Reiss, J., Lahr, M., Allen, L., and Magenis, R. E.
+(1986). Interstitial deletion of (17)(pll.2pl1.2)
+in nine patients. Am. J.
+Med. Genet. 24,393-414.
+Southern, E. M. (1975). Detection of specific sequences
+among DNA
+fragmentsseparated
+by gel electrophoresis.
+J. Mol. Biol. 98,503-517.
+Stratton, R. F., Dobyns, W. B., Greenberg,
+F., De Sana, J. B., Moore,
+C., Fidone, G., Runge, G. H., Feldman, P., Sekhon, G. S., Pauli, R.,
+and Ledbetter,
+D. H. (1986). Interstitial deletion of (17)(pl1.2pl1.2):
+report of six additional patients with a new chromosome
+deletion syndrome. Am. J. Med. Genet. 24, 421-432.
+Sullivan, D. E., Auron, P. E., Quigley, G. J., Watkins, P. C., Stanchfield,
+J.E., and Bolon, C. (1987). The nucleic acid blot analyzer. I: High speed
+imaging and quantitation of 32P-labeled blots. BioTechniques
+5, 872678.
+Timmerman,
+V., Raeymaekers,
+Swerts, L., Jacobs, K., Gheuens,
+and Van Broeckhoven,
+C. (1990).
+Tooth neuropathy
+type I (CMT la)
+Genet. 47, 680-685.
+
+P., De Jonghe, P., De Winter, G.,
+J., Martin, J.-J., Vandenberghe,
+A.,
+Assignment
+of the Charcot-Mariegene to 17pll.2-~12.
+Am. J. Hum.
+
+Nakamura,
+Y., Leppert, M., O’Connell, P., Wolff, R., Helm, T., Culver,
+M., Martin, C., Fujimoto, E., Hoff, M., Kumlin, E., andwhite,
+R. (1987a).
+Variable number of tandem repeat (VNTR) markers for human gene
+mapping. Science 235, 1616-l 622.
+
+Trask, B. J., Massa, H., Kenwrick, S., and Gitschier, J. (1991). Mapping
+of human chromosome
+Xq28 by two-color fluorescence
+in situ hybridization of DNA sequences to interphase cell nuclei. Am. J. Hum. Genet.
+48, 1-15.
+
+Nakamura,
+Y., Gillilan, S., O’Connell,
+P., Leppert,
+M., Lathrop,
+G. M., Lalouel, J.-M., and White, R. (1987b). Isolation and mapping of
+a polymorphic
+DNA sequence
+pYNH24 on chromosome
+2 (D2544).
+Nucl. Acids Res. 75, 10073.
+
+Tsubota, S. I., Rosenberg,
+Il., Szostak, H., Rubin, D., and Schedl, P.
+(1989). The cloning of the Bar region and the B breakpoint in Drosophila
+melanogaster:
+evidence for a transposon-induced
+rearrangement.
+Genetics 722, 881-890.
+
+Nakamura,
+Y., Lathrop, M., O’Connell, P., Leppert, M., Barker, D.,
+Wright, E., Skolnick,
+M., Kondoleon,
+S., Litt, M., Lalouel, J.-M., and
+White, R. (1988). A mapped set of DNA markers for human chromosome 17. Genomics
+2,302-309.
+
+Vance, J. M., Nicholson,
+G. A., Yamaoka,
+L. H., Stajich, J., Stewart,
+C.S., Speer, M. C., Hung, W.-Y., Roses, A. D., Barker, D., and PericakVance, M.A. (1989). LinkageofCharcot-Marie-Tooth
+neuropathytype
+la to chromosome
+17. Exp. Neural. 104, 186-189.
+
+Cell
+232
+
+Vance, J. M., Barker, D., Yamaoka, L. H., Stajich, J. M., Loprest, L.,
+Hung, W.-Y., Fischbeck,
+K., Roses, A. D., and Pericak-Vance,
+M. A.
+(1991). Localization
+of Charcot-Marie-Tooth
+disease type la (CMT
+la) to chromosome
+17~11.2. Genomics
+9, 623-628.
+Weber, J. L. (1990). Human DNA polymorphisms
+based on length
+variation in simple-sequence
+tandem repeats. In Genome Analysis,
+Vol. 1, Genetic and Physical Mapping, K. E. Davies and S. M. Tilghman, eds. (Cold Spring Harbor, New York: Cold Spring Harbor Laboratory Press), pp. 157-181.
+Weber, J. L., and May, P. E. (1989). Abundant class of human
+polymorphisms
+which can be typed using the polymerase
+chain
+tion. Am. J. Hum. Genet. 44, 388-396.
+Westerveld,
+A., Visser, R. P. L. S., Khan, P. M., and
+(1971). Loss of human genetic markers in man-Chinese
+matic cell hybrids. Nature New Biol. 234, 20-24.
+Wright, E. C., Goldgar,
+M.H. (1990). A genetic
+103-109.
+
+Bootsma,
+hamster
+
+DNA
+reacD.
+so-
+
+D. E., Fain, P. Ft., Barker, D. F., and Skolnick,
+map of human chromosome
+17~. Genomics
+7,
+
+Zoghbi, H. Y., Sandkuijl,
+L. A.,
+O’Brien, W. E., and Beaudet, A.
+dominant spinocerebellar
+ataxia
+on the short arm of chromosome
+Am. J. Hum. Genet. 44, 255-263.
+
+Ott, J., Daiger, S. P., Pollack, M.,
+L. (1989). Assignment
+of autosomal
+(SCAI) centromeric
+to the HLA region
+6, using multilocus linkage analysis.
+
+

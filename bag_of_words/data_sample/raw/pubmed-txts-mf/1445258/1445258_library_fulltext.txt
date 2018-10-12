@@ -1,0 +1,658 @@
+131
+
+Biochem. J. (1992) 288, 131-135 (Printed in Great Britain)
+
+Characterization of three osteogenesis imperfecta collagen ml(I)
+glycine to serine mutations demonstrating a position-dependent
+gradient of phenotypic severity
+John F. BATEMAN,* Ingrid MOELLER, Marnie HANNAGAN, Danny CHAN and William G. COLE
+Department of Paediatrics, University of Melbourne, Royal Children's Hospital, Parkville, Victoria 3052, Australia
+
+Type I collagen al(I) glycine to serine substitutions, resulting from G-to-A mutations, were defined in three cases of
+osteogenesis imperfecta (01). The Gly substitutions displayed a gradient of phenotypic severity according to the location
+of the mutation in the collagen triple helix. The most C-terminal of these, Gly565 to Ser, led to the lethal perinatal (type
+II) form of 01, whereas the more N-terminal mutations, Gly415 and Gly352 to Ser, led to severe 01 (type III/IV) and
+moderate 01 (type IVB) respectively. These data support the notion that glycine substitutions towards the C-terminus of
+the al(I) or a2(I) chains will be more clinically severe than those towards the N-terminus. This results from the more
+disruptive effect of the mutations at the C-terminus on helix initiation and C- and N-terminal helix directional
+propagation. This generalization must be modified by considering the nature of the glycine substitution and the
+surrounding amino acid sequence, since the helix is composed of subdomains of differing stability which will affect the
+ability of helix re-nucleation and propagation.
+
+INTRODUCTION
+
+EXPERIMENTAL
+
+Mutations in the genes for the proa(l) chains (COLIAJ) and
+proa2(I) chains (COLIA2) of type I collagen have been defined
+as& the molecular basis of the heritable connective tissue disorder,
+osteogenesis imperfecta (01), in at least 90 % of cases studied to
+date (for reviews see [1,2]). These mutations cover the gamut of
+possible gene defects, including rearrangements, deletions, insertions and a spectrum of point mutations.
+A relatively common type I collagen mutation in 01 is the
+substitution of glycine residues within the helical domain of the
+a l(I) and a2(I) chains. The occurrence of glycine in the triplet
+amino acid repeating sequence Gly-Xaa-Xaa is critical for the
+efficient formation and stability of the triple helix, the
+functional unit of the extracellular collagenous matrix. The
+substitution of any of these glycine residues disturbs helix
+propagation, leading to increased levels of lysine post-translational modification, reduced collagen secretion, increased degradation and reduced helical stability [3-5]. It has been proposed
+that glycine substitutions towards the C-terminus of the a-chains
+will be more clinically severe than those towards the N-terminus,
+consistent with the model that, since helix formation propagates
+from the C- to N-terminus, those mutations towards the Cterminus will be more disruptive to helix formation [1]. The best
+evidence in support of this comes from the al(I) Gly to Cys
+mutations [1,2]. However, the correlation of mutation position
+and clinical severity with other Gly substitutions is less clear, and
+it is becoming apparent that the nature of the glycine substitution
+and the surrounding amino acid sequence must be considered
+[1,6]. Many more mutations spanning the collagen helical domain
+will need to be characterized before any strict correlation can be
+made between the biochemical and clinical phenotypes.
+In this paper we define point mutations resulting in Gly to Ser
+substitutions in the proal(I) chains of three cases of OI. The
+most C-terminal of these, Gly565 to Ser, leads to the lethal
+perinatal (type II) form of 01, whereas the more N-terminal
+mutations, Gly4l5 and Gly352 to Ser, lead to severe 01 (type
+III/IV) and moderate OI (type IVB) respectively.
+
+Clinical summary
+A male baby, 0139, died 6 h after birth from perinatal lethal
+(type II) 01 [7]. 0158 had a severe form of 01 that was classified
+as type III/IVB. She died unexpectedly at 19 months of age. She
+had pale blue sclerae, dentinogenesis imperfecta, and severe
+fragility and bowing of the long bones. 0168 has type IVB OI.
+He is a 7-year-old boy with pale blue sclerae and dentinogenesis
+imperfecta. He has moderately severe short stature, well-aligned
+limbs, few fractures and a normal gait. Skin biopsies were
+obtained from the patients, the parents of 0139 and 0168, and
+controls with the approval of the Institutional Human Ethics
+Committee.
+
+Fibroblast collagen biosynthetic labelling
+After culture for 3 days in growth medium containing 0.25 mmsodium ascorbate (Sigma), confluent fibroblast cultures were
+labelled with 10 ,uCi of L-[5-3H]proline/ml (30 Ci/mmol; Amersham Corp.) for 18 h in medium containing 10 % (v/v) dialysed
+fetal calf serum (Flow Laboratories), 0.25 mM-sodium ascorbate
+and 0.1 mM-/J-aminopropionitrile fumarate (Sigma) [4,5]. The
+cell layer and medium fractions were separated for analysis and
+the procollagens, precipitated with 25 %-saturated (NH4)2SO4,
+were subjected to limited proteolysis with pepsin [4,5].
+
+SDS/polyacrylamide gel electrophoresis
+Collagen a-chains were resolved on 5 % (w/v) polyacrylamide
+separating gels containing 2 M-urea [4,5]. The a-chains were
+detected by fluorography [8].
+Thermal stability of collagen
+The freeze-dried [3H]proline-labelled collagens were dissolved
+in 0.4 M-NaCl/0. 1 M-Tris/HCl buffer, pH 7.4, at 4 'C. The
+samples were warmed stepwise (1 'C/min) from 34 'C to 43 'C,
+and at 0.5 'C intervals samples were taken and digested with a
+mixture of trypsin and chymotrypsin [9]. The proportion of the
+collagen that was resistant to proteolysis at each temperature
+
+Abbreviations used: 01, osteogenesis imperfecta; Tm, thermal denaturatiori temperature.
+*
+To whom correspondence should be addressed.
+
+Vol. 288
+
+132
+interval was determined by scintillation counting of collagen achain bands that were resolved by electrophoresis and identified
+by fluorography [10]. The thermal denaturation temperature, Tm,
+was defined as the temperature at which half of the collagen was
+degraded.
+Formation and chemical cleavage of mRNA:cDNA
+heteroduplexes
+Total RNA was isolated from confluent fibroblast cultures
+[11,12]. mRNA cDNA heteroduplexes were formed in a volume
+of 50 ,ul containing approx. 5 ng (50000-100000 d.p.m.) of
+labelled cDNA probe, 5-10,ug of total RNA, 80 % (v/v) formamide, 40 mM-Pipes, pH 6.4, 1 mM-EDTA and 0.4 M-NaCl. The
+mixture was denatured at 80 °C for 5 min, incubated at 60 °C for
+2 h and ethanol-precipitated. Chemical modification of mismatched nucleotides with hydroxylamine or osmium tetroxide,
+cleavage with piperidine and electrophoresis of the products on
+denaturing 7 M-urea/5 % acrylamide gels have been described
+[13-16].
+The apparent site of the mutation in the collagen chains, based
+on the localization of regional protein overhydroxylation, was
+used as a guide to the selection of suitable control cDNAs for
+heteroduplex formation. A control acl(I) cDNA probe, chosen to
+span the abnormal region, was purified and end-labelled with
+[a-32P]dCTP by the fill-in reaction using the Klenow fragment
+of DNA polymerase I [17].
+Amplification and sequencing of cDNA
+First-strand cDNA was synthesized from total RNA using a
+cDNA synthesis kit (Amersham Corp.) primed with specific
+oligonucleotide primers which were also used for PCR amplification. Approx. 50 ng of cDNA was amplified by the PCR [18]
+through 30 cycles using Taq polymerase (Perkin Elmer-Cetus)
+[19]. Each cycle consisted of denaturation at 92 °C for 30 s,
+annealing of primers at 64 °C for 1 min and primer extension at
+72 °C for 3 min [15,16]. In samples from 0158 and 0168 a 466 bp
+fragment corresponding to bases 1505-1970 [numbered from the
+start of transcription of the proa(I) mRNA] of the al(I) cDNA
+[20] was amplified with the primers 5'-TGCTGGAGAGGAAGGAAA-3' and 5'-TCCAGCCTCTCCATCTTT-3'. Sample 0139
+was amplified with the primers 5'-AAGAGGCGAGAGAGGTTT-3' and 5'-GACCACTTTCACCCTTGT-3' to give a
+332 bp fragment covering bases 2144-2475 of the al(I) cDNA
+sequence.
+Amplification products of the predicted size were purified,
+treated with T4 polynucleotide kinase [17] and cloned into a
+SmaI-cut dephosphorylated Ml 3mp8 vector (Amersham). Multiple clones of 0139 and 0158 DNA from independent amplification reactions were sequenced using a Sequenase kit (United
+States Biochemical Corp.) and the M13 universal primer. The
+amplification products of 0139 and 0168 were also directly
+sequenced [21] using the primers 5'-GACCACTTTCACCCTTGT-3'(0139) and 5'-TGCTGGAGAGGAAGGAAA-
+
+J. F. Bateman and others
+of the helix (results not shown). Fibroblast type I collagen
+secretion was impaired and bone and dermal tissue showed a
+reduction in type I collagen to approximately half control values
+[5]. In the less severe cases, 0158 and 0168, fibroblast collagen
+production was not reduced relative to age-matched control
+fibroblasts and collagen secretion was not noticeably impaired
+[22].
+Electrophoretic analysis of the type I collagen produced by
+fibroblast cultures from the parents of 0139 and 0168 showed
+only normally migrating al(I) and a.2(I) chains (results not
+shown). The parents of 0158 were unavailable for study.
+
+Detection and sequencing of abnormal mRNA sequences
+Heteroduplexes were formed using a control al(I) cDNA
+2278 bp XhoI-XhoI fragment which spanned the central portion
+of the collagen helix, and mRNA extracted from cultured 01 and
+control dermal fibroblasts. Hydroxylamine/piperidine treatment
+resulted in cDNA cleavage in all three cases, demonstrating the
+presence of mismatched C nucleotides producing labelled cleavage fragments of control cDNA of 176 bp, 365 bp and 815 bp in
+0168, 0158 and 0139 respectively (Figs. 2a and 2b). Treatment
+with osmium tetroxide/piperidine did not reveal any T mismatches.
+Hydroxylamine/piperidine treatment of heteroduplexes
+formed with mRNA from fibroblast cultures of the parents of
+0139 and 0168 indicated that the mutations were not present.
+To define the mutations, short lengths of first-strand al(I)
+cDNA were amplified by the PCR using unique oligonucleotides
+chosen to span the regions containing the mismatches. For 0158,
+sequencing of M 13 subclones of the amplified products identified
+the mutation as a single base substitution at base pair 1896 which
+converted the codon for glycine (GGC) to AGC (serine) at
+amino acid position 415 (numbered by the standard convention
+in which the first glycine of the triple helical domain of the achain is numbered one) of the helix (Fig. 3). The abnormal
+sequence was confirmed by sequencing of multiple clones from
+two separate PCR reactions. Clones containing the normal
+sequence (GGC) were also identified, indicating that the patient
+was heterozygous for the al(I) mutation.
+In 0139, subcloning and sequencing identified a G to A
+mutation at base 2346 of the proal(I) sequence, resulting in a
+1
+
+(111)t
+
+a1
+
+a2(1)-.
+
+2
+
+3
+
+5
+
+4
+
+....
+a_..A"
+am~~~
+~....
+
+_m_i
+
+_am -_
+
+V.W
+
+-
+
+6
+fiw
+
+_-
+
+3'(0168).
+RESULTS
+
+Collagen protein analysis
+Three cases of 01 showed abnormal, slowly migrating type I
+collagen al(I) and a2(I) chains when compared with age-matched
+control fibroblast collagen a-chains (Fig. 1). The slow migration
+in 0139 was directly demonstrated to be due to excessive levels
+of post-translational hydroxylation of lysine [5]. Analysis of the
+CNBr peptides of the al(I) chains showed that the overmodification was restricted to the al(I) CB8 and CB3 peptides,
+suggesting that the underlying mutation was.in the central region
+
+Fig. 1. Electrophoresis of pepsin-digested fibroblast collagens
+Fibroblast cultures were labelled for 18 h with [3H]proline and the
+collagens secreted in the medium were pepsin-digested and analysed
+without reduction on SDS/polyacrylamide gels (5 %) (see the
+Experimental section for details). Lanes 1, 3 and 5, control fibroblasts; lane 2, 0139; lane 4, 01158; lane 6, 0168 fibroblast collagen.
+The migration positions of type I collagen a l(I) and a2(I) chains and
+type III collagen [al(III)] are shown. The slow migration of the 01
+fibroblast a-chains due to increased lysine post-translational modification is indicated by arrowheads.
+
+1992
+
+Collagen a l(I) glycine to serine substitutions in osteogenesis imperfecta
+
+133
+
+(a)
+
+[52
+
+OS04
+0139 0162
+
+HA
+
+0139 0162
+
+2278 bp
+
+5t*
+,-
+
+Gly Arg Pro Gly Glu Ala Gly
+GGT CGT CCC GGT GAA GCT GGT
+GGT CGT CCC AGT GAA GCT GGT
+gSr
+
+Normal
+Mutant
+
+Normal
+Mutant
+
+I
+
+Normal
+Mutant
+
+* '
+
+....
+
+*m :~:-,:L:.-:
+...
+
+0-60
+
+0-60
+
+0-15
+
+0-15
+
+(b) b
+
+HA
+0119 0158 0168
+
+53
+
+S
+
+Gly Glu Pro Gly Lys Ala Gly
+GGA GAG CCC GGC AAG GCT OGA
+GGA GAG CCC AGC AAG GCT GGA
+Bar
+
+3
+
+OI58
+
+565
+Gly Pro Lys Gly Asp Arg Gly
+GGG CCT AAG GGT GAC AGA GOT
+GG0 CCT AAG AGT GAC AGA GGT
+
+3
+
+OI039
+
+Fig. 3. DNA sequence of the 01 mutations
+The mRNA regions containing the mismatched bases were PCRamplified and sequenced (see the Experimental section for details).
+The coding sequence of the normal and mutant alleles is shown, with
+Gly to Ser substitutions at positions 352, 415 and 565 of the al(I)
+helix indicated.
+
+-
+
+Reaction
+time (min)
+
+0168
+
+4LSJ
+
+-815bp
+
+11
+
+3
+
+OS04
+0119 0158 0168
+
+2278 bp
+
+100
+
+y-
+
+0)
+
+, 365 bp
+
+0
+
+a
+
+60
+
+0
+
+*:
+
+r
+
+Control
+40 2+
+-00158
+
+lhv
+
+20
+
+-A 0139A,
+
+__176 bp
+34
+
+Reaction
+
+time (min)
+
+.
+
+0-60 0-60 0-60
+
+0-15
+
+0-15 0-15
+
+Fig. 2. Detection of the csl(I) mRNA mutations by chemical modification
+and cleavage
+Total RNA from control and 01 fibroblasts was hybridized to a
+2278 bp XhoI-XhoI 32P-labelled fragment of the ol(I) cDNA and
+reacted with hydroxylamine or osmium tetroxide for 0-60 min as
+indicated, then treated with piperidine and the resultant fragments
+resolved on a 5 % (w/v) polyacrylamide gel (see the Experimental
+section for details). (a) In 0139, cleavage at mismatched and thus
+reactive Cs by hydroxylamine (HA) produced a 815 bp labelled
+fragment. OI62 has an undefined mutation resulting in different
+cleavage fragment and is included as a chemical cleavage control for
+the mismatch in 0139. Treatment with osmium tetroxide (OSO4),
+which detects mismatched Ts, did not produce a cDNA cleavage.
+32P-labelled molecular size markers of 255, 300, 397, 404, 427, 492,
+598 and 1027 bp were produced by MspI digestion of the 21hydroxylase B gene. (b) In 0158 or OI68, cleavage at mismatched Cs
+by hydroxylamine produced labelled fragments of 365 bp and 176 bp
+respectively. No mismatched Ts were detected by OS04 treatment.
+The chemical cleavage control was 0119, which contains no mutations in this region of the mRNA. 32P-labelled HaeIII fragments of
+(DX1 74 DNA molecular size standards were used to calculate the
+sizes of the cleavage fragments.
+
+heterozygous Gly565 to Ser substitution (Fig. 3). This mutation
+was confirmed by direct sequencing of the PCR-amplified product
+in which two sequences were apparent (G and A) at base pair
+2346, representing the sequence of the mutant and normal alleles
+Vol. 288
+
+35
+
+36
+
+37
+
+38 39 40 41
+Temperature (OC)
+
+42
+
+43
+
+*44
+
+Fig. 4. Thermal denaturation of type I collagen
+[3H]Proline-labelled collagens were prepared from the medium of
+0145 and control fibroblasts. They were treated with pepsin, and
+after inactivation of the pepsin the collagens were warmed slowly
+from 34 °C to 43 'C. Serial samples were taken and digested with
+trypsin/chymotrypsin, and the resistant chains were resolved by
+electrophoresis. The melting temperature ofthe helix was determined
+by the relative proportion of the a-chains that were resistant to
+proteolysis (see the Experimental section for details).
+
+(results not shown). In direct sequencing of the 0168 PCR
+products, two alternatives (G and A) were also identified at base
+pair 1707, demonstrating that this patient was also heterozygous
+for a G to A transversion, resulting in the substitution of Gly352
+by Ser in the product of the mutant allele.
+
+Collagen melting temperature
+Estimation of the thermal denaturation temperature (Tm) of
+type I collagen synthesized by 01 and control fibroblasts was
+made by measuring its resistance to proteinase digestion after
+heating to different temperatures (Fig. 4). In all cases the Tm was
+reduced relative to that of control type I collagen, but the
+magnitude of this reduction was greatest in the clinically most
+severe case, 0139. The Tm of 0139 type I collagen was approx.
+39.0 °C compared with 40.9 °C for control type I collagen. In
+0158 and 0168 the Tm was 40.5 °C and 40.4 °C respectively,
+representing a decrease compared with controls of 0.4 °C and
+0.5 °C respectively. Since the 01 cases were heterozygous, this
+reduction in Tm probably represents an underestimate of the
+
+134
+
+reduction in the stability of the mutant type I molecules. The Tm
+of 01 type III collagen was the same as in the control (results not
+shown).
+DISCUSSION
+The three axl(I) point mutations in these cases of OI were
+heterozygous for G to A transitions in glycine codons at base
+pairs 1707, 1896 and 2346, resulting in Gly to Ser substitutions
+at amino acids 352, 415 and 565. The mutations were away from
+exon-intron boundaries and thus must represent COLIAJ point
+mutations. In 0168 (Gly352 to Ser) and 0139 (Gly565 to Ser),
+protein analysis demonstrated normal parental collagen. Furthermore, in 0139, analysis of amniotic cell collagen from a
+subsequent pregnancy showed normal fetal collagen in twin
+babies (J. F. Bateman & T. Mascara, unpublished work). These
+data suggest that, as in the majority of other 01 cases [1,2], these
+cases represented sporadic new mutations. Parental mosaicism
+has been described in 01 [23,24] and was not formally discounted
+in these cases.
+These cases demonstrate a gradient of clinical severity from
+the more C-terminal glycine-to-serine substitution (0139, Gly565)
+leading to lethal perinatal 01, while mutations at Gly415 (0158)
+and Gly352 (0168) lead to the progressively less severe forms of
+01, type III/IV and type IVB respectively. The a-chains in all
+three cases displayed high levels of lysine post-translational
+modification due to disruption of helix propagation by the
+glycine substitution, a common finding in 01 [3-5]. This retardation of helix propagation often results in decreased collagen
+secretion and increased breakdown of the structurally abnormal
+molecule [4,5,22]. Decreased secretion was evident in the most
+severe case, 0139, but in 0158 and 0168 secretion was not
+significantly impaired. Since correct helix formation is critical for
+normal secretion, these data suggest that the mutations at Gly415
+and Gly352 may not lead to as severe a structural abnormality of
+the triple helix.
+The differential effect of these mutations on helix structure was
+also reflected in the decreased melting temperature of the type I
+collagen. 0139 (Gly565 to Ser) had a 1.4 °C reduction in Tm, while
+the less severe cases (Gly415 and Gly352 to Ser) had only a small
+reduction in Tm of 0.4-0.5 'C. However, the overall correlation
+of the extent of decrease of Tm with clinical severity has been
+poor, with some clinically mild cases showing a more significant
+reduction in helix stability than some lethal cases [2]. Ofparticular
+interest in this regard is the lethal case Gly631 to Ser [25], where
+the intact helix had a normal Tm but mammalian collagenase
+subfragments show a reduced stability relative to controls.
+There have been four other cases of acl(I) helix Gly to Ser
+mutations characterized to date. These occur at Gly844 [26],
+Gly832 [27], Gly631 and Gly598 [25]. Preliminary reports have been
+made of a further five, at Gly'009, Gly1003 [28], Gly964 [1], Gly913
+[28] and Gly460 [29]. These, in general, fit the pattern that the
+more C-terminal the mutation, the more severe the clinical
+consequences. There are, however, two cases of 01 with Gly to
+Ser mutations which do not fit this simple model and argue that
+a more comprehensive model must account for the effect of
+specific regional sequences. GIy832 [27] and Gly844 [26] to Ser
+mutations produce the milder type IV and type III phenotypes,
+although mutations on the C- and N-terminal sides of these
+produce the lethal phenotype.
+These data further indicate that the model which considers the
+collagen helix as a single functional unit in relation to helix
+formation and stabilization is inappropriate, and a more detailed
+model must consider the helix as being composed of subdomains
+of differing stability. One such model considers these domains as
+co-operative folding blocks [30] which result in non-linear helix
+
+J. F. Bateman and others
+formation and stabilization. The position of glycine mutations
+within these sequence subdomains will thus have a critical role in
+the effect of helix propagation on destabilization.
+The possible effect of the local sequence in determining the
+effect of the mutation on helical structure by providing domains
+of relatively low or high local helix stability has been explored by
+Bachinger & Davis [6]. Mutations in regions of low local stability
+would be less deleterious to helical stability. Further, according
+to this model, if sequences N-terminal to the mutation are of
+high stability, re-nucleation of helix formation could occur
+readily with minimal interruption to helix propagation. The nonlethal mutations at Gly832 and Gly844 are in such a region of
+lower stability, with a region of higher stability immediately Nterminal [6]. Thus disturbance of the helix folding caused by the
+mutations may be rescued by a relatively easy re-nucleation of
+triple helix folding after the mutations. In contrast, the mutations
+N-terminal to this region causing lethal 01 (Gly565, Gly598 and
+Gly631) lack such N-terminal re-nucleation sites ([6]; H.P. Bach-
+
+inger, personal communication).
+Correlation of the nature of the molecular defect with the
+clinical severity of01 remains an important goal. The devastating
+effect of the glycine mutations on the collagenous matrix results,
+at least in part, from the reduced secretion and increased
+degradation induced by the defect. The degradation of molecules
+containing a mutant al(I) consumes normal ccl(I) chains in the
+same molecule [31] resulting, in the case of al (I) mutations, in the
+destruction of as much as 75 % of the total collagen. In transgenic
+mice expression of as little as 10 % of a Gly to Cys mutant a l(I)
+gene resulted in a severe clinical phenotype [32], suggesting that
+this destruction of mutant-containing type I collagen molecules
+may not entirely account for the severity of the clinical consequences.
+The explanation may lie in the highly organized molecular
+packing of the collagen fibril, where a small structural abnormality in a relatively few secreted mutant collagen molecules
+is amplified through the fibrillar architecture resulting in a
+functionally abnormal matrix. An example of one such structural
+abnormality was demonstrated by Vogel et al. [33]. In this case
+of 01 a Gly784 to Cys mutation produced a flexible kink in the
+triple helix which on incorporation into fibrils in vitro delayed
+assembly and altered fibril morphology [34]. The overglycosylation of lysine induced by the mutation may also alter
+the ability of the collagen to pack into the unit cell of fibril
+structure. X-Ray diffraction studies on non-enzymic glycosylation of rat-tail tendon collagen fibrils has demonstrated a
+resulting distortion of the unit cell [35]. The relevance of this
+model to the relatively lower amount of overglycosylation that
+occurs in 01 collagen is still uncertain.
+The amplification of small structural distortions within the
+collagenous fibrillar matrix may exert a profound influence on
+the functional properties of the matrix. In particular, the molecular effect of these distortions on bone cell expression and
+mineralization are important areas for further research.
+This work was supported by grants from the National Health and
+Medical Research Council of Australia, the Royal Children's Hospital
+Research Foundation and the Osteogenesis Imperfecta Foundation.
+
+REFERENCES
+1. Byers, P. H. (1990) Trends Genet. 6, 293-300
+2. Kuivaniemi, H., Tromp, G. & Prockop, D. J. (1991) FASEB J. 5,
+
+-2052-2060
+
+3. Bonadio, J. & Byers, P. H. (1985) Nature (London) 316, 363-366
+4. Bateman, J. F., Mascara, T., Chan, D. & Cole, W. G. (1984)
+Biochem. J. 217, 103-115
+5. Bateman, J. F., Chan, D., Mascara, T., Rogers, J. G. & Cole, W. G.
+(1986) Biochem. J. 240, 699-708
+
+1992
+
+Collagen al(I) glycine to serine substitutions in osteogenesis imperfecta
+6. Bachinger, H.-P. & Davis, J. M. (1991) Int. J. Biol. Macromol. 13,
+152-156
+7. Sillence, D. O., Senn, A. & Danks, D. M. (1979) J. Med. Genet. 16,
+101-116
+8. Bonner, W. M. & Laskey, R. A. (1974) Eur. J. Biochem. 46, 83-88
+9. Bruckner, P. & Prockop, D. J. (1981) Anal. Biochem. 110, 360-368
+10. Bateman, J. F., Harley, V., Chan, D. & Cole, W. G. (1988) Anal.
+Biochem. 168, 171-176
+11. Lui, C. P., Slate, 0. L., Gravel, R. & Ruddle, F. H. (1979) Proc.
+Natl. Acad. Sci. U.S.A. 76, 4503-4506
+12. Wake, S. A. & Mercer, J. F. B. (1985) Biochem. J. 228, 425-432
+13. Cotton, R. G. H., Rodrigues, N. R. & Campbell, R. D. (1988) Proc.
+Natl. Acad. Sci. U.S.A. 85, 4397-4401
+14. Dahl, H.-H. M., Lamande, S. R., Cotton, R. G. H. & Bateman, J. F.
+(1989) Anal. Biochem. 183, 263-268
+15. Lamande, S. R., Dahl, H.-H. M., Cole, W. G. & Bateman, J. F.
+(1989) J. Biol. Chem. 264, 15809-15812
+16. Bateman, J. F., Lamande, S. R., Dahl, H.-H., Chan, D., Mascara, T.
+& Cole, W. G. (1989) J. Biol. Chem. 264, 10960-10964
+17. Sambrook, J., Fritsch, E. F. & Maniatis, T. (1989) Molecular
+Cloning: A Laboratory Manual, 2nd edn., Cold Spring Harbor
+Laboratory, Cold Spring Harbor, NY
+18. Saiki, R. K., Gelfand, D. H., Stoffel, S., Scharf, S. J., Higuchi, R.,
+Horn, G. T., Mullis, K. B. & Erlich, H. A. (1988) Science 239,
+487-491
+19. Kogan, S. C., Doherty, M. & Gitschier, J. (1987) N. Eng}. J. Med.
+317, 985-990
+20. Tromp, G., Kuivaniemi, H., Stacey, A., Shikata, H., Baldwin, C. T.,
+Jaenisch, R. & Prockop, D. J. (1988) Biochem. J. 253, 919-922
+
+Received 10 March 1992/18 May 1992; accepted 29 May 1992
+
+Vol. 2&8
+
+135
+
+21. Bachmann, B., Luke, W. & Hunsmann, G. (1990) Nucleic Acids Res.
+18, 1309
+22. Bateman, J. F., Chan, D., Lamande, S., Mascara, T. & Cole, W. G.
+(1988) Ann. N.Y. Acad. Sci. 543, 95-105
+23. Wallis, G. A., Starman, B. J., Zinn, A. B. & Byers, P. H. (1990) Am.
+J. Hum. Genet. 46, 1034-1040
+24. Cohn, D. H., Starman, B. J., Blumberg, B. & Byers, P. H. (1990)
+Am. J. Hum. Genet. 46, 1034-1040
+25. Westerhausen, A., Kishi, J. & Prockop, D. J. (1990) J. Biol. Chem.
+265, 13995-14000
+26. Pack, M., Constantinou, C. D., Kalia, K., Nielsen, K. B. & Prockop,
+D. J. (1989) J. Biol. Chem. 264, 19694-19699
+27. Marini, J. C., Grange, D. K., Gottesman, G. S., Lewis, M. B. &
+Koeplin, D. A. (1989) J. Biol. Chem. 264, 11893-11900
+28. Cohn, D. H., Wallis, G., Zhang, X. & Byers, P. H. (1990) Matrix 10,
+236
+29. Byers, P. H., Wallis, G. A. & Willing, M. C. (1991) J. Med. Genet.
+28, 433-442
+30. Privalov, P. L. (1982) Adv. Protein Chem. 35, 1-104
+31. Prockop, D. J. & Kivirikko, K. I. (1984) N. Engl. J. Med. 311,
+376-386
+32. Stacey, A., Bateman, J. F., Choi, T., Mascara, T., Cole, W. G. &
+Jaenisch, R. (1988) Nature (London) 332, 131-136
+33. Vogel, B. E., Doelz, R., Kadler, K. E., Hojima, Y., Engel, J. &
+Prockop, D. J. (1988) J. Biol. Chem. 263, 19249-19255
+34. Kadler, K. E., Torre-Blanco, A., Adachi, E., Vogel, B. E., Hojima,
+Y. & Prockop, D. J. (1991) Biochemistry 30, 5081-5088
+35. Tanaka, S., Avigad, G., Brodsky, B. & Eikenberry, E. F. (1988)
+J. Mol. Biol. 203, 495-505
+
+

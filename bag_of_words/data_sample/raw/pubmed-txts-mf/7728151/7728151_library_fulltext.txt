@@ -1,0 +1,1599 @@
+HUMAN MUTATION 5 6 6 7 5 (1995)
+
+RESEARCH ARTlCLE
+
+Germline Mutations in the von Hippel-Lindau
+Disease Tumor §uppressor Gene: Correlations
+Fan Chen, Takeshi Kishida, Masahiro Yao, Thomas Hustad, Damjan Glavac, Michael Dean,
+James R. Gnarra, Mary Lou Orcutt, Fuh Mei Duh, Gladys Glenn, Jane Green, Y. Edward Hsia,
+James Lamiell, Hua Li, Ming Hui Wei, Laura Schmidt, Kalman Tory, Igor Kuzmin,
+Tom Stackhouse, Farida Latif, W. Marston Linehan, Michael Lerman, and Berton Zbar*
+Program Resources, Inc. IDynCorp, National Cancer InstituteFrederick Cancer Research and Deuelopment Center, Frederick,
+Maryland 2 1702-1201 (F.C., F.M. D., H. L., M. H. W., K. T., L. S., T. S. ), Laboratory of Immunobiology, and the Laboratory
+of Viral Carcinogenesis, National Cancer Institute Research and Development Center, Frederick, Maryland 2 1702-1201 (B. Z.,
+T.K., M.Y., T.H., D.G., M.D., M.L.O., I.K., F.L., M.L.), Surgery Branch, and Cancer Diagnosis Branch, National
+Cancer Institute, Bethesdu, Maryland 20892 (J.R. G., G. G., W. M. L. ), Division of Community Medicine, Memorial University
+of Newfoundland, St. John's, Newfoundland, Canada A1 B 3V6 (1. G. ), John A. Burns School of Medicine, the University of
+Hawaii, Honolulu, Hawaii 96826 (Y. E.H.), Brooke Army Medical Center, Fort Sam Houston, Texas 78234-6200 (J. L.);
+Fax: 301-846-6145
+Communmted by Haig H. Kazazian, Jr.
+
+von Hippel-Lindau disease (VHL) is an inherited neoplastic disease characterized by a predisposition
+to develop retinal angiomas, central nervous system hemangioblastomas, renal cell carcinomas, pancreatic cysts, and pheochromocytomas. The VHL gene was recently isolated by positional cloning. The
+cDNA encodes 852 nucleotides in 3 exons. The VHL gene is unrelated to any known gene families.
+We identified germline mutations in 851114 (75%) of VHL families. Clinical heterogeneity is a
+well-known feature of VHL. VHL families were classified into 2 types based on the presence or
+absence of pheochromocytoma. The types of mutations responsible for VHL without pheochtomocytoma (VHL type 1) differed from those responsible for VHL with pheochromocytoma (VHL type 2).
+Fifty-six % of the mutations responsible for VHL type 1 were microdeletionsiinsertions, nonsense
+mutations, or deletions: 96Yo of the mutations responsible for VHL type 2 were missense mutations.
+Specific mutations in codon 238 accounted for 43% of the mutations responsible for VHL type 2. The
+mutations identified in these families will be useful in presymptomatic diagnosis. The identification of
+mutations associated with phenotypes contributes to the understanding of fundamental genetic mechanisms of VHL disease. C) 1995 WiIey-Liss, 1nc.f
+KEY WORDS:
+
+von Hippel-Lindau Disease, Germline Mutation, Pheochromocytoma, Renal Cell Carcinoma
+
+INTRODUCTION
+Hippel-Lindau
+(VHL) disease (MM
+#19330) is an inherited neoplastic disorder characterized by a predisposition to develop tumors in
+the eyes, central nervous system (CNS), kidneys,
+adrenal glands, and pancreas (Melmon and Rosen,
+1964). Clinical heterogeneity is a well-known feature of VHL disease (Lamiell et a]., 1989; Glenn et
+al., 1990, 1991; Neumann and Wiestler, 1991).
+While affected members of all VHL families are
+predisposed to develop retinal angiomas and CNS
+hemangioblastomas, families vary in predisposition
+to develop pheochromocytomas, pancreatic cysts,
+von
+
+0 1995 WILEY-LISS. INC. +Thisarticle is a US Government
+work and, as such, is in the public domain in the United States of
+America.
+
+and renal cell carcinomas. Differences in predisposition to tumors have been most carefully documented for pheochromocytoma, which occur in
+about 20% of VHL families (Lamiell et al., 1989;
+Glenn et al., 1990).
+There is no satisfactory explanation for the clinical heterogeneity observed in VHL. While the
+VHL gene is known to be a tumor suppressor gene,
+
+Received March 28, 1994 accepted May 24, 1994.
+
+*To whom reprint requestdcorrespondence should be ad-
+
+dressed.
+
+VHL GERMLINE MUTATIONS
+
+it is difficult to envision a null allele producing
+different neoplastic phenotypes. Allelic heterogeneity or a contiguous gene syndrome have been
+proposed as the basis for the observed clinical heterogeneity (Glenn e t al., 1991; Neumann and
+Wiestler, 1991).
+The VHL gene was recently isolated by positional cloning (Latif et al., 1993). The gene was
+localized to chromosome 3 ~ 2 5 - 2 6by linkage analysis (Seizinger et al., 1988; Hosoe et al., 1990); 3
+nested germline deletions (100-380 kb), detected
+by pulsed-field gel electrophoresis, provided a molecular access to the gene (Yao et al., 1993). The
+partial 1.64-kilobase (kb) cDNA detected transcripts of 6 and 6.5 kb. The cDNA encodes 852
+nucleotides in 3 exons. The predicted protein contains an acidic pentameric repeat that has homology to an acidic repeat domain in the procyclic surface membrane protein of Trypanaosoma brucei. The
+VHL gene has the characteristics of a classic tumor
+suppressor gene: loss of the wild-type allele has
+been demonstrated in renal cell carcinomas from
+VHL patients (Gnarra et al., 1994), and mutations
+of the gene have been found in sporadic renal cell
+carcinomas, together with a loss of heterozygosity
+(Latif et al., 1993; Gnarra et al., 1994).
+The purpose of this work was to define the spectrum of mutations in the germline of a large number
+of unrelated patients with VHL and to correlate the
+VHL mutations with phenotype. Previously, we
+found that 12% of unrelated patients had large
+(4-15-kb) deletions in the VHL gene (Latif et al.,
+1993). In this study we examined 852 nucleotides
+of the coding region for mutations by SSCP and
+DNA sequencing. The mutations identified will
+facilitate the presymptomatic diagnosis of VHL.
+The type of mutation found in patients with pheochromocytomas suggest possible mechanisms of tumorigenes is.
+
+MATERIALS AND METHODS
+Clinical
+
+We tested samples from affected members of 114
+apparently unrelated VHL families for mutations.
+The panel consisted of one affected individual from
+VHL families 1-41 (Hosoe et al., 1990; Glenn et
+al., 1992) and of 73 additional families identified
+during a nationwide search for VHL families. Families came from the United States, Canada, Puerto
+Rico, and Hawaii. The diagnostic criteria for VHL
+have been described (Hosoe et al., 1990). Families
+predisposed to VHL without a member affected
+with pheochromocytoma were classified as VHL
+type 1; families predisposed to develop VHL with at
+
+67
+
+least one member affected with pheochromocytoma
+were classified as VHL type 2. Medical records from
+affected individuals were reviewed at the National
+Cancer Institute, National Institutes of Health
+(NIH). Members of 56/114 VHL families studied in
+this report were examined (after informed consent)
+at the Clinical Center of the NIH (Bethesda, MD).
+A panel of 96 normal individuals (parents of CEPH
+families) were used to test for polymorphisms in the
+VHL gene.
+Polymerase Chain Reactions
+
+Genomics DNAs were amplified by the polymerase chain reaction (PCR) under the following
+conditions: 50-100 ng of template DNA, 1 x
+PCR buffer (Boehringer Mannheim), 10 pmoles of
+each PCR primer, 200 pM each of dGTP, dATP,
+dTTP, and dCTP, and 0.5 units of Taq DNA polymerase (Boehringer Mannheim) in 1 vol of 10 pl,
+with an initial 3-min denaturation at 95"C, followed by 35 step cycles of 95"C/Imin, 58"C/1 min,
+and 72"C/2 min, and final extension 72"C/5 min,
+in a PCR 9600 Perkin Elmer Cetus machine.
+SSCP Analysis
+
+Single-strand
+
+conformation
+
+polymorphism
+
+(SSCP) analysis was performed as previously described (Orita et al., 1989; Glavac and Dean,
+1993). A 10-pl aliquot of each PCR reaction, prepared as described above, containing 1 pCi
+[ C X ~ ~ S I ~was
+A Tadded
+P to 5 pl of stop-solution (10
+mM NaOH, 95% formamide, 0.05% xylene cyanol, 0.05% bromophenol blue), heated to 95°C for
+5 min, and chilled on ice. The entire mixture was
+then loaded onto nondenaturing hydrolink gels (0.5
+X MDE, 0.6 X TBE, 10% glycerol) (AT Biochemicals, Malvern, PA). The gels were run at 5 W
+overnight at room temperature, dried on Whatman
+3MM paper and exposed to X-ray film overnight.
+The following primers for SSCP were used:
+
+K54 5 ' GAAATACAGTAACGAGTTGGCC
+TAGC 3' sense
+84 5 ' TCGGCCTCGTCCCAGTTCTC 3' antisense
+
+3b 5' GCGGCGTCCGGCCCGGGTGGTCT
+GGAT 3' sense
+lob 5 ' GACTGCGATTGCAGAAGATGACC
+TGGG 3 ' antisense
+MA2A 5 ' GGCCCGTGCTGCGCTCGGTGA
+ACT 3' sense
+101 S'CCCTGCTGGGTCGGGCCTAAGCG
+CCGGGCCCGT 3 ' antisense
+K55 5' GTGGCTCTTTAACAACCTTTGC3'
+sense
+
+68
+
+CHENETAL.
+
+K56 5‘ CCTGTACTTACCACAACAACCTT
+ATC 3 ‘ antisense
+YHlA 5’ TTCCTTGTACTGAGACCCTAGT
+3 ’ sense
+6b 5’ TACCATCAAAAGCTGAGATGAAA
+CAGTGTAAGT 3 ’ antisense
+Primers were designed to amplify each exon and
+the exon-intron boundaries.
+Sequencing of PCR Products
+
+SSCP-positive samples were amplified by PCR
+with one primer biotinylated (Hultman et al.,
+1989) at the 5‘ end in a total volume of 50 pl.
+Biotinylated products were combined with streptavidin-conjugated Dynabeads (Dynal AS, Oslo,
+Norway), followed by alkali denaturation to retain
+biotinylated single strand products. These templates were subjected to dideoxy sequencing reactions using [ C X ~ ~ S I ~label
+A T Pand Sequenase version 2.0 (U.S. Biochemicals). The reaction
+products were separated o n 6% denaturing polyacrylamide gels (National Diagnostics, Atlanta,
+GA). Sequencing of both strands of genomic DNA
+was performed to confirm a mutation. In some
+cases, PCR products were subcloned using the TA
+cloning kit (Invitrogen) or pCR-Script (Stratagene) and sequenced to confirm complicated mutations. Several different primers were used to
+identify mutations in exon 1; the sequence of these
+primers is available from the authors on request.
+Haplotype Analysis
+
+Haplotypes were determined with four microsatellite polymorphic probes, D3S1038, D3S13 17,
+D3S1350, and D3S1335 and the nucleotide 19
+polymorphism within the VHL disease gene. The
+frequencies of heterozygotes were D3S1038: 0.79;
+D3S1317: 0.68; D3S1350: 0.70; D3S1335: 0.64,
+and the nucleotide 19 VHL polymorphism: 0.45.
+
+RESULTS
+Germline Mutations in the VHL Gene
+
+We identified germline mutations in the VHL
+gene in 8 9 1 14 (75%) of the families in our panel.
+Sixty-seven mutations in the VHL gene detected
+by SSCP and DNA sequencing are described in
+Table 1; 18 germline deletions (4-380 kb) in the
+VHL gene detected by Southern blotting or
+pulsed-field gel electrophoresis were described previously (Yao et al., 1993; Latif et al., 1993). We
+identified 49 missense, 6 nonsense, and 12 microdeletion/insertion mutations in the VHL gene
+
+(Table 1, Figs. 1, 2). All mutations were located
+between nucleotides 376 and 776, a region of 400
+nucleotides (Fig. 1). Mutations in the VHL gene
+were found in each of the 3 coding exons; mutations clustered at the 3’ end of exon 1 and the 5’
+end of exon 3. No mutations were detected in the
+acidic pentameric repeat element located in exon
+1. 41/67 mutations that we detected were unique
+to individual VHL families; 26/67 mutations were
+detected in 2 or more VHL families. T h e most
+common mutation, detected in 12 families, occurred at a CpG site at nucleotides 712 and 713
+(codon 238). The other mutations detected in 2 or
+more families were located at nucleotide 746 (4
+families) and nucleotides 439, 470, 505, 549, and
+686 (2 families). All missense mutations were predicted t o replace the existing amino acid with an
+amino acid from a different class. VHL mutations
+were detected in affected family members, but not
+in unaffected family members or 96 normal individuals.
+The frequency of mutations in codon 238 in our
+VHL family panel raised the possibility that families with these mutations had a common ancestor.
+Haplotype analysis with 5 polymorphic markers located within 300 kb of the VHL gene indicated
+that 718 codon 238 mutations were of independent
+origin. We identified 7 haplotypes on 8 independent disease chromosomes (data not shown). Additional evidence in support of the independent
+origin of these mutations was the fact that families
+with the codon 238 mutations were of English,
+French Canadian, German, Portuguese, and Spanish ancestry. Haplotype analysis of other VHL families with identical mutations is in progress.
+We detected two polymorphisms in the VHL
+gene at the 5‘ end of exon 1. A t nucleotide 19, an
+A to G change was observed with a frequency of
+heterozygotes of 45%. At nucleotide 287, a C to T
+change was observed with a frequency of heterozygotes of 2%. In 66/67 VHL families, we identified
+a single sequence change in the VHL gene. Affected members of family 2,693 had a 3 nucleotide
+deletion at nucleotide 439 as well as a C to A
+transversion at nucleotide 234. Although not yet
+identified in normal individuals, the change from
+C to A at nucleotide 234 may represent a polymorphism.
+The deletion mutations, previously identified
+(Latif et al., 1993), were drawn o n the cDNA map
+to illustrate the affected portions of the gene (Fig.
+1). Some mutations deleted parts of the 3’ untranslated region and did not appear to involve coding
+sequences.
+
+VHL GERMLINE MUTATIONS
+TABLE 1. Mutations
+
+Family ID
+3682
+3563
+4325
+4479
+2753
+3682
+2693
+2956
+4389
+4327
+3101
+3630
+3177
+3312
+4416
+2612
+3568
+1255
+2547
+3476
+3127
+3669
+3315
+4401
+3738
+3759
+3760
+4409
+4486
+1239
+4414
+4410
+3710
+3969
+3575
+3616
+4402
+4485
+4408
+4422
+3509
+3820
+3618
+3748
+4480
+2338
+3490
+4477
+4405
+3699
+4421
+3718
+3767
+3493
+3731
+3517
+3739
+3003
+3624
+3786
+3314
+4419
+4403
+3708
+3770
+3736
+3513
+
+Found in 67 Families With von Hippel-Lindau Disease
+
+NT (codon)
+
+Change
+
+Consequence
+
+376 (126)
+393 (131)
+407 (136)
+421 (141)
+430 (144)
+439 (147)
+439 (147)
+439 (147)
+445 (149)
+446 (149)
+446 (149)
+452 (151)
+457 (153)
+468 (156)
+469 (157)
+470 (157)
+470 (157)
+475 (159)
+491 (164)
+505 (169)
+505 (169)
+544 (182)
+545 (182)
+546 (182)
+547 (183)
+549 (183)
+549 (183)
+553 (185)
+558 (186)
+564 (188)
+570 (190)
+599 (200)
+617 (206)
+658 (220)
+661 (221)
+675 (225)
+683 (228)
+686 (229)
+686 (229)
+695 (232)
+697 (233)
+698 (233)
+699 (233)
+704 (235)
+710 (237)
+712 (238)
+712 (238)
+712 (238)
+712 (238)
+712 (238)
+713 (238)
+713 (238)
+713 (238)
+713 (238)
+713 (238)
+713 (238)
+713 (238)
+715 (239)
+739 (247)
+746 (249)
+746 (249)
+746 (249)
+746 (249)
+764 (255)
+769 (257)
+769 (257)
+776 (259)
+
+del G
+del G
+C to G
+G to T
+C to T
+T to A
+del TTC
+del TTC
+A to C
+A to G
+A to C
+G to T
+Del CGCGTCGTC
+ins C
+C to G
+C to T
+C to T
+T to A
+G to A
+T to C
+T to C
+del A
+G to A
+C to G
+T to C
+C to A
+C to A
+G to C
+C to A
+G to T
+C to G
+ins AGA
+T to A
+G to A
+del A
+del A
+C to T
+TtoC
+T to C
+G to A
+TtoC
+G to T
+C to G
+A to G
+T to A
+C to T
+C to T
+C to T
+C to T
+C to T
+G to A
+G to A
+G to A
+G to A
+G to A
+G to A
+G to A
+ins TTGTCCGT
+del A
+T to C
+T to C
+T to C
+T to C
+T to C
+G to T
+G to A
+T to A
+
+frameshift
+frameshift
+Ser to Trp
+Glu to stop
+Gln to stop
+Phe to Ile
+del Phe
+del Phe
+Asn to His
+Asn to Ser
+Asn to Thr
+Ser to Ile
+del ArgValVal
+frameshift
+Pro to Ala
+Pro to Leu
+Pro to Leu
+Trp to Arg
+Gly to Asp
+Tyr to His
+Tyr to His
+frameshift
+Ser to Asn
+Ser to Arg
+Tyr to His
+Tyr to stop
+Tyr to stop
+Gly to Arg
+His to Glu
+Trp to Cys
+Phe to Leu
+ins Glu
+Leu to stop
+Ala to Thr
+frameshift
+splice, frameshift
+Thr to Ile
+Leu to Pro
+Leu to Pro
+Arg to Gln
+Cys to Arg
+Cys to Phe
+Cys to Trp
+Gln to Arg
+Leu to His
+Arg to Trp
+Arg to Trp
+Arg to Trp
+Arg to Trp
+Arg to Trp
+Arg to Gln
+Arg to Gln
+Arg to Gln
+Arg to Gln
+Arg to Gln
+Arg to Gln
+Arg to Gln
+frameshift
+frameshift
+Leu to Pro
+Leu to Pro
+Leu to Pro
+Leu to Pro
+Leu to Pro
+Glu to stop
+Glu to Lys
+Leu to Gln
+
+69
+
+70
+
+CHENETAL.
+
+A
+
+-
+
+B
+
+FIGURE 1.
+
+Distribution of mutations in the von Hippel-Lindau
+disease gene. A: Cloned exons are indicated by boxes, and
+the exon 1 pentameric acidic repeat and the 3’ untranslated
+region in exon 3 by cross-hatching. Arrowheads pointing up
+indicate nucleotide substitutions; arrowheads pointing down
+
+indicate insertions; vertical lines within exons indicate nucleotide deletions; * represent nonsense mutation. B: Positions
+of deletions in 9 unrelated patients with VHL. Subfragments
+of the cDNA generated by PCR were used as probes in
+Southern blot analyses (Latif et al., 1993).
+
+Correlations Between Genotypes
+and Phenotypes
+The major phenotypic difference between VHL
+families is the presence or absence of pheochromocytomas (Lamiell et al., 1989; Glenn et al., 1990).
+Accordingly, VHL families in our panel were classified into 2 types based o n the presence of pheochromocytoma. 8811 14 (77%) of families were
+VHL without pheochromocytoma (type 1); 26/114
+(23%) of familes were VHL with pheochromocytoma (type 2). The disease manifestations for affected members of the 85 VHL families whose mutations have been identified are presented in Table
+2 and summarized in Table 3.
+The types of mutations responsible for VHL
+type 1 differed from those responsible for VHL type
+2 (Tables 2, 3). Nearly all families (35/36) with
+microdeletions/insertions, nonsense or deletion
+(4-380 kb) were identified in VHL type 1; 56% of
+the mutations responsible for VHL type 1 were
+mutations of these types.
+Microdeletions/insertions (P = 0.015) and deletion mutations (P = 0.004) were significantly
+correlated with VHL type 1 (Table 3). Virtually all
+(22/23) of the mutations identified for VHL type 2
+were missense point mutations. Mutations in
+codon 238 accounted for 10/23 (43%) of mutations
+identified for VHL type 2. Mutations in codon 238
+were strongly predictive of a predisposition to
+pheochromocytoma. 10/12 families with mutations
+
+at codon 238 had VHL type 2 compared to 13/73
+families without mutations at codon 238 (P =
+0.00002) (Table 4). The mutations at nucleotides
+712 (C to T) and 713 (G to A) inactivated an
+MspI restriction endonuclease site permitting ready
+detection of these mutations (Fig. 3).
+To test the relationship between pheochromocytomas and missense mutations in the VHL gene
+further, the database was analyzed according to the
+number of affected individuals with each type of
+VHL mutation at risk of developing pheochromocytomas (Table 5). There were 312 VHL affected
+individuals with missense mutations; 9113 12
+(29%) of these individuals developed pheochromocytoma. There were 210 VHL affected individuals with nonsense, microdeleticmiinsertion, or deletion mutations; only one out of 210 (0.5%) of
+these individuals developed a pheochromocytoma.
+This individual (family 3,103) had a deletion of
+the 3’ untranslated region that did not involve the
+coding region of the gene. Totally there were 92
+patients who developed pheochromocytomas;
+91/92 (99%) individuals had missense mutations in
+the VHL gene.
+There were 4 mutations found in both types of
+VHL families. Missense mutations at nucleotides
+686, 7 12, 7 13 and 746 were found in VHL types 1
+and 2.
+We also correlated phenotype with specific nucleotide changes. Two mutations, 505 T to C and
+
+VHL GERMLINE MUTATIONS
+
+71
+
+FIGURE 2. Detection of germhe VHL mutations. A: SSCP analysis of exon 3 demonstrating novel
+migrating fragments from 5 patients with VHL found to have missense mutations at nucleotides 712,
+713, 739, and 764. B: Demonstration of mutations at nucleotides 710, 712, and 713 by solid-phase
+sequencing of genomic DNA.
+
+712 C to T, observed in large (more than 40 affected), multigenerational families were associated
+with distinct manifestations of VHL. The 505 T to
+C mutation was associated with a high frequency of
+pheochromocytomas, but no renal cell carcinomas
+(family 3127) (Glenn et al., 1991). The 712 C to
+T mutation was associated with a high frequency of
+both pheochromocytomas and renal cell carcinomas (family 4405) (Green et al., 1986).
+
+DISCUSSION
+We examined a large panel of VHL families to
+determine the nature and distribution of mutations
+responsible for VHL disease. We identified mutations in 85/114 (75%) of VHL families. Mutations
+in the VHL gene were found in each of the 3 coding
+exons; mutations clustered in the 3‘ end of exon 1
+and the 5’ end of exon 3; a few mutations were
+detected in exon 2. The region in which point
+mutations were detected corresponded to the region
+of the VHL gene most highly conserved between
+the human gene and its mouse homolog (Latif, F.
+et al., unpublished data). Mutations detected by
+Southern blotting deleted different portions of the
+VHL gene; some mutations deleted parts of the 3’
+
+untranslated region and did not appear to involve
+coding sequences. Disruption of VHL gene function
+was produced by many types of mutations and by
+mutations located over a large area of coding sequence. Precise control of amino acid sequence in
+this region of the protein appears to be critical for
+maintenance of normal gene function.
+One important question is the location of the
+25% of the VHL germline mutations we have not
+yet identified. Because we have not found the 5’
+end of the gene it is possible that there are additional upstream exons that contain mutations. The
+VHL promoter and 3’ untranslated regions may
+also harbor mutations. Since large deletions confined to the 3’ untranslated region led to VHL it is
+clear that this region is important for VHL protein
+function; the long 3’ untranslated region may contribute to message localization and stability. Small
+intragenic mutations in the 3‘ untranslated region
+may lead to VHL. The possibility that there are
+mutations located within exons 1-3 not detected
+by SSCP appears unlikely because we found SSCP
+to be a sensitive method for detecting VHL mutations (Gnarra et al., 1994).
+In addition to defining the nature and distribu.
+
+72
+
+CHENETAL.
+TABLE 2.
+
+Disease Manifestations and Mutations in 85 VHL Families
+
+Family ID
+Mutation
+Families without pheo
+376 del G
+3682
+393 del G
+3563
+407 C to G
+4325
+421 G to T
+4479
+430 C to T
+2753
+439 T to A
+3682
+439 del TTC
+2693
+439 del TTC
+2956
+445 A to C
+4389
+446 A to G
+4327
+446 A to C
+3101
+452 G to T
+3630
+457 del CGCGTCGTC
+3177
+468 ins C
+3312
+469 C to G
+4416
+470 C to T
+2612
+470 C to T
+3568
+475 T to A
+1255
+544 del A
+3669
+545 G to A
+3315
+546 C to G
+4401
+549 C to A
+3759
+549 C to A
+3760
+1239
+564 G to T
+599 ins AGA
+4410
+617 T to A
+3710
+661 del A
+3575
+3616
+675 del A
+4408
+686 T to C
+3509
+697 T to C
+3820
+698 G to T
+3618
+699 C to G
+3748
+704 A to G
+710 T to A
+4480
+712 C to T
+3699
+713 G to A
+3739
+715 ins TTGTCCGT
+3003
+3624
+739 del A
+746 T to C
+3314
+746 T to C
+4419
+746 T to C
+4403
+764 T to C
+3708
+769 G to T
+3770
+3736
+769 G to A
+776 T to A
+3513
+deletiond
+2447
+deletion
+3625
+3968
+deletion
+deletion
+4411
+deletion
+2092
+3764
+deletion
+3102
+deI etion
+1678
+deletion
+3183
+deletion
+4383
+deletion
+3978
+deletion
+3567
+deletion
+1970
+deletion
+2875
+deletion
+3106
+deletion
+3222
+deletion
+3512
+deletion
+Totals
+
+Consequencea
+frameshift
+frameshift
+stop
+stop
+
+del Phe
+del Phe
+
+del Arg Val Val
+frameshift
+
+frameshift
+stop
+stop
+
+ins Glu
+stop
+
+frameshift
+frameshift
+
+frameshift
+frameshift
+
+stop
+
+Angioma
+
+CNSb
+
+111'
+218
+314
+
+111
+318
+114
+111
+317
+212
+317
+518
+111
+313
+213
+111
+316
+213
+011
+717
+215
+313
+111
+214
+111
+114
+111
+7110
+111
+616
+113
+014
+16/25
+111
+414
+111
+111
+212
+011
+111
+9127
+213
+213
+
+Oil
+
+617
+012
+317
+218
+111
+
+013
+113
+111
+416
+313
+111
+517
+115
+313
+
+Oil
+
+114
+011
+314
+111
+1/10
+111
+416
+213
+214
+14125
+111
+214
+011
+1/1
+112
+111
+111
+11127
+213
+213
+111
+014
+012
+416
+112
+112
+0115
+Oil0
+016
+011
+518
+418
+316
+315
+818
+
+212
+111
+012
+212
+518
+418
+012
+111
+1331285
+
+Oil
+
+314
+112
+616
+112
+212
+9115
+5110
+616
+011
+518
+618
+216
+315
+618
+212
+111
+112
+012
+618
+418
+212
+111
+1751285
+
+RCC
+
+Oil
+
+318
+014
+011
+117
+012
+317
+418
+111
+113
+013
+Oil
+016
+113
+0/1
+217
+415
+213
+Oil
+214
+
+Oil
+
+114
+011
+7110
+111
+316
+113
+214
+2125
+111
+114
+
+Oil
+
+011
+012
+Oil
+011
+5127
+113
+113
+
+Oil
+
+114
+212
+516
+112
+212
+0115
+1/10
+116
+111
+418
+518
+416
+515
+118
+112
+
+Oil
+
+212
+2/2
+618
+418
+112
+111
+1001285
+
+Pheo
+
+Oil
+
+018
+
+014
+011
+017
+012
+017
+018
+
+011
+013
+013
+
+Oil
+
+016
+013
+011
+017
+015
+013
+011
+014
+
+Oil
+
+014
+
+Oil
+
+0110
+
+Oil
+
+016
+013
+014
+0125
+011
+014
+
+Oil
+Oil
+
+012
+
+Oil
+
+011
+0127
+013
+013
+
+Oil
+
+014
+012
+016
+012
+012
+0115
+Oil0
+016
+
+Oil
+
+018
+
+018
+016
+015
+018
+
+012
+
+Oil
+
+012
+012
+018
+018
+
+012
+
+Oil
+
+01285
+(continued)
+
+VHL GERMLINE MUTATIONS
+TABLE 2.
+
+Family ID
+Families with pheo
+
+2547
+3476
+3127
+3738
+4409
+4486
+4414
+3969
+4402
+4485
+4422
+2338
+3490
+4477
+4405
+4421
+3718
+3767
+3493
+3731
+3517
+3786
+3103
+
+73
+
+Disease Manifestations and Mutations in 85 VHL Families (continued)
+
+Mutation
+
+consequence”
+
+491 G to A
+505 T to C
+505 T to C
+547 T to C
+553 G to C
+558 C to A
+570 C to G
+658 G to A
+683 C to T
+686 T to C
+695 G to A
+712 C to T
+712 C to T
+712 C to T
+712 C to T
+713 G to A
+713 G to A
+713 G to A
+713 G to A
+713 G to A
+713 G to A
+746 T to C
+
+Angioma
+
+CNSb
+
+RCC
+
+Pheo
+
+315
+418
+22/47
+113
+414
+2112
+217
+212
+212
+25/51
+
+415
+118
+4147
+013
+214
+12112
+317
+012
+012
+32151
+011
+314
+315
+111
+10141
+111
+112
+111
+419
+215
+214
+212
+9120
+971237
+
+015
+018
+0147
+013
+114
+1/12
+117
+012
+012
+29151
+111
+114
+015
+
+215
+318
+27147
+313
+114
+1112
+117
+112
+112
+1151
+
+Ill
+
+414
+215
+111
+29/41
+111
+012
+111
+519
+115
+314
+212
+7120
+1241237
+
+deletion
+
+Totals
+
+Oil
+
+15141
+111
+112
+011
+419
+015
+214
+012
+8120
+651237
+
+Ill
+
+314
+415
+111
+28141
+111
+212
+111
+219
+415
+214
+112
+1120
+921237
+
+”Consequence: stop means termination codon, blank means missense mutation.
+bAbbreviations: CNS, hemangioblastoma of the brain; RCC, renal cell carcinoma; Pheo, pheochromocytoma.
+“Number of individuals with given tumor typehumber of affected member.
+ddeietion: large deletion (4-380Kb) detected by Southern blotting or pulsed-field gel electrophoresis.
+
+TABLE 3.
+
+Types of Mutation Found in von Hippel-Lindau Disease Without (Type 1) and With (Type 2) Pheochromocytoma
+No. of mutations found
+
+VHL
+type
+
+1
+2
+Total
+
+No. of
+families
+
+Missense
+
+Nonsense
+
+88
+26
+114
+
+27
+22
+49
+
+6
+0
+6
+
+Microdeletion
+
+(1-9 bp)
+9
+0
+9
+
+Insertion
+
+(1-8 bp)
+3
+0
+3
+
+Deletion
+
+(4-380 kb)
+17
+1
+18
+
+”Each type of mutation was tested by Fisher’s exact test (2-tailed) for association with VHL types 1 or 2. Microdeletionslinsertions (P =
+0.015) and deletion mutations (P = 0.004) were predictive of VHL type 1. Missense mutations were significantly more common in VHL
+type 2 (P = 0.00001).Nonsense mutations were not significantly associated with VHL type 1 (P = 0.18).
+
+tion of mutations associated with VHL, we have
+begun to correlate both the types of mutations and
+the specific mutations with VHL phenotypes.
+There appeared to be a major difference in the types
+of VHL mutations in families with affected members with pheochromocytomas (VHL type 2) compared to families without members with pheochromocytomas (VHL type 1). This difference was
+observed either by comparing the frequencies of
+different types of mutations in families with and
+without pheochromocytoma (Table 3) or by estimating the frequencies of individuals with particular types of VHL mutations developing pheochromocytomas (Table 5). 91/92 (99%) individuals
+with VHL in our panel who developed pheochro-
+
+mocytomas had missense mutations; 22/23 (96%) of
+the families with pheochromocytomas had missense
+mutations. The only individual in our panel with
+pheochromocytomas without a missense mutation
+was a member of family 3103; Only one out of
+twenty affected members of this family had a
+pheochromocytoma. This family has a length mutation deleting part of the 3’ untranslated region but
+not involving the coding region.
+In terms of correlations between specific VHL
+mutations and phenotype, we found a mutation
+hot spot located at a CpG site in codon 238 that
+accounted for 43% of the mutations in families
+with VHL associated with pheochromocytomas.
+The presence of the codon 238 mutation strongly
+
+CHENETAL.
+
+74
+
+TABLE 4.
+
+TABLE 5. Pheochromocytomas in Patients With Different
+
+Correlation of Codon 238 Mutations With
+Pheochromocytoma”
+
+______
+
+Codon 238 mutation
+No codon 238 mutation
+
+Pheo
+
+No
+pheo
+
+10
+
+2
+
+13
+23
+
+60
+62
+
+Types of VHL Mutations
+
+P
+0.00002
+
+”Fisher’sexact test (2-tailed)was used to test for an association
+between codon 238 mutations and families with pheochromocytoma.
+
+Type of
+mutation
+Missense
+Nonsense
+Microdeletioniinsertion
+Deletion (4-380 kb)
+
+Individuals with
+pheochromocytomas
+N
+911312“
+0125
+0172
+11113
+
+%
+
+29
+
+0
+0
+0.9
+
+”Number of individuals with pheochromocytomasinumber of individuals with the specific type of mutation.
+
+VHL Mutation “Hot Spot” Located at Nucleotides 712 + 713
+
+Detection of hot spot mutation by restriction enzyme. Mutation at nucleotide 712 or 713
+inactivate an Mspl restriction site. N, normal control. 4.477-2.388: families with 712 or 713 mutation.
+t:afteribefore digestion by Mspl. Fragment size is shown on the right.
+
+FIGURE 3.
+
+correlated with a predisposition to pheochromocytoma. 1 0 0 2 families with the codon 238 mutation
+had members with pheochromocytomas; two families (3,699 and 3,739) with codon 238 mutations
+did not develop pheochromocytomas, but both
+contained only single affected individuals.
+In trying to establish correlations between specific mutations and phenotype it is helpful to examine large multigenerational families. One large
+multigenerational family (4,405) with a codon 238
+mutation (712 C to T) had members affected with
+angiomas, hemangioblastomas, renal cell carcinomas and pheochromocytomas. A second large
+multigenerational family (3,127) had a 505 T to C
+mutation had frequent pheochromocytomas but no
+family member affected with renal cell carcinoma;
+a second small family (3,476) with the identical
+505 T to C mutation also had frequent pheochromocytomas without renal cell carcinomas. Although these few families may not be enough to
+identify correlation between specific mutation and
+
+phenotype, they will provide a foundation for comparisons with studies by other investigators.
+The majority of mutations divided according to
+clinical lines (36 mutations were found in VHL type
+1 but not type 2; 9 mutations were found in VHL
+type 2, but not type 1). However, there were 4
+mutations (nucleotides 686, 712, 713, and 746)
+where families with the given mutations were found
+in both VHL types 1 and 2. The examples of mutations at nucleotides 712 and 713 were discussed
+above. The overlap in the classifications of families
+with the 686 and 746 mutations (4,408 and 4,485;
+3,786, 3,314, 4,419 and 4,403, respectively) depend o n single individuals with pheochromocytomas present in one family but not present in the
+other families with the identical mutation. Further
+work is clearly necessary with larger number of families as well as continued observation in the existing
+families to refine the genotype-phenotype observations described in this report.
+The data presented indicated that VHL families
+
+VHL GERMLINE MUTATIONS
+
+with pheochromocytomas were caused by missense
+mutations in the VHL gene, and that VHL families with microdeletions/insertions,nonsense, and
+deletion mutations did not develop pheochromocytomas. The fact that the manifestations of VHL
+are age-dependent and that the number of affected
+individuals in our families varied raises the possibility that with continued observation some individuals without pheochromocytomas would subsequently develop these tumors. However our
+present observation still predicts the relationship
+between a particular type of VHL mutation and
+pheochromocytoma.
+The major implication of the observation of the
+tight association between families with pheochromocytomas and VHL missense mutations is that
+the data suggest that the VHL mutant protein must
+be full length and retain some degree of function to
+produce pheochromocytomas. Mutations predicted
+to truncate the VHL protein, or to produce deletions of 1-3 amino acids do not produce pheochromocytomas in VHL disease. Deletion mutations
+confined to the 3’ untranslated region of the VHL
+gene that would be predicted to compromise the
+stability of the VHL message (Jackson, 1993) only
+rarely lead to pheochromocytomas.
+The mutations that we have identified in 85
+VHL familes should greatly facilitate the presymptomatic diagnosis of this disease. The length mutations previously described can be detected simply
+by Southern blotting; many of the mutations described in this report change a restriction endonuclease cleavage site and can be readily used to detect
+mutations. The genotype-phenotype database provided in Tables 2 and 3 provide a starting point for
+an effort to catalog the mutations in VHL and
+compare the mutations with disease manifestations.
+
+REFERENCES
+Glavac D, Dean M (1993) Optimization of the single-strand conformation polymorphism (SSCP) technique for detection of
+point mutations. Hum Mutat 2:404-414.
+Glenn GM, Choyke PL, Zbar B, Linehan WM (1990) von Hippel-Llndau disease: Clinical review and molecular genetics.
+Probl Urol 4:312-330.
+Glenn GM, Daniel LN, Choyke P, Linehan WM, Oldfield E,
+Gorin MB, Hosoe S, Latif G, Weiss G, Walther M, Lerman
+MI, Zbar B (1991) Von Hippel-Lindau disease: Distinct phenotypes suggest more than one mutant allele at the VHL locus.
+Hum Genet 87:207-210.
+
+75
+
+Glenn GM, Linehan WM, Hosoe S, Latif F, Yao M, Choyke P,
+Gorin MB, Chew E, Oldfield E, Manolatos C, Orcutt ML,
+Walther MM, Weiss GH, Tory K, Jensson 0 ,Lerman MI, Zhar
+B (1992) Screening for von Hippel-Lindau disease by DNA
+polymorphism analysis. JAMA 267:1226-1231.
+Gnarra J , Tory K, Weng Y, Schmidt L, Wei MW, Li H, Latif F,
+Liu S, Chen F, Duh F-M, Lubensky I, Duan D-SR, Florence C,
+Pozzatia R, Walther MM, Bander NH, Grossnwn HB, Brauch
+H , Brooks JD, Isaacs WB, Lerman MI, Zbar B, Linehan WM
+(1994) VHL tumor suppressor gene mutations In renal carcinoma tumorigenesis. Nature Genet 7 3 5 Green J , Bowmer MI, Johnson GJ (1986) von Hippel-Lindau disease in a Newfoundland kindred. Can Med Assoc J 134:133-
+
+138.
+
+Hosoe S, Brauch H, Latif F, Glenn G, Daniel L, Bale S, Choyke
+P, Gorin M, Oldfield E, Berman A, Goodman J , Orcutt ML,
+Hampsch K, Delisio J , Modi W, McBride W , Anglard P, Weiss
+G, Walther MM, Linehan WM, Lerman M1, Zbar B (1990)
+Localization of the von Hippel-Lindau disease gene tc) a small
+region of chromosome 3. Genomics 8:634-660.
+Hultman T, Stahl S , Hornes E, Uhlen M (1989) Direct solid
+phase sequencing of genornic and plasmid DNA using magnetic
+beads as solid support. Nucleic Acids Res 17:4937-4945.
+Jackson RJ (1993) Cytoplasmic regulation of mRNA function: The
+importance of the 3’ untranslated region. Cell 74:9-14.
+Lamiell JM, Salazar FC, Hsia YE (1989) von Hippel-Lindau disease affecting 43 members of a single kindred. Medicine (Baltimore) 68:l-29.
+Latif F. Tory K, Gnarra J, Yao M, Duh F-M, Orcutt ML, Stackhouse T, Kuzmin 1, Modi W, Geil L, Schmidt L, Zhou F, Li H ,
+Wei MW, Chen F, Glenn G, Choyke P, Walther MM, Weng
+Y, Duan D-SR, Dean M, Glavac D, Richards FM, Crossey PA,
+Ferguson-Smith MA, Le Paslier D, Chumakov 1, Cohen D,
+Chinault AC, Maher ER, Linehan WM, Zhar B, Lerman MI
+(1993) Identification of the von Htppel-Lindau disease tumor
+suppressor gene. Science 260:1317-1320.
+Melmon KL, Rosen SW (1964) Lindau’s disease: Review of the
+literature and study of a large kindred. Am J Med 36:595-617.
+Neumann HPH, Wiestler O D (1991) Clustering of features of von
+Hippel-Lindau disease: Evidence of a complex genetic locus.
+Lancet 337:1052-1054.
+Orita M, Suzuki T, Sekiya T, Hayashi K (1989) Rapid and sensitive detection of point mutations and DNA polymorphisms
+using the polymerase chain reaction. Genomics 5374-879.
+Seizinger BR, Rouleau GA, Ozelius LJ, Lane AH, Farmer GE,
+Lamiell JM, Haines J. Yuen JWM, Collins D, Majoor-Krakauer
+D, Bonner T, Matthew C , Rubenstcin A, Halperin J , McConkie-Rosell A, Green JS, Trofatter J A , Ponder BA, Eierman L, Bowner MI, Schmike R, Oostra B, Aronin N , Smith
+DI, Drabkin H, Wazari MW, Hohbs WJ, Martuza RL, Conneally PM, Hsia YE, Gusella J F (1988) Von Hippel-Lindau
+disease maps to the region of chromosome 3 associated with
+renal cell carcinoma. Nature 332:268-269.
+Yao M, Latif F, Orcutt ML, Kuzmin I, Stackhouse T, Zhou FW,
+Tory K, Duh F-M, Richards F, Maher E, LaForgia S, Huebner
+K, Le Paslier D, Linehan M, Lerman M, Zbar B (1993) von
+Hippel-Lindau disease: Identification of deletion mutations by
+pulsed-field gel electrophoresis. Hum Genet 92:605-614.
+
+

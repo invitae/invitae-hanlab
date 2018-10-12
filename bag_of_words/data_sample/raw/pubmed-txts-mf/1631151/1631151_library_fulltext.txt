@@ -1,0 +1,794 @@
+Proc. Natl. Acad. Sci. USA
+Vol. 89, pp. 6516-6520, July 1992
+Medical Sciences
+
+An infrequent point mutation of the p53 gene in human
+nasopharyngeal carcinoma
+(tumor-suppressor gene/nasopharyngeal
+
+canogenesis/PCR)
+
+YI SUN*, GLENN HEGAMYERt, YU-JUEN CHENG*, ALLAN HILDESHEIM§, JEN-YANG CHEN11, I-HOW CHEN II
+YA CAO**, KAI-TAI YAO**, AND NANCY H. COLBURNt
+*Biological Carcinogenesis and Development Program, Program Resources Incorporated/DynCorp, and tCeli Biology Section, Laboratory of Viral
+Carcinogenesis, National Cancer Institute, Frederick Cancer Research Development Center, Frederick, MD 21702; TInstitute of Public Health, and lInstitute
+of Microbiology, College of Medicine, National Taiwan University, Taipei, Taiwan; §Environmental Epidemiology Branch, National Cancer Institute, National
+Institutes of Health, Bethesda, MD 20892; I1Department of Otolaryngology, Mackay Hospital, Taipei, Taiwan; and **Hunan Cancer Institute, Hunan Medical
+University, Hunan, People's Republic of China
+Communicated by Gerald N. Wogan, February 26, 1992 (received for review August 9, 1991)
+
+ABSTRACT
+Point mutations in the p53 gene have been
+detected in a variety of human cancers; the mutations are
+clustered in four "hot-spots" located in the coding region of
+exons 5, 7, and 8, which coincide with the four most highly
+conserved regions of the gene. We report the finding of a
+heterozygous G-'C mutation at codon 280 (exon 8), position 2,
+of the p53 gene in a nasopharyngeal carcinoma (NPC) cell line,
+originating from Guangdong, a province in the People's Republic of China that leads the world in NPC incidence. A survey
+of nasopharyngeal tissues and NPC biopsies revealed that 1 out
+of 12 NPC samples from Hunan, another province in the
+People's Republic of China with high NPC incidence, had the
+same heterozygous mutation at codon 280 of p53, and none of
+10 biopsies from Taiwan showed a mutation within exons 5-8
+of the p53 gene. No other alteration of gene structure, including
+gross rearrangement or loss of heterozygosity or abnormality
+of gene expression was detected in NPC cell lines or NPC
+biopsies. We conclude from this study that mutational or other
+ngeal
+alterations of the p53 gene are not common in n
+carcinogenesis and that a codon-280 mutation of p53 may be
+involved in <10% of NPC cases. This result contrasts with the
+relatively high frequency of p53 mutations assodated with
+several other human carcinomas and suggests the importance
+of other genes in NPC genesis.
+
+in diverse human cancers both in vivo and in vitro (ref. 10 and
+the references cited therein). The point mutations were found
+clustered in four "hot-spots" located in exons 5, 7, and 8,
+which coincide with the four most highly conserved regions
+of the gene (11); the frequency of these mutations varies in
+different cancers. Because p53 protein can form a complex
+with several different DNA tumor virus genes, including the
+simian virus 40 large tumor antigen (12), the E1B 55-kDa
+protein from adenovirus type 5 (13), and human papillomavirus types 16 and 18 E6 protein (14), and because NPC is
+associated with the EBV, and another EBV-associated malignancy, Burkitt lymphoma, has shown frequent p53 mutations (15, 16), the question may be raised as to the role of p53
+in NPC pathogenesis. We report here a G-'C heterozygous
+point mutation at codon 280 in NPC cell line(s) and in 1 out
+of 12 NPC tissue sections from Hunan, China, but not in 10
+NPC biopsies from Taiwan. Thus, a subset of NPC might
+arise from gene cooperation involving EBV genes, one or
+more specific oncogenes (9), and mutated p53.
+MATERIALS AND METHODS
+Cell Lines and Tumor S es. Four Chinese NPC cell lines,
+designated CNE1, CNE2 (from Guangdong), HNE-1, and
+HONE-1 (from Hunan), were originally established from the
+tumors of four different patients (17-20). Although the tumors
+were EBV positive, neither EBV-encoded nuclear antigens
+nor EBV DNA repeated sequences were detected in the cell
+lines after several passages in culture (7). The NPC cell lines
+were grown-in culture, and nude mice tumors were generated
+as described (7, 17-20). Human epidermal keratinocytes
+(Rhek) and primary human embryonal kidney cell line (293)
+were cultured as described (21, 22). During this study we
+discovered through three independent measurements that all
+four NPC cell lines supplied to us had arisen from a single
+individual corresponding to CNE1 or CNE2.
+Nasopharynx tissue was obtained from subjects biopsied at
+MacKay Hospital in Taipei, for histological diagnosis of
+NPC. Biopsy samples were obtained from the lesions of 10
+histopathologically confirmed NPC cases, 4 adjacent normal
+tissues, and 8 preneoplastic lesions (3 of chronic inflammation and 5 of lymphoid hyperplasia). All biopsy samples were
+embedded in optimal-cutting-temperature compounds
+(Miles) and stored in liquid nitrogen. Twelve paraffinembedded NPC tissue sections (5 ,um) were obtained from
+Hunan Cancer Institute, Hunan. All tissue sections were
+histopathologically confirmed as low-differentiated squamous carcinoma.
+
+Nasopharyngeal carcinoma (NP) occurs in many areas,
+although the highest incidence is in Southern China and
+Southeast Asia (1). Epstein-Barr virus (EBV) infection and
+dietary and environmental factors (i.e., salted fish and medicinal herbs) have been associated with the disease (2-4). It
+has been proposed that NPC initiation requires EBV expression, but induction of preneoplastic events and maintainance
+of tumor-cell phenotype require critical cellular genes (5, 6).
+Previously, we reported the detection of promotion sensitivity and transforming activity after introducing NPC DNA into
+mouse JB6 cells (7, 8). Recently, we have isolated a transformation-associated sequence from CNE2 cells that showed
+measurable transforming activity (9). According to current
+theories on the origin of human cancer, both activation of
+oncogenes and inactivation of tumor-suppressor genes are
+believed to be important in multistage human carcinogenesis.
+To our knowledge, no investigations on the inactivation of
+tumor-suppressor genes in NPC have been reported. We
+therefore investigated the involvement of p53, a potent
+tumor-suppressor gene, in NPC pathogenesis.
+Alteration of the p53 gene (point mutation, deletion, or
+rearrangement) and/or of its expression have been observed
+The publication costs of this article were defrayed in part by page charge
+payment. This article must therefore be hereby marked "advertisement"
+in accordance with 18 U.S.C. §1734 solely to indicate this fact.
+
+Abbreviations: EBV, Epstein-Barr virus; NPC, nasopharyngeal
+carcinoma; LOH, loss of heterozygosity.
+6516
+
+Proc. Natl. Acad. Sci. USA 89 (1992)
+
+Medical Sciences: Sun et al.
+RNA Isolation and Single-Stranded cDNA Synthesis. Total
+RNA was extracted from two immortalized human cell lines
+(Rhek and 293), cultured NPC cell lines (CNE1, CNE2,
+HNE-1, and HONE-1), and nude mice tumors derived from
+CNE cells by using RNAzol solution (Tel-Test, Friendswood, TX) according to the manufacturer's recommendation. Single-stranded cDNAs were synthesized by avian
+myeloblastosis virus reverse transcriptase (Seikaguku America, Rockville, MD) as described (23) and amplified by PCR.
+Genomic DNA Isolation, PCR Amplification, and Direct
+Sequencing. Genomic DNA from CNE cells and nude mice
+tumors derived from them was isolated through CsCl purification (9). The isolation of genomic DNA from biopsies and
+NPC paraffin section and the subsequent PCR amplificationdirect sequencing is detailed elsewhere (24). Briefly, ground
+biopsies or paraffin-embedded NPC tissue sections were
+digested in lysis buffer (Applied Biosystems, Foster City,
+CA) followed by phenol/chloroform extraction and ethanol
+precipitation of DNA. Five hundred nanograms to 2 ,ug of
+genomic DNA (-50 ng for NPC tissue section) was used for
+each standard PCR amplification. A sample of amplified
+fragment was analyzed by electrophoresis in 2% NuSieve
+(FMC)/1% agarose gels, and the remaining product was
+purified with Centricon 100 (Amicon) and subjected to singlestranded DNA amplification by using only the excess primer.
+Amplified single-stranded DNA was purified with Centricon
+30 and subjected directly to dideoxynucleotide chaintermination sequencing (24).
+Primers. Primers P1 and P2 (11) were used for PCR
+amplification of the entire coding region of p53. The remaining primers were designed based on the published sequence
+of p53 (25, 26) and synthesized by Operon Technologies
+(Alameda, CA). These primers are listed in Table 1.
+
+RESULTS
+Normal Expression of p53 mRNA in NPC Cells. To examine
+whether p53 mRNA was expressed at normal size in NPC cell
+line(s) CNE1 and CNE2, we analyzed with reverse transcriptase-PCR using two primers (P1 and P2) flanking the entire
+p53 coding region (11). Fig. 1 shows that these cell lines
+generated fragments of 1.3 kilobases (kb), the size expected
+for the wild-type open reading frame (11) (lanes 2 and 3).
+When two pairs of primers flanking mutation hot-spot regions
+A and B (SHSO1/SHS02) and regions C and D (SHS03/
+SHS04), respectively, were used, fragments showing the
+expected sizes of 250 and 272 base pairs (bp) according to
+wild-type sequence (25), were detected (lanes 4 and 5; 6 and
+7). Fig. 2 shows the four mutation hot-spot regions as well as
+the locations and directions of each primer. Northern (RNA)
+analysis revealed a 2.5-kb transcript in CNE cells with
+
+1 2 3 4 5 6 7 8
+
+1300 bp
+
+-
+
+I- 272 bp
+
+250 bp -_
+
+FIG. 1. Expression of p53 mRNA in NPC cells. Total RNAs were
+extracted from CNE1 and CNE2 cells, reverse-transcribed into
+cDNAs, and amplified by PCR using one of three pairs of primers.
+Lanes 2,4, and 6 were from RNA of CNE1, and lanes 3, 5, and 7 were
+from CNE2. Samples of the PCR products were analyzed on 2%
+NuSieve/1% agarose gels by using the following pairs of PCR
+primers: P1 and P2 generate 1300-bp fragment (lanes 2 and 3);
+SHS01/SHS02 generate 250-bp fragment (lanes 4 and 5); and SHS03/
+SHS04 generate 272-bp fragment (lanes 6 and 7). 4X174 DNA/Hae
+III marker was also included (lanes 1 and 8).
+
+abundance equal to that detected in Rhek and 293, two human
+immortalized cell lines (data not shown). These results eliminated the possibility of structural alterations in p53 mRNA
+arising from deletion, alternative splicing, or rearrangement
+or of over-expression of the gene.
+No Involvement of Loss of Heterozygosity (LOH) or Other
+Gross Structural Alteration of the p53 Gene in NPC Cell Lines
+and Biopsies. To extend the above observations on RNA to
+the DNA level, we examined possible gross deletion or
+rearrangement of the p53 gene by Southern analysis. Genomic DNA (15 ug for cell lines and 10 ,ug for biopsies) was
+digested to completion with Bgl II on CNE cell lines and nude
+mice tumors derived from them, biopsies of eight NPCs,
+three lymphoid hyperplasias, three chronic inflammations,
+and three adjacent normal tissues. In all samples, two polymorphic bands of9 kb and/or 12 kb (26) were detected as well
+as three restriction fragments of 43 kb, 16 kb, and 2.8 kb. No
+gross deletion or rearrangement was found (data not shown).
+Due to the limited amounts of DNA isolated from the small
+NPC biopsies, we could perform Southern analysis on only
+the six largest samples. When these samples [three from NPC
+biopsies, two from CNE cell line(s), and one from normal
+
+Table 1. Primers for PCR amplification of the p53 gene in NPC
+Name
+
+Sequence
+
+SHS01
+SHS02
+SHS03
+SHS04
+GD01
+GD02
+GD03
+GD04
+GD05
+GD06
+GD09
+GD10
+GD13
+GD14
+
+GGAATTCTGTGACTTGCACGTAC
+AGAAGCTTTCCTTCCACTCGGAT
+GGAATTCGACATAGTGTGGTGGTG
+TACTCGAGCTCGTGGTGAGGCTC
+GGAATTCCTCTTCCTGCAGTAC
+AGGGCCCCAGCTGCTCACCATC
+GGAATTCTCCTAGGTTGGCTCT
+ACTTAAGTGGCTCCTGACCTGG
+GGAATTCCTGAGTAGTGGTAA
+GTCGACCTCGCTTAGTGCTCC
+TTTTCACCCATCTACAGTCCC
+CTCAGGGCAACTGACCGTG
+CACTGATTGCTCTTAGGT
+AGTTGCAAACCAGACCTC
+
+6517
+
+Pair
+
+Flanking region
+
+Fragment
+size, bp
+
+SHS01/02
+
+Codons 121-200
+
+250
+
+SHSO3/04
+
+Codons 212-299
+
+272
+
+GD01/02
+
+Exon 5
+
+224
+
+GD03/04
+
+GD05/06
+
+Exon 7
+Exon 8
+
+142
+158
+
+GD09/10
+
+Exon4
+
+310
+
+GD13/14
+
+Exon 6
+
+143
+
+6518
+
+Proc. Nadl. Acad. Sci. USA 89 (1992)
+
+Medical Sciences: Sun et al.
+( SHS02 i
+200
+
+1
+
+wA.
+codon
+
+132- 143
+
+'B
+1 74- 179
+
+,.:
+
+:-S
+p
+
+236-248
+
+-72-c.,t
+
+It
+i21+
+
+(SHSOI"
+
+SHS03
+
+I~o
+
+FIG. 2. Locations of mutation hot-spots in the structure of p53 cDNA. The four boxes represent the four mutation hot spots (11). The point
+mutation at codon 280 is indicated, as is the corresponding amino acid substitution. Arrows show approximate locations of the six PCR primers;
+horizontal arrows point in the direction of nucleotide synthesis. Numbers refer to p53 cDNA codon numbers.
+
+human placenta] were digested with EcoRI, BamHI, or
+HindIII, all samples showed the same genomic p53 hybridizing fragments as the normal control (data not shown). Thus,
+no gross deletion or rearrangement of the p53 gene could be
+detected in NPC cell line(s) or in NPC biopsies.
+LOH in the p53 gene has been reported for various tumors
+(27). We examined whether loss of heterozygosity in the p53
+gene occurred in NPC biopsies by analysis of codon 72 and
+Bgi II polymorphisms. Codon 72 (Arg/Pro) polymorphism of
+the p53 gene can be detected by PCR amplification of
+genomic DNA with primers GD09/GD10, yielding a 310-bp
+fragment, followed by BstUI (New England Biolabs) digestion. BstUI cleaves the CGC (Arg) allele, yielding two
+fragments of 175 bp and 135 bp but does not cleave the CCC
+(Pro) allele. Fig. 3 shows that DNAs of two NPC biopsies
+showed heterozygosity at codon 72; the remaining samples
+showed homozygosity with either CGC or CCC. However,
+when the DNA of lymphocytes from all eight corresponding
+NPC patients was analyzed, the digestion pattern was identical (data not shown). These results were further confirmed
+by PCR-direct sequencing of the 310-bp fragment. The absence of LOH in NPC biopsy 2 (Fig. 3, lane 2) was verified
+by Bgi II polymorphism when compared with adjacent normal tissue from the same patient (data not shown). These
+results indicated no LOH of the p53 gene in two informative
+NPC biopsies. Thus, alteration of p53 genomic structure is
+not seen in NPC cell line(s) or NPC biopsies.
+A
+
+Heterozygous G
+
+-+
+
+C Point Mutation Found in NPC Cell
+
+Line(s) and in an NPC Tissue from Hunan. Having detected no
+deletion, rearrangement, or alternative splicing of the p53
+gene, we next addressed the question of possible gene
+mutation. Because the mutations of p53 gene found in other
+human tumors cluster in four hot-spot regions (11), we
+sequenced the regions encompassing these hot-spots (codon
+121-200 and 212-299) (11, 25) by a reverse transcriptasePCR-direct sequencing technique (Fig. 2). A heterozygous
+NPC
+Biopsies 1 2 3 4 5 6 7 8
+
+1' _310 bp
+175 bp
+"
+1 35 bp
+
+FIG. 3. Codon 72 polymorphism of p53 gene in NPC biopsies. One
+of DNA was PCR-amplified with primers GD09/GD10,
+followed by BstUl digestion and gel electrophoresis. Three bands are
+indicated by arrows. 4X174/Hae III marker was also shown. DNAs
+of two NPC biopsies (lanes 1 and 2) showed heterozygosity at codon
+72. The remaining samples showed homozygosity with either CGC
+(lanes 3-7) or CCC (lane 8).
+microgram
+
+G
+
+--
+
+C
+
+point mutation
+
+at codon
+
+280, position 2 (within hot-
+
+spot region D, exon 8) was detected in the CNE cell lines (Fig.
+
+4 Lower Left). Indeed, this is the only mutation detected in
+CNE2 cells after sequencing the entire 1.3-kb coding region of
+p53. When region D ofcDNA from two normal control human
+immortalized cell lines, Rhek and 293, was sequenced, only
+wild type (AGA) was detected (Fig. 4 Upper). The observed
+mutation causes a base substitution of the basic amino acid
+arginine by the neutral amino acid threonine and also a
+predicted loss of Bsa I or BsmAI sites, a prediction confirmed
+by PCR amplification of exon 8 followed by Bsa I digestion
+(data not shown). The detection of wild-type sequence at
+codon 280 indicated that one allele was mutated, the other
+allele was retained as normal, and both alleles were expressed.
+If the mutation were important for tumorigenesis, it should
+be selected for in nude mice tumors derived from these NPC
+cell line(s). We sequenced these same regions in the nude
+mice tumors derived from CNE1 and CNE2 and found the
+same
+
+G -+ C
+
+heterozygous point mutation expressed
+
+at codon
+
+280. The wild-type sequence was also detected (Fig. 4 Lower
+Right). Throughout this study, both strands were sequenced.
+In each case, the mutation detected was confirmed by a
+repeat experiment in which a second sample of cDNA was
+used as a PCR template and, again, both strands were
+sequenced. Although differences in morphology, in karyotype, and in degree of tumorigenicity were seen, we discovered [by isozyme phenotypic profile, c-Ha-ras/BamHI polymorphism and microsatellite (A31-69)/Hinfl polymorphism
+(28)] that all four NPC cell lines had arisen from the same
+individual, corresponding to CNE1 or CNE2. Thus, we conclude that one out of one NPC cell line from Guangdong
+showed the codon-280 mutation.
+The finding of the codon-280 mutation in NPC cell line(s)
+stimulated us to ask whether the same mutation was also
+present in NPC tumor biopsies and whether it might be
+involved in nasopharyngeal tumorigenesis. We, therefore,
+sequenced all of exons 5, 7, and 8 of 22 nasopharynx biopsies
+from Taiwan (10 histopathologically confirmed NPCs, 4
+samples of paired adjacent normal tissues, 8 samples of
+nasopharyngeal lesions) and found no mutation in any samples. In addition, we sequenced exons 4 and 6 in the 10 NPC
+biopsies, and again no point mutation was revealed. Due to
+limited amounts of NPC tissue section available from Hunan,
+only exon 8, which contains codon 280, was sequenced. Fig.
+G -+ C heterozygous point mutation at
+5 shows that the
+codon 280 was detected in 1 out of 12 Hunan NPC tissues
+(Left). For comparison with a negative sample, another NPC
+biopsy from Hunan, having wild-type sequence, was also
+included (Fig. 5 Right). We considered three potential
+sources of error: (i) Contamination from NPC cell line DNA
+or RNA could have occurred. This possibility can be excluded because neither NPC cells nor cell line nucleic acids
+were handled during the period in which the Hunan biopsies
+were analyzed. Furthermore codon-280 mutation was seen in
+1 out of 12 biopsies, not 12 out of 12, which would be expected
+were PCR primers or buffers contaminated. (ii) Normal tissue
+might contaminate biopsies. Because biopsies contain contaminating normal tissue that would dilute a mutant p53 if
+same
+
+Medical Sciences: Sun et A
+
+Proc. Nat!. Acad. Sci. USA 89 (1992)
+
+6519
+
+Immortalized Immortalized
+293
+Rhek
+G A T C G A T C
+
+WT
+codon 280
+G
+
+A
+
+NPC Line
+CNE1
+r A -T
+G A T C
+
+WT
+ccodon 280
+
+. . . . :. .
+
+'i
+NPLine4
+..,*z,.s
+
+,...
+
+,
+
+NPC Line
+CNE2
+G
+TI
+G A T C
+
+CNE1
+tumor
+I
+I
+G A T C
+
+CNE2
+tumor
+
+r -[ I
+G A T C
+
+Mutant
+codon 280
+A
+CG [
+
+Mutant
+codon 280
+A
+2GC
+
+A
+
+A
+
+FIG. 4. Expressed G -. C point mutation at
+codon 280 of the p53 RNA in NPC cell(s) and
+tumors derived from them. Total RNAs were
+isolated from CNE cell line(s), nude mouse
+tumors derived from them, and from the two
+human immortalized cell lines Rhek and 293
+(normal controls), reverse-transcribed into cDNAs, and amplified by PCR. As indicated, the
+wild-type (WT) sequence AGA at codon 280 was
+detected in Rhek and 293 (Upper), and a heterozygous mutation of G -. C at codon 280 was
+detected in CNE cell line(s) (Lower Left) and in
+the nude mouse tumors derived from them
+
+(Lower Right).
+present, we conducted a mixing experiment to determine the
+
+sensitivity of our assay for the point mutation. When 90%o
+codon-280-negative biopsy DNA from Taiwan was mixed with
+10%o codon-280-positive DNA from CNE2 for PCR-direct
+sequencing, we reproducibly detected the codon-280 mutation. Thus, we conclude that any biopsy consisting of as little
+as 10%o of mutant p53-containing epithelial cells from the NPC
+would have been detected. (iii) The apparent codon-280 mutation seen in an NPC cell line from Guangdong and in an NPC
+biopsy from Hunan could represent polymorphism rather than
+a mutation. This possibility was rendered unlikely by observed
+loss of growth-suppressor function of p53-Thr2m when overexpressed in recipient cells (data not shown) and by the failure
+to detect codon p53-Thrm in any of 14 non-NPC samples
+measured by us and in any of -50 normal tissues measured by
+others. Taken together, the above observations indicate that
+p53 gene mutation is a low-frequency event in NPC carcinoNPC Tissue
+From Hunan, China
+I
+II
+
+4m
+Ow
+
+Mutant
+Codon 280
+A\
+C/G
+
+A r
+
+'
+
+Wild Type
+
+9 Codon 280
+-_ A
+-
+
+G
+A
+
+FIG. 5. G C point mutation at codon 280 of the p53 gene in NPC
+paraffin section from Hunan. Genomic DNA was isolated as described (24). About 50 ng of DNA resuspended in double-distilled
+H20 was amplified by PCR and directly sequenced (24). A heterozygous G C mutation at codon 280 of p53 gene was detected in one
+sample (Left) but not in the other sample (Right).
+--
+
+genesis that occurs in <10o of NPC tumors. To ascertain
+whether the 8% (1/12) frequency in NPCs from Hunan and the
+0%o (0/10) frequency in NPCs from Taiwan differ significantly
+by statistical analysis would require more samples.
+
+DISCUSSION
+We report here the detection of a heterozygous G C point
+mutation at codon 280 of the p53 gene in an NPC cell line that
+originated from Guangdong province in southern China. This
+mutation is the only one detected within the entire 1.3-kb
+coding region of the p53 gene in the NPC cell line CNE2. It is
+also the only mutation within exon 8 in one of 12 NPC tissues
+from Hunan. Although p53 gene mutations have been found in
+diverse human cancers (10, 11), a mutation at codon 280 has
+been reported in only one breast cancer cell line with a
+nonidentical site of mutation (29). Osborne et al. (30) recently
+-*
+
+reported
+
+an
+
+identical G -) C homozygous
+
+point mutation
+
+at
+
+codon 280 in a primary breast tumor. This tumor also bore a
+second mutation at codon 285 (30). Recently we have learned
+(personal communication) that C. Spruck, Y. Tsai, D. Huang,
+A. Yang, W. Rideout, and P. Jones have independently
+measured codon 280 mutation of p53 in CNE1 and CNE2 cells
+obtained from Guangzhou, China.
+The observation of two p53 alleles with one allele mutated
+has been reported for a variety of human cancers including
+carcinomas of the colon (11), lung (31), esophagus (32), liver
+(33, 34), and ovary (35) as well as in leukemias (23), even
+when the sample was composed of 100% cancer cells (35).
+The mutant p53 gene product has been postulated to override
+wild-type function by a dominant negative mechanism (36),
+as indicated by direct inactivation of the wild-type protein by
+mutant p53 protein through oligomer formation (37, 38), or by
+conformational adoption of the mutant form (39). In other
+studies, however, when both wild-type and mutant p53
+cDNA constructs were cotransfected into cells, the wild-type
+form appeared dominant (40, 41). Recent findings in our
+laboratory (Y.S., K. Nakamura, E. Wendel, unpublished
+work) show that overexpression of p53 Thr280 in mouse JB6
+cells harboring endogenous wild-type p53 causes progression
+to tumor cell phenotype, suggesting mutant dominance for
+progression.
+
+6520
+
+Proc. Nad. Acad. Sci. USA 89 (1992)
+
+Medical Sciences: Sun et al.
+
+The G -- C point mutation at codon 280 causes an amino
+acid substitution of arginine by threonine. Because p53 is
+phosphorylated on serine and threonine residues (42, 43), the
+Arg -* Thr substitution may increase the possibility for
+phosphorylation of the p53 protein. It has been speculated
+that, like in retinoblastoma, phosphorylation of p53 causes the
+loss of its tumor-suppressor function (44). Computer secondary-structure prediction of p53 protein shows that the surface
+probability of codon 280 is very high according to the Emini
+method (45), implying easy access to molecular interaction,
+and that the Arg -- Thr substitution causes the loss of a turn
+in the protein secondary structure according to the GarnierOsguthorpe-Robson method (46) (data not shown), implying a
+conformational change. Thus, this mutation appears to be in a
+conformationally significant domain.
+We did not detect any point mutations in the 10 NPC
+biopsies from Taiwan when exons 4-8 of the p53 gene were
+sequenced, although we cannot rule out mutations in other
+regions. The possibility for gross gene rearrangement in NPC
+biopsies as well as cell line(s) was excluded by multiple
+restriction enzyme digestion followed by Southern analysis.
+Overexpression or alternative splicing of the genes was also
+excluded by reverse transcriptase-PCR/Northern analysis in
+CNE cell line(s). Although the number of informative NPC
+biopsies was limited, we found no LOH. Overall, we conclude that p53 gene alteration occurs with a low frequency in
+nasopharyngeal carcinogenesis, with <10% of cases showing
+the codon-280 mutation. This result distinguishes NPC from
+such carcinomas as breast, colon, lung, and esophagus
+(which show a high p53 mutation frequency), putting them in
+a class with thyroid carcinoma (which shows a low p53
+mutation frequency) (47). Whether the high-frequency and
+low-frequency classes of carcinomas can be distinguished on
+the basis of dietary or environmental exposure remains to be
+established. Because p53 mutation is not common, the question is raised whether other genes, such as EBV genes and the
+recently reported NPC-transforming sequence (9), are important in the genesis of NPC.
+The genesis of the G -- C transversion in p53 probably does
+not involve spontaneous mutation, such as deamination of
+5-methylcytosine (48). It seems likely that this particular
+codon-280 mutation of the p53 gene was induced through
+exposure to environmental carcinogens, such as nitrosamines (4) present in the diet or cigarette smoke but was not
+induced by aflatoxins that would be expected to produce G
+-* T transversion in codon 249 (33, 34). Further understanding ofthe possible functional significance of this p53-Thr8 in
+carcinogenesis awaits evidence of its oncogenic activity in a
+human model or its activity in antagonizing wild-type p53
+tumor-suppressor function.
+This project has been funded in part with federal funds from the
+Department of Health and Human Services under Contract N01CO-74102 with Program Resources, Inc.
+1. De The, G., Ho, J. H. C. & Muir, C. S. (1982) in Viral Infections of
+Humans. Epidemiology and Control, ed. Evans, A. S. (Wiley, New
+York), pp. 126-144.
+2. De The, G. (1982) in The Herpes Viruses, ed. Roizman, R. (Plenum, New
+York), Vol. 1A, pp. 25-103.
+3. Zeng, Y., Zhong, J. M., Mo, Y. K. & Miao, X. C. (1983) Intervirology
+19, 201-204.
+4. Yu, M. C., Mo, C. C., Chong, W. X., Yeh, F. S. & Henderson, B. E.
+(1988) Cancer Res. 48, 1954-1959.
+5. Klein, G. (1977) in The Epstein-Barr Virus, eds. Epstein, M. A. &
+Achong, B. G. (Springer, Berlin), pp. 339-346.
+6. Armstrong, R. W., Armstrong, M. J., Yu, M. C. & Henderson, B. E.
+(1983) Cancer Res. 42, 297-2970.
+7. Colburn, N. H., Raab-Traub, N., Becker, D., Winterstein, D. & Cao, Y.
+(1989) Int. . Cancer 44, 10121016.
+8. Lerman, M. I., Sakai, A., Yao, K. T. & Colburn, N. H. (1987) Carcinogenesis 8, 121-127.
+
+9. Cao, Y., Sun, Y., Poirier, S., Winterstein, D., Hegamyer, G., Seed, J.,
+Malin, S. & Colburn, N. H. (1991) Mol. Carcinogenesis 4, 297-307.
+10. Hollstein, M., Sidransky, D., Vogelstein, B. & Harris, C. C. (1991)
+Science 253, 49-53.
+11. Nigro, J. M., Baker, S. J., Preisinger, A. C., Jessup, J. M., Hostetter,
+R., Leary, K., Bigner, S. H., Davidson, N., Baylin, S., Devilee, P.,
+Glover, T., Collins, F. S., Weston, A., Modali, R., Harris, C. C. &
+Vogelstein, B. (1989) Nature (London) 342, 705-708.
+12. Linzer, D. I. H. & Levine, A. J. (1979) Cell 17, 43-52.
+13. Sarnow, P., Ho, Y. S., Williams, J. & Levine, A. J. (1982) Cell 28,
+
+387-394.
+14. Werness, B. A., Levine, A. J. & Howley, P. M. (1990) Science 248,
+76-79.
+15. Gaidano, G., Ballerini, P., Gong, J. Z., Inghirami, G., Neri, A., Newcomb, E. W., Magrath, I. T., Knowles, D. M. & Dalla-Favera, R. (1991)
+Proc. Natd. Acad. Sci. USA 88, 5413-5417.
+16. Farrell, P. L., Allan, G. J., Shanahan, F., Vousden, K. H. & Crook, T.
+(1991) EMBO J. 10, 2879-2887.
+17. LTVCI, LTVIE, DRCI & LCBCI at Chinese Academy of Medical
+Sciences, and LEM, DM & LP at Chung Shan Medical College (1978) Sci.
+Sin. 21, 127-134.
+18. Zhang, S., Gao, X. & Zeng, Y. (1983) Int. J. Cancer 31, 587-590.
+19. Glaser, R., Zhang, H.-Y., Yao, K.-T., Zhu, H.-C., Wang, F.-X., Li,
+G.-Y., Wen, D.-S. & Li, Y.-P. (1989) Proc. Nadl. Acad. Sci. USA 86,
+
+9524-9528..
+20. Yao, K.-T., Zhang, H.-Y., Zhu, H.-C., Wang, F.-X., Li, G.-Y., Wen,
+D.-S., Li, Y.-P., Tsai, C.-H. A. & Glaser, R. (1990) Int. J. Cancer 45,
+83-89.
+21. Rhim, J. S., Jay, G., Arnstein, P., Price, F. M., Sanford, K. K. &
+Aaronson, S. A. (1985) Science 227, 1250-1252.
+22. Graham, F. L., Smiley, J., Russell, W. C. & Nairn, R. (1977) J. Gen.
+Virol. 36, 59-72.
+23. Cheng, J. & Haas, M. (1990) Mol. Cell. Biol. 10, 5502-559.
+24. Sun, Y., Hegamyer, G. H. & Colburn, N. H. (1992) BioTechnology 12,
+639-640.
+25. Zakut-Houri, R., Bienz-Tadmou, B., Givol, D. & Oren, M. (1985) EMBO
+J. 4, 1251-1255.
+26. Buchman, V. L., Chumakov, P. M., Ninkina, N. N., Samarina, 0. P. &
+Georgiev, G. P. (1988) Gene 70, 245-252.
+27. Oka, K., Ishikawa, J., Bruner, J. M., Takahashi, R. & Saya, H. (1991)
+Mol. Carcinogenesis 4, 10-13.
+28. Lerman, M. I., Latif, F., Glenn, G. M., Daniel, L. N., Bruch, H.,
+Hosoe, S., Hampsch, K., Delisio, J., Orcutt, M. L., McBride, 0. W.,
+
+Grzeschik, K.-H., Takahashi, T., Minna, J., Anglard, P., Linehan,
+W. M. & Zbar, B. (1991) Hum. Genet. 86, 1567-1577.
+29. Bartek, J., Iggo, R., Gannon, J. & Lane, D. P. (1990) Oncogene 5,
+
+893-899.
+30. Osborne, R. J., Merlo, G. R., Mitsudomi, T., Venesio, T., Liscia, D. S.,
+Cappa, A. P. M., Chiba, I., Takahashi, T., Nau, M. M., Callahan, R. &
+Minna, J. D. (1991) Cancer Res. 51, 6194-6198.
+31. Chiba, I., Takahashi, T., Nau, M. M., D'Amico, D., Curiel, D. T.,
+Mitsudomi, T., Buchhagen, D. L., Carbone, D., Piantadosi, S., Koga,
+H., Reissman, P. T., Slamon, D. J., Holmers, E. C. & Minna, J. D.
+(1990) Oncogene 5, 1603-1610.
+32. Hollstein, M. C., Metcalf, R. A., Welsh, J. A., Montesano, R. & Harris,
+C. C. (1990) Proc. Natl. Acad. Sci. USA 87, 9958-9961.
+33. Hsu, I. C., Metcalf, R. A., Sun, T., Welsh, J. A., Wang, N. J. & Harris,
+C. C. (1991) Nature (London) 350, 427-428.
+34. Bressac, B., Kew, M., Wands, J. & Ozturk, M. (1991) Nature (London)
+350, 429-431.
+35. Mazars, R., Pujol, P., Maudelonde, T., Jeanteur, P. & Theillet, C. (1991)
+
+Oncogene 6, 1685-1690.
+
+36. Herskowitz, I. (1987) Nature (London) 329, 219-222.
+37. Eliyahu, D., Goldfinger, N., Pinhasi-Kimbi, O., Shaulsky, G., Skurnik,
+Y., Arai, N., Rotter, V. & Oren, M. (198) Oncogene 3, 313-321.
+38. Kraiss, S., Quaiser, A., Oren, M. & Montenarch, M. (1988) J. Virol. 62,
+4737-4744.
+39. Milner, J. & Medcalf, E. A. (1991) CeU 65, 765-774.
+40. Finlay, C. A., Hinds, P. W. & Levine, A. J. (1989) CeU 57, 1083-1093.
+41. Chen, P. L., Chen, Y., Bookstein, R. & Lee, W. H. (1990) Science 250,
+
+1576-1580.
+
+42. Van Roy, F., Fransen, L. & Fiers, W. (1984) Mol. Cell. Biol. 4, 232-239.
+43. Bischoff, J. R., Friedman, P. N., Marshak, D. R., Prives, C. & Beach,
+D. (1990) Proc. Natl. Acad. Sd. USA 7, 4766-4770.
+44. Marshall, C. J. (1991) Cell 6, 313-326.
+45. Emini, E. A., Hughes, J. V., Perlow, D. S. & Boger, J. (1985) J. Virol.
+
+55, 836-839.
+
+46. Gamier, J., Osguthorpe, D. J. & Robson, B. (1978) J. Mol. Biol. 120,
+97-120.
+47. Wright, P. A., Lemoine, N. R., Goretzki, P. E., Wyllie, F. S., Bond, J.,
+Hughes, C., Roher, H.-D., Williams, E. D. & Wynford-Thomas, D.
+
+(1991) Oncogene 6, 1693-1697.
+48. Jones, P. A., Buckley, J. D., Henderson, B. E., Ross, R. K. &
+M. C. (1991) Cancer Res. 51, 3617-3620.
+
+Pike,
+
+

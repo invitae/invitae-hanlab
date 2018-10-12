@@ -1,0 +1,1093 @@
+Characterization of two new point mutations in the
+low density lipoprotein receptor genes of an
+English patient with homozygous familial
+hypercholesterolemia
+J. C. Webb, X-M. Sun, D. D. Patel, S. N. McCarthy, B. L. Knight, and A. K. Soutar
+MRC Lipoprotein Team, Hammersmith Hospital, Ducane Road, London W12 OHS, England
+
+-
+
+Supplementary key words polymerase chain reaction
+LDL receptor structure population screening
+
+analysis
+
+mismatch
+
+Mutations in the gene for the low density lipoprotein
+(LDL) receptor cause the autosomal dominant inherited
+disease familial hypercholesterolemia (FH), which affects
+approximately one in 400 individuals in most populations. The LDL receptor is a cell-surface glycoprotein that
+mediates the specific uptake and catabolism of plasma
+LDL, and heterozygous FH individuals with one defective gene have a markedly raised plasma cholesterol that
+
+is frequently associated with the occurrence of tendon
+xanthomata, accelerated atherosclerosis, and premature
+coronary heart disease. Homozygous FH patients are
+more severely affected and, without intensive cholesterollowering treatment, rarely reach the age of maturity (1).
+Much has already been learned about the relationship
+between structure and function of the different domains
+of the LDL receptor protein from studies of receptor function in cultured skin fibroblasts of FH patients with
+known mutations in the gene (2). A variety of different
+types of mutations have been characterized, including
+major gene rearrangements, small deletions, and point
+mutations, but with a few notable exceptions each of these
+has been observed in a single individual or family. The exceptions are cases where a founder gene in an isolated
+population has resulted in a higher than usual frequency
+of FH in which most of the patients have the same mutation. By contrast, in populations of very diverse ethnic
+origins, it has been estimated that more than 183 different
+mutant alleles of the LDL receptor gene may be responsible for FH (2). Nonetheless, while more restricted populations may not demonstrate the presence of a clear founder
+gene, a smaller number of mutations may be responsible
+for the disease in the majority of patients, so that a DNAbased diagnostic test would be feasible.
+Identification of the specific mutation in the gene of an
+FH patient not only sheds further light on the way the
+LDL receptor functions in vivo, information that may
+also be relevant to other cell-surface receptor proteins, but
+will also allow comparisons to be made between groups of
+patients with either the same or different mutations in the
+gene. It has long been recognized that there is considera-
+
+Abbreviations: LDL, low density lipoprotein; FH, familial hypercholesterolemia; PCR, polymerase chain reaction; RFLP, restriction fragment length polymorphism; CHD, coronary heart disease.
+
+Journal of Lipid Research
+
+Volume 33, 1992
+
+689
+
+Downloaded from www.jlr.org by guest, on October 11, 2012
+
+Abstract Two new point mutations have been detected in the
+low density lipoprotein (LDL) receptor gene of a patient with a
+clinical diagnosis of homozygous familial hypercholesterolemia
+(FH). The patient is a compound heterozygote, in whom the
+mutant allele inherited from his English father has a single base
+substitution of A for G in exon 3, changing the codon for residue
+80 in the mature protein from glutamic acid to lysine. The mutant allele inherited from his mother, who is of Irish origin, has
+a single base pair deletion in the codon for residue 743 in exon
+15 that causes a frameshift and introduces a new stop codon in
+the adjacent position. The gluso to lys mutation results in a
+transport-defective phenotype and a mature protein that migrates abnormally slowly on nonreduced SDS-PAGE, but normally under reducing conditions; this was confirmed by sitedirected mutagenesis and expression in vitro. The deletion in
+exon 15 results in a null phenotype in which the putative truncated receptor protein cannot be detected in cultured skin fibroblasts and the amount of mRNA derived from the allele is reduced. The gluso to lys mutation was found in a further five
+unrelated individuals in a sample of 200 FH patients from the
+London area and in 11 from a sample of 77 FH patients from
+Manchester. Haplotype analysis suggested that all the patients
+had inherited this allele from a common ancestor. The deletion
+in exon 15 was not found in the London sample, nor in any unrelated individuals in the Manchester sample.-Webb, J. C.,
+X-M. Sun, D. D. Patel, S. N. McCarthy, B. L. Knight, and
+A. K. Soutar. Characterization of two new point mutations in
+the low density lipoprotein receptor genes of an English patient
+with homozygous familial hypercholesterolemia. J. Lipid Res.
+1992. 33: 689-698.
+
+ble variation in the severity of the disease in FH patients,
+and in their response to cholesterol-lowering treatment,
+but the underlying genetic or environmental causes of the
+variation are poorly understood (1). In this report we
+describe the characterization of two new mutations in the
+LDL receptor gene of an F H homozygote patient of English origin. One of the mutations is very common in the
+English population, particularly in the north of England,
+while the other is uncommon, but probably originates
+from Ireland.
+
+METHODS
+
+Subjects
+
+Analysis of DNA
+Genomic DNA was isolated as described previously (5)
+or by a rapid small scale method (4). Southern blotting
+was carried out by standard techniques (6) described in
+detail elsewhere (3). To detect major rearrangements in
+the LDL receptor gene, genomic DNA (10 pg) was
+digested either with PvuII or BglII and fractionated by
+agarose gel electrophoresis. After blotting, the PvuIIdigested DNA was hybridized with a 1.9-kb BamHI fragment derived from the 3' end of the cDNA for the LDL
+receptor (plasmid pLDLR3, kindly supplied by Dr. D.
+Russell, Dallas, Texas). The BglII-digested DNA was hybridized with a 1.7-kb HndIWBglII probe derived from
+the 5' end of the cDNA, then stripped and re-probed with
+a 0.7-kb fragment encompassing exon 1 and the promoter
+region of the gene (7). The probe for the promoter region
+was prepared by PCR amplification of genomic DNA
+from a normocholesterolemic individual with oligonucleotide primers located in the intron adjacent to the 3' end
+of exon 1 and at bases -621 to -601 upstream from the
+AUG initiator codon (7). Probes were labeled with 32Pby
+random primed synthesis (8).
+
+Detection of point mutations by mismatch analysis
+Twelve fragments of the LDL receptor gene comprising
+individual exons (exons 1, 2, 3, 4, 15, and 18) or pairs of
+exons with the intravening intron (exons 5 + 6, 7 + 8,
+9 + 10, 11 + 12, 13 + 14, 16 + 17) were amplified by the
+
+690
+
+Journal of Lipid Research
+
+Volume 33, 1992
+
+Detection of mutations by allele-specific
+oligonucleotide hybridization
+Duplicate samples of amplified fragments of genomic
+DNA (usually 5 p1 PCR reaction mix) were fractionated
+by agarose gel electrophoresis and transferred to duplicate
+nylon membranes (Biodyne A, Gallenkamp) by capillary
+blotting in 15 x SSC (6) for 1 h. The membranes were
+prehybridized for at least 30 min at 37OC in hybridization
+buffer (5 x SSPE, 5 x Denhardts, 0.5% w/v SDS (6))
+and then one of the duplicate membranes hybridized with
+1-5 x lo5 cpm/ml of each of the pair of allele-specific 32Plabeled oligonucleotides for 1 h at 37OC. Oligonucleotides
+were end-labeled with gamma-32P-ATP by incubation
+with T 4 polynucleotide kinase (6). After hybridization,
+
+Downloaded from www.jlr.org by guest, on October 11, 2012
+
+The proband is a boy of English origin who was given
+a clinical diagnosis of homozygous familial hypercholesterolemia at 1% years of age, based on a markedly increased concentration of plasma cholesterol (30 mmol/l),
+the presence of tendon xanthomata, and a family history
+of premature coronary disease and hypercholesterolemia.
+There was no evidence for consanguinity in the family.
+The two samples of FH patients, 200 attending lipid clinics
+in the London area and 77 attending a lipid clinic in Manchester, have been described in detail elsewhere (3, 4).
+
+polymerase chain reaction (PCR) (9) essentially as described previously ( 5 ) with oligonucleotide primers located in the adjacent introns (10); sequences containing a
+recognition site for the enzyme Sal1 were included at the
+5' end of each oligonucleotide. The amplified fragment
+containing exon 1 also contained the adjacent 5' region of
+the gene, as described above.
+Differences between the sequence of the amplified LDL
+receptor gene fragments from the proband and that from
+a normal control subject were detected by chemical
+cleavage of modified mismatched heteroduplexes, as described by Montandon and coworkers (11). The following
+modifications were used. The control DNA used as the
+probe was purified by agarose gel electrophoresis on 1.5%
+NuSieve gels (FMC BioProducts, Rockland, ME) before
+labeling. The fragment was recovered from the excised
+agarose by extraction with phenol (6) and labeled with 32P
+either by end-filling the Sal1 digested-fragment, which
+labels the 3' end, or by incubation with T 4 polynucleotide
+kinase, which labels the 5' end (6). For the formation of
+heteroduplexes, 50-100 ng of labeled probe DNA was
+hybridized with a 5- to 10-fold excess of the unlabeled
+PCR product from the proband. To ensure that mismatches close to the ends of the fragments were detected,
+each amplified fragment from the proband was analyzed
+for mismatches with both a 3'-end-labeled probe and a
+5'-end-labeled probe. PCR products from the proband
+were purified with Geneclean (Stratagene Ltd., UK) for
+mismatch analysis. To increase recovery of the final
+cleaved heteroduplexes, glycogen (20 pg) was added as
+carrier for the final ethanol precipitation.
+The DNA sequence of PCR products was determined
+directly by the Sequenase method (USB, Cambridge
+Bioscience, Cambridge, UK) with the modifications described by Casanova et al. (12) after purification of the
+DNA fragment by agarose gel electrophoresis as described
+above, Unless otherwise stated, primers for sequencing
+were the same as one of those used for PCR amplification
+of the fragment.
+
+the membranes were washed three times for 10 min each
+at ambient temperature in 5 x SSPE, 0.1% w/v SDS and
+then for 20 min in the same buffer at the stringent wash
+temperature. The oligonucleotides for the detection of the
+gluso lys mutation were 5'-GCTCAGACGAGCAAGGC
+(normal) and 5'-GCTCAGACAAGCAAGGC; the stringent wash temperature was 48OC. The oligonucleotides for the detection of the deletion in exon 15
+were 5'-GTGGAGATAGTGACAAT (normal) and 5'GGTGGAGATGTGACAAT the stringent wash temperature was 42OC.
++
+
+Haplotype analysis
+
+Cultured cells
+
+RESULTS
+
+Skin fibroblasts from explants obtained by biopsy of the
+proband and his parents were maintained in culture as
+previously described (18). Total cytoplasmic RNA was isolated from fibroblasts that had been incubated for 12-16 h
+with medium containing lipoprotein-deficient serum (19)
+and fragments of the LDL receptor mRNA comprising
+exons 1-4 (500 bp), 12-15 (500 bp), and 15-18 (400 bp) of
+the gene were amplified by PCR with oligonucleotide
+primers located in the appropriate exons as described
+previously (20).
+Methods for the immunoprecipitation of ?+labeled
+LDL receptor protein from cultured cells have been described previously (21). For immunoblotting, cells were
+harvested and solubilized as described by van Driel and
+coworkers (22), and the proteins were separated and detected with specific monoclonal antibodies to the LDL
+receptor as described before (23).
+
+Site-directed mutagenesis and transient expression of
+LDL receptors in heterologous cells
+The gluso
+Lys mutation was introduced into plasmid pLDLR4, a mammalian expression vector containing the human LDL receptor DNA under transcriptional
+control of the SV40 promoter (kindly provided by Dr. D.
+Russell, Dallas, Texas). A fragment of the LDL receptor
+cDNA, XbaI-EcoRI, was cloned into M13 mp18 and the
+mutation was introduced into single-stranded DNA by
+standard techniques (Amersham International, oligonucleotide directed in vitro mutagenesis system). Mutant
+M13 plaques were identified by hybridization with the
+mutant oligonucleotide under stringent conditions, and
++
+
+Webb et al.
+
+The members of the family of the proband with a raised
+plasma cholesterol or premature C H D are shown in
+Fig. 1. The details of the plasma lipid values in the proband and his immediate family are shown in Table 1.
+Southern blotting of genomic DNA isolated from the
+proband, his parents, and his sister did not reveal any
+major abnormalities in the LDL receptor genes of the
+family. Fragments of the gene comprising single exons,
+exon 1 together with the promoter region, or pairs of
+exons were amplified by PCR with oligonucleotide
+primers located in the adjacent introns. With one exception, the size of the fragments obtained from the proband
+were as expected from the published structure of the gene
+(7). When exons 9 and 10 were amplified together as a single fragment, the size of the PCR product was 0.52 kb instead of the expected 1.3 kb. However, amplification of
+genomic DNA from 10 normal control individuals also
+produced a product of 0.52 kb. Restriction enzyme mapping, sequencing, and hybridization with specific probes
+confirmed that this fragment comprised exons 9 and 10
+together with an intron of 0.09 kb rather than one of 0.9
+kb as reported (7). Since we have never observed the presence of a larger intron of 0.9 kb in the amplified fragment
+comprising exons 9 and 10, it is possible that the size of
+this intron reported in the earlier paper was not correct.
+The absence of any gross abnormalities in the LDL
+receptor genes of the proband suggested that both mutant
+alleles contained point mutations or minor rearrangements. To detect these minor differences in gene sequence, the amplified fragments of the LDL-receptor
+
+Two new English mutations in the LDL receptor gene
+
+691
+
+Downloaded from www.jlr.org by guest, on October 11, 2012
+
+The genotype of the LDL receptor gene was determined at four variable restriction enzyme sites, those for
+SfaNl in exon 2 (13), AvaII in exon 13 (14), PvuII in intron 15 (15), and Ncol in exon 18 (16). The PvuII polymorphism was detected by Southern blotting described
+above, and the remainder was detected by PCR amplification of genomic DNA and restriction enzyme digestion or
+hybridization with allele specific oligonucleotides as
+described previously (5, 17).
+
+the presence of the mutation in the otherwise unchanged
+insert was confirmed by DNA sequencing. The mutant
+fragment was excised from the replicative form of the M13
+and cloned into pLDLR4 using standard techniques (6).
+Stocks of monkey COS cells were maintained in culture
+in DMEM medium with high glucose (Gibco Europe
+Ltd.) supplemented with 10% v/v fetal calf serum,
+penicillin (100 p/ml), and streptomycin (100 pg/ml). For
+transfection, cells were seeded on day 1 at 5.5 x lo5
+cellddish in 9-cm diameter dishes (Nunc Gibco Europe
+Ltd.) in the same medium. O n day 2, cells were washed
+twice with serum-free medium and incubated in 9 ml
+serum-free medium for 30 min before transfection.
+Cells were transfected with plasmid DNA (10 pg/dish)
+by the standard calcium phosphate method as described
+by Gorman (24) and then incubated for 48 h in DMEM
+containing high glucose, supplemented with 10% fetal
+calf serum, penicillin, and streptomycin to allow expression of LDL receptors. Cell extracts were analyzed by
+SDS-PAGE and immunoblotting with 1251-labeledantiLDL-receptor antibody 10A2 as described above.
+
+I
+
+'231
+4
+
+5
+
+6
+
+7 8
+
+I
+
+I
+
+9 10 1 1 12 1314 15 16
+
+Fig. 1. Kindred B with familial hypercholesterolemia. The homozygous proband is indicated by an arrow. Those
+members of the family known to have an elevated plasma cholesterol concentration, consistent with a diagnosis of
+heterozygous FH, are indicated by half-shaded symbols. Individual 15-19 inclusive are from County Tyrone in
+Northern Ireland and are known to have suffered from severe premature CHD. Individual I,, who died age 43 years
+after a myocardial infarction, and the paternal grandmother (I2) of the proband were from Lancashire, England.
+Individual 116 attends the lipid clinic in Manchester, but was excluded from the screening procedure because he
+is a maternal uncle of the proband (see text for details).
+
+TABLE 1 .
+
+Details of subjects
+
+Plasma Lipids (Pretreatment)
+Subject
+
+Proband
+Father
+Motherh
+Sister
+
+Age
+
+Chol
+
+TG
+
+LDL-Chol"
+
+HDL-Chol
+
+Clinical
+Diagnosis
+
+2
+30
+33
+4
+
+26.8
+9.8
+11.2
+
+2.23
+1.38
+1.80
+0.44
+
+24.6
+8. I
+8.3
+6.0
+
+1.2
+1.1
+2.1
+1.1
+
+Homozygous F H
+Heterozygous F H
+Heterozygous F H
+Heterozygous F H
+
+7.3
+
+"Calculated values (35).
+'In the third trimester of pregnancy
+'Coronary heart disease (CHD).
+
+692
+
+Journal of Lipid Research
+
+Volume 33, 1992
+
+Comments
+
+Tendon and cutaneous xanthoma
+Family history of C H D
+Family history of C H D
+
+Downloaded from www.jlr.org by guest, on October 11, 2012
+
+gle base pair deletion in exon 15, while exon 15 in the
+father and sister was normal.
+Thus the proband, although apparently homozygous, is
+a compound heterozygote with two different mutant alleles for the LDL receptor gene. This was confirmed by
+haplotype analysis based on four informative restriction
+fragment length polymorphism (RFLP) sites in the four
+members of the family. As shown in Fig. 4a, the allele carrying the deletion in exon 15 is characterized by the absence of the cutting sites for SfaNl in exon 2, PvuII in intron 15, AvaII in exon 13, and Ncol in exon 18, while that
+carrying the mutation in exon 3 is characterized by the
+presence of the cutting sites for SfaN1, AvaII, and Ncol,
+and the absence of the cutting site for PvuII. The presence of both point mutations was readily detected by
+hybridization of the appropriate amplified fragment of
+genomic DNA with specific oligonucleotides under stringent conditions, as shown in Fig. 4b and c.
+Extracts of cultured skin fibroblasts from the proband
+and his parents were electrophoresed on nonreduced
+polyacrylamide gels containing SDS, followed by immunoblotting with specific monoclonal antibodies to the
+LDL receptor. As shown in Fig. 5A, the LDL receptor
+
+gene from the proband were subjected to chemical mismatch analysis with probe fragments derived from a normocholesterolemic subject. Extra bands that were not detected in either the untreated probe DNA or in a normal
+control sample were present in the amplified fragments of
+exon 3 and exon 15 (Fig. 2). In all other fragments, no extra bands were seen that were not due to known polymorphic sites present in exons.
+Direct sequencing of the purified amplified fragments
+revealed that the proband was heterozygous for a single
+base substitution of A for G in exon 3 that changes the
+codon for amino acid residue 80 in the mature protein
+from GAG (glutamic acid) to AAG (lysine), and for a single base pair deletion of an A residue in the coding strand
+for exon 15. The deletion results in a frameshift that
+changes the codon for amino acid residue 743 in the mature protein from ATA (isoleucine) to ATG (methionine)
+and introduces a termination codon in the adjacent position (Fig. 3). Amplification and sequencing of fragments
+of genomic DNA from the parents and sibling of the proband showed that the father and sister were heterozygous
+for the mutation in exon 3, while exon 3 in the mother was
+normal, and that the mother was heterozygous for the sin-
+
+I
+
+4298
+
+-
+
+75
+
+AExon3
+
+Downloaded from www.jlr.org by guest, on October 11, 2012
+
+laneno.12345
+probe cexm3-+
+
+probably represents a breakdown product of the LDL
+receptor (25). Cells were not available from the sibling. In
+contrast, when extracts of cells from the proband that had
+been incubated with [JSSlmethionine were immunoprecipitated with specific antibodies to the LDL receptor protein and fractionated on reduced polyacrylamide gels containing SDS, bands were detected that corresponded only
+to the precursor form and the mature form of the normal
+LDL receptor protein and no slowly migrating band was
+observed (Fig. 5B).
+The mutation was introduced into a cDNA for the
+LDL receptor by site-directed mutagenesis. When the
+normal cDNA for the LDL receptor was expressed in
+monkey COS cells, immunoblotting of cell extracts re-
+
+6 7 8 9 1 0
+cexon15+
+9. Exon 15
+
+normal
+Fig. 2. Mismatch analysis of amplified fragments of the LDL receptor
+qene from the proband. Heteroduplexes between a '*P end-labeled fragment of DNA amplified by PCR from the LDL receptor gene of a control subject (probe) and the equivalent unlabeled fragment from the proband (sample P) or control subject (sample C) were subjected to
+chemical modification with either hydroxylamine (Hy) or osmium
+tetroxide (Os) and cleavage as described in the text. The cleaved
+products were fractionated by electrophoresis on a 6% denaturing polyacrylamide gel; autoradiography was for 18 h at -7OOC. The data are
+shown for fragments comprising exon 3 and exon 15, each hybridized
+with a 5'-cnd-labeled probe. The arrows on the left of the figure mark
+the positions of bands that were visible in the cleaved heteroduplexes between the sample from the proband and the probe that were not present
+in the labeled probe alone (lanes 1 and 8) or in the cleaved heteroduplexes between the control sample and the probe.
+
+protein in the cells from the mother appeared to be of normal size, though present at reduced concentration. In
+cells from the father, although a normal receptor protein
+was present, a band that migrated in the position of the
+normal precursor form of the protein was detected as well
+as a band that migrated more slowly than the normal receptor protein. In cells from the proband, only the precursor band and the abnormal band found in the father's cells
+were detected. The minor band detected in all samples
+
+Webb et al.
+
+proband
+
+NH.s--glu ile val thr met ser his........
+742 743744 745 746 747 740
+S....GAG ATA GTG ACA ATG TCT CAC.3' (normal)
+S'....GAG ATG TG4 c4A TGTCTC AC.. 3' (mutant)
+~ ~ + ~ . . . gmet
+l u stop
+742 743COOH
+Fig. 3. DNA sequence of part of the amplified fragments comprising
+exon 3 and exon 15 of the LDL receptor gene in family R. The amplified
+PCR product comprising exon 3 and exon 15 from the proband was
+purified by agarose gel electrophoresis and the DNA sequence was determined as described in Methods. A: Exon 3. The amplification primer located at the 3' end of the fragment was used as the sequencing primer,
+so that the sequence shown is that of the noncoding strand. The proband
+is heterozygous (htz) for a point mutation of C to T in the codon for
+residue 80 (C to A in the coding strand). R: Exon 15. The amplification
+primer located at the 5' end of the fragment was used as the sequencing
+primer, so the sequence shown is that of the coding strand. The sequence
+in the proband is compatible with a heterozygous (htz) deletion of a single A residue from the codon for amino acid residue 743, causing a
+frameshift and introducing a n m stop codon in the adjacent residue.
+
+Two new English mutations in the LDL receptor gene
+
+693
+
+5’
+
+3
+
+2
+
+7 8 910 1112 1314 15
+
+450
+
+SAN1 + +
+
+ShN1
+
+I I =
+
+AI
+
+AI
+
+AI
+
+Avall
+
+hull
+
+Ncol
+
+*-
+
+N w ~*
+
+MB
+
+3’
+
+101718
+
+-
+
+EB
+
+--
+
+SANl + +
+
+SANl+
+AvaII +
+RNIIMol+-
+
+AvaII + RNI
+Nco 1
+
+-*
+++
+
++“aIdigo
+
+(b)
+
++ mutant digo
++“aIdig0
+
+0
+
++ mutant digo
+
+MB JB
+
+exon 15
+
+.
+AB
+
+EB N m a l
+
+Fig. 4. Haplotype analysis of the mutant alleles and detection of the mutations in the LDL receptor genes of family
+R by allele-specific olipnucleotide hybridization. The four variable restriction enzyme sites in the LDL receptor
+gene that were analyzed in this study are shown at the top of the figure. The vertical numbered bands represent
+the 18 exons in the LDL receptor gene. The genotype ofeach member of the R family (identified by initials as shown
+on the pedigree, (a)) based on these variable restriction enzyme sites was determined as described in Methods. The
+haplotype of the allele carrying the gluao lys mutation is SfaNl+. AvaII+, Pvull-, Ncol+, where + indicates
+the presence and - the absence of the cutting site. The haplotype of the allele carrying the deletion in exon 15 is
+SfaNl-. AvaII -, PvuII -, Ncol-. For detection of the mutations by allele-specific oligonucleotide hybridization, the
+appropriate fragment of genomic DNA was amplified by PCR, applied to a nylon membrane in duplicate wells of
+a slot blotting apparatus (b), or fractionated by agarose gel electrophoresis and transferred in duplicate to a nylon
+membrane by capillary blotting (c). The membranes were hybridizcd with ’Wabeled olivnucleotides specific for
+each allele and washed at the stringent temperature as described in detail in Methods. Autoradiography was at
+- 7 O O C for 4-24 h.
++
+
+vealed a band of LDL receptor protein that was similar
+in size to the endogenous COS cell receptor. When the
+LDL receptor cDNA with the gluso + lys mutation was
+expressed, a band corresponding to the slowly migrating
+form of the mature protein found in cultured skin fibroblasts from the proband was detected in addition to the
+minor band of endogenous COS cell LDL receptor
+(Fig. 6). The proportion of the expressed gluao lys mutant receptor that was present as a high molecular weight
+form of the protein was greater than that of the normal
+protein.
+Total cytoplasmic RNA was isolated from cultured skin
+fibroblasts of the proband and his parents and fragments
+of the LDL receptor mRNA were amplified by PCR.
+Direct sequencing of the fragment encompassing the
+deleted base in exon 15 from the proband and mother revealed the presence of the normal sequence only, suggesting that the mRNA derived from the defective maternal
+allele was present at low concentration in both in+
+
+694
+
+Journal of Lipid Research Volume 33, 1992
+
+dividuals. When the amplified fragment containing the
+polymorphic AvaII site in exon 13 was digested with AvaII
+(Fig. 7A), the majority of the fragment from the proband’s mRNA was cleaved, suggesting that it was derived
+mainly from the allele inherited from his father (AvaII + )
+and not from the allele inherited from his mother
+(AvaII-). By comparison with results obtained when
+mixtures of different proportions of the fragments from
+the parents were analyzed, it was estimated that the
+mRNA derived from the maternal allele comprised approximately 10% of the total LDL receptor mRNA in the
+cells from the proband (Fig. 7B). Part of an amplified
+genomic fragment containing the promoter region, comprising approximately 250 base pairs upstream from exon
+1, was also sequenced for each member of the family and
+found to be identical with the normal sequence (data not
+shown).
+Genomic DNA from two groups of apparently unrelated FH patients attending lipid clinics either in London
+
+Downloaded from www.jlr.org by guest, on October 11, 2012
+
+(C)
+
+DISCUSSION
+
+A. lmmnobld
+
+-.
+
+NwJB MBAB
+
+(200 patients) or in Manchester (77 patients), was analyzed by gene amplification and hybridization with allelespecific oligonucleotides. The presence of the mutation in
+samples that gave a positive si,gnal with either of the mutant oligonucleotides was confirmed by DNA sequencing.
+In the London sample, five individuals were found to
+carry the gluao lys mutation; in three of these the
+haplotype of the mutant allele based on four RFLPs was
+determined unambiguously by comparing DNA from the
+patient with that of affected and unaffected relatives, and
+was found to be the same as that in the proband and his
+father (Table 2). In the Manchester sample, eleven unrelated individuals were found with the gluao
+lys mutation but relatives of the majority of these patients were not
+available for haplotype analysis.
+The single base pair deletion in exon 15 found in the
+proband and his mother was not detected in any unrelated patients in the Manchester sample, or any patients
+in the London sample.
++
+
++
+
+Webb et a/.
+
+Downloaded from www.jlr.org by guest, on October 11, 2012
+
+Fig. 5. Detection of the LDL receptor protein in cultured skin fibroblasts from family R. A: Extracts of cultured skin fibroblasts from the
+proband (MR). his father OR),and mother (AB). and a normocholesterolaemic subject (Nor) that had been preincubated for 40 h in medium
+containing lipoprotein-deficient serum were fractionated by SDS-PAGE
+on nonreduced .VIS (7.5%) and transferred to nitrocellulose membranes
+as described in Methods. Membranes were incubated with an
+lzsI-labeled monoclonal antibody to the bovine LDL receptor (antibody
+10A2) and then subjected to autoradiography for 60 h at -7OOC with
+preflashed film. "Rand X" probably represents a minor breakdown
+product of the normal receptor protein (25). R: Cultured skin fibroblasts
+that had been preincubated for 16 h with lipoprotein-deficient serum
+were incubated for 2 h with methionine-free medium containing
+[35S]methionine. Extracts of cells were immunoprecipitated with a
+specific antibody to the bovine LDL receptor and the immunoprecipitates were fractionated by SDS-PACE on gels (7.5%) containing
+2-mercaptoethanol. The dried gel was subjected to autoradiography for
+40 h at -70OC with preflashed film.
+
+Two new point mutations in the LDL receptor gene
+have been detected in a homozygous FH patient of English origin. The technique for mismatch analysis to detect point mutations was essentially that described by
+Montandon and coworkers (ll), but an essential modification was included for the analysis of larger DNA fragments, in that the mismatch was carried out twice, once
+with the probe DNA labeled at the 3' end and once with
+a probe labeled at the 5' end. In this way it was ensured
+that mismatches close to one and of a fragment would be
+readily detected by the presence of small cleavage products, as well as by large cleavage products that did not
+separate well from the excess labeled probe DNA.
+The mutant allele inherited by the proband from his
+mother has a single base pair deletion that introduces a
+new termination codon in the 0-linked sugars domain of
+the LDL receptor, but no truncated protein could be detected in cultured skin fibroblasts from the proband or his
+
++dimer?
+
+Fig. 6. Expression of the glua0 lys mutation in heterologous cells.
+The glu80 lys mutation was introduced into the LDL receptor cDNA
+in a mammalian expression vector, plasmid pLDLR4, by site-directed
+mutagenesis. The presence of the mutation in the cDNA was confirmed
+by DNA sequencing of the entire LDL receptor cDNA. The plasmids
+containing either the normal LDL receptor (pLDLR4) or the mutant
+LDL receptor (pLDLR4-JR) cDNA were transfected into monkey COS
+cells, and the cells were incubated for 48 h to allow transient expression
+of the plasmid. Cell extracts were analyzed by SDS-PACE on nonreduced .gels (7.5%) and immunoblotting with an 'z51-labeled monoclonal antibody (10A2) to the LDL receptor protein. (a) Untransfected
+C O S cells preincubated for 48 h in medium containing 10% fetal calf
+serum; (b) untransfected C O S cells preincubated for 48 h in medium
+containing 10% lipoprotein-deficient serum; (c) COS cells transfected
+with the mutant LDL receptor cDNA (pLDLR4); (d) C O S cells transfected with the normal LDL receptor cDNA (pLDLR4). Cells in (c) and
+(d) were incubated for 40 h in medium containing 10% fetal calf serum
+after transfection. "Rand X" probably represents a minor breakdown
+product of the receptor (25). while the high molecular weight band in (c)
+is likely to be a disulfide-linked dimer of the receptor protein (22; D. D.
+Patel, A. K. Soutar. and R. L. Knight, unpublished observations).
++
+
++
+
+Two new English mutations in the LDL receptor gene
+
+695
+
+A
+
+B
+
+.
+
+L
+
+oc---
+
+3052% bp,
+
+I -
+
+relative a"t
+JB (+/+)
+
+-1.0
+
+.o
+
+0.2 0.1 0.02 0.01
+
+AB (%)
+
+Fig. 7. Detection of mRNA derived from each mutant allele in cultured skin fibroblasts of the proband. A: Total
+cytoplasmic RNA was isolated from cultured skin fibroblasts preincubated for 16 h with lipoprotein-deficient serum.
+A fragment comprising exons 12-15 including the polymorphic Avall site in exon 13 (14)was amplified by PCR,
+with a 'ZP-end-labeled primer at the 5' end. After digestion of the fragment with AvaII, the products were fractionated by clectrophoresis on a 12% (wlv) nondenaturing polyacrylamide gel and labeled products were detected
+by autoradiography of the dried gel for 3 h at -70OC with prcflashed film. Digestion of the amplified fragment
+produces a labeled fragment of 305 bp when the AvaH site is absent and 255 bp when it is present. The samples
+shown are from the proband (MR), his father UB). and his mother (AB). R: Samples of the amplified fragment
+from the father (Avall genotype + I + ) to which different amounts of the fragment from the mother (AvaII genotype
+- I - ) had been added were analyzed as described above.
+
+TABLE 2.
+
+Genotype of the LDL receptor gene in FH patients with the glua0
+
+Patient
+
+Ethnic Origin
+
+Proband hmz'
+London 1 htz'
+2 htz
+3 htz
+4 htz
+5 hmt
+
+UK (Manchester)
+English
+English
+Enxlish
+Irish
+English
+
+'S(SfaN1). A (AvalI).
+
+Glum
+
+-
+
++ -
+
++
++
++
++
++
+
+-
+
++
+
+lys mutation
+
+HaplotypelCenotype'
+
+Lys
+
+S+
+S+
+S+
+S+
+S+I-
+
+A+
+A+
+A+
+A+/A+
+
+S+
+
+A+
+
+PPPP+/P+/P-
+
+N+
+N+
+N+
+N+
+N+/N+
+
+P (PvulI). and N (Ncol) denote variable restriction enzyme sites in the LDL receptor gene;
+
+- the absence of the site. Where the haplotype of the mutant allele could not be determined unambiguously, the genotype at that site is given.
+?he patient has a clinical diagnosis of homozygous (hmz) or heterozygous (htz) familial hypercholesterolemia.
+'This patient is a compound heterozygote; the second mutant allele has a large deletion at the 5' end of the gene
+(X-M. Sun and A. K. Soutar. unpublished observations).
++ indicates the presence and
+
+696
+
+Journal of Lipid Research
+
+Volume 33, 1992
+
+Downloaded from www.jlr.org by guest, on October 11, 2012
+
+acting regulatory element in the flanking regions of the
+gene at a more distant locus. Premature termination
+codons introduced by mutation into the P-globin gene are
+known to destablize the mRNA in some cases (30), and
+cells carrying either of the two alleles described above in
+which stop codons have been introduced also appear to
+contain less mRNA than normal (31).
+The mutant allele inherited by the proband and his
+sibling from their father has a single base change that
+would be expected to cause the glutamic acid residue at
+position 80 in the mature protein to be substituted with
+lysine. This residue occurs in the second disulfide-rich
+repeat in the binding domain of the receptor protein, and
+affects processing and intracellular transport of the newly
+synthesized protein. It also results in a mature protein
+that migrates abnormally slowly on nonreduced gels,
+although the protein migrates normally when fully reduced. A similar phenotype was observed when a plasmid
+containing an LDL receptor cDNA with the mutation
+was expressed in COS cells. The normal LDL receptor
+
+mother with specific antibody to the LDL receptor. One
+of the antibodies used for immunoblotting was antireceptor I$-C7 (26) that apparently recognizes an antigenic site in the first disulfide-rich repeat in the binding
+domain of the protein and should be able to detect a putative truncated receptor with the first three domains intact
+(27). In cells with the Lebanese allele of the LDL receptor
+gene, in which a point mutation introduces a stop codon
+in exon 14, a truncated protein is synthesized but is present in cells at a very low level (28). However, two other
+mutant alleles into which a stop codon has been introduced by a frameshift, caused either by an insertion in
+exon 8 (2) or by a 4 kb deletion between exons 12 and 15
+(29). produce no detectable LDL receptor protein. Cultured cells from the proband contained only a small
+amount of mRNA derived from this allele, suggesting that
+the mRNA is unstable in the cells. There was no evidence
+for any mutation in the putative promoter region that
+would affect the rate of transcription, but we cannot rule
+out the existence of an additional mutation in some cis-
+
+Webb et ai.
+
+mutation also occurs in other FH patients in Ireland or
+in Irish-Americans in the United States; it does not appear to be widespread in the two populations described in
+this study, unlike the mutation present in exon 3.
+The authors are indebted to Dr. T. Brocklebank (consultant
+pediatrician) and Dr. M. Henderson (chemical pathologist) at
+St. James’ Infirmary, Leeds, for samples and information about
+the proband and his family. Blood samples from FH patients attending lipid clinics in London were kindly provided by Dr.
+G. R. Thompson (Hammersmith Hospital) and Dr. M. Seed
+(Charing Cross Hospital). We are grateful to Professor S. Humphries and L. King-Underwood (Charing Cross Sunley Research Centre) for providing DNA from some of these samples.
+Blood samples from FH patients attending the lipid clinics in
+Manchester were supplied by Dr. P. Durrington (Manchester
+Royal Infirmary) and Dr. P. Miller (Withington Hospital). We
+are grateful to Dr. P. Talmud (Charing Cross Sunley Research
+Centre) for providing DNA from these samples and to Dr. D.
+Batnagar (Manchester Royal Infirmary) for information about
+some of the proband’s family. Plasmids pLDLR3 and pLDLR4
+were kind gifts from Dr. D. Russell, Dallas, Texas. We are grateful to Mrs. E. Manson for secretarial help. This work was supported by the Medical Research Council and by the British
+Heart Foundation (Grant no. 1891047). Dr. Xi-Ming Sun is
+sponsored by the British Council.
+Manuscript rcceiued 19 September 1991 and in reuisedfonn 17 January 1992.
+
+REFERENCES
+1. Goldstein, J. L., and M. S. Brown. 1989. Familial hypercholesterolemia. In The Metabolic Basis of Inherited Disease. c . R. Scriver, A. L. Beaudet, W. S. Sly, and D. Valle,
+editors. McGtaw-Hill, New York. 1215-1250.
+2. Hobbs, H. H., D. W. Russell, M. S. Brown, and J. L. Goldstein. 1990. The LDL receptor locus in familial hypercholesterolemia: mutational analysis of a membrane protein.
+Annu. Rev. Genet. 24: 133-170.
+3. Sun, X-M., J. C. Webb, V. Gudnason, L. King-Underwood,
+S. Humphries, M. Seed, G. R. Thompson, B. L. Knight,
+and A. K. Soutar. 1992. Characterisation of deletions in the
+low-density lipoprotein gene in patients with familial hypercholesterolaemia in the UK. Arterzoscler. Thm-mb. In press,
+4. Talmud, P., A. Tybjaerg-Hansen, D. Bhatnagar, A.
+Mbewu, J. P. Miller, P. Durrington, and S. Humphries.
+1991. Rapid screening for specific mutations in patients
+with a clinical diagnosis of familial hypercholesterolaemia.
+Atherosclerosis. 89: 137-141.
+5. Soutar, A. K., S. N. McCarthy, M. Seed, and B. L. Knight.
+1991. Relationship between apolipoprotein[a] phenotype,
+lipoprotein[a] concentration in plasma and low density
+lipoprotein (LD) receptor function in a large kindred with
+familial hypercholesterolemia due to the pros64 leu mutation in the LDL-receptor gene. J. Clin. Invest. 88: 483-492.
+6. Sambrook, J., E. F. Fritsch, and T. Maniatis. 1989.
+Molecular Cloning. A Laboratory Manual. 2nd ed. Cold
+Spring Harbor Laboratory Press, Cold Spring Harbor, NY.
+7. S;auudhof, T. C., J. L. Goldstein, M. S. Brown, and D. W.
+Russell. 1985. The LDL receptor gene: a mosaic of exons
+shared with different proteins. Science. 288: 815-822.
+
+Two new English mutations in the LDL receptor gene
+
+697
+
+Downloaded from www.jlr.org by guest, on October 11, 2012
+
+protein isolated from cultured cells is partially dimerized
+(22), and we observed that the mutant receptor was more
+susceptible to dimerization to a higher molecular weight
+form, especially when expressed in heterologous cells.
+These data suggest that the normal formation of disulfide
+bonds in the second repeat may be impeded in this mutant protein.
+The gluso to lys mutation was also found in five unrelated individuals in a sample of 200 patients with a clinical diagnosis of FH who were attending lipid clinics in
+the London area. Haplotype analysis of the mutant alleles
+was possible in some cases and showed that it was likely
+that all the patients had inherited the same mutant allele,
+although the observed haplotype, based on four RFLP
+sites in the gene, is relatively common in this population
+(32, 33). The data of Leitersdorf, Chakravarti, and Hobbs
+(32) suggest that little additional information would be
+gained by analysis of the other common polymorphic sites
+in the LDL receptor gene, for example those for ApaLl or
+SphI, because of linkage disequilibrium with the RFLP
+sites already analyzed. Two of the patients with the gluso
+to lys mutation were originally from the northwest of England, one from the Midlands, one from the southeast,
+and the other a first generation immigrant from Ireland.
+Perhaps more striking was the frequency of this mutation
+in the FH.patients attending a lipid clinic in Manchester,
+where it was found in 11 out of 77 unrelated patients. It
+was not possible to determine the haplotype of the mutant
+allele in these patients, but their genotype at the LDL
+receptor locus was compatible with them all having inherited the same mutant allele. Since the family of the
+proband’s father are from Lancashire, it is proposed that
+the g1us0 to lys mutation should be named FH Lancashire
+according to the nomenclature of Hobbs and coworkers
+(2). The frequency of this mutation in English FH patients and its presence in Irish patients suggests that it
+might also be found in individuals of English or Irish origin in the United States.
+In marked contrast, the mutation in the gene inherited by
+the proband from his mother was not detected in any unrelated patients in the Manchester sample or in any individuals
+in the London sample. The DNA sequence in which the deletion occurs is CACCACGGTGGAGATaGTGACAATGT,
+where the deleted base is indicated by the lower case letter, which contains several elements associated with the
+frequent occurrence of deletions in other genes (34). In
+particular, it contains a sequence identical to a consensus
+sequence (underlined in the sequence above) derived from
+sequences in other genes that have been identified as ‘deletion hot spots’, where multiple small deletions have occurred at the same sites in the human genome (34). The
+family of the proband‘s mother is of Northern Irish origin,
+and we propose that this mutation should be named FH
+Tyrone according to the nomenclature of Hobbs and coworkers (2). It will be of interest to determine whether this
+
+8. Feinberg, A. P., and B. Vogelstein. 1984. A technique for
+radiolabeling DNA restriction endonuclease fragments to
+high specific activity. Anal. Biocha. 137: 266-267.
+9. Saiki, R . K., D. H. Gelfand, S. Stoffel, S. J. Scharf, R.
+Higuchi, G. T. Horn, K. B. Mullis, and H. A. Erlich. 1988.
+Primer-directed enzymatic amplification of DNA with a
+thermostable DNA polymerase. Science. 230: 487-491.
+10. Leitersdorf, E., E. J. Tobin, J. Davignon, and H. H.
+Hobbs. 1990. Common low-density lipoprotein receptor
+mutations in the French Canadian population. J Clzn.
+Znuest. 85: 1014-1023.
+11.
+
+12.
+
+13.
+
+15.
+
+16.
+17.
+
+18.
+
+19.
+
+20. Soutar, A. K., B. L. Knight, and D. D. Patel. 1989.
+Identification of a point mutation in growth factor repeat C
+of the low density lipoprotein receptor gene in a patient
+with homozygous familial hypercholesterolemia that affects
+ligand binding and intracellular movement of receptors.
+PTOC.Natl Acad. Sci. USA. 86: 4166-4170.
+21. Soutar, A. K., and B. L. Knight. 1986. Immunoprecipitation of the low density lipoprotein (LDL)-receptor and its
+precursor from human monocyte-derived macrophages.
+Biochem. J 233: 683-690.
+
+698
+
+Journal of Lipid Research
+
+Volume 33, 1992
+
+,F
+
+Downloaded from www.jlr.org by guest, on October 11, 2012
+
+14.
+
+Montandon, A. J., P. M. Green, F. Giannelli, and D. R.
+Bentley. 1989. Direct detection of point mutations by mismatch analysis: application to haemophilia B. Nucleic Acids
+Res. 17: 3347-3358.
+Casanova, J.-L., C. Pannetier, C. Jaulin, and P. Kourilsky.
+1990. Optimal conditions for directly sequencing doublestranded PCR products with Sequenase. Nucleic Acids Res.
+18: 4028.
+Soutar, A. K. 1991. A polymorphism in exon 2 of the human LDL-receptor gene identified by gene amplification
+and oligonucleotide hybridisation or restriction enzyme
+digestion. Nucleic Acidr Res. 19: 4314.
+Hobbs, H. H., V. Esser, and D. W. Russell. 1987. AvalI
+polymorphism in the human LDL receptor gene. Nucleic
+Acids Res. 15: 379.
+Humphries, S. E., A. M. Kessling, B. Horsthemke, J. A.
+Donald, M . Seed, N. Jowett, M. Holm, D. J. Galton, V.
+Wynn, and R.Williamson. 1985. A common DNA polymorphism of the low-density lipoprotein (LDL) receptor
+gene and its use in diagnosis. Lancet. 1: 1003-1005.
+Kotze, M. J., E. Langenhoven, E. Dietzsch, and A. E.
+Retief. 1987. A RFLP associated with the low-density lipoprotein receptor gene (LDLR). Nucleic Acids Res. 15: 376.
+King-Underwood, L., V. Gudnason, S. Humphries, M.
+Seed, D. Patel, B. Knight, and A. Soutar. 1991. Identification of the 664 proline to leucine mutation in the low density lipoprotein receptor in four unrelated patients with
+familial hypercholesterolaemia in the UK. Clin. Genet. 40:
+17-28.
+Knight, B. L., and A. K. Soutar. 1982. Changes in the
+metabolism of modified and unmodified low-density lipoproteins during the maturation of cultured blood monocytemacrophages from normal and homozygous familial hypercholesterolaemic subjects. Eur. J Biochem. 125: 407-413.
+Knight, B. L., D. D. Patel, S. J. P. Gavigan, and A. K.
+Soutar. 1988. Low-density-lipoprotein-receptor mRNA
+content of fibroblasts from normal and familial hypercholesterolaemic subjects. Eur. J , Biochem. 178: 555-561.
+
+22. van Driel, I. R., C. G. Davis, J. L. Goldstein, and M. S.
+Brown. 1987. Self-association of the low density lipoprotein
+receptor mediated by the cytoplasmic domain. J. Biol.
+C h a . 262: 16127-16134.
+23. Knight, B. L., S. J. P. Gavigan, A. K. Soutar, and D. D.
+Patel. 1989. Defective processing and binding of lowdensity lipoprotein receptors in fibroblasts from a familial
+hypercholesterolaemic subject. Eur. J Biochem. 179:
+693-698.
+24. Gorman, C. 1985. High efficiency gene transfer into mammalian cells. Zn DNA Cloning. Vol. 11. D. M . Glover, editor. IRL Press, Oxford, 143-190.
+25. Lehrman, M. A., J. L. Goldstein, M. S. Brown, D. W. Russell, and W. J. Schneider. 1985. Internalization-defective
+LDL receptors produced by genes with nonsense and
+frameshift mutations than truncate the cytoplasmic domain. Cell. 41: 735-743.
+26. Beisiegel, U., W. J. Schneider, M. S. Brown, and J. L.
+Goldstein. 1982. Immunoblot analysis of low density lipoprotein receptors in fibroblasts from subjects with familial
+hypercholesterolemia. J. Bid. Chem. 257: 13150-13156.
+27. van Driel, I. R., J. L. Goldstein, T. C. Sudhof, and M. S.
+Brown. 1987. First cysteine-rich repeat in ligand-binding
+domain of low density lipoprotein receptor binds CA2+and
+monoclonal antibodies, but not lipoproteins. J. Biol. Chem.
+262: 17443-17449,
+28. Lehrman, M. A,, W. J. Schneider, M. S. Brown, C. G.
+Davis, A. Elhammer, D. W. Russell, and J. L. Goldstein.
+1987. The Lebanese allele at the low density lipoprotein
+receptor locus: nonsense mutation produces truncated
+receptor that is retained in endoplasmic reticulum. J Biol.
+Chem. 262: 401-410.
+29. Horsthemke, B., U. Beisiegel, A. Dunning, J. R. Havinga,
+R . Williamson, and S. Humphries. 1987. Unequal
+crossing-over between two ah-repetitive DNA sequences in
+the low-density-lipoprotein-receptor gene. A possible
+mechanism for the defect in a patient with familial hypercholesterolaemia. Eur. J. Biochem. 164: 77-81.
+30. Orkin, S. H., and H. H. Kazazian, J . 1984. The mutation
+and polymorphism of the human @-globingene and its surrounding DNA. Annu. Reu. Genet. 18: 131-171.
+31. Hobbs, H. H., E. Leitersdorf, J. L. Goldstein, M. S.
+Brown, and D. W. Russell. 1988. Multiple crm- mutations
+in familial hypercholesterolemia.
+Clin. Znuest. 81:
+909-917.
+32. Leitersdorf, E., A. Chakravarti, and H. H. Hobbs. 1989.
+Polymorphic DNA haplotypes at the LDL receptor locus.
+Am. J Hum. Genet. 44: 409-421.
+33. Schuster, H., S. Humphries, G. Rauh, C. Held, C. Keller,
+G. Wolfram, and N. Zollner. 1990. Association of DNAhaplotypes in the human LDL-receptor gene with normal
+serum cholesterol levels. Clin. Genet. 38: 401-404.
+34. Krawczak, M., and D. N. Cooper. 1991. Gene deletions
+causing human genetic disease: mechanisms of mutagenesis
+and the role of the local DNA sequence environment. Hum.
+Genet. 86: 425-441.
+35. Friedewald, W. T., R. I. Levy, and L). S. Frederickson.
+1988. Estimation of the concentration of low density
+lipoprotein cholesterol without use of preparative ultracentrifugation. Clin. Chem. 18: 499.
+
+

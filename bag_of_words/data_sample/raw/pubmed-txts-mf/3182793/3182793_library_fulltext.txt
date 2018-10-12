@@ -1,0 +1,727 @@
+Vol. 263,No. 31,Issue of November 5, pp. 16291-16296,1988
+Printed in U.S.A.
+
+THEJOURNAL
+OF BIOLOGICAL CHEMISTRY
+Q 1988 by The American Society for Biochemistry and Molecular Biology, Inc.
+
+Mutant Human Adenosine DeaminaseAlleles and Their Expression by
+Transfection into Fibroblasts*
+(Received for publication, March 21, 1988)
+
+Ann L. Akeson, Dan A. Wiginton$, Mary R. Dusing, J. Christopher States, andJohn J. Hutton
+From the Children’s HosDital Research Foundation and Department of Pediatrics, University of Cincinnati College of Medicine,
+Cincinnati, Ohio 45229
+
+Adenosine deaminase (ADA) deficiency in humans is lecular level. We havecloned and sequenced the normal ADA
+one cause of severe combined immunodeficiency dis- gene (2) and the mRNA coding regions of mutant genes for
+ease. Single base mutations affecting the
+ADA protein the ADA-deficient cell lines GM2756 and GM2825A as rephave been identified for bothalleles of the ADA-defi- resented by cDNAs (3). Single ADA alleles from the deficient
+cient cell line GM2606 and for one allele
+of the ADA- cell lines GM2471 (4) and GM1715 (5) have also been redeficient cell line GM2825A. One allele of GM2606 ported. We report here sequence analysis ofADA cDNAs
+has a mutation altering amino acid 101 from Arg to from an additional ADA-deficient cell line, GM2606. As was
+Trp, and the other allele ahas
+mutation altering amino previously predicted by S1 nuclease mapping (6) ofADA
+acid 211from Arg toHis. As previously reported, one mRNAs, seven of these mutant ADA alleles have point muADA allele of GM2825A has a single base mutation
+tations that altersingle amino acids but do not alter thesize
+changing Ala-329 to Val-329, and the other allele has
+a mutation which eliminates exon 4 from the mature or abundance of the ADA mRNA. However, one allele of the
+mRNA. Sequence analysis of polymerase chain reac- cell line GM2825A has a mutation that alters ADA mRNA
+tion-amplified GM2825A DNA showed a single base splicing leading to a mature ADA message that lacks exon 4
+change of A to G within the invariant basesof the 3‘ (3). As reported here, this is the result of a point mutation
+splice site of intron 3 that can account for the mis- within the invariant 3‘ splice site of intron 3. Two additional
+splicing of exon 4. To test the effecton ADA catalytic ADA-deficient patients have recently been studied that are
+remarkable because they are homozygous for large deletions
+activity of these mutations and the mutations previencompassing exon 1within the gene (7,8).
+ously
+found
+inthe
+ADA-deficient lineGM2756,
+While it is easy to understand the failure of genes with
+expressionvectorscontainingnormalandmutant
+ADA-coding sequences under transcriptional regulalarge deletions and misspliced mRNAs to generate functional
+tion of the Rous sarcoma virus long terminal repeat
+ADA protein, the effects of single amino acid changes, in
+were constructed and transfected into human fibroparticular the very conservative alteration of Ala-329 to Valblasts. All transfected cells had levels of ADA mRNA
+329 found in cell lines GM2756 and GM2825A, are more
+15-25 times higher than the
+endogenous ADA mes- difficult to interpret. To prove thatthe pointmutations
+sage. Yet, cellstransfected with the normalADA-cod- identified within the coding sequences are responsible for the
+ing sequences had ADA enzymaticlevels 40 times deficiencyin ADA activity, we inserted the mutant ADA
+higher than cells transfected with any of the mutant cDNAs for the cell lines GM2606, GM2756, and GM2825A
+ADA sequences. This analysis demonstrates that whileinto an expression vector andtestedtheminatransient
+the mutant ADA-coding sequences are transcribed, expression system. ADA mRNAs transcribed from the mutant
+they do notencode a functionalADA protein.
+vectors failed to produce significant levels of enzymatically
+active ADA, while ADA mRNA transcribed from a vector
+with the normal ADA cDNA did produce high levels ofenzymatically active ADA. This provides direct evidence that the
+Adenosine deaminase (EC 3.5.4.4; ADA)’ is an ubiquitous mutations detected in the cDNAs are the cause of the ADA
+enzyme of the purine salvage pathway. It converts adenosine deficiency. These studies not only further the understanding
+and deoxyadenosine to inosine and deoxyinosine, respectively. of the molecular basis of human ADA deficiency but also may
+In humans, hereditary deficiency of ADA results in a func- aid in definition of the structure and enzymatic mechanism
+tionally impaired immune system (1).Attempts to study ADA of the protein.
+structure have been difficult because of the low abundance of
+the protein. However, recent structural studiesof normal and
+EXPERIMENTAL PROCEDURES
+mutant cDNAs and the normal gene have provided considerPreparation and Analysis of cDNA Libraries-The ADA-deficient
+able information about causes of ADA deficiency at the mo- B-lymphoblast cell lines GM2606 and GM2825A and the human
+
+fibroblast line GM4429were obtained from the Human Genetic
+Mutant Cell Repository (Camden, NJ). Poly(A)+ RNA was isolated
+search Grant HD19919 (to J. J. H.) and Fellowship F32-HD 06926 from whole cells by guanidine thiocyanate extraction,cesium chloride
+(to A.L.A.). The costs of publication of this article were defrayed in centrifugation (9), and oligo(dT) chromatography (10). The cDNA
+part by the payment of page charges. This article must therefore be was synthesized, ligated into G-tailed PstI-cut pBR322 and the rehereby marked “advertisement” in accordance with 18U.S.C. Section sulting library screened as previously described (3). PstI fragments
+1734 solelyto indicate this fact.
+of the ADA cDNA (Fig. lA) were subcloned into M13mp18 and
+4 To whom correspondence should be addressed.
+sequenced in both directions by a dideoxy-chain termination method
+The abbreviations used are: ADA, adenosine deaminase; RSV, (11).
+Rous sarcoma virus; LTR, long terminal repeat; bp, base pair(s); kb,
+Amplification and Analysis of GenomicDNA-High
+molecular
+kilobase(s); HEPES, 4-(2-hydroxyethyl)-l-piperazineethansulfonic weight DNA was
+isolated (12) and subjected to 30 cyclesof polymerase
+acid.
+chain reaction amplification using Tag polymerase under conditions
+
+* This work was supported by National Institutes of Health Re-
+
+16291
+
+Expression of Mutant ADA
+
+16292
+A.
+
+P
+
+ADA
+cDNA
+
+B
+
+P
+
+I
+
+112
+
+P
+
+I
+
+3
+
+4
+
+5
+
+N P
+
+6 ( 7
+
+put-N
+derivative
+
+ori
+Ampr
+
+FIG. 1. Maps of the ADA cDNA and generalized pRSV-ADA
+expression vector. A, The full-length ADA cDNA is 1498 bp with
+12 exons. The coding sequence is indicated by the arrow. The PstI
+sites (P)used for sequencing and the NcoI sites ( N ) used for construction of the pRSV-ADA expression vectors are shown. The 5'
+and 3' PstI sites are
+within the cloning site of pBR322. B , the pRSVADA expression vectors for normal ADA (pADA-WT)and mutant
+ADAs (pADA-Trplol, pADA-Hiszll, pADA-VabZ9,pADA-del4) were
+constructed from NcoI cassettes (Table I) containing the entirecoding
+sequence. The NcoI cassettes were subcloned in pUC-N. The HindIII
+(H)-EcoRI ( E ) fragments from pUC-N were used to replace the
+HindIII-HpaI (Hp) chloramphenicol acetyltransferase fragment of
+pRSV-chloramphenicol acetyltransferase (13) to create pRSV-ADA.
+The location of the RSV-LTR promoter and polyadenylation signals
+are indicated.
+recommended by the manufacturer (Perkin-Elmer Cetus). The reaction included 1pg of genomic DNA, 5 mM potassium chloride, 10 mM
+Tris, pH 8.3, 1.5 mM magnesium chloride, 0.01% (w/v) gelatin, 200
+p~ each dNTP, 1 p~ each primer in a total volume of 100 pl. The
+DNA wasinitially denatured for 10 min at 92 "C and 2.5 units of Taq
+polymerase was added. Successive cycles were annealing at 37 "C for
+2 min, extension at 72 "C for 5 min, and denaturing at 92 "C for 2
+min. During the final cycle extension time was increased to 10 min.
+Oligonucleotideprimers complimentary to bases 24787 through 24810
+and 25458 through 25481 of the ADA gene (2) were synthesized on
+an Applied Biosystems 380A DNA synthesizer and purified on a20%
+acrylamide sequencing gel. Amplification gave a 694-bp fragment
+which included a portion of intron 3, the entireexon 4, and a portion
+of intron 4. A 520-bp Sad-BglII fragment of the amplified DNA was
+cloned into M13 and sequenced as described above. To minimize the
+possibility of misreading by either the Taq polymerase used in amplification or reverse transcriptase used in sequencing, six independent M13 clones were analyzed.
+Plasmid Construction-An NcoI site was generated in the multiple
+cloning site of pUC12 by filling in the ends of an NcoI fragment of
+hADA194 (2) with Klenow polymerase and inserting the fragment by
+blunt-end ligation into the SmaI site of pUC12. The NcoI fragment
+was removed by NcoI digestion and the vector ligated to itself. The
+resulting vector, designated pUC-N, was used to subclone the NcoI
+ADA cassettes. These cassettes were NcoI fragments of the cDNAs
+containing the entire protein-coding sequence of ADA (Fig. 1A). A
+normal, wild-type ADA cassette was assembled using the 1457-bp
+NcoI fragment of pADA211 (6). Three mutant ADA cassettes, each
+
+including one of the point mutations of interest, were derived from
+the pBR322 clone 2606-13A (Fig. 2), and from clones 2756-13b and
+2756-15 (3). A full-length ADA cDNA (pBR17/20), lacking exon 4
+was generated by cutting the pBR322 clones 2825A-20 and 2825A17b (3) with StuI and HindIII and ligating the 4.4-kb fragment of
+2825A-17b with the 1.4-kb fragment of 2825A-20. The 1243-bp NcoI
+fragment of pBR17/20 was used as a mutant ADA cassette without
+exon 4.
+The ADA expression vectors were constructed by removing the
+chloroamphenicol acetyltransferase sequences of pRSV-chloramphenicol acetyltransferase (obtained from Bruce Howard, National
+Cancer Institute) (13) and inserting the ADA cassettes to generate
+pRSV-ADA (Fig. 1B). TheADA cassettes were removed from pUCN by digesting with EcoRI, blunting the EcoRI ends, and cutting
+with HindIII. The resulting HindIII blunt-end cassette was ligated
+with the RSV-LTR-containing fragment of pRSV-chloramphenicol
+acetyltransferase generated by HindIII-HpuI digestion. Table I shows
+the mutations and affected amino aidsof each ADA-deficient cell line
+and thecDNA clones used in assembly of the pRSV-ADA expression
+vectors.
+Fibroblast Culture and Transfection-The human fibroblast cell
+line GM4429 was selected as host cell because of the relatively low
+level of endogenous ADA activity and theknown efficiency of transfections into fibroblasts. The cells were maintained in a-minimal
+essential medium supplemented with 10% fetal calf serum and 10 mM
+HEPES. The day before transfection the cells were plated at 1.0-1.3
+X lo6 cells/plate (100 X 15-mm size). Plasmid DNA was transfected
+by the calcium phosphate-DNA method of Gorman et al. (13) without
+glycerol shock. Each plate of cells was cotransfected with 5 pgof
+DNA from one of the pRSV-ADA plasmids, 2 pg of pRSV-chloramphenicol acetyltransferase plasmid DNA, and 28 pgof carrier plasmid
+DNA (pUC18). Control cells were transfected with 2 pgof pRSVchloramphenicol acetyltransferase, 28 pgof carrier plasmid DNA,
+and 5 pg of pRSV-Tn5-aminoglycoside phosphotransferase (13). This
+gave an equivalent amount of RSV-controlled plasmid in each transfection. Twenty-four hours after transfection, the cells were washed
+with phosphate-buffered saline containing 5 mM EDTA and fed with
+a-minimal essential medium. Cells were harvested for assay of ADA
+and chloramphenicol acetyltransferase activity or for RNA isolation,
+48 h after transfection.
+Measurement of ADA and ChloramphenicolAcetyltransferase Activities-The cells were harvested by trypsinization and aliquots
+counted with a Coulter counter. The cells were pelleted, washed in 40
+mM Tris, pH 7.4, 150 mM sodium chloride, 1 mM EDTA, and then
+suspended in 5 mM potassium phosphate, pH 7.2, 1 mM EDTA.
+Lysates were made by rapid freeze-thawing of the suspended cells in
+liquid nitrogen. Cellular debris was removed by centrifugation and
+lysates were stored a t -70 "C. ADA activity was assayed by monitoring the conversion of ["Cladenosine to ['4C]inosine by2-10 p1 of
+lysate (14). The results were calculated as pmoles of inosine produced/
+min/106cells. Chloramphenicol acetyltransferase activity was assayed
+by incubation of cell lysates with ['4C]chloroamphenico1and acetylCoA followed by thin layer chromatography (13). Activity was expressed as pmoles of acetylated ['4C]chlor~amphenic~l
+products/
+minute/1o6 cells.
+Isolation and Analysis of ADAmRNA-Cells
+were harvested in
+guanidine thiocyanate, and RNA was isolated by cesium chloride
+gradient centrifugation (9). Twenty pgof total cellular RNA was
+electrophoresed in an 1%agarose-formaldehyde gel and blot transferred to Pall Biodyne A membrane (15). To visualize ADA mRNA,
+the membrane was hybridized with a 1457-bp NcoI fragment of
+normal ADA cDNA, pADA211 (6) that was labeled by random oligonucleotide priming and [cY-~'P]~CTP
+(16).
+RESULTS AND DISCUSSION
+
+Structure of Mutant ADAAlleles-In
+previous work, we
+analyzed four ADA alleles from two patients with inherited
+ADA deficiency (3). In thispaper, we report the ADA cDNA
+sequence of both alleles from a third cell line, GM2606. Each
+ADA allele of GM2606 has a single point mutation affecting
+the amino acid sequence. In theallele represented by the fulllength clone 2606-13a (Fig. 2), base 396 in exon 4 is T rather
+than theC found in the consensus ADA sequence. This is the
+first base of the codon for amino acid 101 and results in an
+Arg to Trp change. In the ADA-deficient cell line GM1715,
+
+Expression of Mutant ADA
+
+16293
+
+3, exon 4, intron 4 region, there were no other base changes
+as compared with the normal ADA gene (2). The firststep in
+CGG
+GTG CGT
+arg
+val
+arg
+mammalian pre-mRNA splicing is the interaction of the 3’
+I
+-I+
+splice site with certain splicing factors (18).Subsequent cleav12
+4
+1 2 3
+5 1 6 7 8 9 1 0 11
+age of the 5’ splice site and formation of the lariat intermediate is dependent upon the splicing factors recognizing the
+*
+2606-20
+CGG GTA
+3’ splice site consensus sequence (19). There are two conar g
+val
+served sequence elements present in 3‘ splice sites, a 9-base,
+1
+-I
+pyrimidine-rich tract and theAG dinucleotide (20). Mutation
+or deletion of the AG dinucleotide prevents cleavage at the5’
+splice site (21). Thus, the mutation of the 3‘ splice site of
+* *
+GTA
+CAT
+2606-1 7a
+CGG
+intron 3 ofADA prevents correct splicing of intron 3. As a
+val
+his
+ar g
+result, introns 3 and 4 and exon 4 are eliminated together
+I
+LI+
+during subsequent splicing events.
+i31 4 1 5 I 6 171 8 191
+10
+1111
+12
+i
+Pointmutationsare
+the predominant molecular defect
+causing
+ADA
+deficiency.
+Among themutant ADA alleles
+*
+*
+2606-1 3a
+TGG
+GTA CGT
+reported here and reviewed in Ref. 3, there are eight different
+trp
+val
+arg
+point mutationswithin the coding sequence. Six of these alter
+I
+L l r ‘
+the amino acids encoded and two do not alter amino acids.
+6 718]9110111
+4
+5
+1 213
+12
+Seven of thesemutationsaretransitions.
+Theother is a
+FIG. 2. Sequence analysis of ADAcDNA clones for the transversion of T to G at base 1006 in an ADA allele of the
+ADA-deficient cell line GM2606. The partial cDNA clones 2606- deficient cell line GM2471 (4). In addition, the transition of
+20 and 2606-17a and the full-length cDNA clone 2606-13a are com- A to G within the 3‘ splice site of intron 3of one allele of the
+pared to the consensus ADA cDNA sequence (3). Exons 1-12are
+ADA-deficient cell line GM2825A leads to a mature ADA
+shown as open boxes. Asterisks denote base changes relative to the
+mRNA species missing exon 4. In total, the cDNAs of 8 alleles
+ADA consensus sequence.
+from 5 ADA-deficient patients have been sequenced. Each of
+these patients has
+been shown to be a compound heterozygote,
+amino acid 101 is mutated from Arg to Gln (5). Thesefindings with two different ADA alleles. Recent reports have identified
+indicate that Arg-101 within exon 4 must be critical for ADA two unrelated ADA-deficient patients that express no ADA
+stabilityand/or activity. Clone 2606-13a also includes 19 mRNA (7, 8). Both of these patients are homozygous for a
+bases 5’ to the major transcription initiation site. We have
+deletion that includes the entire ADA promoter region and
+found similar clones in the ADA-deficient line GM2825A (3)
+the first exon. These deletions are theconsequence of homoland believe they indicate multiple minor transcription initiogous recombination between two repetitive DNA sequences
+ation sites 5’ to the major transcription initiation site. Mulof the Alu family.
+tiple initiation sites have also been reported for the murine
+Expression of Mutant ADA Alleles-In order to prove that
+ADA gene (17).
+the single base mutations, reported here for GM2606 and
+The second ADA allele in GM2606 is represented by a
+GM2825A, and those previously reported for GM2756 and
+composite of clones 2606-20 and 2606-17a. This composite
+GM2825A, are responsible for ADA deficiency, we compared
+sequence is missing 35 bases in the noncoding region of exon
+the
+mutantgene products with the normal ADA gene product
+12. Bysequence analysis of these overlapping clones, we found
+that mutation of base 727 from G to A in exon 7 alters the in an expression system. A mammalian expression vector was
+codon for amino acid 211, changing it from Arg to His. The constructed using the entire coding sequence of the ADA
+same mutation was previously found in the ADA-deficient cDNAs under transcriptional control of the RSV-LTR (Fig.
+line GM2756 (Table I) (3). These may represent the same 1B). Thevectors are identical to pRSV-chloramphenicol aceallele in two seemingly unrelated ADA-deficient patients. tyltransferase(13) with chloramphenicol acetyltransferase
+Each cell line has not only the mutation at base 727 but also sequences replaced by normal or mutant ADA gene cassettes
+a G to A change at base 629 in exon 6 that does not affect the (Table I) and collectively are called pRSV-ADA. The mutaamino acid encoded. Thelatter conservative base change tions affecting ARG-101, Arg-211, Ala-329, and the deletion
+occurs in approximately half the ADA alleles so far examined of exon 4 were analyzed independently in the pRSV-ADA
+~~~~,
+(3). While we cannoteliminate the possibility of further constructions pADA-Trplol, pADA-His211, P A D A - V ~and
+mutations in the 3’ end of this allele, as willbe discussed pADA-del4, respectively (Table I). ThepRSV-ADA construcbelow, we have shown that the mutation of Arg-211 is suffi- tions were cotransfected with pRSV-chloramphenicol acetyltransferase into the human fibroblast line GM4429 by the
+cient to cause loss of ADA catalytic activity.
+In the ADA-deficient cell line GM2825A normal-sized ADA calcium phosphate method (13). Cotransfection with pRSVchloramphenicol acetyltransferase and analysis of chlorammRNAs and ADA mRNAs missing exon 4 are present in
+equal abundance (3).As we previously reported, cDNAs com- phenicol acetyltransferase activity allows measurement of the
+parable to the full-length mRNA have a point mutation at efficiency of transfection. In this transientexpression system,
+base 1081 which changes Ala-329 to Val-329. The cDNAs ADA and chloramphenicol acetyltransferase catalytic activicomparable to the shorter
+mRNA are missing exon 4 buthave ties were measured 48 h after transfection.
+Transfection conditions were optimized by comparing ADA
+no other mutation that alters the amino acid sequence. By
+polymerase chain reactron amplification and analysis of the activities in cells cotransfected with increasing levels of the
+region of the ADA gene which includes the 3’ splice site of nonmutant, wild-type construction, pADA-WT (0-10pgof
+intron 3 and the 5’ splice site of intron 4, we were able to DNA/plate), and a constant level of pRSV-chloramphenicol
+identify a single point mutation that causes deletion of exon acetyltransferase (2 pg ofDNA/plate). ADA activity increased
+4. A mutation of base 24971 of the ADA gene (2) from A to G as pADA-WT was increased from 1 to 5 pgof DNA/plate.
+alters the invariant 3‘ splice site of intron 3 (Fig. 3). Within Increasing pADA-WT DNA to 10 pg/plate did not further
+the approximately 400 bp of sequence analyzed for the intron increase ADA activity. Chloramphenicol acetyltransferase acconsensus
+ADAcDNA
+
+1
+
+Expression of Mutant ADA
+
+16294
+
+Cell line"
+
+HPB-ALL
+
+TABLE
+I
+Construction of pRSV-ADA expression vectorscontaining mutant ADA-coding sequences
+Locationb
+Type of mutation
+cDNA clone' vectm Expression
+Base no.
+Amino acid no.
+None
+pADA-211
+pADA-WT
+
+GM2756 and GM2825A
+
+Point mutation
+
+1081 2756-13b329
+(Cto T)
+(Ala to Val)
+
+GM2756 and GM2606
+
+Point mutation 211
+
+727
+(G to A)
+
+GM2606
+
+Point mutation
+
+GM2825A
+
+Deletion of exon 4 2825A-20
+74-121
+314-457
+
+396
+
+(Cto T)
+
+pADA-Vab
+
+(Arg to His)
+101
+(Arg to
+Trp)
+
+2756-15
+
+pADA-His211
+
+2606-13a
+
+PADA-TVIOI
+pADA-del4
+
+2825A-17b
+-.
+- ... - .
+
+HPB-ALL is a T-lymphoblast cell line with structurally normal ADA. GM2756, GM2825A, and GM2606 are
+B-lymphoblast cell lines derived from patients with hereditary ADA deficiency.
+The ADA base and amino acid sequences are numbered according to a full-length consensus cDNA sequence
+(3).
+The cDNA clone from which the ADA cassette in the expression vector is derived. The pADA-211 clone is a
+normal cDNA derived from HPB-ALL (6). The mutant cDNA clones 2756-13b, 2756-15, 2825A-20, and 2825A17b have been described previously (3). The mutant cDNA clone 2606-13a is described in this work.
+
+1
+2
+G A T C G A T C
+
+A
+
+-F&
+i Pza
+a
+
+b
+
+c
+
+d
+
+e
+
+f
+
+g
+
+*
+I
+
+2 .-*TTCCCGGGGGCTGCC...
+1 ---TTCCCAG GGGCTGCC
+exon 4
+
+-
+
+FIG.3. Sequence analysis of the intron3-exon 4 splice junctions of the ADA-deficient cell line GM2825A. Genomic DNA
+
+from GM2825Awas amplified by polymerase chain reaction and
+sequenced as described under "Experimental Procedures." Autoradiograms of sequencing gels derived from M13 clones 1 and 2, each
+representing an allele, show bases 24961 through 24980 of the ADA
+gene (2). The asterisk denotes the A to G mutation in the invariant
+bases of the 3' splice site of intron 3 in clone 2.
+
+tivity decreased 4.5-fold on the addition of 1pg/plate pADAWT. Chloramphenicol acetyltransferase activity was relatively constant aspADA-WT was increased from 2 to 5 pg of
+DNA/plate. On the basis of these data, all transfections were
+performed with 5 pg of pRSV-ADA DNA/plate and 2 pg of
+pRSV-chloramphenicol acetyltransferase DNA/plate. Control cells were transfected with 5 pg of pRSV-Tn5-aminoglycoside phosphotransferase DNA/plate and 2 pg of pRSVchloramphenicol acetyltransferase DNA/plate, so there was
+an equivalent concentration of transfected DNA under control of the RSV promoter.
+As shown in Fig.4, cells transfected with normal ADA
+vector, pADA-WT, had ADA activities 25-fold higher than
+control cells transfected with an equivalent amount of pRSVTn5-aminoglycoside phosphotransferase or nontransfected
+cells. In contrast, cells transfected with the pRSV-ADA plas-
+
+FIG.4. Expression of human ADA activity in fibroblastline
+GM4429 transfected with normal and mutant pRSV-ADA
+
+constructions. Control cells (a) were nontransfected, while control
+cells ( b ) were transfected with 2 pg/plate pRSV-chloramphenicol
+acetyltransferase (CAT) and 5 pglplate pRSV-Tn5-aminoglycoside
+phosphotransferase. Cells c through g were transfected with 2 pg/
+plate pRSV-chloramphenicol acetyltransferase and 5pglplate (c)
+pADA-WT, ( d ) pADA-VaLm,(e) pADA-Hism, (f)pADA-Trp;ol, or
+(g) pADA-del4 as detailed under "Experimental Procedures. Cell
+lysates were prepared and assayed for ADA (panel A ) and chloramphenicol acetyltransferase (panel B ) activities 48 h after transfection.
+Activities are the average of duplicate transfections. Both ADA and
+chloramphenicol acetyltransferase activities are expressed as pmole
+of product/min/106 cells.
+
+mids in which the normal cDNA is replaced with one of the
+mutant ADA cDNA cassettes, pADA-Vah, pADA-Hiszll,
+pADA-Trplol, or pADA-del 4, had activities comparable to
+the level of endogenous ADA activity found in control cells.
+The level of chloramphenicol acetyltransferase activity varied
+2.5-fold but was independent of the type of pRSV-ADA vector
+cotransfected. When ADA activity was normalized against
+transfected chloramphenicol acetyltransferase activity after
+subtracting endogenous ADA activity, cells transfected with
+normal ADA cDNA had activities a t least 40 times higher
+than cells transfected with mutant ADA cDNAs.
+
+Expression of Mutant ADA
+RNA blot analysis was used to detect ADA mRNA in the
+transfected cells (Fig. 5). Endogenous ADA mRNA was detected in control cells cotransfected with pRSV-Tn5-aminoglycoside phosphotransferase and pRSV-chloramphenicol
+acetyltransferase (Fig. 5, lane a). Cells transfected with
+pADA-Trplol, pADA-His211,pADA-Va1329, and pADA-WT
+(Fig. 5, lanes c-f) had ADA mRNAs of approximately 1.6 kb,
+the same size as the endogenous message.However, ADA
+message levels were 15-25-fold higher in cells transfected with
+these vectors than incells transfected with plasmids that did
+not contain ADA sequences. The predominant ADA mRNA
+species in cells transfected with pADA-del4 was only about
+1.4 kb (Fig. 5 , lane b). ADA message of 1.4 kb could only have
+been transcribed from the transfected vector and not from
+the endogenous gene. Since the intensity of the 1.4-kb band
+is approximately equivalent to the intensity of the 1.6-kb
+band for cells transfected with the other ADA vectors, the
+increased ADA message levels must be derived from the
+transfected vectors and not the endogenous gene. Thus, the
+failure of the mutant ADA constructions to show increased
+expression of ADA activity is a reflection of the effect of the
+mutations on protein stability and/or catalytic activity and
+not thelevel of transcription or stability of the mRNA.
+Computer-generated analysis of protein secondary structure (22) and hydropathicity (23) can be used to estimate the
+effect of mutations on ADA protein. The alteration of Arg101 to Trp-101 found in one allele of GM2606 causes a large
+shift of the adjacent amino acid structure (amino acids 98105) from relatively neutral to decidedly hydrophobic (Fig.
+6A). Further, this amino acid change creates the possibility
+for a turn in the predicted 0-sheet at the adjacent Tyr-102.
+GM2606 and GM2756 share a common mutant ADA protein
+with Arg-211 changed to His-211. With this mutation the
+region from amino acids 208-213 becomes decidedly more
+hydrophobic (Fig. 6B).
+The
+ADA-deficient cell lines
+GM2825A and GM2756 have a common mutation of Ala-329
+to Val-329. However each cell line expresses the mutation
+from a unique allele (3). The Ala-329 to Val-329 substitution
+has virtually no effect on the predicted hydropathicity (Fig.
+6C) or predicted secondary structure of ADA even though the
+
+16295
+A.
+
+U E C V V Y V E V R Y S P H L L A N S
+100
+
+B.
++I-
+
+-I-
+
+c.
++l-
+
+IO5
+
+I IO
+
+O E A V K S G I H R T V H A G E V G S
+205
+
+210
+
+21 5
+
+21 0
+
+. -. .
+
+avi,/)
+H-211
+
+F K R L N I N A A K S S F L P
+
+V-329
+
+-1
+
+-
+
+FIG.6. Hydopathicity profiles (23) of regions of the ADA
+protein affected by point mutations. Regions above the line (0)
+are hydrophilic (+) and regions below the line are hydrophobic (-).
+The solid lines are the profiles for normal ADA protein, and the
+dashed lines are the profiles for the mutant ADA proteins. Amino
+acids, in the one-letter code, are numbered and the mutations are
+indicated with asterisks.
+
+amino acid change does have adramatic effect on ADA
+activity. The deletion of exon 4 in mRNA transcribed from
+one ADA allele of GM2825A does not alter thetranslational
+reading frame. This deletion has dramatic effects on the
+predicted protein structure, as 48 amino acids are eliminated.
+Further, amino acids encoded in exon 4 must be essentialfor
+ADA stability and/or function, as mutations of Lys-80 to Arg80 in GM2471(4),and Arg-101 to Trp-101 in GM2606 and to
+Gln-101 in GM1715 (5) occur within this region.
+Despite near normal levels of translatable ADA mRNA
+(24),we have found that theADA-deficient cell lines GM2606,
+GM2756, and GM2825A have 10%or less of the immunoprecipitable ADA protein and ADA catalytic activity found in
+normal cells (25). The detection of immunoreactive material
+clearly shows that ADA protein is made in these ADAdeficient lines. We found similar results with our expression
++18s
+system, where both normal and mutant constructions led to
+approximately equivalent transcription of ADA mRNA but
+the ADA mutant constructions failed to generate enzymati+1.6kb
+cally active protein. On the basis of this information and the
++1.4kb
+predicted effects of the mutationson ADA structure, we
+believe that thefailure to detect appreciable levels of mutant
+ADA protein and catalytic activity is theresult of alterations
+of protein structure and/or decreased protein stability. This
+does not exclude the possibility that the mutations may also
+directly affect the ADA active site. Analysis of mutations
+affecting ADA may be crucial in further characterization of
+the enzyme structure and mechanism. Of course analysis of
+FIG. 5. Expression of human ADA-specific RNA in GM4429
+fibroblasts transfected with normal and mutant pRSV-ADA mutant ADA is important for understanding the etiology of
+constructions. GM4429 cells were cotransfected with pRSV-chlor- ADA deficiency.
+amphenicol acetyltransferase and either (a) pRSV-Tn5-aminoglycoside phosphotransferase, as control, or the pRSV-ADA constructions
+Acknowledgment-We thank Dr. Bruce Aronow for suggestions on
+( b ) pADA-del4, (c) pADA-Trplol, ( d ) pADA-His211, (e) pADA-Va13m, the construction of the expression vectors.
+( f ) pADA-WT. Twenty pg of total cellular RNA from each transfection was runonan1%
+agarose-fomaldehyde gel, blotted on Pall
+REFERENCES
+Biodyne and hybridized with the 1457-NcoI cDNA probe (Fig. 1).
+The position of the 18 S ribosomal RNA is indicated with an arrow.
+1. Kredich, N. M., and Hershfield, M. S. (1983) in The Metabolic
+These samples are from the experiment shown in Fig. 4.
+Basis oflnherited Disease, (Stanbury, J. B., Wyngaarden, J. B.,
+
+16296
+
+Expression of Mutant ADA
+
+Fredrickson, D. S., Goldstein, J. L., and Brown, M. S., eds) pp.
+1157-1183,McGraw-Hill, New York
+2. Wiginton, D.A., Kaplan, D. J., States, J. C., Akeson, A. L.,
+Perme, C.M., Bilyk, I. J., Vaughn, A. J., Lattier, D. L., and
+Hutton, J.J. (1986)Biochemistry 25,8234-8244 14.
+3. Akeson, A. L., Wiginton, D. A., States, J. C., Perme, C. M.,
+Dusing, M.R., andHutton, J. J. (1987)Proc. Natl. Acad. Sci.
+U.S.A. 84,5947-5951
+15.
+4. Valerio, D., Dekker, B.M.M.,
+Duyvesteyn, M. G . C., van der
+Voorn, L., Berkvens, Th.M., van Ormondt, H., and van der Eb,
+A. J. (1986)EMBO J. 5,113-11916.
+5. Bonthron, D. T., Markham, A. F., Ginsburg, D., and Orkin, S. H.
+(1985)J. Clin. Inuest. 76,894-89717.
+6. Adrian, G . S., Wiginton, D. A., and Hutton,J. J. (1984)Mol. CeU.
+Biol. 4,1712-1717
+18.
+7. Markert, M.L.,Hutton, J. J.,Wiginton, D. A., States, J. C., and
+Kaufman, R. E. (1988)J. Clin. Invest. 81,1323-1327 20.
+8. Berkvens, Th. M.,Gerritsen, E. J. A., Oldenberg, M., Breukel,
+C., Wijnen, J. Th., van Ormondt, H., Vossen, J. M., van der
+Eb, A. J., and Meera Khan, P. (1987)Nucleic Acids Res. 15,
+9365-9378
+23.
+9. Chirgwin, J. M., Przybyla, A. E., McDonald, R. J., andRutter,
+W. J. (1979)Biochemistry 24, 5294-529924.
+10. Aviv, H.and Leder, P. (1972)Proc. Natl. Acad. Sci. U.S.A. 69,
+1408-1412
+25.
+11. Duncan, C. (1985)NEN Product News 4,6-7
+
+12. Longmire, J. L., Louis, A,, Meincke, L. J., and Hilderbrandt, C.
+E. (1986)Fed. P m .45,1849 (abstr.)
+13. Gorman, C., Padmanabhan, R., andHoward, B. H. (1983)Science
+221,551-553
+Coleman, M. S., Donofrio, J., Hutton, J. J., Hahn, L., David, A.,
+Lampkin, B., and Dyminski, J. (1978)J. Biol. Chem. 253,
+1619-1626
+Markert, M. L.,Hershfield, M. S., Wiginton, D. A., States, J. C.,
+Ward, F. E., Bigner, S. H., Buckley, R.H., Kaufman, R. E.,
+and Hutton, J. J. (1987)J. Immunol. 138, 3203-3206
+Feinberg, A. P., and Vogelstein, B. (1983)Anal. Biochem. 132,
+6-13
+Ingolia,E.,
+D.
+Al-Ubaidi, M. R.,
+Yeung,
+C.-Y.,
+Bigo,
+H. A., Wright,
+D. A., and Kellems, R. E. (1986)Mol. Cell. Biol. 6, 4458-4466
+Ruskin, B., and Green,
+R. M.
+(1985)Cell 43, 131-142
+19. Ruskin, B., and Green, M. R.(1985)Nature 317,732-734
+Sharp, P. A. (1981)CeU 23,643-646
+21. Reed, R., and Maniatis, T. (1985)Cell 41,95-105
+22. Garnier, J., Osguthorpe, D. J., and Robson, B. (1978)J. Mol.
+Biol. 120,97-120
+Hopp, T. P., and Wood, K.R. (1981)Proc. Natl. Acad. Sci. U.S.A.
+78,3824-3828
+Adrian, G. S., Wiginton, A.,
+D.
+and
+Hutton, J. J. (1984)Hum.
+Genet. 68,169-172
+Wiginton,Hutton,
+D., and
+J. J. (1982)J.Biol. Chem. 25'7,32113217
+
+'
+
+

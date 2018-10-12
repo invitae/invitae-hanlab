@@ -1,0 +1,1628 @@
+Common Low-density Lipoprotein Receptor Mutations
+in the French Canadian Population
+Eran Leitersdorf,* Evan J. Tobin,* Jean Davignon,t and Helen H. Hobbs*
+*Departments ofMolecular Genetics and Internal Medicine, The University of Texas Southwestern Medical Center
+at Dallas, Dallas, Texas 75235; and tThe Clinical Research Institute ofMontreal, Montreal, Quebec, Canada
+
+Abstract
+Familial hypercholesterolemia (FH) has a frequency of 0.2% in
+most populations of the world. In selected populations such as
+the Afrikaners in South Africa, the Christian Lebanese, and
+the French Canadians, the disease is more frequent due to the
+founder effect. Previous studies demonstrated that a single
+mutation at the LDL receptor locus, the so-called French Canadian deletion, makes up 60% of the mutant genes responsible
+for FH in the French Canadian population. In this study, efforts were directed to determine if there were other common
+LDL receptor mutations in this population. Three missense
+mutations were identified and each mutation was reproduced
+and expressed in vitro. Two of the three mutations result in the
+production of an LDL receptor protein that is not processed to
+its mature form at a normal rate. Molecular assays were developed to detect the mutations directly, and the LDL receptor
+genes of 130 French Canadian FH heterozygotes were
+screened for the presence of the three missense mutations as
+well as two deletions. LDL receptor mutations were detected in
+76% of individuals and 14% had one of the three missense
+mutations. (J. Clin. Invest. 1990. 85:1014-1023.) familial hypercholesterolemia- LDL receptors hypercholesterolemia
+
+Introduction
+Familial hypercholesterolemia (FH)' is an autosomal dominant disorder due to mutations in the LDL receptor gene (1).
+FH heterozygotes have a two- to threefold elevation in plasma
+LDL associated with tendon xanthomas and accelerated atherosclerosis. FH homozygotes have a markedly elevated level
+of plasma LDL and these individuals often develop coronary
+atherosclerosis in childhood (1). The LDL receptor gene has
+been cloned (2) and numerous mutant alleles from individuals
+with FH have been characterized at a molecular level. A vast
+Dr. Leitersdorf's current address is Department of Internal Medicine
+B, Hadassah University Hospital, Jerusalem, Israel 91121.
+Address reprint requests to Dr. Helen H. Hobbs, Departments of
+Internal Medicine and Molecular Genetics, University of Texas Southwestern Medical Center-Dallas, 5323 Harry Hines Blvd., Dallas, TX
+75235.
+Receivedfor publication 14 September 1989 and in revisedform 10
+November 1989.
+1. Abbreviations used in this paper: EGF, epidermal growth factor; ER,
+endoplasmic reticulum; FH, familial hypercholesterolemia; PCR,
+polymerase chain reaction; RFLP, restriction fragment length polymorphism.
+
+J. Clin. Invest.
+© The American Society for Clinical Investigation, Inc.
+
+0021-9738/90/04/1014/10 $2.00
+Volume 85, April 1990, 1014-1023
+1014
+
+E. Leitersdorf E. J. Tobin, J. Davignon, and H. H. Hobbs
+
+array of different mutations in the LDL receptor gene have
+been described, including nonsense mutations, missense mutations, deletions, and insertions (3). The mutations have been
+classified into four groups based on the characteristics of the
+LDL receptor protein produced (4). In normal fibroblasts, an
+LDL receptor precursor protein is produced in the endoplasmic reticulum (ER) and has an apparent molecular mass of
+120 kD on SDS gel electrophoresis. Within 30 min the protein
+is transported to the Golgi complex and increases in size by 40
+kD due to the addition of N- and 0-linked sugars. From the
+Golgi complex, the receptor is transported to the cell surface
+where it binds its ligand, LDL, and is internalized by endocytosis (5). LDL receptor alleles with a so-called class 1 mutation
+fail to produce any LDL receptor protein as determined by
+immunoprecipitation with an anti-LDL receptor monoclonal
+antibody (6). LDL receptor mutations of the class 2 phenotype
+make a precursor protein that is not transported at a normal
+rate from the ER to the Golgi complex, and the 120-kD precursor protein accumulates in the ER. Class 3 mutations produce an LDL receptor protein that is transported normally to
+the cell surface, but fails to bind LDL. And finally, mutations
+of the class 4 type make an LDL receptor protein that binds
+LDL normally but fails to be internalized.
+The frequency of FH differs quite dramatically in different
+populations of the world. In the European and North American populations, the frequency of heterozygous FH is estimated to be 0.2% (1). However, in selected other populations
+such as the Afrikaners of South Africa (7), the Christian Lebanese (8), and the French Canadians (9), the frequency of FH
+has been found to be two- to fivefold higher. In these populations, one or two mutant alleles at the LDL receptor locus
+predominate, unlike most populations where almost every
+unrelated individual with FH has a different LDL receptor
+mutation (Hobbs H. H., et al., unpublished observations). For
+example, in the Afrikaners the frequency of FH has been estimated to be five times higher than the general European population, and two LDL receptor missense mutations comprise
+> 95% of the mutant alleles in 12 Afrikaner FH homozygotes (10).
+In the French Canadian population, the frequency of FH
+has been estimated to be 0.5%, or about two to three times
+the rate in the general population (9). A large deletion (> 10
+kb) in the 5' region of the LDL receptor gene (which will be
+referred to as the French Canadian deletion) has been shown
+to comprise 60% of mutant LDL receptor alleles causing FH in
+French Canadians from the Montreal area (11). It was previously speculated that the high frequency of this deletion
+in the French Canadian population was due to the founder effect (1 1).
+The present-day French Canadian population is descended
+from - 6,000-7,000 original settlers who emigrated from
+northeastern and western France to eastern Canada in the 17th
+and 18th centuries ( 12). The French Canadians remained ge-
+
+netically isolated from the English due to social and geographic
+factors. They were mostly farmers and settled in more remote
+areas as their numbers grew. The families were large and the
+French Canadian population expanded rapidly after 1700.
+Presumably, among the initial group of immigrants there were
+individuals or families who had FH due to the French Canadian deletion. When the ancestries of some individuals with
+the French Canadian deletion were traced (including one from
+San Francisco and another from Massachusetts), all had ancestors from the same small town northeast of Montreal called
+Kamouraska. This observation supports the hypothesis that
+these families share ascendants (13).
+Since a single mutation in the LDL receptor gene, i.e., the
+French Canadian deletion, was found to make up 60% of the
+mutant alleles in this population, the question arose whether
+there were other common mutant LDL receptor alleles in the
+remaining 40%. In another study, Ma et al. have identified a
+5-kb deletion that includes exons 2 and 3 of the LDL receptor
+gene, and this mutation was found in 5% of 80 French Canadian FH heterozygotes screened (14). To determine if there
+were other common LDL receptor mutations in this population, we analyzed the LDL receptor genes of 11 French Canadian FH homozygotes. We used 10 restriction fragment length
+polymorphisms (RFLPs) associated with LDL receptor locus
+to construct haplotypes in order to estimate the number of
+different mutant alleles in the sample (15). Only three different
+LDL receptor haplotypes were identified and the coding region
+of an allele associated with each haplotype was sequenced.
+Three different missense mutations were found and assays
+were developed to detect each of these mutations directly. The
+molecular assays were used to screen the LDL receptor genes
+from 130 FH heterozygotes from the greater Montreal area.
+
+Methods
+Materials. The restriction enzymes used for RFLP analysis were purchased from New England Biolabs (Beverly, MA). Escherichia coli
+DNA polymerase I (Klenow fragment) was obtained from Boehringer
+Mannheim Biochemicals (Indianapolis, IN). Thermus aquaticus DNA
+polymerase and the thermal cycler used for DNA amplification were
+obtained from Perkin Elmer Cetus (Norwalk, CT). The oligonucleotides used for DNA dot blot hybridization analysis were synthesized on
+a DNA synthesizer model 280A obtained from Applied Biosystems
+(Foster City, CA); genomic DNA was extracted from white blood cells
+using the nucleic acid extractor model 340A purchased from the same
+company. [y-32P]ATP (7,000 Ci/mmol) used for end-labeling oligonucleotides was purchased from ICN Radiochemicals (Irvine, CA) and
+the [35S]methionine (- 1,000 Ci/mmol) was obtained from New England Nuclear (Boston, MA). The nylon membranes used for oligonucleotide hybridization were purchased from ICN Radiochemicals.
+IgG-C7 and IgG-200 1, mouse MAbs directed against amino acid residues 2-42 of the human LDL receptor and an irrelevant antibody,
+respectively, were prepared as previously described (6, 16). The bacteriophage M 13 replicative form DNAs were obtained from Pharmacia
+LKB (Piscataway, NJ).
+Haplotype analysis of French Canadian FH homozygotes. Genomic DNA was isolated from fibroblasts that were cultured from skin
+biopsy specimens of 11 French Canadian FH homozygotes. 8 Atg of
+genomic DNA was digested with a fivefold excess of 10 different restriction enzymes shown previously to reveal RFLPs (15). Subsequent
+to digestion, the DNA was fractionated on a 0.8% agarose gel and
+transferred to a nylon membrane. The filters were hybridized with the
+appropriate probes, and the LDL receptor haplotypes were determined
+and numbered as previously reported (15).
+
+DNA sequencing of mutant alleles. Each exon of the LDL receptor
+gene was individually amplified from 1 jtg of genomic DNA from
+either FH 883, FH 47, or FH 787 using the polymerase chain reaction
+(PCR) and Taq polymerase as described (15, 17). In each reaction,
+specific oligonucleotides, one end-labeled with [y-32P]ATP (18) and
+one unlabeled, homologous to the intron sequences flanking the exon,
+were used (Table II). The amplification products were size-fractionated
+on a 6% polyacrylamide nondenaturing gel in TBE (50 mM Tris at pH
+8, 90 mM boric acid, 2 mM EDTA at pH 8.3). The band corresponding to the amplified exon sequence was excised from the gel, and the
+DNA was purified before sequencing by the Maxam and Gilbert tech-
+
+nique (19).
+
+Oligonucleotide hybridization ofgenomic DNA. Exons 3, 4, and 14
+of the LDL receptor gene were individually amplified by PCR using 1
+,ug of genomic DNA and 25-base oligonucleotides homologous to sequences flanking each mutation. After 35 rounds of PCR-directed
+amplification, one-tenth of the amplified DNA product was denatured
+in 400 mM NaOH/25 mM sodium EDTA and dotted onto duplicate
+nylon membranes as previously described (20). Oligonucleotides homologous to the normal and mutant sequences were end-labeled with
+[y-32P]ATP (18) and purified using cetylpyridinium bromide (21). A
+total of 1 X 106 cpm/ml of each oligonucleotide was hybridized individually to duplicate filters in 5X SSPE (IX SSPE contains 0.9 M
+NaCl, 50 mM sodium phosphate, and 5 mM EDTA at pH 7.4), 0.05%
+(vol/vol) each of BSA, Ficoll 400, and polyvinyl pyrrolidone 360 and
+0.5% (vol/vol) SDS for 16 h at 420C. The filters were then washed
+sequentially at different temperatures using the following buffers:
+buffer A (2X SSPE, 0.5% [vol/vol] SDS); buffer B (IX SSPE, 0.25%
+[vol/vol] SDS); buffer C (0.2X SSPE, 0.1% [vol/vol] SDS), and buffer
+D (0.1 X SSPE, 0.1% [vol/vol] SDS). The filters were washed in buffers
+A, B, and C at room temperature before washing in buffers C and D at
+370C. Then they were washed in buffer D for 10 min at 420C and
+45-520C. The final washing temperatures for each oligonucleotide
+were as follows: 470C for both the mutant and normal oligo 47, 520C
+for both mutant and normal oligo 883, 450C for the mutant oligo 787,
+and 520C for the corresponding normal oligonucleotide. The filters
+were exposed to XAR-5 (Eastman Kodak Co., Rochester, NY) film for
+1- 12 h at -70'C using an intensifying screen (Lightning Plus; DuPont
+Instruments, Wilmington, DE).
+Mutagenesis and transfection of mammalian cells. DNA fragments
+from the expression plasmid pLDLR-2 were subeloned into the bacteriophage M 13 and oligonucleotide-directed mutagenesis was performed as previously described (22, 23). A double-stranded fragment
+that contained the mutation was subeloned into a plasmid containing
+the normal human LDL receptor cDNA under the control of the
+simian virus (SV) 40 early promoter (pLDLR-2). Three plasmids
+called p883, p47, and p787 were constructed. Each plasmid had the
+same missense mutation as had been found in the LDL receptor gene
+of the corresponding FH homozygote fibroblast cell line. DNA from
+the three plasmids was prepared, and after the mutation was confirmed
+by sequencing, the DNA was transfected into COS-M6 cells as previously described (23). 2 d after transfection, the cells were radiolabeled
+with [35S]methionine for 15 min, and then an excess of cold methionine was added to the media. After various time intervals, cell extracts
+were made and the LDL receptors were immunoprecipitated using the
+anti-LDL receptor MAbs, IgG-C7 (6). The immunoprecipitated proteins were fractionated on an SDS polyacrylamide gel. The apparent
+molecular masses were calculated by reference to the following
+markers: myosin (200 kD), B-galactosidase (116 kD), phosphorylase 6
+(97 kD), BSA (68 kD), and ovalbumin (43 kD). The gel was exposed to
+XAR-5 film for the times indicated in the legend of Fig. 2.
+
+Results
+Genomic DNA was extracted from blood leukocytes of 130
+unrelated FH heterozygotes who reside within 50 miles of
+Familial Hypercholesterolemia in French Canadians
+
+1015
+
+Montreal, Canada. Every FH heterozygote had an elevated
+LDL level, tendon xanthomas, and a family history of hypercholesterolemia. Their pedigrees were constructed and none
+were found to be related at the second degree level. Genomic
+blotting was performed to assay for the presence of the French
+Canadian deletion and the 5-kb deletion (data not shown) (1 1,
+14). Of the 130 FH heterozygotes tested, 77 (59%) were found
+to have the French Canadian deletion and four (3%) had the
+'5-kb deletion.
+To determine and identify the LDL receptor mutations
+responsible for FH in the other 38% of these French Canadian
+heterozygotes, LDL receptor haplotype analysis was performed using genomic DNA extracted from fibroblasts of 11
+French Canadian FH homozygotes that had been cultured
+from skin biopsy specimens by Dr. M. S. Brown and Dr. J. L.
+Goldstein. The 11 French Canadian FH homozygotes are
+listed in Table I. The city of origin of the physicians who sent
+the skin biopsy specimens are given, as well as any history of
+consanguinity. LDL receptor protein biosynthetic studies had
+been previously performed using these cultured fibroblasts in
+
+the laboratory of Dr. M. S. Brown and Dr. J. L. Goldstein. The
+cells were radiolabeled with [35S]methionine for 2 h and then
+washed for 2 h with cold methionine before immunoprecipitation using an anti-receptor MAb, IgG-C7. A quantification
+of the amount of LDL receptor protein in the precursor (120
+kD) and mature form (160 kD) was determined by densitometry, and the results are summarized in Table I. In normal
+fibroblasts, 100% of the receptor protein is in the 160-kD mature form after a 2-h pulse and 2-h chase. The fibroblasts from
+FH homozygotes 49, 549, 808, 859, and 896 produced no
+immunoprecipitable protein and thus were of the class 1 phenotype. FH homozygotes 47, 787, and 896 produced an LDL
+receptor precursor protein of normal size that failed to be
+completely converted to the mature 160-kD form after a 2-h
+chase. FH 883, 807, and 764 produced a protein of normal size
+that was defective in cell surface binding to either LDL or
+IgG-C7 (data not shown). Also included in Table I are the
+results of RNA blot analysis and LDL receptor haplotype analysis which were performed as previously described (15, 24). Of
+the 11 FH homozygotes, 8 were found to be homozygous for
+
+Table I. Analysis of LDL Receptor Gene and Protein in 1I French Canadian FH Homozygotes
+A. French Canadian FH homozygotes
+LDL receptor apparent
+molecular mass
+
+Origin
+
+Patient No.
+
+True homozygotes
+1. FH 49
+2. FH 549
+3. FH 808
+4. FH 859
+5. FH 896
+6. FH 47
+7. FH 787
+8. FH 883
+
+Compound heterozygotes
+9. FH 893 a)
+b)
+10. FH 807 a)
+b)
+11. FH 764 a)
+b)
+
+Consanguinity
+
+120 kD
+
+160 kD
+
+Mature
+mRNA
+
+%
+
+%
+
+kb
+
+LDL receptor
+haplotype
+
+31,3'
+
+Montreal
+Toronto
+Montreal
+Montreal
+Quebec City
+Montreal
+Montreal
+Quebec City
+
+Yes
+No
+No
+Yes
+No
+Yes
+No
+No
+
+None
+None
+None
+None
+None
+100
+80
+None
+
+None
+None
+None
+None
+None
+None
+20
+100
+
+None
+None
+None
+None
+None
+5.3
+5.3
+5.3
+
+31,31
+
+Quebec City
+
+No
+
+Montreal
+
+No
+
+Montreal
+Germany
+
+No
+
+100
+None
+None
+None
+None
+
+None
+None
+100
+None
+100
+
+5.3
+None
+5.3
+None
+5.3
+
+2
+3'
+31
+3'
+31
+
+3',3'
+3',3'
+3',3'
+3',3'
+2,2
+2,2
+
+B. LDL receptor haplotypes
+
+Restriction sites
+Stu I
+exon 8
+
+Ava II
+exon 13
+
+Spe I
+intron 15
+
+Apa LI
+intron 15
+
+Pvu 11
+
+Nco I
+
+intron 15
+
+exon 18
+
+-
+
++
+
+-
+
+-
+
+_
+
+_
+
+-
+
++
+
++
++
+
+-
+
++
+
++
+
++
+
+5FR
+
+Sph I
+intron 6
+
+3'
+
+*
+
+2
+31
+
++
++
+
+Bsm I
+
+Haplotype
+
+-
+
++
++
+
+Pst I
+3FR
+
+Apa LI-3'
+3FR
+
+_
+
+_
+
+-
+
++
+
++
+
+A. Each patient was unrelated and had classical homozygous FH. LDL receptor biosynthetic studies were performed as previously described
+(26) and the results are summarized in columns 4 and 5. The percentages of immunoprecipitated LDL receptor after a 2-h pulse with a
+[35S]methionine and 2-h chase with cold methionine are given. Northern blot analysis was performed on RNA isolated from cultured fibroblasts. The LDL receptor haplotype numbers are given in reference 15.
+B. The RFLP haplotype patterns are given for the 10 RFLP sites assayed where restriction site is deleted (*), restriction site is absent (-) and restriction site is present (+).
+
+1016
+
+E.
+
+Leitersdorf, E. J. Tobin, J. Davignon, and H. H. Hobbs
+
+the same haplotype, and subsequently were determined to be
+homozygous for the same mutation (Nos. 1-8, Table I). Three
+of the FE homozygotes were heterozygous for at least one
+restriction site and thus were probably compound heterozygotes (Nos. 9-1 1, Table I). One FH homozygote, FH 764, was
+half French Canadian; his mother was German and his father
+was French Canadian, and therefore only his paternal allele
+was included in the analysis.
+Only three different LDL receptor haplotypes were found
+among the 21 mutant LDL receptor alleles represented in this
+sample: haplotype 3', haplotype 2, and haplotype 31 (Table I,
+part B). The fact that only three haplotypes were identified
+suggested that there may be only three LDL receptor mutations in the sample of 21 mutant LDL receptor alleles
+screened. The DNA samples were assayed for the presence of
+the French Canadian deletion by genomic blotting, and it was
+determined that all the LDL receptor alleles of haplotype 3'
+(57%) had the French Canadian deletion. None of the FH
+homozygotes had the 5-kb deletion described by Ma et al. ( 14).
+The rest of the mutant LDL alleles had either haplotype 2
+(24%) or haplotype 31 (19%). FH 47 and FH 883 were each
+homozygous for one of the two common haplotypes (haplotypes 2 and 31, respectively), and the coding regions of their
+LDL receptor genes were sequenced.
+Oligonucleotides homologous to intron sequences flanking
+each of exons 1-17 and the 5' region of exon 18 of the LDL
+receptor gene (Table II) were used to amplify the coding region
+of the gene by PCR from genomic DNA of FH 47 and FH 883.
+For each exon, the amplified DNA fragment containing the
+exon sequence was purified and subsequently sequenced by
+the technique of Maxam and Gilbert (19). One basepair substitution was identified in each FH homozygote when the sequence was compared with the LDL receptor cDNA sequence
+(25) (Fig. 1). In Fig. 1 A, the sequence of the coding strand of
+exon 3 from a normal individual is compared with FH 883. A
+single basepair change (a thymidine to guanine substitution)
+was identified in codon 66, and this substitution would predict
+an amino acid change of tryptophan to glycine. Fig. 1 B shows
+partial sequence of exon 14 from both a normal individual and
+FH 47 (who was homozygous for LDL receptor haplotype 2).
+A basepair change (guanine to adenine) results in an amino
+acid substitution of tyrosine for cysteine at position 646. FH
+787, a French Canadian FH homozygote who was also homozygous for LDL receptor haplotype 2, did not have this mutation as was initially anticipated. Therefore, the coding region
+of FH 787 was sequenced and a single basepair substitution
+was identified in the 3' end of exon 4 when the noncoding
+strand was sequenced. In the third position of codon 207, a
+cytosine to thymidine transition was identified resulting in a
+glutamic acid to lysine substitution (Fig. 1 C).
+To confirm that these three amino acid substitutions were
+not polymorphisms, each mutation was reproduced in a expression plasmid containing the normal LDL receptor cDNA
+under the control of the simian virus (SV) 40 promoter and
+expressed transiently in transfected COS-M6 cells. 48 h after
+transfection, biosynthetic studies of the LDL receptor protein
+were performed (Fig. 2). The cells were pulsed with [35S]methionine for 15 min before chasing with cold methionine for
+15, 30, 45, 60, and 120 min. The cell extracts were subjected to
+immunoprecipitation using IgG-C7 and the products were
+size-fractionated on a polyacrylamide-SDS gel before performing autoradiography. The results of three separate experi-
+
+ments are shown (Fig. 2). In each experiment the LDL receptor protein produced by cells transfected with the mutant
+cDNA was compared with cells transfected with the normal
+LDL receptor cDNA. Since similar results were obtained in
+the three experiments using the plasmid expressing the normal
+LDL receptor cDNA, only one example is given (Fig. 2 A).
+Using normal fibroblasts, after a 15-min pulse and no chase
+only the 1 20-kD precursor protein was seen. By 60 min almost
+half of the LDL receptor protein was in the mature 160-kD
+form. It was previously shown by Esser et al. that when the
+LDL receptor is expressed in COS cells, the processing of the
+protein from the 120- to the 160-kD mature form is slower
+than in fibroblasts (23, 26). Similar results were observed in the
+current studies. After a 15-min pulse, at least 1 h of chase was
+required before 50% of the receptor was in its mature 160-kD
+form. Fig. 2 B shows the results of COS cells transfected with
+p47 (Cys6' -- Tyr). Even after a 120-min chase the LDL
+receptor precursor protein failed to be converted to the mature
+form, which is identical to what was observed in the biosynthetic studies performed using fibroblasts from FH 47 (Table
+I). Fig. 2 C shows the results of the same study using cells
+transfected with a plasmid containing the LDL receptor cDNA
+with the mutation identical to that found in FH 787 (G8U207-*
+Lys). These cells produced a protein that was processed more
+slowly than normal, but unlike FH 47, some of the receptor
+protein did get processed to the mature 160-kD form. This is
+
+consistent with biosynthetic studies of fibroblasts from the FH
+homozygote 787 (Table I). Finally, Fig. 2 D shows the results
+of using a plasmid with the (Trp66 Gly) mutation found in
+FH 883. The mutation did not result in any difference in LDL
+receptor processing, which is consistent with the biosynthetic
+studies previously performed in fibroblasts from this individual.
+The 49 French Canadian FH heterozygotes who did not
+have the French Canadian deletion or the 5-kb deletion described by Ma et al. ( 14) were analyzed for the presence of one
+of the-three missense mutations identified in the French Canadian FH homozygotes. The exons containing the three mutations were individually amplified by PCR, and the amplified
+DNA was fixed to duplicate nylon filters. The filters were selectively hybridized with an allele-specific, kinased, 20-base oligonucleotide encoding either the normal or the mutant sequence
+(Fig. 3). Amplified genomic DNA from a normal individual,
+the three FH homozygotes known to be homozygous for each
+of the three missense mutations described, two compound heterozygotes (FH 893 and FH 807), and six French Canadian
+FR heterozygotes were compared. Fig. 3 A shows the results of
+the dot blot analysis after hybridization with a normal and
+mutant oligonucleotide that were homologous to the sequences flanking and including the mutation found in FH
+883. The normal probe hybridized to the amplified exon 3specific DNA from a normal individual but not with the DNA
+from FH 883. The mutant probe (oligo 883) hybridized only
+with the DNA from FH 883 and not the normal individual.
+The normal probe hybridized with FR 47 and FH 787, which
+confirmed that their LDL receptor mutations were located
+elsewhere in the gene. FH 807 and 893 had previously been
+shown to be compound heterozygotes; in each, one allele had
+the French Canadian deletion while the other did not. Both the
+normal and mutant probe (oligo 883) hybridized with the amplified DNA from FH 807, whereas only the normal oligonucleotide hybridized with 893. Also shown is a subset of the 49
+Familial Hypercholesterolemia in French Canadians
+
+1017
+
+French Canadian FH heterozygotes that were analyzed, and
+four out of the six were found to be heterozygous for this
+mutation.
+Fig. 3 B shows a similar analysis of exon 14-specific DNA
+amplified from the same FH homozygotes and six different
+FH heterozygotes. The duplicate filters were hybridized with
+end-labeled oligonucleotides homologous to the normal or the
+mutant sequence. Again, only the normal oligonucleotide hybridized to the normal DNA and the DNA from the other two
+true homozygotes, FH 883 and 787, but it did not hybridize to
+
+the amplified DNA from FH 47. Oligo 47 hybridized with the
+DNA from FH 47 and both the normal and mutant oligo
+hybridized with FH 893. Therefore, FH 893 is heterozygous
+for this mutation. Finally, Fig. 3 C shows the same analysis
+using amplified DNA samples from exon 4 after hybridizing
+with an oligonucleotide homologous to the normal exon 4
+sequence and that found in FH 787.
+A compilation of the results of the dot blot hybridization
+analysis for the FH heterozygotes and homozygotes is shown
+in Table III. Almost 60% of the heterozygotes screened had the
+
+Table IL Oligonucleotides Homologous to Intron Sequences Flanking the Exons of the LDL Receptor Gene
+Exon
+
+Oligonucleotide No.
+
+Sequence
+
+SP 90
+SP 91
+2
+
+SP 57
+SP 58
+
+5'- C A T T G A A A T G C T G T A A A T G A C G T G G-3'
+5'- T T C T G G C G C C T G G A G C A A G C C T T A-C-3'
+5'- C C T T T C T C C T T T T C C T C T C T C T C A G-3'
+5'- A A A A T A A A T G C A T A T C A T G C C C A A A-3'
+
+3
+
+SP 59
+SP 60
+
+5'- T G A C A G T T C A A T C C T G T C T C T T C T G-3'
+5'- A A T A G C A A A G G C A G G G C C A C A C T T A-3'
+
+4
+
+SP 61
+SP 51
+
+5'- T G G T C T C G G C C A T C C A T C C C T G C A G-3'
+5'- A C G C C C C G C C C C C A C C C T G C C C C G C-3'
+
+5
+
+SP 62
+SP 63
+
+5'- C A A C A C A C T C T G T C C T G T T T T C C A G-3'
+5'- G G A A A A C C A G A T G G C C A G C G C T C A C-3'
+
+6
+
+SP 64
+SP65
+
+7
+
+SP 66
+SP 67
+
+5'- T C C T T C C T C T C T C T G G C T C T C
+5'-G C A A G C C G C C T G C A C C G A G A C
+5'- A G T C T G C A T C C C T G G C C C T G C
+5'- A G G G C T C A G T C C A C C G G G G A A
+
+8
+
+SP 68
+SP 69
+
+9
+
+SP 70
+SP 71
+
+10
+
+SP 72
+SP73
+
+11
+
+SP 74
+SP75
+
+12
+
+SP 76
+SP77
+
+13
+
+SP 78
+SP 79
+
+14
+
+SP 80
+SP 81
+
+15
+
+SP 82
+SP83
+
+16
+
+SP 84
+SP85
+
+17
+
+SP 86
+SP 87
+
+18
+
+SP 150
+SP 11
+
+1018
+
+A C A G-3'
+T C A C-3'
+
+G C A G-3'
+T C A C-3'
+
+5'- C C A A G C C T C T T T C T C T C T C T T C C A G-3'
+5- C C A C C C G C C G C C T T C C C G T G C T C A C-3'
+5'- C C T G A C C T C G C T C C C C G G A C C C C C A-3'
+5'-G G C T G C A G G C A G G G G C G A C G C T C A C-3'
+5'- A T G C C C T T C T C T C C T C C T G C C T C
+5'- A G C C C T C A G C G T C G T G G A T A C G C
+5'- C A G C T A T T C T C T G T C C T C C C A C C
+5'- T G G C T G G G A C G G C T G T C C T G C G A
+5'- T C T C C T T A T C C A C T T G T G T G T C T
+5'- C T T C G A T C T C G T A C G T A A G C C A C
+5'- G T C A T C T T C C T T G C T G C
+5'- G T T T C C A C A A G G A G G T T
+5'- C C T G A C T C C G C T T C T T C
+5'- A C G C A G A A A C A A G G C G T
+5'- A G A A G A C G T T T A T T T A T
+5'- G T G T G G T G G C G G G C C C A
+5'- C C T C A C T C T T G C T T C T C
+5'- C G C T G G G G G A C C G G C C C
+
+A G-3'
+A C-3'
+
+A G-3'
+A C-3'
+
+C T G T T T A G-3'
+T C A A G G T T-3'
+T G C C C C A G-3'
+G T G C C A C A-3'
+T C T T T C A G-3'
+G T C T T T A C-3'
+T C C T G C A G-3'
+G C G C T T A C-3'
+
+5'- T G A C A G A G C G T G C C T C T C
+5'- T G G C T T T C T A G A G A G G G T
+5'- T C C G C T G T T T A C C A T T T G
+5'-G C T T T G G T C T T C T C T G T C
+
+E. LeitersdorfJ E. J. Tobin, J. Davignon, and H. H. Hobbs
+
+A G-3'
+A C-3'
+
+C C T A C A G-3'
+C A C A C T C-3'
+T T G G C A G-3'
+T T T G A A T-3'
+
+A
+
+_Normal
+T A
++ +
+C C G G
+
+TGC
+AGG
+TGG
+TTC
+
+CAG
+
+CCT
+
+B
+
+LFNrmal
+T A
++
+
++
+
+COCG G
+ACC
+
+=;
+a.
+.Ne
+
+AGG
+GAG
+TGT
+TGG
+AAC
+GTG
+
+Amino
+Acid
+No.
+Asp- 69 -Asp
+Cys- 68 -Cys
+Arg- 67 -Arg
+Trp - 66 -G
+Phe- 65 -Phet
+Gin- 64-Gin
+Pro - 63 - Pro
+
+Amino
+Acid
+No.
+Thr-650- Thr
+Thr-649- Thr
+Arg-648- Arg
+Glu-647- Glu
+Cys-646- L -]
+Trp -645- Trp
+Asn-644- Asn
+Val-643- Val
+
+IW%
+iFH 883'.i
+T A
+(i (i
+
+Figure 1. DNA sequences
+from LDL receptor genes of
+three French Canadian FH
+_ 31 _~
+homozygotes. 1 gg of genoS tm mic DNA from fibroblasts of
+the indicated individual was
+used to selectively amplify
+the exons of the LDL recep43US11
+tor gene using PCR, Taq
+polymerase, and a pair of alf
+lele-specific oligonucleotides
+flanking each exon. The endlabeled amplification product
+was purified and sequenced
+using the Maxam and GilF
+H
+47
+L T- A7
+bert method (19). A, SeT A
+quence of the coding strand
++ +
+from exon 3 of FH 883 and
+a normal individual. OligoC G G
+nucleotide SP-59 and end-labeled oligonucleotide SP-60
+were used to amplify the
+exon 3 sequences by PCR.
+The sequence revealed a single basepair substitution in
+r
+codon 66 (thymidine to guanine) that results in a substitution of glycine for tryptoE-dl;
+phan. B, Genomic DNA
+from FH 47 was subjected to
+
+GAT
+TGC
+AGG
+
+a.
+
+(OGG
+TTC
+CAG
+CCT
+
+ACC
+ACC
+AGG
+GAG
+
+Tt)T
+TGG
+AAC
+GTG
+
++
+
++
+U
+
+u
+
+\I
+
+3
+
+q__
+o
+
+Norma
+T A
++
+
++
+
+C C G G
+
+*-I
+
+a0
+.
+
+**
+
+.0
+
+H7
+8A
+
+FAmino
+Acid
+No.
+AGA Ser -205- Ser AGA
+
+0 C
+.YP
+
+A
++
+G
+
+G
+HY
+
+tU*k
+.*. i_ .a;Pt~e
+
+'sA.W
+
+CTfI)
+
+_787_1
+
+T
++
+
+GTC Asp -206-Asp GTT
+CTC Glu -207-[Lysj'
+
+_W
+
+PCR-directed amplification
+using two oligonucleotides
+complementary to intron sequences flanking exon 14:
+SP-80 and end-labeled
+SP-8 1. The amplification
+product was purified and
+subjected to Maxam and Gilbert sequencing analysis and
+disclosed a guanine to adenosine substitution in the
+codon for amino acid 646.
+The missense mutation results in a tyrosine for cysteine substitution. C, The
+lower strand sequence from
+the 3' region of exon 4 of the
+LDL receptor gene in FH
+787 and a normal. Oligonucleotide SP-5 IA and end-labeled SP- 15 A were used to
+amplify by PCR the 3' end of
+exon 4 from FH 787. The sequence of purified amplification product disclosed a sin-
+
+gle cytosine to thymidine
+
+4:
+
+TTC Glu-208- Glu TTC
+
+transition in the third position of codon 207, resulting
+in a lysine for glutamic acid
+
+substitution.
+
+Familial Hypercholesterolemia in French Canadians
+
+1019
+
+so
+
+Oh
+
+(mase
+n) |
+
+,
+
+0 15
+----
+
+.
+
+,y;646
+
+ANormal
+B
+
+X
+
+,
+
+Chase
+m
+
+1_30j|]45j60j1201
+__
+_
+
+co'
+
+0
+
+(min)
+
+Figure 2. Biosynthesis of LDL receptors with
+Tyr
+missense mutations in transfected COS cells.
+-.--.-containing the normal LDL recep-
+
+A. plasmid
+_ __.
+--
+
+~
+
+1530 45 60 120 tor cDNA and plasmids with the same mis-
+
+sense mutations as in FH 883, FH 47, and FH
+
+787, respectively, were transfected into
+PI
+$_
+...160 -COS-M6 cells as reviewed in the Methods.
+i-A_
+it
+me
+A_120
+After_ 48 h the cells were pulse-labeled with
+atm
+Gu
+[35S]methionine for 15 min and then an excess
+of cold methionine was added. The cells were
+chased for the indicated periods before immunoprecipitation with the anti-LDL receptor
+66
+C
+Glu 207
+C G~u-*- Lys
+D
+Trp
+-~- Gly
+MAb, IgG-C7, and an irrelevant antibody,
+(data not shown). The immunoprect
+160IgG-2001
+160
+cipitated proteins were size-fractionated on a
+7% polyacrylamide-SDSgel. Thegel was
+120 .-_
+x 120
+dried, enhanced, and subjected to fluorography for 48 h. A, B, C, and D show the results
+of separate pulse-chase biosynthetic studies of COS-M6 cells transfected with a plasmid containing the normal LDL receptor cDNA and one
+containing the missense mutation of FH 47, FH 787, and FH 883, respectively.
+
+x
+
+160
+120
+
+-
+
+mozygotes there was a similar frequency of the French Canadian deletion (57%), and none of the FH homozygotes had the
+5-kb deletion. There was a higher frequency of the three missense mutations, but each had the same relative frequency as
+in the FH heterozygotes.
+
+French Canadian deletion. The second most frequent mutation was the mutation found in FH 883, and this comprised
+7% of the mutant LDL receptor alleles assayed. The next most
+common mutation was the mutation identified in FH 47, and
+this mutation was found in 5% of the sample. Finally, the two
+least common mutations were the 5-kb deletion (14), and the
+exon 4 mutation identified in FH 787; they had allelic frequencies of 3 and 2%, respectively. All five of these mutations
+together made up 76% of the mutant LDL receptor alleles in
+French Canadian FH heterozygotes sampled. In the FH ho-
+
+Discussion
+In this study we have identified three missense mutations at
+the LDL receptor locus found in individuals of French Cana-
+
+Figure 3. Allele-specific oligonucleotide hy-
+
+FH
+
+bridization of PCR-amplified genomic DNA
+
+Homozygotes
+CY|)
+O
+
+CO
+
+0
+Z
+
+Normal
+
+Normal
+
+41 4
+
+Oligo 787
+
+*
+
+~ Icultured
+
+LL LL LL LL 1
+
+W
+
+Oligo 47
+
+C
+
+Is"
+
+U
+
+Heterozygo
+
+LL
+
+_.
+
+B
+
+"t
+
+I
+
+I I
+
+I I
+
+2
+
+3
+
+"Mi
+
+41 41
+
+Oligo 883
+
+CO)
+
+CC) 0) 0
+
+1
+
+Normal
+
+A
+
+N
+
+N.
+
+from French Canadian FH homozygotes and
+
+41
+
+* 4 4
+__
+V 4
+
+V
+
+7
+41
+
+heterozygotes. Exons 3, 4, and 14 of the
+LDL receptor gene were each amplified from
+1 of genomic DNA extracted from either
+tIg
+fibroblasts (FH homozygotes) or
+leukocytes (FH heterozygotes). Two 25-base
+oligonucleotides homologous to sequences
+4 5 6
+flanking the point mutation were used in the
+41 41
+PCRreactioninatotalvolumeof50Alas
+__
+described in Methods. 5 Al (or one-tenth of
+V 4
+reaction volume) of denatured DNA was
+dotted onto duplicate nylon filters. The
+DNA was fixed to the filter by baking and
+10 1 1 12
+then the filters were hybridized with end-labeled oligonucleotides homologous to either
+the normal or the mutant sequence. After
+.......washing, the filters were subjected to autora-...........
+diography. A, The results of this analysis
+with a normal individual, five FH homozygotes, and six FH heterozygotes using an oligonucleotide homologous to the normal sequence (5'-CCTCAGTTCTGGAGGTGCGA-3')
+and oligo 883 which is
+41 41 *
+,
+homologous to the mutant sequence (5'-
+
+FH
+
+4
+
+4
+
+8
+
+9
+
+4
+
+4
+
+..
+
+... ........... .......
+
+~:
+
+13 14 15 16 17 18
+041
+*41
+**
+
+41*
+4
+
+4
+
+CCTCAGTTCGGGAGGTGCGA-3'). B
+
+and C show similar analysis of exon 14- and
+
+4-specific amplified DNA. B, The results of oligonucleotide hybridization to exon 14-specific DNA with oligonucleotides homologous to
+the normal sequence (5'-GTGAACTGGTGTGAGAGGAC-3') or the mutant sequence (5'-GTGAACTGGTATGAGAGGAC-3'). In C, exon 4
+has been amplified, denatured, dotted onto duplicate filters, and hybridized with an oligonucleotide homologous to the normal sequence (5'CAAATCTGACGAGGAAAACT-3') and the sequence found in FH 787 (5'-CAAATCTGACAAGGAAAACT-3').
+
+exon
+
+1020
+
+E.
+
+Leitersdorf, E. J. Tobin, J. Davignon, and H. H. Hobbs
+
+Table III. Frequency of LDL Receptor Mutations in 130 French Canadian FH Heterozygotes and 1I FH Homozygotes
+No. of mutant LDL receptor alleles (%)
+
+LDL receptor mutation
+
+Type
+
+Size
+
+1. Deletion
+
+>10 kb
+
+FH
+
+FH
+
+Mutation
+
+heterozygotes
+
+homozygotes
+
+Exon 1 and promoter deleted
+
+77 (59)
+
+12 (57)
+
+9 (7)
+
+4 (19)
+
+7 (5)
+
+3 (14)
+
+4 (3)
+
+0 (0)
+
+3 (2)
+100 (76)
+
+2 (10)
+21 (100)
+
+Location
+
+5' FR to intron 1
+
+66
+
+2. Missense
+
+Exon 3
+
+3. Missense
+
+Exon 14
+
+Trp
+Gly
+Cys' - Tyr
+
+Intron I to intron 3
+
+Exon 2 and 3 deleted
+
+Exon 4
+
+Glu207 _* Lys
+
+4. Deletion
+5. Missense
+
+5 kb
+
+dian descent. These three mutations, together with the two
+previously identified deletions (1 1, 14), make up 76% of the
+mutant LDL receptor alleles causing FH in the French Canadian population, at least in the Montreal region. The frequency of FH in French Canadians in Quebec province has
+been recently estimated to be 1 in 270 (9). This frequency is
+approximately two times higher than seen in most other populations of the world (1). The frequency was found to be even
+higher (1 in 154) in the northeastern part of Quebec province
+(9). The cause of the high frequency of FH in this population is
+thought to be the founder effect (1 1), which is supported by
+this study. Only five mutations at the LDL receptor locus
+comprise three-quarters of the mutant LDL receptor alleles
+causing FH in this population.
+To identify the mutations that predominate in the French
+Canadian population, LDL receptor haplotype analysis was
+used to analyze the LDL receptor genes in 11 French Canadian
+FH homozygotes. Previously, it was shown at other loci that
+different mutations are often in linkage disequilibrium with
+particular allele haplotypes (27). 10 RFLPs associated with the
+LDL receptor gene were used to determine the LDL receptor
+haplotypes in the FH homozygotes (15). Only three LDL receptor haplotypes were identified in the 21 mutant LDL receptor alleles surveyed. Three of the FH homozygotes who did
+not have the French Canadian deletion were homozygous at
+every site. Homozygosity for all 10 restriction sites suggested
+homozygosity for a mutation since the heterozygosity index
+using the 10 RFLPs was previously shown to be 85% (15). The
+coding regions of the LDL receptor gene from these three
+fibroblast cell lines were sequenced in their entirety and different basepair substitutions were identified that result in single
+amino acid changes. The basepair substitutions were conclusively shown to be responsible for the altered LDL receptor
+protein phenotype in FH 47 and 787 by reproducing and expressing the mutations in vitro.
+Both of the mutations found in FH 47 and FH 787 result in
+the production of an LDL receptor protein of the class 2 phenotype. To date, seven other LDL receptor mutations, including three small in-frame deletions (28, 29), one nonsense mutation (30), and three missense mutations (20, 31, 32) have
+been reported to result in a similar phenotype. When immunocytochemical studies were performed on cultured fibroblasts from an FH homozygote with this phenotype, the LDL
+receptor was found to be concentrated in the transitional elements of the ER (33). Numerous studies have demonstrated
+
+that the transport of proteins from the ER to the Golgi complex is a highly regulated process and denatured or malfolded
+proteins are not transported normally out of the ER to the
+Golgi complex (34, 35). So presumably the mutations at the
+LDL receptor locus that result in a class 2 phenotype somehow
+interfere with the proper folding of the LDL receptor protein.
+The mechanism by which the malfolded protein is recognized
+and retained in the ER is not clear.
+The LDL receptor mutations of the class 2 type cluster in
+two functional domains of the LDL receptor gene; the ligandbinding domain and the epidermal growth factor precursor
+homology domain. The ligand-binding domain is encoded by
+exons 2-6 and consists of seven cysteine-rich repeats that are
+- 40 amino acids in length. It is to this region of the protein
+that the ligands for the LDL receptor, including LDL and
+#l-VLDL, bind. There is a highly conserved triplet of negatively
+charged amino acids (ser-asp-glu) that is found near the
+COOH terminus of each ligand binding repeat. In the fifth
+ligand-binding repeat of FH 787 there is a substitution of a
+lysine for the glutamic acid residue at the terminal position of
+this conserved triplet. This substitution results in a change of a
+basic for an acidic amino acid residue which somehow interferes with the folding of the LDL receptor protein so that it is
+not transported out of the ER at a normal rate.
+The mutation in FH 47 is located in the epidermal growth
+factor precursor homology domain. This region of the LDL
+receptor protein is encoded by exons 7-14 and is 400 amino
+acids in length. It contains three repeats (A, B, and C) which
+are 40 amino acids in length, and each repeat contains six
+cysteine residues. The mutation in FH 47 is in exon 14 which
+encodes the C repeat, and the missense mutation results in the
+substitution of a tyrosine for one of the six cysteine residues.
+The effect of this mutation is to completely block the transport of the protein out of the ER. It is tempting to attribute the
+defect in processing to the loss of a cysteine residue. If all of the
+six cysteines normally form disulfide bonds within the repeat,
+this would leave a single unpaired cysteine residue. This unpaired cysteine may then form a disulfide bond with another
+protein. However, Esser and Russell (31) have shown that the
+presence of an unpaired cysteine residue in the C repeat of the
+LDL receptor protein is not necessary or sufficient to produce
+a defect in the transport of the protein out of the ER. Rather, it
+seems that exon 14 is very sensitive to changes in its sequence
+and its requirements for proper folding and resulting transport
+are quite stringent (31).
+
+Familial Hypercholesterolemia in French Canadians
+
+1021
+
+The amino acid substitution in FH 883 is located in the
+second ligand binding repeat and does not interfere with the
+processing of the LDL receptor protein. However, it does interfere with either the binding of the receptor to its ligand or
+the turnover of the LDL receptor protein. Unfortunately, the
+amount of expression ofthis plasmid in COS cells was too low
+to perform either binding or protein turnover studies.
+The mutations found in FH 47 and 883 have not yet been
+seen in any individuals outside of Quebec. However, the basepair substitution identified in FH 787 has been found in another FH homozygote, FH 525. The RFLP haplotype linked to
+a mutation can be used to estimate the number of times the
+mutation has occurred, as has been done at the (l-globin locus
+for sickle cell anemia and a subset of mutations causing #-thalassemia (36-38). If the same mutation is found in unrelated
+individuals on an allele of an identical RFLP haplotype, it is
+likely that they share an ascendent. If, however, the mutation
+is found on a very different haplotype, then it is probable that
+the mutation has occurred more than once, assuming that it
+was not an ancient event. FH 525 is from Mexico and though
+he is homozygous for the same mutation as FH 787 the mutation is found on an LDL receptor allele of a completely different haplotype. FH 525 is homozygous for haplotype 31 and
+FH 787 is homozygous for haplotype 2; these two haplotypes
+differ at four sites (see Table I, part B). The fact that the same
+mutation is present on LDL receptor alleles of different haplotypes suggests that the mutation occurred more than once. The
+mutation consists of a base-substitution of a thymidine for a
+cytosine at a CpG dimer, and CpG dimers have been shown to
+be hot spots for mutational events in the human genome
+
+(39, 40).
+
+The high frequency of FH in the French Canadian population is presumed to be due to the founder effect. This is supported by the fact that when families with the French Canadian deletion were traced back to the original immigrants, they
+were all found to originate from the same region (13). The
+mutations described in this paper are less frequent then the
+French Canadian deletion, and this may represent later entry
+of the mutations into the population. The frequency of the
+mutations may vary significantly in other regions of Quebec
+province due to differences in the migration patterns of the
+early settlers. A demographic study of each mutation would
+facilitate the analysis of LDL receptor gene mutations in the
+French Canadians.
+By performing Southern blot analysis to detect the two
+deletions, and dot blot oligonucleotide hybridization studies to
+detect the three missense mutations, 76% of the mutant alleles
+responsible for FH in the Montreal region can be detected
+directly. The percentages for each of the mutations may be
+quite different in other regions of Eastern Canada. The ability
+to detect mutations at the LDL receptor locus directly in a
+majority of individuals with FH will facilitate the prenatal
+diagnosis of homozygous FH in the French Canadian population. The assays can also be used to confirm the diagnosis of
+FH in a patient where the clinical diagnosis is not clear.
+Whether or not any of these mutations are a common cause of
+FH in France has not been investigated.
+
+Acknowledgments
+thank Dr. Michael Brown and Dr. Joseph Goldstein for helpful
+discussions and for providing the fibroblasts of 11 FH homozygotes
+
+We
+
+1022
+
+E.
+
+Leitersdorf, E. J. Tobin, J. Davignon, and H. H. Hobbs
+
+used in this study. We are indebted to Madeleine Roy and Helene
+Mailloux for performing pedigree analysis and obtaining blood samples from the French Canadian FH heterozygotes. Edith Womack and
+Debbie Noble both assisted in growing the transfected cells, and Kathy
+Schueler and Shellie Craig provided excellent technical assistance.
+This research was supported by research grants from the National
+Institutes of Health (HL-20948), the Medical Research Council of
+Canada (MA-5427 and UI-0029), the Canadian Heart Foundation,
+and La Succession J. A. DeSeve. H. H. Hobbs is supported by the
+Syntex Scholar Program. E. Leitersdorf had a Fogarty Fellowship from
+the Fogarty International Center of the National Institutes of Health
+Research (IF-05-TW03742).
+
+References
+I. Goldstein, J. L., and M. S. Brown. 1983. Familial hypercholesterolemia. In The Metabolic Basis of Inherited Disease. J. B. Stanbury,
+J. B. Wyngaarden, D. S. Fredrickson, J. L. Goldstein, and M. S.
+Brown, editors. 5th ed. McGraw-Hill Inc., New York. 672-712.
+2. Sudhof, T. C., J. L. Goldstein, M. S. Brown, and D. W. Russell.
+1985. The LDL receptor gene: a mosaic of exons shared with different
+proteins. Science (Wash. DC). 228:815-822.
+3. Russell, D. W., V. Esser, and H. H. Hobbs. 1989. Molecular basis
+of familial hypercholesterolemia. Arteriosclerosis. 9(Suppl 1):8- 13.
+4. Brown, M. S., and J. L. Goldstein. 1986. A receptor-mediated
+pathway for cholesterol homeostasis. Science (Wash. DC). 232:34-47.
+5. Goldstein, J. L., M. S. Brown, R. G. W. Anderson, D. W. Russell, and W. J. Schneider. 1985. Receptor-mediated endocytosis: concepts emerging from the LDL receptor system. Annu. Rev. Cell Biol.
+1:1-39.
+6. Beisiegel, U., W. J. Schneider, J. L. Goldstein, R. G. W. Anderson, and M. S. Brown. 1981. Monoclonal antibodies to the low density
+lipoprotein receptor as probes for study of receptor-mediated endocytosis and the genetics of familial hypercholesterolaemia. J. Biol. Chem.
+256:11923-11931.
+7. Seftel, H. C., S. G. Baker, M. P. Sandler, M. B. Forman, B. I.
+Joffe, D. Mendelsohn, T. Jenkins, and C. Mieny. 1980. A host of
+hypercholesterolaemic homozygotes in South Africa. Br. Med. J.
+281:633-636.
+8. Khachadurian, A. K., and S. B. Uthman. 1973. Experiences with
+the homozygous cases of familial hypercholesterolemia. Nutr. Metab.
+15:132-140.
+9. Moordani, S., M. Roy, C. Gagne, J. Davignon, D. Brun, M.
+Toussaint, M. Lambert, L. Campeau, S. Blaichman, and P. Lupien.
+1989. Homozygous familial hypercholesterolemia among French Canadians in Qu6bec Province. Arteriosclerosis. 9:212-216.
+10. Leitersdorf, E., D. R. van der Westhuyzen, G. A. Coetzee, and
+H. H. Hobbs. 1989. Familial hypercholesterolemia in Afrikaner homozygotes. Two common mutations in the LDL receptor gene. J. Clin.
+Invest. 84:954-961.
+11. Hobbs, H. H., M. S. Brown, D. W. Russell, J. Davignon, and
+J. L. Goldstein. 1987. Deletion in the gene for the LDL receptor in
+majority of French Canadians with familial hypercholesterolemia. N.
+Engl. J. Med. 317:734-737.
+12. Laberge, C. 1966. Prospectus for genetic studies in the French
+Canadians, with preliminary data on blood groups and consanguinity.
+Bull. Johns Hopkins Hosp. 118:52-68.
+13. Jompe, M., G. Bouchard, J. Davignon, M. DeBraekeleer, M.
+Gradie, A. Kessling, C. Laberge, S. Moorjani, K. Morgan, M. Roy, and
+C. Scriver. 1988. Familial hypercholesterolemia in French-Canadians:
+geographical distribution and centre of origin of an LDL-receptor deletion mutation. Am. J. Hum. Genet. 43(Suppl):861a. (Abstr.)
+14. Ma, Y., C. Betard, M. Roy, J. Davignon, and A. Kessling. 1989.
+Identification of a second "French Canadian" LDL receptor gene deletion and development of a rapid method to detect both deletions.
+Clin. Genet. 36:219-228.
+15. Leitersdorf, E., A. Chakravarti, and H. H. Hobbs. 1989. Poly-
+
+morphic DNA haplotypes at the LDL receptor locus: application for
+the study of hypercholesterolemia. Am. J. Hum. Genet. 44:409-421.
+16. van Driel, I. R., J. L. Goldstein, T. C. Sudhof, and M. S. Brown.
+1987. First cysteine-rich repeat in ligand-binding domain of low density lipoprotein receptor binds Ca2+ and monoclonal antibodies, but
+not lipoproteins. J. Bio. Chem. 262:17443-17449.
+17. Saiki, R. K., T. L. Bugawan, G. T. Horn, K. B. Mullis, and
+H. A. Erlich. 1986. Analysis of enzymatically amplified 13-globin and
+HLA-DQ and DNA with allele-specific oligonucleotide probes. Nature
+(Lond.). 324:163-166.
+18. Maniatis, T., E. F. Fritsch, and J. Sambrook. 1982. Molecular
+Cloning: A Laboratory Manual. Cold Spring Harbor Laboratory, Cold
+Spring Harbor, NY. 1-545.
+19. Maxam, A. M., and W. Gilbert. 1980. Sequencing end-labeled
+DNA with base-specific chemical cleavages. Methods Enzymol.
+65:499-560.
+20. Hobbs, H. H., E. Leitersdorf, C. Leffert, D. R. Cryer, M. S.
+Brown, and J. L. Goldstein. 1989. Evidence for a dominant gene that
+suppresses hypercholesterolemia in a family with defective LDL receptors. J. Clin. Invest. 84:656-664.
+21. Geck, P., and I. Nasz. 1983. Concentrated, digestible DNA after
+hydroxylapatite chromatography with cetylpyridinium bromide precipitation. Anal. Biochem. 135:264-268.
+22. Davis, C. G., M. A. Lehrman, D. W. Russell, R. G. W. Anderson, M. S. Brown, and J. L. Goldstein. 1986. The J.D. mutation in
+familial hypercholesterolemia: substitution of cysteine for tyrosine in
+cytoplasmic domain impedes internalization of LDL receptors. Cell.
+45:15-24.
+23. Esser, V., L. E. Limbird, M. S. Brown, J. L. Goldstein, and
+D. W. Russell. 1988. Mutational analysis of the ligand binding domain
+of the low density lipoprotein receptor. J. Bid. Chem. 263:1328213290.
+24. Hobbs, H. H., E. Leitersdorf, J. L. Goldstein, M. S. Brown, and
+D. W. Russell. 1988. Multiple crm- mutations in familial hypercholesterolemia. Evidence for 13 alleles including four deletions. J. Clin.
+Invest. 81:909-917.
+25. Yamamoto, T., C. G. Davis, M. S. Brown, M. L. Schneider,
+J. L. Casey, J. L. Goldstein, and D. W. Russell. 1984. The human LDL
+receptor: a cysteine-rich protein with multiple Alu sequences in its
+mRNA. Cell. 39:27-38.
+26. Tolleshaug, H., K. K. Hobgood, M. S. Brown, and J. L. Goldstein. 1983. The LDL receptor locus in familial hypercholesterolemia:
+multiple mutations disrupting the transport and processing of a membrane receptor. Cell. 32:941-951.
+27. Orkin, S. H., H. Kazazian, E. Antonarakis, S. C. Goff, C. S.
+Boehm, J. P. Sexton, P. G. Waber, and P. J. V. Giardina. 1982. Linkage of f-thalassaemia mutations and fl-globin gene cluster. Nature
+(Lond.). 296:627-631.
+28. Yamamoto, T., R. W. Bishop, M. S. Brown, J. L. Goldstein,
+
+and D. W. Russell. 1986. Deletion in cysteine-rich region of LDL
+receptor impedes transport to cell surface in WHHL rabbit. Science
+(Wash. DC). 232:1230-1237.
+29. Leitersdorf, E., H. H. Hobbs, A. M. Fourie, M. Jacobs, D. R.
+van der Westhuyzen, and G. A. Coetzee. 1988. Deletion in the first
+cysteine-rich repeat of low density lipoprotein receptor impairs its
+transport but not lipoprotein binding in fibroblasts from a subject with
+familial hypercholesterolemia. Proc. Natl. Acad. Sci. USA. 85:79127916.
+30. Lehrman, M. A., W. J. Schneider, M. S. Brown, C. G. Davis, A.
+Elhammer, D. W. Russell, and J. L. Goldstein. 1987. The Lebanese
+allele at the LDL receptor locus: nonsense mutation produces truncated receptor that is retained in endoplasmic reticulum. J. Bio.
+Chem. 262:401-410.
+31. Esser, V., and D. W. Russell. 1988. Transport-deficient mutations in the low density lipoprotein receptor. Alterations in the cysteine-rich and cysteine-poor regions of the protein block intracellular
+transport. J. Biol. Chem. 263:13276-13281.
+32. Soutar, A. K., B. L. Knight, and D. D. Patel. 1989. Identification of a point mutation in growth factor repeat C of the low density
+lipoprotein-receptor gene in a patient with homozygous familial hypercholesterolemia that affects ligand binding and intracellular movement of receptors. Proc. Natl. Acad. Sci. USA. 86:4166-4170.
+33. Pathak, R. K., J. L. Goldstein, M. S. Brown, and R. G. W.
+Anderson. 1988. Immunocytochemical localization of mutant low
+density lipoprotein receptors that fail to reach the golgi complex. J.
+Cell Biol. 106:1831-1841.
+34. Lodish, H. F. 1988. Transport of secretory and membrane
+glycoproteins from the rough endoplasmic reticulum to the golgi. J.
+Biol. Chem. 263:2107-2110.
+35. Rothman, J. E. 1987. Protein sorting by selective retention in
+the endoplasmic reticulum and Golgi stack. Cell. 50:521-522.
+36. Wainscoat, J. S., J. I. Bell, S. L. Thein, D. R. Higgs, G. R.
+Sarjeant, T. E. A. Peto, and D. J. Weatherall. 1983. Multiple origins of
+the sickle mutation: Evidence from ,1 globin gene cluster polymor-
+
+phism. Mol. Biol. & Med. 1:191-197.
+37. Antonarakis, S. E., C. D. Boehm, G. R. Sarjeant, C. E. Theisen,
+G. J. Dover, and H. H. Kazazian. 1984. Origin of the #'-globin gene in
+Blacks: The contribution of recurrent mutation or gene conversion or
+both. Proc. Natl. Acad. Sci. USA. 81:853-856.
+38. Wong, C., S. E. Antonarakis, S. C. Goff, S. H. Orkin, C. Boehm,
+and H. H. Kazazian, Jr. 1986. On the origin and spread of 13-thalassemia: recurrent observation of four mutations in different ethnic
+groups. Proc. Natl. Acad. Sci. USA. 83:6529-6532.
+39. Barker, D., M. Schafer, and R. White. 1984. Restriction sites
+containing CpG show a higher frequency of polymorphism in human
+DNA. Cell. 36:131-136.
+40. Cooper, D. N., and H. Youssoufian. 1988. The CpG dinucleotide and human genetic disease. Hum. Genet. 78:151-155.
+
+Familial Hypercholesterolemia in French Canadians
+
+1023
+
+

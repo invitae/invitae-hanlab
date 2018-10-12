@@ -1,0 +1,831 @@
+Proc. Nati. Acad. Sci. USA
+Vol. 89, pp. 6413-6417, July 1992
+
+Genetics
+
+Germ-line mutations of the p53 tumor suppressor gene in patients
+with high risk for cancer inactivate the p53 protein
+THIERRY FREBOURG*, JAYNE KASSEL*, KELVIN T. LAM*, MAGDALENA A. GRYKA*, NOELE BARBIER*,
+TONE IKDAHL ANDERSENt, ANNE-USE B0RRESENt, AND STEPHEN H. FRIEND**§
+*Division of Molecular Genetics, Massachusetts General Hospital Cancer Center, MGH East, Charlestown, MA 02129; tDepartment of Genetics, Institute for
+Cancer Research, The Norwegian Radium Hospital, 0310 Oslo 3, Norway; and tDepartment of Pediatrics, Division of Hematology-Oncology, The Children's
+Hospital, Dana-Farber Institute, Harvard Medical School, Boston, MA 02114
+
+Communicated by Alfred G. Knudson, April 2, 1992 (received for review February 12, 1992)
+
+ABSTRACT
+Germ-line mutations in the p53 tumor suppressor gene have been observed in patients with Li-Fraumeni
+syndrome, brain tumors, second malignancies, and breast
+cancers. It is unclear whether all of these mutations have
+inactivated p53 and thereby provide an increased risk for
+cancer. Therefore, it is necessary to establish the biological
+significance of these germ-line mutations by the functional and
+structural analysis of the resulting mutant p53 proteins. We
+analyzed the ability of seven germ-line mutant proteins observed in patients with Li-Fraumeni syndrome, second primary neoplasms, or familial breast cancer to block the growth
+of malignant cells and compared the structural properties of the
+mutant proteins to that of the wild-type protein. Six of seven
+missense mutations disrupted the growth inhibitory properties
+and structure of the wild-type protein. One germ-line mutation
+retained the features of the wild-type p53. Genetic analysis of
+the breast cancer family in which this mutation was observed
+indicated that this germ-line mutation was not associated with
+the development of cancer. These results demonstrate that
+germ-line p53 mutations observed in patients with LiFraumeni syndrome and with second malignancies have inactivated the p53 tumor suppressor gene. The inability of the
+germ-line p53 mutants to block the growth of malignant cells
+can explain why patients with these germ-line mutations have
+an increased risk for cancer. The observation of a functionally
+silent germ-line mutation indicates that, before associating a
+germ-line tumor suppressor gene mutation with cancer risk, it
+is prudent to consider its functional significance.
+
+patients with brain tumors (6) and sarcomas (28), patients
+who have developed a second primary neoplasm (29), and
+those with familial breast cancer (30, 31). The involvement of
+a germ-line p53 mutation in the development of cancer can be
+demonstrated by the cosegregation of the mutant allele with
+cancer in the affected family members. This has only been
+possible to do in three families with Li-Fraumeni syndrome
+(3-5). As new germ-line p53 mutations are detected in
+pedigrees with a limited familial history and few available
+samples, the genetic analysis is sometimes impossible to
+perform. When linkage analysis is not possible, it is difficult
+to determine if missense mutations have a biological significance or instead represent previously undetected rare polymorphisms.
+The functional and structural properties of p53 have been
+extensively analyzed (1). One of the main properties of the
+wild-type protein is the ability to inhibit the growth of
+malignant cells in culture (7-13). Mutations observed in
+human sporadic tumors (like the mutations at codons 143 and
+273) have been shown to disrupt this growth inhibitory
+property (7, 10, 12, 13). Furthermore, most of the p53
+mutations observed in human tumors induce structural modifications of the wild-type protein (1).
+In this study, we analyzed the biological properties of
+germ-line p53 mutants to determine if these mutations had
+inactivated the wild-type p53 protein and therefore provided
+a high risk for cancer. Missense mutations at codons 181, 245,
+248, 252, 258, 273, and 282 were selected because they were
+observed in patients with different clinical presentations
+(Li-Fraumeni syndrome, second malignancies, familial
+breast carcinoma) and because they were distributed between the conserved regions III and V of the p53 protein (see
+Table 1). Although some of these mutations had already been
+observed in sporadic tumors (14), the only mutation to have
+been partially characterized was the mutation at codon 273
+(1, 10, 15).
+
+Mutation of the p53 tumor suppressor gene is currently the
+most frequent molecular alteration in human cancers (1, 2).
+These changes are mostly missense mutations primarily
+found at evolutionarily conserved amino acid residues (1, 2).
+Ninety-eight percent of the 280 base substitution mutations
+reported so far in malignant tumors are clustered between
+amino acid residues 110 and 307 (out of a total of 393 amino
+acids) (2). In most of the human cancers analyzed, both p53
+alleles are inactivated, suggesting that loss of wild-type
+function is important in carcinogenesis (1). Recent work has
+indicated that mutations of the p53 gene can occur not only
+at the somatic level but also in the germ line. These findings
+are important because the detection of germ-line p53 mutations should allow the identification of subjects at high risk to
+develop cancer. Germ-line p53 mutations were initially reported in patients with the rare Li-Fraumeni syndrome, a
+family cancer syndrome in which affected relatives develop
+a diverse set of malignancies, including breast carcinomas,
+sarcomas, and brain tumors (3-5). Analysis of germ-line p53
+mutations outside Li-Fraumeni syndrome has revealed that
+these germ-line mutations occasionally can be observed in
+
+MATERIALS AND METHODS
+Constructs of Vectors Expressing the Mutant p53 Proteins.
+Oligonucleotide-directed mutagenesis of the p53 cDNA was
+performed in the phage M13mpl9 with the Amersham kit
+using the following oligonucleotides: 181, 5'-CTGAG
+CAGTG CTCAT GG-3'; 245, 5'-TCCGG TTCAT GCAGC
+CCATG C-3'; 248, 5'-GGATG GGCCT CCAGT TCATG
+C-3'; 252, 5'-ATGAT GGTGG GGATG GGCCT CCGG-3';
+258, 5'-GGAGT CTTTC AGTGT G-3'; 282, 5'-CTGTG
+CGCCA GTCTC TCC-3'. The mutant cDNA was then substituted for the wild-type cDNA in the plasmid pC53-SN (7).
+In this plasmid, the p53 cDNA is under the transcriptional
+Abbreviation: SV40, simian virus 40.
+§To whom reprint requests should be addressed at: Division of
+Molecular Genetics, Massachusetts General Hospital Cancer Center, MGH East, Charlestown, MA 02129.
+
+The publication costs of this article were defrayed in part by page charge
+payment. This article must therefore be hereby marked "advertisement"
+in accordance with 18 U.S.C. §1734 solely to indicate this fact.
+
+6413
+
+"%TT14
+
+Genetics:
+
+Frebourg et al.
+
+Proc. Natl. Acad. Sci. USA 89 (1992)
+
+control of the cytomegalovirus promoter enhancer and the
+neomycin-resistance gene is under the control of the simian
+virus 40 (SV40) promoter enhancer. The complete coding
+region derived from the mutant M13 clone was entirely
+sequenced to ensure that the mutant cDNA contained only
+the desired mutation. The mutant p53 protein at codon 273
+was expressed by the plasmid pSVXRI (10).
+Cell Culture and Transfection. The Saos-2 cell line was
+obtained from the American Type Culture Collection, and the
+cells were grown as described (10). Plasmid DNA (10 Ag)
+expressing wild-type or mutant p53 protein was transfected
+using the calcium phosphate procedure into Saos-2 cells at
+50-70%o confluence in 10-cm plates. For stable transfections,
+the cells were incubated with the DNA/phosphate precipitate
+during 4 hr, split 1:3 the next day, and refed with medium
+containing 500 pug of Geneticin (G418; GIBCO) per ml 48 hr
+after the transfection. The plates were stained with 50%o
+methanol/10%o acetic acid/0.25% Coomassie blue after 3
+weeks of selection in G418-containing medium and the numbers of colonies were counted. For cotransfection experiments, 10 Ag of p53 construct and 10 Ag of plasmid pSVlacO
+[expressing SV40 large T antigen (16)] were transfected into
+Saos-2 cells as indicated.
+Antibodies, Immunoprecipitations, and Western Blot Analysis. PAb122 recognizes an epitope located between amino
+acids 370 and 378 of p53. PAb240 recognizes an epitope
+located between amino acids 156 and 335. The monoclonal
+antibody PAb416 is directed to the large T antigen of SV40.
+The monoclonal antibody directed against heat shock proteins was obtained from Amersham. Cells were metabolically
+labeled with 300 pUCi of [35S]methionine (NEN; 670 mCi/
+mmol; 1 Ci = 37 GBq) in 2 ml of methionine-free Dulbecco's
+modified Eagle medium plus 2% dialyzed fetal calf serum for
+2 hr. Lysates and immunoprecipitations were performed as
+described (3). The immunoprecipitated proteins were separated on a 10% polyacrylamide gel. Western blot analysis of
+the immunoprecipitated proteins was performed after transfer of the proteins to Immobilon membranes (Millipore).
+Sequencing Reactions and PCR Amplification. Sequencing
+reactions were performed according to the dideoxy chaintermination method using the Sequenase 2.0 kit (United
+States Biochemical). A 129-base-pair (bp) fragment was
+generated by PCR amplification from genomic DNA extracted from paraffin blocks (17). For each DNA template,
+two independent PCR reactions were performed. The sense
+and antisense primers were 181F, 5'-CCGGA ATTCC
+GGTGC CCCCA CCATG-3', and 181R, 5'-CGGGA TCCCG
+CAATC AGTGA GGAAT C-3', respectively. The primers
+181F and 181R have synthetic EcoRI and BamHI sites,
+respectively, at their 5' ends to facilitate cloning. The PCR
+reactions were performed as described (3). The PCR products
+were submitted to Hae II analysis or digested with BamHI
+and EcoRI and fractionated by electrophoresis on low-melt
+
+Fragments were ligated into the Bluescript vector
+"'pBSK" (Stratagene) and, after bacterial transformation,
+individual clones were analyzed with the enzyme Hae II and
+sequenced using Universal primer or T3 primer (Pharmacia).
+
+agarose.
+
+RESULTS
+Effect of the Germ-line Mutants on the Growth of Malant
+Cells. To determine if germ-line p53 mutations had inactivated the wild-type protein, constructs expressing germ-line
+mutant proteins were transfected into Saos-2 osteosarcoma
+cells. Both p53 alleles are deleted in this cell line. Previous
+studies have shown that the expression of transfected wildtype p53 blocks the progression of the cell cycle prior to S
+phase and that expression of the wild-type protein is not
+tolerated in stably transfected Saos-2 cells (10). Transfection
+of the plasmids expressing the germ-line mutants, except the
+mutant at codon 181, resulted in =8-fold more colonies than
+occurred when the plasmid pC53-SN3 [expressing wild-type
+p53 (7)] was transfected (Table 1, Fig. 1A). Analysis of p53
+expression in stable transfectants revealed that most of the
+colonies derived from the transfections with the plasmids
+encoding the mutants at codons 245, 248, 252, 258, and 282
+expressed high levels of p53 protein (Table 1, Fig. 1B). These
+results demonstrate that these five mutant proteins [like the
+mutant protein at codon 273 (10)] were unable to inhibit the
+growth of the Saos-2 cells. In contrast, none of the colonies
+derived from the transfection with the plasmid expressing the
+mutant protein at codon 181 (Fig. 1B) or the wild-type protein
+was found to express p53. This result indicates that the
+expression of the mutant protein at codon 181, like the
+expression of the wild-type p53, was incompatible with the
+growth of Saos-2 cells.
+Structural Properties of the Germ-line Mutants. Next, we
+tested whether germ-line p53 mutants shared certain unique
+structural properties. Many inactivating mutations, which
+have been detected in sporadic tumors, have been shown to
+produce structural modifications of p53: (i) most of the
+mutant proteins are recognized by the antibody PAb240,
+which is specific for a mutant conformation (1, 18); (ii)
+frequently, the mutant proteins complex with hsc70, a constitutively expressed member ofthe heat shock protein family
+(19); (iii) all of the mutations observed in sporadic tumors and
+analyzed so far have been shown to disrupt the binding of p53
+to SV40 T antigen (1).
+As shown in Fig. 1C, immunoprecipitations performed
+with the antibody PAb240 revealed that only the germ-line
+mutant proteins at codons 245, 252, 258, and 282 were
+detected by PAb240. In contrast, the mutants at codons 181
+and 248, like the mutation at codon 273 (1), were not
+recognized-by this antibody (Fig. 1C).
+Immunoprecipitation of the p53 proteins (Fig. 1 B and C)
+and Western analysis performed on the immunoprecipitated
+
+Table 1. Comparison of germ-line p53 mutants to the wild-type protein
+Amino acid
+switch
+Arg His
+
+Conserved
+region
+III
+IV
+IV
+IV
+IV
+V
+V
+
+Saos-2 cell growth
+Diagnosis
+
+Inhibition
+
+No.*
++
+BC (30)
+344 ± 77
+245
+LFS (3)
+1371 ± 131
+Gly Cys
+248t
+LFS (3), SMN (29)
+1141 ± 36
+Arg - Trp
+252
+Leu
+Pro
+LFS (3)
+1481 ± 44
+258
+Glu Lys
+LFS (3)
+1248 ± 120
+273*
+SMN (29)
+Ref. 10
+Arg His
+282*
+SMN (29)
+1132 ± 130
+Arg -Trp
++
+Wild type
+174 ± 60
+BC, breast carcinoma; LFS, Li-Fraumeni syndrome; SMN, second malignant neoplasm.
+*Number of stable colonies in two or more independent experiments.
+tRatio of number of colonies positive for p53 expression/number of colonies analyzed.
+fThe same mutation has been previously reported in sporadic tumors (14).
+Mutant
+181
+
+Ratiot
+0/7
+
+hsc70
+binding
+-
+
+binding
+
+4/4
+
+PAb240
++
+
+4/8
+7/8
+5/5
+
+++
+++
+
+++
+++
+
++
+
++
+
++
+
++
+
+-
+
+-
+
++
+
+5/6
+0/4
+
+T
+
++
+
++
+
++
+
+Genetics: Frebourg et al.
+
+Proc. Natl. Acad. Sci. USA 89 (1992)
+
+6415
+
+A
+/Wild-type p
+.
+;
+
+J
+
+Wild-type p53
+
+Mutant 181
+
+Mutant 25 2
+
+B
+V
+-6
+
+69 kDa
+
+Q
+
+<
+-
+
+-
+
+Q
+u<
+
+.-
+
+Vra
+
+li
+
+<=
+
+C
+
+_
+
+m
+
+a:
+
+a
+
+r'
+
+<
+
+a
+
+1
+
+4_
+
+e t.
+
+<
+
+-J
+
+4- hc 70
+
+.
+
+Ps
+~t...
+
+46 kl~a
+
+_*-40
+
+%.
+t
+
+44
+
+p53
+
+rl.
+
+C
+(N
+C4
+
+oc
+
+hsc 70
+
+r
+
+XC
+
+(N4
+
+C4
+
+r-
+
+N
+oc
+t.
+a
+VC
+X
+(N
+es
+al
+
+u
+
+-o
+
+_
+
+PAb240
+
+p53
+hsc 70
+
+a
+
+_,
+
+_
+
+i-
+
+Ad.~~~~~~~~~~~~t...As
+
+_-*
+PAbI 22
+
+p53
+
+-_
+T+1l8
+
+T+245 T+248
+
+PAb416
+
+t77 F7 E
+
+I 177+
+
+PAb 1 22
+
++
+
+T+wt
+
+D
+
+p53
+
+. ithuRt pi'
+,;
+
+-
+
++
+
+-
+
++
+
+-
+
++
+
+-
+
+T+252
+1
+
++
+
++
+
+VW-*
+
+FIG. 1. Biological properties of germ-line p53 mutants. (A) Effect of germ-line p53 mutants on the growth of Saos-2 cells. Representative
+plates of Saos-2 cells stably transfected with constructs expressing the wild-type protein, the mutant protein at codon 252, and the mutant protein
+at codon 181 are shown. (B) p53 levels in stably transfected Saos-2 cells. Lysates from [35S]methionine-labeled cells were immunoprecipitated
+with the monoclonal antibody PAb122. Transfected Saos-2 cells, expressing a mutant protein at codon 143, were used as a positive control for
+p53 and hsc70 binding (10). (C) Immunoprecipitation of germ-line p53 mutants with the antibody PAb240. Forty-eight hours after transient
+transfection of p53 plasmids, Saos-2 cells were [35S]methionine labeled and lysates were immunoprecipitated with antibody PAb240 (top) or with
+antibody PAb122 (bottom). Cells expressing a mutant protein at codon 143 were used as a positive control for PAb240 (10). (D) Binding of
+germ-line mutants to SV40 large T antigen. Saos-2 cells were cotransfected with p53 plasmids and the plasmid pSVlacO (16). Forty-eight hours
+after the transfection, lysates from [35S]methionine-labeled cells were immunoprecipitated with either antibody PAb122 (p53) or PAb416 (large
+T antigen). p53 proteins that bind large T antigen are coprecipitated by both antibodies.
+
+proteins (data not shown) showed that the mutant proteins at
+codon 252 and 258 were able to complex hsc70. A much
+weaker binding to hsc70 was occasionally detectable in cells
+stably transfected with constructs expressing the mutants at
+codon 245 and 282 (data not shown). In contrast, the mutant
+proteins at codons 181 and 248 as well as the mutant protein
+at codon 273 (1, 15) were unable to bind hsc70.
+Cotransfection experiments of the plasmids expressing the
+germ-line mutants with a plasmid coding for SV40 large T
+antigen (16) demonstrated that only the mutant proteins at
+codons 248, 252, and 273 failed to bind large T antigen (Table
+1, Fig. 1D). As shown in Table 1, the structural properties of
+the germ-line p53 mutants show a high degree of heterogeneity. However, with the exception of the mutant at codon
+
+181, none of the germ-line mutants retained all of the structural features of the wild-type protein.
+Genetic Analysis of the Mutation at Codon 181. The functional and structural studies of the germ-line mutants suggested that the mutant at codon 181 (Argo- His) was identical
+to the wild-type p53 (Table 1). Therefore, we speculated that
+this germ-line mutation might not provide an increased risk
+for cancer. To test this hypothesis, we performed genetic
+analysis on the family in which this germ-line p53 mutation
+has been observed. This mutation was detected in a patient
+(III-8) with a familial breast carcinoma (Fig. 2A) (30). This
+family is suggestive of Li-Fraumeni syndrome but does not
+fit the classic definition because the only sarcoma occurred
+after age 45 (20, 21). Using the PCR, we analyzed the codon
+
+6416
+
+Genetics:
+
+Frebourg et al.
+
+Proc. Natl. Acad. Sci. USA 89 (1992)
+
+< ~~~~~~~~~~~
+
+A
+
+~~~43~~~~ 4I
+
+B
+
+Hi
+it I'
+
+_
+
+x
+
+_
+
+-
+
+Z.
+
+Z
+
+Z
+
+-;7.
+
+7.
+
+7.
+
+~~~~~~~~~III
+0
+X~~~~~~i
+
+I)
+-
+
+3A 234
+
+54
+
+6
+
+7
+
+;18
+
+F[-f.
+
+IIXI(
+
+2
+I8/1Ll
+181/
+
+wI/wI
+
+1811WI
+
+I8ID
+
+-
+
+-
+
+18Wt!
+WtI
+
+-
+
+9
+
+8
+
+_,
+
+FIG. 2. Genetic analysis of a breast cancer family with a mutant p53 gene at codon 181. (A) Abridged pedigree of the family; the arrow
+indicates the proband: 11-2, breast cancer at age 46; 11-3, breast cancer (undetermined age); 11-4, prostatic carcinoma (undetermined age); 111-3,
+retroperitoneal leiomyosarcoma at age 49; III-5, breast cancer at age 40 and colon cancer at age 47; 111-8, breast cancer at age 41; 111-9, Hodgkin
+disease at age 22 and breast cancer at age 31. A germ-line mutation at codon 181 of one p53 allele (181/wt) was found in three affected members
+(111-3, 111-8, 111-9), whereas one affected member (111-5) has not inherited the mutation at codon 181 (wt/wt). The wild-type allele was lost in
+the leiomyosarcoma of patient 111-3 and in the breast cancer of patient 111-8 (181/-); the mutant allele was lost in the breast cancer of patient
+111-9 (wt/-). For patient 111-3, 2 of 6 clones derived from constitutional cells (normal kidney) and 7 of 7 clones derived from tumor cells had
+the codon 181 mutation. For patient 111-5, 14 of 14 clones derived from constitutional cells (benign naevi and benign colonic polyp) were wild
+type at codon 181. For patient 111-9, 3 of 6 clones derived from constitutional cells (normal spleen) and 13 of 15 clones derived from tumor block
+were wild type at codon 181. The presence of the codon 181 mutation in 2 clones out of 15 suggests a minor contamination by normal cells in
+the tumor block. (B) Restriction enzyme analysis of p53 codon 181. DNA was amplified using primers 181F and 181R, digested with Hae II,
+separated on a 1.8% agarose gel, and visualized by ethidium bromide staining. Hae II-digested normal DNA yields 99-bp and 30-bp fragments.
+Mutation at codon 181 leads to the loss of the Hae II restriction site and a 129-bp fragment is detected. Lane 1, molecular weight marker; lane
+2, normal DNA before digestion; lanes 3 and 4, Hae II-digested normal DNA; lane 5, Hae II-digested constitutional DNA (C) from patient 111-3;
+lane 6, Hae II-digested tumor DNA (T) from patient III-3; lanes 7 and 8, Hae Il-digested constitutional DNA from patient 111-5; lane 9, Hae
+II-digested plasmid DNA containing a mutant p53 allele at codon 181. The mutant p53 allele at codon 181 is present in constitutional and tumor
+cells of patient 111-3 (lanes 5 and 6) and absent in constitutional cells of patient 111-5 (lanes 7 and 8).
+
+181 of the p53 gene in normal and tumor tissue derived from
+three affected sisters. Mutation at codon 181 leads to the loss
+of the Hae II restriction site (AGCGCT
+
+AGCACT), which
+
+is normally present in the amplified fragment. Restriction
+analysis (Fig. 2B) and nucleic acid sequencing indicated that
+one affected sister with a leiomyosarcoma (111-3) had inherited the mutation at codon 181 and that only the mutant allele
+was retained in the tumor. Restriction analysis also revealed
+that another sister with breast and colon cancers (III-5) had
+not inherited the mutation at codon 181 (Fig. 2B). Patient
+111-9, who had developed a breast carcinoma and a Hodgkin
+disease, has inherited the mutation at codon 181, but the
+mutant allele was lost somatically in the breast tumor (Fig.
+2A).
+
+DISCUSSION
+The ability of the wild-type p53 protein to block the growth
+of malignant cells in culture is one of the main findings that
+has suggested that the p53 gene is a tumor suppressor gene (1,
+7-13). Our results demonstrate that germ-line mutations
+observed in patients with Li-Fraumeni syndrome or with
+second malignancies disrupt this function ofthe wild-type p53
+protein. These data indicate that one p53 allele has been
+inactivated in these patients. The inactivation of the growth
+inhibitory properties of p53 can explain why patients with
+these germ-line mutations have an increased risk of cancer.
+The biological significance of these germ-line mutations is
+confirmed by the fact that none of the germ-line mutants
+observed in patients with Li-Fraumeni syndrome or with
+second malignancies that we have analyzed have the same
+structural properties as the wild-type protein. Among these
+structural properties, it is important to point out the ability of
+some germ-line mutants to bind hsc70. The hsc7O binding
+property of some mutant p53 proteins observed in tumors has
+been linked to their ability to inactivate the wild-type protein
+
+and to have a dominant negative activity (15, 22). It has been
+speculated that only mutants unable to complex hsc7O will be
+found in the germ-line (3). Our current results show that
+germ-line mutants are not restricted to those unable to
+complex hsc70, as we previously suggested (3).
+According to our analysis, one germ-line mutant protein
+observed in a patient with a familial breast carcinoma had a
+wild-type phenotype. We cannot exclude the possibility that
+this mutation altered a property of p53 that we have not
+examined, such as the transformation-suppressing activity in
+a ras complementation assay (23), transactivation (24, 25),
+and/or DNA binding activity (26). Nevertheless, genetic
+analysis of the cancer-prone family in which this mutation at
+codon 181 was observed provided two pieces of data that
+suggest that the mutation at codon 181 was not associated
+with the development of cancer in all members of this family.
+This mutation was not present in the germ line of a family
+member who developed two cancers. More important, the
+mutant allele at codon 181 was somatically lost during the
+development of a cancer in another relative.
+We conclude from this study that six germ-line missense
+mutations reported in patients with Li-Fraumeni syndrome
+and in patients with second malignancies have inactivated the
+wild-type p53 protein. Nevertheless, our analysis of the
+mutation at codon 181 indicates that germ-line mutations,
+which change the amino acid sequence in the conserved
+domains of p53 (27), will not always be associated with an
+increased risk for early cancer. Therefore, genetic or biological analysis of the germ-line mutations in tumor suppressor
+genes should be a prerequisite before any counseling about
+cancer risk is provided to patients.
+We thank Drs. Andre Bernards, Joseph F. Fraumeni, Daniel
+Haber, Ed Harlow, K. J. Isselbacher, David Malkin, and Shiv Pillai
+for important discussions and critical review of the manuscript.
+S.H.F. is a Lucille P. Markey Scholar and this work was supported
+
+Genetics:
+
+Proc. Natl. Acad. Sci. USA 89 (1992)
+
+Frebourg et al.
+
+by John T. Merk Fund, the Lucille P. Markey Foundation, and a
+Research Fellowship of the Ligue Nationale Contre le Cancer (T.F.).
+17.
+
+1. Levine, A. J., Momand, J. & Finlay, C. A. (1991) Nature
+(London) 351, 453-456.
+2. Hollstein, M., Sidransky, D., Vogelstein, B. & Harris, C. C.
+(1991) Science 253, 49-53.
+3. Malkin, D., Li, F. P., Strong, L. C., Fraumeni, J., Jr., Nelson,
+C. E., Kim, D. H., Kassel, J., Gryka, M. A., Bischoff, F. Z.,
+Tainsky, M. A. & Friend, S. H. (1990) Science 250,1233-1238.
+4. Srivastava, S., Zou, Z., Pirollo, K., Blattner, W. & Chang,
+E. H. (1990) Nature (London) 348, 747-749.
+5. Law, J. C., Strong, L. C., Chidambaram, A. & Ferrell, R. E.
+(1991) Cancer Res. 51, 6385-6387.
+6. Metzger, A. K., Sheffield, V. C., Duyk, G., Daneshvar, L.,
+Edwards, M. S. B. & Cogen, P. H. (1991) Proc. Natl. Acad.
+Sci. USA 88, 7825-7829.
+7. Baker, S. J., Markowitz, S., Fearon, E. R., Wilson, J. K. V. &
+Vogelstein, B. (1990) Science 249, 912-915.
+8. Mercer, W. E., Amin, M., Sauve, G. J., Appella, E., Ullrich,
+S. J. & Romano, J. W. (1990) Oncogene 5, 973-980.
+9. Mercer, W. E., Shields, M. T., Amin, M., Sauve, G. J., Appella, E., Romano, J. W. & Ullrich, S. J. (1990) Proc. Natl.
+Acad. Sci. USA 87, 6166-6170.
+10. Diller, L., Kassel, J., Nelson, C. E., Gryka, M. A., Litwak, G.,
+Gebhardt, M., Bressac, B., Ozturk, M., Baker, S. J., Vogelstein, B. & Friend, S. H. (1990) Mol. Cell. Biol. 10, 57725781.
+11. Johnson, P., Gray, D., Mowat, M. & Benchimol, S. (1991) Mol.
+Cell. Biol. 11, 1-11.
+12. Casey, G., Lo-Hsueh, M., Lopez, M. E., Vogelstein, B. &
+Stanbridge, E. J. (1991) Oncogene 6, 1791-1797.
+13. Isaacs, W. B., Carter, B. S. & Ewing, C. M. (1991) Cancer
+Res. 51, 4716-4720.
+14. Caron de Fromentel, C. & Soussi, T. (1992) Genes Chrom.
+Cancer 4, 1-15.
+15. Hinds, P. W., Finlay, C. A., Quartin, R. S., Baker, S. J.,
+Fearon, E. R., Vogelstein, B. & Levine, A. J. (1990) Cell
+Growth Differ. 1, 571-580.
+16. Brown, M., Figge, J., Hansen, U., Wright, C., Jeang, K.-T.,
+
+18.
+19.
+20.
+21.
+22.
+
+23.
+24.
+25.
+
+26.
+
+6417
+
+Khoury, G., Livingston, D. M. & Roberts, T. M. (1987) Cell
+49, 603-612.
+Mies, C., Houldsworth, J. & Chaganti, R. S. K. (1991) Am. J.
+Surg. Pathol. 15, 169-174.
+Gannon, J. V., Greaves, R., Iggo, R. & Lane, D. P. (1990)
+EMBO J. 5, 1595-1602.
+Finlay, C. A., Hinds, P. W., Tan, T. H., Elihayu, D., Oren, M.
+& Levine, A. J. (1988) Mol. Cell. Biol. 8, 531-539.
+Li, F. P. & Fraumeni, J. F., Jr. (1969) Ann. Intern. Med. 71,
+747-752.
+Li, F. P. & Fraumeni, J. F., Jr. (1969) J. Natl. Cancer Inst. 43,
+1365-1373.
+Martinez, J., Georgoff, I., Martinez, J. & Levine, A. J. (1991)
+Genes Dev. 5, 151-159.
+Finlay, C. A., Hinds, P. W. & Levine, A. J. (1989) Cell 57,
+1083-1089.
+Fields, S. & Jang, S. K. (1990) Science 249, 1046-1049.
+Raycroft, L., Wu, H. & Lozano, G. (1990) Science 249,
+1049-1051.
+Kern, S. E., Kinzler, K. W., Bruskin, A., Jarosz, D., Friedman, P., Prives, C. & Vogelstein, B. (1991) Science 252,
+
+1708-1711.
+27. Soussi, T., Caron de Fromentel, C. & May, P. (1990) Oncogene
+5, 945-952.
+28. Toguchida, J., Yamaguchi, T., Dayton, S. H., Beauchamp,
+R. L., Herrera, G. E., Ishizaki, K., Yamamuro, T., Meyers,
+P. A., Little, J. B., Sasaki, M. S., Weichselbaum, R. R. &
+Yandell, D. W. (1992) N. Engl. J. Med. 326, 1301-1308.
+29. Malkin, D., Jolly, K. W., Barbier, N., Look, A. T., Friend,
+S. H., Gebhardt, M. C., Andersen, T. I., B0rresen, A. L., Li,
+F. P., Garber, J. & Strong, L. C. (1992) N. Engl. J. Med. 326,
+1309-1315.
+30. B0rresen, A. L., Andersen, T. I., Garber, J., Barbier, N.,
+Thorlacius, S., Eyfjord, J., Ottestad, L., Smith-S0rensen, B.,
+Hovig, E., Malkin, D. & Friend, S. H. (1992) Cancer Res. 52,
+3234-3236.
+31. Sidransky D., Tokino, T., Helzlsouer, K., Zehnbauer, B.,
+Raush, G., Shelton, B., Prestigiacomo, L., Vogelstein, B. &
+Davidson, N. (1992) Cancer Res. 52, 2984-2986.
+
+

@@ -1,0 +1,905 @@
+Proc. Natl. Acad. Sci. USA
+Vol. 86, pp. 9534-9538, December 1989
+Medical Sciences
+
+Sequence of the intron/exon junctions of the coding region of the
+human androgen receptor gene and identification of a point
+mutation in a family with complete androgen insensitivity
+(X chromosome/polymerase chain reaction/steroid receptor/testicular feminization/male pseudohermaphroditism)
+
+DENNIS B. LUBAHN*tf, TERRY R. BROWN§, JORGE A. SIMENTAL*t, HENRY N. HIGGS*t,
+CLAUDE J. MIGEON§, ELIZABETH M. WILSON*t¶, AND FRANK S. FRENCH*tII
+*Laboratories for Reproductive Biology and the Departments of tPediatrics, tPathology, and IBiochemistry, University of North Carolina, Chapel Hill,
+NC 27599; and §Department of Pediatrics, Division of Pediatric Endocrinology, The Johns Hopkins University School of Medicine, Baltimore, MD 21205
+
+Communicated by Mary Ellen Jones, August 25, 1989 (received for review July 5, 1989)
+
+ABSTRACT
+Androgens act through a receptor protein
+(AR) to mediate sex differentiation and development of the
+male phenotype. We have isolated the eight exons in the amino
+acid coding region of the AR gene from a human X chromosome
+library. Nucleotide sequences of the AR gene intron/exon
+boundaries were determined for use in designing synthetic
+oligonucleotide primers to bracket coding exons for amplification by the polymerase chain reaction. Genomic DNA was
+amplified from 46,XY phenotypic female siblings with complete androgen insensitivity syndrome. AR binding affinity for
+dihydrotestosterone in the affected siblings was lower than in
+normal males, but the binding capacity was normal. Sequence
+analysis of amplified exons demonstrated within the AR steroid-binding domain (exon G) a single guanine to adenine
+mutation, resulting in replacement of valine with methionine at
+amino acid residue 866. As expected, the carrier mother had
+both normal and mutant AR genes. Thus, a single point
+mutation in the steroid-binding domain of the AR gene correlated with the expression of an AR protein ineffective in
+stimulating male sexual development.
+
+cell cultures (23-25). However, the study of natural mutations allows correlations not only between structure and
+function but also between structure and phenotype. For
+example, the molecular nature of a mutation in the AR gene
+has been recently reported in a family found to have a
+deletion of the entire steroid-binding domain (26) associated
+with loss of androgen-binding activity and complete AIS.
+Identification of natural gene deletions and point mutations
+offers an opportunity to study structural alterations in AR
+that affect sex differentiation, development, and reproductive function.
+In this study, our aims were to determine the location of the
+hAR gene splice sites for comparison with other steroid
+receptors and to obtain the intron sequences flanking each
+exon to enable us to design oligonucleotide primers for exon
+DNA amplification by using the polymerase chain reaction
+(PCR) (27). Amplification of exons made it possible to
+sequence the AR gene- coding regions of affected individuals
+in a family with complete AIS (28, 29) and revealed a single
+point mutation within the steroid-binding domain.
+
+Androgens act through a receptor protein to promote differentiation and development of the male phenotype (1, 2). The
+androgen receptor (AR) is a member of the steroid receptor
+family, which is part of a larger nuclear receptor superfamily
+(3-5). These receptor proteins are related by sequence similarities within their "zinc finger" DNA-binding domains and
+by ligand-dependent regulation of specific gene transcription
+(3-5). Complementary DNAs of many members of the nuclear receptor family have been cloned (refs. 3-5 and references therein and ref. 6), including the human receptors for
+thyroid hormone, retinoic acid, vitamin D, glucocorticoid,
+progesterone, mineralocorticoid, estrogen, and androgen (713). Genomic clones have been described for the human
+estrogen (14), human vitamin D (15), chicken thyroid hormone (16), and chicken progesterone (17) receptors. To
+further understand the evolution and function of steroid
+receptors in eukaryotes and to identify mutations in the
+human AR (hAR) gene that cause the androgen insensitivity
+syndrome (AIS), we undertook to clone the AR gene.**
+In 46,XY individuals, X chromosome-linked androgen
+insensitivity results in a spectrum of developmental abnormalities ranging from a complete external female phenotype
+to partially masculinized ambiguous genitalia (1, 2, 18-21)
+and may include some infertile males with apparently normal
+genitalia but defective spermatogenesis (22). Mutations produced in vitro have allowed structure-function analyses of
+nuclear receptors by examining effects of these mutations in
+
+MATERIALS AND METHODS
+Isolation and Analysis of hAR Genomic Clones. Exon specific oligonucleotide probes were located within the AR
+cDNA by comparison of the hAR amino acid sequence (10)
+with the gene structure and amino acid sequence of the
+chicken progesterone receptor (cPR) (17). These exon specific oligonucleotides and hAR cDNA fragments were used as
+probes to identify four genomic clones from a partial Sau3A,
+bacteriophage A Charon 35, flow-sorted, X chromosome
+genomic library (XLAOXNLO1, obtainable from the American Type Culture Collection). Exons C-H, contained within
+the clones, were isolated, subcloned, and sequenced as
+described for the isolation of exons A and B (7, 10). Exon
+sequences of hAR were compared with exons of other steroid
+receptors by the GCG alignment program (30).
+Experimental Subjects. Informed written consent was obtained from each individual according to The Johns Hopkins
+Institutional Guidelines for Clinical Investigation. The three
+affected 46,XY siblings with complete AIS and their mother
+have been described (28, 29, 31, 32). The affected siblings had
+normal female external genitalia with absence of uterus and
+fallopian tubes. A short vagina ended in a blind pouch.
+Abbreviations: AR, androgen receptor; ER, estrogen receptor; GR,
+glucocorticoid receptor; PR, progesterone receptor; MR, mineralocorticoid receptor; h, human; c, chicken; PCR, polymerase
+chain reaction; AIS, androgen insensitivity syndrome.
+'lTo whom reprint requests should be addressed.
+**The sequences of the hAR coding exons (A-H) and flanking intron
+regions reported in this paper have been deposited in the GenBank
+data base (accession nos. M27423-M27430, respectively).
+
+The publication costs of this article were defrayed in part by page charge
+payment. This article must therefore be hereby marked "advertisement"
+in accordance with 18 U.S.C. §1734 solely to indicate this fact.
+9534
+
+ProGly ~ eo~hrxtlLysSeG
+
+Medical Sciences: Lubahn et al.
+
+Bilateral testes were present intraabdominally but there were
+no Wolffian duct derivatives other than vestigial vasa deferentin. Breast development occurred spontaneously at puberty and there was only sparse pubic and axillary hair
+despite blood testosterone concentrations in the normal adult
+male range.
+Amplification of AR Exons via the PCR and Sequence
+Analysis. Amplification of the coding region of hAR was
+performed as recommended by Cetus. Twelve pairs of oligonucleotide primers (underlined in Fig. 1) were selected to
+
+Proc. Natl. Acad. Sci. USA 86 (1989)
+
+9535
+
+generate fragments of approximately 190-500 base pairs to
+facilitate isolation of fragments from agarose gels for subsequent sequencing. The oligonucleotides were designed also
+to permit detection of possible splice site mutations and to
+
+avoid repetitive sequence homologies. Oligonucleotides
+ranging in size from 20 to 30 bases were synthesized on the
+DNA Synthesizer model 380A from Applied Biosystems and
+were used without further purification. Genomic DNA (1 g)
+was amplified through 30 cycles in a 100-,ul vol of 50 mM
+KCI/15 mM MgCl2/0.1% (wt/vol) gelatin/10 mM Tris HCI,
+
+Al --->A EXON Coding Re ion
+CGCCTGTTGAACTCTTCTGAGCAAGAGMGGGGAGGCGGGGTAAGGGAAGTAGGTGGAAGATTCAGCCAAGCTCAAGGATGGMGT AGTTAGGCTGGAAGGGTCTACCCTCGGCCG
+MetGLuVa nLeuG yL y ArgVa TyrProArgPro
+CCGTCCAAGACCTACCGAGGAGCTTTCCAGAATCTGTTCCAGAGCGT GCGCGAAGTAT
+GCACCCAGAGGCCGCGAGC
+ProSerLysThrTyr rgGlyA aPheGlnAsnLeuPheGlnSerVa LArga luVa LI eGlnAsnProG LyProArgHisProGLuALaAL
+aSerA LaAL aProProG lyA aSerLeu
+CTGCTGCTGCAGCAG C -AG G AGCAGCAG AG AGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAAGAGAgTAGCCCCAGGCAGCAGCAG tG EG GffTGAGGATGTTCT
+LeuLeuLeuGlnGL nGLnGnGL~ LnGL nGlnGLnGnGLnGLnGLnGlnGLnG LnGtnGlnGLnGL nGlnGluThrSerProArgGLnGLnG nGLnGLnULnGLyGluAspG yber
+CCCCGAGAGAG T GCGTTCCAGAG CT
+CCCCAAGCCCoTCGTAGAGGCCCCAAGGCTACCTGGTCTGGATGAGGAACAGCACCTTCACAGCCGCAGTCGGCCCTGGAGTGCC
+y eUrr
+ProGlnA
+l aHlsArgArgG UyPr
+rspuLuLUaLUntrwroSierulnrroGLnSerAlaLeuG LuCysH 1sProGLuArgG
+ly~ysValPro~l uProGLy
+TGACTCAGCTG
+CCC CTTAAGCAGC
+CCCATCCACGTTGTCCCTGCTGGGCCCCACTTTC
+GiCGiaCGTGrrCG,CCAGCAAGGGGCTGCCGCAGEAGCTGCAGCACCTCCGGACG
+A aA aVa lA aA taSerLysG yLeuProGI tnL
+leuroA LaProProftp luspAspSerA laA laProSerThrLeuSerLeut euGtlyProThrPhero lyLeuSerSer
+
+1
+
+14
+
+360
+94
+134
+600
+l7
+zo
+214
+
+TGCTCCGCTGACCTTAAAGACATCCTGAGCGAGGCCAGCACCATGCAACTCCTTCAGCAACAGCAGCAGeGAuGGTATCCGAAGGCAGCAGCAGCGGGAGAGCGAGGGGGCTCGGGG
+LeLeuSerGluALaSerThrtetGtnLeuLeuGl nGlnGlnGlnGL nGLuAlavak erGLuGLySerSerSerGL yArgAiaArg luAlaSerGly
+CgsSerALaAspLeuLysAspI
+GTCCCACTTCCTCCAAG~CAATWTACTTAG
+GG
+TGTG
+CAgTTCGACCATTTCTGACAACGCAAGGAGTTGTGTAAGGCAGTTCGGTGTCCATGGCCTG
+rSerThrl LeSerAspAsnALNLysI LUeLewysLysVravalSerVa LSer~etG yLeuG lyVa
+aLe ktuG sZ
+MarrolirberberLysmspsnIyr euG yGyT
+CTGAGT CCAGGGGAACAeGCTTCGGGGGGATTGCATGTACGCCCCACTTTTGGGAGTTCCACCCGCTGTGCGTCCCAITCCTTGTGCCCCATTGGCCGAATGCAAAGGTTCTCTGCTAGAC 260
+LeuSer roG lyGLuG lnLeuArgG IyAspCysMetTyrA L aProLeuLeuG lyVa lProProA laVaLArgProThrProCysA LaProLeuA iaGIuCysLysG IyserLeuLeuAsp
+A TTACACCAAAGGGCTAGAAG CGAGAGCCTA GCGC CTaGCAGCGCTGCAGGGGAGCTCC 1 80
+GACAGCGCAGGCAAGAGCACTGAGATAgTGCTG^GTATTCCCCTTTCAAGG
+AspSerA
+t aGLyLysSerT rGLuAspTh rA laG uTyrSerProPheLysG lyGI yTyrThrLysG Le
+lyG luSerLeuG yyysSerG ySerA a aA laGlySerSer 334
+GGGA ACTTGAACTGCCGTCTA CCTGTCTCTCTACAAGTCCG AGCACTGGACGAGGCAG TG GTACCAGAGTCGCGACTACTACAACTTTCCACTGGCTCTGG CGACCGCCGCCC 12(4
+G yTnrLeuG luLeuProSerTrLeuSerLeuTyrLysSerG yyArLeuAspGuALaA
+laA 'aT
+mn rs leuAs
+eLeuA a yProProPro3
+CCTCCGCCGCCTCCCCATCCCCACGCT GCAICAAGCTGGAGAACCCGCTGGACTACGGCAGCGCCTGGGCGGCTGCGGCGGCGCAGTGCCGCTATGGGGACCTGGCGAGCCTGCAiTGGC 1
+ProProProProProHi sProHisA aArg9ITeLytLeuLuA3MPrTLeuAspTyrG lySerAL aTrpALaALAlaAlaA L aG nCysArgTyrG yAspLeuA LaSerLeuHiSGly 414
+
+GCGGGTGCAGCGGGACCCGGTTCTGGGTCACCCTCAGCCGCCGCTTCCTCATCCTGGCACACTCTCTTCACAGCCGAA
+TGTGGGTGGT 14&0
+AlaG yALaALaGLyProGtySerGLySerProSerA LaALaALaSerSerSerTrpHisTh rLeuPheThrA LaGLuGuGI GCCAGTTGTATGGACCGTGTGGTGGTG
+yGLnLeuTyrGLyProCysGLyGLyGlyGLyGLyGLy
+GGCGGCG CGGCG GCCG
+CGGCGGCGGCGGC
+CG CGCG CGCGCGCCGAGGCGGGAG TGTAGCCCCTACGGCTACA TCGGCCCCCTCAGGGGCTGGCGGGCCAGGAAAGC 1
+GCyGLyGLyGyG LyGlyGLyGLyG yGtyGLyG lyGlyG yGGyGGuA
+LaGyGaVaL AaProTyrGLyTyrThrArgProProGlnGLyLeuA aG LyGLnGluSer
+
+GACTTCACCGCACCTGATGTGTGGTACCCTGGCG CATGGTGAGCAGAGTGCCCTATCCCAGTCCCACTTGTGTCAAAAGCGAAATGGGCCCCTGGATGGATAGCTACTCCGGACCTTAC
+ly WM
+roT rp~etAspSerTyrSerG lyProtyr53
+X~pnenV LnPtr
+yr~~rrG yt
+yetva ziernrgva -oyrrbep GGlGACATGCGGTAAGTTTTTCCTTCCAGAAATGTCGCCTTTCGGCCCAGGGCAGAGTCACTCTGTGTTCTGG ........... GCCTGCAGGTTAATGCTGAAGACCTGAGACTTCACT 1
+
+19
+
+TGCCTATTTCTGCCATTCAGTGACATGTGTTGCATTGGTTTTTTGTGTCTTTCCAGTTTGGAGACTGCCAGGGACCATGT
+TTTGCCCAT TGACTATTACTTTCCACCCCAGAAGACCTGC 1909
+gLeuGluT rA aArgAspHisVa LeuProl IesiTyrTyrPheProProGLnLysTh rCys
+CTGATCTGTGGAGATGAAGCTTCT GGGTGTCACTATG AG TCTCACATGTGGAAGCTGCAAGGT TTCTTCAAAAGAGCCG TGAAGGTAAAGGGTCTTGCACATGCACTTCTCTTTCC 2Q?9
+Leul eCysG lyAspGluA IaSerG yCysHisTyrG lyAl aLeuThrCysGtySerCysLysVa I PhePheLysArgA I aA aGluG588
+2
+C
+CTTTCTTCTCCGGGAAATACTTAGGCAGATTTCTTAAATGGTATGAAGCTACATACTG ....GTTTGGTGCC 2142
+EXON
+
+2382
+CTCCCAGTGAAACAGAAGTACCACTGCGCCAGCAGAAATGATTGCACTATTGATAAATTCCGAAGGAAAGATTGTCCATCTTGTCGTCTTCGGAAATGTTATGGAAGGATGAGCTTCTG
+-l yLysG nLysTyrLeuCysA aSerArgAsnAspCysTnr I tLeAspLysPheArgArgLysAsnCysProSerCysArgLeuArgLysCysTyrGluA ayGetT rLeur6er
+T TCTTTGATGCTTCCCAGGGGACCAGCCATGC 2627
+GACAGCGATACATTTCTTTCCCTTCCTCCTTTGAGCTCTCTCCCCTCAATCATTTTCTAGTCTCTCTTTAGACCAGATTT
+G
+yA~~~,
+<----- C2
+Dl ----->
+T CTAGACACAGGCTGACCCTTTCATAGGCAACGTGGCCATCAG .......................... GGAGTTTAGAGTCTGTGACCAGGGAGAATGGTGATTTTCTTAGCTAGGGCAGTTTTTCTAAAAAGGT 2612
+in
+ron
+~
+~
+~
+~
+~ ~ ~ ~ ~ ~ ~
+-
+
+~
+EXON ~
+
+~
+
+~
+
+~
+
+~
+
+~
+
+~ ~ ~~~~~ito
+
+AGTTGAGCATTGTGTTTTTGACCACTGATGATAAATTCAAGTCCTCTTCCTTACCCAATGCCGGAAGCTGAAGAAACTTGGTAATCTGAAACTACAGGAGGACAGTGGA
+l
+
+CTTCCAGC 27302
+luG luG AslaSerSer
+lnyGa
+l
+aArgLysLeuLysLysLeuG lyAsnLeuLysLeuGlnG
+64
+
+ATGTA TC
+GCTATGATGTCAGCCCACTTTCTGAATGTCCTGGTCCAGAG
+ThrT r erProT rGluGLuThrgCCGAAGCTGAAGTTCACCA
+rMnLysLeuThrVa SerHsls tel~yTyrG
+uCysGlnProl tePheLeuAsnVaLLeuG alua leGluWro~yValVaLCysAla68
+
+GCATACGACAACAACCAGCCCGACTCCTTT.GCAGCTTGCTCTCTAGCCTCAATGAACTGGGAGTGAGACAGCTTGTACACGTGGTCAAGTGGGCCAAGGCCTTGCCTGGTAAGGTAAG
+G tyH isAspAsnAsnG lnProAspSer>§eA laA laLeEul!yuerSerLeLAsnG luLeuG lyG luArgG lnLeuVaIlH isVa lVa l Ls~xrgA laLysA [aLeuProG
+GCTGCCGAC TGTGGTGGTGGGG GTGCAGGAATCTCTGGGCTTAGTTGTAAATGTCCC
+ACC§CtGGCCCCATGACCCCTAATCGA
+GGAAGTGGGAGCATGAGATAAGGGGGATt .........
+CAACCCGTCAGTACCCAGACTGACCACTGCCTCTGCCTCTTCTTCTCGCAGGCTTCCGCAACTTACATCGTGGACGACCAGATG
+sVa
+
+=yPheArgAsnLeu~l
+AspAspGlnt~et
+GCTGTCAG TCCAGTACTCCTGGATGGGGCTCATGGTGTTTGCCATGGGCTGGCGATCCTTCACCAATGTCAACTCCAGGATGCTCTACT TCGCCCCTGATCAATCCCAATCCTGCTA
+A
+eL Va
+IeGnTyrSeTrpMetGlyLeuMetVa
+LPheAlaMetGLyTrpArgSerPheThnrAsnVa lAsnSerArgMetLguTyrPheAlaPryLApLuValnPfhesnGlCT CCTnGGGCCCAGACCTCACTAAAATACAGCAGCT TEGGC"CAGACCTGGTTGGTGGTGATGGTGATGGGGTGAcAGTGAAGCT . . . . . . . . . . . . . . . . . . . . . . . . . . CTCTGGGCTTATTGGTAAACTTCCC
+
+232
+72
+3311
+3083
+
+n34
+
+392Q
+771
+331 1
+
+euLeue erja~
+uP In
+GHi
+C
+<----Einton!<----G
+CATTATTAGGGAAAAGCCAGCTCCTGGAC ......... CTTTCAGATCGGATCCAGCTAT CCTTTCCCCTGAGATCTCCCTGACAGACTGAGGCCCCAAGCACACAGACTTCAACTAAC 3662
+AGGAAGCCAEAGT"AGAT GGT TCCCTGTGGGGGT GGGGGT CAAGT CT GTGGTCAGAAAACT TGGT GCT TTGT CTAATGCTCCT TCGTGGGCATGCTT CCCCTCCCCAT TCT GTCTT CATCCC 3782
+AC:AT CAG T CCAGTGGATGAGCT GAAAAAT CAAAAATT CTTTGATGAACTTCGAATGAACTACATCAAGGAACTCGAT CGTAT CAT TGCATGCAAAAGAAAAAATCCCACAT CCTGCTCA 39n2
+eProVa lAsp
+5
+eI teA
+
+ProGlnGluPheLeuCysMetLysL
+intron
+5
+
+lyLeuLysAsnG lnLysPhePheAspG lvneu~rAgtjetAsnTyrl IeLysG luLeuAspArg Il
+LaCygjysArgLysAs~nlProhe~s
+4012
+ArgArgPheTyrG lnLeuThrLysLeuLeuAspSer~a xG lnPro=-6
+AGACGCT TCTACCAGCTCACCAAGCTCCT GGACTCCGTGCAGCCTGTAAGCAAACGATGGAGGGTGCT TTATCAGGGAGAACAGCCTGATAGAG . . . . . . . . . . . . . . . . . . . . . . . . . . GAGGCCACCT CCT TGT
+
+CAACCCT GTT T TTCT CCCT CT TATTGT TCCCTACAGAT T GCGAGAGAGCTGCATC GT TCACT TT TGACCTGCTAATCAAGTCACA.CATGGTGAGCGTGGACTT TCCGGAAATGATGGCA 4132
+I teA taArgGluLeuHilsGP
+lheThrPheAspLeuLeuIl eLysSerHilsMetVa lSerVa lAspPheProG luMetMetAla 896
+IGAGA CAACT CTGTGCjAGTGCCCAAGATCCTTTCTGGGAAAGTCAAGCCCATCTATTTCCACA CCCGTGAAGCAT TGGAAACCCTATTTCCCCACCCCAGCT CATGCCCCCTTTCAGA 425
+GM el eSerVaG InVaGProLysL
+eLeuSerG~yLysVaLLysPro1eTyrPheHisThrGlnEnd
+TGTCTTCTGCCTGTTATAACTCTGCACTACTCCTCTGCAGTGCCTTGGGGAATTTCCTCTATTGATGTACAGTCTGTCATGAACATGTTCC
+4343
+
+FIG. 1. Sequence of hAR gene intron/exon splice sites. Oligonucleotides used for PCR are underlined, with orientations indicated by arrows.
+Gaps in sequence (indicated by dots) are undetermined intron sequence. Canonical donor and acceptor splice sites are double underlined. Point
+mutation found in the G exon is marked by an asterisk.
+
+9536
+
+Medical Sciences: Lubahn et al.
+
+Proc. Natl. Acad. Sci. USA 86
+
+pH 8.3/200 ,M each of the four deoxyribonucleotides.
+Thermus aquaticus DNA polymerase (Taq polymerase) (3.75
+units) (Cetus) and each oligonucleotide at 20 AM were used
+per reaction. Amplification conditions consisted of an initial
+denaturing step at 950C for 5 min, annealing at 600C for 1 min,
+and polymerization at 720C for 6 min, followed by 30 cycles
+of 950C for 30 sec, 60'C for 1 min, and 720C for 6 min with a
+3-sec increment per cycle in polymerization time. For oligonucleotide pairs A7-A8 and A9-A10, an annealing temperature of 650C reduced the number of nonspecific fragments. In
+addition, 60 cycles were used for oligonucleotide pair A7-A8,
+which amplifies a fragment with high G+C content. Amplified fragments of the correct size were ligated into blunt end
+M13 vectors and sequenced (7, 10). Errors due to Taq
+polymerase misincorporation were detected by sequencing
+two independent clones of each orientation.
+
+RESULTS AND DISCUSSION
+Six genomic clones containing exons of the amino acid coding
+regions of the hAR gene were isolated from a human X
+chromosome A library by using hAR cDNA and synthetic
+oligonucleotide probes. Although the genomic clone inserts
+averaged 15 kilobases (kb) and the mRNA of hAR was 10-11
+kb (7, 9, 10), only exons D and E and exons F, G, and H were
+found in the same clones (data not shown). Calculations
+based on five nonoverlapping clones averaging 15 kb yielded
+a size estimate of >75 kb for the hAR gene. Sequences of the
+hAR coding exons and flanking intron regions are shown in
+Fig. 1. Cloned genomic exon and flanking intron sequences
+were confirmed by sequencing PCR amplified fragments of
+genomic DNA. Development of a method utilizing PCR for
+rapid analysis of mutations in the coding regions of the AR
+gene required that we sequence only far enough into the
+flanking introns to allow selection of suitable synthetic oligonucleotide primers to bracket each exon. Thus, the large
+central regions of each intron remain to be sequenced.
+Exons
+
+hAR
+
+With the determination of the intron/exon splice junction
+sequences, both evolutionary and functional analyses of the
+hAR and its mutations are now possible. The intron/exon
+boundaries have the canonical splice consensus sequences
+(double underlined in Fig. 1) (33). Splice sites of the hAR gene
+and those of human estrogen receptor (hER) (14) and cPR (17)
+genes are remarkably similar in location and flanking amino
+acid sequences (data not shown). By comparison with other
+homologous steroid receptor cDNAs and cloned steroid
+receptor genes (hAR, cPR, hER, and hMR) (MR, mineralocorticoid receptor), the probable splice sites of the other
+as yet unreported steroid receptor gene sequences (hPR,
+hMR, and hGR) (GR, glucocorticoid receptor) could be
+predicted. Comparisons of their exons reveal regions of
+evolutionary conservation of essential functions (Fig. 2).
+The most highly conserved exons, B and C, encode the first
+and second zinc finger motifs, respectively, and make up the
+DNA-binding domain (3-5). Within these and other exons,
+sequence identity of hAR is closer to hPR, hMR, and hGR
+than to hER (Fig. 2). Only the second zinc finger exon of
+hER, exon C, has a high degree of sequence similarity with
+hAR. The large N-terminal domain contained within the A
+exon has little similarity with other receptors. This exon
+appears to contain a transcription-enhancing function and
+may also modulate DNA binding (3-5). Neither exon A nor
+exons B and C are known to have any influence on ligand
+binding.
+In the ER and GR, it has been demonstrated that the
+steroid-binding domain encompasses exons E-G and portions of exons D and H (23, 24). hAR exons E-G exhibit a
+relatively high degree of similarity to hPR, hMR, and hGR
+(Fig. 2). Although exon D is less homologous overall, a
+23-amino acid region positioned near its 3' junction is highly
+conserved among all nuclear receptors (10). Experimental
+mutations within this region were found to interfere with
+ligand binding, suggesting that it is part of a hydrophobic
+ligand-binding pocket (23, 24, 34). Throughout exons D-G, a
+variety of deletion and linker insertion mutations of the PR,
+
+N-Terminal
+A
+
+DNA
+B C
+
+oo0
+14
+
+14
+
+627
+
+723 772
+
+,62j72:
+
+43
+
+;611721
+
+45
+
+I1it5
+
+hMR
+
+D
+
+:741691.
+
+14
+
+17
+
+1361621
+214 25
+
+151
+
+909
+
+169149:49:
+
+63'I441,5345
+
+766 837 660 93
+
+40
+
+411 450 489
+
+hER
+
+65 s6e
+
+737 766 62962 933
+
+596 635
+
+156 62 671
+
+hGR
+
+Hormone
+E F G H
+
+,,K)ooJiool, ioo I0ooiiooitooi K0oo
+538566
+
+hPR
+
+(1989)
+
+1631471 55L,38I
+52 631 674
+
+22
+
+96
+
+727 777
+
+30!119 13 51I<10 5
+
+365 412 45
+
+FIG. 2. Amino acid homology among steroid receptors compared by exons. The amino acid sequence of hAR (10) is compared by exon with
+amino acid sequences of the hPR, hMR, hGR, and hER (refs. 3-5 and references therein and ref. 6). Indicated are the percent homologies with
+hAR (boxed) and amino acid residue numbers (below boxes). Intron/exon splice sites are indicated by the vertical dashed lines. Amino acid
+residue numbers of the splice sites of hAR (this report), hER (14), and the exon B splice sites of hMR (6) are known. hPR splice sites were derived
+from sequence homology with the known splice sites of cPR (17). The splice sites of hGR and the remaining splice sites of hMR were derived
+from sequence homology with hAR. Amino acid sequences of the predicted splice sites with the exception of the exon A/B sites were homologous
+(data not shown). Percent homologies among the same exons of different receptors were calculated by the GAP program of the GCG sequence
+analysis program (30).
+
+Medical Sciences: Lubahn
+
+et
+
+al.
+
+Proc. Natl. Acad. Sci. USA 86 (1989)
+
+9537
+
+testosterone (28). These findings suggested the presence of a
+mutation in the AR steroid-binding domain.
+1
+559 624676
+919
+Southern blot analysis of genomic DNA with hAR cDNA
+probes spanning the coding region revealed no major deletion
+Exons
+A
+IBICI D IEIFI W
+in the hAR gene of any member of this family (data not
+aa *
+919
+1~~~~~~~~~~~~~~~~
+shown). Northern blot analysis of mRNA from one of the
+46,XY siblings with AIS revealed the 7-kb and 10- to 11-kb
+mRNA species characteristic of hAR (data not shown). When
+hAR
+oa*864 AspSerVol GOn Pro
+we found no indication of a gross gene deletion or defect
+GAC TCC GTG CAG CCT
+involving mRNA transcription in the three affected siblings of
+the
+present study, sequence analysis was performed to idenATG
+tify a small deletion or point mutation.
+hAR- AIS aa0856 Asp Ser Met Gln Pro
+Oligonucleotides (underlined in Fig. 1) bracketing each of
+hGR
+aa*723 Asp Ser Met His Glu
+the amino acid coding exons were used as primers for PCR
+hMR
+aa*g29 Asp Ser Met His Asp
+amplification of genomic DNA from one 46,XY sibling with
+hPR
+aa#878 Asp Asn Leu His Glu
+complete AIS (II-1). All amplified exons produced fragments
+of predicted size (data not shown), verifying the Southern and
+hER
+aa 5o9 Leu Ile LeuSer His
+Northern analyses that indicated the absence of a major hAR
+gene deletion. Sequence analysis of amplified exon DNA
+FIG. 3. Comparison of the mutated AR sequence with other
+steroid receptor sequences. Schematic of the N-terminal, DNA-, and
+revealed a point mutation in exon G of the steroid-binding
+hormone-binding domains is depicted with the amino acid residues of
+domain (Figs. 1, 3, and 4). A guanine residue in the normal
+the domain boundaries indicated below. Also shown as a schematic
+sequence was replaced by adenine, changing amino acid 866
+are the exon boundaries with the location of the point mutation in the
+from
+valine to methionine. No other amino acid sequence
+G exon. The mutation of G to A in hAR changed a valine codon to
+difference from normal was found in the entire 2757-base-pair
+a methionine codon. Corresponding amino acids within the G exons
+AR coding region or in the flanking intron sequences, except
+of other steroid receptors are shown below. The number of the first
+within repeated glutamine and glycine regions of the A exon,
+amino acid listed is indicated at the left ofeach sequence. Amino acid
+(aa) numbers in hAR (aa 864) and hAR-AIS (aa 856) differ because
+where the numbers of glutamines, 22, and glycines, 15, differ
+of the variation in numbers of glycines and glutamines in exon A.
+from normal. However, variation in the numbers of these
+repeated amino acids has been found in all published sequences of the normal hAR receptor (10-13) and appears to
+GR, and ER have been shown to result in decreased steroid
+result from an M13 sequencing artifact (data not shown)
+binding and transcriptional activation (23-25).
+and/or to represent a normal polymorphism.
+As a first step in understanding further the structureTo confirm the hAR gene mutation, genomic DNA of exon
+function relationships of AR at the molecular level, we
+G from the affected individual was reamplified and seanalyzed a family with complete AIS. For a prototypical
+quenced. In addition, genomic DNA from the other two
+study, we chose a family in which three 46,XY siblings
+affected siblings (11-2 and II-3) and their mother (I-1) was
+expressed AR proteins with abnormal ligand-binding propanalyzed. Each contained the AR allele with a G replaced by
+erties (28). Affected individuals had the external female
+an A, while their carrier mother contained, in addition, the
+phenotype typical of complete AIS with adult male levels of
+normal allele (Fig. 4). The valine to methionine alteration is
+circulating testosterone (31) and normal 5a-reductase activity
+therefore linked to AIS in this family.
+in genital skin fibroblasts (28). Saturation binding analysis
+CG dinucleotides, like those found at the locus mutated in
+with [3H]dihydrotestosterone indicated normal amounts of
+this family with AIS (Figs. 1 and 3), are in humans sometimes
+AR in genital skin fibroblasts, and the AR protein had a
+methylated on the cytidine. Methylated cytidine can deamnormal 8S sedimentation rate by sucrose-density centrifugainate spontaneously to form thymidine. This may result in
+tion (28). However, AR binding affinity for [3H]dihydrotesrelative hot spots for the formation of mutations like those in
+tosterone in affected 46,XY siblings was 3-fold lower than
+the X chromosome-linked factor VIII gene, which cause
+normal (Kd, 1.5 nM; normal, 0.5 nM) and the binding activity
+hemophilia A (35).
+exhibited increased thermolability (28). Moreover, AR affinAR protein was expressed in normal amounts in these
+ity for progesterone was relatively higher than normal (2.5siblings with complete AIS as evidenced by the number of
+fold) in binding displacement assays with [3H]dihydro[3H]dihydrotestosterone-binding sites (28); however, binding
+hAR
+aa*
+
+DNA
+
+N-terminal
+
+Hormon
+
+II
+2
+
+I
+p
+
+2
+
+G
+T
+
+'
+%
+
+%
+
+3
+
+G
+
+/II
+
+T
+
+C
+C
+
+G
+A
+Gk
+
+C
+
+G A T C
+
+G ATC
+
+G A TC
+
+G A/T C
+
+-k4
+
+a.
+
+A\T C
+
+I-
+
+C
+
+w
+
+~w
+
+'F
+
+I-
+
+C
+
+C
+
+G
+A
+C
+
+G
+
+.0..
+
+*GT
+
+4,,
+*_
+i.
+
+.4
+
+T
+
+C
+C
+
+T
+
+C
+
+A
+
+Affected
+
+Affected
+
+G
+
+Allele
+
+Allele
+
+G
+
+G
+
+Affected
+Allele
+
+Affected
+Allele
+
+Normal
+Allele
+
+C
+
+A
+
+G
+G
+
+FIG. 4. Partial pedigree of a family
+with complete AIS and nucleotide sequence of the X chromosome-linked mutation. Solid squares indicate 46,XY genetic males with the complete AIS phenotype, open square with line indicates
+the deceased father, and circle with dot
+indicates the heterozygous mother. Abnormal AR sequence is shown on the left
+and normal sequence is shown on the
+right. A single base mutation (asterisk
+and arrows) of G to A resulted in the only
+identified amino acid sequence change in
+this kindred. The mutation was found in
+all amplified G exon clones from individuals 11-1, -2, and -3 and in two of the six
+clones sequenced from 1-2. I-2, a heterozygous carrier, displayed the normal allele in the other four sequenced clones.
+
+9538
+
+Medical Sciences: Lubahn et al.
+
+affinity for androgen was decreased.tt There was also a
+relative increase in affinity for progesterone. Although hPR
+has a leucine at the position corresponding to the AR point
+mutation, cPR does contain a methionine, as do hGR and
+hMR (Fig. 3). It is interesting to speculate that this region of
+the G exon may be important in determining steroid-binding
+specificity to AR. Estradiol has no increase in affinity for the
+mutated AR (28), and its receptor has little homology with AR
+in exon G (Figs. 2 and 3).
+The exon G mutation has the potential of affecting both the
+steroid-binding and transcription-activating functions of the
+AR protein. Ligand binding to AR and other steroid hormone
+receptors initiates a transformation process that results in
+enhanced binding of receptors to their hormone response
+elements (3-5). This process may involve a conformational
+change in the receptor protein or separation from a nonsteroid-binding component that unmasks the DNA-binding
+domain and a nuclear transfer sequence located in the Cterminal region downstream from the DNA-binding domain.
+The process may also activate within the steroid-binding
+domain a dimerization sequence shown to be required for
+strong interaction of the steroid receptor with its response
+element and for transactivation of gene expression (36, 37).
+The mechanism by which this point mutation, resulting in
+only a subtle change in steroid-binding properties of the AR,
+could cause complete loss of AR functional activity is not yet
+clear. However, it appears that complete transformation of
+the receptor subsequent to steroid binding requires precise
+structural interaction between receptor and ligand. Steroid
+antagonists, for example, have recently been shown to bind
+ERs and GRs and promote specific binding to hormone
+response elements without enhancing gene transcription as
+would a normal agonist (37, 38). Hormone-binding domains
+of nuclear receptors are now recognized to have transcriptional enhancer effects (24, 38). A point mutation might
+abolish this function without greatly affecting steroid binding.
+Expression of this mutated hAR in vitro will allow further
+studies to determine whether it is capable of binding to its
+response element and enhancing transcription of a reporter
+gene.
+Present evidence suggests that there is a wide spectrum of
+AR gene mutations causing androgen insensitivity syndrome
+in humans (1, 2, 20, 21). Such androgen receptor mutations
+are amenable to study by using the oligonucleotide primers
+and the PCR method described here. This method of analysis,
+by allowing correlations of AR structures with AIS phenotypes, should prove valuable in elucidating the mechanisms
+of action of AR in male sex differentiation and development.
+Note Added in Proof. After submission of this paper, we learned of
+a publication (39) in which the structural organization of the hAR
+gene was partially determined. Their locations for the hAR gene
+splice sites are in agreement with the sites we have determined.
+
+ttMore recently, we have recreated the natural mutation (amino acid
+866, as shown in Fig. 3) in human AR cDNA by site-directed
+mutagenesis and expressed the mutated and wild-type hAR cDNAs
+in COS cells by a method previously described (7). Binding affinity
+of the mutated AR for 3H-R1881 (a synthetic androgen) was
+-4-fold lower than that of the wild-type AR (data not shown). This
+difference in androgen-binding affinities is similar to that demonstrated earlier in cultured genital skin fibroblasts from normal
+males and from siblings with AIS in this family (28).
+This work was supported by National Institutes of Health Grants
+HD04466, HD16910, HD18968 (recombinant DNA core), and
+DKO0180; the Andrew W. Mellon Foundation; and the March of
+Dimes Foundation. D.B.L. is a Pew Scholar supported by the Pew
+Scholars Program in the Biomedical Sciences.
+
+Proc. Natl. Acad. Sci. USA 86
+
+(1989)
+
+1. Brown, T R. & Migeon, C. J. (1987) in Hormone Resistance and other
+Endocrine Paradoxes, eds. Cohen, M. P. & Foa, P. P. (Springer, New
+York), pp. 157-203.
+2. Wilson, J. D., Griffin, J. E., Leshin, M. & MacDonald, P. C. (1983) in
+The Metabolic Basis of Inherited Disease, eds. Stanbury, J. B., Wyngaarden, J. B., Fredrickson, D. S., Goldstein, J. L. & Brown, M. S.
+(McGraw-Hill, New York), pp. 1001-1026.
+3. Evans, R. M. (1988) Science 240, 889-899.
+4. Green, S. & Chambon, P. (1988) Trends Genet. 4, 309-313.
+5. Beato, M. (1989) Cell 56, 335-344.
+6. Arriza, J. L., Weinberger, C., Cerelli, G., Glaser, T. M., Handelin,
+B. L., Housman, D. E. & Evans, R. M. (1987) Science 237, 268-275.
+7. Lubahn, D. B., Joseph, D. R., Sullivan, P. M., Willard, H. F., French,
+F. S. & Wilson, E. M. (1988) Science 240, 327-330.
+8. Chang, C., Kokontis, J. & Liao, S. (1988) Science 240, 324-326.
+9. Trapman, J., Klaassen, P., Kuiper, G. G. J. M., van der Korput,
+J. A. G. M., Faber, P. W., van Rooij, H. C. J., van Kessel, A. G.,
+Voorhorst, M. M., Mulder, E. & Brinkmann, A. 0. (1988) Biochem.
+Biophys. Res. Commun. 153, 241-248.
+10. Lubahn, D. B., Joseph, D. R., Sar, M., Tan, J., Higgs, H. N., Larson,
+R., French, F. S. & Wilson, E. M. (1988) Mol. Endocrinol. 2, 1265-1275.
+11. Chang, C., Kokontis, J. & Liao, S. (1988) Proc. Natl. Acad. Sci. USA 85,
+7211-7215.
+12. Tilley, W. D., Marcelli, M., Wilson, J. D. & McPhaul, M. (1989) Proc.
+Natl. Acad. Sci. USA 86, 327-331.
+13. Faber, P. W., Kuiper, G. G. J. M., van Rooij, H. C. J., van der Korput,
+J. A. G. M., Brinkman, A. 0. & Trapman, J. (1989) Mol. Cell. Endocrinol. 61, 257-262.
+14. Ponglikitmongkol, M., Green, S. & Chambon, P. (1988) EMBO J. 7,
+3385-3388.
+15. Hughes, M. R., Malloy, P. J., Kieback, D. G., Kesterson, R. A., Pike,
+J. W., Feldman, D. & O'Malley, B. W. (1988) Science 242, 1702-1705.
+16. Zahraoui, A. & Cuny, G. (1987) Eur. J. Biochem. 166, 63-69.
+17. Huckaby, C. S., Conneely, 0. M., Beattie, W. G., Dobson, A. D. W.,
+Tsai, M.-J. & O'Malley, B. W. (1987) Proc. NatI. Acad. Sci. USA 84,
+8380-8384.
+18. French, F. S., Van Wyk, J. J., Baggett, B., Easterling, W. E., Talbert,
+L. M., Johnston, F. R., Forchielli, E. & Dey, A. C. (1965) J. Clin.
+Endocrinol. Metab. 26, 493-503.
+19. Strickland, A. L. & French, F. S. (1969) J. Clin. Endocrinol. Metab. 29,
+1284-1286.
+20. Hughes, I. E., Evans, B. A. J., Ismail, R. & Mathews, J. (1986) J. Clin.
+Endocrinol. Metab. 63, 309-314.
+21. Gottleib, B., Kaufman, M., Pinsky, L., Leboeue, G. & Sotos, J. F. (1987)
+J. Steroid Biochem. 28, 279-284.
+22. Ainman, J., Griffin, J. E., Gazak, J. M., Wilson, J. D. & MacDonald,
+P. C. (1979) N. Engl. J. Med. 300, 223-227.
+23. Giguere, V., Hollenberg, S. M., Rosenfeld, M. G. & Evans, R. M. (1986)
+Cell 46, 645-652.
+24. Kumar, V., Green, S., Stack, G., Berry, M., Jin, J.-R. & Chambon, P.
+(1987) Cell 51, 941-951.
+25. Dobson, A. D. W., Conneely, 0. M., Beattie, W., Maxwell, B. L., Mak,
+P., Tsai, M.-J., Schrader, W. T. & O'Malley, B. W. (1989) J. Biol. Chem.
+264, 4207-4211.
+26. Brown, T. R., Lubahn, D. B., Wilson, E. M., Joseph, D. R., French,
+F. S. & Migeon, C. J. (1988) Proc. Natl. Acad. Sci. USA 85, 8151-8155.
+27. Mullis, K., Faloona, F., Scharf, S., Saiki, R., Horn, G. & Erhlich, H.
+(1986) Cold Spring Harbor Symp. Quant. Biol. 51, 263-273.
+28. Brown, T. R., Maes, M., Rothwell, S. W. & Migeon, C. J. (1982) J. Clin.
+Endocrinol. Metab. 55, 61-69.
+29. Wilkins, L. (1965) in The Diagnosis and Treatment of Endocrine Disorders in Childhood and Adolescence (Charles C Thomas, Springfield, IL),
+pp. 321-322.
+30. Devereux, J., Haeberli, P. & Smithies, 0. (1984) Nucleic Acids Res. 12,
+387-395.
+31. Rivarola, M. A., Saez, J. M., Meyer, W. J., Kenny, F. M. & Migeon,
+C. J. (1967) J. Clin. Endocrinol. 27, 371-378.
+32. Amrhein, J. A., Meyer, W. J., Jones, H. W., Jr., & Migeon, C. J. (1976)
+Proc. Natl. Acad. Sci. USA 73, 891-894.
+33. Breathnach, R. & Chambon, P. (1981) Annu. Rev. Biochem. 50, 349-383.
+34. Pratt, W. B., Jolly, D. J., Pratt, D., Hollenberg, S. M., Giguere, V.,
+Cadepond, F. M., Schweizer-Groyer, G., Catelli, M.-G., Evans, R. M.
+& Baulieu, E.-E. (1988) J. Biol. Chem. 263, 267-273.
+35. Youssoufian, H., Kazazian, H. H., Jr., Phillips, D. G., Aronis, S.,
+Tsiftis, G., Brown, V. A. & Antonarakis, S. E. (1986) Nature (London)
+324, 380-382.
+36. Tsai, S. Y., Carlstedt-Duke, J., Weigel, N. L., Dahlman, K., Gustafsson, J.-A., Tsai, M.-J. & O'Malley, B. W. (1988) Cell 55, 361-369.
+37. Kumar, V. & Chambon, P. (1988) Cell 55, 145-156.
+38. Webster, N. J. G., Green, S., Jin, J. R. & Chambon, P. (1988) Cell 54,
+199-207.
+39. Kuiper, G. G. J. M., Faber, P. W., van Rooij, H. C. J., van der Korput,
+J. A. G. M., Ris-Stalpers, C., Klaassen, P., Trapman, J. & Brinkmann,
+A. 0. (1989) J. Mol. Endocrinol. 2, R1-R4.
+
+

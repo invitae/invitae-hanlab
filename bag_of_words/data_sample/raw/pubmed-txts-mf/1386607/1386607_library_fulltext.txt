@@ -1,0 +1,1731 @@
+An Unusual Splicing Mutation in the HEXB Gene Is Associated with Dramatically
+Different Phenotypes in Patients From Different Racial Backgrounds
+Beth McInnes, * Michel Potier,t1 Nobuaki Wakamatsu,11 Serge B. Melancon,
+Mans H. Klavins,* Shoji Tsuji,11 and Don J. Mahuran*§hI
+*Research Institute, Hospital for Sick Children; tService de Gengtique Mgdicale, H6pital Sainte-Justine, Universite de Montreal,
+Montreal, Quebec, Canada; ODepartment of Clinical Biochemistry, University of Toronto, Toronto, Ontario, Canada M5G IX8;
+and I1Department of Neurology, Brain Research Institute, Niigata University, Niigata, Japan
+*
+
+Abstract
+Sandhoff disease is caused by mutations affecting the (3 subunit
+of lysosomal fl-hexosaminidase (EC 3.2.1.52) and displays a
+wide spectrum of clinical phenotypes. We report a 57-year-old
+patient with a very mild phenotype, although residual hexosaminidase A activity in his cultured fibroblasts was < 3% of
+normal activity, a level observed in juvenile onset patients.
+Northern and Western blot analyses confirmed a similar low
+level of d subunit-mRNA and mature fl-protein, respectively.
+Two mutations of the HEXB gene were identified in this patient, a partial 5' gene deletion (a null allele), and a C -- T
+transition 8 nucleotides downstream from the intron 10/exon
+11 junction affecting the splicing of the (3 subunit-mRNA. In
+their homozygous forms, the 5' deletion has been previously
+shown to result in a severe infantile phenotype, and the C -0 T
+transition in a juvenile phenotype. The genotype and the low
+level of residual hexosaminidase A activity would be expected
+to produce a juvenile Sandhoff phenotype in this patient, as
+well as in four of his six clinically normal siblings. The biochemical basis of his mild phenotype is uncertain, but may result
+from genetic variations in the RNA splicing machinery. (J.
+Clin. Invest. 1992. 90:306-314.) Key words: hexosaminidase.
+Sandhoff disease * GM2 gangliosidosis lysosomal enzyme *
+storage disease
+-
+
+Introduction
+There are two major (-hexosaminidase isozymes in normal
+human tissues, hexosaminidase A (af) and hexosaminidases B
+(33). Tay-Sachs disease is caused by mutations in the HEXA
+gene which encodes the a subunit unique to hexosaminidase A.
+Sandhoff disease results from HEXB gene mutations which
+affect the common a subunit. Thus, patients with Sandhoff
+disease have deficiencies of both isoenzymes. The small
+amount of residual enzyme activity (< 1%) in tissues of these
+patients is from the labile a homodimer, (3-hexosaminidase S
+(aa) . The stored substrate responsible for the severe neurological disorders characteristic of hexosaminidase A deficiencies is
+GM2 ganglioside. The a subunit supplies the catalytic site for
+Address correspondence to Don J. Mahuran, PhD, The Hospital for
+Sick Children, Research Institute, 555 University Avenue, Toronto,
+Ontario, Canada M5G 1X8.
+Receivedfor publication 21 October 1991 and in revisedform 10
+March 1992
+J. Clin. Invest.
+© The American Society for Clinical Investigation, Inc.
+
+0021-9738/92/08/0306/09 $2.00
+Volume 90, August 1992, 306-314
+306
+
+GM2 hydrolysis (assayable with the artificial substrate 4-methylumbelliferone-(3-N-acetylglucosamine-6-sulfate [4-MUGS])
+(1 ), and the (3 subunit confers stability to the active dimer. The
+(3subunit also contains an active site that is primarily responsible for hydrolyzing neutral substrates; e.g., oligosaccharides
+(assayable with the artificial substrate 4-methylumbelliferone-
+
+fl-N-acetylglucosamine [4-MUG]) ( 1 ) which are stored and/
+or excreted in elevated amounts only in Sandhoff disease (reviewed in [2, 3]).
+Like other lysosomal storage diseases, Sandhoff disease presents a wide range of clinical phenotypes, from the most severe
+infantile form (reviewed in [2 ]) to an adult form in which the
+primary symptoms are progressive motor neuronopathy (4)
+(Table I). Sandhoff suggests that as little as 10% of the normal
+level of hexosaminidase A is compatible with a normal life; i.e.,
+
+it represents the "critical threshold" of activity necessary to
+prevent GM2 storage, and that patients with the infantile onset
+form lack any residual activity towards GM2 ganglioside. Variations within the 1-10% range ofnormal activity may be responsible for the majority of the less severe phenotypes (2, 5, 6).
+There have been more than a dozen mutations in the
+HEXA gene described (reviewed in [3, 7]). However, only a
+few HEXB mutations have been characterized. Surprisingly,
+one of these, a 16-kb deletion of the 5' end, accounted for 27%
+of the Sandhoff alleles we analyzed (8). This deletion allele is
+incapable of transcription due to the absence of the 5' promoter
+region, and in the homozygous form (line GM 294, Table I)
+produces a severe infantile phenotype (9). A patient with the
+juvenile phenotype (line GM 2094, Table I) was found to be a
+genetic compound of the deletion mutation (8) and a G -) A
+transition in intron 12. The latter creates an alternate splice site
+and the inframe insertion of eight codons; i.e., 24 nucleotides
+(10, 11 ). A third mutation, found in an asymptomatic individual with low enzymatic activity, involves a duplication of a
+region encompassing the junction of intron 13 and exon 14.
+This defect generates an alternate splice site and an inframe
+insertion of six codons ( 1). In the juvenile and asymptomatic
+individuals, a low level of properly spliced (3 subunit-mRNA
+(which would produce preprofl-polypeptides with the normal
+(3-primary structure), produces 3-6% and 9-10% of normal
+hexosaminidase A activity, respectively ( 11).
+Recently, a novel splicing mutation has been identified in a
+Japanese patient with juvenile Sandhoff phenotype (Japanese
+patient, Table I). The patient, whose parents were first cousins,
+was shown to be homozygous for a C -) T transition in exon
+1. Abbreviations used in this paper: CRM, cross-reactive material;
+MCBs, membraneous cytoplasmic bodies; 4-MUG, 4-methylumbelliferone-,B-N-acetylglucosamine; 4-MUGS, 4-methylumbelliferone-(3-Nacetylglucosamine-6-sulfate; PCR, polymerase chain reaction.
+
+McInnes, Potier, Wakamatsu, Melancon, Klavins, Tsuji, and Mahuran
+
+11. This mutation, located eight nucleotides downstream from
+the intron IO/exon 11 junction, impaired mRNA splicing.
+Two abnormally spliced transcripts were characterized and
+shown to produce premature stop codons, which are presumably responsible for their instability ( 12). A small amount of
+normally spliced mRNA was detected in the patient's cells.
+Because of the C - T transition, the resulting polypeptide
+contained an amino acid substitution, Pro417 -> Leu. A second
+mutation was also found, an A -* G transition in exon 2. This
+mutation, which results in conversion of Lys121 - Arg, was
+thought to be a benign polymorphism, for COS cell expression
+of a fl-cDNA encoding both the Lys,212 Arg and the Pro417 -O
+Leu substitutions produced levels of intracellular hexosaminidase B activity similar to that of the wild type cDNA. The
+authors concluded that the splicing mutation (intron IO/exon
+11 C -- T transition) alone is responsible for the observed
+clinical phenotype ( 12).
+In this report, we describe a patient with a very mild disease
+(line 2557, Table I) whose genotype and low residual enzymatic activity was considered predictive of much more severe
+juvenile Sandhoff disease. We demonstrate that the patient is a
+genetic compound of the infantile 5' deletion mutation (8) and
+the juvenile intron IO/exon 11 C - T mutation. The patient's
+fibroblasts contain < 10% of normal # subunit-mRNA levels
+and are totally deficient in hexosaminidase B activity; however,
+they retain 2% of normal hexosaminidase A activity. Despite
+these data, this individual is 57 years old and has few clinical
+symptoms. Enzyme analysis of the patient's six clinically unaffected siblings indicated that four of them (ages 51-62 yr) are
+also genetic compounds for the same two Sandhoff alleles. The
+variable phenotype associated with the intron 10/exon 11 C -*
+T transition indicates that other unidentified factors determine
+the pathological outcome of this mutation. We speculate that
+the severity of the effect of the mutation on the levels of properly spliced f subunit-mRNA may be determined by individual variations in the RNA splicing machinery.
+
+Methods
+Case report. The subject was a 57-yr-old non-Jewish French-Canadian
+who presented in 1986 with a 9-yr history of severe watery diarrhea,
+intermittent moderate and diffuse abdominal pain, 17-kg weight loss
+over a 7-yr period, and increasing weakness. Cholecystectomy was
+carried out 6 yrs previously without any improvement.
+The only other abnormalities found during physical examination
+were lower limb hyperreflexia and impaired thermal sensitivity of legs
+and arms. The patient also reported a few episodes of faintness and
+dizziness, usually improving in the supine position but occasionally
+leading to syncope, intolerance to warm weather due to impaired
+sweating, impaired sexual function since 1975 and complete impotence since 1978, and mild urinary incontinence. These findings suggested some impairment of the autonomic nervous system.
+Extensive investigations of the gastrointestinal tract carried out between 1980 and 1984 (six hospitalizations), including upper gastrointestinal endoscopy and colonoscopy with biopsies, retrograde cholangiopancreatography, barium studies of the upper gastrointestinal tract,
+abdominal ultrasound and computed tomographic scan, and extensive
+hormonal work up, were all normal. [14C]Cholylglycine breath test
+suggested accelerated intestinal transit speed. '4C excretion peaked
+early (3 h after ingestion; normal 4-6 h), and its total excretion was
+9.3% of the ingested dose (normal 4%).
+A rectal biopsy taken at the H6pital Saint-Lazare, Paris, France in
+1986, and reviewed by Pr. Modigliani, showed the presence of membranous cytoplasmic bodies (MCBs) in the intestinal neurons. The
+
+patient was referred to the Service de Genetique Medicale, H6pital
+Sainte-Justine, Universite de Montr6al, for further study.
+The patient (II-7, Fig. 1 ) is one of seven siblings. One of his sisters,
+age 58 (11-3, Fig. 1), has also complained of diarrhea for the last 10 yr
+and of postural dizziness for 5 yr. Clinical investigations similar to
+those described above were carried out with normal results. There has
+been no reported change in the state of our patient or any ofhis siblings
+during the past 5 yr.
+Measurements of residual hexosaminidase isozymes and urinary
+oligosaccharides. Fibroblasts (three T-75 flasks) derived from normal
+individuals and patients with Sandhoff disease were harvested and
+lysed in buffer that contained 50 mM Tris-HCl pH 7.5, 10 4M DTT,
+10-3M EDTA, and 5% glycerol within 3 wks of reaching confluence.
+Protein was determined by the method of Lowry. Separation of the
+fl-hexosaminidase isozymes (Hex B, Hex A, and Hex S) was accomplished by chromatofocusing and the hexosaminidase activity in each
+fraction determined by assay with 4-MUG as previously reported (4,
+9). Alternatively, hexosaminidase A (aB) and B ((3j3) were separated
+from hexosaminidase S (aa) by immunoprecipitation with sheep anti# antiserum coupled to Protein G Sepharose (Pharmacia Fine Chemicals, Div. of Pharmacia Inc., Piscataway, NJ) as previously described
+( 13 ). The hexosaminidase A bound to the beads was assayed directly
+using the a-specific substrate 4-MUGS ( 14). The total precipitated
+hexosaminidase activity (A and B) was assayed with the common 4MUG substrate. The hexosaminidase isozymes in plasma and leucocytes were assayed with 4-MUG by the thermodenaturation assay
+method ( 15). Oligosaccharides in a 24-h urine collection were determined by thin-layer chromatography ( 16).
+
+Western blot analysis. Samples ofcell lysates (Table I) were individually mixed with sample buffer containing 3% SDS and 25 mM DTT,
+and incubated at 60'C for 15 min. The proteins in each sample were
+separated by SDS-PAGE using the Laemmli gel system ( 10% gel) ( 17 ).
+The proteins were transferred to nitrocellulose overnight ( 13 ). Nitrocellulose was blocked by exposure to 5% skim milk in Blotto (10 mM
+Tris base, 150 mM NaCI, 0.05% Tween 20, pH 7.5) for 4 h with gentle
+shaking, then incubated with a 1:800 dilution ( 1% skim milk in Blotto)
+of rabbit anti-# IgG, overnight. Nitrocellulose was washed 4x with 1%
+skim milk in Blotto and incubated with a 1:10,000 dilution ( 1% skim
+milk in Blotto) of goat anti-rabbit IgG/horse radish peroxidase conjugated (Sigma Chemical Co., St. Louis, MO) for 1 h. The nitrocellulose
+was then washed 4X 15 min with 1% skim milk in Blotto, quickly
+rinsed with Blotto (no skim milk), and dried between filter papers. It
+was then incubated in equal volumes of Detection reagent 1 and Detection reagent 2 (ECL system; Amersham Corp., Arlington Heights, IL)
+for precisely 1 min, dried briefly on filter papers, covered with Saran
+wrap, and exposed to Hyperfilm-ECL (Amersham) for 1 min.
+Cell culture. Fibroblast cells were cultured in a-minimal essential
+medium (MEM; Flow Laboratories) supplemented with streptomycin,
+penicillin (100 mg/I each), and 10% fetal calf serum at 370C under
+5% CO2.
+Preparation of genomic DNA. Cultured fibroblast cells, grown to
+confluency in 6 X 150 cm2 culture dishes, were harvested in PBS by
+scraping with a rubber policeman. The cells were centrifuged at 2,000
+rpm for 10 min and the pellet resuspended in 2 ml TE buffer (10 mM
+Tris-HCI, pH 8/1 mM EDTA). An equal volume of TE/0.2% SDS
+was added and the tube inverted gently to lyse the cells. The DNA was
+extracted with phenol, precipitated with ethanol, and resuspended in
+distilled H20 to 0.5% ughld for amplification by polymerase chain
+reaction (PCR).
+Preparation of whole cell RNA. Total cellular RNA was prepared
+from cultured fibroblast cells by the guanidinium isothiocyanate
+method ( 18) followed by CsCl ultracentrifugation. Northern blot analysis was carried out as previously reported (4, 9).
+Reverse transcription ofRNA. Single-stranded cDNA was prepared
+from 6 ,g total cellular RNA by incubation at 420C for 60 min with 25
+U of avian myeloblastosis virus reverse transcriptase (AMV-RT; Bethesda Research Laboratories, Gaithersburg, MD), 5 U of RNAguard' (Pharmacia. LKB Biotechnologies) and 0.5 gg oligo-dT in 50
+
+A Novel Splicing Mutation Associated with Different Phenotypes
+
+307
+
+10 mM MgCl2, 28
+mM f3-mercaptoethanol, 0.5 mM each offour dNTP's. The cDNA was
+precipitated by the addition of 1/ 10 vol 3 M sodium acetate (pH 4.8)
+and 2 vol of absolute ethanol, vacuum desiccated, and resuspended in
+50 Ml sterile distilled H20 for amplification by PCR.
+PCR. Amplification of exonic and intron/exon junctions from genomic DNA, and cDNA segments was performed by the PCR procedure, using the oligonucleotide primers as described previously (12).
+The reactions were performed in 100 Ml vol containing 0.1-0.5,Mg genomic DNA or 2 Ml cDNA, 10 mM Tris-HCl (pH 8.3), 50 mM KCl, 1.5
+mM MgCl2, 0.0 1% gelatin, 200,uM each offour dNTP's, 0.5 Mg of each
+primer and 2.5 U AmpliTaq. Taq polymerase. Amplification was
+achieved by incubation in a DNA Thermal Cycler" (Perkin Elmer
+Cetus Instrs., Norwalk, CT) for 30 cycles, each consisting of a denaturation step at 94°C for 30 s, an annealing step at 55°C-65°C (usually at
+5°C below the melting temperature (Tm) of the primers) for 30 s and
+an extension step at 72°C for 1.5-3 min (depending on the length of
+DNA to be amplified). 1 / 10th of the amplified products were analyzed
+by agarose gel electrophoresis. All splice junctions and exonic sequences of the HEXB gene from cultured fibroblasts of patient 2557
+were amplified and sequenced.
+The region around exon 11, found to be heterozygous for the
+Pro417 -* Leu mutation in genomic DNA was amplified by PCR using
+oligonucleotides "528" (3' intron 9, sense; 5'-CACCTCTCAAAATGCAAGAA-3') and "529" (5', intron 11, antisense; 5'-AATGGTTGCTTCACTTACCA-3'). Oligonucleotide "52" (5'-CTCCAATCTTGTCCATAGCT-3') was used as a primer for direct
+sequencing. A fragment of cDNA containing this region ofexon 11 was
+amplified by PCR using primers " 18" (sense; 5 '-TGTTGGGAATCAAATCCAAAA-3') and "13" (antisense; 5'-CAGTCTGT-
+
+Al vol of 0.1 M Tris-HCI (pH 8.3), 140 mM KCl,
+
+CATAGGCGTCAT-3').
+Genomic DNA from fibroblasts of a normal control and the subject
+was amplified by PCR using oligonucleotides "2- 1 " (3' intron 1, sense;
+5'-GAGTTAACTACAATGTTACTAG-3') and "2-2" (5', intron 2,
+antisense; 5'-GGAAGCTTAATAGGAATCATAAACTC-3'; a Hind
+III site in the primer is underlined) in the region of exon 2 where the
+Japanese patient was previously reported to have a second Lys121 -0
+Arg substitution, as well as the same Pro417 -- Leu mutation (12) we
+now report in our patient, 2557 (see Results). The product was sequenced directly using oligonucleotide 2-1 as primer. An area in exon 6
+of genomic DNA from our patient, line 2557, was amplified and directly sequenced with primers "891" (3', intron 5, sense; 5'-AGACATATGGAAGGAATTCCAA-3'; an EcoRI site in the primer is underlined) and "892" (5', intron 6, antisense; 5'-AACTTGTAATGAAACTATACCCA-3'). cDNA was amplified in this region by PCR with
+primers "15" (sense; 5'-GGTTTCTACAAGTGGCATCA-3') and
+"10" (antisense; 5'-ATGTTGTATTCAGAGTAGGG-3').
+Direct sequencing. In preparation for sequencing, DNA amplified
+by PCR was purified from unincorporated primers and extraneous
+bands by electrophoresis in an 8% polyacrylamide gel. The DNA was
+excised and eluted overnight with shaking incubation at room temperature in distilled H20. DNA was freed of traces of acrylamide by passage
+through siliconized glass wool and precipitated twice by addition of
+1 / 10 vol sodium acetate (pH 4.8) and 2 vol absolute ethanol.
+DNA was resuspended in 10 Ml distilled H20. Direct sequencing
+was performed on 2-5 M1 samples with [ a 35SIdATP using a modification of the Sequenase" protocol (United States Biochemical Corp.
+Cleveland, OH), by supplementing all buffers with 10% DMSO and 50
+MM NaCl, as described by Winship (19). Samples were electrophoresed
+in 6% polyacrylamide/ urea gels.
+
+Results
+The identification of MCBs in the patient's intestinal neurons
+led to the investigation of residual hexosaminidase levels (by
+the standard thermodenaturation assays [ 15 ]) in plasma (Fig.
+1). The results indicated that he, as well as four of his six sib308
+
+II
+
+396
+
+5%
+
+15%
+1
+
+(29
+
+)1
+
+44
+
+462
+
+52
+
+3%
+
+20%
+
+7%
+
+(24 yrs)
+
+52
+
+5%
+(26 yrs) 6 (28 yrs)
+
+3
+
+III
+342
+15%
+
+258
+11%
+
+342
+15%
+
+390
+22%
+
+282
+19%
+
+336
+30%
+
+Figure 1. Pedigree of the subject (arrow) and his family. Ages in years,
+total plasma hexosaminidase activity, and the percent of the activity
+that is heat stable, (i.e., hexosaminidase B) is given for each family
+member. Based on these assays, each individual is assigned a status,
+i.e., normal (open symbol), carrier of one mutant HEXB allele
+(striped symbol), and carrier of two mutant HEXB alleles (solid
+symbol). The mother of our patient (1-2) is deceased, but is assumed
+to have been a carrier, thus the different striped pattern. Normal
+mean = 822 nmol/h per ml (total plasma hexosaminidase activity,
+4-MUG); and 26% hexosaminidase B; normal range = 552-1374
+nmol/h per ml, and 18-31% hexosaminidase B (by thermodenaturation).
+
+lings, had total hexosaminidase levels within the range of patients with Sandhoff disease. Of these siblings, only II-3 has
+shown some symptoms similar to those of our patient (see case
+report); the others were asymptomatic.
+The above activity data led to a more quantitative evaluation of the hexosaminidase isozymes in fibroblasts (line 2557)
+from our patient, as well as an estimation of the relative steady
+state level of mature (i.e., lysosomal, fi subunit protein [Western blot]). These data were compared to those obtained from
+the fibroblasts of other patients with known genotypes and phenotypes (GM 2094, juvenile; 2400, adult; 2399, adult; and GM
+294 infantile; Table I). The chromatofocusing separation of
+the hexosaminidase isozymes from four of these cell lines
+(2557, GM 294, GM 2094, and 2400) is shown in Fig. 2. The
+isozyme pattern from our patient's cell lysate was virtually
+identical to that of cell line GM 2094 from the juvenile Sandhoffpatient. Both of these lines clearly produced more residual
+hexosaminidase A than did the infantile/deletion line, GM
+294, and less than the cell line from the adult Sandhoff patient,
+2400. The quantitation of the enzymatic activity levels is presented in Table II (Chromatofocusing). These results were corroborated by a solid state assay that selectively immunoprecipitates hexosaminidase A and B, but not hexosaminidase S (aa),
+with an anti-,B antiserum (20), and then quantitates both isozymes using the common 4-MUG substrate, or quantitates
+hexosaminidase A alone using the a-specific 4-MUGS as a substrate (Table II, Immunoprecipitation). Mature fl subunits
+contained in lysates from all four patients' fibroblasts were undetectable when compared with similar amounts of total protein from a normal cell lysate (data not shown). However,
+when the amount of lysate protein loaded from the patients'
+cells was increased 20-100-fold over that loaded from the normal cell lysate, mature f, protein in the 28-kD range (13) was
+detectable (Fig. 3). As was the case with the enzymatic activity,
+when the variation in total protein load was taken into account
+similar amounts of f protein were present in lysates from our
+patient's cells and those from line GM 2094, larger amounts
+
+McInnes, Potier, Wakamatsu, Melancon, Klavins, Tsuji, and Mahuran
+
+Table I. Summary of Clinical, Biochemical, and Genetic Data
+Cell line phenotype
+references
+
+MCBs in:
+++++*
+
+Oligosaccharide
+excretion
+Involvement
+Motor neurons
+Neurological
+Autonomic nerves
+Residual Hex A
+Activity in
+Fibroblasts
+Mutations
+Allele # 1
+
+Results
+mRNA
+Mature jl-CRM
+
+GM 2094
+juvenile
+(5,8-11)
+
+GM 294
+infantile
+(8,9)
+
+2400/2399
+(sisters)
+adult
+(4,8)
+
+Peripheral nerve axons Appendiceal ganglion
++
+~~+
+
+2557 (subject)
+novel
+(8,thisreport)
+
+Japanese patient
+juvenile
+(12)
+
+Rectal biopsy
+
+Rectal biopsy
+++
+
+++++*
+
+++
+
++
+
+++++*
+++++*
+NR
+
+NR
++++
+
+NR
+
++
++
++
+
++
+
++
++
+
+0%
+
+2.5%
+
+21%
+
+2.4%
+
+8V
+
+16 kb deletion
+C -G exon 69
+Null allele
+
+16 kb deletion
+C - G exon 68
+Null allele
+
+16 kb deletion
+C - G exon 68
+Null allele
+
+16 kb deletion
+C - G exon 6
+Null allele
+
+None
+None
+
+None
+None
+
+None
+None
+
+None
+None
+
+16 kb deletion
+C -. G exon 61
+
+G - A intron 12
+
+Not determined
+
+C- T exon 11
+(no exon 2 A -* G)
+
+C T exon 11
+A G exon 2**
+Misspliced, unstable
+mRNA
+Reduced levels
+Reduced levels
+Pro417 -s Leu11
+Lys121 -. Arg**
+C T exon 11
+A G exon 2**
+
+Null allele
+
+Misspliced stable
+
+Misspliced unstable
+
+Misspliced unstable
+
+None
+None
+
+mRNA
+Normal levels
+Reduced levels'
+None', i.e., normal
+
+mRNA
+Reduced levels
+Reduced levels'
+Pro417 -. LeuI1
+
+mRNA
+Reduced levels
+Reduced levels'
+
+Substitution(s)
+Allele #2
+
+Results
+mRNA
+Mature fl-CRM
+
+Substitution(s)
+
++
+
++
+
+primary structure'
+
+Normal levels
+Reduced levels
+Not determined
+
+Pro417
+
+Lys,21
+
+XLeu 1
+Arg**
+
+NR, not reported. * Based on the classical infantile Sandhoff phenotype (Table III, reference 4). * This value was determined by Wakamatsu et
+al. (12). 1 Indicate the highly probable, but experimentally unproven presence of the mutation. Demonstrated by Wakamatsu et al. not to
+affect the function of the a-protein (12). ' Translated from a small amount of properly spliced ,B subunit mRNA. ** Demonstrated in this report
+and by Wakamatsu et al. to be a normal polymorphism (12).
+
+were found in line 2400, and no , protein was detected in the
+deletion line GM 294.
+The enzymatic and Western blotting data indicated the
+presence of mutation(s) in the patient's HEXB gene. In order
+to predict the type of mutation(s) that could be present we
+determined the levels of a and is subunit-mRNA in the patient's fibroblasts by Northern blotting. Fig. 4 (panels "(3Hexosaminidase, a-chain" and "fl-Glucuronidase") demonstrates that levels of a-mRNA transcribed by the HEXA gene
+and the control mRNA (encoding fl-glucuronidase (21) were
+similar in the patient's cell line (lane 4), those of the normal
+control (lane 1), and those from two sisters with adult onset
+Sandhoff disease (lines 2399 and 2400; lanes 2 and 3) (4).
+However, the level of ft subunit-mRNA in our patient's cells
+was decreased to less than 10% of normal levels (Fig. 4, fl-Hexosaminidase, ,8-chain, lane 4). We initially determined that our
+patient (line 2557) and the adult Sandhoff patients are heterozygous for the common partial 5' end deletion mutation (8).
+As we have noted (8), Northern blotting at the level of exposure seen in Fig. 4 cannot detect differences in levels . 50% of
+normal mRNA; i.e., the adult-onset patients appear to have
+
+normal levels of (3 subunit-mRNA. However, the severely reduced level of( subunit-mRNA in our patient's cells, which is
+similar to the levels of residual enzymatic activity and fl-crossreactive material (CRM), suggest that his second allelic mutation primarily exerts its detrimental effect by lowering the level
+of( subunit-mRNA.
+In order to identify the patient's second HEXB gene mutation, all exons and intron/exon junctions from his genomic
+DNA were amplified by PCR and the resultant DNA sequenced directly. Only two changes from the normal sequence
+were found, both in a heterozygous form. The first was a C G transition in the codon for Ser243 in exon 6, which would
+result in its substitution by Cys (data not shown). The second
+was a C -. T transition in the codon for Pro417 in exon 11 (Fig.
+5). This transition was the same mutation found in a homozygous form in cells from the Japanese juvenile Sandhoff patient
+with reduced (3 subunit mRNA levels (Table I). We suspected
+the intron 10/exon 11 C -- T transition to be directly responsible for the lower (3 subunit mRNA levels in our patient. The
+C -- G transition in exon 6 could result in a silent polymorphism or be present on the exon 1-5-deleted allele.
+A Novel Splicing Mutation Associated with Different Phenotypes
+
+309
+
+Hex AHJ
+
+Phlenlotype
+
+*
+
+100
+
+8
+
+80
+
+co
+
+Cell Lines #
+
+80-o-4
+
+60
+
+=
+
+40-
+
+w
+X
+
+20-
+
+pH
+
+N
+
+A
+
+G
+M
+2
+0
+9
+4
+
+10
+
+20
+
+30
+
+40
+
+50
+
+I
+
+0
+
+2
+3
+9
+
+5
+
+0
+
+9
+
+7
+
+G
+M
+2
+9
+4
+
+2
+4
+
+P.M.
+
+0
+
+A
+
+bx
+
+:-"4
+
+2
+5
+
+:.:.,.~
+
+60
+
+Fraction Number
+
+Figure 2. Chromatofocusing elution profiles of the hexosaminidase
+isozymes; activities were obtained from total fibroblast extracts. The
+nmol of 4-MUG hydrolysed per h in each fraction were normalized
+as described in (9), by dividing each value by the total number of
+units of f3-galactosidase activity contained in the cell extract applied
+to the column (X 100) (9). These values were plotted versus the fraction number. Small open circles represent the separation of isozyme
+from one of two previously described adult onset Sandhoff patients,
+cell line 2400 (4), open squares represent the infantile deletion line
+GM 294, juvenile onset line GM 2094 is represented by open diamonds, and closed circles represent the subject of this report (to
+compare these patterns with those obtained for fibroblasts derived
+from normal and carrier individuals see reference [9]).
+
+To determine if the C -> G transversion in exon 6 and/or
+the C -. T transition in exon 11 were transcribed, we analyzed
+the nucleotide sequences of our patient's cDNA in the regions
+of the two substitutions. Amplification of the region encompassing the exon 6 transition produced a single fragment of the
+expected length (data not shown). Direct sequencing of this
+fragment showed that it contained only the nucleotide needed
+to code for the wild type Ser residue (data not shown). Thus,
+the C -* G transition is not transcribed and must reside in exon
+6 of the partially deleted allele. On the other hand, amplifica-
+
+Cell
+line
+
+Phenotype
+
+GM 294
+GM 2094
+2557
+2400
+
+Infantile
+Juvenile
+Subject
+Adult
+
+% Normal*
+Hex B
+Hex A
+
+0
+0
+0
+
+2.1
+
+0
+2.5
+2
+25
+
+Unitst
+Hex S
+
+70
+31
+16
+200
+
+Immunoprecipitation
+% Normal0
+Hex A
+Hex A + B
+
+0
+2.5
+2.7
+16.8
+
+0
+1.1
+
+1.2
+10
+
+*
+Percentage of normal hexosaminidase B (Hex B) or hexosaminidase
+A (Hex A) activity after fractionation by chromatofocusing using
+4-MUG as a substrate (9).
+* nmol 4-MUG/h per mg hydrolyzed by hexosaminidase S (Hex S)
+after fractionation by chromatofocusing (9).
+§ Immunoprecipitated Hex A and B assayed with Hex A-specific
+4-MUGS (Hex A) or the common 4-MUG (Hex A + B) substrates,
+presented as % of normal activity.
+
+310
+
+,Pa-
+
+>-o
+
+Protein
+Loaded (gg):
+
+100;1.4;
+
+25;
+
+50;140;
+
+0
+
+;3.00
+
+Figure 3. Western blot of fibroblast cell lysates; the amount of total
+lysate protein (,ug) from each cell line that was loaded onto the gel
+is indicated at the bottom. Extracts were (left to right) from; cell line
+GM 2094 from a patient with juvenile onset Sandhoff disease (J);
+a normal control (N); cell lines 2400 and 2399 from two sisters with
+adult onset Sandhoff disease (A); cell line 2557 from our patient (the
+subject of this report); and line GM 294 from an infantile onset patient (I) homozygous for the deletion mutation (negative control).
+The positions of the most antigenic 3-polypeptide in the mature f3
+subunit, ,Ba (28 kD) ( 13), with (#a+) or without (fla-) its single oligosaccharide (33), are indicated. Two nonspecific bands present in
+the negative control are marked with *. Note that the mutant prof,protein (> 97% of that translated) in line GM 2094 contains an 8
+amino acid insertion. This protein is trapped and degraded in the endoplasmic reticulum ( 11).
+
+tion of the
+
+Table II. Activities of the Hexosaminidase Isozymes
+in Various Affected Fibroblast Cell Lines
+Chromatofocusing
+
+,Ba+
+
+region containing
+
+the C
+
+-*
+
+T transition at the codon
+
+for Pro417 produced three major fragments (Fig. 6). One, at 425
+bp (P1) was the expected size for properly spliced ,B subunitmRNA. The other two, 313 bp (P2) and 255 bp (P3), were
+similar in size to the two abnormally spliced ,B subunit-mRNA
+species described in fibroblasts from the Japanese patient ( 12).
+P1 was confirmed to be normally spliced subunit-mRNA by
+direct sequencing. Its sequence contained only the mutant "T"
+nucleotide at the codon for Pro417 (Fig. 7 A). As was the case
+with the Japanese juvenile Sandhoffpatient ( 12 ), P2 displayed
+a sequence corresponding to exon 10 spliced to a cryptic site
+mid-way in exon 11 (a TGA premature stop codon is generated
+six nucleotides after the junction (Fig. 7 B) and P3 displayed
+the sequence of exon 10 spliced directly to exon 12 (Fig. 7 B) (a
+premature stop codon would be generated 171 nucleotides
+after the junction).
+The cloned genomic DNA from the Japanese juvenile
+Sandhoff patient was also reported to contain a point mutation
+that would result in a Lys121
+Arg substitution (Table I);
+evidence was presented that this most likely represents a nor-
+
+McInnes, Potier, Wakamatsu, Melancon, Klavins, Tsuji, and Mahuran
+
+-*
+
+B - Hexosaminidase
+
+intron 10
+
+1
+
+1I
+
+[3 -chain
+1
+
+2
+
+3 4
+
+(x -chain
+1 2 3 4
+
+Leu 415
+
+G A
+
+1234
+
+Gly 418
+
+_
+
+G
+
+-_
+
+V- Glucuronidase
+28s-
+
+18s
+
+Figure 4. Northern blot analysis of total RNA; a normal control, lane
+1; two sisters with adult onset Sandhoff disease (lines 2400 and
+2399), lanes 2 and 3; and our patient (line 2557), lane 4. The blots
+were probed with labeled cDNAs encoding; the preprofl-chain and
+preproa-chain of fl-hexosaminidase, and fl-glucuronidase.
+
+mal polymorphism ( 12). To determine if our patient also harbored this mutation, we amplified genomic DNA from line
+2557 and from normal control leukocytes in the affected region
+of exon 2. As shown by the sequence analysis in Fig. 8, DNA
+from our patient contains only the normal Lys codon 121 (Fig.
+8, Patient). Surprisingly, one of the HEXB alleles from a normal control was found to contain the Arg codon substituted at
+position 121 (Fig. 8, Normal). Fresh serum and leukocytes
+were isolated from the blood of the control individual (R.T.),
+and they both were tested for total hexosaminidase activity and
+percentage of hexosaminidase B (of the total) by the thermodenaturation assay (22, 23). The results from both sources of
+enzyme were in the normal range (Table III). These data confirm that the Lys121 -> Arg substitution is a normal polymorphism. Furthermore, they suggest that the intron 10/exon 11
+C -- T transition mutation in our patient's and the Japanese
+patient's HEXB genes have arisen independently.
+
+Discussion
+Determination of our patient's genotype revealed that he is a
+compound heterozygote for two mutant HEXB alleles. One of
+
+-
+
+-
+
+C
+
+_
+
+le 420
+Val421
+
+G
+
+I
+
+G
+
+A
+
+C
+
+T -
+
+-&an
+
+t
+
+intron 10
+
+|t
+G
+GIA
+
+Leu 415
+
+A
+
+c
+G
+Ala 416
+G
+G/A* Pro/Leu 417
+nofwT
+
+;;~
+
+;
+
+T
+
+Thr 419
+
+sKI,.
+
+C
+
+G
+C
+
+28s
+
+T
+
+Ala 416 x
+Pro 417
+
+1 8s
+
+A
+
+A
+
+~
+
+patient
+
+normal
+
+\
+
+-
+
+-
+
+C
+
+Gly 418
+
+G
+
+Thr 419
+
+C
+I
+
+T
+A
+
+T
+A_
+\A
+
+I
+C
+
+\I
+
+A
+
+\A
+
+A
+
+Ile 420
+Val 421
+
+Figure 5. Autoradiogram of a 6% polyacrylamide/urea gel showing
+anti-sense sequence obtained for genomic DNA; from a normal individual and from patient 2557 at the intron lO/exon 11 junction. Patient 2557 is heterozygous for a C - T transition at the codon for
+Pro4W7 in exon 11 (indicated by * as a G -- A transition in the antisense sequence). This results in the substitution of a Leu codon.
+
+these we previously reported to be the common Sandhoff 5'
+deletion allele which is not transcribed (8). Direct sequencing
+of PCR fragments from genomic DNA and cDNA revealed
+that the mutation in our patient's second HEXB allele is a C ->
+T transition 8 nucleotides downstream from the intron 10/
+exon 11 junction (Fig. 5). This mutation in the homozygous
+form was shown to impair ,3 subunit-mRNA splicing in a Japanese patient with juvenile onset Sandhoff disease (12). The
+accompanying amino acid substitution, Pro4,7 -. Leu was
+shown to be a neutral change. It was demonstrated to have no
+detrimental effects on hexosaminidase B activity in transfected
+COS cells, and quantitation of the fl-mRNA (8% of normal)
+correlated with the residual 8% activity level found in the Japanese patient's fibroblasts ( 12). However, amplification of this
+region of our patient's cDNA produced three fragments (Fig.
+6). The largest represented the properly spliced # subunitFigure 6. 8% polyacrylamide gel showing
+.C
+PCR-amplified cDNA
+Eg
+L_
+U
+samples; from the paU
+0.
+tient 2557 and a normal
++
+a
+b p individual. cDNA was
+bp
+prepared by reverse
+- 6,- 5 transcription of mRNA
+cultured fibroa normal line
+blasts
+- 39 and ofofpatient
+4255
+42
+2557.
+cDNA from the plasmid
+3 3pCDfl43 (+ control)
+2 551
+255_ 246 and a reagent blank
+_
+(- control) were amplified in the same man23 ner. The cDNA products from the normal
+cells (425 bp) and from
+the patient cells (425 bp, 313 bp and 255 bp, as shown on the left)
+were subsequently acrylamide gel-purified and directly sequenced.
+Basepair sizes of the 123 bp DNA ladder (BRL) are indicated on the
+O
+
+C
+
+4-J
+
+4-2
+
+L;i
+
+L
+
+I95from
+
+~~~~~
+~~92
+
+right.
+A Novel Splicing Mutation Associated with Different Phenotypes
+
+311
+
+G
+
+A
+A
+
+Phe 409
+
+Asp 410
+
+A1
+
+normal
+
+c
+
+cONA
+
+T
+
+Phe4O9
+
+A
+
+A
+Ah
+A
+
+C
+
+T
+
+0
+
+T
+
+Asp 411
+
+CT
+A
+AT
+
+T
+
+Lys 414
+C
+
+G_
+
+LCU 415
+
+Lea415
+
+A
+A
+
+C
+
+(Sic 119
+
+A
+
+Phe 118
+
+Ai~l
+
+Cla 117
+
+GlC,C
+
+Thr 419
+
+T
+G
+
+lie 420
+
+T
+A
+
+C
+TGr 41)
+T
+
+iv
+
+Ile 4210
+
+A.
+
+B
+AA.
+
+A
+
+Asp 410
+
+TA
+
+Asp 411
+
+T
+
+cX0I1
+10
+
+A
+
+2557
+middle
+
+Phe 409
+Asp 410
+
+10
+
+T
+
+Ilys 412
+AIla41i
+
+G
+
+.Asp 41 1
+
+C
+
+AT
+
+c
+T
+A,
+C
+T
+A
+T
+T
+
+T
+
+T
+
+V
+
+2557
+smallest
+
+A'.
+A
+
+T_
+
+Ala 413
+
+Lys 414
+
+f
+
+v
+
+Lys 414
+
+G
+
+A
+
+T
+
+C
+
+.t..._,,....
+it.
+
+rr
+
+r
+
+T
+
+li
+
+Val
+
+w
+
+A
+
+ecn
+
+Midexon
+
+L~cu
+
+STOP
+
+A
+
+T
+A
+
+G
+
+A^Lrg2
+
+T
+C
+
+Asn
+
+T
+
+exol
+
+Lcu
+
+A
+
+1?
+
+_
+
+T
+
+Ala
+
+T
+T
+
+_
+
+;
+
+Met
+
+T.
+
+Figure 7. Autoradiograms of 6% polyacrylamide/urea gels comparing
+the anti-sense sequences obtained for cDNA; from a normal individual (normal, A) with the three cDNA species obtained from patient
+2557 (largest = 425 bp, A; middle = 313 bp, B; and smallest = 255
+bp, B). The amplified product from normal cDNA was 425 bp, as
+expected. The products were acrylamide gel-purified and sequenced
+directly. The largest cDNA from patient 2557 displays a C -* T transition at the codon for Pro4,7 in exon 11 (indicated by * as a G A transition in the antisense sequence). This results in the substitution of a codon for Leu. In this product, exon 10 is correctly spliced
+to exon 11 (A). The two smaller products display anomalous splicing.
+2557 middle shows exon 10 spliced to a cryptic site midway in exon
+11 (at Asp452), resulting in a frame-shift with a stop codon. 2557
+smallest shows exon 10 spliced to exon 12, to the exclusion of exon
+1 1. This also results in a frame-shift, which introduces a stop codon
+171 bases downstream (A).
+
+mRNA (Fig. 7). The two smaller misspliced mRNA species
+result in premature stop codons that are presumably responsible for their low steady state levels (24-26). The new splice
+sites identified in Fig. 6 were identical to those identified from
+cDNA of the Japanese juvenile Sandhoff patient ( 12).
+The genomic DNA from the Japanese patient also encoded
+a Lys121 -- Arg substitution. COS cell expression studies sug312
+
+T
+
+C /A
+
+Gin 123
+Thr 122
+
+A
+
+Lvs 121
+A
+
+T
+
+_
+
+-~~~~~
+
+G
+
+Ala 120
+
+GSInI
+
+19
+
+c
+\T
+T
+\A
+A
+
+T
+/
+
+A
+A /
+
+Phe I18
+
+Glu 117
+
+Figure 8. Autoradiogram of a 6% polyacrylamide/urea gel showing
+the nucleotide sequence obtained for Normal (R.T) and Patient
+(2557) genomic DNA in the region of the codon for Lys121. Genomic
+DNA from both sources was amplified in the region of exon 2. In
+each case, the product was gel-purified and sequenced directly. R.T.
+is heterozygous for A -* G substitution at codon 121 (denoted by *),
+resulting in one allele encoding Arg12, instead of Lys12, . The patient's
+sample contains only the wild type sequence.
+
+T'
+
+Phn 409
+
+A
+
+1
+
+Pr
+Prco41l7
+
+Cily 410S
+
+_
+
+T
+
+C
+
+cX11
+
+G
+
+C
+e'i
+
+_>
+
+£
+G
+A
+C
+C
+
+Ala 4106
+
+Ala 416{
+
+T
+
+124
+
+G
+
+U..
+_u1--...Im
+
+Ala 120
+
+.r
+I.
+
+Ae
+
+Val
+
+PATIENT
+
+Lvs/Arg 121
+
+1CFN
+414
+AlaA~~~~~a~~~~i3~~~
+
+CiG
+
+ww-..-
+
+Thr 122
+
+T
+r-
+
+T
+
+Ala 413
+
+G A
+
+Cil1 12.
+
+Lvs412
+
+-
+
+NORMAL
+
+G
+
+GA
+
+,
+
+T
+
+Lvs 412
+
+Val 124
+
+largest
+
+Asp410
+
+Gin 125
+
+r
+
+T
+
+2557
+
+*cexon
+
+G A
+
+Asp4ll
+
+10
+
+A
+
+(Gll 125
+
+gested that it does not affect the transport or function of hexosaminidase B ( 12). Furthermore, in this report, we showed that
+the Lys121 -- Arg substitution is present in the normal population. However, we cannot totally rule out the possibility that
+this seeming polymorphism may exert a very small detrimental
+effect on the binding the GM2 activator protein/GM2 ganglioside complex that is only significant in combination with the
+Pro417 Leu substitution; i.e., a cis effect, resulting in the phenotype of the Japanese patient being more severe. This possibility
+seems unlikely as the residue in question, Lys,2,, is not present
+in the mature polypeptide (27), amino terminus Thr,22 (28),
+and a Lys - Arg substitution should not affect proteolytic
+processing. It should also be noted that the pro-hexosaminidase
+A is fully active (29), thus GM2 ganglioside hydrolysis can occur with or without the presence of Lys121 in the 13 subunit.
+Genomic DNA from our patient did not contain the above
+Lys12, -- Arg substitution. This demonstrates that the intron
+1O/exon 11 C - T mutation is present in two different genetic
+backgrounds and, therefore, probably arose independently in
+the Japanese and Caucasian populations. The observation that
+this C -- T transition affects splicing in exactly the same novel
+Table III. Activities of Hexosaminidase Isozymes in an
+Individual (R. T.) Heterozygous For an A -- G Transition in Exon
+2 of the HEXB Gene Resulting in Conversion of Lys,2, -. Arg
+Total hexosaminidase activity
+
+R.T.
+Normal
+
+range*
+
+Serum
+
+Leukocytes
+
+nmol/ml per h
+
+nmol/mg per h
+
+1130
+960-1950
+
+% Hex B (of total activity)
+
+Serum
+
+Leukocytes
+
+1280
+
+25
+
+39
+
+1130-2020
+
+24-40
+
+36-43
+
+* Determined from n = 16 samples assayed the same day at The
+Hospital For Sick Children, Lysosomal Storage Disease Laboratory.
+
+McInnes, Potier, Wakamatsu, Melancon, Klavins, Tsuji, and Mahuran
+
+manner in two HEXB alleles from different genetic backgrounds supports the conclusion that this is indeed the cause of
+the splicing error (thereby precluding the involvement of some
+other unidentified substitution elsewhere in the allele).
+The remaining anomaly is the delayed and mild course of
+the disease in our patient. On the basis of comparison with the
+Japanese patient, one would expect our patient to have a more
+severe phenotype. Biochemical comparisons, such as residual
+isozyme activities and fl-CRM in cultured fibroblasts were also
+predictive of a juvenile onset phenotype. The only clinical evidence of Sandhoff disease in our patient was some indication of
+disturbance of the autonomic nervous system. However, there
+was direct evidence for GM2 ganglioside storage in the observation of MCBs in his intestinal neurons. The same type of MCBs
+were noted in the Japanese juvenile ( 12) and the French-Canadian adult onset patients; e.g., cell line 2400(4). However, the
+Japanese patient and the adult onset patients had additional
+clinical symptoms indicating neurological and/or motor neuron involvement (Table I). Furthermore, our patient was not
+found to excrete detectable amounts of neutral oligosaccharides (data not shown). Both the Japanese patient and the
+adult Sandhoff patients were shown to excrete large amounts of
+these compounds (4, 12) (Table I). As with 4-MUG hydrolysis, oligosaccharide hydrolysis is primarily accomplished by the
+active site of the /3 subunit in hexosaminidase A and B ( 1).
+Thus, it is even more surprising that our patient does not excrete oligosaccharides given the substantially lower residual
+hexosaminidase activity and fl-CRM levels found in his fibroblasts, as compared to fibroblasts from the adult onset Sandhoff patient (Table II). These data suggest that our patient may
+express variable levels of residual activity in different tissues;
+i.e., above the critical threshold in most tissues including the
+brain, kidney, and liver, but below the threshold in others, such
+as intestinal and other autonomic neurons, and fibroblasts.
+The reason for the above variations in phenotypic expression is unclear. One possibility is that tissue-specific differences
+in our patient, and the overall clinical differences between him
+and the Japanese patient, could result from small variations in
+the level of properly spliced /3 subunit-mRNA. The splicing of
+mRNA involves a large number of gene products (reviewed in
+[30 ]) and this mutation is at a site not previously thought to be
+part of the consensus sequence for splice junctions. It has also
+been documented that the normal nucleotide sequence at the
+intron 10/exon 11 junction in the HEXB gene does not fully
+conform to the consensus sequence for a splice junction ( 31 ).
+This is consistent with the observation of some (0.6%) abnormally spliced A subunit mRNA; i.e., P2, in amplified cDNA
+
+from normal fibroblasts ( 12). Many examples of tissue-specific
+differential splicing of mRNAs have been documented (reviewed in [32]) and it is therefore conceivable that different
+tissues are able to splice mRNA with this novel substitution
+better than others. Similarly, there may be small differences in
+the overall splicing machinery between individuals or between
+different racial groups. Whereas such differences may normally
+produce only small variations in a given mRNA level, in this
+circumstance, their effects could be amplified by the presence
+of an unconventional splicing mutation coupled with a very
+small critical threshold of normal /3 subunit translation, > 1020%, necessary to avoid the expression of a Sandhoff phenotype.
+Our observations suggest caution to diagnosticians and genetic counselors dealing with lysosomal storage diseases. Resid-
+
+ual enzyme activity values in plasma or individual tissues may
+accurately reflect the general in vivo activity, particularly
+when a partial mRNA splicing abnormality is the underlying
+cause of the decrease in activity. In these cases, even the determination of the patient's genotype may not result in an accurate prediction of the ultimate phenotype.
+not
+
+Acknowledaments
+The authors thank Dr. Pierre Poitras (H6pital St-Luc, Montreal) and
+Pr. Modigliani (H6pital Saint-Lazare, Paris) for providing some clinical data and bringing this case to our attention. We thank Ms. A. Leung
+for her technical assistance with Fig. 3 and Table II, and Dr. J. Callahan
+and Ms. M.-A. Skomorowski for the data presented in Table III. We
+also thank Drs. B. Triggs-Raine, J. Clarke, and R. McInnes for their
+help in preparing this manuscript.
+This work was supported through a grant (MA-10435) from the
+Medical Research Council of Canada.
+
+References
+1. Kytzia, H.-J., and K. Sandhoff. 1985. Evidence for two different active sites
+human fl-hexosaminidase A. J. Biol. Chem. 260:7568-7572.
+2. Sandhoff, K., E. Conzelmann, E. F. Neufeld, M. M. Kaback, and K. Suzuki. 1989. The GM2 gangliosidoses In The Metabolic Basis of Inherited Disease.
+C. V. Scriver, A. L. Beaudet, W. S. Sly, and D. Valle, editors. McGraw-Hill Inc.,
+New York. pp. 1807-1839.
+3. Mahuran, D. J. 1991. The biochemistry of HEXA and HEXB gene mutations causing GM2 gangliosidosis. Biochim. Biophys. Acta. 1096:87-94.
+4. Rubin, M., G. Karpati, L. S. Wolfe, S. Carpenter, M. H. Klavins, and D. J.
+Mahuran. 1988. Adult onset neuronopathy in the juvenile type of hexosaminidase A and B deficiency. J. Neurosci. 87:103-119.
+5. Wood, S., and B. G. MacDougall. 1976. Juvenile Sandhoff disease: some
+properties of the residual hexosaminidase in cultured fibroblasts. Am. J. Hum.
+Genet. 28:489-495.
+6. Conzelmann, E., and K. Sandhoff. 1984. Partial enzyme deficiencies: residual activities and the development of neurological disorders. Dev. Neurosci. 6:5871.
+7. Neufeld, E. F. 1991. Lysosomal storage diseases. Annu. Rev. Biochem.
+on
+
+60:257-280.
+8. Neote, K., B. McInnes, D. J. Mahuran, and R. A. Gravel. 1990. Structure
+and distribution of an Alu-type deletion mutation in Sandhoff disease. J. Clin.
+Invest. 86:1524-1531.
+9. O'Dowd, B. F., M. H. Klavins, H. F. Willard, R. Gravel, J. A. Lowden, and
+D. J. Mahuran. 1986. Molecular heterogeneity in the infantile and juvenile forms
+of Sandhoff disease (O-variant GM2 Gangliosidosis). J. Bio. Chem. 261:12 68012 685.
+10. Nakano, T., and K. Suzuki. 1989. Genetic cause of a juvenile form of
+Sandhoff disease: abnormal splicing of fl-hexosaminidase E-chain gene transcript
+due to a point mutation within intron 12. J. Biol. Chem. 264:5155-5158.
+11. Dlott, B., A. D'Azzo, D. V. K. Quon, and E. F. Neufeld. 1990. Two
+mutations produce intron insertion in mRNA and elongated fl-subunit of human
+fi-hexosaminidase. J. Biol. Chem. 265:17 921-17 927.
+12. Wakamatsu, N., H. Kobayashi, T. Miyatake, and S. Tsuji. 1992. A novel
+exon mutation in human fi-hexosaminidase fi subunit gene affecting the 3' splice
+site selection. J. Bid. Chem. 267:2406-2413.
+13. Brown, C. A., K. Neote, A. Leung, R. A. Gravel, and D. J. Mahuran. 1989.
+Introduction of the a subunit mutation associated with the B 1 variant of TaySachs disease into the fi subunit produces a fi-hexosaminidase B without catalytic
+activity. J. Biol. Chem. 264:21 705-21 710.
+14. Bayleran, J., P. Hechtman, and W. Saray. 1984. Synthesis of 4-methylumits use in classification of
+belliferyl-beta-D-N-acetylglucosamine-6-sulfate and
+GM2 gangliosidosis genotypes. Clin. Chim. Acta. 143:73-89.
+15. Okada, S., andJ. S. O'Brien. 1969. Tay-Sachs disease: generalized absence
+of a fl-D-N-acetylhexosaminidase component. Science (Wash. DC). 165:698-
+
+700.
+16. Holmes, E. W., and J. S. O'Brien. 1979. Separation of glycoprotein-derived oligosaccharides by thin-layer chromatography. Anal. Biochem. 93:167170.
+17. Laemmli, U. K. 1970. Cleavage ofstructural proteins during the assembly
+of the head of Bactereophage T4. Nature (Lond.). 227:680-685.
+18. Chirgwin, J. M., A. E. Przybyla, R. J. MacDonald, and W. J. Rutter. 1979.
+Isolation of biologically active ribonucleic acid from sources enriched in ribonuclease. Biochemistry. 18:5294-5299.
+
+A Novel Splicing Mutation Associated with
+
+Different Phenotypes
+
+313
+
+19. Winship, P. R. 1989. An improved method for direct sequencing PCR
+amplified material using dimethyl sulphoxide. Nucleic Acids Res. 17:1266.
+20. Brown, C. A., and D. J. Mahuran. 1991. Active arginine residues in #-hexosaminidase: identification through studies of the B1 variant of Tay-Sachs disease. J. Biol. Chem. 266:15 855-15 862.
+21. Guise, K. S., R. G. Korneluk, J. Waye, A.-M. Lamhonwah, F. Quan, R.
+Palmer, R. E. Ganschow, W. S. Sly, and R. A. Gravel. 1985. Isolation and expression in Escherichia coli of a cDNA clone encoding human beta glucuronidase.
+Gene (Amst.). 34:105-1 10.
+22. Kaback, M. M., T. J. Nathan, and S. Greenwald. 1977. Tay-Sachs disease:
+heterozygote screening and prenatal diagnosis-U. S. experience and world perspective In Tay-Sachs Disease: Screening and Prevention. M. M. Kaback, D. L.
+Rimoin, and J. S. O'Brien. Alan R. Liss Inc., New York, pp. 13-36.
+23. Lowden, J. A., M.-A. Skomorowski, F. Henderson, and M. Kaback. 1973.
+Automated assay of hexosaminidase in serum. Clin. Chem. 19:1345-1349.
+24. Takeshita, K., B. G. Forget, A. Scarpa, and E. J. Benz, Jr. 1984. Intranuclear defect in ft-globin mRNA accumulation due to a premature translation
+termination codon. Blood. 64:13-22.
+25. Humphries, R. K., T. L. Ley, A. W. Anagnou, and A. W. Nienhuis. 1984.
+#O-39 Thalassemia gene: a premature termination codon causes fl-mRNA deficiency without affecting cytoplasmic fl-mRNA stability. Blood. 64:23-32.
+26. Myerowitz, R., and F. C. Costigan. 1988. The major defect in Ashkenazi
+Jews with Tay-Sachs disease is an insertion in the gene for the a-chain of #-hexosaminidase. J. Biol. Chem. 263:18 587-18 589.
+
+314
+
+27. Hubbes, M., J. Callahan, R. Gravel, and D. Mahuran. 1989. The aminoterminal sequences in the pro-a and -fl polypeptides ofhuman lysosomal (J-hexosaminidase A and B are retained in the mature isozymes. Febs (Fed. Eur. Biochem. Soc.) Lett. 249:316-320.
+28. Mahuran, D. J., K. Neote, M. H. Klavins, A. Leung, and R. A. Gravel.
+1988. Proteolytic processing of human pro-a hexosaminidase: identification of
+the internal site of hydrolysis that produces the nonidentical P. and flb polypeptides in the mature ,B-subunit. J. Biol. Chem. 263:4612-4618.
+29. Hasilik, A., K. von Figura, E. Conzelmann, H. Nehrkorn, and K. Sandhoff. 1982. Lysosomal enzyme precursors in human fibroblasts. Eur. J. Biochem.
+125:317-321.
+30.Padgett, R. A., P. J. Grabowski, M. M. Konarska, S. Seiler, and P. A.
+Sharp. 1986. Splicing of messenger RNA precursors. Annu. Rev. Biochem.
+55:1119-1150.
+31. Neote, K., B. Bapat, A. Dumbrille-Ross, C. Troxel, S. M. Schuster, D. J.
+Mahuran, and R. A. Gravel. 1988. Characterization of the human HEXB gene
+encoding lysosomal fl-hexosaminidase. Genomics. 3:279-286.
+32. Smith, C. W. J., J. G. Patton, and B. Nadal-Ginard. 1989. Alternative
+splicing in the control of gene expression. Annu. Rev. Genet. 23:527-577.
+33. O'Dowd, B. F., D. Cumming, R. A. Gravel, and D. Mahuran. 1988.
+Isolation and characterization of the major glycopeptides from human fl-hexosaminidase: their localization within the deduced primary structure ofthe mature a
+and fl polypeptide chains. Biochemistry. 27:5216-5226.
+
+McInnes, Potier, Wakamatsu, Melancon, Klavins, Tsuji, and Mahuran
+
+

@@ -1,0 +1,1052 @@
+Am. J. Hum. Genet. 50:1281-1290, 1992
+
+Molecular Genetic Study of Human Arginase Deficiency
+Wayne W. Grody, * Deborah Klein, * Amy E. Dodson, * Rita M. Kern, * Paul B. Wissmann, *
+Barbara K. Goodman, * Patrick Bassand, * Bert Marescau, T Soo-Sang Kang, $ James V. Leonard,§
+and Stephen D. Cederbaum*
+*Division of Medical Genetics, Departments of Pathology and Laboratory Medicine, Pediatrics, and Psychiatry, and the Mental Retardation Research
+Center, University of California, Los Angeles; tDepartment Geneeskunde, Universiteit Antwerpen, Antwerp; IDepartment of Pediatrics, Rush
+Medical College and Presbyterian-St. Luke's Medical Center, Chicago; and §1nstitute of Child Health, London
+
+Summary
+
+We have explored the molecular pathology in 28 individuals homozygous or heterozygous for liver arginase
+deficiency (hyperargininemia) by a combination of Southern analysis, western blotting, DNA sequencing,
+and PCR. This cohort represents the majority of arginase-deficient individuals worldwide. Only 2 of 15
+homozygous patients on whom red blood cells were available had antigenically cross-reacting material as
+ascertained by western blot analysis using anti-liver arginase antibody. Southern blots of patient genomic
+DNAs, cut with a variety of restriction enzymes and probed with a near-full-length (1,450-bp) human liver
+arginase cDNA clone, detected no gross gene deletions. Loss of a TaqI cleavage site was identified in three
+individuals: in a homozygous state in a Saudi Arabian patient at one site, at a different site in homozygosity
+in a German patient, and in heterozygosity in a patient from Australia. The changes in the latter two were
+localized to exon 8, through amplification of this region by PCR and electrophoretic analysis of the amplified
+fragment after treatment with TaqI; the precise base changes (Arg291X and Thr29OSer) were confirmed by
+sequencing. It it interesting that the latter nucleotide variant (Thr29OSer) was found to lie adjacent to the
+TaqI site rather than within it, though whether such a conservative amino acid substitution represents a true
+pathologic mutation remains to be determined. We conclude that arginase deficiency, though rare, is a
+heterogeneous disorder at the genotypic level, generally encompassing a variety of point mutations rather than
+substantial structural gene deletions.
+
+Introduction
+
+Liver arginase (L-arginine ureahydrolase; E.C.3.5.3.1)
+is the fifth enzyme of the urea cycle, catalyzing the
+hydrolysis of arginine to ornithine and urea. Deficiency of this enzyme, which can be determined by
+assaying its activity in either liver or red blood cells,
+is characterized clinically by hyperargininemia, progressive mental impairment, growth retardation, spasticity, and periodic episodes of hyperammonemia
+(Cederbaum et al. 1979; Bernar et al. 1986; Brusilow
+and Horwich 1989). The disorder is considered to be
+Received July 18, 1990; final revision received February 13,
+1992.
+Address for correspondence and reprints: Wayne W. Grody,
+M.D., Ph.D., Divisions of Medical Genetics and Molecular Pathology, UCLA School of Medicine, Los Angeles, CA 90024-1732.
+i 1992 by The American Society of Human Genetics. All rights reserved.
+0002-9297/ 92/5006-0017$02.00
+
+the rarest of the heritable defects of ureagenesis, with
+only about two dozen patients described.
+Like the genes for the other urea cycle enzymes, that
+for liver arginase has been successfully cloned, by two
+groups using independently derived antibodies and
+finding the same cDNA sequence (Dizikes et al. 1 986a;
+Haraguchi et al. 1987; Takiguchi et al. 1988; D.
+Klein, unpublished data). The identity of the clones
+was established by the transfer of arginase activity
+to Escherichia coli by using the isolated cDNA. The
+genomic arginase locus appears to exist as a single
+copy without detectable pseudogenes in man (Takiguchi et al. 1988; Grody et al. 1989), Musfascicularis
+(Klein et al. 1987), and rat (Dizikes et al. 1986b). This
+enzyme is found in the cytosol, primarily in liver, and
+is called "Al."
+A second form of arginase with similar kinetic properties but little or no nucleotide sequence homology
+1281
+
+Grody et al.
+
+1282
+
+is found in mitochondria (Herzfeld and Raper 1976;
+Dizikes et al. 1986a; Grody et al. 1989). It is designated "All" to distinguish it from Al, the form which
+is deficient in hyperargininemic patients.
+We have applied a combination of Southern and
+western blotting, PCR, and direct genomic sequencing
+of PCR-amplified patient DNAs, to attempt to elucidate the molecular pathology in a cohort of 28 homozygous or heterozygous individuals who together represent the majority of known families with arginase
+deficiency worldwide. While no gross arginase gene
+deletions were detected, a number of restriction-fragment-length changes representing point mutations, including one nonsense mutation, were discovered.
+Material and Methods
+Clinical Material
+Patient blood samples or skin biopsies were obtained from 28 individuals homozygous or heterozygous for liver arginase deficiency. Four were from our
+own institution, while the remainder were collected
+through the cooperation of primary physicians in
+many countries; patients were ascertained in North
+America, Europe, Asia, and the Middle East and were
+from a variety of ethnic groups (table 1). Three patients came to be autopsied during the course of the
+present study, allowing for the isolation of DNA from
+liver and other tissues as needed; the findings in one
+of these cases have been reported elsewhere (Grody et
+al. 1989). All studies on human subjects conformed
+to the guidelines established by institutional review
+boards at the respective institutions.
+
+Purification and Analysis of Liver Arginase
+Human liver arginase AI, purified to near homogeneity, was obtained by ammonium sulfate precipitation, heat treatment, CM-Sephadex ion-exchange
+chromatography, gel-exclusion chromatography, and
+DEAE-Sephadex chromatography following EDTA
+treatment to dissociate the tetrameric enzyme into
+monomeric subunits (Schimke 1964b; Vielle-Breitburd and Orth 1972; Skrzypek-Osiecka et al. 1983).
+During the purification procedure, fractions were assayed for arginase activity by using the rapid method
+of Ruegg and Russell (1980). Several preparations
+showing a strong arginase band on SDS-PAGE with
+silver staining were pooled for amino acid analysis and
+sequencing. The latter was performed on an ABI 470
+sequencer at the UCLA Protein Microsequencing Facility.
+
+Enzyme Assay
+
+Arginase activity was determined using our previously published modification (Spector et al. 1980)
+of the urease method of Schimke (1964a), by using
+guanidino[14C]arginine (Amersham-Searle, Chicago)
+as substrate. The specific enzyme activity is defined in
+terms of micromoles of arginine hydrolyzed per milligram of total protein per 30 min. Protein was determined by the method of Bradford (1976), with BSA
+used as the standard. Coomassie blue reagent was obtained from Bio-Rad Laboratories (Richmond, CA).
+Western Analysis
+
+To confirm the presence or absence of cross-reacting
+material (CRM) in the individuals from whom blood
+samples were available, red blood cell lysates were prepared by first removing hemoglobin with DEAE-Sepharose, according to a method described by Huisman
+and Dozy (1965) and then concentrating the eluant by
+using a Centricon 10 (Amicon) column, according to
+the manufacturer's directions. Samples were normalized to the original hemoglobin content of the lysed
+red cells and were electrophoresed in SDS-10% polyacrylamide gels. Gels were blotted by electrotransfer
+onto nitrocellulose filters, were treated with rabbit antiliver arginase antibody (Spector et al. 1980, 1983;
+Bernar et al. 1986), and were probed with goat antirabbit immunoglobulin-alkaline phosphatase complex (Bio-Rad) according to published procedures
+(Symington et al. 1981). Detection was by a chromogenic reaction, using nitroblue tetrazolium and
+5-bromo-4-chloro-3-indolylphosphate as substrates.
+In our hands this assay exhibits a sensitivity down to
+2% (or 0.0625 ng) of normal arginase antigen (R. M.
+Kern, unpublished results).
+Southern Blot Analysis
+Genomic DNA was isolated from peripheral blood
+leukocytes or other tissues by published protocols
+(Kunkel et al. 1977; Hermann and Frischauf 1987).
+
+Restriction-enzyme digestion, agarose gel electrophoresis, capillary blotting onto nylon membranes (Hybond; Amersham, Arlington Heights, IL), and hybridization with a 32P-labeled, 1,450-bp human liver
+arginase cDNA probe (Dizikes et al. 1986a) were performed according to methods described elsewhere
+(Southern 1975; Gatti et al. 1984).
+DNA Amplification and Sequencing
+
+To define precisely the nature of suspected mutations within a TaqI recognition site in exon 8 of the
+
+Molecular Genetics of Arginase Deficiency
+
+1283
+
+Table I
+Arginase-deficient Patients and Families Studied
+
+Name of
+Subject
+S.T ......
+M.T ......
+R.U ......
+M.U ......
+G.S ......
+A.T ......
+D.I ......
+A.C ......
+A.Z ......
+M.Z ......
+T.D ......
+L.B ......
+S.B ......
+M.O ......
+I.C ......
+F.C ......
+D.R ......
+K.N ......
+B.R ......
+M.R ......
+M.R ......
+D.K ......
+S.K ......
+
+J.P ......
+A.W ......
+T.G ......
+
+J.G ......
+T.G ......
+
+Relation
+
+Ethnicity
+
+Patient
+Mother of S.T.
+Patient, sister of M.U.
+Patient, brother of R.U.
+Patient
+Patient
+Patient
+Patient
+Father'
+Motherc
+Patient
+Patient
+Father of L.B.
+Patient
+Patient
+Patient
+Patient
+Fatherc
+Patient
+Mother of B.R.
+Brother of B.R.
+Maternal grandmother of B.R.
+Maternal grandfather of B.R.
+Maternal cousin of B.R.
+Patient
+Patient
+Father of T.G.
+Mother of T.G.
+
+U.S./Hispanic
+U.S. /Hispanic
+U.S./Hispanic
+U.S./Hispanic
+U.S./Hispanic
+Japanese
+Cambodian
+
+U.S./Hispanic
+German
+German
+Australian
+Saudi
+Saudi
+
+U.S./Jewish
+French-Canadian
+French-Canadian
+Puerto Rican
+German
+U.S. /Jewish
+U.S. /Jewish
+U.S. /Jewish
+U.S. /Jewish
+U.S. /Jewish
+
+U.S./Jewish
+German-French
+Mexican
+Mexican
+Mexican
+
+Specific Activity of
+RBC Arginase
+.1
+87.3
+0
+0
+0
+28.9
+.9
+0
+86.8
+92.3
+2.5
+1.1
+ND
+2.7
+2.2
+1.1
+.5
+108.4
+0
+251.4
+196.9
+111.6
+243.5
+211.8
+ND
+0
+242.1
+122.7
+
+CRMb
+-
+
+Reference if Published
+Bernar et al. 1986
+
++
+
+-
+
+Cederbaum et al. 1979
+
+-
+
+-
+
+-
+
++
++
+
+-
+
+Michels and Beaudet 1978
+Yoshino et al. 1982
+Grody et al. 1989
+Kang et al. 1983
+Endres et al. 1984
+
+Hyland et al. 1985
+
+ND
++
+
+ND
+
+Cederbaum et al. 1977
+Qureshi et al. 1981
+Qureshi et al. 1983
+Snyderman et al. 1977
+
++
++
++
++
++
++
+
+ND
+ND
+ND
+ND
+
+Terheggen et al. 1975
+
+aThe specific activity of arginase is defined as 1 pmol arginine hydrolyzed/mg total protein/30 min.
+bNormal reference range is 179-209 pmol arginine hydrolyzed/mg total protein/30 min.
+c Patient's specimen not available; received that/those of parent(s) only.
+
+arginase genes of three patients, this exon was amplified by PCR (Saiki et al. 1988) using synthetic primers
+(Research Genetics, Huntsville) complementary to the
+3' end of this exon and to the junction region with
+intron 7, derived from published sequence data (Haraguchi et al. 1987; Takiguchi et al. 1988). Specifically,
+the sequence of the 5' sense primer was 5'-ATTACAATTTGTTGTTGTA-3', which is complementary to
+the extreme 3' end of the intron. The sequence of the
+3' antisense primer was 5'-CTTGTTATAAAGAGTTTATT-3', which is complementary to the exon 8 3'
+region including the polyadenylation signal (nucleotides 1369-1389 of the cDNA). PCR products were
+analyzed for the presence of an intact TaqI site by
+simple digestion followed by agarose gel electrophoresis and ethidium bromide staining, as well as by direct
+sequencing (Brow 1990).
+
+Results
+Western Blot Analysis
+
+Whole blood and/or liver samples were available
+from 15 of the homozygous patients. Protein extracts
+were electrophoresed in SDS-10% polyacrylamide
+gels, were blotted onto nitrocellulose filters, and were
+probed sequentially with rabbit anti-human liver arginase antibody and goat anti-rabbit immunoglobulinalkaline phosphatase complex, to detect material that
+cross-reacted (i.e., CRM) immunologically. Only 2 of
+the 15 showed evidence of CRM by this type of western blot analysis; representative results are shown in
+figure 1. Thus, a substantial majority of these patients,
+who all have undetectable levels of arginase Al enzymatic activity (at least in their red blood cells), apparently do not have any detectable inactive arginase pro-
+
+1284
+
+Grody et al.
+
+D.K.
+
+B.R.
+
+T.D.
+
+G.S.
+
+Kd
+97.4 --
+
+43.0 -Arg. --
+
+29.0 --
+
+18.4 -Figure I
+Western blot analysis of red blood cell arginase in representative CRM + and CRM - patients and heterozygotes. Normal
+position of the arginase band is indicated at left. Lane C, Normal control red blood cell extract. Lane B.R., Hyperargininemic patient
+demonstrating CRM. Lane D.K., Heterozygous grandmother of a patient. Lanes T.D. and G.S., Two CRM- patients.
+
+tein either. Alternatively, it is possible that they make
+either (a) small amounts of protein, i.e., below the
+threshold of our 2% (or 0.0625-ng) detection level, or
+(b) a protein so altered that it is no longer recognized
+by our anti-arginase antibody.
+
+and amino acid analysis data obtained on purified human liver arginase. The N-terminal amino acid sequence was identical to the predicted one in 17 of 22
+readable amino acids (fig. 2), while the predicted one
+coincides with the second most likely amino acid analyzed at an additional three positions (data not
+shown). Two amino acids at the N-terminus of the
+protein were not distinguishable, but their position
+indicates that the terminal methionine alone is cleaved
+during the process of arginase maturation. Total
+amino acid content of the protein was also consistent
+with that predicted from the cDNA sequence (table
+2). Taken together, these data are the final confirmation that the cDNA used is indeed that for arginase Al.
+
+cDNA Authentication
+
+Isolation and initial characterization of our nearfull-length human liver arginase cDNA has already
+been reported elsewhere (Dizikes et al. 1986a). To
+confirm the authenticity of this probe, both DNA sequencing and correlative protein-sequencing were performed. The sequence of the cDNA isolated by us
+concurred exactly with that of the arginase cDNA
+cloned independently by Haraguchi et al. (1987) (D.
+Klein, W. W. Grody, and S. D. Cedarbaum, unpublished observations). Furthermore, the deduced amino
+acid sequence correlated with protein-sequencing data
+Predicted
+cDNA
+
+Observed
+
+Disparate
+
+Southern Blot Analysis
+Despite the preponderant absence of immunoblotdetectable arginase protein in this cohort of patients,
+
+Ser Ala Lys Ser Arg Thr Ile Gly Ile Ile Gly Ala Pro
+AGC GCC AAG TCC AGA ACC ATA GGG ATT ATT GGA GCT CCT
+- Lys Pro Lys Pro Ile Gly Ile Ile Gly Ala Pro
+*
+
+*
+
+*
+
+Phe Ser Lys Gly Gln Pro Arg Gly Gly Val Glu Glu Gly
+TCC TCA AAG GGA CAG CCA CGA GGA GGG GTC GAA GAA GGC
+Phe - Lys Gly Gln Leu - Gly Gly Val Glu Glu Lys
+*
+
+Figure 2
+
+*
+
+N-terminal amino acid sequence of purified human liver arginase, correlated with that predicted from the sequence of the
+cloned arginase cDNA used in this study. Discrepancies are due to absence of automatic background subtraction by the protein microsequenator; in most cases, the second most abundant amino acid read out at each position was concordant with the cDNA sequence.
+
+Molecular Genetics of Arginase Deficiency
+
+1285
+
+Table 2
+Amino Acid Content of Human Arginase Al
+
+Amino Acid
+
+Ala
+
+.............
+
+Arg .............
+Asx .............
+
+Cyc .............
+Glx .............
+
+Gly .............
+His .............
+Ile ........
+Leu .............
+Lys .........
+Met .............
+Phe .............
+Pro .............
+Ser .............
+Thr .............
+
+.....
+
+....
+
+Trp .............
+Tyr .............
+Val .............
+
+Predicted
+
+Observed
+
+16
+13
+28
+3
+24
+36
+8
+23
+33
+24
+4
+9
+23
+20
+22
+2
+9
+25
+
+18
+14
+30
+...
+
+27
+36
+8
+19
+32
+18
+4
+15
+24
+21
+23
+...
+
+8
+25
+
+Southern blot analysis of genomic DNA by using the
+Al cDNA as probe revealed no substantial gene deletions in any of the individuals. Most of the patients,
+in fact, exhibited normal Southern blot patterns with
+
+BgL
+
+Eco R I
+
+Kb
+23.1 --
+
+C
+
+1
+
+2
+
+C
+
+1
+
+2
+
+the variety of restriction enzymes used, while a few
+demonstrated minor changes with a single enzyme,
+compared with control DNA. The most commonly
+observed variation was apparent loss of a TaqI recognition site, which was seen in three patients of widely
+divergent geographic and ethnic origin (Australian patient T.D., Saudi Arabian patient L.B., and German
+patient A. W., two of whom are shown in fig. 3).
+TaqI is one of the restriction enzymes most often
+associated with RFLPs in humans (Donis-Keller et al.
+1986). Therefore, more rigorous investigation must
+be used to distinguish between benign TaqI variations
+and true pathologic changes. Stripping and reprobing
+of the blots with subclones derived from the 5', 3', and
+midportions of the arginase cDNA tentatively localized the involved TaqI site to the 3' end of the gene in
+two of the patients (data not shown). Examination of
+prior sequence data of Takiguchi et al. (19 8 8) revealed
+a TaqI site in the middle of exon 8 of the normal
+arginase gene. This seemed a likely candidate for the
+site of a point mutation in at least two of these patients.
+Oligonucleotide primers complementary to the 3' end
+of this exon and to the junction region with intron 7
+were used to amplify this region (a total span of about
+500 bp) by PCR, with DNA from these three patients
+and normal controls serving as templates. A portion
+
+Hind III _
+2
+1
+C
+
+Tag I
+
+Tag i1
+C
+
+1
+
+2
+
+C
+
+3
+
+Ai
+
+4.4 --
+
+2.3 --
+
+0.5 -Southern blot analysis of three arginase-deficient patients. Hybridization of the human arginase cDNA probe to restricted
+Figure 3
+genomic DNA of a normal control (lanes C), French-Canadian patient F.C. (lanes 1), Saudi Arabian patient L.B. (lanes 2), and German
+patient A.W. (lanes 3) revealed loss of a TaqI site in patients L.B. and A.W., producing larger fragments in Taq lanes 2 and 3 (arrows)
+and loss of the 4.6- and 3.0-kb bands, respectively. Patient F.C.'s Southern blot pattern was normal with the restriction enzymes used.
+Southern blotting of patient T.D.'s DNA also revealed loss of a TaqI site (data not shown).
+
+1286
+
+Grody et al.
+
+Patient:
+q 1:
+
+A.W.
+
+K. N.
+--
+
++
+
+C
+
++
+
++
+
+Uncut -Cut -
+
+Cut Analysis of arginase exon 8 in hyperargininemic
+Figure 4
+patients by PCR. Presence or loss of the normal TaqI recognition
+site in exon 8 was examined by amplification of this region by PCR,
+treatment with TaqI, and analysis of the products by agarose gel
+electrophoresis and ethidium bromide staining. In contrast to normal control DNA (C) and that of another patient (K.N.), patient
+A.W.'s DNA failed to cut with TaqI, confirming the mutation site
+within this exon. Patient T.D. showed heterozygosity for loss of
+this site, while patient L.B.'s DNA cut normally, indicating that his
+TaqI polymorphism seen on Southern blotting lies outside exon 8
+(data published elsewhere [Klein et al. 1991]).
+
+T D.
+G
+
+A
+
+T
+
+C
+
+Thr
+
+Arg
+
+T
+G
+A
+C
+A
+A
+G
+C
+T
+
+T
+G
+A
+
+VW T
+G
+
+\Ah(293)
+
+G Arg (291)
+C
+T
+Thr (290)
+
+A
+A
+T 'M (289)
+
+G
+
+G A
+
+T
+
+C
+_fii i,,,$.,
+
+C Thr (292)
+A
+A
+
+Thr/Ser *C/G -4-C
+A
+A
+
+A.W.
+
+NORMAL
+odw #
+
+Val
+
+of the PCR products were treated with TaqI, and the
+presence or absence of cleavage was examined by agarose gel electrophoresis and ethidium bromide staining
+(fig. 4). In contrast to what was observed in controls,
+the amplified products of patient A.W.'s DNA failed
+to cut with TaqI, confirming homozygous loss of the
+exon 8 recognition site by mutation. Patient T.D.
+proved to be heterozygous for the mutation (i.e.,
+proved to be a compound heterozygote), while amplified DNA from patient L.B. cut normally (published
+elsewhere [Klein et al. 1991]). We conclude that L.B.'s
+TaqI mutation lies outside exon 8.
+More definitive analysis of the nature of the exon 8
+mutations in patients T.D. and A.W. was accomplished by direct DNA sequencing of the PCR-amplified exon 8 regions. As shown in the sequencing
+ladders of figure 5, patient A.W. demonstrated a homozygous cytosine-to-thymine substitution, and patient
+T.D. exhibited a heterozygous cytosine-to-guanine
+substitution in an adjacent codon. The translational
+effect of these mutations is to alter an arginine codon
+to a chain-termination signal at position 291 in A.W.
+and to substitute a serine for a threonine at position
+290 in T.D. T.D.'s mutation is particularly interesting
+in that it lies just outside the tetranucleotide TaqI recognition sequence (TCGA) yet still obliterates cleavage with this enzyme.
+No patient in our series showed clear-cut evidence
+of a molecular lesion larger than a point mutation. A
+
+6
+
+NORMAL
+G
+
+Codon #
+
+T
+
+T Vad(293)
+
+A
+
+A
+C Thr(292)
+A
+A
+
+s,.-*G
+
+oC
+
+A
+A
+stop G
+G Arg (291)
+*T 4~C
+T
+T
+C Thr (290)
+Thr C
+7
+A
+A
+A
+A
+T Val (289)
+Val T
+G
+G
+
+Direct sequence analysis of the PCR-amplified region around the exon 8 TaqI site in two arginase-deficient patients. The
+Figure 5
+sequencing ladders reveal both a homozygous C-to-T substitution within the TCGA TaqI site in patient A.W. and a heterozygous C-to-G
+substitution just outside the TaqI site in patient T.D. Patient L.B.'s DNA sequence in this region of the arginase gene was normal (data
+not shown).
+
+Molecular Genetics of Arginase Deficiency
+variety of Southern blot changes noted in a minority
+of the remaining patients (data not shown) will require
+further investigation to distinguish between true pathologic point mutations and benign polymorphisms.
+Discussion
+
+Arginase deficiency is the rarest of the inborn errors
+of urea-cycle enzymes, and its clinical features are also
+markedly different from those of the others, primarily
+by virtue of both the typical absence of catastrophic
+neonatal hyperammonemia and its compatibility with
+a much longer life span (Bernar et al. 1986; Brusilow
+and Horwich 1989). This has been attributed to the
+persistence of some ureagenesis in these patients,
+through the activity (and possibly induction) of an
+arginase nonliver isozyme predominantly located in
+the kidney (Spector et al. 1983; Carvajal and Cederbaum 1986; Grody et al. 1989). Both the rarity of the
+disorder and our contacts and collaborations with the
+primary physicians of the majority of the known patients worldwide have made possible an extensive
+study of this inborn error of metabolism.
+As a first step in our analysis of the fine structure of
+the arginase gene and its mutations, we have initiated
+an investigation of the nature of the DNA defects in
+our cohort of patients with liver arginase deficiency.
+We have obtained genomic DNA from almost all of
+the known arginase-deficient patients in the world; for
+those cases in which the patients themselves cannot be
+studied, we have obtained DNA from one or both
+obligate heterozygote parents.
+Previous work by ourselves and others had established the authenticity of the cloned liver arginase
+cDNA, with a high degree of probability (Dizikes et
+al. 1986a; Haraguchi et al. 1987; Takiguchi et al.
+1988). The data presented here close the circle and
+complete the authentication of the arginase clones.
+The presence of serine as the N-terminal amino acid
+in this long-half-life enzyme (Grody et al. 1987) is in
+accord with the hypothesis of Bachmair et al. (1986),
+who noted that serine, threonine, and alanine, among
+others, were the N-terminal amino acids in long-lived
+proteins.
+The results presented here, produced when this confirmed cDNA is used as probe, are consistent with
+the concept that arginase deficiency, though rare, is a
+heterogeneous disorder at the genotypic level, apparently encompassing a variety of exonic point mutations (or, conceivably, regulatory mutations) rather
+than substantial structural gene deletions. None of
+
+1287
+our patients showed evidence of a gross deletion on
+Southern blotting. One patient (A.T. in table 1) has
+recently been shown to have two frameshift deletions,
+of one and four bases, leading to early termination of
+translation, compatible with the CRM negativity in
+the red blood cells that we observed (Haraguchi et al.
+1990). Yet, despite the absence of any gross deletions
+of the arginase gene, polypeptide material cross-reactive with anti-liver arginase antibody was detected in
+only two of the other patients. If we put aside the
+unlikely possibility of a large number of regulatory
+mutations blocking transcription of the arginase gene,
+we find that these results may indicate either instability
+of mutant arginase proteins containing amino acid
+substitutions or, less likely, alteration of the epitopes
+recognized by our polyclonal anti-arginase antibody.
+A precise nucleotide substitution has been identified
+in two of the patients by use of PCR and direct sequencing. These mutations lie within or adjacent to
+the TaqI recognition sequence in exon 8 of the arginase
+gene. As noted, the mutation in one of these patients
+(T.D.) is unusual because it lies outside (just 5' to) the
+TaqI site as defined by its four-nucleotide sequence,
+TCGA, yet still completely blocks cleavage by the enzyme. In addition to the specific oligonucleotide recognition sequence, tertiary structure of the double helix
+is known to be an important component of at least
+some restriction-endonuclease cleavage sites (Frederick et al. 1984; Kumar et al. 1985). It is conceivable
+that some sort of steric or electrostatic hindrance induced by nucleotides adjacent to the recognition site
+could have an impact on the cleavability of the site.
+Indeed, chemical modifications of adjacent nucleotides introduced into synthetic sequences containing
+restriction-enzyme recognition sites have been found
+to reduce the rate of hydrolysis (Vinogradova et al.
+1987), and an effect of flanking sequences in abolishing cleavage of a particular PaeR7 site in the adenovirus genome has been reported elsewhere (Gingeras and
+Brooks 1983). To our knowledge, however, ours is
+the first documented instance of such a phenomenon
+occurring naturally in the setting of a human genetic
+disorder. While the precise mechanism of the phenomenon has not been characterized, the fact that it is
+seen by using PCR-generated fragments as substrates
+effectively rules out the possibility that chemical modification (e.g., methylation) of the adjacent nucleotide
+is responsible.
+In the case of the homozygous Taq-site alteration,
+the introduction of a chain-terminating codon identifies the mutation as that responsible for the enzymatic
+
+1288
+
+deficiency. The second change, that of serine for threonine at position 290, cannot be confidently inferred to
+be responsible for arginase deficiency, since the two
+amino acids are so similar in structure and properties
+and are often found as apparently conservative mutations in evolution. Threonine 290 occurs in a run of
+16 amino acids identical in the AI isozymes of man
+and rat (Haraguchi et al. 1987). In yeast this position is
+occupied by serine in a run of amino acids substantially
+different from that in mammals. Expression studies of
+this mutant in arginase-negative recipient cells and/
+or sequence analysis of the remaining exons will be
+necessary to determine whether this substitution is
+pathological.
+Two of the three identified mutations in our patient
+population occurred in homozygosity. The German
+and Saudi Arabian families are known to be consanguineous. Less likely possibilities include either uniparental disomy (Spence et al. 1988) for chromosome 6,
+to which arginase Al has been mapped (Sparkes et al.
+1986), or complete deletion of the arginase locus on
+the sister chromosome.
+The nature and significance of the TaqI mutation in
+the Saudi family (L.B.) is unknown, except for the fact
+that it does not lie within exon 8. However, no TaqI
+sites other than the one in exon 8 have been shown,
+either by computer sequence analysis or by restriction-endonuclease analysis of the cDNA or its adjacent
+intron-exon junctions. The findings on Southern blot
+could represent merely a familial polymorphism, as
+the father is heterozygous for this alteration (data not
+shown).
+Taken together, our data suggest that arginase deficiency, despite its rarity, is genotypically heterogeneous. We have previously uncovered a rather
+high-frequency polymorphism for the arginase cDNA
+probe, with only a single enzyme, PvuII (Kidd et al.
+1986). It is possible that some of the remaining Southern blot variations represent benign RFLPs in populations other than the relatively small western European
+one at which we looked. We expect that more definitive amplification and sequencing of other exons will
+resolve this issue and enable an inclusive worldwide
+survey of this inborn error of metabolism at the molecular level.
+
+Acknowledgments
+This work was supported in part by the Mental Retardation Research Program at UCLA, by National Institutes of
+Health grants HD-06576 and HD-00831, and by Basil
+
+Grody et al.
+O'Connor Starter Scholar Research Award 5-733 through
+funds received from the Lifespring Foundation to the March
+of Dimes Birth Defects Foundation. The authors thank the
+numerous investigators who generously provided patient
+blood samples for these studies; these include Drs. A.
+Beaudet, S. Brusilow, W. Endres, R. Haas, H. Levy, S.
+Snyderman, C. Strickland, I. Qureshi, and M. Yoshino. We
+also thank Dr. Audree Fowler for the amino acid analysis
+and protein sequence data.
+
+References
+Bachmair A, Finley D, Varshavsky A (1986) In vivo half-life
+of a protein is a function of its amino terminal residue.
+Science 234:179-186
+Bernar J, Hanson RA, Kern R, Phoenix B, Shaw KNF, Cederbaum SD (1986) Arginase deficiency in a 12-year-old
+boy with mild impairment of intellectual function. J Pediatr 108:432-435
+Bradford MM (1976) A rapid and sensitive method for the
+quantitation of microgram quantities of proteins using the
+principle of protein-dye binding. Anal Biochem 72:248254
+Brow MND (1990) Sequencing with Taq DNA Polymerase.
+In: Innis MA, Gelfand DH, Sninsky JJ, White TJ (eds.)
+PCR protocols: a guide to methods and applications. Academic Press, San Diego, 189-196
+Brusilow SW, Horwich AL (1989) Urea cycle enzymes. In:
+Scriver CR, Beaudet AL, Sly WS, Valle D (eds) The metabolic basis of inherited disease, 6th ed. McGraw-Hill,
+New York, pp 629-663
+Carvajal N, Cederbaum SD (1986) Kinetics of inhibition of
+rat liver and kidney arginase by proline and branchedchain amino acids. Biochem Biophys Acta 870:181-184
+Cederbaum SD, Shaw KNF, Spector EB, Verity MA, Snodgrass PJ, Sugarman GI (1979) Hyperargininemia with arginase deficiency. Pediatr Res 13:827-833
+Cederbaum SD, Shaw KNF, Valente M (1977) Hyperargininemia. J Pediatr 90:569-573
+Dizikes GJ, Grody WW, Kern RM, Cederbaum SD (1986a)
+Isolation of human liver arginase cDNA and demonstration of nonhomology between the two human arginase
+genes. Biochem Biophys Res Commun 141:53-59
+Dizikes GJ, Spector EB, Cederbaum SD (1986b) Cloning of
+rat liver arginase cDNA and elucidation of regulation of
+arginase gene expression in H4 rat hepatoma cells. Somatic Cell Mol Genet 12:375-384
+Donis-Keller H. Barker D, Knowlton R, Schumm J, Braman
+J (1986) Applications of RFLP probes to genetic mapping
+and clinical diagnosis in humans. In: Lerman LS (ed) DNA
+probes: applications in genetic and infectious disease and
+cancer. Cold Spring Harbor Laboratory, Cold Spring
+Harbor, NY, pp 73-81
+Endres W, Schaller R, Shin YS (1984) Diagnosis and treatment of argininemia: characteristics of arginase in human
+erythrocytes and tissues. J Inherited Metab Dis 7:8
+
+Molecular Genetics of Arginase Deficiency
+Frederick CA, Grable J, Melia M, Samudzi C, Jen-Jacobson
+L, Wang B-C, Greene P, et al (1984) Kinked DNA in
+crystalline complex with EcoRI endonuclease. Nature
+309:327-331
+Gatti RA, Concannon P, Salser W (1984) Multiple use of
+Southern blots. BioTechniques 2:148-155
+Gingeras TR, Brooks JE (1983) Cloned restriction/modification system from Pseudomonas aeruginosa. Proc Natl
+Acad Sci USA 80:402-406
+Grody WW, Argyle C, Kern RM, Dizikes GJ, Spector EB,
+Strickland AD, Klein D, et al (1989) Differential expression of the two human arginase genes in hyperargininemia: enzymatic, pathologic, and molecular analysis. J
+Clin Invest 83:602-609
+Grody WW, Dizikes GJ, Cederbaum SD (1987) Human
+arginase isozymes. In: Isozymes: current topics in biological and medical research, vol 13. Alan R Liss, New York,
+pp 181-214
+Haraguchi Y, Aparicio JM, Takiguchi M, Akaboshi I, Yoshino M, Mori M, Matsuda I (1990) Molecular basis
+of argininemia: identification of two discrete frame-shift
+deletions in the liver-type arginase gene. J Clin Invest 86:
+347-350
+Haraguchi Y, Takiguchi M, Amaya Y, Kawamoto S, Matsuda I, Mori M (1987) Molecular cloning and nucleotide
+sequence of cDNA for human liver arginase. Proc Natl
+Acad Sci USA 84:412-415
+Hermann BG, Frischauf A-M (1987) Isolation of genomic
+DNA. Methods Enzymol 152:180-183
+Herzfeld A, Raper SM (1976) The heterogeneity of arginases
+in rat tissues. Biochem J 153:469-478
+Huisman THJ, Dozy AM (1965) Studies on the heterogeneity of hemoglobin. IX. The use of Tris(hydroxymethyl)aminomethane-HCl in the anion-exchange chromatography of hemoglobins. J Chromatogr 19:160-169
+Hyland K, Smith I, Clayton PT, Leonard JV (1985) Impaired neurotransmitter amine metabolism in arginase deficiency. J Neurol Neurosurg Psychiatr 48:1188-1189
+Kang S, Wong PWK, Melyn MA (1983) Hyperargininemia:
+effect of ornithine and lysine supplementation. J Pediatr
+103:763-765
+Kidd JR, Dizikes GJ, Grody WW, Cederbaum SD, Kidd KK
+(1986) A PvuII RFLP for the human liver arginase (ARG1)
+gene. Nucleic Acids Res 14:9544
+Klein D, Bassard P, Grody WW, Kern RM, Dizikes GJ,
+Cederbaum SD (1987) Molecular basis for tissue specific
+expression of liver arginase. Am J Hum Genet 41 [Suppl]:
+A221
+
+Klein D, Dodson AE, Tabor D, Cederbaum SD, Grody WW
+(1991) Effect of an adjacent base on detection of a point
+mutation by restriction enzyme digestion. Somatic Cell
+Mol Genet 17:369-375
+Kumar MR, Hosur RV, Roy KB, Miles HT, Govil G (1985)
+Resonance assignment of the 500-MHz proton NMR
+spectrum of self-complementary dodecanucleotide d-G-
+
+1289
+GATCCGGATCC: altered conformations at BamHI
+cleavage sites. Biochemistry 24:7703-7711
+Kunkel LM, Smith KD, Boyer SH, Borgaonkar DS, Wachtel
+SS, Miller ON, Breg WR, et al (1977) Analysis of human
+Y-chromosome-specific reiterated DNA in chromosome
+variants. Proc Natl Acad Sci USA 74:1245-1249
+Michels VV, Beaudet AL (1978) Arginase deficiency in multiple tissues in argininemia. Clin Genet 13:61-67
+Qureshi IA, Letarte J, Quellet R, Larochelle J, Lemieux B
+(1983) A new French-Canadian family affected by hyperargininemia. J Inherited Metab Dis 6:179-182
+Qureshi IA, Letarte J, Quellet R, Lelievre M, Laberge C
+(1981) Ammonia metabolism in a family affected by hyperargininemia. Diabetes Metab 7:5-11
+Ruegg UT, Russell AS (1980) A rapid and sensitive assay
+for arginase. Anal Biochem 102:206-212
+Saiki RK, Gelfand DH, Stoffel B, Scharf SJ, Higuchi R, Horn
+GT, Mullis KB, et al (1988) Primer-directed enzymatic
+amplification of DNA with a thermostable DNA polymerase. Science 239:487-491
+Schimke RT (1964a) Enzymes of arginine metabolism in
+mammalian cell culture. I. Repression of argininosuccinate synthetase and argininosuccinase. J Biol Chem 239:
+136-144
+(1964b) The importance of both synthesis and degradation in the control of arginine levels in rat liver. J Biol
+Chem 239:3808-3817
+Skrzypek-Osiecka I, Robin Y, Porembska Z (1983) Purification of rat kidney arginases Al and A4 and their subcellular distribution. Acta Biochim Pol 30:83-92
+Snyderman SE, Sansaricq C, Chen WJ, Norton PM, Phansalkar SV (1977) Argininemia J Pediatr 90:563-568
+Southern EM (1975) Detection of specific sequences among
+DNA fragments separated by gel electrophoresis. J Mol
+Biol 98:503-517
+Sparkes RS, Dizikes GJ, Klisak I, Grody WW, Mohandas
+T, Heinzmann C, Zollman S, et al (1986) The gene for
+human liver arginase (ARG1) is assigned to chromosome
+band 6q23. Am J Hum Genet 39:186-193
+Spector EB, Kiernan M, Bernard B, Cederbaum SD (1980)
+Properties of fetal and adult red blood cell arginase: a
+possible prenatal diagnostic test for arginase deficiency.
+Am J Hum Genet 32:79-87
+Spector EB, Rice SCH, Cederbaum SD (1983) Immunologic
+studies of arginase in tissues of normal human adult and
+arginase deficient patients. Pediatr Res 17:941-944
+Spence JE, Perciaccante RG, Greig GM, Willard HF, Ledbetter DH, Hejtmancik JF, Pollack MS, et al (1988) Uniparental disomy as a mechanism for human genetic disease.
+Am J Hum Genet 42:217-226
+Symington J, Green M, Brackmann K (1981) Immunoautoradiographic detection of proteins after electrophoretic
+transfer from gels to diazo paper: analysis of adenovirusencoded proteins. Proc Natl Acad Sci USA 78:177-181
+Takiguchi M, Haraguchi Y, Mori M (1988) Human liver-
+
+1290
+type arginase gene: structure of the gene and analysis of
+the promotor region. Nucleic Acids Res 16:8789-8802.
+Terheggen HG, Lowenthal A, Lavinha F, Columbo JP
+(1975) Familial hyperargininemia. Arch Dis Child 50:5762
+Vielle-Breitburd F, Orth G (1972) Rabbit liver L-arginase:
+purification, properties, and subunit structure. J Biol
+Chem 247:1227-1235
+Vinogradova MN, Gromova ES, Gryaznova OI, Isagulyants MG, Kuznetsova SA, Kosych VG, Shabarova ZA
+
+Grody et al.
+(1987) Interaction of EcoRII restriction and modification
+enzymes with synthetic DNA fragments. IX. Cleavage of
+substrates with point modifications in the recognition site
+and flanking sequences. Bioorg Khim 13:1194-1204
+Yoshino M, Kubota K, Yoshida I, Murakami T. Yamashita
+F (1982) Argininemia: report of a new case and mechanisms of orotic aciduria and hyperammonemia. In: Lowenthal A, Mori A, Maresau B (eds) Advances in experimental medicine and biology, vol 153: Urea cycle
+diseases. New York, Plenum, pp 121-125
+
+

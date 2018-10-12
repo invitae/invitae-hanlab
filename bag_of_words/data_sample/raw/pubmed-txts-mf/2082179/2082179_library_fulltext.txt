@@ -1,0 +1,1844 @@
+Functional Characterization of
+Naturally Occurring Mutant Androgen
+Receptors from Subjects with
+Complete Androgen Insensitivity
+
+Terry R. Brown, Dennis B. Lubahn, Elizabeth M. Wilson,
+Frank S. French, Claude J. Migeon, and Jeffry L. Carden
+
+Department of Pediatrics (T.R.B., C.J.M.)
+Howard Hughes Medical Institute (J.L.C.)
+and Department of Molecular Biology and Genetics (J.L.C.)
+Johns Hopkins University School of Medicine
+Baltimore, Maryland 21205
+Laboratories for Reproductive Biology and
+Departments of Biochemistry (E.M.W.), Pathology (D.B.L.), and
+Pediatrics (F.S.F.)
+University of North Carolina
+Chapel Hill, North Carolina 27599
+
+at physiological concentrations (10- 10 M) of androgen when wild-type AR was transfected into cells,
+whereas neither AR mutants R774C nor R831Q were
+able to stimulate CAT activity even at 10-s M androgen. AR mutant V866M was able to stimulate CAT
+activity but the androgen dose dependency was
+shifted toward pharmacological concentrations of
+steroid that exceed in vivo levels.
+The molecular basis of CAIS in humans exhibits
+genetic heterogeneity.· Our study shows that some
+cases of CAIS are explained by an inability to form
+a functional AR-steroid complex and hence, the AR
+is unable to activate transcription of genes essential
+for male sex differentiation during fetal development. (Molecular Endocrinology 4: 1759-1772, 1990)
+
+Mutations in the androgen receptor (AR) are thought
+to cause complete androgen insensitivity (CAIS) in
+46,XY human subjects who have a female phenotype
+despite normal adult male concentrations of plasma
+testosterone. Assays of AR binding in cultured skin
+fibroblasts from subjects with CAIS show either an
+apparent absence of AR (AR-) or normal levels of
+AR (AR+) binding. In several subj~cts with CAIS,
+AR-, no gross AR mutation was detected by South·
+ern blot analyses of genomic DNA and normal sized
+10 kilobase mRNA was present on Northern blots of
+poly(A+) RNA from cultured genital skin fibroblasts.
+We have used the polymerase chain reaction to
+amplify individual exons within the human AR gene
+of subjects with CAIS and have identified point mutations in three subjects. In one AR- subject
+(R774C), amino acid 774 was changed from arginine
+(CGC) to cysteine (TGC), in another AR- subject
+(R831Q), arginine (CGA) was changed to glutamine
+(CAA) at position 831, and in an AR+ subject
+(V866M) a methionine (ATG) was substituted for
+valine (GTG) at position 866. '
+Transfection of wild type and mutant AR cDNA
+clones into COS cells results in detection of AR
+protein by immunoblotting. AR ligand binding activity
+is absent in cells transfected with AR mutants R774C
+and R831Q, but present with AR mutant V866M.
+Androgen binding in cells transfected with AR mutant V866M has a 6-fold lower apparent binding
+affinity than that of wild-type AR. Transcriptional
+activation of the MMTV·CAT reporter gene was androgen dependent and specific and nearly maximal
+
+INTRODUCTION
+
+The androgen insensitivity syndrome is an X-chromosome linked disorder expressed in 46,XY human subjects (1 ). Variable phenotypic expression has been observed, ranging from a complete female phenotype to
+male genitalia with mild hypospadias (1 ). Evidence suggests also that the syndrome includes some rare cases
+of phenotypically normal males with azoospermia (2, 3).
+In the complete form of androgen insensitivity syndrome
+(CAIS), affected subjects present a female external
+genitalia but with a short vagina and absent Mullerian
+ducts. Gonads are normal-size testes located in the
+abdominal or inguinal area with hypoplastic Wolffian
+derivatives. At puberty, normal female secondary sex
+characteristics occur, but pubic hair is usually sparse
+or absent. In adulthood, serum testosterone and LH
+
+0888-8809/90/1759-1772$02.00/0
+Molecular Endocrinology
+Copyright© 1990 by The Endocrine Society
+
+1759
+
+Vol 4 No. 12
+
+MOL ENDO, 1990
+1760
+
+concentrations are at or above the normal adult male
+range.
+Multiple studies have demonstrated that this syndrome is caused by target organ insensitivity to the
+actions of testosterone and its more potent 5a-reduced
+metabolite, dihydrotestosterone (DHT) (1, 4). Although
+testosterone is able to induce fetal differentiation and
+development of the Wolffian duct system, the biologically more active androgen, DHT, is required for differentiation and development of the prostate gland and
+for the male external genitalia (5). Androgenic effects
+during fetal development require the formation of a
+biologically active androgen receptor-steroid complex
+(6). An impairment in androgen receptor (AR) function
+can account for target organ insensitivity and evidence
+for such impairment has been reported for numerous
+families with androgen insensitivity (AIS) (1, 4).
+The AR belongs to the subfamily of steroid hormone
+receptors within a larger family of nuclear proteins that
+likely evolved from a common ancestral gene (7, 8).
+Structurally, the 110 kilodalton AR contains an amino
+terminal region that is variable in length and may have
+a role in transcriptional activation, a central, cysteinerich hydrophilic DNA-binding domain, as well as a carboxyl terminal hydrophobic hormone-binding domain.
+After hormone binding, the DHT-AR complex, probably
+as a dimer, interacts with hormone response elements
+on specific target genes to modulate the transcriptional
+activity of their promoters (9, 10).
+The heterogeneity in phenotypic expression of AIS is
+due to a variety of AR defects, some of which are
+detectable by biochemical methods (1, 4). For example,
+AR binding in cultured genital skin fibroblasts of subjects with CAIS may be undetectable, in the so-called
+receptor negative (AR-) form (11 ), whereas others have
+quantitatively normal binding, termed the receptor positive (AR+) form (12). Cloning of human cDNA encoding
+the AR has been reported (13-16). Using cDNA probes
+for the human AR gene, we have previously detected
+a partial deletion in the steroid-binding domain in one
+family with CAIS, AR- (17). However, five other families
+with CAIS, AR- did not have any detectable gross
+molecular lesion in their AR gene, suggesting a point
+mutation or small undetected deletion or insertion. In
+one other family with the AR+ form of CAIS (18), we
+have reported a missense point mutation' in the steroidbinding domain of the AR gene that predicted a single
+amino acid substitution at position 866 of the AR protein
+(19).
+In this report, we demonstrate that mutant ARs resulting from point mutations causing single amino acid
+substitutions in the steroid binding domain of the protein
+are functionally defective. In two unrelated families with
+the AR- form of CAIS, the two different mutant ARs
+are expressed but do not bind androgen and are defective in transcription activation. In the family with CAIS,
+AR+, the mutant AR binds androgen with significantly
+lower affinity and its ability to activate transcription is
+dependent upon higher concentrations of hormone.
+
+RESULTS
+Identification of AR Mutations
+
+Previous studies from our laboratory using various human AR cDNA probes to screen for AR mutations on
+Southern blots prepared by restriction endonuclease
+digestion of genomic DNA from human subjects with
+CAIS showed a partial gene deletion in only one affected family (17). Seven other unrelated families
+showed no deletion, suggesting that point mutations or
+small, undetectable deletions or insertions are responsible for the androgen insensitivity. Poly(A+) RNA was
+prepared from genital skin fibroblasts of eight affected
+human subjects with complete AIS, seven with the ARform and one with the AR+ form. Except for the one
+subject with a partial gene deletion (subject B), a normal
+size 10 kilobase (kb) AR mRNA is detected in all subjects (Fig. 1). These results demonstrate that the AR
+gene is transcribed normally in subjects with CAIS,
+even in subjects D-1 with no detectable AR binding
+activity in cultured fibroblasts.
+In order to identify the AR mutations present in
+subjects with CAIS, we analyzed individual exons of
+the human AR gene by denaturing gradient gel electrophoresis (DGGE) after amplification of genomic DNA by
+the polymerase chain reaction. The 5' -oligonucleotide
+primers in each amplification reaction contained a 40base pair (bp) G-C sequence which functioned as a
+highly stable DNA duplex clamp in the DGGE. For two
+subjects with CAIS, AR-, we observe an altered mobility for exons 6 and 7 (Fig. 2, subject 5). We also
+observe altered mobility on DGGE of the amplified exon
+7 DNA fragment from the subject with CAIS, AR+ (Fig.
+2, subject 4). Two additional amplifications of either
+exon 6 or 7 from the genomic DNA of these subjects
+were performed. Each exon was sequenced in both 5' and 3'-directions by the dideoxynucleotide chain termination method. A single nucleotide base substitution
+is detected in each of the three AR gene sequences
+(Fig. 3). For one subject with CAIS, AR-, a c-T base
+change occurs in exon 6 resulting in the amino acid
+substitution of cysteine (TGC) for the wild-type arginine
+(CGC) at position 77 4 (AR R77 4C). In exon 7 of the
+other subject with CAIS, AR-, a G--" A base substitution occurred to alter the codon for amino acid 831
+from CGA (arginine) in the wild-type sequence to CAA
+(glutamine) (AR R831 Q). We also confirmed our previously published observation (19) by our current methodology, the detection of a G--" A base change in exon
+7 for the subject with the AR+ form of CAIS, resulting
+in the substitution of methionine (ATG) for the wild-type
+valine (GTG) at position 866 (AR V866M).
+Inheritance of AR Mutations
+
+If these point mutations in the human AR gene are
+associated with CAIS, they should conform to an Xlinked recessive pattern of inheritance in affected pedigrees. Point mutations affecting amino acids 774 and
+
+AR Functional Defect in AIS
+
+1761
+
+A B
+AR
+
+wt
+
+•
+
+C
++
+
+D
+
+E
+
+F
+
+G H
+
+--
+
+kb
+
+9.6.....,.
+6.6 +-
+
+4.3.....,.
+
+Fig. 1. Northern Blot Analysis of AR mRNA from Cultured Genital Skin Fibroblasts
+Poly(A+) RNA (2-3 µg) isolated from cultured cells was electrophoresed on 1% agarose gels and transferred to nitrocellulose
+filters. After hybridization with 32 P-labeled human AR-1 cDNA (13), autoradiography was carried out for 16 h. RNA was from the
+cells of human subjects: A, wild-type control; B, subject with CAIS, AR-, and a partial deletion of the AR gene; C, subject with
+CAIS, AR+ determined to have mutation V866M; D-1, subjects with CAIS, AR-; subjects D and H were determined to have
+mutations R774C and R831Q, respectively. The arrows and size designations in Kb at the left were derived from Hindlll-digested
+;\-DNA, end-labeled with 32 P, and run on the same gel.
+
+___ ____
+
+,.......,,....
+
+normal
+
+AR
+
+AIS
+...._
+
+1 2 3 4 5 6 7 8 9 10
+• +/wtwt - +
+
+Fig. 2. Denaturing Gradient Gel Electrophoresis of Human AR
+Exon 7
+GC-clamped PCR fragments of exon 7 were electrophoresed in a denaturing gradient gel with 20-80% denaturant.
+PCR amplified DNA fragments were from genomic DNA of
+normal subjects (wt, wild-type) and those with CAIS of the
+AR- or AR+ form or the partial form of AIS (subject 10), with
+reduced receptor binding, AR±. CAIS subject 4 (AR+) has
+mutation V866M and subject 5 (AR-) has mutation R831 Q.
+
+831 were confirmed by restriction enzyme analysis of
+the amplified DNA fragments from exons 6 and 7,
+respectively. The AR-R831 Q nucleotide substitution
+abolishes a restriction endonuclease cleavage site
+shared by BstBI and Taql within the 417-bp DNA frag-
+
+ment containing exon 7. BstBI digestion of amplified
+DNA fragments from exon 7 of wild-type, two affected
+46,XY family members and the obligate heterozygous
+46,XX females from two generations demonstrates the
+expected restriction fragments from the mutant or wildtype genes (Fig. 4). In addition, the AR-R774C mutation
+abolishes the Kpnl site in genomic DNA or the PCR
+amplified DNA fragment in the 5'-portion of exon 6 from
+the affected subject (data not shown).
+In other experiments, amplified DNA fragments containing exon 7 from hemizygous 46,XY affected subjects and heterozygous 46,XX carrier subjects with the
+AR R831 Q and V866M mutations all display the expected pattern of electrophoretic mobility upon DGGE
+(data not shown). The two affected 46,XY family members with the R831 Q mutation and three affected 46,XY
+siblings with the V866M mutation, each show a single
+DNA fragment with altered electrophoretic mobility similar to that shown in Fig. 2 for subjects 5 (AR-) and 4
+(AR+), respectively. The two heterozygous 46,XX subjects carrying the R831 Q mutation and the obligate
+heterozygous mother of the three siblings with the
+V866M mutation, each exhibit four ethidium bromide
+stained bands upon DGGE, representing the four combinations of DNA duplex molecules after denaturation/
+reannealing of the polymerase chain reaction amplified
+products of the sense and antisense strands of the
+wild-type and mutant alleles. Taken together, these
+results demonstrate a pattern of X-linked inheritance
+and provide evidence for a strong association between
+the AR gene point mutations and CAIS.
+
+Vol 4 No. i2
+
+MOL ENDO· i 990
+
+1762
+
+HUMAN ANDROGEN RECEPTOR
+N-terminus
+
+7 O6
+72o
+565
+77 I
+34 8
+
+j
+
+DNA
+
+j
+
+SteJoid
+
+E LGERqL V H V)'l<'.VIAl<'.cA U)\;1f'.RNW:H V D().QM AV.I \?Y$1'/.M;G¼M Vf;A
+oLGERQL Ls VNtWSl<'.$ LJ?G;fRNLH r oq91 rplpY$.\i/M$'l.M Vf\'G
+M l.GGRQV I AAYl<'.W.A.KA I PG;FRN LH LDPQM TILLQY:$\VMF l;M AFA
+RLAGKQM I OVVKWAKV LPGFKNLP LEDO! TtI QYSWHCLSSF'A
+N (AoREL v H MiNWAi<RVPGfVNQ LHQGlV HJ.FLEcAW.CEfLMfG
+
+HAR
+HPR
+H GR
+HMR
+HER
+
+©
+
+A
+7 49 MGW@FTN V NS RM.LYf.b.fDLN FN ;Y RMHKS RMysoqv RM:RH LS)
+7 6 3 LGWR$Y K H vs GOM,µY fAFDL r LNE:.oRMK ES s FYS LG L Tl'!wo r P
+60 8 LG!'/RSYROSSAN LliCFAPQLI I NJORMT LPCMYDO(;K HM.LY V$.
+8 I 4 QSV/R$Y K HT NS OFLTFAf PkV FN.gE KMHOS AMYE LCOG({HO I$
+3 9 I \;V\'{B,$M EH P V KL LF°APNf L\,,DRNOGKCV EGM VE I FOM L [ATS$
+
+HAR
+HPR
+HGR
+HM R
+HER
+
+@
+
+792
+80 6
+6 51
+857
+434
+
+A
+OEfGW.1,;.QITPOE:TU'.'.MKAL\L;fS I IPVD\3\-)KNQKFfDILRMNY
+OEfWKLQVS O&tF LCMKVLLLLNT I P'.LEGLR$0TOFE!E,MRS SY
+s ECH RQGlV s vtJ:tv U;:MKTLLQGs s VJ;Ko§QK$'GlE L(o~:1 RMTY
+LOf:V RI.PL T n:gv Ti t:ti<V i.,.pµt,;s TI pK DG;t:KSQAAF;EgM RT NY:
+R ffRMMNLOGE:E:FVQC)<sti\µNSGVYTF.\)S$TLKSLgEKDHi
+
+HAR
+HPR
+HGR
+HM R
+HER
+
+IMiJ
+
+8 3 5 JKl;'.t:DR I I ACKRK NPTS CS RRFYOLTKLLOs¢op I AR EtHOFT
+84 9 :tR!i;L {l<'.A I GLROKGV VS SS ORJYOLJK LLON LH D LV KO{H L YC
+694 !Kf;i;;Gl<'..A IV KREGNSSONWOf{JYQl.!Ti({L;DS MH EV V ENl;LN YC
+9 0 0 {.KE.LR KM VT KCPN NS GQSWORf:YO.!;;)T'KLL;QS MHD LVS D\:/LE FC
+476 HRVl;DKITDTLIHLMAKAGLTLOQOHORLAoLLLI LSHiRHMS
+
+HAR
+HPR
+HGR
+H MR
+HER
+
+878 FDLLI KSHMVSVDfP[N.MAE!J.SVOVPKI LSGKVKPI YfHTO
+892 LNTFIOSRALSVEfPEl:liMSE:VIAAOLJ?.k'.! LA<iiMVl{PLLff\KK
+737 FOTFLDKTM SIEFPEM.LAEI.lTN.OIP\<YSNG;NIKKLLf:lJOK
+943 FYTFRESHALKVEFPAMLVfl I.SD\)LPKVESG;NAj<PLYfHRK
+509 NKGMEHLYSMKCKNVV~LTOLLLEMLOAHRLAAPtSRGGAsv
+
+HAR
+HPR
+HGR
+HMR
+HER
+
+Fig. 3. Partial Amino Acid Sequence Comparisons of Nuclear Steroid Receptors within the Coding Region Containing Single Amino
+Acid Substitutions Identified in the AR Steroid-Binding Domain of Subjects with CAIS
+The single letter code for the amino acid sequences of human AR (HAR; aa 706-9i 9) (13), human PR (HPR; aa 720-933) (7i ),
+human GR (HGR; aa 565-778) (72), human mineralocorticoid receptor (HMR; aa 771-984) (73), and human ER (HER; aa 348-550)
+(74) are shown in alignment. Identical amino acids (shaded areas) are indicated relative to HAR. The amino acid substitutions at
+positions 774, 831, and 866 of the human AR mutants presented in this study are shown as an outlined single letter amino acid
+code at the appropriate positions.
+
+Construction and Expression of Mutant AR cDNAs
+
+Having demonstrated the association bf AR gene point
+mutations with CAIS, we went on to show the effect of
+each mutation on the biological function of AR. Complementary DNA fragments containing each of the three
+nucleotide base changes from the two AR- and one
+AR+ subjects, were ligated into the Hindlll/BamHI sites
+of the parent wild-type pCMV expression vector so as
+to construct a human AR cDNA with the representative
+mutations (Fig. 5). The presence of each nucleotide
+base substitution at the appropriate position and the
+absence of other base changes was verified by sequencing the complete Hindlll/BamHI fragment from
+each plasmid.
+The pCMV human AR expression vector containing
+
+the wild-type AR sequence or mutations AR-R774C, R831 Q and -V866M was co-transfected into COS-1
+monkey kidney cells along with the plasmid pCH110,
+containing the lac Z gene driven by the SV40 promoter.
+Transfection efficiency was determined by comparing
+AR to ,6-galactosidase activity.
+lmmunoblots of human AR protein expression in
+transfected COS-1 cells were performed with each of
+the five following transfections: mock COS, AR-wt, ARR774C, AR-R831Q, and AR-V866M. For the wild-type
+and each of the three mutants, a protein of 110 kDa
+reacted specifically with hAR52 antiserum which recognizes an epitope immediately 5' to the DNA binding
+domain (Fig. 6).
+To determine whether the expressed AR proteins
+could bind androgen, COS-1 cells were transfected and
+
+AR Functional Defect in AIS
+
+1763
+
+D
+B
+
+std
+
+bp
+
+wt
+• Bst
+
+C
+
+A
+• Bst
+
+• Bst
+
+• Bst
+
+• Bst
+
+p5HEBhAR·1
+7.8 kb
+
+1078~
+603~
+310 ....
+
+234~
+
+Tth 111 I
+Bgl II
+
+I
+
+Hindi"'
+
+Sph I
+
+I Hlnfl I
+
+Barn H I
+
+Pstll
+
+I
+
+3.1 Kb androgen receptor cDNA
+
+I
+
+Fig. 4. BstBI Restriction Endonuclease Digestion of DNA from
+Exon 7 of Human AR Gene with Mutation R831 Q
+PCR amplified DNA fragments of exon 7 were incubated in
+the absence (-) or presence (Bst) of BstBI for 1 h at 65 C.
+The digested DNA was electrophoresed on a 4% NuSieve
+GTG agarose gel with 0X 174-Haelll digested DNA as a
+standard. Genomic DNA was from one normal subject (wt)
+and four members (A-D) of a pedigree with CAIS, AR- determined to have mutation R831 Q: A, 46,XY subject with CAIS,
+AR-; B, 46,XX obligate heterozygous mother of subject A; C,
+sibling of subject B with CAIS, AR-; and D, 46,XX obligate
+heterozygous mother of subjects B and C.
+
+incubated with a saturating concentration of 3 H-R1881
+(5 nM) for 2 h and assayed for the level of specific
+androgen receptor binding activity. In cells transfected
+with either AR-wt or AR-V866M, a high level of 3 HR1881 binding is observed (Table 1). However, when
+cells are mock-transfected or transfected with ARR?? 4C and AR-R831 Q, specific 3 H-R 1881 binding is
+absent. Scatchard analyses of 3 H-R1881 binding in
+replicate plates of COS cells transfected with AR-wt
+(0.05-1.5 nM 3 H-R1881) or AR-V866M (0.2-5.0 nM 3 HR1881) shows a 6.5-fold lower apparent binding affinity
+(Kd) for the mutant receptor (2.46 nM) than for the wildtype receptor (0.38 nM) (Fig. 7). This result is similar to
+the difference in binding affinity reported earlier for
+cultured genital skin fibroblasts (18) from normal subjects and three affected siblings of this pedigree with
+complete AIS, AR+ (AR-V866M) (Table 1). Furthermore, the absence of R1881 binding in COS-1 cells
+transfected with AR-R77 4C and AR-R831 Q is not due
+to the lack of protein translation nor to a truncated or
+significantly unstable AR protein created by any of the
+mutations.
+Mutant ARs are Defective in Transcriptional
+Activation
+
+The relative abilities of the wild-type and mutant human
+AR proteins to function as activators of gene transcrip-
+
+AR3~
+AR5a _ .
+AR5._
+AR7a AR7b . _
+
+AR8a_.
+AR8b__..
+AR3
+AR5a
+AR5
+AR7a
+AR7b
+AR8a
+AR8b
+AR9b
+AR6
+
+5' CTGTGGAGATGAAGCTICTGGGTGTC 3'
+5' GAAGCTGACAGTGTC 3'
+3' GGGTCTICGACTGTCACAGTGTAAC 5'
+5' CACCAATGTCAACTC 3'
+3' GTGGTTACAGTTGAC 5'
+5' GTATCATTGCATGCA 3'
+3' TGCATGCAATGATAC 5'
+3' GATGAGGAGACGTCAC 5'
+3' ACATGTCAGACAGTACTTGTACAAGAACGCTAGGGCC 5'
+
+Fig. 5. Map of Expression Vector and cDNA Subcloning Strategy
+A 3.1 kb human AR cDNA was cloned into the pCMV5
+expression vector as shown (top). A series of AR specific
+oligonucleotides (bottom) was synthesized to overlap restriction endonuclease sites within the 3' -region of the AR cDNA
+(middle) to facilitate both subcloning and sequencing of various
+AR constructs.
+
+tion were studied in CV-1 cells by their ability to induce
+chloramphenicol acetyltransferase (CAT) activity in the
+presence of various steroid hormones. The mouse
+mammary tumor virus-long terminal repeat (MMTVLTR) contains four partial inverted repeats of the sequence, TGTTCT, which function as response elements
+for AR, as well as for glucocorticoid and progestin
+receptors. Therefore, we cotransfected cells with the
+MMTV-LTR-CAT reporter gene, with pCH110 containing the lac Z gene, and with the AR expression vector
+constructs. CAT activity is absent in CV-1 cells if steroid
+is not added, regardless of the transfection of wild-type
+or mutant human ARs (Fig. 8). In the presence of 1O
+nM androgen (DHT or R1881), AR-wt or AR-V866M,
+both of which bind androgen, significantly induce CAT
+activity when expressed in CV-1 cells. By contrast, the
+AR- mutants, AR-R774C and AR-R831 Q, are totally
+ineffective in stimulating CAT activity when androgen is
+added. The addition of 10 nM progesterone or 25 nM
+
+Vol 4 No. 12
+
+MOL ENDO· 1990
+1764
+
+5
+AR wt
+
+.,~
+~
+
+Mr x 10 •3
+
+Kd= 0.38nM
+
+4
+3
+
+Cl)
+
+~
+
+200..,..
+
+LL
+
+2
+
+'0
+C
+:,
+
+~
+0
+
+10
+
+5
+3 H-R1881 bound
+
+4
+
+<?
+
+15
+
+20
+
+(fmol /mg DNA x 10 -3)
+
+ARV866M
+Kd = 2.46 nM
+
+3
+
+~
+~
+Cl)
+
+~
+
+2
+
+LL
+
+'0
+C
+:,
+0
+
+ID
+
+0
+
+2.5
+3 H-R1881 bound
+
+Fig. 6. lmmunoblot of Wild-Type and Mutant ARs Expressed
+in COS Cells
+COS-1 cells were mock transfected (COS) or cotransfected
+with AR-wt or mutant AR-R77 4C, -R831 Q, or -V866M and
+pCH110 plasmids by the calcium phosphate co-precipitation
+method. Aliquots (50-75 µI) of cell extracts normalized for (3galactosidase activity were run on 7 .5% polyacrylamide-SDS
+gels, transferred to nitrocellulose filters, and incubated with
+antipeptide specific AR antiserum (AR52), diluted 1:250 (11
+µg protein/ml). Antigen-antibody complexes were labeled with
+125
+1-protein A and visualized by autoradiography. The relative
+position of the protein molecular weight markers (M, x 1o-3 )
+and of AR are indicated on the left.
+
+Table 1. Androgen Binding by Normal and Mutant Androgen
+receptors
+COS-1
+
+GSF
+AR
+
+Wild-Type
+R774C
+R831Q
+V869M
+
+Specific Binding
+Bm=
+K,{nM)
+{fmol DHT/mg DNA)
+{fmol R1881/mg DNA)
+
+544
+<10
+<10
+720
+
+0.53
+ND
+ND
+1.50
+
+16182
+196
+128
+9081
+
+AR binding of DHT, analyzed by Scatchard plots of data from
+the inctJbation of cultured genital skin fibroblasts (GSF) from
+normal ahd CAIS subjects with radiolabeled steroid as previously reported (11, 18), were used to determine the number
+of binding sites (Bmax) and the apparent binding affinity (Kd).
+AR binding of R1881 was assayed in COS-1 cells transfected
+with the wild-type or mutant AR expression vector and incubated with a saturating concentration (5 nM) of radiolabeled
+R1881 (n = 3). ND, Not determined due to absence of steroid
+binding.
+
+5
+
+7.5
+
+10
+
+(fmol /mg DNA x 10 •3 )
+
+Fig. 7. Scatchard Analyses of R1881 Binding to AR in COS-1
+Cells Transfected with Wild-Type and Mutant AR Expression
+Vector
+COS-1 cells were cotransfected by the calcium phosphate
+coprecipitation method with AR-wt or AR-V866M and
+pCH110. Replicate plates of cells containing AR-wt were
+incubated with 0.05-1.5 nM 3 H-R1881 or AR-V866M were
+incubated with 0.2-5.0 nM 3 H-R1881 for 2 hat 37 C. Specific
+AR binding of R1881 was assayed in cell extracts normalized
+for DNA content and for the relative efficiency of transfection
+according to the (3-galactosidase activity.
+
+dexamethasone fails to stimulate CAT activity by any
+of the expressed AR proteins. AR-wt is, however, able
+to induce CAT activity upon the addition of 10 nM
+estradiol, whereas none of the mutant AR proteins,
+including AR-V866M, is able to stimulate CAT activity
+in the presence of estrogen.
+When the level of CAT activity is quantified by a twophase partitioning radioactive scintillation assay, distinct differences are observed in the ability of the various
+androgen ligands to induce enzyme activity with the
+wild-type receptor, AR-wt, and the AR+ mutant, ARV866M (Fig. 9). Using a range of steroid concentrations
+from 0.1-10 nM, DHT, R1881, and testosterone cause
+a dose-dependent increase in CAT activity. However,
+distinct differences are observed between the ability of
+AR-wt and AR-V866M to stimulate CAT activity at a
+given concentration of DHT, R1881, or testosterone.
+At the highest concentration of steroid (10 nM), little
+difference is seen between AR-wt and AR-V866M, the
+increase being about 100-fold above the baseline level
+observed in the absence of steroid. However, at 0.1 nM
+DHT or R1881, a major difference in the magnitude of
+CAT stimulation by the same two receptor contructs is
+
+AR Functional Defect in AIS
+
+1765
+
+AR wt
+
+••
+
+••
+1
+
+2
+
+3
+
+cont
+
+4
+
+6
+
+5
+
+9 10 11 12
+
+Dex
+
+R1881
+
+DHT
+
+8
+
+7
+
+Prog
+
+DISCUSSION
+
+E2
+
+AR R774C
+
+• •• ••
+2
+
+1
+
+4
+
+3
+
+DHT
+
+cont
+
+5
+
+6
+
+R1881
+
+8
+
+7
+
+Dex
+
+•
+9
+
+10 11
+
+Prog
+
+12
+
+E2
+
+AR R831Q
+
+1
+
+2
+
+cont
+
+3
+
+4
+
+DHT
+
+5
+
+6
+
+7
+
+R1881
+
+8
+
+9
+
+Dex
+
+10 11
+
+Prog
+
+12
+
+E2
+
+AR V866M
+
+•
+1
+
+2
+
+cont
+
+3
+
+4
+
+DHT
+
+5
+
+6
+
+R1881
+
+7
+
+8
+
+Dex
+
+and estradiol (10 nM) are added in combination, there
+is no evidence for synergism or antagonism, the stimulation of CAT activity for AR-wt by the two steroids is
+additive and for AR-V866M is equivalent to 1.0 nM DHT
+alone .
+
+~
+
+10 11
+
+Prog
+
+12
+
+E2
+
+Fig. 8. Steroid-Specific Transcriptional Activation of CAT in
+CV-1 Cells Transfected with Wild-Type and Mutant ARs
+CV-1 cells were cotransfected with AR-wt or mutant ARR774C, -R831Q, or -V866M, the MMTV-LTR-CAT reporter
+gene and the pCH110 lac Z gene plasmids by the calcium
+phosphate coprecipitation method. Replicate plates of cells
+were subsequently incubated for 36 h in the absence or
+presence of 10 nM DHT, methyltrienolone (R1881), progesterone (Prog) or estradiol (E 2), or 25 nM dexamethasone (Dex).
+The acetylation of 14C-chloramphenicol by extracts (normalized
+for transfection efficiency based upon /3-galactosidase activity)
+of transfected steroid-treated CV-1 cells was determined by
+autoradiography after TLC resolution of the reaction products.
+
+observed; CAT induction being 60-fold above baseline
+for AR-wt but only 3-fold higher for AR-V866M. In the
+presence of 1 nM DHT, R1881, or testosterone, the
+CAT activity is 75- to 110-fold over baseline with ARwt but with the AR+ mutant, it is 33-, 60-, and 4-fold
+for the three steroids, respectively. When 10 nM estradiol is added to the cells, an 11-fold increase of CAT
+activity over baseline occurs in cells with AR-wt but no
+effect is observed for AR-V866M. When DHT (1.0 nM)
+
+The AR is a member of the steroid, thyroid, and retinoic
+acid hormone recE;lptor superfamily of proteins that
+mediate the action~ of their respective cognate ligands
+through the regulation of g(;lne transcription (7-10). The
+proteins are modular in nature, comprised of a highly
+variable N-terminal domain, thought to function in transcriptional l;lctivation, and well-characterized DNA- and
+hormone-binding domains (20, 21 ). The latter regulates,
+in unknown fashion, the ability of the DNA-binding
+domain of the protein to recognize DNA sequence
+elements of responsive genes and modulates the transcription of those genes.
+Several pathophysiological conditions in humans result not from a lack of the hormone but rather from an
+impairment of the mechanism which activates hormoneresponsive genes. These conditions of hormone insensitivity in humans have been described for thyroid (22),
+vitamin D (21), glucocorticoid (24), mineralocorticoid
+(25), and androgen (1, 4). In androgen insensitivity,
+biochemical studies have shown that the impairment in
+hormonal responsiveness correlates with defects in
+binding of androgen to its receptor (1, 4, 11, 12, 18).
+This study shows that ligand binding and transcriptional
+activation are impaired due to naturally occurring mutations in the androgen receptor gene and establishes
+the conclusion that AR defects underlie the condition
+of CAIS in humans.
+The heterogeneous nature of human CAIS became
+apparent from studies of AR binding in cultured genital
+skin fibroblasts from affected subjects (1 , 11 , 12). In
+some cases of CAIS, AR binding was undetectable
+(AR-), whereas in others quantitatively normal binding
+(AR+) was observed. More recently using cDNA probes
+for the human AR gene, we reported that a partial
+deletion was responsible tor complete androgen insensitivity in one family (17). While this finding provided an
+explanation for the physiological insensitivity and the
+absence of AR binding activity in cultured genital skin
+fibroblasts from affected members of this family, other
+families with absent AR binding had no apparent structural defect in the AR gene (17). In fact, AR gene
+transcription also appeared normal on Northern blots
+of poly(A+) RNA isolated from cultured genital skin
+fibroblasts of six subjects with CAIS, AR-, and one
+patient with CAIS, AR+. On this basis, we suggested
+that point mutc1tions in the AR gene might be responsible for the expression of androgen insensitivity in
+these subjects. Appropriately, we identified a single
+nucleotide substitution within the open reading frame
+of the gene in the AR+ family who had quantitatively
+
+Vol 4 No. 12
+
+MOL ·ENDO, 1990
+1766
+
+150
+
+f.
+.,
+i.,
+
+Ill
+
+AR~wt
+
+~
+
+AR-V866M
+
+_ 100
+it
+
+s~ i~
+C
+
+.Q
+
+"
+
+<(
+
+0
+
+6
+
+ti:,
+
+.... I
+
+c" .E"
+
+50
+
+.c
+
+E
+f!
+0
+
+:c
+0
+
+0
+[nM] 0
+control
+
+R1881
+
+E2
+
+DHT+E2
+
+Fig. 9. Concentration-Dependent Transcriptional Activation of CAT by Androgens for Wild-Type AR and AR Mutant V866M
+CV-1 cells were cotransfected with AR-wt or AR-V866M, MMTV-CAT reporter gene, and pCH110 lac Z gene plasmids by the
+calcium phosphate coprecipitation method. Three replicate plates of cells were subsequently incubated for 36 h with 0.1-10 nM
+DHT or R1881, 1.0 nM testosterone (T), 10 nM E2 or a combination of 1 nM DHT and 10 nM E2, CAT activity was measured by
+incubation of extracts from transfected, steroid-treated cells with chloramphenicol, and 3 H-acetyl CoA. The partitioning of the 3 Hacetylated chloramphenicol reaction products into an organic scintillation cocktail was monitored over time by repetitive scintillation
+spectrophotometric counting. All reactions were linear for greater than 3 h at room temperature with a correlation coefficient (r) of
+greater than or equal to 0.95 determined by linear regression analysis. Fold induction of CAT activity over baseline was calculated
+from the linear slope of each kinetic reaction curve using the following formula:
+
+CAT(AR-transfected
+,6-gal(AR-transfected
+
++ steroid)
++ steroid)
+
+[CAT(mock transfected) - CAT(no cell extract)]
+,6-gal(mock transfected)
+
+The bars represent the mean ± SEM from the three replicate plates of cells per group assayed in duplicate.
+
+normal but qualitatively abnormal AR binding activity
+(18). The nucleotide change (G - A) resulted in the
+substitution of methionine for valine in amino acid position 866 (19). Although this amino acid substitution
+was correlated with CAIS in three affected members of
+this family and was transmitted as an X-linked trait,
+functional studies of the putative mutant AR were not
+obtained.
+In this study, we report point mutations in the AR
+genes of two unrelated families with CAIS, AR-. Because their receptors did not bind DHT in cultured
+genital skin fibroblasts (1), we amplified in each family,
+exons 4 to 8 of the AR gene which encode the steroidbinding domain (13). In one family, the point mutation
+occurs in exon 7 with a G - A change resulting in an
+amino acid substitution of glutamine for arginine at
+position 831 (13). Based upon restriction endonuclease
+digestion of DNA with BstBI, we showed the X-linked
+inheritance of this mutation. In a second family, we
+identify within exon 6, a single nucleotide substitution
+(C - T) that results in the substitution of a cysteine for
+an arginine at amino acid position 77 4 (13). This substitution eliminates a Kpnl restriction endonuclease
+cleavage site near the 5' -border of exon 6, a finding
+recently reported to occur in three other unrelated
+families (26-28). We cloned each of these point mutations into an AR expression vector (13) and transfected
+them into COS cells. The presence of the expressed
+proteins was verified by immunoblotting with an AR
+
+specific antiserum (13). The fact that both proteins are
+unable to bind R1881 with high affinity or to transactivate the MMTV-CAT reporter gene in an in vitro transfection assay for biological function, provides definitive
+proof linking these single amino acid substitutions with
+the condition of CAIS.
+A multifunctional role in hormone action has been
+proposed for the steroid binding domain. In addition to
+the well-documented role of this C-terminal domain in
+steroid binding, it also functions in transcriptional activation and receptor dimerization (29-37). Our results
+demonstrate that a single amino acid substitution within
+the steroid binding domain from a basic residue, arginine, at positions 774 or 831, to a polar amino acid like
+cysteine or to glutamine, respectively, can eliminate the
+hormone binding capacity of the protein. The normal
+function of the steroid is to bind AR and to release the
+inhibitory influence of the unoccupied receptor on transcription activation; a biological activity that is defective
+in mutants R774 and R831 Q. Therefore, these naturally
+occurring inactive mutant ARs are differentiated from
+the genetically engineered AR deletion mutants of the
+steroid binding domain which are constitutive activators
+of transcription (38).
+Interestingly, the mutations in AR, R774C, and
+R831 Q, occur in arginine residues that are not contained within blocks of conserved amino acid homology
+among the various steroid receptors shown in Fig. 3.
+However, the wild-type AR amino acid residue arginine
+
+AR Functional Defect in AIS
+
+is conserved among the most highly homologous neighbors of the human AR, namely glycocorticoid receptor
+(GR) and progesterone receptor (PR) (Fig. 3). The fact
+that the wild-type arginine residues at positions 774
+and 831 are neither unique nor completely conserved
+among all steroid receptors suggests that they do not
+directly contact the steroid molecule. Instead, the lack
+of steroid binding and consequent lack of transcription
+activation in these mutants is likely to be the result of
+an altered conformation in the AR protein that prevents
+hormone binding, and thus transcription activation, but
+does not significantly influence its turnover as shown
+by immunoblotting. Interestingly, a human AR cDNA
+clone isolated from a human testis cDNA library contains four amino acid substitutions in the region immediately adjacent to R831 Q (39). This sequence alteration results in an AR protein which does not bind steroid
+with high affinity and also fails to activate gene transcription in vitro.
+Although many cases of CAIS result from the absence of ligand binding by AR, relatively fewer cases
+are characterized by quantitatively normal but qualitatively abnormal androgen binding activity (1 , 4, 18). The
+mutation V866M (valine - methionine) represents such
+a case, where a normal to elevated number of ARs
+were measured in cultured genital skin fibroblasts but
+the apparent binding affinity for DHT was decreased by
+severalfold (18). Expression of this mutant in the AR
+expression vector resulted in an AR protein with over
+6-fold reduced affinity for binding of R1881 . When the
+mutant AR cDNA expression vector was cotransfected
+with the MMTV-CAT reporter gene, a dose-dependent
+androgen stimulation of CAT activity by R1881 or DHT
+was observed. At physiological steroid concentrations
+of 0.1 nM, the mutant AR-V866M stimulated CAT activity only minimally, much less than AR-wt. At high concentrations of steroid (1 O nM), mutant AR-V866M stimulated gene transcription in vitro, an effect that would
+not occur in vivo at physiological concentrations of free
+androgen available to the target cells. The relatively low
+induction of CAT activity by mutant AR-V866M was
+steroid concentration dependent and the potency of
+effect followed the relative binding affinities for R1881
+> DHT > testosterone to AR (40). Interestingly, the
+V866M and wild-type AR are also distinguished by the
+induction of CAT activity by estradiol. AR-wt stimulates
+CAT activity in the presence of 10 nM estradiol but
+V866M does not, suggesting that sufficiently high concentrations of estradiol may actually activate gene transcription by binding to the wild-type AR (41, 42).
+The mechanism by which the point mutation V866M
+results in only a modest change in steroid binding
+properties of the AR but causes total loss of in vivo AR
+functional activity is not yet clear. It appears that complete transformation of the receptor subsequent to
+steroid binding requires precise structural interaction
+between receptor and ligand (37). Steroid antagonists,
+for example, have recently been shown to bind estrogen
+receptor (ER) and GR and promote specific binding to
+hormone response elements without enhancing gene
+
+1767
+
+transcription as would a normal agonist. Hormone binding domains of ,nuclear receptors are now recognized
+to have transcription activation function (31, 33-37).
+Ligand binding to AR and other steroid hormone receptors initiates a transformation process that results in
+enhanced binding of receptors to their hormone response elements (29-32). This process may involve a
+conformational change in the receptor protein or separation from a nonsteroid-binding component that unmasks the DNA-binding domain and a nuclear transfer
+sequence located in the C-terminal region downstream
+from the DNA-binding domain. The process may also
+activate within the steroid binding domain, a dimerization sequence shown to be required for strong interaction of the steroid receptor with its response element
+and for transactivation of gene expression (34-36).
+Recently, Parker and co-workers (33, 34) have shown
+that a C-terminal region, which includes the mutation
+at amino acid 866, contains hydrophobic residues arranged in a heptad and conserved in all nuclear receptors. In vitro mutations in this region in the mouse ER
+blocked receptor dimerization, decreased DNA binding
+affinity and eliminated steroid binding. Thus, V866M
+may be defective in any one of a number of regulatory
+steps involved in steroid hormone action.
+Whereas the decreased but not absolute absence of
+biological function of AR mutant V866M may not appear
+to be consistent with the phenotype of complete AIS,
+one must take into account several additional factors
+such as: 1) whether the concentration of endogenous
+androgen in the developing fetus is sufficient to induce
+androgen-dependent musculinization if the AR mutation
+is present; 2) whether the presence of the mutation
+interfers in some way with the actions of other factors
+involved in androgen-stimulated gene transcription; and
+3) whether the hormone response element within the
+MMTV-LTR promoter, which is promiscuous in the
+presence of AR, GR, or PR, is an accurate androgen
+response element to determine the specificity of androgen action (41-46).
+Whereas the direct action of testosterone or its more
+potent 5a-reduced metabolite, DHT, on transcription
+involves multiple nuclear proteins, the specificity of
+transcriptional activation by androgens most probably
+lies in the AR itself. Thus, it is not surprising that
+insensitivity to androgens arises from mutations in the
+AR, analogous to those recently shown to be responsible for vitamin D (47-49) and thyroid (50) resistant
+states. In this study, point mutations in the human AR
+gene steroid-binding domain have been definitively associated with functional defects in the AR proteins from
+human subjects with AIS. Whereas complete insensitivity to androgen is readily apparent in 46,XY subjects
+with a completely female phenotype as seen in this
+study, it is likely that other mutations within the AR
+gene lead to partial insensitivity with ambiguity of the
+external genitalia (1) and possibly even less severely
+affected phenotypes as in phenotypic men with azoospermia (2, 3). Finally, the occurrence of AIS might
+also arise from changes in other elements of the andro-
+
+MOL END0,1990
+1768
+
+Vol 4 No. 12
+
+MATERIALS AND METHODS
+
+human AR cDNA sequence. We then subcloned a 1206-bp
+human AR cDNA fragment by insertion at its natural 5' -Hindi II
+site (nucleotide 2829) and ligated it to the BamHI site (nucleotide 4066) within the 3' -polylinker region of the vector, thus
+retaining unique internal Hindlll and EcoRI sites within the AR
+cDNA and an external 3' -BamHI site, these sites being convenient for subsequent subcloning of cDNA fragments containing specific point mutations in the human AR. We termed
+this new expression vector, p5HEBhAR-1. Preparation of
+these mutant ARs is described below and in Fig. 5.
+
+Experimental Subjects
+
+RNA Preparation, Northern Blots, and cDNA Synthesis
+
+Informed written consent for genital skin biopsy or blood
+sample was obtained from each individual according to protocols approved by the Johns Hopkins Joint Committee for
+Clinical Investigation. Each affected subject with CAIS had a
+normal 46,XY karyotype with normal female external genitalia
+and absence of uterus and fallopian tubes. A short vagina
+ended in a blind vaginal pouch. Bilateral testes were located
+in the abdomen or in the labia majora but there were little or
+no Wolffian duct derivatives. Breast development occurred
+spontaneously at puberty and there was sparse to absent
+pubic and axillary hair despite blood testosterone concentrations in the normal adult male range. Androgen receptor binding assays in cultured human genital skin fibroblasts have
+been reported previously for all subjects included in this study
+(1, 11, 12, 18).
+
+Total RNA was prepared from human genital skin fibroblasts
+by solubilization in 4 M guanidinium isothiocyanate and centrifugation through a 5.7 M cesium chloride cushion, estraction
+with phenol and chloroform, and repeated precipitation with
+ethanol in the presence of potassium acetate (57). The poly(A+)
+RNA fraction was obtained by passing the crude RNA over
+two successive oligo-dT columns and ethanol precipitation
+(58).
+For Northern blot analyses (59), 2-3 µg poly(A+) RNA was
+electrophoresed on a 1% agarose-1 .13% formaldehyde gel in
+20 mM MOPS, pH 7.0, 5 mM sodium acetate, and 1 mM EDTA
+at 5 V/cm, transferred to nitrocellulose overnight in 20x SSC,
+and baked at 80 C for 2 h. The filter was wet briefly in deionized
+formamide and prehybridized at 42 C in a solution of 25 mM
+KP04 , pH 7.4, 5X SSC, 5X Denhart's, 50 µg/ml yeast tRNA,
+50% formamide, and 10% dextran sulfate. Hybridization of
+RNA to human AR or chicken ~-actin cDNA probes was
+performed in the presence of 2-4 x 106 cpm random-primed
+32P-labeled probe/ml hybridization solution at 42 C. The filters
+were washed twice for 15 min in 1x SSC/0.1% sodium
+dodecyl sulfate (SDS) at room temperature and twice for 15
+min in 0.25X SSC/0.1 % SDS at room temperature and exposed to Kodak XOMAT film at -70 C with an intensifying
+screen.
+Poly (N) RNA (1 µg) was used to prepare single-stranded
+cDNA (60) with random hexamer priming following the protocol
+supplied with the Amersham cDNA Synthesis System Plus
+(Arlington Heights, IL). The 20-µI reaction volume was diluted
+25-fold in TE, pH 7.5, and stored at 4 C. An aliquot of the
+cDNA pool (1 µI) was amplified by the polymerase chain
+reaction (PCR) using 25 pmol each human AR cDNA oligonucleotide primer designed to overlap the Hindlll and BamHI
+restriction sites (AR3 and AR6 of Fig. 4) in a 50 µI total reaction
+volume containing 200 µM each dNTP in reaction buffer (1 O
+mM Tris-HCI, pH 8.3, 50 mM KCI, 1.5 mM MgCl2, and 0.01%
+gelatin). The reaction mixture was denatured at 94 C for 5 min
+and cooled to 72 C. Taq DNA polymerase (Perkin-Elmer/
+Cetus, Emeryville, CA) (2.5 U) was added and a first cycle of
+amplification (94 C, 1 min; 56 C, 2 min; 72 C, 40 min) was
+followed by additional cycles of amplification (94 C, 40 sec; 56
+C, 2 min; 72 C, 3 min) and a final extension at 72 C for 15
+min.
+The amplified product was digested with Hindlll and BeymHI
+and purified on a 4% NuSieve GTG agarose (FMC Bioproducts, Rockland, ME) gel. The purified 1.2 kb AR cDNA fragment was ligated directly from the melted agarose into the
+Hindlll/BamHI sites of the p5HEBhAR-1 expression vector for
+transfection into competent HB101 cells. Colonies containing
+plasmid DNA were selected for growth on LB-ampicillin (200
+µg/ml) agar plates. Five to 10 colonies were selected, inoculated into 5 ml liquid cultures of LB containing 50 µg/ml
+ampicillin and grown overnight at 37 C. Plasmid DNA was
+prepared by a modification of the alkaline miniprep method
+described by Maniatis et al. (61).
+For sequencing of double-stranded plasmid DNA, 2-3 µg
+purified DNA were denatured in 0.2 N NaOH at room temperature for 5 min and precipitated in the presence of 1 .5 M
+ammonium acetate by addition of ethanol at -80 C for 15 min.
+The DNA was collected by centrifugation, washed with 70%
+ethanol, dried, and resuspended in 7 µI water. The DNA was
+
+gen-inducible transcription pathway, either in specific
+transcriptional factors (51, 52) or in the important target
+genes themselves. Presumably, each might have a
+unique clinical presentation that is not currently appreciated.
+
+Cell Culture
+
+Human genital skin fibroblasts were propagated in tissue
+culture from explants of normal male foreskin (46,XY control
+subjects) or a biopsy specimen from the labia major of 46,XY
+subjects with CAIS. Genital skin fibroblasts as well as CV-1
+and COS-1 monkey kidney cells for DNA transfection experiments were maintained in minimal essential minimum (MEM)
+with Earle's salts and supplemented with 2 mM glutamine, 100
+U/ml penicillin, and 100 µg/ml streptomycin and 10% fetal
+bovine serum.
+AR Binding Assay
+
+AR binding activity was determined in replicate culture dishes
+of DNA-transfected COS-1 cells by the procedure described
+previously for cultured human genital skin fibroblasts (40). For
+total AR binding, cells were incubated for 2 h at 37 C in the
+presence of 5 nM 3H-R1881 (87 Ci/mmol; methyltrienolone;
+New England Nuclear, Wilmington, DE) in MEM. For Scatchard
+analyses (53), COS-1 cells were incubated in an identical
+manner with a range of 3H-R1881 concentrations from 0.055.0 nM. The level of specific radiolabeled steroid binding was
+normalized for DNA content as measured by the method of
+Burton (54) and corrected for efficiency of DNA transfection
+according to the ~-galactosidase activity (55) in replicate plates
+'
+of cells.
+Construction of Human AR Expression Vector
+
+The full-length coding sequence of the human AR contained
+within a 3.1 kb Bg/11-BspHI (blunt) cDNA insert was cloned into
+the pCMV5 parent vector (56) at the Bg/11-Hindlll (blunt) sites
+(13). The complete human AR expression vector, termed
+p5HBhAR-A, contains the immediate early promoter region of
+the human cytomegalovirus promoter, human GH transcription
+termination and polyadenylation signal, the SV40 origin of DNA
+replication and early region enhancer sequences, the bacteriophage Fl origin of replication, an Escherichia coli gene encoding ampicillin resistance and a polylinker region (56). The
+p5HBhAR-A vector was subsequently modified to eliminate
+the EcoRI site (nucleotide 911) in the 5' -polylinker region thus
+retaining a now unique EcoRI site (nucleotide 3542) within the
+
+1769
+
+AR Functional Defect in AIS
+
+initially sequenced following the protocol supplied by the manufacturer of the Sequenase kit (United States Biochemicals,
+Cleveland, OH) using human AR cDNA specific oligonucleotide
+primers (Fig. 5) to verify the presence in each selected plasmid
+of the altered base pair for the three affected human subjects.
+After identification of appropriate plasmid containing colonies,
+the entire Hindlll-BamHI human AR cDNA insert region was
+sequenced to eliminate the possibility that PCR induced nucleotide errors might be contained in the expression vector
+AR cDNA insert sequence or that more than one mutation
+might be contained within the AR gene of subjects with CAIS.
+Density Gradient Polyacrylamide Gel Electrophoresis
+
+Genomic DNA was prepared from cultured genital skin fibroblasts or blood leukocytes, as previously described (17). DNA
+(500 ng) was amplified by PCR as performed by Lubahn et al.
+(19) except that oligonucleotide primers for exons 4-8 were
+used at a final concentration of 1 µM and each 5' -oligonucleotide primer contained a 40-bp G-C clamp (5' GCCGCCCGCC
+GCCGCCCGCC GCCGCCGCCC GCCGCCCGCC 3') before
+the human AR specific 5' -primer sequence (62). Amplification
+conditions consisted of an initial denaturing step at 94 C for 5
+min before addition of 2.5 U Taq DNA polymerase followed by
+one cycle of 94 C, 2 min; 56-60 C, 2 min; and 72 C, 6 min;
+and 30 cycles of 94 C, 1 min; 56-60, 2 min; and 72 C, 3 min;
+with a final extension step at 72 C for 1O min. DNA products
+of the correct size were verified by electrophoresis on a 2%
+agarose gel at 100 V for 4 h.
+Amplified DNA fragments (10-µI reaction aliquot) were electrophoresed on a 6.5% polyacrylamide gel in T AE buffer with
+a 20-80% denaturant gradient (100% denaturant is 40%
+formamide/7 M urea) (62-64). Electrophoresis was carried out
+using a system designed by Green Mountain Lab Supply
+(Waltham, MA) with a 60 C recirculating TAE buffer bath for a
+total of 1300 V, h. The gel was stained with ethidium bromide
+and photographed under UV light to determine the relative
+mobility of each DNA fragment.
+In cases where exon-specific amplified DNA fragments from
+subjects with CAIS exhibited differential mobility on DGGE as
+compared to wild-type DNA fragments, the genomic DNA was
+reamplified by the PCR reaction but without the 40-bp G-C
+clamp oligonucleotide primer. Amplified DNA products were
+separated from oligonucleotide primers by centrifugation
+through a Centricon 30 microfiltration unit and directly sequenced (65, 66) with T7 DNA polymerase (Sequenase, United
+States Biochemicals). Sequencing primers, the same as those
+used for the amplification reactions, were end-labeled with 'Y32P ATP (3000 Ci/mmol; New England Nuclear) using T. DNA
+polynucleotide kinase (Bethesda Research Laboratories,
+Gaithersburg, MD). Approximately 80 ng PCR product were
+annealed with 10 ng appropriate 32 P-labeled sequencing primer
+in a volume of 11 µI on ice for 1O min. After heat denaturing
+for 5 min at 95 C, 2.5 µI annealed sample were added to four
+tubes with 3 µI sequencing mixture containing nonradioactive
+dNTPs at a concentration of 64 µl'yl, ddNTPs at a concentration
+of 6.2 µM and 2 U T7 DNA polymerase in buffer (25 mM TrisHCI, pH 7.5, 10 mM MgC'2, 70 mM NaCl, and 7 mM dithiothreitol). The mixture was incubated for 15 min at 37 C followed
+by the addition of 3 µI stop solution (95% formamide, 20 mM
+EDTA, 0.05% bromophenol blue, and 0.05% xylene cyanol
+FF). Samples were boiled for 3 min before loading 3 µI onto a
+7% polyacrylamide/8 M urea gel. After electrophoresis at 60
+W for 2-2.5 h, gels were dried and exposed to Kodak XOMAT
+film for 16 h at -70 C with an intensifying screen. Each
+sequence was verified by sequencing both the sense and
+antisense strands from two independent amplification reactions for each subject with AIS.
+Transient DNA Transfection
+
+On the day before transfection, CV-1 or COS-1 monkey kidney
+cells were transferred to 1 00-mm culture dishes at a density
+
+of 1 x 106 cells per dish. Two to 4 h before DNA transfection,
+5 ml fresh MEM c,ontaining 20% charcoal-treated fetal bovine
+serum were added to each culture dish. Cells were transfected
+with 30 µg total plasmid DNA consisting of 10 µg pCH11 O (gift
+from M. West, Johns Hopkins University), 10 µg MMTV-CAT
+(gift from L. Sanders, Johns Hopkins University), and 10 µg
+human wt or mutant AR in p5HEBhAR-1 or 10 µg control
+vector in 0.5 ml HBS (19 mM HEPES, pH 7.05, 0.14 M NaCl,
+5 mM KCI, 0.7 mM Na2HPO., and 5.5 mM glucose) and 0.125
+M CaC'2 by the calcium phosphate co-precipitation method
+(67). Cells were incubated in the presence of DNA for 4 h at
+37 C after which the medium was removed. The cells were
+washed twice with 5 ml serum-free MEM, incubated for 1 min
+in HBS containing 15% glycerol (COS~ 1 cells) or 20% glycerol
+(CV-1 cells) and rinsed with 1 x HBS. Cells were incubated
+overnight in MEM supplemented with 5% charcoal-treated
+fetal bovine serum. The next day, transfected cells from each
+group were detached from plates in PBS (0.15 M NaCl, 1 .15
+mM KH2PO., 4.3 mM Na2HP04, 2.7 mM KCl)-EDTA (0.53 mM)trpysin (0.05%) and suspended in MEM-5% charcoal treated
+FBS and passaged to 100-mm culture dishes. These replicate
+culture dishes were incubated for 4 h at 37 C to allow cells to
+attach to the dishes before the addition of steroids in ethanol
+(<0.1%) to the medium.
+lmmunoblotting
+
+COS-1 cells transiently transfected with the human AR cDNA
+expression vector were washed three times on ice with 5 ml
+PBS. Cells were directly solubilized by the addition of 300 µI
+hot (95 C) 2x electrophoresis sample buffer (0.125 M Tris-HCI,
+pH 6.8, 4% SOS, 20% glycerol, 1.4 M 2-mercaptoethanol).
+The viscosity of this cell lysate was reduced by the addition of
+0.1 µg each of DNase and RNase. Samples were stored frozen
+at - 70 C until use.
+Electrophoresis was carried out in 7 .5% polyacrylamide gels
+containing 3.5 mM SOS according to the method of Laemmli
+(68), using a vertical polyacrylamide gel (1.5 mm thick, 14 cm
+wide, and 12.5 cm long) with a 1 cm stacking gel. Samples
+were boiled for 5 min before application of 50- to 75-µI aliquots
+in gels. Proteins were transferred from polyacrylamide gels to
+nitrocellulose membrane filters by electrophoresis at 500 mA
+in 2.5 mM Tris, 0.19 M glycine at room temperature for 1.5 h.
+Nitrocellulose filters were preincubated (30 min) in 0.01 M
+Na2HPO., pH 7.4, 0.15 M NaCl, 0.5% Triton X-100 containing
+20 µg/ml SSA before incubation for 1 h with the affinity purified
+anti-peptide antibody (AR1-52) diluted 1:250 (11 µg/ml) in 0.01
+M Na2HP04, pH 7.4, 0.15 M NaCl, 0.5% Triton X-100 (13).
+Filters were washed several times with buffer in the absence
+of additional protein and then incubated with buffer containing
+20 µg/ml BSA and 1 µCi 1251-labeled protein A (8.29 µCifµg;
+New England Nuclear) for 1 h. Finally, the filter was washed
+with several changes of protein-free buffer. The washed filters
+were exposed to Kodak XOMAT film for 40-64 h at -70 C
+with an intensifying screen.
+Enzyme Assays
+
+Cells transfected with plasmid DNA were washed three times
+with 5 ml ice-cold PBS and scraped on ice into 1 ml 0.04 M
+Tris-HCI, pH 7.4, 1 mM EDTA, and 0.15 M NaCl. Cells were
+collected by centrifugation (4 C, 2 min) in a microfuge and
+stored frozen at -70 C or immediately resuspended in 150 µI
+0.25 M Tris-HCI, pH 7.8. The cell suspension was subjected
+to three cycles of freeze-thawing in dry-ice/ethanol for 5 min
+and 37 C for 5 min. The cell debris was pelleted in a microfuge
+(4 C, 5 min) and the supernatant was transferred to a new
+tube. The cellular extract was frozen at - 70 C and used for
+assay of t1-galactosidase or CAT activities.
+For t1-galactosidase (54), 30 µI cell extract were mixed with
+1 ml reaction buffer (60 mM Na2PO.f40 mM NaH2PO., 1O mM
+KCI, 1 mM MgSO., 0.05 M t1-mercaptoethanol, pH 7.0), and
+0.2 ml substrate (2 mg/ml O-nitro-t1-o-galactopyranoside in 60
+
+Vol 4 No. 12
+
+MOL END0, 1990
+1770
+
+mM Na2 P0 4/40 mM NaH 2 P04). The reaction was allowed to
+proceed at 37 C until a faint yellow color was observed (1 h
+or less for COS-1 cells and 2-3 h for CV-1 cells). The reaction
+was stopped by the addition of 0.5 ml 1 M Na 2 C0 3 and the
+difference between the absorbance peak at 420 nm and the
+baseline at 550 nm was recorded. The 1J-galactosidase activity
+was used as a measure of DNA transfection efficiency and to
+normalize CAT and AR binding activities between culture
+dishes and treatment groups.
+For CAT activity, two separate assays were used. The first
+assay used 14C-chloramphenicol (dichloroacetyl-1,2-14C; 58.2
+mCi/mmol; New England Nuclear) as substrate and resolved
+the acetylated 14-C products by TLC and subsequent autoradiography (69). The second assay used 3 H-acetyl coenzyme
+A (acetyl-3 H; 2.5 Cijmmol; New England Nuclear) as the cofactor for acetylation of chloramphenicol in a two-phase partition
+liquid scintillation spectrophotometric method (70). In the former assay, 30 µI cell extract were combined with 0.1 µCi (1.7
+µmol) 14 C-chloramphenicol, 0.5 M Tris-HCI, pH 7.8, and 0.53
+mM acetyl coenzyme A (CoA) in a total volume of 150 µI and
+incubated at 37 C for 3 h. The reaction mixture was extracted
+with 500 µI ethyl acetate. A 400-µI aliquot of the organic phase
+was dried, resuspended, and chromatographed on silica gel
+thin-layer plates in CHCl 3 :methanol (90:10). The chromatogram
+was exposed to Kodak XOMAT film overnight at room temperature to visualize the acetylated products.
+For the quantitative assay of CAT activity by scintillation
+spectrophotometry, 30 µI cell extract were mixed in a scintillation counting vial with 1.25 mM chloramphenicol, 0.1 M TrisHCI, pH 7.8, and 0.1 µCi (40 pmol) 3 H-acetyl CoA in a total
+volume of 0.2 ml. The reaction mixture was overlaid with a 5
+ml Betafluor (National Diagnostics, Sommerville, NJ) and
+placed into a scintillation spectrophotometer set for 0.5 min/
+sample and automatic recycling for 6-10 cycles. The linear
+rate of CAT enzymatic activity was detected as the diffusion
+of 3 H-acetylated chloramphenicol into the organic scintillation
+cocktail. All samples generated a linear curve of enzymatic
+activity (r > 0.95) in this assay for at least 3 h (i.e. six or more
+counting cycles).
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+7.
+8.
+
+9.
+
+10.
+11.
+
+12.
+
+13.
+
+Acknowledgments
+14.
+We thank Jorge Simental (University of North Carolina) and
+Marilyn West, Lars Cisek, Jie Zhang, Christine Nelson, Charles
+Weitz and Laura Sanders (Johns Hopkins University) for their
+helpful suggestions during the conduct of this work. We are
+grateful to our clinical collaborators, Drs. Eli Adashi (University
+of Maryland, Baltimore) and Gary Berkovitz and John Rock
+(Johns Hopkins Hospital), who referred and contributed to the
+clinical evaluation of the subjects with CAIS.
+
+15.
+
+16.
+Received July 30, 1990. Revision received September 14,
+1990. Accepted September 14, 1990.
+Address requests for reprints to: Dr. Terry R. Brown, Division of Pediatric Endocrinology, CMSC 3-110, Johns Hopkins
+Hospital, 600 North Wolfe Street, Baltimore, Maryland 21205.
+This work was supported by NIH Grant DK-00180, the
+NICHHD Center for Population Research, and the Howard
+Hughes Medical Institute.
+This work was presented in part at the Workshop Conference on Androgen Therapy: Biological and Clinical Consequences, 1990, Marco Island, FL and the 72nd Annual Meeting
+of The Endocrine Society, 1990, Atlanta, GA (Abstract 861 ).
+
+17.
+
+18.
+
+19.
+
+REFERENCES
+1. Brown TR, Migeon CJ 1987 Androgen insensitivity syndromes: paradox of phenotypic feminization with male
+genotype and normal testicular androgen secretion. In:
+
+20.
+
+Cohen MP, Foa PP (eds) Hormone Resistance and Other
+Endocrine Paradoxes. Springer Verlag, New York, pp
+157-203
+Migeon CJ, Brown TR, Lanes R, Palacios A, Amrhein JA,
+Schoen EJ 1984 A clinical syndrome of mild androgen
+insensitivity. J Clin Endocrinol Metab 59:672-680
+Aiman J, Griffin JE, Gazak JM, Wilson JD, MacDonald PC
+1979 Androgen insensitivity as a cause of infertility in
+otherwise normal men. N Engl J Med 300:223-227
+Griffin JE, Wilson JD 1989 The androgen resistance syndromes: 5a-reductase deficiency, testicular feminization
+and related syndromes. In: Scriver CR, Beaudet AL, Sly
+WS, Valle D (eds) The Metabolic Basis of Inherited Disease, ed 6. McGraw-Hill, Inc, New York, pp 1919-1944
+Jost A, Vigier B, Prepin J, Perchellet JP 1973 Studies on
+sex differentiation in mammals. Recent Prag Harm Res
+29;1-41
+Wilson JD 1978 Sexual differentiation. Annu Rev Physiol
+40:279-306
+Evans RM 1988 The steroid thyroid hormone receptor
+superfamily. Science 240:889-895
+O' Malley BW 1990 The steroid receptor superfamily: more
+excitement predicted for the future. Mol Endocrinol
+4:363-369
+Yamamoto KR 1985 Steroid receptor regulated transcription of specific gene networks. Annu Rev Genet 19:209252
+Beato M 1989 Gene regulation by steroid hormones. Cell
+56:335-344
+Keenan BS, Meyer WJ, Hadjian AJ, Jones HW, Migeon
+CJ 1974 Syndrome of androgen insensitivity in man:
+absence of 5 alpha-dihydrotestosterone binding protein in
+skin fibroblasts. J Clin Endocrinol Metab 38:1143-1149
+Amrhein JA, Meyer WJ, Jones HW Jr, Miegon CJ 1976
+Androgen insensitivity in man: evidence for genetic heterogeneity. Proc Natl Acad Sci USA 73:891-894
+Lubahn DB, Joseph DR, Sar M, Tan J, Higgs HN, Larson
+RE, French FS and Wilson EM 1988 The human androgen
+receptor: complementary deoxyribonucleic acid cloning,
+sequence analysis and gene expression in prostate. Mol
+Endocrinol 2:1265-1275
+Chang CJ, Kokoutis J, Liao S 1988 Structural analysis of
+complementary DNA and amino acid sequence of human
+and rat androgen receptors. Proc Natl Acad Sci USA
+85:7211-7215
+Trapman J, Klassen P, Kupier GGJM, van der Korput
+JAGM, Faber PW, von Rooij HCJ, van Kessel AG, Voorhorst MM, Mulder E, Brinkman AO 1988 Cloning, structure, and expression of a cDNA encoding the human
+androgen receptor. Biochem Biophys Res Commun
+153:241-248
+Tilley WD, Marcelli M, Wilson JD, McPhaul MJ 1989
+Characterization and expression of a cDNA encoding the
+human androgen receptor. Proc Natl Acad Sci USA
+86:327-331
+Brown TR, Lubahn DB, Wilson EM, Joseph DR, French
+FS, Migeon CJ 1988 Deletion of the human androgen
+receptor gene in one family with complete androgen insensitivity syndrome: evidence for further genetic heterogeneity in this syndrome. Proc Natl Acad Sci USA
+85:8151-8155
+Brown TR, Maes M, Rothwell SW, Migeon CJ 1982
+Human complete androgen insensitivity with normal dihydrotestosterone binding capacity in cultured genital skin
+fibroblasts: evidence for a quantitative abnormality of the
+receptor. J Clin Endocrinol Metab 55:61-69
+Lubahn DB, Brown TR, Simental JA, Higgs HN, Migeon
+CJ, Wilson EM, French FS 1989 Sequence of intron/exon
+junctions of the coding region of the human androgen
+receptor gene and identification of a point mutation in a
+family with complete androgen insensitivity. Proc Natl
+Acad Sci USA 86:9534-9538
+Giguere V, Hollenberg SM, Rosenfeld MG, Evans RM
+
+AR Functional Defect in AIS
+
+21.
+
+22.
+
+23.
+
+24.
+
+25.
+
+26.
+
+27.
+
+28.
+
+29.
+
+30.
+
+31.
+
+32.
+
+33.
+
+34.
+
+35.
+
+36.
+
+37.
+
+1986 Functional domains of the human glucocorticoid
+receptor. Cell 46:645-652
+Kumar VS, Green S, Stack G, Berry M, Jin JR, Chambon
+P 1987 Functional domains of the human estrogen receptor. Cell 51:941-951
+Eil C, Fein HG, Smith TJ, Furlanetto RW, Burgeois M,
+Stelling MW, Weintraub BO 1982 Nuclear binding of [125 1]
+triiodothyronine in dispersed cultured skin fibroblasts from
+patients with resistance to thyroid hormone. J Clin Endocrinol Metab 55:502-510
+Marx SJ, Speigel AM, Brown EM, Gardner DG, Downs
+RW, Attie M, Hamston AJ, Deluca HF 1978 A familial
+syndrome of decrease in sensitivity to 1,25-dihydroxycholecalciferol. J Clin Endocrinol Metab 47:1303-1310
+Chrousos GP, Vingerhoeds A, Brandon D, Eil C, Pugeat
+M, DeVroede M, Loriaux DL, Lipsett MB 1982 Primary
+cortisol resistance in man. J Clin Invest 69:1261-1269
+Oberfield SE, Levine LS, Carey RM, Bejar R, New Ml
+1979 Pseudohypoaldosteronism: multiple target organ
+unresponsiveness to mineralocorticoid hormone. J Clin
+Endocrinol Metab 48:228-234
+Trifiro M, Prior L, Pinsky L, Kaufman M, Chaney C,
+Trapman J, Brinkman AO, Kupier GGJM, Ris C 1989 A
+single transition at an exonic CpG site apparently abolishes androgen receptor (AR)-binding activity in a family
+with complete androgen insensitivity (CAI). Am J Hum
+Genet 45:A886
+Mebarki F, Gasmi M, Forest MG, David M, Chatelain P,
+Morel Y, Analysis of polymerase chain reaction (PCR)amplified exons of the androgen receptor gene in 14
+patients with genetic androgen resistance. Program of
+the 72nd Annual Meeting of The Endocrine Society, Atlanta, GA, 1990, p 222 (Abstract)
+Tilley WO, Marcelli M, Griffin JE, Receptor-negative androgen resistance is caused by diverse abnormalities of
+the androgen receptor gene. Program of the 72nd Annual
+Meeting of The Endocrine Society, Atlanta, GA, 1990, p
+222 (Abstract)
+Godowsky PJ, Rusconi S, Miesfeld R, Yamamoto KR
+1987 Glucocorticoid receptor mutants that are constitutive activators of transcriptional enhancement. Nature
+324:635-640
+Hollenberg SM, Giguere V, Segui P, Evans RM 1987
+Colocalization of DNA-binding and transcriptional activation functions in the human glucocorticoid receptor. Cell
+49:39-46
+Danielsen M, Northrup JP, Jonklass J, Ringold GM 1987
+Domains of the glucocorticoid receptor involved in specific
+and non-specific deoxyribonucleic acid binding, hormone
+activation and transcriptional enhancement. Mol Endocrinol 1 :816-822
+Dobson ADW, Conneely OM, Beattie W, Maxwell BL,
+Mak P, Tsai MJ, Schrader WT, O'Malley BW 1989 Mutational analysis of the chicken progesterone receptor. J
+Biol Chem 264:4207-4211
+Lees JA, Fawell SE, Parker MG 1989 Identification of two
+transactivation domains in the mouse oestrogen receptor.
+Nucleic Acids Res 17:5477-5488
+Fawell SE, Lees JA, White R, Parker MG 1990 Characterization and colocalization of steroid binding and dimerization activities in the mouse estrogen receptor. Cell
+60:953-962
+Kumar V, Chambon P 1988 The estrogen receptor binds
+tightly to its responsive element as a ligand-induced homodimer. Cell 55:145-155
+Tsai SY, Carlstedt-Duke JA, Weigel NL, Dahlman K, Gustafsson JA, Tsai MJ, O'Malley BW 1988 Molecular interactions of steroid hormone receptor with its enhancer
+element: evidence for receptor dimer formation. Cell
+55:361-369
+Webster NJG, Green S, Jin JR, Chambon P 1988 The
+hormone-binding domains of the estrogen and glucocorticoid receptors contain an inducible transcription activation function. Cell 54:199-207
+
+1771
+
+38. Rundlett SE, Wu X-P, Miesfeld RL 1990 Functional characterizations_ of the androgen receptor confirm that the
+. molecular basis of androgen action is transcriptional regulation. Mol Endocrinol 4:708-714
+39. Govindan MV 1990 Specific region in hormone binding
+domain is essential for hormone binding and trans-activation by human androgen receptor. Mol Endocrinol
+4:417-427
+40. Brown TR, Rothwell SW, Migeon CJ 1981 Comparison
+of methyltrienolone and dihydrotestosterone binding and
+metabolism in human genital skin fibroblasts. J Steroid
+Biochem 14:1013-1022
+41. Otten A, Sanders MM, McKnight GS 1988 The MMTV
+LTR Promoter is induced by progesterone and dihydrotestosterone but not estradiol. Mol Endocrinol 2:143-147
+42. Glover JF, Dabre PD 1989 Multihormone regulation of
+MMTV-LTR in transfected T-47-D human breast cancer
+cells. J Steroid Biochem 32:357-363
+43. Dabre P, Page M, King RJB 1986 Androgen regulation by
+long terminal repeat of mouse mammary tumor virus.
+Malec Cell Biol 6:2847-2854
+44. Cato ACB, Henderson D, Ponta H 1987 The hormone
+response element of the mouse mammary tumor virus
+DNA mediates the progestin and androgen induction of
+transcription of the proviral long terminal repeat region.
+Embo J 6:363-368
+45. Ham J, Thompson A, Needham M, Webb P, Parker M
+1988 Characterization of response elements for androgens, glucocorticoids and progestins in mouse mammary
+tumor virus. Nucleic Acids Res 16:5263-5276
+46. Parker MG, Webb P, Mills JJ, Needham M, White R 1988
+Analysis of regulatory sequences in androgen-responsive
+genes. J Steroid Biochem 30:47-51
+47. Hughes MR, Malloy PF, Kieback DG, Kesterson RA, Pike
+JW, Feldman D, O'Malley BW 1988 Point mutations in
+the human vitamin D receptor gene associated with hypocalcemic rickets. Science 242:1702-1705
+48. Ritchie HH, Hughes MR, Thompson ET, Maloy PJ, Hochberg Z, Feldman D, Pike JW, O'Malley BW 1984 An ochre
+mutation in the vitamin D receptor gene causes hereditary
+1,25-dihydroxyvitamin Os-resistant rickets in three families. Proc Natl Acad Sci USA 86:9783-9787
+49. Sone T, Marx SJ, Liberman UA, Pike JW 1990 A unique
+point mutation in the human vitamin D receptor chromosomal gene confers hereditary resistance to 1,25-dihydroxyvitamin Ds. Mol Endocrinol 4:623-631
+50. Usala SJ, Tennyson GE, Bale AE, Lash RW, Gesundheit
+N, Wondisford FE, Accili D, Hauser P, Weintraub BO 1990
+A base mutation of the C-erbA,J thyroid hormone receptor
+in a kindred with generalized thyroid hormone resistance.
+J Clin Invest 85:93-100
+51. Freedman L, Yoshinaga S, Vanderbilt J, Yamamoto K
+1989 In vitro transcription enhancement by purified derivatives of the glucocorticoid receptor. Science 245:298300
+52. Klein-Hitpass L, Tsai SY, Weigel NL, Riley D, Rodriguez
+R, Schrader WT, Tsai MJ, O'Malley BW 1990 Native
+progesterone receptor stimulates cell-free transcription of
+a target gene. Cell 60:247-257
+53. Scatchard G 1949 The attraction of proteins for small
+molecules and ions. Ann NY Acad Sci 51:660-672
+54. Burton K 1956 A study of the conditions and mechanism
+of the diphenylamine reaction for the colorimetric estimation of deoxyribonucleic acid. Biochem J 62:315-323
+55. An G, Hidaka K, Siminovitch L 1982 Expression of bac
+terial ,J-galactosidase in animal cells. Mol Cell Biol 2: 16281632
+56. Anderson S, Davis DN, Dahlback H, Joruvall H, Russel
+OW 1989 Cloning, structure, and expression of the mitochondrial cytochrome P-450 sterol 26-hydroxylase, a bile
+acid biosynthetic enzyme. J Biol Chem 264:8222-8229
+57. Chirgwin J, Pryzbyla A, MacDonald R, Rutter W 1979
+Isolation of biologically active ribonucleic acid from
+0
+
+Vol 4 No. 12
+
+MOL ENDO, 1990
+
+1772
+
+Biochemistry
+
+66. Traystman MD, Higuchi M, Kasper CK, Antonarakis SE,
+Kazazian Jr HH 1990 Use of denaturing gradient gel
+
+58. Aviv H, Leder P 1972 Purification of biologically active
+
+electrophoresis to detect point mutations in the factor VIII
+gene. Genomics 6:293-301
+67. Graham FL, van der Eb AJ 1973 A new technique for the
+assay of infectivity of human adenovirus 5 DNA. Virology
+
+sources
+
+enriched
+
+for
+
+ribonuclease.
+
+18:5296-5299
+growth hormone messenger RNA by chromatography on
+oligothymidylic acid cellulose. Proc Natl Acad Sci USA
+
+69:1408-1412
+59. Thomas PS 1980 Hybridization of denatured RNA and
+small DNA fragments transferred to nitrocellulose. Proc
+Natl Acad Sci USA 77:5201-5205
+60. Frohman MA, Dush MK, Martin GR 1988 Rapid production of full-length cDNAs from rare transcripts: amplification using a single gene-specific oligonucleotide primer.
+Proc Natl Acad Sci USA 85:8998-9002
+61. Maniatis T, Fritsch EF, Sambrook J 1982 Molecular Cloning: a Laboratory Manual. Cold Spring Harbor Laboratory,
+Cold Spring Harbor, NY pp 368-369
+62. Sheffield V, Cox DR, Lerman LS, Myers RM 1989 Attachment of a GC-clamp to genomic DNA fragments by the
+polymerase chain reaction results in improved detection
+of single base changes. Proc Natl Acad Sci USA 86:232-
+
+236
+63. Fischer S, Lerman L 1983 DNA fragments differing by
+single-base-pair substitutions are separated in denaturing
+gradient gel: correspondence with melting theory. Proc
+Natl Acad Sci USA 80:1579-1583
+64. Myers RM, Lerman LS, Fischer SG, Maniatis T 1985
+Modification of the melting properties of duplex DNA by
+denaturing gradient gel electrophoresis. Nucleic Acids
+Res 13:3111-3129
+65. Wong C, Dowling CD, Saiki RK, Higuchi RG, Erlich HA,
+Kazazian Jr HH 1987 Characterization of {:l-thalassemia
+mutations using direct genomic sequencing of amplified
+single copy DNA. Nature 330:384-386
+
+52:456-467
+68. Laemmli UK 1970 Cleavage of structural proteins during
+the assembly of the head of bacteriophage T4 • Nature
+
+227:680-686
+69. Gorman CM, Moffat LF, Howard BH 1982 Recombinant
+70.
+71.
+
+72.
+
+73.
+
+74.
+
+genomes which express chloramphenicol acetyltransferase in mammalian cells. Mol Cell Biol 2:1044-1051
+Neumann JR, Morency CA, Russian KO 1987 A novel
+rapid assay for chloramphenicol acetyltransferase gene
+expression. BioTechniques 5:444-447
+Misrahi M, Alger M, D'Auriol L, Loosfelt H, Merrel C,
+Fridlansky F, Guiochon-Mantel A, Galibert F, Milgrom E
+1987 Complete amino acid sequence of the human progesterone receptor deduced from cloned cDNA. Biochem
+Biophys Res Commun 143:740-748
+Hollenberg SM, Weinberger C, Dug ES, Cerelli G, Oro A,
+Lebo R, Thompson EB, Rosenfeld MG, Evans RM 1985
+Primary structure and expression of a functional human
+glucocorticoid receptor cDNA. Nature 318:635-641
+Arriza JL, Weinberger C, Cerelli G, Glaser TM, Haudelin
+BL, Houseman DE, Evans RM 1987 Cloning of a human
+mineralocorticoid receptor complementary DNA: structural and functional kinship with the glucocorticoid receptor. Science 237:268-275
+Walter P, Green S, Greene G, Krust A, Bornert JM, Jeltsch
+JM, Staub A, Jensen E, Scarce G, Waterfield M, Chambon
+P 1985 Cloning of the human estrogen receptor cDNA.
+Proc Natl Acad Sci USA 82:7889-7893
+
+

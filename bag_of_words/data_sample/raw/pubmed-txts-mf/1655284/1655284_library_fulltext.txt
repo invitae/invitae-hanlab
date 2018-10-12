@@ -1,0 +1,1318 @@
+Cell, Vol. 67, 437-447, October18, 1991,Copyright© 1991 by Cell Press
+
+Germline Mutations in the Wilms'
+Tumor Suppressor Gene Are Associated with Abnormal
+Urogenital Development in Denys-Drash Syndrome
+Jerry Pelletier, 1,= Wendy Bruening, 1
+Clifford E. Kashtan, 3 S. Michael Mauer, 3
+J. Carlos Manivel, 4 Jane E. Striegel, 5
+Donald C. Houghton, e Claudine Junien, 7
+Ren6e Habib, 8 Laurie Fouser, 9 Richard N. Fine, 1°
+Bernard L. Silverman," Daniel A. Haber, ~,~=
+and David Housman 1
+1Center for Cancer Research
+Massachusetts Institute of Technology
+Cambridge, Massachusetts 02139
+2McGill Cancer Center
+McGill University
+Montreal, Quebec
+Canada H3G 1Y6
+3Department of Pediatric Nephrology
+4Department of Laboratory Medicine and Pathology
+University of Minnesota Medical School
+Minneapolis, Minnesota 55455
+SDepartment of Pediatrics
+6Department of Pathology
+Oregon Health Sciences University
+Portland, Oregon 97201
+71NSERM U73
+Gdn~tique et Pathologie Foetale
+8U.192, H6pital Necker--Enfants Malades
+Paris, France
+9Department of Pediatrics
+University of Washington School of Medicine
+Seattle, Washington 98195
+1°Department of Pediatrics
+State University of New York at Stony Brook
+Stony Brook, New York 11794
+11Division of Pediatric Endocrinology
+Children's Memorial Hospital
+Chicago, Illinois 60614
+12Massachusetts General Hospital Cancer Center
+Harvard Medical School
+Boston, Massachusetts 02114
+
+Summary
+Denys-Drash syndrome is a rare human condition in
+which severe urogenital aberrations result in renal failure, pseudohermaphroditism, and Wilms' tumor (nephroblastoma). To investigate its possible role, we have
+analyzed the coding exons of the Wilms' tumor suppressor gene (WT1) for germline mutations. In ten independent cases of Denys-Drash syndrome, point
+mutations in the zinc finger domains of one WT1 gene
+copy were found. Nine of these mutations are found
+within exon 9 (zinc finger III); the remaining mutation
+is in exon 8 (zinc finger II). These mutations directly
+affect DNA sequence recognition. In two families analyzed, the mutations were shown to arise de novo.
+Wilms' tumors from three individuals and one juvenile
+granulosa cell tumor demonstrate reduction to homo-
+
+zygosity for the mutated WT1 allele. Our results provide evidence of a direct role for WT1 in Denys-Drash
+syndrome and thus urogenital system development.
+Introduction
+
+Wilms' tumor (WT) is an embryonal malignancy of the kidney arising from the metanephric blastema, affecting approximately 1 in 10,000 children (Young and Miller, 1975;
+Matsunaga, 1981). A tumor suppressor gene for this disease, WT1 from chromosome 11p13, has recently been
+isolated (Call et al., 1990; Gessler et al., 1990). All or part
+of WT1 is homozygously deleted in a small but highly informative set of sporadic Wilms' tumors (Lewis et al., 1988;
+Gessler et al., 1990; Ton et al., 1991; Davis et al., 1991;
+Royer-Pokora et al., 1991). Several sporadic and hereditary WTs have been described in which WT1 is specifically
+altered, providing molecular evidence for the involvement
+of this gene in Wilms' tumor etiology (Haber et al., 1990;
+Huff et al., 1991; Pelletier et al., 1991a). The WT1 gene
+contains ten coding exons that produce four distinct WT1
+mRNAs, reflecting the presence or absence of two alternatively spliced exons (Haber et al., 1990, 1991). The predicted WT1 polypeptides show several features characteristic of transcription factors (i.e., nuclear localization, four
+contiguous Cys2-His2zinc finger domains, and an amino
+terminus rich in proline and glutamine residues) (Call et
+al., 1990; Gessler et al., 1990; Pelletier et al., 1991c). The
+zinc finger domains of the WT1 polypeptides and a class
+of early growth response mammalian polypeptides (the
+EGR and Krox family), activated during GOto G1 transition
+in culture cells, show considerable homology to each other
+(Call et al., 1990; Gessler et al., 1990) and recognize similar binding sites (Rauscher et al., 1990). The EGR and
+Krox gene products are thought to be important nuclear
+intermediates in signal transduction.
+WT1 expression during nephrogenesis in the kidneys is
+limited to the condensed mesenchyme, renal vesicle, and
+glomerular epithelial cell and therefore is likely to play
+a specific role in glomerular development during kidney
+organogenesis (Pritchard-Jones et al., 1990). The following recent results have also implicated WT1 in development of the genital system. First,.the incidence rates of
+hypospadias (ventrally placed external penile urinary orifice) and cryptorchidism (undescended testis) among patients with bilateral Wilms' tumor is at least 10-fold higher
+than in the generalpopulation (Bond, 1975; Breslow and
+Beckwith, 1982). Second, an association between urogenital system anomalies with early onset WTs and intralobar
+nephroblastomatosis has been suggested based on statistical data (Breslow et al., 1988; Beckwith et al., 1989).
+Third, high levels of WT1 mRNA expression are observed
+in the developing gonads early in fetal development
+(Pritchard-Jones et al., 1990; Pelletier et al., 1991c). In the
+mature gonads, WT1 expression is restricted to the Sertoli
+cells of the testis and granulosa and epithelial cells of the
+ovaries (Pelletier et al., 1991c). Fourth, molecular analysis
+
+Cell
+438
+
+of the WT1 gene in two children with Wilms' tumor and
+genital system malformations (hypospadias and undescended testis) has revealed small hemizygous intragenic
+deletions within WT1 in both individuals (Pelletier et al.,
+1991a). Both deletions disrupt the WT1 reading frame.
+These results imply a central role for the WT1 gene product
+in genital system development.
+A genetic predisposition to WT is observed in two disease syndromes with similar genital system malformations. In the WAGR syndrome, there is an association of
+Wilms' tumor (W) with congenital aniridia (A) (absence or
+malformation of the iris), genitourinary malformations (G),
+and mental retardation (R) (Miller et al., 1964). This syndrome is correlated with constitutional deletions within
+chromosome 11 band p13 (Riccardi et al., 1978). This constellation of anomalies, which show variable expressivity
+and incomplete penetrance, define a cluster of genes
+within 1lp13 important in the development of the iris, kidney, urogenital tract, and brain. As described above, recent results suggest that the genital system anomalies
+associated with WAGR syndrome are a phenotype resulting from a null mutation in one WTI allele. Denys et al.
+(1967) and Drash et al. (1971) have described an association of Wilms' tumor with male pseudohermaphroditism
+and progressive renal failure. This is a rare Wilms' tumorassociated syndrome, with only about 60 cases reported
+in the literature over the last 20 years (for a review, see
+Pelletier et al., 1991b). The nephropathy associated with
+this syndrome generally occurs very early (before the age
+of 2 years) and in conjunction with WT or genital abnormalities or both (Habib et al., 1985). It is characterized by a
+specific glomerular lesion--shrunken glomerular tufts with
+accumulation of matrix material in the mesangium, surrounded by hypertrophied epithelial cells (podocytes)
+(Habib et al., 1985). Denys-Drash patients who develop
+WT usually have bilateral tumors and present earlier than
+individualswith sporadic tumors, suggesting the presence
+of a predisposing germline mutation in these individuals.
+The genital abnormality described most often is male
+pseudohermaphroditism, wherein children have either
+ambiguous external genitalia or a normal female phenotype with an XY karyotype. Large deletions of 1lp13 are
+not observed, and no abnormalities of the X or Y chromosomes have been detected (Jadresic et al., 1991). Many
+of these children have streak gonads, and several cases
+have developed gonadoblastomas. The pattern of inheritance in Denys-Drash syndrome is sporadic and, if dominant, unlikely to be transmitted.
+The localized expression of WT1 in the developing glomeruli (i.e., epithelial cells) (Pritchard-Jones et al., 1990)
+and its implication in genital system development (Pritchard-Jones et al., 1990; Pelletier et al., 1991c) suggested
+to us that Denys-Drash syndrome could be a single gene
+defect involving WT1. In this report, we present our analysis of the WT1 gene in ten individuals with Denys-Drash
+syndrome. Exon 9 of WT1 (which encodes the third zinc
+finger domain) is a "hot spot" for mutations associated
+with this syndrome. Nine out of ten independent cases
+analyzed have specific point mutations in exon 9 of the WT1
+gene. These mutations affect the DNA-binding properties
+
+of WT1. Our results indicate that Denys-Drash syndrome
+is the consequence of dominant-negative mutations to the
+WT1 gene.
+
+Results
+Single-Strand Conformational Polymorphism
+Analysis of the WT1 Gene in Individuals'with
+Denys-Drash Syndrome
+We analyzed the WT1 gene in individuals with DenysDrash syndrome to determine whether germline mutations
+could account for their genital and glomerular abnormalities as well as their predisposition toward developing
+Wilms' tumor. Genomic DNA was isolated from EBVtransformed lymphocytes or peripheral blood lymphocytes
+from ten individuals with Denys-Drash syndrome. Many
+of these individuals had the classical triad of Denys-Drash
+syndrome, consisting of renal failure due to diffuse mesangial sclerosis, pseudohermaphroditism, and Wilms' tumor.
+Several individuals have undergone prophylactic nephrectomy to prevent development of Wilms' tumor. Extensive
+analysis by pulsed field gel electrophoresis and Southern
+blotting failed to detect any deletions or rearrangements
+within the WT1 gene of these individuals (J. Pelletier and
+W. Bruening, data not shown). We then used the more
+sensitive assay of single-strand conformational polymorphism (SSCP) to search for single base pair mutations
+within the WT1 gene. This technique is based on the principle that under nondenaturing conditions, single-stranded
+DNA assumes a sequence-specific folded structure maintained by sequence-dependent local intramolecular interactions (Orita et al., 1989). Sequence changes are thus
+detected as mobility shifts due to changes in the folded
+conformations of the separated strands, allowing detection of even single base substitutions.
+The exon/intron structure of the WT1 gene has recently
+been determined (Haber et al., 1991). Oligonucleotides
+flanking the exons of the WT1 gene were radiolabeled and
+used to amplify, by the polymerase chain reaction (PCR),
+each individual WT1 exon. No differences were observed
+for the individuals studied for any exon except exons 8
+and 9. However, a striking pattern of mobility shifts was
+observed when single-stranded DNA from the PCR reactions of exon 9 (zinc finger Ill) are analyzed on neutral
+polyacrylamide gels (Figure 1A). Analysis of the exon 9
+PCR products from genomic DNA of all Denys-Drash individuals, with the exception of two (S. V. and W. Y.), demonstrated a product comigrating with the normal human PCR
+product (indicated by an arrowhead) and an altered migrating PCR product (indicated by an arrow) (Figure 1A, lanes
+3 to 11). PCR products from individuals S. V. and W. Y.
+produced a mobility shift pattern similar to that obtained
+from the nonaffected DNA sample (Figure 1A, compare
+lanes 5 and 11 with lane 2). PCR-SSCP analysis of exon
+8 (zinc finger domain II) from patient S. V. revealed a novel
+altered migrating fragment (indicated by an arrow, Figure
+1B, compare lane 3 with lane 2). These results strongly
+implicate mutations in the zinc finger segments of the WT1
+gene in the pathophysiology of Denys-Drash syndrome.
+
+Germline Mutationsin WT1 in Denys-Drash Syndrome
+439
+
+A.
+
+Figure 1. PCR-SSCP Analysis of WTI Exons
+8 and 9 in Individualswith Denys-Drash Syn~d ~ m - ; u J uJ
+drome
+Z
+PCR-SSCP analysisof the WT1genewas performed as describedin the ExperimentalProcedures. The design of the oligonucleotides
+flankingexons 8 and 9 are basedon the intron
+sequencepublishedby Haberet al. (t 990) and
+are as follows. (A-2)9, 5'-GGAATTCAATTT1 2 3 4 5 6 7 8 9 10 11
+1 2 3
+1 2 3 4 5 6
+I
+J
+CATTCCACAATAG-3' and (S-2)9,5'-GGAA'I-I'I
+I
+~
+j
+EXON 9
+EXON8
+~-xo~
+CCTCACTGTGCCCACAI-rG-3'for exon9 and
+(A-2)8, 5'-GGAATTCAACACAGCTGCCAGCAATG-3'and (S-2)8, 5'-GGAATTCGAGATCCCTTTCCAGT-3'for exon 8. EcoRI sites were engineered
+into the oligonucleotidesto facilitate subcloning of PCR products. For the PCR of exon 9, an annealingtemperature of 57°C was used, and
+oligonucleotide(A-2)9 was kinased for the analysis presented in (A) and (C). For the PCR of exon 8, oligonucleotide(A-2)8 was kinased and the
+PCR performedat 55°C. The individualsfrom which genomic DNA was purifiedare indicatedaboveeach lane.The lane labeledas control indicates
+the PCR performedon DNA from an unaffectedindividual,whereas=Nonden."refersto the absenceof denaturingtreatmentto the normalsample.
+This nondenaturedsample was resuspendedin 1 x TBE loading dye and used to delineatethe positionof migrationof the double-strandedDNA
+product (not visible on these photographicmounts).The exon 9 PCR product from the control unaffected human DNA sample demonstratesa
+specificsingle-strandedconformationalspeciesnot presentwhen the sampleis not denatured(comparelane2 with lane 1). The higher background
+observedin the control lane is due to a higherconcentrationof genomicDNA in the PCR than was used in the other samples.Notethat PCR analysis
+of exons9 or 8 in morethan 30 normalindividualsneverrevealedan alteredmigratingPCR product.The arrowindicatesthe positionof the fragment
+with the altered mobility, whereasthe arrowheadindicatesthe positionof migrationof the PCR productfrom normal DNA. For reasonsnot clearly
+understood,in some cases the intensityof the mutant band is sometimesobservedto be greater than the normal band in heterozygotas,despite
+the expectationof equal intensity for both alleles.
+a.
+
+C.
+
+Sequence Analysis of WT1 in Individuals with
+Denys-Drash Syndrome
+The sequence of the respective exons of the Denys-Drash
+individuals that produced the mobility shifts by SSCP analysis (Figure 1) were determined as described in the Experimental Procedures. Direct sequencing of the PCR product
+from exon 8 of patient S. V. (Figure 1B) revealed a G to A
+transition within the second zinc finger domain of one WT1
+allele (Figure 2A). This mutation results in the conversion
+of 3~Arg to His (Figure 2A). Sequencing of PCR products
+of individuals showing mobility shifts of exon 9 revealed
+that the majority of these patients (A. M., C. B., A. U.,
+P. I., S. E., and R. S.) carry the same hemizygous mutation
+(Figure 2B and data not shown). These individuals all carried the identical point mutation (C to T transition) in exon
+9 of one WT1 allele (Figure 2B). This mutation converts
+3~Arg to Trp within the third zinc finger domain of WT1
+(Figure 2B). The affected amino acid residue is conserved
+in WT1 zinc fingers II, III, and IV and corresponds to the
+same residue altered in zinc finger II of S. V. Patients
+B. E. and W. Y. show different mutations within exon 9,
+both of which affect the same amino acid--3~Asp (Figure
+2B). One mutation converts 3-~Asp to Gly, whereas the
+other converts ~eAsp to Asn. These results, summarized
+in Figure 2, suggest an important functional role for these
+amino acids in WT1 function. Although the PCR product
+of exon 9 from W. Y. failed to demonstrate a mobility shift
+by nondenaturing gel analysis, a mutation was found when
+exon 9 was analyzed by direct PCR sequencing. Table 1
+summarizes these results and compares the phenotypes
+characterized for each of the individuals with Denys-Drash
+syndrome studied.
+Genetic Models for Denys-Drash Syndrome
+.The identification of mutations in the WT1 gene in DenysDrash patients poses the issue of mode of inheritance
+in this syndrome. Denys-Drash syndrome might show a
+recessive mode of inheritance, with the rare occurrence of
+
+the syndrome a consequence of the inheritance of infrequent mutant alleles at the WT1 locus from each parent.
+However, as noted above, we observed no additional
+SSCP gel shifts in the WT1 gene in any individual studied,
+suggesting that no additional mutations in either allele of
+the WT1 gene are present in these Denys-Drash patients.
+To further examine this possibility, we analyzed all the ten
+coding exons of patient A. M. by direct PCR sequencing
+and found no other mutation in either alleles (W. Bruening
+and J. Pelletier, data not shown). Our results thus appear
+most consistent with a dominant mode of inheritance for
+Denys-Drash syndrome. Each of the ten cases we have
+analyzed is an independent occurrence of Denys-Drash
+syndrome. We suggest that each case represents a new
+mutation in the WT1 gene. If the penetrance of the WT1
+alleles we have analyzed is very high, then it is extremely
+unlikely that parents of Denys-Drash individuals will carry
+such mutations. In two families we have tested this view.
+As shown in Figure 1C (lanes 1-6), neither parents of patients C. B. or B. E. carry the mutant allele of their affected
+child. As predicted, by a dominant model for inheritance
+with high penetrance, patients C. B. and B. E. represent
+occurrences of de novo mutation in the WT1 gene.
+
+Analysis of Tumors from Individuals with
+Denys-Drash Syndrome
+M. W. and R. S. are young children with Denys-Drash
+syndrome (see Table 1). PCR-SSCP analysis of WT1 exon
+9 from their peripheral lymphocyte DNA revealed a mobility shift pattern similar to that observed for the majority of
+other Denys-Drash individuals (Figure 3A, lanes 3 and 4).
+Both individuals carry the same exon 9 germiine point
+mutation found in the majority of other Denys-Drash individuals studied in this report (see Table 1), which converts
+3~Arg to Trp at the amino acid level (data not shown for
+M. W.). M. W. and R. S. both have been treated for Wilms'
+tumor (see Table 1). We used PCR-SSCP analysis to investigate the status of the WT1 gene in the tumors from
+
+Cell
+44O
+
+A
+G
+
+A T C
+
+Figure 2. SequenceAnalysisofPCRProducts
+from Exons8 and 9 ShowingAlteredMobility
+from Denys-DrashIndividuals
+Sequencesof PCR productswere determined
+eitherby directsequencingor fromsequencing
+subclones of PCR products, as described in
+the ExperimentalProcedures.For all DenysDrash individualsdescribedin this paper, the
+sequence of PCR subclones has been confirmed by direct PCR sequencing. (A) Sequence analysisof S. V. showingan arginine
+to tryptophanchangewithinexon8 of WT1.(B)
+Sequenceanalysisof A. M., B. E., and W. Y.
+showingpoint mutationsin exon9 of WT1.Patients C. B., A. U., P. I., S. E., R. S., and M. W.
+hadthe samemutationas A. M., as determined
+by direct PCR sequencing(data not shown).
+These mutationsare schematicallypresented
+to the rightof the sequencinggels.The nucleotide numbersystemis basedon the codingsequenceonlyand considersthe A of the initiator
+ATG as +1. The numbersystem for the amino
+acids considersthe initiatormethionineas +1.
+Notethatthe signitureCys and His aminoacids
+for the zinc fingers are underlined for emphasis.
+
+ZnttE-2
+
+jl~3__ H~ (10e3~5'TGTGACTTCAAGGACTGTGAACGAAGGTTTTCT
+CGTTCAGACCAGCTCAA
+A
+35~ O F K D C E R R F $ R S D Q L " " K ~
+
+R H Q
+
+R R b
+
+Normal
+
+Lymphocyte
+Z n4+ E - 3
+G
+
+AT
+
+C
+
+~
+
+,?
+
+(115~)5'TGTAAAACTTGTCAGCGAAAGTTCTCCCGGTCCGACCACCTGAAG
+38,~ K T ~ Q R t~ F S R S DL H L ~ - -~
+
+~ A C C CACACCAGGACTCAT3'
+T
+
+B.E
+
+(~ A
+
+T
+
+H T
+
+R
+
+T
+
+EL
+
+C
+
+396Asp--Asn
+
+M. W. and R. S. These samples were available to us only
+as paraffin-embedded tumor blocks. PCR-SSCP analysis
+of WT1 exon 9 on sections from each tumor was performed
+as described in the Experimental Procedures and revealed
+that both tumors had lost the normal WT1 allele (Figure
+3A, compare lane 3 with lane 5 and lane 4 with lane 6). A
+third Denys-Dr,ash individual, C. B., as a child developed
+Wilms' tumor, bilateral gonadoblastoma, and a juvenile
+granulosa cell tumor (Table 1). This individual carries the
+same germline point mutation in the WT1 gene as M. W.
+and R. S. (see Figure 1A, lane 4). The Wilms' and juvenile
+granulosa cell tumor from this individual demonstrated
+loss of the normal WT1 allele when analyzed by PCRSSCP (Figure 3B, compare lanes 4 and 5 with lane 3).
+These results implicate the WT1 gene in etiology of a nonWilms' tumor malignancy.
+
+WT1 Denys-Drash Mutations Affect DNA Binding
+The WT1 protein product has been shown to bind, in a
+sequence-specific manner, to a sequence similar to that
+recognized by the Early Growth Response-1 gene (EGR-1)
+product, a zinc finger containing protein induced by mitogenic stimuli (Rauscher et al., 1990). We decided to use
+the EGR-1 binding site (5'-CGCCCCCGC-3~ (Cao et al.,
+1990) to determine whether any of the mutations we had
+identified in Denys-Drash individuals affected WT1 bind-
+
+ing. Two mutations were rebuilt into the WT1 cDNA: the
+~18°Cto) T transition converting 394Argto Trp (the resulting
+protein product is referred to as WTl(394W)); and the "SeG
+to A transition, which substitutes an Asn for 396Asp (the
+resulting protein product is referred to as WTI(~N)).
+These mutations were reconstructed in a murine WT1
+cDNA lacking both alternatively spliced exons as described in the Experimental Procedures. The third zinc
+finger domain is 100% conserved at the amino acid level
+between human and murine cDNAs (Buckler et al., 1991).
+In vitro transcription using SP6 RNA polymerase generated capped mRNA transcripts corresponding to each
+WT1 cDNA, as well as to an EGR-1 cDNA that served as
+a positive control. Translation of these synthetic mRNA
+species in the presence of [35S]methionine yielded polypeptides of the expected molecular mass (Figure 4A).
+To assess the effect of the Denys-Drash mutations on
+WTl-binding activity, gel-shift assays were performed using Egr-1 and WTI products synthesized in reticulocyte
+lysates. An oligonucleotide(EG R), described in the Experimental Procedures, that contains the Egr-1 core consensus binding site was used in our mobility shift assays. In
+addition, a second oligonucleotide (M2), which contains a
+single base substitution and does not bind to Egr-1 or WT1
+proteins (Rauscher et al., 1990), was synthesized and
+used as a negative control in our assays. The Egr-1 protein
+
+Germline Mutations in WT1 in Denys-Drash Syndrome
+441
+
+Table 1. Summaryof Phenotypesand WT1 GermlineMutationsAssociatedwith Denys-Drash Individuals
+External
+Patient Genitalia
+A.M.
+
+InternalReproductive
+Organs
+
+Nephropathy' Wilms'Tumor Gonadoblastoma Karyotype WT1 Mutation
+
+Ambiguous Not known
+
++
+
+C.B.
+
+Ambiguous Rightgonad--dysgenictestis
+Left gonad--dysgenictestis
+BilateralM011erian,
+No Wolffian structures
+
++
+
+S.V.
+
+Female
+
+Right gonad-dysgenic testis
+Left gonad-streak
+No MQIlerianstructures
+No Wolffian structures
+
++
+
+A.U.
+
+Female
+
+ND
+
+P.I.
+
+Ambiguous Rightgonad--dysgenictestis
+Left gonad--normaltestis
+Bicornuateduterus
+
+S.E.
+
++b
+
+-
+
+ND
+
+394Argto Trp
+
+Bilateral;
+UnilateralJGCT
+
+46,XY
+
+394Argto Trp
+
++
+
+46,XY
+
+3~Arg to His
+
++
+
+Bilateral
+
+46,XX
+
+394Argto Trp
+
++
+
++
+
+46,XY
+
+394Argto Trp
+
+Female
+
+Normalovary attachedto anterior pole +
+of kidney; normaluterus
+
++
+
+46,XX
+
+~4Arg to Trp
+
+ND
+
+.....
+
+B.E.
+
+Female
+
++
+
+_c
+
+46,XX
+
+~6Aspto Gly
+
+W.Y.
+
+Ambiguous No MQIlerianstructures
+Left Wolffian structures
+
++
+
++
+
+46,XY
+
+~Asp to Ash
+
+M.W.
+
+Female
+
++
+
++
+
+46,XX
+
+~Arg to Trp
+
+R.S.
+
+Ambiguous Rightgonads--dysgenictestis
+Left gonad--dysgenictestis
+
++
+
++
+
+46,XY
+
+~4Arg to Trp
+
+Right gonad--dysgenic
+Left gonad--streak
+Normal fallopiantubes,
+uterus and vagina
+
+ND, not determined;+, unilateral;-, no tumor; JGCT, juvenile granulosacell tumor.
+aThe nephropathyis commonlydescribedas focal or diffuse mesangialsclerOsis.
+bAfter her first Wilms' tumor, C.B. underwentprophylacticnephrectomy,gonadectomy,and hysterectomy.
+c Kidneyswere removedat 14 monthsof age.
+
+is capable of forming specific complexes with the Egr-1
+consensus sequence (denoted by arrows, Figure 4B; compare lanes 2 and 1). These complexes are specifically inhibited by a 10-fold molar excess of unlabeled EGR oligonucleotide (lane 3), but not by an equivalent amount of
+M2 oligonucleotide (lane 4). As previously reported, Egr-1
+does not bind to 32p-labeled M2 oligonucleotide (lane 5)
+(Rauscher et al., 1990). The results demonstrate the specificity of our assay system.
+The Wilms' tumor gene product is capable of binding to
+32p-labeled EGR oligonucleotide, although at a significantly reduced efficiency compared to Egr-1 (Figure 4C,
+lane 2). This lower binding efficiency is observed despite
+a ,~40-fold excess of WT1 protein (as determined by TCA
+precipitation of parallel in vitro translation reactions and
+~=tandardizing for methionine content). The WT1 binding
+is also specifically inhibited by a 10-fold molar excess of
+unlabeled EGR oligonucleotide(lane 3), but is not inhibited
+by an equivalent amount of M2 oligonucleotide (lane 4).
+WT1 does not bind to 32p-labeled M2 oligonucleotide (lane
+5). Neither of the two mutant WT1 protein products,
+WTI(3-~W) or VMTI(3~N), are capable of binding to the
+EGR-1 consensus sequence (lanes 6 and 7, respectively).
+Our results demonstrate that the mutations we have characterized in Denys-Drash individuals result in polypeptides that can no longer efficiently bind DNA with the sequence specificity of the normal polypeptide. These
+
+altered peptide products could behave either in a
+dominant-negative fashion by sequestering a polypeptide
+required for WT1 function or in a gain-of-function manner
+by activating or repressing genes not normally under WT1
+control.
+Discussion
+The identification of mutations in the zinc finger region of
+WT1 in patients with the severe developmental abnormalities of Denys-Drash syndrome provides a framework for
+understanding the role of the WT1 gene in controlling cell
+differentiation and proliferation. The cells of the developing kidney that express the highest levels of the WT1
+gene product (glomerular epithelial cells) are precisely
+those cells that are the precursors to the aberrant structures observed in the nephropathic kidneys of DenysDrash syndrome. The pathology of Denys-Drash syndrome involves hypertrophy of these cells. It is thus not
+unreasonable to presume that disturbances of WT1 function in these cells are the cause of their aberrant differentiation and hence that the normal role of WT1 is to initiate
+a transcriptional program that controls the differentiation
+of these cells. The renal failure observed in these individuals would therefore be secondary to processes affecting
+glomerular development during embryogenesis.
+Similarly, the WT1 gene product expression in cells of
+
+Cell
+442
+
+A.
+
+a.
+
+•
+
+1 2
+
+3
+
+4
+
+I-
+
+I--
+
+5
+
+6
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Figure 3. PCR-SSCP Analysis of WT1 Exon 9 in Wilms' Tumors and
+a Juvenile Granulosa Cell Tumor from Individuals with Denys-Drash
+Syndrome
+PCR-SSCP analysis on tumor tissue sections were performed as described in the Experimental Procedures. The arrow indicates the position of the fragment with the altered mobility, whereas the arrowhead
+indicates the position of the migration of the PCR product from normal
+DNA. The individuals from which genomic DNA was purified are indicated above each lane. The lane labeled as control indicates the PCR
+performed on DNA from an unaffected individual, whereas "Nonden."
+refers to the absence of denaturing treatment to the normal sample.
+This nondenatured sample was resuspended in 1 x TBE loading dye
+and used to delineate the position of migration of the double-stranded
+DNA product (not visible on these photographic mounts). WT, Wilms'
+tumor; JGCT, juvenile granulosa cell tumor. The mobility of the DNA
+PCR product of the JGCT and the WT were not affected by the presence of materials from the tissue sections, since a reamplification by
+PCR gave a DNA fragment of identical mobility in SSCP gel in each
+case•
+
+the developing gonad correlates with the disordered sexual differentiation observed in Denys-Drash syndrome.
+Genitourinary anomalies are relatively common in the general population, and their expression varies enormously
+among Denys-Drash patients. Normally in males, the
+Wolffian ducts give rise to the epididymis, vas deferens,
+and seminal vesicles during embryogenesis whereas in
+females, the MQIlerian ducts will give rise to the fallopian
+tubes, uterus, and upper vagina. That Deny,s-Drash patients have both sets of internal structure implies a key role
+for WT1 in primary sex determination. The proper signals
+for regression of the MQIlerian ducts, as well as development of the Wolffian structures, are not present during
+development in Denys-Drash individuals with a 46,XY
+karyotype (see Table 1). The spectrum of genital system
+anomalies range from streak ovaries to dysgenic testis
+and the absence or presence of Wolffian or MQIlerian
+structures (see Table 1). Even individuals carrying the
+same mutation (Table 1; e.g., S. E. and M. W.) show variability in expressivity (S. E. has a normal ovary, whereas
+M. W. has streak gonads), which may be due to additional
+genetic factors.
+Mutations in the WT1 gene in Denys-Drash patients
+must do more than reduce WT1 gene dosage by eliminating the function of one allele of the WT1 gene. A wellcharacterized class of patients, those with the WAGR syndrome, have reduced dosage of the WT1 gene owing to
+• large or small intragenic deletions, which include the WT1
+gene. The developmental effects of reduction of WT1 dos-
+
+Figure 4. Translation Products and Mobility
+Shift Assays with In Vitro Synthesized Egr-1
+and WT1 Proteins
+(A) Translation products obtained from EGR-1
+÷
+÷
+._d '7 'T, '7 'T
+and WT1 mRNAs. Messenger RNAs were
+i
+96ku
+~
+LU
+translated in vitro as described in the Experimental Procedures. Protein products were anu
+alyzed directly by electrophoresis on 10%
+SDS-polyacrylamidegels and visualized by fluorography.
+46(B) Mobility shift assay with in vitro synthesized
+1
+2
+3
+4
+5
+Egr-1 protein products. Gel retardation assays
+Probe:
+"4
+EGR
++
+÷
++
++
+were performed using Egr-1 synthesized in
+M2
+~-'
++
+vitro and either a ~P-labeled oligonucleotide
+(EGR) containing the Egr-1 consensus binding
+30Co
+site (Cao at al., 1990) or a ~P-labeled oligonuLu
+cleotide (M2) that does not bind to Egr-1
+(Rauscher et al., 1990). Figure 4B, lane 1, retic20+ .,_ ~_ .-- ulocyte lysate without exogenous RNA incu1
+2
+3
+4
+5
+bated with ~P-labeled EGR; lane 2, reticulocyte lysate containing Egr-1 protein and
+32P-labeled EGR; lane 3, reticulocyte lysate
+containing Egr-1 protein, 32P-labeledEGR, and
+a 10-fold molar excess of unlabeled EGR oligoi!ii~i~i!!~ii!~!!i~iiii!!: if!~¸ ~ii ~ ~~ !i~!i ~
+1 2 3 4 5 6 7
+nucleotide; lane 4, reticulocyte lysate conProbe:
+EGR
++
++
++
++
++
++
+taining Egr-1 protein, 32P-labeledEGR, and a
+10-fold molar excess of unlabeled M2 oligonuM2
++
+cleotide; lane 5, reticulocyte lysate containing
+Egr-1 protein and ~P-labeled M2.
+(C) Mobility shift assay with in vitro synthesized WT1 protein products. Lane 1, reticulocyte lysate without exogenous RNA incubated with ~P-labeled
+EGR; lane 2, reticulocyte lysate containing W'rl protein and ~P-labeled EGR; lane 3, reticulocyte lysate containing WT1 protein, ~P-labeled EGR,
+and a 10-fold molar excess of unlabeled EGR oligonucteotide; lane 4, reticulocyte lysate containing WT1 protein, 32P-labeledEGR, and a 10-fold
+molar excess of unlabeled M2 oligonucleotide; lane 5, reticulocyte lysate containing WT1 protein and ~P-labeled M2; lane 6, reticulocyte lysate
+containing WTI(~W) protein and =P-labeled EGR oligonucleotide; lane 7, reticulocyte lysate containing WTI(~N) protein and ~P-labeled EGR
+oligonucleotide. The arrows indicate the Egr-I-DNA complexes and the WT1-DNA complex. The lower band represents a nonspecific DNA-protein
+complex, since it is observed in all samples including reticulocyte lysate without exogenously added mRNA (lane 1).
+A.
+
+B.
+
+n-
+
+Germline Mutationsin WT1 in Denys-DrashSyndrome
+443
+
+age in WAGR patients are, in general, less severe than
+the effects of WT1 mutations in Denys-Drash patients.
+The most common developmental lesions associated with
+hemizygosity at WT1 in males are hypospadias and cryptorchidism. The constellation of anomalies in DenysDrash syndrome includes renal failure, pseudohermaphroditism, and Wilms' tumor. The renal failure associated
+with this syndrome is the result of progressive glomerular
+sclerosis and occurs within the first few years of life (Habib
+et al., 1985). The much more severe disruption on development of the genital system in Denys-Drash syndrome than
+observed in WAGR syndrome supports the notion that
+germline dominant-negative or gain-of-function lesions at
+the WT1 locus have a more pronounced effect on development than a reduction of WT1 dosage. The fact that individuals with WAGR syndrome do not develop nephropathies
+suggests that the renal system is not as sensitive as the
+genital system to a reduction in WT1 dosage during embryogenesis.
+We have analyzed three Wilms' tumors and one granuIosa cell tumor from three individuals with Denys-Drash
+syndrome and have found that all have undergone reduction to homozgosity for the mutated WT1 copy. Previous
+studies of WTs associated with Denys-Drash syndrome
+also show reduction to homozygosity for 1 l p (Schroeder
+et al., 1987; Dao et al., 1987). Hereditary Wilms' tumors,
+which account for less than 5% of all WT cases, were
+essential in formulating the "two hit" mutational model of
+tumorigenesis (Knudson and Strong, 1972). According to
+this model, the majority of sporadic tumors develop following two somatic mutational events within the same target
+cell, while hereditary cases (bilateral and familial) develop
+because these individuals carry a germline mutation at
+the appropriate locus, and only one additional somatic
+mutational event is required. Our findings in tumors of
+Denys-Drash individuals are consistent with this hypothesis. The WT1 mutations observed in Denys-Drash are
+dominant in their effects on urogenital development. However, the dominant effect of these mutations in tumorigenesis is more difficult to establish. The fact that all DenysDrash tumors that we examined show loss of the wild-type
+allele indicates a growth advantage to cells that have no
+normal WT1 gene product. Similar observations regarding
+the loss of the wild-type allele in colorectal tumors have
+been made for p53 mutations known to act by a dominantnegative mechanism (Baker et al., 1989). Dominant mutations of WT1 may lead to tumorigenesis without requiring
+loss of the normal allele, as demonstrated by a sporadic
+Wilms' tumor that had a WT1 mutation deleting zinc finger
+III yet retained the normal WT1 allele (Haber et al., 1990).
+The data presented here support a central role for the
+WT1 transcription factor in the control of at least two differentiation programs. Although many transcription factors
+have been described to date, only two have been implicated in a direct manner in the control of human development. Germline mutations within the testis-determining
+gene (SRY) in humans have been found in individuals with
+anomalies in genital system development (Berta et al.,
+1990; J&ger et al., 1990). Vortkamp et al. (1991) have described translocations in Greig syndrome, an autosomal
+
+dominant disorder affecting limb and craniofacial development in humans, disrupting the GL13 zinc finger gene.
+Our description of mutations within WT1 that result in
+abnormal development, as well as predisposing to Wilms'
+tumors (and possibly granulosa cell tumors), provides a
+direct link between development and oncogenesis. WT1
+is unique in its demonstrated role in both tumor suppression and development. Individuals with Li-Fraumeni syndrome do not have developmental anomalies (Malkin et
+al., 1990; Srivastava et al., 1990). Likewise, no developmental anomalies have been described for individuals carrying germline mutations in the retinoblastoma predisposing gene. It will clearly be of interest to determine whether
+WT1 is representative of a class of tumor suppressor genes
+that play a central role in controlling cell differentiation.
+What is the effect of the mutations we have described
+on WT1 function? We have tested two of the Denys-Drash
+mutations in a DNA mobility shift assay (Figure 4). The
+WT1 protein product binds the Egr-1 consensus sequence
+(5'-GCGGGGGCG-3') (Figure 4C). This functional assay
+permitted us to determine that both mutations within WT1
+zinc finger III tested are not competent for DNA binding.
+Pavletich and Pabo (1991) have determined the crystal
+structure of a complex containing the three zinc fingers
+from Zif268 (also known as Egr-1) and a consensus DNAbinding site. Their results show that the zinc fingers bind
+in the major groove of B-DNA and that most of the contacts
+are made with the guanine-rich strand. Because of the
+conserved nature of the zinc fingers between WT1 and
+Egr-1, WT1 presumably behaves in a similar manner. Important side chains involved in these contacts would include an arginine that immediately precedes an a helix
+and that hydrogen bonds with a guanine (highlighted in the
+Egr-1 recognition sequence: 5'-GCGGGGGCG-3') (see
+Figures 5A and 5B). This is the same arginine that is found
+mutated in the majority of Denys-Drash individuals and
+results in loss of DNA binding. It is of interest to note that
+the control oligonucleotide we used (M2:5'-GCGGGTGCG-3') does not bind to WT1 or Egr-1 (Figures 4B and
+4C) and affects the guanine that hydrogen bonds with this
+arginine. This arginine contact is stabilized by a conserved
+aspartic acid that occurs as the second residue in each of
+the a helices (Pavletich and Pabo, 1991). It is striking that
+in the only two Denys-Drash individuals who do not carry
+an Arg mutation within zinc finger II or III, the amino acid
+affected is the aspartic acid residue two residues downstream of the arginine group discussed above. Both oxygens of the carboxylate group of the aspartic acid are
+thought to be in a hydrogen bond-salt bridge interaction
+with the N, and N, of the guanidinium group of the arginine
+(Pavletich and Pabo, 1991) (Figure 5B). This interaction is
+essential for DNA recognition, since replacement of aspartic acid for asparagine in the WT1 cDNA negated DNA
+sequence recognition (Figure 4C). This interaction is
+thought to stabilize the long side chain of arginine and
+enhance the specificity of the arginine-guanine contacts
+(Pavletich and Pabo, 1991).
+The nature of the mutations we have described for individuals with Denys-Drash syndrome is striking. The
+394Argto Trp mutation may represent a hot spot within the
+
+Cell
+444
+
+A.
+W T I Zinc
+Fmaer *3
+
+TGTAAAACTTGTCAC,CGAAAGTI'L'TCCCGGTCCGACCACCTGAAGACCCACACCAC'GACTCAT
+
+3.1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+5
+
+HUUHUUHU H
+Fin F1F]nF]
+B.
+~..~#,,~,,0 ~
+
+3~Asp
+
+394Arg
+
+I
+
+G-4
+
+Figure 5. Predicted Base Contacts Made by WT1
+(A) The schematic diagram illustrates the predictions based on the
+X-ray crystallography data of Pavlstich and Pabo (1991), obtained by
+cocrystallizing a WTl-related zinc finger protein (Zif 268) and a consensus DNA-binding site. The DNA recognition sequence is presented as
+a "zipper", and the numbers above the guanine-rich strand refer to
+nucleotide position. 394Arg is predicted to interact with G-4 on the
+guanine-rich DNA strand as described in the text. ~THis is predicted
+to hydrogen bond to G-5 according to Pavlstich and Pabo (1991). The
+Cys and His amino acids involved in coordinating a zinc atom are
+underlined.
+(B) Predicted hydrogen bond contacts between ~4Arg and ~Asp and
+the guanine base. Hydrogen bonding contact between ~4Arg and
+~Asp is predicted to stabilize the ~Arg-G-4 contacts as described in
+the text and pointed out by Pavletich and Pabo (1991).
+
+WTI gene susceptible to mutagenic events. The C to T
+transition at this site arose in the context of a CpG dinucleotide and likely resulted from the deamination of 5-methylcytosine at this position. The location of the other mutations within zinc fingers II and III represents a very
+restricted set of the possible mutations that might abrogate
+DNA binding of the zinc fingers. Why are so specific a set
+of mutational sites observed in Denys-Drash syndrome?
+Perhaps these sites are the most prone to mutagenesis.
+Alternatively, it is possible that the zinc fingers of WT1
+carry out other functions besides DNA binding such as
+nuclear localization, dimerization, or interaction with other
+polypeptides. If this were the case, it is possible that mutations at other sites than those observed might disrupt a
+second function of the zinc fingers and prevent the mutant
+polypeptide from causing a dominant effect. A third alternative is that the dominant effects of WT1 mutations in
+Denys-Drash syndrome are due to the acquisition of the
+mutant polypeptide with the capacity to bind to previously
+unrecognized DNA sequences, causing disruptions in the
+transcriptional program. According to this scenario, only
+mutations at specific sites in the DNA binding domain
+might cause such gain of function. Our study raises the
+possibility that mutations in the WT1 gene may have im-
+
+pact in a broader range of contexts than have been previously thought. For example, the description of familial
+incidence of glomerulopathy associated with male pseudohermaphroditism (Frasier et al., 1964) and two siblings
+with WT (Zunin and Soave, 1965) may provide examples
+of incomplete penetrance of Denys-Drash WT1 mutations.
+Current experiments are in progress to determine whether
+WT1 is altered in familial cases of diffuse mesangial sclerosis with and without other features of Denys-Drash syndrome. Our results suggest that WT1 function may be abrogated in non-Wilms' tumor malignancies, as we have
+shown for a juvenile granulosa cell tumor from a DenysDrash individual. Ovarian tumors of the granulosa cell type
+should clearly be one focus of such studies. The WT1 mutations we have described for Denys-Drash syndrome are
+predicted to act in a dominant-negative or gain-of-function
+fashion. These mutations directly affect the DNA-binding
+properties of WT1 and also clearly implicate a role for WT1
+in urogenital development.
+It is of interest to note that the binding affinity of the WT1
+polypeptide for the Egr-1 recognition sequence is at least
+40-fold lower than the affinity of Egr-1 for this sequence.
+It is thus possible that the correct recognition sequence
+for WT1 is related but not identical to the Egr-1 recognition
+sequence. Of particular interest would be the identification
+of genes controlled by WT1. This would permit the identification of relevant DNA-binding sites for WT1 from a functional point of view and would permit the more direct analysis of the genetic program that WT1 controls.
+These results provide a clear example of a recessive oncogene that is mutated in a hereditary human malformation.
+Experimental Procedures
+
+Materials
+Restriction endonucleaseswere purchasedfrom New EnglandBioLabs..Calf intestinealkalinalphosphatasewas obtainedfrom Boehringer Mannheim.The Klenowfragmentof DNA polymerase,T4 DNA
+polymerase,T4 polynucleotidekinase,and T4 DNA ligasewerefrom
+New England BioLabs. 5-3H-cytidinetriphosphate (21.8 Ci/mmol),
+[~S]methionine(>1000Ci/mmol),a-=P-deoxycytidine5'-triphosphate
+(".,3000 Ci/mmol), [~S]deoxyadenosinetriphosphate(1000-1500Ci/
+m=mol),and 7-32P-adenosinetriphosphate(1000-3000Ci/mmol)were
+obtainedfrom New EnglandNuclear.SP6 RNA polymeraseand human placentaRNAaseinhibitorwerefrom PromegaBiotec.Taq polymerasewas purchasedfromCetus, and PerfectMatchwas from Stratagene, m7GpppGand poly(dl-dC)-poly(dl-dC)were purchasedfrom
+P. L. Biochemicals.
+General Methods
+
+Preparationof plasmid DNA, restrictionenzymedigestion,agarose
+gel electrophoresisof DNA, oligonucleotidelabeling of DNA, DNA
+end-labeling,DNA ligation,and bacterialtransformationwerecarried
+out using standard methods(Sambrooket al., 1989 and references
+therein). Subclonesof DNA PCR amplificationproducts cloned into
+pKS I1+(Stratagene)weresequencedbythe chainterminationmethod
+(Sangeret al., 1977)usingSequenasepolymerase(U. S. Biochemical).
+T7 and T3 sequencingprimers, obtainedfrom the M.I.T. Biopolymer
+Center, were used to prime the sequencingreactions.No less than
+sevencloneswere sequencedto ensureagainstTaq polymeraseartifacts and determinethe sequenceof both alleles at specific loci.
+Cell Lines and EBV Immortalization
+
+Lymphocyteswereisolatedfromfreshlydrawnbloodand immortalized
+with Epstein-Barrvirus (EBV)as previouslydescribed(Gladeand Beratis, 1976).Lymphoblastoidcell linesweregrownin Iscove'smedium
+supplementedwith 15% fetal calf serum.
+
+Germline Mutations in WT1 in Denys-Drash Syndrome
+445
+
+Genomic DNA Isolation
+Genomic DNA was prepared from lymphoblastoid cell lines as follows.
+Cells were washed twice in cold phosphate-buffered saline, centrifuged, and resuspended in TNE (10 mM Tris [pH 8.0], 100 mM NaCI,
+25 mM EDTA) containing 250 pg/ml proteinase K (BMC), 0.5% SDS,
+and 0.05 mg/ml RNAase A. The DNA was extracted by gentle shaking
+at 37°C for 14 hr. The lysate was extracted twice with buffer-saturated
+(100 mM Tris [pH 8.0]) phenol, twice with buffer-saturated phenolchloroform [1/1], and twice with chloroform. Following the addition of
+0.1 vol 3 M sodium acetate and 2.5 vol ethanol, the genomic DNA was
+spooled out of solution, washed in 70% ethanol, and rasuspended in
+T. E. (10 mM Tris [pH 8.0], 1 mM EDTA). Samples were quantitated
+by reading the absorbance at 260 nm.
+Genomic DNA was isolated from blood samples (10 ml) as follows.
+Samples were spun at 3000 rpm for 10 min in a Sorval Refrigerated
+Table Top Centrifuge (RT-6000). The pellet was gently resuspended
+in 1 ml of T. E., and 100 p.I of 0.5 M EDTA was added. The sample was
+vortexed, and SDS was added to a final concentration of 4% and
+incubated at 65°C for 10 rain. After the addition of proteinase K and
+RNAase A to a final concentration of 1.6 mg/ml and 0.3 mg/ml, respectively, the samples were incubated at 65°C for 90 rain. Four milliliters
+of T. E. was then added to the samples, which were phenol extracted
+twice, phenol-chloroform extracted twice, chloroform extracted, and
+the DNA recovered by ethanol precipitation.
+Genomic DNA was isolated from tissues embedded in paraffin as
+previously described (Wright and Manos, 1990). Briefly, sections (10
+p.m) were scraped (,'~5 mm 2) from a glass microscope slide, placed
+into an Eppendorf centrifuge tube, deparaffinized by washing twice in
+xylene, once in 95% ethanol, once in 70% ethanol, and air dried. The
+sample was resuspended in 100 ml of 50 mM Tris (pH 8.0), 4 mM
+EDTA, 0.05% Tween 20, and incubated at 37°C in the presence of
+proteinase K 100 p.g/ml. The sample was then phenol-chloroform,
+chloroform extracted once, and half of the sample was used directly
+for PCR analysis as described below.
+PCR Amplification and SSCP Analysis
+The PCR was performed using a DNA thermocycler (Perkin-ElmerCetus) with 0.1 p~g of genomic DNA in a total volume of 20 p.I. Thirty
+cycles of amplification were carried out; each cycle consisted of I min
+at 94°C, 1 min at the optimally determined annealing temperature for
+each oligonucleotide pair, and 1 min at 72°C. Prior to the PCR, one
+oligonucleotide was radiolabeled with T4 polynucleotide kinase and
+['f-=P]ATP. After the reactions, aliquots of 2 p.I were mixed with 8 rtl
+of 95% formamide, 20 mM EDTA, 0.05% bromophenol blue, 0.05%
+xylene cyanol FF and boiled for 5 rain. Samples (2 p.I) were loaded
+onto 80/0 polyacrylamide (50:1, acrylamide:bisacrylamide) gels, and
+electrophoresis was carried out at 30 W in the cold room. The gel was
+dried on filter paper and exposed to X-ray film at - 7 0 ° C for 6-12 hr
+with an intensifying screen.
+For direct sequencing of PCR products, PCR was performed as
+described above using the following unlabeled oligonucleotides: for
+exon 8: A8, 5'-CCCCGAATTCGI-ICTGTTGGTTTGCCAGG-3'and $8,
+5'-CCCCAAGCTTGCCI-IAATGAGATCCCTTTCC-3'; for exon 9: A9,
+5'-CCCCGAATICAAGATAGCCACGCACTAI-ICC-3' and $9, 5'CCCCAAGCTTCAGGAAATGCTGGGCTCC-3'. Amplifications were
+performed at 55°C for 30 cycles, and the PCR products were purified
+from a low-melting agarose gel as described (Langridge et al., 1980).
+Thirty cycles of asymmetric PCR were performed using the oligonucleotides described in Figure 1, with an uneven molar ratio of the two
+primers (100:1). The amplified mixture was diluted, phenol-chloroform
+extracted, passed through a G50 spun-dialysis column, and ethanol
+precipitated. One-fifth of the reaction mixture was used for dideoxy
+sequencing using'a Sequenase kit (U. S. Biochemical), and the ~Pkinased oligonucleotide used at the lowest concentration in the asymmetric PCR. Products were analyzed on 6% polyacrylamide gels containing 7 M urea.
+WTI Mutsgenesis and Expression Vectors
+Plasmid pKS/mWT[-/-] contains the entire coding region of the WT1
+murine cDNA (1290 nucleotidas [nts]) along with 41 nucieotides of
+5'-noncoding and 110 nts of 3'-noncoding sequence. The WT1 murine
+cDNA sequence has been previously reported (Buckler et al., 1991)
+and the initiator methionine site defined (Pelletier et al., 1991). A mu-
+
+rine cDNA clone lacking both alternative splice exons was restricted
+with Sau 3AI (which cleaves 41 nts upstream of the initiator methionine
+and 110 nts downstream of the stop codon [see Buckler etal., 1991]).
+The 1441 bp fragment was separated from vector sequence by gel
+electrophoresis in low temperature melting agarose. The appropriate
+band was visualized and excised under long-wave UV light after staining the gel with ethidium bromide. DNA was purified from the agarose,
+as previously described (Langridge et al., 1980). This Sau 3AI fragment
+was then subcloned into the BamHI site of pBluescript II KS+. After
+transformation of Escherichia coil strain HB101, and restriction analysis of plasmid DNA from individual clones, a clone was chosen whose
+5' end was nearest the T3 promoter. This clone is referred to as pKSI
+mWT[-/-].
+Mutagenesis of WT1 was performed by PCR using two sets of primers, one primer from each pair targeting the desired sequence to be
+changed and incorporating that desired nt change in its sequence. To
+construct the ~ A r g to ~Trp mutant, the following sets of primers were
+used: MW-4: [(nt 1119) 5'-CCTGCTCCTGAGGACG-3' (nt 1134)] and
+MW-AS(R-W): [(nt 1674) 5'-CTTCAGATGGTCGGACCAGGAAAACTTTC-3' (nt 1642)], as well as MW-F: [(nt 1777) 5'-GGCGGACCAATTCGTC-3' (nt 1762)] and MW-S(R-W): [(nt 1645) 5'-CGAAAGII I ICCTGGTCCGACCATCTGAAG-3' (nt 1674)]. The nucleotide numbering scheme is based on the sequence of Buckler et al.
+(1991). The bold nucleotides indicate the changes made at the nucieotide sequence level to result in conversion of the arginine codon to a
+tryptophan codon. Oligonucleotidas MW-4 and MW-AS(R-W) as well
+as MW-F and MW-S(R-W) were used in the PCR with pKS/mWT[-/
+- ] as template. Annealing reactions were performed at 57°C in the
+presence of PerfectMatch. The two resulting PCR products were gel
+purified from a 30/o NuSieve gel (Langridge et al., 1980), mixed in a 1:1
+molar ratio, and ,'~0.1 rig used in a second PCR using oligonucleotides
+MW-F and MW-4. The resultant product was gel purified, restricted
+with Bsu361 and BssHII, and subcloned into pKS/mWT[-/-], which had
+been restricted with BssHII and Bsu361. Colonies were analyzed by
+direct sequencing to ensure against the introduction of second site
+mutations during the PCR. The same strategy was employed to construct the ~Asp to ~Asn mutation, except that oligonucleotides MW-4
+and MW-F were used in combination with MW-AS(D-N): [(nt 1674)
+5'-C'I-I'CAGATGGTTGGACCGGGAAAACTTTC-3' (nt 1642)] and MWS(D-N): [(nt 1645) 5'-CGAAAG i i i I CCCGGTCCAACCATCTGAAG-3'
+(nt 1674)], respectively.
+
+In Vitro Transcriptions and Translations
+The vectors pKS/mWT[-/-], pKS/WT1 (~W), and pKS/W'I'I(~N) were
+used as starting reagents to construct vectors with greater translational
+efficiencies. The WT1 gene was excised from these plasmids as follows. Each vector was digested with Spel, which cuts upstream of the
+WT gene, and within the polylinker of pBluescript II KS+. This was
+filled in with DNA polymerase I (Klenow fragment) in the presence of
+deoxyribonucleoside triphosphates, and blunt-end Ugated to EcoRI
+linkers (5'-GGAAI-ICC-3~ using T4 DNA ligase. This mixture was then
+digested with EcoRI and BamHI, and the resultant WT gene inserts
+were gel purified as previously described (Langridge et al., 1980).
+These inserts were then introduced into the EcoRI-BamHI sites of
+pSP65-38A. This vector has been previously described (Munroe et al.,
+1990) and was constructed by inserting 38 adenosines into the Pstl
+site of the pSP65 polylinker. Any resultant synthetic mRNA species
+made with SP6 polymerase on template linearized with Hindlll will
+therefore contain a poly(A) tail, a feature important for mRNA stability
+and translation (Munroe et al., 1990). The resultant plasmids were
+referred to as pSP65(A)/mWT[-/-], pSP65(A)/WT1(~W), and pSP65
+(A)/WTI(~N).
+For in vitro transcriptions, these plasmids were linearized with
+Hindlll. A control plasmid, p327, contains a 2.1 kb EGR-1 cDNA in the
+Smal site of pBluescript II KS. This plasmid was linearized with Xbal.
+After digestion, samples were phenol-chloroform (1:1; v/v) extracted,
+passed over a G-50 spun-dialysis column, and ethanol precipitated.
+Transcription reactions using pSP65 derivatives as template were carried out according to Green st al. (1983), except for the following modifications: 500 p.M m7GpppG was included in the reaction mix, and
+the GTP concentration was lowered to 100 p.M in order to synthesize
+capped mRNA transcripts. Ten microcurias of 5-3H-CTP was included
+in the reaction mix to be used as tracer to quantitate mRNA yields.
+
+Cell
+446
+
+Incubation times were 2 hr at 40°C. T3 transcriptions (Promega Biotech) using p327 were according to the manufacturer's recommendations with the above noted modifications.
+RNA templates were translated in a rabbit reticulocyte lysate (50 p_l)
+(Promega Biotech) in the presence or absence of [35S]methionine at
+final concentrations of 16 p.g/ml. Unlabeled proteins were synthesized
+in lysates supplemented with 20 p.M methionine. Translations were
+performed at 30°C for 1 hr.
+
+Gel Retardation Assay
+Probes for the binding assay were prepared by annealing complementary synthetic oligonucleotides. The oligonucleotides were gel purified
+after synthesis and annealed by heating to 90°C for 5 min in 50 mM
+Tris HCI (pH 7.6), 10 mM MgCI2, 0.1 mM EDTA (pH 8.0), 75 mM NaCI
+and allowed to slowly cool to room temperature. Annealed oligonucleotides were radiolabeled with T4 polynucleotide kinase and [7-32P]ATP
+and purified from a 3°/o NuSieve gel as previously described (Langridge et al., 1980). The binding sites used were as follows: EGR,
+5'-CGCCCTCGCCCCCGCGCCGGG-3' and M2, 5'-CGCCCTCGCACCCGCGCCGGG-3'.
+Binding reactions for the gel retardation assay were set up in 10 p.I
+by incubating 2.5 ng of end-labeled probe (20,000 cpm) and 1 p_g of
+poly(dl-dC)-poly(dl-dC) with 3 p_lof EGR-1 or WTI programmed lysate.
+The binding buffer was 20 mM HEPES (pH 7.5), 70 mM KCI, 5 mM
+MgCI2, 0.1% NP-40, 12% glycerol, 1 mg/ml bovine serum albumin, 0.5
+mM dithiothreitol, 100 p.M ZnCI2. Each reaction mixture was preincubated at room temperature for 15 rain before the addition of radiolabeled probe. Complexes were given 15 rain at room temperature to
+form and were resolved on a 5O/o polyacrylamide gel (30:1) in 0.5 x
+TBE (1 x TBE is 0.089 M Tris-borate, 0.089 M boric acid, 2 mM EDTA)
+at 140 V at 4°C. Gels were dried and exposed to Kodak X-ray film
+at -70°C. For competition experiments, the specific amount of cold
+oligonucleotide competitor was added to the lysate concurrent with the
+addition of labeled DNA.
+Acknowledgments
+We wish to dedicate this manuscript to the memory of patient C. B.,
+who recently passed away owing to secondary complications of
+Denys-Drash syndrome. Although commonly referred to as Drash syndrome, we prefer the eponym of Denys-Drash syndrome, since this
+constellation of anomalies was first described by Denys et al. (1967).
+We thank Dr. Vincent Stanton for kindly reviewing pathological specimens, Drs. Tom Glaser and David Brook for helpful discussions and
+comments during the course of this work, and Drs. Walter Mushynski
+and Philippe Gros for critical review of the manuscript. We are grateful
+to Drs. David Munroe and Vikas Sukhatme for their kind gifts of pSP6538A and p327, respectively. We are gratefully indebted to the patients,
+their families, and treating physicians for having participated in this
+study. J. P. wishes to thank the McGill Department of Biochemistry for
+use of facilities and space. J. P. was supported by a postdoctoral
+fellowship award from the Medical Research Council of Canada.
+D. A. H. was supported by National Cancer Institute Clinical Investigator Award 1K08CA 01356. This research was supported by NIH grant
+HG00299 awarded to D. E. H. and by National Cancer Institute and
+Medical Research Council of Canada grants to J: P.
+The costs of publication of this article were defrayed in part by
+the payment of page charges. This article must therefore be hereby
+marked =advertisement' in accordance with 18 USC Section 1734
+solely to indicate this fact.
+Received September 9, 1991; revised September 20, 1991.
+
+References
+Baker, S. J., Fearon, E. R., Nigro, J. M., Hamilton, S. R., Preisinger,
+A.C., Milburn Jessup, J., vanTuinen, P., Ledbetter, D. H., Barker,
+D. F., Nakamura, Y., White, R., and Vogelstein, B. (1989). Chromosome 17 deletions and p53 gene mutations in colorectal carcinomas.
+Science 244, 217-221.
+Beckwith, J. B., Kiviat, N. B., and Bonadio, J. F. (1989). Nephrogenic
+rests, nephroblastomatosis, and the pathogenesis of Wilms' tumor.
+Ped. Pathol. 10, 1-36.
+
+Berta, P., Hawkins, J. R., Sinclair, A. H., Taylor, A., Griffiths, B. L.,
+Goodfellow, P. N., and Fellous, M. (1990). Genetic evidence equating
+SRY and the testi-determining factor. Nature 348, 448-450.
+Bond, J. V. (1975). Bilateral Wilms' tumor. Age at diagnosis, associated
+congenital anomalies, and possible pattern of inheritance. Lancet 2,
+482-484.
+Breslow, N. E., and Beckwith, J. B. (1982). Epidemiological features
+of Wilms' tumor: results of the National Wilms' Tumor Study. J. Natl.
+Cancer Inst. 68, 429-436.
+Breslow, N. E., Beckwith, J. B., Ciol, M., and Sharpies, K. (1988). Age
+distribution of Wilms' tumor: report from the National ~Nilms' Tumor
+Study. Cancer Res. 48, 1653-1657.
+Buckler, A. J., Pelletier, J., Haber, D. A., Glaser, T., and Housman,
+D. E. (1991). Isolation, characterization, and expression of the murine
+Wilms' tumor gene (WT1) during kidney development. Mol. Cell. Biol.
+11, 1707-1712.
+Call, K. M., Glaser, T., Ito, C. Y., Buckler, A. J., Pelletier, J., Haber,
+D. A., Rose, E. A., Kral, A., Yeger, H., Lewis, W. H., Jones, C., and
+Housman, D. E. (1990). Isolation and characterization of a zinc finger
+polypeptide gene at the human chromosome 11 Wilms' tumor locus.
+Cell 60, 509-520.
+Cao, X., Koski, R. A., Gashler, A., McKiernan, M., Morris, C. F., Gaffhey, R., Hay, R. V., and Sukhatme, V. P. (1990). Identification and
+characterization of the Egr-f gene product, a DNA-binding zinc finger
+protein induced by differentiation and growth signals. Mol. Cell. Biol.
+10, 1931-1939.
+Dao, D. D., Schroeder, W. T., Chao, L.-Y., Kikuchi, H., Strong, L. C.,
+Riccardi, V. M., Pathak, S., Nichols, W. W., Lewis, W. H., and Saunders, G. F. (1987). Genetic mechanisms of tumor-specific loss of 1 lp
+DNA sequences in Wilms' tumor. Am. J. Hum. Genet. 41,202-217.
+Davis, L. M., Zabel, B., Senger, G., L0decke, H.-J., Metzroth, B., Call,
+K., Housman, D., Claussen, U., Horsthemke, B., and Shows, T. B.
+(1991). A tumor chromosome rearrangement further defines the 1 lp13
+Wilms' tumor locus. Genomics 10, 588-592.
+Denys, P., Malvaux, P., van den Berghe, H., Tanghe, W., and Proesmans, W. (1967). Association d'un syndrome anatomo-pathologique
+de pseudohermaphrodisme masculin, d'une tumeur de Wilms, d'une
+nephropathie parenchymateuse et d'un mosaicisme XX/XY. Arch.
+Fran. Ped. 24, 729-739.
+Drash, A., Sherman, F., Hartmann, W. H., and Blizzard, R. M. (1970).
+A syndrome of pseudohermaphroditism, Wilms' tumor, hypertension,
+and degen'erative renal disease. J. Ped. 78, 585-593.
+Frasier, S. D., Bashore, R. A., and Mosier, H. D. (1964). Gonadoblastoma associated with pure gonadal dysgenesis in monozygous twins.
+J. Ped. 64, 740-745.
+Gessler, M., Poustka, A., Cavenee, W., Neve, R. L., Orkin, S. H., and
+Brun~t~ G. A. P. (1990). Homozygous deletion in Wilms' tumors of a
+zinc-finger gene identified by chromosome jumping. Nature 343, 774778.
+Glade, P. R., and Beratis, N. G. (1976). Long-term lymphoid cell lines
+in the study of human genetics. Prog. Med. Genet. 1, 1-48.
+Green, M. R., Maniatis, T., and Melton, D. A. (1983). Human ~-globin
+pre-mRNA synthesized in vitro is accurately spliced in Xenopus oocyte
+nuclei. Cell 32, 681-684.
+Habib, R., Loirat, C., Gubler, M. C., Niaudet, P., Bensman, A., Levy,
+M., and Broyer, M. (1985). The nephropathy associated with male
+pseudohermaphroditism and Wilms' tumor (Drash syndrome): a distinctive glomerular lesion--report of 10 cases. Clin. Neph. 24, 269278.
+Haber, D. A., Buckler, A. J., Glaser, T., Call, K. M., Pelletier, J., Sohn,
+R. L., Douglass, E. C., and Housman, D. E. (1990). An internal deletion
+within an 11p13 zinc finger gene contributes to the development of
+Wilms' tumor. Cell 61, 1257-1269.
+Haber, D. A., Sohn, R., Buckler, A. R., Pelletier, J., Call, K., and Housman, D. E. (1991). Alternative splicing and genomic structure of the
+Wilms' tumor gene, WT1. Proc. Natl. Acad. Sci. USA, in press.
+Huff, V., Miwa, H., Haber, D. A., Call, K. M., Housman, D., Strong,
+L. C., and Saunders, G. F. (1991). Evidence for WT1 as a Wilms' tumor
+(WT) gene: intragenic germinal deletion in bilateral WT. Am. J. Hum.
+Genet. 48, 997-1003.
+
+Germline Mutations in WT1 in Denys-Drash Syndrome
+447
+
+Jadresic, L., Wadey, R. B., Buckle, B., Barratt, T. M., Mitchell, C. D.,
+and Cowell, J. K. (1991). Molecular analysis of chromosome region
+11p13 in patients with Drash syndrome. Hum. Genet. 86, 497-501.
+J&ger, R. J., Anvret, M., Hall, K., and Scherer, G. (1990). A human XY
+female with a frame shift mutation in the candidate testis-determining
+gene SRY. Nature 348, 452-454.
+Kadonaga, J. T., Carner, K. R., Masiarz, F. R., and Tjian, R. (1987).
+Isolation of cDNA encoding transcription factor Spl and functional
+analysis of the DNA binding domain. Cell 51, 1079-1090.
+Knudson, A. G., Jr., and Strong, L. C. (1972). Mutation and cancer: a
+model for Wilms' tumor of the kidney. J. Natl. Canc. Inst. 48, 313-324.
+Langridge, J., Langridge, P., and Bergquist, P. L. (1980). Extraction of
+nucleic acids from agarose gels. Anal. Biochem. 103, 264-271.
+Lewis, W. H., Yeger, H., Bonetta, L., Chan, H. S. L., Kang, J., Junien,
+C., Cowell, J., Jones, C. A., and Defoe, L. A. (1988), Homozygous
+deletion of a DNA marker from chromosome 11 p13 in sporadic Wilms'
+tumor. Genomics 3, 25-31.
+Malkin, D., Li, F. P., Strong, L C., Fraumeni, J. F., Jr., Nelson, C. E.,
+Kim, D. H., Kassel, J., Gryka, M. A, Bischoff, F. Z., Tainsky, M. A., and
+Friend, S. H. (1990). Germ-line p53 mutations in a familial syndrome
+of breast cancer, sarcomas, and other neoplasms. Nature 250, 12331238.
+Matsunaga, E. (1981). Genetics of Wilms' tumor. Hum. Genet. 57, 231246.
+Miller, R. W., Fraumeni, J. F., Jr., and Manning, M. D. (1964). Association of Wilms' tumor with aniridia, hemihypertrophy and other congenital malformations. New Engl. J. Med. 270, 922-927.
+Munroe, D., and Jacobson, A. (1990). mRNA poly(A) tail, a 3' enhancer
+of translational initiation. Mol. Cell. Biol. 10, 3441-3455.
+Orita, M., Iwahana, H., Kanazawa, H., Hayashi, K., and Sekiya, T.
+(1989). Detection of polymorphisms of human DNA by gel electrophoresis as single-strand conformation polymorphisms. Proc. Natl. Acad.
+Sci. USA 86, 2766-2770.
+Pavletich, N. P., and Paboi C. O. (1991). Zinc fin~ler-DNA recognition:
+crystal structure of a Zif268-DNA complex at 2.1 A. Science 252, 809817.
+Pelletier, J., Sruening, W., Li., F. P., Haber, D. A., Glaser, T., and
+Housman, D. (1991a). WT1 mutations contribute to abnormal genital
+system development and hereditary Wilms' tumor. Nature, in press.
+Pelletier, J., Munroe, D., and Housman, D. (1991b). Molecular genetics
+of Wilms' tumor. In Molecular Basis of Human Diseases (Cold Spring
+Harbor, New York: Cold Spring Harbor Laboratory), in press.
+Pelletier, J., Schalling, M., Buckler, A. J., Rogers, A., Haber, D. A.,
+and Housman, D. (1991c). Expression of the Wilms' tumor gene WII
+in the murine urogenital system. Genes Dev. 5, 1345-1356.
+Pritchard-Jones, K., Fleming, S., Davidson, D., Bickmore, W., Porteous, D., Gosden, C., Bard, J., Buckler, A., Pelletier, J., Housman,
+D., van Heyningen, V., and Hastie, N. (1990). The candidate Wilms'
+tumor gene is involved in genitourinary development. Nature 346,194197.
+Rauscher, F. J., Ill, Morris, J. F., Tournay, O. E., Cook, D. M., and
+Curran, T. (1990). Binding of the Wilms' tumor locus zinc finger protein
+to the EGR-1 consensus sequence. Science 250, 1259-1262.
+Reeve, A. E., Shih, S. A., Raizis, A. M., and Feinberg, A. P. (1989).
+Loss of allelic heterozygosity at a second locus on chromosome 11 in
+sporadic Wilms' tumor cells. Mol. Cell. Biol. 9, 1799-1803.
+Riccardi, V. M., Sujansky, E., Smith, A. C., and Francke, U. (1978).
+Chromosomal imb~.lance in the aniridia-Wilms' tumor association: 1l p
+interstitial deletion. Pediatrics 61,604-610.
+Royer-Pokora, B., Ragg, S., Heckl-Ostreioher, B., Held, M., Loos, U.,
+Call, K., Glaser, T., Housman, D., Saunders, G., Zabel, B., Williams,
+B., and Poustka, A. (1991). Direct pulsed field gel electrophoresis of
+Wilms' tumors shows that DNA deletions in 1lp13 are rare. Genes,
+Chromosomes, Cancer 3, 89-100.
+"Sambrook, J., Fritsch, E. F., and Maniatis, T. (1989). Molecular Cloning: A Laboratory Manual (Cold Spring Harbor, New York: Cold Spring
+Harbor Laboratory).
+Sanger, A. F., Nicklen, S., and Coulson, A. R. (1977). DNA sequencing
+
+with chain-terminating inhibitors. Proc. Natl. Acad. Sci. USA 74, 54635467.
+Schroeder, W. T., Chao, L.-Y., Dao, D. D., Strong, L. C., Pathak,
+S., Riccardi, V., Lewis, W. H., and Saunders, G. F. (1987). Nonrandom
+loss of maternal chromosome 11 alleles in Wilms' tumors. Am. J. Hum.
+Genet. 40, 413-420.
+Srivastava, S., Zou, Z., Pirollo, K., Blattner, W., and Chang, E. H.
+(1990). Germ-line transmission of a mutated p53 gene in a cancerprone family with Li-Fraumeni syndrome. Nature 348, 747-749.
+Ton, C. C. T., Huff, V., Call, K. M., Cohn, S., Strong, L. C., Housman,
+D. E., and Saunders, G. F. (1991). Smallest region of overlap in Wilms'
+tumor deletions uniquely implicates an 11 p13 zinc finger gene as the
+disease locus. Genomics 10, 293-297.
+Vortkamp, A., Gessler, M., and Grezschik, K.-H. (1991). GL13 zincfinger gene interrupted by translocations in Greig syndrome families.
+Nature 352, 539-540.
+Wright, D. K., and Manos, M. M. (1990). Sample preparation from
+paraffin-embedded tissues. In PCR Protocols: A Guide to Methods and
+Applications, M. A. Innis, D. H. Gelfand, J. J. Sninsky, and T. J. White,
+eds. (New York: Academic Press), pp. 163-158.
+Young, J. L., Jr., and Miller, R. W. (1975). Incidence of malignant
+tumors in U. S. children. J. Ped. 86, 254-258.
+Zunin, C., and Soave, F. (1964). Association of nephrotic syndrome
+and nephroblastoma in siblings. Ann. Paediatr. 203, 29-31.
+
+

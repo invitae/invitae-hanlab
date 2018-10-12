@@ -1,0 +1,466 @@
+HUMAN MUTATION 650-54 (1995)
+
+RESEARCH ARTICLE
+
+Mutations in the Myelin Protein Zero Gene
+Associated With Charcot-Marie-Tooth Disease
+Type 1B
+Philippe Latour, Fransoise Blanquet, Eva Nelis, Christine Bonnebouche, Frangoise Chapon,
+Philippe Diraison, Elisabeth Ollagnon, Andre Dautigny, Danielle Pham-Dinh, Guy Chazot,
+Michel Boucherat, Christine Van Broeckhoven, and Antoon Vandenberghe’
+Luboramire de Biochimie, H6pitaf de I’Antiquaille, F-6932 1 Lyon Cidex 05, France (P. L., C.B., M.B., A. V. ); CNRS U1488
+Univrrsitt Paris VI, F-75252, Paris Cidex 05, France (F.B., A. D. D. P. +D.); Laboratory of Neurogenetics, Born Bunge
+Foundation, Department of Biochemisq, University of Antwerp (UIA), B-2610 Antwerp, Belgium (E.N., C.V.B.); Service de
+Neurofogk, CHRU de Caen, F-14033 Caen Cidex, France (F.C., P.D); Service de Ginitique, H6pipital de l’H6tel Dieu,
+F-69002 Lyon. France (E.O.);H6pital Neurofogique, F-69003 Lyon, France (G.C.); Faculte‘ de Pharmacie, Universite Claude
+Bernard Lyon I, F-69008 Lyon, France (A.V.); Fax: 33-723-85110
+Communicated by Jean-Louis Mandel
+
+Charcot-Marie-Tooth type 1 (CMT1) disease is an autosomal dominant neuropathy of the peripheral
+nerve. The majority of CMT 1 cases are due to a duplication of an 1.5-Mb DNA fragment on
+chromosome 17pl1.2 (CMT la). Micromutations were found in the gene for peripheral myelin protein
+22 (PMp22) located in the duplicated region of CMT la, and in the peripheral myelin protein zero
+(PO) located on chromosome lq21-23 (CMT Ib). We have characterized two new mutations in the
+PO gene in two french families presenting CMT disease. Both mutations occur in the extracellular
+domain of the PO protein. One mutation is a de novo mutation and is from paternal origin.
+Q 1995 Wiley-Liss. Inc.
+KEY WORDS:
+
+Charcot-Marie-Tooth disease, Myelin PO, Point mutations
+
+INTRODUCTION
+Charcot-Marie-Tooth(CMT)neuropathy is the
+most common inherited peripheral neuropathy
+with an incidence of 1 in 2,500 (Skre, 1974). The
+disease is clinically caracterized by distal muscle
+weakness, pes cavus, atrophy, absent or diminished tendon reflexes, and mild sensory loss. CMT
+type 1 shows largely reduced motor nerve conduction velocities (NCV) of less than 38 d s e c and on
+biopsy the presence of onion bulbs formed by a
+process of de- and remyelinization. CMT type 2 is
+a nondemyelinating neuropathy with normal or
+slightly reduced NCV values. The genetic heterogeneity of the disease is important. For the autosoma1 dominant forms, loci have been identified
+on chromosome 17 (CMT la) (Vance et al.,
+1991), on chromosome 1 (CMT lb) (Bird et al.,
+1982)’ and evidence exists for the occurence of
+another yet unknown locus (CMT lc) (Chance et
+al., 1990). The gene responsible for CMT type l a
+codes for PMP22 and is either present in an
+0 1995 WILEY-LISS. INC.
+
+1.5-Mb duplication on chromosome 17~11.2
+(Matsunami et al., 1992; Patel et al., 1992; Valentijn et al., 1992a; Timmerman et al., 1992) or
+exceptionally altered by point mutations (Valentijn et al., 1992b).
+CMT type l b was initially mapped to the pericentromeric region of chromosome l (Bird et al.,
+1982) and later on localized more precisely to
+lq21-23 (Lebo et al., 1991). This region contains a gene coding for the major peripheral protein zero (Pham-Dinhet al., 1993), and mutations
+in this gene have been reported (Table 1). We
+here describe a leucine for serine substitution at
+amino acid position 78 and a de novo mutation
+consisting of a cysteine substitution for tryptophane at amino acid position 101.
+
+Received July 18. 1994; accepted September 18. 1994.
+‘To whom reprint requWcomespondence should be addressed.
+
+CMT 1B POINT MUTATIONS
+TABLE 1.
+
+Exon
+2
+2
+2
+2
+2
+3
+3
+
+3
+3
+3
+3
+4
+4
+4
+5 -6
+
+51
+
+Mutations in the PO Gene Associated With CMT 1B
+
+a.a.
+position
+
+Domain
+of PO”
+
+Mutation
+
+References
+
+30
+63
+63b
+78
+82
+90
+96
+
+EC
+EC
+EC
+EC
+EC
+EC
+EC
+
+Met for Ile
+Ser deletion
+Cys for Ser
+Leu for Ser
+Cys for Tyr
+Glu for Asp
+Glu for Lys
+
+98
+101
+134
+134
+154
+167b
+181
+216
+
+EC
+EC
+EC
+EC
+EC
+TM
+TM
+1c
+
+His for Arg
+Cys for Trp
+Asn for Asp
+Glu for Asp
+Stop for Tyr
+Arg for Gly
+Stop for Tyr
+splice site
+
+Hayasaka et al. (1993b)
+Kulkens et al. (1993)
+Hayasaka et al. (1993d)
+Herein and Nelis et al. (1994a)
+Hirnoro et al. (1993)
+Hayasaka et al. (1993a)
+Hayasaka et al. (1993a);
+Su et al. (1993)
+Hayasaka et al. ( 1 9 9 3 ~ )
+Herein
+Nelis et al. (1994a)
+Nelis et al. (1994b)
+Nelis et al. (1994a)
+Hayasaka et al. (1993d)
+Nelis et al. (1994a)
+S u et al. (1993)
+
+”Abbreviations for the PO domains: EC, extracellular; TM,transmembrane; IC, intracytoplasmic.
+These mutations have been described in association with a Dejerine-Sottas phenotype (Hayasaka et al., 1993d).
+
+MATERIALS AND METHODS
+Population Selection
+Blood samples were obtained from CMT families from all over France. Families corresponding to
+CMTl criteria (de Visser, 1993) were screened systematically for the presence of the duplication on
+chromosome 17 with probe pVAW409R3a
+(D17S122) and the combined probes pEW401HE
+(D17S61) and pVAW412HEc (D17S125) (Raeymaekers et al., 1992). Ten nonduplicated families
+were further screened using single-strand conformation polymorphism (SSCP) analysis for the
+presence of point mutations in the exons 2, 3 , and
+6 of the PO gene.
+Amplification of DNA Sequences and
+SSCP Analysis
+DNA samples were prepared by standard phenol-chloroform extractions. Conditions for amplification, sequence of oligonucleotide primers for
+exons 2, 3, and 6, and conditions for SSCP were as
+described by Nelis et al. (1994a).
+Sequencing
+Genomic DNA (500 ng) was amplified by polymerase chain reaction (PCR) using 2 p,M of each
+primer in a total volume of 50 p1. PCR amplification was performed with Thermus aquaticus DNA
+polymerase from Perkin-Elmer (Cetus, Norwalk,
+CT) under conditions specified by the supplier.
+Oligonucleotide primers were designed according
+to the genomic sequence of PO (Pham-Dinh et al.,
+1993). The primers used were (5’ 3’): GATCTCACTTCCTCTGTATCC (sense) and GA-
+
+CCCTAATGAGAACACAGC (antisense) for
+exon 2 and GCTGTGTTCTCATTAGGGTC
+(sense) and GCCAGCAGTACCGAACCAC
+(antisense) for exon 3. After a predenaturation
+step of 4’ at 93”C, 33 cycles of amplification (40”
+at 94”C, 1‘ at 59”C, and 2’ at 74°C) and one
+polymerization step of 5’ at 74°C were performed.
+Fragments obtained presented a length of 540 and
+607 base pairs (bp), respectively, for exons 2 and
+3. Before sequencing, amplified DNA was extracted with chloroform and purified by the Geneclean procedure (BiolOl, La Jolla CA). Exon sequencing was performed directly on purified PCR
+products (Higuchi et al., 1988) or on Bluescript
+(Stratagene Cloning Systems, La Jolla, CA) subcloned inserts (Sequenase, United States Biochemicals) (Hattori and Sakaki, 1986).
+RESULTS
+Clinical Findings
+
+In family 1 (Fig. l ) , two individuals are affected
+in a three generation pedigree. Both parents of the
+propositus are clinically unaffected. The age of the
+father and the mother at time of birth of the propositus was, respectively, 25 and 19 years. The
+propositus 11.3, 32 years old, had early onset of the
+disease at the age of walking. Atrophy of the distal
+lower limb muscles and absence of muscle stretch
+reflexes in lower and upper limbs were observed.
+The patient presents a pes c a w s deformity of the
+feet with hammertoes and a scoliosis. T h e median
+NCV is lowered to 10 m/sec. The nerve biopsy
+presents many onion bulbs. The daughter of the
+
+LATOUR ET AL.
+
+52
+
+I
+I1
+1
+
+2
+
+3
+
+I11
+
+I1
+
+1
+
+I11
+A
+
+IV
+
+Y
+
+a
+1
+
+FIGURE 2. Pedigree and SSCP analysis pattern for family 2.
+The mutation is transmitted through three generations. The
+grandmother and a second daughter of the propositus (samples not available) are also affected.
+
+Pedigree and SSCP analysis pattern for family 1.
+Parents of the propositus are unaffected, revealing the occurence of a de novo mutation. The mutation is transmitted
+to an affected daughter.
+FIGURE I.
+
+propositus (111.1) is 7 years old. She has walking
+difficulties and a pes cavus deformity of the foot.
+Individuals from four different generations of
+family 2 were studied (Fig. 2). The propositus 11.1,
+57 years old, has a slow progression of the disease,
+median NCVs of 15 and 21 m/sec (left and right),
+and had a nerve biopsy showing many onion bulbs.
+Her mother, I. 1, underwent seven surgical operations of the feet. Her daughter had also an operation to correct feet deformities. Nerves of the latter
+could not be stimulated to measure median NCVs,
+but cubital values for the upper limbs were 34 and
+3 1 m/sec (left and right).
+Detection of the Mutations With
+
+SSCP Analysis
+
+Figures 1 and 2 present the aberrant profiles of
+migration detected with SSCP analysis. The amplified fragments are 290 nucleotides in length for
+exon 2 and 370 nucleotides in length for exon 3. A
+conformation polymorphism was detected in exon
+3 without glycerol (family l), and in exon 2 in the
+presence of 10% glycerol (family 2). Only affected
+members of the family showed the presumed mutation. N o mutations were found for exon 6.
+Sequencing
+
+The sequencing of exon 3 in family 1 revealed
+the presence of a mutant allele, a G to C trans-
+
+version, leading to a cysteine substitution for tryptophane at amino acid position 101. Intron 2 of
+the PO gene contains a polymorphic oligo( T ) tract
+(Pham-Dinh et al., 1993), permitting retracing of
+the parental origin of the mutation present in exon
+3. Using primers for sequencing exon 2, DNA fragments spanning the polymorphism and the mutation are obtained. Fragments from the father,
+mother and the affected daughter were cloned and
+sufficient clones were sequenced to identify both
+alleles of each individual (not shown) revealing
+the point mutation to be present o n the paternal
+allele.
+In family 2, the mutation in exon 2 is a C to T
+transition resulting in a leucine substitution for
+serine at amino acid position 78.
+In both families, affected persons were heterozygous for the mutant allele and the normal allele.
+The mutation was absent in the DNA from unaffected persons and the other regions of exon 2 or 3,
+including exon-intron boundaries, had normal sequences.
+
+DISCUSSION
+
+We screened 10 patients corresponding to the
+criteria of CMT 1 and showing no duplication of
+chromosome 17~11.2,for the presence of micromutations in exons 2, 3, and 6 of the PO gene.
+Exons 2 and 3 were chosen, as they code for the
+largest part of the extracellular domain of the protein, and since the majority of the mutations reported so far (12 of the 15) are located in this
+
+CMT 1B POINT MUTATIONS
+
+domain (Table 1). Exon 6 was also analyzed for
+practical reasons since the conditions for amplification were the same as for exons 2 and 3. We
+found two novel mutations in the PO gene associated with CMT lb. Both mutations affect the extracellular domain of PO, which is responsible for
+the homophilic adhesion properties of the protein.
+Most of the mutations known so far occur in this
+region (12 of the 15 so far known). The extracellular domain of PO has a structure related to the
+reiterated conserved domains of the immunoglobulin superfamily. These molecules serve as recognition molecules by binding either homotypically
+or to another immunoglobulin-related structure
+(Lemke, 1992). Probably, missense mutations in
+the extracellular domain alter the capacity to interact correctly, thereby disturbing the compaction
+of the myelin sheets. The extracellular domain
+contains two cysteine residues at amino acid positions 50 and 127, creating a loop characteristic of
+the immunoglobulin-like structure of PO. For family 1, the presence of a third cysteine in the extra
+cellular domain of PO could compete with the formation of the correct disulfide bond, resulting in a
+change of conformation and a bad adhesion between successive myelin layers. No alterations for
+exon 6 were found, although a low-frequency neutral polymorphism in this exon was reported (Nelis
+et al., 1994a). Further screening for exons 1, 4,
+and 5 will be necessary to find other mutations or
+to exclude the occurence of mutations in PO in the
+other families. However, we cannot entirely exclude the presence of mutations that are not detected with the SSCP technique. Also, these families are too small to prove the involvement of a
+locus in the pathology by linkage studies.
+Family 1 presents a de novo mutation, with
+clinically unaffected parents in the first generation. SSCP and sequencing did not reveal the presence of the mutation in the parental DNA. Correct paternity was proven with probe YNH24
+(D2S44) and the polymorphic poly( T) tract in intron 2 in the PO gene (Pham-Dinh et al., 1993).
+The latter allowed us to conclude to a paternal
+origin of the mutation. De novo mutations for
+CMT 1 disease are known to occur for the duplication on chromosome 17 (Hoogendijk et al.,
+1992) and concern about 10% of affected families
+(unpublished results). Interestingly, most of these
+mutations are of paternal origin (Palau et al.,
+1993). However, the mechanism of mutation is
+different, since the duplication is believed to be
+due to an unequal recombination event during
+meiosis. It remains to be determined whether point
+
+53
+
+mutations as described here for the PO gene also
+show preferential paternal origin.
+
+ACKNOWLEDGMENTS
+The two first authors have contributed equally
+to the work reported in this paper. We thank Joke
+de Voecht for technical assistance. This work was
+supported by the Association FranGaise contre les
+Myopathies (AFM), the Groupement de Recherches et d'Etudes sur les Genomes (GREG), the
+Hospices Civils de Lyon (HCL), grants of the National Fund of Scientific Research of Belgium
+(NFSR), and the Concerted Action of the Flemish
+Ministry of Education, Belgium. C. Van Broeckhoven is a research associate of the NFSR, Belgium.
+
+REFERENCES
+Bird TD, Ott J, Giblett ER (1982) Evidence for linkage of Charcot-Marie-Tooth neuropathy to the Duffy locus on chromosome 1. Am J Hum Genet 34:338-349.
+Chance PF, Bird TD, O'Connell P, Lipe H, Lalouel JM, Leppert
+M (1990) Genetic linkage relationship of Charcot-MarieTooth disease (HMSN lb) to chromosome 1 markers. Am J
+Hum Genet 47:915-925.
+de Visser M (1993) Diagnostic criteria for autosomal dominant
+hereditary motor and sensory neuropathy type la. Neuromusc
+Disord 3:77-79.
+Hattori M, Sakaki Y (1986) Dideoxy sequencing by plasmid template. Ann Biochem 152:232-238.
+Hayasaka K, Himoro M, Sat0 W , Takada G , Uyemura K, Shimizu
+N, Bird TD, Conneally PM, Chance PF (1993a) CharcotMarie-Tooth neuropathy type 1B is associated with mutations
+of the myelin PO gene. Nature Genet 5:31-34.
+Hayasaka K, Takada G, Ionasescu W (199313) Mutation of the
+myelin PO gene in Charcot-Marie-Tooth neuropathy type 1B.
+Hum Mol Genet 2:1369-1372.
+Hayasaka K, Ohnishi A, Takada G , Fukushima Y, Murai Y
+( 1 9 9 3 ~ )Mutation of the myelin PO gene in Charcot-MarieTooth neuropathy type 1. Biochem Biophys Res Commun 194:
+1317-1322.
+Hayasaka K, Himoro M, Sawaishi Y, Nanao K, Takahashi T,
+Takada G , Nicholson GA, Ouvrier RA, Tachi N (1993d) De
+novo mutation in the myelin PO gene in Dejerine-Sottas disease (hereditary motor and sensory neuropathy type 111). Nature Genet 5:266-268.
+Higuchi R, von Beroldingen CH, Sensabaugh GF, Erlich H A
+(1988) DNA typing from single hairs. Nature 332543-546.
+Himoro M, Yoshikawa H, Matsui T, Mitsui Y, Takahashi M,
+Kaido M, Nishimura T, Sawaishi Y, Takada G, Hayasaka K
+(1993) New mutation of the myelin PO gene in a pedigree of
+Charcot-Marie-Tooth neuropathy type 1. Biochem Mol Biol
+Int 31:169-173.
+Hoogendijk JE, Hensels GW, Gabreels-Festen AAW, Gabreels
+FJM, Janssen EAM, De Jonghe P, Martin JJ, Van Broeckhoven
+C , Valentijn LJ, Baas F, de Visser M, Bolhuis P (1992) Denovo mutation in hereditary motor and sensory neuropathy
+type I. Lancet 339:1081-1082.
+Kulkens T, Bolhuis PA, Wolterman RA, Kemp S, te Nijenhuis S,
+Valentijn LJ, Hensels GW, Jennekens FGI, de Visser M,
+Hoogendijk JE, Baas F (1993) Deletion of the serine 34 codon
+
+54
+
+LATOUR ET AL.
+
+from the major peripheral myelin protein PO gene in CharcotMarie-Tooth disease type 1B. Nature Genet 5:35-39.
+Lebo RV, Chance PF, Dyck PJ, Bird T D (1991) Chromosome 1
+Charcot-Marie-Tooth disease (CMT lb) locus in the Fcy receptor gene region. Hum Genet 88:l-12.
+Lemke G (1992) Myelin and myelination. In Hall ZW (ed): An
+introduction to molecular Neurobiology. Sunderland, MA:
+Sinauer Associates, pp 281-309.
+Matsunami N , Smith 8, Ballard L, Lensch WM, Robertson M,
+Albertsen H, Hanemann OC, Miiller HW, Bird TD, White R,
+Chance P (1992) Peripheral myelin protein-22 gene maps in
+the duplication in chromosome 1 7 ~ 1 1 . 2associated with Charcot-Marie-Tooth disease la. Nature Genet 1:176-179.
+Nelis E, Timmerman V, De Jonghe P, Vandenberghe A, PhamDinh D, Dautigny A, Martin JJ, Van Broeckhoven C (1994a)
+Rapid screening of myelin genes in CMT 1 patients by SSCP
+analysis: Identification of new mutations and polymorphisms in
+the PO gene. Hum Genet 94:653-657.
+Nelis E, Timmerman V, De Jonghe P, Muylle L, Martin JJ, Van
+Broeckhoven C (1994h) Linkage and mutation analysis in an
+extended family with Charcot-Marie-Tooth disease type 1B. J
+Med Genet 31:811-815.
+Palau F, Lofgren A, De Jonghe P, Bort S, Nelis E, Sevilla T,
+Martin JJ, Vilchez J , Prieto F, Van Broeckhoven C (1993)
+Origin of the de novo duplication in Charcot-Marie-Tooth
+disease type 1A: Unequal nonsister chromatid exchange during
+spermatogenesis. Hum Mol Genet 2:2031-2035.
+Patel PI, Roa BB, Welcher AA, Schoener-Scott R, Trask BJ,
+Pentao L, Snipes GJ, Garcia CA, Francke U, Shooter EM,
+Lupski JR, Suter U (1992) The gene for the peripheral myelin
+protein PMP-22 is a candidate for Charcot-Marie-Tooth disease type la. Nature Genet 1:159-165.
+Pham-Dinh D, Fourhil Y, Blanquet F, Mattei MG, Roeckel N,
+Latour P, Chazot G , Vandenberghe A, Dautigny A (1993) The
+major peripheral myelin protein zero gene: Structure and lo-
+
+calization in the cluster of Fcy receptor genes on human chromosome lqZ1.3-q23. Hum Mol Genet 2:2051-2054.
+Raeymaekers P, Timmerman V, Nelis E, Van Hul W, De Jonghe
+P, Martin JJ, Van Broeckhoven C, and the HMSN Collahorative Research Group (1992) Estimation of the size of the
+chromosome 17pll.Z duplication in Charcot-Marie-Tooth
+neuropathy type l a (CMTla). J Med Genet 29:5-11.
+Skre F (1974) Genetic and clinical aspects of Charcot-MarieTooth disease. Clm Genet 698-118.
+S u Y, Brooks DG, Li L, Lepercq J, Trofatter ]A, Ravetch ]V, Leho
+RV (1993) Myelin protein zero gene mutated in CharcotMarie-Tooth disease type 1B patients. Proc Natl Acad Sci
+USA 90:10856-10860.
+
+Timmerman V, Nelis E, Van Hul W, Nieuwenhuijsen BW, Chen
+KL, Wang S, Ben Othmane K, Cullen B, Leach RJ, Hanemann CO, De Jonghe P, Raeymaekers P, van Ommen G-JB,
+Muller HW, Vance JM, Fischbeck KH, Van BroMartin
+eckhoven C (1992) The peripheral myelin protein gene
+PMP-22 is contained within the Charcot-Marie-Tooth disease
+type l a duplication. Nature Genet 1:171-175.
+JeJ,
+
+Valentijn LJ, Bolhuis PA, Zorn 1, Hoogendijk JE, van den Bosch
+N, Hensels GW, Stanton VP, Housman DE, Fischheck KH,
+Ross DA, Nicholson GA, Meershoeck EJ, Dauwerse HG, van
+Ommen G-JB, Baas F (1992a) The peripheral myelin gene
+PMP-22/GAS-3 is duplicated in Charcot-Marie-Tooth disease
+type la. Nature Genet 1:166-170.
+Valentijn LJ, Baas F, Woltetman RA, Hoogendijk JE, van den
+Bosch NHA, Zotn I, Gabreels-Festen AAWM, de Visser M,
+Bolhuis PA (1992b) Identical point mutations of PMP-22 in
+trembler-J mouse and Charcot-Marie-Tooth disease type la.
+Nature Genet 2:88-291.
+Vance JM, Barker D, Yamaoka LH, Stajich JM, Loprest L, Hung
+WY, Fischheck K, Roses AD, Pericak-Vance MA (1991) Localization of Charcot-Marie-Tooth disease type l a to chromosome 17~11.2.Genomics 9623-628.
+
+

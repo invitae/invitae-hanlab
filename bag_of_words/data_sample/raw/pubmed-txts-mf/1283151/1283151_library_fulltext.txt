@@ -1,0 +1,171 @@
+Hum Genet (1992) 90:303-304
+
+human ..
+genetics
+9 Springer-Verlag 1992
+
+A novel CFTR mutation, 4035delA,
+detected by non-radioactive SSCP analysis
+Jochen Reiss l, Ulrike Lenz 1, Frauke Rininsland i, Pia Ballhausen i, Daniela Drews 2, Hans-Georg Posselt 2
+l lnstitut Mr Humangenetik der Universit~it, Gosslerstrasse 12d, W-3400 G(~ttingen, Federal Republic of Germany
+2Zentrum der Kinderheilkunde, Klinikum der Johann Wolfgang Goethe-Universit~it, Theodor-Stern-Kai 7, W-6000 Frankfurt/M. 70,
+Federal Republic of Germany
+Received: 24 April 1992 / Revised: 9 June 1992
+
+Abstract. G e r m a n cystic fibrosis patients were screened
+for mutations in exon 21 of the cystic fibrosis transmembrahe conductance regulator gene by a non-radioactive
+variation of the single-strand conformation polymorphism
+technique. Asymetric polymerase chain reaction amplification was used to produce single strands of exon-containing genomic sequences that were analyzed on polyacrylamide gels subsequently stained with ethidium bromide. This rapid technique led to the identification of a
+novel mutation, a 1-bp deletion at position 4035(A) of
+the c D N A sequence. The patient, who is also heterozygous for the AF508 mutation, exhibits an intermediate
+form of the disease.
+
+Introduction
+Cystic fibrosis (CF) is one of the most c o m m o n and severe genetic diseases among Caucasian populations, and
+is probably the most frequent disease being traced by
+molecular techniques in G e r m a n y . The inheritance is autosomal recessive and the coding sequence of the responsible gene has been cloned and sequenced (Riordan
+et al. 1989; Zielenski et al. 1991).
+The most striking feature of this disease is probably
+the presence of an identical 3-bp deletion in exon 10,
+AF508, on 68% of all CF chromosomes worldwide and
+on approximately 75% in G e r m a n y . The remainder of
+mutations are highly heterogeneous with two apparent
+clusters around exons 9 through 12, and exons 20 through
+22, respectively (e.g. Cutting et al. 1990; K e r e m et al.
+1990).
+In a retrospective study, we have previously shown
+that single-strand conformation polymorphism (SSCP)
+analysis (Orita et al. 1989) reliably detects all tested mutations within the cystic fibrosis t r a n s m e m b r a n e conductance regulator (CFTR) exon 11 (Plieth et al. 1992). In
+the meantime, we have established a nonradioactive version of this technique based on asymetric single-strand
+production (Gyllensten and Erlich 1988). We have used
+this method for mutation screening of exon 21 of the
+C F T R gene and have identified a novel 1-bp deletion.
+Correspondence to: J. Reiss
+
+Molecular and phenotypic details of this mutation are
+presented.
+
+Case report
+The male patient is now 9 years old and was born to healthy parents of German origin after a normal pregnancy and with a birth
+weight of 3340 g. Within 10 weeks of life, symptoms occurred, such
+as fatty stools, failure to thrive and recurrent broncho-pulmonary
+infections. At the age of 11 weeks, the final diagnosis was established by a positive sweat chloride test. Pseudomonas aeruginosa
+first occurred in the sputum at the age of 6 years. Thorax X-rays
+now show moderate changes. In summary, we classify this patient
+as an intermediate case of CF.
+
+Materials and methods
+Genomic DNA was isolated by the method of Miller et al. (1988).
+The polymerase chain reaction (PCR) was performed as described
+previously (Plieth et al. 1992) with oligonucleotides Ex21SSCP-F
+(5'CAT ACT TI'C TTC TCC T I T TCT T I T TTG; the underlined
+base represents a mismatch-compared with the genomic sequence)
+and Ex21SSCP-R (5'CCC CTT TCA AAA TCA T I T CAG TT),
+which yields a wild-type fragment of 157 bp. An aliquot of 1 ktl of
+the symetric amplification product was subjected to asymetric PCR
+adding only one of the above oligonucleotides (50 pmo! Ex21SSCPR). The asymetric PCR product (20 gl) was heated at 95~ for 3 min
+and loaded with 30 ~tl sequencing stop buffer (United States Biochemicals, USA) on a 12% vertical polyacrylamide gel (without
+glycerol). Samples were electrophoresed at 4~ and 220 V for 20 h.
+The gel was stained in ethidium bromide and photographed on a
+UV transilluminator.
+For sequencing, double-stranded (first round) PCR products
+were electrophoresed on 5% polyacrylamide gels. Gel fragments
+containing the target DNA were extracted and the DNA subsequently sequenced according to Zielenski et al. (1991).
+
+Results and discussion
+We have previously examined the suitability of SSCP analysis for mutation detection in exon 11 of the C F T R
+gene (Plieth et al. 1992). By using asymetric single-strand
+production, we could omit radioactive labeling for this
+application (data not shown). This method has now been
+employed prospectively for mutation screening within
+exon 21. The oligonucleotides used for symetric and subsequent asymetric P C R were selected from intronic se-
+
+304
+
+Fig. 1. SSCP analysis of exon 21 of the CFTR gene. Lanes 1-3,
+CF patients exhibiting only the wild-type pattern; lane 4, CF patient heterozygous for 4035 delA; lane C, control (heterozygous for
+NI303K); lane M, size standard (kb-ladder, Bethesda Research
+Laboratories, USA). The upper bands (ds) represent residual double-stranded DNA (with heteroduplexes in lanes 4 and C), the
+lower bands (ss) are single-stranded DNA
+
+Neither the described mutation, 4035delA, nor any
+o t h e r SSCP b a n d pattern alteration was observed for the
+other 59 tested patients. These results to date cannot be
+treated as the exclusion of a m u t a t i o n in exon 21 of these
+patients. Based on our results with exon 11 (Plieth et al.
+1992), however, the likelihood for the existence of such
+a m u t a t i o n has b e e n lowered drastically and further mutations should be searched for elsewhere.
+D o c k h o r n - D w o r n i c z a k et al. (1991) have previously
+shown that D N A - S S C P can indeed be p e r f o r m e d without isotopes. These authors used a silver-staining procedure to visualize the D N A ; this m e t h o d is m o r e sensitive, but at the same time, m o r e laborious to perform
+than ethidium b r o m i d e staining. The m e t h o d described
+here is p r o b a b l y the best available c o m p r o m i s e between
+detection potential and practicability.
+Acknowledgements, This study was supported by the Deutsche
+Forschungsgemeinschaft (Re768/3-2).
+
+References
+
+Fig.2. Sequence analysis of the 4035delA mutation. The reverse
+strand of the patient's father. The first heterozygous signal resulting from the frameshift is indicated by the arrow
+
+quences published by Zielenski et al. (1991), to m e e t the
+following conditions: (1) the p r o d u c e d fragments should
+be short because of the intrinsic limitations of SSCP analysis; (2) the target sequence should comprise the entire
+exon plus at least 6 adjacent intronic bases in o r d e r to
+cover the majority of expected splice site mutations; (3)
+the two oligonucleotides should have a c o m p a r a b l e G / C
+content. Since point (3) could not be met simultaneously
+with point (1), one of the oligonucleotides ( E x 2 1 S S C P F) was extended to c o m p e n s a t e for the lower G/C content.
+A f t e r the establishment of P C R and electrophoresis
+conditions using the N 1303K m u t a t i o n ( O s b o r n e et al.
+1991; Bal et al, 1992) as a detection control, we screened
+60 patients with u n k n o w n mutations for alterations within exon 21 and adjacent bases. Figure 1 shows the detection of an SSCP variation in one of these patients. Sequence analysis of the amplified exon 21 fragment revealed a deletion of a single A residue in a stretch of 6 A
+residues covering c D N A positions 4035-4040 (Fig. 2).
+This deletion was f o u n d on both strands and in the father
+of the patient, but not in the patient's m o t h e r , who earlier was shown to be heterozygous for A F 5 0 8 , as was her
+son. N o further sequence deviation was found. T h e observed frameshift deletion results in a Stop codon at amino
+acid position 1327. A n y position within the stretch of 6 A
+residues might have been deleted. F o r the p r o p o s e d nomenclature, the first of these bases within the c D N A was
+selected. A possible mechanism of m u t a t i o n might be
+misalignment during replication (Krawczak and C o o p e r
+1991).
+
+Bal J, Rininsland F, Osborne L, Reiss J (1992) Simple nonradioactive detection of the CFTR mutation N1303K by artificial creation of a restriction site. Mol Cell Probes 6:9-11
+Cutting GR, Kasch LM, Rosenstein BJ, Zielenski J, Tsui LC, Antonarakis SE, Kazazian HH Jr (1990) A cluster of cystic fibrosis
+mutations in the first nucleotide-binding fold of the cystic fibrosis conductance regulator protein. Nature 346:366-369
+Dockhorn-Dworniczak B, Dworniczak B, Br0mmelkamp L, Billles J, Horst J, B6cker WW (1991) Non isotopic detection of
+single strand conformation polymorphism (PCR-SSCP): a rapid
+and sensitive technique in diagnosis of phenylketonuria. Nucleic Acids Res 19 : 2500
+Gyllensten UB, Erlich HA (1988) Generation of single-stranded
+DNA by the polymerase chain reaction and its application to
+direct sequencing of the HLA-DQA locus. Proc Natl Acad Sci
+USA 85 : 7652-7656
+Kerem BS, Zielenski J, Markiewicz D, Bozon D, Gazit E, Yahav
+J, Kennedy D, Riordan JR, Collins FS, Rommens JM, Tsui LC
+(1990) Identification of mutations in regions corresponding to
+the two putative nucleotide (ATP)-binding folds of the cystic
+fibrosis gene. Proc Natl Acad Sci USA 87:8447-8451
+Krawczak M, Cooper DN (1991) Gene deletions causing human
+genetic disease: mechanisms of mutagenesis and the role of the
+local DNA sequence environment. Hum Genet 86:425-441
+Miller SA, Dykes DD, Polesky HF (1988) A simple salting out
+procedure for extracting DNA from human nucleated cells.
+Nucleic Acids Res 16:1215
+Orita M, Suzuki Y, Sekiya T, Hayashi K (1989) Rapid and sensitive detection of point mutations and DNA polymorphisms
+using the polymerase chain reaction. Genomics 5 : 874-879
+Osborne L, Knight R, Santis G, Hodson M (1991) A mutation in
+the second nucleotide binding fold of the cystic fibrosis gene.
+Am J Hum Genet 48 : 608-612
+Plieth J, Rininsland F, Schl6sser M, Cooper DN, Reiss J (1992)
+Single-strand conformation polymorphism (SSCP) analysis of
+exon 11 of the CFTR gene reliably detects more than one third
+of non-AF508 mutations in German cystic fibrosis patients.
+Hum Genet 88 : 283-287
+Riordan JR, Rommens JM, Kerem BS, Alon N, Rozmahel R,
+Grzelczak Z, Zielenski J, Lok S (1989) Identification of the
+cystic fibrosis gene: cloning and characterization of complementary DNA. Science 245 : 1066-1073
+Zielenski J, Rozmahel R, Bozon D, Kerem BS, Grzelczak Z, Riordan JR, Rommens J, Tsui LC (1991) Genomic DNA sequence
+of the cystic fibrosis transmembrane conductance regulator
+(CFTR) gene. Genomics 10:214-228
+
+

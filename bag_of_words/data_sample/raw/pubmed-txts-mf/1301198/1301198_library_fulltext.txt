@@ -1,0 +1,886 @@
+HUMAN MUTATION 1:113-I23 (1992)
+
+RESEARCH ARTICLE
+
+Screening for Mutations by Expressing Patient
+cDNA Segments in E, cofk
+Homocystinuria due to Cystathionine
+P-Synthase Deficiency
+Viktor Koiich and Jan I?. Kraus.
+Department of Pediutrics, University of Colortdo School of Medicine, Denver, Cokmdo 80262
+Communicated by Davd Valk
+
+Deficiency of cystathionine P-synthase (CBS) causes the most common form of inherited homocystinuria. We developed a simple CBS expression system in E. coli to screen for pathogenic mutations in
+affected individuals. Portions of patient cDNAs were amplified by PCR and used to replace the
+corresponding segments of normal human CBS cDNA in the bacterial expression plasmid pHCS3.
+Hybrid CBS was expressed in E. coli and the segments of patient's cDNA which extinguished CBS
+activity were sequenced t o identify the mutation. The first study of a pyridoxine-responsive patient
+using this screen revealed that of the clones which contained either the middle or the 3'-portion of his
+cDNA, about half were devoid of catalytic activity. Subsequent sequencing of the affected segments
+confirmed a compound heterozygosity for a maternal T R 3 p Ctransition (1278T) and for a paternal
+A - C transversion in the intron 11 splice acceptor. T h e latter mutation leads to an in-frame deletion
+of exon 12 (nt 1224-1358, amino acids W408 to (3453). This bacterial expression system proved to
+be a rapid screening method for localizing pathogenic mutations in CBS, allowing us to sequence the
+affected portions of mutant cDNA within 7-10 days of harvesting cultured fibroblasts.
+0 1992 Wilev-Liss, Inc.
+
+,
+
+KEY WORDS: Homocystinuria, Human, Cystathionine P-synthase, Enzyme/deficiency Mutatiodscreen-
+
+ing, Protein expression, E. coli, Inborn errors of metabolism, Allosteric regulators, SAdenosyl-L-methionine, Pyridoxine, Recombinant DNA, Chromosome 2 1. R N A splicing,
+Splicing error, Mutational analysis, Alleles
+
+INTRODUCTION
+Cystathionine P-synthase (CBS)' [L-serine hydro-lyase(adding homocysteine); EC 4.2.1.221, a
+pyridoxal 5'-phosphate-dependent enzyme, plays a
+key role in the transsulfuration of homocysteine in
+eukaryotes (Mudd et al., 1989). Under physiological circumstances, about half of the intracellular
+homocysteine is transsulfurated yielding cysteine.
+The remainder is remethylated to methionine in
+the methionine cycle (Finkelstein and Martin,
+1984a). AdoMet regulates homocysteine flux
+through these branches. A t low levels of AdoMet
+remethylation of homocysteine is unimpaired. Elevated levels, on the other hand, inhibit remethylation pathways and increase the irreversible
+transsulfuration by stimulating CBS (Kutzbach and
+Stockstad, 1971; Finkelstein and Martin, 1984b;
+Finkelstein et al., 1975).
+Q
+
+1992 WILEY-LISS. INC.
+
+Deficiency of CBS is the most common cause of
+inherited homocystinuria in humans. The symptoms and signs of this condition are well characterized. They include dislocated optic lenses, skeletal disorders, mental retardation, and often fatal
+thromboembolism (Mudd et al., 1989). Transsulfuration is blocked, resulting in the accumulation
+of homocyst(e)ine and often methionine together
+with depletion of cysteine and cystathionine in
+body fluids. In about half of the affected patients,
+these symptoms can be alleviated by pyridoxine
+
+Received March 18, 1992 accepted April 6, 1992
+'To whom reprint requestdconespondence should be addressed.
+'Abbreviations: CBS,cystathioninea-synthase;PAGE, polyacylamide gel electrophoresis; PLP, pylidoxal 5'-phosphate; SDS. sodium dodecyl sulfate.
+
+114
+
+K02ICH AND KRAUS
+
+administration. The rationale for this treatment is
+based, in part, on the observation that some of the
+mutant CBS proteins bind pyridoxal 5’-phosphate
+less avidly than normal(Lipson et al., 1980).
+Normal CBS is a homotetramer of 63 kDa subunits (Skovby et al., 1984a,b); its gene resides on
+human chromosome 21 at 922.3 (Skovby et al.,
+1984d; Munke e t al., 1988). T h e rat CBS gene is
+20-25 kbp long, its coding region is organized in
+17 exons, and the transcript is alternatively spliced
+yielding four mRNA isoforms (Swaroop et al.,
+1992). Human CBS pre-mRNA yields two mRNA
+isoforms which differ from each other only in the
+3’-untranslated regions. The human amino acid
+sequence is highly conserved with the rat and the
+genomic organization appears to be conserved as
+well (Kraus, unpublished). We showed previously
+that CBS mutations do not usually alter the subunit size; however, the intracellular CBS concentrations are generally markedly reduced (Skovby et
+al., 1984~).
+These studies suggest that the majority
+of the synthase genetic defects are missense rather
+than nonsense mutations or internal deletions.
+None of these mutations has been examined at the
+molecular level. To facilitate these studies and to
+more rapidly screen for mutations, we developed
+an E. coli expression system based o n the vector
+pKK 388.1.
+Human CBS mRNA, obtained from patient cell
+lines, can be cloned as a cDNA copy either in toto
+or in part into this expression vector, allowing for
+both the separation of parental alleles and preliminary localization of the pathogenic mutation
+site(s). Separation of the parental alleles further
+allows us to examine the putative association of
+heterozygous CBS deficiency and premature arterial disease (Ueland and Refsum, 1989; Malinow,
+1990; Clarke et al., 1991). We now report the
+successful development of an E. coli screening system for human CBS mutations. We further report
+employing this method to determine the location
+and nature of the first pair of human CBS mutations described to date.
+MATERIALS AND METHODS
+Enzymes and DNA Modification
+
+Restriction endonucleases were purchased from
+New England Biolabs. The 5’ ends of restricted
+cloning cartridges were dephosphorylated with calf
+intestinal alkaline phosphatase (Boehringer Mannheim Corp. ) according to the manufacturer’s suggested procedure. Fragments of DNA were inserted
+into cartridges using T, DNA ligase obtained from
+Promega following standard conditions (Ausubel
+
+FIGURE 1. Expression plasmid pHCS3 and derived cartridges.
+The complete circle at the top of the figure signifies the bacterial expression plasmid pHCS3, containing the entire coding region of human CBS cDNA. Broken circles, below, represent the expression cartridges prepared to receive the
+,, trplloc fusion proappropriate patient cDNA inserts. P
+moter; HUCBS, full length coding region of human CBS
+cDNA.
+
+et al., 1989). When necessary, protruding 5‘ ends
+were made blunt by extending the 3’ end with
+Klenow fragment DNA polymerase (Boehringer
+Mannheim Corp.) (Ausubel et al., 1989). Taq
+DNA polymerase was purchased from Promega.
+Normal Human CBS Expression Plasmid
+
+Plasmid pKK 388.1 (courtesy Dr. J. Brosius, Columbia University, New York, NY) was used for all
+expression experiments (Brosius, 1988). The polylinker XmaI site was destroyed after digestion by
+backfilling and religating. The coding region of the
+normal human liver CBS cDNA (Kraus et al., unpublished) was amplified by PCR using primers PI
+and P6. T h e product was phenol extracted, Centricon 100 purified (Tahara et al., 1990a), restricted with NcoI and KpnI, purified with Strataclean (Stratagene), and ligated into the NcoIIKpnI
+cut and dephosphorylated pKK 388.1 ( X m a - ) vector. E. coli competent cells DH5aF’IQ (BRL) were
+transformed with the expression plasmid designated pHCS3 (Fig. 1, top) and a single colony
+used for large plasmid preparation (Ausubel e t al.,
+1989).
+Construction of Patient cDNA
+Screening Plasmids
+
+Three expression cartridges were prepared by
+cutting the pHCS3 plasmid within the CBS coding
+region using the following pairs of restriction enzymes: NcoIIPmlI, XmaIIBstXI, and BstXIIKpnl for
+
+SCREENING FOR MUTATIONS BY E. COLI EXPRESSION
+2 5 0 bp
+
+H
+
+xma I
+I
+
+uv?
+
+Pml I
+I
+
+Bstx I
+I
+
+p-- cDNA
+
+ATG
+
+TGA
+
+Nco I
+P1
+I
+
+Digest
+
+I
+BstX I
+
+Inserts
+
+NP
+
+XB
+
+1
+
+BK
+FIGURE2. Preparation of patient CBS inserts. The long line
+represents CBS cDNA, the length of 250 base pairs is indicated by the length of the bar at the upper left of the figure.
+Restriction sites used for these preparationsare indicated by
+the enzyme names. The initiation (1) and terminationcodons
+(1656) are represented by ATG and TGA, respectively. The
+open bars represent PCR products prepared with primers
+indicated by the black rectangles (PI through P6). The primers used to prepare these fragments were:
+
+ATCCCACCATGGGTTCTGAGACCCCCCAGGCA
+GAAGTG-)
+TACGATCGATTGTGAGAATTGGGGAITTCGTT (P2)
+
+CGTAGAATTCCCCTATGGTCAGAATCAACAAG (P3)
+TACGATCGATCGTTGCTCTTGAACCACTTG (P4)
+CGTAGAATTCAGTGGGCACGGGCGGCACCA (P5)
+TACGGGTACCAGCGCTCCGGACTTCACTTCTGG (P6)
+All sequences are read left to right from the 5' to the 3' ends.
+Underlines indicate artificial Ncol (Pl) and Kpnl (P6) sites.
+The two letter designations below each of the inserts refer to
+the enzyme pairs used to restrict the PCR fragments, indicated on the arrows above.
+
+the NP, XB, and BK cartridges, respectively (Fig.
+1, bottom). The dephosphorylated cartridges were
+gel purified (SeaKem GTG agarose, BRL) and recovered from the gel using glass beads (GeneClean, Bio 101).
+To prepare patient cDNA inserts, fibroblast
+mRNAs were isolated as previously described (Skovby et al., 1 9 8 4 ~ )First
+.
+strand cDNAs were synthesized (Kraus et al., 1985) and portions of the
+cDNAs were amplified by PCR as described previously (Tahara et al., 1990a,b). The strategy for the
+preparation of inserts is depicted in Figure 2. PCR
+products were phenol extracted, Centricon 100
+purified (Tahara et al., 1990a), digested with the
+appropriate pairs of restriction endonucleases, then
+purified using Strataclean (Stratagene).
+To complete the CBS screening plasmids, the
+purified cartridges and patient cDNA inserts were
+
+115
+
+ligated as described earlier. Blunt end ligations
+were carried out in presence of 7.5% of polyethyleneglycol 8000. T h e transformed DH5aF' IQ E.
+coli (BRL) were isolated o n LB agar plates containing ampicillin. Both individual colonies and pools
+of colonies were used for expression experiments
+and DNA sequencing. Colonies were pooled to
+minimize the artifacts arising from misincorporation during PCR amplification of the target regions. Additionally, heterozygosity was readily apparent in the DNA sequences of the pools and
+subsequently could be verified in individual colonies.
+Expression of CBS in E. coli
+Bacterial cultures, 24 ml, were grown in SOB
+medium (Sambrook e t al., 1989) to a turbidity of
+-0.5 at 600 nm prior to induction with isopropylP-D-galactopyranoside (IPTG, BRL). Expression
+of CBS was induced for 1 hr following addition of
+0.33 mM IPTG. Cells were collected by centrifugation and washed once with phosphate-buffered
+saline. T h e pellets were resuspended in 1 ml of 30
+mM potassium phosphate (pH 6.0) then sonicated
+for 80 sec at 50% duty cycle with power setting of
+3-4 in an ice/brine bath using a model W-225
+sonicator (Heat-Ultrasonics Inc. ). Cell lysates
+were cleared by centrifugation (14,OOOg for 10
+min) and assayed for synthase activity or subjected
+to immunoprecipitation. CBS assays were performed essentially as described earlier (Kraus,
+1987), with some modifications (see Results). Protein was determined according to Lowry (Lowry et
+al., 1951). Specific activity was expressed in units
+per mg protein (1 unit = 1 nmol of cystathionine
+formeahr).
+For Western analysis, CBS was immunoprecipitated with rabbit antihuman CBS antibodies and
+S. aurew (Immunoprecipitin, BRL) (Kraus e t al.,
+1983). The isolated CBS was subjected to SDS/
+PAGE and electroblotted onto a nitrocellulose
+membrane ( Towbin e t al., 1979). Prior to use, the
+antiserum probes were preabsorbed with E. coli lysates to eliminate nonspecific cross-reactivity
+(Sambrook et al., 1989). T h e membrane was incubated in 5% nonfat dry milk, washed with PBS,
+and incubated with the preabsorbed rabbit antirat
+CBS antibodies. To visualize the location of CBS,
+'251-labeled protein G was bound to the immunocomplexes followed by autoradiography of the blot
+at -80°C.
+Other Methods
+Plasmid preparations were made using the dual
+
+SDS method (Ausubel et al., 1989). DNA se-
+
+116
+
+KOZICH AND KRAUS
+
+quences were determined by the dideoxy method
+(Sanger e t al., 1977) using Sequenase 2.0 (USB).
+Human Cell Lines
+
+Cultured skin fibroblasts from a control (2056),
+one CBS-deficient patient (366), and his mother
+(367) and father (368) were used for all studies.
+The patient is a mildly affected Ashkenazi Jewish
+male presently in his late twenties with dislocated
+lenses. He exhibits normal psychomotor development. His homocysteinemia and homocystinuria
+normalized after pyridoxine treatment despite the
+complete absence of CBS activity in his fibroblasts. Pulse experiments employing [3H]leucine
+detected no CBS subunits following immunoprecipitation and SDS-PAGE in his fibroblast extracts. In vitro translation of the patient’s and parental mRNAs, o n the other hand, clearly
+revealed the patient’s CBS subunits (Skovby e t al.,
+1984~).One, of apparently normal size, was inherited maternally; the other, much shorter, originated paternally.
+
+RESULTS
+Properties of Human CBS in E.coli Lysates
+Bacteria transformed with the wild-type human
+
+cDNA construct pHCS3 express CBS. The size
+(63 kDa) of its subunits is indistinguishable from
+normal human fibroblast CBS subunits (Fig. 3).
+The expression product reacts with both antihuman and antirat CBS antibodies. The enzymatic
+activity of normal human CBS in the E. coti lysates
+was comparable to that of human liver (200 U/mg
+protein) (Kraus and Rosenberg, 1983). A number
+of bacterial factors interfered with the standard assay conditions for CBS. These factors were later
+found to include the consumption of both the substrate and the product. Increasing amount of bacterial protein in the assay led to a sharp decline of
+net cystathionine production as well as consumption of serine in the assay as compared to assays
+containing fibroblast extracts (Fig. 4A). The effect
+of these interfering reactions was largely eliminated by limiting the amount of bacterial protein
+in the assay and by adding cystathionine to the
+reaction mixture (Fig. 4B).
+Mammalian CBS activity is stimulated by
+AdoMet in tissue extracts (Finkelstein et al., 1975;
+Koracevic and Djordjevic, 1977). AdoMet activates synthase by lowering its K, for homocysteine
+(Roper and Kraus, 1992). We decided to evaluate
+the effect of AdoMet o n the enzyme expressed by
+transformed E. coli. Referring to Figure 5, it is apparent that 0.5 mM AdoMet stimulates CBS ac-
+
+FIGURE 3. Western analysis of normal human CBS expressed
+in E. coli. Lanes: HF 2056, human fibroblast extract containing 336 pg protein and 9.2 U of CBS; pKK 388, €. coli lysate
+from cells harboring the parent pKK388.1 plasmid, 156 pg
+protein, 0 units; pKWHCS3, E. coli lysates from cells containing the CBS expression plasmid, pHCS3, 156 pg of protein. 6U of CBS.
+
+tivity 3.5 fold. Kinetic analysis (see inset in Fig. 5)
+reveals that the enzyme exhibits an activation constant (Kact) of 15 pM. These results suggest that
+human CBS retains AdoMet control after it is expressed in E. coli.
+Based o n all these results, the incubation conditions for CBS in E. coli lysates were optimized as
+follows: Tris-HC1 (pH 8.6), 100 mM; serine, 2.5
+mM; [I4C]serine (- 1500 c p d n m o l ) ; homocysteine, 15 mM; BSA, 0.5 mg/ml; dithiothreitol, 1.5
+mM; AdoMet, 0.5 mM; pyridoxal5’-phosphate, 1
+mM; and bacterial lysate, 20 p1 (- 100 pg of
+protein). The reaction was incubated for 4 hr at
+37°C in a total volume of 200 pl.
+Functional Screen for Mutations in a
+Homocystinuric Individual
+
+Having prepared a bacterial expression plasmid
+for human CBS and optimized the assay conditions
+for the enzyme in bacterial lysates, we next turned
+
+SCREENING FOR MUTATIONS BY E. COLI EXPRESSION
+
+117
+
+61
+
+100
+
+1
+
+I
+0
+
+L
+
+100
+
+1
+
+200
+
+300
+
+400
+
+500
+
+AdoMet (yM)
+
+protein [pgl
+
+FIGURE 5. Activation of human CBS by S-adenosyl-Lmethionine. CBS was assayed in lysates of pHCS3-transformed E. coli. Each point refers to the activity, represented
+by the ordinate, found at the concentration of AdoMet, depicted on the ordinate. The inset displays a reciprocal plot of
+these data, revealing an apparent K,, of CBS for AdoMet
+being 15 pM.
+
+31-609, XB and BK inserts corresponded to nt
+413-942 and 943-1646, respectively, of the patient cDNA (Fig. 2). PCR of NP and XB segments
+yielded products of the expected lengths, however
+PCR of BK segment yielded two fragments, one
+130 bp shorter and about 5-fold more abundant
+
+-
+
+than normal (data not shown).
+0
+
+200
+
+400
+
+600
+
+protein [pgl
+Serine and cystathionine consumption in bacterial
+lysates. (A) CBS assays were performed with varying
+amounts of protein indicated on the abscissa. At the end of
+the incubation, the substrate and product (serine and cystathionine) were separated, quantitated, and their sums indicated on the ordinate. Symbols refer to the origin of each
+extract: A, human skin fibroblast; E. coli harboring pKK
+388.1; 0, E. coli harboring pHCS3. (B)CBS assays were
+performed as described in the Materials and Methods section. The abscissa indicates the amount of bacterial protein
+from cells expressing pHCS3. The quantity of cystathionine
+formed during incubation is indicated on the ordinate. The
+symbols represent the activities found when the incubation
+mixture included 0 mM (m), 2 mM (A), and 4 mM ( 0 ) unlabeled cystathionine.
+FIGURE 4.
+
+.,
+
+our attention to using this preparation for the detection and analysis of human CBS mutations.
+In order to find the pathogenic mutations in the
+patient's CBS, three PCR amplified segments of
+the coding region of his cDNA were used to replace the corresponding segments of the normal
+sequence in pHCS3 expression cartridges, described earlier (Fig. 1). NP insert represented nt
+
+Absence of a segment activity as an indication
+of mutation
+
+Hybrid human CBS, containing portions derived from patient's cDNA, was expressed in E.
+coli. Typically 8 individual colonies as well as pools
+of as many as 400 colonies were assayed. Clones
+harboring the patient's NP segment exhibited normal CBS activity both in individual colonies (7 of
+8 clones) as well as in the pool of colonies (98%of
+control activity) (Table 1). On the other hand,
+about half of the colonies (3 of 7), containing the
+XB segment, had CBS activity. This observation
+corresponds well with the depressed activity (40%)
+when a mixture of these transformants was compared with the control. Expression of the patient's
+BK segment yielded 4 individual clones with activity out of 18 and the mixture of colonies had
+29% activity of the control. The higher fraction of
+clones with inactive CBS was evidently due to the
+greater abundance of the shorter PCR product.
+We concluded from these data that the patient
+was compound heterozygous for pathogenic mutations in the middle (XB) and the 3'-coding (BK)
+regions of the cDNA. Subsequently, DNA pre-
+
+118
+
+KOZICH AND KRAUS
+
+TABLE 1. GBS Activities of
+
+Hybrid Protein Expressed
+in E. coli"
+
+Segment
+insertedb
+NP
+
+XB
+BK
+
+Fraction of
+colonies with
+CBS activitv
+
+Mixed
+culture
+% control
+activitv
+
+Deduced
+segment
+zvaositv'
+
+718
+317
+4/18
+
+98
+40
+29
+
+Aa,
+Aa,
+
+AA
+
+"Hybrid CBS containingdifferent portions of patient's CBS cDNA
+was expressed and assayed in single colonies lysates. Mixed cultures were expressed after combining the individual colonies from
+the agar plate and assayed as described.
+bAbbreviations in this column refer to cDNA inserts restricted
+with the followingenzyme pairs: NP,NcollPmll; XB,XmollBstXI;
+BK,BstWKpnl.
+'Segment zygosity: A, normal allele; a,, defective paternal allele;
+a2, defective maternal allele.
+
+A
+
+pared from the individual inactive colonies as well
+as from the pools of colonies was sequenced.
+
+DNA sequencing of the affected regions
+DNA sequences of two individual XB clones
+without CBS activity revealed the first pathogenic
+mutation. The only mutation detected in these
+colonies was a T,,,+C transition causing a I278T
+amino acid change (Fig. 6A). Th'is mutation creates a new BsrI restriction site. Two clones with
+normal CBS activity were also sequenced and only
+the wild-type XB sequence was observed. Sequencing of the pool of colonies yielded nucleotides T
+and C at the position 833 in equal amounts (data
+not shown). This finding is consistent with patient's heterozygosity for this mutation. In addition, a synonymous mutation (Y233Y) at position
+699 (C+T) was observed both in clones with and
+without CBS activity.
+The sequence of the inactive BK clones (n = 3)
+revealed the presence of a 135 bp deletion (position 1224-1358 bp) (Fig. 6B) which resulted in a
+45 amino acid residue in-frame deletion (W408 to
+(3453). This deletion corresponds to exon 12 of
+the rat CBS gene (Swaroop et al., 1992) and led us
+to suspect a splicing error due to a mutation in
+intron 11 or 12 as a primary cause for the exon
+deletion.
+Mutation analysis in the patient's parents
+
+The maternal origin of the T,,,+C transition
+was verified by subcloning, expressing and sequencing the mother's cDNA. Two clones harboring NcoI-BstXI portion of her cDNA contained
+the mutation T833+C (Fig. 7A), which was previously demonstrated in the patient. The expression experiment was consistent with heterozygosity
+
+B
+FIGURE6. DNA sequences of PCR-amplified cDNA from patient 366. (A) Both strands of plasmid DNA from a single
+bacterial colony harboring an enzymatically deficient
+pHCSJ/XB-segment were sequenced from positions 630 to
+940. Nucleotides 829 to 837 of the sense strand are shown,
+the abnormal C in position 833 in place of a normal T is
+indicated by the
+(B)Both strands of plasmid DNA from
+a single bacterial colony harboring the 135 base pair shorter,
+enzymatically deficient pHCS3/BK-segment were sequenced.
+The sequence derived from the junction of exon 11 and exon
+13 is shown, indicating the absence of exon 12.
+
+0.
+
+(4nonexpressing clones out of 8 assayed). We concluded from the data that the T,,pC transition is
+the maternally inherited mutation in the patient.
+The suspicion of a splicing error led us to sequence the father's genomic DNA for intron l l
+boundary mutations. Four of six clones sequenced
+contained an A to C transversion in the splice
+acceptor of intron 11 (Fig. 7B). The splice donor
+exhibited an apparently normal consensus sequence. These data explain the previously observed exon 12 deletion by misdirected splicing. In
+addition, paternal heterozygosity for this transversion is supported by the sequencing data.
+Western analysis
+
+To verify that CBS subunits were made in
+clones without catalytic activity, we performed
+
+SCREENING FOR MUTATIONS BY E. COLl EXPRESSION
+
+119
+
+B
+FIGURE 7. Heterozygosity for mutations in patient’s parents.
+(A) The maternal cDNA (cell line 367)was amplified by PCR
+in the 5’ coding region between the Ncol and BstXI sites,
+subcloned, expressed, and sequenced. DNA sequences were
+compared from DNA isolated from a colony containing normal maternal CBS cDNA (367A) and from another containing the abnormal allele (367a,) also of maternal origin. The
+represents the sense-strand muantisense strand symbol,
+tation, confirming maternal origin of the 1278T mutation in
+her son. (B)Patient’s father genomic DNA (800 ng), cell line
+
+368, was amplified using primers ACGATCGATCGATGGTGTGCCCACAGGTGA and CGTAGAATTCCTGAGCGACAGGTGGATGC, upstream and downstream, respectively.
+The EcoRI and Clol restricted PCR fragment was subcloned
+into a similarly prepared Bluescript vector (Stratagene) under conditions described in Methods. The 3’ end of intron 11
+and first 3 nucleotides of exon 12 in the antisense strand are
+represents the sense strand mutation A-C in the
+shown:
+consensus splice acceptor. 368A, wild-type allele; 368a,, allele with mutation.
+
+Western analysis on lysates of E. coli containing
+the hybrid CBS. The results of analysis are shown
+in Figure 8. CBS subunits were detected in all lysates, however, a reduced amount of the immunoreactive material was found in the clones harboring
+plasmid with the I278T mutation. Clones expressing the shorter protein with deleted exon 12
+yielded approximately as much immunoreactive
+material as the controls. These results suggest that
+the polypeptide containing I278T mutation is less
+stable than either the normal control or exon 12
+deleted mutant protein in the E. coli system.
+
+trophoresis (Myers et al., 1985b), chemical cleavage at mismatches (Cotton et al., 1988), and, finally, single-strand conformation polymorphism
+analysis (Orita e t al., 1989). Once the aberrant
+fragment is identified, the mutation is verified by
+sequencing. These methods detect both the pathogenic mutations as well as the normally occurring
+polymorphisms. Eventually, the detected changes
+need to be tested for pathogenicity by expression in
+E. coli (Gregersen et al., 1991) or mammalian cells
+(e.g., Reichardt et al., 1992). Our approach to
+screening for mutations in patients with homocystinuria starts with the expression of a hybrid
+CBS cDNAs in E. coli; hybrid cDNAs consist of
+portions derived from patient’s cDNA in the context of otherwise normal sequence of the expression pHCS3 plasmid. Absence of the enzyme activity is considered as a marker for pathogenic
+mutations within the investigated cDNA segment.
+Although expression of rat and human cDNA in
+eukaryotic cells was successfully accomplished in
+
+0,
+
+DISCUSSION
+The common approach to identification of disease causing mutations usually involves screening
+at a level of genomic DNA or cDNA. There are
+several methods which can detect a single base
+substitutions in single or double stranded DNA
+segment. These include RNAse sensitivity assay
+(Myers et al., 1985a), denaturing gradient gel elec-
+
+0
+
+120
+
+KOzlCH AND KRAUS
+
+FIGURE 8. Western andysis of hybrid CBS expressed in E.coli.
+Lysates were prepared from bacteria expressing different hybrid constructs originatingfrom each of patient 366‘s alleles.
+Vectors containing BK segments from each allele are represented in the left panel (250 pg bacterial protein). The right
+panel depicts CBS expressed by vectors containing the XB
+segments from each of the patient’s alleles (500 pg bacterial
+protein). The capital A refers to regeneration of the normal,
+functional CBS subunit in the expression system. Symbols a,
+and a, refer to the deletion and substitution mutations found
+in the patient.
+
+our laboratory (Swaroop et al., 1992; Roper and
+Kraus, 1992), the simple, rapid prokaryotic expression system presented here is superior for screening
+purposes. This bacterial system allows us to start
+sequencing of the affected DNA region within 710 days since harvesting patient’s fibroblasts.
+
+Features of the Normal Human CBS Synthesized
+in E. coli
+The 63-kDa human CBS subunits synthesized in
+E. coli were indistinguishable in size from human
+skin fibroblast CBS. Proteolysis of normal CBS was
+not observed in E. coli lysates; this is in sharp contrast to the profound proteolytic activation observed in liver homogenates (Skovby e t al.,
+
+1984b).
+Catalytic activity of CBS produced by E. coli is
+well preserved, however, linearity was not found
+between activity and lysate content in the incubation mixture; on the contrary, activity sharply decreased with increasing amounts of bacterial protein. This most probably results from serine- and
+cystathionine-consuming reactions inherent to
+bacteria. After optimizing the assay conditions,
+specific activity of normal human CBS expressed
+in E. coli was similar to the activity of CBS in liver
+lysates.
+
+AdoMet is a strong activator of CBS; our experiments showed that CBS activity could be stimulated -3.5 times at an AdoMet concentration of
+0.5 mM. The apparent K,,, for AdoMet was estimated to be 15 FM, which is two orders of magnitude lower than the K, for the substrates. The
+concentrations of AdoMet in tissues (Hoffmann,
+1979) are approximately of the same order, suggesting that AdoMet is a physiologically important
+regulator of CBS activity.
+Expression of eukaryotic proteins in E. coli
+sometimes yielded functionally active proteins
+with the appropriate tertiary structure (Linard et
+al., 1988; Franke et al., 1990). In other cases, the
+expression yielded inactive proteins due to the decreased solubility of improperly folded eukaryotic
+polypeptide (Marston, 1987) or the lack of posttranslational processing (Gonzalez-Gronow e t al.,
+1990). Our studies of the human CBS produced in
+E. coli revealed high catalytic activity, lack of proteolysis, and preserved AdoMet activation. This
+suggests that the enzyme is effectively folded in
+bacterial extracts. These first expression results are
+a promising start for the large scale expression of
+human CBS in E. coli for further structural and
+functional studies.
+One limitation of our system is the subcloning
+strategy used. In order to create the NcoI site containing the ATG codon, the second codon was
+changed from proline (CCT) to glycine (GGT).
+This amino acid substitution did not appear to affect the CBS catalytic activity. Due to the design
+of the PCR primers, nucleotides 1-30 and 16471656, representing the 5’ and 3’ termini of the
+CBS cDNA, escape testing. In those rare cases, in
+which all segments of patient’s cDNA will be active in the expression experiment, the 5’ and 3’
+termini can be tested by direct sequencing. The
+other drawback of the system is the bacterial serine
+and cystathionine consuming reactions which can
+interfere with kinetic studies of the mutant proteins.
+
+Patient Study
+Patient 366 is a compound heterozygote as established by characterizing his CBS protein (Skovby et al., 1 9 8 4 ~ ) We
+.
+successfully subcloned, expressed, assayed, and sequenced segments from
+both of this patient’s alleles. T h e activity data were
+consistent with a compound heterozygosity for
+pathogenic mutations in the XB (maternal) and
+BK (paternal) segments, respectively.
+Transition T,,,-+C was the only significant
+mutation in the defective XB clones. Heterozygos-
+
+SCREENING FOR MUTATIONS BY E. COW EXPRESSION
+
+ity for this mutation was demonstrated both in the
+patient and maternal fibroblasts. The transition
+leads to a substitution of an isoleucine at position
+278 by a more hydrophilic threonine. Because this
+mutation does not affect the putative PLP binding
+site (Swaroop et al., 1992), we suggest that occurrence of a hydrophilic threonine within a short
+region of several hydrophobic amino acid residues
+(I277-I-G-V280) may affect the CBS conformation or the interaction of the subunits in the normally occurring tetramer. This in turn may lead to
+the instability of the CBS observed both in fibroblasts and the bacteria.
+Deletion of 45 amino acids in the patient’s BK
+segment corresponding to exon 12 of the rat CBS
+gene (Swaroop et al., 1992) strongly suggests that
+a splicing error had occurred. Heterozygosity for
+this deletion was demonstrated in patient’s cDNA
+by the presence of two differently sized BK inserts
+following the PCR amplification (data not
+shown). The paternal origin of this mutation was
+demonstrated in the father’s genomic DNA with a
+finding of both the normal (AG) and mutated
+(CG) splice acceptor of intron 11. The A to C
+transversion in the intron 11 consensus splice
+acceptor can explain the observed deletion. Recognition of the intron 3’-splice site by the spliceosome is considered to be the first step in the premRNA processing (Robberson et al., 1990).
+Mutation of this site in the patient can probably
+prevent association of the spliceosome with the
+intron 11 splice acceptor and cause subsequent
+skipping of the adjacent exon 12. Since no other
+mutation could be found in the entire BK segment
+of patient’s cDNA, lack of CBS activity in the
+clones should be ascribed to the missing exon 12.
+Deletion of exon 12 could conceivably result
+from either alternatively or misspliced mRNA;
+however, several lines of evidence argue against
+this possibility: First, we have not observed similarly shortened DNA segments in other cDNAs
+tested to date, representing 20 separate CBS alleles. Second, the CBS subunits synthesized by the
+patient’s fibroblast (Skovby et al., 1984c) were the
+same size as those made by the transformed bacteria. Third, genomic sequencing disclosed the intron splice acceptor mutation which accounts for
+the elimination of exon 12 in this patient’s
+mRNA. Furthermore, Skovby found abnormal
+CBS subunit size in only one line (366 of this
+study) out of 16 CBS-deficient CRM+ fibroblast
+lines. Taken together, these data suggest that exon
+deletions due to missplicing are an uncommon
+cause of homocystinuria in contrast to frequent oc-
+
+121
+
+currence of splicing errors in other diseases, e.g.,
+in OTC deficiency (Carstens et al., 1991).
+The availability of cell lines from both of the
+patient’s parents greatly facilitated the present
+study, allowing US to ascertain the parental origin
+of each mutation. Typically, only the patient cell
+line is available. In such cases, mutations identified in cDNA should be confirmed by analyzing
+genomic DNA.
+Bacteria transformed with constructs containing
+either the paternal or maternal mutation produced
+the corresponding product, however, reduced
+amounts of CBS subunits were detected in the bacteria expressing the maternal mutation. These results suggest that mutant CBS, missing exon 12, is
+more stable than the protein with the I278T mutation. Fibroblasts from the patient exhibited both
+types of mRNA, yet contained no CBS immunoreactive protein. It is tempting to suggest that heterotetramers containing the maternal mutation are
+readily degraded intracellularly. On the other
+hand, eukaryotic cells edit defective protein extensively (Hershko and Ciechanover, 1982), so it may
+not be necessary to evoke heterotetramers formation to explain the absence of immunologically
+cross-reactive material in the fibroblast extracts.
+Successful expression of human CBS cDNA in
+E. coli from normal individual and from the first
+patient with CBS deficiency proved the utility of
+our approach to identify pathogenic mutations by
+expression followed by DNA sequencing. We intend to exploit our expression system further to
+evaluate individuals with homozygous or compound heterozygous CBS deficiency as well as patients with premature vascular disease, considered
+by others to be heterozygous for CBS deficiency.
+This expression screening system should be extremely useful to localize mutations involved in
+other inherited human diseases, provided that the
+gene product can be expressed in E. coli or yeast.
+
+ACKNOWLEDGMENTS
+The authors would like to thank Dr. Michael D.
+Roper for critical reading of the manuscript, for his
+help with the figures, and for continuous stimulating discussions, K. Bradley, Kim Le, and E. Kraus
+for technical help, and V. Presley for typing the
+manuscript.
+
+REFERENCES
+Ausubel FM, Brent R, Kingston RE, Moore DD, Seidman JG,
+Smith JA, Struhl K (1989) Short Protocols in Molecular Biology. New York, Wiley.
+Brosius J (1988) Expression vectors employing lambda-, trp-, lac-,
+and Ipp-derived promoters. BiolTechnology 10:205-225.
+
+122
+
+KOZICH AND KRAUS
+
+Carstens RP, Fenton WA, Rosenberg LE (1991) Identification of
+RNA splicing errors resulting in human ornithine transcarbamylase deficiency. Am J Hum Genet 48:1105-1114.
+Clarke R, Dalv L, Robinson K, Naughten E, Cahalane S, Fowler
+B, Graham I (1991) Hyperhomocysteinemia: an independent
+risk factor for vascular disease. N Engl J Med 324:1149-1155.
+Cotton RG, Rodrigues NR, Campbell RD (1988) Reactivity of
+cytosine and thymine in single-base-pair mismatches with hydroxylamine and osmium tetroxide and its application to the
+study of mutations. Proc Natl Acad Sci USA 85:4397-4401.
+Finkelstein JD, Kyle WE, Martin JJ, Pick AM (1975) Activation
+of cystathionine synthase by adenosylmethionine and adenosylethionine. Biochem Biophys Res Commun 6623-87.
+Finkelstein ]I), Martin JJ (1984a) Methionine metabolism in
+mammals. Distribution of homocysteine between competing
+pathways. J Biol Chem 259:9508-9513.
+Finkelstein JD, Martin JJ (1984b) Inactivation of hetaine-homocysteine methyltransferase by adenosylmethionine and adenosylethionine. Biochem Biophys Res Commun 118:14-19.
+Fowler 8, Kraus J , Packman S, Rosenberg, L.E. (1978) Homocystinuria. Evidence for three distinct classes of cystathionine
+P-synthasc mutants in cultured fibroblasts. J Clin Invest 61:
+645-653.
+Franke AE, Danley DE, Kaczmarek FS, Hawrylik SJ, Gerard RD,
+Lee SE, Geoghegan KF (1990) Expression of human plasminogen activator inhibitor type-1 (PAI-1) in Escherichia coli as a
+soluble protein comprised of active and latent forms. Isolation
+and crystallization of latent PAI-1. Biochim Biophys Acta
+1037:16-;!3.
+Gonzalez-Gronow M, Grenett HE, Fuller GM, Pizzo SV (1990)
+The role of carbohydrate in the function of human plasminogen: Comparison of the protein obtained from molecular cloning and expression in Escherichia coli and COS cells. Biochim
+Biophys Acta 1039:269-276.
+Gregersen N , Andresen BS, Bross P, Winter W, Riidiger N , Engst
+S, Christensen E, Kelly D, Strauss AW, Kolvraa S, Bolund L,
+Ghisla S (1991) Molecular characterization of medium chain
+acyl-CoA dehydrogenase (MCAD) deficiency: Identification
+of a 1 ~ s to
+~ glu
+’ ~ mutation in the MCAD gene, and expression
+of inactive mutant enzyme protein in E. coli. Hum Genet 86:
+545-551.
+Hershko A, Ciechanover A (1982) Mechanisms of intracellular
+protein breakdown. Annu Rev Biochem 51:335-364.
+Hoffman DR, Cornatzer WE, Duerre J A (1979) Relationship between tissue levels of S-adenosylmethionine, S-adenosylhomocysteine, and transmethylation reactions. Can J Biochem 57:
+56-65.
+Koracevic D, Djordjevic V (1977) Effect of trypsin, S-adenosylmethionine and ethionine on L-serine sulfhydrase activity. Experientia 33:lOlO-1011.
+Kraus JP (1987) Cystathionine P-synthase (human). Methods Enzymol 143:388-394.
+Kraus JP, Hodges PE, Wiliamson CL, Honvich AL, Kalousek F,
+Williams KR, Rosenberg LE (1985) A cDNA clone for the
+precursor of rat mitochondria1 ornithine transcarhamylase:
+Comparison of rat and human leader sequences and conservation of catalytic sites. Nucleic Acids Res 13:943-952.
+Kraus JP, Kalousek F, Rosenberg LE (1983) Biosynthesis and mitochondrial processing of the P subunit of propionyl CoA carboxylase from rat liver. J Biol Chem 258:7245-7248.
+Kraus JP, Rosenberg LE (1983) Cystathionine P-synthase from
+human liver: Improved purification scheme and additional
+characterization of the enzyme in crude and pure form. Arch
+Biochem Biophys 222:44-52.
+Kutzbach C , Stokstad, EL (1971) Mammalian methylenetetrahydrofolate reductase. Partial purification, properties, and inhi-
+
+bition of S-adenosylmethionine. Biochim Biophys Acta 250:
+459-477.
+Linard CG, Mbikay M, Benjannet S, Lazure C , Seidah NG, Chritien M (1988) Correct processing and secretion of human prostatic secretory protein (PSP,,) in Escherichia coli. Gene 73:
+479-487.
+Lipson MH, Kraus J, Rosenberg LE (1980) Affinity of cystathionine P-synthase for pyridoxal5’-phosphate in cultured cells. A
+mechanism for pyridoxine-responsive homocystinuria. J Clin
+Invest 66: 188-1 93.
+Lowry O H , Rosebrough NJ, Farr AL, Randall RJ (1951) Protein
+measurement with the Fohn phenol reagent. J Biol Chem 193:
+265-275.
+Malinow MR (1990) Hyperhomocyst(e)inemia: A common and
+easily reversible risk factor for occlusive atherosclerosis. Circulation 81:2004-2006.
+Marston, F A 0 (1987) The purification of eukaryotic polypeptides
+expressed in Escherichia coli In Glover DM, (ed): DNA Cloning, Volume 111: A Practical Approach. Oxford: IRL Press,
+1987.
+Mudd SH, Levy HL, Skovby F (1989) Disorders of transsulfuration
+In Scriver CR, Beaudet AL, Sly WS, Valle D (eds): The Metabolic Basis of Inherited Disease. New York, McGraw-Hill, 6th
+ed, 1989, pp 693-734.
+Munke M, Kraus JP, Ohura T, Francke U (1988) The gene for
+cystathionine P-synthase (CBS) maps to the subtelomeric region on human chromosome 21q and to proximal mouse chromosome 17. Am J Hum Genet 42550-559.
+Myers RM, Larin Z, Maniatis T. (1985a) Detection of single base
+substitutions by ribonuclease cleavage at mismatches in RNA:
+DNA duplexes. Science 230:1242-1246.
+Myers RM, Lumelsky N , Lerman LS, Maniatis, T. (198Sb) Detection of single base substitutions in total genomic DNA.
+Nature (London) 313:495-498.
+Orita M, Suzuki Y, Sekiya T, Hayashi K (1989) Rapid and sensitive detection of point mutations and DNA polymorphisms
+using the polymerase chain reaction. Genomics 5:874-879.
+Reichardt JKV, Belmont JW, Levy HL, Woo SLC (1992) Characterization of two missense mutations in human galactoseI -phosphate uridyltransferase: different molecular mechanisms
+for galactosemia. Genomics 12596-600.
+Robherson BL, Cote GJ, Berget SM (1990) Exon definition may
+facilitate splice site selection in RNAs with multiple exons.
+Mol Cell Biol 10:84-94.
+Roper MD, Kraus J P (1992) Rat cystathionine P-synthase: Expression of four alternatively spliced isoforms in transfected cultured cells. Arch Biochem Biophys, in press.
+Sambrook J , Fritsch EF, Maniatis T. (1989) Molecular Cloning: A
+Laboratory Manual, 2nd ed. Cold Spring Harbor, NY: Cold
+Spring Harbor Laboratory Press, Vols 1-3.
+Sanger F, Nicklen S, Coulson AR (1977) DNA sequencing with
+chain-terminating inhibitors. Proc Natl Acad Sci USA 82:
+7212-72 16.
+Skovby F, Kraus JP, Rosenberg LE (1984a) Biosynthesis and proteolytic activation of cystathionine P-synthase in rat liver. J
+Biol Chem 259:583-587.
+Skovby F, Kraus JP, Rosenberg LE (198413) Biosynthesis and proteolytic activation of cystathionine f3-synthase in rat liver. J
+Biol Chem 259588-593.
+Skovby F, Kraus JP, Rosenberg, LE (1984~)Homocystinuria: hiogenesis of cystathionine P-synthase subunits in cultured fibroblasts and in an in vitro translation system programmed with
+fibroblast messenger RNA. Am J Hum Genet 36:452-459.
+Skovhy F, Krassikoff N, Francke U (1984d) Assignment of the
+gene for cystathionine P-synthase to human chromosome 21 in
+somatic cell hybrids. Hum Genet 65291-294.
+
+SCREENING FOR MUTATIONS BY E. COLI EXPRESSION
+Swaroop M, Bradley K, Ohura T , Tahara T , Roper MD, Rosenberg LE, Kraus ]P (1992) Cystathionine P-synthase: gene organization and alternative splicing. J Biol Chem, 267:1145511461.
+Tahara T, Kraus JP, Rosenberg LE (1990a) Direct sequencing of
+PCR amplified genomic DNA by the Maxam-Gilberc method.
+BioTechniques 8:366-368.
+Tahara T, Kraus JP, Rosenherg LE (1990b) An unusual insertion/
+deletion in the gene encoding the P-subunit of propionyl-CoA
+
+123
+
+carboxylase is a frequent mutation in Caucasian propionic acidemia. Proc Natl Acad Sci USA 87:1372-1376.
+Towbin H, Staehelin T, Gordon 1 (1979) Electrophoretic transfer
+of proteins from polyacrylamide gels to nitrocellulose sheets:
+Procedure and some applications. Proc Natl Acad Sci USA
+76:4350-4354.
+Ueland PM, Refsum H (1989) Plasma homocysteine, a risk factor
+for vascular disease: Plasma levels in health, disease and drug
+therapy. J Lab Clin Med 114:473-501.
+
+

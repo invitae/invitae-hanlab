@@ -1,0 +1,853 @@
+Cell, Vol. 62, 999-1006,
+
+September7, 1990,Copyright0 1990by Cell Press
+
+A Molecular Basis for Familial Hypertrophic
+Cardiomyopathy: A p Cardiac Myosin Heavy Chain
+Gene Missense Mutation
+An/a A. T. Geisterfer-Lowrance,’
+Susan Kass,t
+Gary Tanigawa,t Hans-Peter W&erg,*
+William McKenna,§ Christine E. Seidman,
+and J. G. Seldmant
+Cardiovascular Division
+Brigham and Women’s Hospital
+Boston, Massachusetts 02115
+t Howard Hughes Medical Institute
+and Department of Genetics
+Harvard Medical School
+Boston, Massachusetts 02115
+*Department of Cell Physiology
+Max-Planck Institute for Medical Research
+Heidelberg
+Federal Republic of Germany
+5 Department of Cardiological Sciences
+St. George’s Hospital Medical School
+London
+England
+l
+
+A point mutation in exon 13 of the 3 cardiac myosin
+heavy chain (MHC) gene is present in all individuals
+affected with familial hypertrophic
+cardiomyopathy
+(FHC) from a large kindred. This missense mutation
+converts a highly conserved arginine residue (Arg403) to a glutamine. Affected individuals from an unrelated family lack this missense mutation, but instead
+have an a/j3 cardiac MHC hybrid gene. Identification of
+two unique mutations within cardiac MHC genes in all
+individuals
+with FHC from two unrelated families
+demonstrates that defects in the cardiac MHC genes
+can cause this disease. The pathology resulting from
+a missense mutation at residue 403 further suggests
+that a critical function of myosin is disrupted by this
+mutation.
+
+Identification of the genetic defect responsible for a disease such as familial hypertrophic cardiomyopathy (FHC)
+has proven to be a difficult task. There are approximately
+1200 human diseases that, like FHC, are inherited as an
+autosomal dominant trait. The molecular basis of less
+than 60 of these has been established (McKusick, 1966).
+One approach to elucidating the molecular etiology of an
+autosomal dominant disease has been to identify a candidate gene, often suggested by linkage analyses, and then
+to demonstrate that the protein encoded by this gene has
+an altered function in affected individuals. Application of
+this approach to FHC is difficult because the affected tissue (cardiac muscle) is not readily available for analysis
+and because specific biochemical assays for many functions of the candidate protein (myosin heavy chain) do not
+exist.
+
+We have previously demonstrated that a gene responsible for FHC is linked to the a and p cardiac myosin heavy
+chain (MHC) genes (Solomon et al., 1990a). These genes
+are excellent candidates for causing this disorder because they are expressed in the heart, the principal organ
+that exhibits pathology in FHC. Furthermore, in animal
+models of cardiac hypertrophy, expression of the a and 6
+cardiac MHC genes is altered (Izumo et al., 1987). While
+similar analyses of the expression of the a and 9 cardiac
+MHC genes in humans with FHC have not confirmed
+these findings, such studies have been limited to immunohistochemical techniques (Mercadier et al., 1983; Hirzel et
+al., 1985). Recently, the human f3 cardiac MHC gene has
+been cloned and the complete nucleotide sequence determined (Liew et al., 1990; Jaenicke et al., 1990). Less is
+known about the human a cardiac MHC gene, which has
+been only partially cloned and characterized (Kurabayashi et al., 1988; YamauchirTakihara et al., 1989).
+Another approach to elucidating whether a candidate
+gene causes a particular disorder is to demonstrate that
+unrelated and affected individuals have mutations in the
+same candidate gene. We have recently demonstrated
+that individuals with FHC from one family bear a mutation
+in their cardiac MHC genes (Tanigawa et al., 1990 [accompanying article]) that produces an a/f3 cardiac MHC hybrid
+gene. These data suggested that mutations in the cardiac
+MHC genes cause FHC, but could not definitively exclude
+the possibility that the MHC mutation was closely linked
+to a gene that was principally responsible for the disease.
+To demonstrate conclusively that mutations in the cardiac
+MHC genes cause FHC, we sought to identify cardiac
+MHC gene defects in affected individuals from other, unrelated families.
+FHC is a genetically heterogeneous disorder (Solomon
+et al., 1990b). A locus responsible for this disease, on
+chromosome 14 band qll-12, is designated #/C-I. The
+first step in our analyses involved identifying a family in
+which the disease is caused by a mutation in the FHC-1
+locus. The gene responsible for FHC in a large French
+Canadian kindred (Figure lA, family A) is located at FHC-7,
+closely linked to the cardiac MHC genes (Jarcho et al.,
+1989; Solomon et al., 1990a). We have designated the affected allele in this family FHC-la. The second step in our
+analyses involved characterizing the a and 6 cardiac MHC
+genes of the FHC-la allele to determine if they contained
+a mutation that should alter a cardiac MHC polypeptide.
+We now report that affected individuals from family A have
+a missense mutation in their f3 cardiac MHC gene. This
+point mutation replaces a highly conserved arginine residue with a glutamine residue. This finding represents the
+identification of a second, independent mutation within
+the cardiac MHC genes of affected individuals with FHC.
+Since mutations in the cardiac MHC genes are present in
+two unrelated families with this disease, we conclude that
+mutations in the cardiac MHC genes cause FHC in some
+families. Furthermore, because the missense mutation
+present in family A alters an amino acid that has been
+
+Cdl
+1000
+
+highly conserved throughout evolution, we speculate that
+this mutation affects a critical function of the MHC molecule.
+Results
+The a and p cardiac MHC genes are only 4.5 kb apart
+(Saez et al., 1987; Matsuoka et al., 1989). Each gene consists of 40 exons and encompasses approximately 30 kb
+of DNA. A simple and rapid method for identifying mutations within a large gene(s), like the cardiac MHC genes,
+has not been devised. One could determine the nucleotide sequence of the putative mutated gene and compare
+this to the nucleotide sequence of the normal gene. The
+entire nucleotide sequence of the human p cardiac MHC
+gene has been determined (Liew et al., 1990; Jaenicke et
+al., 1990), but comparable data on the a cardiac MHC
+gene are currently unavailable. This direct approach
+would therefore require nucleotide sequence analysis of
+30 kb of genomic DNA from a normal a cardiac MHC gene
+and 80 kb of DNA containing the a and p cardiac MHC
+genes from an affected individual. If, however, a mutation
+altered a restriction enzyme recognition site, one could
+identify this by Southern blot analyses of DNA from affected individuals. Given the size of the cardiac MHC
+genes, we elected to begin our analyses with the latter approach.
+To determine if the cardiac MHC genes of affected individuals in family A contained a mutation similar to that detected in affected individuals of family B (Tanigawa et al.,
+1990), the restriction enzyme maps of the a and p cardiac
+MHC genes from affected and unaffected individuals
+were compared (see Figure 2). Southern blot analyses
+were performed with several restriction enzymes that
+recognize 8 bp sites. These blots were hybridized to
+probes derived from the a and p cardiac MHC genes (see
+Figure 2). All restriction fragments identified in the DNAs
+of affected individuals were identical in size to those found
+in the DNAof unaffected family members, suggesting that
+the cardiac MHC genes in the #K-la allele were not
+grossly altered.
+To study the structure of the cardiac MHC genes of affected individuals at higher resolution, these genes were
+cloned and characterized by fine-structure restriction enzyme site mapping and nucleotide sequence analysis.
+DNA fragments derived from the a and p cardiac MHC
+genes of affected individual II-1 (Figure 1A) were cloned
+into bacteriophage h (Experimental Procedures). Because the a and p cardiac MHC genes are highly homologous to each other and to the other MHC genes, we did
+not attempt to clone these genes directly from a genomic
+bacteriophage library. Rather, we first identified restriction
+fragments in Southern blots that were specifically derived
+from either the a or p cardiac MHC genes, using DNA
+probes that recognized particular portions of these genes.
+Isolated fragments (Figure 2, fragments BB-17, 0X-15, PB12, aH-17, aE-15, aH-7) were then cloned into bacteriophage vectors.
+To be certain that both alleles containing the cardiac
+MHC genes had been cloned, multiple independently iso-
+
+lated clones containing each a or B cardiac MHC fragment
+were obtained. These were analyzed for unique restriction
+fragment length polymorphisms (RFLPs). Individual II-1
+has been shown previously to be heterozygous for a
+BamHl RFLP detected by probe PE-4.3 (Solomon et al.,
+1990a). This and newly identified polymorphisms (our unpublished data) found in the cardiac MHC genes were
+used to distinguish clones that were derived from the
+MHC genes of the normal allele and the FHC-la allele of
+affected individual 11-l. The identification of two clones
+containing the same restriction fragment from either the
+a or the p cardiac MHC gene, but which were polymorphic at one of these sites, provided evidence that each
+clone represented one of the two alleles present in individual 11-1.Bacteriophage clones derived from each allele spanned 20 kb of the p cardiac MHC gene and 28 kb
+of the a cardiac MHC gene. No polymorphisms were identified in clones aH-7 that could discriminate between alleles.
+One clone representing each allele was then selected
+for detailed characterization by digestion with 20 restriction enzymes. The orientation of each allelic clone with respect to vector sequences was identical. In the 20 kb of
+cloned sequences derived from the p cardiac MHC gene
+and the 26 kb of cloned sequences derived from the a
+cardiac MHC gene, six different RFLPs were detected between clones derived from the two alleles found in individual II-1 (Figure 2, arrows). To ascertain if any of these
+six polymorphisms could represent the mutation causing
+FHC in family A, several analyses were performed. We determined if any of these polymorphisms segregated with
+the disease by Southern blot analyses of genomic DNA
+from selected family members. Candidate polymorphisms
+were then characterized by nucleotide sequence analysis
+to determine if a mutation that yielded a polymorphism
+also altered encoded protein sequences. DNAs from unrelated individuals were then screened to determine the
+frequency of identified polymorphisms in the general
+population.
+Previous analyses have demonstrated that the BamHl
+polymorphism present in the p cardiac MHC gene
+segregates with FHC in family A (Solomon et al., 1990a).
+However, since this RFLP is also present in families without FHC, it cannot be a mutation responsible for the disease. An EcoRl polymorphism was identified in the region
+separating the a and p cardiac MHC genes but was present in only three individuals in family A and did not segregate with the disease. Four polymorphic differences were
+detected between a cardiac MHC gene segments derived
+from each allele of individual II-l. Two of these, a Hhal and
+an Alul polymorphism, are present in intron 1 of the a
+cardiac MHC gene (data not shown). The Hhal polymorphism identified in the clones derived from the FHC-la allele of individual II-1 is also present in unaffected individuals. A Ddel polymorphism and a polymorphism resulting
+from a difference in the length of avariable nucleotide tandem repeat (Figure 2, TR) were also identified in intron sequences of the a cardiac MHC gene (data not shown).
+Since four of these newly identified polymorphisms are located within intron sequences and are unlikely to alter the
+
+A 5 Cardiac MHC Missense Mutation Causes FHC
+1001
+
+A
+
+B
+
+W
+
+II-12 II-34
+
+III-9 III-10
+
+Figure 1. Inheritance of FHC and the 5D-,425 Polymorphism in
+Family A
+(A) The pedigree of family A is presented using standard nomenclature. Males (squares) and females (circles) are identified by generation
+and subject number. The disease status of each individual is indicated
+by shading: closed symbols, affected; open symbols, unaffected. Deceased individuals are represented by a slash. The genotype of each
+individual is shown. Allele 1 indicates a 425 bp fragment, and allele
+2 represents a 395 bp fragment identified by 5D-,425.
+(6) Southern blot of Ddel-digested DNAs from members of a small nuclear family from family A (dashed box in IA]) hybridized to the 5D-,425
+probe (see Experimental Procedures).
+
+III-1 1 III-12
+
+439
+395
+
+300
+
+gene products encoded by the a cardiac MHC gene, and
+because the EcoRl polymorphism present in the 8 cardiac
+MHC gene did not cosegregate with FHC in affected family members, we concluded that these polymorphic sites
+did not result from a mutation that also caused FHC in affected members of family A.
+A sixth polymorphic difference was observed after Ddel
+digestion of the two allelic clones encoding the 17 kb
+BamHl fragment of the 5 cardiac MHC gene. These
+clones extend from a BamHl site located 10 kb 5’ of the
+5 cardiac MHC gene through exon 15 (Figure 2, 56-17).
+Digestion of these clones with Ddel yielded approximately
+30 DNA restriction fragments. All but one Ddel fragment
+derived from the two allelic clones comigrated. A 425 bp
+Ddel fragment was produced from the Be-17 clone derived
+from the unaffected allele, while a 385 bp fragment was
+obtained from the FHCl* allele.
+The genetic linkage relationship between the WC-7 locus and the Ddel polymporphism was determined in family A. The 425 bp Ddel fragment was isolated from the 5B17 clone derived from the unaffected allele and subcloned
+
+a
+
+into a plasmid designated f3D-,425. This probe was hybridized to Southern blots of Ddel-digested DNA from all
+members of family A. Probe PD-.425 detects a constant
+band of 300 bp in Ddel digests of DNA from all individuals
+(Figure 1B). This probably corresponds to an a cardiac
+MHC gene fragment, since Ddel digestion of the corresponding cloned region of the a cardiac MHC gene
+yielded a fragment of similar size after hybridization to pD.425 (data not shown). Two polymorphic fragments, 425
+bp (allele 1) and 385 bp band (allele 2), were also identified
+in DNA digested with Ddel from members of family A (Figure 1B). These restriction fragments are inherited in a
+Mendelian fashion; the 385 bp DNA fragment found in individual II-12 was inherited by three of four children.
+Figure 1A shows the genotype of all individuals in family
+A. Allele 2 was observed only in digests of DNA obtained
+from affected family members. Among members of family
+A there was a perfect correlation between inheritance of
+allele 2 and inheritance of FHC. Assuming a disease
+penetrance for FHC of 0.95 (Clark et al., 1973), the maximum LOD (logarithm of the odds) score for coinheritance
+
+Figure 2. Restriction Map of the a and f3
+Cardiac MHC Genes lndiceting the Locations
+of Polymorphic Restrtction Sttes, Exons 13,
+H E”
+B
+Four DNA Probes Used in These Studies, and
+the DNA Fragments Cloned from an Affected
+3’
+I
+Family A Individual
+EX13
+I313
+L--L
+aHBg-3
+pE-4.3
+Locations of selected restriction enzyme sites
+PC.3 PD.%5
+5 Kb
+are shown (6, SamHI; X, Xhol; H, Hindlll; E,
+aH-17
+di-7-----px-1s
+EcoRI; Sg, Bglll). Potyrnorphic sites am indioE-15
+pe-I2
+cated by arrows. TR represents a tandom nucleotide repeat. Probes (f3H-1.3,5D-.425, 5E-4.3, and aHSg-3) and clones (BE17, 5X-15, 5512, aH-17, aH-7, and aE-15) am identtfted as either a or
+f3cardiac MHC gene, the subsequent letter(s) indicating restriction enzyme, the number indicating size in kilobases. The location of exon 13 in each
+of the a and 5 cardiac MHC genes is indicated. (Note: only those restriction enzyme sites relevant to this study am shown. Not all sites identified
+by a particular restriction enzyme am indicated.)
+
+P
+
+c&l TR
+H
+E
+
+Cdl
+
+1002
+
+AFFECTED
+GATCGATC
+
+B
+
+Unaffected
+Attected
+
+NORMAL
+
+a.
+
+Figure 3. Nucleotide and Predicted Amino Acid Sequences of the
+Normal Allele and the WC-la Allele in the Region Encoding the Ddel
+Polymorphism
+(A) DNA sequencing gel demonstrating the difference between an affected and normal individuals’ exon 13. (B) Nucleotide sequence and
+predicted protein sequence encoded by exon 13 of the 3 cardiac MHC
+gene from the normal and FIfrX* allele of an affected individual. DNA
+sequences were determined from plasmid clones containing the 17 kb
+BamHl fragment from the 5’ end of the 3 cardiac MHC gene (Figure
+2 and Experimental Procedures). The nucleotide sequence of the normal allele is given to the right of the sequencing gel. The missense
+mutation detected in the affected allele (arrow) converts a G to an A.
+The predicted amino acid sequence encoded by exon 13 is presented
+in the three-letter code.
+
+luRloRspLysSerAlaTyrLeu~etGlyLeuRsnSerRlaRspLeuLeuLysGlyLeuCys
+TCCRGRGGCTGRCRRGTCTGCCTRCCTCRTGGGGCTGRRCTCRGCCGRCCTGCTCflRGGGGCTGTGC
+,D,S4
+.I......,.I.,.....I.I.I..,......II
+,...,....,..,I
+I.II**.**II*..*....
+
+Unaffr.&ed
+
+HisProRrgUalLysUalGlyAsnGluTyrUolThrLysGlyGlnRsnUalGlnGln
+CRCCCTCGGGTGRRRGTGGGCRRTGRGTRCGTCACCRRGGGGCRGflRTGTCCRGCRGGTGGGTCCRT
+10221
+
+Affected
+
+. . . . . ..R...........................................................
+Gln
+
+of allele 2 and FHC in this family was 15.9 (8 = 0). (The
+frequencies of alleles 1 and 2 used for these calculations
+
+were 0.98 and 0.02, respectively, although the data presented below suggest that the frequency of allele 2 is less
+than 0.005.) These data demonstrate that the probability
+that the polymorphic Ddel site is not linked to the FHC-7
+locus is less than 1 in 1015.
+While these dataconfirmed that the cardiac MHC genes
+are genetically linked to the FHC-7 locus, they do not
+differentiate between a polymorphism linked to the disease locus and a disease-causing mutation. To clarify this
+relationship, we performed Southern blot analyses using
+DNA from unaffected and unrelated individuals. If the mutation that produced allele 2 of the Ddel polymorphism
+also caused FHC, this polymorphism should not be present in unaffected individuals. Southern blot analyses failed
+to detect the 385 bp fragment (allele 2) in Ddel digests of
+the DNA from 104 individuals (data not shown). These data
+suggest that the frequency of allele 2 is less than 0.005
+(<l/208) in the normal population. We concluded that the
+385 bp fragment present in Ddel digests from affected individuals cosegregates exclusively with the F/-/C-P allele.
+To ascertain whether the mutation responsible for the
+Ddel polymorphism affects the expression or function of
+the 5 cardiac MHC polypeptide, we determined the
+nucleotide sequences of the normal allele and the FHCla allele in the region encoding the Ddel polymorphism.
+Restriction enzyme mapping suggested that clone pD.425 was derived from exon 13 of the 5 cardiac MHC gene
+(data not shown). We determined the nucleotide sequences of axon 13 of clones 56-17 derived from the normal and FHC-la alleles. These were identical except for a
+single nucleotide change (Figure 3). A guanine residue
+present in the clone derived from the unaffected allele at
+position 10,182 (enumerated as in Jaenicke et al., 1990) is
+mutated to an adenine residue in the clone derived from
+
+the F/G-la allele. The nucleotide sequence of the 5
+cardiac MHC gene has been previously determined by
+two independent laboratories (Liew et al., 1990; Jaenicke
+et al., 1990), and both document a guanine residue at position 10,182. The identified mutation generates a new
+Ddel site and thus accounts for the Ddel polymorphism
+found in the F/G-la allele. The observed nucleotide substitution in the FHC-la allele also changes arginine residue 403, encoded by a CGG codon, to a glutamine residue encoded by a CAG codon. The resultant Gln residue
+should significantly alter the structure of the 5 cardiac
+MHC polypeptide in this region because this amino acid
+substitution is accompanied by a change in charge from
++l to 0.
+Dlscuaelon
+We have demonstrated that a unique mutation exists in
+the cardiac MHC genes of individuals with FHC from a
+large kindred. A missense mutation present in exon 13 of
+the f3 cardiac MHC gene of affected members in family A
+converts an arginine residue to a glutamine residue. To assess the importance of a particular amino acid residue in
+the function of a polypeptide, one can determine if that
+residue is conserved through evolution. The amino acid
+sequences of 15 different MHC polypeptides have been
+determined from a variety of species. Figure 4 illustrates
+the amino acid sequence of exon 13 from these 15 different myosin polypeptides. Arginine residue 403 is contained in a region of six highly conserved amino acids,
+402-408 (PRVKVG), and is one of five amino acids that
+is invariant in all 15 sequences of exon 13. The largest
+evolutionary distance between the characterized MHC
+polypeptides (Figure 4) is the distance between man and
+amoeba (Acanthamoeba castellanii); this divergence is
+thought to have occurred at least 800 million year3 ago
+
+A$$ardiac
+
+MHC Missense Mutation Causes FHC
+
+Figure 4. Comparison of Amino Acid Sequences Encoded by Exon 13 of the Human 5
+Cardiac MHC Gene and 15 Other MHC Polycardiac p (human) EADKSAYLNGLNSADLLKGLCH
+peptides from a Number of Different Species
+cardiac 5 (rat) ..,.,...,,...,....,,..
+Amino acid sequences were deduced from
+cardiaca(rat)D....................
+nucleotide sequences of myosin genes (except
+embryonic skeletal muscle (human) U . T I T , I . * I I s
+rabbit skeletal muscle myosin, for which oriembryonic skeletal muscle (rat) U , , , T , , , , fl.S....fl..F
+,.*,,1,.,,,...
+T.D.
+mary amino acid sequence data were availskeletal muscle (rabbit) U , , I R , . , QT .T.....R.KY
+able) and are indicated in single-letter code
+D.,,
+,*,,,..**,.,
+(see Figure 3 for three-fetter code of each resiembryonic (chicken)
+U , , , A , . , , * . . . . . ..A..Y ..I.,.........
+T ,..
+due). Residues identical to the human 5
+smooth muscle (chicken) A, Q , IJCA. , .UT.FTRSILT., I , . .RDU. Q.R.TKE.
+cardiac MHC gene are represented by dots;
+nOnmuSCle
+(chlcken)
+A, Q , USH , L , .UT.FTR. ILT., I . . *RD.. Q.R.TKE.
+differences are shown in single-letter code.
+C. elesans unc54 . E I RSNNY, GCEEF..R.TK., ,...T.U.S,..NCE.
+Areas of sequence highly conserved between
+species (amino acids 4D2-498) are boxed. The
+C. elegans myla
+I ERACNW , DUUQF..R.US. . . . ..T.U.S...N.D.
+missense mutation (glutamine 10) for arginine
+C. elegans my2a D. ERA, KCF. ID.EEF..R.TR . ,I. . . . . U.N...KIE.
+[FI]) in exon 13 of the D cardiac MHC gene from
+C. elegans my3a D. LNfl I RNLI IQREEF..R.TK, ..,..T.U.N...NLE.
+the FHCP allele is shown. Sources for seD. melanogaster , GGRuSK. F CDT.E.Y.N.LK.. I.. . .F, TQ.RN.. ,
+quence data: human 5 cardiac MHC, Jaenicke
+A.castellanii .LNIR.E.L.usR.G.KR..Ls, uun.I. . ..u. u ,RRLNKPK
+et al. (ISSO), Liew et al. (1999); rat a and rat p
+cardiac MHC, McNallyet al. (1989); human embryonic MHC, Stedman et al. (199D);rat embryonic MHC, Strehler et al. (1989); rabbit MHC, Tongand Elzinga(l99D); chicken embryonic MHC, Mofina
+et al. (1987); chicken smooth muscle MHC, Yanagisawa et al. (1987); chicken nonmuscle MHC, Shohet al. (1989); C. efegans unc54, Karn et al. (1983);
+C. efegans myla, my2a, and my3a, Dibb et al. (1989); D. mefanogaster MHC, Rozek and Davidson (1988); A. castellanii MHC, Jung et al. (1989).
+Ftlc-1
+
+a
+
+I. *I , , I. ,I II,. ,. , ,. I p , I
+
+I ,, I ,,
+
+(Darn&l et al., 1986). The finding that the missense mutation in a coding portion of the 9 cardiac MHC gene alters
+an arginine residue that has been conserved for over 600
+million years provides further evidence that the mutation
+defined by the Ddel polymorphism is responsible for FHC
+in affected members of family A.
+The MHC polypeptide\Figure 5) has two functional domains (reviewed in Harrington and Rodgers, 1994): a globular head region (Sl) and an elongated rod region (S2 and
+LMM). The head region contains the ATPase activity of the
+molecule and the subregions that bind to myosin light
+chains and actin polypeptides. The head region appear8
+to be critical for structural transitions of the actin-myosin
+Complex that are coupled to release of inorganic phosphate from ATP The missense mutation identified in exon
+13 of the 3 cardiac MHC gene from individual8 with FHC
+
+Globular
+e
+L
+1
+
+2
+
+23K
+
+3 4 56
+
+4
+
+ATG
+
+789
+
+1011
+
+Rod
+/s2
+i
+
+12 13,415
+
+161718
+
+AcGn
+
+ATP
+
+would alter the amino acid structure of the globular head
+region of the myosin molecule. The mutationally altered
+residue is not one previously associated with specific ATPase function or actin binding. However, because this mutation occurs in a sequence that is highly conserved in
+evolutionarily distant species, we Speculate that this conserved segment of the MHC polypeptide is important for
+one of these or a previously unidentified function. We anticipate that characterization of the altered MHC polypeptide resulting from this missense mutation and identification of other mutations that cause FHC will help to elucidate
+novel structure-function relationship8 of the myosin molecules.
+The missense mutation occur8 only in the B cardiac
+MHC gene of affected individuals. Human p cardiac MHC
+genes are expressed in both the heart and skeletal mus-
+
+Head
+
+Sl
+SOK
+
+[
+
+,,,I
+
+t
+
+Exon 13: site of
+point mutation
+
+A&
+
+24K
+19202122
+
+4
+
+Active Thiils
+
+I
+
+51
+2324
+
+25
+
+Cd
+
+K
+26
+
+LMM
+77 K
+
+I
+
+27 2529
+
+30
+
+313233
+
+-
+
+34353637
+
+3839
+
+40
+
+1 kb
+
+Figure 5. A Representation of a Cardiac MHC Gene Indicating Exons That Encode Regions of the MHC Polypeptide and Exon 13, Which Contains
+the Missense Mutation That Causes FHC in Affected Members of Family A
+Exon map adapted from Jaenicke et al. (1990). Locations of exons encoding the ATPase activity and the actin binding activity associated with the
+head region of the MHC polypeptide are also indicated. Several proteolytic fragments (St, 23K, 50K, 24K, S2, 51K, LMM, and 77K) that can be
+obtained by digestion of skeletal myosin heavy chain polypeptides are indicated. The hinge region located within the rod regions of the polypeptide
+is identified. The gene is arranged in a 5’ to 3’ orientation and is colinear with the polypeptide, which is arranged in an amino-terminal to carboxyterminal orientation.
+
+Cdl
+1004
+
+cles, while human a cardiac MHC genes are expressed
+only in cardiac tissue (Lichter et al., 1988; Saez and Leinwand, 1988). Thus, a 8 cardiac MHC gene mutation might
+cause abnormalities of skeletal muscle. The predominant
+pathology detected in individuals with FHC occurs in the
+heart; however, recent data suggest that skeletal muscle
+function is also perturbed in some, but not all, individuals
+with FHC (Caforio et al., 1989). The finding that some
+FHC-7 mutations occur in 8 cardiac MHC genes (like FHC73 might explain the presence of skeletal muscle dysfunction in these individuals. By contrast, some FHC-7
+mutations affect a cardiac MHC gene sequences (for example, the a/p cardiac MHC hybrid gene in WC-lb;
+Tanigawa et al., 1990) and individuals with such mutations should have defects in their heart muscle but not
+their skeletal muscle.
+MHC polypeptides interact with myosin light chains, actin, troponin, and tropomyosin molecules. The physiologic
+interactions between myosin and other myofibrillar proteins have implications for other families with FHC. FHC
+is a genetically heterogeneous disorder (Solomon et al.,
+1990b). The FHC locus in at least two other families is not
+linked to the cardiac MHC genes (Solomon et al., 1990b).
+At present, the location of the disease locus in these other
+families is unknown. Demonstration that mutations in the
+MHC genes can cause FHC in two families suggests that
+defects in the genes encoding myosin-associated peptides may also cause FHC in families whose disease is not
+linked to the cardiac MHC genes.
+Independent genetic events producing mutations of the
+cardiac MHC genes have resulted in FHC in two families.
+In family A (WC-la), a missense mutation alters a highly
+conserved amino acid within the head region of the molecule. In an unrelated family B (F/%-lb), we have identified
+an a/f3 cardiac MHC hybrid gene that appears to have
+resulted from an unequal crossover event (Tanigawa et al.,
+1990). Since the cardiac MHC gene mutations that cause
+FHC have been characterized in only two families, we cannot yet predict whether most affected individuals bear either of these two alleles (indicating that there is a strong
+founder effect) or whether the disease occurs principally
+as a result of new mutations. There are practical implications for determining the number of unique mutations
+within the cardiac MHC gene that can cause FHC. Diagnosis at present is based on clinical evaluations, particularly electrocardiography and two-dimensional echocardiography. Accurate diagnosis can be difficult, especially in
+children. Development of genetic probes that determine
+disease status with certainty will be difficult if multiple
+unique mutations in the cardiac MHC genes cause FHC.
+The mechanism by which mutations in the cardiac MHC
+genes produce cardiac hypertrophy is unknown. Our
+analyses suggest that different types of mutations in the
+cardiac MHC genes cause similar clinical diseases. One
+explanation for a common pathology produced by these
+apparently dissimilar mutations may relate to the ratio of
+a and 8 cardiac MHC polypeptides within cardiac cells. If
+appropriate assembly of myofibrils requires a critical ratio
+of a and 8 cardiac MHC peptides, then a mutation that
+results in aberrant 8 cardiac MHC polypeptides could be
+
+functionally comparable to a mutation that causes an absolute increase in a-like cardiac MHC polypeptides. Characterization of the mutant cardiac MHC polypeptides
+found in cardiac muscle of affected individuals should significantly improve our understanding of the mechanism by
+which defects in the cardiac MHC genes cause cardiac
+hypertrophy.
+An intriguing question arising from these data is how
+mutations in the cardiac MHC genes produce an autosomal dominant disease. Two models can be proposed
+to account for a dominant phenotype produced by mutations that alter a protein’s function. If myosin gene mutations, like mutations of the retinoblastoma gene, act in a
+recessive fashion even though they are inherited as an autosomal dominant trait (Cavenee et al., 1983), then a mutation that alters the normal allele may be required for disease expression. That is, perhaps the pathologic findings
+in FHC result from a second, independent mutation in the
+cardiac MHC genes in myocytes that already contain a
+mutant MHC gene. Such cells should be unable to produce functional myosin molecules. A difficulty with this
+model is that cells which contain two mutationally altered
+MHC genes lack any apparent selective advantage. An alternative explanation for the autosomal dominant phenotype might be that production of some aberrant MHC polypeptides poisons assembly of many myosin molecules.
+Biochemical analyses of the myofilaments in cardiac tissues from patients with FHC should improve our understanding of the mechanisms of myofibrillar assembly and
+may explain the autosomal dominant mode of inheritance
+of this disease.
+Unexplained myocardial hypertrophy is a major clinical
+feature of FHC. However, there are many human diseases
+in which secondary myocardial hypertrophy occurs. For
+example, cardiac hypertrophy is associated with chronic
+hypertension, valvular heart disease, and endocrine or
+metabolic disorders. In some of these, histopathologic
+findings of myocyte and myofibrillar disarray are present,
+although quantitatively less than that seen in FHC. The
+molecular mechanism for development of secondary
+hypertrophy in human diseases is unknown; however, experimental animal models have demonstrated altered
+cardiac MHC gene expression (Izumo et al., 1987). These
+studies and the data presented here suggest that changes
+in the expression of cardiac MHC genes may be etiologic
+in the development of myocardial hypertrophy which occurs secondary to other diseases. Understanding the
+mechanism by which mutations in the cardiac MHC genes
+produce the pathology characteristic of FHC may elucidate a molecular basis for myocyte growth and development and provide new insights into how these are altered
+in other human diseases.
+ExPerimental Procedures
+Cell Lines, DNA ExtractIon, and Southern Blot Analysis
+Genomic DNA from family A individuals was obtained from lymphoblastoid cell lines as described previously (Holcombe et al., 1997;
+Tanigawa et al., 1990). Southern blot analyses(Southern, 1975)were
+performed as described, with the following modifications. Ddeldigested genomic DNA (30 ug) was electmphoresed in 3% Nuseive
+
+A 6 Cardiac MHC Missense
+1005
+
+Mutation Causes FHC
+
+(American Bioanalytical),
+1% agarose gels
+GeneScreen Plus (New England Nuclear).
+
+and
+
+transferred
+
+to
+
+DNA Probes fmm the Cardiac MHC Genes
+Probes were isolated from the cardiac MHC genes as indicated in Fig
+ure 2. Probe 6H-1.3 was isolated from the human genomic clone
+gMHC-2 (Diederich et al., 1989). Probe aHBg-3 was isolated from
+p81A, a gift from L. A. Leinwand (Albert Einstein College of Medicine,
+Yeshiva University, Bronx, NY). Probe f3D-,425 was isolated from clone
+BE-17 (derived from an unaffected allele) and subcloned into the plasmid Bluescript II SK- (Stratagene). Fragments used for probes were
+isolated, after digestion with the appropriate restriction enzyme(s) and
+subsequent fractionation, from agarose gels by standard procedures.
+Probes were radiolabeled with [a-32P]dCTP (New England Nuclear)
+using the random hexamer priming method (Feinberg and Vogelstein,
+1984).
+Cloning Cardiac MHC Gene Fragments from Affected and
+Unaffected lndlvlduals
+The procedure for cloning genomic DNA restriction fragments derived
+from the cardiac MHC genes from the affected or unaffected allele involved the following steps (Ausubel et al., 1989). DNA (300 pg) from
+patient II-I was digested with BarnHI, EcoRI, Xhol. or Hindlll, and
+fractionated on lo%-40% sucrose gradients. The fraction(s) enriched
+in a particular DNA fragment was identified by Southern blot analysis
+using the DNA probes indicated below. Subgenomic libraries were
+made from the enriched DNA fraction after ethanol precipitation, ligation into bacteriophage cloning vectors, and in vitro packaging with
+Gigapackll
+Gold. Reagents for library construction
+were from
+Stratagene. Probe pE-4.3 was used to identify the sucrose gradient
+fractions enriched for the 15 kb Xhol, 7 kb Hindlll, and 12 kb BamHl
+fragments present in the DNA from affected individual II-1 and to select
+clones 8X-15, aH-7, and f3B12 from the subgenomic library prepared
+from each enriched fraction. Similarly, probes 8H-1.3 and aHBg-3 were
+used to identify the enriched fractions used to prepare subgenomic
+libraries for the selection of clones 8B-17 and aH-17, respectively.
+DNA Sequencing
+DNA sequence was determined from plasmid subclones of fragment
+be-17 by the dideoxy chain termination reaction (Sanger et al., 1977)
+using a bacteriophage T7 polymerase kit (Pharmacia) and [a-35S]
+dATP (New England Nuclear). The primer for exon 13 (5’-TTACCAACTTTGCTACTlGCCTTT-3r)
+was synthesized (model 3808, Applied Biosystems) according to previously determined sequence (Jaenicke et
+al., 1990). University of Wisconsin Genetics Computer Group software
+(Devereux et al.. 1984) was used for sequence analysis.
+Acknowledgments
+We are grateful to Dr. Frederick Schoen (Department of Pathology,
+Brigham and Women’s Hospital) for supplying the cover photographs.
+We are indebted to H. C. Watkins, R. M. Diaz-Ferland, L. A. Leinwand,
+J. A. P Pare, and family members, without whose invaluable assistance these studies would have been impossible. This work was
+supported by grants from the Heart and Stroke Foundation of Canada
+(A. A. T. G.-L.), the Howard Hughes Medical Foundation (S. K., J. G. S.),
+the British Heart Foundation (W. M.), the Deutsche Forschungsgemeinschaft (H.-P V.), the National Institutes of Health (HL41474 and
+HL42467 to C. E. S., HL19259 to J. G. S.), and the American Heart Association (C. E. S.).
+The costs of publication of this article were defrayed in part by the
+payment of page charges. This article must therefore be hereby
+marked ‘advertisement”
+in accordance with 18 U.S.C. Section 1734
+solely to indicate this fact.
+Received July 20, 1990.
+References
+Ausubel, F. M.. Brent, Ft., Kingston, R. E., Moore, D. D.. Seidman,
+J. G., Smith, J. A., and Struhl, K. (1989). Current Protocols in Molecular Biology (New York: Greene Publishing Associates and Wiley
+Interscience).
+
+Caforio, A. L. F?, Rossi, B., Risaliti, R., Siciliano, G., Marchetti, A., Angelini, C., Crea, F., Mariani, M., and Muratoria, A. (1989). Type 1 fiber
+abnormalities in skeletal muscle of patients with hypertrophic and dilated cardiomyopathy: evidence of subclinical myogenic myopathy. J.
+Am. Coil. Cardiol. 14, 1464-1473.
+Cavenee, W. K., Dryja, T P., Phillips, R. A., Benedict, W. F., Godbout,
+R., Gallie, B. L., Murphree, A. L., Strong, L. C., and White, R. L. (1983).
+Expression of recessive alleles by chromosomal
+mechanisms in
+retinoblastoma. Nature 305, 779-784.
+Clark, C. E.. Henry, W. L., and Epstein, S. E. (1973). Familial prevalence and genetic transmission of idiopathic hypertrophic subaortic
+stenosis. N. Engl. J. Med. 289, 709-714.
+Darnell, J., Lodish, H., and Baltimore, D. (1986). A reconstructive analysis of cell lineages. In Molecular Cell Biology (New York: Scientific
+American Books and W. H. Freeman & Co.), pp. 1134-1141.
+Devereux, J., Haeberli, P, and Smithies, 0. (1984). A comprehensive
+set of sequence analysis programs for the VAX. Nucl. Acids Res. 12,
+387-395.
+Dibb. N. J., Maruyama, I., Krause, M., and Karn, J. (1989). Sequence
+analysis of the complete Caenofhabditis e/egans myosin heavy chain
+gene family. J. Mol. Biol. 205, 803-613.
+Diederich, K. W., Eisele, I., Ried, T, Jaenicke. T., Lichter, P, and Vosberg, H.-P (1989). Isolation and characterization of the complete human 8-myosin heavy chain gene. Hum. Genet. 87, 214-220.
+Feinberg, A. t?, and Vogelstein, 8. (1984). A technique for radiolabeling
+DNA restriction endonuclease fragments to high specific activity [Addendum]. Anal. Biochem. 737, 266267.
+Harrington, W. F, and Rodgers, M. E. (1984). Myosin. Annu. Rev. Biothem. 53, 35-73.
+Hirzel, H. O., Tuchschmid. C. R., Schneider, J., Krayenbuehl, H. f?,
+and Schaub. M. C. (1985). Relationship between myosin isoenzyme
+composition,
+hemodynamics,
+and myocardial structure in various
+forms of human cardiac hypertrophy. Circ. Res. 57, 729-740.
+Holcombe, R. F, Strauss, W., Owen, F. L., Boxer, L. A., Warren, R. W.,
+Conley, M. E., Ferrara, J., Leavitt, R. Y, Fauci, A. S., Taylor, B. A., and
+Seidman, J. G. (1987). Relationship of the genes for Chediak-Higashi
+syndrome (beige) and the T-cell receptor y chain in mouse and man.
+Genomics I, 287-291.
+Izumo, S., Lompre, A.-M., Matsuoka, R., Koren, G., Schwartz, K.,
+Nadal-Ginard, B., and Mahdavi, V. (1987). Myosin heavy chain messenger RNA and protein isoform transitions during cardiac hypertrophy. J. Clin. Invest. 79, 970-977.
+Jaenicke, T, Diederich, K. W., Haas, W., Schleich, J., Lichter, l?, and
+Vosberg, H.-P (1990). The complete sequence of the human 8-myosin
+heavy chain gene and an analysis of its product. Genomics 8,194-206.
+Jarcho, J. A., McKenna, W., Pare, J. A. P, Solomon, S. D., Holcombe,
+R. F., Dickie, S., Levi, T, Donis-Keller, H.. Seidman, J. G., and Seidman, C. E. (1989). Mapping a gene for familial hypertrophic cardiomyopathy to chromosome 14ql. N. Engl. J. Med. 321, 1372-1378.
+Jung, G., Schmidt, C. J., and Hammer, J. A., Ill (1989). Myosin I heavychain genes of Acanthamoeba castellanii: cloning of a second gene
+and evidence for the existence of a third isoform. Gene 82, 289-280.
+Karn, J., Brenner, S., and Barnett, L. (1983). Protein structural domains
+in Caenorhabditis elegans uric-54 myosin heavy chain gene are not
+separated by introns. Proc. Natl. Acad. Sci. USA 80, 4253-4257.
+Kurabayashi, M.. Tsuchimochi, H., Komuro, I., Takaku, R., and Tazaki,
+Y. (1988). Molecular cloning and characterization of human cardiac
+a- and b-form myosin heavy chain complementary DNA clones. J. Clin.
+Invest. 82, 524-531.
+Lichter, I?, Umeda, I? K., Levin, J. E., and Vosberg H.-P (1986). Partial
+characterization of the human 8-myosin heavy-chain gene which is expressed in heart and skeletal muscle. Eur. J. Biochem. 760, 419-428.
+Liew, C.-C., Sole, M. J., Yamauchi-Takihara, K.. Kellam, B., Anderson,
+D. H., Lin, L., and Liew, J. C. (1990). Complete sequence and organization of the human cardiac 5-myosin heavy chain gene. Nucl. Acids
+Res. 78, 3847-3651.
+Matsuoka, R., Yoshida, M. C., Kanda, N., Kimura, M., Ozasa, H., and
+Takao, A. (1989). Human cardiac myosin heavy chain gene mapped
+within chromosome
+region 14q11.2-q13. Am. J. Med. Genet. 32,
+279-284.
+
+Cell
+
+1006
+
+McKusick,V. A. (1966).Mendelian Inheritance in Man: Catalogs of Autosomal Dominant, Autosomal Recessive, and X-Linked Phenotypes
+(Baltimore: The Johns Hopkins University Press), p. xi.
+McNally, E. M., Kraft, Ft., Bravo-Zehnder, M., Taylor, D. A., and Leinwand, L. A. (1969). Full-length rat alpha and beta cardiac myosin
+heavy chain sequences. J. Mol. Biol. 210, 665-671.
+Mercadier. J. J., Bouveret, f?, Gorza, I., Schiaffino, S., Clark, W. A.,
+Zak, R., Swinghedauw. B., and Schwartz, K. (1963). Myosin isoenzymes in normal and hypertrophied human ventricular myocardium.
+Circ. Res. 53, 52-62.
+Molina, M. I., Kropp, K. E., Gulick, J., and Robbins, J. (1967). The sequence of an embryonic myosin heavy chain gene and isolation of its
+corresponding cDNA. J. Biol. Chem. 262, 6476-6466.
+Rozek, C. E., and Davidson, N. (1966). Differential processing of RNA
+transcribed from the single-copy Drosophila myosin heavy chain gene
+produces four mRNAs that encode two polypeptides. Proc. Natl. Acad.
+Sci. USA 83, 2126-2132.
+Saez, L. J., and Leinwand, L. A. (1986). Characterization of diverse
+forms of myosin heavy chain expressed in adult human skeletal muscle. Nucl. Acids Res. 74, 2951-2969.
+Saez, L. J., Gianola, K. M., McNally, E. M., Feghali, R., Eddy, R.,
+Shows, T. B., and Leinwand, L. A. (1967). Human cardiac myosin
+heavy chain genes and their linkage in the genome. Nucl. Acids Res.
+15, 5443-5459.
+Sanger, F, Nicklen, S., and Coulson, A. R. (1977). DNA sequencing
+with chain-terminating inhibitors. Proc. Natl. Acad. Sci. USA 74,
+5463-5467.
+Shohet, R. V., Conti, M. A., Kawamoto, S., Preston, Y. A., Brill, D. A.,
+and Adelstein, R. S. (1969). Cloning of the cDNA encoding the myosin
+heavy chain of a vertebrate cellular myosin. Proc. Natl. Acad. Sci. USA
+86, 7726-7730.
+Solomon, S. D., Geisterfer-Lowrance, A. A. T., Vosberg, H.-P, Hiller,
+G., Jarcho, J. A., Morton, C. C., McBride, W. O., Mitchell, A. L., Bale,
+A. E., McKenna, W. J.. Seidman, J. G., and Seidman, C. E. (199Oa).A
+locus for familial hypertrophic cardiomyopathy is closely linked to the
+cardiac myosin heavy chain genes, CRI-L436, and CRI-L329 on chromosome 14 at qll-q12. Am. J. Hum. Genet. 47, 369-394.
+Solomon, S. D., Jarcho, J. A., McKenna, W., Geisterfer-Lowrance,
+A. A. T., Germain, R., Salerni, R., Seidman, J. G., and Seidman, C. E.
+(1990b). Familial hypertrophic cardiomyopathy is a genetically heterogeneous disease. J. Clin. Invest. 86, 993-999.
+Southern, E. M. (1975). Detection of specific sequences among DNA
+fragments separated by gel electrophoresis. J. Mol. Biol. 98, 503-517.
+Stedman, H. H., Eller, M., Jullian, E. H., Fertels, S. H., Sarkar, S., Sylvester, J. E., Kelly,A. M., and Rubinstein, N. A. (1990). The human embryonic myosin heavy chain. Complete primary structure reveals
+evolutionary relationships with other developmental isoforms. J. Biol.
+Chem. 265, 3566-3576.
+Strehler, E. E., Strehler-Page, M.-A., Perriard, J.-C., Periasamy, M., and
+Nadal-Ginard, B. (1966).Complete nucleotide and encoded amino acid
+sequences of a mammalian myosin heavy chain gene. J. Mol. Biol.
+190, 291-317.
+Tanigawa, G., Jarcho, J. A., Kass, S., Solomon, S. D., Vosberg, H.-P,
+Seidman, J. G., and Seidman, C. E. (1990). A molecular basis for
+familial hypertrophic cardiomyopathy: a cardiac a/5 myosin heavy
+chain hybrid gene. Cell 62, this issue.
+Tong, S. W., and Elzinga, M. (1990). Amino acid sequence of rabbit
+skeletal muscle myosin. 50-kDa fragment of the heavy chain. J. Biol.
+Chem. 285,4693-4901.
+Yamauchi-Takihara,K., Sole, M. J., Liew, J., Ing, D., and Liew, C.-C.
+(1969). Characterization of human cardiac myosin heavy chain genes.
+Proc. Natl. Acad. Sci. USA 86, 3504-3506.
+Yanagisawa, M., Hamada, Y., Katsuragawa, Y., Imamura, M., Mikawa,
+T, and Masaki, T (1967). Complete primary structure of vertebrate
+smooth muscle myosin heavy chain deduced from its complementary
+DNA sequence; implications of topography and function of myosin. J.
+Mol. Biol. 198. 143-157.
+
+

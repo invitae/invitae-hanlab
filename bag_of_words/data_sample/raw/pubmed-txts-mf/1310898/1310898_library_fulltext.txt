@@ -1,0 +1,974 @@
+Cell, Vol. 68, 769-774,
+
+February
+
+21, 1992, Copyright
+
+0 1992 by Cell Press
+
+Temperature-Sensitive
+Mutations in the Ill-IV
+Cytoplasmic Loop Region of the Skeletal Muscle
+Sodium Channel Gene in Paramyotonia Congenita
+Andrea I. McClatchey,’
+Peter Van den Bergh,3
+Margaret A. Pericak-Vance,4
+Wendy Raskind,5
+Christine Verellen3 Diane McKenna-Yasek,2
+Keshav Rao,6 Jonathan L. Haines,’ Thomas Bird,5s7
+Robert H. Brown, Jr.,* and James F. Gusella’
+‘Molecular Neurogenetics
+Laboratory
+*Day Neuromuscular
+Research
+Massachusetts General Hospital and
+Harvard Medical School
+Charlestown, Massachusetts 02129
+3Department of Neurology
+University of Louvain
+Cliniques Universitaires Saint-Luc
+1200 Brussels
+Belgium
+4Division of Neurology
+Department of Medicine
+Duke University
+Durham, North Carolina 27710
+SDepartment of Medicine
+University of Washington
+Seattle, Washington 98195
+6Department of Neurology
+University of Connecticut Health Center
+Farmington, Connecticut 06032
+7Division of Neurology
+Seattle Veterans Affairs Hospital
+Seattle, Washington 98195
+
+Summary
+Paramyotonia
+congenita (PMC), a dominant disorder
+featuring cold-induced
+myotonia (muscle stiffness), has
+recently been genetically
+linked to a candidate gene,
+the skeletal muscle sodium channel gene SCN4A. We
+have now established that SCN4A is the disease gene
+in PMC by identifying two different single-base coding
+sequence alterations in PMC families. Both mutations
+affect highly conserved residues in the III-IV cytoplasmic
+loop, a portion of the sodium channel thought to pivot in
+response to membrane depolarization,
+thereby blocking
+and inactivating the channel. Abnormal function of this
+cytoplasmic loop therefore appears to produce the Na+
+current abnormality
+and the unique temperature-sensitive clinical phenotype in this disorder.
+
+sensitive Na+ gating can be achieved in vitro by expressing
+only the a subunit (Nodaet al., 1986a; Goldin et al., 1986;
+Suzuki et al., 1988; Auld et al., 1988). To date, distinct a
+subunits have been identified for four brain sodium channels, along with separate skeletal and cardiac mUSCle SOdium channels (Noda et al., 1986b; Kayano et al., 1988;
+Auld et al., 1988; Rogartet al., 1989; Trimmer et al., 1989;
+Kallen et al., 1990). All share a common structure of fOUr
+similar domains, each consisting of six membrane-spanning
+regions (Figure 1). The four domains, which are thought to
+surround the channel pore, are connected by intracellular
+loops of varying sizes.
+Genetic linkage studies implicate SCN4A, the locus encoding the human skeletal muscle sodium channel a subunit, as the site of the primary defect in both paramyotonia
+congenita (PMC) (lod score i = 35.36 at r?l= 0.0) and hyperkalemic periodic paralysis (HPP) (i = 33.58 at 6 = O.O), two
+autosomal dominant disorders characterized by episodes
+of abnormal muscle membrane excitability (Fontaine et
+al., 1990; Koch et al., 1991 a, 1991 b; PtaEek et al., 1991 a,
+1991 b; McClatchey et al., 1992). Clinically, the two disorders are distinct (Engel, 1986). PMC involves a mutation
+that leads to cold-induced myotonia (stiffness due to muscle membrane hyperexcitability).
+By contrast, HPP involves periodic attacks of muscle paralysis associated with
+elevated serum K’. In both disorders, electrophysiological
+studies have revealed an abnormal, tetrodotoxin-blockable Na’ current in diseased muscle. In HPP, depolarization of the muscle membrane appears to result from incomplete channel inactivation in the presence of high K+
+(Lehmann-Horn
+et al., 1987a, 1991; Cannon et al., 1991).
+By contrast, in PMC an increased Na+ flux is produced
+by cooling the muscle below 27% (Lehmann-Horn
+et al.,
+1987b).
+The fact that at least two different neuromuscular disorders may involve molecular defects in SCN4A presents a
+unique opportunity to correlate a disturbance in channel
+function with a structural change in a specific domain of
+the sodium channel protein. Mutations in transmembrane
+segments have been described recently in HPP (PtaEek
+et al., 1991~; Rojas et al., 1991) but no SCN4A mutations
+have been reported in PMC. Here, we identify two PMC
+mutations which, unlike the HPP lesions, implicate improper function of the III-IV cytoplasmic loop of the sodium
+channel in this cold-sensitive disorder. To our knowledge,
+this is the first delineation of a precise molecular defect for
+a temperature-sensitive
+human disorder.
+
+Introduction
+Results
+Voltage-gated sodium channelson the surface of excitable
+cells are responsible for the initiation and propagation of
+action potentials (Barchi, 1988; Catterall, 1988). Consequently, there has been considerable interest in delineating their molecular structure and functional domains.
+Mammalian sodium channels consist of a large a subunit
+and one or two smaller 8 subunits. However, voltage-
+
+A Gly-Val
+Change in the III-IV Cytoplasmic
+Loop
+We have previously used haplotype analysis with (dGdA),
+and (dGdT), repeat polymorphisms at the SCN4A locus to
+forecast that both disorders display allelic heterogeneity,
+with at least two independent mutations predicted to have
+occurred in each (McClatchey et al., 1992). We have also
+
+Cell
+770
+
+I
+
+II
+
+III
+
+IV
+
+n
+
+Intracellular
+
+COOH
+NH2
+
+i
+?
+Figure
+
+1 Proposed
+
+Structure
+
+of the Skeletal
+
+Muscle
+
+Sodium
+
+Channel
+
+and Location
+
+of the Paramyotonia
+
+Congemta
+
+Alterations
+
+The sodium channel consists of four homologous
+domains, each consisting
+of SIX transmembrane
+segments,
+connected
+by intracellular
+linkers
+Cyloplasmic
+loop III-IV has been implicated
+in both activation and inactivation
+of sodium channel gating. The two candidate PMC mutations in the
+III-IV loop and the HPP mutations
+in S5 of domain II and in S6 of domain IV (PtGek
+et al., 1991c; Rojas et al., 1991) are shown (Modified from
+the brain channel model of Catterall, 1988, and Kandel et al., 1991.)
+
+discerned most of the genomic structure of SCN4A to facilitate the search for mutations (A. I. M. et al., unpublished
+data). Using genomic polymerase chain reaction (PCR) to
+amplify SCN4A exons followed by direct sequence analysis of the uncloned amplified product, we scanned for mutations in lymphoblast DNAfrom members of two independent PMC families.
+We first identified a base pair change that cosegregated
+with the disorder in a PMC family of Belgian origin (Figure
+2). The mutation, a G-T transversion (Figure 3), produces
+a Gly-Val
+change in the highly conserved intracellular
+loop connecting domains Ill and IV (Figure 1) of the sodium
+channel. The affected Gly is one of a pair of glycines that
+is present at this position in all known sodium channels.
+For affected individual II-2 of the Belgian pedigree, no
+other deviation in comparison with several normal individuals was found when the 80% of the sodium channel coding sequence for which the intron-exon structure has been
+determined
+was scanned, including the regions surrounding both reported HPP mutations. The same mutation was subsequently detected in the only two available
+affected individuals in an independent
+North American
+pedigree, ascertained by myotonia in a distribution of muscles characteristic of PMC. Both pedigrees possessed the
+same SCN4A
+haplotype on the disease chromosome,
+GA1 IGT6.
+
+a frequency of 25% in the normal population (McClatchey
+et al., 1992), we scanned 22 nondisease GAl/GTG chromosomes by PCR amplification of genomic DNA followed
+by direct sequencing. None displayed the candidate mutation. In addition, some affected individuals from the Belgian and North American families were homozygous for
+the GAlIGT6 haplotype but were heterozygous for the
+G-T transversion. Overall, the mutation was absent from
+79 control chromosomes representing the ten known dinucleotide repeat haplotypes for SCN4A, and from an addi-
+
+I
+
+I
+I
+
+Absence of the Candidate Mutation
+from Control Chromosomes
+To establish whether the base change was a polymorphism associated with the GAlIGT6 haplotype, which has
+
+Figure
+
+2. Belgian
+
+j---J
+2
+
+PMC Pedigree
+
+A three-generation
+pedigree
+is shown. Individuals known
+symbols.
+
+described
+in Van den Bergh et al. (1991)
+to suffer from PMC are shown as shaded
+
+Sodium
+771
+
+Channel
+
+Mutations
+
+in Paramyotonia
+
+Congenita
+
+Figure 3. Detection
+PMC Pedigree
+
+AGCTAGCTAGCTAGCT
+/.‘/4
+./_..
+:"t.i
+b...'
+..I -.
+-
+
+of Mutation
+
+in the Belgian
+
+DNA sequence analysis of the sodium channel
+gene region surrounding
+a putative PMC mutaAGCTAGCTAGCT
+tion is shown.
+Direct sequencing
+of an un2
+cloned PCR product containing a 105 bp exon
+of the skeletal muscle sodium channel gene
+was performed
+as described
+in Experimental
+Procedures.
+The panel at the left shows antisense seauence corresoondina
+to the left-hand
+portion ofthe exon shown in Figure 4, for indiII-2
+III-l
+II-I
+II-3
+II-2
+III-1
+c
+viduals II-Z, Ill-l, II-I, and h-3, respectively,
+from Figure 2. The right-hand panel shows the
+same region in the sense direction for individuals 11-2, Ill-l, and an unrelated normal control. All unaffected individuals display homozygous
+sequence
+while the affected individuals are heterozygous,
+possessing
+one chromosome
+with normal sequence
+and one bearing a G-T transversion
+(C-A
+antisense)
+reflecting transmission
+of the mutation from affected mother II-2 to her affected daughter,
+Ill-l. This mutation was seen in several
+independently
+generated PCR products from these affected individuals and from affected individuals in a second North American family with features
+of PMC. It was absent from a total of 140 control chromosomes
+assayed in the same manner.
+
+tional 61 normal chromosomes of undetermined
+haplotype, many of which were probably GAlIGT6, given its
+prevalence. Of the 140 non-PMC chromosomes tested,
+37 were from the normal Belgian population and 4 were
+disease chromosomes from independent HPP families,
+A Thr-Met
+Change in the Same Vicinity
+in an Independent
+PMC Pedigree
+In a larger North American PMC family, the disorder cosegregates (lod score i = 2.71 at I?I= 0.0) with a different
+SCN4A haplotype, GA4/GT8. The six affected members
+of this family did not possess the G-T transversion, but
+did reveal a discrete change in the same region of the III-IV
+cytoplasmic loop. A C-T transition (Figure 4) altered a
+Thr-Met,
+6 amino acids beyond the site of the Gly-Val
+change in the other PMC families (data not shown). This
+second candidate mutation affects an amino acid residue
+that is also common to all known sodium channels. The
+
+HUMAN
+
+SKEL.
+
+Discussion
+Several lines of evidence have indicated that the III-IV intracellular loop is crucial for normal sodium channel function.
+An analogous cytoplasmic structure in potassium channels
+appears to act as a “ball and chain” to block the channel
+pore (Hoshi et al., 1990). Antibodies to the III-IV intracellular
+domain of the sodium channel slow inactivation in both rat
+muscle cells and rat brain neurons (Vassilev et al., 1988,
+
+MVSCLE
+
+RAT
+
+SKEL.
+
+RAT
+
+BRAIN
+
+I
+
+RAT
+
+BRAlN
+
+II & ,,A
+
+RAT
+
+BRAIN
+
+111
+
+RAT
+
+CAROIAC
+
+EEL
+
+ELECTROPLAX
+
+MUSCLE
+
+MUSCLE
+
+DROSOPHILA
+
+PARA
+
+DROSOPHILA
+
+TYPE
+
+Figure
+
+change cosegregated with PMC in all members of the pedigree and was absent from 52 control chromosomes. The
+GA41GT8 haplotype is extremely rare in the normal population (<lo/o) and was unrepresented
+among our control
+chromosomes
+(McClatchey et al., 1992). Therefore, the
+unlikely possibility that this could represent a very rare
+polymorphism strictly associated with the GA4/GT8 haplotype cannot be formally excluded.
+
+FM TEEQKKYYNAMKKLGSKKPQKPIPR
+FM TEEQKKYYNAMKKLGSKKPQKPIPR
+FM TEEQKKYYNAMKKLGSKKPQKPIPR
+
+I
+
+4. DNA Sequence
+
+of a 105 bp Exon from the III-IV Cytoplasmic
+
+Loop Region
+
+The exon and splice junctions are shown for a human exon corresponding
+to most
+to amino acids 1298-1332
+of the rat skeletal muscle sodium channel sequence
+Below the DNA sequence
+is the predicted normal amino acid sequence for the
+other known sodium channels from rat, eel, and Drosophila
+(Noda et al., 1984,
+Loughney et al., 1989; Rogart et al., 1989; Trimmer et al., 1989; Kallen et al.,
+
+of the Human
+
+Skeletal
+
+Muscle
+
+Sodium
+
+Channel
+
+a Subunit Gene
+
+of the Ill-IV cytoplasmic
+loopof the sodium channel, corresponding
+(Trimmer et al., 1989). The sites of mutation in PMC are starred.
+entire III-IV cytoplasmic
+loop of the human channel and of several
+1988b; Salkoff et al., 1987; Kayano et al., 1988; Auld et al., 1988;
+1990). Residues
+identical to the human sequence
+are boxed.
+
+Cell
+772
+
+1989). When sodium channels are expressed in Xenopus
+oocytes, deletion or cleavage of the III-IV loop slows inactivation (Stuhmer et al., 1989). Moreover, activation of protein
+kinase C in sodium channel-expressing
+Chinese hamster
+ovary (CHO) cells causes a slowing of inactivation associated with the phosphorylation of a specific Ser residue in the
+III-IV loop (West et al., 1991). Recent studies focusing on the
+Ill-IV loop of the sodium channel and the analogous amino
+terminus of the K’ channel suggest a structural interaction
+between inactivating domains and parts of the channel involved in activation (Moorman et al., 1990; Bezanilla et al.,
+1991). In particular, exchanging a basic Arg residue for an
+acidic Glu residue in the rat brain Ill sodium channel Ill-IV
+loop affected both activation and inactivation of the channel
+(Moorman et al., 1990). Thus, this highly conserved structure
+appears to play a major role in all aspects of channel gating.
+The Gly-Val alteration and, most likely, the Thr-Met
+substitution that we report here in the cytoplasmic III-IV
+loop are associated with a temperature-sensitive
+clinical
+phenotype. The Gly affected is one of a pair of glycines
+present at this position in all sodium channels sequenced
+to date, including species as widely separated as man and
+Drosophila (Figure 4). The extraordinary
+conservation of
+this Gly-Gly pair implies that it is of critical functional importance, probably conferring flexibility to this domain of the
+sodium channel protein. We suggest that the substitution
+of the more rigid Val for Gly stiffens this normally flexible
+domain of the molecule, restricting its movement in response to changes in transmembrane
+potential (Schulz
+and Schirmer, 1979). At normal temperatures, this mutation has minimal clinical significance. However, even a
+minor drop in temperature may impede movement of the
+loop sufficiently to allow an abnormal Na+ flux.
+The Thr residue affected in the other PMC family is also
+remarkably conserved (Figure 4), though the effect of substituting the nonpolar Met for the polar Thr is less predictable. We have recently identified additional PMC families
+associated with neither the GAlIGT6 nor the GA4/GT8
+haplotype, suggesting that additional PMC mutations exist
+(A. I. M. et al., unpublished data). We anticipate that these
+will reside either in the III-IV cytoplasmic loop region or in
+a functionally similar or interacting domain.
+The discovery of mutations in SCN4A associated with
+PMC establishes this locus as the disease gene, as predicted from linkage studies. In view of the report of two
+different SCN4A mutations in HPP (PtBcek et al., 1991c;
+Rojas et al., 1991), our data also demonstrate that altering
+different domains of the sodium channel protein can produce distinctly different phenotypes. The HPP mutations,
+a Thr-Met
+change in S5 of domain II and a Met+Val
+change in S6 of domain IV, both affect transmembrane
+regions far from the Ill-IV cytoplasmic loop implicated in
+PMC. The SCN4A locus has also been proposed as a candidate gene in certain other neuromuscular
+disorders, including forms of myotonia congenita and the SchwarzJampel syndrome (Lehmann-Horn
+et al., 1990; laizzo et
+al., 1991). Thus, PMC may be one of an emerging group
+of distinct neuromuscular disorders arising from mutations
+in functionally disparate regions of this sodium channel.
+Their clinical manifestations
+demonstrate the extent to
+
+which environmental
+variables (e.g., temperature, extracellular K’) may modulate expression of a genetic defect
+(Engel, 1986). These intriguing neuromuscular
+disorders
+may be viewed as natural experiments providing clues
+to the relationship between the structure of this sodium
+channel and its function at the molecular, tissue, and organismal levels.
+Experimental Procedures
+PMC Families
+
+Diagnosis of PMC was based on standard criteria (Engel, 1986). The
+proband in the Belgian family (III-1 in Figure 2) manifests disabling
+muscle stiffness when exposed to cold, but has no history of any paralytic attacks (Van den Bergh et al. 1991). Neurologic
+signs include
+myotoniaof
+the eye, tongue, and arm muscles. Changes in compound
+muscle action potential characteristic
+of PMC were measured
+after
+muscle cooling. The North American family with the Gly-Val
+change
+comprises two affected siblings of German ancestry with severe myotonia (without dystrophy)
+predominantly
+affecting eyelid, finger, and toe
+muscles,
+a pattern characteristic
+of PMC. These patients describe
+chronic stiffness of affected muscles but have not noted aggravation
+of the myotonia by cold. Detailed physiological
+testing of cold sensitivity has not been possible for these individuals.
+The other PMC family,
+a North American pedigree of English ancestry,
+has six affected members who all suffer from cold-induced
+myotonia. For all families, affected and unaffected
+members donated blood samples, which were
+used for both direct DNA preparation
+(Seizinger et al., 1986; Raskind
+et al., 1991) and for initiation of permanent
+lymphoblastoid
+cell lines
+(Anderson and Gusella, 1984) as a permanent source of DNA (Gusella
+et al., 1979).
+PCR and Sequencing
+of SCN4A Mutations
+Detection of both mutations was accomplished
+by first PCR amplifying
+the exon shown m Figure 4 and then directly sequencfng
+the uncloned
+amplification
+product. Approximately
+100-200 ng of genomic DNA was
+amplified by PCR (40 cycles of 1 min at 94%; 2 min at 62%; 3 mm
+at 72OC) in a 50 ~1 reaction using Boehringer-Mannheim
+PCR buffer
+plus 400 PM deoxynucleoside
+triphosphate,
+2.5 U of Taq polymerase
+(Boehringer-Mannheim),
+and 50-75 ng of each of the following primers: primer 1, 5’-GGCTGCCTTAAAGGTGAGG-3’;
+primer 2, 5’GGTGGAAGGCAGGAAACC-3’.
+The product is 283 bp in size and contains
+the exon with flanking intron on both sides (A. I. M. et al., unpublished
+data). The PCA product was purified using Centricon
+30 (Amicon),
+and approximately
+one-fifth of the product was heat denatured
+and
+sequenced
+using a Sequenase
+kit (USE) and the protocol recommended by the supplier, with an internal primer, 5’.AATTGGCTTCTGAGGCTTCT-3’
+to read the antisense direction and Y-GAGGTGGGGGTGGTCCTGGA3’
+to read the sense direction (Sanger et al.,
+1977). Other exons were scanned for mutation by a stmilar method
+(A. I. M. et al., unpublished
+data).
+Acknowledgments
+We thank Dr. Jeffrey M. Sthaich for obtaining family data, and Hillary
+Lipe and John Wolff for excellent technical
+support. This work was
+supported
+by the NIH (NS22224 and NS24279, lo J. F. G.: NS26630,
+to M. A. P.-V.; and CA16448, to W. R. and T. B.), the Department
+of
+Veterans Affairs (T. B.), the Cecil B. Day Foundation
+(R. H. B.), the
+ALS Foundation (R. H. B.), the Pierre L. de Bourgknecht
+ALS Foundation (R. H. 6.). and the Muscular Dystrophy
+Association
+(R. H. B).
+The costs of publication
+of this article were defrayed
+in part by
+the payment of page charges. This article must therefore
+be hereby
+marked “advertisemenl’
+in accordance
+with 18 USC Section 1734
+solely to indicate this fact.
+Received
+
+December
+
+11, 1991; revised
+
+December
+
+31, 1991
+
+References
+Anderson,
+
+M. A., and Gusella,
+
+J. F. (1984).
+
+The use of cyclosporin
+
+A
+
+Sodium
+773
+
+Channel
+
+Mutations
+
+in establishing
+human
+Vitro 7 7, 856-858.
+
+in Paramyotonia
+
+EBV-transformed
+
+Congenita
+
+lymphoblastoid
+
+cell lines. In
+
+Auld, V. J., Goldin, A. L.. Krafte, D. S., Marshall, J., Dunn, J. M.,
+Catterall, W. A., Lester, H. A., Davidson,
+N.. and Dunn, R. J. (1988).
+A rat brain Na’channel
+a subunit with novel gating properties.
+Neuron
+7, 449-461.
+Barchi, R. L. (1988). Probing the molecular structure
+of the voltagedependent
+sodium channel. Annu. Rev. Neurosci.
+77,455-495.
+Bezanilla,
+Molecular
+channels.
+
+F., Perozo, E., Papazian,
+D. M., and Stefani,
+basis of gating charge immobilization
+in Shaker
+Science 254, 679-683.
+
+E. (1991).
+potassium
+
+tered single Na’ channel conductance
+and gating
+periodic paralysis.
+Pfluegers Arch. 478, 297-299.
+Loughney,
+of thepara
+1154.
+
+in hyperkalemic
+
+K., Kreber, R., and Ganetzky,
+B. (1989). Molecular analysis
+locus, a sodium channel gene in Drosophila. Cell 58,1143-
+
+McClatchey,
+A. I., Trofatter, J., McKenna-Yasek,
+D., Raskind, W., Bird,
+T., Pericak-Vance,
+M., Gilchrist, J.,Arahata,
+K., Radosavljevic,
+D., Van
+den Bergh, P., Haines, J. L., Gusella, J. F., and Brown, R. H., Jr. (1992).
+Dinucleotide
+repeat polymorphisms
+at the SCN4A locus suggest allelic
+heterogeneity
+of hyperkalemic
+periodic paralysis
+and paramyotonia
+congenita.
+Am. J. Hum. Genet., in press.
+
+Cannon, S. C., Brown, R. H., Jr., and Corey, D. P. (1991). A sodium
+channel defect in hyperkalemic
+periodic paralysis: potassium-induced
+failure of inactivation.
+Neuron 6, 619-626.
+
+Moorman, J. R., Kirsch, G. E., Brown, A. M., and Joho, R. H. (1990).
+Changes in sodium channel gating produced by point mutations in a
+cytoplasmic
+linker. Science 250, 688-691.
+
+Catterall,
+channels.
+
+Noda, M., Shimizu, S., Tanabe, T., Rakai, T., Kayano, T., Ikeda, T.,
+Takahashi,
+H., Nakayama,
+H., Kanaoka, Y., Miniamino, N., Kangawa,
+K., Natsuo, H., Raftery, M. A., Hirose, T., Inayama, S., Hayashida,
+H.,
+Miyata, T., and Numa, S. (1984). Primary structure
+of electrophorus
+electricus
+sodium channel deduced from cDNA sequences.
+Nature
+372, 121-127.
+
+W. A. (1986). Structure
+Science 242, 50-61.
+
+and function
+
+of voltage-sensitive
+
+ion
+
+Engel, A. G. (1986). Periodic paralysis.
+In Myology, A. G. Engel and
+B. 0. Banker, eds. (New York: McGraw-Hill),
+pp. 1843-1870.
+Fontaine,
+B., Khurana,
+T. S., Hoffman,
+E. P., Bruns, G., Haines,
+J. L., Trofatter, J., Hanson, M., Rich, J., McFarlane,
+H., Yasek, D. M.,
+Romano. D., Gusella, J., and Brown, R. H., Jr. (1990). Hyperkalemic
+periodic paralysis and the adult muscle sodium channel alpha-subunit
+gene. Science 250, 1000-1002.
+Goldin, A., Snutch, T., Lubbert, H., Dowsett, A., Marshall, J., Auld, V.,
+Downey, W., Fritz, L., Lester, H., Dunn, R., Catterall, W., and Davidson, N. (1986). Messenger
+RNA coding for only the a-subunit of the rat
+brain Na+ channel is sufficient for expression
+of functional channels in
+Xenopus oocytes.
+Proc. Natl. Acad. Sci. USA. 83, 7503-7507.
+Gusella, J. F., Varsanyi-Breiner,
+A., Kao, F. T., Jones, C.. Puck, T. T.,
+Keys, C., Orkin, S., and Housman,
+D. E. (1979). Precise localization
+of the human 8-globin gene complex on chromosome
+11. Proc. Natl.
+Acad. Sci. USA 76, 5239-5243.
+Hoshi, T.. Zagotta, W. N., and Aldrich, R. W. (1990).
+molecular mechanismsof
+Shaker potassium channel
+ence 250, 506-507.
+
+Biophysical
+inactivation.
+
+and
+Sci-
+
+laizzo, P. A., Franke, C., Hatt, H., Spittelmeister,
+W.. Ricker, K., Rudel,
+R., and Lehmann-Horn,
+F. (1991). Altered sodium channel behaviour
+causes myotonia in dominantly
+inherited myotonia congenita.
+Neuromust. Disorders
+7, 47-53.
+Kallen, R. G., Sheng, Z-H., Yang, J., Chen, L., Rogart, R. B., and
+Barchi, R. L. (1990). Primary structure
+and expression
+of a sodium
+channel characteristic
+of denervated
+and immature rat skeletal muscle. Neuron 4, 233-242.
+
+Noda, M., Ikeda, T., Suzuki, H., Takeshima,
+H., Takahashi,
+M., and Numa, S. (1986a). Expression
+of functional sodium
+from cloned cDNA. Nature 322, 826-828.
+
+T., Kuno,
+channels
+
+Noda, M., Ikeda, T., Kayano, T., Suzuki, H.. Takeshima,
+H., Kurasaki,
+M., Takahashi,
+H., and Numa, S. (1986b). Existence of distinct sodium
+channel messenger
+RNAs in rat brain. Nature 320. 188-192.
+Ptacek, L. J., Tyler, F., Trimmer, J. S., and Leppert, M. (1991 a). Analysis in a large hyperkalemic
+periodic paralysis pedigree supports tight
+linkage to a sodium channel locus. Am. J. Hum. Genet. 49,378-382.
+PtaEek, L. J., Trimmer, J. S., Agnew, W. S., Roberts, J. W., Petajan,
+J. H., and Leppert, M. (1991 b). Paramyotonia
+congenita and hyperkalemic periodic paralysis map to the same sodium channel gene locus.
+Am. J. Hum. Genet. 49, 651-854.
+Ptacek, L. J., George, A. L., Jr., Griggs, R. C., Tawil, R., Kallen, R. G.,
+Barchi, R. L.. Robertson,
+M., and Leppert, M. F. (1991~). Identification
+of a mutation in the gene causing hyperkalemic
+periodic paralysis. Cell
+67, 1021-1027.
+Raskind, W. H., Wijsman, E., Pagon, R. A., Cox, T. C., Bawden, M. J.,
+May, 8. K., and Bird, T. B. (1991). X-linked sideroblastic
+anemia and
+ataxia: linkage to phosphoglycerate
+kinase at Xq13. Am. J. Hum.
+Genet. 48, 335-341.
+
+of
+
+Rogart, R. B., Cribbs, L. L., Muglia, L. K., Kephart, D., and Kaiser,
+M. W. (1989). Molecular cloning of a putative terodotoxin-resistant
+rat
+heart Na’channel
+isoform. Proc. Natl. Acad. Sci. USA 86,8170-8174.
+
+Kayano, T., Noda, M.. Flockerzi.
+V., Takahashi,
+H., and Numa, S.
+(1988). Primary structure of rat brain sodium channel Ill deduced from
+the cDNA sequence.
+FEBS Lett. 228, 187-194.
+
+Rojas, C. V., Wang, J., Hoffman, E. P., Powell, B. R., and Brown, R. H.
+(1991). A methionine to valine mutation in the skeletal muscle sodium
+channel alpha-subunit
+in human hyperkalemic
+periodic paralysis. Nature, in press.
+
+Kandel, E. R., Schwartz,
+J. H., and Jessell, T. M. (1991).
+Neural Science, 3rd ed. (New York: Elsevier), p. 116.
+
+Principles
+
+Koch, M. C., Ricker, K., Otto, M., Grimm, T., Hoffman, E. P., Rudel,
+R.. Bender, K., 2011, B., Harper, P.S., and Lehmann-Horn,
+F. (1991a).
+Confirmation
+of linkage of hyperkalemic
+periodic paralysis to chromosome 17. J. Med. Genet. 28, 583-586.
+Koch, M. C., Ricker, K., Otto, M., Grimm, T., Bender, K., Zoll, B.,
+Harper,
+P. S., Lehmann-Horn,
+F., Rudel, R., and Hoffman,
+E. P.
+(1991 b). Linkage data suggesting
+allelic heterogeneity
+for paramyotonia congenita and hyperkalemic
+periodic paralysis on chromosome
+17. Hum. Genet., in press.
+Lehmann-Horn,
+F., Rudel, R., and Ricker, K. (1987a). Membrane defects in paramyotonia
+congenita (Eulenburg).
+Must. Nerve 70, 633641.
+Lehmann-Horn,
+F., Kuther, G., Ricker, K., Grafe, P., Ballanyi, K., and
+Rudel, R. (1967b). Adynamia episodica
+hereditaria
+with myotonia: a
+non-inactivating
+sodium current and the effect of extracellular
+pH.
+Must. Nerve 70, 363-374.
+Lehmann-Horn,
+F., laizzo, P. A., Franke, C., Hatt, l-t., and Spaans, F.
+(1990). Schwartz-Jampel
+syndrome:
+II, Sodium channel defect causes
+myotonia. Must. Nerve 73, 528-535.
+Lehmann-Horn,
+
+F., laizzo,
+
+P. A., Hatt, H., and Franke,
+
+C. (1991).
+
+Al-
+
+Salkoff, L., Butler, A., Scavarda,
+sequence of the putative sodium
+four homologous
+domains. Nucl.
+Sanger, F., Nicklen,
+with chain-terminating
+5467.
+
+N., and Wei, A. (1987) Nucleotide
+channel gene from Drosophila: the
+Acids Res. 75, 8569-8572.
+
+S., and Coulson, A. R. (1977). DNA sequencing
+inhibitors. Proc. Natl. Acad. Sci. USA 74,5463-
+
+Schulz, G. E., and Schirmer, R. H. (1979).
+ture (New York: Springer-Verlag),
+p. 11.
+
+Principlesof
+
+Protein
+
+Struc-
+
+Seizinger,
+B. R., Martuza, R. L., and Gusella, J. F. (1986). Loss of
+genes on chromosome
+22 in tumorigenesis
+of human acoustic neuroma. Nature 322, 664-667.
+Stuhmer, W., Conti, F., Suzuki, H., Wang, X., Noda, M., Yahagi, N.,
+Kubo, H., and Numa, S. (1989). Structural parts involved in activation
+and inactivation
+of the sodium channel. Nature 339, 597-603.
+Suzuki, H., Beckh, S., Kubo, H., Yahagi, N., Ishida, H., Kayano. T.,
+Noda, M., and Numa, S. (1988). Functional expression
+of cloned cDNA
+encoding sodium channel III. FEBS Lett. 228, 195-200.
+Trimmer, J. S., Cooperman,
+S. S.. Tomiko, S. A., Zhou, J., Crean,
+S. M., Boyle, M. B., Kallen, R. G., Sheng, Z’., Barchi, R. L.. Sigworth,
+F. J., Goodman,
+R. H., Agnew, W. S., and Mandel, G. (1989). Primary
+
+Cell
+774
+
+structure
+and functional expression
+sodium channel. Neuron 3, 33-49.
+
+of a mammalian
+
+skeletal
+
+muscle
+
+Van den Bergh, P., Van de Wyngaert,
+F., and Brucher, J. M. (1991).
+K’ sensitivity in pure paramyotoniacongenita.
+Neurology47
+(suppl. l),
+41 g-420.
+Vassrlev. P. M , Scheuer. T., and Catterall, W. A. (1988). Identification
+of an intracellular
+peptide segment involved in sodium channel inactivation. Science 247, 1658-1661.
+Vassilev, P. M., Scheuer, T., and Catterall, W. A. (1989). Inhibition of
+Inactivation
+of single sodium channels
+by a site-directed
+antibody.
+Proc. Natl. Acad. Sci. USA 86, 8147-8151.
+West, J. W., Numann, R.. Murphy, B. J., Scheuer, T., and Catterall,
+W. A. (1991). A phosphorylation
+site in the Na’ channel required for
+modification
+by protein kinase C. Science 254, 866-868.
+Note
+
+Added
+
+in Proof
+
+Srnce the submrssron
+of thus manuscript,
+we have detected
+the
+Thr-Met
+change rn the only available affected member of an independent PMC family.
+
+

@@ -6,7 +6,7 @@ from sklearn.svm import LinearSVC
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.ensemble import RandomForestClassifier
 
-indir = "../data/processed/"
+indir = "../data_sample/processed/"
 
 with open(indir + "bag_of_words.pkl", 'rb') as fin:
     bow = pickle.load(fin)  # doc-by-word count sparse matrix
@@ -23,23 +23,29 @@ bow = bow[labels_pos_ind.values,:]
 bow_rownames = list(compress(bow_rownames, labels_pos_ind.values))
 labels = labels[labels_pos_ind.values]
 
+# Ignore words whose DF does not fall within a given range
+max_df = 0.5
+min_df = 0.01
+df = (bow > 0).sum(axis=0) / len(bow_rownames)
+index = np.logical_and((df <= max_df), (df >= min_df)) # 13,255 words remain
+bow = bow[:, index.A1]
+bow_freq = bow
+
 # Take the topk tokens
-topk = 1000
-df = (bow > 0).sum(axis=0)
-bow = bow[:,(df > 0).A1]  # Remove words with zero occurance in the sub-corpus
-df = (bow > 0).sum(axis=0)
-tf = bow.sum(axis=0)
-idf = np.log( (len(bow_rownames) + 1) / df )
-tfidf = np.multiply(tf, idf)
+#topk = index.sum()
+#df = (bow > 0).sum(axis=0)
+#tf = bow.sum(axis=0)
+#idf = np.log( (len(bow_rownames) + 1) / df )
+#tfidf = np.multiply(tf, idf)
 # Select tokens based on TF-IDF
-cutoff = heapq.nlargest(topk, tfidf.A1.tolist())[topk-1]
-bow_freq = bow[:,(tfidf >= cutoff).A1]
+#cutoff = heapq.nlargest(topk, tfidf.A1.tolist())[topk-1]
+#bow_freq = bow[:,(tfidf >= cutoff).A1]
 # Select tokens based on DF
 #cutoff = heapq.nlargest(topk, df.A1.tolist())[topk-1]
 #bow_freq = bow[:,(df >= cutoff).A1]
 
 # Proportion of False labels (i.e. accuracy of an all-False classifier)
-false_prop = (labels == False).sum(axis=0) / labels.shape[0]
+#false_prop = (labels == False).sum(axis=0) / labels.shape[0]
 #false_prop.sort_values()
 
 

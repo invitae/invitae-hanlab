@@ -1,0 +1,796 @@
+Rapid Publication
+Mutations in the Ligand-binding Domain of the Androgen
+Receptor Gene Cluster in Two Regions of the Gene
+Michael J. McPhaul, Marco Marcelli, Sonia Zoppi, Carol M. Wilson, James E. Griffin, and Jean D. Wilson
+Department of Internal Medicine, The University of Texas Southwestern Medical Center, Dallas, Texas 75235-885 7
+
+Abstract
+We have analyzed the nucleotide sequence of the androgen receptor from 22 unrelated subjects with substitution mutations
+of the hormone-binding domain. Eleven had the phenotype of
+complete testicular feminization, four had incomplete testicular
+feminization, and seven had Reifenstein syndrome. The underlying functional defect in cultured skin fibroblasts included individuals with absent, qualitative, or quantitative defects in ligand binding. 19 of the 21 substitution mutations (90%) cluster
+in two regions that account for 35% of the hormone-binding
+domain, namely, between amino acids 726 and 772 and between
+amino acids 826 and 864. The fact that one of these regions is
+homologous to a region of the human thyroid hormone receptor
+(hTR-,B) which is a known cluster site for mutations that cause
+thyroid hormone resistance implies that this localization of mutations is not a coincidence. These regions of the androgen receptor may be of particular importance for the formation and
+function of the hormone-receptor complex. (J. Clin. Invest.
+1992. 90:2097-2101.) Key words: androgen receptor - mutation * steroid * resistance
+-
+
+-
+
+studying the functional properties in genital skin fibroblasts
+cultured from patients (3, 4). The cloning of cDNAs encoding
+the receptor protein (5-8) and the elucidation of the androgen
+receptor gene structure (9, 10) then made it possible to characterize the underlying mutations in molecular terms.
+Several categories of these mutations are now recognized.
+Deletion of the coding sequence for the gene (1 1, 12) or nucleotide substitutions that cause the insertion ofpremature termination codons (10, 13-15) result in the failure to form a functional protein, and hence cause profound androgen resistance
+associated with absent ligand binding in fibroblasts. In contrast, mutations that cause amino acid substitutions in the
+DNA-binding domain cause receptor positive androgen resistance in which ligand binding to the receptor is normal, but the
+hormone-receptor complex does not bind normally to DNA
+(16, 17). Mutations also occur in the androgen-binding domain
+of the receptor (18-23). In this study, we describe the localization of the mutation from 20 previously unreported subjects
+and from two previously studied subjects with mutations ofthe
+hormone-binding domain.
+Methods
+
+Introduction
+Like other members of the steroid-thyroid hormone-retinoid
+class of receptors, the androgen receptor contains three distinct
+domains: a hormone-binding region, a DNA-binding region,
+and an amino-terminal region (1). Mutations of the androgen
+receptor in 46,XY individuals cause a spectrum of androgenresistance syndromes, ranging from women with complete testicular feminization to men with infertility or minor degrees of
+undervirilization (2). In part because the gene that encodes the
+androgen receptor is X-linked, and hence mutations of the androgen receptor are expressed in hemizygous males, mutations
+of the human androgen receptor may be more common than
+mutations of all other receptors of this class combined. The
+mutant androgen receptors were initially characterized by
+This work has been reported in abstract form (1992. Clin. Res.
+40:25 1 A).
+Address correspondence to Michael J. McPhaul, M.D., Department of Internal Medicine, University of Texas Southwestern Medical
+Center, 5323 Harry Hines Blvd., Dallas, TX 75235-8857.
+Receivedfor publication 17 June 1992 and in revisedform 14 August 1992.
+J. Clin. Invest.
+© The American Society for Clinical Investigation, Inc.
+
+0021-9738/92/11/2097/05 $2.00
+Volume 90, November 1992, 2097-2101
+
+Clinical history and phenotype. The patients described in this study
+were referred by various physicians. Phenotype was established by the
+referring physicians or by the authors in selected instances (2). Two
+patients in this report have been reported separately, as noted in the
+legend to Table I.
+Characterization of receptor binding in cultured genital skin fibroblasts. Monolayer binding assays (2) were performed, and qualitative
+abnormalities of receptor binding (e.g., thermolability and dissociation
+rate) were characterized. For quantification of immunoreactive androgen receptor in fibroblasts, genital skin fibroblasts were scraped in PBS,
+pelleted, and homogenized in SDS-polyacrylamide gel loading buffer
+(24). The samples were electrophoresed on 7.5% SDS-polyacrylamide
+gels, transferred to nitrocellulose, and detected with an antibody directed at the amino terminus of the receptor protein (24).
+Androgen receptor gene analysis. Individual exons were amplified
+from 22 patients with various phenotypes (10). In 16 patients, the entire coding sequence of the androgen receptor gene was determined,
+with two exceptions. First, because of inaccuracies introduced during
+the amplification and cloning of the glutamine repeats, these analyses
+are only estimates of the size. In the case of the glycine repeats, sequencing has not been performed. In the remaining six patients, exons 2-8
+were completely sequenced.
+
+Results
+Characterization of ligand binding in genital skin fibroblast
+cultures show limited agreement with clinical phenotype. Androgen resistance is commonly associated with qualitative or
+quantitative abnormalities of receptor binding in genital skin
+Ligand-binding Domain Mutations of the Androgen Receptor
+
+2097
+
+Table I. Phenotypic and Biochemical Characteristics of Subjects with Androgen Resistance Caused by Amino Acid Substitutions
+in the Ligand-binding Domain ofthe Androgen Receptor
+Androgen receptor in genital skin fibroblasts
+Phenotype
+
+Strain
+
+Binding Bmax
+
+Thermolability
+
+Dissociation rate'
+
+Immunoreactivity*
+
+Mutation
+
+Exon
+
+P902H
+W739R
+R772C
+R829Q
+R853C
+F762L
+R838H
+R829Q
+Y832C
+V864E
+
+8
+5
+6
+7
+7
+5
+7
+7
+7
+7
+
+V9OlM
+A746D
+L726S
+V864M
+R838C
+R838H
+R838C
+R852K
+Y761C
+P764S
+
+8
+5
+5
+7
+7
+7
+7
+7
+5
+5
+
+R853H
+R853H
+
+7
+7
+
+(fmol/mg protein)
+
+Receptor binding negative
+14
+CTF
+69
+CTF
+105*
+CTF
+4061
+CTF
+511I
+CTF
+571
+CTF
+REIF
+593
+895
+CTF
+CTF
+909o
+420w
+CTF
+
+2.0
+27
+0.2
+3.5
+
+-
+
+0.3
+4.0
+2.6
+
+-
+
+0.7
+1.1
+0.8
+
+Qualitative abnormality of receptor binding
+REIF
+16"1
+16.3
+REIF
+48
+33.0
+Inc TF
+93
+10.0
+370
+13.2
+Inc TF
+REIF
+Inc TF
+REIF
+Inc TF
+REIF
+CTF
+
+604
+450
+691
+
+762§
+787**
+851
+
+22.5
+13.6
+9.9
+19.7
+24.0
+13.0
+
+Quantitative abnormality of receptor binding
+11.0
+855
+CTF
+REIF
+
+217
+
+77%
+86%
+
+-
+
+-
+
+49%
+98%
+6%
+38%
+-
+
+Noll
+Yes
+Yes
+Yes
+Yes
+No
+Yes
+Yes
+Yes
+No
+
+Abnormal
+-
+
+Abnormal
+Abnormal
+
+104%
+32%
+70%
+100%
+
+No
+
+Normal
+-
+
+100%
+80%
+
+8.4
+
+Abnormal
+Normal
+
+* Expressed as percentage of immunoreactivity compared to a normal genital skin fibroblast strain (704) expressing an average of 34 fmol/mg
+protein specific Sa-dihydrotestosterone binding (24). $ Previously reported in Ref. 19. § Patients in which only exons 2-8 of the coding
+sequence have been sequenced. "1Transformation-labile as previously described (25). 'Determined as described in Ref. 26. ** Previously reported in Ref. 20. Patients were classified clinically as complete testicular feminization (CTF), incomplete testicular feminization (Inc TF), or
+Reifenstein (REIF) (1). Monolayer binding "was performed in genital skin fibroblast cultures from each patient, and qualitative binding tests were
+performed as reviewed in Ref. 26. The location of the mutations are given using the single amino acid code and the numbering system of Tilley
+et al. (7). Dashes indicate that the tests have not been performed.
+
+fibroblasts (2). The term "receptor binding" used throughout
+this manuscript denotes abnormalities in hormone binding by
+the androgen receptor, in keeping with the classification
+scheme that we have previously used (I). Despite the utility of
+this methodology as a marker of androgen resistance, ligand
+binding assays do not uniformly correlate with patient phenotype. The group of mutations of the ligand-binding domain of
+the androgen receptor in this study (Table I) caused both female (complete or incomplete testicular feminization) and
+male phenotypes (Reifenstein syndrome). Furthermore, in cultured skin fibroblasts, these mutations were associated with
+absent (< 4 fmol/mg protein), reduced, or qualitative abnormalities of ligand binding.
+Mutations in the androgen receptor gene cluster in specific
+segments ofthe androgen receptor. The polymerase chain reaction was used to amplify the coding segment of the androgen
+receptor gene. This has permitted the nucleotide sequence analysis of the coding sequence in 22 subjects with mutations of the
+androgen-binding domain (Table I and Fig. 1). Amino acid
+2098
+
+McPhaul et al.
+
+substitutions causing receptor binding negative androgen resistance are present in the same regions of the hormone-binding
+
+domain responsible for qualitative abnormalities of the receptor protein. In both categories, most amino acid substitutions
+are localized in two specific regions of the hormone-binding
+domain: betweei amino acids 726 and 772 and between amino
+acids 829 and 853. This finding suggests that the distinction
+between qualitative and quantitative abnormalities of ligand
+binding is one of degree. That is, lesser perturbations of the
+structure ofthe hormone-binding domain cause qualitative abnormalities, whereas more marked disruption of the hormonebinding domain structure prevents ligand binding completely.
+However, the differences in phenotypic expression between
+patients cannot be explained solely by the different amino acid
+substitutions. Two unrelated individuals in this study (subjects
+450 and 593) each have the same amino acid substitution
+(R838H), and yet one (subject 450) had incomplete testicular
+feminization and the other (subject 593) had the Reifenstein
+phenotype. In like fashion, although patients 217 and 855 har-
+
+A
+621
+
+557
+
+917?
+
+690
+
+(726)
+L-
+
+(761)
+Y-C
+
+74)
+
+(852)
+R-C R-K
+
+Qualitative
+Receptor
+Binding
+V-M (901) Abnormalities
+
+R-HT1
+
+(764
+
+T-D
+KTK
+
+V-M
+
+, ,
+.
+
+(762)
+
+F79
+-T
+
+1,
+
+(S )
+(838)
+R-H
+(772) (832)
+
+R-C
+
+-
+
+Y-C
+
+a
+
+(853)
+R-C
+
+-
+
+(8)(902)
+-
+
+(88
+R
+
+-0
+
+P-H
+
+Receptor
+Binding
+Negative
+
+ceptor.
+
+HORMONE
+
+DNA
+
+BINDING DOMAINS
+
+B
+
+726
+
+772
+
+829
+
+acid 772 in the androgen receptor is a mutation that has been
+identified in several different pedigrees and is situated five
+amino acids from an amino acid residue that is mutated in the
+thyroid receptor-, in three families with thyroid hormone resistance. In addition, androgen receptor mutations at residues
+761, 762, and 746 are located in close proximity to mutations
+in the thyroid receptor-, causing thyroid hormone resistance at
+amino acid residues 305, 312, 317, and 327 in the thyroid re-
+
+864
+
+. .I
+
+Figure 1. Localization of amino acid substitutions in the
+hormone-binding domain of the androgen receptor that cause androgen resistance. (A) A schematic of the DNA- and hormone-binding
+domains of the normal androgen receptor gene is shown. The location
+of mutations in the ligand-binding domain for 10 subjects with qualitative receptor binding abnormalities and 10 subjects with receptor
+binding negative (androgen resistance; Table I) are shown. Two mutations (R853H) associated with a quantitative abnormality in receptor binding (Table I) are not shown on this schematic. (B) A histogram of amino acid substitution mutations in the hormone-binding
+domain of the androgen receptor described in this report (filled circles) and in other laboratories (open circles) (18, 21-23, 27). For the
+purposes of this diagram and discussion, all of the mutations have
+been assigned using the numbering system of Tilley et al (7). The two
+solid arrows indicate the relative position ofamino acid substitutions
+in the glucocorticoid receptor that are reported to cause glucocorticoid resistance (28, 29). The open arrow indicates the relative positions
+of an amino acid substitution reported to cause vitamin D resistance (30).
+
+bor the same mutation, one is classified as complete testicular
+feminization and the other as having the Reifenstein phenotype. These findings imply that genetic determinants outside
+the coding sequence of the androgen receptor can influence the
+function and/or stability of the receptor protein.
+A group ofmutations in the hormone-binding domain ofthe
+androgen receptor is centered on a region affected by mutations
+in the thyroid hormone receptor-beta. Amino acid substitutions
+in the hormone-binding domain of the thyroid receptor-f3 that
+cause generalized thyroid hormone resistance also cluster in
+two regions of the thyroid receptor hormone-binding domain
+(31, 32). When the predicted amino acid sequence of the ligand-binding domains of the androgen and thyroid hormone
+receptors are aligned, an interesting pattern emerges (Fig. 2).
+First, several mutations in the thyroid hormone receptor-3
+have no correlates in the androgen receptor. Likewise, many
+androgen receptor mutations are not paralleled by thyroid receptor mutations; this is particularly true for the cluster of androgen receptor mutations located between residues 829 and
+864. By contrast, the segment between residues 726 and 772 of
+the androgen receptor is homologous to an area of the thyroid
+hormone receptor (residues 310-342) in which several amino
+acid substitutions that cause thyroid hormone resistance are
+localized. The androgen receptor amino acid substitution at
+position 764 involves a residue that corresponds to a residue in
+the hTR-,3 that is mutated in two different families with thyroid
+hormone resistance. The amino acid substitution at amino
+
+Discussion
+Single amino acid substitution mutations ofthe ligand-binding
+domain of the androgen receptor can cause either absent (< 4
+fmol/mg protein), decreased, or qualitatively abnormal ligand
+binding in genital skin fibroblasts from patients with androgen
+resistance. Furthermore, these mutations can cause a spectrum
+of phenotypes, from women with complete or incomplete testicular feminization to men with Reifenstein syndrome (perineoscrotal hypospadias and gynecomastia). These variable phenotypes and ligand-binding characteristics appear to reflect the
+degree to which ligand binding and receptor function are
+disrupted by the various substitutions.
+The finding that 20 of 22 such mutations examined cluster
+in two relatively discrete regions of the hormone-binding domain is intriguing. Although the amino terminal boundary of
+the ligand-binding domain of the androgen receptor has not
+been determined, studies of the glucocorticoid receptor hormone-binding domain (33) and the definition of amino acid
+substitutions in the androgen receptor at residue 693 (22) that
+cause abnormalities of hormone binding in two patients with
+androgen resistance suggest that it extends at least to the area of
+residue 690. Using amino acid residue 690 as the amino terminal boundary of the hormone-binding domain would localize
+90% of the mutations in our patients to two segments that
+account for 20 and 15% of the coding sequences of the androgen-binding domain. This suggests that these regions are of
+particular importance for receptor function and for the stable
+association of receptor with ligand.
+It is possible, of course, that this clustering could be the
+result ofcoincidence or some type ofselection bias. Two observations make this unlikely. First, when the location of reported
+hormone-binding domain mutations from other patient collections (18,21-23) are compared with our own, there is predominance of mutations in these regions as well (see Fig. 1 B). Even
+the mutation causing androgen resistance in the Tfm rat (27)
+falls into the first of these segments. Second, comparison of the
+locations of mutations of the androgen receptor with mutations in the thyroid hormone receptor-,8 that have been reported to cause thyroid hormone resistance also suggests that
+the clustering is not a coincidence (31, 32). In both the thyroid
+and androgen receptors, two clusters of mutations are recognized. The locations of the carboxy-terminal mutations show
+little agreement, but the locations of the amino-terminal clusters (726-772 in the androgen receptor and 310-342 in the thyroid hormone receptor hTR-fl) are homologous, suggesting
+that this segment plays a critical role in the function of both
+receptor proteins. Although fewer in number, amino acid substitutions associated with glucocorticoid resistance (28,29) and
+vitamin D resistance (30) are positioned at near or within the
+clusters of mutations evident for the androgen receptor (see
+Fig. 1 B).
+-
+
+Ligand-binding Domain Mutations of the Androgen Receptor
+
+2099
+
+hAR ASSTTSPTEETTQKLTVSHIEG ...... YECQPIFLNVLEAIEPGVVCAGHDNNQPDSFA 696
+1
+....1
+:1 1:
+I 11
+1
+:
+hTR-p KPEPTDEEWELIKTVTEAHVATNAQGSHWKQKPKFLP. . EDIGQAPIVNAPEGGKVDLEA 263
+S
+
+D
+
+R
+
+t
+ft
+ALLSSLNELGERQLVHVVKWAKALPGFRNLHVDDQMAVIQYSWMGLMVFAMGWRSFTNVN
+
+756
+: :11 :11 11
+1 I :11: :: : 1::l: :
+:1: :
+hTR-P . . FSHFTKIITPAITRVVDFAKKLPMF'CELPCEDQIILLKGCCMEIMSLRAAVR. .YDPE 319
+hAR
+
+A
+
+T T
+
+T
+
+C
+
+CL S
+
+hAR SRMLYFAPDLVFNEYRMHKSRMYSQCVRMRHLSQEFGWLQITPQEFLCMKALLLFSIIPV 816
+:
+: .1:
+::::
+::..
+I. : :11:1
+I:
+:.
+
+hTR-P SETLTLNGEMAVIRGQLKNGGLGVVSDAIFDLGMSLSSFNLDDTEVALLQAVLLMSSDR. 378
+
+A
+
+s
+
+V R D E
+
+R R
+
+00 c
+
+hAR
+
+H H C
+
+M
+
+KH H
+
+E
+
+AFC
+V
+\M +
+vC
+DGLKNQKFFDELRMNYIKELDRIIACKRKNPTSCSRRFYQLTKLLDSVQPIARELHQFTF
+:: .
+
+11
+
+:::.I1.:::.:
+
+::
+
+1
+
+:
+
+I1: 1
+
+1
+
+876
+
+1
+
+hTR-P PGLACVERIEKYQDSFLLAFEHYINYRKHHVTHFWPKL..LMKVTDLRMIGACHASRF.. 434
+M
+
+H
+
+hAR DLLIKSHMVSVDFPEMMAEIISVQVPKILSGKVKPIYFHTQ*
+.
+:1.:: 1::
+I :1
+hTR-P LHMKVECPTELLPPLFLEVFED* ................
+
+i
+
+V
+
+T
+
+S
+
+H
+
+F & frame shift
+
+The significance of this clustering of mutations in two segments of the androgen receptor hormone-binding domain is
+not clear. The fact that all of these mutations are associated
+with abnormal receptor binding suggests that the two regions
+may define physical surfaces (e.g., a cleft) important for the
+interaction of the receptor with ligand.
+The observation that identical mutations in the androgen
+receptor gene are associated with different receptor binding
+defects or different clinical phenotypes is provocative. These
+differences are not caused by differences in the level of immunoreactive receptor detected in fibroblast cultures, suggesting
+that genetic determinants outside the androgen receptor coding
+segment are able to influence the function of the receptor.
+
+Acknowledgments
+We thank M. Herbst, E. Phan, and D. Allman for expert technical
+B. Hennis for her secretarial expertise.*
+assistance, and
+X
+This work was supported by grant DK-03892 from the National
+Institutes of Health, the Robert A. Welch Foundation (I-1090), and the
+Perot Family Foundation. M. Marcelli was supported by a grant
+awarded by the Endocrine Fellows Foundation.
+
+References
+1. Evans, R. M. 1988. The steroid and thyroid hormone receptor superfamily.
+Science (Wash. DC). 240:889-895.
+2. Griffin, J. E., and J. D. Wilson. 1989. The androgen resistance syndromes:
+5a-reductase deficiency, testicular feminization, and related disorders. In The
+Metabolic Basis of Inherited Disease, 6th edition. C. R. Scriver, A. L. Beaudet,
+W. S. Sly, and D. Valle, editors. McGraw-Hill Inc., New York, 1919-1944.
+3. Keenan, B. S., W. J. Meyer, A. J. Hadjian, H. W. Jones, and C. J. Migeon.
+1974. Syndrome of androgen insensitivity in man: absence of Sa-dihydrotestos-
+
+2100
+
+McPhaul et al.
+
+Figure 2. Alignment of ligand-binding domain
+mutations causing generalized thyroid hormone and androgen resistance. The predicted
+amino acid sequence of the human androgen
+receptor (hAR) is shown above, and that for the
+human thyroid receptor beta (h TR-f3) is shown
+below. The single amino acid code is used. The
+arrows and letters indicate the positions of
+amino acid substitutions. Vertical lines show
+identical amino acids, and two dots indicate
+conservative amino acid changes.
+
+terone binding proteiiin in skin fibroblasts. J. Clin. Endocrinol. & MetabL.
+4. Gffin, J. E., K. Punyashthiti, and J. D. Wilson. 1976. Dihydrotestosterone
+binding by cultured hui man fibroblasts. Comparison ofcells from control subjects
+with hereditary male Ipseudohermaphroditism due to androgen resistance. J.
+
+Clin. Invest. 57:1342-1 1351.
+)kontis, and S. Liao. 1988. Structural analysis of complementary DNA and amiLino acid sequences of human and rat androgen receptors.
+
+Proc. NatL. Acad. Sci. lUSA. 85:7211-7215.
+6. Lubahn, D. B., D 0. R. Joseph, M. Sar, J. Tan, H. N. Higgs, R. E. Larson, F. S.
+
+ion. 1988. The human androgen receptor: complementary
+
+deoxyribonucleic acid cloning, sequence analysis, and gene expression in prostate. Mol. Endocrinol. .2:1265-1275.
+7. Tilley, W. D., M. Marcelli, J. D. Wilson, and M. J. McPhaul. 1989. Characexpressiion of a cDNA encoding the human androgen receptor.
+tenrzation
+Proc. Nat!. and
+Acad. Sci. CUSA. 86:327-331.
+8. Trapman, J., P. 1 Klaassen, G. G. J. M. Kuiper, J. A. vander Korput, P. W.
+Faber, H. C. vanRooij, A. Geurts van Kessel, M. M. Voorhorst, E. Mulder, and
+A. 0. Brinkmann. 198118. Cloning structure and expression of a cDNA encoding
+the human androgen rc =ceptor. Biochem. Biophys. Res. Commun. 153:241-248.
+9. Lubahn, D. B., IT. R. Brown, J. A. Simental, H. N. Higgs, C. J. Migeon,
+E. M. Wilson, and F. S. French. 1989. Sequence of the intron/exon junctions of
+human androgen receptor gene and identification of a
+the cong
+regioninofa thfaheamily
+mutation
+with complete androgen insensitivity. Proc. NatL.
+Acad. Sci. USA. 86:95: 34-9538.
+10. Marcelli, M., WV. D. Tilley, C. M. Wilson, J. E. Griffin, J. D. Wilson, and
+M. J. McPhaul. 1990. 1Definition of the human androgen receptor gene structure
+permits the identificaticon of mutations that cause androgen resistance: premature
+termination of the receeptor protein at amino acid residue 588 causes complete
+androgen resistance. Mfol. Endocrinol. 4:1105-1116.
+I1l. Brown, T. R., D). B. Lubahn, E. M. Wilson, D. R. Joseph, F. S. French, and
+C. J. Migeon. 1988. De]letion ofthe steroid-binding domain ofthe human androgen receptor gene in onne family with complete androgen insensitivity syndrome:
+evidence for further gernetic heterogeneity in the syndrome. Proc. Nat!. Acad. Sci.
+USA. 85:8151-8155.
+12. Quigley, C. A.,, K. J. Friedman, A. Johnson, R. G. Lafreniere, L. M.
+Silverman, D. B. Luba hn, T. R. Brown, E. M. Wilson, H. F. Willard, and F. S.
+French. 1992. Complette deletion of the androgen receptor gene: definition ofthe
+null phenotype of the androgen insensitivity syndrome and determination of
+carrier status. J. Clin. IEndocrinol. & Metab. 74:927-933.
+13. Marcelli, M., WV. D. Tilley, C. M. Wilson, J. D. Wilson, J. E. Griffin, and
+
+~~~~~~~~~~~~~~~~point
+
+M. J. McPhaul. 1990. A single nucleotide substitution introduces a premature
+termination codon into the androgen receptor gene of a patient with receptor-negative androgen resistance. J. Clin. Invest. 85:1522-1528.
+14. Sai, T. J., S. Seino, C. S. Chang, M. Trifiro, L. Pinsky, A. Mhatre, M.
+Kaufman, B. Lambert, J. Trapman, A. 0. Brinkmann, et al. 1990. An exonic
+point mutation of the androgen receptor gene in a patient with complete androgen insensitivity. Am. J. Hum. Genet. 46:1095-1100.
+15. Trifiro, M., R. L. Prior, N. Sabbaghian, L. Pinsky, M. Kaufman, E. G.
+Nylen, D. D. Belsham, C. R. Greenberg, and K. Wrogemann. 1991. Amber
+mutation creates a diagnostic MaeI site in the androgen receptor gene of a family
+with complete androgen insensitivity. Am. J. Med. Genet. 40:493-499.
+16. Marcelli, M., S. Zoppi, P. B. Grino, J. E. Griffin, J. D. Wilson, and M. J.
+McPhaul. A mutation in the DNA-binding domain of the androgen receptorgene
+causes complete testicular feminization in a patient with receptor-positive androgen resistance. J. Clin. Invest. 87:1123-1126.
+17. Zoppi, S., M. Marcelli, J.-P. Deslypere, J. E. Griffin, J. D. Wilson, and
+M. J. McPhaul. 1992. Amino acid substitutions in the DNA-binding domain of
+the human androgen receptor are a frequent cause of receptor-positive androgen
+resistance. Mol. Endocrinol. 6:409-415.
+18. Brown, T. R., D. B. Lubahn, E. M. Wilson, F. S. French, C. J. Migeon, and
+J. L. Corden. 1990. Functional characterization of naturally occurring mutant
+androgen receptors from patients with complete androgen insensitivity. Mol.
+Endocrinol. 4:1759-1772.
+19. Marcelli, M., W. D. Tilley, S. Zoppi, J. E. Griffin, J. D. Wilson, and M. J.
+McPhaul. 1991. Androgen resistance associated with a mutation of the androgen
+receptor at amino acid 772 (Arg-.Cys) results from a combination of decreased
+messenger ribonucleic acid levels and impairment of receptor function. J. Clin.
+Endocrinol. & Metab. 73:318-325.
+20. McPhaul, M. J., M. Marcelli, W. D. Tilley, J. E. Griffin, R. F. Isidro-Gutierrez, and J. D. Wilson. 1991. Molecular basis of androgen resistance in a family
+with a qualitative abnormality of the androgen receptor and responsive to highdose androgen therapy. J. Clin. Invest. 87:1413-1421.
+21. DeBellis, A., C. A. Quigley, M. V. Lane, E. M. Wilson, and F. S. French.
+1992. Complete and partial androgen insensitivity syndromes due to point mutations in the androgen receptor gene. J. Cell. Biochem. Suppl. 16C:L307. (Abstr.)
+22. Ris-Stalpers, C., M. A. Trifiro, G. G. J. M. Kuiper, G. Jenster, G. Romalo,
+T. Sai, H. C. vanRooij, M. Kaufman, R. L. Rosenfield, S. Liao, et al. 1991.
+Substitution of aspartic acid-686 by histidine or asparagine in the human androgen receptor leads to a functionally inactive protein with altered hormone-binding characteristics. Mol. Endocrinol. 5:1562-1569.
+23. Nakao, R., M. Haji, T. Yanase, A. Ogo, R. Takayanagi, T. Katsube, Y.
+
+Fukumaki, and H. Nawata. 1992. A single amino acid substitution
+(Met786--oVal) in the steroid-binding domain ofhuman androgen receptor leads
+to complete androgen insensitivity syndrome. J. Clin. Endocrinol. & Metab.
+74:1152-1157.
+24. Wilson, C. M., J. E. Griffin, J. D. Wilson, M. Marcelli, S. Zoppi, and M. J.
+McPhaul. 1992. Immunoreactive androgen receptor expression in patients with
+androgen resistance. J. Clin. Endocrinol. & Metab. In press.
+25. Kovacs, W. J., J. E. Griffin, D. D. Weaver, B. R. Carlson, and J. D.
+Wilson. 1984. A mutation that causes lability of the androgen receptor under
+conditions that normally promote transformation to the DNA-binding state. J.
+Clin. Invest. 73:1095-1104.
+26. Grino, P. B., R. F. Isidro-Gutierrez, J. E. Griffin, and J. D. Wilson. 1989.
+Androgen resistance associated with a qualitative abnormality of the androgen
+receptor and responsive to high dose androgen therapy. J. Clin. Endocrinol. &
+Metab. 68:578-584.
+27. Yarbrough, W. G., V. E. Quarmby, J. A. Simental, D. R. Joseph, M. Sar,
+D. B. Lubahn, K. L. Olsen, F. S. French, and E. M. Wilson. 1990. A single base
+substitution in the androgen receptor gene causes androgen insensitivity in the
+testicular feminized rat. J. Biol. Chem. 265:8893-8900.
+28. Hurley, D. M., D. Accili, C. A. Stratakis, M. Karl, N. Vamvakopoulos, E.
+Rorer, K. Constantine, S. I. Taylor, and G. P. Chrousos. 1991. Point mutation
+causing a single amino acid substitution in the hormone-binding domain of the
+glucocorticoid receptor in familial glucocorticoid resistance. J. Clin. Invest.
+87:680-686.
+29. Brufsky, A. M., D. M. Malchoff, E. C. Javier, G. Reardon, D. Rowe, and
+C. D. Malchoff. 1990. A glucocorticoid receptor mutation in a subject with primary cortisol resistance. Trans. Assoc. Am. Physicians. 53:53-63.
+30. Malloy, P. J., M. R. Hughes, W. J. Pike, and D. Feldman. 1991. Vitamin
+D receptor mutations and hereditary 1,25-dihydroxyvitamin D resistant rickets.
+In Vitamin D, Gene Regulation Structure-Function Analysis and Clinical Applications. A. W. Norman, R. Bouillon, and M. Thomasset, editors. Walter de
+Gruyter, New York. 116-124.
+31. Parilla, R., J. Mixson, J. A. McPherson, J. H. McClaskey, and B. D.
+Weintraub. 1991. Characterization of seven novel mutations of the c-erb-A-,B
+gene in unrelated kindreds with generalized thyroid hormone resistance. Evidence for two "hot spots" regions in the ligand binding domain. J. Clin. Invest.
+88:2123-2130.
+32. Weiss, R. E., and S. Refetoff. 1992. Thyroid hormone resistance. Annu.
+Rev. Med. 43:363-375.
+33. Giguere, V., S. M. Hollenberg, M. G. Rosenfeld, and R. M. Evans. 1986.
+Functional domains of the human glucocorticoid receptor. Cell. 46:645-652.
+
+Ligand-binding Domain Mutations oftheAndrogen Receptor
+
+2101
+
+

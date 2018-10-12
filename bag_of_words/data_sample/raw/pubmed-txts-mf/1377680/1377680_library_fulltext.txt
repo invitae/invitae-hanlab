@@ -1,0 +1,1597 @@
+THEJOURNAL
+OF BIOLOGICAL
+CHEMISTRY
+(0 1992 by The American Society for Biochemistry and Molecular Biology, Inc.
+
+Vol. 267, No. 19, Issue of July 5, pp. 13229-13238,1992
+Printed in U.S A .
+
+Molecular Cloning of Human Mevalonate Kinaseand Identification of
+a Missense Mutation in theGenetic DiseaseMevalonic Aciduria*
+(Received for publication, January 28, 1992)
+
+Beverly L. SchaferS, Richard W. Bishop, Valerie J. Kratunis, StephenS. Kalinowski,
+Stephen T. Mosley, K. Michael Gibson§, and Richard D. Tanakan
+From the Department of Metabolic Diseases,the Bristol-Myers Squibb Pharmaceutical Research Institute,
+Princeton, New Jersey 08543-4000and the §Kimberly H. Courtwright and Joseph W. Summers Metabolic DiseaseCenter,
+Baylor University Medical Center, Dallas, Texas 75246
+
+Mevalonic aciduria is the first proposed inherited branes as well as a precursor for steroid hormones, vitamin
+disorder of the cholesterol/isoprene biosynthetic path- D, and bile acids. Regulation of cholesterol biosynthesis ocway in humans, and it is presumed to be caused by a curs principally at the step catalyzed by 3-hydroxy-3-methmutation in the gene coding for mevalonate kinase. ylglutaryl-CoA
+To
+reductase (1).However, other enzymes in the
+elucidate the molecular basis
+of this inherited disorder, pathway are also involved in regulation of cholesterol biosyna 2.0-kilobase human mevalonate kinase cDNA clone thesis. Recentevidence indicates thatmevalonate kinase (EC
+was isolated and sequenced. The 1188-base pair open 2.7.1.36; ATP(R)-mevalonate 5-phosphotransferase), the first
+reading framecoded for a 396-amino acid polypeptide
+enzyme in the pathway to
+follow 3-hydroxy-3-methylglutarylwith a deduced M, of 42,450. The predicted protein
+sequence displayedsimilarity tothose of galactokinase CoA reductase, canplay an importantregulatory role because
+and the yeast RARl protein, indicating that theymay its activity may be controlled by feedback inhibition (2-5).
+belong to a common gene family. Southern hybridiza- Geranyl pyrophosphate and farnesyl pyrophosphate (FPP)’
+tion studies demonstrated that the mevalonate kinase are distal intermediates in the cholesterol biosynthetic pathgene is located on human chomosome 12 andis a single way that inhibit mevalonate kinase activity by binding comenzyme (2, 3). This
+copy gene. No major rearrangements were detected in petitively at the ATP-binding site on the
+the mevalonic aciduria subject. The relative size (2 feedback inhibition is thought to function in the regulation
+kilobases) and amounts of human mevalonate kinase of the intracellular concentrationof FPP. When intracellular
+mRNA were not changed in mevalonic aciduria fibro- levels of FPP are elevated, feedback inhibition would block
+blasts. Approximately half of the mevalonic aciduria mevalonate kinase activity and curtail further
+F P P synthesis.
+cDNA clones encoding mevalonate kinase containeda Regulation of the intracellular concentration of F P P is imsingle base substitution(A to C)in thecoding regionat portant because F P P is a key intermediate at a branch point
+nucleotide 902 that changed an asparagine residue
+to in the pathway. In mammalian cells, FPP is a precursor for
+a threonine residue. The presence
+of this missense muthe biosynthesis of many vital cellular components such as
+tation was confirmed by polymerase chain reaction
+amplification and allele-specific hybridization of the cholesterol, dolichols, ubiquinones,farnesylated proteins, and
+genomic DNAs from the proband and the proband’s heme A (1, 6). Therefore, feedback regulation of mevalonate
+kinase activity may serve to maintain thesize of one or more
+father and brother. Similar analysis failed to detect
+intracellular pools of FPP that are used by multiple biosynthis mutation in the proband’s mother, seven normal
+subjects, or four additional mevalonic aciduria sub- thetic pathways.
+A mutation in the gene coding for mevalonate kinase
+is
+jects, indicating that the mutation
+does not represent a
+common gene polymorphism. Functional analysis of presumed to cause the geneticdisease mevalonic aciduria,
+the defect by transient expression confirmed that the which is the first proposed inherited disorder of the cholesmutation produced an enzyme with diminished activ- terol biosynthetic pathway in humans (7, 8). Mevalonic aciity. Our datasuggest that the index
+case is a compound duria is transmitted as an autosomal
+recessive trait, and there
+heterozygote for a mutation in the mevalonate kinase are at leastseven reported cases of this genetic disease (7, 9,
+gene.
+10). Cells taken from subjects with mevalonic aciduria have
+<lo% of the normal levels of mevalonate kinase activity (9,
+ll), andall subjects have massive accumulation of mevalonate
+in both their serum and urine (7,8,10). Inofspite
+the marked
+Cholesterol is an essential component
+of cellular mem- reduction in mevalonate kinase activity, subjects with meva* The costs of publication of this article were defrayed in part by lonic aciduria have nearly normal levels of serum cholesterol
+the payment of page charges. This article must therefore be hereby (7,8). Cells taken from these subjects also appear to synthemarked “advertisement” in accordance with 18 U.S.C. Section 1734 size nearly normal amountsof cholesterol (11,12). These data
+solely to indicate this fact.
+suggest that either the smallresidual amount of mevalonate
+The nucleotide sequence(s)reported in thispaperhas been submitted kinase activity in these
+cells is capable of maintaining normal
+to the GenBankTM/EMBL Data Bank with accessionnumber(s)
+rates
+of
+cholesterol
+biosynthesis
+or that a mutation in the
+“3468.
+loss of enzyme activity
+$ To whom correspondence should be addressed Dept. of Metabolic enzyme causes rapid denaturation and
+Diseases, the Bristol-Myers Squibb Pharmaceutical Research Inst., when cells are disrupted for enzymaticanalysis. The molecuP . 0. Box 4000, Princeton, NJ 08543-4000. Tel.: 609-252-6347; Fax:
+609-252-6802.
+B Present address: Dept. of Molecular Pharmacology, Arris Pharmaceutical Corp., South San Francisco, CA 94080.
+
+’ The abbreviations used are: FPP, farnesyl pyrophosphate; SDS,
+sodium dodecyl sulfate; bp, base pair(s); kb, kilobase(s); PCRs, polymerase chain reactions.
+
+13229
+
+13230
+
+Identification Missense
+of a Mutation
+
+lar defect causing this genetic disease is still unknown. As a
+first
+step
+in
+elucidating the molecular
+basis
+of this
+inherited disorder, we have isolated a cDNA clone coding for
+human mevalonate kinase, and we have used the DNA sequence to identify a mutation in themevalonate kinase gene
+from a subject with mevalonic aciduria.
+EXPERIMENTALPROCEDURES
+
+Materials-A human skin fibroblast XgtllcDNA library, a human
+B-lymphocyte Xgtll library, and Escherichia coliY1090 were purchased from Clontech. A Xgtll cDNA library (MKlT) derived from
+mRNA purified from fibroblasts of the mevalonic aciduria index case
+(Z. W.) was prepared by Invitrogen. Other materials were purchased
+from the manufacturers as follows: A.S.A.P. genomic DNA isolation
+kit, Boehringer Mannheim; oligo(dT)-cellulose, human genomic
+DNA, and M13mp18 and M13mp19 sequencing vectors, Pharmacia
+LKB Biotechnology Inc.; chromosomal test panel blots and SpeedHyb solution, Bios Corp.; Sequenase kit, U. S. Biochemical Corp.;
+GeneAmp DNA hybridization reagent kit, Perkin-Elmer Cetus Instruments; custom-synthesizedgel-purifiedoligonucleotides,
+The
+Midland Certified Reagent Co.; pGEM vectors and T7 DNA polymerase sequencing systemkits,Promega
+Biotec; minimalessential
+medium, Opti-MEM,lipofectin reagent, and DH5aF' competent
+cells,
+LifeTechnologies
+Inc., fetal calf serum, HyClone Laboratories;
+[a-'"PIdCTP (3000 Ci/mmol), [ T - ~ ' P ] ~ A T(7000
+P
+Ci/mmol), 35SdATP (3000 Ci/mmol), and (R)-[5-'4C]mevalonic acid 5-phosphate
+(58 mCi/mmol),Amersham Corp.; and [3H]mevalonolactone (27.5
+Ci/mmol), DuPont-New England Nuclear. The SV40-Ad2 construct
+was supplied by Yakov Gluzman (Cold Spring Harbor Laboratory),
+and the pCMV5 vector was a gift from David W. Russell (University
+of Texas Southwestern Medical Center, Dallas).
+Cell Lines-Normal fibroblasts and fibroblasts
+from the mevalonic
+aciduria index case (Z. W.) and the proband's family (mother, father,
+and brother) were transformed with an SV40-Ad2 construct (13).
+Cells were grown (at 37 "C in humidified air containing 5% CO,) in
+minimal essential medium supplemented with 10% fetal calf serum,
+100 units/ml penicillin, 100 pg/ml streptomycin, and 2 mM L-glutamine. Confluent monolayers of cells were rinsed twice with 5 ml of
+ice-cold phosphate-buffered saline, scraped into 2 ml of ice-cold
+phosphate-buffered saline, and collected by centrifugation at 1200 X
+g for 10 min at 4 "C. Cell pellets were frozen in dry ice/ethanol and
+stored a t -70 "C. COS-7 cells were grown under the same conditions
+in Dulbecco's modified Eagle's medium supplemented with 10% fetal
+calf serum, 100 units/ml penicillin, and 100 pg/ml streptomycin.
+Isolation of cDNA Clones-Approximately 1 X lo6 recombinants
+from both a human skin fibroblast cDNA library and B-lymphocyte
+cDNA library were screened with a full-length rat mevalonate kinase
+cDNA clone (14) radiolabeled by random priming (15) to a specific
+activity of 5 X 10' cpmlpg. Plaque hybridization was performed as
+described (14). The nitrocellulose filters were washed twice a t 68 "C
+with 2 X SSC (1 X SSC = 0.15 M NaCI, 0.015 M sodium citrate (pH
+7.0)) containing0.1% SDS andwashed twice with0.1 X SSC containing 0.1% SDS. Nine cDNA clones were isolated from the human skin
+fibroblast library, and six cDNA clones were isolated from the Blymphocyte library. Approximately 1 X lo6 recombinants from the
+M K l T (mevalonic aciduria) cDNA library were screened by the same
+procedure, and 12 cDNA clones were isolated. All cDNA inserts were
+subcloned into the pGEM-3Z vector for restriction enzyme mapping
+or into M13mp18 and M13mp19 for DNA sequencing.
+DNA Sequencing of cDNA Clones-The DNA sequence was determined by the dideoxynucleotide chain termination method (16). Sequencing reactions using Sequenase's modified T7 DNA polymerase
+were performed following the manufacturer'sprotocol. The DNA and
+protein sequences were aligned andcomparedtorat
+mevalonate
+kinase cDNA and protein sequencesusing the Intelligenetics and
+PCGene computer programs. The Swiss Protein and PIR databases
+were also searched for other proteins that show amino acid sequence
+similarity to humanmevalonate kinase.
+Southern Blot Analysis-Normal human genomic DNA (10pg) and
+genomic DNA isolated from fibroblasts from the mevalonic aciduria
+index case (Z. W.) were digested with restriction endonucleases. DNA
+fragments were separated by electrophoresis through a 1.0% agarose
+gel, transferred toa BioTrans nylon membrane, andcovalently linked
+using a UV Stratalinker. Each membrane was hybridized overnight
+at 42 "C with a radiolabeled EcoRIIPstI cDNA fragment (specific
+
+in Mevalonic Aciduria
+activity = 1 X 10' cpm/pg) that spans the entire human mevalonate
+kinase coding region. The hybridization solution contained50% formamide, 5 X SSPE (1 X SSPE = 0.15 M NaC1,0.25 M NaH2P04,1 mM
+EDTA), 5 X Denhardt's solution (1X Denhardt's = 0.2% Ficoll, 0.2%
+polyvinylpyrrolidone, 0.2% bovine serum albumin fraction V), 1%
+SDS, 1 mM NaPPi, and 100 pg/ml denatured salmon sperm DNA.
+The membranes were washed twice at 65 "C in 1 X SSC, 1%SDS
+and then twice a t 65 "C in 0.1 X SSC, 1% SDS. The BioTrans nylon
+membranes were dried, and theradiolabeled bands were visualized by
+autoradiography.
+RNA Blot Analysis-Poly(A)'
+RNAs(15 pg) were isolated(17)
+from normal human fibroblasts and fibroblasts from the mevalonic
+aciduria index case, electrophoresed on a1.2% agarose gel containing
+1.1% formaldehyde, and transferred to BioTrans nylon membranes.
+The RNA was cross-linkedto the membrane
+using aUV Stratalinker;
+prehybridized for 4 h
+at 42 "C in a solution containing 50% (v/v)
+formamide, 7% SDS, 0.25 M NaHP04 (pH 7.2), 0.25 M NaC1, 1 mM
+EDTA,and 100 pg/ml salmon sperm DNA; andthen hybridized
+overnight at 42 "C witharadiolabeled
+350-bp EcoRVIBglI DNA
+fragment (specific activity = 2 X lo8 cpm/pg) of the human mevalonate kinase cDNA clone. The membrane was washed twice a t 65 "C in
+0.25 M NaHPO, (pH 7.2), 0.5% SDS, and 1 mM EDTA; followed by
+two washes in 0.05 M NaHP04 (pH7.2), 0.5% SDS, and 1 mM EDTA
+a t 65 "C. The radiolabeled bands were visualized by autoradiography.
+The nitrocellulose membrane was stripped in boiling water and then
+rehybridized by the same method to an actin
+cDNA probe radiolabeled
+to a specific activity of 2 X 10' cpm/pg.
+Chromosomal Localization-Chromosomal test panel blots were
+obtained containing 5 pg each of genomic DNAs from 25 different
+hamster-humansomatic cell hybridlines. The samples had been
+digested with EcoRI restriction endonuclease, and the DNA fragments were separated by electrophoresis through a 1.0% agarose gel
+before transfer to nitrocellulose membranes. Following the manufacturer's protocol, the membranes were hybridized overnight a t 65 "C
+with a random-primed radiolabeled 430-bp PstIIEcoRI DNA fragment (specific activity - 1.1 X lo9cpm/pg) from the full-length human
+mevalonatekinasecDNAclone,washed
+at 65 "C, andautoradiographed.
+Polymerase Chain Reactions-Genomic DNAs from normal subjectsandthe
+mevalonicaciduriaindexcase
+were prepared from
+cultured cell lines. A208-bp region surrounding the putative mutation
+was amplified in these genomic DNA samples using oligonucleotide
+primers based on the sequence obtainedfromthehuman
+cDNA
+clones. A sense primer (5'-TGGGCATAGGACCTTGGCCT-3')
+and
+anantisenseprimer
+(5'-GAGGAGTGTGATGCCACAGCCAC-3')
+were synthesized and gel-purified. The polymerase chain reactions
+(PCRs) were performed on a Perkin-Elmer Cetus DNA thermal
+cycler
+using conditions described by the manufacturer (GeneAmp kit) with
+a 1 p~ concentration of each primer and 200 ng of genomic DNA
+templatein a100-pl reaction volume. Initially,the reaction was
+heated for 5 min at 95 "C for complete denaturation prior tocycling;
+35 cycles were then carried out witha cycle profile of 2 min a t 95 "C,
+1 min at 55 "C, and 2 min at 72 'C, with a final extension step at
+72 "C for 5 min. For direct DNAsequencing of the PCR product,five
+identical reactions were pooled, and thereaction product was precipitated with ethanol. The DNA was resuspended in 10 mM Tris (pH
+7.4), 1 mM EDTA and electrophoresed on a preparative 2% NuSieve
+agarose gel. The DNA was recovered with NA45 paper following the
+manufacturer's protocol. The purified DNA was sequenced directly
+with Promega's T7 DNA polymerase sequencing system kit using an
+internal
+primer
+the
+to
+sense strand
+(5"CAGCTTGCTGTGAAGTCCGC-3').Approximately
+500 ng of template DNA was
+added to 4 pmol of primer and heated to 98 "C for 8 min and then
+cooled a t room temperature for 1 min. Extensions were carried out
+on ice with theaddition of 0.5 pl of 35S-dATP, 1.0 pl of 0.1 M
+dithiothreitol, 2.0 p1 of diluted (1:lO) labeling mixture, 2.0 pl of 5 X
+sequencing buffer, and 2.0 pl of a dilution (1%)of T7 DNA polymerase. 3.5 pl of this mixture was removed andadded to a mixture
+containing 2.5 pl of each dideoxynucleotide triphosphate mixture.
+The reaction was incubated a t 37 "C for 3 min and was stopped with
+4 pl of the formamide dye mixture. The reactions were heated a t
+95 "C for5 minpriorto
+loadingon a 6% sequencing gel. The
+radiolabeled bands were visualized by autoradiography.
+Allele-specific Oligonucleotide Hybridization-Genomic DNA samples were prepared from both normal and
+mevalonicaciduria cell
+lines. PCR amplification of the DNA region containing the putative
+mutation was performed as described above. Approximately 200 ng
+
+Identification
+Missense
+a ofMutation
+of the DNA was dried down to a volume of 10 pl, and 1 pl of 5 N
+NaOH was added to denature each sample. The samples were then
+spotted onto BioTransnylon membranes and dried. Duplicatemembranes were prepared for hybridization with either the radiolabeled
+normal or mutant oligonucleotides. The membraneswere hybridized
+for 4 h at 55 ‘C in0.9 M NaCl, 0.2 M Tris (pH 8.01, 5 mM EDTA,
+0.5% dried milk, and 1%SDS with a 1.3 X 10’ cpm/ml concentration
+of either the normal oligonucleotide (5”ATTGACATGAACCAGCACCAT-3’)or the mutant (mevalonic aciduria)oligonucleotide
+(5’-ATTGACATGACCCAGCACCAT-3’)
+radiolabeled at the 5’-terminus with 32P.
+The blots were washed in 1 X SSC, 1%SDS at room
+temperature to remove background. The wash temperature was then
+increased to 60 or 65 ‘C for the normal and mutant probes, respectively. The radiolabeled bands were visualized by autoradiography.
+Transfection Analysis-Standard methods were used to construct
+the normal and mutant mevalonate kinase expression plasmids.
+Briefly, a 1.3-kb EcoRIIPstI fragment containingthe coding sequence
+of the normal human mevalonate kinase cDNA was inserted intothe
+eukaryotic expression vector pCMV5, a derivative of pCMV4 (18).
+The mutant expression construct was made by substituting into the
+normal expression construct a 821-bp EcoRVIPstI fragment from one
+of the mutant cDNAs obtained through the cDNA library screening.
+The sequence of the mutant insert was verified by automated sequencing using fluorescence-labeled primers (19) and a DNA Sequencer
+(Model 373A, Applied Biosystems, Inc.). Liposome-mediated transfection of COS-7 cells was performed according to the manufacturer.
+Subconfluent culturesin 100-mm dishes were transfected with 26 pg
+of the vector alone, the normal mevalonate kinase construct, or the
+mutant construct for 16 h in 7 ml of serum-free media. Following 40
+h of expression inminimal essential medium and 10% fetal calf
+serum, the cells were harvested in 250 pl of 100 mM KH,PO,, 10 mM
+dithiothreitol, 10 mM KF and lysed by sonication. Cellular debris was
+removed by centrifugation at 1000 X g for 5 min, and supernatant
+protein concentrations were determined (20). 20 pg of protein was
+used to measure mevalonate kinase activity by radiochemical assay
+(21). SDS-polyacrylamide gel electrophoresis and immunoblotting
+were as described (2) using 300 pg of protein and a polyclonal antibody
+
+in Mevalonic
+Aciduria
+
+13231
+
+otides until a SacI restriction site was reached. The DNA
+sequence of the remaining 950 nucleotides from the SacI site
+to the poly(A) tail of the 3.0-kb clone was identical to the
+full-length human cDNA sequence from nucleotides 886 to
+1972. The presence of a consensus splice site signal immediately 5’ of the SacI site
+suggests that the first
+2101 nucleotides
+are within the intron
+sequence derived from incomplete splicing of the mRNA (see Fig. 7). The DNAsequence of the
+intron region was used in later studies to
+produce primers for
+PCR amplification.
+Analysis of Deduced Amino Acid Sequence of Human Mevalonate Kinase-With a single residue gap inserted in the
+deduced amino acid sequence of rat mevalonate kinase, there
+was an 82%homology between the human and rat amino
+acid
+sequences (Fig. 1).The deduced molecular weight of human
+mevalonate kinase (42,450) is only slightly larger than the
+molecular weight of the rat enzyme (41,990). Based on the
+hydropathy profile, human mevalonate kinase, like rat mevalonate kinase, isa very hydrophobic protein, with an overall
+index of hydropathy of +0.06 (22); and hydrophobic amino
+acids compose 45% of the total amino acids. The consensus
+sequence for aputative ATP-binding site
+previously identified
+in ratmevalonate kinase is also present in the human
+enzyme
+(14).
+Protein Sequence Similarities-Computer-assisted searches
+of the Swiss Protein and PIR data
+basesidentified three
+regions in the protein sequence of human mevalonate kinase
+that showed strongidentitytotheamino
+acidsequences
+reported for galactokinase (23-26), the yeast RARl protein
+(27), the yeast GAL3 protein (28), and the yeast phosphomevalonate kinase protein (29). Region A spans 27 amino
+generated against purified
+rat mevalonate kinase. Therat mevalonate acids, region B spans 22 amino acids, and region C spans 12
+amino acids inlength (Fig. 2). Consensus sequences were
+kinase used as a standard was purified as described (2).
+identified in each region. When compared over the length of
+the protein, the relative locations of these motifs were also
+RESULTS
+found to be spatially conserved (Fig. 3), suggestive of a close
+Isolation and DNA Sequence Analysis of cDNA Clone Coding
+evolutionary linkage for these proteins.
+for Human Mevalonate Kinase-Six human mevalonate kiChromosomal Localization of Mevalonate Kinase-The
+nase cDNA clones (pHMK1-pHMK6) were initially isolated
+chromosomallocation of the mevalonatekinase gene was
+after screening 1 X IO6 recombinants from a human B-lymdetermined by hybridizing a radiolabeled PstIIEcoRI DNA
+phocyte cDNA library with the radiolabeled rat mevalonate
+kinase cDNA. The sizes of the cDNA inserts in these clones fragment of the humanmevalonate kinase cDNA to a Southranged from 3.0 to 1.6 kb. All of the cDNAs were subcloned ern blot containing DNA purified from 25 different hamsterinto sequencing vectors, and the DNA sequence was deter- human somatic cell hybrids. The PstIIEcoRI DNA fragment
+mined. The resulting DNA sequences were compared to the that derived from the 3”untranslatedregion of the cDNA did
+not cross-hybridize to the hamstergene homolog. The radioknown nucleotide sequence for rat mevalonate kinase (14);
+labeled cDNAhybridized to an -3-kb DNA fragmenton
+and althoughthere was strongconservation of theDNA
+sequence,each of the isolatedclones contained a deletion Southern blots from four hamster-human hybrid cell lines.
+ranging in size from 150 to 300 bp within the
+5‘-coding region. Comparison of the content of human chromosomes in these
+To obtain a full-length cDNA clone, a 1.6-kb cDNA insert hybrid cell lines versus cell lines that did not hybridize to the
+kinase gene
+from one of these clones was used to screen a human skin radiolabeled probe indicated that the mevalonate
+fibroblast cDNAlibrary. Nine clones were isolated after is located on human chromosome 12 (Table I). There were no
+screening 1 X lo6 recombinants, and the sizes of the cDNA discordant hybrid cell lines.
+Southern Hybridization Analysis of Genomic DNAs from
+inserts in these clones ranged from 2.0 kb to 500 bp. The
+DNA sequences of two different 2.0-kb cDNA inserts Normal and Mevalonic Aciduria Subjects-To determine if
+(pHMK101 and pHMK104) were determined (Fig. 1). The the mevalonic aciduria index case has a major rearrangement
+cDNA contained a 1188-bp open reading frame and
+coded for of the mevalonate kinase gene, genomic DNA was isolated
+from the proband
+a 396-amino acid polypeptide with a predicted M, of 42,450 from either normal fibroblasts or fibroblasts
+assuming translational initiation at the first methionine co- and digested with eight separate restriction endonucleases.
+don. The689-bp 3”untranslated region contained a consensus Southern blot hybridization studies showed identical restricDNAsamples, indicating that the
+polyadenylationsignal (AATAAA), and a poly(A) tail was tionfragmentsinboth
+reduced level of mevalonate kinase activity in the index case
+located 17 bp downstream from this site.
+One of the 3.0-kb cDNA clones (pHMK4) isolated from the does not resultfrom a major rearrangement of the mevalonate
+kinase gene (Fig. 4). Data using a smaller (122-bp) fragment
+B-lymphocyte cDNA library was also subcloned into a sequencing vector, and thenucleotide sequencewas determined. of radiolabeled cDNA forSouthern blot analysis also suggests
+There was no sequence conservation to the humanmevalon- that the genomicDNAcodingformevalonate
+kinase is a
+ate kinase cDNA sequence observed for the first 2101 nucle- single copy gene (data not shown).
+
+13232
+
+Identification of a Missense Mutationin Mevalonic Aciduria
+-91
+1
+
+CAAAACAAAAGGTAGTGGGGAGCTGCTCCGGCTTCGGCGCGGAGGGGCGGCGGCCGGGGAGGCGGCGGCGGCGGCAGGATTCCCAGGAGCC
+
+ATGTTGTCAGAAGTCCTACTGGTGTCTGCTCCGGGGAAAGTCATCCTTCATGGAGAACATGCCGTGGTACATGGCAAGGTAGCACTGGCT
+METLeuSerGluValLeuLeuValSerRlaProGlyLysValIleLeuHi~GlyGluHisAlaValValH~~GlyLy~V~lAl~LeuAl~
+30
+.
+
+91
+
+.
+
+f
+
+*
+
+l
+
+~
+
+~
+
+*
+
++
+
+~
+
+*
+
+.
+
+.
+
++
+
+f
+
+.
+
+*
+
+.
+
+~
+
+*
+
+~
+
+.
+
+.
+
+GTATCCTTGAACTTGAGAACATTCCTCCGGCTTCAACCCCACAGCAATGGGAAAGTGGACCTCAGCTTACCCAACATTGGTATCAAGCGG
+V ~ l S e r L e U A 9 n L e ~ A ~ q T h r P h e L e u A r g L e u A r q L e u G l ~ P ~ o H i ~ S ~ r A s n G l y L y ~ V ~ l A ~ p L e ~ S e r L e u P r ~ A ~ ~ l l e G60l y I l e L y ~ A ~ q
+* Ala * *
+Val
+Arg
+Gln
+* * * * Ser * Asn
+* Val
+* Gln
+f
+
+f
+
+f
+
+f
+
+181
+
+GCCT~GGATGTGGCCAGGCTTCAGTCACTGGACACAAGCTTTCTGGAGC~GGTGATGTCACAACACCCACCTCAGAGCAAGTGGAGAAG
+AlaTrpAspValAlaArgLeuGlnSerLeuAspThrSerPheLeuGluGlnGlyAspValThrTh~P~oTh~SerGluGlnValGl~Lys 90
+Val
+* *
+Thr
+Leu *
+Gly *
+* *
+ProAla *
+Leu * * Leu
+*
+
+271
+
+CTAAAGGAGGTTGCAGGCTTGCCTGACGACTGTGCTGTCACCGAGCGCCTGGCTGTGCTGGCCTTTCTTTACTTATACCTGTCCATCTGC
+LeuLy~GluValAlaGlyLeuProA~pA~pCysAlaValTh~GluArqLeuAlaValLeuAlaPheLeuTy~LeuTy~LeuSerIleCys
+120
+* Lys
+* * Arg
+* ValGlyAsn
+Gly * SerLeU *
+*
+*
+* Ala * *
+
+361
+
+CGGAAGCAGAGGGCCCTGCCGAGCCTGGATATCGTAGTGTGGTCGGAGCTGCCCCCCGGGGCGGGCTTGGGCTCCAGCGCCGCCTACTCG
+ArgLySGlnArgAlaLeuProSerLeuA~pIleValValTr~Se~GluLeuP~oProGlyAlaGlyLeuGlySe~Se~AlaAlaTy~Ser
+150
++ ~ ~ ' ~ ~ ~ ' * ' " " e ~ , ~ ' * ' * . * . * * * ~ * ~ ~ * *
+
+451
+
+GTGTGTCTGGCAGCAGCCCTCCTGACTGTGTGCGAGGAGATCCCAAACCCGCTGAAGGACGGGGATTGCGTCAACAGGTGGACCAAGGAG
+
+f
+
+f
+
+f
+
+FIG. 1. Nucleotide and predicted
+of human
+amino acidsequences
+mevalonate kinase and comparison
+to rat mevalonate kinase. Nucleotides
+and aminoacids are numberedto theleft
+and right, respectively, with position 1
+being assignedto the first
+nucleotide and
+residue of the coding sequence.The consensus polyadenylation
+signal
+(AATAAA) is underlined. Thesite of the
+missense mutation is indicated (6)a t
+nucleotide 902. Theprotein sequences
+are shown in single letter code. The human and rat mevalonate kinase protein
+sequenceshavebeenaligned
+withthe
+introduction of a single gap a t residue
+394 to maximize identity. Asterisks denote identical amino acids. The two sequencessharedan
+overall identity of
+82%.
+
+ValCysLeuAlaAlaAlaLeuLeuThrValCysGluGluIleProAsnProLeuLysA~pGlyA~pCysValAsnA~qT~pThrLysGl~
+180
+Val *
+* * * * Ala
+ValThr * *
+ArgGlySerIleGlySer * ProGlu
+
+.
+
+.
+
+.
+
+.
+
+54
+
+1GATTTGGAGCTAATTAACAAGTGGGCCTTCCAAGGGGAGAGAATGATTCACGGGAACCCCTCCGGAGTGGACAATGCTGTCAGCACCTGG
+A s p L e u G l U L e U I l e A s n L y s T r p A l a P h e G l n C l y G l y G l ~ A r g M e t I l e H i ~ G l y A ~ ~ P ~ ~ S e ~ G l y V a l A ~ p A ~ ~ A l ~210
+V~lSerTh~T~p
+f
+t LysSer *
+* I t
+TyrGIU * *
+Val
+1
+f
+*
+f
+Ser f 1
+1
+
+631
+
+GGAGGAGCCCTCCGATACCATCAAGGGAAGATTTCATCCTTAAAGAGGTCGCCAGCTCTCCAGATCCTGCTGACCAACACCAAAGTCCCT
+GlyGlyAlaLeuArqTyrHisGlnGlyLysIleSerSerLe~Ly~ArqSerProAlaLeuGlnIleLeuLeuThrAsnThrLysValP~o 2 4 0
+II
+* t +Gin+ * "et'
+II
+f
+t
+*Leu'
+t
+f
+* f 1/ II * * t II *
+
+121
+
+CGCAATACCAGGGCCCTTGTGGCTGGCGTCAGAAACA~CTGCTCAAGTTCCCAGAGATCGTGGCCCCCCTCCTGACCTCAATAGATGCC
+ArgAsnThrArqAlaLeuValAlaGlyValArgAsnA~qLeuLeuLysPheP~oGluIleValAl~P~oLeuLeuTh~SerIleAspAla
+270
+I
+f
++ ' S e r i* I l e +
+*
++Met'
+* *
+*
+f
+'Ser*Lys*
+
+811
+
+ATCTCCCTGGAGTGTGAGCGCGTGCTGGGAGAGATGGGGGAAGCCCCAGCCCCGGAGCAGTACCTCGTGCTGGAAGAGCTCATTGACATG
+IleSerLeuGlUCysGluArgValLeuGlyGluMetGlyGluAlaProAlaProGluGlnTyrLeuValLeuG~uGl~LeuIleAspMet 30 0
+* f *
+* . A l a A l a *' V a l *
+* * t
+f
+f
+*
+'Met.
+*
+
+901
+
+AACCAGCACCATCTGAATGCCCTCGGCGTGGGCCACGCCTCTCTGGACCAGCTCTGCCAGGTGACCAGGGCCCGCGGACTTCACAGCAAG
+
+f
+
+f
+
+f
+
+f
+
+.
+
+330
+AsnGlnHisHisLeuAsnAlaLeuGlyValGlyHisAlaSerLeuA~pGl~LeuCy~GlnValThrArqAlaArqGlyLeuHisSe~Lys
+*
+
+991
+
+*
+
+.
+
+.
+
+"
+
+'
+
+*
+
+"
+
+*
+
+*
+
++
+
+*
+
+"
+
+*
+
+1
+
+*
+
+'
+
+*
+
+,
+
+A
+
+l
+
+=
+
+,
+
+H
+
+~
+
+~
+
+*
+
+~
+
+*
+
+*
+
+*
+
+CTGACTGGCGCAGGCGGTGGTGGCTGTGGCATCACACTCCTCAAGCCAGGGCTGGAGCAGCCAGAAGTGGA~CCACGAAGCAGGCCCTG
+360
+LeuThrGlyAlaGlyGlyGlyGlyCysGlyIleThrLeuLeuLy~P~oGlyLeuGluGl~ProGl~V~lGluAlaThrLysGlnAlaLeu
+* * * * t
+I
+II
+I
+t
+I
+1
+L
+t
+f
+II
+f
++ArgAlaLys*
++Ala*
+.
+I
+t
+
+1081 ACCAGCTGTGGCTTTGACTGCTTGGAAACCAGCATCGGTGCCCCCGGCGTCTCCATCCACTCAGCCACCTCCCTGGACAGCCGAGTCCAG
+ThrSe~CysGlyPheASpCysLeuGluThrSerIleGlyAlaProGlyValSerIleHlsSerAlaTh~SerLeuAspSerAr~ValGln390
+* Gly
+* * *
+Trp * * *
+* * *
+* * Met
+* *
+IleGluAspPro
+Arq
+1111 CAAGCCCTGGATGGCCTCTGAGAGGAGCCCACGACACTGCAGCCCCACCCAGATGCCCCTTTCTGGATTATTCTGGGGGCTGCAGTTCGA
+GlnAlaLeuAspGlyLeu...
+
+* . * _ , *
+
+396
+
+1261 CTCTGTGCTGGCCAGCGAGCGCCCAGCTCCTGACACTGCTGGAGAGGCCCCAGCCGCTTGGCGATGCCAGCCAAGCTCTGCAGTCCCAGC
+1351 GGTGGGACCTAGGGAGGCATGGTCTGCCCTCTGCATCCTCTGGAGCCAGCCGAGCAGGAGGCCTAGGAGGGTCCTCTGAGACTCCAGACC
+1441 TGAGGCGAGAAGGGCTGCTTCCCTGAAGCTCCCACAGTCCCATCTGCTTCAGGCCCCCGCCTTGGCCTGTGTTCTTCCTGGCCGCCTGGG
+1531 TCCAATGCTCAGGTGCTGGGGCCTGGTTCCCGGAGAAGTGTGCCTTCTCTCTCCCTTTTCAGGGACGGCCCCCTGTCTCTCAGGGCCAGG
+1621 CCTCTCCCTCCTCCAGGAAGCCTTCCCCTACCCCTTGTCGCCCCTCCCTCCCAGAGCACCTGCTGTCTGGGTGGC~CACTCAGCACTTGG
+1711 CCCTTCTACCTAGCGGGATGGGGCTCCCCCAGGGGCTGTCCCGGAGGCGGTG~CCTGGTTAAATAAGGCAGTGTGGCCTTGGTTTATA
+1801 GCACTTTCTTCCGATCTGTACCTGAGAGGTTTGTGGAAAAGATGGCAAATGGGG~AGATTTTGTGTcAAC(A)n
+
+MeualonateKinasemRNA-To
+determinethe size and full-length sequence corresponding to the normalmevalonate
+relative levels of mevalonate kinase mRNA, a Northern blot kinase. However, 4 of the 12 cDNA inserts contained a single
+was preparedusing poly(A)+RNA isolated fromeither normal base pair substitution in the coding region (nucleotide 902)
+fibroblasts or fibroblasts from the mevalonic aciduria index that replaced a n adenine witha cytosine (the remainingclones
+case. The size of humanmevalonate kinase mRNA from contained partialsequences only).The effect of this transvernormal and mevalonic aciduria samples (Fig. 5, lanes I and 2, sion was tochangeanasparagine
+residue to a threonine
+respectively) is -2.0 kb, which is identical to the
+size reported residue, which resulted in the elimination of a predicted pfor rat mevalonate kinase mRNA (14). Normalization to the turn in thesecondary structure of the protein (Fig. 6).
+Sequence Analysis of Normal Human Genomic DNA and
+levels of actin mRNA (lanes 3 and 4)showed that therelative
+abundance of mevalonate kinase mRNA was similar in both Fibroblasts from Mevalonic Aciduria Patient-To confirm the
+normal and mevalonic aciduria cells. In contrast, mevalonate A to C nucleotide substitution and to ensure that presence
+its
+kinase activities measured by a radiochemical assay (21) were in thecDNA clones wasnot the resultof an artifactproduced
+19.9 and 0.28 pmol/min/mg of protein ( n = 2) in the normal duringconstruction of the MKlT cDNAlibrary, normal
+and mevalonic aciduria cells, respectively.
+human genomic DNA as well as genomic DNA isolated from
+Isolation and D N A Sequence Analysis of Meualonate Kinasefibroblasts from the mevalonic aciduria index case were secDNA Clone from Subject with Mevalonic Aciduria-AcDNA quenced. The 208-bp region surrounding the putative mutalibrary was prepared from mRNA purified from fibroblasts tion was amplified from genomic DNAby PCR, and the
+from themevalonic aciduria index case. Twelve cDNA clones nucleotide sequence was determined (Fig. 7). The sequence
+(pMKlT1-pMKlT12) were obtained after screening 1 x lo6 obtained from themevalonic aciduria genomic DNA confirms
+recombinants with a radiolabeled normal human mevalonate the presence of the missense mutation at nucleotide 902 and
+kinase cDNA insert (pHMK101). ThecDNA inserts in these also demonstrates that the patient is a heterozygote for the
+clonesranged in size from 880 bpto 2.0 kb. The DNA allele containing the A to C mutation.
+Identification of Missense Mutation by Allele-specific Oligosequences were aligned with the normal human mevalonate
+kinase cDNA sequence. Two of the cDNA inserts contained nucleotide Hybridization-To determine whether the A to C
+
+*
+
+13233
+
+Identification of a Missense Mutationin Mevalonic Aciduria
+REGION A_
+KINASE MEV
+RAT
+KINASE
+MEVHUMAN
+E . c o l KINASE
+i GAL
+S. c e r e v i s i a e GALKINASE(GAL
+S t r e p t o m y c e s S p . GAL
+KINASE
+K. marxianus KINASE
+GAL
+S. c e r e v i s i a e R A R l
+S. c e r e v i s i a e GAL3
+S. c e r e v i s i a e P-MEV
+KINASE
+
+1)
+
+-
+
+:
+:
+:
+:
+:
+:
+:
+:
+:
+
+(1)
+(1)
+(16)
+(41)
+( 18
+(31)
+(1)
+(35)
+(1)
+
+: (34)
+: (34)
+
+GYPATHTI
+DAKPDFVA
+GR~RGCGR
+DSRKFFITR
+
+: (49)
+
+: (74)
+: (51)
+
+"HLPFLTS
+
+HVNLILSLG
+-@LRAFS
+
+D F S ~ L A I D
+DTKYEAFVVGL
+
+:
+:
+:
+:
+
+(64)
+(33)
+(68)
+(33)
+
+- -0- - - - - - A P G R V N L I G E H - D Y - - - - V L - - - - -
+
+CONSENSUS
+
+RAT MEV KINASE
+n u w MEV KINASE
+E . c o l i GAL KINASE
+S. c e r e v i s i a e GAL KINASE (GAL
+S t r e p t o m y c e s S p . GAL KINASE
+X. marxianus GAL KINASE
+S. c e r e v i s i a e R A R l
+S. c e r e v i s i a e G A L 3
+S. c e r e v i s i a e P - m v KINASE
+
+EgjzK
+
+: (158)
+: (158)
+
+: (142)
+: (183)
+
+1)
+
+: (142)
+
+: (170)
+: (161)
+: (176)
+
+: (170)
+
+""_
+
+CONSENSUS
+
+S--P---GLGSSAA--V----A-S
+
+BEGION
+
+C
+
+RAT MEV KINASE
+HUMAN MEV KINASE
+E . c o l iKINASE
+GAL
+S. c e r e v i s i a e GALKINASE(GAL
+Streptomyces
+sp. GAL KINASE
+S. c e r e v i s i a e RARl
+CONSENSUS
+
+: (323)
+
+1)
+
+: (323)
+: (323)
+: (456)
+: ( 32 3 )
+
+: (341)
+
+AAHGLHSK
+RARGLHSK
+IGDKGGVR
+SNGSYGSR
+GLRGPRRR
+DLRIGSTK
+
+: (351)
+
+: (351)
+: (351)
+: (484)
+: (351)
+: (369)
+
+---------TG-G-GGC---L--------
+
+FIG. 2. Protein sequence conservation found in the three regions of human mevalonate kinase. Shown are the three regions of
+in parentheses represent the positions
+protein sequence homology, regionsA-C. Amino acids are shown in single letter code, and numbers
+the
+in the aminoacid sequence for each protein. Amino acids presenta t a given position in 50% or more of the sequences areboxed and shaded,
+and the consensus amino acid sequence is shown below each region. MEV, mevalonate; GAL, galactokinase; P-MEV, phosphomevalonate.
+The amino acid sequence shown for
+Kluyueromyces marxianus represents only a fragmentof the galactokinase.
+
+was spotted onto duplicate BioTransnylon membranes. The
+membranes were then hybridizedwith allele-specific endlabeledoligonucleotideprobes to discriminate between the
+normal sequence orthe sequence containingthe A to C
+HMK
+substitution. As shown in Fig. 8, seven different samples of
+RMK
+normal genomic DNA sampleswere negative for the mutation
+in additionto genomicDNA samples fromfour different
+EGK
+subjects with mevalonic aciduria. However, hybridization of
+the oligonucleotide with the mutation to
+genomic DNAs from
+YGK
+the proband (Z. W.) and the proband's father and brother
+confirmed the presence of the point mutation in these subSGK
+jects, whereas the proband's mother was negative. Hybridization of the oligonucleotidewith the normal sequence to
+RARl
+genomic DNA from the proband indicated that the
+index case
+is a compound heterozygote.
+YGAL3
+Transient Expression of Normal and Mutant Mevalonate
+Kinases-Although
+themutation identified inthepatient
+YPMK
+with mevalonicaciduria displayed mendelian inheritance,verrequired expresFIG. 3. Spatial arrangement of three conserved regions of ification of this defect as the causative agent
+protein sequence. Regions A-C of conserved protein sequence are sional analysis. To this end, mutant and normalcDNAs were
+represented by solid, hatched, and checkered boxes, respectively. T h e inserted into the
+expressionvectorpCMV5
+and expressed
+approximate residue number for each protein is shown at the top.
+transiently in COS-7 cells (18). Fig. 9 shows the typical
+H M K , human mevalonate kinase;RMK, rat mevalonate kinase;EGK,
+enzyme activity and proteinlevels (inset) expressed from the
+E. coli galactokinase; YGK, yeast galactokinase; SGK, Streptomyces
+galactokinase; RARI, yeastRARlprotein;
+YGAW, yeast GALS; two constructs. Usinga polyclonalantibody generated against
+Y P M K , yeast phosphomevalonate kinase.
+purified ratmevalonatekinase,immunoblotanalysis
+was
+performed on equivalent amounts of protein from cell lysates
+of each transfection. Human mevalonate kinase enzyme acnucleotide substitution was present as a common polymorphism in normal human genomic DNA and whether it was tivity was determined by a radiochemical assay of the same
+present in othermevalonic aciduria subjects, a n allele-specific cell lysates. It is clear that whereas each construct expressed
+oligonucleotide hybridization screen was employed. The anal- an equal amount of mevalonate kinase protein, the activity
+ogous 208-bp region surrounding the mutationwas amplified associatedwith the mevalonicaciduriadefect
+was greatly
+from genomic DNA by the PCR technique, and the product diminished.Controlandmock-transfected
+cells displayed
+XESlDCE
+hfl
+
+Identification Missense
+of a Mutation
+
+13234
+
+in Mevalonic
+Aciduria
+
+TABLEI
+Segregation of the human mevalonate kinasegene with human chromosome12 in hamster-humansomatic cell hybrids
+Hybrid
+Clone
+
+507
+683
+756
+904
+
+Mevalonate
+kinase **
+
++
++
++
++
+
+HumanChromosomes *
+3
+
+4
+
+"
+
++
+
+-
+
+"
+
+"
+
+"
+
+"
+
+"
+
+"
+
+1
+
+2
+
+5
+
+6
+
++
+
+"
+
++
+
+7
+
+" " _
+
+X
+
+2222
+811019181710615141312110
+"
+
+"
+
++
+
++
+
++
+
+-
+
+-
+
++
+
++
+
+"
+
+"
+
+-
+
+"
+
+"
+
++ + + " " + + + " " + + + " +
++
+
++
+
+" " _
+
++
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Y
+
++ - - +
++ - + + - -
+
+-
+
+-
+
++ - - +
+
+21 2
+
+324
+423
+734
+750
+803
+81 1
+854
+860
+862
+867
+909
+937
+940
+967
+968
+983
+1006
+1049
+1079
+1099
+
+* +, presence of the human chromosome in >45% of the cells; -, absence of the human chromosome.
+
+** +, presence of the mevalonate kinase DNA sequence; -, absence of the mevalonate kinase DNA sequence.
+
+protein. Thethree
+nearly undetectable levels of mevalonate kinase protein and to galactokinase andtheyeastRARl
+regions of amino acid sequencehomology (regions A-C) (Figs.
+activity. Whereas in this particular experiment the mutant
+showed a reduction in activity that was -20% that of the 2 and 3) shared
+by mevalonate kinase and these other proteins
+normal, these values varied between 5 and 20% in five sepa- as well as the conservation
+of the relative spatial arrangement
+rate experiments. Interestingly, in eachof these experiments, of these regions suggest that these genes may belong to a
+a variation in the electrophoreticmobility was noted between common gene family. Mevalonate kinase and galactokinase
+the normal and mutantenzymes. This ispossibly a reflection have similar characteristics, even though galactokinase (EC
+of the perturbation in proteinsecondary structure caused by 2.7.1.6; ATP:D-galactose 1-phosphotransferase) is anenzyme
+the amino acid substitution.
+involved in carbohydrate metabolism and catalyzes the phosphorylation of galactose. Both proteins arecytosolic enzymes
+DISCUSSION
+with similar subunit masses that
+utilize ATP asa cofactor for
+phosphorylating low molecular weight substrates (mevalonic
+Theprotein sequences of humanandratmevalonate
+kinases are highly conserved, and there is an 82% sequence acid and galactose). The function of these conserved regions
+identity in the amino
+acid sequencesof both enzymes. Similar of amino acid sequence is not known, but they may represent
+or the nucleoto rat mevalonate kinase, the human enzymedisplays the canonical sequences for either the catalytic site
+where X represents any tide-binding site on both enzymes. The yeast RARl protein
+motif (G-X-G-X-X-G-X,,-,,-A-X-K,
+amino acid) for the ATP-binding siteidentified in the amino shares the sameregions of amino acid sequence homology as
+acid sequence of protein kinases (30,31). The
+relative position described for mevalonate kinase and galactokinase, but the
+gene
+of this potential ATP-binding site is also conserved in both identity of the RARl protein is unknown. The RARl
+screening for mutations that increase the
+human and rat mevalonate kinases. Currently, it is unknown wasisolatedby
+mitotic stability of plasmids whose replication is dependent
+whether this putative ATP-binding site on mevalonate kinase
+is functional.
+on weak origins of DNA replication (autonomously replicating
+Mevalonate kinase also displays
+protein sequence homology sequence elements).
+
+Identification of a Missense Mutation in Mevalonic Aciduria
+
+1323.5
+
+Mevalonic Aciduria
+
+Normal
+t
+
+"
+"
+
+,"n_
+
+-7,
+
+-
+
+-
+
+I
+
+Kb 23.1
+
+9.4-
+
+6.64.42 9 02 9 42 9 0
+
+302
+
+306
+
+Rerldue Number
+
+2.0-
+
+FIG.4. Southern blot analysis of genomic DNAs from normal and mevalonic aciduria subjects. Genomic DNAs isolated
+from normal and mevalonic aciduria fihroblasts were digested with
+the indicated restrictionendonucleases.Southernblots
+were prepared, and the nitrocellulose memhranes were hybridized to radiolabeledprobes corresponding totheentirecodingsequence
+of the
+humanmevalonatekinasecDNA.
+The position of molecularsize
+standards are shown to theleft.
+
+1
+
+Kb
+
+2 3
+
+2-
+
+w
+
+1-
+
+4
+I
+
+"""_
+
+" "_
+
+"
+
+2 9 82 9 42 9 0
+
+4.40
+
+-
+
+2.371.35-
+
+0.24-
+
+302
+
+306
+
+Rerldue Number
+
+FIG. 6. &Turn probability determination for normal mevdonate kinase and mevalonic aciduria mevalonate
+kina.
+The deduced amino acid sequences for normal mevalonate kinase and
+mevalonic aciduria mevalonate kinase were analyzed hv the ChouFasman algorithm for &turn prohahility. Mevalonic aciduria rnevalonate kinase differs by a single bane pair suhstitution at nucleotide
+902 (residue 301) in the coding region. resulting in an asparagine to
+threonine substitution.
+
+the pyrophosphorylation of 5-phosphomevalonate to mevalonate 5-pyrophosphate. This product
+is used in the synthesis
+of a variety of essential compounds including sterols, dolichols, and ubiquinone. The GAL3 gene is required for rapid
+FIG.5. RNA blot analysis of levels of mevalonate kinase
+mRNA in normal and mevalonic aciduria fibroblasts.
+RNA induction of the galactose-melibiose regulon genes in Staphblots were prepared using poly(A)' RNA purified from either normal ylococcus cereukiae. The amino acid sequence of the GAL3
+human fibroblasts (lanes I and 3 ) or fibrohlasts from the mevalonic protein is similar to thesequences of yeast and E. coli galacaciduria patient ([anes2 and 4 ) . The nitrocellulose membranes were tokinases, but the GAL3 protein does not exhibit galactokihybridized to a 539-bp radiolabeled fragment from the 3"untransnaseactivity (28, 32). Aminoacidsequence
+homology in
+lated region of the full-length human mevalonate kinase
+cDNA clone,
+regions
+A
+and
+B
+indicates
+that
+the
+GAL3
+and
+phosphomevapHMKlOl (lanes 1 and 2). The RNA blot was stripped and rehyhridlonate kinase proteins may be related to the gene family of
+(lanes 3 and 4 ) . The relative positions of
+ized to an actin probe
+molecular size standards are shown to the
+left. The mevalonate kinase mevalonate kinase, galactokinase, and the RARl protein.For
+activities in normal and mevalonic aciduria fibroblasts were 19.9 and clarity, we propose to name this new family of genes the
+0.28 pmol/min/mg of protein, respectively.
+mevalonate kinase gene family.
+Isolation of a cDNA clone coding for human mevalonate
+Two other proteins that only contain amino
+acid sequence kinase allowed us to determine the chromosomallocalization
+homology to regions Aand B (Fig. 2) are the proteins encoded of the mevalonate kinase gene and to characterize the mutaby the yeastGAL3 gene (28) and the yeast phosphomevalon- tion in the genetic disease mevalonic aciduria. Results from
+ate kinase gene (29). The locations of regions A and B in the Southern hybridization analysis using genomic DNA either
+GAL3 and phosphomevalonate kinase proteins are similar to from normal subjects orfrom hamster-human hybrid cell lines
+those observed in mevalonate kinase, galactokinase, and the indicated that mevalonate kinase
+is a single copy gene located
+RARlprotein.Phosphomevalonatekinaseisanessential
+on chromosome 12. The chromosomal locations of only two
+otherenzymes
+(3-hydroxy-3-methylglutaryl-CoAsynthase
+enzyme in the yeast sterol biosynthetic pathway that catalyzes
+
+Identification
+Missense
+a of
+Mutation
+Mevalonic
+in Aciduria
+
+13236
+
+A
+
+(;
+
+C
+
+‘I’
+A
+
+b
+
+A/C
+
+C
+C
+A
+G
+h
+
+NORMAI,
+
+_tacracataaaacctta~cctcaggcaggccaagtggga~cagatggaaccttctccccta~~~TTGACAT
+886
+
+*
+
+GAACCAGCACCATCTGAATGCCCTCGGCGTGGGCCACGCCTCTCTGGACCAGCTCTGCCAGGTGACCAGGGCCCG
+906
+
+326
+
+966
+
+946
+
+CGGACTTCACAGCAAGCTGACTGGCGCAGGCGGTGGTGGC~TGGC~TCCTC
+1006
+
+986
+
+1026
+
+FIG. 7. Nucleotide sequence of genomic DNA from patient with mevalonic aciduria. Genomic DNA from either normal human
+( M E V . ) aciduriapatient (Z.W.) wasamplified by PCR, and the nucleotide sequence was
+fibroblasts or fibroblasts fromamevalonic
+determined. Upper, a portion of the autoradiograph is shown for the sequences from hp 899 to 910, reading in a 5’ to 3‘ direction from the
+t.op of the gel, of the normal DNA and of the patient’s DNA. The heterozygous state of the patient’s DNA is shown at the arrowhead. with
+one normal allele and one allele containing the A to C nucleotide substitution. Lower, the site of the mutation in reference to the gene
+structure is shown. The intron-exon junction immediately 5’ of the SacI site was determined by comparison to the cDNA sequence and the
+identification of a consensus splice site. The intron sequence is shown in lower-case letters, and the exon sequence is shown in uppr-case
+letters. Numbering is based on the cDNA sequence. The SacI site is boxed. The 5’- and 3’-PCR primers used to amplify this region are
+underlined, and the position of the missense mutation is indicated by an asterisk.
+
+the regional mapping of human mevalonate kinase on chromosome 12.
+ALLELE
+NORMAL
+s
+0
+b
+I
+0
+0
+Mevalonic aciduria is postulated tobe caused by a mutation
+in the gene coding for mevalonate kinase. This hypothesis
+MEV. ACIDURIA
+was based on the observation that there
+is a marked reduction
+ALLELE
+in mevalonate kinase activityin cells from mevalonicaciduria
+subjects, and there is a large increase in the levels of mevalonate in the serum and urine of these subjects. These data
+areconsistentwithhaving
+a mutation in themevalonate
+9
+10
+I1
+1;’
+13
+14
+15
+16
+kinase gene, but they are notconclusive. By isolating a cDNA
+NORMAL ALLELE
+b
+*
+.
+@
+e
+*
+‘
+m
+clone coding for human mevalonate kinase, we were able to
+identify a missense mutation in the mevalonate kinase gene
+MEV. ACIDUAIA
+from a subject with mevalonic aciduria. The missense mutaALLELE
+tion changed the protein sequence of mevalonate kinase by
+FIG. 8. Identification of mevalonic aciduria mutation by replacing an asparagine residue with a threonine. This suballele-specific hybridization. Genomic DNAs were isolated from
+stitution caused a significant alteration in the predicted seccontrol lymphoblasts and fibroblasts
+as well as fibroblasts froma
+number of mevalonic aciduria patients, including the patient(Z.W.) ondary structure of the enzyme. Analysis of the protein seand the patient’s mother, father, and brother. region
+The surrounding quence of mevalonate kinase using the Chou-Fasman algothe A to C nucleotide suhstitution was amplified by PCR, and the
+rithm indicated that this amino acid substitution eliminated
+product was spotted onto duplicatefilters. The filters were hybridized
+a @-turnin the secondary structure
+of the enzyme. The marked
+either to anoligonucleotide corresponding to the normal sequencein
+effect
+of
+this
+amino
+acid
+substitution
+on protein structure
+the region of the A to C change (normalallele) or to anoligonucleotide
+may explain theloss of mevalonate kinase activityassociated
+from the same region incorporating the A to C change (mevalonic
+( M E V . ) aciduria allele). Lane 1, humanmevalonatekinaseclone
+with this geneticdisease. The transfection studies support
+DNA; lanes 2 and 3, purchased normal human genomic DNA; lanes this conclusion. COS-7 cells transfected with the mutant
+4-8, normal genomic DNA from control fibrohlasts/lymphoblasts;
+cDNA construct exhibited a severe reduction in the level of
+lane 9,patient Z.W.; lane IO, Z.W.’s mother; lane 11, Z.W.’s father;
+mevalonatekinaseactivity
+when comparedtothenormal
+lane 12. Z. W.’s brother; lanes 13-16, fourindividualmevalonic
+expression construct,even though equivalent amounts
+of proaciduria patients.
+tein were produced from the two vectors. Thus, the missense
+mutationresultedin a substantialinactivation of enzyme
+and reductase) in the cholesterol biosynthetic pathway are
+activity.
+known, and both genes are located on human chromosome 5
+This mutationwas identified inthe DNA sequences of both
+(33-36). In situ hybridization studies areneeded to determine a cDNA clone and a PCR-amplified region of genomic DNAs
+1
+
+7
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+IdentificationMissense
+of a Mutation
+Mevalonic
+in Aciduria
+
+1
+
+T
+
+\IC\
+
+,\c l c l u r l . 1
+
+1.7237
+
+\ o r n u 1 \lh
+
+\',x 11jr
+
+L f i t r ~ n 1~$ , (r1 ~ ~ ~
+
+FIG.9. Transient expression of mutant and normal meValonate kinases in COS-7 cells. Expression constructs containing either
+normal (normalM K ) or mutant ( M e u Aciduria, MA) mevalonate kinasewere transfected intoCOS-; cells and expressed for4 0 h. Cell lysates
+were analyzed for enzyme activity by a radiochemical assay (histogram) and for mevalonate kinase expressional levels hy immunohlotting
+(inset). Equivalent amounts of protein were used from each sample in both the enzyme assay (21) p g ) and in each lane of the SI)S gel ( : ( 0 1 )
+p a ) . Molecular
+
+mass standards ( S T D )are indicated to the left of the autoradiograph.
+
+from the proband and the proband's father and brother. The diseasemevalonic aciduria,and this is thefirst identified
+missense mutation does not represent a common gene poly- mutation in the cholesterol biosynthetic pathway in humans.
+morphism because it was not found in genomic DNA samples Moreover, the fact that the missense mutation identified in
+from seven normal subjects and from four other subjects
+with our study was not detected in the prohand's mother as well
+as four other subjects with mevalonic aciduria indicates that
+mevalonic aciduria. Allele-specific oligonucleotide hybridizahe caused hy different types of
+tion studies indicated that the proband inherited this muta- this geneticdiseasemay
+tion from the father and that the index case is a compound mutations in the gene coding for mevalonate kinase.
+heterozygote. The absence of the missense mutation in the
+Acknowledgments-We thank Drs. Gordon Rohinson. Todd Kirrhfour other mevalonic aciduria subjects suggests that this genetic disease may be caused by a variety of mutations in the gessner, and RichardCregg for useful discussions. Excellent technical
+assistance was provided hv Bernadette Kienzle.
+mevalonate kinase gene.
+A genetic defect in the proband's mother has not yet been
+REFERENCES
+identified. Twofull-length cDNA clones isolated from the
+1. Brown. M. S.. and Goldstein. -1. I,. (19ROIJ . 1.i id Rrs 21, 505-517
+2. Tanaka. R. D.. Schafer. H. I... Lee. I,. Y..Freucfhwrrer. .I. 5 . . nnd 5!oslev.
+mevalonic aciduria cDNAlibrary contained the normal coding
+sequence for mevalonate kinase; and based on results from
+allele-specific oligonucleotidehybridization, this normal
+DNA
+sequence was inherited from the proband's mother. The presence of a normal coding sequence formevalonate kinase seems
+incompatible with the marked reduction
+in mevalonate kinase
+activity measured in the proband and, to a lesser degree, in
+the proband's mother. However, both of the cDNA clones
+with the normal coding sequence for mevalonate kinase did
+not contain the complete 5"untranslated region. Therefore,
+i t is possible that a mutation in the 5"untranslated region of
+the mevalonate kinase mRNA may inhibit translation. It is
+unlikely that this allele contains a mutation that alters gene
+transcription since cells from the proband contained normal
+levels of mevalonatekinasemRNA
+(Fig. 5 ) . T o date,the
+molecular basis for the mevalonate kinase deficiency in the
+proband's mother is not known, and additional studies are
+needed to determine the completenucleotide sequence of the
+5"untranslated region for the mevalonate kinasemRNA.
+Our study provides the first evidence that a mutation in
+the gene coding for mevalonate kinase can cause the genetic
+
+13238
+
+Identification Missense
+of a Mutation
+
+19. Smith, L. M., Sanders, J. Z., Kaiser, R. J., Hughes, P., Dodd, C., Connell,
+C. R., Heiner, C., Kent, S. B. H., and Hood, L. E. (1986) Nature 3 2 1 ,
+674-679
+20. Bradford, M. M. (1976) Anal. Biochem. 7 2 , 248-254
+M. (1987) J. Biol. Chem. 2 6 2 , 1996-2004
+21. Faust,J.,andKrieger,
+22. Kyte, J., and Doolittle, R. F. (1982) J. Mol. Biol. 1 5 7 , 105-132
+23. Debouck, C., Riccio, A,, Schumperli, D., McKenny, K., Jeffers, J., Hughes,
+C., Rosenberg, M., Heusterspreute,M.,Brunel, F., andDavison, J. (1985)
+Nuclerc
+Acrds
+Res. 13, 1841-1853
+24. Citron, B. A,, and Donelson, J. E.(1984) J . Bacteriol. 1 5 8 , 269-278
+25. Webster, T. D., and Dickson, R. C. (1988) Nucleic Acids Res. 1 6 , 81928194
+26. Adarns, C. W., Fornwald, J. A,, Schmidt, F. J., Rosenberg, M., and Brawner,
+E.
+M. (1988) J. Bacteriol. 170,203-212
+27. Kearsey, S. E., andEdwards, J. (1987) Mol. Gen. Genet. 210,509-517
+
+in Mevalonic
+Aciduria
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36.
+
+Bhat, P. J., Oh, D., and Hopper, J. E. (1990) Genetics 125,281-291
+Tsay, Y. H., and Robinson, G. W. (1991) Mol. Cell. Biol. 11,620-631
+Hanks, S. K., Quinn, A. M., and Hunter, T.(1988) Science 241,42-52
+Argos, P., and
+Leberman, R. (1985) Eur. J. Biochem. 152,651-656
+Bajwa, W., Torchia, T. E.,and Hopper, J. E. (1988) Mol. Cell. Biol. 8 ,
+3439-3447
+Lindgren, V., Luskey, K. L., Russel, D. W., and Francke, U. (1985) Proc.
+Natl. Acad. Sci. (I. S . A. 82,8567-8571
+Mohandas, R., Heinzmann, C., Sparkes,
+R.
+S., Wasrnuth,
+Edwards,
+J.,
+P.
+A,, and Lusis, A. J. (1986) Somatic Cell Mol. Genet. 1 2 , 89-94
+Mehrabian, M., Callaway, K. A., Clarke, C.F., Tanaka, R. D., Greenspan,
+M., Sparkes,
+Lusis,
+Fogelrnan,
+A. J., J., Edmond,
+R. S.,T.,
+Mohandas,
+A. M., and Edwards, P. A. (1986) J. Biol. Chem. 2 6 1 , 16249-16255
+Leonard, S., Arbogast, D., Geyer,
+Jones,
+D.,
+C., and
+Sinensky,
+M. (1986)
+Proc. Natl. Acad. Sci. U. S. A. 83,2187-2189
+
+

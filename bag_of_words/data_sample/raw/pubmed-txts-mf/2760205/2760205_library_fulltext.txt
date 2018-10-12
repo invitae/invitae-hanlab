@@ -1,0 +1,1892 @@
+Downloaded from http://www.jci.org on March 27, 2017. https://doi.org/10.1172/JCI114212
+
+Evidence for a Dominant Gene That Suppresses Hypercholesterolemia
+in a Family with Defective Low Density Lipoprotein Receptors
+Helen H. Hobbs,* Eran Leitersdorf,* Carla C. Leffert,* Dennis R. Cryer,t Michael S. Brown,* and Joseph L. Goldstein*
+*Departments ofMolecular Genetics and Internal Medicine, University of Texas Southwestern Medical Center, Dallas, Texas 75235;
+and tSquibb Institutefor Medical Research, Princeton, New Jersey 08540
+
+Abstract
+This paper describes an unusual kindred with familial hypercholesterolemia in which one-third of the relatives with a mutant LDL receptor gene have normal plasma cholesterol concentrations. The proband, a 9-yr-old boy with a plasma cholesterol value > 500 mg/dl, is homozygous for a point mutation
+that changes Serl56 to Leu in the LDL receptor. This substitution in the fourth repeat of the ligand binding domain slows
+the transport of the protein to the cell surface. The defective
+receptor cannot bind LDL, which contains apo B-100, but it
+does bind a-migrating VLDL, which contains apo E in addition
+to apo B-100. Although the mother is heterozygous for this
+mutation, her LDL-cholesterol concentration is consistently in
+the 28th percentile for the population. Through direct examination of genomic DNA, we identified the mutant gene in heterozygous form in 17 of the mother's relatives, five of whom
+had normal LDL-cholesterol values. The pedigree was consistent with dominant transmission of a single gene that ameliorates or suppresses the hypercholesterolemic effect of the
+LDL receptor mutation. Through linkage analysis, we excluded the possibility that this suppressor gene was an allele at
+the LDL receptor locus. We also excluded the genes for the
+two ligands for the LDL receptor, apo B-100 and apo E. The
+existence of this putative suppressor gene may explain the
+occasional observation of normal LDL-cholesterol concentrations in heterozygotes for LDL receptor mutations.
+
+Introduction
+Mutations in the gene for the LDL receptor produce familial
+hypercholesterolemia (FH),' a disease that is transmitted in an
+autosomal codominant fashion (1). Individuals who inherit
+one mutant LDL receptor gene (FH heterozygotes) generally
+have two to threefold elevations in plasma LDL-cholesterol
+concentrations and develop symptomatic coronary artery disDr. Leitersdorf's present address is Department of Internal Medicine
+B, Hadassah University Hospital, Jerusalem, Israel 91120. Address
+reprint requests to Dr. Helen H. Hobbs, Department of Molecular
+Genetics, University of Texas Southwestern Medical Center, 5323
+Harry Hines Boulevard, Dallas, TX 75235.
+Receivedfor publication 13 March 1989.
+1. Abbreviations used in this paper: ,B-VLDL, ,8-migrating very low
+density lipoprotein; EGF, epidermal growth factor, FH, familial hypercholesterolemia; IDL, intermediate density lipoprotein; PCR, polymerase chain reaction; RFLPs, restriction fragment length polymorphisms; VNTR, variable number of tandem repeats.
+
+J. Clin. Invest.
+© The American Society for Clinical Investigation, Inc.
+
+0021-9738/89/08/0656/09 $2.00
+Volume 84, August 1989, 656-664
+656
+
+Hobbs, Leitersdorf, Leffert, Cryer, Brown, and Goldstein
+
+ease in the fourth to sixth decades. Individuals with two mutant LDL receptor genes (FH homozygotes) have LDL-cholesterol values that are sixfold or more above normal, and they
+frequently have symptomatic atherosclerosis in childhood.
+When the concentration of LDL-cholesterol in plasma is
+used as a marker, the penetrance of the FH gene is 90% in
+FH heterozygotes (1, 2). The reason for the lack of hypercholesterolemia in 10% of genetically affected individuals has not
+been determined, in part because genetic markers to confirm
+the presence of LDL receptor mutations have been lacking.
+This situation has changed with the cloning of the LDL receptor gene.
+The LDL receptor gene, located on the short arm of chromosome 19 (3), comprises 18 exons (4). One set of exons
+encodes seven cysteine-rich repeats of 40 amino acids that
+constitute the ligand binding domain. The adjacent exons encode a region that resembles a sequence in the precursor for
+epidermal growth factor (EGF). At least 29 different mutant
+LDL receptor genes have been characterized at the DNA level
+in FH families (reviewed in reference 1 and unpublished observations). These mutations have varying effects upon the
+LDL receptor protein. Some mutations abolish transcription
+of the gene. Others encode defective receptors that are transported slowly to the cell surface, fail to bind LDL, or fail to
+internalize the lipoprotein.
+The LDL receptor binds two protein components of lipoproteins, apo B-100 and apo E (5). A single molecule of apo
+B- 100 is found on each LDL particle and its precursors, VLDL
+and intermediate density lipoprotein (IDL). IDL is also referred to as ,B-VLDL. Apo E, which binds to the receptor with
+higher affinity than apo B- 100, is present in multiple copies on
+each f,-VLDL particle. Certain mutations in the ligand binding
+domain of the LDL receptor eliminate LDL binding without
+affecting j3-VLDL binding (6, 7).
+In this paper we report a detailed analysis of a kindred with
+FH caused by a point mutation that results in a single amino
+acid substitution in the ligand binding domain of the LDL
+receptor. This kindred is referred to as the P. family. 6 out of
+18 heterozygous individuals had normal concentrations of
+LDL-cholesterol despite the presence of one mutant LDL receptor gene. Pedigree analysis is consistent with the transmission of a dominant gene that suppresses the expression of hypercholesterolemia when it is inherited together with the mutant LDL receptor gene.
+-
+
+-
+
+Methods
+Materials. Human LDL (8), rabbit ,B-VLDL (9), human lipoproteindeficient serum (8), and mouse anti-LDL receptor MAb IgG-C7 (10)
+were prepared as described in the indicated reference. Restriction enzymes were obtained from New England Biolabs (Beverly, MA).
+Thermus aquaticus DNA polymerase was obtained from Perkin Elmer
+Cetus (Norwalk, CT). [a-32P]dCTP (3,000 Ci/mmol) and [35S]_
+
+Downloaded from http://www.jci.org on March 27, 2017. https://doi.org/10.1172/JCI114212
+
+methionine (- 1,000 Ci/mmol) were obtained from New England
+Nuclear (Boston, MA). [y-32P]ATP (7,000 Ci/mmol) for end-labeling
+oligonucleotides was purchased from ICN Radiochemicals (Irvine,
+CA). Oligonucleotides were synthesized on a DNA synthesizer and
+genomic DNA was purified using a nucleic acid extractor; both machines were obtained from Applied Biosystems (models 380A and
+340A, respectively; Foster City, CA). DNA was amplified using the
+DNA thermal cycler from Perkin Elmer Cetus.
+LDL receptor assays. Diploid fibroblasts obtained from skin biopsy
+specimens were grown in monolayer culture at 37°C in a 5% CO2
+incubator. About 2.5 X I04 cells from stock cultures were seeded into
+60-mm Petri dishes according to a standard protocol and cultured for 5
+d (8). Maximal synthesis of LDL receptors was induced by incubation
+in human lipoprotein-deficient serum for 24-48 h before study as
+described elsewhere (8). Cell surface binding of'251I-LDL, '251-f3-VLDL,
+and '25I-IgG-C7 by monolayers at 4°C was determined as described
+(6). Metabolism of '25I-LDL by monolayers at 37°C was measured as
+described (8). Immunochemical analysis of [35S]methionine-labeled
+LDL receptors was performed as described (11).
+DNA sequencing of mutant LDL receptor allele. The 3' region of
+exon 4 of the LDL receptor gene was amplified by the polymerase
+chain reaction (PCR) using I ,ug of genomic DNA from a normal
+individual and FH 848. Two oligonucleotides homologous to sequences in exon 4 and the exon 4/intron 4 junction were used for the
+amplification reaction (see legend to Fig. 3). The samples were denatured at 95°C for 1 min and then annealed and extended at 68°C for 5
+min. After 35 cycles of amplification, the DNA was fractionated on a
+6% polyacrylamide gel in buffer A (50 mM Tris-borate, 90 mM boric
+acid, 2 mM sodium EDTA at pH 8.3). A 220-bp fragment was excised
+from the gel, and the DNA was purified. Sequence analysis was performed according to the Maxam and Gilbert method (12).
+Oligonucleotide hybridization ofgenomic DNA. Exon 4 ofthe LDL
+receptor gene was selectively amplified from 1 Mg of genomic DNA
+using oligonucleotides with sequences homologous to the first 25 nucleotides of exon 4 (coding strand) and to 25 nucleotides starting at the
+6th base of intron 4 (noncoding strand) (4). After 35 rounds of amplification, one-tenth of the amplified DNA product (5 ul) was denatured
+in 400 mM NaOH/25 mM sodium EDTA and dotted onto duplicate
+nylon membranes. The membranes were rinsed with 20X SSPE (IX
+SSPE contains 0.9 M NaCl, 50 mM sodium phosphate, and 5 mM
+EDTA at pH 7.4) and then baked for 1 h at 80°C. Oligonucleotides
+homologous to the normal and mutant sequence were end labeled with
+32 as described (13) and then purified by precipitating with 0.5%
+cetylpyridinium bromide (14). The oligonucleotides were washed
+twice with 80% ethanol and 0.1 M sodium acetate (pH 4.5) before
+dissolving in 100 ml of 10 mM Tris-chloride at pH 7.5, 1 mM sodium
+EDTA, and 0.1% (vol/vol) SDS. A total of 1 X 106 cpm/ml of each
+oligonucleotide was hybridized individually to duplicate filters in 5x
+SSPE, 0.05% (wt/vol) each of BSA, Ficoll 400, and polyvinyl pyrolidone 360 and, 0.5% (vol/vol) SDS for 16 h at 42°C. The filters were
+washed sequentially in 2x SSPE and 0.5% (vol/vol) SDS and I X SSPE
+and 0.25% of(vol/vol) SDS for 15 min at 24°C. They were then washed
+in 0.2X SSPE and 0.1% SDS for 15 min at 42°C and in 0.1 X SSPE and
+0.1% SDS for 25 min at 42°C before being exposed to XAR-5 film for
+30 min at 24°C.
+Genomic Southern blot analysis. Genomic DNA was extracted
+from blood leukocytes, digested twice with a fivefold excess of restriction enzyme per microgram of DNA, sized-fractionated on a 0.8%
+agarose gel, transferred to a nylon membrane (Biotrans), and hybridized with single-stranded [a-32P]dCTP-labeled probes derived from the
+LDL receptor cDNA (5 X 106 cpm/ml) (15) as described (16). The
+washed filters (17) were subjected to fluorography at -20°C using
+Kodak XAR-5 film with an intensifying screen (Quanta III; Dupont,
+Wilmington, DE) for 24-48 h.
+Haplotype analysis of LDL receptor gene. DNA samples were hybridized to the appropriate 32P-labeled human LDL receptor probe
+after digestion with each of 10 restriction enzymes that were previously
+shown to reveal restriction fragment length polymorphisms (RFLPs)
+
+(18). The 10 restriction enzymes used were as follows: Bsm I, Sph I, Stu
+I, Ava II, Spe I, Apa LI (two sites), Ava II, Pst I, and Nco I. LDL
+receptor haplotypes on each pedigree member were deduced by analysis of the joint segregation of RFLPs in first-degree relatives, assuming
+no recombination within the locus. Each LDL receptor haplotype
+encountered in this family has been previously observed (18) except
+haplotypes 32 and 37. Haplotype 32 has the following pattern of restriction sites (restriction site absent, -; restriction site present, +):
+Bsm I(-), Sph I(+), Stu I(+), Ava II(-), Spe I(+), Apa LI-5'(+), Pvu
+II(-), Nco I(-), Pst I(-), and Apa LI-3'(+). Haplotype 37 has the
+following pattern of restriction sites: Bsm I(-), Sph I(+), Stu I(+), Ava
+II(-), Spe I(-), Apa LI-5'(-), Pvu II(+), Nco I(+), Pst I(-), and Apa
+LI-3'(+).
+Determination of apo B genotypes. The hypervariable minisatellite
+located 181 bp 3' of the poly(A) addition site of the human apo B gene
+(19) was selectively amplified by PCR from 1 Mg of genomic DNA
+using 32P-end-labeled (13) oligonucleotide HV-1 (5'-TATGGAGGGAAATATT-T-TGCAAAAA-3') and unlabeled oligonucleotide HV-2
+(5'-CAAATACAATTCCTGAGATCAATAA-3') as described above.
+After 35 cycles of amplification, 5 Ml of the reaction mixture (total
+volume of 50 MAl) was subjected to electrophoresis on a 10% denaturing
+polyacrylamide gel in buffer A at 200 V for 24 h at room temperature.
+Autoradiography was performed at room temperature for 1 h using
+XAR-5 film.
+Haplotype analysis ofapo E-CI-CII gene complex. Genomic DNA
+(1 Mg) was subjected to PCR amplification using 32P-end-labeled oligonucleotides HP- I (5'-AGGAACAGGGATTGCTCACTCGGGG-3')
+and unlabeled oligonucleotide HP-2 (5'-TCTTCCTGACTCTGTGGGGTCCTCA-3'). These oligonucleotides flank a previously described
+RFLP site, Hpa I, located 5' of the apo Cl gene (20). After 35 cycles of
+amplification the entire reaction product was size fractionated on a 6%
+nondenaturing gel in buffer A at 200 V for 1.5 h at room temperature.
+The gel was subjected to autoradiography and a 186-bp fragment was
+excised and purified. A total of 80 ng (80,000 dpm) was subjected to
+restriction enzyme digestion with Hpa I in the buffer suggested by the
+manufacturer. The digested products were electrophoresed on a 6%
+nondenaturing polyacrylamide gel in buffer A at 200 V for 2 h at room
+temperature. Apo E isoforms were determined by immunoblot analysis of 5 Ml of plasma using monoclonal antibodies specific for apo E2,
+E3, and E4 (21). The isoform studies were kindly performed by Professor Dr. Gerd Utermann (Institute for Medical Biology and Genetics,
+University of Innsbruck, Innsbruck, Austria). Genotypes were constructed for selected members of the pedigree using the results of the
+Hpa I RFLP analysis and the apo E isoform data. The apo E-CI-CII
+genotypes were determined by analysis ofthe segregation of the parental alleles to their offspring within the pedigree and were arbitrarily
+numbered 1-6.
+Blood and urine chemistries. Blood was collected for lipoprotein
+quantification in EDTA-containing tubes and kept on ice until the
+plasma was isolated 4-10 h later. Within 48 h, individual lipoprotein
+fractions were isolated from plasma by ultracentrifugation and heparin-manganese precipitation according to the procedures of the Lipid
+Research Clinic (22). The content of cholesterol and triglyceride in the
+various samples was measured by enzymatic assay kits purchased from
+Boehringer Mannheim (Indianapolis, IN) and Sigma Chemical Co. (St.
+Louis, MO) respectively. Serum Na+, K+, Cl-, C02, creatinine, uric
+acid, fasting glucose, SGOT, SGPT, LDH, alkaline phosphatase, bilirubin, total protein, albumin, free thyroxine index, and thyrotropinstimulating hormone were measured on each subject (AM Laboratories, Inc., Dallas, TX) and were normal unless indicated in Table II.
+Urine was examined for the presence of protein, glucose, or blood
+using Chemstrip SL (Biodynamics/Boehringer-Mannheim Diagnostics) and was normal unless indicated in Table II.
+-
+
+Results
+The P. family is a Puerto Rican kindred whose members currently live in the United States. The proband ofthe P. family is
+
+Suppressor Genes for Low Density Lipoprotein Cholesterol
+
+657
+
+Downloaded from http://www.jci.org on March 27, 2017. https://doi.org/10.1172/JCI114212
+
+Table L Metabolism of 125I-LDL by Fibroblasts from FH
+Homozygote 848 and His Mother
+
+Surface-bound
+
+Subject
+
+125I LDL
+
+Mature -
+
+Internalized
+
+Precursor l-_-
+
+Degraded
+
+Mothet
+
+FH 848
+
+Normal
+
+ng/mg protein
+
+192
+6
+76
+
+Normal
+FH 848
+Mother
+
+1,310
+9
+302
+
+3,760
+20
+2,340
+
+0
+
+2!2
+
+l
+
+'i 1
+
+2
+
+i12
+
+0
+
+Chase (hours)
+
+!me
+
+On day 7 of cell growth after incubation of cells for 48 h in lipoprotein-deficient serum, each monolayer from the indicated subject received 2 ml of medium containing 5% lipoprotein-deficient serum
+and 10 Ag protein/ml of '25I-LDL (140 cpm/ng protein) in the absence and presence of 500 Ag protein/ml of unlabeled LDL. After incubation for 5 h at 37°C, the total amounts of surface-bound, internalized, and degraded '251-LDL were determined. The data shown
+represent high affinity values, which were calculated by subtracting
+the values obtained in the presence of excess unlabeled LDL (nonspecific values) from those obtained in the absence of unlabeled LDL
+(total values). The nonspecific values composed < 10% of the total
+values. Each value represents the mean of triplicate incubations.
+
+Figure 1. Electrophoresis of 35S-labeled LDL receptors from FH homozygote 848 and his mother. On day 6 of cell growth after 24 h incubation in lipoprotein-deficient serum, fibroblast monolayers from
+the indicated subject were pulse labeled for 2 h with 110 ,gCi/ml [35S]methionine and then chased with unlabeled methionine for the indicated time. The cell extracts were processed by immunoprecipitation
+with IgG-C7, an anti-LDL receptor MAb, followed by SDS gel electrophoresis as described in Methods. The dried gel was subjected to
+autoradiography for 18 h at -70°C using XAR-5 film and an intensifying screen. The relative molecular mass of the precursor (Mr
+120,000) and mature (Mr 160,000) LDL receptor proteins are indicated. The gels were calibrated with standards of known molecular
+weight as previously described (1 1).
+
+a 9-yr-old boy (FH 848) with the classic clinical features of
+homozygous FH. He presented at age 4 with a total plasma
+cholesterol concentration of 800 and 890 mg/dl on two occasions before initiation of drug therapy. Cutaneous xanthomata
+were first noted at age 4. He has not experienced angina pectoris and has a normal resting electrocardiogram. He is currently treated with combined therapy that includes lovastatin,
+probucol, niacin, and cholestyramine. His LDL-cholesterol
+concentration on therapy is 480 mg/dl, and his HDL-cholesterol is 33 mg/dl. His plasma triglycerides vary between 131
+and 224 mg/dl.
+Table I compares the metabolism of '25I-LDL at 37°C in
+fibroblasts from FH homozygote 848, his mother, with that of
+one normal individual studied simultaneously. The FH 848
+cells bound 3% of the normal amount of LDL at the surface. After 5 h, the cells internalized and degraded < 1% of the
+normal amount of 125I-LDL. These findings are consistent
+with the presence of two mutant alleles at the LDL receptor
+locus (1). In fibroblasts from the mother of FH 848, the
+amount of '251I-LDL binding, internalization, and degradation
+were 40, 23, and 62% of normal, respectively. These findings
+are consistent with the presence of one normal allele and one
+defective allele at the LDL receptor locus (1).
+To determine whether the FH 848 cells synthesize defective LDL receptors, the cells were incubated with [35S]methionine for 2 h, after which they were washed and incubated with unlabeled methionine for 0, 1.2, or 2 h. The cells
+were harvested and solubilized with detergent, and the LDL
+receptors were immunoprecipitated and subjected to SDSPAGE and autoradiography. The normal LDL receptor is synthesized as a precursor with an apparent Mr of 120,000, which
+is processed in the Golgi complex to a mature form with an
+apparent M, of 160,000 (1 1). This processed form is rapidly
+transported to the cell surface. In normal cells at the zero time
+point, approximately equal amounts of the precursor and mature forms of the LDL receptor were present (Fig. 1, left). After
+
+the 2-h chase, all of the remaining precursor was processed to
+the mature form. Cells from FH 848 synthesized a precursor of
+apparently normal molecular weight that was processed to the
+mature form at a slow rate. After a 2-h chase, < 20% of the
+receptor was in the mature form (Fig. 1, middle). Cells from
+the mother of FH 848 appeared to have two types of LDL
+receptors. The LDL receptors produced by her normal allele
+were processed at a normal rate (Fig. 1, right). The receptors
+produced by the mutant allele remained in the precursor form
+even after the 2-h chase.
+The receptors that reach the cell surface in the FH 848 cells
+were capable of binding an MAb that recognizes the first repeat in the ligand binding domain (23) (Fig. 2 A). The total
+
+-
+
+658
+
+Hobbs, LeitersdorfJ Leffert, Cryer, Brown, and Goldstein
+
+amount
+
+of binding
+
+40% of normal at
+
+was
+
+4°C. This mutant
+
+receptor was unable to bind '25I-LDL (Fig. 2 B), but it did bind
+A. 125I-IgG-C7
+
+B.
+
+125I-LDL
+
+C.
+
+125I-O-VLDL
+
+%Normal
+
+'f oml
+
+150
+
+C2a30
+C
+
+ii, 20
+
+2°00 __
+~~~~100O
+
+E
+
+F,H 84s
+
+50
+
+10
+
+-FH 848
+
+0
+
+0
+
+0.5
+
+1
+
+1.5
+
+9g /ml
+
+2
+
+0
+
+2
+
+4
+
+6
+Lg
+
+0
+2
+Protein/ ml
+
+4
+
+6
+
+Figure 2. Surface binding of (A) '25I-IgG-C7, (B) '251-LDL, and (C)
+'25'I-f-VLDL at 40C to monolayers of fibroblasts from a normal subject (-) and FH 848 (v). On day 7 of cell growth after 48 h incubation in lipoprotein-deficient serum, fibroblasts from the indicated
+subject received 1.5 ml of ice-cold medium containing 5% lipoprotein-deficient serum and the indicated concentration of one of the
+following ligands in the presence or absence of either (A) 300 Mg/ml
+or (B and C) 500 ug protein/ml of the corresponding unlabeled ligand: '251-IgG-C7 (476 cpm/ng protein), '251-LDL (276 cpm/ng), or
+'25I-fl-VLDL (141 cpm/ng). After incubation for 3 h at 40C, the total
+radioactivity bound to the cells was determined. The data represent
+high-affinity binding, which was calculated as described in the legend
+to Table I. Each value represents the average of duplicate incubations.
+
+~1
+
+Downloaded from http://www.jci.org on March 27, 2017. https://doi.org/10.1172/JCI114212
+
+Figure 3. DNA sequence of
+LDL mutation in FH 848.
+Two oligonucleotides, SP 51
+
+(5'-CGCCCATACCGCAGTTTTCC-3') from the
+exon 4/intron 4 junction
+
+Normal
+T A
+
+FH 848
+
+++
+
+C C G G
+_"* 'J -e°
+
+TGG
+GAG
+GAT
+TCG
+GGC
+GAT
+GAA
+
+....
+
+*VW
+
+I5''
+_N
+
+..A.
+
+Trp
+Glu
+Asp
+Ser
+Gly
+Asp
+Glu
+
+Amino
+Acid
+No.
+159
+158
+157
+156
+155
+154
+153
+
+T A
+
+C
+
+Trp
+Glu
+Asp
+I Leu
+Gly
+Asp
+Glu
+
+'25I-f3-VLDL (Fig. 2 C). The binding of 1251-f3-VLDL and 1251IgG-C7 were reduced in parallel in the FH 848 cells, suggesting
+that all of the receptors that reached the cell surface bound
+13-VLDL. Together, the results of Table I and Figs. 1 and 2
+suggest that the mutation in the FH 848 cells slows the folding
+of the protein so that its transport to the cell surface is delayed.
+The mutant protein that reaches the cell surface is unable to
+bind LDL but can bind ,B-VLDL. Similar results have been
+observed previously with mutations that affect the cysteinerich repeats in the ligand binding domain (7, 24), or in the
+EGF precursor homology region (7).
+To search for the mutation in FH 848, we used the polymerase chain reaction (PCR) to amplify and sequence each of
+the exons in the ligand binding domain and the EGF precursor
+region. Only one mutation was found (Fig. 3). In exon 4, in the
+region encoding the fourth repeat in the ligand binding domain (4), a cytosine at nucleotide position 530 was changed to
+a thymidine, changing the codon for amino acid 156 from
+serine to leucine (Fig. 3). This amino acid is part of the highly
+conserved SerAspGlu sequence that is found in each repeat of
+
+I
+
+1
+
+2
+
+3 48
+
+5061
+
+3
+
+2
+
+41
+119
+71 8
+
+IV
+
+DOC
+
+TGG
+GAG
+GAT
+
+S,
+
+I0
+E0
+
+product was size fraction-
+
+4t
+
+GGC
+GAT
+GAA
+
+5
+
+,
+5
+
+_
+
+5
+
+>
+
+band was sequenced as described in Methods. The sequence of FH 848 and the
+normal fragment were compared and revealed a C-to-T
+transition in the codon of
+amino acid residue 156 resulting in a substitution of
+leucine for serine.
+
+the ligand binding domain (4, 7). FH 848 appeared to have two
+copies of this mutant gene. No normal sequence was present at
+this position and restriction digests ofgenomic DNA ruled out
+the possibility that this region was deleted from one of his
+chromosomes (data not shown).
+Functional and biosynthetic studies of the LDL receptor in
+fibroblasts from the mother of FH 848 confirmed that she was
+an FH heterozygote (Table I and Fig. 1). However, the
+mother's plasma LDL-cholesterol concentrations were repeatedly in the normal range. Her LDL-cholesterol value was
+100 mg/dl on two determinations; these values are at the
+28th percentile for her age and sex. The father of FH 848, also
+an obligate FH heterozygote, died at age 32 of a sudden death,
+caused by acute myocardial infarction as documented by autopsy. Over a 7-yr period before his death (1974-1981), the
+father had nine total plasma cholesterol determinations, the
+average of which was 305 mg/dl.
+Fig. 4 shows the pedigree of the mother's family, and the
+data are summarized in Table II. The propositus (FH 848) is
+subject III-23, and the mother is II-14.
+-
+
+4
+
+X
+
+1 2 14
+
+201
+
+and FH 848. The amplified
+"
+
+ated, and the purified 220-bp
+
+TTGI
+
+16
+" 17 18
+
+4 25
+
+2
+13
+3512
+
+AGCTGTGGGCCTGCGACAACG) from exon 4 (coding strand) were used to
+C G G
+amplify the 3' region of exon
+4 (15) from the genomic
+**
+= DNA of a normal individual
+
++ +
+
+//
+
+1
+
+(noncoding
+and endlabeled
+SP 1 strand)
+5A (5'-CCCC-
+
+19
+
+-0
+
+26 27 281 i9
+
+(
+0C
+C)(
+ND
+
+ND ND
+
+atinn ygierozwote
+M WIL Receptor Mutation i- Homozyote
+* IDI-Lowering Gene
+
+-
+
+D
+
+Figure 4. Pedigree of P. family. The propositus,
+111-23, is homozygous for haplotype 32 at the
+LDL receptor locus. All pedigree members who
+are heterozygous for haplotype 32 are indicated
+by half-closed symbols. The haplotypes of the two
+deceased individuals, I-1 and 11-13, were deduced
+by analysis of their children. Clinical information
+on each individual is presented in Table II. Circles, females; squares, males; slashed lines, indi-
+
+viduals who are deceased; asterisks denote individuals who are FH heterozygotes with a normal
+plasma LDL-cholesterol level.
+
+Suppressor Genes for Low Density Lipoprotein Cholesterol
+
+659
+
+Downloaded from http://www.jci.org on March 27, 2017. https://doi.org/10.1172/JCI114212
+
+Table II. Summary of Clinical Findings, Blood Lipoprotein Concentrations, and LDL Receptor Haplotypes in P. Family
+Plasma cholesterol
+Pedigree
+position Age Sex Height
+cm
+
+yr
+
+Weight
+
+Total
+
+LDL
+
+VLDL
+
+72
+
+M
+
+1-2
+
+79
+
+F
+
+155
+
+62 (131%) 177, 210 79, 94 72, 86 (<5)1
+
+1-4
+II-1
+
+59
+50
+
+F
+M
+
+154
+165
+
+74 (158%)
+68 (111%)
+
+II-2
+11-41
+
+45
+46
+
+F
+F
+
+173
+152
+
+II-6
+II-7
+II-8
+II-9
+II-10
+II-lI
+II-12
+II-13*
+
+44
+43
+33
+39
+40
+37
+32
+32
+35
+34
+
+F
+M
+F
+M
+F
+M
+F
+M
+F
+M
+
+30
+32
+25
+19
+14
+12
+26
+25
+25
+20
+24
+17
+14
+11
+19
+11
+8
+16
+10
+9
+
+F
+M
+M
+F
+F
+M
+
+10
+2
+
+F
+F
+
+II-151
+
+II-16
+II-18
+III- 1
+
+III-3
+III-4
+
+III-5
+III-6
+
+III-711
+III-9
+III-12
+III-13
+III-14
+III-1 5
+III-16
+III-18
+III-19
+III-20
+III-2 *
+III-22*
+III-23
+111-24
+IV-2
+IV-3
+
+1
+
+M
+F
+F
+F
+M
+M
+M
+F
+M
+M
+
+F
+M
+M
+M
+
+M
+
+1/32$
+
+4,3*
+
+26, 30
+
+449, 532
+
+2/11
+
+4,4
+
+38
+26
+
+27
+126
+
+30/32
+11/32
+
+3, 3
+4, 3
+
+86(133%) 192,174 13,18 132, 123(51)
+77(170%) 167, 205 14, 30 120, 142(54)
+
+47, 33
+33, 33
+
+103, 94
+109, 140
+
+12/16
+2/32
+
+3, 3
+4, 3
+
+154
+170
+159
+171
+160
+144
+156
+
+71 (149%) 255, 274 16,58 204, 195 (>95)
+82 (123%) 286, 242 35, 44 218, 174 (>95)
+
+35,21
+33,24
+55,33
+29,24
+83,70
+32,36
+53
+
+111,297
+190,223
+109,221
+377,612
+61,58
+142,107
+115
+
+4, 3
+4, 3
+4, 3
+4, 3
+3, 3
+4,4
+
+158
+168
+
+75 (147%)
+76 (118%)
+
+11/32
+11/32
+1/12
+1/2
+1/37
+11/32
+1/9
+29/32*
+11/32
+2/32
+
+157
+172
+180
+
+65 (129%) 221, 184 27, 40 147,103(71)
+79 (114%) 186, 180 57, 22 85, 121 (22)
+96 (122%) 173, 178 38,39 107,110 (41)
+71 (106%) 278, 223 3, 8 226, 181 (>95)
+16 153 (>95)
+198
+61(93%)
+55 (93%)
+203, 200 12, 18 148, 154 (>95)
+123 (170%) 143, 156 25, 27 80,96(19)
+S
+96 (33)
+126
+79 (138%)
+97 (175%) 320, 306 19,35 248, 220 (>95)
+67 (112%) 345, 286 12, 15 280, 208 (>95)
+25 94 (39)
+165
+107 (148%)
+82 (29)
+11
+130
+65 (101%)
+77 (113%) 234, 222 9,16 178, 173 (>95)
+12 87 (37)
+148
+50 (106%)
+13 92 (48)
+146
+95 (117%)
+68 (122%) 163, 134 10, 8 90, 81 (35)
+245
+172, 186 5, 13 119, 121 (88)
+67 (91%)
+52 (141%) 178, 188 40,40 100, 113 (72)
+33 (109%) 517, 564 12, 44 472, 489 (>95)
+
+151
+
+175
+162
+175
+165
+164
+169
+175
+168
+170
+150
+188
+159
+174
+
+144
+135
+
+142
+
+401
+256
+
+169
+24
+
+336 (>95)
+206 (>95)
+
+184, 203 14,25 115, 145 (77)
+185, 183 71,93 85, 66 (<5)
+116, 120 (44)
+67 (128%) 204, 197 5, 7
+83 (131%) 281, 250 22, 14 227, 200 (>95)
+15 111 (53)
+179
+66 (138%)
+
+15
+
+Drugs
+
+CHD;
+emphysema
+Arcus;diabetes Insulin, methyldopa,
+pentoxisylline,
+mellitus
+digoxin
+Clofibrate, diltiazem
+Arcus
+
+Xanthelasmas;
+arcus
+
+90 (176%)
+82 (118%)
+
+36 (102%)
+
+Clinical data
+
+mg/dl
+
+mg/dl
+
+kg (%IBW)
+
+I-I*
+
+II- 1411
+
+HDL
+
+LDL
+receptor Apo E
+Plasma
+triglycerides haplotype isoform
+
+142,162 10,27 100, 96 (28)
+168,172 10,28 127, 115 (46)
+
+182
+141
+245
+
+12
+
+117 (82)
+
+Xanthelasmas; Ibuprofen
+arcus
+
+32, 39
+31,32
+
+57, 165
+74,316
+
+47,41
+44, 37
+28,29
+49,34
+29
+43, 28
+38,33
+25
+53,51
+53,63
+46
+37
+47, 33
+49
+41
+63,45
+
+213,221
+275, 172
+342, 302
+51,57
+82
+82, 109
+151,213
+
+48,52
+38, 36
+33,31
+53
+
+42
+
+149,197
+100,112
+166
+104
+62, 246
+100
+88
+71,68
+230
+57,106
+274, 321
+131,224
+85
+66
+71
+
+1/11
+11/12
+16/32
+12/32
+12/32
+2/11
+11/32
+32/60
+32/60
+l
+
+1/11
+1/32
+
+11/12
+2/37
+1/37
+1/32
+11/32
+29/32
+32/32
+
+Oral contraceptive
+4+ Glycosuria
+
+Cimetadine
+
+l
+
+4,3*
+4, 3
+4, 3
+
+3, 3
+4, 3
+4, 3
+3, 3
+3, 3
+4, 3
+4, 3
+4,3
+4, 3
+4, 3
+3, 2
+4, 3
+4,4
+
+Sudden death
+
+Theophylline,
+albuterol,
+ipratropium,
+prednisone
+Arcus
+
+Oral contraceptive
+Oral contraceptive
+
+l
+
+3, 3
+3, 3
+
+4,4
+3, 3
+
+2/11
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Cutaneous
+xanthoma
+
+Lovastatin,
+probucol, niacin,
+cholestyramine
+
+All blood samples were obtained after a 12-16-h fast except those shown in italics. No individuals were on a low-fat/low-cholesterol diet at the time of sampling.
+for single LDL-cholesterol value or average of two
+CHD, coronary heart disease; IBW, ideal body weight. * Deceased. t Deduced from family data. I Percentile
+values. Values based on age and sex-matched data (22). 1" FH heterozygotes with LDL-lowering gene. I ND; either no DNA available or individual heterozygous
+at more than one RFLP site and no relatives available to determine haplotypes.
+
+In an initial attempt to determine which of the family
+members inherited the defective LDL receptor gene, we performed an RFLP haplotype analysis on chromosome 19 in the
+region of the LDL receptor gene using 10 polymorphic restriction sites as described in Methods. The proband, FE 848, was
+homozygous for a haplotype not previously observed in the
+American Caucasian population (18). This haplotype, designated 32 (see Methods), was linked to the amino acid substitution in the coding region of the LDL receptor gene. FH 848
+,680
+
+Hobbs, Leitersdorf; Leffert, Cryer, Brown, and Goldstein
+
+received one copy of this mutant chromosome from his father
+and another copy from his mother. Although consanguinity
+was denied, it seems likely that the mother and father had a
+common ancestor because they both originated from neighboring villages in Puerto Rico.
+Among the mother's relatives, 12 were hypercholesterolemic (closed triangles above the 95th percentile in Fig. 5). All
+ofthese individuals had one copy of a chromosome bearing an
+LDL receptor with haplotype 32. However, six other relatives
+
+nEs
+
+Downloaded from http://www.jci.org on March 27, 2017. https://doi.org/10.1172/JCI114212
+
+o 200
+
+A
+
+A
+
+A
+6
+A&
+150
+
+E
+
+Figure 5. Plasma LDL-
+
+*A ^
+
+E250
+
+50
+
+10
+
+0
+
+20
+
+cholesterol concentrations in members of P.
+
+95th
+
+A
+
+~ ~ ~ tb~
+
+30
+
+40
+
+\\
+
+80
+
+50 70
+Age (years)
+
+~~~~~family plotted as a
+
+function of age. The
+normal range for LDLcholesterol values at
+each age is indicated by
+diagonal stripes. The
+5th, 50th, and 95th percentile values were de-
+
+termined by averaging
+data for male and female controls at each age (22). Only individuals
+on the maternal side of the proband's family are shown. ,, FH heterozygotes (those individuals who have a single haplotype 32-bearing
+LDL receptor gene); A, first-degree relatives who do not have haplotype 32; o, spouses. Each symbol represents a single value or the
+average of two LDL-cholesterol determinations (see Table II). The
+LDL-cholesterol values for individuals 111-20 (age 8), IV-2 (age 2),
+and IV-3 (age 1) were estimated as 70% of the total plasma cholesterol level (Table II).
+
+(including the mother) who inherited haplotype 32 had plasma
+LDL-cholesterol levels in the normal range (solid triangles
+within shaded area of Fig. 5).
+The individuals who inherited haplotype 32, and presumably the mutant LDL receptor gene, are indicated by half-filled
+symbols in the pedigree of Fig. 4. The subset of these FH
+heterozygotes with normal LDL-cholesterol levels is indicated
+by an asterisk. Two of these normocholesterolemic individuals
+were the siblings of the proband, designated III-21 and III-22.
+These two boys (age 16 and 10, respectively) each inherited
+one copy of the LDL receptor-bearing chromosome that contained haplotype 32. They each had total cholesterol concentrations < 190 mg/dl (Table II).
+To confirm that the individuals with haplotype 32 possessed the nucleotide substitution in the coding region of the
+LDL receptor gene, we performed PCR on exon 4 in genomic
+DNA, spotted the amplified products on nitrocellulose filters,
+and hybridized the filters with 32P-labeled oligonucleotide
+probes that were specific either for the normal or mutant sequence (Fig. 6). DNA from a relative without haplotype 32
+(11-2) hybridized only to the normal probe. The DNA from FH
+homozygote 848 (III-23) hybridized only to the mutant probe.
+The DNA from all individuals with haplotype 32 hybridized to
+both the normal and the mutant probes indicating that these
+Po
+Probe
+
+Z
+
+Normal
+Mutont
+
+¢
+
+Relatives
+ui*
+
+*
+
+..
+*
+0
+*a*
+0*0
+
+°Q*°
+
+,
+
+t
+
+.*
+
+*
+
+a
+
+~
+
+C
+
+t- C
+
+,
+_
+
+*-
+
+jj*
+
+t
+
+co
+
+4
+
+Figure 6. Oligonucleotide hybridization of
+PCR-amplified DNA
+from members of P.
+
+family. Exon 4 ofthe
+
+, LDL receptor gene was
+
+" mEt m ^m4W amplifiedfrom l,ugof
+genomic DNA from selected members of the P. family using oligonucleotides SP 6 IN (5'CCCCCAAGACGTGCTCCCAGGACGA-3') and SP 5 lA ('ACGCCCCGCCCCCACCCTGCCCCGC-3'), as described in
+Methods. One-tenth of the amplified product (5 Ml) was denatured
+prior to dot-blotting onto duplicate nylon membranes. The filters
+were subsequently hybridized with 32P-end-labeled oligo 848B
+(5'-AAGATGGCTCGGATGAGTG-3'), an oligonucleotide homologous to the normal sequence, or 32P-end-labeled oligo 848C(5'-AA-
+
+GATGGCTTGGATGAGTG3'), an oligonucleotide homologous to
+the mutant sequence of FH 848.
+
+individuals all inherited one copy of the mutant LDL receptor
+gene. Among the individuals demonstrated to have the mutant
+LDL receptor gene in Fig. 6, six had normal LDL-cholesterol
+levels (designated by asterisks). These included the proband's
+mother (II- 14) and his two brothers (III-21 and III-22). It also
+included one of the mother's brothers (II-15), sisters (11-4), and
+sister's children (III-7).
+The simplest explanation for the distribution of LDL-cholesterol values in the P. family postulates the transmission of a
+dominant gene that suppresses the LDL-elevating effect of the
+LDL receptor mutation. Proceeding on the basis of this hypothesis, we sought to determine whether any of the genes
+whose products are known to affect the interaction of LDL
+with its receptor cosegregated with this suppressor phenotype.
+We therefore sought for genetic linkage between the suppressor
+gene and the gene for the LDL receptor itself or the genes for
+its two ligands, apo B-100 and apo E.
+Haplotype analysis excluded the possibility that the suppression of the LDL receptor defect in FH heterozygotes was
+caused by the normal allele at the LDL receptor locus. For
+example, the two siblings of the propositus, III-21 and III-22,
+both had suppressed LDL-cholesterol values, yet they inherited different normal LDL receptor alleles (haplotype 11 and
+haplotype 29, respectively) (Fig. 7). The mother's brother and
+sister (II-4 and II-15) who also had suppressed LDL-cholesterol values inherited a third haplotype (haplotype 2). The
+haplotype 11 gene, which was associated with low LDL-cholesterols in patient III-2 1, was associated with high LDL cholesterols in patients II-11 and II-6 (Fig. 7). These data exclude
+the possibility that a "superactive" normal LDL receptor allele
+is responsible for suppressing the effect of the mutant LDL
+receptor gene.
+
+2
+
+1
+
+ITO
+'1
+
+9 14;
+
+467
+
+i4
+1415
+
+43i
+
+II
+21
+
+DLChol.t2el
+
+-
+
+-
+
+79
+
+206
+
+131
+
+53
+
+95
+
+54
+
+200
+
+196
+
+95
+
+> 95
+
+>
+
+76
+
+213
+
+< 5 > 95
+
+23
+
+]
+
+-
+
+120
+
+107
+
+40
+
+98
+
+121
+
+103
+
+-
+
+U
+
+72
+
+> 95
+
+29
+
+46
+
+22
+
+N
+I0L.Col.t.ol
+(me/dl)
+
+22
+
+*1
+
+(peretile)
+
+10L Receptor
+b1
+
+32/1'
+
+2/11 32/11
+
+32/2 32/11 32/11 1/2
+
+32/11 32/29' 32/11 32/29 32/32 32/11 32/2
+
+Ap a
+
+3/41
+
+2/3
+
+3/5
+
+2/3
+
+3/5
+
+2/4
+
+2/3
+
+1/6'
+
+1/5
+
+Apo z
+
+4/31 4/4
+
+4/3
+
+4/3
+
+4/3
+
+4/3 4/3 4/4
+
+4/31
+
+A4 1-Cl-COl
+
+1/2' 3/4
+
+1/4
+
+1/4
+
+1/3
+
+1/4
+
+5/61
+
+4/3
+
+1/11
+
+4/6
+
+5/6
+
+4/5
+
+3/5
+
+4/3
+
+3/3
+
+4/4
+
+3/3
+
+4/3
+
+4/3
+
+4/3
+
+1/3
+
+4/5
+
+1/6
+
+1/4
+
+1/3
+
+1/3
+
+loofont
+
+1/3
+
+2/3
+
+Figure 7. Summary of genetic findings in P. family. The individuals
+in the pedigree are numbered according to Fig. 4. Each LDL-cholesterol value represents a single determination or the average of two
+values (see Table II); the percentiles for LDL-cholesterol were determined from sex- and age-matched control data (22). LDL receptor
+gene haplotypes were determined as described in Methods. Apo B genotypes were determined as described in Fig. 8. The apo E isoforms
+were determined by immunoblotting with antibodies specific for apo
+E2, E3, and E4 (21). Genotypes for the apo E-CI-CII gene complex
+were determined as described in Methods. §Deceased individual
+whose haplotype, genotype, or isoform was deduced from family data.
+
+Suppressor Genes for Low Density Lipoprotein Cholesterol
+
+661
+
+Downloaded from http://www.jci.org on March 27, 2017. https://doi.org/10.1172/JCI114212
+
+4
+..;
+
+r 4
+.,(
+1
+I.,.-
+
+'^._ :VW
+
+=
+
+a.'p
+
+"
+
+*lo
+
+.:
+
+1. 1* U
+
+wo-a p.
+
+Figure 8. Segregation analysis of the apo B gene in the P. family. A
+hypervariable region (VNTR) located 181 bp 3' of the poly(A) addition site of the apo B gene was amplified by PCR as described in
+Methods and shown schematically in A. Nucleotide position 1 denotes the basepair following the first poly(A) addition site (AATAA).
+32P-end-labeled oligonucleotide HV- I (corresponding to nucleotide
+position 155-179) and unlabeled oligonucleotide HV-2 were used to
+amplify the indicated hypervariable region from 1 1tg of genomic
+DNA as shown in A. An aliquot of the amplified product was sizefractionated on a denaturing gel and subjected to autoradiography (B
+and C). The symbols and designation for each individual in the pedigrees are the same as those in Fig. 4. In B, the size standards for apo
+B alleles included pooled samples from individuals II-6 and 11-7.
+Four different bands ranging in size from 700 to 810 bp were arbitrarily numbered as apo B alleles 2-5. The size of the amplified DNA
+fragments were determined by comparison with phiX-Hae III-digested DNA. In C, the apo B genotypes of the proband (III-23), his
+siblings (III-21 and III-22), mother (II-14), and paternal grandmother
+(1-4) are shown. Three additional apo B alleles from the paternal side
+of the family (numbered 1, 6, and 7) are denoted, and their size in
+basepairs was determined as in B.
+
+To trace the apo B gene in the P. family, we used PCR to
+explore a region at the 3' end of the gene that contains a variable number of tandem repeats (VNTR) (Fig. 8 A) (19). In the
+immediate family of the propositus, seven different chromosomes bearing the apo B gene were identified on the basis of
+VNTR of different length (Fig. 8). The linkage data excluded
+cosegregation of the apo B gene with the LDL-lowering gene.
+For example, the mother of the propositus (11-14) has two
+alleles at the apo B locus, designated 4 and 5 (Fig. 8 C). One of
+her sons (III-2 1) inherited allele 5 and the other (III-22) inherited allele 4. These two boys also inherited different alleles
+from the father (alleles 1 and 6, respectively) (Fig. 8 C). Although they did not share an apo B gene, both of them had low
+LDL-cholesterol values. Among the mother's siblings, several
+comparisons excluded linkage of the apo B gene to the low
+LDL-cholesterols. For example, individual II-4 had a low
+LDL-cholesterol, yet she did not share any apo B genes with
+her sister (11-14) who had a similarly low cholesterol (Fig. 8 B).
+Similarly, individuals II-4 and II-1 1 had the same alleles at the
+apo B locus, yet one had a high LDL-cholesterol and the other
+a low LDL-cholesterol.
+The gene for apo E, a known ligand for the LDL receptor,
+was polymorphic in the mother's family, but none of the apo
+E isoforms (21) cosegregated with the low LDL-cholesterol
+(Fig. 7). Thus, the mother (II-14) was heterozygous for isoforms E4 and E3. Her two heterozygous sons with low LDLcholesterol values were each homozygous, one for E3 and the
+other E4. Three of the mother's siblings with E4/E3 heterozygosity had high LDL-cholesterols (subjects II- 1, II-6, and II-7)
+(Fig. 7). Thus, the low LDL-cholesterol values in the proposi662
+
+Hobbs, Leitersdorf; Leffert, Cryer, Brown, and Goldstein
+
+tus' mother (11-14) cannot be attributable to her E4/E3 heterozygosity.
+It is possible that the LDL suppressor effect is due to the
+inheritance of a mutation at the apo E locus that is independent of the polymorphisms responsible for the common apo E
+isoforms. To exclude this possibility, we constructed haplotypes in the region of chromosome 19 containing the closely
+spaced apo E, apo CI, and apo CII loci (20), using an RFLP 5'
+of the apo CI gene and the results of the apo E isoform determinations. These data excluded cosegregation of LDL levels
+with any gene in this region. For example, the propositus'
+mother was heterozygous for genotype 1 and genotype 4 (Fig.
+7). One of her heterozygous sons inherited her genotype 1bearing chromosome (III-2 1) and the other inherited her genotype 4-bearing chromosome (III-22), yet both ofthese sons had
+low LDL-cholesterol values (Fig. 7).
+
+Discussion
+This paper describes a kindred, the P. family, that includes 18
+FH heterozygotes who have a bimodal distribution of plasma
+LDL-cholesterol concentrations. 12 of these heterozygotes
+have LDL-cholesterol concentrations above the 95th percentile, as would be expected for FH. 6 ofthe 18 FH heterozygotes
+have plasma LDL-cholesterols within the normal range (Fig.
+5). The pedigree is consistent with the transmission of a single
+dominant gene that ameliorates or suppresses the cholesterolelevating effect ofthe LDL receptor mutation (Fig. 4). Thus, in
+generation II, subjects 11-4, 11-14, and II-15 are postulated to
+possess the suppressor gene. II-4 and II-14 passed it on to their
+offspring. The other FH heterozygotes in generation II did not
+show evidence for the suppressor gene, and none of their offspring in generations III or IV showed suppression of hypercholesterolemia.
+Through linkage analysis, we have excluded the three most
+obvious candidates for suppressors of hypercholesterolemia
+caused by defective LDL receptors, i.e., the normal LDL receptor and its two ligands, apo B-100 and apo E. If a suppressor gene is present, it must produce another protein that influences plasma LDL-cholesterol concentrations. To suggest
+other candidate genes, it is necessary to consider the mechanism by which the LtDL receptor influences plasma LDL concentrations.
+The LDL receptor mediates the removal from blood of
+lipoproteins that carry endogenous cholesterol (1). The receptor binds lipoproteins that contain apo B-100 or apo E and
+mediates the uptake of these lipoproteins by receptor-mediated endocytosis, primarily in the liver, and their subsequent
+destruction in lysosomes. Endogenous cholesterol transport
+begins when the liver secretes triglyceride-rich VLDL which
+contains both apo E and apo B-100. The apo E on VLDL is
+relatively inactive in LDL receptor binding, apparently because it is masked by other proteins, the apo Cs (25, 26). After
+the triglycerides of VLDL have been removed by lipoprotein
+lipase in capillaries of adipose tissue and muscle, the VLDL
+particle shrinks, becomes relatively enriched in cholesterol,
+and is designated as IDL or f,-VLDL. During this conversion
+the apo Cs leave the particle, the apo E is activated, and IDL
+acquires the ability to bind to LDL receptors with extremely
+high affinity via apo E. As a result of this binding, most IDL
+particles are cleared from blood by binding to hepatic LDL
+receptors (27). Some IDL particles escape hepatic uptake and
+
+Downloaded from http://www.jci.org on March 27, 2017. https://doi.org/10.1172/JCI114212
+
+undergo further conversion to LDL. This conversion, which is
+facilitated by hepatic lipase (28), is accompanied by the loss of
+apo E (29).
+A defect in LDL receptors elevates plasma LDL through a
+combination of overproduction and inefficient catabolism
+(27). Overproduction results from a reduction in the hepatic
+clearance of IDL particles, thereby causing an increased conversion to LDL. Inefficient catabolism of LDL is a direct result
+of the reduction in LDL receptors. Given this scheme, the
+putative gene for LDL suppression must either lower the rate
+of VLDL secretion or enhance the rate of clearance of IDL
+or LDL.
+It is probably significant that the mutant LDL receptor in
+the P. family retains its ability to bind (3-VLDL, which is a
+form of IDL. This binding is not sufficient in itself to prevent
+the increase in plasma LDL concentrations because most of
+the FH heterozygotes in this family have elevated LDL values.
+Moreover, FH 848, the homozygous propositus, has markedly
+elevated LDL values despite the ability of his receptors to bind
+IDL. However, this binding does create the possibility that
+some individuals may be able to escape hypercholesterolemia.
+A reasonable hypothesis is that individuals with the suppressor gene can use the IDL-binding capacity of the mutant
+LDL receptor to enhance IDL clearance, whereas the hypercholesterolemic individuals lack this ability. One possibility is
+that the individuals with the suppressor gene have a delay in
+the conversion of IDL to LDL. This would allow the IDL to
+remain in the circulation longer, with its apo E attached. It
+would then have a greater opportunity to be removed from the
+circulation by the normal and defective LDL receptors before
+it is converted to LDL. Such an event might occur if the individuals with the suppressor gene had a relatively low activity of
+hepatic lipase. Another possibility is that these subjects have
+an abnormal form of apo C that is unable to inhibit the binding activity of apo E on IDL. This abnormality cannot involve
+apo CI or apo CII because of the linkage analysis (Fig. 7).
+However, we cannot exclude an alteration of apo CIII. To
+date, we have been unable to obtain an informative segregation analysis using ten polymorphisms at the apo AI-CIII-AIV
+locus (30) in the relevant members of the P. family.
+A final possibility relates to the regulation of LDL receptor
+production. The suppressor gene might lead to increased expression of LDL receptors in the liver. Such an effect could
+result from a direct stimulation of LDL receptor gene transcription, or indirectly as a result of an alteration in the metabolism ofbile acids or cholesterol in a fashion that would lead to
+a reduction in hepatic cholesterol concentrations, which in
+turn would induce LDL receptors (1).
+We cannot exclude the possibility that VLDL production
+and/or secretion is reduced by the suppressor gene. The factors
+that control the production and secretion of VLDL are poorly
+understood and specific products regulating these processes
+have not been identified.
+An important question is whether the putative LDL suppressor gene lowers LDL-cholesterol values in the absence of
+an LDL receptor mutation. The maternal grandmother (1-2)
+and one of the mother's siblings (II-9) had LDL-cholesterol
+concentrations that were below the 5th percentile. This raises
+the possibility that the suppressor gene reduces LDL-cholesterol below normal in individuals with normal LDL receptors.
+The number of subjects in this pedigree is not sufficient to
+allow this hypothesis to be tested conclusively. It is possible,
+
+however, that the gene observed here as a suppressor of hypercholesterolemia is one of the mutations that produce dominantly inherited hypobetaliproteinemia in individuals with
+normal LDL receptors. Certain mutations in the apo B gene
+are postulated to have this cholesterol-lowering effect (31), but
+because linkage with the apo B gene was excluded, such a
+mutation cannot account for the findings in the current pedigree.
+
+Acknowledgments
+We thank Ray Wheatley in the laboratory of Dr. Scott M. Grundy for
+
+performing lipoprotein analysis. Shellie Craig, Kathy Schueler, Evan
+Tobin, and Tommy Hyatt provided excellent technical assistance in
+the DNA studies.
+This report was supported by research grants from the National
+Institutes of Health (HL-20948), the Perot Family Foundation, and the
+Moss Heart Foundation. H. H. Hobbs is supported by the Syntex
+Scholar Program. E. Leitersdorf was the recipient of a fellowship from
+the Fogarty International Center of the National Institutes of Health
+Research (I F-05-TW03742).
+
+References
+1. Goldstein, J. L., and M. S. Brown. 1989. Familial hypercholesterolemia. In The Metabolic Basis of Inherited Disease. C. R. Scriver,
+A. L. Beaudet, W. S. Sly, and D. Valle, editors. 6th ed. McGraw-Hill
+Book Co., New York. 1215-1250.
+2. Harlan, W. R., Jr., J. B. Graham, and E. H. Estes. 1966. Familial
+hypercholesterolemia: A genetic and metabolic study. Medicine (Baltimore). 45:77-110.
+3. Lindgren, V., K. L. Luskey, D. W. Russell, and U. Francke.
+1985. Human genes involved in cholesterol metabolism: chromosomal
+mapping of the loci for the low density lipoprotein receptor and 3-hydroxy-3-methylglutaryl-coenzyme A reductase with cDNA probes.
+Proc. Natl. Acad. Sci. USA. 82:8567-8571.
+4. Sudhof, T. C., J. L. Goldstein, M. S. Brown, and D. W. Russell.
+1985. The LDL receptor gene: a mosaic of exons shared with different
+proteins. Science (Wash. DC). 228:815-822.
+5. Mahley, R. W., and T. L. Innerarity. 1983. Lipoprotein receptors
+and cholesterol homeostasis. Biochim. Biophys. Acta. 737:197-222.
+6. Hobbs, H. H., M. S. Brown, J. L. Goldstein, and D. W. Russell.
+1986. Deletion of exon encoding cysteine-rich repeat of LDL receptor
+alters its binding specificity in a subject with familial hypercholesterolemia. J. Biol. Chem. 261:13114-13120.
+7. Esser, V., L. E. Limbird, M. S. Brown, J. L. Goldstein, and D. W.
+Russell. 1988. Mutational analysis of the ligand binding domain of the
+low density lipoprotein receptor. J. Biol. Chem. 263:13282-13290.
+8. Goldstein, J. L., S. K. Basu, and M. S. Brown. 1983. Receptormediated endocytosis of LDL in cultured cells. Methods Enzymol.
+98:241-260.
+9. Kovanen, P. T., M. S. Brown, S. K. Basu, D. W. Bilheimer, and
+J. L. Goldstein. 1981. Saturation and suppression of hepatic lipoprotein receptors: A mechanism for the hypercholesterolemia of cholesterol-fed rabbits. Proc. NatL Acad. Sci. USA. 78:1396-1400.
+10. Beisiegel, U., W. J. Schneider, J. L. Goldstein, R. G. W. Anderson, and M. S. Brown. 1981. Monoclonal antibodies to the low
+density lipoprotein receptor as probes for study of receptor-mediated
+endocytosis and the genetics of familial hypercholesterolemia. J. Biol.
+Chem. 256:11923-11931.
+11. Tolleshaug, H., K. K. Hobgood, M. S. Brown, and J. L. Goldstein. 1983. The LDL receptor locus in familial hypercholesterolemia:
+multiple mutations disrupting the transport and processing of a membrane receptor. Cell. 32:941-951.
+12. Maxam, A. M., and W. Gilbert. 1980. Sequencing end-labeled
+DNA with base-specific chemical cleavages. Methods Enzymol.
+
+65:499-560.
+
+Suppressor Genes for Low Density Lipoprotein Cholesterol
+
+663
+
+Downloaded from http://www.jci.org on March 27, 2017. https://doi.org/10.1172/JCI114212
+
+13. Maniatis, T., E. F. Fritsch, and J. Sambrook. 1982. Molecular
+Cloning: A Laboratory Manual. Cold Spring Harbor Laboratory, Cold
+Spring Harbor, NY. 122.
+14. Geck, P., and I. Nasz. 1983. Concentrated, digestible DNA after
+hydroxylapatite chromatography with cetylpyridinium bromide precipitation. Anal. Biochem. 135:264-268.
+15. Yamamoto, T., C. G. Davis, M. S. Brown, W. J. Schneider,
+M. L. Casey, J. L. Goldstein, and D. W. Russell. 1984. The human
+LDL receptor: a cysteine-rich protein with multiple Alu sequences in
+its mRNA. Cell. 39:27-38.
+16. Church, G. M., and W. Gilbert. 1984. Genomic sequencing.
+Proc. Natl. Acad. Sci. USA. 81:1991-1995.
+17. Lehrman, M. A., W. J. Schneider, T. C. Sudhof, M. S. Brown,
+J. L. Goldstein, and D. W. Russell. 1985. Mutation in LDL receptor:
+Alu-Alu recombination deletes exons encoding transmembrane and
+cytoplasmic domains. Science (Wash. DC). 227:140-146.
+18. Leitersdorf, E., A. Chakravarti, and H. H. Hobbs. 1989. Polymorphic DNA haplotypes at the LDL receptor locus: application for
+the study of hypercholesterolemia. Am. J. Hum. Genet. 44:409-421.
+19. Huang, L.-S., and J. L. Breslow. 1987. A unique AT-rich hypervariable minisatellite 3' to the apoB gene defines a high information
+restriction fragment length polymorphism. J. BioL Chem. 262:89528955.
+20. Smit, M., E. v. d. Kooij-Meijs, L. P. Woudt, L. M. Havekes, and
+R. R. Frants. 1988. Exact localization of the familial dysbetalipoproteinemia associated HPAI restriction site in the promoter region of the
+apoCl gene. Biochem. Biophys. Res. Commun. 152:1282-1288.
+21. Menzel, H.-J., and G. Utermann. 1986. Apolipoprotein E
+phenotyping from serum by Western blotting. Electrophoresis. 7:492495.
+22. Lipid Research Clinic Program. 1982. Lipid and lipoprotein
+analysis. Manual of laboratory operations. Department of Health, Education, and Welfare publ. NIH/75-628 Government Printing Office,
+Washington, DC.
+23. van Driel, I. R., J. L. Goldstein, T. C. Sudhof, and M. S. Brown.
+1987. First cysteine-rich repeat in ligand-binding domain of low den-
+
+664
+
+Hobbs, Leitersdorf; Leffert, Cryer, Brown, and Goldstein
+
+sity lipoprotein receptor binds Ca2+ and monoclonal antibodies, but
+not lipoproteins. J. Biol. Chem. 262:17443-17449.
+24. Yamamoto, T., R. W. Bishop, M. S. Brown, J. L. Goldstein,
+and D. W. Russell. 1986. Deletion in cysteine-rich region of LDL
+receptor impedes transport to cell surface in WHHL rabbit. Science
+(Wash. DC). 232:1230-1237.
+25. Gianturco, S. H., F. B. Brown, A. M. Gotto, Jr., and W. A.
+Bradley. 1982. Receptor-mediated uptake ofhypertriglyceridemic very
+low density lipoproteins by normal human fibroblasts. J. Lipid Res.
+23:984-993.
+26. Windler, E., and R. J. Havel. 1985. Inhibitory effects of C
+apolipoproteins from rats and humans on the uptake of triglyceriderich lipoproteins and their remnants by the perfused rat liver. J. Lipid
+Res. 26:556-565.
+27. Goldstein, J. L., T. Kita, and M. S. Brown. 1983. Defective
+lipoprotein receptors and atherosclerosis: lessons from an animal
+counterpart of familial hypercholesterolemia. N. Engl. J. Med.
+309:288-295.
+28. Demant, T., L. A. Carlson, L. Holmquist, F. Karpe, P. Nilsson-Ehle, C. J. Ackard, and J. Shepherd. 1988. Lipoprotein metabolism in hepatic lipase deficiency: studies on the turnover ot apolipoprotein B and on the effect of hepatic lipase on high density lipoprotein. J. Lipid Res. 29:1603-1611.
+29. Gotto, A. M., Jr., H. J. Pownall, and R. J. Havel. 1986. Introduction to the plasma lipoproteins. Methods Enzymol. 128:3-41.
+30. Antonarakis, S. E., P. Oettgen, A. Chakravarti, S. L. Holloran,
+R. R. Hudson, L. Feisee, and S. K. Karathanasis. 1988. DNA polymorphism haplotypes of the human apolipoprotein APOA 1-APOC3APOA4 gene cluster. Hum. Genet. 80:265-273.
+31. Herbert, P. N., G. Assmann, A. M. Gotto, Jr., and D. S. Fredrickson. 1983. Familial lipoprotein deficiency: abetalipoproteinemia,
+hypobetalipoproteinemia, and Tangier disease. In The Metabolic Basis
+of Inherited Disease. J. B. Stanbury, J. B. Wyngaarden, D. S. Fredrickson, J. L. Goldstein, and M. S. Brown, editors. 5th ed. McGrawHill Book Co., New York. 589-621.
+
+

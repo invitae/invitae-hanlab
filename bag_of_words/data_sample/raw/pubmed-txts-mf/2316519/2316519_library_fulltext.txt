@@ -1,0 +1,1662 @@
+Am. J. Hum. Genet. 46:682-695, 1990
+
+Duplicational Mutation at the Duchenne Muscular Dystrophy
+Locus: Its Frequency, Distribution, Origin, and
+PhenotypeGenotype Correlation
+Xiuyuan Hu,* Peter N. Ray,* E. Gordon Murphyt Margaret W. Thompson,*
+and Ronald G. Worton*
+*Genetics Department and Research Institute, Hospital for Sick Children, and the Departments of Medical Genetics and Medical Biophysics,
+University of Toronto; and TDivision of Neurology, Department of Pediatrics, The Hospital for Sick Children, Toronto
+
+Summary
+Partial gene deletion is the major cause of mutation leading to Duchenne muscular dystrophy (DMD) and
+Becker muscular dystrophy (BMD). Partial gene duplication has also been recognized in a few cases. We
+have conducted a survey for duplication in 72 unrelated nondeletion patients, analyzed by Southern blot
+hybridization with clones representing the entire DMD cDNA. With careful quantitative analysis of hybridization band intensity, 10 cases were found to carry a duplication of part of the gene, a frequency of 14%
+for nondeletion cases (10/72), or 6% for all cases (10/181). The extent of these duplications has been
+characterized according to the published exon-containing HindIII fragment map, and in six of the 10
+duplications a novel restriction fragment that spanned the duplication junction was detected. The resulting
+translational reading frame of mRNA has been predicted for nine duplications. A shift of the reading
+frame was predicted in four of the six DMD cases and in one of the two intermediate cases, while the
+reading frame remained uninterrupted in both BMD cases. RFLP and quantitative Southern blot analyses
+revealed a grandpaternal origin of duplication in four families and grandmaternal origin in one family. In
+all five families, the duplication was found to originate from a single X chromosome. Unequal sisterchromatid exchange is proposed to be the mechanism for the formation of these duplications.
+Introduction
+
+Duchenne muscular dystrophy (DMD) is the most common and severe neuromuscular disease in man. It occurs with an incidence of about 1/3,300 male births
+and has an X-linked recessive mode of inheritance.
+Becker muscular dystrophy (BMD) is a clinically less
+severe form of the dystrophy, and it is allelic to DMD
+(for review, see Worton and Thompson 1988).
+The cloning of the DMD gene and the identification
+of its protein have made it possible to characterize mutations of the gene at both the DNA and protein level.
+So far, the majority of the detectable mutations at this
+Received September 13, 1989; revision received November 16, 1989.
+Address for correspondence and reprints: Dr. R. G. Worton,
+Genetics Department, The Hospital for Sick Children, 555 University Avenue, Toronto, Ontario M5G 1X8, Canada.
+i 1990 by The American Society of Human Genetics. All rights reserved.
+
+0002-9297/90/4604-0007$02.00
+
+682
+
+locus are of the deletion type, which accounts for about
+60% of all mutations (den Dunnen et al. 1987; Forrest
+et al. 1987; Koenig et al. 1987; Darras et al. 1988;
+Baumbach et al. 1989; Gillard et al. 1989). Deletions
+are not uniformly distributed throughout the gene, and
+two deletion-rich regions have been identified (Koenig
+et al. 1987; Darras et al. 1988; Wapenaar et al. 1988;
+Baumbach et al. 1989; Gillard et al. 1989). There is
+no apparent correlation between the size of the deletion and the severity of the disease, and sequences
+deleted in DMD patients may also be deleted in BMD
+patients (Hart et al. 1987; Liechti-Gallati et al. 1987;
+Davies et al. 1988). However, deletions identified in most
+DMD patients were predicted from sequence analysis
+to have shifted the translational reading frame, whereas
+deletions identified in most BMD patients have maintained the reading frame (Malhotra et al. 1988; Monaco
+et al. 1988; Baumbach et al. 1989; Gillard et al. 1989),
+
+Duplication Mutation at the DMD Locus
+thus providing an explanation for the phenotypic differences in most deletion patients.
+Duplication of part of the DMD gene has also been
+revealed in a few patients. These duplications were
+identified by probing the patients' DNA with both
+genomic probes (Bertelson et al. 1986; den Dunnen et
+al. 1987; Hu et al. 1988) and cDNA probes (Greenberg
+et al. 1988; Hu et al. 1988). However, an extensive study
+on duplication similar to that carried out with deletion
+has not been described. In the present report, we present our findings on the systematic study of gene duplication in 72 unrelated DMD and BMD patients in
+whom no deletion of any exon was found. We report
+the frequency of duplication, the pattern of its distribution, and the genotype/phenotype comparison (i.e.,
+frameshift vs. in-frame duplication, as compared with
+severity of the disease). We also report the origin of
+duplication in two families, results which, when combined with those for three other families previously
+reported by us, suggest a preferential male origin of the
+
+duplication.
+Subjects and Methods
+Patients
+Eleven boys, two of whom were brothers, were found
+to have duplications. All have been followed for several
+years in the Muscular Dystrophy Clinic of the Hospital
+for Sick Children. The diagnosis of DMD or BMD was
+based on clinical findings including grossly elevated serum creatine kinase (CK) activity, pseudohypertrophy
+of the calf muscles, electromyographic abnormalities
+characteristic of myopathy, muscle biopsy findings consistent with muscular dystrophy, the patient's age when
+the diagnosis was made, and the progression of muscle
+weakness. Patients in this study were classified as DMD
+if they became wheelchair-bound before the age of 12
+years and as BMD if still ambulant at age 16 years. Patients who became wheelchair-bound at ages of 12-16
+years were classified as intermediate phenotype. The
+patients were also evaluated for disease severity by using
+a numerical scale which divides the disease severity into
+five categories: 1 = severe DMD; 2 = milder DMD;
+3 = intermediate; 4 = severe BMD; 5 = milder BMD
+(Gillard et al. 1989). Four patients under the age of
+16 years were also classified for disease phenotype by
+comparing the clinical findings with those of members
+of each class at a similar age. The phenotypic classification of the 11 patients is shown in table 1.
+Nine of the 11 patients are isolated cases with no
+
+683
+
+family history, and the other two (HSC935 and
+HSC1511) are affected brothers with no other family
+history. CK activity has been measured in mothers of
+seven isolated cases. Five mothers (for patients HSC627,
+1045, 1337, 1417, and 1575) had an elevated CK level
+and thus are presumptive carriers; in two isolated cases
+(HSC689 and HSC679) the mother's CK level was normal, but since the sister of HSC689 had an elevated
+CK level, the mother is also considered a presumptive
+carrier.
+Probes
+The XJ (DXS206) probes and the cDNA probes
+(cdnal and cdna5) that detect the first 20 exons of the
+gene were isolated in our laboratory (Ray et al. 1985;
+Thompson et al. 1986; Burghes et al. 1987). Additional
+cDNA probes (cDNA4-5a, cDNASb-7, cDNA8, and
+cDNA9-14) from Dr. L. M. Kunkel's laboratory were
+obtained from the American Type Culture Collection,
+and other genomic probes were gifts from Drs. L. M.
+Kunkel (the pERT probes [DXS164], J-Bir[DXS270],
+and 99-6 [DXS41]), G. J. B. van Ommen (754 [DXS84]
+and P20 [DXS269]), J. L. Mandel (C7 [DXS28]), and
+K. E. Davies (OTC). The cloning of these probes has
+been described elsewhere (Aldridge et al. 1984; Davies
+et al. 1985; Dorkins et al. 1985; Hofker et al. 1985;
+Monaco et al. 1985, 1987; Koenig et al. 1987; Wapenaar
+et al. 1988).
+Southern Blot and Densitometric Scanning Analyses
+
+DNA used in the present study was extracted from
+blood leukocytes or from the lymphoblastoid cell lines
+of patients, their family members, and normal individuals. DNA concentrations were quantified using a spectrophotometer and also by monitoring the intensity of
+ethidium bromide staining on a test gel. DNA close
+to equal amounts was used in each lane in order to determine the dosage difference of hybridization band intensity. The DNA was digested to completion with the
+appropriate restriction enzyme, separated on 0.6%0.8% agarose gel by electrophoresis, and transferred
+to Hybond-N.m membrane (Amersham). The membranes were hybridized with 32P-dCTP random-primed
+DNA probes (Feinberg and Vogelstein 1983).
+The autoradiographic film was scanned using a transmission densitometer (computing densitometer model
+300A; Molecular Dynamics). The area under each peak
+(peak value) (see fig. 3) represents the intensity of each
+hybridization band. The peak area was divided by the
+total peak area of all bands in that sample lane to ob-
+
+684
+
+Hu et al.
+
+Table I
+Correlation of Phenotype and Genotype in Duplication Patients with DMD or BMD and Origin of Duplication
+
+Patient (birth date)
+678 (30/12/74) .......
+
+WCB' Disease
+Disease
+(years) Severity Phenotype
+9
+
+2
+
+679 (21/10/69) .......
+8
+689 (2/4/70) .........
+11
+1337 (20/6/83) . .
+1417 (15/9/80) . .
+1575 (28/3/80) .......
+7
+
+2
+3
+1
+2
+1
+
+627 (6/11/74) ........
+
+14
+
+3
+
+1045 (3/5/75) ........
+14
+758 (23/5/59) ...
+1511 (11/10/75)d ..... ...
+
+3
+5
+4
+
+935 (24/10/78)d ......
+
+4
+
+...
+
+...
+
+...
+
+a
+
+...
+
+DMD
+
+Translational
+Reading
+
+Duplicated ECHFs
+(kb)
+
+4.1, 8.2, 2.9, 7.8,
+
+Probe
+cdnal
+
+4.4, 7.2, 11.0
+6.0, 6.2, 4.2, 11.0
+7.2
+3.7, 3.1, 7.0
+4.1, 8.2
+
+cDNASb-7
+cdnal
+cDNA 8
+cdnal
+cDNA5b-7
+0.5, 1.5, 10.0,
+1.25, 3.8, 1.6, 3.7,
+and cDNA8
+3.1
+Intermediate 7.6, 11, 20, 5.2, 4.7, cDNA4-Sa
+12, 18, 1.8, 0.4,
+and cDNASb-7
+1.3, 1.5, 6.0, 6.2
+Intermediate 4.1, 8.2
+cdnal
+BMD
+cDNA4-Sa
+20.0, 5.2
+BMDc
+cdnal
+3.3, 4.1, 8.2, 2.9,
+7.8, 4.4
+BMDc
+cdnal
+3.3, 4.1, 8.2, 2.9,
+7.8, 4.4
+DMD
+DMD
+DMDC
+DMDC
+DMD
+
+Frameb
+
+Originb
+
+Shift
+
+ND
+
+Shift
+Shift
+Shift
+In-frame
+In-frame
+
+ND
+Grandpaternal
+
+Grandpaternal
+
+Shift
+
+Grandpaternal
+
+In-frame
+
+In-frame
+
+ND
+ND
+ND
+
+In-frame
+
+ND
+
+ND
+
+Grandpaternal
+Grandmaternal
+
+Age at which patient became wheelchair bound.
+
+b ND = not determined.
+c Diagnosis made on the
+d Brothers.
+
+basis of relative severity of disease, not on the age at which patient became wheelchair bound.
+
+tain the relative peak value, i.e., the relative band intensity. Owing to the fact that the bands with double (duplication patient) or triple (duplication carrier) intensity
+increase the total peak area and therefore alter the relative peak value, a normalization factor is required. To
+obtain the normalization factor for a duplication patient, the bands showing single intensity in a normal
+male and similar intensity in the duplication case were
+selected; and the ratio of mean peak values of these
+bands for the normal male and for the duplication case
+provides the appropriate normalization factor. All the
+relative peak values from the duplication case were then
+multiplied by this factor. To obtain the normalization
+factor for a duplication carrier, the bands showing single intensity in a normal male and double intensity in
+the duplication carrier were selected. For the normal
+male and the duplication carrier the ratio of mean peak
+values of these bands (i.e., the normalization factor).
+was obtained by dividing the mean peak value of the
+normal male with half the mean peak value of the carrier. All the relative peak values from the carrier were
+then multiplied by this factor. Because the hybridization band intensity is estimated according to the ratio
+of the intensity of each band to that of all bands in
+
+the same sample lane, the results are not affected by
+variation of DNA quantities. Multiple exposure of the
+autoradiographic film was used to ensure the appropriate linear intensity response of all the hybridization
+bands.
+Results
+
+Gene Duplication
+
+Ten of the 72 unrelated nondeletion patients were
+found to have partial gene duplication. This was shown
+by probing the patients' DNA, digested with HindIII
+and EcoRI, respectively, with clones representing the
+entire DMD cDNA. In each of the 10 cases, one or
+more exon-containing fragments corresponding to a set
+of contiguous exons hybridized with double intensity,
+indicating the duplication of these exons. Patient
+HSC935 and his elder brother HSC1511 both were
+classified as BMD and were found to carry an identical
+duplication of exons 2-7. Two restriction enzymes were
+used in the analysis to avoid ambiguous results due either to the small size of some exon-containing fragments or to comigrating fragments and to confirm any
+duplication results obtained. DNA from a normal male
+
+Duplication Mutation at the DMD Locus
+
+68S
+
+and a normal female was used as the hybridization intensity standard. All blots were reprobed using a genomic
+probe known to reside outside the gene, in order to avoid
+miscalculation of the band intensity due to possible variation in loading of DNA. The HindIII fragments that
+contain the duplicated exons as well as the cDNA probes
+used to detect these duplications are summarized in table 1 and figure 1. Four of the 10 duplications (HSC627,
+678, 689, and 1575) had previously been recognized
+using genomic probes and were later confirmed with
+cDNA probes (Hu et al. 1988, 1989). These four cases
+are included in the present report for the purpose of
+phenotype/genotype comparison as well as for calculating the duplication frequency. Examples of Southern
+blot analysis for the six new duplications are shown
+in figure 2. The duplication of specific bands was confirmed by scanning the autoradiographic film by using
+a transmission densitometer. The scanning results are
+in agreement with the visual observation. An example
+of the densitometric analysis for the duplication case
+HSC1417 and his family is shown in figure 3 and table 2.
+In six of the 10 duplications, an altered-size restriction fragment was detected (figs. 1, 2B, 2C, and 4). We
+believe that in each case this fragment contains the duplication junction (Hu et al. 1988), since it was detected
+in the presence of all the normal size fragments, was
+only detected with a probe close to the junction (i.e.,
+cdnal
+Patient #I
+T.R.F.
+(HSC)
+
+_
+
+m
+
+_
+
+N ON W
+
+-T N
+
+cdna5
+°
+
+ON
+
+",
+
+.
+
+678
+
+shift
+
+679
+
+shift
+
+689
+
+shift
+shift
+in-fame
+
+1337
+1417
+1575
+627
+
+in-fiame
+
+1045
+
+in-fame
+
+758
+1511*
+
+in-fame
+
+935*
+
+in-fame
+
+near one end of the duplicated region), and could be
+detected using more than one restriction enzyme (figs.
+2B, 2C; Hu et al. 1988; data not shown). Therefore,
+it is unlikely that this novel fragment either represents
+a polymorphic allele or results from other types of DNA
+rearrangements such as deletion or insertion, since with
+a deletion one or more bands would be missing and
+with an insertion the presence of two, instead of one,
+novel fragments is the most likely outcome (see Discussion for details). The identification of the same novel
+fragment in carrier mothers and sisters but not in other
+individuals of the family further confirmed that the
+altered-size fragment segregates with the duplication,
+a result consistent with a duplication junction fragment
+(fig. 4; data not shown).
+Frameshift and In-Frame Duplications
+
+It is known that some exons of the DMD gene do
+not contain an integral number of triplet codons (Koenig et al. 1988; Malhotra et al. 1988; Baumbach et al.
+1989; Koenig et al. 1989), and duplication or deletion
+of a DNA segment containing such an exon would be
+expected to cause a shift of the translational reading
+frame of the mRNA. Because the intron/exon boundaries of parts of the DMD gene as well as the nucleotide sequence of the entire DMD cDNA have been determined, the resulting translational reading frame can
+cDNA4-5a
+
+WO 00 ° o o °. °
+.
+
+.f
+.
+
+q
+
+°r--
+
+. .
+
+J
+
+cDNA5b-7
+00
+
+m
+
+° -I
+
+4
+
+I
+
+I
+
+° 0oW
+
+-
+
+_
+
+.
+
+~~(
+
+(J)
+(J )
+
+shift
+s t----e f
+
+ND
+
+0e N
+
+cDNA8
+
+)(J)
+=tftl
+
+r=
+
+I
+
+---, I,, x,, x,,
+
+J( )
+
+(J )
+
+.L
+
+Figure I Duplication of exon-containing HindIII fragments detected by the DMD cDNA. The probes and their corresponding fragments (in kilobases) are shown on the top. T.R.F. = translational reading frame; ND = not determined; solid bars = DMD; hatched bars
+= intermediate; empty bars = BMD; J = duplication junction fragment detected. The exon-containing fragments detected by the distal
+cDNA probe 9-14 are not included, since no duplication was found in this region.
+
+A
+
+B
+
+14
+
+co
+
+w
+
+ar
+
+C
+
+LO
+In0
+
+In
+
+U)
+
+C)
+
+CO
+
+Sn
+
+co
+
+co
+" I
+
+co
+
+-8.2*
+
+.l
+
+-7.8
+
+-3.3
+-3.1
+-2.9
+
+cn
+C.)
+
+H 11.0*
+
+0.0(J)
+
+9.0
+8.5
+7.8
+
+-10.0
+
+-5.5
+
+_ 6.2*
+-6.0
+
+-4.40*
+
+-5.0(J)
+_ 4.2*
+
+-4.1
+-
+
+7.8 (C)
+
+- 5.3(C)
+
+D
+
+r
+
+Co-
+
+0
+CIn
+
+F
+
+E
+
+Cv,
+
+X
+
+- 5.3(C)
+
+I4
+
+C)
+
+cn)
+CI
+I
+
+N
+Tc-,
+
+_1030
+
+_1 1.0
+
+- 7.8
+
+_. 8 .-2*
+-7
+78*
+
+- 7.0*
+
+7.2
+
+-6.4
+-6.0
+
+-
+
+-
+
+3.
+
+3
+
+8*
+
+_4.4*
+-4 .1 *
+3.9
+- 3.3
+-3.1
+-2.9
+
+_ 3 @3*
+-3.1
+-2.9*
+-2.6
+
+- 5.3(C)
+
+-5.3(C)
+
+-1.6
+-1 .25
+
+5.3(C)
+686
+
+(A) 1
+
+,
+
+(B)
+2.0
+
+1.0'
+
+(
+
+A
+
+.1.5
+. 0
+.0
+
+C
+
+0^
+.0 1.0
+
+0.0
+
+.i -
+
+0.0
+
+(D)
+
+(C)
+
+1
+
+1.5
+
+C
+
+2.0
+
+4)
+w
+
+.1.0
+
+~~~~~~~D
+E F
+
+is
+
+60
+
+1.5
+
+MA
+
+1.0
+
+0.5
+0.5
+
+0.0
+
+0.0
+
+I
+
+(F)
+
+6
+
+(K)
+2.0
+
+6
+
+A
+
+B
+2.0
+
+.0
+1.,
+
+A
+1.5
+
+C.)
+
+D
+
+10
+
+F
+
+.0
+1.0
+
+E
+
+0o
+
+o.s .
+
+0.0
+
+0.0 -
+
+(G)
+B
+
+4.)
+
+A
+
+C
+
+DE F
+
+0.0
+
+Densitometric scanning results for the duplication case HSC1417 family. The autoradiographic film in fig. 5A was used.
+Figure 3
+(A), normal male. (B) normal female. (C), patient. (D), mother. (E), sister. (F), grandmother. (G), grandfather. Asterisks indicate the duplicated bands.
+
+Figure 2 Southern blot analysis of the duplication patients and normal subjects. Sample lanes contain DNA from a normal male
+(46XY), from a normal female (46XX), and from seven duplication patients. DNA was digested with HindIII (A and C-F) or EcoRI (B),
+and filters were hybridized with the cDNA probes: cdna la (gelA) (cdna la is a 0.5 kb 5' subfragment of cdna 1 and detects the first six
+ECHFs detected by cdna 1; Burghes et al. 1987), cDNA4-5a (B) (Koenig et al. 1987), cDNA5b-7b (C) (cDNA5b-7b is a 1.5-kb 3' subfragment
+of cDNA5b-7 and detects the last eight ECHFs detected by cDNA5b-7; Koenig et al. 1987), cdna 1 (D), cdna la (E), and cDNA8 (F) (Koenig
+et al. 1987). The size of the exon-containing fragments (in kilobases) is shown on the right side of the autoradiograph. The duplicated
+bands (indicated by asterisks) in the patients all show an intensity similar to that of the same bands in the normal female, while the rest
+of their bands show an intensity equal to that of the same bands in the normal male, indicating duplication of these bands in the patients.
+Two small bands with size 1.5 kb and 0.5 kb in C are not shown here, and both bands showed single intensity. J = duplication junction
+fragment. All filters were reprobed with a genomic probe, 99-6 (Aldridge et al. 1984), known to flank the gene, and the corresponding
+band of 5.3 kb is indicated as a control band, (C), at the bottom.
+687
+
+Hu et al.
+
+688
+Table 2
+Hybridization Intensity in Duplication Case HSC1417 Family
+RELATIVE BAND INTENSITY
+
+HYBRIDIZATION BAND
+
+46XY Patient Mother Sister Grandfather Grandmother 46XX
+
+8.2 kb (A)a ..........
+7.8 kb (B) ...........
+4.1 kb (C) ..........
+3.3 kb (D) ..........
+..
+3.1 kb (E)
+2.9 kb (F) ...........
+
+.
+
+92
+1.10
+.96
+.94
+.91
+.73
+
+2.12
+1.04
+2.35
+1.00
+1.01
+.82
+
+2.84
+1.89
+3.31
+2.06
+2.06
+2.30
+
+2.79
+1.80
+3.30
+2.08
+2.02
+2.37
+
+.87
+1.04
+.99
+.92
+1.10
+.88
+
+2.17
+2.07
+1.88
+1.72
+1.99
+2.13
+
+2.02
+1.82
+2.03
+2.15
+2.22
+2.19
+
+NOTE.-The autoradiographic film in fig. SA was scanned, and the densitographs are shown in fig.
+3. The relative band intensity was estimated as described in Subjects and Methods. The combined peak
+value of a normal male (46XY) and a normal female was divided by 3, and the resulting value was taken
+as the standard single intensity peak value.
+a Duplicated bands.
+
+be predicted for those duplications (or deletions) in
+which the number of nucleotides of the duplicated (or
+deleted) exons can be calculated. On the basis of the
+existing information, we were able to predict the translational reading frame for nine of the 10 duplications
+(table 1). A shift of the reading frame was predicted
+in four DMD cases and in one intermediate case, while
+in-frame duplication was predicted in two BMD cases,
+one intermediate case, and two DMD cases.
+It is important to know when predicting the conseA
+
+B
+
+b 6
+
+IT
+
+|-30.0
+-18.0(J)
+
+_4.7
+
+Identification of duplication junction fragments in
+Figure 4
+patients and their mothers. A, Sample lanes containing DNA from
+a normal male (46,XY), from a normal female (46,XX), and from
+four members of the case 1045 family. DNA was digested with BamHI
+and hybridized with the cDNA probe cdna la (Burghes et al. 1987).
+The duplication junction fragment (J) of 16.0 kb is seen in the patient and his mother. BA Sample lanes containing DNA from a normal male (46,XY), from a normal female (46,XX), and from seven
+members of the case HSC1337 family. DNA was digested with BamHI
+and hybridized with the cDNA probe cDNA8 (Koenig et al. 1987).
+The duplication junction fragment (J) of 19.0 kb is seen in the patient and his mother.
+
+quences of duplications on translational reading frame
+whether the junction of duplication lies within or outside an exon. In four of the nine duplications (cases
+627, 679, 1045, and 1337) in which we have predicted
+the reading frame, the junction can be detected with
+cDNA probes, and this raised the possibility that the
+junction might lie within an exon. However, we were
+able to show that in each case the junction does not
+lie within an exon, since at least one of three restriction
+enzymes (HindIII, EcoRI, and BglII) gave a normal
+restriction-fragment pattern (Koenig et al. 1987; Hu
+et al. 1988; Darras and Francke 1988; authors' unpublished data) with no junction fragment (figs. 2A and
+2F; data not shown). In addition, we confirmed the extent of the duplication in the two cases: in case 627
+by showing with an exon 20-specific subclone that the
+junction fragment contains exon 20 and in case 679
+by probing patient DNA with two probes -J-Bir and
+a subfragment of cDNA 5b-7 -flanking the duplicated
+region (Gilgenkrantz et al. 1989; authors' unpublished
+data); both probes detect single intensity bands on
+HindIl-digested DNA with no junction fragment.
+Recently, muscle specimens from two ofthe duplication patients (HSC627 and HSC1337) have been analyzed with western blotting technique using antibodies
+directed against the DMD protein, dystrophin. On the
+basis of DNA analysis, both of these duplications had
+been predicted to have a shift of the reading frame and
+were therefore predicted to produce a prematurely truncated protein. Western blot analysis showed that a
+smaller protein with the predicted molecular weight
+could be detected in both cases (D. E. Bulman, E. G.
+Murphy, E. E. Zubrzycka-Gaarn, R. G. Worton, and
+
+689
+
+Duplication Mutation at the DMD Locus
+P. N. Ray, personal communication). Because of the
+difficulty in obtaining muscle samples, we have not been
+able to apply western blot analysis to other duplications.
+Origin of Duplication
+We have previously traced the origin of duplication
+to the maternal grandfather in three of the families of
+the patients summarized here (patients HSC627, 689,
+and 1575). We have now determined the origin in two
+of the three additional 3-generation families (probands
+HSC679, 1337, and 1417). In the three families, the
+mother and the proband were found to carry the same
+duplication, as shown by the triple (mother) and double (patient) intensity of the same exon-containing fragments detected in their DNA (figs. 3 and 5; data not
+shown) and also, in two cases (HSC679 and 1337), by
+the detection of an identical duplication junction fragment in the patient and his mother (fig. 4B; data not
+shown). This indicates that in each case the mother is
+a carrier of the duplication and that she has transmitted the chromosome carrying the duplication to her son
+and, in one case (HSC1417), to her daughter as well.
+The maternal grandparents of two patients (HSC1337
+and 1417) were shown not to carry the duplication in
+their somatic cell (leukocytes) (figs. 4B and 5), and therefore in these two families the duplication most likely
+arose in the germ line of one of the maternal grandparents. In the family of HSC679, the maternal grandmother was found to carry the duplication in her somatic cells (data not shown). Therefore, it is not possible
+to trace the origin of the duplication in this family.
+In order to determine in which grandparent the duplication arose, RFLP analysis was carried out using probes
+within and flanking the DMD gene. As can be seen
+in figure 6, several intragenic as well as flanking markers were informative in both families, indicating a >99%
+probability that the maternal grandfather's X chromosome was inherited by the proband HSC1337 and that
+one of the maternal grandmother's X chromosomes was
+inherited by the proband HSC1417.
+Discussion
+
+Partial gene duplication has recently been recognized
+as one type of molecular defect leading to a genetic
+disease. To our knowledge, this has only been demonstrated in two individuals with a genetic disease other
+than DMD or BMD. In one case (Lehrman et al. 1987),
+a patient with familial hypercholesterolemia was found
+to be a compound heterozygote with two different mutant alleles of the LDL (low-density lipoprotein) recep-
+
+B
+
+A
+
+-
+
+8.2*
+7.8
+
+OQ
+
+-40.0
+7.0*
+-
+
+3.8
+3.7*
+
+-
+
+- 3.1.
+
+-3.3
+
+_ 3.1
+
+-
+
+5.3(C)
+
+-2.9
+
+-5.3(C)
+
+Figure 5 A, Southern blot analysis of the case HSC1417 family. DNA was digested with HindIII and hybridized with a cDNA
+probe cdna la (Burghes et al. 1987). Two bands (8.2 kb and 4.1 kb)
+(indicated by asterisks) in the patient show an intensity similar to
+that of the same bands in the normal female (46,XX), while the rest
+of his bands show an intensity equal to that of the same bands in
+the normal male (46,XY). This indicates the duplication of these
+two bands in this patient. These two bands in the mother and sister
+of the patient show an intensity approximately triple the single intensity of the same bands in the normal male or 1.5 times the intensity of the double intensity bands in the normal female, while other
+bands in these females show the normal double intensity. This confirms
+that the mother and sister of the patient are carriers of the duplication. Their carrier status was first suggested by elevated CK level.
+The duplication (patient) and triplication (mother and sister) of the
+8.2-kb band can best be appreciated by a change of the ratio of intensity in this band and the 7.8-kb band. This ratio is approximately
+1:2 in the normal individuals but has been changed to 1.1 in the
+patient and in his mother and sister. The triplication of these bands
+has been confirmed by densitometric analysis. All bands in the maternal
+grandparents show an intensity similar to that in normal individuals,
+indicating that they do not carry such a duplication in the somatic
+cells. B, Southern blot analysis of the case HSC1337 family. DNA
+was digested with HindIII and hybridized with the cDNA probe
+cDNA8 (Koenig et al. 1987). Three bands (7.0 kb, 3.7 kb, and 3.1
+kb) (as indicated by asterisks) in the patient show an intensity similar
+to that of the same bands in the normal female (46,XX), while the
+rest of his bands show an intensity equal to that of the same bands
+in the normal male (46,XY), indicating duplication of these bands
+in this patient. These bands in the mother of the patient show an
+intensity approximately triple the single intensity of the same bands
+in the normal male or 1.5 times the intensity of the double intensity
+of these bands in the normal female. This confirmed the carrier status of this mother, which had been suggested earlier by elevated CK
+level. The detection of an identical junction fragment in the patient
+and his mother further confirmed her carrier status (fig. 2B). Both
+the maternal grandparents have normal intensity bands, and no junction fragment is detected in them, indicating that they do not carry
+the duplication in their somatic cells. A control band (C) of 5.3 kb
+is shown at the bottom of both autoradiographs and is detected by
+the flanking probe 99-6 (Aldridge et al. 1984).
+
+I-
+
+837
+
+2
+
+'14
+
+12
+
+16- l12
+
+~~
+
+1 2
+132 -22
+
+'2.8
+'8.7
+1
+||
+
+-
+
+12
+
+12-
+
+III.
+
+72,6 -1.3
+
+-1.6
+-7.5
+
+*14- -12
+~12- -16
+
+s
+~ ~~~31
+4
+
+13- -22
+2.8- -1.6
+8.7- -7.5
+14- -12
+12- -16
+
+13- -22
+
+13 1.67.5-
+
+2.8- -1.6
+8.7- -7.5
+
+12-
+
+14- -12
+
+12-
+
+12- -16
+
+132
+probe
+99-6
+pERT87-15
+pERT87-1
+pERT87-1
+754
+
+* 2.81
+* 8.7
+*14
+12
+
+226.8-
+
+301
+
+3.3-
+
+1.
+
+7.8-1
+161
+6.6
+
+1
+
+2
+
+Enzyme
+
+RFLPs(kE
+
+Pst 1
+Xmn 1
+Xmn 1
+EcoR V
+Pst 1
+
+22/13
+2.8/1.6
+8.7/7.5
+14/12
+16/12
+
+13- -22
+3.5- -6.8
+8.01 -30
+
+3.5- 3.5'
+
+6.4- -6.4*
+6
+
+1.2-1k 6.2'
+
+6.6
+
+Probe
+99-6
+P20
+pERT87-30
+pERT87-15
+XJ 2.3
+754
+OTC
+
+Enzyme
+Pst 1
+Msp 1
+Bgl 11
+Taq 1
+Taq 1
+Pst 1
+Msp 1
+
+RFLPs (kb)
+22,13
+6.8, 3.5
+30, 8.0
+3.5, 3.3
+7.8, 6.4
+16, 12
+6.6, 6.2
+
+13-I
+IL 6.8303.36.412
+6.6
+
+Ill.
+-22
+22--13
+13 --22
+-6.8
+6.8-113.5
+-6.8
+30 -30
+-30
+8.01 -8.0
+3.5 -3.5
+3.5 *
+3.3- 3.5 *
+6.4
+-6.4
+*
+d
+6.46.4- 6.4
+122 12
+16
+12
+16
+6.6
+6.2
+6.2*
+6.6
+6.2 *
+Figure 6 A, RFLP analysis of the case HSC1337 family. Haplotype analysis demonstrates that the chromosome carrying the duplication
+(the duplicated region is represented by a black box) in the proband and his mother came from the proband's maternal grandfather. Asterisks
+indicate the intragenic RFLPs that are essential in deriving this conclusion. 754 and 99-6 are probes flanking the gene. B, RFLP analysis
+of the case HSC1417 family. Haplotype analysis demonstrates that the chromosome carrying the duplication (the duplicated region is represented by a black box) in the proband, in his mother, and in his sister came from the proband's maternal grandmother. Asterisks indicate
+the intragenic (pERT87-15 and XJ 2.3) and extragenic (OTC) RFLPs that are essential in deriving this conclusion.
+
+6.81
+
+Duplication Mutation at the DMD Locus
+tor gene, one of which had a duplication of seven exons.
+This duplication mutant allele produced an elongated
+LDL receptor with severely reduced binding capacity
+for LDL. The other case was a patient with LeschNyhan syndrome, an X-linked recessive disease, in
+whom it was shown that two of the nine exons of the
+HPRT (hypoxanthine-guanine phosphoribosyltransferase) gene are duplicated (Yang et al. 1984). The duplication mutant gene produced an mRNA with increased
+size consistent with the size predicted on the basis of
+DNA analysis, and the resulting enzyme (HPRT) had
+no measurable activity (Wilson et al. 1986).
+Evidence of gene duplication in the DMD locus was
+first provided by Bertelson et al. (1986), who reported
+a DMD patient with a double intensity hybridization
+band detected with the intragenic genomic probe,
+pERT87-15. Subsequently, den Dunnen et al. (1987)
+detected a double intensity band with an intragenic
+genomic probe, J-Bir, and with the field-inversion gel
+electrophoresis technique. We had conducted a survey
+for duplication in 120 unrelated DMD and BMD patients (Hu et al. 1988). Using a limited number of
+genomic probes and a cDNA probe that detects the first
+16 exons of the gene, we detected three duplications
+plus nine deletions in these patients. Because the probes
+used in that survey covered only about one quarter of
+the gene, the frequency of duplication (as well as deletion) was known to be underestimated. As well, it was
+recognized that the relative frequency of duplication
+versus deletion might not be accurate. The use of cDNA
+probes of the entire DMD gene was necessary in order
+to obtain accurate estimates of the frequency of duplication and deletion as well as the ratio of the two.
+Recently, Gillard et al. (1989) in our laboratory have
+completed a study of deletion in 181 unrelated DMD
+and BMD patients including the 120 cases mentioned
+above. Southern blot analysis was carried out by using
+probes representing the entire DMD cDNA, and 109
+deletions were found. With the same approach, we have
+searched for duplications in the remaining 72 nondeletion patients, and 10 duplications were identified.
+The estimated frequency of deletion (60%) is about
+10 times higher than that of duplication (6%). It is apparent that this is mainly due to the existence of the
+deletion-rich region defined by (a) the last four exoncontaining HindIII fragments (ECHFs) detected by
+cDNA probe Sb-7 and (b) all the ECHFs detected by
+cDNA probe 8 (Baumbach et al. 1989; Gillard et al.
+1989). More than two-thirds of our deletions (80/109)
+(Gillard et al. 1989) but less than one-third of our duplications (3/10) were found in this region (table 1 and
+
+691
+
+fig. 1), i.e., with at least one endpoint contained within
+this region. When deletions and duplications found in
+this region are excluded, the remaining deletions (29)
+are still four times more frequent than duplications (7).
+There are at least two possibilities that may contribute
+to the much higher frequency of deletion. First, even
+though unequal chromatid exchange would be expected
+to generate deletion as well as duplication with equal
+frequency (Weatherall and Clegg 1979; Vogel and Motulsky 1986), other mechanisms may also exist that can
+only produce deletion. In fact, many deletions found
+in other genetic diseases appear not to result from unequal chromatid exchange but rather to be generated
+from a single chromatid (Vanin et al. 1983; Lehrman
+et al. 1985; Nicholls et al. 1987). This type of intrachromatid deletion would not be expected to be a
+mechanism for generating duplication. It may be reasonable to assume that most deletions in the deletionrich region described above resulted not from unequal
+chromatid exchange but by a mechanism producing only
+deletion, since far more deletions than duplications were
+found in this region (over 25 times more). Second, duplications may not always be stably inherited, in that the
+duplicated region may undergo spontaneous deletion.
+There are two recent reports supporting this hypothesis. In one case (Yang et al. 1988), the Epstein-Barr
+virus-transformed lymphoblasts from a Lesch-Nyhan
+patient with a partial duplication of the HPRT gene
+were found to have undergone spontaneous deletion
+of the duplicated region. In the second case (Gitschier
+1988), a female was found to carry three different X
+chromosomes in her germ-line cells: a deletion of part
+of the factor VIII gene, a duplication of part of the factor VIII gene, and a normal copy of the gene. Because
+both the deletion and duplication mutations had arisen
+on the same X chromosome and because cloning and
+restriction-mapping results were not consistent with a
+reciprocal event for the generation of the deletion and
+duplication, it was suggested that the duplication might
+be a precursor to the deletion. It also remains a possibility that some duplications and deletions in the DMD
+gene may not cause disease phenotype. If so, the true
+ratio of deletion versus duplication could be different
+from that observed in the patients.
+Tandem duplication of a DNA sequence creates a
+duplication junction flanked by two segments of DNA
+which are normally separated in the genome. Therefore, the detection of a single duplication junction fragment can be taken as strong but not unequivocal evidence that the duplication is of tandem organization.
+The cloning of the duplication junction and the map-
+
+692
+
+ping of both ends of the duplicated region in two of
+our duplications (HSC627 and 689) have confirmed
+the tandem organization of these duplications (authors'
+unpublished data). We know from the literature that
+tandem duplication of DNA sequences can be generated by two mechanisms, namely, unequal chromatid
+exchange and DNA slippage. The latter has been found
+to be involved in short DNA motifs (probably less than
+10 bp) (Dover 1989). In our cases the duplicated region
+is large (100 kb or larger), and therefore the DNA slippage mechanism is unlikely the one. The insertion of
+DNA, which would create two junctions at the site of
+insertion (Gitschier 1988; Kazazian et al. 1988), can
+also generate a duplicate copy on a chromatid, but the
+chance for the duplicated copy to be arranged in tandem with the original copy would be expected to be
+very low and therefore is less likely the mechanism here.
+Deletions appear to occur with approximately equal
+frequency in DMD and BMD (Forrest et al. 1987; Hart
+et al. 1987). Sequences deleted in DMD patients may
+also be deleted in BMD patients, and the size of deletion does not appear to correlate with the severity of
+the disease. It has been proposed (Monaco et al. 1988)
+that DMD may result largely from frameshift deletions
+while BMD usually results from deletions that maintain the translational reading frame. The same hypothesis has also been proposed for duplication (Hu et al.
+1988). Studies carried out with deletions showed that,
+though exceptions exist, the reading-frame hypothesis
+holds true for most deletions (Malhotra et al. 1988;
+Monaco et al. 1988; Baumbach et al. 1989; Gillard et
+al. 1989; Koenig et al. 1989). In the present study,
+frameshift duplication accounts for four of the six DMD
+cases and for one intermediate case while in-frame duplication accounts for two BMD cases in addition to one
+intermediate and two DMD cases (table 1), suggesting
+that this hypothesis in general also holds true for duplications.
+An exception to the reading-frame hypothesis is the
+in-frame duplication of exons 3 and 4 that results in
+two cases with severe phenotypes (one DMD and one
+intermediate). This is especially noteworthy since in two
+cases a larger in-frame duplication of exons 2-7, which
+spans the smaller duplication of exons 3 and 4, gave
+rise to the milder BMD (table 1 and fig. 1). At this point
+we do not have an explanation for this unusual finding,
+but we suspect that this might be due to structural differences of the resulting proteins. It has been reported that
+dystrophin and alpha-actinin share their greatest similarity over a putative actin-binding N-terminal region that
+corresponds to about amino acids 14-240 of dystro-
+
+Hu et al.
+
+phin, and this domain covers exons 2-8 (Hammonds
+1987; Koenig et al. 1988). Therefore, the duplication
+of exons 2-7 results in the duplication of almost the
+entire putative actin-binding domain. As a result, the
+structure and function of this domain might be partially preserved. The duplication of exons 3 and 4, on
+the other hand, results in the duplication of only part
+of this domain, and this may lead to a severe disruption
+of the structure - and therefore of the function - of this
+domain. However, since the function of dystrophin has
+not been definitively determined, the above explanation remains only a speculation.
+The duplication of specific exons provided a marker
+to study the origin of the mutation. In conjunction with
+RFLP haplotype analysis, the chromosome that carries
+the duplication can be assigned specifically to the family member in whom the duplication originated. Such
+analyses were carried out in the present study with two
+families in which the affected boy and his mother both
+carried a duplication while the grandparents did not.
+In one family (HSC1337) it was found that the maternal grandfather's X chromosome was transmitted to
+the proband (fig. 6A). Since the grandfather neither carries the duplication in his somatic cells (leukocytes) nor
+shows any sign of this disease, the duplication most
+likely arose in his germ line. In family two (HSC1417),
+it was one of the maternal grandmother's X chromosomes that was transmitted to the proband (fig. 6B).
+Since the grandmother does not carry the duplication
+in her somatic cells (leukocytes), the duplication most
+likely arose in her germ line. It is possible, however,
+that in one or both of these grandparents the duplication arose in an embryonic cell prior to segregation of
+the germ line. In such a case the resulting mosaicism
+might be detectable in some non-germ-line tissues, but
+only the leukocytes were investigated in the present
+study. There is also the possibility that one or both of
+these duplications arose in a postzygotic somatic division in the mother of the proband. If this happened,
+it must have been at a very early embryonic stage, since
+the duplications are clearly present in both mothers'
+somatic cells as well as in their germ cells. Also, the
+unequal crossover event would have had to occur between the sister chromatids of the mother's duplicationbearing X chromosome, since crossing-over between
+nonsister chromatids of the mother's two X chromosomes would have resulted in the exchange of the flanking RFLPs of the duplication-bearing X chromosome
+received by her son and her daughter. No such switch
+of the flanking RFLPs was found.
+The demonstration of a male origin of duplication
+
+Duplication Mutation at the DMD Locus
+in the DMD locus would indicate the involvement of
+an intrachromosomal event such as unequal sisterchromatid exchange. In addition to the case described
+in the present study (HSC1337), we have elsewhere
+reported three other DMD duplications with a male
+origin (Hu et al. 1989) (table 1), suggesting that duplications may arise more frequently by an intrachromosomal mechanism than by an interchromosomal mechanism such as unequal crossing-over in meiosis. It is
+interesting that the only duplication (HSC1417) that
+we found to display a female origin also indicates an
+unequal sister-chromatid exchange event. If this duplication had resulted from nonsister chromatid exchange,
+the polymorphic alleles flanking the duplicated region
+would have been recombined. However, no recombination of flanking RFLPs was found.
+We were able to study the DNA from mothers of seven
+isolated duplication cases (five DMD [HSC679, 689,
+1337, 1417, and 1575] and two intermediate [HSC627
+and 1045]), and all seven were found to carry the duplication. In addition, five of the seven mothers had
+elevated CK levels, and this further confirmed their carrier status. This indicates that none of these seven duplications originated as new mutations in the mother.
+Roses (1988) has recently reported a study of 15 DMD
+families in which a deletion has been identified. Fourteen of the 15 mothers were found to carry the deletion. Even though the number of cases is too small for
+statistical analysis, these findings on duplication and
+deletion are unexpected in view of the theoretical expectation that one-third of DMD patients are new mutants, an expectation which is supported by the majority
+of population studies (Bobrow et al. 198 8). Further analysis of the population aspects of DMD, combined with
+molecular analysis, may clarify such apparent discrepancies.
+One possibility that could lead to fewer new mutants
+than predicted by Haldane's (1935) rule is a higher rate
+of mutation in sperm than in ova. Our finding that four
+duplications originated in a male (the maternal grandfather) and that only one originated in a female (the
+maternal grandmother) would be in agreement with this
+view. It is known that in human germ-cell development,
+all oocytes can be formed by as few as 23 cell divisions
+occurring before birth, while several hundred cell divisions are needed for the formation of sperm (Vogel and
+Rathenberg 1975). If there is no selection and the chance
+for a chromatid exchange event per cell division is equal
+in male and female, it would be expected that mutant
+sperm would accumulate during spermatogenesis, i.e.,
+the frequency of a sperm carrying a mutant gene would
+
+693
+
+be higher than the frequency of an ovum carrying a
+mutant gene. Since unequal sister-chromatid exchange
+would be expected to be associated with DNA replication, it is therefore likely that duplications do occur
+more often in male than in female. However, the above
+explanation assumes that most (if not all) of the duplications are generated in mitosis. Because all five duplications traced to a grandparent were transmitted to only
+a single offspring, there is no evidence of germ-line
+mosacism, and a meiotic exchange event cannot be ruled
+out. Wagstaffet al. (1985) have reported a very interesting finding which might lead to an explanation for a
+preferential male origin of duplication at the DMD locus. Using haploid yeast strains as experimental material, they observed that meiotic intrachromosomal exchange events occurred at least 10 times more frequently
+in the absence of a homologous chromosome than its
+presence. They further suggested that, in the absence
+of a homologous chromosome, synaptonemal complexes, which are normally required for homologous
+chromosome pairing, would mediate sister-chromatid
+pairing, thus resulting in the very high intrachromosomal recombination frequencies seen during haploid
+meiosis. Since the DMD locus does not have a homologous counterpart on the Y chromosome, a much higher
+frequency of meiotic intrachromosomal recombination
+might be expected at this locus. This explanation does
+not seem to hold for deletion, however, since a recent
+study (Darras et al. 1988) of 13 deletion families has
+revealed male origin of the mutation in five families and
+female origin in eight, a result not suggesting a higher
+mutation rate in male.
+In conclusion, the present study suggests the following: (1) Partial gene duplication accounts for the mutation in about 6% of patients with DMD and BMD.
+Duplications were found to occur at a much lower rate
+than did deletions, and this may imply that mechanisms
+other than unequal chromatid exchange play an important role in the generation of deletions at this locus.
+(2) Duplications that are expected to shift the translational reading frame tend to lead a more severe clinical
+phenotype than do duplications that maintained the
+reading frame. (3) Duplications appear to originate more
+often in male than in female. This might be due either
+to the differences in the germ-cell development in male
+and in female or to the lack of homologous pairing
+of the DMD region in meiosis. (4) The finding that in
+all five cases ascertained the duplication originated from
+a single X chromosome would suggest that unequal
+sister-chromatid exchange is the most common mechanism for the generation of duplication in DMD and
+
+694
+
+BMD. Whether this type of chromosomal exchange also
+takes place in other parts of the human genome remains
+to be seen.
+
+Acknowledgments
+We thank Dr. M. Koenig for providing us his unpublished
+sequencing data; Dr. A. H. M. Burghes for useful discussion
+of the manuscript; I. Oss and Dr. W. Greer for their help
+in obtaining blood samples; and C. Duff, B. Smith, T. Selander,
+and M.-J. Masse for their technical assistant. This work was
+supported by the Muscular Dystrophy Association of Canada,
+the Muscular Dystrophy Association (USA), and the Medical Research Council of Canada. X.H. has received an MRC
+fellowship.
+
+References
+Aldridge J, Kunkel L, Bruns G, Tantravahi U, Lalande M,
+Brewster T, Moreau E, et al (1984) A stratage to reveal highfrequency RFLPs along the X-chromosome. Am J Hum
+Genet 36:546-564
+Baumbach LL, Chamberlain JS, Ward MS, Farwell NJ, Caskey
+CT (1989) Molecular and clinical correlations of deletions
+leading to Duchenne and Becker muscular dystrophies. Neurology 39:465-474
+Bertelson CJ, Bartley JA, Monaco AP, Colletti-Feener C,
+Fischebeck K, Kunkel LM (1986) Localisation of Xp21
+meiotic exchange points in Duchenne muscular dystrophy
+families. J Med Genet 23:531-537
+Bobrow M, Walker A, Walton J (1988) The parental origin
+of mutations causing Duchenne muscular dystrophy. Arch
+Neurol 45:85-87
+Burghes AHM, Logan C, Hu X, Belfall B, Worton RG, Ray
+PN (1987) A cDNA clone from the Duchenne/Becker muscular dystrophy gene. Nature 328:434-437
+Darras BT, Blattner P, Harper JF, Spiro AJ, Alter S, Francke
+U (1988) Intragenic deletions in 21 Duchenne muscular
+dystrophy (DMD)/Becker muscular dystrophy (BMD) families studied with the dystrophy cDNA: location of breakpoints on HindIII and BglII exon-containing fragment maps,
+meiotic and mitotic origin of the mutations. Am J Hum
+Genet 43:620-629
+Darras BT, U Francke (1988) Normal human genomic restriction-fragment patterns and polymorphisms revealed
+by hybridization with the entire dystrophin cDNA. Am J
+Hum Genet 43:612-619
+Davies KE, Briand P, Ionasescu V, Ioansescu G, Williamson
+R, Cavard C, Cathelineau L (1985) Gene for OTC: characterization and linkage to Duchenne muscular dystrophy.
+Nucleic Acids Res 13:155-165
+Davies KE, Smith TJ, Bundey S, Read AP, Flint T, Bell M,
+Speer A (1988) Mild and severe muscular dystrophy associated with deletions in Xp2l of the human X chromosome. J Med Genet 25:9-13
+
+Hu et al.
+
+den Dunnen JT, Bakker E, Klein Breteler EG, Pearson PL,
+van Ommen GJB (1987) Direct detection of more than 50%
+of the Duchenne muscular dystrophy mutations by field
+inversion gels. Nature 329:640-642
+Dorkins H, Junien C, Mandel JL, Wrogemann K, Moison
+JP, Martinez M, Old JM, et al (1985) Segregation analysis
+of a marker localized to Xp21.2-Xp21.3 in Duchenne and
+Becker muscular dystrophy families. Hum Genet 71:103-107
+Dover GA (1989) Slips, strings and species. Trends Genet 5:
+100-102
+Feinberg AP, Vogelstein B (1983) A technique for radiolabeling DNA restriction endonuclease fragments to high specific
+activity. Anal Biochem 132:6-13
+Forrest SM, Cross GS, Thomas NST, Harper PS, Smith TJ,
+Read AD, Mountford RC, et al (1987) Effective strategy
+for prenatal prediction of Duchenne and Becker muscular
+dystrophies. Lancet 2:1294-1297
+Gilgenkrantz H, Chelly J, Lambert M, Recan D, Barbot JC,
+van Ommen GJB, Kaplan JC (1989) Analysis of molecular
+deletions with cDNA probes in patients with Duchenne
+and Becker muscular dystrophies. Genomics 5:574-580
+Gillard EF, Chamberlain JS, Murphy EG, Duff CL, Smith
+B, Burghes AHM, Thompson MW, et al (1989) Molecular
+and phenotypic analysis of patients with deletions within
+the deletion-rich region of the Duchenne muscular dystrophy (DMD) gene. Am J Hum Genet 45:507-520
+GitschierJ (1988) Maternal duplication associated with gene
+deletion in sporadic hemophilia. Am J Hum Genet 43:
+274-279
+Greenberg CR, Rohringer M, Jacobs HK, Averill N, Nylen
+E, van Ommen GJB (1988) Gene studies in newborn males
+with Duchenne muscular dystrophy detected by neonatal
+screening. Lancet 20:425-427
+Haldane JBS (1935) The rate of spontaneous mutation of a
+human gene. J Genet 31:317-326
+Hammonds RC Jr (1987) Protein sequence of DMD gene is
+related to actin-binding domain of a-actin. Cell 51:1
+Hart KA, Hodgson S, Walker A, Cole CG, Johnson L,
+Dubovitz V, Bobrow M (1987) DNA deletions in mild and
+severe Becker dystrophy. Hum Genet 75:281-285
+Hofker MH, Wapenaar MC, Goor N, Bakker E, van Ommen GJB, Pearson PL (1985) Isolation of probes detecting
+restriction fragment length polymorphisms from X chromosome-specific libraries: potential use for diagnosis of
+Duchenne muscular dystrophy. Hum Genet 70:148-156
+Hu X, Burghes AHM, Bulman DE, Ray PN, Worton RG
+(1989) Evidence for mutation by unequal sister chromatid
+exchange in the Duchenne muscular dystrophy gene. Am
+J Hum Genet 44:855-863
+Hu X, Burghes AHM, Ray PN, Thompson MW, Murphy
+EG, Worton RG (1988) Partial gene duplication in Duchenne
+and Becker muscular dystrophies. J Med Genet 25:369-376
+Kazazian HH Jr, Wong C, Youssoufian H, Scott AF, Phillips
+DG, Antonarakis SE (1988) Haemophilia A resulting from
+de novo insertion of Li sequences represents a novel mechanism for mutation in man. Nature 332:164-166
+
+Duplication Mutation at the DMD Locus
+Koenig M, Beggs AH, Moyer M, Scherpf S, Heindrich K,
+Bettecken T, Meng G, et al (1989) The molecular basis
+for Duchenne versus Becker muscular dystrophy:correlation of severity with type of deletion. Am J Hum Genet
+45:498-506
+Koenig M, Hoffman EP, Bertelson CJ, Monaco AP, Feener
+C, Kunkel LM (1987) Complete cloning of the Duchenne
+muscular dystrophy (DMD) cDNA and preliminary
+genomic organization of the DMD gene in normal and
+affected individuals. Cell 50:509-517
+Koenig M, Monaco AP, Kunkel LM (1988) The complete sequence of dystrophin predicts a rod-shaped cytoskeletal
+protein. Cell 53:219-228
+Lehrman MA, Goldstein JL, Russell DW, Brown MS (1987)
+Duplication of seven exons in LDL receptor gene caused
+by Alu-Alu recombination in a subject with familial hypercholesterolemia. Cell 48:827-835
+Lehrman MA, Schneider WJ, Sudhof TC, Brown MS, Goldstein JL, Russell DW (1985) Mutation in LDL receptor:
+Alu-Alu recombination deletes exons encoding transmembrane and cytoplasmic domains. Science 227:140-146
+Liechti-Gallati S, Braga S, Hirsiger H, Moser H (1987) Familial
+deletion in Becker type muscular dystrophy within the pXJ
+region. Hum Genet 77:267-268
+Malhotra S, Hart K, Klamut H, Thomas N, Bodrug S, Burghes
+A, Bobrow M, et al (1988) Frame shift deletions with
+Duchenne and Becker muscular dystrophy. Science 242:
+755-759
+Monaco AP, Bertelson CJ, Colletti-Feener C, Kunkel LM
+(1987) Localization and cloning of deletion breakpoints
+in Xp2l involved in muscular dystrophy. Hum Genet
+75:221-227
+Monaco AP, Bertelson CJ, Middlesworth W, Colletti C-A,
+Aldridge J, Fischbeck KH, Bartlett R, et al (1985) Detection of deletions spanning the Duchenne muscular dystrophy locus using a tightly linked DNA segment. Nature
+316:842-845
+Monaco AP, Bertelson CJ, Liechti-Gallati S, Moser H, Kunkel
+LM (1988) An explanation for the phenotypic differences
+between patients bearing partial deletions of the DMD locus. Genomics 2:90-95
+Nicholls RD, Fischel-Ghodsian N, Higgs DR (1987) Recombination at the human a-globin gene cluster: sequence features and topological constraints. Cell 49:369-378
+
+695
+Ray PN, Belfall B, Duff C, Kean C, Thompson MW, Sylvester JE, Gorski JL, et al (1985) Cloning of the breakpoint of an X;21 translocation associated with Duchenne
+muscular dystrophy. Nature 318:672-675
+Roses AD (1988) Mutants in Duchenne muscular dystrophyimplications for prevention. Arch Neurol 45:84-85
+Thompson MW, Ray PN, Belfall B, Duff C, Logan C, Oss
+I, Worton RG (1986) Linkage analysis of polymorphisms
+within the DNA fragment XJ cloned from the breakpoint
+of an X;21 translocation associated with X linked muscular dystrophy. J Med Genet 23:548-555
+Vanin EF, Henthern PS, Kioussis D, Grosveld F, Smithies 0
+(1983) Unexpected relationships between four large deletions in the human 0-globin gene cluster. Cell 35:701-709
+Vogel F, Motulsky AG (1986) Unequal crossing over. In: Vogel
+F, Motulsky AG (eds) Human genetics: problems and approaches, 2d ed. Springer, Berlin, Heidelberg, New York,
+and Tokyo, pp 168-171
+Vogel F, Rathernberg R (1975) Spontaneous mutation in man.
+Adv Hum Genet 5:223-318
+WagstaffJE, Klapholz S, Waddell CS, Jensen L, Esposito RE
+(1985) Meiotic exchange within and between chromosomes
+requires a common rec function in Saccharomyces cerevisiae.
+Mol Cell Biol 5:3532-3544
+Wapenaar MC, Kievits T, Hart KA, Abbs S, Blonden LAJ,
+den DunnenJT, Grootscholten PM, et al (1988) A deletion
+hot spot in the Duchenne muscular dystrophy gene. Genomics 2:101-108
+Weatherall DJ, Clegg JB (1979) Recent developments in the
+molecular genetics of human hemoglobin. Cell 16:467-479
+Wilson JM, Stout JT, Palella TD, Davidson BL, Kelley WN,
+Caskey CT (1986) A molecular survey of hypoxanthineguanine phosphoribosyltransferase deficiency in man. J Clin
+Invest 77:188-195
+Worton RG, Thompson MW (1988) Genetics of Duchenne
+muscular dystrophy. Annu Rev Genet 22:601-629
+Yang TP, Patel PI, Chinault AC, Stout JT, Jackson LG, Hildebrand BM, Caskey CT (1984) Molecular evidence for
+new mutation at the hpht locus in Lesch-Nyhan patients.
+Nature 310:412-414
+Yang TP, Stout JT, Konecki DS, Patel PI, Alford RL, Caskey
+CT (1988) Spontaneous reversion of novel Lesch-Nyhan
+mutation by HPRT gene rearrangement. Somatic Cell Mol
+Genet 14:293-303
+
+

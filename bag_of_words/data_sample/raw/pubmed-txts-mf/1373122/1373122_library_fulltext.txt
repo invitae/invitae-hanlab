@@ -1,0 +1,1077 @@
+GENOMICS
+
+12,596-600
+
+(1992)
+
+Characterization
+of Two Missense Mutations in Human
+Galactose-I -phosphate Uridyltransferase:
+Different Molecular Mechanisms for Galactosemia
+JUERGEN K. V. REICHARDT,*,’
+
+JOHN W. BELMONT,*
+
+HARVEY L. LEw,t
+
+AND SAVIO L. C. Woo*
+
+*Howard Hughes Medical Institute, Department of Cell Biology, and Institute for Molecular Genetics, Baylor College of Medicine,
+Texas Medical Center, Houston, Texas 77030-3498; and tDepartment
+of Neurology and Joseph P. Kennedy, Jr., Laboratories,
+Harvard Medical School and Massachusetts General Hospital, Boston, Massachusetts 02129
+Received
+
+July 22, 1991;
+
+revised
+
+We report the molecular characterization
+of two novel galactosemia mutations that exhibit different molecular phenotypes. Both are of the missense type with low or no residual
+enzyme activity. The R148W mutation results in an unstable
+protein, although messenger RNA is still produced. In contrast, the L195P mutation produces stable but inactive immunoreactive protein. The R148W mutation alters an amino acid
+that is not evolutionarily
+conserved, while the L195P mutation affects a well-conserved
+residue nine amino acids downstream from the putative active site nucleophile.
+These mutations provide evidence that different mechanisms can result in
+galactosemia:
+destabilizing
+mutations in any given area of the
+protein and missense mutations in conserved domains of the
+enzyme resulting in low or no activity. These two mutant alleles represent the fifth and sixth galactosemia
+mutations and
+confirm the hypothesis that galactosemia results from a multiplicity of mutations
+at the molecular
+level.
+o 1992 Academic
+Press, Inc.
+
+INTRODUCTION
+
+The most common form of galactosemia (McKusick
+230400) is the result of a deficiency in the enzyme galactose-l-phosphate
+uridyltransferase
+(GALT;2 EC
+2.7.7.12; Segal, 1989). The metabolic result is an inability of the afflicted individual to metabolize galactose
+properly, causing elevated levels of galactose and its metabolites in blood and other tissues. This disease is characterized in its acute neonatal form by lethargy, poor
+feeding, and jaundice due to liver disease after milk ingestion. Neonatal death due to Escherichia coli sepsis is
+not uncommon. Surviving untreated patients develop
+the chronic complications of cataracts, cirrhosis, and
+mental retardation. Since dietary galactose restriction
+eliminates these symptoms, many U.S. states and West’ To whom correspondence
+should be addressed.
+* Abbreviations
+used: ASO, allele-specific
+oligonucleotide;
+CRM,
+cross-reacting
+material;
+GALT,
+galactose-l-phosphate
+uridyltransferase; PCR, polymerase
+chain reaction;
+PKU, phenylketonuria.
+osJ33-7543/92 $3.00
+Copyright 0 1992 by Academic
+All
+
+rights
+
+of reproduction
+
+596
+Press, Inc.
+
+in any form
+
+reserved.
+
+October
+
+31, 1991
+
+ern countries have instituted newborn screening programs to identify patients as early as possible. Unfortunately, long-term follow-up studies have revealed that
+even early-treated and well-managed patients are prone
+to develop chronic complications such as neurologic abnormalities and ovarian dysfunction (Waggoner et al.,
+1990). Genetically, galactosemia is inherited as an autosomal recessive disorder with an incidence of about
+1:60,000 (Levy and Hammersen, 1978).
+The molecular analysis of galactosemia began with
+the cloning of a full-length, expressible cDNA encoding
+human GALT (Reichardt and Berg, 1988a). This probe
+demonstrated that the 13 galactosemic patients analyzed had normal GALT genes as assessedby Southern
+blotting (Reichardt, 1989), full-length mRNA (Reichardt, 1989), and full-length immunoreactive protein
+(CRM; Banroques et al., 1983; Reichardt, 1989). To date,
+we have characterized four galactosemia mutations, two
+GALT polymorphisms, and one silent nucleotide change
+in human GALT (Reichardt and Woo, 1991; Reichardt
+et al., 1991). These experiments led us to propose that (a)
+galactosemia is caused by a multiplicity of mutations,
+which may explain the clinical heterogeneity commonly
+observed in this disease; and (b) mutations appear to
+affect residues conserved in evolution, while polymorphisms alter variable amino acids. Thus, functionally
+important residues are conserved in evolution and mutating them causes disease.
+Here we report the molecular analysis of GALT in two
+galactosemia patients. Each patient is a compound heterozygote for the common Ql88R mutation (Reichardt
+et al., 1991) and both new mutations are rare. Thus, galactosemia is caused by a multiplicity
+of mutations,
+which is interesting in light of the clinical heterogeneity
+observed in this disorder. One new mutation, L195P, fits
+the pattern we had previously observed: this mutation
+affects a well-conserved residue and results in no GALT
+activity. Furthermore, it is located nine amino acids
+downstream from the putative active site nucleophile. In
+contrast, the other new mutation, R148W, defines a
+
+DIFFERENT
+
+MOLECULAR
+
+MECHANISMS
+
+novel molecular phenotype in galactosemia: this missense mutation affects a variable area of the protein and
+leads to a destabilization
+of the encoded polypeptide.
+Thus, different molecular mechanisms, missense mutations in conserved domains resulting in inactive proteins
+and missense mutations that destabilize the protein itself, can cause galactosemia.
+MATERIALS
+
+AND
+
+Computer
+analysis.
+cDNA sequences were analyzed
+with
+from the Molecular
+Biology
+Information
+Resource
+(MBIR
+College of Medicine).
+Nucleic
+acid sequences were examined
+MAP algorithm
+and the default 166 restriction
+endonuclease
+tion sites.
+
+programs
+at Baylor
+with the
+
+recogni-
+
+RESULTS
+
+Identification
+
+597
+
+GALACTOSEMIA
+
+A
+
+normal
+
+mutant
+
+GATCGATC
+
+METHODS
+
+Patient
+material.
+Heparinized
+blood from classic galactosemia
+patients and their parents
+was obtained
+in Boston and Houston.
+It was
+then fractionated
+and the white blood cells were transformed
+with
+EBV (Epstein-Barr
+virus) as described
+by Reichardt
+and Woo (1991)
+to yield cell lines JR109, JRllO,
+and JR111 and JR113, JR114, and
+JR115, respectively.
+Patients
+were identified
+by a positive
+newborn
+metabolite
+screening
+test and confirmed
+by quantitating
+their erythrocyte galactose-l-phosphate
+uridyltransferase.
+The biochemical
+findings as well as the clinical history
+of the patients
+were consistent
+with
+the diagnosis
+of galactosemia.
+Both patients
+were placed on a galactose-restricted
+diet within
+the first 2 weeks of life.
+RNA was prepared
+Mutation
+identification
+by direct sequencing.
+from EBV-transformed
+cells and reverse-transcribed
+into total cDNA
+as described
+(Reichardt
+and Woo, 1991). The resulting
+cDNA population was amplified
+by PCR (polymerase
+chain reaction)
+with AmpliTaq DNA
+polymerase
+(PEC,
+Norwalk,
+CT) with
+amplification
+primers
+obtained
+commercially
+from AS1 (Pleasanton,
+CA) or Genosys (Houston,
+TX) (Reichardt
+and Woo, 1991). These primers
+were
+removed
+by electrophoresis
+through
+a 1.1% agarose gel, and the 1.2-kb
+GALT
+amplification
+product
+was recovered
+by extraction
+with glass
+powder
+(BiolOl,
+La Jolla, CA). Double-stranded
+PCR products
+were
+directly
+sequenced
+as described
+by Reichardt
+and Woo (1991) with
+Sequenase
+2.0 (USB, Cleveland,
+OH).
+Allele-specific
+oligonucleotides
+(ASO, obMutation
+confirmation.
+tained from AS1 or Genosys)
+were hybridized
+to blotted cDNAs from
+our patients
+and their respective
+parents
+as well as to cDNA obtained
+from other normal
+and galactosemic
+cell lines (Reichardt
+and Woo,
+1991; Reichardt
+et al., 1991). The sequences of the mutant
+ASOs were
+CCTGAGATCTGGGCTGTT
+and GCAGTTTCCCGCCAGATAT.
+These oligonucleotides
+were end-labeled
+with [-y-a2P]ATP
+(6000 Ci/
+mmol, NEN,
+Boston,
+MA) by T4 polynucleotide
+kinase (NEB,
+Beverly, MA). Hybridization
+was performed
+for 15 h at 42°C in 6~ SSPE,
+0.5% SDS, 1X Dehnhardt’s,
+and 200 pg/ml denatured
+salmon sperm
+DNA. Blots were washed in a solution
+of 3 M tetramethylammonium
+chloride
+(Aldrich,
+Milwaukee,
+WI; Wood et al., 1985), 0.5% SDS, 0.1
+mM Tris, and 0.1 mM EDTA,
+pH 7.5, three times for 5 min at 25”C,
+once at 63’C, and once more at 25°C. Mutations
+were reconstructed
+by site-directed
+mutagenesis
+in pJR16 (Reichardt
+and Woo, 1991) and
+confirmed
+by sequencing
+rescued clones. GALT activity
+and immunoreactive
+protein
+were measured
+3 days after electroporation
+into cos
+cells (Reichardt
+and Woo, 1991). Total RNA was blotted onto Nytran
+filters
+(Schleicher
+& Schuell,
+Keene, NH) and hybridized
+to 32P-labeled GALT
+cDNA probe (Reichardt
+and Berg, 1986a).
+
+Mutation
+
+IN
+
+glu
+ile
+GAG ATC
+-----
+
+arg
+CGG
+T-..
+
+ala
+GCT
+---
+
+val
+GTT normal
+--mutant
+
+I
+
+”
+
+V‘^’
+
+FIG.
+1. Sequence
+characterization
+of the R148W
+galactosemia
+mutation.
+(A) PCR products
+from cell line JR113 were directly
+sequenced. The mutation
+occurs in a heterozygous
+stage and is marked
+by an arrow. (B) Paternal
+inheritance
+of the mutation.
+Lanes 1,2, and
+3, respectively,
+are cDNA from the father (JR115),
+patient
+(JR113),
+and mother
+(JR114)
+hybridized
+to the mutant
+ASO.
+
+chain reaction to yield the entire GALT coding region as
+a single 1.2-kb fragment (Reichardt and Woo, 1991).
+After gel purification,
+the PCR products were directly
+sequenced using internal sequencing primers. This procedure eliminates Taq polymerase errors commonly observed in cloned PCR products. Both patients were compound heterozygotes for the previously identified Ql88R
+galactosemia mutation (Reichardt et aZ., 1991; data not
+shown). At nucleotide 470 of cell line JR113 we observed
+a C to T transition resulting in the substitution
+of arginine 148 with tryptophan
+(R148W; Fig. 1A). We also
+identified a second transition, T to C, at nucleotide 612
+that replaces leucine 195 with proline (L195P; Fig. 2A).
+We also examined whether these two mutations would
+result in altered recognition sequences for restriction endonucleases in the cDNA with the MAP program. The
+R148W mutation would lead to the loss of several such
+sites, includingAZur1, HpaII, and NciI, Furthermore, this
+mutation would lead to the gain of a BglII site. In contrast, no restriction recognition sites for commonly used
+enzymes would be altered in the cDNA by the L195P
+mutation.
+
+by Direct Sequencing
+
+To determine the galactosemia mutations in the galactosemic lymphoblastoid
+cell lines JR109 and 113, we synthesized total cDNA from mRNA. This cDNA preparation was then specifically amplified by the polymerase
+
+Mendelian Inheritance of the R148W and L195P
+Mutations
+
+We examined the inheritance of the two mutations in
+the respective families by hybridizing allele-specific oli-
+
+598
+
+REICHARDT
+
+ET AL.
+
+A
+
+TABLE
+normal
+
+mutant
+
+1
+
+Enzymatic
+Properties
+of the R148W
+and L195P
+Mutations
+
+GATCGATC
+
+activity
+(wmol X h-l)
+
+GALT
+protein
+(rz61 cpm)
+
+Specific
+activity
+(pmol X h-i
+X cpm-i)
+
+25
+793
+39
+
+58
+1686
+79
+
+0.4
+0.5
+0.5”
+
+18
+345
+17
+
+44
+831
+797
+
+0.4
+0.4
+0.0
+
+GALT
+Construct
+
+ser phe
+AGT TTC
+-----
+
+leu pro asp
+CTG CCA GAT normal
+-C- ----mutant
+pro
+-
+
+Experiment
+Mock
+pJR16
+pJR30
+Experiment
+Mock
+pJR16
+pJR28
+
+1
+(none)
+(normal)
+(tryptophan
+148)
+2
+(none)
+(normal)
+(proline
+195)
+
+’ This value is an approximation
+ble (cf. Fig. 3A).
+
+since the mutant
+
+protein
+
+is unsta-
+
+substantial overexpression of GALT immunoreactive
+protein with no detectable activity (Table 1). Thus, this
+mutation encodes an enzymatically inactive protein.
+Frequency of the R148 W and Ll95P Mutations
+
+FIG. 2. Sequence characterization
+of the L195P galactosemia
+mutation.
+(A) PCR products were directly sequenced on the antisense
+strand. The patient
+is heterozygous
+and the mutation
+is indicated
+by
+an arrow. (B) Paternal
+inheritance
+of the mutation.
+cDNAs from the
+father
+(lane 1, JRlll),
+the patient
+(lane 2, JR109),
+and his mother
+(lane 3, JRllO)
+were hybridized
+with the mutant
+ASO.
+
+gonucleotides to amplified GALT cDNA from the patients’ families. Both mutations were inherited from the
+father (Figs. 1B and 2B).
+
+We determined the frequencies of the R148W and
+L195P galactosemia mutations by AS0 hybridization to
+amplified normal, galactosemic, and Duarte GALT
+cDNAs. Neither mutation was detected on normal alleles (O/14; Table 2). However, the R148W mutation was
+present on 1 of 24 and L195P was found on 2 of the 24
+galactosemia alleles tested (Table 2). Thus, these two
+mutations are rare among the galactosemia alleles examined.
+Structure-Function
+Analysis
+We examined the effects of the R148W and L195P
+galactosemia mutations by comparing three published
+
+Expression Analysis of the R148 W and Ll95P Mutations
+We reconstructed both mutations by site-directed
+mutagenesis in pJR16, a phagemid that expresses GALT
+under control of the SV40 early promoter (Reichardt
+and Woo, 1991). Introduction of the normal cDNA (pJR
+16) into cos monkey cells resulted in a 19- to 32-fold
+overexpression of GALT accompanied by a similar increase in immunoreactive protein (CRM; Table 1). In
+contrast, the mutant constructs (pJR28 and 30) resulted
+in a feeble stimulation of enzyme activity above background. In the case of pJR30 bearing the R148W mutation, we could not observe significant quantities of immunoreactive protein (Table 1 and Fig. 3A). However,
+normal levels of mRNA could be detected in the transfected cos cells (Fig. 3B) and in the patient’s cells (Figs.
+1A and 1B). Thus, we successfully electroporated this
+construct into cos cells, and the cDNA in pJR30 is transcribed at normal levels but encodes an unstable GALT
+polypeptide. The activity reported in Table 1 results
+mostly from the endogenous enzyme (cf. Mock, Table 1).
+In contrast, the L195P mutation in pJR28 results in
+
+FIG. 3. The R148W
+mutation
+results in an unstable
+polypeptide.
+Cos cells were either mock transfected
+(lane 1) or electroporated
+with
+the normal
+construct
+(pJR16,
+lane 2) or with the mutant
+construct
+(pJR30,
+lane 3). (A) Western
+blot of 50 wg total cellular
+protein
+decorated with anti-human
+GALT
+serum. (B) Northern
+blot of 20 pg total
+RNA hybridized
+to labeled GALT cDNA probe. Note that while there
+is virtually
+no immunoreactive
+protein
+in lane 3 of A, near normal
+amounts
+of mRNA
+are present
+in lane 3 of B, suggesting
+that the
+mutant
+cDNA is transcribed
+at normal
+levels.
+
+DIFFERENT
+
+TABLE
+Frequency
+
+of the R148W
+
+R148W
+Normal
+Mutant
+L195P
+Normal
+Mutant
+
+(arginine
+(tryptophan
+(leucine
+(proline
+
+MECHANISMS
+
+2
+and L195P
+Positive
+
+Probe
+
+MOLECULAR
+
+Normal
+
+148)
+148)
+195)
+195)
+
+Mutations
+
+alleles/total
+
+alleles
+
+Galactosemia
+
+14/14
+o/14
+
+23124
+l/24
+
+14/14
+o/14
+
+22124
+2124
+
+GALT sequences from distantly related organisms. We
+assume that natural selection should conserve functionally important
+residues.
+We aligned the sequences
+surrounding
+the R148W and L195P mutations from the
+homologous proteins GALT from humans, a multicellular eukaryote (Flach et aZ., 1990), GAL7 from Sacchuromyces cereuisiae, a unicellular eukaryote
+(Tajima et al.,
+19&Y), and galT from E. coli, a prokaryote
+(Lemaire and
+Mueller-Hill,
+1986). The overall amino acid sequence
+identity between these three distantly related proteins is
+about 35% (Flach et CLZ.,1990). In the case of the R148W
+mutation,
+the mutated arginine is not conserved and
+there is only limited homology surrounding
+this site
+(Fig. 4). However, this mutation results in an unstable
+polypeptide and, therefore, the mutated arginine 148 is
+probably not enzymatically
+important.
+In contrast, leutine 195 is conserved in galT from E. coli and is replaced
+by isoleucine, a conservative
+substitution,
+in GAL7 from
+yeast (Fig. 4). Furthermore,
+leucine 195 is adjacent to a
+conserved proline (Fig. 4) and it is surrounded by identical amino acids in galT from E. coli. Finally, the L195P
+mutation
+is located nine amino acid residues downstream from the putative active site nucleophile, histidine 186. Thus, the L195P galactosemia mutation alters
+a well-conserved
+residue in a critical domain of the enzyme.
+
+IN
+
+599
+
+GALACTOSEMIA
+
+and L195P alleles. The low frequency of these two mutations further supports our proposition that galactosemia
+is caused by a multiplicity of mutations (Reichardt and
+Woo, 1991). Thus, this molecular heterogeneity may be
+related to the variable clinical outcome observed in this
+disease. Expression analysis demonstrated that the two
+mutations described here have different molecular phenotypes: the L195P mutation is typical of all previously
+characterized galactosemia mutations. This mutation
+results in stable immunoreactive protein with little or no
+residual activity. In contrast, the R148W mutation represents a new class of galactosemia mutations, those resulting in unstable polypeptides. Thus, galactosemia can
+be caused by mutations with different molecular phenotypes.
+All four galactosemia mutations characterized to date
+(Reichardt and Woo, 1991; Reichardt et al., 1991) were
+found in conserved regions of the GALT protein. In contrast, the two published polymorphisms affected variable residues (Reichardt and Woo, 1991). Therefore, we
+suggested that mutations in functionally important residues would not be tolerated in evolution, because such
+mutations would be eliminated by natural selection, or
+in people, because they would cause disease. Polymorphisms, on the other hand, affect variable residues. They
+were found to be nonessential by natural selection and
+are inconsequential in humans. We report in this paper
+one mutation that fits our model: the L195P galactosemia mutation affects a residue in a conserved area of
+the protein (Fig. 4). The mutated leucine is conserved in
+galT from E. coli and is replaced by a very conservative
+substitution, isoleucine, in GAL7 from yeast. Furthermore, there is an identical proline next to leucine 195
+and an identical tryptophan five residues upstream. Finally, there is considerable sequence identity between
+the human and E. coliproteins in this area (Fig. 4). It has
+
+cysphe
+
+has pro his
+
+DISCUSSION
+
+On the basis of appropriate Southern, Northern, and
+Western blotting experiments with material from galactosemic patients, it had been proposed that this disease
+is caused predominantly by missense mutations (Banroques et al., 1983; Reichardt, 1989). We tested this hypothesis by examining blood from classic galactosemia
+patients in molecular detail. Thus far, we have identified
+four disease-causing mutations, two polymorphisms in
+human GALT, and one silent nucleotide substitution
+(Reichardt and Woo, 1991; Reichardt et aZ., 1991). In
+this paper we report the genotyping of two additional
+galactosemia patients. Both are compound heterozygotes for the Ql88R mutation, the most common galactosemia mutations identified to date (Reichardt et al.,
+1991). The two cell lines we examined in this study are
+also heterozygous for two new mutations: the R148W
+
+NH2
+
+QCOOH
+”
+
+LcQli
+
+SVpeiravVda
+kqsdLvhIVns
+SvaaLteIvkt
+
+R149W
+
+FIG. 4.
+
+P
+NAsSFLPdiAq
+NclesiPsEvs
+WAX~FLP~EA~
+
+L195P
+
+Structure-function
+correlations.
+The homologous
+proteins, GALT
+from humans (Flach et al., 1990), GAL7 from yeast (Tajima et al., 1985), and galT from E. coli (Lemaire
+and Mueller-Hill,
+1986), were aligned in the region surrounding
+the R148W and L195P
+mutations.
+The overall
+amino acid sequence
+identity
+of these three
+distantly
+related organisms
+is only 35% (Flach et al., 1990). The proposed active site residues
+(Reichardt
+and Berg, 1988b) are indicated
+and the putative
+active site nucleophile
+is italicized.
+Residues
+conserved in two or more species are in uppercase
+letters and amino acids
+that are conserved
+in all three organisms
+are in boldface.
+Note that
+while there is considerable
+sequence homology
+surrounding
+the L195P
+mutation,
+particularly
+with E. coli galT, there is no significant
+homology around
+the R148W
+mutation,
+which results in an unstable
+polypeptide.
+
+600
+
+REICHARDT
+
+been shown that in E. coli galT histidine 166, homologous to human histidine 186, is the active site nucleophile involved in the formation of the covalent uridylate
+reaction intermediate
+(Kim et al., 1990). Therefore, the
+L195P mutation not only occurs in a conserved area of
+the protein but is also located in close proximity
+to the
+putative active site nucleophile, histidine 186. Since this
+mutation occurs in an important domain of the enzyme,
+it is not surprising
+that the mutant enzyme is inactive
+(Table 1). Finally, it is noteworthy
+that galactosemia
+mutations seem to cluster around the putative active site
+nucleophile. We have identified three galactosemia mutations in the area surrounding
+histidine
+186: (1) the
+F171S mutation (Reichardt and Woo, unpublished),
+(2)
+the QlS8R mutation (Reichardt et al., 1991), and (3) the
+L195P mutation (this paper). Thus, the molecular data
+on galactosemia mutations support the notion that histidine 186 in human GALT, which is homologous to E.
+coli histidine 166, is the active site nucleophile.
+The R148W galactosemia mutation differs in that it
+occurs in a nonconserved
+domain of GALT (Fig. 4). This
+suggests that this residue is not functionally
+important
+and, in fact, the encoded protein is unstable. This results
+in undetectable enzyme activity (Table l), thereby causing the disease state. The Rl48W
+mutation defines a
+new class of galactosemia mutations that encode unstable polypeptides. This class of mutations has been commonly observed in phenylketonuria
+(PKU),
+where the
+majority of mutations are of the missense type with unstable polypeptides
+(Okano et al., 1991).
+It has been reported that the CpG dinucleotide is a hot
+spot for mutation in humans because 5-methylcytosine
+deaminates spontaneously to thymidine (Cooper and
+Youssouffian, 1988). In fact, the R148W mutation occurs at a CpG dinucleotide. The L195P mutation, however, results in the formation of a new CpG dinucleotide.
+It is interesting that we have observed in galactosemia as
+many mutations (2) in CpG dinucleotides as formation
+of new CpGs resulting from a mutation. Perhaps the
+GALT gene does not undergo methylation at CpG dinucleotides, which is thought to be causing oxidative deaminations of 5-methylcytosines (Cooper and Youssouffian,
+1988).
+We report in this paper two novel galactosemia mutations that result from different molecular phenotypes.
+The L195P mutation falls into the class of all previously
+described galactosemia mutations: it is an enzyme with
+low or no specific activity. This mutation occurs in a
+well-conserved area of the protein in close proximity to
+the putative active site nucleophile. The R148W mutation defines a new class of galactosemia mutations that
+result in undetectable enzyme activity due to the instability of the encoded polypeptide. Thus, galactosemia
+mutations, while generally of the missense type, can
+have at least two molecular mechanisms: low or no specific activity and unstable polypeptide chain. Therefore,
+a multiplicity of mutations can cause galactosemia, re-
+
+ET
+
+AL.
+
+sulting in different molecular phenotypes. This molecular heterogeneity
+might explain the variable clinical outcome observed in this disorder.
+ACKNOWLEDGMENTS
+We thank
+Stella Madu
+for EBV transformations.
+J.K.V.R.
+is an
+Associate,
+J.W.B.
+is an Assistant
+Investigator
+and S.L.C.W.
+is an Investigator
+of the Howard
+Hughes Medical
+Institute.
+REFERENCES
+Banroques,
+J., Schapira,
+F., Gregori,
+C., and Dreyfus,
+J. C. (1983).
+Molecular
+studies on galactose-l-phosphate
+uridyltransferase
+from
+normal
+and mutant
+subjects. Ann. Hum. Genet. 47: 177-185.
+Cooper,
+D. N., and Youssouffian,
+H. (1988).
+The CpG
+and human genetic disease. Hum. Genet. 78: 151-155.
+
+dinucleotide
+
+Flach, J. E., Reichardt,
+J. K. V., and Elsas, L. J. (1990). Sequence of a
+cDNA
+encoding
+human
+galactose-l-phosphate
+uridyl
+transferase.
+Mol. Biol. Med. 7: 365-369.
+Kim,
+J., Ruzicka,
+F., and
+Frey,
+P. A. (1990).
+Remodeling
+hexose-l-phosphate
+uridylyltransferase:
+Mechanism-inspired
+mutation into a new enzyme,
+UDP-hexose-synthase.
+Biochemistry
+29:
+10590-10593.
+Lemaire,
+H. G., and Mueller-Hill,
+B. (1986). Nucleotide
+sequence of
+the galE and the galT gene of E. coli. Nucleic Acids Res. 14: 770%
+7711.
+Levy, H. L., and Hammersen,
+G. (1978).
+tosemia and other galactose metabolic
+877.
+
+Newborn
+defects.
+
+screening
+J. Pediatr.
+
+for galac92: 871-
+
+Okano,
+Y., Eisensmith,
+R. C., Guettler,
+F., Lichter-Konecki,
+U., Konecki, D., Trefz, F. K., Dasovich,
+M., Wang, T., Henriksen,
+K., Lou,
+H., and Woo, S. L. C. (1991). Molecular
+basis of phenotypic
+heterogeneity in phenylketonuria.
+N. Engl. J. Med. 324: 1232-1238.
+Reichardt,
+J. K. V., and Berg, P. (1988a).
+Cloning
+and characterization of a cDNA
+encoding
+human
+galactose-l-phosphate
+uridyl
+transferase.
+Mol. Biol. Med. 5: 107-122.
+Reichardt,
+J. K. V., and Berg, P. (1988b).
+Conservation
+of short
+patches of amino acid sequence
+amongst
+proteins
+with a common
+function
+but evolutionarily
+distinct
+origins: Implications
+for cloning
+genes and for structure-function
+analysis.
+Nucleic
+Acids Res. 16:
+
+9017-9026.
+Reichardt,
+thesis,
+
+J. K. V. (1989). Molecular
+biology
+Stanford
+University,
+Stanford,
+CA.
+
+of galactosemia.
+
+Ph.D.
+
+Reichardt,
+J. K. V., and Woo, S. L. C. (1991). Molecular
+basis of galactosemia:
+Mutations
+and polymorphisms
+in the gene encoding
+human galactose-l-phosphate
+uridylyltransferase.
+Proc. Nutl. Acad.
+Sci. USA 88: 2633-2637.
+Reichardt,
+J. K. V., Packman,
+S., and Woo, S. L. C. (1991). Molecular
+characterization
+of two galactosemia
+mutations:
+Correlation
+of mutations
+and conserved
+domains
+in galactose-l-phosphate
+uridyl
+transferase.
+Am. J. Hum. Genet. 49: 860-867.
+Segal, S. (1989). Disorders
+of galactose
+metabolism.
+In “The Metabolic Basis of InheritedDisease”
+(C. R. Striver,
+A. L. Beaudet, W. S.
+Sly, and D. Valle, Eds.), 6th ed., pp. 453-480,
+McGraw-Hill,
+New
+York.
+Tajima,
+H., Nogi, Y., and Fukasawa,
+T. (1985). Primary
+structure
+of
+the Saccharomyces
+cerevisiae
+GAL7 gene. Yeast 1: 67-77.
+Waggoner,
+D. D., Buist, N. R. M., and Donnell,
+G. N. (1990). Longterm prognosis
+in galactosaemia:
+Results of a survey of 350 cases. J.
+Inherited
+Metab.
+Dis. 13: 802-818.
+Wood, W. I., Gitschier,
+J., Lasky, L. A., and Lawn, R. M. (1985). Base
+composition-independent
+hybridization
+in tetramethylammonium
+chloride:
+A method
+for oligonucleotide
+screening
+of highly complex
+gene libraries.
+Proc. Natl. Acad. Sci. USA 82: 1585-1588.
+
+

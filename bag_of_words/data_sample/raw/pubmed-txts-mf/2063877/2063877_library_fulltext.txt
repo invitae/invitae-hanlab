@@ -1,0 +1,2477 @@
+Am. J. Hum. Genet. 49:54-67, 1991
+
+Exploring the Molecular Basis for Variability among Patients
+with Becker Muscular Dystrophy: Dystrophin Gene
+and Protein Studies
+Alan H. Beggs,* Eric P. Hoffman,* ludith R. Snyder,* Kiichi Arahata,§ Linda Specht,t
+Frederic Shapirot Corrado Angelini,II Hideo Sugita,§ and Louis M. Kunkel*
+Division of Genetics, Howard Hughes Medical Institute at Children's Hospital, and Department of Pediatrics, Harvard Medical School, and
+Departments of tNeurology and $Orthopedic Surgery, Children's Hospital and Harvard Medical School, Boston; §National Institute of
+Neuroscience, National Center of Neurology and Psychiatry, Kodaira, Tokyo; and liClinica Neurologica, University of Padua, Padua
+
+Summary
+Becker muscular dystrophy (BMD) often results from in-frame mutations of the dystrophin gene that allow
+production of an altered but partially functional protein. To address potential structure-function relationships for the various domains of dystrophin, we examined both the dystrophin gene and protein in 68 patients
+with abnormal dystrophin. Eighty-six percent of BMD patients with dystrophin of altered size have deletions
+or duplications, and the observed sizes of dystrophin fit well with predictions based on DNA data. Deletions
+within the amino-terminal domain I tended to result in low levels of dystrophin and a more severe phenotype.
+The phenotypes of patients with deletions or duplications in the central rod domain were more variable. This
+region can be divided into three portions based on differences in clinical presentations of patients. Deletions
+around exons 4553 were most common and generally caused typical BMD; however, phenotypic variability
+among patients with similar mutations suggests that epigenetic and/or environmental factors play an important
+role in determining the clinical progression. In contrast, deletions or duplications in the proximal portion of
+this domain tended to cause severe cramps and myalgia. Finally, loss of the middle of this region probably
+causes a very mild phenotype, as only one such patient was found and his only symptom was elevated serum
+creatine phosphokinase levels.
+
+Introduction
+
+Duchenne and Becker muscular dystrophies (DMD,
+BMD) are allelic disorders caused by mutations of the
+dystrophin gene (reviewed by Emery [1988] and Hoffman and Kunkel [1989]). DMD is characterized by
+progressive muscle weakness with onset at 3-5 years
+(Moser 1984). Proximal muscles are affected more
+than distal ones, leading to loss of ambulation by 1012 years of age. Death, often due to respiratory inReceived August 6, 1990; final revision received February 19,
+1991.
+
+Address for correspondence and reprints: Alan H. Beggs, Ph.D.,
+Division of Genetics, Children's Hospital, 300 Longwood Avenue,
+Boston, MA 02115.
+1. Current address: Department of Molecular Genetics and Biochemistry, University of Pittsburgh School of Medicine, Pittsburgh.
+i 1991 by The American Society of Human Genetics. All rights reserved.
+0002-9297/91 /4901-0008$02.00
+
+54
+
+sufficiency, generally occurs in the third decade. In
+contrast, BMD is much more heterogeneous in its clinical phenotype: patients generally remain ambulatory
+into their twenties and some may continue walking
+into their fifties or sixties (Ringel et al. 1977; Brooke
+1986). Furthermore, while the pattern of muscle
+involvement is often similar, the age of onset and rate
+of progression is much more variable, and there have
+been several reports of atypical presentations including severe muscle cramps and/or cardiomyopathy in
+the absence of significant weakness (Kuhn et al. 1979;
+Gospe et al. 1989; England et al. 1990).
+DMD and BMD are caused by mutations in the
+dystrophin gene (Koenig et al. 1987, 1989; Forrest et
+al. 1988; Hu et al. 1988, 1990; Den Dunnen et al.
+1989; Gillard et al. 1989) which encodes a large (427kD) cytoskeletal protein (Hammonds 1987; Hoffman
+et al. 1987; Davidson and Critchley 1988; Koenig et
+
+Dystrophin Genes and Proteins in BMD
+al. 1988) localized to the inner face of the plasma
+membrane of all types of myofibers (Arahata et al.
+1988; Bonilla et al. 1988; Watkins et al. 1988;
+Zubrzycka-Gaarn et al. 1988). At the protein level, it
+was found that western blot analysis generally detected no dystrophin in muscle biopsies from patients
+with DMD while dystrophin of altered size and/or
+abundance was present in BMD muscle (Hoffman et
+al. 1988; 1989b). Patients with very low levels of
+dystrophin (<20%) often have an intermediate phenotype. Thus, the presence of partially functional dystrophin is sufficient to ameliorate the DMD phenotype, leading to the milder presentation seen in BMD.
+Southern blot analysis of the dystrophin gene using
+cDNA probes has shown that about 65% of DMD/
+BMD patients have detectable deletions and another
+5% have duplications (Koenig et al. 1987; Forrest et
+al. 1988; Hu et al. 1988, 1990; Den Dunnen et al.
+1989). The majority of deletions are clustered in the
+distal rod domain (exons 45-53), with another cluster
+at the amino terminus; however, the size and location
+of these mutations are apparently not correlated with
+the severity of the patient's disease (e.g., DMD vs.
+BMD). To explain these observations, Monaco et al.
+(1988) proposed the reading frame theory, which hypothesized that the absence of detectable dystrophin
+in DMD is caused by mutations that disrupt the translational reading frame, leading to production of a
+truncated and presumably unstable protein. Conversely, deletions or duplications causing BMD allow
+production of internally deleted or duplicated proteins
+because the translational reading frame is maintained.
+Recent work has provided strong support for this hypothesis, as over 92% of deletions fit the reading frame
+rule (Gillard et al. 1989; Koenig et al. 1989). Indeed,
+most of the exceptions are clustered in one region at
+the 5' end of the gene, where loss of exons 3-7 results
+in BMD, DMD, or an intermediate phenotype (Malhotra et al. 1988; Koenig et al. 1989).
+Here we have correlated DNA and protein data on
+91 patients with muscular dystrophy. In hopes of shedding light on the molecular basis for the extreme variability seen among patients with BMD, we have concentrated our analysis on 68 patients with detectable
+but abnormal dystrophin. This has also allowed us
+to address the relationship between the structure and
+function of dystrophin by correlating locations of mutations with protein levels and clinical presentation in
+patients with BMD. We present evidence for general
+differences in clinical presentation depending on
+whether deletions remove the amino terminus, the
+
+55
+
+proximal portion of the rod domain, or the distal region, where many deletions are apparently clustered.
+However, we also show that patients with similar inframe deletions and protein levels may have significantly different clinical progressions, suggesting that
+epigenetic and environmental factors play a significant
+role in determining the severity of a patient's disease.
+Material and Methods
+Patient Selection and Classification
+
+Patients reported in this study are drawn from a
+group of 101 males whose dystrophin genes and proteins were studied because of clinical evidence that
+they might suffer from DMD or BMD. Of these, 91
+individuals had detectable dystrophin abnormalities,
+so our analysis is limited to these patients. Our sample
+contains a preponderance of patients with BMD, owing to selection bias for patients with altered but detectable dystrophin. Of this patient sample, 28 were
+ascertained in Tokyo, 14 each in Padua and in Boston,
+and the remaining 35 were individual specimens submitted by 25 physicians from different parts of the
+United States.
+Clinical and molecular data are summarized in the
+Appendix, and patient numbers used in the text refer
+to table Al. Protein and/or DNA results have been
+previously published for some of these patients as indicated in the Appendix. Clinical information was obtained from questionnaires filled out by the referring
+physicians and/or by review of patient's medical
+records. The clinical status of patients at various ages
+was classified as follows: asymptomatic = elevated
+serum creatine phosphokinase (CPK) and/or calf hypertrophy and/or cramps; mild = fatigue and/or any
+detectable weakness including reports of "clumsiness," falling, abnormal gait, toe walking, and slow
+running, all in the absence of a positive Gowers's sign;
+moderate = positive Gowers's sign, difficulty with
+stairs, and/or waddling gait; severe = inability to
+rise without assistance and/or 3/5 strength in major
+proximal muscle groups and/ or ambulation only with
+effort and/or severe wasting of muscles; wheelchair
+bound. All diagnoses mentioned in the text are based
+on traditional clinical criteria in the absence of any
+information from molecular studies on dystrophin or
+its gene.
+.
+
+DNA Analysis
+
+DNA isolation was done as described by Beggs et
+al. (1990), and Southern blotting as described by Al-
+
+Beggs
+
+56
+
+Immunofluorescence analysis for dystrophin was
+accomplished with anti-DMDPI and anti-DMDPII as
+described by Arahata et al. (1989), with antiDMDPIV (= monoclonal 4C5) as described by Arahata et al. (1991), and with anti-30-kD and anti-60kD as described by Hoffman et al. (1987) and Angelini
+et al. (1990).
+Results
+Relationships between Genetic Mutations and
+Protein Structure
+Patients with no dystrophin detectable by western blotting.
+
+Diagnostic muscle biopsies were obtained from all
+patients examined, and samples were prepared for
+western blot analysis as described by Hoffman et al.
+(1988). All patients were tested by immunoblots using
+affinity purified anti-30-kD antibodies (raised against
+a portion of domain II) (Hoffman et al. 1987). Quantitation was done as described elsewhere, using myosin
+to correct for unequal loading (Hoffman et al. 1988,
+1989b), and in practice varied by up to 20% on multiple blots. All western blot results were obtained prior
+to DNA testing and were thus performed "blind" with
+respect to knowledge of genetic defects.
+
+Table I
+Molecular Findings in 91 Patients with suspected DMD or BMD
+DYSTROPHIN FINDINGS"
+
+None found ........
+Deletion ...........
+
+18d
+
+Duplication
+
+2
+26
+
+Totals
+
+.........
+
+...........
+
+6
+
+Reduced
+Abundanceb
+
+Reduced
+Sizec
+
+Increased
+Sizec
+
+Totals
+
+2
+3
+0
+5
+
+8
+47c
+0
+55
+
+0
+0
+5
+5
+
+16
+68
+7
+91
+
+Based on western blots using anti-30-kD antiserum.
+Reduced abundance but normal size.
+' Size changes with or without reductions in abundance.
+d Three of these patients had detectable dystrophin using other antisera.
+' One of these patients was initially scored as having normal-sized dystrophin.
+a
+
+b
+
+-
+
+Of 26 patients with no detectable dystrophin on
+western blots probed with anti-30-kD antibodies, 23
+had clinical diagnoses of DMD, and of these, 15
+(65%) had deletions and two (9%) had duplications
+(table 1). The other three patients included two with
+diagnoses of BMD and one who was too young to
+diagnose (nos. 10, 8, and 9; patient numbers refer to
+designations in the Appendix). All three of these had
+particularly large in-frame deletions (of exons 13-41,
+10-42, and 10-44, respectively) encompassing the
+region from which the 30-kD antigen was derived (the
+protein and DNA analysis of patient 9 is shown in fig.
+1). Since DNA analysis suggested that these patients
+should be capable of producing some dystrophin,
+indirect immunofluorescence using several regionspecific antisera was done. In each case, these patients
+did indeed produce dystrophin, but it was detectable
+
+Western Blot Analysis
+
+Undetectable
+
+al.
+
+Indirect Immunofluorescence
+
+dridge et al. (1984). Probes used included all the dystrophin cDNA probes described in Koenig et al.
+(1987, 1989). PCR analysis was performed using the
+multiplex primers described by Chamberlain et al.
+(1988, 1990) supplemented by the multiplex assay of
+Beggs et al. (1990). This PCR analysis is predicted to
+identify deletions in all patients with BMD or intermediate phenotypes who have cDNA-detectable deletions (71 of 71 in Koenig et al. 1989) and in over 97%
+of patients with DMD and cDNA-detectable deletions
+(197 of 202 in Koenig et al. 1989). In some cases,
+deletion boundaries were established using unpublished PCR primers that amplify exons 2, 5, and 7
+(primer sequences available on request), as well as
+primers for exons 16, 32, 34, 41, and 42 (Kunkel et
+al., in press). Exon numbering follows the convention
+established by Koenig et al. (1989).
+
+GENE MUTATION
+
+et
+
+4s,_tgS.fl-wI@XzNu_i.
+
+57
+
+Dystrophin Genes and Proteins in BMD
+
+A) 1 2 3
+_
+
+mm m
+
+.'gill|i.i E
+
+i. .< . :. ..B:: .. :. a .
+
+. .A...i M
+
+B)
+
+1
+
+3
+
+2
+
+45 \
+48
+19
+
+4
+
+5
+
+C)
+
+6
+
+2
+
+1
+..
+
+3
+43
+
+17
+51
+8
+12
+44
+4
+46
+
+_- 8-9
+10-11
+
+W,
+
+50
+
+13
+6
+47
+60
+52
+
+3
+law, -. .....3z.
+-
+
+0
+
+a_ Z>8Q:s an
+
+Dystrophin gene and protein abnormalities in patient with muscular dystrophy. A, Western blot of muscle proteins probed
+Figure I
+with anti-30-kD dystrophin antisera showing no detectable dystrophin in patient 9 (lane 2). Lanes 1 and 3 are normal controls. D =
+dystrophin and M = myosin in the posttransfer gel to control for loading of muscle proteins. B, PCR multiplex analysis of genomic DNA
+using dystrophin-specific primers of Chamberlain et al. (1990) (lanes 1-3) and Beggs et al. (1990) (lanes 4-6). Exon numbers are indicated
+next to each product. Pm = muscle-specific promoter. Lanes 1 and 4 are DNA from a normal control, lanes 2 and 5 are patient 9, and
+lanes 3 and 6 are a patient with complete deletion of his dystrophin gene (negative control) (Hoffman et al. 1989a). Note that patient 9
+is missing exon 44 but has exon 45, thus defining the 3' end of his deletion. At the 5' end, he has exon 8 but is missing exons 12, 13, etc.
+C, Southern blot analysis to define 5' end of patient 9's deletion. Shown is a portion of a blot of Bglll-digested DNA from a normal control
+(lane 1) and from patient 9 (lane 2) probed with pl-2a. Exon numbers are indicated on the right, demonstrating that the 5' end of this
+patient's deletion is between exons 9 and 10.
+
+only with antisera raised against the amino- and
+carboxy-terminal portions of the molecule (fig. 2).
+Thus they represent a group of patients that might be
+misclassified if their diagnoses were based solely on
+protein analysis by western blots using antisera that
+recognize only portions of domain II.
+Patients with reduced levels of normal-sized dystrophin.
+
+-
+
+Another interesting class of patients are those with
+reduced levels of normal-sized dystrophin. The five
+patients in this class fall into three groups based on
+DNA findings. Two patients had DMD caused by
+deletions that disrupted the reading frame by the loss
+of several exons in domain II (nos. 47 and 53). In both
+cases, less than 10% of normal levels of dystrophin
+was present. We feel the most likely explanation for
+these findings is that the deletion occurred during fetal
+development and that these patients are somatic mosaics
+(neither has any positive family history). Immunofiuorescence analysis looking for rare dystrophin-positive
+fibers in one patient (no. 47) was inconclusive, as no
+positive fibers were seen (data not shown).
+On the other hand, one patient with mild BMD and
+20% levels of dystrophin (no. 1) had a deletion of exon
+1 containing the muscle promoter, but the upstream
+brain promoter (Boyce et al. 1991) and exon 2 were
+both intact. Thus, dystrophin production in his muscle is most likely due to transcription initiating from
+the upstream brain promoter. The phenotypic differences between these patients (nos. 47 and 53 are clini-
+
+cally considered to have DMD, see Appendix) may be
+due to the relative levels of protein (e.g., <10% vs.
+"-20%) and/or to the fact that expression in the mosaics may be very patchy and uneven while all myofibers
+in the patient with a promoter deletion should express
+low but equal levels of dystrophin. By analogy to patient 1, we suspect that the remaining two patients
+with reduced dystrophin levels and no detectable mutations (nos. 67 and 68) are likely to also have promoter mutations although we can not rule out the
+possibility that their mutations affect mRNA or protein stability.
+Patients with abnormral-sized dystrophin.-Sixty patients
+(all unrelated except two pairs of brothers) had dystrophin of altered size and clinical diagnoses of either
+BMD, intermediate, or undeterminate status (table 1).
+Of the 58 unrelated cases, 79% of these patients had
+deletions and another 7% had duplications, suggesting that the frequency of large structural mutations in BMD is higher than the estimate of "-65% for
+DMD (Koenig et al. 1987; Forrest et al. 1988; Hu et
+al. 1988; Den Dunnen et al. 1989; Gillard et al. 1989).
+As might be expected, all five patients with larger proteins had detectable gene duplications and all of these
+were in-frame. Of the 46 different deletions, 45 had
+known effects on the reading frame, and of these, 40
+were in-frame. Of the five exceptions, three (nos. 4,
+5, and 6) were deletions of exons 3-7, as previously
+reported by Malhotra et al. (1988). The other two
+
+58
+
+Beggs et al.
+
+Figure 2
+Immunofluorescence analysis of dystrophin in patient (no. 9) with large internal deletion (panels A-C) and control patient
+(20-year-old male with limb-girdle muscular dystrophy) (panels D-F) using region-specific anti-dystrophin antisera. Anti-DMDP II (panels
+B and E), raised against part of exons 11-12 in the central rod domain, did not detect any dystrophin in patient 9, yet both anti-DMDP
+I (panels A and D) and anti-DMDP IV (panels C and F), raised against the amino and carboxy termini, respectively, detected dystrophin
+in a variable and patchy pattern characteristic of BMD (Arahata et al. 1989).
+
+(nos. 13 and 52) both have small deletions of one or
+two exons in domain II (exons 42-43 and 51, respectively). All five had low levels of protein (5%-20%)
+consistent with their clinical histories, which were suggestive of either DMD or severe BMD. If either of the
+neighboring exons 5' and 3' of each of these deletions
+was also removed (e.g., by alternative splicing), then
+the reading frame would be restored, allowing production of an internally deleted protein (Chelly et al.
+1990). Our findings of very low levels of slightly
+smaller proteins support this hypothesis and argue
+against the possibilities that the patients are mosaic or
+that a truncated peptide missing the carboxy terminus
+is being produced.
+In general, the sizes of all the abnormal proteins
+correlated well with predictions based on sequence
+
+analysis of the exons that were deleted or duplicated
+(table 2). Size estimates of altered proteins were usually made at different times on different gels, yet patients with similar deletions were found to have
+similar-sized proteins and patients with larger deletions generally had smaller proteins (table 2). However, one patient (no. 48) illustrates the limits of detection for our western blot analysis, as he was initially
+classified as having normal-sized dystrophin. Following the discovery of an exon 48 deletion (predicted to
+remove 60 of 3,685 amino acids), the western blot
+was revaluated and a small size difference was noted.
+All five patients with internal deletions in domain I
+had very low levels of dystrophin regardless of reading
+frame status (10%-15% of normal) (table 2, fig. 3,
+Appendix). Although generally higher, protein levels
+
+59
+
+Dystrophin Genes and Proteins in BMD
+Table 2
+Comparison of Deletion/Duplication Sizes with Observed Dystrophin Sizes and Quantity
+
+Exons Deleted
+or Duplicated
+
+No. of
+Patients
+
+Predicted Sizea
+(kD)
+
+del 2-7 ...........
+del 3 ...........
+del 3-7 ...........
+del 6-13 ...........
+del 35-44
+del 45-46
+del 45-47
+del 45-48
+del 45-49
+del 45-53
+del 48 ...........
+del 48-49
+del 48-51
+dup 2-7 ...........
+dup 13-42
+dup 14-18
+
+1
+
+gb
+
+376
+396
+379
+354
+337
+388
+382
+375
+
+4
+
+371
+
+345
+
+...........
+
+3
+1
+2
+
+...........
+
+1
+
+393
+389
+376
+
+2
+
+421
+
+1
+2c
+
+580
+427
+
+...........
+
+...........
+
+...........
+
+...........
+
+...........
+
+...........
+
+..........
+
+..........
+
+1
+
+2
+1
+1
+1
+11
+
+Observed Sizea
+(kD)
+380
+390
+370
+360
+360
+380
+380 ±
+377 ±
+377 ±
+367 ±
+400
+385
+
+0
+
+4
+5
+5
+6
+7
+
+380
+
+420 + 0
+600
+420 ± 0
+
+Average Quantitya
+(%)
+10
+15
+10 + 0
+10
+80
+<5
+44 ± 17
+53 ± 32
+30 ± 16
+
+70
+100
+45
+90
+
++
+
+36
+7
+
+40 ± 14
+70
+15 + 7
+
+NOTE:-With the exception of deletions of exons 3-7, only in-frame mutations in patients with
+dystrophin detectable on western blots are tabulated.
+Based on normal = 400 kD at 100% (estimated size based on sequence is 427 kD). Values are mean
+± SD.
+b Two of these are brothers.
+c Patients are brothers.
+
+among patients with deletions in the distal portion of
+domain II were much more variable (e.g., 20%-100%
+for deletion of exons 45-48). This may reflect variability in locations of deletion breakpoints relative to intron/exon junctions or alternatively may be due to
+epigenetic differences that affect the stability of the
+deleted proteins. While all the patients with domain I
+deletions had low protein levels and early onsets (before 10 years of age), there was no apparent correlation between protein levels and phenotypic severity
+among the group with deletions in domain II. Finally,
+for domain II deletions, protein levels were also not
+related to the number of triple alpha-helical repeat
+units deleted (e.g., deletions of exons 45-47, 45-48,
+45-49, and 45-53 remove 11/2, 2, 21/2, and 4 repeats
+respectively) (Koenig and Kunkel 1990).
+Correlations between Molecular Data and Clinical
+Presentation in Patients with BMD
+
+To determine whether alterations of specific regions
+of dystrophin are related to any particular aspects of
+the BMD phenotype, we correlated our molecular
+data with available information on the patient's phenotypes. Some clinical histories did not specify
+
+whether a patient had a particular symptom or not,
+probably because they did not have it, but for the
+sake of accuracy, we enumerate only those for whom
+specific information was available. For this analysis,
+we limited ourselves to patients with detectable (but
+abnormal-sized) dystrophin and completely defined
+deletions or duplications (fig. 3, Appendix). Furthermore, we excluded patients with frame-shifting deletions that caused production of very low levels of
+dystrophin. Among the remaining 50 patients, representing 48 independent mutations, all had elevated
+serum CPK levels, 36 of 40 had calf hypertrophy, two
+of 35 were considered mentally retarded (IQs were not
+determined), one of 35 carried a diagnosis of attention
+deficit disorder, and two of 35 were diagnosed as having schizophrenia. One of 21 patients reported gastrointestinal pain and two of 39 had a severe cardiomyopathy including one (no. 46) who presented at 15 years
+of age with cardiac failure and no neuromuscular
+symptoms other than calf hypertrophy. Finally, 36 of
+37 had myopathic electromyograms, with one patient
+having mixed myopathic and neuropathic findings.
+While the low incidence of most of these findings
+makes analysis difficult, none of these phenotypes cor-
+
+Beggs et al.
+
+60
+DOMAINS:
+
+I
+
+II
+
+I
+
+10
+
+20
+
+so
+
+IV
+
+IIa
+
+~~~~
+
+(---I~~
+1201:
+
+,
+
+I
+
+I
+
+so
+
+40
+
+go
+
+EI |-i.
+IN-FRAME
+DELETIONS:
+
+a
+
+1
+
+_
+
+l
+
+*#
+a
+2_
+
+4 (r)
+
+m
+=4
+
+n
+
+1ty3
+
+_s a2*
+-11
+
+_t2 it@}
+m
+
+_O
+IN-FRAME
+
+_
+
+2
+
+= to1(70-10%o
+
+*
+
+DUPLICATIONS:
+
+_
+
+OUT.OF-FRAE
+DELETIONS:
+
+_ 3
+
+-
+
+M
+
+btw <t1-4r
+
+we
+
+Figure 3
+Dystrophin gene deletions and duplications in patients with abnormal dystrophin protein. At the top is a schematic
+adapted from Koenig and Kunkel (1990) illustrating the aminoterminal domain (I) in black, the central rod domain (II) as 24
+repeated boxes, and domains III and IV as hatched and open boxes,
+respectively (domains and exons indicated at top). The four
+proline-rich hinge segments are grey. Beneath are bars indicating
+the extent of 58 deletions and duplications in patients who had
+detectable dystrophin at indicated levels. Numbers at right indicate
+multiple patients with similar molecular findings. All patients are
+unrelated with the exception of two brothers with duplications of
+exons 14-18 (nos. 57 and 58) and two brothers with deletions of
+exon 45-48 (nos. 34 and 37). Pound signs (#) indicate deletions in
+patients with reduced levels of normal-size dystrophin; the remainder all had proteins of larger or smaller size. Asterisks (*) indicate
+deletions in patients who reported cramps or myalgia.
+
+related with either protein levels or the location and
+size of deletions or duplications.
+The initial clinical presentation of patients with
+BMD can be quite variable. In our sample, 31 patients
+presented with weakness or difficulty walking or running. The remaining patients presented with cramps
+and/or myalgia (eight), elevated serum enzymes
+(four), developmental delay (two), myoglobinuria
+(two), calf hypertrophy (one), growth delay (one), and
+cardiac distress (one). The incidence of cramps and
+myalgia is interesting in light of a recent report by
+Gospe et al. (1989) describing a family with X-linked
+cramps and myalgia, no weakness, and a dystrophin
+gene deletion of exons 10-22. Fourteen of our patients
+reported muscle pain that was recorded in their clinical
+records (fig. 3). In most cases, cramps were induced
+by exercise and/or exposure to cold, but, unlike the
+family reported by Gospe et al. (1989), all our patients
+also had clinical weakness (except no. 12, discussed
+below). Of note is the observation that six of these
+patients all have deletions or duplications in the proximal rod domain (defined here as exons 10-44) where
+Gospe's family was deleted (Gospe et al. 1989). In two
+of these patients (nos. 10 and 11) the muscle pains
+were quite striking and were recorded as the patient's
+
+chief complaint. In three more (no. 56 and the brothers
+57 and 58), calf pain after running was the presenting
+complaint. There are two other patients with mutations in this region and no myalgias (nos. 8 and 9), but
+the deletions in these latter two are the largest we have
+found. Unlike the patients reporting myalgias, patient
+8 is more severely affected (e.g., wheelchair bound at
+age 21 years), while patient 9 is too young to draw any
+conclusions from. Of the other 8 patients reporting
+muscle pain, one was deleted for the muscle promoter
+(of six mutations in domain I) and the other seven (of
+37) all have deletions in the commonly deleted region
+of the distal rod domain (defined as exons 45-52).
+In four of these patients, myalgias were one of their
+presenting symptoms, but none were as severe as those
+experienced by patients 10 and 11.
+One patient with a deletion of exons 35-44 (no. 12)
+was particularly noteworthy because he is the only
+BMD patient we have ever identified with an in-frame
+deletion in this region (Koenig et al. 1989). The preponderance of exons with similar borders in the region
+of exons 33-45 predicts that most deletions should be
+in-frame, resulting in BMD. The lack of such patients
+in our previous analyses (Koenig et al. 1989) suggests
+that there is a bias of ascertainment such that in-frame
+deletions in this region do not cause patients to be seen
+in neuromuscular clinics. The phenotype of patient 12
+supports this hypothesis, as this 11-year-old male was
+accidentally ascertained with elevated serum CPK levels (37,800 and 162,000 U/l) following minor surgery. His only neuromuscular symptoms are occasional mild cramps after playing soccer or mountain
+climbing, but it should be noted that muscle histology
+revealed mild variation in fiber size and scattered regenerating fibers suggestive of preclinical muscular
+dystrophy.
+As noted earlier, patients with deletions in domain I
+all had low levels of protein and relatively early onsets.
+Their progressions were also more severe, as those
+over 10 years of age all had moderate severities (i.e.,
+positive Gowers's sign) while patients with deletions
+in domain II were often in their twenties before reaching this stage (see Appendix).
+Perhaps the most intriguing observation is the clinical variability exhibited by patients with similar deletions and protein levels. Of 11 patients with deletions
+of exons 45-47, most have a fairly slow progression
+(four are 28-42 years old and still walking) and two
+even carry diagnoses of quadriceps myopathy (nos.
+15, 26) (Sunohara et al. 1990) due to limited distribution of weakness. On the other hand, one (no. 22)
+
+Dystrophin Genes and Proteins in BMD
+
+has severe trouble with stairs at 17 and another (no.
+27), although only 4 years old, has gross motor deficits
+and is clinically classified as indeterminate between
+DMD and BMD. Similar contrasts can be found
+among patients with deletions of exons 45-48, 4549, and 45-53. That this variability is not correlated
+with protein levels (see Appendix) suggests that it is
+not caused by differences in proximity of deletion
+breakpoints to splice junctions which might affect
+splicing efficiency. Rather, the differences appear to be
+caused by environmental and/or epigenetic factors.
+Discussion
+
+Traditional structure-function analyses of proteins
+often involve deleting specific portions of a molecular
+and then assessing its stability and function in vivo
+and in vitro. In the case of dystrophin, an imperfect
+analogy can be drawn to patients with BMD and DMD
+who have internal deletions and duplications in their
+dystrophin genes. Earlier studies suggested that domain III and part of domain IV were essential to dystrophin stability (Koenig et al. 1989). This was based
+on the observation that patients with either small
+frame-shifting deletions at the very 3' end of domain
+II (e.g., around exons 58-60) or terminal deletions of
+domains III and IV had DMD, while a patient with
+terminal deletion of just the 3' half of domain IV had
+BMD (Darras and Francke 1988; McCabe et al.
+1989). This was also supported by the finding that the
+carboxy terminus was always present in patients with
+BMD but not in those with DMD (Arahata et al.
+1991).
+In the present study, we have extended these observations with particular emphasis on trying to understand the basis for the phenotypic variability seen
+among patients with BMD. Unfortunately, the intragroup variation among patients with similar deletions
+is so great that it is difficult to draw firm conclusions
+based on intergroup variation. Our analysis was also
+hampered by the young ages of many patients, owing
+to the fact that most were ascertained through pediatric neuromuscular clinics. Nevertheless, several general observations can be made. The majority of inframe deletions (37 of 46) were in the commonly
+deleted region in the distal portion of domain II. One
+apparent exception to the reading frame rule is a patient with a clinical diagnosis of DMD, in-frame deletion of exons 45-46, and barely detectable dystrophin
+(no. 14). Our previous report (Koenig et al. 1989)
+
+61
+
+identified one other such patient with a deletion of
+exons 45-46 and a diagnosis of DMD, suggesting that
+this is a reproducible finding. Further studies on
+mRNA splicing may be needed to explain this apparent contradiction. Although the other patients with
+deletions in this region (e.g., exons 45-33) exhibited
+variable phenotypes, in general, they had "classical
+BMD," often remaining ambulatory well past their
+twenties. In contrast, patients with mutations in domain I tended to be more severely affected and were
+often classified as severe BMD or intermediate. For
+those with deletions of exons 3-7, this is probably a
+consequence of inefficient correction of the frame shift
+resulting in low protein levels. Three other patients,
+had in-frame deletions, including one who was missing only exon 3, yet all of these also had low protein
+levels. This suggests that the normal structure of this
+domain is important for dystrophin's stability and,
+hence, the severity of a patient's disease. If, by analogy
+to alpha-actinin (Hammonds 1987) this region binds
+actin or some related protein, then we might speculate
+that proper function of this protein binding domain is
+important for dystrophin stability and function.
+While occasional muscle pain is not uncommon
+among patients with muscular dystrophy (Emery
+1988), it is unusual for this to be the patient's chief
+complaint (Kuhn et al. 1979). The high incidence of
+severe cramps and myalgia among patients with deletions and duplications in the proximal rod domain
+suggests that this region is functionally different from
+the distal portion of the rod. Six of eight patients
+(75%) with in-frame mutations in this region had
+cramps, while only eight of 43 (19%) patients with
+mutations in other parts of the gene had these symptoms (P < .01 by X2 test for independence). Since both
+deletions and duplications caused cramps, we conclude that disruption, without loss, of this region is
+sufficient to cause these symptoms. These results imply
+that the 24 repeat units in the rod domain are not
+functionally equivalent to each other. Further evidence for this comes from the observation of a dearth
+of BMD patients with in-frame deletions in the central
+rod domain (exons 33-45) (present study; Koenig et
+al. 1989). The one deletion we have found is in an
+essentially asymptomatic patient with elevated serum
+CPK levels, suggesting that loss of this region results
+in a relatively mild phenotype. Currently, we are very
+interested in studying other individuals with idiopathic hyper-CPKemia in hopes of extending these observations. In the future, clinicians will have to consider dystrophin abnormalities in the differential
+
+Beggs et al.
+
+62
+
+EXON:
+
+'I
+
+I
+
+DOMAINS:
+
+1
+
+10
+
+20
+
+30
+
+_ I I *~~1-11
+
+50
+
+40
+
+so
+
+IJA 1-1--I I L1InITS=
+4
+
+BMD
+
+Severe
+
+I
+
+*D
+OMD
+
+BUD
+
+Crmplmysigla t weakness
+
+DUD
+
+high CPK?
+
+Figure 4
+Molecular-clinical correlations at dystrophin gene.
+The same schematic of the dystrophin molecule used in fig. 3 illustrates regions which, if lost or disrupted by in-frame mutations,
+cause varying degrees of muscular dystrophy. Very large deletions
+within a particular region may have a more severe phenotype. The
+existence of a putative "asymptomatic" region with elevated serum
+CPK levels as the primary symptom is based on the observation that
+only one patient with an in-frame deletion in this region has been
+found. The DMD region centered on domain III is based on the
+observation that frame-shifting mutations anywhere before this region result in DMD while loss of just the carboxy terminus causes
+BMD. It should be kept in mind that this figure represents a generalization that is useful for dividing the protein into functionally distinct regions; however, it is not possible to make diagnostic predictions for individual patients, since many factors might influence the
+clinical progression.
+
+diagnosis of patients with mild or atypical presentations.
+
+Figure 4 summarizes the general trends (but not
+ironclad rules) apparent from the present and previous
+studies. If, by analogy to alpha-actinin, domain I binds
+to actin (Hammonds 1987), then deletion of this region might be expected to reduce protein stability by
+disrupting interactions with other components of the
+membrane cytoskeleton. This would be reflected in
+the generally lower protein levels and, hence, more
+severe progression we see in these patients. In contrast,
+one (simplistic) view of the central rod domain holds
+that this extended rod of 24 repeats (Davison and
+Critchley 1988; Koenig and Kunkel 1990) merely provides size for the molecule, so internal deletions would
+be predicted to have minimal effects on protein function. This may be partly true, as extremely large deletions (e.g., in patients 8 and 10 in this report and in a
+patient described by England et al. [1990]) and duplications (Angelini et al. 1990) result in BMD and not
+DMD. Our data, however, suggest that this region is
+not completely homogenous with respect to function,
+since deletions in three different regions (proximal,
+central, and distal) of this domain cause generally different phenotypes (i.e., severe cramps, elevated CPK,
+and classical BMD, respectively). A possible molecular explanation for this might be that dystrophin binds
+and/or interacts with some other protein(s) at certain
+
+positions along the rod domain, and there is precedent
+for this in the spectrins which bind other proteins
+along their rod domain (reviewed in Morrow 1989).
+Domain III and the proximal half of domain IV are
+apparently essential, since patients with small frameshifting deletions that result in the loss of only these
+domains invariably have DMD (Koenig et al. 1989)
+and no detectable dystrophin (Arahata et al. 1991).
+Finally, the loss of just the most terminal portion of
+domain IV is associated with a mild, nonprogressive, BMD, indicating that this region is not essential
+to dystrophin function (Darras and Francke 1988;
+McCabe et al. 1989).
+Several of our cases illustrate the importance of correlating both protein and DNA findings when conducting a molecular analysis for DMD and BMD. Patient 48 had a deletion that removed only 60 of 3,685
+amino acids, and his dystrophin was initially classified
+as normal in size. Similarly, patients 8, 9, and 10
+would have been reported as having no dystrophin
+except for the fact that DNA analysis revealed large
+deletions encompassing the epitopes to which the antibodies were raised. Therefore, we consider it important to obtain both DNA and protein studies when
+evaluating new cases of muscular dystrophy, especially if only one antiserum is used for protein studies.
+Correlating DNA and protein data has also allowed
+us to infer something about the mutations in patients
+with no detectable deletions or duplications. Alterations in the levels, but not the size, of dystrophin are
+likely to be caused by promoter mutations or, perhaps,
+mutations that affect mRNA or protein stability. In
+contrast, patients with dystrophin of altered size are
+likely to suffer from mutations that affect mRNA splicing. Since an intact carboxy terminus seems essential
+for protein stability (Koenig et al. 1989; Arahata et al.
+1991), we predict that BMD patients are not likely
+to have point mutations that create premature stop
+codons. On the other hand, both nonsense and splicing mutations could prevent protein production in patients with DMD, and this might account for the
+greater proportion of nondeletion/duplication mutations in this population (e.g., v30%O for DMD vs.
+rv14% for BMD).
+DMD and BMD represent different degrees of severity for what is essentially the same disease. Understanding the basis for these extremely variable presentations and progressions is important for elucidating
+the causes of weakness and formulating strategies to
+minimize or eliminate the symptoms of this disease.
+The present study demonstrates that much of the clini-
+
+63
+
+Dystrophin Genes and Proteins in BMD
+
+cal variability among patients with BMD cannot be
+accounted for by specific mutations at the DNA level.
+Indeed, significant variability exists even among family members with the same mutation (e.g., patients
+34 and 37). Future studies on multigeneration BMD
+families and BMD twins are needed to further document this. However, one might suppose that genetic
+variation at loci encoding proteins that interact with
+dystrophin is responsible for some of this variability.
+With the recent identification of a dystrophin-associated glycoprotein (Campbell and Kahl 1989) these experiments should soon become feasible.
+
+Acknowledgments
+We thank the many physicians who contributed to this
+study by providing specimens and clinical information. We
+would also like to thank Frederick Boyce, Tim Byers, and
+Tejvir Khurana for many helpful discussions and critical
+reading of this manuscript. L.M.K. is an associate investigator of the Howard Hughes Medical Institute. This work was
+supported in part by the National Institutes of Health and
+by the Muscular Dystrophy Association of America.
+
+cl
+
+0= -o
+LJ
+
+0
+
+V
+
+-a =
+
+W
+
+V)
+
+N N- N4
+
+V
+
+-
+
+U
+
+-
+
+N
+
+0
+
+U
+
+0
+
+H
+
+0
+
+5
+
+r-V.
+
+z
+
+NON
+a
+
+00 00
+
+0
+
+Cu
+
+0
+
+-tNN-
+
+00
+
+enooN1-
+
+N
+
+ON
+
+rn
+
+N
+
+NN
+
+t
+
+oo
+
+o \O
+N N-
+
+N r-4N
+
+0
+
+4o6r'n
+
+Nr N-
+
+i-
+
+00 N en00
+o
+
+\0 e
+
+NLNI'N)
+
+00 00
+
+¢
+
+\O
+
+LO
+
+-
+
+-4
+
+-
+
+N n 'O
+
+O
+
+N N
+
+-
+
+0
+
+E0
+
+00
+
+E:6
+
+(n
+
+¢e
+00 00
+
+w
+
+00e6N'n
+
+INr-
+
+1.
+
+'
+
+N
+
+V)
+
+N O4
+
+0 N-
+
+N-
+
+4
+
+I- N 00
+
+0000 =m I'.
+
+UNm
+
+t
+
+U0
+
+'N
+
+'N
+
+(
+
+4
+
+tNt<£
+-£F
+
+,N-
+
+V-1
+
+-!!
+
+0D \D em N- N m
+
+'n tN)
+
+N
+
+tn
+
+4-
+
+\.0
+r-
+
+00 \.0
+r-4
+
+r.
+
+v- In 0 mU 00 N N- N 0 ON N I 00 0tw m N - N N- '.0
+r-q rNN
+,I--N -IUqN Nn N'-qN -rUn--
+
+-,
+
+N
+
+C-Z
+0
+00
+
+z
+
+Y
+
+CZ
+
+o
+-=-
+
+r-
+
+o0
+
+(/
+
+z
+0.
+
+c
+
+4
+
+,,
+
+c
+
+0E0
+
+V)
+
+-~ Cu
+
+U
+
+c,
+
+U
+
+0c>
+
+y
+
+~
+
+c
+
+,,
+
+c
+
+=;
+
+CZ
+
+EccEt
+
+>
+
+V
+
+U=OvQ
+
+c
+
+0
+
+CZ
+
+C'sU
+
+>
+
+0
+
+0
+
+0
+
+0
+
+*1-c
+0.
+VI0
+
+~0
+
+z z z>-
+
+0 00 00 00 0000 00 00 00 00 00 0
+
+0 000
+00
+""Io
+
+zz z z z z z z z z z z z z z z z z z z z z z z
+
+z z z z
+
+z
+
+L.
+
+tL.
+
+N V
+
+0
+.0
+
+N-
+
+z
+
+N-
+
+OI)I O
+
+I
+-
+
+0
+
+-o
+
+- -0 -
+
+-
+
+-o
+
+-
+
+n
+
+U '
+
+-~
+
+-
+
+-
+
+N- N- N- N- N- N- N- N- N- N-
+
+NI
+
+'I
+
+IT
+
+I
+n C) t-n I
+kn V)
+
+-
+
+-
+
+'It
+
+-~-~ -~-o
+
+-
+
+-
+
+-
+
+-
+
+N
+
+N- 00 00 00 00 00 00 00 00
+
+ILn knI-Ln Ilkn k ItnIt)M)
+
+I- I-
+
+kn Ln kn kn knL)
+
+-~-~
+
+-
+
+-o
+
+-
+
+-
+
+-~-~
+
+-
+
+t.
+
+k
+M)
+
+-o -o
+
+) kn V)
+-
+
+-o
+
+VI ) tn
+
+-~
+
+-
+
+-
+
+.C
+
+3t
+(0
+
+z
+
+40
+c
+'0
+
+r-
+
+:00
+
+OLUNO
+
+o o 00o
+
+0
+
+H4
+
+0 00
+
+0
+
+~ 9~C9 ~
+~ C
+O---0C
+
+0
+
+t0t0
+
+0
+
+>C
+
+0
+>C
+
+9
+
+0
+CD
+
+099
+
+00
+0
+0
+
+0000N
+0
+
+b?
+
+C)0C>CDCD3
+
+tA
+
+o
+0
+
+vn
+
+00
+Il
+rU
+
+O-
+
+ON
+NrUN r~l
+
+en
+
+fn
+
+f
+
+- 0.
+
+..
+
+"
+
+en rnrn
+
+*
+
+*
+
+*
+
+00'
+
+ON 0
+
+m
+
+en
+
+00 00 00 00 00 00 w w wNN
+r- N
+m mrU m m e n en . m m m m m m
+
+00 00 00 00 00
+
+rn
+en
+rn
+
+en
+
+m
+
+aI.
+M
+
+0
+
+zc
+4
+
+C
+
+c
+
+-0
+
+0.n
+
+z z
+
+'
+
+(01 c
+
+n
+C c c
+
+C-
+
+0
+(0
+
+x
+
+a.
+
+-Jt
+
+u
+
+.
+
+~
+
+C)
+
+(DI
+
+cc c c lz c C 0 0 00 0
+
+= = = MM.= = mm M w go = = = =
+
+.
+
+z
+z
+
+IU
+
+0. I-
+
+(A
+.
+
+.
+
+.
+
+.
+
+.D
+..0a
+
+.-
+
+r.
+
+0.4
+
+.-
+
+-
+
+.
+
+'. N- 00 O.
+
+-
+
+N
+-
+
+N
+
+64
+
+Nq en
+N
+
+N
+
+4N
+
+k'
+
+N-
+
+Nq
+
+N
+
+N
+
+00
+
+ON\
+
+0-
+
+N'
+
+N
+
+MU en
+
+N1
+
+rUn
+
+V-
+
+1-U
+
+eUn fn eUn
+
+-^
+
+U
+
+00
+
+00
+
+ON
+
+0
+
+U r:
+
+00
+
+V)
+
+-
+
+N
+
+Nl Ni
+
+--I\
+
+N
+
+Ln.
+
+-,
+
+'
+
+N o
+F
+
+00
+
+000oo
+
+a,
+
+^3
+
+4-,
+
+Q)
+
+U
+
+U
+N
+
+tn
+
+0
+
+-N
+
+-
+
+,-_
+
+.ON
+
+N
+
+00
+
+t
+
+r
+
+00
+
+N1
+
+-.
+
+N
+
+64
+
+0
+
+0
+U.
+
+U
+
+0° =
+
+-oE°
+
+0
+
+00
+.7N
+
+0
+
+NOYN000
+
+,,- i,^,0
+
+U
+
+~
+
+9
+
+7
+U
+^>
+00
+0,
+
+=
+Eo
+
+oE
+
+r- - 't
+N
+
+'t
+N
+
+-
+
+en~ --
+
+N. 00
+
+Nq
+
+L
+
+f<
+1-
+
+-
+
+N. rN.
+
+en
+
+N
+
+N-O-
+
+N.
+--
+
+o-
+
+m 00
+
+. -- oo I- N C1
+-4-4
+
+1-14
+
+-o N-
+
+\0 0000
+
+-,
+
+1-
+
+-
+
+m
+
+n 00
+
+1
+
+N. N
+
+-
+
+N. 0
+
+ON N (3ooN \0 00
+
+N
+N
+
+-
+
+U
+
+e
+
+._
+CZ
+0
+
+0
+
+U
+
+oomool (31 (3 allo
+
+)
+
+-
+
+-
+
+-
+
+-0 -0
+
+-
+
+0 -0
+
+-
+
+z
+Z
+
+m m
+
+-
+
+;;0
+
+0
+
+z
+
+Z ZZ Z Z
+
+-
+
+-
+
+0 -0 -0 -
+
+0
+
+r 00
+I I
+
+X
+
+-3
+0
+
+0
+
+o.
+
+$
+
+C
+
+z
+
+O
+
+-4
+
+0
+
+N r
+
+.~0E
+U
+
+U
+
+o
+
+.0
+=
+
+Q
+
+ZZ
+Z
+
+-0A:X
+-E
+
+00tr
+
+N 00 00
+O
+tI II
+I rn _-4 Q a)
+00 00 00o00 -o N N N CL.
+CL.
+0. 0.
+0 0.
+
+03
+"a-0 -10-0-0-0 -0 -0-0-0 -0
+
+000000000
+O- 0 °
+
+a
+
+u
+
+u
+
+u
+
+u
+
+U
+
+U
+
+V
+
+(-
+
+00Z
+
+7 7
+
+CZ
+
+-0-0
+
+4
+
+ON
+
+ol-
+
+N
+
+tol
+
+--
+
+CZ
+
+0
+
+0
+
+CZ,_ = z
+0
+
+~
+
+w
+
+~
+
+a m t 00E =. _
+
+0
+Ut
+
+IV
+~
+
+~
+
+CZ.
+
+CZ
+
+-
+
+~05o
+o
+CZ
+
+CUZ
+
+0 ~~~~~~
+0 en
+
+00 rm6,,O 0 \O(
+N N
+N 0
+o
+
+ON O O 5
+N
+N N 0 00000
+rom m m ON,,3~(5
+
+00
+
+z
+C.
+
+C.
+C) .z a C. C. C. C. a a a C.
+= .z a=== w = = = =
+
+a
+
+a
+
+.
+
+.
+
+.
+
+.
+
+~
+
+a .)
+a a a
+
+a
+.
+
+tU
+U
+
+an I
+.7.).- .nI-V
+.n
+.T.-*-*I
+.
+
+N. 00
+en fn
+
+\0 N. 00 ON Q0
+.,It I.
+
+.
+
+N-
+
+rn "T
+
+.-)
+
+.k
+
+QU
+
+-0N.O-
+
+0
+
+-
+
+\.
+
+65
+
+n
+
+'I
+
+.I
+.1
+
+I
+
+.~
+
+U
+
+U
+
+CZ
+
+L, a, °°
+
+0
+
+0
+UU
+>^n
+N= U
+=
+
+kn
+te
+
+Ur
+
+000000000
+
+CZ
+
+U
+
+0000000zz
+
+0 0
+
+-0 -0
+
+-4
+
+-U
+
+° x0
+E
+
+0 0
+
+en en 0 00
+
+00 00 N 0000000 \O N. r- °
+mm rMtn
+mm
+mm en -
+
+U
+
+00X
+
+X-
+
+0 00oo"
+0
+
+U
+
+C
+
+0
+
+Z
+
+0
+
+0
+
+~
+
+00..;
+
+,
+
+O 0 0
+o 0
+0
+
+-
+
+_0
+
+~DU
+~
+
+CZU~
+
+0
+
+Y
+
+,0,°
+
+0.
+0
+
+I_
+
+Z k
+
+U
+
+,
+
+CN
+
+-4
+
+n - N
+
+n
+
+r
+
+0
+
+u0
+
+nN
+
+OC
+
+C
+
+4a4a
+
+66
+
+References
+Aldridge J, Kunkel L, Bruns G, Tantravahi U, Lalande M,
+Brewster T, Moreau E, et al (1984) A strategy to reveal
+high-frequency RFLPs along the human X chromosome.
+Am J Hum Genet 36:546-564
+Angelini C, Beggs AH, Hoffman EP, Fanin M, Kunkel LM
+(1990) Enormous dystrophin in a patient with Becker
+muscular dystrophy. Neurology 40:808-812
+Arahata K, Beggs AH, Honda H, Ito S, Ishiura S, Tsukahara
+T. Ishiguro T, et al (1991) Preservation of the C-terminus
+of dystrophin molecule in the skeletal muscle from Becker
+muscular dystrophy. J Neurol Sci 101:148-156
+Arahata K, Hoffman EP, Kunkel LM, Ishiura S, Tsukahara
+T. Ishihara T, Sunohara N, et al (1989) Dystrophin diagnosis: comparison of dystrophin abnormalities by immunofluorescent and immunoblot analyses. Proc Natl Acad
+Sci USA 86:7154-7158
+Arahata K, Ishiura S, Ishiguro T, Tsukahara T, Suhara Y,
+Eguchi C, Ishihara T, et al (1988) Immunostaining of
+skeletal and cardiac muscle surface membrane with antibody against Duchenne muscular dystrophy peptide. Nature 333:861-863
+Beggs AH, Koenig M, Boyce FM, Kunkel LM (1990) Detection of 98% of DMD/BMD deletions by PCR. Hum
+Genet 86:45-48
+Bonilla E, Samitt CE, Miranda AF, Hays AP, Salviati G,
+DiMauro S, Kunkel LM, et al (1988) Duchenne muscular
+dystrophy: deficiency of dystrophin at the muscle cell surface. Cell 54:447-452
+Boyce FM, Beggs AH, Feener C, Kunkel LM (1991) Dystrophin is transcribed in brain from a distant upstream
+promoter. Proc Natl Acad Sci USA 88:1276-1280
+Brooke MH (1986) A clinician's view of neuromuscular diseases, 2d ed. Williams & Wilkins, Baltimore
+Campbell KP, Kahl SD (1989) Association of dystrophin
+and an integral membrane glycoprotein. Nature 338:
+259-262
+Chamberlain JS, Gibbs RA, Ranier JE, Caskey CT (1990)
+Multiplex PCR for the diagnosis of Duchenne muscular
+dystrophy. In: Innis MA, Gelfand DH, Sninsky JJ, White
+TJ (eds) PCR protocols: a guide to methods and applications. Academic Press, San Diego, pp 272-281
+Chamberlain JS, Gibbs RA, Ranier JE, Nguyen PN, Caskey
+CT (1988) Deletion screening of the Duchenne muscular
+dystrophy locus via multiplex DNA amplification. Nucleic Acids Res 16:11141-11156
+Chelly J, Gilgenkrantz H, Lambert M, Hamard G, Chafey
+P, Recan D, Katz P, et al (1990) Effect of dystrophin gene
+deletions on mRNA levels and processing in Duchenne
+and Becker muscular dystrophies. Cell 63:1239-1248
+Darras BT, Francke U (1988) Myopathy in complex glycerol
+kinase deficiency patients is due to 3' deletions of the dystrophin gene. Am J Hum Genet 43:126-130
+Davison MD, Critchley DR (1988) a-Actinins and the DMD
+protein contain spectrin-like repeats. Cell 52:159-160
+
+Beggs et al.
+Den Dunnen JT, Grootscholten PM, Bakker E, Blonden
+LAJ, Ginjaar HB, Wapenaar MC, van Paassen HMB, et al
+(1989) Topography of the Duchenne muscular dystrophy
+(DMD) gene: FIGE and cDNA analysis of 194 cases reveals 115 deletions and 13 duplications. Am J Hum Genet
+45:835-847
+Emery AEH (1988) Duchenne muscular dystrophy, 2d ed.
+Oxford University Press, New York
+England SB, Nicholson LVB, Johnson MA, Forrest SM,
+Love DR, Zubrzycka-Gaarn EE, Bulman DE, et al (1990)
+Very mild muscular dystrophy associated with the deletion of 46% of dystrophin. Nature 343:180-182
+Forrest SM, Cross GS, Flint T, Speer A, Robson KJH, Davies KE (1988) Further studies of gene deletions that cause
+Duchenne and Becker muscular dystrophies. Genomics 2:
+109-114
+Gillard EF, Chamberlain JS, Murphy EG, Duff CL, Smith
+B. Burghes AHM, Thompson MW, et al (1989) Molecular and phenotypic analysis of patients with deletions
+within the deletion-rich region of the Duchenne muscular
+dystrophy (DMD) gene. Am J Hum Genet 45:507-520
+Gospe SM, Lazaro RP, Lava NS, Grootscholten PM, Scott
+MO, Fischbeck KH (1989) Familial X-linked myalgia and
+cramps: a nonprogressive myopathy associated with a deletion in the dystrophin gene. Neurology 39:1277-1280
+Hammonds RJ Jr (1987) Protein sequence of DMD gene is
+related to actin-binding domain of a-actinin. Cell 51:1
+Hoffman EP, Beggs AH, Koenig M, Kunkel LM, Angelini
+C (1989a) Cross-reactive protein in Duchenne muscle.
+Lancet 2:1211-1212
+Hoffman EP, Brown RH, Kunkel LM (1987) Dystrophin:
+the protein product of the Duchenne muscular dystrophy
+locus. Cell 51:919-928
+Hoffman EP, Fischbeck KH, Brown RH, Johnson M, Medori R, LoikeJD, Harris JB, et al (1988) Dystrophin characterization in muscle biopsies from Duchenne and Becker
+muscular dystrophy patients. N Engl J Med 318:13631368
+Hoffman EP, Kunkel LM (1989) Dystrophin abnormalities
+in Duchenne/Becker muscular dystrophy. Neuron 2:
+1019-1029
+Hoffman EP, Kunkel LM, Angelini C, Clarke A,Johnson M,
+HarrisJB (1989b) Improved diagnosis of Becker muscular
+dystrophy by dystrophin testing. Neurology 39:10111017
+Hu X, Burghes AHM, Ray PN, Thompson MW, Murphy
+EG, Worton RG (1988) Partial gene duplication in Duchenne and Becker muscular dystrophy. J Med Genet 25:
+369-376
+Hu X, Ray PN, Murphy EG, Thompson MW, Worton RG
+(1990) Duplicational mutation at the Duchenne muscular
+
+dystrophy locus: its frequency, distribution, origin, and
+phenotype/genotype correlation. Am J Hum Genet 46:
+682-695
+Koenig M, Beggs AH, Moyer M, Scherpf S, Heindrich K,
+Bettecken T. Meng G, et al (1989) The molecular basis
+
+Dystrophin Genes and Proteins in BMD
+for Duchenne versus Becker muscular dystrophy: correlation of severity with type of deletion. Am J Hum Genet
+45:498-506
+Koenig M, Hoffman EP, Bertelson CJ, Monaco AP, Feener
+C, Kunkel LM (1987) Complete cloning of the Duchenne
+muscular dystrophy (DMD) cDNA and preliminary genomic organization of the DMD gene in normal and affected
+individuals. Cell 50:509-517
+Koenig M, Kunkel LM (1990) Detailed analysis of the repeat
+domain of dystrophin reveals four potential hinge segments that may confer flexibility. J Biol Chem 265:45604566
+Koenig M, Monaco AP, Kunkel LM (1988) The complete
+sequence of dystrophin predicts a rod-shaped cytoskeletal
+protein. Cell 53:219-228
+Kuhn E, Fiehn W, Schroder M, Assmus H, Wagner A
+(1979) Early myocardial disease and cramping myalgia in
+Becker-type muscular dystrophy: a kindred. Neurology
+29:1144-1149
+Kunkel LM, Snyder JR, Beggs AH, Boyce FM, Feener CA.
+Searching for dystrophin gene deletions in patients with
+atypical presentations. In: Lindsten J, Petterson U (eds)
+Etiology of human disease at the DNA level. Raven, New
+York (in press)
+McCabe ERB, Towbin J, Chamberlain J, Baumbach L, WitkowskiJ, van Ommen GJB, Koenig M, et al (1989) cDNA
+probes for the Duchenne muscular dystrophy locus demonstrate a previously undetectable deletion in a patient
+with dystrophic myopathy, glycerol kinase deficiency and
+congenital adrenal hypoplasia. J Clin Invest 83:95-99
+Malhotra SB, Hart KA, Klamut HJ, Thomas NST, Bodrug
+
+67
+SE, Burghes AHM, Bobrow M, et al (1988) Frame-shift
+deletions in patients with Duchenne and Becker muscular
+dystrophy. Science 242:755-759
+Monaco AP, Bertelson CJ, Liechti-Gallati S, Moser H, Kunkel LM (1988) An explanation for the phenotypic differences between patients bearing partial deletions of the
+DMD locus. Genomics 2:90-95
+Morrow JS (1989) The spectrin membrane skeleton: emerging concepts. Curr Opin Cell Biol 1:23-29
+Moser H (1984) Duchenne muscular dystrophy: pathogenic
+aspects and genetic prevention. Hum Genet 66:17-40
+Ringel SP, Carrol JE, Schold SC (1977) The spectrum of
+mild X-linked recessive muscular dystrophy. Arch Neurol
+34:408-416
+Sklar RM, Beggs AH, Lev AA, Specht L, Shapiro F, Brown
+RH (1990) Defective dystrophin in Duchenne and Becker
+dystrophy myotubes in cell culture. Neurology 40:18541858
+Sunohara N, Arahata K, Hoffman EP, Yamada H, Nishimiya J, Arikawa E, Kaido M, et al (1990) Quadriceps
+myopathy: forme fruste of Becker muscular dystrophy.
+Ann Neurol 28:634-639
+Watkins SC, Hoffman EP, Slayter HS, Kunkel LM (1988)
+Immunoelectron microscopic localization of dystrophin
+in myofibers. Nature 333:863-866
+Zubrzycka-Gaarn EE, Bulman DE, Karpati G, Burghes
+AHM, Belfall B. Hajklamut H, TalbotJ, et al (1988) The
+Duchenne muscular dystrophy gene product is localized
+in sarcolemma of human skeletal muscle. Nature 333:
+466-469
+
+

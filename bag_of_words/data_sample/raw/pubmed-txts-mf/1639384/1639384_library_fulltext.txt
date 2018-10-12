@@ -1,0 +1,1880 @@
+13, 543-550
+
+GENOMICS
+
+(1992)
+
+Detection
+RACHEL H. FLOMEN,’
+
+of Point Mutations and a Gross Deletion
+in Six Hunter Syndrome Patients
+
+PETER M. GREEN, DAVID R. BENTLEY, FRANCESCO GIANNELLI,
+
+AND ELIZABETH P. GREEN
+
+Paediatric Research Unit, Division of Medical and Molecular Genetics, United Medical and Dental Schools of Guy’s
+and St. Thomas’ Hospitals, 8th floor, Guy’s Tower, London Bridge, London, SE 1 9RT, United Kingdom
+Received
+
+November
+
+4, 1991,
+
+We have used screening
+with the polymerase
+chain
+reaction
+and chemical
+mismatch
+detection
+of amplified
+cDNA to detect and characterize
+deletions
+and point
+mutations
+in six Hunter
+Syndrome
+patients.
+A high degree of mutational
+heterogeneity
+was observed.
+The
+first patient
+is completely
+deleted
+for the gene coding
+for a-L-iduronate
+sulfate
+sulfatase,
+while
+the second
+has a point mutation
+that creates
+a stop codon. The
+third
+patient
+shows a point
+mutation
+that creates
+a
+novel splice site that is preferentially
+utilized
+and results in partial
+loss of one exon in the RNA. Patients
+4,
+5, and 6 have point mutations
+resulting
+in single amino
+acid substitutions.
+Four of the six single-base
+changes
+observed
+in this study were examples
+of transitions
+of
+the highly mutable
+dinucleotide
+CpG to TpG. This study
+has demonstrated
+a procedure
+capable
+of detecting
+all
+types of mutation
+that affect the function
+of the IDS
+protein
+and should enable direct carrier
+and prenatal
+o 1992 Academic
+diagnosis
+for Hunter
+syndrome
+families.
+Press,
+
+Inc.
+
+INTRODUCTION
+
+Hunter syndrome or mucopolysaccharidosis type II
+(MPS II) is an X-linked recessive disorder caused by an
+absence or reduction of the lysosomal housekeeping enzyme ol-L-iduronate sulfate sulfatase (IDS). This leads
+to accumulation of the incompletely degraded mucopolysaccharides heparan and dermatan sulfate (McKusick
+and Neufeld, 1983; Spranger, 1984; Benson and Fensom,
+1985; Bielicki et al., 1990). Symptoms of the disease include short stature, coarse facial features, stiff joints,
+progressive deafness, and mental retardation. Heart disease, resulting from a combination of valvular, myocardial, and ischemic factors, is the usual cause of death,
+and severely affected males die before adulthood, although milder cases have reached their eighth decade
+and have been capable of reproduction (Hobolth and Pedersen, 1978). It has been estimated that the incidence of
+Hunter syndrome is 7.5 per million male live births
+(Young et al., 1982), but a higher number (14.8 per mil1 To whom
+
+correspondence
+
+should
+
+be addressed.
+543
+
+revised
+
+February
+
+7, 1992
+
+lion) of male live births has been proposed for the Ashkenazi Jewish population (Schaap and Bach, 1980).
+Clinical diagnosis is based upon measuring IDS activity in peripheral white blood cells and serum and/or detecting accumulation of glycosaminoglycans in urine
+(Benson and Fensom, 1985). Carrier status is presently
+determined by enzyme assay for IDS in blood samples or
+preferably hair roots (Yutaka et al., 1978; Archer et al.,
+1982; Chase et al., 1986). Enzyme assays in blood samples, however, have been shown to be ambiguous in at
+least 15% of obligate carriers (Zlotogora and Bach,
+1984). Better results can be obtained by hair root analysis (Chase et al., 1986), but absolute certainty is not
+achieved. Also, linked restriction fragment length polymorphisms (RFLPs) do not provide definite carrier
+diagnosis, and therefore more accurate and direct methods for carrier detection are required. These must be
+based on the direct detection of the gene defect as illustrated for example by work on hemophilia B (Green et
+al., 1989; 1991a,b; Montandon et al., 1989).
+A full-length cDNA clone of 2.3-kb coding for the human IDS gene has recently been cloned and sequenced
+(Wilson et al., 1990). An open reading frame of 1650 bp
+was identified. The predicted 550 residue amino acid sequence includes 25 residues of signal sequence and 8 residues of propeptide sequence. As pointed out by Wilson et
+al. (1990), human IDS shares homology with several
+other sulfatase enzymes, including human arylsulfatases
+A, B, and C, human glucosamine-6-sulfatase, and sea
+urchin arylsulfatase (Yen et al., 1987; Robertson et al.,
+1988; Sasaki et al., 1988; Stein et al., 1989a,b; Peters et
+al., 1990). The IDS cDNA clone has been used as a probe
+to screen 23 severely affected Hunter syndrome patients
+for gene deletions and rearrangements (Wilson et al.,
+1990). Seven patients were found to have a deletion or
+rearrangement, and further analysis of these showed
+that two patients had deletions that removed the entire
+IDS gene. The remaining patients had either small deletions or point mutations, which were not detected by the
+method used.
+Here we describe the characterization of the Hunter
+syndrome mutation in each of a group of six patients
+analyzed using an approach that detects all types of mutations that affect the structure and/or stability of the
+0888-7543/92
+$5.00
+Copyright
+0 1992 by Academic Press, Inc.
+All rights of reproduction
+in any form reserved.
+
+544
+
+FLOMEN
+
+ET
+
+TABLE
+Primer
+
+Sequences”
+
+and Sizes
+
+Reaction
+name
+IDS C/L
+IDS V/N
+IDS O/B
+IDS P/D
+IDS E/D
+IDS C/41
+IDS pAdl/P
+’ Primers
+
+were
+
+of Expected
+
+Products
+
+AL.
+
+1
+
+for Primer
+
+Position
+(KY)
+
+Primer
+2
+(5’~3’)
+
+CTGCTAACTGCGCCACCTGC
+GAAGCGGCCGCGTCGAAG
+GCCTGACAAACAGAGCACTG
+CTGAGCAAGCCATACAGTTG
+GGTTGGCTTCAATCCTGATG
+CTGCTAACTGCGCCACCTGC
+GTGATGTGCTCCCTTCCAGC
+
+60-79
+1022119
+712-731
+729-748
+1630-1649
+60-79
+1803-1822
+
+TTGGACGTCTTCCCGTTG
+GTTGCCTGATGTCCATCCAGG
+CGACCAGCTCTAACTCCTCC
+GCTGGAAGGGAGCACATCAC
+GCTGGAAGGGAGCACATCAC
+GACGGAGCTCAGAACCAGACC
+GGTCTTCGTATCCAAAGG
+
+designed
+
+from
+
+MATERIALS
+
+sequence
+
+data provided
+
+AND
+
+METHODS
+
+Band
+shown
+
+1
+2
+3
+
+N/A
+A 550 nt
+B 500 nt
+
+(H
+(H
+
++ 0)
++ 0)
+
+4
+
+B 400 nt
+
+(H
+
++ 0)
+
+5
+
+B 200 nt
+
+(H)
+
+5
+
+A 460
+
+6
+
+A 500 bp
+
+nt (H)
+
+A, B, sections
+
+(H
+
++ 0)
+
+of amplified
+
+of Mutations
+
+Mutation
+in cDNA
+
+size (bp)
+by AMD
+
+Yes
+
+G 1629 to c
+
+Yes
+
+‘&~
+
+to T
+
+Yes
+
+C,
+
+to G
+
+Yes
+
+respresenting
+
+Size
+(bp)
+
+966-938
+941-921
+1850-1831
+1822-1803
+182221803
+184-164
+2095-2078
+
+896
+840
+1139
+1092
+193
+105
+293
+
+PCR amplification
+ofgenomic DNA.
+Genomic
+DNA was amplified
+in the first instance
+using primer
+pairs specific to the 5’ and 3’ ends of
+the gene coding for IDS (IDS C/41 and IDS D/E, respectively)
+(see
+Table 1). All PCRs were in a total volume of 50 pl containing
+67 mM
+Tris-HCl,
+pH 8.8, 16.6 n&f ammonium
+sulfate, 6.7 m&f magnesium
+chloride,
+170 #g/ml bovine
+serum albumin,
+and 10 m&f 2-mercaptoethanol,
+30 ng of each primer,
+2.5 units Amplitaq
+Taq polymerase
+(Perkin-Elmer/Cetus),
+and approximately
+lo-20
+ng of DNA template. Thirty
+cycles of amplification
+were carried
+out (93”C/l
+min,
+6O”C/l
+min, 72”C/3
+min).
+The polyadenylation
+region was also amplified
+from genomic DNA
+using the primers
+pAd 1 and pAd 2 (see Table 1). Conditions
+used were
+as described
+above and amplification
+was for 30 cycles of 93”C/l
+min,
+58”C/l
+min, 72”C/3
+min. Products
+of all PCR reactions
+were separated on 2.5% agarose gels and purified
+from gels using geneclean
+(Bio
+101). Then, 100-200
+ng of gel-purified
+reactions
+were sequenced
+by
+the dideoxy
+chain termination
+method
+(Sanger et al., 1977; Green et
+al., 1989).
+Reverse transcription
+and PCR amplification.
+RNA (200 to 500 ng)
+was reverse transcribed
+prior to PCR amplification.
+A total of 50 ng of
+the appropriate
+primer
+was annealed
+to 200-500
+ng of RNA in a volume of 10 @I TE buffer at 65°C for 10 min. After snap cooling on ice,
+reactions
+were made up to 20 pl with 4 ~1 5~ reverse transcriptase
+buffer
+(BRL),
+5 ~1 5 mM dNTPs,
+25 units RNase inhibitor
+(Boehringer Mannheim),
+and 200 units Molony
+murine
+leukemia
+virus reverse transcriptase
+(BRL).
+Reactions
+were incubated
+at 42°C for 1 h,
+and 20 ~1 of cDNA was amplified
+using the conditions
+described
+above.
+Outer primers
+(see Fig. 2 and Table 1) were used for 30 cycles of
+
+2
+
+in Six
+
+Hunter
+
+Syndrome
+
+Mutation
+confirmed
+in genomic
+DNA
+
+N/A
+C,, to T
+60bp of cDNA
+lost (G m&m)
+C,,,, to T
+
+cDNA
+
+Position
+(5’~3’)
+
+blasts using the acid-guanidinium-thiocyanate-phenol-chloroform
+method
+of Chomczynski
+and Sacchi
+(1987).
+
+TABLE
+Characterization
+
+of the IDS Sequence
+
+by Dr. Hopwood.
+
+DNA and RNA extractions.
+Genomic
+DNA and RNA were prepared together
+from either peripheral
+lymphocytes
+or cultured
+fibro-
+
+Note.
+
+Used in Amplification
+
+Primer
+1
+(51-3’)
+
+IDS protein. The approach consists of two main stages.
+In the first stage, patient DNAs are screened for the
+presence of the IDS gene sequence using polymerase
+chain reactions (PCR) that define two genomic regions,
+one specific for the 5’ and the other for the 3’ end of the
+gene. Patients shown not to have a large deletion by this
+method are then analyzed in the second stage. IDS
+cDNA derived from primary fibroblast cultures or peripheral blood lymphocytes is amplified. Any interstitial
+deletions or rearrangements not affecting the 5’ or 3’ genomic PCRs will be detected by loss or alteration of one
+of these reactions. Regions in which no such changes are
+found are then screened for mutations by mismatch detection analysis (Montandon et al., 1989) using the chemical cleavage method of Cotton et al. (1988). All mutations are then characterized by sequencing using the dideoxy chain termination method (Sanger et al., 1977)
+adapted for double-stranded sequencing (Green et al.,
+1989) and confirmed by subsequent analysis of the appropriate segment of genomic DNA.
+
+Patient
+
+Pairs
+
+N/A
+Yes
+C i2.,e to T transition
+
+5’ and 3’ portions,
+
+respectively,
+
+Patients
+Comment
+
+Entire
+IDS gene and proximal
+marker
+VK2lc
+deleted
+Arginine,,,
+becomes
+a translation
+stop codon
+Silent
+change
+in codon creating
+a cryptic
+donor
+splice site leading
+to partial
+loss of an exon
+Serine,,,
+to leucine
+substitution
+changes
+a conserved
+residue within
+a region of homology
+among other
+sulfatases
+(see Fig. 5)
+Tryptophan,,,
+to serine
+substitution
+results
+in the
+introduction
+of a small polar
+side chain
+in a
+hydrophobic
+domain
+Threonme,,
+silent change: polymorphism
+or private
+mutation
+Proline,,
+to arginine
+substitution
+of mRNA.
+
+H, hydroxylamine;
+
+0, osmium
+
+tetroxide.
+
+DETECTION
+
+OF
+
+POINT
+
+MUTATIONS
+
+a
+
+AND
+
+b
+M123456BM
+
+M
+
+1
+
+GROSS
+
+2
+
+3
+
+4
+
+545
+
+DELETION
+
+5
+
+6
+
+B
+
+M
+
+f---
+
+FIG. 1. Genomic
+size. M, 1-kb ladder
+
+193
+
+DNA from patients
+1 to 6 amplified
+with (a) the 5’STS IDS C/41 and (b) the 3’ STS IDS D/E. The arrow
+in a and 123-bp ladder in b, and tracks l-6
+refer to patients
+1-6, respectively.
+B is the negative
+control.
+
+amplification
+(93’C/l
+min, 58’C/l
+min, 72”C/5
+min). First-round
+PCR products
+(5 ~1) were amplified
+for a further
+30 cycles as before
+using the inner primers
+(Fig. 2, Table 1). Products
+were separated
+on
+1% agarose gels and extracted
+using Geneclean
+(Bio 101).
+Chemical
+mismatch
+detection
+analysis
+and sequencing.
+Two
+hundred
+nanograms
+of each purified
+PCR product
+(with the exception
+of those representing
+the polyadenylation
+region,
+which were sequenced
+directly)
+were screened
+for mutations
+using chemical
+mismatch detection
+(Montandon
+et al., 1989; Cotton
+et al., 1988). DNA
+was annealed
+in a 10~1 ratio with a homologous
+end-labeled
+probe. Any
+differences
+between
+the strands
+of these heterodimers
+lead to mispaired cytosine
+(C) or thymine
+(T) residues,
+which are modified
+by
+hydroxylamine
+(2.3 n&f) or osmium tetroxide
+(0.025%),
+respectively,
+for 2 h at 37°C. Cleavage
+at the modified
+sites is then carried out with
+piperidine
+(1 M) for 30 min at 90°C. Products
+were resolved
+on 6%
+acrylamide
+denaturing
+gels and autoradiographed.
+Regions shown to
+
+IDS CL
+10s v-
+
+-
+
+-
+
+contain
+method
+
+mismatches
+were sequenced
+(Sanger
+et al., 1977; Green
+
+chain
+
+band
+
+termination
+
+The mutations in the DNA and RNA of six unrelated
+patients with severe Hunter syndrome
+were obtained
+(see Table 2). The mutations in each case were characterized as follows. The genomic DNA of every patient
+was initially screened by PCR reactions specific to the 5’
+and 3’ ends of the gene. These were directed by primer
+pairs IDS C/41 and IDS D/E, respectively
+(Table 1).
+Patient 1 was negative for both reactions (see track 1,
+
+IDS 1
+IOS N
+
+-
+
+IDS 0
+IDS El
+
+“‘.\k
+
+*‘//
+Kls
+1
+-IDS
+
+P I
+
+J
+
+T--
+
+N
+
+REACTION
+A
+(840
+bp)
+
+M
+
+indicates
+
+RESULTS
+
+IDS P 7
+IDS 0 7
+
+IDS v -A
+I
+
+by the dideoxy
+et al., 1989).
+
+bp
+
+IDSD
+
+REACTION
+B
+(1092
+bp)
+
+MI23456
+
+123456
+
+t--
+
+840
+
+bp
+
++--
+
+1092
+
+bp
+
+FIG. 2. cDNA amplification
+products.
+(Top) IDS mRNA
+showing open reading frame (open rectangle)
+and position
+of primers
+for cDNA
+synthesis
+(IDS B, IDS L) and nested amplifications
+(IDS C/L, IDS V/N and IDS O/B, IDS P/D for reactions
+A and B, respectively).
+(Bottom)
+Products
+of nested PCR reactions
+carried out following
+first-strand
+cDNA synthesis
+in the presence
+(tracks
+1,4) and absence (tracks 2,5)
+of
+reverse transcriptase
+and in the absence of cDNA template
+(tracks
+3, 6). M indicates
+l-kb ladder size marker.
+
+546
+
+FLOMEN
+OS0
+
+1
+
+23
+
+Hydrowylamine
+
+4
+
+4
+
+5
+
+1
+
+23
+
+4
+
+5P
+
+nt
+-1092
+
+-
+
+500
+
+-2 I
+-“:
+
+i
+I
+
+._ ,‘; y‘. :./~,~
+
+/>
+
+,“r
+.*
+
+“)
+
+” _ ‘ “‘
+
+-
+
+200
+
+FIG.
+3.
+Chemical
+cleavage
+analysis
+of reaction
+B for a normal
+individual
+and patients
+2, 3, 5, and 6. Track
+1, normal
+individual;
+tracks 2,3,4,
+and 5, patients
+2,5,6, and 3, respectively.
+Band sizes in
+nucleotides
+are indicated
+at the right Track P, full-length
+reaction
+B
+product
+used as a probe.
+
+Figs. la and lb) and was also negative when tested by a
+PCR reaction
+detecting
+the anonymous
+proximal
+marker VKZlC (DXS269)
+(Suthers et al., 1989) (results
+not shown). However,
+the sample was positive for an
+STS representing
+U6.2 (DXS304)
+(Rousseau
+et al.,
+1990), which showed the ability of the DNA to act as a
+template for amplification.
+Patient 1 therefore presumably has a deletion of the whole IDS gene extending
+proximally
+at least as far as DXS269 in Xq27.3.
+The remaining five patients were positive for the 5’and 3’-specific PCR reactions (see Figs. la and lb). To
+screen these patients for point mutations,
+total RNA
+was first extracted from primary fibroblast cultures. The
+IDS mRNA was reverse transcribed
+in two overlapping
+sections using primers IDS L and IDS B for the 5’ (A)
+and 3’ (B) sections, respectively,
+and then amplified by
+two nested PCR reactions using the primer pairs IDS
+C/L and IDS V/N for section A and IDS O/B and IDS
+P/D for section B (Table 1 and Fig. 2). The polyadenylation region was amplified from genomic DNA and sequenced directly without detection of any significant abnormality. The overlapping, amplified cDNA sections A
+and B were then subjected to chemical mismatch analysis to identify and locate any point mutation or mRNA
+abnormality.
+The mutations are summarized in Table 2.
+Mismatch analysis of patients 2-4 and 6 resulted in detection of a single mismatch band in either reaction A or
+
+ET
+
+AL.
+
+B in each case. Such a band could be elicited however by
+either hydroxylamine
+or osmium tetroxide (see for example patient 3 reaction B, track 5, Fig. 3). In patient 5, two
+mismatch bands were detected, one in each section of
+the cDNA (see Fig. 3, track 3 in the hydroxylamine
+reaction for the band in reaction B; result not shown for
+reaction A).
+To characterize
+fully the cDNA defects revealed by
+the mismatch analysis the appropriate
+segments of the
+amplified section A and/or B were sequenced directly
+using either PCR or ad hoc primers. This revealed that
+in patient 2, the mismatch band of 550 nt in section A
+was due to a C + T transition
+at residue 638, which
+converted the Arg,,, codon into a translation
+stop signal
+(Fig. 4a, Table 2). The mutation was confirmed by sequence analysis of the coding region amplified from genomic DNA using a primer derived from an intron sequence paired with a cDNA-specific
+primer.
+In patient 3 the 500-nt band seen with both chemicals
+in section B is due to the loss of 60 bp of cDNA extending
+from nucleotide position 1244 to 1305 (Table 2, Figs. 4b
+and 5). Analysis of this region of the patients’ genomic
+DNA showed that the sequence absent from the cDNA
+was present in genomic DNA, but that a C + T transition had occurred in a nucleotide corresponding
+to position 1246 of the cDNA (the sequence change in the antisense strand is shown in Fig. 4~). This does not alter the
+amino acid sequence but creates a donor splice site
+(CAGGCGAGA
++ CAGGTGAGA).
+As a result, part of
+this exon [nts 1245-1304 of the cDNA (Wilson
+et al.,
+1990)] is spliced out in the mature mRNA along with the
+normal intron sequence prior to nucleotide
+1305. To
+demonstrate
+the preferential
+use of the novel splice site
+in patient 3, the size of the PCR product from reaction B
+was compared with that of a normal sample. The amplified cDNA derived from the patient consisted
+exclusively of a shorter product (1032 nts; see track 2, Fig. 6)
+compared to the normal control. Existence of an exon
+boundary following
+nucleotide 1304 of the cDNA was
+confirmed by sequencing normal genomic DNA (unpublished results).
+In patient 4, the mismatch band of 400 nt in section B
+is caused by a C + T transition
+at nucleotide 1122 that
+was also found in genomic DNA using a primer complementary to nearby intron sequence and results in substitution of serine 333by leucine (Fig. 4d, Table 2).
+In patient 5 the mismatch band of 460 nt in section A
+is due to a C + T transition
+at nucleotide position 562
+(seen in both genomic and cDNA), which causes a silent
+change in the codon for threonine,,,
+(ACC to ACT). The
+second mismatch band in this patient, the 200-nt band
+in section B, is due to a G + C transversion
+at nucleotide
+1629. This causes the substitution
+of tryptophan,,,
+by
+serine (Fig. 4e, Table 2), a change that was confirmed in
+genomic DNA.
+Finally, in patient 6 the mismatch band of 500 nt in
+section A is due to a C + G transversion
+at position 603
+that converts
+Pro,,, to Arg (Fig. 4f, Table 2), as also
+demonstrated
+in genomic DNA.
+
+DETECTION
+
+aA
+
+OF
+
+POINT
+
+MUTATIONS
+
+AND
+
+b
+
+G C T
+
+547
+
+DELETION
+
+A GCT
+I2121212
+
+12121212
+
+--
+
+-7
+
+c
+
+638
+
+to T
+
++
+
+-
+
+-
+
+‘A
+
+GROSS
+
+G
+
+L
+
+-
+
+C
+
+dA
+
+7
+
+patient
+
+Qs
+..-
+
+control
+
+3
+
+G C T
+
+12121212
+T
+A
+Tc
+A
+
+c
+C
++--
+
+G1246
+
+to
+
+G”
+C 1122
+T
+c
+C
+A
+
+A
+
+C
+T
+
+to
+
+T
+
+T
+T
+
+eA
+
+G CT
+
+12121212
+
+patient
+
+6
+
+control
+
+hti
+
+G
+T
+T
+G
+G
+G1629
+T
+G
+T
+
+to C
+
+e
+
+-
+
+G
+T
+
+FIG.
+4.
+Sequence
+data relating
+to observed
+mutations.
+(a) Track
+1, patient
+sample; track 2, normal
+control.
+(b-e)
+Track
+1, normal
+at nt 638 of patient
+2; (b) novel junction
+seen in the coding sequence of patient
+3, where
+control;
+track 2, patient
+sample. (a) C --* T transition
+at nt 1246 (arrowed)
+(arrowed);
+(c) antisense
+strand of genomic DNA in patient
+3 showing G + A transition
+GW and Go5 are spliced together
+at nt 1629 (arrowed)
+of patient
+and new exon 3’end (underlined);
+(d) C + T transition
+at nt 1122 (arrowed)
+of patient 4; (e) G + C transversion
+5; (f) C + G substitution
+at nt 603 (arrowed)
+of patient
+6.
+
+DISCUSSION
+
+In every one of the six patients analyzed, a mutation
+was found that can be considered the cause of the disease. This is beyond any doubt in patient 1, where the
+
+whole gene was deleted and in patient 2, where a stop
+codon at position 172 causes the functional loss of most
+of the coding sequence. In patient 3,20 amino acids are
+lost from a relatively well-conserved
+region of the sulfatases, and this also represents
+a gross abnormality
+
+548
+
+FLOMEN
+
+wild
+
+ET
+
+AL.
+
+type
+
+cDNA
+
+patient
+
+genomic
+
+3
+1246 *
+4
+
+DNA
+
+1305
+
+FIG.
+5. Events leading to partial
+loss of an exon in the cDNA of patient
+3. Exons are boxed
+upper- and lowercase
+letters, respectively.
+Nucleotides
+1304 and 1305 represent
+the exon junction
+nucleotide
+1246 is marked
+by an asterisk.
+The C,,,, + T transition
+in the patient
+DNA creates
+124551304
+of the cDNA into an intron sequence.--
+
+within the coding sequence of the gene. Less certain are
+the functional
+consequences
+of the single amino acid
+substitutions
+observed in patients 4,5, and 6. However,
+the Ser,,, + Leu substitution
+of patient 4 represents
+a
+nonconservative
+change (small polar to large hydrophoM
+
+1
+
+2
+
+and exon and intron
+sequences are shown in
+in wildtype
+cDNA.
+The site of mutation
+at
+a donor splice site that converts
+nucleotides
+
+bit) of a residue in a region that is conserved in many
+sulfatases (see Fig. 7). Similarly the Trp,,, + Ser substitution of patient 5 represents a major change in the properties of the amino acid side chain. Thus the very large
+
+M
+
+1092
+
+nts
+
+1032
+
+nts
+
+FIG.
+6. Preferential
+use of the novel splice site in patient
+3. M,
+I-kb ladder size marker;
+tracks
+1 and 2, reaction
+B product
+from a
+normal control
+and patient
+3, respectively.
+
+1
+
+I
+
+A
+
+1
+
+Y
+
+F
+
+1
+
+L
+
+V
+
+T
+
+v
+
+F
+
+‘I
+
+L
+
+Y
+
+7
+
+I
+
+F
+
+FIG. 7. Diagram
+of the amino acids 327 to 336 of human IDS (top
+line) and below, its aligned homologues;
+human glucosamine-6-sulfatase, human
+arylsulfatases
+A, B, and C, and sea urchin arylsulfatase,
+respectively
+(Robertson
+et al., 1988; Stein et al., 1989a/b;
+Peters et al.,
+1990; Yen et al., 1987; Sasaki et al., 1988). The arrow indicates
+the
+position
+of serines,,
+substituted
+by leucine
+in patient
+4. Absolutely
+conserved
+residues are boxed.
+
+DETECTION
+
+OF POINT
+
+MUTATIONS
+
+hydrophobic group of the tryptophan is replaced by the
+small polar serine side chain. This change occurs in a
+very hydrophobic domain (VLJVGF + VSVGF) and is
+therefore likely to cause a significant reduction in the
+stability or activity of the enzyme. This latter patient
+also shows a translationally silent change that is expected to be neutral. Whether this represents a common
+polymorphism is not yet known. Finally, the Pro,, +
+Arg substitution of patient 6 is also a nonconservative
+change, which in this case involves the amino acid proline, which frequently has important structural roles.
+It is interesting to note that four out of six of the single
+nucleotide changes described in this study were C + T
+transitions occurring at the CpG dinucleotide (C,,, --f T
+in patient 2, C,,,, + T in patient 3, C,,,, + T in patient
+4, and %, + T in patient 5). This result agrees with
+earlier observations that the CpG dinucleotide is a “hotspot” for mutations within the mammalian genome
+(Bird, 1980; Green et d., 1990).
+The procedure that we used to detect the mutation of
+the above patients makes use of amplified cDNA. This
+reduces the work required to characterize the mutation
+because the mRNA presents the coding sequence in a
+continuous stretch, a property that has also been invaluable in the characterization of the mutations of large and
+complex genes, such as those for factor VIII and dystrophin (Naylor et al., 1991; Roberts et al., 1991). Thus two
+nested PCR reactions applied after first-strand cDNA
+synthesis allow the isolation of the whole coding sequence of the IDS gene as two purified and abundant
+overlapping segments. A total of four chemical mismatch reactions then identify and locate any mutation,
+thus reducing to a minimum the sequencing required to
+fully characterize the mutation. Another advantage of
+analyzing sequence changes at the level of the cDNA is
+that the effects of mutations on RNA splicing may be
+directly identified. This is clearly illustrated by patient
+3, where a single base substitution in an exon creates a
+new donor splice site and causes the loss of 60 nt from
+the message. Analysis of the patient cDNA (see Fig. 6
+and Results) clearly indicates that the new donor site is
+the functional site in patient 3, a fact that could not have
+been definitely predicted from the knowledge of the single base substitution observed in genomic DNA because
+the rules governing mRNA splicing are not yet well defined. Furthermore, the findings in patient 3 are in keeping with the “exon definition” hypothesis (Robberson et
+al., 1990). According to this hypothesis the spliceosome
+begins to assemble at the 3’ end of an intron, followed by
+a search for a downstream donor splice that together
+with the 5’ acceptor site defines the exon. The new donor
+splice site in patient 3 may therefore be preferred to the
+natural splice site because it is closer than the latter to
+the preceding acceptor site.
+Analysis of genomic DNA is required to confirm the
+mutation seen in patients cDNA, especially as illustrated for patient 3. Additionally, a PCR reaction was
+used to analyze the cleavage polyadenylation signal region of the gene, since mutations of these sites are
+
+549
+
+AND GROSS DELETION
+
+known to be detrimental in the globin genes (Orkin et al.,
+1985). The promoter should also be analyzed in genomic
+DNA, but such a region of the IDS gene has not been
+defined yet and we have not examined it.
+In conclusion, we have characterized the mutation of 6
+patients with Hunter syndrome by a procedure that
+should be capable of detecting most types of mutations
+that affect function and/or stability of the IDS protein
+or mRNA. The efficiency of mutation detection relies on
+the ability of the chemical mismatch procedure to detect
+all types of point mutation. From previous studies in
+hemophilia B (Green et al., 1991a, and unpublished), the
+mutation in 160 out of a total of 161 unrelated patients
+with the diseasewas identified using this approach. The
+one patient in whom no mutation was detected by mismatch analysis was shown by complete sequence analysis to lack a mutation within the essential regions of the
+factor IX gene. This indicated that the inability to find
+the mutation was not due to failure of the chemical mismatch technique.
+The method described above should allow carrier and
+prenatal diagnosis based on the direct detection of the
+gene defect according to the strategy previously developed for hemophilia B (Green et al., 1991b).
+ACKNOWLEDGMENTS
+We are grateful to Professor
+M. Bobrow
+for constant
+support;
+to Dr.
+J. J. Hopwood
+for kindly
+sending us the cDNA
+sequence of the IDS
+gene prior to publication;
+to Professor
+M. Adinolfi
+for help in obtaining patient
+details and samples; and to Miss T. Slade for help in preparing
+patient
+fibroblast
+samples.
+We are also grateful
+to Miss A.
+Coffey
+for helpful
+discussions
+and to Ms. A. Knight
+for secretarial
+assistance.
+This
+work
+was supported
+by Wellcome
+Trust
+Grant
+030850/1.5,
+the Waldburg
+Trust, the Spastics Society, and the Generation Trust.
+
+REFERENCES
+Archer,
+I. M., Rees, D. W., Oladimeji,
+A., Wusteman,
+F. S., and
+Harper,
+P. S. (1982). Detection
+of female carriers
+of Hunter’s
+syndrome:
+Comparison
+of serum and hair-root
+analysis.
+J. Inherited
+Metab. Dis. 5: 15-16.
+Benson,
+P. F., and Fensom,
+A. H. (1985). “Genetic
+Biochemical
+Disorders,”
+Oxford
+Univ. Press, Oxford/New
+York/Toronto.
+Bielicki,
+J., Freeman,
+C., Clements,
+P. R., and Hopwood,
+J. J. (1990).
+Human
+liver iduronate-2sulphatase:
+Purification,
+characterisation
+and catalytic
+properties.
+Biochem.
+J. 271: 75-86.
+Bird, A. P. (1980).
+DNA methylation
+and the frequency
+animal DNA. Nucleic Acids Res. 8: 1499-1504.
+
+of CpG
+
+in
+
+Chase, D. S., Morris,
+A. H., Ballabio,
+A., Pepper, S., Giannelli,
+F., and
+Adinolfi,
+M. (1986). Genetics
+of Hunter
+syndrome:
+Carrier
+detection, new mutations,
+segregation
+and linkage
+analysis.
+Ann. Hum.
+Genet. 50: 349-360.
+Chomczynski,
+P., and Sacchi, N. (1987). Single step method
+of RNA
+isolation
+by acid guanidinium
+thiocyanate-phenol
+chloroform
+extraction.
+Anal. Biochem.
+162: 156-159.
+Cotton,
+R. G. H., Rodrigues,
+N. R., and Campbell,
+R. D. (1988). Reactivity of cytosine
+and thymine
+in single-base-pair
+mismatches
+with
+hydroxylamine
+and osmium
+tetroxide
+and its application
+to the
+study of mutations.
+Proc. Natl. Acad. Ski. USA 85: 4397-4401.
+Green,
+P. M., Bentley,
+D. R., Mibashan,
+R. S., Nilsson,
+I. M., and
+
+550
+Giannelli,
+F. (1989).
+J. 8: 1067-1072.
+
+FLOMEN
+Molecular
+
+pathology
+
+of haemophilia
+
+B. EMBO
+
+Green, P. M., Montandon,
+A. J., Bentley,
+D. R., Ljung, R., Nilsson,
+I. M., and Giannelli,
+F. (1990). The incidence
+and distribution
+of
+CpG + TpG transitions
+in the coagulation
+factor IX gene. A fresh
+look at CpG mutational
+hotspots.
+Nucleic Acids Rex 18: 3227-3231.
+Green, P. M., Montandon,
+A. J., Bentley,
+D. R., and Gianelli,
+F. G.
+(1991a).
+Genetics
+and molecular
+biology of haemophilias
+A and B.
+Blood Coagulation
+Fibrinolysis
+2: 539-565.
+Green, P. M., Montandon,
+A. J., Ljung, R., Bentley,
+D. R., Nilsson,
+I. M., Kling,
+S., and Giannelli,
+F. (1991b).
+Haemophilia
+B mutations in a complete
+Swedish population
+sample: A test of new strategy for the genetic counselling
+of diseases with high mutational
+heterogeneity.
+Br. J. Haematol.
+78: 390-397.
+Hobolth,
+N., and Pedersen,
+C. (1978). Six cases of a mild
+Hunter
+syndrome
+in five generations.
+Three affected
+progeny.
+Clin. Genet. 13: 121.
+
+form of the
+males with
+
+McKusick,
+V. A., and Neufeld,
+E. F. (1983). The mucopolysaccharide
+storage diseases.
+In “The Metabolic
+Basis of Inherited
+Disease”
+(J. B. Stanbury,
+J. B. Wyngaarden,
+D. S. Fredrickson,
+J. L. Goldstein, and M. S. Brown,
+Eds.), pp. 751-777,
+McGraw-Hill,
+New
+York.
+Montandon,
+A. J., Green,
+P. M., Giannelli,
+F., and Bentley,
+D. R.
+(1989). Direct detection
+of point mutations
+by mismatch
+analysis:
+Application
+to haemophilia
+B. Nucleic Acids Res. 17: 3347-3358.
+Naylor,
+J. A., Green, P. M., Montandon,
+A. J., Rizza, C. R., and Giannelli, F. (1991). Detection
+of three novel mutations
+in two haemophilia A patients
+by rapid screening
+of whole essential
+region of
+factor VIII gene. Lancet 337: 635-639.
+Orkin,
+S. H., Cheng, T. C., Antonarakis,
+S. E., and Kazazian,
+H. H.,
+Jr. (1985). Thalassemia
+due to a mutation
+in the cleavage-polyadenylation
+signal of the human &globin
+gene. EMBO
+J. 4: 453.
+Peters, C., Schmidt,
+B., Rommerskirch,
+W., Rupp, K., Zuhlsdorf,
+M.,
+Vingron,
+M., Meyer,
+H. E., Pohlmann,
+R., and von Figura,
+K.
+(1990). Phylogenetic
+conservation
+of arylsulfatases:
+cDNA cloning
+and expression
+of human arylsulfatase
+B. J. Biol. Chem. 265: 33743381.
+Robberson,
+B. L., Cote, G. J., and Berget, S. M. (1990). Exon definition may facilitate
+splice site selection
+in RNAs
+with multiple
+exons. Mol. Cell. Biol. 10: 84-94.
+Roberts,
+R. G., Bobrow,
+M., and Bentley,
+D. R. (1992). Point mutations in the dystrophin
+gene. Proc. Natl. Acad. Sci. USA 89: 23312335.
+Robertson,
+D. A., Freeman,
+C., Nelson, P. V., Morris,
+C. P., and Hopwood, J. J. (1988). Human
+glucosamine-6sulfatase
+cDNA
+reveals
+homology
+with steroid sulfatase.
+Biochem.
+Biophys.
+Res. Commun.
+
+157:218-224.
+
+ET
+
+AL.
+
+Rousseau,
+F., Vincent,
+A., Oberle,
+I., and Mandel,
+J. L. (1990). New
+informative
+polymorphism
+at the DXS304
+locus, a close distal
+marker
+for the fragile X locus. Hum. Genet. 84: 263-266.
+Sanger, F., Nicklen,
+S., and Coulson,
+A. R. (1977). DNA sequencing
+with chain-terminating
+inhibitors.
+PFOC. Natl. Acad. Sci. USA 74:
+54635467.
+Sasaki, H., Yamada,
+K., Akasaka,
+K., Kawasaki,
+H., Suzuki,
+A., Sato, M., and Shimada,
+H. (1988). cDNA
+cloning,
+sequence
+and expression
+of the gene for arylsulfatase
+urchin
+(Hemicentrotus
+pulcherrimus)
+embryo.
+Eur. J.
+177: 9-13.
+Schaap, T., and Bach,
+in Israel: Is Hunter
+221-223.
+
+K., Saito,
+nucleotide
+in the sea
+Biochem.
+
+G. (1980). Incidence
+of mucopolysaccharidoses
+disease a “Jewish
+disease”?
+Hum. Genet.
+
+56:
+
+Spranger,
+J. (1984). The mucopolysaccharidoses.
+In. “Principles
+and
+Practice
+of Medical
+Genetics”
+(A. H. Emery
+and D. L. Rimoin,
+Eds.), pp. 1339-1347,
+Churchill
+Livingstone,
+Edinburgh.
+Stein, C., Gieselmann,
+V., Kreysing,
+J., Schmidt,
+B., Pohlmann,
+R.,
+Waheed,
+A., Meyer,
+H. E., O’Brien,
+J. S., and von Figura,
+K.
+(1989a).
+Cloning
+and expression
+of human arylsulfatase
+A. J. Biol.
+Chem. 264: 1252-1259.
+Stein, C., Hille, A., Seidel, J., Rijnbout,
+S., Waheed,
+A., Schmidt,
+B.,
+Geuze, H., and von Figura,
+K. (198913). Cloning
+and expression
+of
+human
+steroid-sulfatase.
+Membrane
+topology,
+glycosylation
+and
+subcellular
+distribution
+in BHK-21
+cells. J. Biol. Chem.
+264:
+13,865-13,872.
+Suthers,
+G. K., Callen, D. F., Hyland,
+V. J., Kozman,
+H. M., Baker, E.,
+Eyre, H., Harper,
+P. S., Roberts,
+S. H., Hors-Cayla,
+M. C., Davies,
+K. E., Bell, M. V., and Sutherland,
+G. R. (1989). A new DNA marker
+tightly
+linked to the fragile X locus (FRAXA).
+Science 246: 12981300.
+Wilson,
+P. J., Morris,
+C. P., Anson, D. S., Occhiodoro,
+T., Bielicki,
+J.,
+Clements,
+P. R., and Hopwood,
+J. J. (1990). Hunter
+syndrome:
+Isolation of an iduronate-2sulphatase
+cDNA clone and analysis of patient DNA. Proc. Natl. Acad. Sci. USA 87: 8531-8535.
+Yen, P. H., Allen, E., Marsh,
+B., Mohandas,
+T., Wang, N., Taggart,
+R. T., and Shapiro,
+L. J. (1987). Cloning
+and expression
+of steroid
+sulfatase
+cDNA
+and the frequent
+occurrence
+of deletions
+in STS
+deficiency:
+Implications
+for X-Y interchange.
+Cell 49: 443-454.
+Young, I. D., Harper,
+P. S., Archer,
+I. M., and Newcombe,
+R. G. (1982).
+A clinical and genetic study of Hunter’s
+syndrome.
+I. Heterogeneity.
+J. Med. Genet. 19: 401-407.
+Yutaka,
+T., Fluharty,
+A. L., Stevens,
+R. L., and Kihara,
+H. (1978).
+Iduronate
+sulfatase
+analysis
+of hair roots for identification
+of
+Hunter
+syndrome
+heterozgotes.
+Am. J. Hum. Genet. 30: 575-582.
+Zlotogora,
+J., and Bach, G. (1984).
+syndrome.
+Am. J. Med. Genet.
+
+Heterozygote
+
+17: 661-665.
+
+detection
+
+in Hunter
+
+

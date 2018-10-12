@@ -1,0 +1,1245 @@
+HUMAN MUTATION 5:113-120 (1995)
+
+MUTATION UPDATE
+
+Molecular Basis of P-Ketothiolase Deficiency:
+Mutations and Polymorphisms in the Human
+Mitochondrial Acetoacetyl-Coenzyme A
+Thiolase Gene
+Toshiyuki Fukao*, Seiji Yamaguchi, Tadao Orii, and Takashi Hashimoto
+Department of Pediatrics, Gifu University School of Medicine, Gifu 500, Japan (T.F., T.O.); Department of Pediatrics,
+Shimane Medical University, Izumo, Shimane 693, Japan (S. Y.); and Department of Biochemistry, Shinshu University School of
+Medicine, Matsumoto, Nagano 390, Japan (T.H. ); Fax: 81 -58-265-901 1
+Communicated by R. G.H. Cotton
+
+P-Ketothiolase deficiency is a deficiency in mitochondrial acetoacetyl-CoA thiolase (T2). We present
+here an update on mutations and polymorphisms in the human T 2 gene. N o large deletion or insertion
+has been observed in Southern blot analysis. Seventeen mutations were identified in 13 T2-deficient
+patients: nine missense, one nonsense, and five splice-site mutations, and two small deletions. Two
+polymorphic base substitutions were also detected. A common mutation in T 2 deficiency has not been
+detected but 4 mutations (N158D, Q272X, 8 2 8 + 1, 1 1 6 3 + 2 ) were identified in two independent
+families. Eleven of 25 mutant alleles identified caused aberrant splicing. In vivo expression analysis of
+13 mutant cDNAs using a Lipofectin reagent suggested that T297M, A301P, and A380T mutant
+alleles retain 5-10% normal T 2 activity. A correlation between clinical phenotype and genotype in T 2
+o 1995 Wiley-Liss, Inc.
+deficiency seems unlikely.
+KEY WORDS:
+
+P-Ketothiolase deficiency, Human T2, Ketoacidotic attack
+
+BACKGROUND
+Clinical Presentation of Mitochondrial
+Acetoacetyl-CoA Thiolase Deficiency
+Mitochondrial acetoacetyl-CoA thiolase (T2)
+deficiency is commonly known as P-ketothiolase
+deficiency (McKusick catalogue number 203750).
+Since the first patient was identified in 1971
+(Daum et al., 1971), data on more than 30 patients have been reported (unpublished included).
+This disorder is characterized by intermittent ketoacidotic attacks and increased urinary excretion
+of 2-methyl-3-hydroxybutyrate,
+2-methylacetoacetate, and tiglylglycine, derived from intermediate
+metabolites in isoleucine catabolism, together with
+ketone bodies, 3-hydroxybutyrate, and acetoacetate. Severity of such symptoms varies with the
+patient. About one-half the number of patients
+develop severe attacks associated with unconsciousness, some die during an attack or are mentally retarded. Some patients who are putative candidates for this disorder have normal T2 activity
+(Iden et al., 1990).
+Q
+
+1995 WILEY-LISS, INC.
+
+Thiolases and Thiolase Deficiencies
+Mammalian tissues carry at least 5 thiolases
+(Middleton, 1973; Miyazawa et al., 1980; Uchida
+et al., 1992): T2, mitochondrial 3-ketoacyl-CoA
+thiolase (Tl), mitochondrial enoyl-CoA hydratase/3-hydroxyacyl-CoA dehydrogenase/3-ketoacyl-CoA thiolase trifunctional protein (TFP),
+cytosolic acetoacetyl-CoA thiolase (CT), and peroxisomal3-ketoacyl-CoA thiolase (PT). They differ in substrate specificity and/or intracellular localization. Human cDNAs for these thiolases have
+been cloned (T2: Fukao et al., 1990; T I : Abe et
+al., 1993; PT: Fairbairn and Tanner, 1989; CT:
+Song et al., 1994; TFP: Kamijo et al., 1994).
+There is 3 5 4 6 % homology among the deduced
+amino acid sequences of these thiolases.
+P-Ketothiolase deficiency was confirmed to be
+due to T2 deficiency, based on the following obReceived June 10, 1994 accepted August 2, 1994
+
+*To whom reprint requestsicorrespondence should be addressed.
+
+114
+
+FUKAO ET AL.
+
+servations: (1) only T2 is responsible for cleavage
+of 2-methylacetoacetyl-CoA in isoleucine catabolism (Middleton and Bartlett, 1983); (2) potassium
+ion-activated acetoacetyl-CoA thiolase activity, a
+specific property of T2 (Middleton, 1973) is deficient in patients with P-ketothiolase deficiency
+(Robinson et al., 1979); and (3) defects in T2
+biosynthesis are present in fibroblasts from patients
+with this disorder, as noted in pulse-chase experiments (Yamaguchi et ai., 1988; Nagasawa et al.,
+1989). Deficiencies of other thiolases have also
+been reported and symptoms differ from those related to T2 deficiency (CT: DeGroot et al., 1977;
+Bennett e t al., 1984, PT: Schram et al., 1987;
+TFP: Wanders et al., 1992), although gene mutations in these deficiencies have not been detected.
+Therefore, the term “p-ketothiolase deficiency”
+seems imprecise when referring to T2 deficiency
+alone.
+T2 Protein and Gene
+Human T2 is a homotetramer of the 41-kd subunit (Middleton, 1973; Fukao et al., 1990). The
+active site for acyl-S-enzyme intermediate formation of pig T2 was determined to be a cysteine
+residue (Gehring and Harris, 1970), corresponding
+to 1 2 T y s in the precursor of human T2. Another
+active site for deprotonation towards acetoacetylCoA formation was proposed to be a cysteine residue of acetoacetyl-CoA thiolase of Zoogloea ramigera (Masamune et al., 1989a,b), corresponding to
+413Cysin the precursor of human T2. An anti-[rat
+T2] antibody can immunoprecipitate human T2
+without cross-reactivity with other thiolases (Yamaguchi et al., 1988). Rat and human T2 cDNAs
+were cloned and sequenced (Fukao et al., 1989,
+1990). Human T2 cDNA is about 1.5 kb long and
+is encoded for a precursor of 427 amino acids, including a 33-amino acid leader polypeptide. The
+T2 gene spans approximately 27 kb, contains 12
+exons (Kano et al., 1991), and is located at
+1lq22.3-q23.1 (Masuno e t al., 1992).
+MUTATIONS AND POLYMORPHISMS
+We investigated 17 T2 deficient patients at the
+protein and gene levels (Table 1). Table 2 shows
+mutations, polymorphisms, and their characteristics. Nomenclature for mutations is according to
+Beaudet and Tsui (Beaudet and Tsui, 1993), except that the first residue of the initiator ATG
+triplet is designated herein as nucleotide number 1.
+These mutations were all identified by our research
+teams. The references for case reports and mutations are listed in Tables 1 and 2. Although there
+
+is no common pathogenic mutation in the T2
+gene, which causes the disease in many patients,
+four mutations-N158D,
+Q272X, 828+ 1, and
+1163 2-were each identified in two families.
+While mutations are widely distributed in the T2
+gene, one third are located around exon 11 (Figure
+1). Homozygotes accounted for only 3 of 13 patients. Analysis of the four cases of T2 deficiency,
+GK03, GK12, GK13, and GK14, for which we
+have not found mutations, is underway in our laboratories. In GK03 the amount of T2 mRNA is
+known to be extremely decreased (Fukao et al.,
+
++
+
+1991).
+Point Mutations Causing a Single
+Amino Acid Change
+
+Nine missense mutations were identified; M 1K
+identified in GK08 is a mutation located in the
+translation-initiation codon that severely hinders
+T2 mRNA translation (<5% normal). G379V in
+GK07 and A380T in GK06 alter residues located
+in the most conserved region (T2 amino acid residues: 378-393) yet are reported among the thiolases, the amino acid sequence of which can be
+summarized as G-G-A-I/V-SA/’-L/I-G-H-P-I/L-G
+__
+X-S/T-G-A/S-R (Song et al., 1994). Both mutant
+T2 subunits with G379V or A380T are unstable,
+suggesting that this conserved region is important
+for stability of thiolase proteins, although the precise role of the region is unknown. There is no
+mutation at active site residues, 1 2 T y s or 413Cys.
+
+A Nonsense Mutation
+
+Q272X is a nonsense mutation detected at base
+13 upstream from the 5’ splice site of intron 8,
+identified in GK07 and GK15. This mutation was
+first identified as a possible cause of exon 8 skipping in GK07. We clarified by in vivo splicing
+experiments that the single base substitution was
+responsible for skipping of exon 8, in some transcripts. It was reported that some nonsense mutations facilitate skipping of an exon (Dietz et al.,
+1993). However, mini genes used for our in vivo
+splicing experiments lost the valid open reading
+frame. Hence, for exon skipping, the Q272X mutation need not be a nonsense mutation. This substitution is thought to alter a putative secondary
+structure around the splice donor site of intron 8
+and thus impede normal splicing. The mRNA with
+Q272X was not detected in GK07 fibroblasts; it is
+unstable because of a premature termination.
+Splice Mutations
+O n e characteristic feature of T2 gene mutations
+is that aberrant splicing occurs in more than one-
+
+GENE MUTATIONS OF p-KETOTHIOLASE DEFICIENCY
+TABLE 1.
+
+Documented T2-Deficient Patients”
+
+ConMental
+Case
+Race
+san- Family Onset retar(Initial) Sex (Nationality) guinity history (mo) dation CRM
+GKOl
+(HT)
+
+M Japanese
+(Japan)
+
+-
+
+-
+
+20m
+
++
+
+GK02
+
+F
+
+-
+
+fb
+
+16m
+
++
+
+-
+
++”
+
+10m
+
+-
+
+-
+
+f C
+
+48m
+
+-
+
+M Caucasian
+(Netherlands)
+
+-
+
++=
+
+-
+
+-
+
+-
+
+-
+
+6m
+
++
+
+-
+
+-
+
+9m
+
+-
+
+GK08
+(JM)
+GK09
+(JB)
+
+M Caucasian
+(German)
+F Caucasian
+(USA)
+M Chilean
+(Canada)
+M Caucasian
+(Canada)
+
++
+
++b
+
+12m
+
+-
+
+-
+
+-
+
+17m
+
+-
+
+GKlO
+(MD)
+GKll
+(EC)
+GK12
+(FT)
+GK13
+(CC)
+GK14
+(JS)
+GK15
+(DR)
+GK16
+(CL)
+GK17
+(NB)
+
+M Vietnamese
+(Canada)
+M Caucasian
+(Canada)
+M Brazilian
+(Brazil)
+F Caucasian
+(Switzerland)
+M Caucasian
+(Switzerland)
+M Caucasian
+(Canada)
+F Caucasian
+(USA)
+M Caucasian
+(Netherlands)
+
+-
+
++“
+
+6m
+
+-
+
+-
+
+-
+
+25m
+
+-
+
+-
+
+-
+
+23m
+
+-
+
+-
+
+-
+
+21m
+
+-
+
+-
+
+-
+
+21m
+
++
+
+-
+
+-
+
+-
+
+(MM)
+GK03
+(LV)
+GK04
+(RW)
+GK05
+
+(AW)
+GK06
+(WC)
+GK07
+
+(W
+
+Spanish
+(USA)
+M Laotian
+(USA)
+M Caucasian
+(Netherlands)
+
+115
+
+Mutations at
+the cDNA level
+
+Cell
+contributors
+
+References
+
+E
+
+A333P/149delC
+
+N. Sakura
+
+Hiyama et al.
+(1986), Yamaguchi
+et al. (1988, 1992)
+B delE85iG152A
+L. Sweetman
+Middleton et al.
+(1986)
+D ?
+L. Sweetman
+Middleton et al.
+(1986)
+C G183Riexon 11
+RBH. Schutgens Schutgens et al.
+skip (1005-2)
+(1982); Fukao et al.
+(1992a)
+C G183Riexon 8 skip RBH. Schutgens Schutgens et al.
+(828 + 1)
+(1982); Fukao et al.
+(1992a)
+B A380Tlno mRNA
+G. FraudienstFukao et al. (1991)
+Egger
+B G379V/exon8skip G. Hoganson
+Fukao et al.
+(Q272X)
+(1994a)
+A MlK
+C.R. Saiver
+Daum et al. (1973);
+Fukao et al. (1993)
+A 1163GCAGins.
+C.R. Scriver
+Daum et al. (1971,
+(1163 + 2)
+1973); Fukao et al.
+(1993)
+A exon 11 skip
+D.A. Applegarth Fukao et al.
+(1005-1)
+(1992b)
+D + E N158DiT297M
+G.A. Mitchell
+Wakazono et al.
+(1995)
+B ?
+M. Wajner
+Wajner et al.
+(1992)
+A ?
+C. Bachmann
+
++
+
+A
+
+?
+
+C. Bachmann
+
+10m
+
+-
+
+E
+
+-
+
+16m
+
+Dead
+
+F
+
+-
+
+5m
+
+-
+
+A
+
+N158Diexon 8 skip D.T. Whelan
+(~272x1
+exon 8 skip
+G.W. Lee
+Wakazono et al.
+(828 + 1)/A301P
+(1995)
+exon 8 skip (de168)/ R.J.A. Wanders Fukao et al. (1995)
+1163GCAGins.
+(1163+ 2)
+
+~
+
+”CRMtypes (A-F)are shown in Table 3.GK08, GK09, and GKlO are homozygotes. Mutations at the gene level are shown in parentheses.
+“History of infantile death of sibling.
+‘GK05 is the father of GK04.
+
+half of the mutant alleles identified. A t the cDNA
+level, skipping of exon 8 was noted in 5 patients;
+this skipping is attributed to a gt to tt transversion
+at the 5’ splice site of intron 8 (828 1) in GK05
+and GK17, the Q272X mutation in GK07 and
+GK15, and a 68-bp deletion involving the 3‘ splice
+site of intron 7, del(731-46-752)) in GK17 (see
+below). Exon 11 skipping is caused by ag to cg
+(1005-2) and ag to ac (1005-1) transversions at the
+3’ splice site of intron 10 in GK04 and GK10,
+respectively. A gt to gc transition at the 5’ splice
+site of intron 11 (1163+2) is the cause of 4-bp
+
++
+
+insertion (GCAG) between exon I1 and 12 sequences on T2 cDNA in GK09 and GK17. In this
+case, aberrant splicing occurred only 4-bases downstream from the authentic site (Ggcag/gt).
+Deletions
+
+A 68-bp gene deletion was identified in GK17
+as the cause of exon 8 skipping, as described above.
+A one-base deletion (149delC) in exon 3 of GKOl
+causes a frame shift and premature termination,
+events expected to reduce the amount of mutant
+mRNAs. In GKOl fibroblasts, the amount of T2
+
+116
+
+FUKAO ET AL.
+TABLE 2. Mutations and Pohnorohisms of the Human Mitochondria1 Acetoacetvl-CoA Thiolase Gene”
+~~
+
+Exonl
+intron Mutation
+
+Nucleotide
+changes
+
+Nucleo- Type Resitide
+of
+dual
+Dosition CRM activity
+A
+
+ND
+
+149
+
+A
+
+nd
+
+253-255
+
+A
+
+ND
+
+455
+
+B
+
+ND
+
+AtoG
+
+472
+
+E
+
+ND
+
+G toA
+
+547
+
+c
+
+ND
+
+A
+
+ND
+
+A
+
+ND
+
+A
+
+ND
+
+El
+
+MlK
+
+TtoA
+
+2
+
+El
+
+A5P
+
+GtoC
+
+13
+
+E3
+
+149delC Del. of C
+
+E4
+
+AE85
+
+Del. ofGAA
+
+E6
+
+G152A
+
+G toC
+
+E6
+
+N158D
+
+E6
+
+G183R
+
+17-E8 de168
+
+Del(731-46 to 752)
+
+ES
+
+Q272X
+
+C toT
+
+18
+
+828+1
+
+GtoT
+
+E9
+
+T297M
+
+CtoT
+
+890
+
+D
+
+10%
+
+E9
+
+A301P
+
+GtoC
+
+901
+
+F
+
+5%
+
+19
+
+940+84 C t o T
+
+El0
+
+A333P
+
+GtoC
+
+I10
+
+1005-2
+
+110
+
+816
+
+Comments
+
+Population
+
+Initiation codon ChileanCanadian
+mutation
+Widely
+MspI
+spread
+polymorphism
+Causing
+Japanese
+frameshift
+Spanish
+Spanish
+Altering
+mobility in
+SDS-PAGE
+
+Caucasian
+Caucasian
+
+Causing exon 8
+skipping
+Causing partial
+exon 8
+skipping
+Causing exon 8
+skipping
+
+Caucasian
+Caucasian
+Caucasian
+Caucasian
+
+Altering
+mobility in
+SDS-PAGE
+Tag1
+polymorphism
+Altering
+mobility in
+SDS-PAGE
+Causing exon
+11 skipping
+Causing exon
+11 skipping
+
+Caucasian
+
+GK05,GK16 Fukao et al.
+(1992a)
+GKll
+Wakazono et
+al. (1995)
+GK16
+Wakazono et
+al. (1995)
+
+Caucasian
+
+GK04
+
+A to C
+
+A
+
+ND
+
+1005-1
+
+G to C
+
+A
+
+ND
+
+Ell
+
+G379V
+
+G to T
+
+1,136
+
+B
+
+ND
+
+Caucasian
+
+Ell
+
+A380T
+
+GtoC
+
+1,138
+
+B
+
+7%
+
+Caucasian
+
+111
+
+1163+2 T t o C
+
+A
+
+ND
+
+Causing GCAG
+insertion to
+cDNA
+
+GK04.GK05 Fukao et al.
+(1992a)
+GK17
+Fukao et al.
+(1995)
+GK07,GK15 Fukao et al.
+(1994a)
+
+GKOl
+
+ND
+
+Vietnamese
+
+Caucasian
+
+References
+
+Fukao et al.
+(1993)
+Fukao et al.
+(1993)
+GKOl
+Fukao et al.
+(unpublished)
+GK02
+Fukao et al.
+(unpublished)
+GK02
+Fukao et al.
+(unpublished)
+GKll.GK15 Wakazono et
+al. (1995)
+
+Widely
+spread
+Japanese
+
+E
+
+997
+
+Cases
+GK08
+
+Kuwahara et
+al. (1992)
+Fukao et al.
+(unpublished)
+
+Fukao et al.
+(1992a)
+GKlO
+Fukao et al.
+(1992b)
+GK07
+Fukao et al.
+(1994a)
+GK06
+Fukao et al.
+(1991)
+GK09.GK17 Fukao et al.
+(1993)
+
+“Types of CRM are shown in Table 111. ND and nd indicate not detected and not determined, respectively.
+bResidual activities described are based on the results of in vivo expression analysis using Lipofectin.
+
+mRNA was estimated by Northern blot analysis to
+be 30% normal (Fukao et al., 1990). By contrast,
+a 3-bp deletion (AE85) identified in GK02 does
+not alter the original reading frame, although the
+mutant T2 with AE85 retains no T2 activity, as
+determined in in vivo expression analysis.
+
+detected with TaqI digestion (Kuwahara et al.,
+1992). The heterozygosities of the MspI and TaqI
+polymorphisms are 0.49 and 0.50, respectively,
+among healthy Japanese individuals.
+
+Polymorphisms
+
+Six distinct types (A to F) of mutant cross-reactive materials (CRM) were observed in pulsechase experiments of fibroblasts (Yamaguchi et al.,
+1988; Nagasawaet al., 1989; Fukao et al., 1993; Wakazono et al., 1995). These CRM types can provide
+a functional classification of mutations (Table 3).
+
+One polymorphism (A5P) identified in the coding region of the leader sequence is a G to C transversion at n t 13, which changes Ala5 to Pro and
+creates a newly MspI site. The other polymorphism, a C to T transition, locates in intron 9,
+
+Characterization of Gene Mutations With
+Respect to Residual Activity and Instability
+
+GENE MUTATIONS OF P-KETOTHIOLASE DEFICIENCY
+
+117
+
+FIGURE 1.
+
+Schematic illustration of the human T2 gene and
+cDNA with location of mutations. Dotted boxes indicates 5'
+and 3' noncoding regions. Mutations that could be detected
+at the cDNA level are shown in the lower half of the schema.
+Mutations that could be detected only at the genomic level
+are shown in the upper half of the schema. Nucleotide and
+amino acid changes are shown in italics and bold style, re-
+
+spectively with numbers of patients in whom the mutation
+was identified. Boxes with oblique fines on the cDNA means
+skipping of exons 8 and 11. Mutations causing exon 8 skipping, exon 11 skipping, and GCAG 4-bp insertion are indicated by asterisk, double asterisk, and triple asterisk, respectively.
+
+In vivo expression analysis using Lipofectin led to a
+more efficient transfection than did the use ofTransfect Ace, when the same protocol was used (Wakazono et al., 1995); for example, in the normal T2
+cDNA-transfection, the average acetoacetyl-CoA
+thiolase activity in the presence of potassium ion
+was 301 mU/mg protein with Lipofectin (unpublished data) and 162 mU/mg protein with TransfectAce (Wakazono et al., 1995). Residual activities that we failed to detect in fibroblasts could be
+evaluated by an overexpression of mutant proteins.
+In immunoblot analysis following in vivo expression, CRMs from mutant cDNAs with G183R1
+T297M1A301P, and A380T, were clearly evident.
+MlK, frameshift mutations (149delC) 1163
+2), AE85, nonsense mutation (Q272X), and mutations causing the skipping of exon 8 or exon l l
+produce no detectable CRM (type A), with no
+residual activity. G152A, G379V, and A380T mutations produce normal-sized unstable CRM (type
+B). However, the mutant subunit with G152A or
+G379V was not detected, even with Lipofectin
+transfection, while that of A380T was detected
+with 7% normal activity and only with Lipofectin
+
+transfection. G183R generates normal-sized and
+relatively unstable CRM (type C), with no residual
+activity. T297M causes a normal-sized stable CRM
+(type D), with 10% normal activity. N158D and
+A333P mutations result in unstable CRM with an
+aberrant mobility (type E) and with no residual
+activity. A301P mutation produces relatively unstable CRM with a slightly slower electrophoretic
+mobility (type F). Our study failed to show residual
+activity in the A301P subunits (Wakazono et al.,
+1995). However, Lipofectin transfection of the
+mutant cDNA revealed a low residual activity (5%
+normal). The aberrant mobilities of N 158D,
+A301P, and A333P do not reflect net charge
+change of T2 subunits, suggesting that these mutations are located in the internal molecule of T2
+subunit. We have not done kinetic studies for mutant T2 proteins expressed in vivo since larger
+scale-expression experiments are needed. Based on
+in vivo expression analysis, we classified the 17
+mutations, in order of T2 residual activity, as follows: T297M (10% residual activity) >A380T
+(7%) >A301P (5%) >the other 14 mutations (no
+detectable activity).
+
++
+
+118
+
+FUKAO ET AL.
+TABLE 3.
+
+Classification of Mutations According to CRM Types
+
+Pulse-chase experiments
+Relative amount of CRM
+
+Type of
+CRM
+~~
+
+Normal
+A
+B
+C
+D
+E
+F
+
+In vivo expression
+
+~~
+
+1-hr Duke
+
+6-hr chase
+
+72-hr chase
+
++++++
+
++++++
+
++++++
+
++
++++
++
++
+++
+
+-
+
+-
+
+++
++
+++
+
++
++
++
+
+-
+
+-
+
+-
+
+Size of CRM
+Normal
+Normal
+Normal
+Normal
+Slightly larger
+Slightly larger
+
+Relative amount
+of CRM
+
++ + +- + +
++ or ++
+++
++ or +
+
+Mutations at the
+cDNA level
+MlK, AE85, exon 8 skip,
+exon 11 skip, GCAGins
+G152A, G379V, A380T
+G183R
+T297M
+N158D, A333P
+A301P
+
+CLINICAL RELEVANCE
+
+of T2 in acetoacetyl-CoA degradation except dur-
+
+There is no obvious correlation between clinical
+phenotypes and gene mutations in T2-deficient patients. T297M in GK11, A380T in GK06, and
+A301P in GK16 would be predicted to be phenotypically “mild” mutations, since residual activity
+is present. However, GK11 presented with a severe
+ketoacidotic attack with a similar degree of organic
+aciduria seen in other patients, although his development is normal. A patient with A380T is mentally retarded and GK16 with A301P died during a
+severe attack. On the other hand, 10 patients with
+“severe” gene mutations also showed essentially
+similar symptoms to the previous 3 patients; eight
+patients are not mentally retarded; GK05, in particular, is now over thirty years of age and has
+experienced no evident attacks; GKOl and GK02
+are mentally retarded. Therefore, it may be inappropriate to predict the severity of symptoms or
+prognosis from the genotypes. It is noteworthy that
+most patients experienced no further severe attack
+after being diagnosed as having T2 deficiency;
+most patients were put on a mild protein restriction diet and some received initial therapy such as
+intravenous glucose infusion, in situations that
+may be associated with acute decompensations,
+such as febrile illness and fasting. In this disorder,
+ketoacidotic attacks can be avoided and normal
+development can be expected, even in severe genotypes. Neonatal decompensation is rare in T2
+deficiency but in one patient, an attack occurred at
+the age of 4 weeks (Sovik, 1993). Early diagnosis,
+including prenatal diagnosis (see below) and
+proper follow-up are recommended in cases of siblings of T2 deficient cases.
+Of note, in mitochondria, acetoacetyl-CoA can
+also be degraded by T1; in human fibroblasts, T 1
+appears to account for about 15% of the acetoacetyl-CoA thiolase activity (Yamaguchi et al.,
+1988). It may be that T1 compensates for the lack
+
+ing periods of rapid lipolysis such as fasting. It
+seems likely that the severity in this disease correlates better with environmental or acquired factors
+than with the T2 genotype.
+
+DIAGNOSTIC RELEVANCE
+Mutations in the T2 gene are highly heterogeneous; hence diagnostic applications are restricted.
+Screening for previously identified mutations in a
+patient suspected of T2 deficiency is less useful for
+diagnosis than in diseases in which one or a few
+mutations cause the majority of cases such as medium-chain acyl-CoA dehydrogenase deficiency
+(Tanaka et al., 1992). Prenatal diagnosis and carrier detection in a family in whom mutation(s)
+have been identified are the best available diagnostics. Genomic amplification followed by a concise method such as SSCP, a heteroduplex detection by mutation detection enhancement (MDE)
+gel electrophoresis, restriction enzyme assay appears to be a rapid and reliable method. We diagnosed the fetus of the GK16 family as being a carrier of 828+ 1 mutation (Fukao et al, 1995);
+carrier detection in GK15 family was also done. As
+far as examined, 17 T2 deficient cells have no
+detectable CRM or faint CRM in immunoblot
+analysis. In some T2-deficient families with unknown mutations, a prenatal diagnosis can be done
+promptly by a combination of haplotyping by TqI
+and MspI polymorphisms and immunoblot analysis, with the use of amniocytes.
+In mutation analysis of a newly identified patient, new mutation(s) rather than recurrent ones
+should be given attention. In such cases, base substitutions identified are mutations responsible for
+T2 deficiency, or polymorphisms, must be confirmed. Increasing numbers of mutations recorded
+in the catalogue and characterization are needed
+for a better understanding of T2 deficiency. Func-
+
+GENE MUTATIONS OF P-KETOTHIOLASE DEFICIENCY
+
+tional analysis of mutations will also provide biological relevance of amino acid residues not only in
+T2, but also for other thiolases. Our screening
+strategy for detecting mutations at the genomic
+level covers only each exon and exon-intron
+boundaries. Even if no mutation is identified in
+such an analysis, one cannot conclude that the
+patient does not have T2 deficiency. We have to
+date found no mutations in an enzymatically confirmed T2-deficient patient (GK03). The 5’ flanking region, including promotors and enhancers are
+subjects of ongoing investigations.
+
+ACKNOWLEDGMENTS
+We thank the researchers listed in Table 1 for
+kindly providing cells and M. Ohara for helpful
+comments. This study was supported in part by
+Grants-in-Aid for Scientific Research (03265102,
+05454286, 05670666) from the Ministry of Education, Science and Culture of Japan, by a grant
+(5A-6-02)from the National Center of Neurology
+and Psychiatry of the Ministry of Health and Welfare, and by a grant for Pediatric Research
+(3A0104) from the Ministry of Health and Welfare, Japan.
+
+REFERENCES
+Abe H, Ohtake A, Yamamoto S, Satoh Y, Takayanagi M, Aoyama
+Y, Taktguchi M, Sakuraba H, Suzuki Y, Mori M, Niimi H
+(1993) Cloning and sequence analysis of a full length cDNA
+encoding human mitochondrial 3-oxoacyl-CoA thiolase. Biochim Biophys Acta 1216:304-306.
+Beaudet A, Tsui L-C (1993) A suggested nomenclature for designating mutations. Hum Mutat 2:245-248.
+Bennett MJ, Hosking GP, Smith MF, Gray RGF, Middleton B
+(1984) Biochemical investigations on a patient with a defect in
+cytosolic acetoacetyl-CoA thiolase, associated with mental retardation. J lnher Metab Dis 7:125-128.
+Daum RS, Lamm P, Mamer OA, Scriver CR (1971) A “new”
+disorder of isoleucine catabolism. Lancet 2: 1289-1290.
+Daum RS, Scriver CR, Mamer OA, Delvin E, Lamm P, Goldman
+H (1 973) An inherited disorder of isoleucine catabolism causing accumulation of a-methylacetoacetate and a-methyl-P-hydroxybutyrate, and intermittent metabolic acidosis. Pediatr
+Res 7:149-160.
+De Groot CJ, Luit-de-Hann G, Hulstaert CE, Hommes FA (1977)
+A patient with severe neurological symptoms and acetyl-CoA
+thiolase deficiency. Pediatr Res 11: 1112-1 116.
+Dietz HC, Valle D, Francomano C A , Kendzior J r RJ, Pyeritz RE,
+Cutting GR (1993) The skipping of constitutive exons in VIVO
+induced by nonsense mutations. Science 259680-683.
+Fairbairn LJ, Tanner MIA (1989) Complete cDNA sequence of
+human foetal liver peroxisomal 3-oxoacy1-CoA thiolase. Nucleic Acids Res 17:3588.
+Fukao T, Kamijo K, Osumi T, Fujiki Y, Yamaguchi S, Orii T,
+Hashimoto T (1989) Molecular cloning and nucleotide sequence of cDNA encoding the entire precursor of rat mitochondrial acetoacetyl-CoA thiolase. J Biochem 106:197-204.
+Fukao T, Yamaguchi S,Kano M, Orli T, Fujiki Y, Osumi T,
+
+119
+
+Hashimoto T (1990) Molecular cloning and sequence of the
+complementary DNA encoding human mitochondrial acetoacetyl-coenzyme A thiolase and study of the variant enzymes
+in cultured fibroblasts from patients with 3-ketothiolase deficiency. J Clin Invest 86:2086-2092.
+Fukao T, Yamaguchi S, Tomatsu S, Orii T, Fraudienst-Egger G,
+Schrod L, Osumi T , Hashimoto T (1991) Evidence for structural mutation (347Ala to Thr) in a German family with 3-ketothiolase deficiency. Biochem Biophys Res Commun 179:
+124-1 29.
+Fukao T, Yamaguchi S, Orii T, Schutgens RBH, Osumi T, Hashimoto T (19924 Identification of three mutant alleles of the
+gene for mitochondrial acetoacetyl-CoA thiolase: A complete
+analysis of two generations of a family with 3-ketothiolase deficiency. J Clin Invest 89:474-479.
+Fukao T, Yamaguchi S, Orii T, Osumi T, Hashimoto T (199213)
+Molecular basis of 3-ketothiolase deficiency: identification of
+an AG to A C substitution at the splice acceptor site of intron
+10 causing exon 11 skipping. Biochim Biophys Acta 1139:
+184-188.
+Fukao T, Yamaguchi S, Scriver CR. Dunbar G, Wakazono A,
+Kano M, Orii T, Hashimoto T (1993) Molecular studies of
+mitochondrial acetoacetyl-coenzyme A thiolase in two original
+families. Hum Mutat 2:214-220.
+Fukao T , Yamaguchi S, Wakazono A, Orii T, Hoganson G, Hashimoto T (1994a) Identification of a novel exonic mutation at
+-13 from 5‘ splice site causing exon skipping in a girl with
+mitochondrial acetoacetyl-coenzyme A thiolase deficiency. J
+Clin Invest 93:1035-1041.
+Fukao T, Song X-Q, Yamaguchi S, Orii T, Wanders RJA, PollThe BT, Hashimoto T (1995) Mitochondria1 acetoacetyl-coenzyme A thiolase gene: A novel 68-bp deletion involving 3’
+splice site of intron 7, causing exon 8 skipping in a Caucasian
+patient with beta-ketothiolase deficiency. Hum Mutat 5:9496.
+Gehring U, Harris JI (1970) The active site cysteines of thiolase.
+Eur J Biochem 16:492-498.
+Hiyama K, Sakura N , Matsumoto T, Kuhara T (1986) Deficient
+beta-ketothiolase activity in leukocytes from a patient with
+2-methylacetoacetic aciduria. Clin Chim Acta 155: 189-194.
+Iden P, Middleton 8 , Robinson BH, Shenvood WG, Gibson KM,
+Sweetman L, Sovik 0 (1990) 3-Oxothiolase activities and
+[ 14C]-2-methylbutanoic acid incorporation in cultured fibroblasts from 13 cases of suspected 3-Oxothiolase deficiency. Pediatr Res 28518-522.
+Kamijo T, Aoyama A, Komiyama A, Hashimoto T (1994) Structural analysis of cDNAs for subunits of human mitochondrial
+fatty acid P-oxidation trifunctional protein. Biochem Biophys
+Res Commun 199:818-825.
+Kano M, Fukao T, Yamaguchi S,Orii T, Osumi T, Hashimoto T
+(1991) Structure and expression of the human mitochondrial
+acetoacetyl-CoA thiolase-encoding gene. Gene 109:285-290.
+Kuwahara T, Fukao T, Kano M, Yamaguchi S,Orii T, Hashimoto
+T (1992) Identification of Taq I polymorphism in the mitochondrial acetoacetyl-CoA thiolase gene and familial analysis
+of 3-ketothiolase deficiency. Hum Genet 90:208-210.
+Masamune S, Walsh CT, Sinskey AJ, Peoples OP (1989a)
+Poly(R)-3-hydroxybutyrate (PHB) biosynthesis: mechanistic
+studies on the biological Claisen condensation catalyzed by
+P-ketoacyl thiolase. Pure Appl Chem 61:303-312.
+Masamune S , Palmar MAJ, Gambani R, Thompson S, Davies JT,
+Williams SF, People OP (1989b) Bio-Claisen condensation
+catalyzed by thiolase from Zoogloeu rumigeru. Active site cysteine residues. J Am Chem SOC111:1879-1881.
+Masuno M, Kano M, Fukao T, Yamaguchi S , Osumi T, Hashimoto
+T, Takahashi E, Hori T, Orii T (1992) Chromosome mapping
+of the human mitochondrial acetoacetyl-coenzyme A thiolase
+
+120
+
+FUKAO ET AL.
+
+gene to 1lq22.3-q23.1 by fluorescence in situ hybridization.
+Cytogenet Cell Genet 60: 121-122.
+Middleton B (1973) The oxoacyl-coenzyme A thiolases of animal
+tissues. Biochem J 132:717-730.
+Middleton B, Bartlett K (1983) The synthesis and characterization
+of 2-methylacetoacetyl coenzyme A and its use in the identification of the site of the defect in 2-methyl-acetoacetic and
+2-methyl-3-hydroxybutyricaciduria. Clin Chim Acta 128:
+291-305.
+Middleton B, Bartlett K, Romanos A, Vazquez JG, Conde C,
+Cannon RA, Lipson M, Sweetman L, Nyhan WL (1986) Betaketothiolase deficiency in a family confirmed by in vitro enzymatic assays in fibroblasts. Eur J Pediatr 144586-589.
+Miyazawa S, Osumi T , Hashimoto T (1980) The presence of a new
+3-oxoacyl-CoA thiolase in rat liver peroxisomes. Eur J Biochem 103:589-596.
+Nagasawa H , Yamaguchi S,Orii T, Schutgens RBH, Sweetman L,
+Hashimoto T (1989) Heterogeneity of defects in mitochondrial
+acetoacetyl-CoA thiolase biosynthesis in fibroblasts from four
+patients with 3-ketothiolase deficiency. Pediatr Res 26: 145149.
+Robinson BH, Sherwood WG, Taylor J, Balfe JW, Mamer O A
+(1979) Acetoacetyl-CoA thiolase deficiency: A case of severe
+ketoacidosis in infancy simulating salicylism. J Pediatr 95:228233.
+Schram AW, Goldfischer S, van Roermund CWT, BrouwerKelder EM, Collins J , Hashimoto T, Heymans HSA, van den
+Bosch H, Schutgens RBH, Tager JM, Wanders RJA (1987)
+Human peroxisomal 3-oxoacyl-CoA thiolase deficiency. Proc
+Natl Acad Sci USA 84:2494-2497.
+Schutgens RBH, Middleton B, v d Blij JF, Oorthuys JWE, Veder
+HA, Vulsma 7, Tegelaers WHH (1982) Beta-Ketothiolase deficiency in a family confirmed by in vivo enzymatic assays in
+fibroblasts. Eur J Pediatr 139:39-42.
+Song X-Q, Fukao T, Yamaguchi S, Miyazawa S, Hashimoto T,
+
+Orii T (1994) Molecular cloning and nucleotide sequence of
+complementary DNA for human hepatic cytosolic acetoacetylcoenzyme A thiolase. Biochem Biophys Res Commun 198:
+632-636.
+Sovik 0 (1993) Mitochondria1 2-methylacetoacetyl-CoA thiolase
+deficiency: An inborn error of isoleucine and ketone body metabolism. J Inher Metab Dis 16:46-54.
+Tanaka K, Yokota I, Coates I'M, Straus AW, Kelly DP, Zhang Z,
+Gregersen N , Andresen BS, Matsubara Y, Curtis D, Chen Y-T
+(1992) Mutations in the medium chain acyl-CoA dehydrogenase (MCAD) gene. Hum Mutat 1:271-279.
+Uchida Y, Izai K, Orii T, Hashimoto T (1992) Novel fatty acid
+beta-oxidation enzymes in rat liver mitochondria. J Biol Chem
+267: 1034-1041.
+Yamaguchi S, Orii T, Sakura N, Miyazawa S, Hashimoto T (1988)
+Defect in biosynthesis of mitochondrial acetoacetyl-coenzyme
+A thiolase in cultured fibroblasts from a boy with 3-ketothiolase deficiency. J Clin Invest 81:813-817.
+Yamaguchi S, Fukao T, Kano M, Wakazono A, Orii T, Sakura N ,
+Hashimoto T (1992) Further analysis of mutant thiolase protein in fibroblasts from a Japanese boy with 3-ketothiolase deficiency. Tohoku J Exp Med 167:143-153.
+Wajner M, Sanseverino MT, Guigliani R, Sweetman L, Yamaguchi S, Fukao T , Shih VE (1992) Biochemical investigation of
+a Brazilian patient with a defect in mirochondrial acetctacerylcoenzyme A thiolase. Clin Genet 41:202-205.
+Wakazono A, Fukao T, Yamaguchi S,Orii T, Lambert M, Mitchell GA, Lee GW, Hashimoto T (1995) Molecular, biochemical, and clinical characterization of mitochondrial acetoacetylcoenzyme A thiolase deficiency in two further patients. Hum
+Mutat 5:34-42.
+Wanders RJA, Ijlst L, Poggi F, Bonnefont JP, Munnich A, Brivet
+M, Rabier D, Saudubray JM (1992) Human trifunctional protein deficiency: A new disorder of mitochondrial fatty acid
+P-oxidation. Biochem Biophys Res Commun 188:1139-1145.
+
+

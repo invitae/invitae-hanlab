@@ -1,0 +1,1424 @@
+A Point Mutation in Transthyretin Increases Affinity for Thyroxine
+and Produces Euthyroid Hyperthyroxinemia
+Alan C. Moses,* Harold N. Rosen,* David E. Moller,* Sayumi Tsuzaki,* James E. Haddow,* Joseph Lawlor,l
+Juris J. Liepnieks,11 William C. Nichols,11 and Merrill D. Bensoni
+*Diabetes and Thyroid Units, Charles A. Dana Research Institute and the Harvard-Thorndike Laboratories of Beth Israel Hospital,
+Boston, Massachusetts 02215; *The Foundation for Blood Research, Scarborough, Maine 04074; §Lawlor Biomedical Associates,
+Arlington, Massachusetts 02174; and 1IThe Department ofMedicine, Indiana University School ofMedicine, Indianapolis, Indiana 46202
+
+Abstract
+In a family expressing euthyroid hyperthyroxinemia, an increased association of plasma thyroxine (T4) with transthyretin
+(TTR) is transmitted by autosomal dominant inheritance and is
+secondary to a mutant TTR molecule with increased affinity
+for T4. Eight individuals spanning three generations exhibited
+the abnormality. Although five of eight individuals had elevated total T4 concentrations, all affected individuals were
+clinically euthyroid and all had normal free T4 levels. Purified
+TIR from the propositus had an affinity for 125I-T4 three times
+that of control 1TTR. Exons 2, 3, and 4 (representing > 97% of
+the coding sequence) of the TIR gene of DNA prepared from
+the propositus' peripheral blood leukocytes were amplified
+using the polymerase chain reaction (PCR) and were sequenced after subcloning. Exons 2 and 3 were indistinguishable
+from normal. In 50% of clones amplified from exon 4, a substitution of adenine (ACC) for guanine (GCC) in codon 109 resulted in the replacement of threonine-for-alanine, a mutation
+confirmed by amino acid sequencing of tryptic peptides derived
+from purified plasma TTR. The adenine-for-guanine substitution abolishes one of two Fnu 4H I restriction sites in exon 4.
+PCR amplification of exon 4 of TT7R and restriction digestion
+with Fnu 4H I confirmed that five affected family members
+with increased binding of 25.I-T4 to TMR are heterozygous for
+the threonine 109 substitution that increases the affinity of this
+abnormal TIR for T4. (J. Clin. Invest. 1990. 86:2025-2033.)
+Key words: thyroxine binding proteins prealbumin hyperthyroidism genetic diseases dysalbuminemic hyperthyroxinemia
+-
+
+-
+
+-
+
+-
+
+Introduction
+Transthyretin (TTR),' also known as thyroxine binding prealbumin, is a serum protein of hepatic origin that transports
+between 20 and 30% of serum thyroxine in normal individuals. We and others previously have described clinically euthyAddress correspondence and reprint requests to Dr. Alan C. Moses,
+Room SL-436, Department of Medicine, Beth Israel Hospital, 330
+Brookline Ave., Boston, MA 02215.
+
+Received for publication 24 May 1990 and in revisedform 10 August 1990.
+
+1. Abbreviations used in this paper: PCR, polymerase chain reaction;
+T4, thyroxine; TBG, thyroxine binding globulin; TTR, transthyretin.
+J. Clin. Invest.
+© The American Society for Clinical Investigation, Inc.
+
+0021-9738/90/12/2025/09 $2.00
+Volume 86, December 1990, 2025-2033
+
+roid individuals with hyperthyroxinemia secondary to an increased association of thyroxine (T4) with TTR (1-7). These
+subjects are often incorrectly diagnosed, and subjected to unnecessary laboratory tests and inappropriate therapy (1). Several investigators have demonstrated increased total T4 in
+clinically euthyroid subjects who have marked elevations of
+circulating transthyretin (2-4). In 1982, we reported a patient
+with euthyroid hyperthyroxinemia and suggested that the elevated serum T4 resulted from an abnormal TTR with increased affinity for T4 rather than from an elevated concentration of TTR. Lalloz et al. (5, 6) and Croxson et al. (7) have
+reported other patients with a similar abnormality. In this report, we have investigated in greater detail the mechanisms
+underlying the hyperthyroxinemia in the kindred reported by
+us and describe a point mutation in the TTR gene that appears
+to be responsible for the greater affinity of this molecule for T4.
+
+Methods
+General hormone and protein assays. Total T4 (Corning Medical,
+Medfield, MA), T3 resin uptake (Amersham Corp., Arlington Heights,
+IL), total T3 (Clinical Assays, Cambridge, MA), and thyroxine binding
+globulin (TBG, Corning Medical) were measured using standard commercially available kits. Free T4 was measured both by dialysis and by a
+two-step direct immunoassay procedure (Clinical Assays). TTR concentrations in serum were measured by rocket immunoelectrophoresis
+(1). Comparisons between groups were performed by the Student's
+unpaired t test and statistical significance was arbitrarily defined at P
+< 0.05. Statistical significance of differences between the affinity of
+mutant TTR and normal TTR was determined by the Mann-Whitney
+test.
+
+Protein binding and sequencing studies. 27 relatives of the proband
+were screened for an increase in T4 associated with TTR by three
+assays: (a) T4 immunoprecipitation by anti-TTR IgG, (b) a modified
+T4-loaded T4 charcoal-uptake test (8), and (c) serum paper electrophoresis after incubation of sera with '251I-T4 (1). Sera from these subjects
+were also compared with sera from six normal unrelated subjects aged
+25-50 yr.
+For the immunoprecipitation assay, 100 ,d of a 1:25 dilution of sera
+in PBS were incubated with 1251-T4 (6 X 10-12 M; SA 4,400 Ci/mmol
+New England Nuclear, Boston, MA) in 100 Al of PBS containing 100
+Mg/ml of BSA for 3 h at 37°C. 100 ,d of a 1:20 dilution of anti-TTR IgG
+(Atlantic Antibodies, Scarborough, ME) were added before incubation
+overnight at 4°C. The TTR-IgG complex was precipitated in the presence of 0.1% bovine gamma globulin and 10% (wt/vol, final concentration) 8,000 mol wt polyethylene glycol (PEG) for 30 min at 4°C and
+centrifuged at 3,000 rpm for an additional 30 min at 4°C. The supernatant was removed and the pellet was counted in a gamma spectrometer. Data were expressed as a percent of total counts precipitated by
+anti-TTR. All samples were measured in duplicate in at least three
+separate assays.
+The T4-loaded T4 charcoal-uptake test was performed using a modification of the method of Stockigt et al. (8). In this assay, 1O Al of sera
+was incubated with 125I-T4 in the presence of 1-0 unlabeled T4, an
+Mutant Transthyretin Causing Hyperthyroxinemia
+
+2025
+
+amount sufficient to saturate the high affinity, low capacity T4 binding
+site on TBG. Samples were incubated for I h at 23°C in PBS, pH 7.4,
+containing 0.1% gelatin before mixing with 0.5 ml of chilled 1% Norit
+A charcoal/0.4% Dextran 70. Charcoal-bound '25I-T4 was separated by
+centrifugation at 3,000 rpm for 30 min at 4°C. Supernatants containing the protein-bound '25I-T4 were counted for 1251I. This represents
+'25I-T4 bound to TTR and albumin.
+The electrophoretic distribution of 1251-T4 in sera was measured by
+filter paper electrophoresis in a Tris-maleate buffer, pH 8.6, as described previously (1). 5-mm strips of paper were cut beginning at the
+origin and counted for 1251. Data were expressed as a percentage of total
+recovered counts associated with TBG, albumin, and TTR, respec-
+
+tively.
+TTR purification, competitive binding studies, and protein sequencing. TTR was purified by three-step column chromatography as
+described previously (9). TTR affinity for thyroxine was assessed with a
+competitive binding assay using both whole sera (1:25 dilution in PBS)
+and purified TTR (0.5 ,ug/tube), as described above for the immunoprecipitation studies except that replicate samples of sera or purified
+TTR were incubated with '251-T4 (6 x 10-12 M) in the presence of
+varying concentrations of unlabeled T4. Previous studies (data not
+presented) demonstrated that the incubation conditions resulted in
+steady-state binding of '25I-T4 to TTR. TTR-bound '25I-T4 was separated as described above for the immunoprecipitation assay and
+counted in a gamma spectrometer. Affinity constants were calculated
+by the method of Scatchard (10). All assays were performed at least
+three times.
+Purified TTR (3 mg) was digested overnight with 2% trypsin (wt/
+wt), and the resulting peptides were isolated using reverse-phase
+HPLC. Specific purified tryptic peptides were sequenced in a liquidphase protein sequenator, as previously described (1 1). Peptides for
+sequencing were selected based on DNA sequencing of exon 4 as
+described below.
+Enzymatic amplification of genomic DNA and DNA sequencing.
+Genomic DNA was isolated from peripheral blood leukocytes by
+phenol/chloroform extraction using standard techniques (12). The
+TTR gene consists of four exons encoding a protein monomer of 127
+amino acids and 14,000 mol wt (13, 14). Exons 2, 3, and 4 of the TTR
+gene encode > 97% of the amino acid sequence and were amplified
+using the polymerase chain reaction (PCR) with three oligonucleotide
+primer sets as previously described ( 11) and producing PCR products
+of 215, 258, and 190 bp, respectively. Exon 1 which encodes only the
+first three amino-terminal amino acids was not studied (13, 14). Each
+oligonucleotide primer contained a PST- 1 restriction enzyme recognition site that was used for subsequent subcloning (15). PCR product
+DNA fragments were visualized after agarose gel electrophoresis (1.8%
+agarose) in the presence of ethidium bromide. Appropriate length
+fragments were excised from the gel, extracted with phenol/chloroform, and ethanol precipitated. They were digested with PSTI and
+ligated into MP-18RF DNA with T4 DNA ligase (Collaborative Research, Bedford, MA) (15). These constructs were used to transform
+competent JMIOI Escherichia coli (15). Single-stranded DNA was
+isolated from 8 clones derived from exon 2, 10 clones from exon 3, and
+8 clones from exon 4. The DNA was sequenced using the dideoxy
+chain termination method with modified T7 DNA polymerase (16)
+(Sequenase Version 2.0; U.S. Biochemical Corp., Cleveland, OH).
+Screening family members for mutations in the TTR gene using
+PCR and restriction fragment length polymorphism (RFLP). A point
+mutation present in four of eight M- 13 colonies of exon 4 from the
+proband eliminated one of two restriction sites for the enzyme Fnu 4H
+I in exon 4. Based on this observation, we isolated genomic DNA from
+additional members of the proband's family and subjected the DNA to
+PCR amplification of exon 4 with the following oligonucleotide
+primers (see also Fig. 8):
+5' oligo: 5' TAG GTG GTA TTC ACA GCC 3'
+3' oligo: 5' GTG CCT TTC ACA GGA ATG 3'
+2026
+
+Moses et al.
+
+These PCR reactions were performed with Taq DNA polymerase
+(Perkin-Elmer Cetus, Norwalk, CT) for 40 cycles. Denaturation was
+accomplished at 90°C for 30 s, annealing at 55°C for 60 s, and extension at 70°C for 60 s, except during the last cycle where the extension
+time was 7 min. Aliquots of the amplified PCR product DNA (100 ng)
+were digested with 1.5 U of the restriction enzyme Fnu 4H I (New
+England Biolabs, Beverly MA), and subjected to electrophoresis in 4%
+agarose gels (Nusieve; FMC BioProducts, Rockland, ME). The bands
+were visualized with ethidium bromide staining and photographed.
+The mutation predicts fragments of 222 and 35 bp as opposed to 207-,
+15-, and 35-bp fragments for the normal gene. Heterozygotes, therefore, are expected to display both 207- and 222-bp fragments (the
+smaller fragments usually are not visualized using this technique).
+
+Results
+
+Studies offamily members. Of 27 family members screened, 8
+demonstrated increased precipitation of 1251I-T4 by anti-TTR
+IgG compared with six normal controls (27.0±4.8% vs.
+5.78±2.0%, respectively, P < 0.0001; Fig. 1). Affected family
+members were defined as those in whom the 125I-T4 precipitated by anti-TTR IgG was more than 3 SD greater than the
+mean obtained in the six normal control subjects, which was
+15%. There was no overlap between the affected individuals
+and the six control subjects. Moreover, there was no overlap
+between affected and unaffected family members and no difference between unaffected family members and controls
+
+(Fig. 1).
+
+In a charcoal T4 uptake test in the presence of 10-7 M T4,
+the eight individuals who had increased immunoprecipitation
+of '25l-T4 by anti-TTR IgG had a decreased percentage of T4
+p'.I
+
+001
+Po0
+
+50
+
+<
+
+o oool
+
+P-C..OOO
+
+0001
+
+-i
+
+70 -
+
+-J
+
+7056.1
+
+a 70-
+
+z
+
+n.8
+
+m
+
+50
+
+w
+
+H27.0
+
+5079
+Z~ ~ ~ ~ ~a
+0 a
+
+60 An6
+Coto0
+
+2
+
+20
+
+1:140-
+
+40
+
+(~~~~~~~~D
+
+co
+
+0.
+
+306
+
+10
+w
+
+0
+
+-V-
+
+30531.7
+
+rwi
+
+L
+
+~ ~
+
+Loi
+
+kffected Uncwaffected
+
+Control
+
+Affected
+
+Unoffected
+
+Affected
+
+Unaffected
+
+Figure 1. Association of '25I-T4 with TTR: analysis by multiple tests.
+
+(Left) Sera from patients with dystransthyretinemic hyperthyroxinemia, from unaffected family members, and from normal controls
+were incubated with '25I-T4 and precipitated with anti-TTR IgG (see
+Methods for details). Percent of '25I-T4 precipitated by anti-TTR IgG
+is indicated for each individual. Any subject with > 15% '251-T4 precipitated by anti-TTR IgG arbitrarily was defined as "affected." The
+mean for the group is indicated and the height of the open bar represents 2 SD around the mean. Statistical differences between groups
+are indicated. (Center) Sera from affected and unaffected family
+and with IO-' M unlabeled T4.
+members were incubated with
+Unbound tracer was separated using dextran-coated charcoal (see
+Methods for details). The percentage of total counts bound by charcoal is indicated for each subject and the mean for the group is
+shown to the right of each open bar. The height of the open bar represents 2 SD around the mean. (Right) Sera from affected and unafand then subjected to
+fected subjects were incubated with
+
+1251-T4
+
+'251I-T4
+
+paper electrophoresis. Percent of total '251-T4 migrating with TTR is
+indicated for each individual studied. The mean for the group is indicated to the right of each open bar. The height of the open bar represents 2 SD around the mean.
+
+p 0.05
+
+p 3O.05
+
+3
+
+80
+
+r
+
+35
+
+ii
+
+LI
+
+70
+
+increased fraction of T4 migrating with TTR by paper electrophoresis compared with six unaffected family members
+(51±5% vs. 31.7±7.6%, respectively, P < 0.009; Fig. 1) and
+there was no overlap of TTR associated '25I-T4 between affected and unaffected individuals. There was a corresponding
+decrease in the amount of '25I-T4 associated with TBG in the
+affected (29±6.8%) versus the unaffected (43.8±4.9%) family
+members (data not shown).
+We confirmed that the concentration of TTR was not significantly increased in the affected individuals (39.5±17 mg/dl
+[affected] vs. 31.7±9.9 mg/dl [unaffected]; Figs. 2 and 3). Furthermore, there was no correlation between the individual
+TTR concentrations and '25I-T4 precipitated by anti-TTR IgG
+(Fig. 3). Serum TBG levels were identical (19.3 mg/liter, Fig.
+2) in both the affected and unaffected groups of family
+members.
+Serum T4 was significantly higher in affected than in unaffected family members (12.5±1.7 vs 9.2±3.2 jg/dl respectively, P = 0.0009), as was the free T4 index (11.8±2.6 vs
+7.76±2.2, respectively, P = 0.0002; Fig. 4). Five of the eight
+affected patients had serum T4 levels above the upper limit of
+the normal range (12 Ag/dl), although there was considerable
+overlap between the two groups. Free T4 by equilibrium dialysis and by a two-step direct free T4 assay was normal in all
+affected subjects. There was no significant difference in serum
+T3 levels between affected (135±21 ng/dl) and unaffected subjects (127±22 ng/dl). The latter finding is not unexpected
+given the low affinity of TTR for T3.
+We have used the data from immunoprecipitation of 125IT4 with anti-TTR IgG to investigate the mode ofinheritance of
+this cause of euthyroid hyperthyroxinemia. As shown in Fig. 5,
+TTR-associated hyperthyroxinemia was identified in two generations and was transmitted as an autosomal dominant trait.
+These data suggest that affected individuals are heterozygous
+from a presumed mutation in the TTR gene.
+
+TBG
+
+TTR
+
+r
+
+F1
+
+30 .
+
+60 _
+
+:i
+
+25 F
+
+O
+O
+O
+
+E 50 F
+I--
+
+40
+
+F
+
+O.
+
+395
+
+E
+C,I
+
+000
+
+20 F
+
+__' 19.3
+
+0
+
+O- 15 p
+
+00
+
+30 _
+
+113
+
+0*0
+000
+00
+
+O
+
+31.7
+
+1O
+
+000
+
+0cow
+
+20 F
+
+5
+
+10
+
+0
+
+Affected Unaffected
+
+Affected Unaffected
+
+Figure 2. Thyroxine binding protein levels in subjects affected with
+dystransthyretinemic hyperthyroxinemia and in unaffected family
+members. TTR concentrations (left) were determined by rocket immunoelectrophoresis and are indicated for each subject studied. The
+mean for the group is shown to the right of the open bar which represents 2 SD around the mean. TBG concentrations (Right) were determined by radioimmunoassay and are indicated for each of the
+subjects studied. The mean for the group is shown to the right of the
+open bar which represents 2 SD around the mean.
+
+bound to charcoal compared with the unaffected family
+members (32.5±5.9% vs 56.1±2.5%, respectively, P < 0.0001;
+Fig. 1). Since this concentration of unlabeled T4 (1-' M)
+should saturate all available TBG binding sites (Ka = 109/M),
+these findings are consistent with affected individuals having
+an increased association of T4 with TTR or with albumin.
+Sera from seven of the eight family members with increased '25I-T4 precipitated by anti-TTR IgG were subjected to
+paper electrophoresis. All seven of these individuals had an
+
+503-
+
+I
+I
+I
+I
+I
+I
+I
+I
+
+l
+
+I- 401
+z
+
+Co
+
+w
+
+CL
+
+aoF
+
+0
+
+0
+
+I
+
+10
+
+I
+
+*-I
+
+0
+
+0
+
+O0@
+.
+
+S0
+
+I
+I
+I
+
+a.
+
+01 0
+
+Oj
+
+I
+
+U)
+
+AFFECTED 0
+
+0
+
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+
+201.-
+
+I
+
+UNAFFECTED O
+
+I
+I
+I
+I
+
+30p
+
+a
+
+a.-
+
+NORMAL RANGE 17-4 1 mg/di
+
+0
+
+so.
+
+0
+0
+
+S
+
+I
+
+20
+
+30
+
+SERUM TTR
+
+1L
+
+1-
+
+40
+
+50
+
+(mg/dl)
+
+60
+
+Figure 3. Relation between TTR
+levels and percent '25I-T4 bound by
+TTR in subjects affected with dystransthyretinemic hyperthyroxinemia and in unaffected family
+members. The percentage of total
+'25I-T4 precipitated by anti-TTR
+IgG for each individual studied is
+plotted as a function of that individual's serum TTR concentration as
+determined by rocket immunoelectrophoresis. Affected individuals are
+designated by the open symbols and
+unaffected family members are designated by the solid symbols. The
+range of normal serum TTR concentrations is indicated by the vertical dashed lines.
+
+Mutant Transthyretin Causing Hyperthyroxinemia
+
+2027
+
+T3
+
+FT4 I
+p . 0.0009
+
+p>0.05
+
+p - 0.0002
+I
+
+0
+
+na8
+
+16 _
+14
+
+k
+
+-i
+
+12 _
+
+-A
+
+180r-
+
+18r
+
+n.19
+
+12
+
+0
+0
+
+0
+
+8
+
+11.8
+
+S
+
+F. 10
+9.2
+
+0
+
+1iL
+
+-
+
+0
+
+0
+
+S
+
+80
+
+8 _
+
+0
+
+776
+
+6'
+
+8
+
+0
+0
+
+6
+
+-J
+
+0
+
+80
+
+00
+
+101_
+
+0
+
+I
+
+-a- 12.5
+
+6
+0
+
+0
+
+4
+
+4L
+Affected Unaffected
+0
+
+Affected Unaffected
+
+6] vs. 1.06±0.036
+
+X
+
+107/M [n
+
+=
+
+!
+
+5], P < 0.005; Fig. 6, right).
+
+Ident'ification of a coding region mutation in the proband's
+an
+
+effort to identify
+
+an
+
+0
+
+135
+
+00
+00
+0
+0
+
+proband's TTR gene that could account for the increased affinity of this protein for T4, we performed DNA sequencing of
+TTR exons 2, 3, and 4 following PCR amplification of genomic DNA. Within exon 4, four of eight independent M-13
+clones revealed an adenine-for-guanine substitution in the position corresponding to the first base of the triplet codon for
+amino acid residue 109 (Fig. 7). This finding is consistent with
+a heterozygous defect which is present in half of the alleles.
+This mutation encodes threonine (ACC) at this position instead of alanine (GCC) found in normal TTR. The DNA sequence of 8 clones isolated from exon 2 and 10 clones from
+exon 3 failed to detect any consistent changes from the reported normal TTR cDNA sequence. We did not amplify
+exon 1, which encodes only the first three amino terminal
+residues of TTR (13, 14).
+Direct amino acid sequencing of HPLC-purified tryptic
+peptides ofthe propsitus's TTR confirmed a threonine-for-alanine substitution at this location and also confirmed the heterozygous nature of the mutation (Fig. 8). HPLC separation of
+tryptic peptides generated from the propositus' TTR revealed
+a peak (11- 12*, Fig. 8) not found in wild-type TTR. Amino
+acid sequence analysis of this peptide (residues 104-114) revealed a sequence of Arg-Tyr-Thr-Ile-Ala-Thr-Leu-Leu-Ser-
+
+Parallel studies were performed on whole sera from affected
+and unaffected family members and the results with whole sera
+were similar to those obtained with purified TTR (data not
+shown). In the studies on whole sera, affected and unaffected
+family members were paired on the basis of similar serum
+TTR concentrations (data not shown).
+DNA. In
+
+0
+r-l_
+
+0
+
+Protein binding studies. The lack of correlation between
+TTR concentration and 125I-T4 precipitated by anti-TTR IgG
+suggests that hyperthyroxinemia in these subjects is due to a
+TTR with increased affinity for T4. To confirm this suggestion,
+we performed equilibrium competitive binding studies with
+125I-T4 and anti-TTR IgG on TTR purified from the proband's
+plasma and from the plasma of a normal control subject (Fig.
+6). As is apparent from the left panel in Fig. 6, the most striking difference between "affected" and normal TTR was the
+amount of '25I-T4 bound in the absence of unlabeled T4. Scatchard analysis of competitive binding studies comparing purified TTR from the proband to TTR from a normal control
+revealed that the proband's TTR bound T4 with an affinity
+approximately three times that of control (Ka = 3.36±.76 [n
+=
+
+n a 19
+
+Figure 4. Serum thyroid hormone concentrations in
+affected and unaffected family members in a kindred
+126
+with dystransthyretinemic hyperthyroxinemia. (Left)
+120k
+Serum total T4 concentrations are plotted for each af8
+fected individual (closed symbols) and for each unaf0
+fected family member (open symbols). The mean for
+100o
+08O
+-I
+the group is indicated to the right of each open bar
+which represents 2 SD around the mean. Statistical
+80~
+significance is indicated at the top of the panel.
+(Center) Serum free T4 indices (total T4 X T3 resin
+uptake) are plotted for each affected (solid symbols)
+60k
+and unaffected (open symbols) family member.
+(Right) Serum total T3 concentrations are plotted for
+40 L
+each affected (closed symbols) and unaffected (open
+Affected Unaffected symbols) family member.
+
+140k
+
+la L_r
+
+S
+
+n -8
+
+H
+160k
+
+.
+
+16 H
+2
+
+I
+
+anticipated mutation in the
+
+I
+
+H
+
+m
+
+0
+
+AFFECTED
+
+E UNAFFECTED
+
+2028
+
+Moses et al.
+
+NOT TESTED
+PRESUMED CARRIER
+
+Figure 5. Analysis of kindred with
+dystransthyretinemic hyperthyroxinemia. Sera from members of three
+generations were studied by immunoprecipitation with anti-TTR
+IgG incubated with '251-T4. Individuals were arbitrarily assigned as affected if the percent '251I-T4 precipitated by anti-TTR IgG was > 3 SD
+greater than the mean of six normal
+controls (see Fig. 1). The symbols
+with the single diagonal line represent deceased family members.
+
+60 50
+a
+
+Figure 6. Equilibrium competitive
+binding of '25I-T4 to TTR purified
+from the plasma of the proband
+with euthyroid dystransthyretinemic
+hyperthyroxinemia and to TTR purified from normal plasma. (Left)
+
+1.0
+
+Equilibrium competitive binding
+
+0
+
+THR109
+
+-
+
+assay, with each TTR incubated
+with '25I-T4 and with the indicated
+concentrations of unlabeled T4.
+Bound '25I-T4 was precipitated with
+anti-TTR IgG (see Methods for de-
+
+THR1 09
+
+0.8-
+
+U-
+
+z
+
+0
+
+40
+Lu
+
+00
+
+0
+
+30
+
+-
+
+20
+
+-
+
+Iz
+
+to
+
+0.6-
+
+IL
+
+WT
+
+0.4-
+
+a
+
+0
+
+a.
+
+0
+
+0
+1
+
+WT
+
+0.2
+
+10*
+....,
+
+01 100
+
+-,I
+....,
+
+102
+
+101
+
+103
+
+q
+
+-I
+
+104
+
+1
+
+05
+
+0
+
+5
+
+15
+
+BOUND (nM/L)
+
+T
+
+(nM/L)
+
+T
+
+10
+
+4
+
+4
+
+A
+
+B
+
+A C G T
+
+A C G T
+
+20
+
+25
+
+tails). Binding to heterozygous
+Thr'09 TTR (THR 109) is indicated
+in the open symbols and to normal
+TPBA (WT) in the closed symbols.
+(Right) Scatchard analysis of equilibrium competitive binding data.
+Data obtained with Thr ' TTR are
+shown in the open symbols and
+with normal TTR in the closed
+symbols.
+
+Pro-Tyr and confirmed a threonine-for-alanine substitution at
+position 109. The HPLC chromatogram also contained a peptide 1 1-12' found in wild-type TTR which on sequencing revealed alanine at position 109. Thus, a single heterozygous
+threonine-for-alanine substitution at position 109 of TTR is
+associated with an increased affinity of this protein for T4 and
+appears to account for the clinical syndrome of euthyroid hyperthyroxinemia in this kindred.
+The adenine-for-guanine substitution in the mutant TTR
+DNA should abolish one of two cleavage sites for the restriction endonuclease Fnu 4H I in exon 4 (Fig. 9). Thus, digestion
+with Fnu 4H I of mutant allele DNA
+
+c
+
+c
+
+C.
+*AI
+
+c
+
+i G
+
+-
+
+4
+
+U5
+
+urn
+4__b
+
+w
+Figure 7. DNA sequencing ladder of exon 4 from the proband's PCR
+amplified genomic DNA. DNA sequencing was performed on individual M 13 clones derived from PCR amplification of TTR exon 4
+of the proband's genomic DNA. (A) Results from one of four clones
+demonstrating the mutation; (B) a normal sequence from another
+clone in this individual. Four of eight sequenced clones of exon 4 expressed the adenine-for-guanine substitution.
+
+amplified from
+
+exon
+
+4
+
+would yield only two fragments, while digestion of exon 4
+DNA amplified from the normal allele would yield three DNA
+fragments. As seen in Figs. 8 and 9, when visualized after
+agarose gel electrophoresis, the largest of these fragments are
+222 and 207 bp for the mutant and normal alleles, respectively. To verify that each family member who demonstrated
+increased binding of '251I-T4 to TTR had the predicted mutation, we subjected DNA from the proband, four additional
+affected family members, one unaffected relative, and three
+normal controls to RFLP analysis of amplified exon 4 as detailed in Methods. The results of three affected family
+members (including the son of the propositus [individual III 2,
+Fig. 5]), one control, and one unaffected family member are
+shown in Fig. 10. Based on this analysis, five of five of the
+individuals predicted to have a threonine-for-alanine substitution have this substitution and none of the unaffected individuals display the loss ofthe Fnu 4H I site. Each affected individual also appears to be a heterozygote since both the 222- and
+207-bp bands were present after Fnu 4H I digestion (Fig. 9).
+
+Discussion
+Euthyroid hyperthyroxinemia is a relatively common clinical
+condition. Most often, elevated serum thyroxine levels are due
+to increased levels of TBG, but this situation usually is recognized easily due to the presence of a low T3RU or high TBG
+level, either of which are part of the routine assessment of
+Mutant Transthyretin Causing Hyperthyroxinemia
+
+2029
+
+Figure 8. Reverse-phase
+HPLC chromatogram of
+tryptic peptides from the
+propositus' purified TTR.
+Reverse-phase HPLC sep7
+aration of peptides derived from trypsin diges10
+tion of 3 mg of proband's
+plasma transthyretin.
+Peptide 1 -l2 gave the
+amino acid sequence of
+the transthyretin peptide
+104-114 with a threonine
+eat position 109. Peptide
+12* gave the transthyretin
+4
+sequence of transthyretin
+
+2.0_
+
+N
+
+!R
+
+w
+zC 1.0-
+
+amino acid residues
+105-114 with threonine
+at position 109. Peptide
+111-12' gave the normal
+
+o
+m
+
+<
+.
+121 *12'
+
+transthyretin sequence
+
+11-12 12'
+
+0o
+
+,
+
+20
+
+10
+
+0
+
+,
+30
+
+,
+
+40
+
+5060
+
+80
+
+70
+
+times of elution.
+
+TIME (minutes)
+
+thyroid status. Euthyroid hyperthyroxinemia associated with a
+normal T3RU is an uncommon condition caused either by
+increased T4 binding to albumin, transthyretin, or gamma
+globulin (8). These situations can present diagnostic dilemmas
+since the elevated total T4 and normal T3RU result in an increased free T4 index consistent with thyrotoxicosis. Measured
+free T4 and TSH should be normal. Most patients with this
+condition have increased binding to albumin, due to a variant
+albumin with an increased affinity for T4 (17-19). The molecular basis of the increased affinity of albumin for T4 is unresolved (20). Increased binding of T4 to IgG most often is seen
+in the setting of autoimmune thyroid disease such as Hashimoto's thyroiditis (21). From the perspective of clinical management, the increasing availability of sensitive TSH assays to
+
+from positions 104-114
+and peptide 12'gave the
+normal transthyretin sequence from position
+105-114. Peptides T9,
+T6, T4, T1O,andT7
+were identified by their
+
+assess suppression of TSH as an aid in the diagnosis of thyrotoxicosis should decrease the likelihood ofinappropriate treatment of subjects with euthyroid hyperthyroxinemia due to
+abnormal or excess T4 binding proteins.
+Euthyroid hyperthyroxinemia due to increased T4 binding
+to transthyretin is a rare cause of an uncommon condition and
+may result from an excess mass of normal transthyretin (2-4)
+or from a transthyretin molecule with an increased affinity for
+thyroxine (1, 5-7). Three reports of euthyroid hyperthyroxinemia due to elevated levels of TTR have been described (2-4);
+all cases were in patients with pancreatic endocrine tumors. In
+several cases, 1TR was identified by immunohistocytochemical staining of the tumor tissue (3, 4). In these patients, total T4
+and FT4I concentrations were elevated modestly, the mea109
+
+5'
+
+Fl
+
+F2 ACC
+ATT GCC fi=
+ATC lCAC CAT AAG TGT CGG TTG CTG AGG CCG GGG GCG GCG ATG TGG TAA CGG CGG
+
+CA GCC AAC GAC TCC GGC CCC CGC CGC TAC ACC
+
+[GTG
+
+CTG CTG AGC CCC TAC TCC ( ..... 168 bp ..... ) CAT TCC TGT GAA AGG CIAC
+GAC GAC TCG GGG ATG AGG I ..... 168 bp .....) GTA AGG ACA CT TCC GiTG
+
+PRIMER SETS ARE UNDERLINED
+
+ACC
+
+CODON FOR THR109 MUTATION
+
+Fl: FIRST Fnu4H I RECOGNITION SITE (GC/NGC) IN EXON 4
+F2: SECOND Fnu4H I RECOGNITION SITE IN EXON 4
+
+Fnu4H I DIGESTION OF NORMAL TTR: 207, 35, and 15 bp FRAGMENTS
+Fnu4H I DIGESTION OF MUTANT TTR: 222 and 35 bp FRAGMENTS
+
+2030
+
+Moses et al.
+
+3
+
+Figure 9. DNA sequence around
+exon 4 utilized for RFLP analysis of
+Thr119 TTR. Two primers were synthesized for PCR amplification of
+exon 4 and surrounding intronic
+DNA. The primers are indicated by
+the solid underlines. The two Fnu
+4H I sites in exon 4 are indicated by
+Fl and F2. The ACC substitution
+for GCC encoding amino acid residue 109 also is indicated. After amplification with these primer sets,
+digestion of the full-length, 257-bp
+exon 4 with Fnu 4H I would yield
+fiagments of 207, 15, and 35 bp for
+normal TTR and 222 and 35 bp for
+mutant TTR exon 4.
+
+H
+
+1
+
+2
+
+3
+
+4
+
+Figure 10. Agarose gel electrophoresis of PCR amplified TTR exon 4
+
+5
+
+after Fnu 4H I digestion in normal
+
+-2 2 2 bp
+-P
+
+and affected family members. Exon
+4 of genomic DNA was amplified
+with primer sets described in Fig. 8
+and in Methods. The amplified
+cDNA (257 bp in length) was subjected to digestion with Fnu 4H I
+and the products were run on 4%
+
+-207 bp
+
+agarose, stained with ethidium bro-
+
+-257 bp
+
+mide, and photographed. Each sample was run in duplicate with the
+left lane (-) being in the absence of
+_ +
+_ +
+_
+_
+_ +
+__
+Fnu 4H I and the right panel (+) in
+the presence of Fnu 4H I. (Lanes I and 2) Exon 4 amplified from two normal controls; (lanes 3-5) exon 4 amplified from three affected family
+members as defined by immunoprecipitation with anti-TTR IgG. Two additional affected family members gave results identical to those shown
+in lanes 3-5. The molecular size markers are 4X 174 RF DNA cut with HAE III and are in the left lane.
+
+sured free T4, TSH, and T3 concentrations were normal, and
+the TTR concentrations were elevated strikingly (from 4 to 10
+times normal). In one patient in whom TTR binding capacity
+and affinity were studied in whole sera subjected to agarose gel
+electrophoresis, the maximal binding capacity for T4 was elevated, while the affinity for T4 was normal (4). Thus, it would
+seem that in these patients hyperthyroxinemia is due to increased binding of T4 to a markedly elevated level ofTTR with
+normal affinity for T4.
+In 1982 we presented a preliminary report of the first case
+of euthyroid hyperthyroxinemia due to a TTR with an apparent increased affinity for T4 (1). We described a patient with
+elevated serum T4 and FI4I but with a normal total serum T3,
+F[4, TSH, and TSH response to TRH. As measured by electrophoresis and immunoabsorption, this patient had an unusually high fraction of T4 associated with TTR. Though this
+patient's TTR concentration was slightly elevated (66 mg/dl),
+the patient's hyperthyroxinemia was thought to be unrelated
+to the increased TTR concentrations, because the T4 binding
+capacity of the serum TTR was normal, and the patient's son
+had a similar phenotype with a normal serum TTR concentration. At that time, we had no direct evidence that the patient's TTR had an increased affinity for T4 and we had not
+investigated the molecular basis of this abnormality. We now
+report results confirming an increased affinity of TTR for T4
+and demonstrating a point mutation in the coding region of
+TTR DNA which probably accounts for this increased affinity
+and the mode of inheritance of this mutation.
+The use of anti-TTR IgG allowed us to isolate 125I-T4
+bound to TTR from other thyroxine binding proteins in serum
+and served as a convenient means to identify affected individuals in the kindred. Affected family members were defined on
+the basis of the precipitation of 125I-T4 by anti-TTR IgG > 3
+SDs above the mean for sera from six normal control subjects.
+8 of 27 family members tested carried the mutant TTR gene
+based on this definition and as confirmed by a T4-loaded T4
+charcoal-uptake test and by paper electrophoresis (on 7 of the
+8 affected family members). It is interesting to note that only
+five of the eight affected family members had total T4 levels
+above the upper limit of normal.
+Each of the individuals tested demonstrated an increased
+affinity of TTR for T4 as assessed by competitive binding
+
+assays using whole sera. For the proband, this affinity was
+three times greater than that of normal TTR and was confirmed with competitive binding studies performed with purified TTR. The available data support the concept that each
+affected individual is heterozygous for this mutation and that
+the mutation is transmitted in an autosomal dominant fashion. None of the members ofthis kindred have been treated for
+thyrotoxicosis and none except the proband had evidence of a
+goiter. Based on the presence of a variant TTR molecule with
+increased affinity for thyroxine we propose that this syndrome
+be called euthyroid dystransthyretinemic hyperthyroxinemia.
+Since investigation into the molecular basis of the increased affinity of TTR for T4 not only can establish the molecular basis of euthyroid dystransthyretinemic hyperthyroxinemia but also can provide some further insight into the nature of the molecular interaction between T4 and TTR, we
+performed sequencing studies on both the TTR gene and protein in the proband of this kindred. DNA and protein sequencing both are consistent with a threonine-for-alanine
+substitution in amino acid residue 109 of TTR. This is due to
+an adenine-for-guanine substitution at the first base pair of the
+codon for amino acid residue 109 in exon 4 of the TTR gene.
+All five affected family members who were tested were heterozygous for this mutation based on RFLP analysis of PCR-amplified exon 4 of genomic DNA digested with the restriction
+enzyme Fnu 4H I. While absolute proof of the relationship
+between this threonine-for-alanine substitution will require direct testing of homozygous, recombinant TTRs, the lack of
+other detectable defects in the coding region of TTR makes it
+likely that this mutation is responsible for the increased affinity of TTR for T4.
+Others have reported similar cases of hyperthyroxinemia
+due to a TTR with increased affinity for thyroxine. One case of
+euthyroid hyperthyroxinemia due to an increased fraction of
+T4 associated with TTR as assessed by immunoprecipitation
+was reported by Croxson et al. (7). Since the patient had only a
+trivial elevation of his TTR concentration, Croxson et al. attributed the hyperthyroxinemia to an abnormal TTR with an
+increased affinity for thyroxine, though direct studies to verify
+this assumption were not undertaken. In 1984, Lalloz et al. (5)
+reported a patient with dystransthyretinemic hyperthyroxinemia with normal TTR concentrations. They were able to
+Mutant Transthyretin Causing Hyperthyroxinemia
+
+2031
+
+isolate this patient's TTR and show that it had an increased
+affinity for thyroxine and reverse T3 as determined by equilibrium dialysis. Subsequently, Lalloz et al. (6) reported a patient
+who had both dysalbuminemic and dystransthyretinemic hyperthyroxinemia. They were able to verify that both the patient's albumin and TTR had an increased affinity for thyroxine. In addition, they were able to show that these abnormalities were inherited independently in the patient's family as
+autosom;al dominant traits. Further studies on one of these
+dystransthyretinemic patients were reported in abstract form
+by Fitch et al. (22). In this patient, a heterozygous point mutation in exon 2 encodes a serine-for-glycine substitution at
+amino acid number 6 in the mature protein.
+These are not the only examples of mutant TTRs with
+altered affinity for thyroxine. Refetoff et al. (23) have examined the affinity of TTR for T4 in patients with familial amyloidotic polyneuropathy secondary to defined mutations in
+TTR (23). While none of these mutant TTRs demonstrated
+increased affinity for T4, several demonstrated decreased affinity for T4. We have confirmed this finding and extended it
+to additional TTR mutants using the '25I-T4 equilibrium competitive binding assay (24). Thus, a range of point mutations in
+the TTR gene alter tl;e ability of TTR molecules to associate
+with one another (to produce amyloid) and to associate with
+thyroxine. Each of these different mutations provides further
+insight into the molecular association of TTR with thyroxine.
+It is interesting to speculate how mutation of Ala'09 to
+Thr 09 described here affects TTR's affinity for T4. Amino acid
+109 is situated at a domain that could perturb thyroxine binding in several different ways. The 3' outer ring iodine of thyroxine is projected to associate with the backbone oxygen of
+Ala'09 (25, 26). It is not clear how the substitution of threonine
+for alanine at this position alters the association with thyroxine
+iodine. The methyl groups of Ala'08 and Leu0'° are thought to
+form part of the hydrophobic patch of the thyroxine binding
+site (25), and it is possible that a substitution in the amino acid
+between them might slightly alter the relationship of these
+amino acids and alter thyroxine binding. It also is possible that
+the hydroxyl side chain of Thr " participates directly in the
+binding of T4. Alternatively, Blake et al. (26) reported that
+Ala"0 forms hydrogen bonds with Lys,'5 a residue that interacts with the side chain carboxylate of T4. Thus, it also is
+possible that a threonine-for-alanine substitution at amino
+acid 109 might result in some alteration in the configuration of
+Lys"5 vis-a-vis T4. Clarification of the mechanism by which
+this mutation increases TTR's affinity for T4 will be possible
+with subsequent molecular modeling and crystallization of
+homozygous mutant TTR. Additional information also may
+come from binding studies with iodothyronine analogues.
+In the family described here, TTR has a threefold increased
+affinity for T4 compared with normal TTR. Yet, the affected
+individuals are heterozygous for the mutant and normal TTR.
+Normal TTR is a tetrameric protein comprised of four identical subunits. In the affected individuals, assuming that the
+mutation will not affect the association of normal and mutant
+monomers, we would predict that TTR in the circulation is
+heterogeneous and consists of molecules with varying proportions of normal and mutant monomers. Thus, in these studies
+we have measured T4 affinity to TTR molecules, the majority
+ofwhich (93.75% based on random association of TTR monomers) contain at least one normal monomer. It is possible that
+2032
+
+Moses et al.
+
+TTR tetramers consisting of four mutant monomers have
+even a higher affinity for T4 than measured in our competitive
+binding assays. Direct determination of T4 affinity by homozygous mutant TTR will have to await recombinant expression of this protein and should provide additional clues about
+the molecular interaction between TTR and thyroxine and
+about the association of TTR monomers themselves.
+
+Acknowledgments
+This work was supported by a grants from the Milton Foundation, The
+Arthritis Foundation, The Grace M. Showalter Trust, The Marion E.
+Jacobson Fund, by National Institutes of Health grants DK-18416,
+DK-34881, AR-20582, AR-7448, RR-00750, and by V. A. Medical
+Research.
+
+References
+1. Moses, A. C., J. Lawlor, J. Haddow, and I. Jackson. 1982. Familial euthyroid hyperthyroxinemia resulting from increased thyroxinebinding prealbumin. N. Engl. J. Med. 306:966-969.
+2. Rajatanavin R., C. Liberman, G. D. Lawrence, C. M. D'Arcangues, R. A. Young, and C. H. Emerson. 1985. Euthyroid hyperthyroxinemia and thyroxine-binding prealbumin excess in islet cell carcinoma. J. Clin. Endocrinol. Metab. 61:17-21.
+3. Jacobsson, B., T. Pettersson, B. Sandstedt, and A. Carlstrom.
+1979. Prealbumin in the islets of Langerhans. IRCS (Int. Res. Commun. Syst) Med. Sci. 7:590.
+4. Maye P., A. Bisetti, A. Burger, R. Docter, R. Gaillard, M. Griessen, and M. F. Pelte. 1989. Hyperprealbuminemia, euthyroid hyperthyroxinemia, Zollinger-Ellison-like syndrome and hypercorticism
+
+in a pancreatic endocrine tumor. Acta Endocrinol. 120:87-91.
+5. Lalloz, M. R. A., P. G. H. Byfield, and R. L. Himsworth. 1984. A
+prealbumin variant with an increased affinity for T4 and reverse-T3.
+Clin. Endocrinol. 21:331-338.
+6. Lalloz, M. R. A., P. G. H. Byfield, K. M. Goel, M. M. Loudon,
+J. A. Thomson, and R. L. Himsworth. 1987. Hyperthyroxinemia due
+to the coexistence of two raised affinity thyroxine-binding proteins
+(albumin and prealbumin) in one family. J. Clin. Endocrinol. Metab.
+64:346-352.
+7. Croxson, M. S., B. N. Palmer, I. M. Holdaway, P. A. Frengley,
+and M. C. Evans. 1985. Detection of familial dysalbuminemic hyperthyroxinemia. Br. Med. J. 290:1099-1102.
+8. Stockigt, J. R., S. A. Dyer, V. S. Mohr, E. L. White, and J. W.
+Barlow. 1986. Specific methods to identify plasma binding abnormalities in euthyroid hyperthyroxinemia. J. Clin. Endocrinol. Metab.
+62:230-233.
+9. Duvulet, F. E., and M. D. Benson. 1983. Polymorphism of
+human plasma thyroxine binding prealbumin. Biochem. Biophys. Res.
+Commun. 114:657-662.
+10. Scatchard, G. 1949. The attraction of proteins for small molecules and ions. Ann. NYAcad. Sci. 51:660-672.
+11. Nichols, W. C., J. J. Liepnieks, V. A. McKusick, and M. D.
+Benson. 1989. Direct sequencing of the gene for Maryland/German
+Familial Amyloidotic Polyneuropathy Type 2 and genotyping by allele-specific enzymatic amplification. Genomics. 5:535-540.
+12. Strauss, W. M. 1987. Preparation of genomic DNA from
+mammalian tissue. In Current Protocols in Molecular Biology. F. M.
+Ausubel, editor. John Wiley and Sons, Inc., Boston. 2.2.1-2.2.2.
+13. Tsuzuki, T., S. Mita, S. Maeda, S. Araki, and K. Shidama.
+1985. Structure of the human prealbumin gene. J. Biol. Chem.
+260:12224-12227.
+14. Kanda, Y., D. W. Goodman, R. E. Canfield, and F. J. Morgan.
+1974. The amino acid sequence of human plasma prealbumin. J. Biol.
+Chem. 249:6796-6805.
+
+15. Moller, D. E., A. Yokota, and J. S. Flier. 1989. Normal insulin-receptor cDNA sequence in Pima Indians with NIDDM. Diabetes
+38:1496-1500.
+16. Sanger, F., S. Nicklen, and A. R. Coulson. 1977. DNA sequencing with chain-terminating inhibitors. Proc. Natl. Acad. Sci.
+USA. 74:5463-5467.
+17. Stockigt, J. R., D. J. Topliss, J. W. Barlow, E. L. White, D. M.
+Hurley, and P. Taft. 1981. Familial euthyroid thyroxine excess: an
+appropriate response to abnormal thyroxine binding associated with
+albumin. J. Clin. Endocrinol. Metab. 53:353-359.
+18. Ruiz, M., R. Rajatanavin, R. A. Young, C. Taylor, R. Brown,
+L. E. Braverman, and S. H. Ingbar. 1982. Familial dysalbuminemic
+hyperthyroxinemia, a syndrome that can be confused with thyrotoxicosis. N. Engl. J. Med. 306:635-639.
+19. Yeo, P. P. B., Y. Yabu, J. R. Etzkorn, R. Rajatanavin, L. E.
+Braverman, and S. H. Ingbar. 1987. Familial dysalbuminemic hyperthyroxinemia: a four generation study. J. Endocrinol. Invest.
+10:33-38.
+20. Yabu, Y., S. M. Amir, M. Ruiz, L. E. Braverman, and S. H.
+Ingbar. 1985. Heterogeneity of thyroxine binding by serum albumins
+in normal subjects and patients with familial dysalbuminemic hyperthyroxinemia. J. Clin. Endocrinol. Metab. 60:451-459.
+21. Premachandra, B. N., J. Ginsberg, and P. G. Walfish. 1980.
+
+Binding of reverse T3 to serum immunoglobulins in man and in the
+rabbit. J. Clin. Endocrinol. Metab. 50:802-805.
+22. Fitch N. J. S., M. T. Akbari, M. C. Sheppard, and D. B. Ramsden. 1989. Serine-for-glycine substitution at position 6 in an inherited,
+non-lethal transthyretin variant with increased thyroxine-binding affinity. First International Symposium on Hereditary Amyloidosis,
+September 1989, Oporto, Portugal.
+23. Refetoff, S., F. E. Dwulet, and M. D. Benson. 1986. Reduced
+affinity for thyroxine in two of three structural thyroxine-binding
+prealbumin variants associated with familial amyloidotic polyneuropathy. J. Clin. Endocrinol. Metab. 63:1432-1437.
+24. Rosen, H. N., M. D. Benson, J. J. Liepnieks, G. Holmgren, 0.
+Sandgren, L. Steen, and A. C. Moses. 1990. Thyroxine interactions
+with transthyretin: a comparison of 10 different naturally occurring
+transthyretin variants. 10th International Thyroid Congress, Jerusalem, Israel, 9-14 September 1990.
+25. Blake, C. C., and S. J. Oatley. 1977. Protein-DNA and proteinhormone interactions in prealbumin: a model of the thyroid hormone
+nuclear receptor? Nature (LondJ. 268:115-120.
+26. Blake, C. C. F., M. J. Geisow, and S. J. Oatley. 1978. Structure
+of prealbumin: Secondary, tertiary, and quaternary interactions determined by fourier refinement at 1.8 A. J. Mol. Biol. 121:339-356.
+
+Mutant Transthyretin Causing Hyperthyroxinemia
+
+2033
+
+

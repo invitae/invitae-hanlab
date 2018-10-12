@@ -1,0 +1,860 @@
+Proc. Natl. Acad. Sci. USA
+Vol. 86, pp. 8319-8322, November 1989
+Biochemistry
+
+Coagulation factor XII (Hageman factor) Washington D.C.: Inactive
+factor XIIa results from Cys-571 -* Ser substitution
+ToSHIYUKI MIYATA*, SHUN-ICHIRo KAWABATA*, SADAAKI IWANAGA*t, ISAO TAKAHASHIt,
+BARBARA ALVING§, AND HIDEHIKO SAITOt
+*Department of Biology, Faculty of Science, Kyushu University 33, Fukuoka 812, Japan; tFirst Department of Internal Medicine, Nagoya University School
+of Medicine, Nagoya, Aichi 446, Japan; and §Coagulation Laboratory, Department of Hematology, Walter Reed Army Institute of Research, Washington,
+DC 20327-5100
+
+Communicated by Oscar D. Ratnoff, August 3, 1989
+
+abnormal factor XII proteins from the plasma of an individual
+with CRM' Hageman trait (factor XII Washington D.C.) has
+been isolated and partially characterized (14). This abnormal
+factor XII has the following properties: (i) it has the same
+molecular weight as normal factor XII, (ii) it shows no
+clot-promoting activity but does show the same specific
+antigenicity as purified normal factor XII in immunoassay,
+(iii) limited proteolysis of the abnormal factor XII exposed to
+a mixture of plasma and glass yields a two-chain a-XIIa with
+normal-sized heavy and light chains, and (iv) this abnormal
+factor XII is fragmented by trypsin in the same way as normal
+factor XII, but no prekallikrein-activating activity and no
+incorporation of [3H]diisopropyl phosphorofluoridate into a
+catalytic domain are observed. These results suggest that the
+abnormality in this enzyme resides at or near the active-site
+triad of the molecule.
+The present study was undertaken to further elucidate the
+structural abnormality of factor XII Washington D.C. that
+would account for the functional impairment of the molecule.
+The results indicate that the impairment of the serine protease activity is due to replacement of Cys-571 with serine in
+the catalytic domain.
+
+Structural studies on a congenital abnormal
+ABSTRACT
+coagulation factor XII (Hageman factor), factor XII Washington D.C., have been performed to identify the defect responsible for its lack of procoagulant activity. Amino acid sequence
+analysis of a tryptic peptide isolated from the abnormal factor
+XII indicated that Cys-571 (equivalent to Cys-220 in the
+chymotrypsin numbering system) had been replaced by serine.
+No other substitutions in the active-site triad-namely, His393, Asp-442, and Ser-544-were found. We propose that the
+Cys-571 -* Ser replacement found in this factor XII variant
+destroys the formation of the disulfide linkage between Cys-540
+and Cys-571, giving rise to an altered conformation of the
+active-site serine residue or the secondary substrate-binding
+site and, thus, leads to the loss of enzyme activity.
+Coagulation factor XII (Hageman factor) is a plasma protein
+that was originally found as a functionally deficient agent in
+plasmas from individuals with Hageman trait (1). Under
+certain conditions, this protein appears to initiate several host
+defense plasma reactions, including blood coagulation, fibrinolysis, and kinin generation (2-4). Human factor XII is a
+zymogen of a serine protease with an approximate Mr of
+80,000 and consists of a single-chain glycoprotein composed
+of 596 amino acid residues (5-9). When normal blood comes
+into contact with negatively charged surfaces, such as glass,
+kaolin, dextran sulfate, and sulfatide, factor XII is bound to
+the surface and converted to an active enzyme (factor XIIa)
+by a complex reaction involving plasma prekallikrein and
+high-molecular-weight kininogen (2-4, 10-12). Factor XII
+undergoes, on the surface, specific limited proteolysis by
+kallikrein and transforms into two active enzyme forms,
+a-factor XIIa (a-XIIa) and 8-factor XIIa (,B-XIIa). a-XIIa is
+composed of two polypeptide chains with Mr values of 52,000
+and 28,000, whereas ,B-XIIa consists of two chains with Mr
+values of 2,000 and 28,000 (5). The heavy chain of a-XIIa is
+composed of 353 amino acid residues and contains four
+different domains (6, 7). The light chain of a-XIIa is a
+catalytic domain with 243 amino acid residues that contains
+the active-site triad of serine protease (5, 7).
+The plasma of the majority of subjects with Hageman trait
+also lacks immunologically identifiable factor XII. Very rare
+individuals with this disorder, however, whose plasma contains nearly normal amounts of nonfunctional but immunologically identifiable factor XII, have been reported (13-15).
+Because these plasmas contain cross-reacting material
+(CRM) recognized by the specific antiserum, these cases
+have been called CRM+ (CRM-positive) variant. Studies of
+the nonfunctional factor XII in CRM+ Hageman trait may
+provide a unique opportunity to examine the structurefunction relationship of this plasma protein. One of the
+
+MATERIALS AND METHODS
+Preparation of Abnormal Factor XII and Its p-XII. Plasmas
+from an individual with CRM' Hageman trait (14) were
+obtained, after informed consent, by plasmapheresis, using
+acid/citrate/dextrose anticoagulant. Factor XII was purified
+according to a published method (16) from plasma samples of
+this individual and from normal individuals that served as a
+control. Normal factor XII was a gift from Kazuo Fujikawa
+(University of Washington, Seattle). The normal factor XII
+and abnormal factor XII were treated by trypsin, and the
+resulting 83-XII was isolated by a DEAE-Sephacel column (5).
+The 8-XII samples thus prepared were reduced and Spyridylethylated (17).
+Tryptic Peptide Mapping by HPLC. The S-pyridylethylated
+abnormal 83-XII (320 gg) and normal /3-XII (210 Ag) were
+suspended separately in 20 ,ul of 50 mM Tris-HCl, pH 8.0/8
+M urea. After dilution with 60 ,ul of 50 mM Tris-HCI, pH 8.0,
+20 ,l of trypsin (0.35 mg/ml) was added, and the digestion
+was performed at 37°C for 14 hr. Each digest was chromatographed on a reversed-phase C4 column (0.46 x 15 cm,
+Cosmosil 5C4-300; Nakarai Chemical, Kyoto) on a Beckman
+model 344 HPLC system. HPLC separation of the digest was
+performed with a linear gradient of 0-42% (vol/vol) acetonitrile in 0.1% trifluoroacetic acid for 84 min and 42-60%
+acetonitrile in 0.1% trifluoroacetic acid for 9 min at a flow rate
+of 0.5 ml/min. The effluent was monitored by measuring
+
+The publication costs of this article were defrayed in part by page charge
+payment. This article must therefore be hereby marked "advertisement"
+in accordance with 18 U.S.C. §1734 solely to indicate this fact.
+
+Abbreviations: >PhNCS, phenylthiohydantoin; a-XIIa, ca-factor
+XI1a; 8-XIIa, 8-factor XIIa; CRM, cross-reacting material.
+tTo whom reprint requests should be addressed.
+8319
+
+8320
+
+Biochemistry: Miyata et al.
+
+Proc. Natl. Acad. Sci. USA 86 (1989)
+
+absorbance at 214 nm. The fractions containing several
+peptides were rechromatographed on a reversed-phase C18
+column (0.21 x 15 cm, Chemcosorb 7-ODS-H; Chemco
+Scientific, Osaka) with the acetonitrile/trifluoroacetic acid
+system.
+Amino Acid Analysis and Sequence Determination. Samples
+were hydrolyzed at 110'C for 20 hr in 5.7 M HCl containing
+1% phenol in tubes sealed under reduced pressure. After
+evaporation, the hydrolysates were coupled with phenyl
+isothiocyanate, and the phenylthiocarbamoyl amino acids
+were analyzed on the Pico-Tag system (Waters/Millipore),
+according to the method of Bidlingmeyer et al. (18). Sequence analysis of the peptide was performed by an Applied
+Biosystems model 470 A gas-phase sequencer (19) equipped
+with an Applied Biosystems model 120 A on-line phenylthio-
+
+~~~~~~~~~z
+
+I
+0.1
+
+VX
+
+,
+
+C4~~~~~~~~~~~~~~~~~~~~~~~~~~~~~.
+
+hydantoin (>PhNCS) analyzer.
+1. Abnormal
+ds
+e ea xT5
+sed
+30c
+Ho0.4 T9
+T9
+ITS
+
+RESULTS
+Tryptic Peptide Mapping of Abnormal and Normal ,-XII.
+The S-pyridylethylated 83-XII derived from abnormal and
+normal factor XII were each digested with trypsin, and the
+resulting peptides were separated on a reversed-phase C4
+column (Fig. 1). A peak eluted at 21.3 min appeared to be
+4-vinylpyridine used for the S-alkylation ofthe ,3-XII because
+this peak did not contain any amino acids in the HCI
+hydrolysate. Except for the peaks eluted at 4.5 min (Figs. 1
+A and B), 54.0 min and 67.8 min (Fig. 1A), and 45.9 min (Fig.
+1B), all peptides from both samples were obtained as a single
+peptide. The impure peptides were purified further by rechromatography as described, and the purified peptides were
+subjected to further analyses. The two chromatograms in Fig.
+1 differ in some ways. Three peptides eluted at the retention
+time of 35.4 min (T1OC), 50.7 min (T12'), and 60.9 min (T9N)
+appeared only in the digest of abnormal 83-XII (Fig. 1B), and
+also the heights of three peptide peaks eluted at the retention
+time of 40.5 min (T2C-3), 62.1 min (T2), and 66.0 min (T9)
+were greater than those of the digest of the normal control.
+Most differences between the two chromatograms in Fig. 1,
+except for peptide T12', could be explained mainly by uneven
+digestion of S-pyridylethylated f-XII by trypsin. In the
+abnormal molecule, complete cleavage of the Arg474-Pro-475 bond was seen, which yielded the peptides T8
+and T9, whereas the extent of this cleavage was fairly
+reduced in the normal molecule. In addition, peptide bonds
+of Arg-398-Pro-399, His-393-Cys-394, Tyr-462-Val-463,
+Phe-507-Leu-508, and Met-527-Leu-528 were partially
+cleaved by trypsin in the abnormal molecule, generating the
+peptides T2, T2C-3, T8N, T9N, and T10C. One clear difference between A and B of Fig. 1 was the appearance of peptide
+T12' in the chromatogram from the abnormal molecule.
+Amino Acid Composition of Tryptic Peptides Derived from
+Abnormal f-XII. Table 1 shows the amino acid compositions
+of all tryptic peptides derived from abnormal B-XII. Peptides
+were numbered sequentially from the NH2 terminus of the
+catalytic domain of factor XII. The data indicated a high
+purity of all peptides and allowed unambiguous identification
+of their positions in the known amino acid sequence for the
+catalytic domain of factor XII. Approximately 99% of the
+entire amino acid residues of the abnormal j3-XII molecule
+was assigned by these analyses. Among these peptides, the
+peptides T2-3 and T13-14 contained 2 mol of basic residues
+(arginine or lysine) per mol of peptide, and this result is due
+to incomplete hydrolyses of the Arg-398-Pro-399 and Lys576-Pro-577 peptide bonds. Two free arginines, Arg-413 (T4)
+and Arg-558 (T11), generated in the tryptic digest were not
+identified; they might be coeluted in the breakthrough fraction with salts, even in the rechromatography on a reversedphase C18 column (data not shown). The peptide T12 derived
+from normal j8-XII consisted of 16 amino acid residues
+
+T
+
+T15
+
+d
+M
+
+0.4'
+
+S
+
+T0.2
+-
+
+UJ tk
+
+02
+
+-40
+
+T2C-3
+a-or
+TIOC ITI
+
+~~~~~~20
+z
+
+0.1.
+
+numere sqetalfrm the
+0
+
+0
+
+a
+30
+
+12 temiu of
+40ctlyi
+I0
+60
+Time, min
+
+FIG. 1. HPLC of peptides derived from normal (Upper) and
+abnormal (Lower)
+m-factorX1i after trypsin (T) digestion. Tryptic
+digests were separately subjected to HPLC on a 0.4 x 30 cm
+Cosmosil 5C18-P column; for further details, see text. Numbers on
+the peptide peaks are abbreviations for the tryptic peptides derived
+from A-pyridylethylated normal and abnormalP 1X; peptides are
+numbered sequentially from the NH2 terminus of the catalytic
+domain of factor XII (5, 7). Positions of these peptides in the 2,II
+molecule are shown in Table 1. The peptides, named T13-14, T2-3,
+and T8-9, show a peptide consisting of, for example, T13 and T14,
+which was not cleaved by trypsin under the conditions used. T8N,
+T9N, TioC, and T2C-3 are named to correspond to their NH2(N)- or
+COOH(C)-terminal source peptide.
+
+containing one cysteine and two serines, as expected from
+the sequence data (6, 7). However, the amino acid composition of peptide T12' derived from the abnormalg3-X11
+showed one more seine and one less -pyridylethylcysteine
+than that of peptide T12. To determine the basis for this
+difference, sequence analysis of the aberrant peptide T12'
+was performed.
+Amino Acid Sequence of Aberrant Peptide T12'. The sequence of peptide T12' was determined with duplicate samples by automated Edman degradation. As shown in Table 2,
+peptide T12' differed from the normal T12 peptide by a single
+amino acid at position 571-a cysteine in the normal peptide
+and a serine in the abnormal peptide. This result indicates
+that a Cys --+ Ser substitution at position 571 has shifted the
+retention time from 54 min for the normal peptide T12 to 52.8
+min for the aberrant peptide T12'. The Cys --+ Ser substitution
+at position 571, on the other hand, has to provide a halfCys-540, because both cysteine residues correspond to the
+"&serine disulfide loop" found in chymotrypsin and other
+serine proteases. To confirm the free sulfhydryl group at
+position 540, abnormalB1-XII was S-pyridylethylated without
+any reduction. However, the sample after acid hydrolysis did
+
+Biochemistry: Miyata et al.
+Table 1. Amino acid compositions
+Amino acid
+T1
+T2
+Asp
+0.5
+Glu
+1.3
+Ser
+1.9
+Gly
+1.8
+2.9
+His
+2.6
+Arg
+1.0
+0.3
+Thr
+1.0
+Ala
+1.0
+7.4
+2.0
+Pro
+1.8
+Tyr
+Val
+2.0
+1.3
+0.7
+Met
+3.0
+PECys
+Ile
+2.3
+Leu
+1.9
+3.4
+Phe
+1.6
+ND
+Trp
+Lys
+
+Proc. Natl. Acad. Sci. USA 86 (1989)
+
+(residues per molecule) of tryptic peptides obtained from the abnormal
+T2-3 T2C-3
+T5
+T6
+T7
+T8
+T9N
+T9
+T10
+2.3
+2.2
+1.4
+0.7
+1.5
+0.8
+4.0
+4.1
+2.2
+3.8
+1.6
+2.9
+8.6
+10.0
+4.8
+1.8
+0.4
+0.9
+1.8
+2.1
+0.9
+2.8
+2.7
+3.2
+3.1
+1.2
+2.2
+3.4
+2.9
+6.6
+2.3
+1.1
+1.8
+1.0
+1.1
+0.7
+1.9
+2.0
+1.4
+1.1
+1.1
+1.3
+0.5
+1.2
+1.4
+2.0
+1.0
+1.0
+2.0
+2.0
+1.2
+7.1
+1.4
+1.1
+1.9
+4.1
+5.0
+4.9
+4.9
+3.1
+2.0
+1.0
+1.1
+2.2
+2.0
+2.5
+3.1
+2.3
+1.0
+0.9
+1.0
+1.3
+1.1
+3.3
+2.0
+0.7
+1.1
+2.2
+2.5
+2.3
+2.1
+0.6
+0.3
+0.5
+0.6
+1.4
+3.2
+1.2
+1.6
+1.2
+1.2
+2.0
+4.2
+2.1
+0.5
+1.4
+5.1
+3.3
+0.8
+4.1
+4.6
+2.1
+4.5
+5.4
+1.3
+1.0
+3.6
+3.9
+1.3
+ND
+ND
+ND
+
+GaINH2
+Total
+
+8321
+
+3-XII
+T10C
+2.9
+4.3
+1.2
+4.5
+
+T12'
+1.2
+1.3
+2.7
+3.8
+
+T13-14
+2.2
+0.3
+
+1.0
+1.0
+3.8
+1.0
+
+1.3
+0.9
+
+1.0
+1.0
+2.4
+1.0
+2.7
+2.1
+0.3
+
+T15
+1.0
+1.0
+
+1.0
+1.1
+
+1.0
+3.1
+0.3
+2.1
+1.2
+
+1.0
+
+1.1
+
+Q0
+1.9
+2.2
+
+1.1
+1.2
+
+ND
+
+ND
+0.7
+
+16
+559
+
+17
+575
+
++
+
+8
+354
+
+36
+363
+
+50
+363
+
+19
+394
+
+13
+414
+
+3
+427
+
+18
+430
+
+27
+448
+
+33
+475
+
+38
+475
+
+45
+513
+
+30
+528
+
+5
+592
+
+Position*
+507
+557
+557
+426 429 447 474
+596
+362 398
+412
+412
+574
+591
+512
+Amount analyzed,
+55
+625
+75
+350
+294 693 189
+866
+84
+625
+236
+pmol
+73
+116
+58
+193
+PECys, S-Pyridylethylcysteine; ND, not determined; GalNH2, galactosamine.
+*Positions of each tryptic peptide from the abnormal -XII correspond to those taken from the amino acid sequence (6, 7). Peptide T12' was
+identified as an aberrant peptide derived from the abnormal ,3-XII.
+
+not yield S-pyridylethylcysteine, indicating that Cys-540
+must be a mixed disulfide form (data not shown).
+Among the tryptic peptides isolated from normal and
+abnormal 13-XII, three peptides-T7, T2-3, and T10contained the functionally important residues Asp-102, His57, Ser-195, Asp-189, and Asp-194 of a-chymotrypsin. Of
+these residues, the aspartate residue (Asp-102) in peptide T7
+was identified by the direct Edman degradation method.
+Peptide T2-3, the peptide containing the active-site histidine
+Table 2. Amino acid sequence of aberrant peptide T12' derived
+from pyridylethylated abnormal t3-XII
+Peptide T12'
+375 pmol of
+750 pmol of
+
+peptide
+Cycle Position
+
+>PhNCS
+amino
+acid
+Leu
+Thr
+Leu
+Gln
+
+pmol
+1
+559
+163.2
+2
+560
+58.2
+3
+561
+208.9
+4
+44.1
+562
+5
+563
+60.9
+Gly
+6
+564
+Ile
+120.8
+175.5
+7
+565
+Ile
+20.7
+8
+566
+Ser
+9
+567
+53.9
+Trp
+39.8
+10
+568
+Gly
+11
+Ser
+14.6
+569
+12
+570
+29.7
+Gly
+13
+571
+13.9
+Ser
+14
+572
+18.6
+Gly
+15
+9.2
+573
+Asp
+16
+574
+ND
+Arg
+ND, not quantitatively determined.
+
+peptide
+>PhNCS
+amino
+acid
+pmol
+Leu
+267.7
+Thr
+178.4
+Leu
+315.4
+175.4
+Gln
+202.8
+Gly
+Ile
+162.6
+Ile
+195.7
+Ser
+71.1
+32.8
+Trp
+83.7
+Gly
+Ser
+36.2
+66.5
+Gly
+27.0
+Ser
+53.4
+Gly
+27.7
+Asp
+ND
+Arg
+
+Normal
+peptide
+Leu
+Thr
+Leu
+Gln
+
+Gly
+Ile
+Ile
+Ser
+Trp
+
+Gly
+Ser
+
+Gly
+
+Cy,
+Gly
+Asp
+Arg
+
+residue (His-57) and consisting of 50 amino acid residues, was
+digested further with a-chymotrypsin, and the resulting peptides were separated by HPLC. The histidine residue (His-57)
+in one of these peptides was identified as >PhNCS-His.
+Peptide T10, containing the active-site serine residue (Ser195), the side-chain-binding site Asp-189 (in trypsin-like
+protease), and the NH2-terminal ion-pair-interacting residue
+Asp-194 and consisting of 45 amino acid residues, was
+digested with Staphylococcal V8 protease, and the resulting
+peptides were separated by HPLC. The serine residue (Ser195) and two aspartate residues (Asp-189 and Asp-194) were
+found in one of these peptides and identified by the direct
+Edman degradation method (data not shown). Thus, -47% of
+the entire amino acid sequences of the abnormal 83-XII
+molecule was confirmed by the Edman method.
+
+DISCUSSION
+
+Collectively, the data described thus far make it very unlikely
+that the molecular abnormality of factor XII Washington
+D.C. is due to replacement of any amino acid residues
+associated directly with the active-site catalytic triad or the
+substrate-binding pocket. Therefore, the replacement of cysteine by serine at position 571 from the NH2 terminus of
+abnormal factor XII appears responsible for the loss of
+catalytic activity. Because the genetic codon for Cys-571 has
+been determined as TGT (7-9, 20), we concluded that the
+patient's genomic DNA encoding for factor XII has a AGT or
+TCT nucleotide mutation.
+Cys-571 (equivalent to Cys-220 in chymotrypsin) is a highly
+conserved amino acid residue among serine proteases, including pancreatic enzymes, blood coagulation factors, fibrinolytic enzymes, and complement factors. A reasonable
+assumption from the disulfide location in other serine proteases is that a disulfide linkage between Cys-540 and Cys-571
+is formed in factor XII (5, 7). Based on the crystallographic
+data for a bovine trypsin-pancreatic trypsin inhibitor com-
+
+8322
+
+Biochemistry: Miyata et al.
+Factor)l Wwhhgton D.C.
+
+Norma Factor XI
+4F7
+
+47718~ CEDQAAERRLTL
+1
+
+G
+
+A. QiteD5 40 2
+
+-DA GD-
+
+FIG. 2. Comparison of the serine disulfide loop of normal factor
+XII with that of factor Xll Washington D.C. Cys-571 is replaced by
+serine in factor XII Washington D.C. The secondary substratebinding site Ser-Trp-Gly (SWG in one-letter code) is boxed. Cys-540
+may have been masked with a mixed disulfide form, such as cysteine
+or glutathione.
+
+plex (21), this disulfide bond is exposed on the surface, the
+so-called serine disulfide loop, and lies close to the specificity
+hole. Therefore, its integrity is probably important for enzyme activity. A comparison of the serine disulfide loop of
+normal factor XII with factor XII Washington D.C. is shown
+in Fig. 2. This serine disulfide loop contains the active-site
+serine residue (Ser-195) and residues Ser-214-Trp-215Gly-216. The peptide backbone of these residues is thought
+to interact with the side chains of the substrate to properly
+orient the bond that is to be cleaved (22, 23). Therefore, we
+propose that the Cys -* Ser substitution found in this factor
+XII variant destroys the formation of disulfide linkage between Cys-540 and Cys-571 and may form a mixed disulfide
+bond between Cys-540 and a cysteine residue or a glutathione, altering conformation of the active-site serine residue or the secondary substrate-binding site, which leads to
+loss of the enzyme activity.
+We are grateful to Dr. Kazuo Fujikawa, University of Washington,
+Seattle, for providing us with normal factor XII. We thank Chizuko
+Sueyoshi and Satsuki Kajiyama for performing amino acid analyses
+and Nobuko Ueno for typing this manuscript. This work was
+
+Proc. Natl. Acad. Sci. USA 86 (1989)
+supported by a Grant-in-Aid for Scientific Research from the Ministry of Education, Science and Culture of Japan, Uehara Memorial
+Foundation, and the Aichi Blood Disease Research Foundation.
+1. Ratnoff, 0. D. & Colopy, J. E. (1955) J. Clin. Invest. 34,
+602-613.
+2. Ratnoff, 0. D. & Saito, H. (1979) Curr. Top. Hematol. 2, 1-57.
+3. Cochrane, C. G. & Griffin, J. H. (1982) Adv. Immunol. 33,
+241-306.
+4. Colman, R. W. (1984) J. Clin. Invest. 73, 1249-1253.
+5. Fujikawa, K. & McMullen, B. A. (1983) J. Biol. Chem. 258,
+10924-10933.
+6. McMullen, B. A. & Fujikawa, K. (1985) J. Biol. Chem. 260,
+5328-5341.
+7. Cool, D. E., Edgell, C.-J. S., Louie, G. V., Zoller, M. J.,
+Brayer, G. D. & MacGillivray, R. T. A. (1985) J. Biol. Chem.
+260, 13666-13676.
+8. Que, B. G. & Davie, E. W. (1986) Biochemistry 25, 1525-1528.
+9. Tripodi, M., Citarella, F., Guida, S., Galeffi, P., Fantoni, A. &
+Cortese, R. (1986) Nucleic Acids Res. 14, 3146.
+10. Kirby, E. P. & McDevitt, P. J. (1983) Blood 61, 652-659.
+11. Fujikawa, K., Heimark, R. L., Kurachi, K. & Davie, E. W.
+(1980) Biochemistry 19, 1322-1330.
+12. Tans, G. & Griffin, J. H. (1982) Blood 59, 69-75.
+13. Saito, H., Scott, J. G., Movat, H. Z. & Scialla, S. J. (1979) J.
+Lab. Clin. Med. 94, 256-265.
+14. Saito, H. & Scialla, S. J. (1981) J. Clin. Invest. 68, 1028-1035.
+15. Berrettini, M., Lammle, B., Ciavarella, G. & Ciavarella, N.
+(1985) Thromb. Haemostasis 54, 120 (abstr.).
+16. Takahashi, 1. & Saito, H. (1988) J. Biochem. (Tokyo) 103,
+641-643.
+17. Hermodson, M. A., Ericsson, L. H., Neurath, H. & Walsh,
+K. A. (1973) Biochemistry 12, 3146-3153.
+18. Bidlingmeyer, B. A., Cohen, S. A. & Tarvin, T. S. (1984) J.
+Chromatogr. 336, 93-104.
+19. Hewick, R. M., Hunkapiller, M. W., Hood, L. E. & Dreyer,
+W. J. (1981) J. Biol. Chem. 256, 7990-7997.
+20. Cool, D. E. & MacGillivray, R. T. A. (1987) J. Biol. Chem.
+262, 13662-13673.
+21. Huber, R., Kukla, D., Bode, W., Schwager, P., Bartels, K.,
+Deisenhofer, J. & Steigemann, W. (1974) J. Mol. Biol. 89,
+73-101.
+22. Steitz, T. A., Henderson, R. & Blow, D. M. (1969) J. Mol.
+Biol. 46, 337-348.
+23. Segal, D. M., Powers, J. C., Cohen, G. H., Davies, D. R. &
+Wilcox, P. E. (1971) Biochemistry 10, 3728-3738.
+
+

@@ -1,0 +1,842 @@
+Proc. Natl. Acad. Sci. USA
+Vol. 89, pp. 2331-2335, March 1992
+Genetics
+
+Point mutations in the dystrophin gene
+ROLAND G. ROBERTS, MARTIN BOBROW, AND DAVID R. BENTLEY
+Paediatric Research Unit, Division of Medical and Molecular Genetics, United Medical and Dental Schools of Guy's and St. Thomas's, Guy's Campus,
+London SE1 9RT, United Kingdom
+
+Communicated by Renato Dulbecco, December 16, 1991
+
+The ability to identify mutations on a routine basis allows
+precise establishment of carrier status in affected families and
+permits accurate prenatal diagnosis. In families with no gross
+dystrophin gene rearrangement, diagnosis of carriers currently relies on linkage analysis. Due to the high mutation
+rate, the mutation has often originated within a living family
+member; hence relatives carrying a high-risk haplotype may
+not carry the mutation. Furthermore, recombination occurs
+within the dystrophin gene in up to 12% of meioses (9),
+necessitating the analysis of flanking markers. Direct diagnosis would not be subject to either of these problems.
+We have analyzed the entire coding sequence of the
+dystrophin gene from seven patients with DMD or intermediate muscular dystrophy (IMD). In each case one mutation
+is clearly sufficient to cause the disease. The approach we
+have used permits direct diagnosis to be extended to virtually
+any case of DMD and BMD and is applicable to many other
+complex tissue-specific genes.
+
+Derming the range of mutations in genes that
+ABSTRACT
+cause human disease is essential to determine the mechanisms
+of genetic variation and the function of gene domains and to
+perform precise carrier and prenatal diagnosis. The mutations
+in one-third of Duchenne muscular dystrophy patients remain
+unknown as they do not involve gross rearrangements of the
+dystrophin gene. The size and complexity of the gene have
+prohibited the systematic definition of point mutations. We
+have developed a method for the identification of these mutations by nested amplification, chemical mismatch detection,
+and sequencing of reverse transcripts of trace amounts of
+dystrophin mRNA from peripheral blood lymphocytes. Analysis of the entire coding region (11 kilobases) in seven patients
+has resulted in detection of a sequence change in each case that
+is clearly sufficient to cause the disease. All mutations should
+cause premature translational termination, and the resulting
+phenotypes are thus equivalent to those caused by frameshifting deletions. The results support a particular functional
+importance for the C-terminal region of dystrophin. Application of this approach to mutation detection will extend direct
+carrier and prenatal diagnosis to virtually every affected
+family.
+
+The spectrum of mutations that cause genetic disease exhibits
+unusual variation in some genes. Mutations in the dystrophin
+(1) and steroid sulfatase (2) loci, for example, are predominantly heterogeneous deletions, whereas mutations in anticoagulant factors VIII and IX are mostly point mutations (3).
+Analysis of the types of structural alteration that affect the
+structure, expression, stability, or function of the gene product can offer insight into the mechanisms by which such
+mutations arise and the mode of action of the normal gene and
+its encoded protein.
+Mutations in the human dystrophin gene are associated
+with common (1 in 3500 boys) X chromosome-linked muscular dystrophies of wide-ranging phenotype, from the mild
+Becker (BMD) form to the severe Duchenne (DMD) form.
+Because the disease frequency is maintained by recurrent
+mutation, many different mutants exist. Two-thirds of these
+mutations consist of large deletions (4), which have a nonrandom distribution, being clustered in two hotspots. In
+general (5), deletions resulting in a translational frameshift
+are generally associated with DMD, whereas those that may
+remove large portions of the protein but maintain the reading
+frame are associated with BMD (6). The remaining one-third
+of mutations have not been characterized. Their identification represents a formidable challenge because of the large
+size and complexity of the dystrophin gene [11 kilobases (kb)
+of coding sequence (7) distributed between 79 exons (R.G.R.,
+A. J. Coffey, M.B., and D.R.B., unpublished data) across 2.3
+megabases of genome (4)]. To date only one point mutation
+has been reported (8), where immunological analysis of
+truncated dystrophin from muscle biopsy material allowed
+prior localization of the mutation.
+
+MATERIALS AND METHODS
+Patients. Patients with DMD or IMD were selected solely
+on the basis that no deletion was detected by a multiplex PCR
+(10), which is capable of identifying 98% of deletions. Phenotypes are indicated at the right of Fig. 3 (MR, mental
+retardation), in the format "diagnosis, age of diagnosis/age of
+confinement to wheelchair/current age (years)" (-, still
+mobile). Patient 2 only became wheelchair-bound at the age
+of 14 years, 3 months, whereas patient 7 is still able to walk
+two miles at the age of 10 years. Results of muscle dystrophin
+analysis were available in two cases. No dystrophin was
+detected in muscle biopsy from patient 5 with polyclonal
+antiserum P6 (T. G. Sherratt and P. N. Strong, personal
+communication) (raised against amino acids 2814-3028) or
+from patient 4 with monoclonal antibody Dy4/6D3 (G. Dickson, personal communication) (raised against a murine polypeptide corresponding to amino acids 1164-1397) (11).
+Reverse Transcription (RT) and Nested PCR. Total RNA
+was prepared from peripheral blood lymphocytes (12). Samples (200-500 ng) of total lymphocyte RNA were reversetranscribed using primer DMDXb (X = 1-11; primer nomenclature below). A PCR mix containing primers DMDXa and
+DMDXb was added to the products and 30 cycles of PCR
+(13-16) were performed. Two microliters of the products was
+added to a second mix containing primer DMDXc or DMDXe
+and primer DMDXd or DMDXf, and PCR was repeated (17).
+Eight microliters of the final product was electrophoresed in
+a 4% polyacrylamide minigel containing ethidium bromide.
+Products were gel-purified from 4% polyacrylamide minigels
+using DEAE membrane. Primers [nomenclature: X, reaction
+1-11; DMDXa and DMDXb (outer set), 5' and 3', respectively; DMDXc and DMDXd (inner set), 5' and 3', respectively; DMDXe, 5' inner primer for reaction Xb; DMDXf, 3'
+inner primer for reaction Xa] were as in ref. 15 except for the
+
+The publication costs of this article were defrayed in part by page charge
+payment. This article must therefore be hereby marked "advertisement"
+in accordance with 18 U.S.C. §1734 solely to indicate this fact.
+
+Abbreviations: DMD, Duchenne muscular dystrophy; BMD, Becker
+muscular dystrophy; IMD, intermediate muscular dystrophy; RT,
+reverse transcription; nt, nucleotide(s).
+2331
+
+2332
+
+Genetics: Roberts
+
+et
+
+al.
+
+Proc. Natl. Acad. Sci. USA 89 (1992)
+
+promoter reaction (18) and the following: DMD1d, DMD7a
+and DMD7d, DMD8d, DMD10d-DMD10f, DMDSe and
+DMD5f, DMD11a-DMD11d (sequences available on request).
+Characterization of Mutations. For each mismatch reaction, a probe was amplified from cloned cDNA (1, 19) using
+the same primers as were used for secondary PCR. The probe
+was labeled using T4 polynucleotide kinase and [y-32PIATP
+and was hybridized to gel-purified products from the nested
+RT-PCR. The hybrid mixture was then divided into two and
+subjected to chemical modification of mismatched pyrimidine residues (20, 21) with osmium tetroxide (1 mM osmium
+tetroxide/370 mM pyridine, 370C for 2 hr) and with hydroxylamine (2.3 M hydroxylamine hydrochloride/1.67 M diethylamine, 370C for 2 hr). The DNA was cleaved adjacent to
+modified residues with 1 M piperidine at 90'C for 30 min.
+Products were electrophoresed in a denaturing 5% polyacrylamide gel and autoradiographed. Direct sequencing (22, 23)
+of regions identified by chemical mismatch detection was
+performed using PCR primers or internal oligonucleotides
+(sequences available on request).
+Determination of Intron Sequence. In instances where mutations lay near the ends of exons or in introns, intron
+sequences were required for amplification of genomic DNA.
+These were determined by sequence analysis of vectorette
+PCR products (24) derived from yeast artificial chromosome
+clones containing parts of the dystrophin gene (25) using
+exon-specific primers (R.G.R., A. J. Coffey, M.B., and
+D.R.B., unpublished data).
+
+date deleterious mutations were confirmed by direct sequencing or restriction analysis of amplified genomic DNA
+(Fig. 2B).
+Sequence Differences in the Dystrophin Gene. Fourteen
+distinct sequence changes were identified (Fig. 3B). Point
+mutations generating in-frame termination codons were
+found in four patients (patient 1; patient 2, Fig. 2A; patient 3;
+patient 5, Fig. 1B). Two of these changes (in patients 3 and
+5) are C -- T transitions in CpG dinucleotides. For example,
+mismatch analysis of reaction 10a with either osmium tetroxide or hydroxylamine in patient 5 resulted in the appearance
+of a 342-nt band (Fig. 1B). Direct sequencing revealed a C -T change at nucleotide 10316 in the cDNA sequence, which
+converts codon 3370 from an arginine codon to a termination
+codon (Fig. 3B). Similarly, mismatch analysis of reaction 9 in
+patient 3 using hydroxylamine resulted in the appearance of
+a band of 374 nt. Direct sequencing revealed a C -- T
+transition at nucleotide 9152, which converts codon 2982
+from arginine to a termination codon. In patient 7 a band of
+238 nt was detected in reaction lOb (Fig. 1B). This corresponded to deletion of the single nucleotide T10662, resulting
+in a frameshift mutation that should cause premature termination of translation 10 amino acids after Pro3484 (Fig. 2C).
+In patients 4 (Fig. 1A) and 6 the mutations were betrayed
+by aberrantly sized PCR products. The respective missing
+sequences were found by PCR to be absent from the genome
+of patient 6 (exons 73-76; nucleotides 10537-11129) but
+present in that of patient 4. Intron sequences adjacent to the
+exon missing from the transcript of patient 4 (exon 68;
+nucleotides 10016-10182) were determined by analysis of
+vectorette PCR products derived from yeast artificial chromosome clone 10-1 [which contains exons encoding the 3' 5.5
+kb of the transcript (25)]. Using primers specific for the intron
+sequences, the boundaries of the exon were amplified from
+patient 4 and the splice signals were sequenced. The acceptor
+site and branch site were intact, but the donor site GT was
+mutated to GA (Fig. 2B). This result supports the "exon
+definition" model (26, 27), in which mutation of a donor site
+in the absence of nearby "cryptic" donor sites is expected to
+
+RESULTS
+Amplification products from reverse-transcribed RNA (Fig.
+1A) or genomic DNA were screened for sequence differences
+from normal cDNA (7, 19) using chemical mismatch detection (20, 21) (Fig. 1B). In each case, the size of the chemical
+cleavage product indicated the approximate position of the
+mismatch. Changes were characterized by sequencing the
+amplified RT-PCR products (7, 19) (Fig. 2 A and C). Candi-
+
+b
+
+(]
+
+Chemricl:
+
+%0
+
+N 2.
+
+4
+
+(Th-1
+J
+
+Y
+
+<
+>
+
+0
+z
+
+aL<
+
+Reaction1nI
+s
+7
+
+PCtiert:
+
+0b
+
+7
+
+--
+
+Z_-
+
+1 i) C..,
+
+r-]
+
+*.
+f
+
+I
+
+->
+
+ntact 1U --->
+
+(840i
+
+nt!
+
+intact 4c
+
+-.,.
+2 F
+....;
+
+(507
+
+Dp
+,
+
+)
+
+->
+
+-':
+
+_.-
+
+C10316T i--(342 nt)
+
+T10662-
+
+>
+
+(238 nt)
+FIG. 1. (A) Products of nested RT-PCR spanning nucleotides 9517-10469 from patient 4 and an individual with a wild-type donor site. bp,
+Base pairs. (B) Mismatch analysis of 10a and 10b products from patients 5 and 7. The band sizes pinpoint areas for direct sequencing. nt,
+Nucleotides.
+
+*_.d<~ 4X~ ~ T SeG W~ ~ C~
+
+Genetics: Roberts et al.
+
+Proc. Natl. Acad. Sci. USA 89 (1992)
+
+--~
+~
+~~
+- ~'
+
+C
+
+_
+
+2333
+
+Le u
+
+-0G
+
+Gin
+
+L-t 7
+
+IGA
+
+T
+
+Normal
+
+V~~~~\
+~~~T
+
+he
+
+CG A T C AX
+
+0
+
+_
+....5
+..
+t
+Ile
+.....
+
+m
+
+AJ
+
+iJLys
+
+~~~~~~~~~~~5'
+
+-::
+
+e
+
+ArgSe
+Ser
+
+A T C
+
+Ad
+
+/t
+
+Splice Donor
+
+/~~~~Arq)
+
+oft
+
+~
+
+Ala
+
+F lAdC-
+
+Arg
+
+G
+
+--C
+,
+
+.
+
+ar
+
+Pro
+
+c
+
+'4
+
+A~~~TCE le LLe
+AGO~~~~
+C
+P
+
+1
+
+Phe
+
+T
+
+-T
+
+-
+
+z
+
+c
+
+9
+
+"-I.
+
+An
+
+b
+
+L
+
+-I
+
+:1
+
+-\ ~
+
+(15 op)
+
+Norm:
+a!
+
+-
+
+A
+
+ATe
+
+.
+
+5'
+
+C;jG5
+
+ly
+
+5'
+
+FIG. 2. (A) Direct sequence analysis of a region -240 bp from the end of reaction 5b from patient 2, which was indicated by mismatch analysis
+to differ from the wild-type sequence. The sequence shows a C -- T change 233 bp from the 5' end of 5b. Codons 1848-1853 of the normal
+sequence are presented. (B) Sequence of the boundary between exon 68 and intron 68, amplified from the genomic DNA of patient 4. The donor
+splice site is mutated, resulting in omission of exon 68 from the mRNA (Fig. 1A). (C) Sequence of a region -240 bp from the end of reaction
+10b of patient 7 corresponding to the mismatch band in Fig. 1B. The deletion of a T residue in codon 3485 shifts the translational reading frame
+to give a novel sequence of 11 amino acids followed by translational termination.
+
+cause exon skipping. The loss of sequence from the transcripts causes frameshifts in both patients. Thus premature
+termination of translation is expected to occur in all seven
+cases.
+Several changes appeared repeatedly and thus represent
+
+polymorphisms (Arg1745 -* His, Lys2366-* Gln, Asn2576 -)
+Asn)-the first two have been reported previously as sequence differences between two cDNA clones (28); the third
+reported in ref. 15. Lys2366 -* Gln is found in 26% of
+chromosomes (29). Gly882-- Asp, Ser,007-- Ser, Thr1245 -*
+Ile, and Glu2585 -* Glu appear once only. These are likely to
+be rare neutral variants, as they occupy positions that are
+poorly conserved between species (30) and between repeats
+in the same species (31).
+Alternative Splicing May Moderate the Severe Phenotype.
+Fig. 4 shows products of reaction Sb from patient 2 and from
+a normal sample. The predominant product in the normal
+sample (360 bp) includes exons 38 and 39. There are three
+products from patient 2. The faint middle band (360 bp)
+corresponds to a product that includes exon 38 and a copy of
+exon 39 containing the mutation Gln1851 -s Term. Sequence
+analysis of the predominant smaller band (222 bp) shows that
+it lacks exon 39 (nucleotides 5657-5794, amino acids 18171862). Loss of this exon thus eliminates the nonsense mutation from this alternatively spliced transcript, while the
+reading frame is maintained. A very small proportion of
+alternatively spliced transcript was observed in normal samples. The highest band was found to be an anomalously
+migrating heteroduplex molecule, commonly observed in the
+presence of mixtures of related products that differ in length.
+Patient 2 has an unexpectedly mild phenotype in view of
+the position of the termination codon in this case. The
+alternatively spliced transcript that is found in lymphocytes
+would encode a polypeptide with a small interstitial deletion.
+If this transcript (analogous to that found in BMD patients
+was
+
+with in-frame deletions) is present in his muscle tissue it
+would account for his milder phenotype.
+Direct Diagnosis. Sequence from intron 21 was determined
+using a vectorette PCR product from yeast artificial chromosome clone 21-1 (25). Genomic DNA samples from relatives
+of patient 1 were amplified using primers specific for exon 21
+and intron 21. The products were gel purified and sequenced
+on the antisense strand using A and C reactions only (Fig. 5).
+The mutant sequence (A) is present in the patient (track 6A)
+and his mother (track SA), in conjunction with the wild-type
+sequence (track 5C), whereas the grandmother (tracks 4A,
+4C) and other family members have the wild-type sequence
+(C) alone. This defines the origin of mutation. Individual 1,
+who has inherited the same maternal haplotype as individual
+5 and had consequently been assigned a high carrier risk,
+does not have this mutation on the basis of direct diagnosis.
+
+DISCUSSION
+Dystrophin is a large protein with homology to the a-actinin
+and a-spectrin families (7). Although its precise function is
+unknown, a number of results (31-33) have suggested that
+rod-like dystrophin homodimers may form a flexible hexagonal lattice that is attached to the inner surface of the muscle
+plasma membrane via associations with other proteins. In
+this study, one mutation was found in each patient that leads
+to premature translation termination and is therefore presumed to have caused the disease. Together with the evidence from deletions and the mutation reported by Bulman et
+al. (8) (Glu157 -- Term), the results indicate that serious
+disruption of dystrophin function is generally achieved by
+truncation.
+The mutations reported here result in loss of progressively
+smaller segments of the C terminus. The severe phenotype of
+patient 6 demonstrates that loss of the C-terminal 242 amino
+acids of dystrophin is critical to function and/or stability. The
+
+2334
+
+!~ ~ .
+
+Proc. Natl. Acad. Sci. USA 89 (1992)
+
+Genetics: Roberts et al.
+
+a
+
+b
+
+I
+
+..;. l:::: |:|::::
+....... :-:: |::: i::: ::|:: :
+a:
+:::::::::::::: ::::::
+
+-. Ai31..
+
+,
+
+..
+...:
+
+.,. ...
+
+VvA
+
+*i
+
+;.
+
+,,
+
+..
+
+.-" '. .'.'
+
+;::::::: :::::::
+
+,-7.
+
+::.
+
+.
+
+V.
+
+::::: :::::
+
+1.1,1:1.1.1.1.%.?.,....
+
+.........
+
+-.1
+
+*
+
+7..
+
+::
+
+.7
+
+.""'
+
+`
+
+;rr:t
+
+I.
+
+L'
+
+.....................
+
+...
+.!cl:..,",...:.:"..:.,...i....:.7.f"...,...:"".,.:.,..7.:.,.,.t..
+
+........
+
+. . .' .L'
+
+-
+
+.-
+
+......................
+
+......................
+%"
+L,'.........L.... I.L......................L...............
+
+1.
+
+:..
+
+..
+
+-.I . . . L-
+
+::
+
+,.
+
+....L......,..L...........
+
+....
+...... .. ........
+...........
+I.,...-
+
+.L- L.
+...
+
+..
+.1.1.1.L...':'.-.'...'.-'.l.,....
+...
+..L...........'
+
+7:..
+
+...................
+
+.;.,'..
+
+,
+
+..
+
+.... ..
+
+ji
+
+I........"
+
+.: :. ; -
+
+L..............'.'.'.'.'.'.'.......'.':':':.:';.:.:.:.L,:.:.:.:.:.!_:.:.:.:_:,L.
+
+n'. %:-,
+1.1.....-..-.-...-.......-.,
+
+:: :::.:.
+
+...:.
+
+FIG. 3. (a) Diagram of dystrophin transcript. Shaded boxes represent untranslated regions. Open boxes represent regions translated into
+protein domains (N-TER, a-actinin-like N-terminal domain; H, proline-rich hinge regions; 1-24, spectrin-related repeat domains; CYS,
+cysteine-rich domain homologous to C-terminal domain of a-actinin; C-TER, C-terminal domain, unique to dystrophin). The lines below
+designate the extent of each RT-PCR reaction. (b) Summary of results of chemical mismatch analysis and direct sequencing (Pt, patient). Bold
+vertical bars indicate changes detected by chemical mismatch. Beneath each bar is the effect of the change on amino acid sequence (the wild-type
+residue in three-letter notation, its position, and the residue predicted in the patient. Term, termination codon; fs, frameshift), with the nature
+of the nucleotide change in brackets. The extent of the predicted protein product is represented by the shaded bars. The stippled bar in patient
+2 (Pt 2) indicates the full-length product translated from the fraction of transcripts that lack exon 39. Phenotypes are indicated to the right of
+the diagram (see Materials and Methods).
+
+phenotype of patient 7 is somewhat milder. His protein
+should lack only the last 201 amino acids (less than half of the
+C-terminal domain). This suggests that the region defined by
+the structural difference between the truncated dystrophin
+proteins of patients 6 and 7-i.e., amino acids 3444-3485-is
+of functional importance.
+Diagnosis of the one-third of DMD cases without deletions
+has hitherto only been possible using linked restriction fragment length polymorphisms. This indirect approach suffers
+the risk of misdiagnosis as a result of the high degree of
+crossover observed in the dystrophin gene (11) and is not
+applicable to isolated cases. Detection of mutations by the
+approach described here enables efficient (one person-week
+
+per patient) establishment of the appropriate assay in each
+family for direct carrier and prenatal diagnosis. An example
+
+I
+
+1
+
+11
+
+z
+
+l:
+
+..
+
+*
+
+.,
+
+-1
+
+_
+
+_
+
+)I
+
+ICid.
+
+.:
+
+_
+
+-
+
+FIG. 4. Amplification products of reaction 5b from patient 2 and
+a normal sample. Structures of mRNAs are shown schematically
+beside the gel (exons numbered 37-40; solid boxes, regions of open
+reading frame amplified; stippled boxes, frameshifted region; filled
+circle, termination codon).
+
+>,
+
+4W
+
+<
+4
+
+1
+
+FIG. 5. Analysis of the inheritance of the mutation Glu931 -I Term
+in the family of patient 1. Haplotypes at the DMD locus are
+represented by vertical bars under the pedigree. The arrowheads
+indicate the position of the mutation.
+
+Genetics: Roberts
+
+et
+
+al.
+
+is shown in Fig. 4, in which the carrier status of the patient's
+mother (positive status) and aunt (negative status) of the
+patient was established conclusively. This strategy permits
+direct diagnosis of virtually every case of DMD and BMD.
+This approach permits scanning of the complete coding
+sequence of a complex tissue-specific gene for a comprehensive range of mutations, including coding sequence changes,
+splice site mutations, and gross gene rearrangements, using
+a venous blood sample as its starting material. The use of
+mismatch detection to detect point mutations in amplified
+products of ectopic transcripts can also be applied to other
+diseases, as has been shown for example in hemophilia A (34)
+and Hunter syndrome (R. H. Flomen, P. M. Green, D.R.B.,
+F. Giannelli, and E. P. Green, unpublished data). Although
+its application to autosomal disorders may be complicated by
+the additional presence of a normal gene, there is evidence
+that ectopic dystrophin transcripts in female lymphocytes
+originate from both copies of the gene (ref. 14; R.G.R.,
+unpublished results) and that chemical mismatch analysis can
+easily detect mutations in a heterozygous state (e.g., ref. 35).
+The full-length cDNA was a generous gift from Dr. G. Dickson,
+Department of Experimental Pathology, Guy's Hospital. We thank
+Ms. E. Manners for her help in compilation of clinical data. We are
+greatly indebted to Prof. V. Dubowitz and Dr. J. Heckmatt, Department of Paediatrics and Neonatal Medicine at the Hammersmith
+Hospital, and to Drs. A. C. Berry, S. Hodgson, and S. Robb and Ms.
+T. F. M. Barby, Guy's Hospital, for clinical samples. This work was
+supported by the Medical Research Council, the Generation Trust,
+the Muscular Dystrophy Group of Great Britain and Northern
+Ireland, and the Spastics Society.
+1. Koenig, M., Hoffman, E. P., Bertelson, C. J., Monaco, A. P.,
+Feener, C. & Kunkel, L. M. (1987) Cell 50, 509-517.
+2. Yen, P. H., Allen, E., Marsh, B., Mohandas, T., Wang, N.,
+Taggart, R. T. & Shapiro, L. J. (1987) Cell 49, 443-454.
+3. Green, P. M., Montandon, A. J., Bentley, D. R. & Giannelli,
+F. (1991) Blood Coagulation Fibrinolysis 2, 539-565.
+4. den Dunnen, J. T., Grootscholten, P. M., Bakker, E.,
+Blonden, L. A. J., Ginjaar, H. B., Wapenaar, M. C., van Passen, H. M. B., van Broeckhoven, C., Pearson, P. & van
+Ommen, G. J. B. (1989) Am. J. Hum. Genet. 45, 835-847.
+5. Monaco, A. P., Bertelson, C. J., Liechti-Gallati, S., Moser, H.
+& Kunkel, L. M. (1988) Genomics 2, 90-95.
+6. England, S. B., Nicholson, L. V. B., Johnson, M. A., Forrest,
+S. M., Love, D. R., Zubrzycka-Gaarn, E. E., Bulman, D. E.,
+Harris, J. B. & Davies, K. E. (1990) Nature (London) 343,
+180-182.
+7. Koenig, M., Monaco, A. P. & Kunkel, L. M. (1988) Cell 53,
+219-228.
+8. Bulman, D. E., Gangopadhyay, S. B., Bebchuck, K. G., Worton, R. G. & Ray, P. N. (1991) Genomics 10, 457-460.
+9. Abbs, S., Roberts, R. G., Mathew, C. G., Bentley, D. R. &
+Bobrow, M. (1990) Genomics 7, 602-606.
+
+Proc. Natl. Acad. Sci. USA 89 (1992)
+
+2335
+
+10. Abbs, S., Yau, S. C., Clark, S., Mathew, C. G. & Bobrow, M.
+(1991) J. Med. Genet. 28, 304-311.
+11. Nicholson, L. V. B., Davison, K., Falkous, G., Harwood, C.,
+O'Donnell, E., Slater, C. R. & Harris, J. B. (1989) J. Neurol.
+Sci. 94, 125-136.
+12. Chomczynski, P. & Sacchi, N. (1987) Anal. Biochem. 162,
+156-159.
+13. Saiki, R. K., Gelfand, D. H., Stoffel, S., Sharf, S. J., Higuchi,
+R., Horn, G. T., Mullis, K. B. & Erlich, H. A. (1988) Science
+239, 487-491.
+14. Roberts, R. G., Bentley, D. R., Barby, T. F. M., Manners, E.
+& Bobrow, M. (1990) Lancet 336, 1523-1526.
+15. Roberts, R. G., Barby, T. F. M., Manners, E., Bobrow, M. &
+Bentley, D. R. (1991) Am. J. Hum. Genet. 49, 298-310.
+16. Chelly, J., Kaplan, J. C., Maire, P., Gautron, S. & Kahn, A.
+(1988) Nature (London) 333, 858-860.
+17. Holding, C. & Monk, M. (1989) Lancet iH, 532-535.
+18. Beggs, A. H., Koenig, M., Boyce, F. M. & Kunkel, L. M.
+(1990) Hum. Genet. 86, 45-48.
+19. Dickson, G., Love, D. R., Davies, K. E., Wells, K. E., Piper,
+T. A. & Walsh, F. S. (1991) Hum. Genet. 88, 53-58.
+20. Montandon, A. J., Green, P. M., Giannelli, F. & Bentley,
+D. R. (1989) Nucleic Acids Res. 17, 3347-3358.
+21. Cotton, R. G. H., Rodrigues, N. R. & Campbell, R. D. (1988)
+Proc. Natl. Acad. Sci. USA 85, 4397-4401.
+22. Green, P. M., Bentley, D. R., Mibashan, R. S., Nilsson, I. M.
+& Giannelli, F. (1989) EMBO J. 8, 1067-1072.
+23. Winship, P. R. (1989) Nucleic Acids Res. 17, 1266.
+24. Riley, J., Butler, R., Ogilvie, D., Finniear, R., Jenner, D.,
+Powell, S., Anand, R., Smith, J. C. & Markham, A. F. (1990)
+Nucleic Acids Res. 18, 2887-2890.
+25. Coffey, A. J., Roberts, R. G., Green, E. D., Cole, C. G.,
+Butler, R., Anand, R., Giannelli, F. & Bentley, D. R. (1992)
+Genomics, in press.
+26. Robberson, B. L., Cote, G. J. & Berget, S. M. (1990) Mol.
+Cell. Biol. 10, 84-94.
+27. Carstens, R. P., Fenton, W. A. & Rosenberg, L. R. (1991) Am.
+J. Hum. Genet. 48, 1105-1114.
+28. Rosenthal, A., Speer, A., Billwitz, H., Cross, G. S., Forrest,
+S. M. & Davies, K. E. (1989) Nucleic Acids Res. 17, 5391.
+29. Yau, S. C., Roberts, R. G., Bentley, D. R., Mathew, C. G. &
+Bobrow, M. (1991) Nucleic Acids Res. 19, 5803.
+30. Lemaire, C., Heilig, R. & Mandel, J. L. (1988) EMBO J. 7,
+
+4157-4162.
+31. Koenig, M. & Kunkel, L. M. (1990) J. Biol. Chem. 265f,
+
+4560-4566.
+
+32. Zubrzycka-Gaarn, E. E., Bulman, D. E., Karpati, G.,
+Burghes, A. H. M., Belfall, B., Klamut, H. J., Talbot, J.,
+Hodges, R. S., Ray, P. N. & Worton, R. G. (1988) Nature
+(London) 333, 466-469.
+33. Campbell, K. P. & Kahl, S. D. (1989) Nature (London) 338,
+259-262.
+34. Naylor, J. A., Green, P. M., Montandon, A. J., Rizza, C. R. &
+Giannelli, F. (1991) Lancet 337, 635-639.
+35. Montandon, A. J., Green, P. M., Bentley, D. R., Ljung, R.,
+Nilsson, I. M. & Giannelli, F. (1990) Hum. Genet. 85, 200-204.
+
+

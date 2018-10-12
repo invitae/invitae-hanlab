@@ -1,0 +1,1075 @@
+different US markers. It is most likely that the different markers in the two U5
+sequences were generated from mismatch repair of one of the LTR's. However, it
+is not clear which pathway generated this recombinant provirus.
+27. Fisher's exact test was calculated with 21 recombinants. The recombinant with two
+different markers in the US was not induded because it is not dear which type of
+minus strand transfer was used. Calculation including this sample was also
+performed, and the result indicated the distribution still is not random.
+28. H. M. Temin, Trends Genet., in press.
+29. We thank Rebecca Wisniewski, Bonnie Fritz, and Kevin Krebsbach for technical
+assistance; N. Drinkwater, W. Sugden, and M. Susman for critical reading of the
+manuscript; M. Hannink, K. Iwasaki, V. Pathak, and G. Pulsinelli for discussion
+and helpful comments. Supported by Public Health Service grants CA-22443 and
+CA-07175 from the National Cancer Institute; a postdoctoral fellowship from the
+American Cancer Society (W.-S.H.); and an American Cancer Society Research
+Professorship (H.M.T.)
+13 June 1990; accepted 19 September 1990
+
+Germ Line p53 Mutations in a Familial
+Syndrome of Breast Cancer, Sarcomas,
+and Other Neoplasms
+DAVID MALKIN, FREDERICK P. Li, LouISE C. STRONG, JOSEPH F. FRAUMENI, JR.,
+CAMILLE E. NELSON, DAVID H. KIM, JAYNE KASSEL, MAGDALENA A. GRYKA,
+FARIDEH Z. BISCHOFF, MICHAEL A. TAINSKY, STEPHEN H. FRIEND*
+
+Familial cancer syndromes have helped to define the role
+of tumor suppressor genes in the development of cancer.
+The dominantly inherited Li-Fraumeni syndrome (LFS)
+is of particular interest because of the diversity of childhood and adult tumors that occur in affected individuals.
+The rarity and high mortality of LFS precluded formal
+linkage analysis. The alternative approach was to select
+the most plausible candidate gene. The tumor suppressor
+gene, p53, was studied because of previous indications
+that this gene is inactivated in the sporadic (nonfamilial)
+forms of most cancers that are associated with LFS. Germ
+line p53 mutations have been detected in all five LFS
+families analyzed. These mutations do not produce
+amounts of mutant p53 protein expected to exert a
+trans-dominant loss of function effect on wild-type p53
+protein. The frequency of germ line p53 mutations can
+now be examined in additional families with LFS, and in
+other cancer patients and families with clinical features
+that might be attributed to the mutation.
+IN 1969, LI AND FRAUMENI REVIEWED MEDICAL RECORDS
+
+and death certificates of 648 childhood rhabdomyosarcoma
+patients and identified four families in which siblings or cousins
+had a childhood sarcoma (1). These four families also had striking
+histories of breast cancer and other neoplasms, suggesting a new
+familial cancer syndrome of diverse tumors (Li-Fraumeni syndrome;
+LFS). Recently completed prospective studies have confirmed the
+30 NOVEMBER 1990
+
+high risk in family members of the tumor types that comprise LFS
+(2). Since the original description of the syndrome, systematic
+studies and anecdotal reports have confirmed its existence in various
+geographic and ethnic groups (3). The spectrum of cancers in the
+syndrome (Table 1) has been determined to include breast carcinomas, soft tissue sarcomas, brain tumors, osteosarcoma, leukemia,
+and adrenocortical carcinoma. Possible component tumors of LFS
+are melanoma, gonadal germ cell tumors, and carcinomas of the
+lung, pancreas, and prostate (4, 5). These diverse tumor types in
+family members characteristically develop at unusually early ages,
+and multiple primary tumors are frequent.
+To test the hypothesis that the Li-Fraumeni syndrome has a
+genetic etiology, Williams and Strong (5) applied segregation
+analysis and demonstrated that the observed cancer distribution in
+families best fit a rare autosomal dominant gene model. This model
+also predicted that the probability, for the families at risk, of
+developing any invasive cancer (excluding carcinomas of the skin)
+D. Malkin, C. E. Nclson, D. H. Kim, J. Kassel, M. A. Gryka, and S. H. Friend are in
+the Division of Molecular Genetics, Massachusetts General Hospital Cancer Center,
+MGH East, Charlestown MA 02129. F. P. Li and C. E. Nelson are in the Clinical
+Epidemiology Branch, Division of Cancer Etiology, NCI, NIH, Bethesda MD, 20892
+and in the Division of Biostatistics and Epidemiology, Dana-Farber Cancer Institute,
+Boston, MA, 02115. L. C. Strong is in the Division of Pediatrics, University of Texas
+M. D. Anderson Cancer Center, Houston, TX 77030. J. F. Fraumeni, Jr., is in the
+Epidemiology and Biostatistics Program, Division of Cancer Etiology, NCI, NIH,
+Bethesda MD, 20892. F. Z. Bischoff and M. A. Tainsky are in the Department of
+Tumor Biology, University of Texas M. D. Anderson Cancer Center, Houston TX,
+77030. S. H. Friend is also in the Division of Hematology-Oncology, The Children's
+Hospital, Dana-Farber Cancer Institute, Department of Pediatrics, Harvard Medical
+School, Boston MA, 02114.
+*To whom correspondence should be
+
+addressed.
+RESEARCH ARTICLES 1233
+
+Downloaded from www.sciencemag.org on June 14, 2012
+
+sequences. However, since the reversion rate in retroviral replication of such a 4-bp
+insertion is lower than 1l-7 per insertion (5), this explanation is unlikely. Different
+markers in the two U5 regions may also result from mismatch repair of either the
+5' US or the 3' U5 region. If the 5' U5 region experienced the repair and resulted
+in a different marker than the 3' US region, then the minus strand transfer had to
+be intermolecular (from WH204 RNA to WH13 RNA) to form the 3' LTR.
+Suppose the minus strand strong stop DNA synthesis of WH13 RNA never
+initiated. As a result uS and pbs were intact. Then it was possible for the minus
+strand DNA synthesis to continue and copy the US marker of WH13 (Bam HI).
+After completion of DNA synthesis and repair, the Bam HI marker remained in the
+5' U5 and resulted in different markers in the two US regions. It is also possible
+that the 3' US region was repaired to a different marker. Then the minus strand
+strong stop transfer had to be intramolecular (from WH13 to WH13) to result in
+the 5' WH13-likc LTR. Suppose a strand displacement event occurred at the end
+of the 3' LTR and formed a mismatch at the 3' US: the minus strand DNA
+contained a Barn HI site and the plus strand contained a Cla I site from the
+displaced fragment. After repair, the CIa I marker remained and resulted in the two
+
+FEMALE WTrH CANCER, DECEASED
+
+U
+
+MALE, NO CANCER
+
+5 PERSONS OF ErTHER SEX
+
+8
+
+11
+248
+
+GERMINE MUTATION AT
+OF ONE p53 ALLELE
+
+wt
+
+WLD-TYPE p53 ALLELE
+
+CODON
+
+14
+III
+
+248/-
+
+LOSS OF WLD ALLELE IN TUMOR
+
+248/wt
+
+248/vt
+
+FAMLY 1
+
+FAMLY 2
+
+Fig. 1. Abridged pedigrees of five
+families with Li-Fraumeni syn-
+
+(II-2, II-3,
+
+mutation
+
+at
+
+codon 248
+
+of
+
+2
+
+L
+
+3
+
+1
+1
+
+3
+
+1 o
+
+5
+
+one
+
+p53 allele (248/wt), whereas another blood relative and two
+spouses are wild type (wt/wt).
+1
+8
+One member each in family 2
+II
+(II-6), 3 (III-2), 4 (111-3), and
+family 5 (III-1) has a germ line
+245/vt
+mutation at one allele of codons
+245/258, 245, 248, and 252, respecFAMLY
+tively. Tumor specimens of the
+single cases in families 2 and 3 show loss of the remaining wild-type allele
+(258/- and 245/-, respectively). In family 1, II-2 developed unilateral breast
+carcinoma at age 30; 11-3, bilateral breast carcinoma at 28; III-1, soft tissue
+sarcoma at age 1 and osteosarcoma at age 8; and III-2, brain rumor at age 5.
+In family 2, 1-2 developed carcinoma of ampula of Vater at age 47 and
+bladder carcinoma at age 53; II-4, ovarian germ cell carcinoma at age 16;
+II-5, soft tissue sarcoma at age 21; II-6, unilateral breast carcinoma at age 34;
+III-3, osteosarcoma at age 20; III-4, brain tumor at age 16. In family 3, II-1,
+developed soft tissue sarcoma at age 58; III-1, osteosarcoma at age 11; and
+
+III-2, osteosarcoma at age 19. In family 4, I-1 developed bilateral breast
+carcinoma at age 68; I-2, melanoma at age 54; I-3, uterine carcinoma at age
+66; II-2, melanoma at age 45 and brain tumor at age 52; and III-3, soft tissue
+sarcoma at age 5 and osteosarcoma at age 21. In family 5, I-1, developed a
+brain tumor at age 26; II-2, bilateral breast carcinoma at age 27; II-3, brain
+tumor at age 38; III-1, soft tissue sarcoma at age 2, osteosarcoma at age 15,
+and unilateral breast carcinoma at age 32; III-3, osteosarcoma at age 22;
+III-4, leukemia at age 17, and osteosarcoma at age 18; and III-7, brain tumor
+at age 9.
+
+reaches almost 50 percent by age 30, when only 1 percent of the
+general population has developed cancer (6). More than 90 percent
+of the gene carriers would develop cancer by age 70. While the
+syndrome has thus been characterized statistically, identification of
+the gene and the mechanisms for the striking cancer predisposition
+has been elusive.
+Difficulties in cloning the LFS gene arose from a number of
+restrictions placed on traditional methods. The accumulation of
+informative tissue specimens and data has been hampered by the
+rarity of the syndrome, by the high mortality among affected
+individuals, and by lack of an unambiguous definition of the
+syndrome. In addition, the cancers in relatives without the gene
+often cannot be distinguished from cancers associated with the gene.
+Linkage studies and searches for constitutional karyotypic alterations in patients with LFS have failed to specify the chromosomal
+region on which to focus. Furthermore, these families do not have
+any precancerous conditions or associated malformation syndromes
+such as aniridia, which was useful in mapping the Wilms tumor gene
+(WT1) to chromosome 'lp3 (7). Because of these difficulties, we
+targeted potential candidate genes for study.
+The class of genes most strongly associated with familial tumors
+has been the tumor suppressor genes. The first tumor suppressor
+gene to be cloned, the retinoblastoma gene (Rb) (8), seemed an
+unlikely candidate for a germ line mutation in LFS because retinoblastoma has not been observed in these families. The second tumor
+suppressor gene to be recognized was p53, located on the short arm
+of chromosome 17, band p13 (9). Inactivating mutations of p53
+have been associated with sporadic osteosarcomas, soft tissue sarcomas, brain tumors, leukemias, and carcinomas of the lung and breast
+(10, 11). Together, these tumors also account for more than half of
+
+the cancers in selected series of LFS families. Furthermore, transgenic mice carrying a mutant p53 gene have an increased incidence
+of osteosarcomas, soft tissue sarcomas, adenocarcinomas ofthe lung,
+and adrenal and lymphoid tumors (12). These tumors all have been
+noted in families with LFS. We therefore decided to test whether
+families with LFS carry germ line p53 gene mutations.
+Germ line p53 gene mutations in LFS families. Skin biopsies
+were obtained from three affected and five unaffected relatives in
+family 1 (see Fig. 1). Their fibroblasts were grown in short-term
+culture, and DNA was extracted by standard techniques (13). The
+polymerase chain reaction (PCR) was used to amplify the genomic
+region encoding exons 5 through 8 of the p53 gene (14). This
+segment contains a majority of the conserved domains and most of
+the mutations found in sporadic tumors (10, 15). The primers used
+for amplification were designed to contain Eco RI sites at their 5'
+ends so that the 1685-bp amplified fragment could be subcloned for
+sequencing. Multiple primers were then used to sequence the entire
+genomic region on both strands (16). Each sequencing reaction was
+repeated on multiple clones. Three members in family 1 (II-1, II-4,
+and II-6) have the wild-type p53 sequence in six out of six clones
+(Table 2). These individuals are considered to carry two wild-type
+p53 alleles and have no evidence of tumors. DNA from separate
+clones representing the five other family members contained both
+wild-type p53, and p53 with a C to T mutation at the first
+nucleotide of codon 248. These individuals are considered to carry
+both a wild-type and a mutant p53 allele in their fibroblasts. Even
+though several polymorphisms have been identified in the p53 gene
+(17), none has been detected in the five conserved domains (10, 11,
+15, 18). These findings are derived from the sequencing of the p53
+gene in more than 150 samples of the DNA extracted from
+
+3
+
+1234
+
+1
+
+3
+
+2148/vt
+
+FAMLY 4
+
+252/vst
+
+FAMLY 5
+
+SCIENCE, VOL. 250
+
+Downloaded from www.sciencemag.org on June 14, 2012
+
+drome. Three affected
+
+III-2) and two unaffected (I-1,
+age 57; and III-5, age 5) members of family 1 have a germ line
+
+Table 1. Cancers in 43 families with Li-Fraumeni Syndrome (LFS), by
+tumor type and age at diagnosis. All families were ascertained through a
+proband with sarcoma, who is excluded from the tabulations.
+
+0-14
+
+Osteoscoma
+
+4
+8
+5
+0
+Possible component tumors of LFS
+7
+0
+Lung carcinoma
+0
+Prostate carcinoma
+0
+1
+0
+Pancreas carcinoma
+1
+0
+Melanoma
+Other tumors
+3
+1
+Colorectal carcinoma
+0
+5
+Lymphoma
+3
+0
+Stomach carcinoma
+5
+Other
+13
+All cancers
+50
+119
+*Only first cancer was counted in patients with multiple tumors.
+
+Leukemia
+Adrenocortical carcinoma
+
+AGCT AGCT
+
+A
+A)
+G
+
+G
+
+I KG
+fT
+
+240
+
+230
+
+t
+®260
+
+W250
+
+C
+
+T)
+
+C
+
+Familjy 4
+AG(CT AGCT
+
+G
+TG
+C
+
+All ages
+
+11
+4
+1
+2
+2
+0
+
+60
+29
+28
+14
+14
+5
+
+12
+8
+6
+2
+
+19
+8
+7
+3
+
+4
+1
+1
+8
+
+8
+6
+4
+26
+
+62
+
+231
+
+., m
+A arCTAaCrT
+
+C
+
+C
+tTC ]
+1
+
+I
+l~J
+
+sense ontisense
+
+Family 5
+AGC TAGC T
+
+Family 3
+AG C TAG CT
+
+>44
+
+A
+(AA
+
+TTI HYNYMCNSSCMGGMNRRPILTIITLESSS
+
+30 NOVEMBER 1990
+
+B
+
+Famd/y2
+
+AGC TAG CT
+
+G
+G)
+C
+
+15-44
+
+Component tumors of LFS
+49
+0
+13
+12
+15
+12
+6
+6
+
+Breast carcinoma
+Soft tissue sarcoma
+Brain tumors
+
+Family t
+
+A
+
+Age at diagnosis (years)*
+
+Tumor type
+
+C
+'c
+C
+
+Fig. 2. (A) Position of p53 gene mutations for
+families 1 to 5. Sequencing of the region spanning
+exons 5 through 8 was performed as described (16).
+The region in which all observed mutations occurred
+is shown. The boxed-in segment from codons 234 to
+258, inclusive, identifies conserved region IV (15).
+Each panel demonstrates the particular point mutation within the codon relative to its position within
+the rest of the surrounding sequence; wt refers to the
+wild-type done sequenced, and "mutP refers to the
+mutant done sequenced. The sequences are read from
+bottom to top. The letter within a circle identifies the
+amino acid to which the corresponding wild-type
+amino acid is switched as a result of the base-pair
+change. In each of these samples, no other p53 gene
+mutations were identified. It should be noted that in
+codon 249, base-pair compression occurs causing
+two guanine residues to appear as one band. (B)
+Conformational changes incurred by the point mutation in codon 248 open up this compression, revealing the true wild-type configuration at 249. Sequencing of the reverse strand of the wild-type clones
+reveals the two expected distinct cytosine residues
+(29). Sequencing of both strands confirms the guanine-guanine compression at codon 249. Abbreviations for the amino acid residues are: G, Gly; C, Cys;
+R, Arg; W, Trp; L, Leu; P, Pro; E, Glu; K, Lys.
+RESEARCH ARTICLES
+
+1235
+
+Downloaded from www.sciencemag.org on June 14, 2012
+
+constitutional cells (10). The codon 248 mutation, which changes
+an arginine to tryptophan, occurs within conserved region IV that
+spans codons 234 to 258 (boxed area, Fig. 2). It has been shown
+that it is not a polymorphism; in fact, it is the most common p53
+mutation in sporadic tumors studied to date (10, 11, 18). The three
+affected individuals tested in this family have the codon 248
+mutation. The unaffected grandfather (1-2) and his granddaughter
+(III-5) also carry the codon 248 mutation and are carriers predicted
+to be at high risk of developing cancer.
+Mutations in the p53 gene are documented to occur in the
+establishment of cells in long-term culture (19, 20). Thus, during in
+vitro passage of the LFS fibroblasts, the p53 gene might have
+acquired changes not present in the germ line. Although it is
+extremely unlikely that all five fibroblast lines acquired the codon
+248 mutation, we collected blood from two of the individuals in this
+family (11-2 and 11-3) who have breast cancer and also one mutant
+p53 allele in their fibroblasts. DNA was extracted from their
+lymphocytes after four passages in tissue culture. Lymphocytes from
+both sisters have a C to T mutation at the first nucleotide of codon
+248 (Table 2). This is the same mutation found in fibroblasts of
+these patients.
+To support the hypothesis that this p53 mutation represents a
+germ line mutation and not artifact ofPCR, we studied segregation
+of the p53 chromosome region in family 1. We used YNZ22.1, a
+highly polymorphic DNA sequence on chromosome 17p that
+
+3:
+
+,
+
+(D po
+
+~~~,
+
+~r
+
+C\J
+
+identifies variable number tandem repeat (VNTR) sequences (21).
+DNA from the eight members of family 1 was digested with Hinf I
+and, after DNA (Southern) blot transfer, was hybridized to the
+YNZ22.1 probe (22). Five polymorphisms for the YNZ22.1 allele
+were present in this family (Fig. 3). Alleles were numbered from 1
+through 5 according to size. Five individuals whose constitutional
+DNA contains a mutant p53 gene all carry the YNZ22.1 allele No.
+3 (Table 2). This demonstrates the co-segregation data confirm that
+co-segregation of this YNZ22.1 allele and the mutant gene in the
+family. The segregation data confirm members from three generations of family 1 have the identical germ line p53 gene mutation.
+We next examined four additional LFS families (Fig. 1, families 2
+through 5) for germ line p53 gene mutations. In family 2, lymphocytes and a portion of the breast cancer were available from member
+11-6. DNA encoding exons 5 through 8 of the p53 gene was first
+amplified from the lymphocytes. Mutation of a G to an A at the first
+nucleotide of codon 258 was found in three of four clones. This
+results in a switch from a glutamic acid to a lysine at this residue.
+(Table 2 and Fig. 2). This mutation apparently has not been noted
+
+polymorphism (10, 11, 18). All six clones containing DNA
+amplified from the breast cancer had the same mutation at codon
+258 of the p53 gene. This suggests that a mutant p53 allele is
+present in this patient's constitutional cells, and that the breast
+cancer cells lost the remaining wild-type p53 allele. Because the
+DNA of this patient was uninformative for two p53 polymorphic
+markers and uninformative for the YNZ22. 1 allele, it is difficult to
+confirm that the cells in the breast tumor had no remaining
+wild-type p53 protein (20, 21).
+Osteosarcoma cells, normal tissue adjacent to the tumor, and skin
+fibroblasts were obtained from individual III-2 in family 3. Both the
+adjacent normal tissue and skin fibroblasts had a mutation of a C to
+a T at the first nucleotide of codon 245, which results in cysteine
+replacing the glycine at this position. The same mutation was found
+in three of four clones analyzed from the individual's osteosarcoma.
+In this case, the YNZ22.1 polymorphic probe was informative and
+showed a 70 percent reduction of one allele in the tumor sample.
+The partial loss ofthe wild-type allele is due to admixture of normal
+tissue in this sample (20). This suggests that individual 111-2 in
+family 3 has a germ line p53 mutation at codon 245, and that cells
+within the tumor lost the remaining wild-type p53 allele.
+Lymphocytes from individual III-3 in family 4 were analyzed for
+p53 gene mutations. Clones containing amplified DNA encoding
+p53 had the same C to T transition at the first nucleotide in codon
+248 as found in family 1. The high frequency of codon 248
+mutations in sporadic tumors and its presence in two ofthe five LFS
+families suggest a propensity to change at this site. Individual III- 1
+in family 5 has a germ line mutation at codon 252. In the first
+position of this codon there is a T to C change, which results in
+proline replacing leucine at this position.
+All p53 germ line mutations noted in the LFS families are located
+in conserved region IV, where no polymorphisms have been
+detected and where nucleotide changes have previously been limited
+as a
+
+Table 2. Analyses of p53 gene mutations in members of five families with Li-Fraumeni syndrome.
+Tumor
+
+Tumpeor
+
+Patient
+
+Family 1
+Affected
+11.2
+II.3
+
+III.2
+Carriers
+I.2
+II.5
+Non-carriers
+
+Breast
+
+Bilateral breast
+Brain
+
+at
+~Age
+diagnosis
+
+(years)
+
+30
+28
+
+5
+
+I.1
+II.4
+11.6
+Family 2
+II.6
+Family 3
+III.2
+
+Family 4
+III.3
+
+Breast
+Osteosarcoma
+
+DNA
+
+source
+
+34
+19
+
+Fibroblasts
+Lymphocytes
+Fibroblasts
+Lymphocytes
+
+Ratio
+
+cltion
+
+mtones
+3/4
+
+Codon
+
+YNZ22.1
+
+VNTR
+
+3,4
+
+Fibroblasts
+
+2/6
+3/6
+2/6
+
+248
+248
+248
+248
+248
+
+3,2
+
+Fibroblasts
+Fibroblasts
+
+3/6
+4/6
+
+248
+248
+
+3,1
+3,2
+
+Fibroblasts
+Fibroblasts
+Fibroblasts
+
+0/6
+0/6
+0/6
+
+Lymphocytes
+Tumor
+
+3/4
+6/6
+
+258
+258
+
+Fibroblasts
+Normal
+Tumor
+
+2/6
+2/4
+3/4
+
+245
+
+4/6
+
+3,4
+
+2,2
+2,5
+
+1,4
+
+1,2
+2
+
+Soft tissue sarcoma
+Osteosarcoma
+
+5
+21
+
+Lymphocytes
+Lymphocytes
+
+2/4
+2/6*
+
+248
+
+Soft tissue sarcoma
+Osteosarcoma
+Breast
+
+2
+14
+31
+
+Fibroblasts
+
+1/4
+1/4
+
+252
+
+Fibroblasts
+
+Family 5
+
+11.1
+
+*In samples from family 4, patient
+
+1236
+
+m.3, separate PCR reactions were analyzed as indicated.
+SCIENCE, VOL. 250
+
+Downloaded from www.sciencemag.org on June 14, 2012
+
+Fig. 3. DNA (Southern)
+gel blot analysis. Hybridization of the variable
+number tandem repeat
+(VNTR)
+polymorphic
+probe YNZ22.1 to genomic DNA from the
+eight members of family 1
+indicated. A ABstE II
+DNA molecular marker is
+shown in the first lane.
+Numerical indexing of the
+VNTR alleles is indicated
+on the right.
+
+30 NOVEMBER 1990
+
+members of LFS families. Recently, an International Working
+Group on LFS was established, and nearly 100 candidate families
+have been enrolled. Members of these families can be examined for
+germ line p53 mutations. This effort should help clarify the spectrum of cancers attributable to germ line p53 gene alterations. In
+addition, gene carriers will be identified among the unaffected
+children and older relatives. A determination can also be made of the
+family members who are in fact, not carriers. The ability to detect
+germ line p53 mutations creates a responsibility to properly use this
+information, and to develop strategies for the care of gene carriers at
+exceptionally high risk of cancer.
+The frequency of individuals in the general population who carry
+germ line p53 mutations is undefined. Li-Fraumeni syndrome might
+identify only the rare families in which germ line mutations in the
+p53 gene are highly penetrant and expressed in multiple tissues. The
+role of p53 germ line mutations in human cancer cannot be fully
+addressed by assessing its role in familial cancer. In retinoblastoma,
+for example, 85 percent of germ line mutation carriers, as identified
+by the presence of bilateral tumors, occur de novo (28). A germ line
+p53 mutation could occur in a substantial population of children
+and young adults who die of the cancer and do not propagate the
+gene. We are therefore seeking p53 mutations in individuals and
+families who display one or more features of LFS, such as multiple
+primary cancers or breast cancer in several young relatives. Those
+with a germ line p53 gene mutation are enrolled in a multicenter
+registry for further analyses.
+In conclusion, we have shown that alterations of the p53 gene
+occur not only as somatic mutations in human cancers, but also as
+germ line mutations in some cancer-prone families. The frequency of
+germ line p53 mutations in cancer patients in the general population
+is unknown and merits further study. Both somatic and germ line
+mutations also arise in another tumor suppressor gene, the retinoblastoma gene. These finding indicate that the search for additional
+tumor suppressor genes can proceed along two parallel research
+A
+
+Fibroblasts u)
+
+r-
+
+_
+
+B
+
+0
+
+o
+
+co c\
+
+Z 3:
+
+39 9
+
+cn Fibroblasts
+
+| m
+
+N
+
+O
+
+N
+
+I
+
+_
+
+-
+
+-2.
+
+I
+
+coz
+-2.
+
+92.569-
+
+-hsc-70 92.5 69-
+
+]p53
+-p53
+
+46-
+
+4630-
+
+Fig. 4. Amount of p53 protein produced by various p53 alleles. Lysates from
+[35S]methionine-labeled fibroblasts and KHOS-240S osteosarcoma cells
+were immunopreapitated with monodonal antibody pAb421 (20, 30). (A)
+(Lane 1) Normalfibroblasts; lane 2, wt/245 fibroblasts from (III-2) family 3
+with a mutant codon 245 p53 allele; lane 3, wt/248 fibroblasts from (11-2)
+family 1 with a mutant codon 248 p53 allele; lane 4, KHOS-240S cells with
+a mutant codon 156 p53 allele. (B) (Lane 1) KHOS-240S cells as in Fig. 4A;
+(lane 2), the wt/245 mutant as in Fig. 4A; (lane 3) wt/252 fibroblasts from
+(mI-1) family 5 with a mutant codon 252 p53 allele; (lane 4) wt/248 as in
+parens.
+RESEARCH ARTICLES
+
+1237
+
+Downloaded from www.sciencemag.org on June 14, 2012
+
+to tumor cells (10, 11, 18). All the mutations described in Table 2
+were confirmed by a second PCR reaction and resequencing the
+gene products. Performing the PCR reactions in duplicate allowed
+us to overcome the inconsistencies due to the 0.25 percent rate of
+base misincorporation documented by others and previously confirmed in our laboratory (10, 23). Germ line p53 mutations were not
+identified in seven healthy controls and seven individuals with
+sporadic tumors who had no family history of cancer.
+Possibility of restictions on germ line p53 mutations. The
+half-lives of most mutant p53 proteins are markedly increased in
+comparison to the half-life of wild-type p53 protein. This is
+primarily a result of a complex they form with the heat shock
+proteins (hsc-70) (24). These mutant p53 proteins attain levels
+comparable to those known to exert a "trans-dominant loss of
+function" effect on wild-type p53 (23, 25). Other rare mutant p53
+proteins that fail to form a complex with hsc-70 have a reduced
+capacity to override wild-type p53 function in transformation assays
+(26). We therefore asked whether such a trans-dominant loss of
+function effect of some mutant p53 proteins would restrict the types
+of germ line p53 mutations found in LFS families. The level of p53
+protein was analyzed by immunoprecipitation of cell lysates from
+normal fibroblasts, LFS fibroblasts, and KHOS-240S cells (Fig. 4).
+The latter contain a p53 mutation at codon 156. This mutant
+protein forms a complex with hsc-70 (27). The high level of p53
+protein found in the KHOS-240S cells is representative of the large
+amounts of protein found in cells with mutant p53 protein that
+complexes the hsc-70 proteins (25). In contrast, the p53 protein
+levels in the three LFS fibroblast lines are comparable to those of
+wild-type p53. The level of p53 protein in fibroblasts from individuals of 12 LFS families (including the four with documented germ
+line p53 mutations analyzed in Fig. 4), were also tested by immunofluorescence studies. All had low fluorescent intensities comparable to cells containing wild-type p53 protein (20). Both the immunoprecipitation and immunofluorescence studies probably indicate a
+selection against the p53 gene mutations that stabilize the mutant
+p53 protein that exerts a trans-dominant loss of function effect on
+the wild-type protein. Screening tests to determine germ line p53
+mutations should not rely on methods that assume that the mutations will result in high levels of mutant protein.
+Interpreations of the data. The presence of p53 mutations in
+the sporadic forms of many human tumors suggests that these
+alterations are an important step in the transformation of diverse
+cells. All cells in the individuals with LFS that we studied presumably have a single wild-type p53 allele. This finding provides an
+opportunity to compare the effects of p53 inactivation on the
+development of cancer in different tissues. The most remarkable
+feature of this syndrome is the diversity of tumors in the gene
+carriers. This suggests that numerous tissues are rendered more
+susceptible to transformation when they have only one wild-type
+p53 allele. The inactivation of p53 must therefore be at least one of
+the rate-limiting steps in the transformation of many tissues. However, tumors in LFS are not evenly distributed by site and do not
+follow cancer frequency patterns in the general population (Table
+1). For example, breast carcinoma and colon carcinoma have
+comparable frequencies in the general population, and frequently
+have associated p53 mutations (6). In the LFS families, breast cancer
+occurs much more frequently than colon carcinoma (Table 1). The
+difference suggests that p53 inactivation is a more critical ratelimiting step in breast carcinoma formation than it is in colon
+carcinoma formation. Other patterns of tumor frequencies among
+affected individuals with LFS can provide additional clues regarding
+the differences in tissue-specific growth control pathways.
+The development of molecular diagnostic tests to identify carriers
+of germ line p53 mutations provides a new tool for screening
+
+REFERENCES AND NOTES
+
+1. F. P. Li, and 1. F. Fraumeni, Jr., Ann. Intem. Med. 71, 747 (1969).
+2. __ , J. Am. Med. Assoc. 247, 2692 (1982); J. E. Garber et al., Proc Am. Assoc.
+Cancer Res. 31, 210 (1990).
+3. J. M. Birch et al.,J. Clin. Oncol. 8, 583 (1990); J. M. Birch et al., Br.J. Cancer49,
+
+325 (1984).
+4. F. P. Li et al., Cancer Res. 48, 5358 (1988).
+5. W. R. Williams and L. C. Strong, Familial Cancer, lst International Research
+Conference (Karger, Basel, 1985), p. 151; L. C. Strong et al., J. Natl. Cancer Inst.
+
+79, 1213 (1987).
+6. J. L. Young, C. L. Perry, A. J. Asire, Eds., Natl. Cancer Inst. Monogr. 57, KY72
+(1981) (NIH publication no. 81-2330).
+7. V. M. Ricarrdi et al., Pediatrics 61, 604 (1978); U. Francke, L. B. Holmes, L.
+Atkins, V. M. Riccardi, Cytogenet. Cell Genet. 24, 185 (1979).
+8. S. H. Friend et al., Nature 323, 643 (1986).
+9. C. A. Finlay, P. W. Hinds, A. J. Levine, Cell 57, 1083 (1989); D. N. Eliyahu, D.
+Michalovitz, S. Eliyahu, 0. Pinhasi-Kimhi, M. Oren, Proc. Natl. Acad. Sci. U.S.A.
+86, 8763 (1989); M. Isobe, B. S. Emanuel, D. Giron, M. Oren, C. Croce, Nature
+320, 84 (1986).
+10. J. M. Nigro et al., Nature 342, 705 (1989).
+11. J. W. Romano et al., Oncogene 4, 1483 (1989); L. M. Mulligan et al. Proc. Natl.
+Acad. Sci., 5863 (1990); H. Ahuja, M. Bar-Eli, S. H. Advani, S. Benchimol, M. J.
+Cline, Proc. Natl. Acad. Sci. U.S.A. 86, 6783 (1989); J. Bartek, R. Iggo, J.
+Gannon, D. P. Lane, Oncogene 5, 893 (1990); R. Iggo, K. Gatter, J. Bartek, D.
+Lane, A. L. Harris, Lancet 335, 675 (1990); S. J. Baker et al., Science 244, 217
+(1989); A. G. Mcnon et al., Proc. NatI. Acad. Sci. U.S.A. 87, 5435 (1990); T.
+Takahashi et al., Science 246, 491 (1989); B. Seizinger, unpublished results.
+12. A. Lavigueur et al., Mol. Cell Biol. 9, 3982 (1989).
+13. All cell lincs were maintained in Dulbecco's modified Eagle medium with glucose
+at 4.5 g/liter, L-glutamine, and sodium pyruvatc. The medium was supplemented
+with 10 percent inactivated fetal calf serum and antibiotics. Cells werc grown at
+37°C in a humidified atmosphere containing 5 percent CO2. Genomic DNA was
+exacted according to standard techniques (J. Sambrook et al., Molecular Cloning:
+A Laboratory Manual (Cold Spring Harbor Laboratory, NY, ed. 2, 1989). To
+extract genomic DNA from blood lymphocytes, wc first scparated the cdls from
+other blood components by passage throug a Ficoll-Hypaquc gradient. Tumor
+samples were processed after grossly contaminating normal tissue was removed.
+The tumor was thcn gently teased and homogenized into small firagents, which
+werc resuspended in lysis buffcr. The DNA was extracted from the resuspended
+tissue.
+14. A 1.7-kb fragment was generated from 0.5 to 2.0 Fg of the genomic DNA
+template. The sense and antisense primers used were, respectively. Fl, 5'-ATGC
+GAATT CCCCT GCCCTr CAACA AGAT-3' starting at the first codon downstream to intron 4, and R2, 5'-TATAG GAATIT CGTGG TGAGG CTCCC
+CITI-3' starting at the ninth codon upstream of intron 8. Each primer had
+synthetic Eco RI sites at their S' ends to facilitate doning. The DNA tcmplate and
+primers were added to a PCR buffer (DuPont) containing 50 mM tris-HCI (pH
+9.5), 1.5 mM magnesium chloride, and 20 mM ammonium sulfate, to which were
+added dCTP, dATP, crTP, and dGTP (at 0.2 mM each), and 0.5 U of Rcplinase
+(DuPont). The 100-id reaction was amplified in a Perkin-Elmer Thermocycler
+(Cetus) for 35 cycles of 940C (1 minute) 55°C (2 minutes), and 720C (3 minutes).
+The reaction was initiated with one 80-second cyde at 94°C and ended with a
+7-minute step at 720C.
+
+1238
+
+15. T. Soussi et al., Oncogene 5, 945 (1990).
+16. Ten reactions were performed for each DNA template, and the PCR products were
+pooled and digested with Eco RI, fractionated by electophoresis, and after
+acid-phenol extraction and purification from low-melt agarose (New England
+Biolabs), fragments werc ligated into a Bluescript vector "PBSK" (Stratagene) that
+had been digested with Eco RI and treated with calf alkaline phosphatase. After
+transformation, individual clones derived from standard minipreparations were
+sequenced in both directions with primers derived from the p53 coding and intron
+sequences. Analysis of six dones allows detection of both alleles morc than 98
+percent of the time. Thc usc of either 35S-labeled or 32P-labeled nudeotides with
+T7 DNA polymerasc yielded high autoradiographic resolution on a 12 percent
+polyacryainide gel. The primer SN, 5'-GGITGGCTCTGACrGTA-3', started at
+the first codon of cxon 7 and generated the sequence of the region that contained
+the mutations described in the text.
+17. V. L. Buchman, P. M. Chumakov, N. N. Ninkina, 0. P. Samarina, G. P. Georgiev,
+Gene 70, 245 (1988).
+18. B. Vogelstein, unpublished results.
+19. A. J. Levine, unpublished results.
+20. S. H. Friend, unpublished results.
+21. Y. Nakamura et al., Nudeic Acids Res. 16, 5707 (1988); U. Masharani, D. Wolf,
+P. M. Frossard, ibid. 16, 7757 (1988).
+22. Southern bloting techniques were performed as described [J. Sambrook et al.,
+Molecular Cloning: A Laboratory Manual (Cold Spring Harbor Laboratory, Cold
+Spring Harbor, NY, ed. 2, 1989), p. 9.31] for the capillary transfer method,
+Hybond nylon membranes (Amersham), and nonformamd containing hybridization solutions. The YNZ22.1 hybridization probe (20) was labeled by random
+priming the Klenow fragment of DNA polymrase, and [a-52P]dCrP. Hybridization ofthe probe to 12 pg of genomic DNA digested with Hinf I was carried out
+at 650C for 12 to 48 hours, and the blots were exposed to film for 3 to 15 days.
+23. L. Diller et al., Mol. Cell. Biol. 10, 5772 (1990).
+24. H. W. Sturzbecher, P. Chumakov, W. J. Wekh, J. R. Jenkins, Oncogene 1, 201
+(1987); P. W. Hinds, C. A. Finlay, A. B. Frey, A. J. Levine, Mol. Cell. Biol. 7,
+2863 (1987); C. A. Finlay et al., ibid. 8, 531 (1988).
+25. P. W. Hinds, C. Finlay, A. J. Levine,J. Virol. 63, 739 (1989).
+26. P. W. Hinds et al., Cell Growth Dev., in press.
+27. J. W. Romano et al., Oncogene 4, 1483 (1989).
+28. J. Wiggs et al., N. Engl. J. Med. 318, 151 (1988).
+29. The presence of a guanine-guanine compression at codon 248 in the wild-type p53
+gene is confirmed by sequencing both strands.
+30. In preparation for inmmunoprecipitations, cel lines were metabolically labeled (at
+50 pLCi/ml) with methionine-free DME (ICN) in 2.5 ml of methionine-free DNA
+plus 2 percent dialyzed ftal calf serum for 2 hours. Cclls were nnsed in ice-cold
+PBS twice before lysis in 1 ml of ELB (250 mM NaCl, 0.1 percent NP40, 50 mM
+Hepes, pH 7.0, 1 mM PMSF (Sigma), 5 mM EDTA, 0.5 mM DTr). The lysatc
+was scraped frcom the plate, centrifiuged, and stored at -80°C. Lysates were first
+adsorbed with fixed Staphylococcus protein A overnight at 40C, then incubated with
+PAbl22, before precipitation and loading on the 8 percent polyacrylamidc gels.
+31. We thank M. Dreyfus for data management; J. Garber, J. Schncider, and T. Russcll
+for collecting specimcns on familics 1, 2, and 3; P. Begin and J. A. Cook for
+collecting spcimens on families 4 and 5; W. W. Nichols for cstablishing ccll lines
+on thesc two families; and S. E. Lux IV for important discussions, as well as S.
+Orkin and K. J. Issclbacher for critical review ofthe manuscript. Supported in part
+by the Baylor Fund Sub-Allocation for Research Program, Lucille P. Markey
+Foundation, and the Merck Foundation; a Research Fellowship of the Medical
+Rescarch Council of Canada (D.M.); NIH grant 34936 (L.C.S. and M.A.T.);
+NIH grant 5-T32-CA09299 (F.Z.B); an Akvan T. and Viola D. Fuller American
+Cancer Society Fellow Junior Research Fellowship (D.H.K.); and a Lucille P.
+Markey Scholarship (S.H.F.).
+24 September 1990; accepted 29 October 1990
+
+SCIENCE, VOL. 250
+
+Downloaded from www.sciencemag.org on June 14, 2012
+
+pathways. One is through analysis of the loss of heterozygosity in
+tumor samples, and the second is through the identification and
+study of cancer-prone families.
+
+

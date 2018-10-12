@@ -1,0 +1,1383 @@
+HUMAN MUTATION 6~152-162 (1995)
+
+RESEARCH ARTICLE
+
+Human h d r o g e n Insensitivity Due to Point
+Mutations Encoding h i n o Acid Substitutions in
+Koichi Murono, Berenice B. Mendonca, Ivo J.P. Arnhold, Ana C.M.M. Rigon, Claude J. Migeon,
+and Terry R. Brown*
+Hospital das Clinicas, Faculdade de Medicina du Universidade de Sao Paolo, Sao Paolo, Brazil (B. B. M., 1.1.P. A.,
+A.C.M. M. R.), Department of Pediatrics, Pediatric Endocrinology Laboratories, johns Hopkins Hospital {C.J.M.) and
+Department of Population Dynamics, Division of Reproductive Biology, Johns Hopkins University School of Hygiene and Public
+Health (C.K.M.,
+T.R.B.), Baltimore, Maryland 21205; Fax: 410-955-0792
+Communicated by Huig H. Kazuzian, Jr,
+
+Mutations of the human androgen receptor gene were identified in five subjects from four families with
+androgen insensitivity syndrome. Individual exons of the androgen receptor gene were amplified by the
+polymerase chain reaction from genomic D N A and screened for sequence-dependent differences in
+their melting characteristics by denaturing gradient gel electrophoresis. D N A fragments from exons
+with altered mobility were sequenced. Four different single nucleotide base substitutions were found
+within exons 5,6, and 7 encoding the steroid-binding domain of the androgen receptor. I n one subject
+with ambiguous genitalia, amino acid residue 763 was changed from tyrosine to cysteine ( T A C +
+TGC; Y763C). Four subjects, including two siblings, had complete androgen insensitivity. In one
+subject, residue 779 was changed from arginine to tryptophan (CGC +-IGG; R779W), another
+subject (M807V) had a substitution of valine ( G T G ) for methionine ( A T G ) residue at position 807,
+and the two siblings (R855C) had a mutation in residue 855 changing arginine (CGC) to cysteine
+(TGC).Binding of the synthetic androgen ligand, methyltrienolone (R1881), by the mutant receptor
+Y763C was decreased by 54% compared to the normal receptor. Transcriptional activation of a mouse
+mammary tumor virus-chloramphenicol acetyltransferase (MMTV-CAT) reporter gene by AR mutant
+Y763C was negligible at 0.1 n M R1881 and only 55% at 10 nM R1881 when compared to the
+maximal response with the normal AR, as assessed by CAT activity. Mutant M807V retained only
+22% of normal R1881 binding and mutant R855C was unable to bind the steroid. In accordance with
+the steroid binding, transcriptional activation of h4MTV-CAT by M807V rose to only 26% of control
+in the presence of 10 nM R1881, a concentration at which R855C remained functionally inactive. In
+summary, missense mutations within the exons of the androgen receptor gene encoding the steroidbinding domain of the receptor are common causes of both partial and complete forms of androgen
+insensitivity syndrome. o 1995 Wiley-Liss, Inc.
+KEY WORDS:
+
+Androgen receptor, Androgen insensitivity, Mutation, Human, Testicular feminization
+
+INTRODUCTION
+The androgen insensitivity syndrome (AIS) is
+an X-linked disorder in 46,XY subjects in whom
+normal male sexual differentiation in utero is altered and subsequent neonatal and pubertal virilization is absent or impaired (Brown and Migeon,
+1987). Variable phenotypic presentations of AIS
+are observed, ranging from completely female external genitalia to male genitalia with hypospadias,
+and, on rare occasion, males with azoospermia and
+small phallus. AIS is caused by the absence of tar@ 1995 WILEY-LISS. INC.
+
+get cell response to androgen. Quantitative and
+qualitative alterations in androgen receptor binding activity can usually be demonstrated in cultured genital skin fibroblasts from affected subjects.
+
+Received June 10, 1994 accepted November 1, 1994.
+"To whom reprint requestsicorrespondence should be addressed.
+Permanent address of K. Murono: Department of Pediatrics,
+Asahikawa 078,
+Asahikawa Medical College, Nishikagura 4-5-3-11,
+Japan.
+
+MUTATIONS IN AR STEROID-BINDING DOMAIN
+
+More recently, the molecular lesions responsible
+for AIS have been identified as a variety of mutations in the androgen receptor gene (Batch et al.,
+1992; Brinkman et al., 1992; Brown et al., 1993;
+McPhaul et al., 1993; Pinsky et al., 1992). The
+greatest number of different mutations so far identified are located within exons encoding the steroid-binding domain of the androgen receptor protein and hence are associated with defective
+androgen-binding properties (Brown e t al., 1993;
+McPhaul et al., 1992; Pinsky et al., 1992).
+We have used specific oligonucleotide primers
+and the polymerase chain reaction to amplify the
+exons and adjoining intron regions of the human
+androgen receptor gene in genomic DNA isolated
+from the blood leukocytes of five subjects with the
+clinical diagnosis of AIS. Each amplified DNA
+fragment was analyzed first by agarose gel electrophoresis to verify its presence and expected size,
+and then on denaturing gradient polyacrylamide
+gels to compare its melting characteristics and
+electrophoretic mobility with that of a known normal or control DNA fragment. Amplified DNA
+fragments with altered mobility relative to normal
+DNA fragments were subjected to nucleotide sequence determination. Missense mutations within
+exons encoding the steroid-binding domain of the
+androgen receptor protein were identified in five
+subjects from four families.
+
+MATERIALS AND METHODS
+These studies were conducted according to a
+protocol (RPN 87-10-30-03)approved by the Joint
+Commission on Clinical Investigation of the Johns
+Hopkins Medical Institutions for studies pertaining
+to human investigation.
+Subjects
+
+All five subjects were native Brazilians of Hispanic origin. Each had a 46,XY karyotype.
+Subject 572 was born with ambiguous external
+genitalia. He was reared as a male and is currently
+25 years old. Upon examination, he has a 6-cm
+phallus, perineal hypospadias, a bifid scrotum with
+normally descended testes, and gynecomastia. A
+retrograde urethrogram revealed the presence of a
+3-cm vaginal pouch. The uterus was absent and
+the prostate was small according to ultrasonography. Endocrine evaluation revealed serum concentrations of testosterone of 1100 ng/dl, dihydrotestosterone of 53 ng/dl, LH of 49 mIU/ml, and FSH
+of 11 mIU/ml.
+Subject 542 is a 20-year-old Caucasian whose sex
+of rearing is female. At birth, the external genita-
+
+153
+
+lia appeared entirely female with normal clitoris
+and normally located urethra. Evaluation for primary amenorrhea at 15 years of age revealed a serum testosterone concentration of 790 ng/dl with
+normal FSH (4.6 mIU/ml) but elevated LH (24
+mIU/ml) levels. Pubic hair was sparse and axillary
+hair was absent. Surgical exploration of the abdomen showed a complete absence of mullerian derivatives with a vagina of 3 cm depth, ending
+blindly. Testes were located in the lower abdomen
+with vas deferens appearing to end in a prostatic
+utricle.
+Subject 566 is an 18-year-old individual with
+normal female external genitalia. Internally, there
+is a blind ending vaginal pouch and absence of
+mullerian structures. Blood testosterone and dihydrotestosterone levels were 317 and 5.2 ng/dl, respectively. The serum estradiol concentration was
+27 pg/ml. LH and FSH levels were 22.9 and 11.3
+mIU/ml, respectively. A t 17 years of age, a gonadectomy was performed and histology showed spermatogenic aplasia and the presence of a cystic dilation of the epididymis o n the left side.
+Subjects 567 and 568 are 18- and 16-year-old
+siblings, respectively. Each subject has a normal
+female external genitalia and a blind ending vaginal pouch. They have a normal brother. In subject
+567, the blood testosterone level was 286 ng/dl and
+DHT was 22 ng/dl. The LH and FSH concentrations were 32.4 and 16.4 mIU/ml, respectively.
+For subject 568, the testosterone and DHT concentrations were 1033 and 59 ng/dl, respectively.
+The LH level was elevated (42.7 mIU/ml) and
+FSH was normal (13.1 mIU/ml).
+Skin biopsies were not obtained from any of
+these subjects and therefore androgen receptorbinding activity was not determined in cultured
+skin fibroblasts.
+
+DNA Preparations and Polymerase
+Chain Reaction
+Genomic DNA was isolated as previously described (Brown e t al., 1988) from leukocytes of
+blood specimens shipped to Baltimore from Sao
+Paolo, Brazil. Individual exons (1-8) of the androgen receptor gene were amplified by PCR
+according to Lubahn et al. (1989) except for the 5’
+oligonucleotide primers for exon 3, 5’-TTATCAGGTCTATCAACTCTTGT-3’,and exon 4,5‘GATAAATTCAAGTCTCTCTTCCT-3’. Each
+5’-oligonucleotide primer contained a 40-bp G-C
+clamp preceding the androgen receptor gene specific sequence (Brown e t al., 1990).
+The PCR reactions were performed in a final
+
+154
+
+MURONO ET AL.
+
+volume of 50 p1 containing 500 ng genomic DNA
+and 20 pmol of each oligonucleotide primer. After
+an initial denaturing step at 95°C for 5 min, the
+temperature of samples was lowered to 72°C and
+2.5 U Taq DNA polymerase was added to initiate
+the "hot start" PCR protocol. Amplification conditions consisted of one cycle of 95"C, 1 min;
+60"C, 2 min; 72"C, 6 min; and 30 cycles of 95"C,
+1 min; 60"C, 2 min; 72"C, 3 min; followed by a
+final extension step at 72°C for 10 min.
+DNA products of the correct size were verified
+by electrophoresis on a 2% agarose gel with +X174 HaeIII digested DNA as a size standard. The
+gel was stained with ethidium bromide and photographed under UV illumination.
+Denaturing Gradient Polyacrylamide Gel
+Electrophoresis and Direct DNA Sequencing
+Amplified DNA (10 pl aliquot) from affected
+and normal subjects was electrophoresed individually or after mixing normal and patient DNA that
+had been denatured at 95°C (10 min) and allowed
+to reanneal at room temperature. Electrophoresis
+was conducted at 60°C in a 6.5% acrylamide gel,
+in TAE buffer, with a gradient of increasing concentrations of formamide and urea (i.e., 100% denaturant = 7 M urea/40% formamide) for a total
+of 700-1400 V-hr using an apparatus manufactured by CBS Scientific (Del Mar, CA) (Brown et
+al., 1990; DeBellis e t al., 1992). The gel was
+stained with ethidium bromide and photographed
+under UV illumination. The mobility of each
+DNA fragment was compared o n the gel relative to
+the normal control, using a known mutant as an
+internal control for the electrophoretic conditions
+of each gel. DNA fragments with altered mobility,
+and evidence of heteroduplex formation, were subsequently submitted to direct nucleotide sequence
+analysis (Brown et al., 1990). Amplified DNA was
+separated from oligonucleotide primers and purified using the Magic PCR Preps DNA purification
+system (Promega, Madison, WI) prior to direct sequencing using 32P-labeled oligonucleotide primers
+and the T7 DNA polymerase driven dideoxynucleotide chain termination method (Sequenase,
+United States Biochemical, Cleveland, OH).
+Both the sense and antisense strands were sequenced from two different PCR amplifications of
+genomic DNA to confirm each mutation.
+Site-Directed Mutagenesis
+Each mutation was recreated by site-directed
+oligonucleotide mutagenesis using the Altered
+Sites in vitro Mutagenesis System (Promega, Mad-
+
+ison WI). A 1.2-kb HindIII fragment of the human
+AR cDNA spanning the DNA- and steroid-binding domains was excised from the expression plasmid, p5HEBhAR-1 (Brown et al., 1990), and subcloned into the ampicillin-sensitive plasmid,
+PALTER, thus creating PALTER-HhAR. One oligonucleotide containing the desired human AR single nucleotide base mutation and another oligonucleotide conferring ampicillin resistance were
+annealed to the single-stranded PALTER-HhAR
+as templates for DNA synthesis. The second strand
+DNA synthesis reaction was performed in vitro in
+the presence of 5 mM each deoxyribonucleotide,
+1.5 pg T4 gene 32 DNA-binding protein, 10 U T7
+DNA polymerase, and 10 U T4 DNA ligase. The
+plasmid was transformed into the repair-deficient
+bacterial strain, BMH-7lmutS, and grown overnight in LB media containing 100 pg/ml ampicillin. T h e plasmid was purified from liquid culture
+and subsequently transformed into E. coli JM109
+and plated on LB-agar containing 100 pg/ml ampicillin. Antibiotic-resistant colonies were selected
+and regrown in LB media containing ampicillin.
+Plasmid DNA was prepared and sequenced for the
+presence of the desired mutation within the AR
+cDNA insert. Plasmid DNA with appropriately
+mutated sequence was digested with HindIII and
+the hAR cDNA fragment was gel purified. The
+mutated 1.2-kb HindIII AR cDNA fragment was
+ligated into the p5HEBhAR- 1 expression plasmid
+in the appropriate orientation and position. The
+mutated p5HEBhAR-1 expression vector was subsequently sequenced to verify the presence of each
+mutation.
+Transient DNA Transfection
+Transfection of DNA was performed as previously described (Brown e t al., 1990). Briefly,
+COS-7 or CV-1 monkey kidney cells were transfected with the normal or mutated human AR
+cDNA expression plasmids, p5HEBhAR-1, using
+the calcium phosphate precipitation method. This
+expression vector was constructed by placing a
+3.1-kb hAR cDNA fragment encoding the fulllength human AR under control of the human
+cytomegalovirus promoter in the pCMV5 expression vector (Anderson et al., 1989). As described
+below, androgen receptor binding activity was measured 48 hr following transfection into COS-7 cells.
+Transcriptional activation of reporter gene activity
+in the absence or presence of increasing concentrations of steroid, 0.1, 1.0, and 10 nM R1881
+(methyltrienolone), was assayed 48 hr after transfection into CV-1 cells. In the latter case, a plasmid
+
+MUTATIONS IN AR STEROID-BINDING DOMAIN
+
+containing the androgen-responsive mouse mammary tumor virus-long terminal repeat hormone
+response element coupled to the chloramphenicol
+acetyltransferase (CAT) gene was also transfected,
+and CAT activity was measured (Cato et al., 1987).
+All cells were cotransfected with the plasmid vector, pCHl10 (Pharmacia Biotech, Piscataway, NJ)
+containing the P-galactosidase gene, as an internal
+control for transfection efficiency and as a basis for
+normalizing measurements of androgen receptor
+binding and CAT activities.
+AR Binding Assay
+
+AR binding activity was determined in replicate
+plates of DNA-transfected COS-7 cells as previously described (Brown et al., 1990). Cells were
+incubated for 2 hr at 37°C in the presence of 5 nM
+3H-R1881 (87 Ci/mmol; DupontNEN) in serumfree DMEM. The level of specific radiolabeled steroid binding was normalized for DNA content as
+measured by the method of Burton (1956) and corrected for efficiency of DNA transfection according to the P-galactosidase activity in replicate
+plates of cells.
+Enzyme Assays
+
+Cell extracts (150 p1) were prepared from
+DNA-transfected CV-1 cells and stored at -70°C
+until time of assay. To measure P-galactosidase activity, 30-50 pl cell extract was incubated at 37°C
+with substrate, 0 - N itro- P-D-galactopyranoside, for
+0.5-4 hr until the solution became a faint yellow
+color (Brown et al., 1990). The difference between the absorbance peak at 420 nm and the
+baseline at 550 nm was recorded and the activity
+was used as a measure of DNA transfection efficiency to compare results within and between
+treatment groups (An et al., 1982).
+To measure CAT activity, 50 pl of cell extract
+was incubated at 37°C for 3 hr with substrate,
+[ ''C]chloramphenicol (dichloroacetyl- 1,2-14C; 54
+mCi/mmol; Amersham), and the acetylated-I4C
+products were resolved by thin-layer chromatography and detected by subsequent autoradiography
+(Gorman et al., 1982). The absolute amounts of
+unmetabolized substrate and acetylated products
+were determined by cutting the TLC plates and
+counting the associated radioactivity corresponding to the autoradiographic images by scintillation
+spectrophotometry .
+RESULTS
+
+Each of the exons in the human androgen receptor gene of the five subjects included in this
+
+155
+
+study was amplified and determined to be present
+and of the expected size. Subsequent denaturing
+gradient gel electrophoresis of the PCR-amplified
+DNA fragments led to the detection of differences
+in relative electrophoretic mobility for each of the
+subjects with AIS (Fig. 1). For subject 572, an
+altered mobility was observed for the amplified
+DNA fragment of exon 5. For subjects 542 and
+566, the DNA fragment containing exon 6 displayed an altered mobility and for the siblings, subjects 567 and 568, the migration of the DNA fragment of exon 7 was abnormal. Each of these
+putative sequence-dependent differences in electrophoretic mobility was further confirmed by the
+appearance of heteroduplex bands which have lowered temperature/denaturant stabilities due to nucleotide base pair mismatches within the (re)annealed DNA fragments.
+Exonic DNA fragments showing altered mobility o n DGGE were sequenced in both 5' and 3'
+directions and compared with the sequence from
+the normal exon fragment. The numbering system
+of Lubahn et al. (1989) is used to designate the
+relevant amino acid residues of the human androgen receptor as the numbering systems differ
+among the published sequences due to variability
+in the lengths of the polyglutamine and polyglycine tracts within exon 1. A single nucleotide base
+substitution was found in each of four families (Table 1). For subject 572 with partial AIS, an A -+
+G nucleotide base change occurred in exon 5 resulting in the substitution of cysteine (TGC) for
+the normal residue, tyrosine (TAC), at position
+763 (Y763C). In exon 6 of subject 542 with complete AIS, a C + T base substitution occurred to
+alter codon 779 from CGG (arginine) to TGG
+(tryptophan) (R779W). It should be noted that
+the brother of subject 542 who presented with first
+degree subcoronal hypospadias, but was otherwise
+normal, had a normal androgen receptor gene. In
+exon 6 of subject 566 with complete AIS, we
+found an A +. G change resulting in the substitution of valine (GTG) for methionine (ATG) at
+position 807 (M807V). In the two siblings (567
+and 568) with complete AIS, a cysteine residue
+was substituted for arginine at position 855
+(R855C) due to the mutation of a C -+ T nucleotide in exon 7.
+AR binding activity in COS-7 cells transfected
+with the normal and mutant AR expression vectors is shown in Figure 2. In cells transfected with
+AR mutant Y763C, specific 3H-R1881 binding
+was distinctly lower (46% of control) than that in
+cells transfected with the normal AR. In cells ex-
+
+156
+
+MURONO ET AL.
+
+FIGURE1. Detection of single nucleotide base mutations in the
+androgen receptor gene by denaturing gradient gel electrophoresis. Each panel is an ethidium bromide-stained denaturing gradient polyacrylamide gel showing GC-clamped
+PCR products of exons 5 (top), 6 (middle), and 7 (bottom) of
+affected subjects and normal (wild-type, wt) subjects. PCR
+products from subjects (mut) with previously characterized
+mutations are included as controls to verify the resolving
+power of each gel. The relative positions of the normal (WT),
+mutant (MUT), and heteroduplex (HD) DNA fragments are
+indicated by the arrows along the sides of each gel. Top:
+GC-clamped PCR products of exon 5 were electrophoresed
+through a 35-75% denaturant gradient for a total of 1300
+V-h. PCR products of subject 572 (lane 2) and the known
+mutant (lane 4, mut) showed abnormal mobility compared to
+the normal control (lane 3, wt). The combined PCR products
+of the normal control and known mutant (lane 5, wtlmut),
+and subject 572 and normal control (lane 1, 572/wt), show
+the presence of bands representing the normal (WT) and mutant (MUT) alleles as well a s two bands of lesser mobility
+formed by annealing one normal and one mutant allele into
+heteroduplexes that melt at a lower concentration of denaturant due to single base-pair mismatches at the site of the
+mutation. Middle: GC-clamped PC products of exon 6 were
+
+electrophoresed through a 35-70% denaturant gradient for
+a total of 1300 V-h. PCR products of subjects 542 (lane 3)
+and 566 (lane 7) and the known mutant (lane 5, mut) show
+abnormal mobilities compared to the normal control (lane 6,
+wt). The combined PCR products of the normal control and
+known mutant (lane 4, wt/mut), subject 542 and normal control (lane 2, 542/wt), and subject 566 and normal control
+(lane 8,566/wt) show the presence of bands representing the
+normal (WT) and mutant (MUT) alleles as well as two bands
+of lesser mobility formed from heteroduplexes (HD). Note
+that a single band is observed in lane 1 (543/wt) with PCR
+products of the normal control and the sibling, subject 543,
+of affected subject 542. Bottom: GC-clamped PC products of
+exon 7 were electrophoresed through a 35-70% denaturant
+gradient for a total of 1300 V-h. PCR products of subjects 568
+(lane 2) and 567 (lane 6) and the known mutant (lane 4, mut)
+show abnormal mobilities compared to the normal control
+(lane 5, wt). The combined PCR products of the normal control and known mutant (lane 3, wt/mut), subject 568 and
+normal control (lane 1,568/wt), and subject 567 and normal
+control (lane 7, 567/wt) show the presence of bands representing the normal (WT)and mutant (MUT)alleles as well as
+two bands of lesser mobility formed from heteroduplexes
+WD).
+
+MUTATIONS IN AR STEROID-BINDING DOMAIN
+TABLE 1.
+
+157
+
+Androgen Receptor Mutations in Subjects With Androgen Insensitivitya
+Mutation
+
+Subject
+572
+542
+566
+567,568
+
+Phenotype
+Ambiguous
+Female
+Female
+Female
+
+Nucleotide
+TAC + TGC
+CGG + TGG
+ATG -+GTG
+CGC + TGC
+
+Codon
+763
+779
+807
+855
+
+Amino acid
+Y+C
+R+W
+M+V
+R+C
+
+Exon
+5
+
+Designation
+Y763C
+R779W
+M807V
+R855C
+
+6
+6
+7
+
+“Abbreviations: nucleotides, A =adenine; C = cytosine; G = guanine; T =thymidine; amino acids, C = cysteine; M = methionine;
+R = arginine; V = valine; W = tryptophan.
+
+pressing the M807V mutant AR, specific binding
+of R1881 was present but very low (22% of control), whereas cells expressing the R855C mutant
+AR had no steroid binding activity.
+CAT activities were measured in CV-1 cells
+cotransfected with normal or mutant AR expression vectors and an MMTV-CAT reporter gene
+following addition of R1881 over the concentration range of 0.1-10 nM (Fig. 3 ) . AR mutant
+Y763C did not activate CAT reporter gene activity at 0.1 nM R1881, but 60- and 85-fold increases
+of CAT activity were observed at 1.0 and 10 nM
+R1881, respectively. These levels of CAT activity
+were equivalent to approximately half of the activity induced by the normal AR at the same concentrations of R1881. AR mutant M807V failed to
+stimulate CAT activity at 0.1 nM R1881, but low
+levels of CAT activity were induced by 1 (10-fold)
+and 10 (40-fold) nM R1881. As to AR mutant
+R855C, CAT activity was minimal even with 10
+
+nM R1881.
+
+DISCUSSION
+Relationship Between Phenotype and Biological
+Activity of the Mutant AR
+We report four families who presented a point
+mutation of the AR gene resulting in androgen
+insensitivity. Clinically, one subject presented a
+partial form (subject 572, mutation Y763C).
+When the AR gene of this subject was expressed,
+the resulting AR protein had SO% of the androgen-binding activity of the wild-type AR, and
+transcriptional activation of an androgen-inducible reporter gene was present with R1881 concentrations of 1.0 nM. This mutation in exon 5,
+Y763C, was reported previously in a subject with
+the “Reifenstein phenotype” but who also had a
+truncation of the homopolymeric glutamine segment in exon 1 (McPhaul et al., 1991). By contrast, our subject does not have a truncation of the
+polyglutamine segment (data not shown) and
+therefore the presentation of ambiguous genitalia is
+a manifestation of the amino acid substitution in
+
+a“
+z
+n
+
+6
+
+z
+
+4
+
+.
+-P 5
+s
+‘0
+
+c
+a
+
+3
+
+2
+5
+
+2
+
+0
+n
+
+a
+m=
+
+1
+
+0
+
+hARcDNA
+
+subject #
+
+wl
+
+Y763C
+
+M807V
+
+R855C
+
+572
+
+566
+
+567
+
+FIGURE 2. Androgen binding by normal and mutant androgen
+receptors. Binding of methyltrienolone (R1881) was assayed
+in three replicate plates of COS-7 monkey kidney cells transfected with the normal (wild-type, wt) or mutant (Y763C,
+M807V, or R855C) androgen receptor expression vector and
+incubated with a saturating concentration (5 nM) of 3HR1881 for 2 hr at 37C. Specific androgen receptor-binding
+activity was normalized for transfedion efficiency based
+upon p-galactosidase activity. Similar results were obtained
+in two additional experiments.
+
+the steroid-binding domain alone. Although
+tyrosine (Y) and cysteine (C) are both neutral
+polar residues, the presence of the more bulky
+phenyl group o n tyrosine as compared to the
+sulfhydryl of cysteine undoubtedly leads to an effect on the receptor conformation.
+The mutations in three other families resulted
+in clinically complete androgen insensitivity
+(R779W, M807V, and R855C). I t is of interest
+that despite similar phenotype, studies with
+M807V showed 25% androgen binding activity
+whereas R85SC had none. The mutations, R779W
+and M807V, are new mutations that have not been
+described previously among subjects with androgen
+insensitivity. We have not tested the steroid-bind-
+
+MURONO ET AL.
+
+158
+
+I
+
+I
+
+Wwt
+
+..-b
+
+oY763C
+
+M807V
+
+R855C
+
+(subject 572)
+
+(subject 566)
+
+(subject 567)
+
+150
+
+I
+
+Individual Codons Within the Steroid-Binding
+Domain of the Human Androgen Receptor Gene
+Affected by Multiple Amino Acid Substitutions in
+Three or More Subjectsa
+
+TABLE 2.
+
+Codon
+number
+
+732
+100
+
+Mutation
+nucleotide
+
+amino acid
+
+AIS form
+
+G+T
+
+Itt N
+
+Complete
+Complete
+Complete
+Complete
+Complete
+Complete
+Complete
+Complete
+Complete
+Partial
+Partial
+Complete
+Partial
+Complete
+Complete
+Partial
+Partial
+Complete
+
++A
+752
+
+774
+
+G+A
+C+ T
+C+T
+
+G-.A
+
+50
+
+831
+
+840
+0
+0.1
+
+1.o
+R1881 ( nM )
+
+10
+
+855
+
++A
+866
+
+FIGURE 3. Transcriptional activation of chloramphenicol
+acetyltransferase activity by normal and mutant androgen
+receptors. CV-1 monkey kidney cells were transfected with
+normal (wild-type,wt) or mutant (Y763C, M807V, or R855C)
+androgen receptor expression vector, the mouse mammary
+tumor virus-long terminal repeat chloramphenicol acetyltransferase (MMTV-LTR-CAT) reporter gene, and the
+pCHllO lac Z gene plasmids. Replicate plates of cells were
+subsequently incubated for 36 hr in the absence or presence
+of 0.1, 1.0, or 10 nM methyltrienolone (R1881). [14C]Chloramphenicol was incubated with cell extracts and the acetylated products and unmetabolized substrate were separated
+by thin-layer chromatography and quantitated by scintillation spectrophotometry. CAT activity was normalized for
+transfection efficiency based upon P-galactosidase activity
+and expressed as the fold-induction over the baseline activity
+in the absence of steroid. Similar results were obtained in
+another experiment.
+
+ing and transactivation properties of the AR affected by the R779W mutation. The substitution
+of valine at residue 807 differs from the arginine
+substitution reported by Adeyemo et al. (1993).
+The substitution of valine for methionine in our
+subject maintains a neutral, hydrophobic residue at
+this position whereas arginine is basic. Although
+both substitutions, valine or arginine, lead to the
+complete form of androgen insensitivity based
+upon clinical phenotype, our experimental results
+show that M807V retains partial steroid binding
+and partial agonist activity, albeit only at higher
+than physiologic concentrations of ligand. The
+substitution of arginine, M807R, caused absence of
+androgen binding and total failure to transactivate
+a CAT reporter gene, although binding of the mutated receptor to DNA was normal (Adeyemo et
+al., 1993).
+
+G+A
++T
+C+T
+C+ T
+G+A
+C+T
+G+A
+G+A
++A
++C
+T+A
+
++
+
+Y
+
+R+ Q
++stop
+R+ C
++
+
+R+
+
+H
+Q
+
+L
++stop
+R+ C
++ H
+R+
+C
++
+
+--z
+--f
+
+V+
++
+
+H
+H
+M
+
+M
+
+-+
+
+L
+
++
+
+E
+
+Number
+of cases
+reported
+1
+
+2
+2
+1
+5
+
+3
+2
+1
+3
+2
+5
+3
+1
+3
+2
+1
+3
+1
+
+”Abbreviations: nucleotides, A = adenine; C = cytosine;
+G =guanine; T = thymidine; amino acids, C = cysteine;
+D = aspartic acid E = glutamic acid; H = histidine; L = leucine;
+M = methionine; N = asparagine; Q = glutamine; R = arginine;
+V = valine; Y = tyrosine.
+
+in Table 2, two codons, 831 (Brown et al., 1990;
+DeBellis et al., 1992; McPhaul et al., 1992; Pinsky
+et al., 1992) and 866 (Hiort et al., 1993; KazemiEsfarjani et al., 1993; Lubahn et al., 1989;
+McPhaul et al., 1992; Saunders et al., 1992) have
+been reported to present 3 different mutations. A
+mutation at codon 855 has been reported previously on seven occasions. Three of them were
+R855C and our patient, 567, had this same mutation; all four families had complete AIS (DeBellis
+et al., 1992; McPhaul et al., 1992; Tincello et al.,
+1992). Four other cases were R855H, three of
+them being described as partial (Batch et al., 1992;
+McPhaul et al., 1992), including one from our
+laboratory (Chang et al., 1991), and another as
+complete AIS (McPhaul et al., 1992).
+A specific mutation which is reported several
+times, such as codon 774 R to C (5 cases) (Brown
+et al., 1990; Marcelli et al., 1991; Mebarki et al.,
+1990; Prior et al., 1992) and codon 840 R to H (5
+cases) (DeBellis et al., 1993; Ghirri and Brown,
+1993; Hiort et al., 1993; McPhaul et al., 1992;
+Pinsky et al., 1992), may also represent hot spots.
+
+Presence of “Hot Spots” for Mutations
+
+Point Mutations Involving Amino Acids With
+Basic Side Chains
+
+A codon which presents several different mutations may be considered as a “hot spot.” As shown
+
+Arginine (R), lysine (K), and histidine (H) are
+basic amino acids. When one looks at the coding
+
+MUTATIONS IN AR STEROID-BINDING DOMAIN
+
+1
+
+exon 5
+
+159
+
+Q
+
+M
+M
+
+R R
+
+v
+
+VDQV
+
+f
+
+ttt
+
+ttft
+
+V
+
+Q
+
+IF LV
+FLUS
+
+t
+
+tnr
+
+GFRNLHVDDQMAV~QYSWMGLMVFAMGWRSFTNVNSRMLYFAPDLVFN
+771
+724
+
+A
+
+A
+
+S
+
+M
+
+U
+
+ow
+
+A
+
+AA
+
+c
+
+MD
+
+V
+
+V
+
+M (3)
+
+c (5)
+
+t
+
+exon 6
+
+QV
+
+Q
+
+R
+
+W
+
+t
+
+t
+
+EYRMHKSRMYSQCVRMRHLSQEFGWLQITPQEFLCMKALLLFSJ
+
+A
+
+772A
+A
+
+0
+
+@
+
+A
+
+A
+
+A
+
+D
+
+E
+
+M
+
+0
+
+(3)Q
+
+c (4)
+
+(2) Q
+
+exon 7
+
+815
+
+@ M(2)
+
+A
+
+R
+
+G
+
+U
+
+O M
+
+M E
+
+t
+
+t t
+
+t
+
+t’l
+
+tt
+
+IPVDGLKNQKFFDELRMNYIKELDRIIACKRKNPTSCSRRFYQLTKLLDSVQP
+868
+816
+
+AA
+
+A
+
+A
+
+v
+
+c (2)
+
+Lx
+
+A
+
+(3)k
+I
+
+(4)
+
+M (5)
+
+5
+
+5
+
+exon 8
+
+Q
+
+M
+
+M
+
+t
+
+t
+
+t
+
+IARELHQFTFDLLlKSHMVSVDFPEMMAEllSVQVPKlLSGKVKPlYFHTQ
+869
+919
+
+AA
+
+A
+
+A
+
+M @
+
+M
+
+8
+
+FIGURE4. Mutations within exons 5-8 of the human androgen
+receptor steroid-binding domain of subjects with androgen
+insensitivity. The single letter code for the amino acid sequence of the human androgen receptor is shown in bold
+with the known amino acid substitutions shown as the outlined single letter amino acid code either above for cases of
+complete androgen insensitivity, or below for cases of partial
+
+androgen insensitivity. An asterisk (*) is used to indicate a
+stop codon and the numbers in parentheses refer to the number of individual reports for a given mutation. These data
+were compiled from reports in the literature and from the
+androgen receptor gene mutation data base established by
+Dr. Mark Patterson, Department of Paediatrics, University of
+Cambridge, England.
+
+sequence of the steroid binding domain (exons 5 to
+8), one finds three Rs in exon 5, four in exon 6,
+four in exon 7, and one in exon 8 (Fig. 4). Among
+the 12 arginine codons, point mutations have been
+reported in 8 of them and our study adds a ninth
+case (R779W, subject 542). Five mutated codons,
+752, 774, 779, 786, and 831 (Brown et al., 1990,
+1992; DeBellis et al., 1992; Marcelli et al., 1991;
+McPhaul et al., 1992; Mebarki et al., 1990; Nakao
+et al., 1992; Pinsky et al., 1992; Prior et al., 1992)
+resulted in complete AIS and three others, 840,
+854, and 871 (DeBellis et al., 1993; Ghirri and
+Brown, 1993; Hiort et al., 1993; McPhaul et al.,
+
+1992; Pinsky et al., 1992) resulted in partial AIS.
+It is of interest to note that when mutant codon
+855 encodes a histidine, it gives rise to a partial
+form and when it encodes a cysteine it gives rise to
+a complete form as in our subject 567. Among the
+six arginine residues mutated in cases of AIS, four
+of them (752, 774, 831, and 855) are completely
+conserved between the androgen, progesterone,
+and glucocorticoid receptors and an arginine or
+lysine (also basic) are present in the mineralocorticoid and/or estrogen receptors (Fig. 5). However,
+at residues 779 and 786, there is a total lack of
+amino acid conservation.
+
+160
+
+MURONO ET AL.
+
+exon 5
+hAR
+hPR
+hGR
+hMR
+hER
+
+*
+
+724
+738
+583
+789
+366
+
+exon 6
+hAR
+hPR
+hGR
+hMR
+hER
+
+* *
+
+772
+786
+642
+848
+414
+
+816
+830
+631
+837
+457
+
+exon 8
+hAR
+hPR
+hGR
+hMR
+hER
+
+869
+883
+728
+934
+510
+
+* *** ***
+
+*
+
+* * *
+
+**
+
+*
+
+**
+
+*
+
+*
+
+* *
+
+771
+785
+641
+847
+413
+
+*
+
+EYRMHKSRMYSQCVRMRHLSQEFGWL Q I TPQEF LCMKALLLFSI
+EQRMKESSF YSL CLTMWQ IPQEF VKL QV SQEEF LCMKVLLLLNT
+EQRMTLPCMYDQCKHMLYVS SEL HRL QVSY EEV LCMKTLLLLSS
+EEKMHQSAMYELCQGMHQ IS LQF VRL Q LT FEEY T IMKVLLLLST
+QGKCVEGMVE IFDML L ATSS R F RMMN LQGEEF VCLKSI I LLNS
+
+exon 7
+hAR
+hPR
+hGR
+hMR
+hER
+
+* * ** * *** * *
+
+**
+
+GFRNLHVDDQMAVIQYSWMGLMVFAMGWRSFTNVNSRMLYFAPDLV FN
+GFRNLH IDDQ IT LIQYSWMSLMVFG LGWRSYKHVSGQMLYFAPDLI LN
+GFRNLHLDDQMTLLQYSWMFLMAFA LGWRSYRQSSAN LLCFAPDL I I N
+GFKNLPLEDQ I TLIQYSWMCL SSFA LSWRSYKH TNSQFLT FAPDLV FN
+GFVNLTLHDQV HLLECAWL El LMFG LVWRSMEHPVK LLFA PNLL LDRN
+
+***
+
+815
+829
+630
+836
+456
+
+* *
+
+I P VDGLKNQK FFDELRM NYIK ELDR I IACK RKNPTSCSRRFYQLTK L LDSVQP 868
+I P L EGLRSQTQFEEMRSSYlR EL IKA IG LRQKGVVSSSQRFYQL TK L LDNLHD 882
+VP KDGLKSQE LFDE I RMTYIK ELGKA IVKREGNSSQNWQRFYQLTK LLDSMHE 727
+I P KDGLKSQAA FEEMR TNYIK ELRKMVTKCPNNSGQSWQRFYQL TK LLDSMHD 933
+GVYT FLSS TLK SLE EH DHIHRVLDK I IDT LI HL MAKA GL TLQQQHQRLAQL LL 509
+
+* *
+
+*
+
+*
+
+* *
+
+*
+
+1 ARELHQFTF DL L I KSHMVSVD FPEMMAE 1 ISVQVPKI LSGK VKPl Y FHTQ
+LVKQLHLYCL NT F I QSRALSVE FPEMM SEVIAAQLPK I LAGMVKPL L FH KK
+VVENLLNYCFQ TF LDKTM S I E FPEM L AE HTNQ IPKYSNGN I KKL L FH QK
+LVSDLLEF CF YT FRES HALKVE FPAML VE I ISDQLPKVESGNA KPLY FH RK
+I L SHIRHMSNKGMEHL YSMKCKNVVP L TDLLLEMLDAHRLHA PTSRGGA SV
+
+919
+933
+777
+984
+561
+
+FIGURE 5.
+
+Amino acid sequence comparisons of the human
+nuclear steroid receptor steroid-bindingdomains. The single
+letter codes for the amino acid sequences of the human androgen (hAR), progesterone (hPR), glucocorticoid (hGR),
+mineralocorticoid (hMR), and estrogen (hER) receptors are
+
+shown in alignment relative to the exon organization of the
+hAR gene. Amino acids known to be mutated in the hAR
+gene of subjects with androgen insensitivity (see Fig. 4) are
+indicated by an asterisk (*).
+
+The steroid-binding domain of the AR protein
+also contains three histidine and twelve lysine residues. Only one mutation of the codons corresponding to these amino acids has been reported
+and it results in a stop codon at residue 883 (Trifiro
+et al., 1991).
+Among point mutations reported to date which
+result in codons for amino acids with basic side
+chains, there are three giving rise to arginine,
+Y739R (Marcelli et al., 1992))W741R (Wilson et
+al. , 1992), and M807R (Adeymo et al., 1993). In
+each case, the phenotype was that of complete AIS
+and the normal amino acid Y, W, or M was completely conserved between the androgen, progesterone, glucocorticoid, and mineralocorticoid receptors (Fig. 5). In four instances, the mutant
+amino acid was histidine, the wild-type amino acid
+having either arginine, codons 774, 840, and 855,
+or proline (P904H) (McPhaul et al., 1992). The
+accumulation of data relating to mutations of the
+arginine codons in exons 5 to 8 suggests the im-
+
+portance of this basic amino acid for androgen
+binding to the AR. Mutations which give rise to
+an arginine appear to be as deleterious as those
+which replace an arginine by an alternative amino
+acid.
+Point Mutations Involving Amino Acids With
+Acidic Side Chains
+The steroid-binding domain includes eight aspartic acid (D) and nine glutamic acid (E) residues. Only three of their respective codons have
+been reported to present point mutations, codons
+732 (Brown et al., 1992; Pinsky et al., 1992)) 772
+(Pinsky et al., 1992; Tincello et al., 1992), and
+793 (Pinsky et al., 1992). Two different mutations
+at codon 732 (one case of D to N , two cases of D
+to Y) resulted in complete AIS phenotype while
+two different mutations at codon 772 (E to A, E to
+G) resulted in partial AIS. Among five point mutations which gave rise to an acidic amino acid,
+two resulted in complete AIS, 750 G to D (Batch
+
+MUTATIONS IN AR STEROID-BINDING DOMAIN
+
+et al., 1992) and 821 V to E (McPhaul et al.,
+1992), and three in partial AIS, 748 A to D
+(McPhaul et al., 1992), 793 E to D (Pinsky et al.,
+1992), and 798 Q to E (Batch e t al., 1992).
+
+Point Mutations Resulting in Stop Codons
+In addition to missense mutations, point mutations in six codons of the steroid binding domain
+have resulted in stop signals, codon 752 (Brown e t
+al., 1992) of exon 5, codons 786 (Pinsky et al.,
+1992) and 796 (Marcelli et al., 1990) of exon 7,
+codons 831 (DeBellis et al., 1992; Tincello et al.,
+1992) and 853 (Wilson e t al., 1992) of exon 7,
+and codon 883 (Trifiro et al., 1991) of exon 8. In
+all cases, the stop codon resulted in a complete
+form of AIS. The stop at codon 883 is closest to
+the 3’ end of the coding region and demonstrates
+that the last 36 amino acids play a role in steroid
+binding which is as important as any earlier deletions of the binding domain. In four cases, the stop
+codon replaced a codon for a basic amino acid
+(arginine for codons 752, 786, and 831; lysine for
+codon 883).
+In summary, mutations within the steroid-binding domain of the human androgen receptor are
+the most frequent molecular lesions responsible for
+androgen insensitivity. Several amino acid residues
+may represent “hot spots” for mutation due to their
+recurrence in multiple affected families. However,
+one must be impressed by the diversity of different
+mutations giving rise to the various phenotypes of
+partial or complete androgen insensitivity and the
+fact that steroid-binding and/or transcriptional activation properties of the mutant androgen receptors depend upon the exact position and amino
+acid substitution which occurs.
+
+ACKNOWLEDGMENTS
+This work was supported by National Institutes
+
+of Health Grants DK43147 (to T.R.B.) and
+
+DK00180 (to C.J.M.) and a Fellowship from Novo
+Nordisk Pharma Ltd. (to K.M.). We wish to acknowledge the ongoing contribution of Dr. Mark
+Patterson, Department of Paediatrics, University
+of Cambridge, England, in compiling the database
+for androgen receptor gene mutations.
+REFERENCES
+Adeymo 0, Kallio PJ, Palvimo J , Kontula K, Janne O A (1993) A
+single-base substitution in exon 6 of the androgen receptor
+gene causing complete androgen insensitivity: The mutated
+receptor fails to transactivate but binds to DNA in vitro. Hum
+Mol Genet 2:18@9-1812.
+An G , Hidaka K, Siminovitch L (1982) Expression of bacterial
+P-galactosidase in animal cells. Mol Cell Biol 2:1628-1632.
+
+161
+
+Anderson S, Davis DN, Dahlback H , Jornvall H, Russell DW
+(1989) Cloning, structure, and expression of the mitochondria1
+cytochrome P-450 sterol 26-hydroxylase, a bile acid biosynthetic enzyme. J Biol Chem 264:8222-8229.
+Batch JA, Williams DM, Davies HR, Brown BD, Evans BAJ,
+Hughes IA, Patterson MN (1992) Androgen receptor gene
+mutations identified by SSCP in fourteen subjects with androgen insensitivity syndrome. Hum Mol Genet 1:497-503.
+Brinkmann AO, Jenster G, Kupier GGJM, Ris C , van Laar JH,
+van der Korput JAGM, Degenhart HJ, et al. (1992) The human androgen receptor: structurelfunction relationship in normal and pathological situations. J Steroid Biochem Mol Biol
+41:361-368.
+Brown TR, Migeon CJ (1987) Androgen insensitivity syndromes:
+paradox of phenotypic feminization with male genotype and
+normal testicular androgen secretion. In: Cohen MP, Foa PP
+(eds): Hormone Resistance and Other Endocrine Paradoxes.
+New York: Springer-Verlag, pp 157-203.
+Brown TR, Lubahn DB, Wilson EM, Joseph DR, French FS, Migeon CJ (1988) Deletion of the steroid-binding domain of the
+human androgen receptor gene in one family with complete
+androgen insensitivity syndrome: Evidence for further genetic
+heterogeneity in this syndrome. Proc Natl Acad Sci USA 85:
+8151-8155.
+Brown TR, Lubahn DB, Wilson EM, French FS, Migeon C],
+Corden JL (1990) Functional characterization of naturally occurring mutant androgen receptors from subjects with complete
+androgen insensitivity. Mol Endocrinol 4: 1759-1772.
+Brown TR, Newmark J, Ghirri P (1992) Six naturally occurring
+mutations in the 144-base pairs of exon E of the human androgen receptor gene. 74th Annual Meeting of The Endocrine
+Society, San Antonio, TX (Abstract 1506).
+Brown TR, Scherer PA, Chang Y-T, Migeon C J , Ghirri P, Murono K, Zhou Z (1993) Molecular genetics of human androgen
+insensitivity. Eur J Pediatr 152 (Suppl 2):S62-S69.
+Burton K (1956) A study of the conditions and mechanism of the
+diphenylamine reaction for the colorimetric estimation of
+deoxyribonucleic acid. Biochem J 62:315-323.
+Cato ACB, Henderson D, Ponta H (1987) The hormone response
+element of the mouse mammary tumor virus DNA mediates the
+progestin and androgen induction of transcription in the proviral long terminal repeat region. EMBO J 6:363-368.
+Chang YT, Migeon CJ, Brown TR (1991) Human androgen insensitivity syndrome due to androgen receptor gene point mutations in subjects with normal androgen receptor levels but
+impaired biological activity. 73rd Annual Meeting of The Endocrine Society, Washington, DC (Abstract 28).
+DeBellis A, Quigley CA, Carielio NF, El-Awady MK, Sar M,
+Lane MV, Wilson EM, et al. (1992) Single base mutations in
+the androgen receptor gene causing complete androgen insensitivity: Rapid detection by a modified denaturing gradient gel
+electrophoresis technique. Mol Endocrinol 6:1909-1920.
+DeBellis A, Quigley CA, Marschke KB, El-Awady MK, Lane MV,
+Smith EP, Sar M, Wilson EM, et al. (1994) Characterization
+of mutant androgen receptors causing partial androgen insensitivity syndrome. J Clin Endocrinol Metab 78:513-522.
+Ghirri P, Brown TR (1993) Improved detection of point mutations
+in the human androgen receptor gene by denturing gradient gel
+electrophoresis of DNA heteroduplexes under stringent denaturing conditions. IVth Joint Meeting of the Lawson Wilkins
+Pediatric Endocrine Society/European Society of Paediatric Endocrinology, San Francisco, C A (Abstract 95).
+Gorman CM, Moffat LF, Howard BH (1982) Recombinant genomes which express chloramphenicol acetyltransferase in
+mammalian cells. Mol Cell Biol 2:1@44-1051.
+Hiort 0, Huang 0, Sinnecker GHG, Sadeghi-Nejad A, Kruse K,
+
+162
+
+MORON0 ET AL.
+
+Wolfe HJ, Yandell DW (1993) Single strand conformational
+polymorphism analysis of androgen receptor gene mutations in
+patients with androgen insensitivity syndromes: Application
+for diagnosis, counseling and therapy. J Clin Endocrinol Metab
+77:262-266.
+Kazemi-EsfarjaniP, Beitel LK, Trifiro M, Kaufman M, Rennie PS,
+Sheppard PC, Matusik RJ, et al. (1993) Substitution of valine865 by methionine or leucine in the human androgen receptor
+causes complete or partial androgen insensitivity, respectively,
+with distinct androgen receptor phenotypes. Mol Endocrinol
+7:37-46.
+Lubahn DB, Brown TR, Simental JA, Higgs HN, Migeon CJ,
+Wilson EM, French FS (1989) Sequence of the introdexon
+junctions of the coding region of the human androgen receptor
+gene and identification of a point mutation in a family with
+complete androgen insensitivity. Proc Natl Acad Sci USA 86:
+9534-9538.
+Marcelli M, Tilley WD, Wilson CM, Wilson JD, Griffin JE,
+McPhaul MJ (1990) A single nucleotide substitution introduces a premature termination codon into the androgen receptor gene of a patient with receptor-negative androgen resistance. J Clin Invest 85:1522-1528.
+Marcelli M, Tilley WD, Zoppi S, Griffin JE, Wilson JD, McPhaul
+MJ (1991) Androgen resistance associated with a mutation of
+the androgen receptor at amino acid 772 (Arg + Cys) results
+from a cornhination of decreased messenger ribonucleic acid
+levels and impairment of receptor function. J Clin Endocrinol
+Metab 73:318-325.
+Marcelli M, Zoppi S,Wilson CM, Griffin JE, Wilson ID, McPhaul
+MJ (1992) Amino acid substitution in a small segment of exon
+5 of the human androgen receptor (AR) gene cause complete
+testicular feminization (CTF) by different mechanisms. 74th
+Annual Meeting of The Endocrine Society, San Antonio, TX
+(Abstract 224).
+McPhaul MI, Marcelli M, Tilley WD, Griffin JE, Isidro-Gutierrez
+RF, Wilson J D (1991) Molecular basis of androgen resistance
+in a family with a qualitative abnormality of the androgen
+receptor and responsive to high-dose androgen therapy. J Clin
+Invest 87:1413 -142 1.
+McPhaul MJ, Marcelli M, Zoppi S,Wilson CM, Griffin JE, Wilson JD (1992) Mutations in the ligand-binding domain of the
+androgen receptor gene cluster in cwo regions of the gene. J
+Clin Invest 90:2097-2101.
+
+McPhaul MJ, Marcelli M, Zoppi S,Griffin JE, Wilson JD (1993)
+Genetic basis of endocrine disease 4. The spectrum of mutations in the androgen receptor gene that causes androgen resistance. J Clin Endocrinol Metab 76:17-23.
+Mebarki E, Gasmi M, Forest MG, David M, Chatelain P, Morel Y
+(1990) Analysis of polymerase chain reaction (PCR)-amplified
+exons of the androgen receptor gene in 14 patients with genetic
+androgen resistance. 72nd Annual Meeting of The Endocrine
+Society, Atlanta, G A (Abstract 791).
+Nakao R, Haji M, Yanase T, Ogo A, Takaynagi R, Katsube T,
+Fukumaki Y, Nawata H (1992) A single amino acid substitution (Met 786 Val) in the steroid binding domain of human
+androgen receptor leads to complete androgen insensitivity
+syndrome. ] Clin Endocrinol Metab 74:1152-1157.
+Pinsky L, Trifiro M, Kaufman M, Beitel LK, Mhatre A, KazemiEsfarjani P, Sebbaghian M, et al. (1992) Androgen resistance
+due to mutations of the androgen receptor. Clin Invest Med
+15456-472.
+Prior L, Bordet S,Trifiro M, Mhatre A, Kaufman M, Pinsky L,
+Wrogemann K, et al. (1992) Replacement of arginine 773 by
+cysteine or histidine in the human androgen receptor causes
+complete androgen insensitivity with different receptor phenotypes. Am J Hum Genet 51:143-155.
+Saunders PTK, Padayachi T, Tinicello DG, Shalet SM, Wu FCW
+(1992) Point mutations detected in the androgen receptor gene
+of three men with partial androgen insensitivity syndrome.
+Clin Endocrinol 37:214-220.
+Tincello DG,Hargeave TB, Wu FC, Padayachi T, Saunders PT
+(1992) Mutations in the androgen receptor gene of patients
+with androgen insensitivity. J Endocrinol 132 Suppl (Abstract
+87).
+Trifiro M, Prior RL, Sabbaghian N , Pinsky L, Kaufman M, Nylen
+EG, Belsham DD, Greenherg CR, Wrogemann K (1991) Amber mutation creates a diagnostic Mae I site in the androgen
+receptor gene of a family with complete androgen insensitivity.
+Am J Med Genet 40:493-499.
+Wilson CM, Griffin JE, Wilson JD, Marcelli M, Zoppi S,McPhaul
+MJ ( 1992) Immunoreactive androgen receptor expression in
+subjects with androgen resistance. J Clin Endocrinol Metah
+75:1474-1478.
+
+

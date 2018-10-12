@@ -1,0 +1,891 @@
+Germline p53 Mutations Are Frequently Detected in Young Children
+with Rhabdomyosarcoma
+Lisa Diller,t Elizabeth Sexsmith,* Amy Gottlieb,* Frederick P. Li, and David Malkin*
+*Division of Oncology, Department of Pediatrics, The Hospital for Sick Children, University of Toronto, Toronto, Ontario,
+Canada M5G IX8; and tDivisions of Pediatric Oncology and *Epidemiology and Cancer Control, Dana-Farber Cancer Institute,
+Boston, Massachusetts 02115
+
+Address correspondence to David Malkin, M.D., Division of Oncology,
+The Hospital for Sick Children, 555 University Avenue, Toronto, Ontario, Canada M5G 1X8. Phone: 416-813-6200; FAX: 416-813-5327.
+Received for publication 18 August 1994 and in revised form 16
+November 1994.
+
+phoprotein that functions as a negative regulator of cell proliferation (3, 4). p53 is a transcription activating factor that acts as
+a "checkpoint" control late in GI to block the progression of
+cells through the cell cycle, particularly in the presence of DNA
+damage (5-9).
+Alterations of the p53 gene or its encoded protein are the
+most common genetic abnormalities observed in human cancers
+(10, 11), having been associated with virtually every sporadically occurring malignancy ( 12, 13 ). The presence of heterozygous p53 mutations in an individual's constitutional cells confers a high risk for the development of a diverse set of malignancies (14). Such germline p53 mutations were initially identified
+in affected members of families with the Li-Fraumeni syndrome
+(LFS)' ( 15, 16). This autosomal, dominantly inherited disorder
+is characterized by the presence of soft tissue and osteosarcomas, early onset breast cancers, adrenocortical carcinomas,
+brain tumors, and acute leukemias in affected family members
+( 17-20). Other features of LFS include the early age at diagnosis of tumors and the propensity of affected individuals to develop multiple primary tumors (14, 19, 20). The relationship
+between LFS and constitutional p53 mutations is complex. Although the majority of LFS families analyzed to date harbor
+germline p53 mutations in the coding region of the gene ( 15,
+16, 21, 22), some LFS families lack detectable mutations (23,
+24), and constitutional mutations have been identified in some
+cancer patients without a family history of malignancy
+(25-31).
+The presence of a childhood sarcoma is the primary criterion
+for the diagnosis of LFS. In addition, despite potential bias
+through ascertainment methods, rhabdomyosarcoma (RMS) is
+the most frequently diagnosed sarcoma in this syndrome. Based
+on these observations, we elected to study a series of unselected
+pediatric RMS patients from two large institutions in order to
+determine the frequency of constitutional p53 mutations in this
+population and to correlate these findings with any distinct characteristics of these patients or their tumors. We chose to study
+patients who do not have family histories suggestive of a cancerpredisposing syndrome, so that the frequency of constitutional
+p53 mutations in patients with apparently sporadic disease could
+be assessed.
+Genomic DNA extracted from peripheral blood lymphocytes of children with RMS was screened using PCR and singlestrand conformation polymorphism (SSCP) analysis. All coding exons of the gene were analyzed. Those samples that showed
+altered electrophoretic mobility compared with the wild-type
+controls were further analyzed by dideoxynucleotide sequencing to characterize the alterations. The results of this analysis
+
+J. Clin. Invest.
+© The American Society for Clinical Investigation, Inc.
+0021-9738/95/04/1606/06 $2.00
+Volume 95, April 1995, 1606-1611
+
+1. Abbreviations used in this paper: LFS, Li-Fraumeni syndrome; RMS,
+rhabdomyosarcoma; SSCP, single-strand conformation polymorphism.
+
+Abstract
+We investigated the possibility that a proportion of children
+with sporadic rhabdomyosarcoma (RMS) carry constitutional mutations of the p53 tumor suppressor gene. 33 patients with sporadic RMS at two large outpatient pediatric
+oncology clinics submitted blood samples. Genomic DNA
+was extracted from peripheral blood leukocytes and PCR
+was used to amplify exons 2-11 of the p53 gene. Amplified
+genomic DNA was screened for the presence of germline p53
+mutations using single-strand conformation polymorphism
+(SSCP) analysis. The DNA sequence of those samples that
+showed aberrant migration of bands on SSCP analysis was
+determined to identify the precise nature of the gene mutations. Patient records were reviewed to assess clinical correlates of the mutant p53 carrier state. Heterozygous constitutional mutations were detected in 3/33 patient samples
+screened. Two of these missense mutations are located in
+exon 7 and one in exon 8 of the p53 gene. The presence of
+mutations was not correlated with tumor histology, stage,
+or site. However, an association between young age at diagnosis and presence of a constitutional p53 mutation was
+noted: 3/13 children under the age of 3 yr at diagnosis
+carried mutations, whereas none of 20 children over 3 yr of
+age at diagnosis harbored a detectable constitutional mutation. These results in children with RMS corroborates previous findings in other clinical settings suggesting that the
+mutant p53 carrier state may predispose individuals to malignancy at an early age. Although this study did not assess
+whether the mutations were preexisting or new germline
+alterations, assessment of close relatives of RMS patients
+for cancer risk and predictive genetic testing may be indicated. (J. Clin. Invest. 1995. 95:1606-1611.) Key words: LiFraumeni syndrome rhabdomyosarcoma * p53 tumor suppressor gene germline mutation
+-
+
+-
+
+Introduction
+The p53 tumor suppressor gene, located on the short arm of
+human chromosome 17 (1, 2), encodes a 53-kd nuclear phos-
+
+1606
+
+L Diller, E. Sexsmith, A. Gottlieb, F. P. Li, and D. Malkin
+
+are discussed in the context of the histologic subtype, tumor site,
+grade, sex, and age at diagnosis. In addition, the implications of
+the identification of germline p53 mutations in this population
+of patients is discussed with respect to the role of predictive
+genetic testing for the development of cancer.
+
+Methods
+
+Results
+Clinical characteristics ofpatients. 36 children with RMS or a
+history of RMS were seen at the two centers during the study
+period. Three patients were ineligible for the study: one had a
+family history consistent with LFS, one had a first-degree relative with cancer, and one carried a coincident clinical diagnosis
+of neurofibromatosis type 1. 33 patients were therefore entered
+into the study; family history and clinical history for all 33
+revealed no LFS, no first-degree relative with cancer, no history
+of neurofibromatosis, and no history of second cancers. The
+clinical data for all 33 participants screened are outlined in
+Table I. The mean age at diagnosis of RMS was 60.1 mo (range
+6 mo to 18 yr). There were 12 females and 21 males. Primary
+sites of origin are 11 genitourinary system, 8 head and neck, 4
+orbital, 8 extremity, 1 abdominal, and 1 arising from the diaphragm. Histologic subtype was embryonal in 20 patients, alveolar in 11 patients, and mixed or undifferentiated in 2 patients.
+Clinical groups were determined according to the criteria of
+the International Rhabdomyosarcoma Study IV (32) and are
+outlined for each patient in Table I.
+
+Patient selection and clinical data. Informed consent was obtained from
+the parents of all eligible minor patients ( < 18 yr of age) and all eligible
+patients who were now adults. In addition, minor patients above age 12
+yr gave consent after an explanation of the study. Patients with RMS,
+or a history of RMS, seen consecutively in the outpatient pediatric
+oncology clinics at the Dana-Farber Cancer Institute in Boston, MA, or
+The Hospital for Sick Children in Toronto, Ontario, were asked to
+participate in the study. Those patients with LFS, neurofibromatosis,
+second cancers, or a first-degree relative with cancer were excluded.
+The study group included newly diagnosed patients, patients on active
+treatment, and those in long-term follow-up. Age at diagnosis, sex,
+tumor histology (alveolar, embryonal), tumor site, grade (32), and
+current clinical outcome were obtained and recorded for each patient.
+Mutation analysis by SSCP and DNA sequencing. SSCP
+Preparation of genomic DNA. After signed informed consent was
+analysis identified 7/33 genomic DNA samples with altered
+obtained, peripheral blood was drawn into EDTA-containing vacutainer
+band patterns. Four of these proved to represent previously
+tubes from each patient. White cells were isolated using a standard
+documented
+sequence polymorphisms (34, 35) (data not
+phenol-chloroform extraction method. To prepare high molecular
+shown). Three patients were shown to be heterozygous for
+weight genomic DNA, white blood cells were resuspended in high TE
+specific germline p53 mutations, in that DNA sequence analysis
+buffer (100 mM Tris, 40 mM EDTA, pH 8.0). The cells were then
+revealed the presence of both a wild-type allele and an allele
+lysed by adding an equal volume of high TE buffer containing 0.2%
+SDS. After two extractions with TE-saturated phenol and one with
+containing a point mutation. These results are illustrated in Fig.
+chloroform/isoamyl alcohol (25:1), the DNA was precipitated with
+1 and summarized in Table H. The mean age of onset of disease
+1/10 volume of 4 M ammonium acetate and an equal volume of isoprofor the noncarriers was 73.8 mo. The three carriers of mutant
+panol. The DNA was redissolved in 10 mM Tris, pH 7.5, 1 mM EDTA
+p53 tended to be younger (18, 19, and 29 mo), as determined
+and stored at 40C at a concentration of 50 ng/pl.
+by a two-sided Wilcoxon rank sum test (P = 0.065).
+PCR-SSCP analysis and DNA sequencing. Nine sets of primers were
+Patient 312 was 19 mo of age at diagnosis of a group III
+generated to amplify DNA fragments spanning exons 2-11 of the p53
+embryonal
+RMS of the vagina. An A to G switch at the second
+gene. The primer sequences and lengths of the amplified fragments have
+position
+of
+codon 235 in exon 7 yielded an amino acid change
+been previously published (33, 34). PCR was performed using 250 ng
+from asparagine to serine. 19 yr after diagnosis, the patient is
+of template DNA in 50 mM Tris-HCl, pH 8.6, with 1.5 mM MgCl2,
+free of recurrence or second cancer and has no interval occur0.2 mM each dNTP, 250 ng of each primer, 1 MI of [32P]dCTP (3,000
+rence of cancer in the family. Patient 338 was 29 mo of age at
+Ci/mmol) diluted 1:10, and 2.5 U of Taq polymerase (AmpliTaq; Cetus
+diagnosis of a group II alveolar RMS of the right thigh. A G
+Corp., Emeryville, CA) in a 50-IlI total reaction volume. The reaction
+conditions for the thermocycler (model 480, Perkin-Elmer Corp., Norto C switch at the second position of codon 306 in exon 8
+walk, CT) were 94°C (45 s), 55°C (45 s), and 72°C (45 s) for 35
+predicts an amino acid change from arginine to proline. The
+cycles. The reaction was initiated with a 10-min incubation at 85°C and
+patient is now 2 yr from diagnosis with no history of recurrence
+terminated with a 7-min incubation at 72°C followed by 3 min at 94°C.
+or second cancer and no significant family history of cancer.
+5 MI of the PCR product was added to an equal volume of loading
+Patient
+359 was 18 mo of age at diagnosis of a group II embuffer (95% formamide, 20 mM EDTA, 0.05% bromphenol blue, 0.05%
+bryonal
+RMS of the orbit. A T to A switch at the first position
+xylene cyanol). The samples were denatured at 85°C for 5 min and
+of
+codon
+227 in exon 7 predicts an amino acid change from
+loaded immediately onto an acrylamide-Tris-buffered EDTA nondenaserine to threonine. The patient is now 6 yr from diagnosis,
+turing gel. The gels contained 4.5-9.0% acrylamide and 2-10% glycwith no history of recurrence or second cancer. Of note, the
+erol, depending on the exon fragment being analyzed. Electrophoresis
+family history of this patient is significant for a paternal uncle
+was performed at 25 W for 6-7 h or at 10 W for 15-17 h at room
+temperature. The gel was blotted onto 3M filter paper (Fisher, Toronto,
+with testicular carcinoma at age 40, although there is no history
+ON), dried, and exposed to x-ray film (Eastman Kodak Co., Rochester,
+of malignancy in any first-degree relatives. Although functional
+NY) with an intensifying screen at -70°C for 4-72 h. Each fragment
+analyses of these mutations were not performed, each has been
+was analyzed using two or three electrophoretic conditions, again depreviously reported to occur as acquired alterations in sporadic
+pending on the specific fragment being analyzed. Each gel carried both
+tumors ( 13, 22), suggesting that they are not likely to represent
+positive and negative controls to ensure that known mutations could be
+polymorphisms.
+detected. A fresh aliquot of DNA from each sample determined to be
+abnormal by detectable band shifts on SSCP analysis was amplified
+Discussion
+with the SSCP primers encompassing the respective abnormal region.
+Fragments were directly subcloned into a T-tailed pBSK vector, and at
+RMS is thr most common sarcoma of childhood and accounts
+least six independent clonse were sequenced in both directions by the
+for 10-15% of all childhood cancers (36). The etiology of this
+Sanger dideoxide method with a Sequenase 2.0 kit (US Biochemicals/
+Amersham Corp., Arlington Heights, IL).
+tumor is unknown, but several lines of evidence suggest that a
+
+Germline p53 Mutations in Childhood Rhabdomyosarcoma
+
+1607
+
+Table I. Clinicopathologic Characteristics of Patients
+Patient
+
+Sex
+
+Age at diagnosis
+
+Site
+
+Group
+
+Stage
+
+Histology
+
+Outcome
+
+093
+307
+310
+311
+312
+313
+314
+332
+333
+334
+335
+336
+338
+347
+349
+350
+355
+359
+360
+
+M
+M
+M
+M
+F
+M
+F
+F
+M
+M
+M
+M
+F
+M
+F
+F
+F
+M
+M
+F
+F
+M
+M
+F
+M
+M
+M
+F
+M
+F
+M
+M
+M
+
+36
+157
+220
+5
+19
+8
+30
+198
+108
+150
+60
+22
+29
+30
+114
+72
+60
+18
+16
+63
+156
+72
+126
+38
+36
+35
+6
+19
+104
+129
+79
+26
+38
+
+Extremity
+Bladder
+Paratestical
+Orbit
+Vaginal
+Bladder
+Parapharyngeal
+Diaphragm
+Prostate
+
+III
+III
+I
+I
+I
+
+Hi
+
+A
+E
+A
+U
+E
+E
+E
+E
+E
+E
+A
+E
+A
+E
+M
+E
+A
+E
+E
+E
+A
+E
+A
+A
+A
+A
+E
+E
+A
+E
+E
+E
+E
+
+DOD
+DOD
+A/W
+DOD
+A/W
+A/W
+A/W
+DOD
+A/W
+DOD
+A/W
+A/W
+A/W
+A/W
+
+373
+408
+424
+431
+434
+435
+453
+454
+455
+457
+458
+459
+460
+461
+
+Maxilla
+Abdomen
+Bladder
+Extremity
+Orbit
+Nasopharyngeal
+Masseter
+Extremity
+Orbit
+Bladder
+Middle ear
+
+Vagina
+Paratestical
+Extremity
+Spine
+Extremity
+Axilla
+Palate
+Pelvis
+Axilla
+Sinus
+Orbit
+Bladder
+
+Pharynx
+
+HI
+III
+IV
+IV
+
+Ill
+Ill
+IV
+H
+III
+HI
+IV
+
+HI
+H
+H
+I
+Hi
+II
+IV
+IV
+III
+
+Hi
+I
+I
+I
+III
+
+HI
+IV
+IV
+H
+
+il
+IV
+II
+II
+
+Hi
+IV
+
+H
+I
+
+mi
+II
+
+Hi
+I
+IV
+IV
+
+Hi
+H
+II
+I
+m
+H
+IHi
+
+Ill
+
+Ill
+
+I
+H
+I
+Hi
+
+H
+I
+H
+II
+
+A/W
+A/D
+A/W
+A/W
+A/W
+A/W
+A/W
+A/W
+DOD
+A/D
+
+A/D
+A/W
+A/W
+A/W
+DOD
+
+A/W
+A/W
+A/W
+
+ANW
+
+Characteristics of the study population. Age at diagnosis is given in months. Stage and group are based on International Society of Pediatic Oncology
+Union Internationale Centre le Cancer soft tissue sarcoma clinical staging system (53), and the International Rhabdomyosarcoma Study IV classification. A, alveolar; E, embryonal; U, undifferentiated; M, mixed (alveolar/embryonal). A/W, patient is alive without evidence of disease; A/D, patient
+is currently alive with evidence of active disease on therapy; DOD, patient has died of disease.
+
+proportion of patients with RMS are genetically susceptible to
+the development of the tumor. In 1969, Li and Fraumeni first
+defined an increased risk of cancers, especially breast cancer,
+in the relatives of patients with RMS (17, 18). Subsequent
+studies of RMS patients and their families have revealed an
+increased relative risk of early onset breast cancer in mothers
+of patients with RMS (37). This association has not been seen
+consistently in mothers of other childhood cancer patients. RMS
+is one of the tumors observed as a second cancer in survivors
+of childhood cancer (38) and is the most common sarcoma
+described in LFS (19, 20). A study of RMS tumor samples
+revealed a high frequency of alterations at the p53 tumor suppressor locus (39, 40). The current study provides genetic evidence that RMS, in a subset of patients, is associated with the
+carrier state of a constitutionally altered allele of the p53 tumor
+suppressor gene.
+Previous surveys have sought to identify the clinical situations associated with increased risk of harboring a germline p53
+1608
+
+L Diller, E. Sexsmith, A. Gottlieb, F. P. Li, and D. Malkin
+
+mutation. Among families with LFS, the risk of carriage of a
+constitutional p53 mutation has been variable among studies.
+Initially, it had been demonstrated that 5/5 families with classic
+LFS harbored mutations (15 ), yet subsequent studies have been
+able to demonstrate mutations only in 70% of LFS families (14,
+22, 23, 25, 41). Toguchida et al. (26) analyzed the entire coding
+sequence of the p53 gene in 196 sarcoma patients of all ages,
+most of whom had osteosarcoma. 15 of these patients were
+specifically recruited to the study because of an unusual family
+history of cancer. Eight individuals with germline p53 mutations
+were found, although only two of these were patients without
+an unusual family history of cancer. The authors did not note
+whether a tendency to early onset of disease in the mutant p53
+carriers existed. Among women with breast cancer, germline
+p53 mutations have been reported to be rare, with Sidransky et
+al. and B0rresen et al. finding only 2/337 women carrying
+mutations (29, 30). Of children and young adults who develop
+second malignant neoplasms after surviving childhood cancer,
+
+A
+
+EXON 7
+(N
+
+B
+
+EXON7
+
+CA
+
+AGCT
+
+S K.
+_
+
+AG T
+AC
+A
+
+AGT
+.
+~~~~~~~.T..
+
+MUT.
+C
+
+4/59 harbored germline p53 mutations. Adrenocortical carcinoma, an extremely rare tumor of childhood except in the setting
+of Beckwith-Wiedemann syndrome or LFS, has been associated
+with the p53 carrier state in 3/6 children studied (42). None
+of these individuals had a family history of cancer. In another
+survey, 2/6 children with adenocortical carcinoma in LFS families harbored germline p53 mutations (43). A survey of individuals with childhood acute lymphoblastic leukemia revealed 1
+carrier of a germline p53 mutation among 25 patients studied
+(44). A recent survey of 235 unselected children with osteosarcoma found 7 (2.5%) who harbored mutations (45). Three of
+these children have no family history of cancer. In summary,
+the risk of carriage of a p53 mutation for a cancer patient
+without a strong family history of malignancy, a second cancer,
+or adrenocortical carcinoma is very low.
+We report here that 3/33 children (9.1%) with RMS without
+a family history of cancer or second cancers harbor constitutional p53 mutations. This represents the highest proportion of
+patients to be described to date, except those with adrenocortical
+carcinoma who carry mutations but who have no suggestive
+family history or second cancers. All mutations were missense
+and predict amino acid substitutions. Gender, tumor site, histology, and clinical group showed no correlation with the presence
+or absence of mutations. However, 3/13 children (23%) diagnosed before the age of 3 yr carried p53 mutations, whereas 0/
+20 children 3 yr or older at diagnosis harbored mutations. The
+association between young age at diagnosis and genetic predisposition has been observed in other settings, such as in retino-
+
+Table IL Characteristics of Germline p53 Mutations
+in Three Patients
+Patient
+
+Exon
+
+Codon
+
+Basepair change
+
+Amino acid switch
+
+312
+338
+359
+
+7
+8
+7
+
+235
+306
+227
+
+AAC - AGC
+CGA - CCA
+TCT - ACT
+
+Asparagine - serine
+Arginine - proline
+Serine
+
+-
+
+threonine
+
+Characteristics of germline p53 mutations in three patients harboring
+heterozygous mutant p53.
+
+Figure 1. (a) SSCP analysis of the exon-7 fragment of the p53
+gene from DNA extracted from peripheral blood leukocytes of
+patient 312. Note the extra band (band shift) in the lane carrying
+the patient's sample as compared with flanking wild-type controls.
+The presence of this shift is highly suggestive of a sequence alteration within the amplified gene fragment. (b) DNA sequence of
+the exon-7 fragment of the p53 gene from patient 312. The sequence is read from the bottom of the gel. A nucleotide switch
+from A to G at the second position of codon 235 (AAC - AGC)
+yields an amino acid change from asparagine to serine. A, adenine;
+G, guanine; C, cytosine; T, thymine; W.T., wild-type sequence;
+MUT., mutant sequence.
+
+blastoma and Wilms' tumor (46, 47). A larger sample size
+may allow stronger correlations between clinical and biologic
+factors, as well as a more stable estimation of frequency of
+mutations; however, the concepts that patients with RMS are
+at risk for p53 mutations and that a negative family history for
+malignancy does not eliminate this risk have been established
+by this study.
+The three mutations found have been previously described
+in somatic tumor tissue, but not in constitutional samples (13,
+22). Of interest, one of the three patients was noted to have an
+alveolar RMS, a tumor associated with a nonrandom chromosomal translocation, t(2;13) (48). The fact that this patient
+carried a p53 mutation suggests that tumorigenesis of alveolar
+RMS is a multistep process that may be associated with genetic
+alterations beyond the characteristic translocation.
+This study was designed as a survey, rather than a screening
+and predictive testing analysis. Thus, we did not examine the
+parents or siblings of the RMS patients for p53 mutations and
+are therefore unable to assess the rate of de novo versus inherited mutations in this group. It is possible that family members
+of those children found to harbor mutations may be carriers
+who have not, as yet, manifested disease. Because predictive
+testing of unaffected relatives has specific medical, social, and
+ethical implications, this screening is being carried out within
+the setting of carefully monitored genetic counselling-based
+studies at both participating institutions, for those family members who desire it.
+Children with RMS who were not found to harbor germline
+p53 gene mutations in this series may yet have a genetically
+based increased risk for malignancy. Because SSCP is a technique with < 100% sensitivity, it is likely that not all p53
+mutations were detected in the patient DNA samples. Some
+patients may carry wild-type p53 alleles, but inherit a predisposition for the development of cancer through a different gene
+or through a mechanism that functionally inactivates wild-type
+P53 protein. Such a scenario has been described in a patient
+from an LFS family who had no identifiable p53 gene mutation,
+but who demonstrated increased immunostaining of P53 protein
+in constitutional cells, suggesting abnormal stabilization of the
+protein (24). Other candidate genes for RMS predisposition
+would include the murine double minute gene, mdm-2, which
+Germline p53 Mutations in Childhood Rhabdomyosarcoma
+
+1609
+
+encodes a protein that complexes with P53 and may inhibit its
+function (49, 50). In fact, MDM-2 has been shown to be amplified or overexpressed in some sarcoma subtypes (50-52). Finally, children with RMS may also develop their disease as a
+consequence of alterations of other cancer-associated genes
+such as the neurofibromatosis-1 gene.
+The previously observed finding of early onset RMS in LFS
+families together with the relatively high frequency of germline
+p53 mutations in early onset RMS observed in this cohort suggests a broader definition of LFS, as well as possible biologic
+differences between childhood RMS of early and late onset.
+These observations may in turn lead to novel therapeutic approaches to childhood RMS and could influence the clinical
+management of RMS survivors and family members.
+
+Acknowledgments
+This work is supported in part by a grant from the National Cancer
+Institute of Canada (D. Malkin), the National Institutes of Health
+(5K07CA1648-02) (L. Diller), The Starr Foundation (F. P. Li), and
+The David B. Perini, Jr., Quality of Life Program (A. Gottlieb, L.
+Diller). D. Malkin is a scholar of the Medical Research Council of
+Canada.
+
+References
+1. McBride, O., D. Merry, and 0. Givol. 1986. The gene for human p53
+cellular tumor antigen is located on chromosome 17 short arm (17pl3). Proc.
+Natl. Acad. Sci. USA. 83:130-134.
+2. Isobe, M., B. S. Emanuel, D. Givol, M. Oren, and C. M. Croce. 1986.
+Localization of gene for p53 tumor antigen to band 17pl3. Nature (Lond.).
+320:84-85.
+3. Lamb, D. P., and L. Crawford. 1986. Characterization of the human p53
+gene. Mol. Cell. Biol. 6:1379-1385.
+4. Finlay, C. A., P. W. Hinds, and A. J. Levine. 1989. The p53 proto-oncogene
+can act as a suppressor of transformation. Cell. 57:1083-1093.
+5. Lin, D., M. T. Shields, S. J. Ullrich, E. Appella, and W. E. Mercer. 1992.
+Growth arrest induced by wild-type p53 blocks cells prior to or near the restriction
+point in late GI-phase. Proc. Natl. Acad. Sci. USA. 89:9210-9214.
+6. Mercer, W. E. 1992. Cell cycle regulation and the p53 tumor suppressor
+protein. Crit. Rev. Eucaryotic Gene Expression. 2:251-263.
+7. Kastan, M. B., 0. Onyerkwere, D. Sidransky, B. Vogelstein, and R. W.
+Craig. 1991. Participation of p53 protein in the cellular response to DNA damage.
+Cancer Res. 53:6304-6311.
+8. Lowe, S. W., E. M. Schmitt, S. W. Smith, B. A. Osborne, and T. Jacks.
+1993. p53 is required for radiation-induced apoptosis in mouse thymocytes. Nature
+(Lond.). 362:847-849.
+9. Clarke, A. R., C. A. Purdie, D. J. Harrison, R. G. Morris, C. C. Bird,
+M. L. Hooper, and A. H. Wylie. 1993. Thymocyte apoptosis induced by p53dependent and independent pathways. Nature (Lond.). 362:849-852.
+10. Harris, C. C., and Hollstein, M. 1993. Clinical implications of the p53
+tumor suppressor gene. N. Engl. J. Med. 329:1318-1327.
+11. Hollstein, M., D. Sidransky, B. Vogelstein, and C. C. Harris. 1991. p53
+mutations in human cancers. Science (Wash. DC). 253:49-53.
+12. Nigro, J., S. Baker, A. Preisinger, J. Jessup, R. Hostetter, K. Cleary, S.
+Bigner, N. Davidson, S. Baylin, P. Devilee, et al. 1989. Mutations in the p53
+gene occur in diverse human tumor types. Nature (Lond.). 342:705-708.
+13. Caron de Fromentel, C., and T. Soussi. 1992. TP53 suppressor gene: a
+model for investigating human mutagenesis. Genes Chromosomes & Cancer. 4:
+1-15.
+14. Malkin, D. 1993. The Li-Fraumeni syndrome. In Cancer: Principles and
+Practice of Oncology Updates. V. T. DeVita, Jr., S. Heilman, and S. A. Rosenberg,
+editors. J. B. Lippincott Co., Philadelphia. 1-14.
+15. Malkin, D., F. P. Li, L. C. Strong, J. J. Fraumeni, C. E. Nelson, D. H.
+Kim, J. Kassel, M. A. Gryka, F. Z. Bischoff, M. A. Tainsky, and S. H. Friend.
+1990. Germ line p53 mutations in a familial syndrome of breast cancer, sarcomas,
+and other neoplasms. Science (Wash. DC). 250:1233-1238.
+16. Srivastava, S., A. Zou, K. Pirollo, S. Blattner, and E. Chang. 1990. Germ
+line transmission of a mutated p53 gene in a cancer-prone family with Li-Fraumeni
+syndrome. Nature (Lond.). 348:747-749.
+17. Li, F. P., and J. Fraumeni, Jr. 1969. Soft-tissue sarcomas, breast cancer,
+and other neoplasms: a familial syndrome? Ann. Intern. Med. 71:747-752.
+18. Li, F. P., and J. Fraumeni, Jr. 1969. Rhabdomyosarcoma in children:
+
+1610
+
+L. Diller, E. Sexsmith, A. Gottlieb, F. P. Li, and D. Malkin
+
+epidemiologic study and identification of a familial cancer syndrome. J. Natl.
+Cancer Inst. 43:1365-1373.
+19. Li, F. P., J. F. Fraumeni, Jr., J. J. Mulvihill, W. A. Blattner, M. G. Dreyfus,
+M. A. Tucker, and R. W. Miller. 1988. A cancer family syndrome in twenty-four
+kindreds. Cancer Res. 48:5358-5362.
+20. Garber, J. E., A. M. Goldstein, A. F. Kantor, M. G. Dreyfus, J. F. Fraumeni,
+Jr., and F. P. Li. 1991. Follow-up study of twenty-four families with Li-Fraumeni
+syndrome. Cancer Res. 51:6094-6097.
+21. Law, J. C., L. C. Strong, A. Chidambaram, and R. E. Ferrell. 1991. A
+germ line mutation in exon 5 of the p53 gene in an extended cancer family.
+Cancer Res. 51:6385-6387.
+22. Frebourg, T., and S. H. Friend. 1992. Cancer risks from germline p53
+mutations. J. Clin. Invest. 90:1637-1641.
+23. Santibafiez-Koref, M. F., J. M. Birch, A. L. Hartley, P. H. Morris-Jones,
+A. W. Craft, T. Eden, D. Crowther, and A. M. Kelsey. 1991. p53 germline
+mutations in Li-Fraumeni syndrome. Lancet. 338:1490-1491.
+24. Barnes, D. M., A. M. Hanby, C. E. Gillett, S. Mohammed, S. Hodgson,
+L. G. Bobrow, I. M. Leigh, T. Purkis, C. Macgeoch, N. K. Spurr, et al. 1992.
+Abnormal expression of wild-type p53 protein in normal cells of a cancer family.
+Lancet. 340:259-263.
+25. Brugieres, L., M. Gardes, C. Moutou, A. Champret, V. Meresse, A. Martin,
+N. Poisson, F. Flamant, C. Bonaiti-Pellie, J. Lemerle, and J. Feunteun. 1993.
+Screening for germ line p53 mutations in children with malignant tumors and a
+family history of cancer. Cancer Res. 53:452-455.
+26. Toguchida, J., Yamaguchi, T., S. H. Dayton, R. L. Beauchamp, G. E.
+Herrera, K. Ishizaki, T. Yamamuro, P. A. Meyers, J. B. Little, M. S. Sasaki, et
+al. 1992. Prevalence and spectrum of germline mutations of the p53 gene among
+patients with sarcomas. N. Engl. J. Med. 326:1301-1308.
+27. Malkin, D., K. W. Jolly, N. Barbier, A. T. Look, S. H. Friend, M. C.
+Gebhardt, T. I. Andersen, A.-L. B0rresen, F. P. Li, J. Garber, and L. C. Strong.
+1992. Germline mutations of the p53 tumor-suppressor gene in children and young
+adults with second malignant neoplasms. N. Engl. J. Med. 326:1309-1315.
+28. lavarone, A., K. K. Matthay, T. M. Steinkirchner, and M. A. Israel. 1992.
+Germline and somatic p53 gene mutations in multifocal osteogenic sarcoma. Proc.
+Natl. Acad. Sci. USA. 89:4207-4209.
+29. Sidransky, D., T. Tokino, K. Helzlsouer, B. Zehnbauer, B., Rausch, G. B.
+Shelton, L. Prestigiacomo, B. Vogelstein, and N. Davidson. 1992. Inherited p53
+gene mutations in breast cancer. Cancer Res. 52:2984-2986.
+30. B0rresen, A.-L., T. I. Andersen, J. Garber, N. Barbier, S. Thorlacius, J.
+Eyford, L. Ottestad, B. Smith-S0rensen, D. Malkin, and S. H. Friend. 1992.
+Screening for germ-line TP53 mutations in breast cancer patients. Cancer Res.
+52:3234-3236.
+31. Metzger, A. K., V. C. Sheffield, G. Duyk, L. Daneshuar, M. S. B. Edwards,
+and P. H. Cogen. 1991. Identification of a germ-line mutation in the p53 gene in
+a patient with intracranial ependymoma. Proc. Natl. Acad. Sci. USA. 88:78257829.
+32. Rodary, C., F. Flamant, S. S. Donaldson, et al. 1989. An attempt to use
+a common staging system in rhabdomyosarcoma: a report of an international
+workshop initiated by the International Society of Pediatric Oncology (SIOP).
+Med. Pediatr. Oncol. 17:210-217.
+33. Mashiyama, S., Y. Murakami, T. Yoshimoto, T. Sekiya, and K. Hagiwara.
+1991. Detection of p53 gene mutations in human brain tumors by single-strand
+conformation polymorphism analysis of polymerase chain reaction products. Oncogene. 6:1313-1318.
+34. Peng, H.-Q., D. Hogg, D. Malkin, D. Bailey, B. L. Gallie, M. Bulbul, M.
+Jewett, J. Buchanan, and P. E. Goss. 1993. Mutations of the p53 gene do not
+occur in testis cancer. Cancer Res. 53:3574-3578.
+35. Carbone, D., I. Chiba, and T. Mitsudomi. 1991. Polymorphism at codon
+213 within the p53 gene. Oncogene. 6:1691-1692.
+36. Breslow, N. E., and B. Langholz. 1983. Childhood cancer incidence:
+geographical and temporal variation. Int. J. Cancer. 32:703-711.
+37. Hartley, A. L., J. M. Birch, and V. Blair. 1991. Malignant disease in the
+mothers of a population-based series of young adults with bone and soft tissue
+sarcoma. Br. J. Cancer. 63:416-419.
+38. Hawkins, M. M., G. J. Draper, and J. E. Kingston. 1987. Incidence of
+second primary tumors among childhood cancer survivors. Br. J. Cancer. 56:339347.
+39. Mulligan, L., G. Matlashewski, H. Scrable, and W. Cavenee. 1990. Mechanisms of p53 loss in human sarcomas. Proc. Natl. Acad. Sci. USA. 87:5863-5867.
+40. Felix, C. A., C. Chavez Kappel, T. Mitsudomi, M. M. Nau, M., Tsokos,
+G. D. Crouch, P. D. Nisen, N. J. Winick, and L. J. Helman. 1993. Frequency and
+diversity of p53 mutations in childhood rhabdomyosarcoma. Cancer Res.
+52:2243-2247.
+41. Birch, J. M., A. L. Hartley, K. J. Tricker, J. Prosser, A. Condie, A. M.
+Kelsey, M. Harris, P. H. Morris-Jones, A. Binchy, D. Crowther, et al. 1994.
+Prevalence and diversity of constitutional mutations in the p53 gene among 21
+Li-Fraumeni families. Cancer Res. 54:1298-1304.
+42. Wagner, J., C. Portwine, K. Rabin, J.-M. Leclerc, S. A. Narod, and D.
+Malkin. 1994. Germline p53 mutations occur frequently in childhood adrenocortical cancer. J. Natl. Cancer Inst. 86:1707-1710.
+
+43. Sameshima, Y., Y. Tsunematsu, and S. Watenabe. 1992. Detection of novel
+germ-line mutations in diverse cancer-prone families identified by selecting probands with childhood adrenocortical carcinoma. J. Natl. Cancer Inst. 84:703-707.
+44. Felix, C. A., M. M. Nau, T. Takahashi, T. Mitsudomi, I. Chiba, D. G.
+Poplack, G. H. Reaman, D. E. Cole, J. J. Letterio, J. Whang-Peng, et al. 1992.
+Hereditary and acquired p53 gene mutations in childhood acute lymphoblastic
+leukemia. J. Clin. Invest. 89:640-647.
+45. McIntyre, J. F., B. Smith-S0rensen, S. H. Friend, J. Kassel, A.-L. B0rresen,
+Y.-X. Yan, C. Russo, J. Sato, N. Barbier, J. Miser, D. Malkin, and M. C. Gebhardt.
+1994. Germline mutations of the p53 tumor suppressor gene in children with
+osteosarcoma. J. Clin. Oncol. 12:925-934.
+46. Knudson, A. G. 1971. Mutation and cancer: statistical study of retinoblastoma. Proc. Natl. Acad2 Sci. USA. 68:820-823.
+47. Knudson, A. G., and L. C. Strong. 1972. Mutation and cancer: a model
+for Wilms' tumor of the kidney. J. Natl. Cancer Inst. 48:313-324.
+48. Barr, F. G., B. Sellinger, and B. S. Emanuel. 1991. Localization of the
+rhabdomyosarcoma t(2;13) breakpoint on a physical map of chromosome 13.
+Genomics. 11:941-947.
+
+49. Momand, J., G. P. Zambetti, D. C. Olson, D. George, and A. J. Levine.
+1992. The mdm-2 oncogene product forms a complex with the p53 protein and
+inhibits p53-mediated transactivation. Cell. 69:1237-1245.
+50. Zauberman, A., Y. Barak, N. Ragimov, N. Levy, and M. Oren. 1993.
+Sequence-specific DNA binding by p53: identification of target sites and lack of
+binding to p53-MDM2 complexes. EMBO (Eur. Mol. Biol. Org.) J. 12:27992808.
+51. Oliner, J. D., K. W. Kinzler, P. S. Meltzer, D. L. George, and B. Vogelstein.
+1992. Amplification of a gene encoding a p53-associated protein in human sarcomas. Nature (Lond.). 358:80-83.
+52. Leach, F. S., T. Tokino, P. Meltzer, M. Burreli, J. D. Oliner, S. Smith,
+D. E. Hill, D. Sidransky, K. W. Kinzler, and B. Vogelstein. 1993. p53 mutation
+and MDM2 amplification in human soft tissue sarcomas. Cancer Res. 53:2231 2234.
+53. Rodary, C., F. Flamant, and S. S. Donaldson. 1989. An attempt to use a
+common staging system in rhabdomyosarcoma: a report of an international workshop initiated by the International Society of Pediatric Oncology (SIOP). Med.
+Pediatr. Oncol. 17:210-215.
+
+Germline p53 Mutations in Childhood Rhabdomyosarcoma
+
+1611
+
+

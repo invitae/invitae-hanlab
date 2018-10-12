@@ -1,0 +1,939 @@
+l~
+
+:. 111
+
+of this process in the regulation of transmembrane receptor function. Ubiquitination may
+serve as a means to down-regulate receptors by
+targeting them for degradation, or, like phosphorylation, it may affect function by altering
+signal transducing properties and associations
+of modified receptors.
+Note added in proof: Ligand-induced
+changes in the ubiquitination of the receptor for PDGF have recently been described
+
+(19).
+REFERENCES AND NOTES
+1. A. M. Weissman, J. S. Bonifacino, R. D. Klausner, L.
+E. Samelson, J. J. O'Shea, Year Immunol. 4, 74
+(1989); J. D. Ashwell and R. D. Klausner, Annu. Rev.
+Immunol. 8,139 (1990).
+2. L. E. Samelson, J. B. Harford, R. D. Klausner, Cell
+43, 223 (1985).
+3. H. C. Oettgen etal., Nature 320, 272 (1986); A. M.
+Weissman, L. E. Samelson, R. D. Klausner, ibid.
+324, 480 (1986).
+4. L. E. Samelson et al., Cell 46, 1083 (1986).
+5. M. Baniyash, P. Garcia-Morales, E. Luong, L. E.
+Samelson, R. D. Klausner, J. BioL. Chem. 263,18225
+
+(1988).
+6. S. Koyasu et at., ibid. 267, 3375 (1992).
+7. S. J. Frank et al., ibid., p. 13656.
+8. S. M. Hedrick et at., Cell 30, 141 (1982).
+9. 0. Leo, M. Foo, D. H. Sachs, L. E. Samelson, J. A.
+Bluestone, Proc. Natl. Acad. Sci. U.S.A. 84, 1374
+(1987).
+10. C. Cenciarelli, D. Hou, A. M. Weissman, unpublished data.
+11. A. Ciechanover, H. Gonen, S. Elias, A. Mayer,
+New Biol. 2, 227 (1990).
+
+12. D. Finley and V. Chau, Annu. Rev. Cell Biol. 7, 25
+
+(1991).
+
+13. S. Vijay-Kumar et al., J. Biol. Chem. 262, 6396
+(1987); M. Scheffner et al., Cell 63, 1129 (1990); M.
+Glotzer, A. W. Murray, M. W. Kirschner, Nature 349,
+132 (1991); M. Hochstrasser, M. J. Ellison, V. Chau,
+A. Varshavsky, Proc. Natl. Acad. Sci. US.A. 88,
+4606 (1991); A. Ciechanover et al., ibid., p. 139.
+14. K. G. Murti, H. T. Smith, V. A. Fried, Proc. Natt.
+Acad. Sci. U.S.A. 85, 3019 (1988).
+15. H. Mod, J. Kondo, Y. lhara, Science 235, 1641
+(1987).
+16. M. Siegelman et al., ibid. 231, 823 (1986); Y.
+Yarden et al., Nature 323, 226 (1986); D. W.
+Leung et al., ibid. 330, 537 (1987).
+17. V. A. Fried and H. T. Smith, Prog. Clin. Biot. Res.
+317, 733 (1989).
+18. L. E. Samelson et al., J. Immunol. 137, 3254
+
+(1986).
+19. S. Mori, C.-H. Heldin, L. Claesson-Welsh, J. Biol.
+Chem. 267, 6429 (1992).
+20. J. Kappler, J. White, D. Wegmann, E. Mustain, P.
+Marrack, Proc. Natt. Acad. Sci. U.S.A. 79, 3604
+(1982).
+21. M. D. Patel, L. E. Samelson, R. D. Klausner, J.
+Biol. Chem. 262, 5831 (1987).
+22. L. E. Samelson, R. N. Germain, R. H. Schwartz,
+Proc. Natt. Acad. Sci. U.S.A. 80, 6972 (1983).
+23. A. M. Weissman etal., Science 239, 1018 (1988);
+D. G. Orloff, S. J. Frank, F. A. Robey, A. M.
+Weissman, R. D. Klausner, J. Biot. Chem. 264,
+14812 (1989).
+24. Supported by the Howard Hughes Medical Institute-NIH Research Scholars Program (D.H.) and
+a Cancer Research Institute grant (D.L.W.). For
+helpful discussions and review of this manuscript,
+we thank J. D. Ashwell, J. Bonifacino, R. E. Gress,
+P. A. Henkart, R. D. Klausner, L. E. Samelson, A.
+Singer, and J. D. Weissman.
+
+19 March 1992; accepted 24 June 1992
+
+The Skeletal Muscle Chloride Channel in Dominant
+and Recessive Human Myotonia
+Manuela C. Koch, Klaus Steinmeyer, Claudius Lorenz,
+Kenneth Ricker, Friedrich Wolf, Michael Otto, Barbara Zoll,
+Frank Lehmann-Horn, Karl-Heinz Grzeschik, Thomas J. Jentsch*
+Autosomal recessive generalized myotonia (Becker's disease) (GM) and autosomal dominant
+myotonia congenita (Thomsen's disease) (MC) are characterized by skeletal muscle stiffness
+that is a result of muscle membrane hyperexcitability. For both diseases, alterations in muscle
+chloride or sodium currents or both have been observed. A complementary DNA for a human
+skeletal muscle chloride channel (CLC1) was cloned, physically localized on chromosome 7,
+and linked to the T cell receptor p (TCRB) locus. Tight linkage of these two loci to GM and MC
+was found in German families. An unusual restriction site in the CLC-1 locus in two GM families
+identified a mutation associated with that disease, a phenylalanine-to-cysteine substitution in
+putative transmembrane domain D8. This suggests that different mutations in CLC-1 may
+cause dominant or recessive myotonia.
+
+Autosomal recessive generalized myotonia
+(GM) is a nondystrophic disorder of skeletal muscle and was clinically separated (1)
+from autosomal dominant myotonia congenita (MC) (1, 2). In GM, myotonic
+stiffness starts in early childhood in the legs.
+It progresses for some years, affecting the
+arms, neck, and facial muscles. After the
+patient reaches approximately 20 years of
+age, the disease remains unchanged. In
+
+most patients, muscle stiffness is associated
+with transient weakness after rest. In MC,
+complaints are similar but more benign.
+Muscle stiffness caused by these diseases
+is a result of repetitive firing of muscle fiber
+action potentials (myotonic runs) (3). Two
+mechanisms have been proposed to cause
+the underlying intrinsic muscle hyperexcitability: (i) a decrease in muscle chloride
+conductance, as found in several human
+
+SCIENCE * VOL. 257 * 7 AUGUST 1992
+
+797
+
+Downloaded from http://science.sciencemag.org/ on October 8, 2017
+
+which demonstrates that ; was ubiquitinated.
+Unmodified ; (16 kD) was not recognized by
+the anti-ubiquitin reagents.
+The presence of additional activation-dependent species on ubiquitin blots (Fig. 3, A
+and B) suggested the possibility that other
+TCR components were ubiquitinated. Immunoprecipitated TCRs were resolved on lower
+percentage polyacrylamide gels and immunoblotted with anti-ubiquitin (Fig. 4, A and B).
+Spots that varied in pI and migrated at 34 and
+42 kD (Fig. 4B) were suggestive of ubiquitination of the 26-kD CD3 8 subunit, which
+exhibits heterogeneity in pI as a result of
+variable modifications with sialic acid. A duplicate immunoblot from activated cells was
+probed with a polyclonal antiserum to CD3 8
+(18). In addition to the 26-kD 8, two sets of
+larger molecular size forms were seen (Fig.
+4C) that comigrated with the species detected
+by anti-ubiquitin (Fig. 4B). These larger forms
+of 8 were detected only in activated cells (Fig.
+5A). The presence of charge heterogeneity for
+ubiquitinated 8 indicated that these subunits
+contained sialic acid and therefore had traversed the intermediate Golgi apparatus.
+The finding of relatively acidic species,
+including a 27-kD form above 21-kD phosphorylated 4 (Fig. 1D) (10), indicated that
+ubiquitinated forms of phosphorylated C also
+exist. To confirm this, we incubated immunoprecipitates from activated and unactivated
+cells with alkaline phosphatase before electrophoresis on SDS-PAGE (Fig. 5B). This resulted in the loss of phosphorylated 4 (21 kD)
+as well as the loss of the 27-kD species. Thus,
+it is apparent that this 27-kD form was ubiquitinated phosphorylated ;.
+We estimate that approximately 10% of
+TCR-associated 4 is ubiquitinated upon activation. On the basis of the distribution of
+heterodimers on diagonal gels, it would appear that ubiquitinated ; chains are more
+likely to be dimerized to other ubiquitinated ;
+molecules than to 16-kD ;. These proteins
+exist primarily as components of assembled
+receptors (Fig. 2) (10), and their appearance
+is not a result of redistribution from a detergent insoluble pool (10). Human T cells also
+demonstrate the same activation-induced
+forms of ubiquitinated ; (10).
+In 2B4 cells, both ubiquitinated 4 and
+phosphorylated 4 appear within 5 min of
+stimulation and persist for at least 2 hours
+(10). A dichotomy is apparent in freshly
+isolated normal splenocytes where ubiquitination of ; increases markedly with receptor
+engagement, whereas tyrosine phosphorylated
+; is present at maximal levels without stimulation. This may be a result of the in vivo
+signals that regulate these processes. Alternatively, it may be a manifestation of differences
+in the half-lives of these modifications or of
+the receptors that are altered. The activationinduced ubiquitination of the TCR suggests
+the possibility of a more generalized function
+
+1
+
+ll IMA-WE
+M
+
+1
+
+0,W
+
+o = 0.0) and to a lesser extent to TCRB (z
+= 2.53 at 0 = 0.0). Combined linkage
+analysis of GM to both loci resulted in a
+maximum multipoint lod score of z = 5.79
+at 0 = 0.0 (Table 1).
+In addition, for two of the clinically
+typical GM families, a rare Nsi I pattern
+was detected with the CLC-1 probe. In
+pedigree 4003 (Fig. 2), the consanguineous
+parents show this unusual Nsi I pattern
+(A3). They both lack the = 17-kb fragment
+of allele A2, which is replaced by % 10- and
+=7-kb fragments as a result of the additional Nsi I site. The three affected sons are
+homozygous for this site. In one other
+
+family, only the father was a carrier for A3
+and transmitted it to all three affected
+offspring (19). Because this unusual Nsi I
+site was not observed in 110 control individuals, this suggests that it may be generated directly by the disease-causing mutation. We identified this mutation using
+restriction by Nsi I to search for it in
+genomic CLC- 1 clones isolated from libraries constructed from an unaffected individual and from a GM patient homozygous for
+this site (one of the affected brothers of
+
+pedigree 4003) (Fig. 2) (20). Sequencing
+revealed a T-to-G exchange in exonic sequence (Fig. 3A), leading to the Nsi I site
+
+Fig. 1. Localization of the human CLC-1 gene on chromoA B C D E F G H J
+some 7. Blot hybridization pattern of Eco RI-digested DNAs
+h 1 - -,
+h
+from a panel of chromosome 7-specific, human-mouse somh
+matic cell hybrids (26) with CLC-1 cDNA. Lane A, total
+mouse DNA (m, mouse-specific bands); lane B, total human
+h
+h
+h
+DNA (h, four human-specific bands); lane C, hybrid with
+entire human chromosome 7 (5387-3c 10); lane D, hybrid
+m
+ITA9-2-21-14 (human chromosome 7p14-qter); lane E, hybrid
+RuRag6-19 (human chromosome 7cen-qter); lane F, hybrid GM2068Rag22-2 (human chromosome
+7q22-qter); lane G, hybrid GM1 059Rag5, and lane J, hybrid 7851 Rag1 0-1, both with an interstitial
+deletion of human chromosome 7q22-7q32; and lane H, hybrid 194Rag6-13-3 (human chromosome
+7pter-7q32). A human signal is lacking in lane H, which thus localizes the probe to the chromosomal
+region 7q32-qter.
+
+Table 1. Lod scores (z values) for linkage of CLC-1 and chromosome 7 marker TCRB to GM and
+MC. Because the two CLC-1 RFLPs Nsi and Ava II were shown to be linked with no recombinants,
+they were treated as a single marker for linkage analysis to GM and MC and were labeled CLC-1
+haplotype.
+
+Recombination fraction (0)
+Linkage comparison
+0.000
+
+0.001
+
+0.01
+
+0.05
+
+0.1
+
+0.2
+
+0.3
+
+0.4
+
+CLC-l/Nsi versus
+CLC1/Ava 11
+
+3.62
+
+3.61
+
+3.52
+
+3.22
+
+2.83
+
+2.03
+
+1.22
+
+0.48
+
+TCRB versus CLC-1
+haplotype
+GM versus CLC-1
+haplotype
+GM versus TCRB
+GM versus TCRB/CLC-1
+haplotype
+MC versus CLC-1
+haplotype
+MC versus TCRB
+MC versus TCRB/CLC-1
+haplotype
+
+5.23
+
+5.21
+
+5.07
+
+4.49
+
+3.76
+
+2.34
+
+1.10
+
+0.28
+
+4.69
+
+4.67
+
+4.57
+
+4.10
+
+3.50
+
+2.29
+
+1.15
+
+0.31
+
+2.53
+5.79
+
+2.52
+5.77
+
+2.45
+5.61
+
+2.16
+5.00
+
+1.81
+4.23
+
+1.13
+2.72
+
+0.56
+1.35
+
+0.15
+0.36
+
+2.75
+
+2.74
+
+2.66
+
+2.33
+
+1.92
+
+1.18
+
+0.58
+
+0.16
+
+3.42
+4.58
+
+3.41
+4.57
+
+3.33
+
+2.97
+4.00
+
+2.54
+3.43
+
+1.71
+2.28
+
+0.94
+1.26
+
+0.33
+0.44
+
+4.47
+
+M. C. Koch, F. Wolf, M. Otto, K-H. Grzeschik, Medical
+Center for Human Genetics, Marburg University, Bahnhofstrasse 7a, D-3550 Marburg, Germany.
+K. Steinmeyer, C. Lorenz, T. J. Jentsch, Center for
+Molecular Neurobiology (ZMNH), Hamburg University, Martinistrasse 52, D-2000 Hamburg 20, Germany.
+K. Ricker, Clinical Neurology, Wurzburg University,
+Josef-Schneider-Strasse 11, D-8700 Wurzburg, Germany.
+B. Zoll, Institute for Human Genetics, Gottingen University, GoBlerstrasse 12d, D-3400 Gottingen, Germany.
+F. Lehmann-Horn, Clinical Neurology, Technical University, Mohistrasse 28, D-8000 Munich, Germany.
+*To whom correspondence should be addressed.
+
+A B C D E F G H J
+Fig. 2. Southern hybridization analysis of Nsi I-digestA1
+ed DNA with the CLC-1 gene probe from two control
+individuals affected with GM (lanes A and B), GM
+_2
+A3 _
+family 4003 (lanes C through H), and an unaffected
+C
+control person (lane J). A1 = allele 1, >30 kb; A2 =
+allele 2 (doublet), z=21 kb and =17 kb; C = constant
+band, -8 kb. The arrows indicate the unusual Nsi I2
+1
+TCR81B1I
+pattern (A3) with fragments of =21 kb, =10 kb, and
+22
+2 2 CLC11Ava
+=7 kb. Affected individuals in lanes D through F are
+1 3 6jj 31 CLC-1/Nsi
+1 1 1 1 TCRB/Bgl 11
+thus homozygous for A3, whereas affected individuals
+2 2 2 22 2 2 2 CLC-1/Ava 11
+in lanes A and B are heterozygous for alleles A1 and
+33 3333 31 CLC-1/Nsi
+A3 and for A2 and A3, respectively. Haplotypes for
+CLC-1 and the closely linked gene probe TCRB are shown in the pedigree. Unaffected individuals
+are presented as empty circles (female) and a square (male); affected individuals are represented
+by filled symbols. Symbols are shown below the corresponding Southern lane.
+
+798
+
+SCIENCE * VOL. 257 * 7 AUGUST 1992
+
+Downloaded from http://science.sciencemag.org/ on October 8, 2017
+
+muscle fibers analyzed electrophysiologically in vitro (4-6) and (ii) alterations of
+sodium channel activity. In support of the
+first, a genetic defect in the skeletal muscle
+Cl- channel CLC- 1 (7) was recently found
+in the recessive myotonic mouse mutant
+ADR (8). Because Cl- conductance accounts for about 80% of normal resting
+muscle membrane conductance (9), its decrease [or pharmacological blockage (3, 9)]
+leads to a slower rate of repolarization after
+action potentials and to myotonic runs.
+Alterations of Na' channel activity, especially late openings, were observed in a
+large proportion of biopsies from GM patients (4, 10) and especially in biopsies
+from MC patients (11). Related findings
+were made with other disorders with the
+symptom myotonia, such as myotonic dystrophy (10, 12) and Schwarz-Jampel syndrome (13).
+By homology screening with the major
+rat skeletal muscle chloride channel CLC-1
+(7), we cloned a partial human CLC-1
+cDNA that covers about 80% of the coding
+sequence (14). This region is 88% identical
+to the rat channel in amino acids (14).
+CLC-1 was then physically localized by
+somatic cell hybrids to the chromosomal
+region 7q32-qter (Fig. 1) and used to search
+for restriction fragment length polymorphisms (RFLPs) in ten unrelated individuals. Among 25 enzymes tested, diallelic Nsi
+I and Ava II RFLPs were revealed (15) and
+subsequently used in five reference pedigrees to prove linkage to the T cell receptor
+P3 (TCRB) locus (16) on chromosome 7q.
+Tight linkage with no recombinants was
+shown for CLC-1/Nsi I versus CLC-1/Ava
+II with a lod (logarithm of odds) score (17)
+of z = 3.62 at a recombination fraction of 0
+= 0.0 and for TCRB versus the combined
+CLC-1 haplotype of z = 5.23 at 0 = 0.0
+(Table 1). The fact that the CLC-1 locus
+was previously linked to the TCRB locus in
+mice (8) supports the mouse-human homology map for this chromosomal region on
+human chromosome 7q and mouse chromosome 6.
+Both human gene probes, CLC-1 and
+TCRB, were used to test the members of
+seven GM families (18). Linkage was
+shown to the CLC-1 haplotype (z = 4.69 at
+
+7... .*....,;.ff7 ffff:.7w'..:ffaf.>~fft
+
+Fig. 3. Identification of a mutation
+A
+present in GM. (A) Autoradiographs
+of sequencing gels that show the region of interest. WT, genomic CLC1clone from an unaffected individual;
+GM, genomic clone from a patient
+homozygous for this GM mutation.
+The arrow indicates the T-to-G exchange [at equivalent position 1238 in
+E l
+GNI
+the rat CLC-1 cDNA (7)], leading to
+the observed Nsi site (ATGCAT) and to a Phe-to-Cys exchange (at
+equivalent position 413 in the rat channel protein). (B) Homology between
+different members of the voltage-gated Cl- channel family in the region
+affected by the mutation. CLC-O, Torpedo marmorata electric organ Clchannel (23); CLC-2, ubiquitous rat Cl- channel (24); rCLC-1, rat skeletal
+muscle Cl- channel (7); hCLC-1, human skeletal muscle Cl- channel
+
+Fig. 4. Pedigree of the
+Thomsen family [arrow
+indicates J. Thomsen,
+who first described MC
+(2)], showing the genotypes for the closely
+linked gene probes
+TCRB and CLC-1, generating a multipoint lod
+score ofz= 2.15ate =
+0.0. The design of the
+pedigree has been
+changed (birth order
+and sex) to protect patient
+confidentiality.
+Symbols are as in Fig.
+2.
+
+22
+
+B
+CLC- 0
+
+V-G
+
+|I
+
+21
+U
+
+aC ,11iM a
+a.
+
+-
+
+\..
+
+2 1
+
+12222
+
+2
+
+'
+
+.
+
+1 1
+
+22
+
+2aa
+
+2
+a1
+
+1
+
+P
+
+ETWN
+
+S
+
+(sequenced at both the genomic and the cDNA levels). Identical residues
+are boxed. The dashes denote putative membrane-spanning domain D8,
+and the C at the bottom indicates the mutation found in GM. Abbreviations
+for the amino acid residues are: A, Ala; C, Cys; D, Asp; E, Glu; F, Phe; G,
+Gly; H, His; 1, lie; K, Lys; L, Leu; M, Met; N, Asn; P, Pro; Q, Gin; R, Arg; S,
+Ser; T, Thr; V, Val; W, Trp; and Y, Tyr.
+
+Recent reports have stressed the effects of
+altered Na+ channel kinetics (1 1) in MC.
+These kinetic effects are likely to be secondary, especially because similar observations
+were made in myotonic dystrophy (10, 12),
+where the defective gene has been mapped
+to chromosome 19 (21) and whose gene
+product is probably a protein kinase (22).
+Thus, our data suggest that mutations in
+the muscle Cl- channel can cause myotonia with either a recessive or a dominant
+mode of inheritance. A recessive form is
+easily explained by a total loss of function.
+This has been described in ADR mice (8),
+which we now show to be an excellent
+model system for human myotonia. On the
+other hand, a mutation acting dominantly
+could possibly be explained by a homomultimeric structure of the channel [the multimeric state of channels of this family is
+currently unknown (7, 23, 24)]. In this
+model, the channel subunit encoded by the
+mutated gene associates with and inactivates the functional subunits encoded by
+the normal allele. Such a situation was
+found with transgenic Drosophila that expresses a mutant Shaker K' channel (25).
+This model may also fit with the observation that the clinical phenotype is often less
+severe in MC than in GM patients (1) and
+that electrophysiological evidence for re-
+
+rwmW
+
+A
+
+C
+
+2t
+
+22
+
+|
+
+rLC 1 R L L Y P G I V T F V I A S L T F P P G M G Q F M A G E L M P R E A I S T
+hCLC-1 R L L Y P G I V T F V I A S F T F P P G M G Q F M A G E L M P R E A I S T
+
+2
+
+21
+
+21
+
+12
+
+SCIENCE * VOL. 257 * 7 AUGUST 1992
+
+duced Cl- conductance was weaker in MC
+(11); possibly, some of the channel complexes escape inactivation by the mutated
+subunit. Thus, our work also indirectly
+suggests a multimeric structure of CLC-1
+Cl- channels.
+REFERENCES AND NOTES
+1. P. E. Becker, Myotonia Congenita and Syndromes
+Associated with Myotonia (Thieme, Stuttgart,
+1977).
+2. J. Thomsen, Arch. Psychiatr. Nervenkrankh. 6,
+702 (1876).
+3. R. Rudel and F. Lehmann-Horn, Physiol. Rev. 65,
+310 (1985).
+4. C. Franke et al., Muscle Nerve 14, 762 (1991).
+5. R. J. Lipicky, S. H. Bryant, J. H. Salmon, J. Clin.
+Invest. 50, 2091 (1971).
+6. R. Rudel, K. Ricker, F. Lehmann-Horn, Muscle
+Nerve 11, 202 (1988).
+7. K. Steinmeyer, C. Ortland, T. J. Jentsch, Nature
+354, 301 (1991).
+8. K. Steinmeyer et al., ibid., p. 304.
+9. A. H. Bretag, Physiol. Rev. 67, 618 (1987).
+10. R. Rudel, J. P. Ruppersberg, W. Spittelmeister,
+Muscle Nerve 12, 281 (1989).
+11. P. A. laizzo et al., Neuromusc. Disorder 1, 47
+
+(1991).
+12. C. Franke, H. Hatt, P. A. laizzo, F. Lehmann-Horn,
+J. Physiol. (London) 425, 391 (1990).
+13. F. Lehmann-Horn et al., Muscle Nerve 13, 528
+
+(1990).
+
+14. A 32P-labeled rat CLC-1 cDNA (7), extending
+from bp 970 to bp 1881, was used to screen a
+human skeletal muscle cDNA library in XZAPII
+(Stratagene) at moderately high stringency (45%
+formamide, x5 saline sodium citrate, x5 Denhardt's, and 0.1% SDS at 42°C). A single positive
+clone was identified and subcloned by in vivo
+excision. Sequencing revealed that it begins at bp
+510 relative to the rat channel and extends into
+the 3' noncoding region (total length = 2517 bp)
+(K. Steinmeyer, C. Lorenz, T. J. Jentsch, in preparation). The sequence has been deposited in the
+European Molecular Biology Laboratory/GenBank
+database (accession number M97820). Comparison to the rat CLC-1 sequence by the AALIGN
+program (DNASTAR) revealed that it is 88% homologous to that channel.
+15. For Nsi I, the allele sizes and frequencies (110
+unrelated Caucasians) were Al > 30 kb (0.6) and
+A2 =21 kb and -17 kb (0.4), and for Ava 11 (90
+unrelated individuals) were Al =15 kb (0.2) and
+A2 -12 kb (0.8).
+16. Bgl II reveals a two-allele polymorphism in the
+TCRB locus [Y. Yanagi et al., Nature 308, 145
+(1984)] (Al -10.0 kb and A2 -9.5 kb; frequencies = 0.55 and 0.45).
+17. Lod scores (z = maximum log likelihood ratio, 0 =
+recombination fraction) were calculated with the
+LINKAGE computer program package (version
+5.04, updated by J. Ott). For GM, an autosomal
+
+799
+
+Downloaded from http://science.sciencemag.org/ on October 8, 2017
+
+and to a predicted Phe-to-Cys exchange.
+This Phe, located toward the end of putative membrane span D8, is highly conserved among different members of the voltage-gated Cl- channel family and thus is
+probably important for channel function
+(Fig. 3B). The propensity of the new Cys to
+form improper disulfide bonds may be involved in the pathogenic effect of this
+mutation.
+Thus, there is strong evidence that GM
+is caused by defects in the skeletal muscle
+Cl- channel CLC-1. Definitive proof that
+the Phe-to-Cys mutation really causes the
+disease will have to await the functional
+expression of the mutated channel. Because
+this mutation is present in only a proportion of affected GM individuals, there is
+probably heterogeneity in CLC-1 mutations
+that cause GM.
+Having shown close linkage of CLC- 1 to
+the disorder GM and having identified a
+GM-associated mutation, we tested the
+members of four MC families (18) for the
+same linkage hypothesis (Fig. 4). The MC
+data resulted in a maximum multipoint lod
+score of z = 4.58 at 0 = 0.0 (12 scorable
+meioses) (Table 1), which suggests that
+CLC-1 is also involved in this dominant
+disease. Definitive proof will require the
+identification of CLC-1 mutations in MC.
+
+j**ji*
+
+WIM,
+
+cDNA fragments that still recognized the unusual
+Nsi site detected by genomic Southern (DNA)
+analysis, and the region surrounding the restriction site was sequenced with the chain termination method. The sequences shown in Fig. 3 were
+obtained by means of internal sequencing primers located in the intron preceding the D8 coding
+sequence.
+
+21. H. Eiberg etal., Clin. Genet. 24, 159 (1983); H. G.
+Harley et al., Am. J. Hum. Genet. 49, 68 (1991).
+22. J. D. Brook etal., Cell68, 799 (1992); Y.-H. Fu et
+al., Science 255, 1256 (1992).
+23. T. J. Jentsch, K. Steinmeyer, G. Schwarz, Nature
+348, 510 (1990); C. K. Bauer, K. Steinmeyer, J. R.
+Schwarz, T. J. Jentsch, Proc. Nati. Acad. Sci.
+U.S.A. 88, 11052 (1991).
+24. A. Thiemann, S. Grunder, M. Pusch, T. J. Jentsch,
+Nature 356, 57 (1992).
+25. S. Gisselmann et al., EMBO J. 8, 2359 (1989).
+26. A. Jobs et al., Hum. Genet. 84, 147 (1990).
+27. We thank G. Grahmann and C. Schmekal for
+technical assistance, L. C. Tsui for the TCRB gene
+probe, and all families for their collaboration.
+Supported by grants from the Deutsche Forschungs-gemeinschaft (M.C.K. and T.J.J.), the
+Bundesministerium for Forschung und Technologie (T.J.J.), the Muscular Dystrophy Association
+(T.J.J.), and the Deutsche Gesellschaft Bekampfung der Muskelkrankheiten.
+12 March 1992; accepted 17 June 1992
+
+Hypovirulence of Chestnut Blight Fungus
+Conferred by an Infectious Viral cDNA
+Gil H. Choi and Donald L. Nuss*
+Strains of the chestnut blight fungus Cryphonectria parasitica that contain viral doublestranded RNAs often exhibit reduced virulence. Such hypovirulent strains act as biocontrol
+agents by virtue of their ability to convert virulent strains to hypovirulence after anastomosis. Transformation of virulent C. parasitica strains with a full-length complementary
+DNA copy of a hypovirulence-associated viral RNA conferred the complete hypovirulence
+phenotype. Cytoplasmic double-stranded RNA was resurrected from the chromosomally
+integrated complementary DNA copy and was able to convert compatible virulent strains
+to hypovirulence. These results establish viral double-stranded RNA as the causal agent
+of hypovirulence and demonstrate the feasibility of engineering hypovirulent fungal strains.
+
+The North American chestnut blight epidemic, initiated by the unintentional introduction of the Asian fungus Cryphonectria
+(Endothia) parasitica at the turn of the century, resulted in the destruction of several
+billion mature American chestnut trees (14). The potential for biological control of
+chestnut blight effected by naturally occurring strains of C. parasitica that exhibit
+reduced levels of virulence (hypovirulence)
+has been demonstrated (5-7). Whereas virulent C. parasitica strains penetrate and
+destroy bark and cambium layers and cause
+wilting and death, hypovirulent strains usually produce superficial cankers that eventually heal. Hypovirulence is correlated
+with the presence of cytoplasmically repliDepartment of Molecular Oncology and Virology,
+Roche Institute of Molecular Biology, Roche Research
+Center, Nutley, NJ 07110.
+*To whom correspondence should be addressed.
+
+800
+
+cating
+
+unencapsidated
+
+double-stranded
+
+RNAs (dsRNAs) (8). The ability of these
+genetic elements and the hypovirulence
+phenotype to be transmitted to virulent
+Fig. 1. Genetic organization of the hypovirulence-associated virus RNA, L-dsRNA, present
+in hypovirulent C. parasitica strain EP71 3
+[American Type Culture Collection (ATCC)
+number 52571] and construction of the full-
+
+fungal strains after anastomosis (physical
+fusion of hyphae) provides the basis for
+disease control (7).
+The largest dsRNA present in hypovirulent C. parasitica strain EP713, large
+dsRNA (L-dsRNA), was recently cloned
+and characterized (9-12). The similarity of
+the L-dsRNA genetic organization and expression strategy to those of several viral
+genomes (1 1) and an apparent evolutionary
+relationship to the plant potyviruses (13)
+prompted the introduction of the term hypovirulence-associated virus (HAV) to denote this class of genetic elements (11).
+Efforts to rigorously demonstrate HAV
+dsRNAs as the causal agent of hypovirulence have been hampered by the inability
+of these viral elements to initiate infection
+by an extracellular route, a common property of mycoviruses and fungus-associated
+unencapsidated viral-like RNAs (14-16).
+We describe the construction of a fulllength cDNA clone of EP713 L-dsRNA
+that, when introduced into virulent C.
+parasitica strains by DNA-mediated transformation, generated a resurrected, cytoplasmically replicating dsRNA form from
+the integrated cDNA copy.
+One strand of L-dsRNA contains a 3'
+polyadenylate [poly(A)1 tail that is basepaired to a stretch of polyuridine [poly(U)J
+present at the 5' terminus of the complementary strand (17). The molecule consists
+of 12,712 bp, excluding the poly(A):
+poly(U) homopolymer domain and contains two large open reading frames (ORF)
+within the poly(A) strand that were designated ORF A (622 codons) and ORF B
+(3,165 codons) (11). To construct a fulllength cDNA clone of L-dsRNA, we first
+generated several large intermediate clones
+from a set of overlapping partial cDNA
+clones (Fig. 1). A four-factor ligation-transformation was then performed to generate
+plasmid pLDST that contained a full-length
+cDNA copy of L-dsRNA inserted between
+the Xba I and Hind III sites of pUC19.
+Unique Ssp I and Spe I sites were intro-
+
+indicated
+
+at
+
+the
+
+top;
+
+overlapping
+
+are
+
+9kb
+
+indicated at the left of each
+
+12kb
+
+9,498 nt
+
+1,869 nt
+
+5
+
+495
+
+An 3@
+851 nt
+
+nt
+
+321,
+
+5
+
+21O,14
+
+415-7175
+
+(4149)
+
+71-1
+,7i:
+
+cDNA
+
+clones that span the entire molecule are represented by the horizontal lines below. Clone
+
+designations
+
+6kb
+
+'
+
+length cDNA clone pLDST. The general organization of the coding sense strand of L-dsRNA
+is
+
+3kb
+
+0
+
+(1 1
+
+',
+
+S
+
+11253-12717
+
+E
+
+line, and the map coordinates (11) covered by
+
+Ssp
+pLDST
+Spe I
+each clone are indicated to the right of each
+line. Modifications of the terminal regions of the
+L-dsRNA cDNA (indicated by diagonal stripes in pLDST) included the addition of Xba and Ssp
+sites at the 5' terminus and a 22-residue-long stretch of poly(A):poly(U) to simulate the natural
+homopolymer tail followed by Spe and Hind Ill sites at the 3' terminus. Restriction sites used in the
+four-factor ligation to form pLDST are indicated by an asterisk.
+
+SCIENCE * VOL. 257 * 7 AUGUST 1992
+
+Downloaded from http://science.sciencemag.org/ on October 8, 2017
+
+recessive and for MC an autosomal dominant
+inheritance with 100% penetrance were assumed
+(all unaffected individuals were beyond the age of
+risk). The prevalence of these two diseases was
+assumed (1) to be 1:50,000 in GM and 1:23,000
+in MC.
+18. After receipt of informed consent, seven families
+(a total of 14 affected and 13 nonaffected siblings)
+with the diagnosis of GM and 4 families with MC
+(20 affected, 7 nonaffected, and 7 spouses) were
+studied. The age of onset for individuals with GM
+was 2 to 10 years, and 1 to 18 years for MC. All
+individuals in a family received a thorough neurological examination. In addition, a standardized
+forearm cooling test was performed on MC individuals to exclude paramyotonia congenita [K.
+Ricker et al., Arch. Neurol. 47, 268 (1990)]. For the
+purpose of the study, it was assumed that GM and
+MC are single-gene disorders, where variation in
+symptoms probably results from different mutations in the same locus.
+19. M. C. Koch et al., data not shown.
+20. A genomic library in XFIXII was constructed with
+lymphocyte DNA from a GM patient homozygous
+for the unusual Nsi site (Fig. 2), and another
+genomic human library in XFIXII was purchased
+(Stratagene). Phages hybridizing to human CLC-1
+cDNAs were purified, and their inserts were isolated, digested with Nsi I, and subcloned into
+pGem5Zf. The Nsi fragment of interest was
+identified by hybridization to successively smaller
+
+The skeletal muscle chloride channel in dominant and recessive human myotonia
+MC Koch, K Steinmeyer, C Lorenz, K Ricker, F Wolf, M Otto, B Zoll, F Lehmann-Horn, KH Grzeschik and TJ Jentsch
+
+Science 257 (5071), 797-800.
+DOI: 10.1126/science.1379744
+
+http://science.sciencemag.org/content/257/5071/797
+
+REFERENCES
+
+This article cites 23 articles, 4 of which you can access for free
+http://science.sciencemag.org/content/257/5071/797#BIBL
+
+PERMISSIONS
+
+http://www.sciencemag.org/help/reprints-and-permissions
+
+Use of this article is subject to the Terms of Service
+Science (print ISSN 0036-8075; online ISSN 1095-9203) is published by the American Association for the Advancement of
+Science, 1200 New York Avenue NW, Washington, DC 20005. 2017 © The Authors, some rights reserved; exclusive licensee
+American Association for the Advancement of Science. No claim to original U.S. Government Works. The title Science is a
+registered trademark of AAAS.
+
+Downloaded from http://science.sciencemag.org/ on October 8, 2017
+
+ARTICLE TOOLS
+
+

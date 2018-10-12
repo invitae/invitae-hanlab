@@ -1,0 +1,1759 @@
+Cell, Vol. 48, 827-835,
+
+March
+
+13. 1987, Copyright
+
+0 1987 by Cell Press
+
+Duplication of Seven Exons in LDL Receptor Gene
+Caused by Alu-Alu Recombination
+in a
+Subject with Familial Hypercholesterolemia
+Mark A. Lehrman, Joseph L. Goldstein,
+David W. Russell, and Michael S. Brown
+Departments of Molecular Genetics
+and Internal Medicine
+University of Texas Health Science Center at Dallas
+Southwestern Medical School
+Dallas, Texas 75235
+
+Summary
+A defective LDL receptor gene in a child with familial
+hypercholesterolemia
+produces a receptor precursor
+that is 50,000 daltons larger than normal (apparent M,
+170,000 vs. 120,000). The elongated
+protein resulted
+from a 14 kilobase
+duplication
+that encompasses
+exons 2 through 8. The duplication
+arose from an unequal crossing-over
+between homologous
+repetitive
+elements (Alu sequences)
+in intron 1 and intron 8. The
+mutant receptor has 18 contiguous
+cysteine-rich
+repeat sequences instead of the normal nine. Seven of
+these duplicated
+repeats are derived from the lfgandbinding domain,
+and two repeats are part of the
+epidermal growth factor precursor homology
+region.
+The elongated
+receptor undergoes
+normal carbohydrate processing,
+its apparent molecular
+weight increases to 210,000, and the receptor reaches the cell
+surface where it binds reduced amounts of LDL but
+undergoes efficient internalization
+and recycling. The
+current findings
+support
+an evolutionary
+model in
+which homologous
+recombination
+between repetitive
+elements in introns leads to exon duplication
+during
+evolution of proteins.
+Introduction
+Proteins that function in the extracellular environment are
+often built up of repeating amino acid sequences that are
+suspected to have arisen through exon duplication (Gilbert, 1978, 1985; Doolittle, 1985). A potential mechanism
+for such duplication emerged from the discovery of repetitive DNA sequences that occur several hundred thousand
+times within the genome. Unequal crossing-over caused
+by homologous
+recombination
+between repetitive elements within different introns could lead to deletion or
+duplication of exons (Alberts et al., 1983). Several examples of exon deletion based on this mechanism have recently been described (for review, see Lehrman et al.,
+1987a). To date, however, there is no specific example of
+exon duplication resulting from recombination
+between
+repetitive elements.
+One gene that is likely to have evolved through exon
+duplication
+is the gene for the low density lipoprotein
+(LDL) receptor, a protein that contains many cysteine-rich
+repeats (Stidhof et al., 1985a, 1985b). Located on the surface of body cells, this 839 amino acid glycoprotein binds
+cholesterol-carrying
+lipoproteins,
+LDL and P-migrating
+
+very low density lipoproteins (6-VLDL), and carries them
+into cells in coated pits. The ligand-binding
+domain of the
+LDL receptor consists of seven cysteine-rich repeats of 40
+amino acids each that are encoded by five exons (exons
+2-6 of the LDL receptor gene). The first two repeats and
+the last two repeats are each encoded in single exons. The
+middle three repeats are encoded in one exon. All of the
+introns in this region interrupt the sequence between the
+first and second nucleotide of a codon, and all of them occur precisely at the borders of repeats. Exons 7 and 8 encode two additional 40 amino acid cysteine-rich repeats
+that are not homologous
+to the repeats in the ligandbinding domain. Rather, the latter two repeats are derived
+from an ancestral gene that also donated exons to the
+gene for the precursor to epidermal growth factor (Siidhof
+et al., 1985b). These so-called “‘growth factor” repeats
+have been found in a wide variety of other genes (Doolittle,
+1985).
+The LDL receptor is synthesized in the endoplasmic
+reticulum as a precursor with an apparent molecular
+weight of 120,000 on sodium dodecyl sulfate (SDS) polyacrylamide gels (Tolleshaug et al., 1982). The precursor
+contains a cluster of O-linked N-acetylgalactosamine
+residues attached to a region near the plasma membrane
+as well as several isolated O-linked residues and several
+N-linked carbohydrate chains in the immature high-mannose form (Cummings et al., 1983; Davis et al., 1986a).
+When the receptor moves to the Golgi complex, the
+O-linked chains are elongated and sialylated, and the
+N-linked sugars are converted to mature sialic acidcontaining carbohydrate chains. This processing causes
+the apparent molecular weight of the receptor on SDS
+polyacrylamide
+gels to increase from 120,000 to 160,000
+(Tolleshaug et al., 1982; Cummings et al., 1983). Most of
+this apparent 40,000 dalton increase is attributable to
+anomalous migration on SDS gels, owing to the elongation of the clustered O-linked sugar chains (Davis et al.,
+1986a).
+Mutations in the gene for the LDL receptor occur in patients with familial hypercholesterolemia
+(FH), a common
+autosomal
+dominant disease (Goldstein and Brown,
+1983). FH heterozygotes have one mutant LDL receptor
+gene and produce half the normal number of functional
+LDL receptors. FH homozygotes have two abnormal LDL
+receptor genes. Because of the high frequency of these
+mutations, FH homozygotes frequently inherit different
+mutant genes from both parents and are thus in fact compound heterozygotes. The term FH homozygote is retained, however, to refer to individuals who have two mutant genes at the LDL receptor locus, whether they are
+identical or not.
+The molecular basis of several mutant LDL receptor
+genes has been defined through studies of altered receptor structure in cultured cells and through cloning and sequencing of the mutant genes. Mutations that have been
+analyzed in this fashion include deletions, nonsense mutations, missense mutations, and one small duplication of
+
+Cell
+028
+
+contains a 14 kilobase duplication
+that encompasses
+seven exons (exons 2 through 8); it arose through homologous recombination between repetitive Alu sequences in
+intron 1 and intron 8. This duplication may be a pathologic
+extension of the ancestral duplication events that led to
+the evolution of the multiple repeats in the normal LDL
+receptor gene.
+Results
+
+[NIImmunel/N~l
+
+w
+Figure 1. Biosynthesis
+by FH 295 Fibroblasts
+
+and Processing
+
+of %-Labeled
+
+LDL Receptors
+
+Cells from the indicated subject were cultured as described
+in Experimental Procedures.
+On day 6 of cell growth after incubation for 16
+hr in 10% lipoprotein-deficient
+serum, three dishes were pulse-labeled
+for 1 hr with [%]methionine
+(160 ~Cilml) in methionine-free
+Dulbecco’s modified Eagle’s medium, followed by a chase for the indicated
+time in Dulbecco’s modified Eagle’s medium containing 200 PM unlabeled methionine.
+Detergent extracts of the cells were prepared and
+subjected to immunoprecipitation
+with the monoclonal
+anti-LDL receptor antibody IgG-C7 (immune) or the control nonimmune
+monoclonal
+antibody IgG-2001 (N), as indicated. Electrophoresis
+of the precipitates
+on 6% SDS-polyacrylamide
+gels and fluorography
+were performed as
+described
+in Experimental
+Procedures.
+The gel was exposed to preflashed x-ray film at -70%
+for 2 days. The gel was calibrated
+with
+molecular weight standards
+ranging from 200,000 to 43,000 daltons
+(Tolleshaug
+et al., 1963).
+
+four nucleotides (Lehrman et al., 1985a, 1985b, 1986,
+1987a, 1987b; Hobbs et al., 1986; Yamamoto et al., 1986;
+Davis et al., 1986b). These mutations disrupt the biosynthesis of the receptor, its transport from the endoplasmic
+reticulum to the Golgi complex, the binding of LDL, or the
+internalization of the receptor in coated pits.
+One puzzling mutation in an FH homozygote has not yet
+been examined at the molecular level. The gene in question, present in a subject designated FH 295, produces an
+LDL receptor precursor that is 50,000 daltons larger than
+the normal precursor as determined on SDS polyacrylamide gels (Tolleshaug et al., 1982). This 170,000 dalton
+precursor undergoes the normal 40,000 dalton increase in
+molecular weight and appears on the cell surface as a
+210,000 dalton protein. FH 295 inherited the allele producing the elongated LDL receptor from his father. From his
+mother,
+FH 295 inherited
+a mutant
+gene that produces
+a
+precursor of normal size (120,000 daltons) that is not carried to the Golgi
+complex
+and does not undergo any increase in molecular weight (Tolleshaug et al., 1982). Treatment of intact FH 295 cells with pronase destroys the
+210,000 dalton protein but does not affect the 120,000 dalton protein that remains within the cell (Tolleshaug et al.,
+1983). Although the 210,000 dalton receptor that reaches
+the cell surface has some ability to bind lz51-LDL, the total amount of binding in the FH 295 cells is only 15% of
+normal (Tolleshaug et al., 1982).
+Here we report the molecular basis for the elongated
+receptor in the FH 295 cells. We have found that this gene
+
+Figure 1 shows a pulse-chase experiment designed to follow the synthesis and processing of LDL receptors in normal and FH 295 cells. After a 1 hr labeling period with
+[%]methionine,
+the cells were solubilized and incubated
+with an anti-LDL receptor monoclonal antibody. The normal cells showed two immunoprecipitable
+bands: the receptor precursor with an apparent molecular weight of
+120,000 and the mature receptor with an apparent molecular weight of 160,000 (lane B). After a subsequent incubation for 1 hr in the presence of unlabeled methionine, all
+of the precursor was converted into the mature form (lane
+C). In the FH 295 cells, the 1 hr labeling period produced
+three specifically immunoprecipitable
+bands: the 120,000
+dalton precursor, a novel band at 170,000 daltons, and a
+novel band at 210,000 daltons (lane E). After the 1 hr chase
+with unlabeled methionine, the 120,000 dalton band did
+not change (note the absence of any 160,000 dalton band),
+but the 170,000 dalton band was converted to 210,000 daltons (lane F). Previous pedigree studies have shown that
+FH 295 inherited the mutant allele producing the 120,000
+dalton receptor from the mother and the 170,000 dalton
+precursor from the father (Tolleshaug et al., 1982). The
+170,000 dalton precursor matures to 210,000 daltons quite
+efficiently, indicating that it is transported from the endoplasmic reticulum to the Golgi at a normal rate.
+Figure 2A shows the exon structure of the normal LDL
+receptor gene and its correlation with the domain structure of the receptor protein. Figure 2B shows the recombination model that we have invoked to explain the production of an elongated protein by the FH 295 gene. The
+model envisions a meiotic unequal crossing-over between
+intron 8 and intron 1 in two LDL receptor genes, giving rise
+to two products. One product contains a duplication of
+exons 2 through 8, which would correspond to the proposed FH 295 allele. In the other product, exons 2 through
+8 are deleted. For convenience in describing the FH 295
+gene, the 5’ copy of exons 2-8 is designated as Repeat
+1 and the 3’ copy of exons 2-8 is designated Repeat 2.
+Figure 3 shows a Southern blot of genomic DNA from
+a normal subject and FH 295 probed with a 32P-labeled
+restriction fragment taken from exon 7. The middle and
+lower panels of the figure show the proposed derivation
+of each of the visualized bands according to the known restriction map of the normal LDL receptor gene (Siidhof et
+al., 1985a) and the recombination
+model of Figure 2.
+Digestion with Bglll gave a single band of 14 kb with normal and FH 295 DNA. The model predicts that FH 295
+should have two 14 kb Bglll fragments that hybridize with
+the probe. EcoRl produced a single 8 kb band in normal
+DNA, but produced an additional 12 kb band in the FH 295
+
+A 14 kb Duplication
+829
+
+A. DOMAIN
+
+SipflOl
+Sequence
+
+in LDL Receptor
+
+MAP
+
+OF LDL
+
+Lighnd
+Binding
+
+Gene
+
+RECEPTOR
+
+GENE
+
+EGF Prkursor
+Homology
+
+O-L&d
+Sugars
+
+Cyioplasmic
+
+Membrane
+SparmIng
+
+B.
+
+UNEQUAL
+
+CROSSING
+
+OVER
+
+IN FH295
+
+GENE
+
+3’
+
+Normal
+Gene
+
++
+
+Figure
+
+2. Unequal
+
+Crossing-Over
+
+in the FH 295 Gene
+
+(A) The schematic
+diagram shows the protein segments encoded by each exon of the normal human LDL receptor gene. The exons (denoted by
+the numbered
+boxes) and introns are not drawn to scale.
+(6) Two copies of the normal receptor gene, one with exons indicated by bold squares and the other with exons indicated by light circles, are aligned
+to illustrate the point of unequal crossing-over
+in FH 295. The recombination
+event is predicted to yield two products: the FH 295 gene, which contains
+two copies of exons 2-8, and a hypothetical
+gene in which exons 2-8 are deleted.
+
+DNA. According to the model, the 8 kb band in FH 295
+comes from Repeat 2. The 12 kb band extends from intron
+6 in Repeat 1 to exon 5 in Repeat 2, bridging the recombination joint. Finally, digestion with Asp718 (which recognizes the same sequence as Kpnl) yields a 20 kb fragment
+extending from intron 2 to intron 14 in the normal gene.
+The FH 295 gene gives the normal 20 kb fragment as well
+as a 14 kb fragment that extends from intron 2 in Repeat
+1 to intron 2 in Repeat 2. Southern blotting of genomic
+DNA from the mother of FH 295 gave a normal restriction
+pattern with the exon 7 probe, indicating that her mutant
+gene has no gross rearrangement,
+while Southern blotting of the father’s DNA showed the same abnormal bands
+that were present in FH 295 (data not shown).
+Additional Southern blotting experiments showed that
+the recombination joint in the FH 295 gene was contained
+on an abnormal 13 kb BamHl restriction fragment (data
+not shown). BamHl fragments of this size were obtained
+from genomic DNA of FH 295 by sucrose density gradient
+fractionation and cloned into bacteriophage
+h. Recombinant phages harboring the abnormal fragment were isolated by plaque hybridization and their inserts subcloned
+into a pBR322 vector. Figure 4 compares the restriction
+
+map of the cloned hFH 295 fragment with the corresponding regions of the normal LDL receptor gene as determined by Siidhof et al. (1985a). The 5’ end of the FH 295
+clone contains the cluster of BamHI, Stul, and Sphl sites
+that are found in and around exon 8 of the normal gene.
+On the 3’ side of these sites, the FH 295 clone contains
+the Kpnl, Xhol, Stul, and EcoRl sites that are present in
+the normal gene between exons 2 and 8. The cloned fragment from FH 295 did not contain the cluster of BamHl
+sites that are present around exon 10 of the normal gene.
+Thus the cloned portion of the FH 295 gene contained
+exon 8 followed by exons 2-8, consistent with the recombination model of Figure 3. The presence and absence of
+exons 2 and 9, respectively, in the FH 295 clone was confirmed by dot-blot analysis with specific hybridization
+probes (data not shown).
+To determine the nucleotide sequence at the recombination joint, we cloned relevant fragments from the normal
+gene and the FH 295 gene into suitable vectors (Figure 5).
+The sequence revealed that the recombination
+had occurred between repetitive elements of the Alu family
+(Figures 5 and 6). For convenience we numbered all three
+sequences according to the standard nomenclature of Alu
+
+Cell
+830
+
+23.3 - I, a
+9.4akm
+6.6 ABC
+
+DEF
+
+Normal Gene
+EXON
+
+*
+
+14kb
+
+I
+
+EcoRI )
+
+20 kb
+5kb
+
+FH 295
+
+Gene
+
+EXON
+
+5’)
+
+2 3
+
+: :
+
+456
+
+:::
+
+EW
+EcoRI 1
+
+78
+
+:;;: ;
+
+14 kb
+
+2
+
+3
+
+456
+
+:
+
+:::
+
+’
+
+78910
+
+:;:;
+
+44 kb
+
+$412 1314
+
+::
+
+ltl3’
+
+’
+
+I
+
+ASP
+718
+Figure
+
+3. Southern
+
+Blotting
+
+of the FH 295 Gene
+
+Upper panel: Genomic
+DNA from normal or FH 295 fibroblasts
+was
+digested with the indicated enzyme, subjected to electrophoresis
+in a
+gel of 1% agarose, and analyzed by Southern blotting with a probe corresponding
+to exon 7 (nucleotides
+942 to 1007) of the human LDL
+receptor cDNA (Yamamoto et al., 1984) as described earlier (Lehrman
+et al., 1985b). Size standards
+were generated
+by Hindlll digestion of
+bacteriophage
+b DNA. The filters were exposed to Kodak XAR-5 film
+for 4 days at -70%
+with an intensifying
+screen.
+Lower panels: Diagrams of the normal and FH 295 genes are shown
+with the positions of exons indicated by the vertical lines. The broken
+vertical line in the FH 295 gene represents
+the putative site of crossing
+over. Below these diagrams are the restriction endonuclease
+cleavage
+sites for Bglll, EcoRI, and Asp7f8. Restriction
+fragments
+detectable
+with an exon 7-specific
+probe (‘) are indicated by the closed rectangles
+and labeled with their oredicted sizes.
+
+element8 (Deininger
+et al., 1981). The FH 295 gene
+showed a perfect match with the sequence of an Alu element in intron 8 over a stretch of 68 nucleotides up to the
+position labeled -148 in Figure 5. Thereafter, there was
+clear dissimilarity between the FH 295 gene and the intron
+8 sequence. Beginning at position -123 and continuing
+
+through position -168, the sequence of FH 295 showed
+a perfect match with an Alu element in intron 1. Between
+positions -123 and -148 all three sequence8 were identical. Thus the cross-over could have occurred anywhere
+between positions -123 and -148 (Figure 5).
+Figure 6 shows the location of the recombination
+joint
+and the surrounding
+Alu sequences in the two introns.
+The recombination joined an isolated left arm of an Alu sequence in intron 1 to the left arm of a cluster of Alu sequences in intron 8.
+Exons 2-8 of the LDL receptor gene encode nine
+cysteine-rich repeat8 of approximately
+40 amino acids
+each (Figure 2A). The first seven repeats, which are homologous with one another, constitute the ligand-binding
+domain. The last two repeat8 are derived from the gene
+for the EGF precursor. All of the splice sites are in the
+same reading frame. Thus duplication
+of exons 2-8
+should produce a messenger RNA that is translated into
+an abnormally long receptor which contains 18 contiguous cysteine-rich repeats instead of the original 9. In RNA
+blotting experiments, messenger RNAs of 6.5 kb (corresponding to the elongated 210,000 dalton receptor) and
+5.3 kb (corresponding
+to the nOnprOCe8Sed 120,000 dalton
+receptor) were detected in the FH 295 cells (data not
+shown).
+We previously reported that the FH 295 cells bound
+about 15% of the normal amount of lz51-LDL at 4%
+(Tolleshaug et al., 1982). This binding activity must be attributable to the elongated receptor since the 120,000
+dalton receptor produced by the maternal allele never
+reaches the surface (Tolleshaug et al., 1983). To characterize more completely the receptor bearing a duplication
+of the entire ligand-binding
+domain, we performed additional ligand binding studies in the FH 295 cells. To measure the affinity of the receptor for 1251-LDL, we incubated
+the cells at 4% with either lz51-LDL or 1251-lgG-C7, a
+monoclonal antibody that binds stoichiometrically
+to the
+LDL receptor (Beisiegel et al., 1981). The maximum binding of 1*%lgG-C7 was approximately one-fourth of normal
+(Figure 7A). The concentration
+of 1251-lgG-C7 that gave
+half-maximal binding (SO.s)was 0.06 uglml in the FH 295
+cells as well as the normal cells, as calculated from
+Lineweaver-Burke
+plots. The binding of 1251-LDL in the
+FH 295 cells was reduced in proportion to the reduction
+in l*sl-lgGC7 binding (Figure 78). The apparent affinity
+for 1251-LDL was similar in both the normal and FH 295
+cells (Se.s, 0.75 to 0.83 uglml).
+At 37% the receptor produced by the FH 295 gene also
+showed a normal affinity for 1251-LDL (Figure 8). The So.5
+values were indistinguishable
+in the normal and FH 295
+cells. The internalization
+index for 1251-LDL, i.e., the sum
+of internalized
+and degraded 1251-LDL divided by the
+amount of surface l*%LDL in the steady state (Goldstein
+et al., 1977), was slightly reduced in the FH 295 cells as
+compared with the normal (Figure 8). Under standard conditions (10 ug 1251-LDL for 5 hr at 37%), the internalization
+index was 33 in normal cells and 24 in FH 295 cells (data
+derived from Figure 8). The value of 24 is at the lower
+range of values observed in normal cells in other experiments (Goldstein et al., 1977; Davis et al., 19866).
+
+A 14 kb Duplication
+831
+
+in LDL Receptor
+
+Gene
+
+Figure 4. Restriction
+the FH 295 Gene
+
+I
+
+5’ t--Y/
+Sp
+8
+
+I
+
+2
+
+I
+I
+
+‘1
+K
+
+'2
+
+3
+I
+‘1
+X
+
+45
+II
+
+St E SpE
+
+3
+I
+
+45
+II
+
+6
+I
+
+St E
+
+SpE
+
+/H
+
+3’
+
+X
+
+5’ t--f/
+
+6
+:
+
+7
+II
+
+8
+
+I9 10
+I1
+11
+BStSp;
+BB
+
+6
+I
+
+5'
+
+7
+I
+X
+
+8
+3’
+
+AFH
+
+’ :
+B
+
+295-22
+
+SPSPB
+
+Normal
+
+Sp
+
+H
+Ihb
+
+-148
+
+-123
+GCCTCCCAAAGTGCTGGGATACAGG
+
+GCTAGCCTTATGCTCCTAGCCTCAAGTGATCCTCCTCCCTCA
+NheI
+
+GCCTCCCAAAGTGCTGGGATACAGG
+
+5. Nucleotide
+
+Sequence
+
+of the Recombination
+
+GCCTCCCAAAGTGCTGGGATACAGG
+
+Joint
+
+Endonuclease
+
+Map
+
+of
+
+The restriction map of the cloned BamHl insert
+present in I FH 295-22 is shown in the middle
+line between the corresponding
+maps of the
+normal gene (Wdhof
+et al., 1985a). Exons
+(denoted by the closed vertical bars) are not
+drawn to scale, but the introns (denoted by the
+thin horizontal lines) are drawn to scale. The restriCtion enzymes
+used were as follows: B,
+BamHI; E. EcoRI; K, Kpnl; Sp, Sphl; St, Stul;
+X, Xhol. The vertical dashed line indicates the
+point of cross-over
+between the two normal
+genes.
+
+SPSPB
+
+GCTGG'I-RCGAACTGCTGACCTCAGGTGATCTGCCCACCTCG
+.
+GCTAGCCTTATGCTCCTAGCCTCAAGTGATCCTCCTCCCTCA
+
+Figure
+The
+joint
+The
+tion
+
+X
+
+8
+
+ii i2
+
+-81
+5'
+5'~
+
+7
+I
+
+-168
+PvllII
+CATGAGCCACCATGCCCAGCTG
+3'
+
+INTRONl-NORMAL
+
+CATGAGCCACCATGCCCAGCTG
+.
+TGGGCGCCACTGTGCCTGTTCC
+
+3'
+
+FH 295
+
+3'
+
+INTRONS
+
+-NORML
+
+in the FH 295 Gene
+
+sequences
+of normal intron 1 (top line), normal intron 8 (bottom line), and the FH 295 gene (middle line) in the region of the recombination
+are shown. All three sequences
+are numbered according to the scheme used for the consensus
+Alu repetitive element (Deininger et al., 1981).
+positions of recognition sites for restriction enzymes Pvull and Nhel are indicated. The vertical lines denote the possible limits of the recombinajoint. Dots between sequences
+denote positions at which the nucleotides
+differ.
+
+Discussion
+
+Through cloning of the recombination
+joint in the FH
+295 gene, we had a unique opportunity to observe the
+mechanism for such a duplication. It is not possible to
+identify the mechanism for normal duplication events because the ancestral genes that gave rise to the duplication
+are not available. In studying the FH 295 mutation, however, we were able to identify the sites in the normal gene
+where the duplication had taken place. A recombination
+event between two members of the middle repetitive Alu
+family was found. The likely mechanism for such recombination is the unequal crossing-over shown in Figure 2.
+This mechanism predicts the existence of the reciprocal
+product, i.e., a gene in which exons 2 through 8 have been
+deleted. To date, no evidence of such a reciprocal product
+has been found in any of the FH genes analyzed.
+Up until now, eight large deletions in the globin and LDL
+receptor genes have been found to have an Alu repeat at
+one or both ends (Figure 9). In the LDL receptor gene, the
+deletions involve different Alu elements located in introns
+4, 5, and 15 and in the 3’ untranslated region of exon 18.
+
+The current data on the FH 295 mutation are of interest
+from two points of view: first, because of the genetic mechanism for the duplication of seven exons, and second, because of the effect of such a large duplication on the cellular movement and binding activity of the LDL receptor.
+With regard to duplication, it has frequently been postulated that recombination
+between repetitive elements in
+introns might be one mechanism by which eukaryotic
+genes have acquired duplicated elements (Alberts et al.,
+1983). Duplication must have occurred during the evolution of the LDL receptor gene in order to create the seven
+copies of the cysteine-rich binding repeat and the two
+copies of the cysteine-rich EGF precursor repeat. In the
+case of FH 295, however, evolution seems to have gone
+one step too far. Instead of improving the binding ability
+of the LDL receptor, the duplication
+of the first nine
+cystene-rich repeats has reduced the functionality of the
+receptor.
+
+El
+HAlu
+
+q Alu Rght
+
+Exon s
+
+100 bp
+
+Recombination
+Joint
+I I
+
+Left Arm
+Arm
+
+5' 2
+
+w&
+
+Figure 8. Location of the Recombination
+Joint
+with Respect to the Alu Sequences
+in the Normal and FH 295 Genes
+3' Normal
+
+I
+I I
+
+5z
+
+3'
+
+Excil8
+
+Normal
+
+Exon 2
+
+3'
+i ;
+I I
+
+FH295
+
+The left and right arms of each Alu repeat are
+indicated by the hatched and stippled areas,
+respectively.
+Exons are denoted by the closed
+boxes. Arrows below the Alu repeats denote
+the orientation
+of the repeats relative to the
+consensus
+sequence
+(Deininger et al., 1981).
+Two copies of the normal gene are aligned to
+illustrate the crossing*ver
+that gave rise to the
+FH 295 gene. The vertical dashed lines indicate the possible limits of the recombination
+joint.
+
+Cdl
+032
+
+-2
+.$
+
+375
+
+-
+
+A. Monoclonal
+
+Antibody
+
+-
+
+B. LDL
+
+ii
+
+\0iz 300 225 - /
+
+:
+
+i2
+
+150
+
+2
+
+-
+
+0
+
+04
+
+Normal
+
+S o.5 = 0.06pg
+
+7- 0
+
+0
+
+01
+
+.-fs
+-I
+
+75
+
+j.f
+
+c
+
+A
+
+FH 295
+S o,5= 0.06
+
+A’
+_-
+
+Binding
+
+iA/.
+pg/ml
+
+I 2.0 0’
+
+<FH
+
+295
+S o,5= 0.83pg/ml
+
+A
+
+++
+
+r’
+
+0.4
+
+0.6
+
+1251- IgGFigure 7. Surface
+and FH 295 (A)
+
+I
+
+.++A
+
+l-l OY
+s 0 0.2
+I
+
+/ ml
+
+of Monoclonal
+
+0.8
+
+1.0
+
+C7 (pg/ml
+Antibody
+
+‘*~I-IgG-C7
+
+I
+
+I
+
+I
+
+I
+
+I
+
+1
+
+2
+
+3
+
+4
+
+5
+
+1251-LDL
+
+(pg
+
+)
+(A) and ‘%LDL
+
+(B) at 4% to Monolayers
+
+,,I
+
+10
+
+protein/ml)
+
+of Fibroblasts
+
+from a Normal
+
+Subject
+
+(0)
+
+On day 7 of cell growth after incubation for 48 hr in lipoprotein-deficient
+serum, fibroblasts
+from the indicated subject received 1.5 ml of ice-cold
+medium containing
+5% lipoprotein-deficient
+serum and the indicated concentration
+of one of the following ligands: ‘251-lgG-h
+(1053 cpmlng) (A)
+or %LDL
+(575 cpmlng protein) (B). After incubation for 2 hr at 4’%, the total radioactivity
+bound to the cells was determined.
+Each value represents
+the average of duplicate incubations.
+The concentration
+of rz51-LDL giving half-maximal
+binding (S& was calculated from Lineweaver-Burke
+plots.
+
+The deletions between these elements range from 0.8 to
+7.8 kb (for review, see Lehrman et al., 1987a). Nine of the
+11 Alu break points in the globin and LDL receptor genes
+have occurred in the left arm, and eight of these are between the A and B sequences that are thought to function
+as promoter elements for RNA polymerase Ill (Figure 9).
+The recombination
+event in the FH 295 gene follows the
+same pattern. The frequent occurrence of breakpoints in
+this region raises the possibility that it may adopt an unusual configuration
+during transcription
+that renders it
+prone to recombination.
+It should be pointed out that Alu
+sequences are not absolutely required for the generation
+of gross rearrangements.
+Several known deletions at the
+globin locus do not involve repetitive elements at either
+end (Orkin and Kazazian, 1984). Thus several classes of
+mutation mechanisms responsible for deletions in the human genome must exist.
+At the protein level, a remarkable feature of the FH 295
+receptor is that it seems to move at a relatively normal rate
+from one organelle to another. Previous data indicate that
+proteins that fold improperly cannot move efficiently from
+the endoplasmic reticulum to the Golgi complex (Gething
+et al., 1986; Yamamoto et al., 1986; Lehrman et al.,
+1987b). The FH 295 receptor contains 373 extra amino
+acids that are organized into nine additional cysteine-rich
+repeats of approximately 40 amino acids each. These extra amino acids must apparently fold and form disulfide
+bonds normally since the protein is readily transported to
+the Golgi complex and the cell surface. This observation
+supports our previous conclusion
+that each of the
+cysteine-rich repeats folds independently
+(Yamamoto et
+al., 1986; Lehrman et al., 1987b). In moving to the Golgi,
+
+1
+
+0
+
+A. Surface
+
+25
+
+Bound
+
+50
+“sI-
+
+Figure 8. Metabolism
+blasts from a Normal
+
+75
+LDL
+
+of ‘*sl-LDL
+Subject (0)
+
+100
+
+125
+
+( pg protein/
+
+150
+ml)
+
+at 37% by Monolayers
+and FH 295 (A)
+
+of Fibro-
+
+On day 7of cell growth after incubation for 48 hr in lipoprotein-deficient
+serum, fibroblasts
+from the indicated subject received 2 ml of Eagle’s
+minimum essential medium containing 5% lipoprotein-deficient
+serum
+and the indicated concentration
+of ‘?-LDL
+(61 cpm/ng protein). After
+incubation for 6 hr at 37X, the total amounts of surface-bound
+(A), inEach value
+ternalized (B), and degraded (C) lz51-LDL was determined.
+represents
+the average of duplicate incubations.
+The So.5 values were
+calculated
+from Lineweaver-Burke
+plots.
+
+A 14 kb Duplication
+833
+
+in LDL Receptor
+
+Gene
+
+Figure 9. Human Mutations
+Involving Breakage of DNA with One or Two Alu Repeats
+
+Left
+
+Arm
+
+-168
+
+-36
+
+H
+
+10bo
+
+LDL Receptor
+
+Globin Gene Mutations
+@
+
+S,p
+
+@
+
+x 8.p
+
+@
+
+s,p
+
+Globin
+
+@I
+
+8.p
+
+Globin
+
+q
+
+Globin
+Globin
+
+q
+q
+
+Mutations
+
+FH 381
+
+mFH
+
+295
+
+mFH
+
+626
+
+the FH 295 receptor increases in molecular weight by approximately 40,000 daltons, which is the same increase as
+that exhibited by the normal receptor. The explanation for
+this phenomenon
+now seems clear: the FH 295 receptor
+has only one copy of the serine- and threonine-rich region
+(exon 15) that is the site for addition of clustered O-linked
+sugars. These clustered O-linked sugars cause the
+molecular weight to increase anomalously on SDS gels by
+an apparent 40,000 daltons independently
+of the number
+of cysteine-rich repeats (Davis et al., 1986A).
+In this and a previous study (Tolleshaug et al., 1982), we
+found that the FH 295 receptor has a normal affinity, but
+a reduced capacity, for binding LDL. Ostlund et al. (1982)
+reported that the receptor in the FH 295 cells had a 5-fold
+increased affinity for 1251-LDL (FH 295 is sibling 1 in their
+paper). We have not been able to document such a difference. However, like Ostlund et al. (1982), we found a reduced maximal binding capacity in the FH 295 cells
+(Tolleshaug et al., 1982; Figures 7 and 8 in this paper). The
+mechanism for this reduced binding capacity is not clear.
+The binding of monoclonal antibody IgG-C7 is reduced in
+proportion to the reduction in LDL binding (Figures 7 and
+8). The maternal allele in the FH 295 cells produces a protein that never reaches the cell surface. Therefore, if the
+elongated, paternally derived receptor bound LDL normally, the FH 295 cells should bind approximately 50% of
+the normal amount of LDL. The data, however, show that
+these cells bind only 15%-250/o of the normal amount of
+monoclonal antibody or LDL. It is possible that this binding defect results from a reduction in the number of cell
+surface receptors, perhaps owing to reduced production
+or decreased stability of the mutant messenger RNA or
+protein. It is also possible that a normal amount of receptor is present, but that the mutation somehow occludes
+50% of the binding sites for antibody and LDL. Further
+studies will be necessary to clarify this point.
+
+BmFH
+
+q
+
+274
+
+m FH 781
+
+Experimental
+
+A consensus
+Alu repeat (Deininger et al., 1981)
+is shown with left and right internal repeats
+(arms). The A and B boxes of the putative RNA
+polymerase
+Ill promoter within the Alu repeat
+(Paolella et al., 1983) are denoted by horizontal
+bars. The apparent breakpoints
+in the globin
+genes (circled numbers) and in the LDL receptor gene (squared
+numbers)
+are indicated;
+breakpoints
+that occur within 10 bp of each
+other are positioned identically on the Alu repeat. For FH 295, FH 826, and FH 781, the midpoint between the two putative recombination
+boundaries
+is shown; in each case the boundaries themselves
+fell between the A and B
+boxes. References
+for the globin mutations
+are: 1 (Ottolenghi
+et al., 1982); 3 (Vanin et al.,
+1983); 11 (Jagadeeswaran
+et al., 1982); and 13
+(Henthorn et al., 1986). References
+for the LDL
+receptor
+mutations
+are: 2 (Lehrman
+et al.,
+1986); 4 and 5, this paper; 6 and 7 (Hobbs et
+al., 1986); 9 and 10 (Lehrman et al., 1987a); and
+8 and 12 (Lehrman et al., 1985b).
+
+Procedures
+
+Materials
+Human LDL (density 1.019-1.063 g/ml) was prepared and labeled with
+lz51 as previously
+described (Goldstein
+et al., 1983). IgG-C7, a mouse
+monoclonal
+antibody that binds to the LDL receptor of human cells,
+was prepared and labeled with lZ51 as previously
+described (Beisiegel
+et al., 1981). IgG-2001, a control mouse monoclonal
+antibody directed
+against an irrelevant antigen, was prepared as described
+(Tolleshaug
+et al., 1982). Human lipoprotein-deficient
+serum was prepared
+by
+ultracentrifugation
+(Goldstein
+et al., 1983). =P-labeled
+nucleotides
+were purchased
+from New England Nuclear Corporation.
+Enzymes
+used in cloning, sequencing,
+and restriction digestion were purchased
+from New England Biolabs (except Asp7l8, Boehringer
+Mannheim).
+Bacteriophage
+)L Charon 35 was obtained from Dr. Phil Tucker of the
+University of Texas Health Science Center at Dallas, Dallas, TX. E. coli
+host strain DB1255 (relevant genetic markers, recBC-,
+sbcB-) was
+kindly provided by Dr. Arlene Wyman of the Massachusetts
+Institute of
+Technology,
+Boston, MA. I DNA packaging extracts (Gigapack)
+were
+purchased
+from Vector Cloning Systems. Ml3 replicative
+form (RF)
+DNAs were purchased
+from PL Biochemicals.
+Genomic
+Cloning
+High molecular weight DNA (50 pg) was isolated from skin fibroblasts
+of FH 295 and digested for 3 hr at JPC with a 3-fold excess of BamHl
+(Lehrman et al., 1985a, 1985b). The digested DNA was extracted with
+a mixture of phenol and chloroform
+(1 :I) and then chloroform,
+precipitated with 70% ethanol and 96 mM sodium acetate, and dissolved
+in
+100 ~1 of 10 mM Tris-chloride
+and 1 mM sodium EDTA at pH 7.5. The
+DNA was fractionated
+by centrifugation
+through a 10%-40%
+sucrose
+gradient. Fractions from the gradient were subjected to Southern blotting with a uniformly 32P-labeled single-stranded
+cDNA probe (Church
+and Gilbert, 1984) corresponding
+to exons 4 and 5 of the LDL receptor
+gene (Yamamoto et al., 1984; Siidhof et al., 1985a). Aliquots (30 ng)
+of fractions containing the desired 13 kb BamHl fragment were mixed
+with 0.15 @g of BamHI-digested
+arms of I Charon 35 (Loenen and Blattner, 1983) and incubated (16 hr, 14’C) with 490 U of T4 DNA ligase. The
+ligated material was packaged into h. phage particles in vitro to yield
+a total of 1.4 x iti plaque-forming
+units and screened in E. coli strain
+D81255. One recombinant
+clone designated
+IFH 295-22 was identified by hybridization
+with a cDNA probe that hybridizes to exons 4 and
+5 of the receptor gene (Siidhof et al., 1985a). The insert was excised
+at the vector
+BamHl sites and subcloned
+into BamHI-digested
+pBR322. A restriction map of the cloned insert was generated by stan-
+
+Cell
+834
+
+dard techniques
+(Maniatis et al., 1982) to verify that the size of the insert (13 kb) was in agreement with that measured by Southern blotting
+of FH 295 genomic DNA.
+
+DNA Sequencing
+The relevant sequence of intron 1 from the normal gene was obtained
+through the subcloning
+of a 1 kb Sphl-Sspl
+fragment and a 0.15 kb
+Taql-Sspl fragment from a genomic clone spanning introns 1 through
+6 (I.25) (Siidhof et al., 1985a) into Smal- and Sphl-digested
+M13mp19
+replicative form DNA or Smal-digested
+Ml3mpl8 replicative form DNA,
+respectively,
+and sequencing
+with a universal
+primer and dideoxynucleotides
+(Sanger et al., 1977; Messing, 1983). The relevant sequence of intron 8 from the normal gene was obtained as follows: (1)
+a 0.6 kb Nhel-BamHI
+fragment from 121 (Sudhof et al., 1985a) was
+cloned into Xbal- and BamHI-digested
+Ml3mpl8 replicative form DNA
+and sequenced
+with a universal primer and dideoxynucleotides
+and (2)
+the Nhel site of a 0.6 kb Nhel-BamHI
+fragment
+was labeled with
+[3zP]dCTP and the Klenow fragment of E. coli DNA polymerase
+and
+sequenced
+by the method of Maxam and Gilbert (1980). The sequence
+of the recombination
+joint of XFH 295-22 was obtained by subcloning
+a 0.9 kb Sphl-Pvull
+fragment and a 0.15 kb Nhel-Sspl
+fragment of 1FH
+295-22 into Smal- and Sphl-digested
+M13mpl9 replicative form DNA
+or Smal- and Xbal-digested
+Ml3mp18 replicative
+form DNA, respectively, and sequencing
+with a universal primer.
+LDL Receptor
+Assays
+Diploid fibroblasts
+were obtained from skin biopsy specimens
+and
+grown in monolayer culture at 3PC in a 5% CO* incubator. For metabolic experiments,
+about 5 x lo4 cells from stock cultures
+were
+seeded into 60 mm Petri dishes according
+to a standard protocol and
+cultured for 5 days (Goldstein et al., 1983). Maximal synthesis
+of LDL
+receptors
+was then induced
+by incubation
+in human lipoproteindeficient serum for 48 hr prior to study, as described
+elsewhere (Goldstein et al., 1983). Cell-surface
+binding of rz51-LDL and 1251-lgG-C7 by
+monolayers
+at 4°C was determined
+as described
+(Beisiegel
+et al.,
+1981). Binding, internalization,
+and degradation
+of ‘251-LDL by monolayers at 3pC was determined
+using previously
+described
+methods
+(Goldstein
+et al., 1983).
+
+lmmunochemlcal
+Analysis
+of (35S]Methlonine-Labeled
+LDL Receptors
+Monolayers
+of fibroblasts
+were incubated with ]35S]methionine
+as indicated in the legend to Figure 1. After washing, the cells were lysed
+with Triton X-100, and LDL receptors
+were precipitated
+by incubation
+with immune complexes
+containing anti-receptor
+monoclonal antibody
+IgGC7 or control monoclonal
+antibody
+IgG-2001
+as described
+by
+Tolleshaug
+et al. (1983). The washed immunoprecipitates
+were dissolved in 8 M urea and 0.2 M dithiothreitol
+and subjected
+to SDSpolyacrylamide
+gel electrophoresis
+and fluorography
+(Tolleshaug
+et
+al., 1983).
+
+Acknowledgments
+We thank Edith Womack
+and Lavon Sanders for able assistance
+in
+growing the cultured cells. Mark Woelfle and Daniel Putnam provided
+excellent technical
+assistance.
+This research
+was supported
+by research grants from the National Institutes of Health (HL 20948) and the
+Robert A. Welch Foundation (I-971). M. A. L. is the recipient of a fellowship from the Jane Coffin Childs Memorial Fund for Medical Research.
+D. W. Ft. is the recipient of a Research Career Development
+Award from
+the National Institutes of Health (HL 01287). M. A. L:s present address
+is: Department
+of Pharmacology,
+University
+of Texas Health Science
+Center at Dallas, Dallas, Texas 75235
+The costs of publication of this article were defrayed in part by the
+payment
+of page charges.
+This article must therefore
+be hereby
+marked “advertisement”
+in accordance
+with 18 U.S.C. Section 1734
+solely to indicate this fact.
+Received
+
+November
+
+17, 1986.
+
+References
+Alberts, B., Bray, D., Lewis, J., Raff, M., Roberts, K., and Watson, J. D.
+(1983). In Molecular Biology of the Cell (New York: Garland Publishing,
+Inc.), pp. 47t-472.
+Beisiegel, U., Schneider, W. J., Goldstein, J. L., Anderson,
+R. G. W.,
+and Brown, M. S. (1981). Monoclonal
+antibodies
+to the low density
+lipoprotein receptor as probes for study of receptor-mediated
+endocytosis and the genetics of familial hypercholesterolemia.
+J. Biol. Chem.
+256, 11923-l 1931.
+Church,
+G. M., and Gilbert, W. (1984).
+Natl. Acad. Sci. USA 87, 1991-1995.
+
+Genomic
+
+sequencing.
+
+Proc.
+
+Cummings,
+R. D., Kornfeld, S., Schneider,
+W. J., Hobgood,
+K. K.,
+Tolleshaug, H., Brown, M. S., and Goldstein, J. L. (1983). Biosynthesis
+of the N- and O-linked oligosaccharides
+of the low density lipoprotein
+receptor. J. Biol. Chem. 258, 1526115273.
+Davis, C. G., Elhammer, A., Russell,
+S., Brown, M. S., and Goldstein,
+J.
+O-linked
+carbohydrates
+does not
+lipoprotein
+receptor
+in transfected
+2828-2838.
+
+D. W., Schneider, W.
+L. (1986a). Deletion
+impair function
+of
+fibroblasts.
+J. Biol.
+
+J., Kornfeld,
+of clustered
+low density
+Chem. 287,
+
+Davis, C. G., Lehrman,
+M. A., Russell, D. W., Anderson,
+R. G. W.,
+Brown, M. S., and Goldstein, J. L. (1986b). The J. D. mutation in familial
+hypercholesterolemia:
+substitution
+of cysteine for tyrosine in cytoplasmic domain impedes internalization
+of LDL receptors.
+Cell 45. 15-24.
+Deininger, i? L., Jolly, D. J., Rubin, C. M., Friedmann,
+T, and Schmid,
+C. W. (1981). Base sequence
+studies of 300 nucleotide
+renatured
+repeated human DNA clones. J. Mol. Biol. 751, 17-33.
+Doolittle, R. F. (1985). The genealogy
+of some recently
+tebrate proteins. Trends Biochem. Sci. 70, 233-237.
+
+evolved
+
+ver-
+
+Gething, M.J., McCammon,
+K., and Sambrook, J. (1988). Expression
+of wild-type and mutant forms of influenza hemagglutinin:
+the role of
+folding in intracellular
+transport.
+Cell 46, 939-950.
+Gilbert,
+
+W. (1978). Why genes
+
+Gilbert,
+
+W. (1985).
+
+Goldstein, J.
+mia. In The
+Stanbury, J.
+M. S. Brown,
+
+Genes-in-pieces
+
+in pieces?
+
+Nature
+
+revisited.
+
+277, 501.
+
+Science
+
+228, 823-824.
+
+L., and Brown, M. S. (1983). Familial hypercholesteroleMetabolic
+Basis of Inherited Disease, 5th edition, J. B.
+B. Wyngaarden,
+D. S. Fredrickson,
+J. L. Goldstein,
+and
+eds. (New York: McGraw-Hill),
+pp. 672-7’12.
+
+Goldstein, J. L., Brown, M. S., and Stone, N. J. (1977). Genetics of the
+LDL receptor: evidence that the mutations affecting binding and internalization are allelic. Cell 12, 629-641.
+Goldstein,
+mediated
+241-260.
+
+J. L., Basu, S. K., and Brown, M. S. (1983). Receptorendocytosis
+of LDL in cultured cells. Meth. Enzymol. 98,
+
+Henthorn,
+l? S., Mager, D. L., Huisman,
+T H. J., and Smithies, 0.
+(1986). A gene deletion ending within a complex array of repeated sequences 3’to the human p-globin gene cluster. Proc. Natl. Acad. Sci.
+USA 83, 5194-5198.
+Hobbs, H. H., Brown, M. S., Goldstein, J. L., and Russell, D. W. (1986).
+Deletion of exon encoding cysteine-rich
+repeat of LDL receptor alters
+its binding specificity
+in a subject with familial hypercholesterolemia.
+J. Biol. Chem. 267, 13114-13120.
+Jagadeeswaran,
+P., Tuan, D., Forget, B. G., and Weissman,
+S. M.
+(1982). A gene deletion ending at the midpoint of a repetitive DNA sequence in one form of hereditary persistence
+of fetal haemoglobin.
+Nature 296, 469-470.
+Lehrman, M. A., Goldstein, J. L., Brown, M. S., Russell, D. W., and
+Schneider, W. J. (1985a). Internalization-defective
+LDL receptors
+produced by genes with nonsense and frameshift
+mutations that truncate
+the cytoplasmic
+domain. Cell 41, 735-743.
+Lehrman. M. A., Schneider, W. J., Sudhof, T. C., Brown, M. S.. Goldstein, J. L., and Russell, D. W. (1985b). Mutation in LDL receptor:
+Alu-Alu recombination
+deletes exons encoding transmembrane
+and
+cytoplasmic
+domains. Science 227, 140-146.
+Lehrman,
+M. A., Russell, D. W., Goldstein,
+J. L., and Brown, M. S.
+(1986). Exon-Alu recombination
+deletes 5 kilobases
+from low density
+
+A 14 kb Duplication
+035
+
+in LDL Receptor
+
+Gene
+
+lipoprotein receptor gene, producing null phenotype in familial
+cholesterolemia.
+Proc. Natl. Acad. Sci. USA 83, 3679-3683.
+
+hyper-
+
+Lehrman,
+M. A., Russell, D. W., Goldstein,
+J. L., and Brown, M. S.
+(1987a). Alu-Alu
+recombination
+deletes splice acceptor
+sites and
+produces
+secreted
+LDL receptor
+in a subject with familial hypercholesterolemia.
+J. Biol. Chem., in press.
+Lehrman, M. A., Schneider, W. J., Brown, M. S., Davis, C. G., Elhammer, A., Russell, D. W., and Goldstein, J. L. (1987b). The Lebanese allele at the LDL receptor locus: nonsense mutation produces truncated
+receptor that is retained in endoplasmic
+reticulum. J. Biol. Chem. 262,
+401-410.
+Loenen, W. A. M., and Blattner, F R. (1983). Lambda Charon vectors
+(Ch32, 33, 34 and 35) adapted for DNA cloning in recombinationdeficient hosts. Gene 26, 171-179.
+Maniatis, T., Fritsch, E. F., and Sambrook, J. (1982). Molecular Cloning:
+A Laboratory
+Manual (Cold Spring Harbor, New York: Cold Spring Harbor Laboratory),
+pp. l-545.
+Maxam, A. M., and Gilbert,
+with base-specific
+chemical
+Messing,
+20-78.
+
+W. (1980).
+cleavages.
+
+J. (1983). New Ml3 vectors
+
+Sequencing
+end-labeled
+DNA
+Meth. Enzymol. 65, 499-560.
+for cloning.
+
+Meth. Enzymol.
+
+107,
+
+Orkin, S. H., and Kazazian, H. H., Jr. (1964). The mutation and polymorphism of the human B-globin gene and its surrounding
+DNA. Ann.
+Rev. Genet. 18, 131-171.
+Ostlund, R. E., Jr., Levy, R. A., Witztum, J. L., and Schonfeld, G. (1982).
+Familial hypercholesterolemia:
+evidence for a newly recognized
+mutation determining
+increased fibroblast receptor affinity but decreased
+capacity for low density lipoprotein in two siblings. J. Clin. Invest. 70,
+823-831.
+Ottolenghi, S., and Giglioni, B. (1982). The deletion in a type of So+“thalassaemia
+begins in an inverted Alul repeat. Nature 300, 770-771.
+Paolella, G., Lucero, M A., Murphy, M. H., and Baralle, F. E. (1983).
+The Alu family repeat promoter has a tRNA-like bipartite structure.
+EMBO J. 2, 691-696.
+Sanger, F., Nicklen,
+with chain-terminating
+5463-5467.
+
+S., and Coulson, A. R. (1977). DNA sequencing
+inhibitors.
+Proc. Natl. Acad. Sci. USA 74,
+
+Sudhof, T C., Goldstein, J. L., Brown, M. S., and Russell, D. W. (1965a).
+The LDL receptor gene: a mosaic of exons shared with different proteins. Science 228, 815-822.
+Stidhof, T. C., Russell, D. W., Goldstein, J. L., Brown, M. S., SanchezPescador, R., and Bell, G. I. (1985b). Cassette of eight exons shared
+by genes for LDL receptor and EGF precursor.
+Science 228,693~895.
+Tolleshaug,
+H.. Goldstein,
+J. L., Schneider, W. J., and Brown, M. S.
+(1982). Posttranslational
+processing
+of the LDL receptor and its genetic
+disruption in familial hypercholesterolemia.
+Cell 30, 715-724.
+Tolleshaug,
+H., Hobgood,
+K. K., Brown, M. S., and Goldstein, J. L.
+(1963). The LDL receptor locus in familial hypercholesterolemia:
+multiple mutations disrupting the transport and processing
+of a membrane
+receptor. Cell 32, 941-951.
+Vanin, E. F., Henthorn, F? S., Kioussis, D., Grosveld, F., and Smithies,
+0. (1983). Unexpected
+relationships
+between four large deletions in the
+human p-globin gene cluster. Cell 35, 701-709.
+Yamamoto, T, Davis, C. G., Brown, M. S.. Schneider,
+W. J., Casey,
+M. L., Goldstein,
+J. L., and Russell, D. W. (1984). The human LDL
+receptor: a cysteine-rich
+protein with multiple Alu sequences
+in its
+mRNA. Cell 39, 27-38.
+Yamamoto, T., Bishop, R. W., Brown, M. S., Goldstein, J. L., and Russell, D. W. (1966). Deletion in cysteine-rich
+region of LDL receptor impedes transport
+to cell surface
+in WHHL
+rabbit. Science
+232,
+1230-1237.
+
+

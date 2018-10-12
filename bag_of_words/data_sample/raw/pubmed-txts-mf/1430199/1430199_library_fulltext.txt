@@ -1,0 +1,1138 @@
+Glutaric Acidemia Type 11
+Heterogeneity infl-Oxidation Flux, Polypeptide Synthesis, and Complementary
+DNA Mutations in the a Subunit of Electron Transfer Flavoprotein in Eight Patients
+Eric Freneaux, Val C. Sheffield, Lisa Molin, Ann Shires, and William J. Rhead
+Department ofPediatrics, University ofIowa, Iowa City, Iowa 52242
+
+Abstract
+We studied metabolic, polypeptide and genetic variation in
+eight glutaric acidemia type II (GA II) patients with electron
+transfer flavoprotein (ETF) deficiency. As measured by 3Hfatty acid oxidations in fibroblasts, #-oxidation pathway flux
+correlated well with clinical phenotypes. In six patients with
+severe neonatal onset GA II, oxidation of 19,10(n)-3H1palmitate ranged from 2% to 22% of control and of [9,10(n)3H] myristate, from 2% to 26% of control. Of two patients with
+late onset GA II, one had intermediate residual activities with
+these substrates and the other normal activities. Radiolabeling
+and immunoprecipitation studies revealed that three of the six
+neonatal onset GA II patients had greatly diminished or absent
+a- and fi-ETF subunits, consistent with a failure to assemble a
+stable heterodimer. Another neonatal onset patient showed
+normal synthesis of ,-ETF but decreased synthesis of a-ETF.
+Two neonatal onset and two late onset GA II patients showed
+normal synthesis of both subunits. Analysis of the pre-a-ETF
+coding sequence revealed seven different mutations in the six
+patients with neonatal onset GA II. The most common mutation was a methionine for threonine substitution at codon 266
+found in four unrelated patients, while all the other mutations
+were seen in single patients. No mutations were detected in the
+two patients with late onset GA II. (J. Clin. Invest. 1992.
+90:1679-1686.) Key words: denaturing gradient gel electrophoresis * electron transfer flavoprotein fatty acid oxidation * mitochondria- polymerase chain reaction
+-
+
+transfer of electrons between several mitochondrial matrix dehydrogenases and the main electron transport chain ( 1). Both
+deficiencies are inherited as autosomal recessive traits (2). ETF
+is a heterodimer consisting of an a and a p subunit (a-ETF and
+,B-ETF), both nuclear coded and synthesized in the cytosol.
+a-ETF, but not f3-ETF, is synthesized as a precursor (pre- aETF) larger than the mature form (3). The pre-a-ETF cDNA
+coding region comprises 999 base pairs encoding 333 amino
+acids, with molecular masses of precursor and mature a-ETF
+estimated to be 35 and 32 kD, respectively (4). Although clinical and enzymatic heterogeneity has been well documented in
+ETF-deficient GA II patients (2, 5), the molecular basis of this
+defect is less well understood, with only one patient reported as
+having a glycine to valine substitution at codon 157
+(Vall57Gly) in the sequence of pre-a-ETF (6).
+In this study, we have examined the biochemical and polypeptide phenotypes and the molecular defects in eight ETF-deficient GA II patients. We measured the oxidation of[9, 10(n)3H]palmitate and -myristate to quantitate ,B-oxidation flux in
+GA II cells. We investigated the biosynthesis of both ETF subunits in fibroblasts from these eight patients by radiolabeling
+and immunoprecipitation with anti-ETF antiserum. Furthermore, we have studied pre-a-ETF cDNA using GC-clamped
+denaturing gradient gel electrophoresis (DGGE; 7-9), singlestranded conformation polymorphisms (SSCP), direct DNA
+sequencing, and restriction endonuclease analyses to characterize the molecular defects in these patients.
+Methods
+
+Introduction
+Glutaric acidemia type II (GA II)' is an inborn error of fatty
+acid and amino acid metabolism characterized by hypoketotic
+hypoglycemia, metabolic acidosis, and a characteristic organic
+aciduria. The disease is due to a defect in either electron
+transfer flavoprotein (ETF) or ETF-ubiquinone oxidoreductase (ETF-QO), two mitochondrial enzymes required for the
+Address reprint requests to Dr. Rhead, Division of Medical Genetics,
+Department of Pediatrics, University of Iowa, Iowa City 52242.
+Receivedfor publication 26 February 1992 and in revisedform 13
+May 1992.
+
+1. Abbreviations used in this paper: DGGE, denaturing gradient gel
+electrophoresis; ETF, electron transfer flavoprotein; GA II, glutaric acidemia type II; PCR, polymerase chain reaction; QO, ubiquinone oxidoreductase; SSCP, single-stranded conformation polymorphism(s).
+J. Clin. Invest.
+© The American Society for Clinical Investigation, Inc.
+
+0021-9738/92/11/1679/08 $2.00
+Volume 90, November 1992, 1679-1686
+
+Fibroblast and cell culture. Fibroblasts were grown in Eagle's minimal
+essential medium with Earle's balanced salts, L-glutamine, and nonessential amino acids (JRH Bioscience, Lenexa, KS) containing 10%
+fetal bovine serum (Hyclone Laboratories, Logan, UT) and antibiotics
+(penicillin, streptomycin, and gentamycin, Sigma Chemical Co., St.
+Louis, MO). Control cultures were established from the foreskins of
+three healthy male infants and from skin biopsies of seven females and
+three males in whom the diagnosis of GA II was ruled out on the basis
+of clinical and biochemical analyses and tritiated palmitate assay results. The ETF-deficient GA II patients 1430 (10), 1728 (11), 1803,
+1863, 1903, 1916, and 1966 (2) have been described previously. Patient 1430 was identified by Indo et al. (6) as patient YH 1313 and by
+Loehr et al. (2) as patient 1902. Patient 9001 developed hypoglycemia,
+hyperammonemia, and metabolic acidosis soon after birth. The diagnosis of GA II was made after identification of characteristic plasma
+acylcarnitine and urine organic acid profiles (personal communication, Dr. G. J. Mick, University of Rochester).
+Materials. Chemicals purchased were of the highest grade available. Tran35S-label (1,000 Ci/mmol, 10 mCi/ml) was purchased from
+ICN Biomedicals (Costa Mesa, CA). Fixed protein A-positive Staphylococcus aureus cells and deoxynucleotide triphosphates were purchased
+from Boehringer-Mannheim Biochemicals (Indianapolis, IN). Entensify was from DuPont-New England Nuclear (Wilmington, DE). Antisera against pig ETF were raised in New Zealand white rabbits as de-
+
+Glutaric Acidemia Type II: Mutations
+
+1679
+
+scribed earlier for our antisera against short- and medium-chain acylcoenzyme A dehydrogenases (12). Pure ETF was kindly provided by
+Dr. F. Frerman, University of Colorado, Denver, CO, and Dr. C.
+Thorpe, University of Delaware, Newark, DE. Taq DNA polymerase
+and PCR buffer were from Perkin Elmer Cetus (Norwalk, CT). The
+oligonucleotide primers were synthesized on a model 391 DNA synthesizer (Applied Biosystems, Inc., Foster City, CA). [9,10(n)-3H]myristic and -palmitic acids and deoxyadenosine 5'-a-[35S] thiotriphosphate, triethylammonium salt (1,000 Ci/mmol, 10 mCi/ml)
+were purchased from Amersham Corp. (Arlington Heights, IL). Random hexamer was from Pharmacia, Inc. (Piscataway, NJ). Mo-MLV
+reverse transcriptase was from Bethesda Research Laboratories (Gaithersburg, MD). RNAsin was from Promega Corp. (Madison, WI).
+Fok I and Nla IV were purchased from New England Biolabs (Beverly, MA).
+Tritiated palmitate and myristate oxidations. Oxidation of
+[9,10(n)-3H]palmitate (20 MM) and -myristate (80 MM) to 3H20 in
+fibroblast monolayers was quantitated as described earlier (5, 13).
+Immunoprecipitation ofradiolabeledETFsubunits. Immunoprecipitation with rabbit anti-ETF antiserum was carried out according to
+Ikeda et al. (14), except that the cells were incubated with labeling
+medium for 12 h instead of 1 h and that two of the four S. aureus pellet
+washes with NaCI, Tris, Triton, deoxycholate, and SDS, and the two
+H20 washes were omitted. The immunoprecipitated samples were analyzed by SDS-PAGE using 10% gels as described by Laemmli (15). The
+gels were treated for fluorography with Entensify and exposed onto
+X-OMAT AR film (Eastman Kodak Co., Rochester, NY) at -80°C.
+RNA preparation. RNA was extracted from cultured fibroblasts
+according to the method of Chomczynski and Sacchi (15), with the
+omission of the reprecipitation step and the addition of a second wash
+with 75% ethanol. The final RNA pellet was resuspended in diethyl
+pyrocarbonate-treated water and kept at -80°C until used.
+cDNA synthesis. Approximately 1 Mg of total RNA was mixed in a
+20-Ml reaction volume containing 50 mM KCl, 10 mM Tris-HCl, pH
+8.3,5 mM MgCl2, 1 mM of each deoxynucleotide triphosphate, 2.5 4M
+random hexamer, 20 U of RNAsin and 50 U of Mo-MLV reverse
+transcriptase. The reverse transcription reaction was performed using a
+DNA thermal cycler (Perkin Elmer Cetus) as follows: 10 min at 23°C,
+45 min at 37°C, 5 min at 99°C, and 5 min at 5°C.
+
+DNA amplification. The entire coding region ofthe gene was ampli-
+
+fied in five overlapping segments. The primer sequences were designed
+from the published sequence of pre- a-ETFcDNA (4). For each pair of
+primers, a 39-bp GC-rich sequence was added at the 5' end of one of the
+primers to allow optimum analysis by DGGE (9). To the 20-M' reverse
+
+transcriptase reaction mixture were added 80 Ml of a solution containing 50 mM KCl, 10 mM Tris-HCl, pH 8.3, 1.25 mM MgCl2,0.5MM of
+each appropriate primer and 2 U of Taq DNA polymerase. The samples were overlaid with 70 Ml of mineral oil. The amplification reaction
+was performed for 35 cycles in a thermal cycler using the following
+cycle conditions: 30-s denaturation at 94°C, 30-s annealing at 55°C,
+and 1-min extension at 72°C. The final extension was for 5 min. A
+10-Ml aliquot of the amplification product was electrophoresed on a
+1.5% agarose gel to confirm successful amplification.
+DGGE. The optimum gradient condition and length of electrophoresis were determined for each amplified DNA segment by performing
+perpendicular DGGE and running travel schedule gels as described
+elsewhere (17). 17 Ml of amplification product was mixed with 5 Ml of
+loading buffer (30% glycerol, 10 mM Tris-HCl, pH 7.8, 1 mM EDTA
+and 0.1% orange G), and loaded on a 7% (14% for segment 1) polyacrylamide gel (37.5:1, acrylamide:N,N'-methylene bisacrylamide)
+containing the appropriate linear gradient of DNA denaturant (Table
+I). Electrophoresis was carried out at 60°C at 150-V constant voltage
+for the appropriate length of time (Table I), as described. Gels were
+stained with ethidium bromide.
+Purification of PCR products for DNA sequencing. 200 Ml of the
+amplification product was electrophoresed on a 1% agarose gel. The
+DNA fragment was recovered by cutting the desired band from the
+agarose gel, freezing at -20°C overnight, and centrifugation in a Costar
+spin-XO.22 Mm cellulose acetate filter unit. The eluate was mixed with 1
+Ml of glycogen (20 mg/ml), 0.2 vol of SM ammonium acetate, and 2.5
+vol of isopropanol and left 30 min on ice. The precipitated DNA was
+pelleted by centrifugation, washed twice with 70% ethanol, dried, and
+resuspended in 30 Ml of water. In order to sequence independently two
+different alleles from a single individual, some samples were electrophoresed on a denaturing gradient gel containing a narrow denaturant
+range (10%) centered on the empirical melting point ofthe DNA fragments. The segments of the gel containing the DNA fragment corresponding to each allele were excised, soaked in water for 15 min, and
+incubated overnight with 2 vol of 0.5 M ammonium acetate, 10 mM
+magnesium acetate, 1 mM EDTA, pH 8.0, and 0.1% SDS at 37°C with
+shaking (18). The supernatant was centrifuged in a Costar spin-X 0.22
+Mm cellulose acetate filter unit to remove residual gel fragments. DNA
+was precipitated with ethanol, washed with 70% ethanol, dried, and
+resuspended in water. The DNA resulting from a 350-Ml polymerase
+chain reaction (PCR) reaction was resuspended in 15 Ml of water.
+Direct sequencing of double-stranded DNA. The sequencing reaction based on the dideoxy termination method of Sangeret al. (19) was
+performed using Sequenase 2.0 sequencing kit (United States Biochem-
+
+Table I. Optimal Conditions for DGGE of DNA Segments Derived from Pre-a-ETF
+DNA
+segment
+
+I
+2
+
+3
+4
+5
+
+Primer characteristics*
+
+1.1 sense5'A(-26)-(-)C3'
+1.2 antisenseGC-clamp 5'A171
+51G51 3'
+2.1 sense5'C120- 140T3'
+2.2 antisense GC-clamp 5'A383 364A 3'
+3.1 sense GC-clamp 5' G334 -- 356T 3'
+3.2 antisense 5'A676 --654G 3'
+4.1
+4.2
+5.1
+5.2
+
+GC-clamp 5' T621 -- 642T 3'
+antisense 5' C830 -- 808G 3'
+sense GC-clamp 5'A775 - 795G 3'
+antisense 'T1061 -. 1032T 3'
+
+Size of amplified
+product
+
+Denaturing
+gradientt
+
+Electrophoresis
+time
+
+bp
+
+%
+
+h
+
+237
+
+45-65
+
+10
+
+303
+
+40-65
+
+6
+
+382
+
+35-65
+
+7
+
+248
+
+40-65
+
+7
+
+326
+
+20-45
+
+7
+
+sense
+
+* GC-clamp =5' CGCCCGCCGCGCCCCGCGCCCGGCCCGCCGCCCCCGCCC 3'.
+The numbers indicate the position ofthe first and last nucleotides of the primer within pre-a-ETF sequence as designated in Finocchiaro et al. (4).
+* 100% denaturant = 7 M urea and 40% formamide.
+
+1680
+
+Freneaux et al.
+
+ical, Cleveland, OH) with a modified protocol. Bidirectional sequencing was performed using the same primers used for the amplification
+reactions. A I0-M1l reaction containing 7 Al of purified DNA, 2 Ml of
+reaction buffer, and 25 pmol of the appropriate primer was incubated
+at 950C for 4 min and immediately transferred to a dry ice-ethanol bath
+for 1 min. Immediately after thawing, a mixture containing 1 Al of Mn
+buffer, 1 Al of [35S]dATP, 2 Al of a 1:20 dilution of labeling mix, 1 Al of
+dithiothreitol, and 2 sl of a 1:8 dilution of Sequenase enzyme was
+added. The labeling reaction was performed for 8 min at room temperature. Termination was performed for 5 min as described by the manufacturer except that it was performed at 40'C. Sequencing reactions
+were analyzed on 6% polyacrylamide denaturing gels. Gels were transferred onto Whatman Inc. (Clifton, NJ) 3MM paper, dried, and autoradiographed with Kodak X-OMAT AR film.
+Identification of SSCP. DNA amplification was performed as described above, except that the reaction volume was scaled down to 10 Ml
+and contained 4 MCi of [35SJdATP. 1 vol of PCR product was mixed
+with 3 vol of a solution containing 95% formamide, 20 mM EDTA,
+0.05% bromophenol blue, and 0.05% xylene cyanol. 5 Ml of this mixture was heated at 950C for 4 min and loaded onto 6% nondenaturing
+polyacrylamide gel (49:1, acrylamide:NN'-methylene bisacrylamide)
+containing 5% glycerol in 0.5 x Tris-borate-EDTA buffer. Electrophoresis was carried out in 0.5 x Tris-borate-EDTA buffer at room temperature at 20 W of constant power for 11 h for segment 3 and 6 h for the
+other segments (20, 21). Gels were transferred onto Whatman 3MM
+paper, dried, and autoradiographed with Kodak X-OMAT AR film.
+Restriction enzyme studies. 10 U of the appropriate enzyme were
+mixed with 20 Al of PCR product. The mixture was incubated at 370C
+for 4 h (Fok I) or overnight (Ma IV). The digested product was analyzed by agarose gel electrophoresis.
+
+Results
+
+Tritiatedfatty acid oxidation by intactfibroblast monolayers.
+
+We assayed (3-oxidation flux in patients' fibroblasts using
+[9,10(n)-3HJ-palmitate and -myristate as (-oxidation substrates (Table II). [3H]palmitate oxidation measures oxidation
+flux of medium- and long-chain fatty acids, whereas [3H]myristate oxidation reflects more sensitively impaired me-
+
+Table II. 3H-Fatty Acid Oxidation by Fibroblast Monolayers
+Substrate:
+
+[9, 1O(n)-3HPalmitate
+
+[9, 1O(n)-3H]Myristate
+
+dium-chain fatty acid oxidation. All patients with severe neonatal onset GA II had very low [3H]palmitate oxidations, with
+values ranging from 2% to 22% of the control mean. [3H]myristate oxidation was also significantly impaired for these
+same patients, with values of 2-26% of control. For all but
+patient 1728, [3H]palmitate oxidation was more impaired
+than was that of [3H] myristate. All these values are consistent
+with the severe generalized block in intramitochondrial acylcoenzyme A dehydrogenation and (3-oxidation observed in severe neonatal onset GA II. Late-onset GA II patients 1903 and
+1966 yielded distinctly different results. In patient 1903, [3H]palmitate oxidation approached the normal range (2 60% of
+control) at 55% of control, whereas [3H]myristate oxidation
+was more clearly abnormal at 31% of control. In patient 1966,
+both [3H]palmitate and [3H]myristate oxidations were normal at 79% and 107% of control, respectively. These findings
+are consistent with their mild clinical phenotypes (2).
+Immunoprecipitation of ETF subunits. In GA II fibroblasts, we radiolabeled newly synthesized ETF polypeptides
+and immunoprecipitated the labeled molecules with anti-ETF
+antiserum. The experiments were repeated independently two
+to six times for each patient, with consistent results. Two bands
+of the expected sizes (33 and 30 kD for a- and (3-ETF subunits,
+respectively) were seen after SDS-PAGE of immunoprecipitated samples from control cells (Fig. 1 A, lane 5). These two
+bands were not seen when an excess of unlabeled pig ETF was
+added to the immunoprecipitation mixture before the addition
+of the antiserum or when preimmune serum was used in place
+of anti-ETF antiserum, confirming that these two bands were
+indeed the a- and (3-ETF subunits. In multiple experiments,
+both subunits were detected in patients 1728, 1803, 1903, and
+1966 with no gross alterations in size or amount of either (Fig.
+1 B, lanes 1, 3, 7, and 8). Although immunoprecipitation of
+samples from patient 9001 also revealed that both subunits
+were synthesized, the amount of a subunit synthesized appeared less than in control cells (Fig. 1 B, lane 5). Both subunits were markedly decreased in samples from patient 1863
+(Fig. 1 A, lane 1). Neither a nor ,8 subunits were consistently
+detected in samples from patients 1430 and 1916 (Fig. 1 A,
+lanes 3 and 6).
+PCR amplification and DGGE analysis ofprea-ETF gene.
+GC-clamped DGGE is a rapid and sensitive assay for nucleo-
+
+pmol/mg prot/h±SEM (% ofcontrol)
+
+Normal controls
+Patients
+Neonatal onset
+1430
+1728
+1803
+1863
+1916
+9001
+Late onset
+1903
+1966
+
+2270±432 (100)
+
+3020±511 (100)
+
+1
+
+2 3
+
+159±32* (7)
+499±87* (22)
+272±69* (12)
+161±39* (7)
+45±17* (2)
+182±53* (8)
+
+394±87* (13)
+182±41* (6)
+788±194* (26)
+364±75* (12)
+61±18* (2)
+667±162* (22)
+
+1250±271* (55)
+1790±329 (79)
+
+939±231* (31)
+3240+713 (107)
+
+Oxidation of 3H-fatty acids was performed as described earlier, except
+for the [3H]myristate concentration being 80 MM. Fibroblast cultures
+from five normal controls and each patient were assayed in duplicate
+three to five times.
+* Difference from control
+significant at P < 0.05.
+
+5 6
+Figure 1. SDS-PAGE of
+=radiolabeled ETF sub-
+
+4
+
+A)
+
+H
+
+units. Confluent monolayers ofhuman fibroblasts were labeled for
+B
+_
+12 h with Tran35S-label,
+solubilized, and immunoprecipitated with anti-ETF antiserum. The
+immunoprecipitates were electrophoresed on 70% SDS polyacrylamide gels and visualized by fluorography as described previously.
+(A) Lanes I and 2, patient 1863; lanes 3 and 4, patient 1430; lane
+5, normal control; lane 6, patient 1916. In lanes 2 and 4, 6 Mg of pure
+pig liver ETF was added to the cell homogenates before immunoprecipitation. The normal control signal in lane 5 is two- to fourfold
+denser than usually those seen in normal controls. (B) Lanes I and
+2, patient 1803; lanes 3 and 4, patient 1903; lanes 5 and 6, patient
+9001; lane 7, patient 1728; lane 8, patient 1966. In lanes 2, 4, and 6,
+6Mg of pure pig liver ETF was added to the cell homogenates before
+immunoprecipitation. The range of signal intensities in lanes 1, 3, 5,
+7, and 8 is representative of that found in normal controls.
+1
+
+2
+
+3
+
+4
+
+5
+-
+
+6
+
+7
+
+8
+
+Glutaric Acidemia Type II: Mutations
+
+1681
+
+Figure 2. DGGE analysis of segment 2. PCR
+
+12
+
+products were electrophoresed on a 40-65% denaturing gradient gel for 6 h at 60'C and at 150
+V. The gel was stained with ethidium bromide
+and photographed under UV light. Lane I shows
+a sample from a normal control and lane 2 from
+
+patient 1803.
+
+tide changes, including point mutations (7-9). Samples containing a base change appear on DGGE either as a single band
+ofabnormal migration when homozygous or as multiple bands
+(usually four bands corresponding to two homoduplexes and
+two heteroduplexes) when heterozygous (.17). The entire coding region of the gene was amplified in five overlapping segments selected to contain only one melting domain when analyzed by perpendicular GC-clamped DGGE. Sequences of the
+five pairs of primers, size of the amplified product, PCR and
+DGGE conditions are indicated in Table I. Agarose gel analysis
+of the amplified products revealed a single band ofthe expected
+size in all 13 control and 6 GA II cell lines, except for patient
+1916 which showed two bands when segment 5 was amplified,
+one of the expected size and a second, smaller one. Analysis of
+the different DNA fragments by DGGE revealed a marked
+molecular heterogeneity of GA II. The entire procedure (RNA
+isolation, cDNA synthesis, amplification, and DGGE analysis), was repeated independently at least twice for each segment
+from each patient, with identical results in each case. Analysis
+of segment 1 failed to reveal a mutation in any ofthe eight GA
+II patients (data not shown). Analysis of segment 2 showed
+that patient 1803 was heterozygous for a mutation (Fig. 2).
+This abnormal DGGE pattern was not seen in any of the 13
+control or the 7 other GA II patients. Analysis of segment 3 of
+patient 1430 indicated the presence of two different mutations,
+one on each allele (Fig. 3). Neither ofthese changes were present in the other GA II or control samples. However, a different
+DGGE pattern for segment 3 was found in four of the control
+cultures, suggesting that they were heterozygous for a normal
+polymorphism. DGGE analysis ofsegment 4 indicated the presence of an identical mutation in GA II patients 1728, 9001,
+1803, and 1863 (Fig. 4). This mutation was homozygous in
+patient 1728 and heterozygous in the three other patients. In
+patient 9001, the data indicated the presence of a different mutation on the other allele within the same segment (segment 4).
+Analysis of segment 5 showed that patients 1916 and 9001 were
+heterozygous for different mutations (Fig. 5). DGGE analysis
+of the five DNA segments from patients 1903 and 1966 did not
+reveal any nucleotide changes.
+SSCP analysis of pre-a-ETF gene. SSCP is a simple and
+sensitive alternative assay to DGGE for detecting single nucleotide changes (20). The principles of the techniques are different, making them complementary. In SSCP, a labeled sinU2
+
+3
+
+Figure 4. DGGE analysis of segment
+4. PCR products were electrophoresed
+on a 40-65% denaturing gradient gel
+for 7 h at 150 V and at 60'C. The gel
+was stained with ethidium bromide
+and photographed under UV light.
+Lane I shows a sample from a normal
+control, lane 2 from patient 1728, lane
+3 from patient 9001 and lane 4 from patient 1803. A result similar
+to that displayed in lane 4 was observed in patient 1863.
+4
+
+3
+
+2
+
+gle-stranded DNA fragment is electrophoresed on a nondenaturing polyacrylamide gel; a nucleotide change alters its
+secondary structure and thus its mobility in the gel. SSCP analysis of all five DNA segments did not detect any additional mutations (data not shown). Moreover, SSCP analysis of segment
+3 indicated that patient 1430 was heterozygous for only one
+mutation, missing the mutation in the other allele detected by
+DGGE analysis within the same segment.
+Sequence analysis. The DNA fragments shown by DGGE
+analysis to contain nucleotide changes were sequenced. Some
+DNA samples were first purified by agarose gel electrophoresis.
+In other cases, we separated both alleles on DGGE and sequenced them independently. Sequencing was done at least
+twice for each patient. In all cases, the DNA sequence obtained
+exactly matched the published sequence except for the mutations (Fig. 6). The nucleotide changes detected by sequencing
+in controls and GA II patients are summarized in Table III.
+Sequencing of segment 2 from patient 1803 revealed a heterozygous G to A transition at position 346, changing a glycine
+residue to an arginine at codon 116 (Glyl 16Arg; Fig. 6 A). 4 of
+13 controls, but no GA II patients, were shown on DGGE to be
+heterozygous for a change in segment 3. Sequencing this DNA
+segment showed a heterozygous C to T transition at nucleotide
+512, replacing a threonine with an isoleucine at codon 171
+(Thri 7 1Ile; data available on request). DGGE analysis of segment 3 from patient 1430 showed a pattern consistent with the
+presence of a different base change in each allele. Indeed, sequencing the lowest band revealed an 18-bp deletion (nucleotides 453 to 470), removing six amino acids (codons 152 to
+157: dell 52-157; Fig. 6 B). Sequencing the other band showed
+a T to G transversion at position 470, causing a valine to glycine change at codon 157 (Val 1 57Gly; Fig. 6 C). The 18-bp
+deletion did not allow the formation of heteroduplexes with the
+allele containing the 470 transversion, consistent with only two
+homoduplex bands being observed on DGGE.
+On the basis of the DGGE analysis of segment 4, the same
+nucleotide change was present in both alleles from patient 1728
+and in one allele from patients 1863, 1803, and 9001. Sequencing the PCR product from patient 1728 revealed homozygous
+C to T transitions at position 797, replacing a threonine residue
+
+Figure 3. DGGE analysis of segment 3. PCR
+
+products were electrophoresed on a 35-65% denaturing gradient gel for 7 hours at 150 V and
+at 60'C. The gel was stained with ethidium bromide and photographed under UV light. Lane
+I shows a sample from a normal control and
+lane 2 from patient 1430. Lane 3 shows the
+DGGE pattern observed in all four control cultures heterozygous for
+the polymorphism in this segment.
+
+1682
+
+1
+
+Freneaux et al.
+
+Figure 5. DGGE analysis of segment 5.
+
+1
+
+2
+
+3
+
+PCR products were electrophoresed on
+
+a 20-45% denaturing gradient gel for 7 h
+at 150 V and at 60°C. The gel was
+
+stained with ethidium bromide and photographed under UV light. Lane 1 shows
+a sample from a normal control, lane 2
+from patient 9001, and lane 3 from patient 1916.
+
+3T
+
+359
+
+T
+
+C
+
+G
+
+3
+A -479
+
+A
+
+T
+
+GT
+
+_
+
+__G
+
+AIG
+T
+
+_
+
+G
+
+A
+
+A
+
+__
+333
+
+3'
+T
+
+G
+:
+.
+.; _
+
+A
+
+T
+T
+A
+A
+c
+G
+G
+
+797
+
+C
+
+897
+
+T
+
+G
+T
+T
+A
+A
+C
+A
+
+_A
+
+_G
+
+IA
+A
+IGIT
+IA
+XGIA 77
+
+883
+
+i c
+
+c
+
+A
+
+c
+G
+
+811
+
+5,
+
+E
+
+D
+
+3.
+
+v-IG
+T
+G
+A
+A
+G
+
+G
+A
+
+c
+
+A
+T
+G
+T
+A
+
+T
+
+3'
+
+A 80S
+I/AIA
+/A
+~---T
+
+5_
+
+440
+
+S'
+
+B
+
+5'
+
+:
+
+_T
+~~~A
+T
+C
+
+A
+
+b
+-.i
+._
+
+~~~~~T
+
+T
+A
+
+iG
+
+..}t
+
+~~~G
+A
+~~~~G
+
+*t
+
+C
+C
+
+. .:i
+G
+
+= "wi'-|
+
+G 471
+G 452
+
+346
+
+C
+
+at codon 266 with a methionine residue (Thr266Met; Fig. 6
+D). As expected, sequencing the band migrating in the intermediate position on DGGE from patients 1863, 1803, and
+9001 confirmed the presence of a homoduplex for this same
+mutation. Sequencing revealed that the other mutation detected by DGGE in segment 4 from patient 9001 was a deletion
+encompassing nucleotides 808-810 or nucleotides 809-811,
+and resulting in the deletion ofvaline at codon 270 (delVal270;
+data available on request).
+
+5I
+
+477
+
+470
+
+Figure 6. (A) DNA sequence of segment 2 amplified
+from patient 1803's cDNA. The sequence shows a heterozygous G to A transition at position 346. (B) DNA
+sequence of the fragment migrating furthest in DGGE
+from patient 1430's segment 3. PCR products were
+electrophoresed on a 45-55% denaturing gradient gel
+for 7 h at 150 V and at 60°C. The portion of the gel
+containing the lowest band was excised and the DNA
+was recovered. The sequence shows an 1 8-bp deletion
+from nucleotides 453-470. (C) DNA sequence of the
+fragment migrating slowest in DGGE from patient
+1430's segment 3. PCR products were electrophoresed
+on a 45-55% denaturing gradient gel for 7 h at 150 V
+and at 60°C. The portion of the gel containing the upper band was excised and the DNA was recovered. The
+sequence shows a T to G transversion at position 470.
+(D) DNA sequence of segment S amplified from patient
+1728's cDNA. The sequence shows a C to T transition
+at position 797. (E) DNA sequence of the smaller DNA
+fragment isolated by agarose gel electrophoresis from
+segment 5 from patient 1916. The sequence shows a 66
+bp deletion encompassing nucleotides 817 to 882.
+
+Sequencing of segment 5 from patient 9001 also showed the
+delVal270 mutation. Sequencing the shorter DNA fragment
+detected by agarose gel electrophoresis of segment 5 from patient 1916 showed a 66-bp deletion in frame from nucleotides
+817-882, resulting in a 22-amino acid deletion from codons
+273-294 (del273-294; Fig. 6 E). Again, this deletion did not
+allow heteroduplex formation with the wild-type allele, explaining the presence of only two homoduplex bands on
+DGGE analysis.
+
+Table III. Pre-a-ETF Polymorphism and Mutations in Controls and GA II Patients
+Patients
+
+4 of 13 normal controls
+
+1430
+1728
+1803
+1863
+1916
+
+Alleles
+
+Wild type
+C T 512
+T G 470
+18 bp deletion (453-470)
+
+Amino acid change
+
+C T 797
+C T 797
+C T 797
+G A 346
+Wild type
+C -. T 797
+Wild type
+66 bp deletion (817-882)
+
+None
+Threonine 171 -* isoleucine
+Valine 157-. glycine
+Deletion of 6 amino acids
+(codons 152-157)
+Threonine 266 methionine
+Threonine 266 methionine
+Threonine 266 methionine
+Glycine 116 -- arginine
+None
+Threonine 266 -- methionine
+None
+Deletion of 22 amino acids
+
+C -. T 797
+3 bp deletion 808(9)-810(l)
+
+Threonine 266 -- methionine
+Deletion of codon 270 (valine)
+
+(codons 273-294)
+9001
+
+Glutaric Acidemia Type II: Mutations
+
+1683
+
+Restriction endonuclease studies. We designed restriction
+endonuclease assays to provide an alternative to DGGE analysis for detecting some ofthe nucleotide changes described. The
+Thr 71 Ie change found in four control cell lines removed a
+Fok I restriction site. As expected, agarose gel electrophoresis of
+Fok I digested segment 3 DNA from cells without this mutation produced loss of the 382 6bp band (Fig. 7 A, lane 3) and
+appearance of new bands, consistent with sizes of 178 and 208
+bp (Fig. 7 A, lane 4). In contrast, in digested segment 3 DNA
+from four cultures with this transition, an additional band was
+seen consistent with a size of 382 bp, corresponding to the
+uncut homoduplex (Fig. 7 A, lane 4). This result independently confirmed that those four cultures are heterozygous for
+the Thri 7 1le mutation.
+Because the dell 52-157 or the Val I57Gly mutations did
+not create or remove any known cutting sites, we designed an
+antisense primer to be used with primer 3/i to introduce a
+restriction site in this region. The primer was a 25-mer encompassing G471 to G495 in which G474 and T475 were replaced
+with two C. This modification introduced a Nla IV restriction
+site when either of the two mutations was present, but not in
+the amplified product from normal cells. Electrophoresis analysis of the Nla IV digested DNA from patient 1430 confirmed
+the coexistence of both the del 152-157 and Val I57Gly mutations (Fig. 7 B: lanes 2 and 4).
+Similarly, neither the Thr266Met nor the deletion of codon
+270 produced a restriction site change. We designed a 30-mer
+primer encompassing T747 to A796 in the sense strand, in
+1
+
+2
+
+3
+
+4
+
+Figure 7. (A) Restriction endonuclease anal-
+
+ysis of segment 3. Pre-a-ETF cDNA from
+a homozygous wild-type control cells and
+from a control heterozygous for the
+Thrl71Ile polymorphism were PCR amplified with primers 3/ 1 and 3/2 as described
+in Methods. 20 ,1 of PCR product was incubated for 4 hat 370C with 10 U ofFok 1.
+The undigested (lanes I and 2) and Fok 1
+digested (lanes 3 and 4) products were run
+1
+2 3 4
+on a 4% NuSieve GTG agarose gel. Lanes 1
+- _
+and 3 show the products derived from the
+control cells and lanes 2 and 4 from the
+polymorphic cells. The expected undigested
+segment 3 size is 382 bp. Digestion of cDNA
+segment 3 from control cells is predicted to
+give two fragments of 178 and 208 bp (lanes 3 and 4). The Thrl71le
+polymorphism removes the Fok 1 site, yielding the incomplete cleavage of segment 3 (lane 4). (B) Restriction endonuclease analysis for
+detection of the del152-157 and Vail 57Gly mutations. Pre-a-ETF
+cDNA from control cells and from patient 1430 were PCR amplified
+with primers 3/1 and a 25-mer antisense primer encompassing G495
+to G471 in which C474 and A475 were replaced with two G. 20 ,ul of
+PCR products was incubated overnight at 37°C with 10 U of NlaIV.
+The undigested (lanes I and 2) and digested (lanes 3 and 4) products
+were run on a 5% NuSieve GTG agarose gel. Lanes I and 3 show the
+products derived from the control cells and lanes 2 and 4 from patient
+1430. The predicted size of both the undigested and digested products
+from the control cells is 201 bp (lanes I and 3). The heterozygous
+del152-157 predicts the presence of two bands of 201- and 183-bp
+sizes after electrophoresis of undigested PCR product amplified from
+patient 1430 (lane 2). Because the Vall57Gly and dell52-157 mutations create a NlaIV site, NlaIV digestion of the PCR product derived from patient 1430 is expected to give two products of 178- and
+160-bp sizes (lane 4) and one of 23 bp (not seen) .
+1684
+
+Freneaux et al.
+
+which A794 was replaced with a G. Amplification with this
+primer and with primer 4/2 produced a 64-bp fragment containing a Fok I restriction site when the Thr266Met was present
+in the template. As predicted, products amplified from normal
+template and analyzed on a 5% NuSieve GTG agarose gel remained intact on Fok I digestion. In contrast, the 64 bp product from patient 1728 was completely cut. Digestion of products amplified from patients 1803 and 1863 only partially cut
+the 64-bp fragment, confirming heterozygosity for the
+Thr266Met mutation. Digestion of products amplified from
+patient 9001 also partially cut the original fragment. However,
+the uncut fragment was slightly smaller than the uncut fragments from control cells or from patients 1803 or 1863. These
+data confirm the presence of the Thr266Met change in one
+allele and of the deletion of codon 270 in the other in patient
+9001 (results not shown).
+
+Discussion
+In this study, we investigated metabolic, polypeptide, and genetic heterogeneity in eight GA II patients. d-Oxidation flux
+was severely defective in the six early onset GA II patients and
+intermediate or normal in two patients with late-onset disease.
+The results of our biosynthetic studies correlated well with both
+the clinical and metabolic phenotypes. ETF polypeptide levels
+were decreased or absent in four of the six early onset GA II
+patients, and normal in the remaining two early-onset patients
+and the two late-onset patients. We also identified point mutations and deletions in the pre-a-ETF cDNA in all six patients
+with early-onset GA II, but no mutations in the two late-onset
+patients.
+We can correlate metabolic, polypeptide, and genetic variations in these GA II patients. Patients 1903 and 1966 both
+presented with a late-onset form of GA II. Patient 1903 had a
+clinical presentation limited to the neurological system and
+only excreted small amounts of typical GA II metabolites,
+whereas patient 1966 had an extremely mild clinical and biochemical GA II presentation. Whereas Loehr et al. (2) could
+not correlate their residual ETF activities with their clinical
+phenotypes, our tritiated fatty acid assays clearly separated patients 1903 and 1966 from the other GA II patients. Indeed,
+although ETF activities in patients 1903 and 1966 were decreased to 6% and 2% of control, respectively, 3H-fatty acid
+oxidations were intermediate in patient 1903 and normal in
+patient 1966. We have made analogous observations previously in long-chain acyl-coenzyme A dehydrogenase deficiency, where clinical severities correlated well with [3H]palmitate oxidations, but not with enzyme activities, suggesting that tritiated fatty acid assays reflect more closely the actual
+physiologic fl-oxidation flux (22). Patients 1903 and 1966 also
+synthesized normal amounts of a- and fl-ETF polypeptides
+and had no pre-a-ETF cDNA mutations detected by DGGE
+and SSCP.
+The six early-onset GA II patients had generally similar
+clinical and biochemical phenotypes and very low 3H-fatty acid
+oxidations in fibroblasts, consistent with their severe GA II
+phenotypes. In contrast to the biosynthesis studies done by
+Tanaka and co-workers (3), we radiolabeled the cells for a
+longer period of time (12 h instead of 1 h). Our results probably reflect the steady-state level of the ETF heterodimer,
+whereas experiments with shorter radiolabeling periods reflect
+
+synthesis of nascent polypeptides. This experimental difference
+explains why we did not detect the (3 subunit in all three patients lacking the a subunit, consistent with the suggestion by
+Indo et al. (6) that intramitochondrial 3l-ETF becomes unstable unless bound to a-ETF. Indeed, we detected neither the a
+nor the ,3 subunits in patients 1430 and 1916, in agreement
+with the immunoblotting results ofLoehr et al. (2), which also
+reflect ETF steady-state levels. Our finding decreased levels of
+both a and (3 subunits in patient 1863 and normal levels of both
+in patients 1728 and 1803, also agree with the results of Loehr
+et al. (2). In contrast, the biosynthesis experiments in 1430's
+fibroblasts by Ikeda et al. (3) demonstrated faint radiolabeling
+of a-ETF but normal j3-ETF biosynthesis. Patients 1430 and
+1916 each have one a-ETF allele with in-frame deletions of 6
+and 22 amino acids, respectively. This could explain the relative instability of the a-ETF subunit and hence the lack of
+mature heterodimer in these patients.
+We can also make some conclusions regarding the effects of
+individual point mutations on the stability of the a-ETF subunit. Since patient 1728 is homozygous for the Thr266Met
+mutation, this mutation, in and of itself, must produce an inactive but stable a-ETF subunit capable of forming a mature
+heterodimer, since both the earlierimmunoblotting studies (2)
+and our biosynthetic studies show normal amounts of a- and
+fl-ETF subunits in this patient. The Glyl l6Arg mutation
+found in one allele of patient 1803 also does not destabilize the
+a-ETF subunit. Patient 9001 is heterozygous for the
+Thr266Met mutation and for a deletion of codon 270. It is
+likely that this deletion produces an unstable a-ETF responsible for the decreased amount of this subunit observed in the
+immunoprecipitation studies.
+GC-clamped DGGE is a sensitive technique for detecting
+nearly all nucleotide changes. With this technique we identified
+nucleotide changes in both pre-a-ETF alleles from four patients and in one allele from two early-onset GA II patients. In
+the two ETF deficient late-onset GA II patients, no base change
+was detected. None of the identified changes were detected in
+13 control cell lines. Moreover, comparison with the published
+rat pre-a-ETF cDNA sequence (23), modified to include the
+G likely missing at nucleotide 867 (24), showed that all the
+amino acids deleted or modified by these changes were conserved amino acids. This suggests that all the nucleotide
+changes identified are mutations responsible for GA II. The
+Thr266Met substitution was found in four unrelated patients
+and appears to be the most common mutation responsible for
+GA II, whereas the other mutations were identified only in
+single patients. DGGE and SSCP analyses of segment 4 of patient 1728 indicated homozygosity for the Thr266Met substitution. Since we amplified cDNA and not genomic DNA, we
+can not exclude the presence of another mutation in the second
+allele producing an unstable RNA or defective transcription.
+However, both our immunoprecipitation results and the immunoblotting results by Loehr et al. (2) revealed normal amounts
+of a-ETF, suggesting that both alleles carry the Thr266Met
+mutation. We do not know if this patient results from a consanguinous union.
+A mutation can be missed by DGGE analysis when two
+widely separated melting domains are present in the fragment
+analyzed. Ifthe domain with the higher melting point contains
+only a few nucleotides, its melting may not produce a marked
+shift in mobility and its presence may not be detected by
+DGGE. This situation is illustrated in the DGGE analysis of
+
+segment 5 in patients 9001, 1863, 1728 and 1803. Although the
+C to T transition at position 797 was present in the amplified
+DNA segment 5 from these four patients, this mutation was
+not detected by DGGE analysis of this segment. The first bases
+adjacent to primer 5.1 belong to a small melting domain of
+much higher melting point than the rest of segment 5. Indeed,
+perpendicular DGGE of a DNA fragment amplified with
+primers 4.1 and 5.2 showed the presence of two melting domains with melting points of 53% and 35%. It appears likely
+that the first bases of segment 5 actually belong to the same
+melting domain as segment 4. This illustrates the importance
+of amplifying overlapping DNA segments when performing
+DGGE analysis.
+Patient 1430 has been previously studied by Indo et al. (6).
+They concluded that this patient (their YH 1313) was homozygous for a T to G transversion at nucleotide 470. However, we
+identified this same mutation in only one allele from this patient, and found an 18-bp deletion in the other allele. Indo et al.
+devised a PCR method to detect the 470 transversion using an
+upstream primer encompassing T443 to G469. This primer
+would have been unable to anneal to the allele containing the
+453-470 deletion. This would have resulted in the amplification of only the allele with the transversion, leading them to
+conclude that patient 1430 was homozygous for the 470 transversion. In patients 1863 and 1916, only one allele appeared to
+carry a mutation, while the other was identical to the wild type.
+Other possible explanations is that the undetected mutation
+involves the regulatory sequences of the gene that we did not
+analyze or deletions precluding PCR amplification of one or
+several of our cDNA segments. Alternatively, a mutation in the
+coding sequence could have been missed by our DGGE assay.
+DGGE analysis can miss nucleotide changes present in both
+alleles in which the mutant homoduplex migrates at the same
+position as the wild type homoduplex. This is illustrated by the
+G to A transition detected in segment 2 from patient 1803. The
+wild-type and mutant homoduplexes were only separated with
+a 10% denaturant gradient, but not with the usual 25% gradient.
+In two ETF-deficient late onset GA II patients (1903 and
+1966), no changes were detected by our DGGE and SSCP assays. This result can be explained by a mutation located in
+regulatory sequences or by a mutation in the coding sequence
+undetected by our assay. Alternatively, these patients may have
+a mutation in the gene coding for the (3 subunit of ETF. Although most of the ETF defects involve the a-subunit, some
+patients have been described with # subunit defects (25). In
+addition to the mutations detected in GA II patients, we also
+identified a polymorphism in four normal controls. This polymorphism replaces a threonine for an isoleucine at codon 171.
+We did not find any cell cultures homozygous for this base
+change. Because all our control cultures demonstrated normal
+tritiated palmitate oxidation (data available on request), we
+can not predict the functional consequences of this nucleotide
+change being present on both alleles. However, since we found
+this mutation in 4 of our 13 controls and not in any GA II
+patients, it is unlikely that this change would produce GA II.
+Further studies are needed to clarify this point.
+We used two other techniques besides DGGE to reveal nucleotide changes in the pre-a-ETF sequence in these patients.
+SSCP revealed no additional mutations in any segment of this
+coding sequence. SSCP appeared slightly less sensitive than
+DGGE, in that it missed the Val257Gly mutation found in
+Glutaric Acidemia Type II: Mutations
+
+1685
+
+patient 1430, as well as the segment 5 C to T transition at
+position 797. SSCP analysis also confirmed the DGGE results
+that only one allele carries a mutation in patients 1863 and
+1916. Restriction endonuclease analyses of amplified DNA
+segments also confirmed the existence of the Thrl 7 llle mutation in the normal controls, the deletions of codons 152-157
+and Vall 57Gly mutations in patient 1430, both the homozygous and heterozygous Thr266Met mutations in patients 1728
+and 1803/ 1863, respectively, as well as the Thr266Met and the
+codon 270 deletion in patient 9001. These results confirm the
+accuracy and sensitivity of DGGE in detecting nucleotide
+changes responsible for genetic diseases. This simple and sensitive technique allowed us to rapidly screen the pre- a-ETF gene
+for mutations causing GA II. Identification of mutations responsible for GA II should help our understanding ofthe interactions between the a- and f3-ETF subunits, the various acylcoenzyme A dehydrogenases and ETF-QO.
+
+Acknowledgments
+We thank Dr. Jeff Murray, Dr. Rita Shiang, Dr. Kate Mills, Harriet
+McKelvey, Darryl Nishimura, Scott Stadler, John Beck, Nancy Leysens, Tim Ritty, Molly Wise, and George Cook for their help and support. We also thank Drs. Frank Frerman and Colin Thorpe for providing pure pig liver ETF, Dr. Steve Goodman for providing the cells on
+GA II patients, and Dr. Kay Tanaka for sharing his immunoprecipitation protocols.
+This work was supported by a grant to Dr. Rhead from the National
+Institutes of Health (DK-33289), a Clinical Research Grant from the
+Muscular Dystrophy Association, the Brent W. Brees/Dows Metabolic
+Research Fund, and the Children's Miracle Network Telethon and by
+grants to Dr. Sheffield from the Roy J. Carver Charitable Trust and by
+grants P30HD27748, HG00457, and P50HL42329 from the National
+Institutes of Health. Dr. Freneaux was supported by funds from the
+Conseil Regional de Champagne-Ardenne, Association Francaise
+Contre les Myopathies, and the Philippe Foundation. Ms. Molin was
+supported by Summer Science Research Program for Medical Students
+No. 8-FY91-0925 from the March ofDimes Birth Defects Foundation.
+
+References
+1. Frerman, F. E., and S. I. Goodman. 1985. Deficiency of electron transfer
+flavoprotein or electron transfer flavoprotein:ubiquinone oxidoreductase in glutaric acidemia type II fibroblasts. Proc. Nat!. Acad. Sci. USA. 82:4517-4520.
+2. Loehr, J. P., S. I. Goodman, and F. E. Frerman. 1990. Glutaric acidemia
+type II: heterogeneity of clinical and biochemical phenotype. Pediatr. Res.
+
+27:311-315.
+3. Ikeda, Y., S. M. Keese, and K. Tanaka. 1986. Biosynthesis of electron
+transfer flavoprotein in a cell-free system and in cultured human fibroblasts:
+defects in the alpha subunit synthesis is a primary lesion in glutaric aciduria type
+II. J. Clin. Invest. 78:997-1002.
+4. Finocchiaro, G., M. Ito, Y. Ikeda, and K. Tanaka. 1988. Molecularcloning
+and nucleotide sequence of cDNAs encoding the a-subunit of human electron
+transfer flavoprotein. J. Biol. Chem. 263:15773-15780.
+5. Rhead, W. J., J. A. Wolff, M. Lipson, P. Falace, N. Desai, K. Fritchman, A.
+
+1686
+
+Freneaux et al.
+
+Moon, and L. Sweetman. 1987. Clinical and biochemical variation and family
+studies in the multiple acyl-CoA dehydrogenation disorders. Pediatr. Res.
+21:371-376.
+6. Indo, Y., R. Glassberg, I. Yokota, and K. Tanaka. 1991. Molecular characterization of variant a-subunit of electron transfer flavoprotein in three patients
+with glutaric acidemia type II and identification of glycine substitution for valine157 in the sequence of the precursor, producing an unstable mature protein in a
+patient. Am. J. Hum. Genet. 49:575-580.
+7. Myers, R. M., S. G. Fischer, T. Maniatis, and L. S. Lerman. 1985. Modification of the melting properties of duplex DNA by attachment of a GC-rich DNA
+sequence as determined by denaturing gradient gel electrophoresis. NucleicAcids
+Res. 13:3111-3129.
+8. Myers, R. M., S. G. Fischer, L. S. Lerman, andT. Maniatis. 1985. Nearly all
+single base substitutions in DNA fragmentsjoined to a GC-clamp can be detected
+by denaturing gradient gel electrophoresis. Nucleic Acids Res. 13:3131-3145.
+9. Sheffield, V. C., D. R. Cox, L. S. Lerman, and R. M. Myers. 1989. Attachment of a 40-base-pair G + C-rich sequence (GC-clamp) to genomic DNA fragments by the polymerase chain reaction results in improved detection of singlebase changes. Proc. Natl. Acad. Sci. USA. 86:232-236.
+10. Niederwiser, A., B. Steinmann, U. Exner, F. Neuheiser, U. Redweik, M.
+Wang, S. Rampini, and U. Wendel. 1983. Multiple acyl-CoA dehydrogenation
+deficiency (MADD) in a boy with nonketotic hypoglycemia, hepatomegaly,
+muscle hypotonia and cardiomyopathy. Helv. Paediatr. Acta. 38:9-26.
+11. Verjee, Z. H., and W. G. Sherwood. 1985. Multiple acyl-CoA dehydrogenase deficiency: a neonatal onset case responsive to treatment. J. Inher. Metab.
+Dis. 8(Suppl. 2):137-138.
+12. Amendt, B. A., C. Greene, L. Sweetman, J. Cloherty, V. Shih, A. Moon, L.
+Teel, and W. J. Rhead. 1987. Short-chain acyl-coenzyme A dehydrogenase deficiency: clinical and biochemical studies in two patients. J. Clin. Invest. 79:13031309.
+13. Moon, A., and W. J. Rhead. 1987. Complementation analysis offatty acid
+oxidation disorders. J. Clin. Invest. 79:59-64.
+14. Ikeda, Y., S. M. Keese, and K. Tanaka. 1985. Molecular heterogeneity of
+variant isovaleryl-CoA dehydrogenase from cultured isovaleric acidemia fibroblasts. Proc. Natl. Acad. Sci. USA. 82:7081-7085.
+15. Laemmli, U. K. 1970. Cleavage of structural proteins duringthe assembly
+of the head of the bacteriophage T4. Nature (Lond.). 227:680-685.
+16. Chomczynski, P., and N. Sacchi. 1987. Single-step method of RNA isolation by acid guanidinium thiocyanate-phenol-chloroform extraction. Anal. Biochem. 162:156-159.
+17. Myers, R. M., V. S. Sheffield, and D. R. Cox. 1988. Detection of single
+base changes in DNA: ribonuclease cleavage and denaturing gradient gel electrophoresis. In Genome Analysis: A Practical Approach. K. E. Davies, editor. IRL
+Press, Oxford. 95-139.
+18. Sambrook, J., E. T. Fritsch, and T. Maniatis. 1989. Molecular Cloning: a
+Laboratory Manual. Cold Spring Harbor Laboratory Press, Cold Spring Harbor,
+NY. 6.46-6.48.
+19. Sanger, F., S. Nicklen, and A. R. Coulson. 1977. DNA sequencing with
+chain-terminating inhibitors. Proc. Natl. Acad. Sci. USA. 74:5463-5467.
+20. Orita, M., Y. Suzuki, T. Sekiya, and K. Hayashi. 1989. Rapid and sensitive detection of point mutations and DNA polymorphisms usingthe polymerase
+chain reaction. Genomics. 5:874-879.
+21. Spinardi, L., R. Mazars, and C. Theillet. 1991. Protocols for an improved
+detection of point mutations by SSCP. Nucleic Acids Res. 19:4009.
+22. Amendt, B., A. Moon, L. Teel, and W. Rhead. 1988. Long chain acylcoenzyme A dehydrogenase deficiency: Biochemical studies in fibroblasts from
+three patients. Pediatr. Res. 23:603-605.
+23. Shinzawa, K., T. Inagaki, N. Ohishi, C. Ichihara, N. Tsukagoshi, S.
+Udaka, and K. Yagi. 1988. Molecular cloning ofa cDNA for a-subunit of rat liver
+electron transfer flavoprotein. Biochem. Biophys. Res. Commun. 155:300-304.
+24. Finocchiaro, G., Y. Ikeda, M. Ito, and K. Tanaka. 1990. Biosynthesis,
+molecular cloning and sequencing of electron transfer flavoprotein. Prog. Clin.
+Biol. Res. 321:637-652.
+25. Yamaguchi, S., T. Oril, Y. Suzuki, K Maeda, M. Oshima, and T. Hashimoto. 1990. Newly identified forms of electron transfer flavoprotein deficiency in
+two patients with glutaric aciduria type II. Pediatr. Res. 29:60-63.
+
+

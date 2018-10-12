@@ -1,0 +1,1483 @@
+Am. J. Hum. Genet. 50:1185-1194, 1992
+
+Analysis of Four Diverse Population Groups Indicates That a
+Subset of Cystic Fibrosis Mutations Occur in Common among
+Caucasians
+Garry R. Cutting, * 't'$ Sheila M. Curristin, * Elizabeth Nash, * Beryl J. Rosenstein, t Israela Lerer,§
+Dvorah Abeliovich,§ Alison Hill,II and Colin Grahamil
+Center for Medical Genetics and Departments of tPediatrics and $Medicine, The Johns Hopkins University School of Medicine, Baltimore;
+§Department of Human Genetics, Hadassah Hebrew University Hospital, Jerusalem; and IlRegional Genetics Center, Belfast City Hospital,
+Belfast
+
+Summary
+To determine the nature and frequency of non-AF508 cystic fibrosis (CF) mutations among diverse populations, we have sequenced exons 9-12 and 19-23 of the CF transmembrane conductance regulator (CFTR)
+gene from 128 CF chromosomes (39 U.S. Caucasian, 27 African-American, 42 Northern Irish, and 20 Israeli
+chromosomes). These regions were chosen because they encode the two putative ATP-binding folds of
+CFTR, domains which appear to have functional significance. In addition, CFTR exons 1 and 2 were analyzed
+in the American patients. Mutations were found on 49 of the 128 CF chromosomes. Nineteen different
+mutations were observed; six were novel, while the remaining 13 had been reported previously by our group
+or by other investigators. Six of nine different mutations found in African-American patients were unique
+to that population. However, the vast majority of the mutations found in U.S. Caucasians (eight of nine),
+Northern Irish (four of five), and Israelis (three of three) also occurred in other Caucasian groups. The
+preponderance of previously reported mutations in these three groups suggested that a subset of the non-AF508
+mutations occur in common among Caucasians. A survey of mutation frequencies in other Caucasian groups
+confirmed this observation. Unfortunately, this subset accounts for less than half of non-AF508 CF mutations
+in most groups. These data suggest that screening for AF508 and this select group of mutations will efficiently
+and economically maximize the number of CF mutations identified in Caucasian groups. However, it will be
+difficult to detect more than 90% of mutant CFTR alleles except in ethnically and geographically discrete
+populations where CF is the result of founder effect.
+Introduction
+
+Cystic fibrosis (CF), a major cause of chronic pulmonary, sinus, and digestive disease in children and
+young adults, is caused by mutations in the gene encoding the CF transmembrane conductance regulator
+(CFTR) (Riordan et al. 1989). One mutation, a deletion of 3 bp that causes the omission of a phenylalanine
+residue at codon 508 (i.e., AF508) accounts for the
+majority of mutant CFTR alleles (Kerem et al. 1989).
+Received December 2, 1991; revision receivedJanuary 22, 1992.
+Address for correspondence and reprints: Garry R. Cutting,
+M.D., CMSC 1004, The Johns Hopkins Hospital, 600 North
+Wolfe Street, Baltimore, MD 21205.
+
+i 1992 by The American Society of Human Genetics. All rights reserved.
+0002/9297/92/5006-0005$02.00
+
+However, the frequency of this mutation varies widely
+among populations, ranging from 30% in Ashkenazi
+Jews to 88% in Denmark (Cystic Fibrosis Genetic
+Analysis Consortium 1990). More than 150 other mutations of this gene have been reported by members of
+the Cystic Fibrosis Genetic Analysis Consortium. A
+few of these mutations occur at a frequency of 1 % or
+greater and occur in more than one population (Cutting et al. 1990b; Dean et al. 1990; Kerem et al. 1990;
+Vidaud et al. 1990; Devoto et al. 1991; Gasparini et
+al. 1991; Nunes et al. 1991; Osborne et al. 1991;
+Shrimpton et al. 1991; Zielinski et al. 1991a). However, the majority of the remaining mutations have
+been reported as single cases (Cutting et al. 1990a;
+White et al. 1990, 1991; lannuzzi et al. 1991;
+1185
+
+1186
+
+Ivaschenko et al. 1991; Nunes et al. 1991). The everincreasing number of mutations and their varying frequencies among populations suggest that gene diagnosis will not be straightforward in CF.
+Highly accurate prenatal diagnosis and carrier detection within families with an affected member has
+been possible since 1985, when markers closely linked
+to the gene responsible for CF were developed (Tsui
+et al. 1985; Beaudet et al. 1986). Direct DNA diagnosis for a majority of these patients and their families
+became possible following the identification of the
+common mutation (AF508) and several less common
+mutations ofthe CFTR gene (Kerem et al. 1989, 1990;
+Cutting et al. 1 990b). Gene diagnosis can now be performed for several other reasons: (1) to determine the
+relationship between genotype and phenotype, (2) in
+cases where the diagnosis of CF is unclear or where it
+is not possible to obtain an adequate sweat collection
+to determine electrolyte composition, and (3) in
+screening of the general population for CF carriers.
+The latter appears to be the most controversial application of DNA diagnosis in CF (Beaudet 1990; Brock
+1990; Colten 1990; De Braekeleer and Melancon
+1990; Gilbert 1990). Concerns have been raised regarding the use of a screening test that cannot detect
+all carriers. In the United States, consensus reports
+have been issued from The American Society of Human Genetics and a National Institutes of Health advisory panel recommending that population-wide
+screening not take place until the screening test can
+identify 95% of carriers; and the ethical, financial,
+and social impact of screening has been assessed by
+carefully designed pilot studies (Caskey et al. 1990;
+Workshop on Population Screening for the Cystic Fibrosis Gene 1990).
+Preliminary screening studies have already been initiated in countries such as the United Kingdom and
+Denmark, where 85%-90% of mutations can be detected (Watson and Williamson 1990; Mennie et al.
+1991; Schwartz and Brandt 1991). However, in countries with more heterogeneous populations, such as
+the United States, the feasibility of screening programs
+depends on more complete information regarding the
+distribution of mutations among human populations.
+In the present study, patients from four diverse population groups (three Caucasian and one AfricanAmerican) have been analyzed for all mutations present in exons 9-12 and 19-23 of the CFTR gene. These
+exons were chosen because they appear to encode
+functionally important regions of the CFTR gene (Riordan et al. 1989; Cutting et al. 1990b; Kerem et
+
+Cutting et al.
+
+al. 1990). The predominance of previously reported
+mutations in the Caucasian group indicates that a select subset of mutations occur in common among populations. Screening of the four population groups for
+select mutations in another region of the CFTR gene,
+as well as compilation of screening data from several
+other centers, have provided evidence supporting this
+hypothesis.
+Patients and Methods
+Patients
+
+Lymphocyte genomic DNA samples containing 27
+unknown (non-AF508) CFTR gene mutations were
+obtained from 16 African-American patients and their
+families attending The Johns Hopkins Cystic Fibrosis
+Clinic; from one family from Children's Hospital National Medical Center, Washington, DC; and from
+one patient from the University of Virginia Medical
+Center, Charlottesville. Thirty-nine chromosomes
+bearing unknown mutations were analyzed from 17
+U.S. Caucasian patients attending The Johns Hopkins
+Cystic Fibrosis Clinic, and an additional 11 U.S. Caucasian families were referred to The Johns Hopkins
+DNA Diagnostic Laboratory for prenatal diagnosis.
+DNA samples from nine Israeli patients (seven Ashkenazi, one Druze, and one Arab) and from two parents (both Sephardic) comprising 20 unknown CF mutations were obtained from Hadassah University,
+Jerusalem. Forty-two unknown mutations were analyzed from Belfast City Hospital in Northern Ireland.
+All patients had symptoms diagnostic of CF and had
+sweat chloride levels greater than 60 mEq/liter.
+PCR Amplification and DNA Sequencing
+Single exons of CFTR were amplified from 5001,000 ng of genomic DNA by using primers selected
+from intron sequence flanking CFTR exons 1, 2, 9-12,
+and 19-23. Primers lbpF (5'-AAGCCAGCTAGA-
+
+GCAAATTT-3') and hR (5'-CGAAGCCTTTCTGTCACGGGT-3') were used to amplify exon 1, and
+primers 2bpF (5'-CATAATTTTCCATATGCCAG-3')
+and 2bpR (5'-GTGGTATGAACCGAGGAATAA-3')
+were used to amplify exon 2 (all four primers were
+provided by Carol Wicking, St. Mary's Hospital, London). Primers for PCR amplification of exons 9-12
+and 19-23 have been described elsewhere (Zielinski
+et al. 1991 b), but primer 22i-3 (5'-CACCATGAAGCAGGCATAA-3') was slightly modified. Conditions
+used for PCR amplification were as described else-
+
+Common Caucasian CF Mutations
+
+where (Cutting et al. 1990a), with the exception that
+the annealing step was performed at 540C for the exons 1 and 2 primers, at 550C for the exon 10 primers,
+and at 600C for the exons 12 and 19 primers. Direct
+DNA sequencing of one-tenth of the amplified DNA
+was performed using sequencing primers shown in table 1 (Cutting et al. 1990b). Each exon was sequenced
+in the 5'-to-3' direction, except for exon 9, which has
+a polymorphic CA repeat in the intron immediately
+preceding the 5' splice site (Zielinski et al. 1991b).
+Complete analysis of exons 1, 9, 10, 19, 20, and 22
+was achieved by sequencing in the 3'-to-5' direction
+by using primers in the 3' flanking intron sequence of
+each exon and with a primer within the sequence of
+exon 9.
+Detection of Exons 4 and 7 Mutations
+
+Patients with one or more unknown mutations were
+screened for mutations R117H and 621 + 1G--T in
+exon 4, by using allele-specific oligonucleotide (ASO)
+hybridization, and mutations R334W and R347P in
+exon 7, by using restriction-enzyme digestion (Dean
+et al. 1990; Gasparini et al. 1991; Shrimpton et al.
+1991). Genomic DNA was amplified with primers specific for exon 4 (4i-5' and 4i-3') or exon 7 (7i-5' and
+7i-3') (Zielinski et al. 1991b). One-tenth of the PCRamplified DNA was alkaline denatured in 100 gl of
+0.4 N NaOH and 25 mM Na2EDTA and then was
+vacuum blotted and linked to a Zetabind membrane
+(CUNO, Meriden, CT). Mutations R117H and
+Table I
+Oligonucleotides Used for DNA Sequencing
+Exon
+1 ...
+
+Sequencing Primer (sequence)
+le-5' (5'-AGGCACCCAGAGTAGT-3')
+liF (5'-TCGGCTTTTAACGTGG-3')
+
+2 ....
+9 ....
+
+Ex2Seq (5'-GACCAAATCAAGTGAATATCTGT-3')
+9s-3' (5'-AGACATGGACACCAAATTAAG-3')
+
+10 ...
+
+lOs-5' (5'-AAGTGAATCCTGAGCGTG-3')
+lOs-3' (5'-GTAGTGTGAAGGGTTCAT-3')
+li-S' (5'-CAACTGTGGTTAAAGCAATAGTGT-3')
+12s-5' (5'-GACCAGGAAATAGAGAGG-3')
+19s-5' (M-AAATTGTCTGCCATTCTT-3')
+19i-3' (5'-GCTAACACATTGCTTCAGGCT-3')
+20s-5' (5'-TATTTATGGCATGGTACC-3')
+20s-3' (5'-CGTACAAGTATCAAATAGCAGT-3')
+21s-5' (5'-TTACAATACAATAAGGGA-3')
+22i-5'a (5'-GAATGTCAACTGCTTGAGTG-3')
+
+11 ...
+12 ...
+19 ...
+
+20 ......
+21 ......
+22 ......
+
+23 ......
+
+CF 38 (5'-GAAATTAATATCTTTCAGGACAGG-3')
+
+22i-3' (5'-CACCATGAAGCAGGCATAA-3')
+23s-5' (5'-GTGATATTATGTGTGG-3')
+
+1187
+621 + 1G-*T were detected by using oligonucleotides
+CF48 (5'-GAGGAACACTCTATC-3') (Dean et al.
+1990) and 337J (5'-GGAAGTATTAACTTCTTATA-3'), respectively. 338J, an oligonucleotide which
+detects normal sequence (5'-GATAGAGCGTTCCTC-3'), was used to confirm the presence of DNA
+amplified from exon 4. Oligonucleotide probes (100
+ng each) were end-labeled for 30 min at 370C by using
+5 units of T4 kinase (BRL) and 150 ICi of [y32p] ATP in
+a reaction mixture recommended by the manufacturer
+(BRL). Unincorporated nucleotides were removed by
+centrifugation at 1,300 g for 5 min in Select D spin
+columns (5 prime3 prime, Inc.) with 1 ml of Biogel
+P4 (Biorad). Hybridization of the filter was performed
+for 1 h at 370C by using 15 x 106 cpm of oligonucleotide probe in approximately 5 ml of 5 x SSPE (0.9 M
+NaCl, 5 mM NaH2 P04, 5 mM NaEDTA pH. 7.4),
+0.5% SDS, 0.1% BSA, 0.1% polyvinylpyrrolidone,
+and 0.1% Ficoll. Filters were washed once in 2 x
+SSPE, 0.1% SDS, at 490C for CF48 and 338J and at
+51 0C for 337J and then were autoradiographed at
+- 800C for 2 h. Mutations R334W and R347P were
+detected by using restriction digestion with enzymes
+MspI and HhaI, respectively, as reported elsewhere
+(Gasparini et al. 1991; Shrimpton et al. 1991). Genomic DNA carrying each mutation was used to control
+for ASO specificity and enzyme digestion.
+Results
+
+DNA sequencing of exons 9-12 and 19-23 from
+CFTR genes of all four groups of patients and from
+exons 1 and 2 of the U.S. Caucasian and AfricanAmerican groups revealed 19 mutations, 6 of which
+are novel. The novel mutations and sequence polymorphisms discovered in the present study are summarized in table 2. Each novel mutation was observed on
+one CF chromosome only and was observed in one
+parent not carrying a previously identified CF mutation in each case, except for the intron 8 mutation (see
+below). The mutations C247-1T and G4243-,T produce
+termination signals in exon 2 (Q39X) and exon 22
+(E1371X), respectively. The latter mutation creates a
+novel MseI site. Both mutations were discovered in
+genes from U.S. Caucasian patients. The first patient
+had a missense mutation, tyrosine to asparagine at
+codon 563, on the other chromosome (Kerem et al.
+1990). The patient had severe lung disease and pancreatic insufficiency and died at 20 years of age of pulmonary complications. The second nonsense mutation
+was found in a 35-year-old patient carrying the AF508
+
+Cutting et al.
+
+1188
+
+Table 2
+CFTR Novel Gene Mutations and Gene Sequence Polymorphisms
+
+A. Novel CFTR Gene Mutations, by Location
+
+HAPLOTYPEa
+EXON
+
+NUCLEOTIDE CHANGE
+
+2 ............. C247-'T
+Intron 8 .... G-C at 1342-1
+19 ....... Deletion of A3662
+22 .......
+
+A3793-bG
+G3849-A
+G4243- T
+
+PREDICTED EFFECT
+
+CODON
+
+ABBREVIATION
+
+XV2c
+
+KM19
+
+D9
+
+G2
+
+39
+...
+...
+1203
+...
+1371
+
+Q39X
+1342-1 G-C
+3662delA
+11203V
+G3849-A
+E1371X
+
+2
+2
+U
+2
+U
+1
+
+2
+2
+2
+2
+U
+1
+
+2
+2
+2
+U
+U
+U
+
+1
+2
+1
+2
+U
+U
+
+Gln to Stop
+
+Aberrant RNA splicing
+Frameshift
+Ile-to-Val substitution
+Aberrant RNA splicing
+Glu to Stop
+
+B. CFTR Gene Sequence Polymorphisms, by Location
+EXON
+
+NUCLEOTIDE CHANGE
+
+1 ......
+.......G25 or G
+10 .
+A...A1713 or G1713
+A4002 or G4002
+20 .
+a
+
+PREDICTED EFFECT
+
+CODON
+
+No change
+
+5' Untranslated
+
+No change
+No change
+
+527
+1290
+
+DNA markers and polymorphisms are as described by Cutting et al. (1990b). U = uninformative.
+
+mutation on the other chromosome. This patient has
+severe pulmonary disease and pancreatic insufficiency.
+One frameshift mutation, the deletion of an adenine
+nucleotide at position 3662, was discovered on one
+CF chromosome from an African-American patient.
+This mutation is predicted to cause a shift in the reading frame, leading to a premature termination signal
+14 codons downstream. The mutation on this patient's other CF chromosome is unknown. The patient
+is 11 years old and has moderate lung disease and
+
+pancreatic insufficiency.
+Two alterations were discovered in regions crucial
+to RNA splicing. One CFTR gene from an AfricanAmerican patient had an AG-'PAC mutation of the 3'
+splice site of intron 8 and is abbreviated as "1342-1
+G--C." The guanine nucleotide is almost invariant
+at this position in splice acceptor sites (Shapiro and
+Senapathy 1987). Mutations of this nucleotide have
+been associated with aberrant splicing in various other
+genes (Kazazian 1990; Satokata et al. 1990; Su and
+Lin 1990; Mules et al. 1991). This mutation is paired
+with AF508 in a patient with moderately severe lung
+disease and pancreatic insufficiency. We presume that
+this patient inherited this mutation from his father,
+since his mother does not carry this mutation. The
+second putative splice mutation was found on a single
+chromosome from a Northern Irish patient and occurs
+at the last nucleotide of exon 19 (G3849-oA). The mutation does not alter the encoded amino acid, but the
+location of the mutation suggests that it may be associated with abnormal splicing (Hodges and Rosenberg
+
+1989; Vidaud et al. 1989; Jones et al. 1992). This
+mutation occurs with AF508 in a patient with moderate to severe pulmonary disease and pancreatic in-
+
+sufficiency.
+A nucleotide substitution of A for G at position
+3739 in exon 19, causing the amino acid substitution
+of isoleucine for valine at codon 1203 (I1203V), was
+found in one African-American patient. This change
+was not discovered on 33 normal African-American
+chromosomes carrying at least two polymorphic sites
+(XV2C, KM19, D9, or G2) in common with the haplotype of the chromosome bearing this mutation, suggesting that it may be a disease-producing mutation.
+However, this alteration does not occur in a highly
+conserved region of the gene and is a relatively conservative amino acid substitution. Most important, this
+change was identified on a chromosome carrying a
+nonsense mutation in exon 20 (S1255X) (Cutting et
+al. 1990a). Therefore, it is unclear whether I1203V is
+associated with disease or is merely an accumulated
+mutation in a nonfunctioning gene. This alteration
+can be detected by AatI digestion of exon 1 9-amplified
+
+DNA.
+The distribution of all the mutations discovered in
+the present study is arranged by population group
+in table 3. One mutation, G542X, was observed in
+all four groups. Two other mutations (S549N and
+R553X) in African-Americans have been reported to
+occur in Caucasian CF patients, although R553X is
+probably a recurrent mutation (Reiss et al. 1991). The
+remaining six mutations discovered in African-Ameri-
+
+.0
+U
+
+N
+
+0
+
+o N
+14I
+
+aN
+rn
+
+N
+
+00
+
+N
+
+U
+
+0c
+0
+V
+nu
+
+0
+m
+
+C:
+
+XI
+
+0
+U
+
+r-
+
+rn
+
+0
+0
+
+-4
+
+w
+
+z
+S
+
+-C
+
+o o
+0
+
+z
+N
+N
+
+0
+
+X>
+en
+
+10
+
+_N
+
+00
+
+7u
+
+00
+
+00
+
+S
+
+zX
+
+N
+
+V)
+
+ON
+0
+
+U,
+
+0.
+0
+a
+L.
+
+z
+
+N
+0
+N
+
+£o
+
+II
+<c0
+
+EE
+
+O
+N
+
+0.
+
+z
+
+c
+
+0
+
+t
+
+*
+00
+Ou
+
+en
+
+r
+
+z
+
+.0
+
+:U
+
+CL
+
+.5 r
+
+._
+
+IL
+
+ON
+
+X
+Xtn Ln
+
+0
+
+ON ce
+N - t
+No
+
+* _ 1-
+
+N
+XX
+to0tn t tntn
+
+S0
+
+t
+
+t3
+
+.9.
+
+C
+0
+W6
+c
+
+a
+
+N~~~~~O
+wD S~~
+
+0
+
+w
+0
+*~
+
+~~
+
+ol
+N
+
+U
+
+N NN
+
+f4.04
+C._
+04
+
+D
+
+U0
+
+c
+
+tv0
+
+~S
+
+Cf X
+
+K
+
+zz
+
+LU
+U55,
+
+:
+
+..
+
+0
+
+0
+CZ
+
+U
+
+1.Q
+
+0
+41
+
+1W
+I-
+
+zr
+
+E
+
+,I V
+*
+
+.
+
+u
+
+-
+
+.-
+
+.4
+
+-
+
+.
+
+0
+Cu
+U
+
+UV
+
+el
+
+GC/4
+CuC
+
+0
+
+F-
+
+U'
+
+0
+Q
+
+2
+=
+
+U
+
+U)v°
+
+*.0R
+
+1190
+
+cans appear to be unique. However, eight of the nine
+mutations in North American Caucasian patients,
+four of the five mutations in Northern Irish patients,
+and all of the mutations observed in Israeli patients
+have been reported to occur in other patients of Caucasian background (Cystic Fibrosis Genetic Analysis
+Consortium 1990).
+The mutation GSS1D was found on several CF
+chromosomes from U.S. Caucasian and Northern
+Irish patients but not on any CF chromosomes from
+African-Americans or Israelis. Another exon 11 mutation, R560T, originally reported on a single chromosome (Kerem et al. 1990) was found five times in the
+Northern Irish. Further screening reveals that this mutation accounts for 3.3% (12/362) of CF chromosomes in this population. The missense mutation
+N1303K was found on one chromosome from each of
+the three Caucasian populations. Finally, the nonsense
+mutation W1282X was discovered on 8 of 20 chromosomes from the Israeli group. Further analysis revealed
+that all of the patients bearing this mutation were of
+Ashkenazi origin (Abeliovich et al. 1991). Screening
+of the Ashkenazi population in Israel demonstrated
+that W1282X is the most common CF mutation, accounting for almost 50% of mutations (Lerer et al.
+1992). This has been independently observed by
+Kerem and colleagues (Shoshani et al. 1992).
+The discovery of relatively few novel mutations in
+the Caucasian group, as well as the preponderance of
+previously reported mutations, suggested that a select
+subset of the more than 150 mutations reported to the
+Cystic Fibrosis Genetic Analysis Consortium might be
+found in the majority of Caucasian populations. Four
+mutations, R117H (Dean et al. 1990) and 621 + 1
+G-'T (Zielinski et al. 1991a) in exon 4 and R334W
+(Gasparini et al. 1991) and R347P (Dean et al. 1990)
+in exon 7, occur with some frequency in these populations. Patients whose mutations were still unknown
+after sequencing of exons 1,2,9-12, and 19-23 were
+then screened for these mutations. Three CF chromosomes from three U.S. Caucasians and from two
+Northern Irish patients were found to carry the
+621 + 1G--T mutation, and one chromosome from a
+Northern Irish patient carried the R117H mutation.
+Discussion
+DNA sequencing is the most sensitive method for
+detecting novel mutations. By this technique, exons
+9-12 and 19-23, encompassing approximately 26%
+of the coding region of the CFTR gene, have been
+
+Cutting et al.
+
+analyzed from 39 U.S. Caucasian, 27 African-American, 42 Northern Irish, and 20 Israeli non-AFS08 CF
+chromosomes. An additional 6% of CFTR exon sequences (exons 1 and 2) were examined in the American groups. Six novel and 13 previously reported mutations accounted for 49 (38%) of 128 mutant CFTR
+alleles. The distribution of these mutations clearly
+differed between the African-American patients and
+the three groups of Caucasian origin. Two-thirds of
+the mutations discovered in African-Americans appear to be unique to that population. This confirms
+the hypothesis, first suggested by DNA polymorphism
+analysis, that racial admixture alone does not account
+for the occurrence of CF in African-Americans (Cutting et al. 1989). It also confirms that CF mutations
+exist in non-Caucasian populations despite the rarity
+of the disorder in these groups.
+The similarity in estimates of the frequency of nonAFS08 CF mutations among Caucasian, AfricanAmerican, and Asian populations suggests that the
+high incidence of CF in Caucasians is probably due,
+for the most part, to the high frequency of the AF508
+mutation in that population (Cutting 1990). Why this
+particular allele is so common is unclear: perhaps it
+confers an advantage to the Caucasian heterozygote.
+However, any explanation should take into account
+both the high frequency of the null allele G542X in
+almost all populations studied and the predominance
+of the nonsense mutation W1282X in Ashkenazi pa-
+
+tients.
+The discovery of a rare missense mutation (I1 203V)
+on a CF chromosome bearing a nonsense mutation
+reveals a further complication of mutation analysis.
+Genes that are inactivated by deleterious mutations
+can accumulate additional random alterations that
+may result in a change in the encoded amino acid (Kazazian et al. 1984; Clark et al. 1985). This type of
+alteration could be incorrectly interpreted as the
+disease-producing mutation, especially since it is unlikely that this change will be found in normal genes.
+Missense mutations which appear to be unique should
+therefore be interpreted carefully until the function of
+the mutant protein has been determined.
+The composition of mutations found in the U.S.
+Caucasian group (table 3) is not unexpected and reflects the European origin of this group. However, it
+is notable that analysis of 11 CFTR exons from 39
+genes with unknown mutations revealed only one
+novel mutation in this group. A similar, although
+more striking, finding occurred during the analysis
+of the Northern Irish and Israeli patients. Previously
+
+N
+
+ct
+
+E
+
+>
+
+C
+
+o (1
+
+CZ
+
+00 ern
+
+-M
+
+rn
+
+ZZZZ O
+X
+t-
+
+t
+
+r.
+
+=
+
+CZ
+O
+
+CZ
+
+¢O
+<U ¢
+*
+
+0n
+
+\0 (i
+
+Ir0
+
+(3~-
+
+Zo ~
+N
+O
+
+0
+
+,CO
+
+0)
+
+0.t
+
+I.0
+
+0
+
+0
+
+0
+
+0/N
+
+Ct~~~~~~~~~~~C
+z..
+
+X
+
+v,
+
+N ON m
+
+V) C>
+
+Zo Io
+
+C
+
+O
+aN
+
+'IC
+
+r-
+
+_:
+
+S.
+
+ZZZ Z
+Jo
+
+._
+
+0
+
+U
+0/N
+
+N - (100O
+-4 0 0 0 00 -,
+N4
+.
+.
+.
+.
+.
+
+00
+
+0
+
+U
+
+*00
+
+.t1
+
+CO
+>1 m
+
+U
+
+0
+
+z
+
+QJ
+
+v
+
+O
+
+o
+
+r
+
+V) 00 0/
+u
+
+z
+
+U
+
+CO
+
+w
+
+U
+
+bz
+
+:3
+
+U4
+
+ON
+
+C
+
+0)
+
+0~~~~~~~~~,
+
+o
+
+0)
+
+._0
+
+N
+
+U
+CO
+
+(A
+
+C.
+0
+L.
+
+r.
+0)
+
+tn ON
+
+NN
+
+~,cN0
+
+-0
+:3
+
+c
+
+a.
+CL
+I.0
+
+°. z ° Z n
+
+00
+
+00
+
+ZZ~
+
+o
+o/o"o
+oo
+
+0
+0)
+0
+
+N o
+
+z z
+
+00 r'n
+
+V)
+
+z
+
+l
+
+C
+CZ
+
+CZ
+
+0
+
+-0
+
+4j
+
+£ <o
+
+N 00
+)
+F oo o o o
+
+CZ
+
+--
+
+Ii
+V -C
+
+00
+
+a
+OI
+z
+
+7
+
+C) rqV)
+HO
+z~~~~~~~
+C
+
+(1
+000C00
+t(1ON N
+
+0
+
+1
+
+Ioo
+s oI-
+
+ooo CD
+CD
+CD CD
+
+~0
+
+CO
+CO
+
+a
+
+c
+
+U,
+0
+
+CZ
+
+0
+
+0 -~0
+
+04 C
+
+-O
+
+a
+
+-ODUn
+UCO
+3
+o
+
+o
+
+0
+
+ON
+-
+
+LIE
+oo
+00 Z 0 ONr,
+
+000
+
+0
+E
+00
+
+00
+
+tt
+
+0
+
+,n
+Z
+zz
+(AO)
+7 z z z CI0
+
+v1
+
+0
+z
+
+0
+
+q
+
+-,5 U
+
+0~~~~
+
+UXs
+
+0*
+f'
+
+4)
+
+.0(U
+
+U.
+
+S
+
+a\~~~~~
+
+0
+(r~~~~~~~o
+~
+
+00
+
+I.,
+
+5E0
+
+U
+
+~~~~~~
+-0 = UCO 4-U
+
+~
+
+X
+.ON
+
+0
+
+z
+
+*
+
+ON
+
+0
+
+H
+
+L.CO
+
+O0'
+
+0a-
+
+o
+0
+
+00
+U>E
+,,
+
+M
+
+s
+
+,
+
+U
+
+m ma
+
+w
+
+Cutting et al.
+
+1192
+
+reported mutations accounted for almost all of the
+mutations in these patients. One mutation (W1282X)
+was found in high frequency in Ashkenazi Israelis,
+probably reflecting founder effect. This phenomenon
+also appears to account for the high frequency of mutations 621 + 1G-*T and A455E observed in FrenchCanadian families from the Saguenay-Lac St. Jean region of Quebec (Rozen et al. 1992). Genetic drift is an
+alternative explanation for the higher frequencies of
+certain mutations in particular groups. The frequent
+observation of the R560T mutation in Northern Irish
+may be an example of drift. These ethnic variations
+are not unexpected, as experience with a number of
+other autosomal recessive disorders (e.g., 13-thalassemia, ornithine aminotransferase deficiency, and TaySachs disease) has shown the same pattern.
+Discovery of the common CF mutation, AF508,
+enabled direct DNA diagnosis by a variety of methods
+(Kerem et al. 1989; Rommens et al. 1990). The interpopulation variation in the frequency ofthis mutation,
+however, substantially alters the number of mutant
+CFTR alleles that can be detected by direct methods.
+The large number of CFTR gene mutations being reported to the Cystic Fibrosis Genetic Analysis Consortium appeared to indicate that it would not be a simple
+task to increase the proportion of detectable mutations. In table 4, the frequency of 20 CF mutations
+in the four population groups in the present study is
+compared with the results of screening 12 Caucasian
+groups. In addition to AF508, 14 mutations in exons
+10, 11, 4, 20, and 21 (group 1) were found to occur
+with some frequency in the majority of Caucasian
+groups. This supports the notion that a subset of the
+more than 150 mutations reported to the Cystic Fibrosis Genetic Analysis Consortium occurs in common
+among Caucasian populations.
+Screening for AF508 and this subset of mutations
+should be an efficient and economical method to maximize the number of CF mutations identified in most
+population groups. In northern European countries,
+screening for these mutations should detect nearly
+90% of CF mutations (table 4). Northern Ireland appears to be an exception, the cause of which is presently under investigation. Screening of southern European populations for these mutations will identify
+about 60% of CF mutations (Nunes et al. 1991). The
+lower detection rate is due to the lower frequency (approximately 50%) of the AF508 mutation in southern
+Europeans. Mutation detection in North American
+Caucasian populations should average in the 80%-
+
+85% range, reflecting a mixture of northern and
+southern European ancestry.
+There is some evidence that mutation detection
+rates might be further increased in certain populations. As shown in table 4, screening for a second subset of mutations (group 2) which are in high frequency
+in some populations (e.g., R11 62X in southern EuroG-+ T in French-Canadians in Quepeans and 711+1
+bec) can increase the detection level substantially for
+those populations. For most Caucasian groups, however, screening for mutations in the first subset (group
+1) appears to be most economical. The mutations are
+grouped by exon so that DNA diagnostic laboratories
+can tailor the number of exons analyzed, to maximize
+detection rates for their particular population. Certain
+technical steps can also be taken to simplify a multiple-mutation screen. For example, the four mutations occurring at codon 549 are relatively infrequent
+but together constitute a substantial fraction of mutations. Three of these mutations (S5491, N, and R
+[A-*C]) destroy a DdeI site and can easily be detected
+by restriction analysis (Cutting et al. 1990b).
+In conclusion, direct mutation analysis will be most
+effective in ethnically discrete populations where CF
+is probably the result of founder effect. For example,
+screening for four mutations in the Ashkenazi Jewish
+and for five mutations in French-Canadians of the
+Saguenay-Lac St. Jean region detects more than 90%
+of mutations. A number of techniques that can detect
+rapidly many mutant alleles are now - or soon will
+be-available (Barany 1991; Erlich et al. 1991; Friedman et al. 1991). Combining this technology with the
+growing knowledge of the ethnic distribution of CFTR
+gene mutations should provide a DNA diagnostic test
+that is very specific (more than 99%) and relatively
+sensitive (80%-90%) for most North American and
+northern European Caucasian populations. However,
+the large number of rare mutations will preclude the
+use of a simple screening tool to detect more than 90%
+of mutations in the majority of Caucasian populations.
+
+Acknowledgements
+The authors thank M. Dean, C. T. Jones, A. Shrimpton,
+and C. Wicking for oligonucleotides; C. Boehm, D. Jenkins,
+R. Fink, and R. Selden, Jr. for CF patient samples; I. McIntosh and H. H. Kazazian, Jr. for critical review of the manuscript; and B. Shaffer for secretarial assistance. This work
+is supported by CFF and NIH grants to G.R.C. G.R.C is a
+Merck Clinician Scientist.
+
+Common Caucasian CF Mutations
+
+References
+Abeliovich D, Lerer I, Lavon I, Curristin S, Cutting GR
+(1991) Cystic fibrosis mutations in Jewish Ashkenazi patients. Paper presented at the annual meeting of the European Society of Human Genetics, Leuven, Belgium, July
+Barany F (1991) Genetic disease detection and DNA amplification using cloned thermostable ligase. Proc Natl Acad
+USA 88:189-193
+Beaudet AL (1990) Carrier screening for cystic fibrosis. Am
+J Hum Genet 47:603-605
+Beaudet A, Bowcock A, Buchwald M, Cavalli-Sforza L, Farrall M, King M-C, Klinger K, et al (1986) Linkage of
+cystic fibrosis to two tightly linked DNA markers: joint
+report from a collaborative study. Am J Hum Genet 39:
+681-693
+Bozon D, Kristidis P. Markiewicz D, Zielenski J, Rininsland
+F, Kerem B, Durie P, et al (1991) Characterization of
+cystic fibrosis mutations in Toronto. Am J Hum Genet
+49[Suppl]: A400
+Brock D (1990) Population screening for cystic fibrosis. Am
+J Hum Genet 47:164-165
+
+Caskey CT, Kaback MM, Beaudet AL (1990) The American
+Society of Human Genetics statement on cystic fibrosis
+screening. Am J Hum Genet 46:393
+Clark AJ, Ghazal P, Bingham RW, Barrett D, Bishop JO
+(1985) Sequence structures of a mouse major urinary protein gene and pseudogene compared. EMBO J 4:31593165
+
+Colten HR (1990) Screening for cystic fibrosis. N Engl J
+Med 322:328-329
+Cutting GR (1990) The ethnic distribution of CF gene mutations. Pediatr Pulmonol 5 [Suppl]: 115-116
+Cutting GR, Antonarakis SE, Buetow KH, Kasch LM, Rosenstein BJ, Kazazian HH Jr (1989) Analysis of DNA
+polymorphism haplotypes linked to the cystic fibrosis locus in North American black and Caucasian families supports the existence of multiple mutations of the cystic
+fibrosis gene. Am J Hum Genet 44:307-318
+Cutting GR, Kasch LM, Rosenstein BJ, Tsui L-C, Kazazian
+HH Jr, Antonarakis SE (1990a) Two patients with cystic
+fibrosis, nonsense mutations in each cystic fibrosis gene,
+and mild pulmonary disease. N Engl J Med 323:16851689
+
+Cutting GR, Kasch LM, Rosenstein BJ, Zielenski J, Tsui
+L-C, Antonarakis SE, Kazazian HH Jr (1990b) A cluster
+of cystic fibrosis mutations in the first nucleotide binding
+domain of the CFTR protein. Nature 346:366-369
+Cystic Fibrosis Genetic Analysis Consortium (1990) Worldwide survey of the AF508 mutation-report from the Cystic Fibrosis Genetic Analysis Consortium. Am J Hum
+Genet 47:354-359
+Dean M, White MB, AmosJ, Gerrard B, Stewart C, Khaw K,
+Leppert M (1990) Multiple mutations in highly conserved
+
+1193
+residues are found in mildly affected cystic fibrosis patients. Cell 61:863-870
+De Braekeleer M, Melanson MJ (1990) The ethics of cystic
+fibrosis carrier screening: where do we stand? Am J Hum
+Genet 47:580-581
+Devoto M, Ronchetto P, Fanen P, Orriols JJT, Romeo G,
+Goossens M, Ferrari M, et al (1991) Screening for nondeltaF508 mutations in five exons of the cystic fibrosis
+transmembrane conductance regulator (CFTR) gene in
+Italy. Am J Hum Genet 48:1127-1132
+Erlich HA, Gelfand D, Sninsky JJ (1991) Recent advances
+in the polymerase chain reaction. Science 252:1643-1651
+Friedman KJ, Highsmith WE Jr, Silverman LM (1991) Detecting multiple cystic fibrosis mutations by polymerase
+chain reaction-mediated site-directed mutagenesis. Clin
+Chem 37:753-755
+Gasparini P, Nunes V, Savoia A, Dognini M, Morral N,
+Gaona A, Bonizzato A, et al (1991) The search for south
+European cystic fibrosis mutations: identification of two
+new mutations, four variants, and intronic sequences. Genomics 10: 193-200
+Gilbert F (1990) Is population screening for cystic fibrosis
+appropriate now? Am J Hum Genet 46:394-395
+Hodges PE, Rosenberg LE (1989) The spfash mouse: a missense mutation in the ornithine transcarbamylase gene
+also causes aberrant mRNA splicing. Proc Natl Acad Sci
+USA 86:4142-4146
+lannuzzi MC, Stern RC, Collins FS, Hon CT, Hidaka N,
+Strong T, Becker L, et al (1991) Two frameshift mutations
+in the cystic fibrosis gene. Am J Hum Genet 48:227-231
+Ivaschenko TE, White MB, Dean M, Baranov VS (1991) A
+deletion of two nucleotides in exon 10 of the CFTR gene
+in a Soviet family with cystic fibrosis causing early infant
+death. Genomics 10:298-299
+Jones CT, McIntosh I, Keston M, Ferguson A, Brock DJH
+(1992) Three novel mutations in the cystic fibrosis gene
+detected by chemical cleavage: analysis of variant splicing
+and a nonsense mutation. Hum Mol Genet 1:11-17
+Kazazian HH Jr (1990) The thalassemia syndromes: molecular basis and prenatal diagnosis in 1990. Semin Hematol
+27:209-228
+Kazazian HH Jr, Orkin SH, Antonarakis SE, Sexton JP,
+Boehm CD, Goff SC, Waber PG (1984) Molecular characterization of seven beta-thalassemia mutations in Asian
+Indians. EMBO J 3:593-596
+Kerem B, RommensJM, Buchanan JA, Markiewicz D, Cox
+TK, Chakravarti A, Buchwald M, et al (1989) Identification of the cystic fibrosis gene: genetic analysis. Science
+245:1073-1080
+Kerem B, Zielenski J, Markiewicz D, Bozon D, Gazit E,
+Yahaf J, Kennedy D, et al (1990) Identification of mutations in regions corresponding to the 2 putative nucleotide
+(ATP)-binding folds of the cystic fibrosis gene. Proc Natl
+Acad Sci USA 87:8447-8451
+
+1194
+Lerer I, Sagi M, Cutting GR, Abeliovich D (1992) Cystic
+fibrosis mutations delta F508 and G542X in Jewish patients. J Med Genet 29:131-133
+Mennie M, Gilifillan A, Liston W, Brock DJH (1991)
+Prenatal screening for cystic fibrosis. Am J Hum Genet
+49[Suppl]: A329
+Mules EH, Dowling CE, Petersen MB, Kazazian HH Jr,
+Thomas GH (1991) A novel mutation in the invariant AG
+of the acceptor splice site of intron 4 of the 0-hexosaminidase a-subunit gene in two unrelated American black
+GM2-gangliosidosis (Tay-Sachs disease) patients. Am J
+Hum Genet 48:1181-1185
+Ng ISL, Pace R, Richard MV, Kobayashi K, Beaudet AL
+(1991) Methods for analysis of multiple cystic fibrosis
+mutations. Hum Genet 87:613-617
+Nunes V, Gasparini P, Novelli G, Gaona A, Bonizzato A,
+Sangiuolo F, Balasopoulou A, et al (1991) Analysis of 14
+cystic fibrosis mutations in five south European populations. Hum Genet 87:737-738
+Osborne L, Knight R, Santis G, Hodson M (1991) A mutation in the second nucleotide binding fold of the cystic
+fibrosis gene. Am J Hum Genet 48:608-612
+Reiss J, Cooper DN, Bal J, Slomski R, Cutting GR, Krawczak M (1991) Discrimination between recurrent mutation and identity by descent: application to point mutations in exon 11 of the CFTR gene. Hum Genet 87:457461
+RiordanJR, RommensJM, Kerem B, Alon N, Rozmahel R,
+Grzelczak Z, Zielenski J, et al (1989) Identification of
+the cystic fibrosis gene: cloning and characterization of
+complementary DNA. Science 245:1066-1073
+Rommens J, Kerem B-S, Greer W, Chang P, Tsui L-C, Ray
+P (1990) Rapid nonradioactive detection of the major
+cystic fibrosis mutation. Am J Hum Genet 46:395-396
+Rozen R, De Braekeleer M, DaigneaultJ, Ferreira-Rajabi L,
+Gerdes M, Lamoureux L, Aubin G, et al (1992) Cystic
+fibrosis mutations in French Canadians: three CFTR mutations are relatively frequent in a Quebec population with
+an elevated incidence of cystic fibrosis. Am J Med Genet
+42:360-364
+Satokata I, Tanaka K, Miura N, Miyamoto I, Satoh Y,
+Kondo S, Okada Y (1990) Characterization of a splicing
+mutation in group A xeroderma pigmentosum. Proc Natl
+Acad Sci USA 87:9908-9912
+Schwartz M, Brandt NJ (1991) Carrier screening for cystic
+fibrosis among pregnant women in Denmark. Am J Hum
+Genet 49[Suppl]: A330
+Shapiro MB, Senapathy P (1987) RNA splice junctions of
+different classes of eukaryotes: sequence statistics and
+functional implications in gene expression. Nucleic Acids
+Res 15:7155-7175
+Shoshani T, Augarten A, Gazit E, Bashan N, Yahav Y,
+Rivlin Y, Tal A, et al (1992) Association of a nonsense
+
+Cutting et al.
+mutation (W1282X), the most common mutation in the
+Ashkenazi Jewish cystic fibrosis patients in Israel, with
+presentation of severe disease. Am J Hum Genet 50:222228
+Shrimpton AE, McIntosh I, Brock DJ (1991) The incidence
+of different cystic fibrosis mutations in the Scottish population: effects on prenatal diagnosis and genetic counselling. J Med Genet 28:317-321
+Su TS, Lin LH (1990) Analysis of a splice acceptor site
+mutation which produces multiple splicing abnormalities
+in the human argininosuccinate synthetase locus. J Biol
+Chem 265:19716-19720
+Super M, Schwarz MJ (1992) Mutations of the cystic fibrosis
+gene locus within the population of north-west England.
+Eur J Pediatr 151:108-111
+Tsui L-C, Buchwald M, Barker D, Braman JC, Knowlton
+R, Schumm JW, Eiberg H, et al (1985) Cystic fibrosis
+locus defined by a genetically linked polymorphic DNA
+marker. Science 239:1054-1057
+Vidaud M, Fanen P, MartinJ, Ghanem N, Nicolas S, Goossens M (1990) Three mutations in the CFTR gene in
+French cystic fibrosis patients: identification by denaturing gradient gel electrophoresis. Hum Genet 85:446-449
+Vidaud M, Gattoni R, Stevenin J, Vidaud D, Amselem S,
+Chibani J, Rosa J, et al (1989) A 5' splice-region G--TC
+mutation in exon 1 of the human beta-globin gene inhibits
+pre-mRNA splicing: a mechanism for beta + -thalassemia.
+Proc Natl Acad USA 86:1041-1045
+Watson EK, Williamson R (1990) Initial experience of cystic
+fibrosis population screening in England. Pediatr Pulmonol 5 [Suppl]: 117-118
+White MB, Amos J, Hsu JMC, Gerrard B, Finn P, Dean M
+(1990) A frame-shift mutation in the cystic fibrosis gene.
+Nature 344:665-667
+White MB, Krueger LJ, Holsclaw DS Jr, Gerrard BC, Stewart C, Quittell L, Dolganov G, et al (1991) Detection
+of three rare frameshift mutations in the cystic fibrosis gene in an African-American (CF444delA), an Italian
+(CF2522insC), and a Soviet (CFR3821delT). Genomics
+10:266-269
+Workshop on Population Screening for the Cystic Fibrosis
+Gene (1990) Statement from the National Institutes of
+Health Workshop on Population Screening for the Cystic
+Fibrosis Gene. N Engl J Med 323:70-71
+Zielinski J, Bozon D, Kerem B-S, Markiewicz D, Durie P,
+Rommens JM, Tsui L-C (199 la) Identification of mutations in exons 1 through 8 of the cystic fibrosis transmembrane conductance regulator (CFTR) gene. Genomics 10:
+229-235
+Zielinski J, Rozmahel R, Bozon D, Kerem B-S, Grzelczak
+Z, RiordanJR, RommensJ, et al (1991b) Genomic DNA
+sequence of the cystic fibrosis transmembrane conductance regulator (CFTR) gene. Genomics 10:214-228
+
+

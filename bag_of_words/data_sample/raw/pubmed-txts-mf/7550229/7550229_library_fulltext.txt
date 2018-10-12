@@ -1,0 +1,589 @@
+HUMAN MUTATION 6:36-43 (1995)
+
+RESEARCH ARTICLE
+
+Molecular Characterization of Galactosemia ( Type n )
+Mutations in Japanese
+Jiro Ashino, Yoshiyuki Okano*, Itsuzin Suyama, Takeshi Yamazaki, Makoto Yoshino,
+Jun-Ichi Furuyama, Hsien-Chin Lin, Juergen K.V. Reichardt, and Gen Isshiki
+Department of Pediatrics, Osaka City University Medical School, Osaka, 545 Japan (J. A., Y. O., G. I.) ; Osaka Municipal
+Rehabilitation Center for the Disabled, Osaka, 547 Japan (1,s.);Department of Pediatrics, Osaka Rosai Hospital, Sakai, 591
+Japan (T.Y . ) ; Department of Pediatrics, Kurume University, School of Medicine, Kurume, 830 Japan (M. Y.); Department of
+Genetics, Hyogo College of Medicine, Nishinomiya, 663 Japan (J. -I. F.); Institute for Genetic Medicine, and Department of
+Biochemistry and Molecular Biology, University of Southern California School of Medicine, Los Angeles, California 90033
+(H. -C.L., J. K. V.R.); Fax: 81-6-646-5862
+Cummunicated by Sauio L. C. Woo
+
+We characterized two novel mutations of the galactose-1-phosphate uridyltransferase (GALT) gene in
+two Japanese patients with GALT deficiency and identified N 3 14D and R333W mutations, previously
+found in Caucasians. One novel missense mutation was an G-to-A transition in exon 8, resulting in the
+substitution of arginine by histidine at the codon 23 1 (R23 1H). GALT activity of the R23 1H mutant
+construct was reduced to 15% of normal controls in a COS cell expression system. The other was a
+splicing mutation, an A-to-G transition at the 38th nucleotide in exon 3 (318A+G), resulting in a
+38-bp deletion in the GALT cDNA by activating a cryptic splice acceptor site. I n seven Japanese
+families (14 alleles for classic form and one allele for Duarte variant) with GALT deficiency, the
+R 2 3 1 H and 318A-G mutations were found only on both alleles of the proband. T h e N314D and
+R333W mutations were found on one allele each. The Q l 8 8 R was prevalent in the United States but
+not in Japanese patients. The N314D mutation was associated with the Duarte variant in Japanese
+persons, as well as in the United States. We speculate that classic galactosemia mutations appear to
+differ between Japanese and Caucasian patients. Our limited data set on galactosemia mutations in
+Japanese suggests that the N 3 14D GALT mutation encoding the Duarte variant arose before Asian
+and Caucasian people diverged and that classic galactosemia mutations arose and/or accumulated after
+o 1995 Wiley-Liss, Inc.
+the divergence of Asian and Caucasian populations.
+KEY WORDS: GALT,
+
+COS cell expression system, Missense mutations, Splicing mutation
+
+INTRODUCTION
+Classic deficiency galactosemia is an autosomal
+recessive genetic disorder caused by a deficiency of
+galactose- 1-phosphate uridyl transferase (GALT)
+(MIM 230400) (Segal, 1989) with an incidence
+of 1:60,000 in the United States (Levy and
+Hammersen, 1978) and 1:1,000,000 in Japan
+(Aoki and Wada, 1988). The disease causes neonatal jaundice, cataracts, hepatomegaly, failure to
+thrive, and even neonatal death, unless the patient is rigorously maintained o n a lactose-free
+diet. Many developed countries have instituted
+newborn screening programs for galactosemia.
+The study of galactosemia at the molecular level
+began with cloning and characterization of the human GALT cDNA (Reichardt and Berg, 1988;
+Flach et al., 1990b). The entire gene for human
+0 1 9 9 5 WILEY-LISS,INC.
+
+GALT has been characterized by Leslie et al.
+(1992). More than 10 missense and splicing mutations have been identified in Caucasians and African-Americans (Flach e t al., 1990a; Reichardt
+and Woo, 1991; Reichardt et al., 1991, 1992a,b).
+T h e relationship between genotype and clinical
+phenotype has been examined in Caucasians. The
+most prevalent Ql88R mutation, and several other
+mutations have been associated with classic deficiency galactosemia (Reichardt, 1992). The
+N3 14D mutation has been associated with the
+mild clinical phenotype of the Duarte and Los An-
+
+Received July 4, 1994 accepted September 6, 1994.
+*To whom reprint requestsicorrespondence should be addressed.
+
+MUTATIONS IN JAPANESE WITH GALACTOSEMIA
+
+geles variants (Lin et al., 1994). However, GALT
+mutations have not been identified in Asians and
+are suspected to be different from those found in
+Caucasians, in part because molecular analysis of
+other inherited metabolic disorders has revealed
+different mutations (Okano et al., 1992). In addition, the frequency of the classic deficiency galactosemia in Japan is 1/20th less than that in
+the United States. We report here a novel missense mutation and a novel splicing mutation in
+two Japanese patients with classic deficiency
+galactosemia and the distribution of N3 14D,
+QlSSR, and R333W mutations in seven Japanese
+families.
+
+PATIENTS AND METHODS
+Patients
+
+We analyzed 14 classic deficiency galactosemia
+(G) alleles and one Duarte variant (D) allele from
+7 families with GALT deficiency. Patients 1 and 2
+were identified with typical symptoms of galactosemia and were diagnosed with classic deficiency
+galactosemia having less than 1% of normal erythrocyte GALT activity. Patient 1 was nonconsanguineous; however, the parents both came from
+Okinawa island, and patient 2 was consanguineous. In the third family, the younger brother (patient 3B) was identified with classic deficiency galactosemia by newborn screening, showing less
+than 1% GALT activity and had the G/G phenotype. The elder sister (patient 3A) was healthy,
+with 20% of normal GALT activity having the
+D/G phenotype. GALT proteins of classic deficiency galactosemia and Duarte variant were characterized with starch gel electrophoresis. Futthermore, their father had the D/G phenotype, and
+their mother had the N/G phenotype by GALT
+activity in erythrocyte and starch gel electrophoresis. They were nonconsanguineous. Patient 4, with
+classic deficiency galactosemia, was identified
+through the Japanese Regional Newborn Screening Program, showing less than 1% of normal
+erythrocyte GALT activity. His parents and elder
+brother showed 50% of normal erythrocyte GALT
+activity. He was nonconsanguineous and has been
+rigorously maintained o n lactose-free diet; he has
+developed without mental retardation or cataracts
+(Table 1). Three other Japanese patients (three
+families) with classic deficiency galactosemia were
+identified through the Japanese Regional Newborn Screening Program, showing abnormally
+low GALT activity, and were nonconsanguineous.
+
+37
+
+Galactose Uridyl Transferase Activity in Expression
+Analysis and Erythrocyte of Patients With Galactosemia
+
+TABLE I.
+
+GALT activitya
+Patient
+
+1
+2
+3A (sibling)
+3B (sibling)
+4
+
+Genotype
+R231H/R231H
+318A-+G/318A+G
+N314Diunknown
+Unknowdunknown
+R333Whnknown
+
+Expression Patients’
+analysis erythrocytes
+15%/15%
+
+O%/O%
+l29?Ab/4<l%‘/-
+
+<1%
+<1%
+20%
+4%
+<1%
+
+”The mutant GALT activity is shown as percentage of the normal
+control.
+bFromReichardt and Woo (1991).
+‘From Reichardt et al. (1991).
+
+PCR Amplification and Sequence Analysis of
+GALT cDNA
+Total RNA was isolated from lymphoblasts
+transformed with Epstein-Barr virus using the acid
+guanidium isothiocyanate/phenol/chloroform extraction method (Chomczynski and Sacchi, 1987).
+For cDNA synthesis, 20 pg of total RNA was reverse transcribed using oligo(dT)12-18 (Pharmacia LKB Biotechnology, Inc.) and 30 units of avian
+myeloblastosis virus reverse transcriptase (Life Science) as described elsewhere (Kobayashi et al.,
+1990). The GALT coding region was amplified
+with primers hG5-19 (5’-TTTTTCCAGCGGA-
+
+TCCCCC-3’), hG3-23 (5’-CTTAATTCAGCAAGACTGTTGAA), 1 mM each dNTP, 4 units
+of the T t h DNA polymerase (Toyobo) and 10 x
+reaction buffer (TOYOBO) by 35 cycles at 94°C
+for 80 sec, 50°C for 120 sec, and 72°C for 180 sec
+in a thermal sequencer (Iwaki). Amplified products were purified by elution from 1.2% low melting temperature agarose gel, treated with blunting
+kits (Takara), and digested with XhoI. Both 5’ and
+3’ fragments were subcloned into M13mp19 with
+SmaI and SalI sites. A t least five clones for each
+fragment were sequenced with universal and specific oligonucleotide primers for the GALT sequence using a Sequenase DNA sequencing kit
+
+(USB).
+Genomic DNA Sequencing
+Genomic DNA was isolated from lymphoblasts
+of Japanese patients with GALT deficiency. Exons
+3-5 and their flanking intronic regions of GALT
+genomic DNA were amplified with primers (5’TGGGTCATATCCCACCAAGC-3’) and (5 ’TGGAAACAGAAATGTTACTCC-3‘) by PCR
+as described above. Amplified DNA was purified
+by elution from 2% low melting temperature agarose gel and recovered using the Gene-Clean kit
+
+38
+
+ASHINO ET AL.
+
+(BiolOl). Purified DNA was digested with Hind111
+and subcloned into pUC 18 and sequenced with a
+specific primer for intron 3.
+Expression Analysis
+
+Part (439 bp) of the mutant GALT cDNA, including the R231H mutation, was removed from
+the M13mp19 mutant GALT cDNA by digesting
+with BglII and PuuII. The isolated mutant GALT
+cDNA was inserted at the BglII and PvuII sites of
+PJR16 GALT, a mammalian expression vector
+containing normal GALT cDNA (Reichardt and
+Berg, 1988). The mutant and normal PJR16 were
+introduced into monkey kidney COS cells in 20
+mM Hepes, at pH 7.05, 137 mM NaC1, 5 mM
+KCI, 0.7 mM Na2HP04, and 6 mM dextrose by
+electroporation with a Gene Pulser (BioRad) at
+200 V with 960-pF capacitance. After 72 hr of
+culture, the cells were harvested, and the GALT
+mRNA and GALT activity were determined in
+cellular extracts. GALT mRNA levels in cellular
+extracts were determined by dot-blot hybridization
+for serially diluted RNA samples, using a GALT
+cDNA probe labeled with [a-32P]-dCTP(DuPontNEN) by the Megaprime DNA labeling systems
+(Amersham). GALT activity was determined by
+GALT assay kits (Sigma) with nicotinamide adenine dinucleotidase.
+Allele-Specific Oligonucleotide Hybridization
+and Restriction Enzyme Assay
+
+Amplified DNA samples were denatured and
+applied o n Gene Screen nylon membranes (NEN)
+with a dot-blot manifold (Schleicher & Schuell),
+and were hybridized with allele-specific oligonucleotide probes labeled with 32P for normal alleles (5’-CCTAGGAACGTCTGGTCCT-3’
+for
+R23 1H mutation, 5 ’-TGTTTGACAACGACTTCCC-3’ for 318A-G mutation) and mutant alleles (5’-CCTAGGAACATCTGGTCCT-3’
+for
+R23 1H mutation, 5’eTGTTTGACAGCGACTTCCC-3’ for 318A-G mutation), as described
+elsewhere (DiLella et al., 1988). The QlSSR,
+N314D, and R333W mutations were detected by
+digesting with restriction enzyme after PCR. For
+the Ql88R mutation, PCR-amplified product of
+exon 6 were digested with HpaII. For N3 14D, PCR
+amplification of exon 10 was digested with AvaII
+(Lin et al., 1994); for R333W, exon 10 was digested with HpaII.
+
+RESULTS
+Identification of a Missense Mutation in Patient 1
+
+In patient 1, we detected a missense mutation
+(G-to-A transition) at nucleotide position 2066 of
+
+the GALT genomic gene (nucleotide position 720
+of the GALT cDNA) in 3’ fragments of GALT
+cDNA, resulting in the substitution of arginine by
+histidine at codon 231 (R231H) (Fig. 1). This mutation was present in all five independent clones of
+3’ fragments. We detected a normal sequence of 5’
+fragments of GALT cDNA in all five independent
+clones. Thus, we found the mutation in patient 1
+to be homozygous. To determine whether the
+R23 1H mutation caused galactosemia, expression
+analysis was performed in COS cells. In dot-blot
+hybridization of serially diluted RNA from transfected cells, the mRNA levels of the normal
+GALT cDNA constructs expressed 1.5 times that
+of the mutant GALT cDNA constructs. GALT
+activity of the R231H mutant constructs in the
+COS cell expression system was 10% of the normal
+GALT constructs. Therefore, the GALT activity
+of the mutant protein was 15% of the normal control after revising the efficiency of transfection into
+COS cells.
+Identification of a Splicing Mutation in Patient 2
+
+The PCR amplification product of GALT
+cDNA in patient 2 showed a slightly short band
+compared with normal control, and no normal
+band was found. We detected a 38-bp deletion
+from nucleotide position 281-318 of the GALT
+cDNA identified by sequencing 5’ fragments of
+GALT cDNA of all eight independent clones,
+which we analyzed (Fig. 2). This deletion spanned
+nucleotides 1-38 in exon 3 (nucleotide position
+793-830 of GALT genomic gene). The sequence
+of 3’ fragments of GALT cDNA in all six independent clones was normal. Thus, we found the
+mutation in patient 2 to be homozygous. To identify the molecular defect in the genomic DNA, we
+sequenced exon 3 and the flanking intronic regions of GALT genomic DNA. We found an
+A-to-G transition (318A-G) at the 38th base in
+exon 3, which produced a new cryptic splice accepter site (AA-AG) and caused the first 38-bp
+deletion in exon 3 in GALT cDNA (Fig. 3). The
+318A+G mutation in GALT genomic DNA
+caused 38-bp short GALT cDNA and did not
+cause normal-length GALT cDNA.
+Frequency of Galactosemic Mutations
+in Japanese
+
+Dot-blot hybridization for R231H and
+318A-tG mutations was performed in seven Japanese families with GALT deficiency. T h e R231H
+mutation was found on both alleles of patient 1,
+
+MUTATIONS IN JAPANESE WITH GALACTOSEMIA
+
+39
+
+A r g23’
+No rma I 5’ -AAGGAACGTCTGGTC-3’
+His
+FIGURE1.3’fragments of GALT cDNA of patient 1 and normal control were sequenced with
+specific oligonucleotide primer (5’KATGATGGAGGCTAGAT-3’). The mutant sequence
+shows a G-to-A transition at nucleotide 720 of the GALT cDNA, resulting in the substitution
+of arginine by histidine at codon 231 (R231H). Arrow, position of R231H mutation.
+
+and the 318A-G mutation was found on both
+alleles of patient 2. Neither mutation was found in
+any other Japanese patients. Digestion with restriction enzymes for QlSSR, N314D, and R333W mutations was also performed. We never observed the
+Q188R mutation, but the R333W mutation was
+found o n one allele. N314D was identified on one
+allele of the elder sister, who had 20% GALT activity, but was not found in the younger sister, who
+had less than 1% GALT activity.
+
+DISCUSSION
+We found the two novel mutations of the
+
+GALT gene in two Japanese patients, and identified N314D and R333W mutations, previously
+found in Caucasians (Table 1). The R231H mutation was a CGT (arginine) to CAT (histidine)
+transition in exon 8, which occurred at the CpG
+dinucleotides, at a frequency of 42-fold that of random mutation (Cooper and Youssoufian, 1988).
+Furthermore, this R23 1H mutation was found in a
+
+conserved domain in the homologous enzyme from
+Escherichia coli, yeast, and humans (Tajima et al.,
+1985; Lemaire and Mueller-Hill, 1986). In expression analysis of the R231H mutation, GALT activity of the mutant protein was 15% of the normal
+GALT protein. Interestingly, GALT activity of
+erythrocytes in patient 1 with R231HiR231H genotype was less than 1% of normal controls. The
+reasons for the discrepancy between the GALT
+activity in COS cells and that in erythrocytes are
+unclear. However, it is probable that there are
+some differences in the regulation of the GALT
+gene and in the post-transcriptional modification
+of the two systems. The Ql88R mutation, which is
+most prevalent in Caucasian patients with classic
+deficiency galactosemia, showed about 10% of the
+control GALT activity in the COS cell expression
+system. Similarly, GALT activity of erythrocytes
+from patients with the homozygous Ql88R mutation was less than 1%of controls (Reichardt et al.,
+1991). It also has been reported that phenylala-
+
+40
+
+ASHINO ET AL.
+
+281
+
+No rma I 5’ -GGAGAG
+
+31 8
+
+CGACTTC-3’
+
+Mutant 5’-_____-_-- GGAGAG CGACTT------------
+
+3’
+
+FIGURE2. 5’ fragment of GALT cDNA of patient 2 and normal control were sequenced with
+
+universal primer (5‘-GTTTTCCCAGTCACGAC-3‘).The mutant sequence shows a 38 bp
+deletion from nucleotide 281-318 of the GALT cDNA. This deletion is located from nucleotide 1-38 in exon 3 of GALT genomic DNA.
+
+nine hydroxylase activity in the COS cell expression system results in higher activity than observed
+in the liver of patients with phenylketonuria
+(Okano e t al., 1991). Thus, the COS cell expression system may result in overestimation of the
+level of activity of certain mutant enzymes. We
+conclude that the R23 1H mutation encodes the
+reduced GALT enzymatic activity and results in
+classic deficiency galactosemia.
+We identified the 38-bp deletion in exon 3 by
+GALT cDNA analysis and the A-to-G transition
+at the 38th nucleotide in exon 3 by genomic DNA
+analysis. This mutation produced a cryptic splice
+acceptor site ( A G ) and caused the skipping of the
+first 38 bp in exon 3. Shapiro and Senapathy
+(1987) reported a splicing score system at 3’ splice
+acceptor sites with nucleotides of CAGG and polypyrimidine tract. The score at the original splice
+acceptor site in intron 2 was 78.4, whereas the
+score at the novel cryptic splice acceptor site in
+exon 3 was 87.6 (Fig. 4). The 318A+G splicing
+
+mutation is predicted to result in a frameshift that
+would cause a prematurely terminated protein 8
+amino acids downstream. This abnormal polypeptide would be only 92 amino acids long, while the
+normal GALT protein is 329 amino acids. Patient
+2, with 318A+G/318A+G genotype, showed
+classic deficiency galactosemia and less than 1% of
+erythrocyte GALT activity. This 318A-G mutation reduced the GALT enzymatic activity and
+caused classic deficiency galactosemia.
+The Q188R, N314D) and R333W mutations
+identified in Caucasians were analyzed in Japanese
+patients with GALT deficiency. It has been generally reported that mutations that cause inherited
+metabolic disorders are different among races,
+whereas when mutations are in CpG dinucleotides, the mutation is recurrent among different
+races (Okano e t al., 1992; Tanaka e t al.) 1993). In
+fact, the Q188R mutation not in CpG dinucleotide, the most prevalent mutation in the United
+States, having a frequency of 25-66% (Reichardt
+
+MUTATIONS IN JAPANESE WITH GALACTOSEMIA
+
+41
+
+No rma I 5’ -TTTGACAACGACTTC-3’
+Mutant 5’ -------A&------3’
+FIGURE 3. Amplified genomic DNA in introns 2-5 was sequenced with specific oligonuclein intron 3. Mutant sequence shows an
+otide primer (5’-TATCACTCTCTGCAGCAG-3’)
+A-to-G transition at the 38th base in exon 3 (318AjG). Arrows show position of 318A+G
+mutation.
+
+ConsensusSequence
+%
+
+-14-13 -12-11 -10 -9 -8 -7 -6 -5 -4 -3 -2 -1 +1
+Y Y Y Y Y Y Y Y Y Y N C A G G
+76 78 82 86 82 79 75 73 87 86
+74 100 100 49
+lntron 21
++,Exon
+3
+-
+
+5’
+NormalgenomicDNA
+
+A
+
+T
+
+C
+
+C
+
+T
+
+T
+
+G
+
+MutantgenomicDNA
+
+T
+
+T
+
+C C
+
+T
+
+G
+
+T T T
+
+5’
+
+T C
+
+Exon 3
+
+G G
+
+T
+
+A
+
+G
+
+C
+
+A
+
+A
+
+3
+
+G G T G A A
+r / A
+C G A
++38
+
+@
+
+C T
+3
+
+FIGURE 4. Consensus sequence showing base arrangement in 3’ splice accepter site. Normal
+genomic DNA shows the sequence of the splice acceptor site of exon 3 and the upstream
+site in the GALT genomic DNA of the control. The mutant genomic DNA shows the
+sequence of the cryptic splice acceptor site in exon 3 and the upstream site in the GALT
+genornic DNA of 318A+G mutation. Y, pyrimidine; N, any base; %, frequency of occurrence.
+
+e t al., 1991; Leslie et al., 1992) was not found in
+Japanese. The R333W mutation in CpG dinucleotide being a rare mutation (1 out of 20 alleles) in
+the United States (Reichardt et al., 1991) was
+found on one allele in Japanese patients. We have
+
+detected three mutations (R231H, 318A+G,
+R333W) in five alleles, including two alleles of a
+consanguineous patient from seven Japanese patients with classic deficiency galactosemia. We
+speculate, from our limited data, that classic ga-
+
+42
+
+ASHINO ET AL.
+
+lactosemia mutations appear to differ between Japanese and Caucasian patients.
+Since the GALT activity of the N314D mutation in the COS cell expression system was 129%
+of the control, and was found in clinically unaffected patients, the N314D mutation has been
+originally recognized as a polymorphism (Reichardt and Woo, 1991). Lin et al. (1994) have
+found the N314D mutation o n 34 of 35 different
+Duarte alleles examined in Caucasian, Hispanic
+American, and African-American patients, suggesting that the N3 14D mutation encodes the Duarte variant of GALT. We also detected the
+N314D mutation o n one allele from a sister with
+the D/G phenotype in a Japanese patient. We suggest that the N314D mutation is associated with
+the Duarte variant in all races. As the N314D
+mutation is not a CpG dinucleotide, this mutation
+does not tend to occur recurrently among races.
+Although the classic deficiency galactosemia is
+rare both in Japan and in the United States, the
+prevalence of the Duarte variant in Japan (2.0%)
+(Ichiba, 1989) is as high as in the United States
+(5.5%) (Mathai and Beutler, 1966). Linkage disequilibrium between the N3 14D mutaion in Caucasians and Asians, including our Japanese D/G
+individual and a GALT RFLP, has recently been
+described (Lin and Reichardt, 1995). These findings suggest that the N314D mutation that encodes the Duarte variant occurred before racial divergence between Caucasians and Asians; that is,
+the N314D mutation is an ancient mutation. Our
+limited data set on galactosemia mutations in Japanese suggests that the N314D GALT mutation
+encoding the Duarte variant arose before the divergence between Asian and Caucasian populations and that classic galactosemia mutations arose
+and/or accumulated after this divergence. We intend to address these two propositions in future
+studies, with additional Asian samples. Finally,
+the homozygosity of galactosemia mutations in Japanese patients may suggest inbreeding and/or population bottlenecks in the Japanese population.
+
+Chomczynski P, Sacchi N (1987) Single-step method of RNA
+isolation by acid guanidiunium thiocyanate-phenol-chloroform extraction. Anal Biochem 162:156-159.
+
+ACKNOWLEDGMENTS
+
+Reichardt JKV, Packman S,Woo SLC (1991) Molecular characterization of two galactosemia mutations: Correlation of mutations with highly conserved domains in galactose- t-phosphate
+uridyl transferase. Am J Hum Genet 49:860-867.
+
+This work was supported in part by the Morinaga Housikai (YO), the Ministry of Education,
+Science and Culture Japan (GI), March of Dimes
+grant 5-Fy94-0824 (JKVR), and the James H.
+Zumberge Faculty and Innovation Fund at University of Southern California (JKVR).
+REFERENCES
+Aoki K, Wada Y (1988) Outcome of the patients detected by
+newborn screening in Japan. Acta Paediatr Jpn 30:429-434.
+
+Cooper DN, Youssoufian H (1988) The CpG dinucleotide and
+human genetic disease. Hum Genet 78:151-155.
+DiLella AG, Huang W-M, Woo SLC (1988) Screening for phenylketonuria mutations by DNA amplification with the polymerase chain reaction. Lancet 5:497-499.
+Flach J , Dembure P, Elsas LJ (1990a) Transferase deficiency galactosemia: A molecular analysis. Am J Hum Genet 47:A155.
+Flach JE, Reichardt JKV, Elsas LJ (199Ob) Sequence of cDNA
+encoding human galactose-1-phosphate uridyl transferase. Mol
+Biol Med 7:365-369.
+Ichiba Y (1989) The variant of galactosemia. Jpn J Pediatr 42:
+579-582.
+Kobayashi K, Jackson MJ, Tick DB, O’Brien WE, Beaudet AL
+(1990) Heterogeneity of mutations in argininosuccinate synthetase causing human citrullinemia. J Biol Chem 265:1136111367.
+Lemaire HG, Mueller-Hill 8 (1986) Nucleotide sequence for the
+gal E and gal T gene of E. coli. Nucleic Acids Res 14:77057711.
+Leslie ND, Immerman EB, Flach JE, Florez M, Fridovich-Keil JL,
+Elsas LJ (1992) The human galactose-1-phosphate uridyl transferase gene. Genomics 14:474-480.
+Levy HL, Hammersen G (1978) Newborn screening for galactosemia and other galactose metabolic defect. J Pediatr 92471877.
+Lin H-C, Reichardt JKV (1995) Linkage disequilibrium between a
+sac-i restriction fragment length polymorphism and two galactosemia mutations. Hum Genet (in press).
+Lin H-C, Kirby LT, NG WG, Reichardt JKV (1994) O n the
+molecular nature of the Duarte variant of galactose-l-phosphate uridyl transferase (GALT). Hum Genet 93: 167-169.
+Mathai CK, Beutler E (1966) Electrophoretic variation of galactose-1-phosphate uridyl transferase. Science 154:1179-1180.
+Okano Y, Eisensmith RC, Guttler F, Lichter-Konechi U, Konechi
+DS, Trefz FK, Dasovich M, Wang T, Henriksen K, Lou H,
+Woo SLC (1991) Molecular basis of phenotypic heterogeneity
+in phenylketonuria. N Engl J Med 324:1232-1238.
+Okano Y, Hase Y, Lee D-H, Furuyama ]-I, Shintaku H , Oura T,
+Isshiki G (1992) Frequency of distribution of phenylketonuric
+mutations in Orientals. Hum Mutat 1316-220.
+Reichardt JKV (1992) Genetic basis of galactosemia. Hum Mutat
+1:190-196.
+Reichardt JKV, Berg P (1988) Cloning and Characterization of a
+cDNA encoding human galactose-1-phosphate uridyl transferase. Mol Biol Med 5:107-122.
+Reichardt JKV, Woo SLC (1991) Molecular basis of galactosemia:
+Mutations and polymorphisms in the gene encoding human
+galactose-1-phosphate uridyl transferase. Proc Natl Acad Sci
+USA 88:2633 -2637.
+
+Reichardt JKV, Belmont JW, Levy HL, Woo SLC (1992a) Characterization of two missense mutations in human galactose-lphosphate uridyl transferase: Different molecular mechanisms
+in galactosemia. Genomics 12596-600.
+Reichardt JKV, Levy HL, Woo SLC (1992b) Molecular characterization of two galactosemia mutations and one polymorphism: Implications for structure-function analysis of human
+galactose-1-phosphate uridyltransferase. Biochemistry 3 1:
+5430-5433.
+
+MUTATIONS IN JAPANESE WITH GALACTOSEMIA
+Segal S (1989) Disorders of galactose metabolism. In Scriver CR,
+Beaudet AL, Sly WS, Valle D (eds): In The Metabolic Basis of
+Inherited Disease. 6th Ed. New York: McGraw-Hill, pp 453480.
+Shapiro MB, Senapathy P (1987) RNA spliceng junctions of different classes of eukaryotes: Sequence statistics and functional
+implications in gene expression. Nucleic Acids Res 15:71557174.
+
+43
+
+Tajima M, Nogi Y, Fukasawa T (1985) Primary structure of the
+Saccharomyces cerevisiae GAL7 gene. Yeast 1:67-77.
+Tanaka A, Sakuraba H, Isshiki G, Suzuki K (1993) The major
+mutation among Japanese patients with infantile Tay-Sachs
+Disease: A G-to-T transition at the acceptor site of intron 5 of
+the P-hexosaminidase (Y gene. Biochem Biophys Res Commun
+192:539-546.
+
+

@@ -1,0 +1,1241 @@
+Two Common Low Density Lipoprotein Receptor Gene Mutations
+Cause Familial Hypercholesterolemia in Afrikaners
+Eran Leitersdorf,* Deneys R. Van Der Westhuyzen,t Gerhard A. Coetzee,t and Helen H. Hobbs*
+*Departments of Molecular Genetics and Internal Medicine, The University of Texas Southwestern Medical Center at Dallas, Dallas,
+Texas 75235; $Medical Research Council/University of Cape Town Research Unit for the Cell Biology ofAtherosclerosis, Department
+of Medical Biochemistry, University ofCape Town Medical School, Observatory 2925 Cape Town, South Africa
+
+Abstract
+Familial hypercholesterolemia (FH), an autosomal dominant
+disease caused by mutations in the LDL receptor gene, is five
+times more frequent in the Afrikaner population of South
+Africa than it is in the population of the United States and
+Europe. It has been proposed that the high frequency is due to
+a founder effect. In this paper, we characterized 24 mutant
+LDL receptor alleles from 12 Afrikaner individuals homozygous for FH. We identified two mutations that together
+makeup > 95% of the mutant LDL receptor genes represented
+in our sample. Both mutations were basepair substitutions that
+result in single-amino acid changes. Each mutation can be detected readily with the polymerase chain reaction and restriction analysis. The finding of two common LDL receptor mutations in the Afrikaner FH homozygotes predicts that these
+mutations will predominate in the Afrikaner population and
+that the high frequency of FH is due to a founder effect. The
+increased incidence of ischemic heart disease in the Afrikaner
+population may in part be due to the high frequency of these
+two mutations in the LDL receptor gene.
+
+Introduction
+Familial hypercholesterolemia (FH)' is an autosomal dominant disorder caused by mutations in the gene coding for the
+LDL receptor (1). The LDL receptor is a transmembrane glycoprotein that mediates the transport of LDL into cells and is
+pivotal in cholesterol homeostasis (2). Individuals who are heterozygous for a mutation in the LDL receptor gene have an
+elevated plasma LDL and an increased risk for the development of atherosclerosis. FH homozygotes have mutations in
+both their LDL receptor genes that can be either identical (true
+Dr. Leitersdorf's current address is Department of Internal Medicine
+B, Hadassah University Hospital, Jerusalem, Israel 91120. Address
+reprint requests to Dr. Helen H. Hobbs, Departments of Internal Medicine and Molecular Genetics, University of Texas Southwestern Medical Center at Dallas, 5323 Harry Hines Blvd., Dallas, TX 75235.
+Received for publication 29 March 1989 and in revised form 18
+May 1989.
+
+1. Abbreviations used in this paper: Buffer A, 50 mM Tris-borate, 90
+mM boric acid, 2 mM EDTA at pH 8.3; CHO, Chinese hamster ovary;
+
+ER, endoplasmic reticulum; FH, familial hypercholesterolemia; GK,
+Gereformeerde Kerk; RFLP, restriction fragment length polymorphism.
+J. Clin. Invest.
+© The American Society for Clinical Investigation, Inc.
+002 1-9738/89/09/0954/08 $2.00
+Volume 84, September 1989, 954-961
+954
+
+Leitersdorf; Van Der Westhuyzen, Coetzee, and Hobbs
+
+homozygotes) or different (compound heterozygotes). These
+individuals have dramatically elevated plasma LDL levels and
+develop ischemic heart disease in childhood (1). After the LDL
+receptor gene was cloned (3), numerous mutant alleles from
+FH homozygotes were characterized at the molecular level. A
+vast array of mutations, including insertions, deletions, nonsense, and missense mutations have been described (4) and
+rarely has the same mutation been found in two unrelated
+individuals. The diversity of mutations responsible for FH has
+complicated the development of molecular assays to detect
+mutations at this locus for the purpose of prenatal diagnosis.
+Despite the general diversity of mutations, in three populations specific mutant alleles have been shown to be common.
+A nonsense mutation in the LDL receptor gene has been
+found exclusively in FH homozygotes of Christian Lebanese
+descent (5). In a survey of French Canadian FH heterozygotes
+from the Montreal region, 60% were shown to have the same
+large deletion in the 5' region of their LDL receptor gene (6).
+Finally, a deletion in the 3' end of the LDL receptor gene is
+common in the Finnish population (7). The distinguishing
+features of these three populations are that they all originate
+from a small number of founders and have remained genetically isolated. The frequencies of FH in these populations are
+strikingly higher than in the general world population, where
+the frequency is 0.2% (1).
+Another population with a high frequency of FH is the
+Afrikaner of South Africa, where the frequency of FH has been
+estimated to be about five times that of other populations
+(8-10). The Afrikaners are descended from a small number of
+original settlers whose offspring remained genetically isolated
+while undergoing a rapid numerical expansion (1 1-13). Biosynthetic studies of the LDL receptor protein in cultured fibroblasts derived from skin biopsies of Afrikaner FH homozygotes have demonstrated at least two different mutant alleles
+(14, 15). The normal LDL receptor protein is composed of 839
+amino acids. In the endoplasmic reticulum (ER), N-linked and
+nascent 0-linked sugar chains are added to the amino acid
+backbone to produce a precursor protein with an apparent
+molecular weight of 120,000. Within 30 min, the precursor
+is transported from the ER to the Golgi complex and the apparent molecular weight increases by 40,000 due to maturation of the sugar moieties (2). One of the Afrikaner mutations
+results in the production of a normal-sized LDL receptor precursor whose processing to the mature 160-kD form is retarded. The LDL receptor protein that reaches the cell surface
+is defective in LDL binding. The other mutant allele also produces an LDL receptor precursor which is processed slightly
+more slowly than usual to its mature form and is then rapidly
+degraded(14, 15).
+In this study, we used 10 restriction fragment length polymorphisms (RFLPs) associated with the LDL receptor gene to
+-
+
+construct LDL receptor haplotypes (16) and estimate the number of different mutant LDL receptor alleles represented in 12
+unrelated Afrikaner FH homozygotes. We found two common
+haplotypes that were each in linkage disequilibrium with a
+different mutation in the LDL receptor gene.
+
+Methods
+Materials. Restriction enzymes used for analysis of RFLPs and for
+detection of mutations on amplified DNA were purchased from New
+England Biolabs (Beverly, MA). DNA polymerase I (Klenow fragment) was obtained from Boehringer Mannheim (Indianapolis, IN).
+Thermus acquaticus DNA polymerase was obtained from PerkinElmer Cetus (Norwalk, CT). Oligonucleotides were synthesized on a
+DNA synthesizer and genomic DNA was extracted by nucleic acid
+extractor (models 380A and 340A, respectively; Applied Biosystems,
+Foster City, CA). Genomic DNA was amplified using the DNA thermal cycler from Perkin-Elmer Cetus (Norwalk, CT). [y-32P]ATP used
+for end-labeling oligonucleotides was purchased from ICN Radiochemicals (Irvine, CA). [135S]Methionine and [a-32P]CTP were both
+obtained from New England Nuclear (Boston, MA). IgG-C7 and
+IgG-200 1, mouse MAbs to the human LDL receptor and an irrelevant
+antibody, respectively, were prepared as previously described ( 17).
+Haplotype analysis. Genomic DNA was isolated from cultured
+fibroblasts or blood leukocytes of 12 unrelated FH homozygotes residing in the vicinity of Johannesburg, South Africa. 8 gg of genomic
+DNA were digested independently with a fivefold excess of 10 different
+restriction enzymes previously demonstrated to reveal RFLPs, and
+analyzed by Southern blotting with the appropriate probes as described
+elsewhere ( 16).
+DNA sequencing of mutant alleles. 1 gg of genomic DNA was
+subjected to gene amplification using the polymerase chain reaction
+according to Saiki et al. (18) with the following modifications: (a) the
+DNA was annealed to the primers and extended for 6 min at 68°C; (b)
+the denaturation was performed for 1 min at 95°C; and (c) 35 amplification cycles were performed. Each exon was individually amplified in
+a 50-ul volume using 50 pmol of two oligonucleotides homologous to
+the intron sequences flanking the exon. One oligonucleotide was end
+labeled (19) (specific activity = 3,000 Ci/mmol) and one was unlabeled. After amplification, the entire DNA sample was size-fractionated on a 6% polyacrylamide gel in buffer A (50 mM Tris-borate, 90
+mM boric acid, 2 mM EDTA at pH 8.3) at 200 V and 50 mA. The
+band corresponding to the amplified exon sequences was excised from
+the gel, crushed and soaked overnight in I ml of buffer (0.5 M ammonium acetate, 10 mM magnesium acetate, and 1 mM EDTA), purified,
+and subjected to DNA sequence analysis using the technique of
+Maxam and Gilbert (20).
+Detection of mutant alleles by restriction analysis. Genomic DNA
+sequences flanking and including each mutation were selectively amplified using one labeled and one unlabeled oligonucleotide. An aliquot of the amplified product (20-50 ng) was purified and subjected to
+restriction enzyme analysis. The DNA was digested twice with a restriction endonuclease that was expected to detect the mutant allele,
+electrophoresed on a nondenaturing 6% polyacylamide gel in buffer
+A, and subjected to autoradiography on Kodak XAR-5 film for 1 h
+at 24°C.
+Mutagenesis and transfection ofmammalian cells. DNA fragments
+from the expression plasmid pLDLR4 were subcloned into the bacteriophage M 13, and oligonucleotide-directed mutagenesis was performed as previously described (21). The relevant mutation was confirmed by sequencing and a fragment containing the mutation was
+subcloned into pLDLR-2, a plasmid containing a cDNA encoding the
+human LDL receptor under the control of the Simian Virus (SV)-40
+early promoter (21). The two plasmids, pI01 and p724, encode an
+LDL receptor protein identical to the normal protein except for amino
+acid substitutions at position 206 (aspartate to glutamate) and 408
+(valine to methionine), respectively. The constructs
+
+pl0l and p724
+
+were characterized by DNA sequencing before transfecting into
+ldlA-7 cells, a mutant Chinese hamster ovary (CHO) cell line that
+does not have a functional LDL receptor (21, 22). Stable cell lines were
+
+selected by indirect immunofluorescence with the antireceptor MAb
+IgG-C7 (21). The cell lines transfected with p1O1 and p724 were designated TR- 1 163 and TR- 1 178, respectively. TR-7 15 cells, a stable line
+of ldlA-7 cells that was transfected with pLDLR-2, have been previously described (21).
+LDL receptor assays. Transfected cells were set up for experiments
+on day 0 according to a standard protocol as previously described (21).
+Experiments were performed on day 4. The cells were radiolabeled
+with [35S]methionine for 1 h and subjected to immunoprecipitation
+with IgG-C7 after various chase periods, as previously described (23).
+SDS-PAGE of 35S-labeled cell extracts was performed and the apparent
+molecular masses were calculated by reference to the migration of the
+following marker proteins: myosin (200 kD), 13-galactosidase (1 16 kD),
+phosphorylase b (97 kD), BSA (68 kD), and ovalbumin (43 kD). Proteins were visualized by fluorography using Kodak XAR-5 film and
+intensifying screens (Lightning Plus; DuPont Co., Wilmington, DE)
+for the time periods indicated in the figure legends at -70°C.
+
+Results
+We used 10 different RFLPs (16) to determine the haplotype
+of each LDL receptor allele in 12 unrelated Afrikaner FH
+homozygotes. A majority of the patients were homozygous at
+each restriction site and thus were homozygous for the same
+LDL receptor haplotype (Table I). Four of the FH homozygotes (FH-2a, FH-5a, FH-6a, and FH- 11 a) were heterozygous
+at more than one restriction site and in these individuals the
+first degree relatives were analyzed to determine the haplotypes. Only three different RFLP haplotypes were found and
+each has been previously observed (16). LDL receptor haplotype 3 was the most common haplotype and composed 66.6%
+of alleles. Haplotype 15 was the next most frequent and made
+up 29.2% of the mutant LDL receptor alleles analyzed. Together, haplotypes 3 and 15 composed 95.8% of the 24 mutant
+LDL receptor alleles sampled. Only a single mutant gene was
+found to have an LDL receptor haplotype other than 3 or 15
+(FH-2a).
+The high frequency of two LDL receptor haplotypes in the
+Afrikaner homozygotes suggested that each of the two common haplotypes might be associated with a different mutation.
+Therefore, an individual homozygous for haplotype 3 (FH- la)
+and an individual homozygous for haplotype 15 (FH-3a) were
+selected for further analysis. Genomic DNA from each of these
+two patients was subjected to gene amplification by polymerase chain reaction using pairs of oligonucleotides homologous
+to intron sequences flanking each exon of the LDL receptor
+gene. In each amplification reaction one end-labeled and one
+unlabeled oligonucleotide were used. The amplification products were size-fractionated on a polyacrylamide gel and the
+amplified DNA fragments were excised and purified. Each
+DNA fragment, containing a single exon, was subjected to
+sequence analysis using the Maxam and Gilbert technique
+(20). Both strands of exons 1-17 as well as the coding region of
+exon 18 of the LDL receptor gene were sequenced. The sequence of each LDL receptor gene was compared with the
+normal sequence (24) and only one basepair difference was
+found in each FH homozygote (Fig. 1).
+Fig. 1 A shows the sequence ofthe noncoding strand of the
+3' end of exon 4 of the LDL receptor gene from a normal
+individual and from FH-la. A single basepair substitution of a
+cytosine for a guanine in the codon for amino acid 206 was
+Familial Hypercholesterolemia in Afrikaner Homozygotes
+
+955
+
+Table I. LDL Receptor Haplotypes in 12 South African FH Homozygotes
+A. Haplotype detection by RFLP analysis
+
+Restriction sites
+
+Haplotype
+
+3
+15
+16
+
+Bsm I
+5FR
+
+Sph I
+Intron
+6
+
+Stu I
+Exon
+8
+
+AvaII
+Exon
+13
+
+Spe I
+Intron
+15
+
++
+
+-
+
+-
+
+-
+
+_
+
+_
+
+_
+
+_
+
++
++
+
++
++
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
++
+
++
+
+-
+
++
+
+-
+
+ApaLI-5'
+Intron
+15
+
+PvuII
+Intron
+15
+
+Nco I
+Exon
+18
+
+Apa LI-3'
+3FR
+
+Pst I
+3'RF
+
+B. Haplotype analysis of FH homozygotes
+
+FH homozygote
+
+LDL receptor haplotype
+
+Family
+
+Subject
+
+3/3
+
+1
+2
+3
+5
+6
+7
+8
+9
+10
+11
+12
+14
+
+la
+2a
+3a
+5a
+6a
+7a
+8a
+9a
+lOa
+la
+12a
+14a
+
++
+
+15/15
+
+3/15
+
+3/16
+
++
++
++
++
+
++
++
++
++
++
++
++
+
+Total: 6
+
+3
+
+2
+
+1
+
+C. Frequency of haplotypes
+Haplotype
+
+Number of alleles
+
+Frequency
+
+3
+
+16/24
+7/24
+1/24
+
+66.6
+29.2
+4.2
+
+15
+
+16
+
+A: The location of each RFLP is indicated below the restriction enzyme used to detect the polymorphism. The haplotype numbering system is
+derived from previous analysis of normal Caucasian Americans (16). 5'FR, 5'-flanking region; 3FR, 3'-flanking region; +, restriction site present; -, restriction site absent. B: The biochemical and clinical features of each FH homozygote is described in Table I of reference 14. The haplotypes of the compound heterozygotes were deduced from analysis of selected family members, assuming no recombination within the LDL receptor gene. C: Frequency of each LDL receptor haplotype in the 12 FH homozygotes.
+
+found and the resultant amino acid change is an aspartic to a
+glutamic acid. Fig. 1 B shows the sequence of the noncoding
+strand of exon 9 from a normal individual and FH-3a. The
+sequences are identical, excluding the codon for amino acid
+408. In the third position of this codon there has been a cytosine-to-thymine transition which changes the corresponding
+amino acid from a valine to a methionine.
+To prove that these two basepair substitutions were mutations and not polymorphisms, each mutation was reproduced
+in vitro and expression plasmids encoding the mutant receptor
+were transfected into CHO cells lacking a functional LDL receptor. Two permanent cell lines were established: TR-1 163,
+containing a plasmid coding for an LDL receptor protein with
+the same mutation as FH-la, and TR-1 178, expressing a plasmid encoding an LDL receptor protein identical to FH-3a.
+These two cell lines were compared with TR-7 15 cells, a previously described CHO cell line expressing the normal LDL
+receptor cDNA (21). The cells were pulse labeled with [35S]956
+
+Leitersdorf; Van Der Westhuyzen, Coetzee, and Hobbs
+
+methionine for 1 h before the addition of unlabeled methionine. Cells were collected after varying periods of chase, solubilized, and subjected to immunoprecipitation using IgG-C7, an
+MAb directed against the first cysteine-rich binding repeat of
+the LDL receptor gene (25). The immunoprecipitated proteins
+were fractionated on a gel and the gel was subjected to fluorography (Fig. 2). The fluorograms were analyzed by densitometry to assay the relative amounts of LDL receptor protein in
+the precursor (120 kD) and mature (160 kD) forms.
+Fig. 2 A shows the analysis of cells transfected with a normal LDL receptor cDNA. After a 30-min chase, > 50% of the
+LDL receptor protein had matured from the 120-kD precursor
+to the 160-kD mature form. Fig. 2 B shows the results of a
+similar analysis of the FH-I-la cells. This cell line made a normally sized 120-kD LDL receptor precursor that was processed to the mature 160-kD form at a much slower rate than
+seen in the cells transfected with the normal LDL receptor
+cDNA. It required 2-4 h for 50% of the receptor to reach the
+
+A
+
+Normal
+T A
++
+
++
+
+C C G G
+
+~;_CAG
+
+Figure 1. DNA sequences of LDL receptor genes
+
+FH-la
+
+from two South African FH homozygotes. One
+
+T A
++
+
++
+
+C C G G
+
+Amino
+
+microgram of genomic DNA from the indicated
+individual was subjected to gene amplification
+
+using the polymerase chain reaction and the antisense strand of the amplified DNA was sequenced
+Jby the Maxam and Gilbert method. (A) Shows the
+
+Acid
+
+Ws
+
+No.
+
+_ sequence of the 3' region of exon 4 of the LDL reGTC Asp-203-Asp GTC
+x
+ceptor gene of a control subject and FH homozy,.
+TTT
+TTT
+Lys-204-Lys
+w
+TT T Lys -204- Lys TT T
+gote 1a. The 3' region of exon 4 was amplified
+i E
+AGA Ser-205-Ser AGA
+S
+AGA
+Qusing
+an unlabeled
+upstream oligonucleotide
+GTC Sp5~ uu-:~j ©TC
+PCR-D1
+(5'-CCCCAGCTGTGGGCCTGCGACTC Glu-207-Glu CTC
+CAACG-3') complementary to nucleotides 483 to
+508 in exon 4 (24), and an end-labeled oligonuTTC GIu-208-Glu TTC
+cleotide PCR-51A (5'-ACGCCCCGCCCCGTT Asn-209-Asn GTT
+to secomplementarythe
+CACCCTGCCCCGC-3')
+. w
+_GCA Cys-21 0-Cys GCA
+in
+4. After
+
+AGTCA -2056Ser
+
+Normal
+T A
++ +
+
+C C G G
+
+UP 4W
+
+_l /
+
+was excised from the gel, purified, and subjected
+
+FH-3a
+T A
++ +
+
+to sequence analysis. Comparison between the
+normal and FH la genes revealed a single base
+
+C C G G
+
+substitution (guanine to cytosine) resulting in a
+
+Amino
+
+Acid
+
+No.
+
+^sn
+"
+- Asn-404-A
+, | Leu-405-Leu
+
+CAG=
+
+Z
+| l*P
+CAG
+
+w
+
+______
+
+single amino acid substitution (aspartic to glu^tamic
+acid) at residue 206. (B) The DNA se-
+
+quences within exon 9 of the LDL receptor gene
+
+CCT Arg-405-Arg CCT
+GTT Asn-406-Asn GTT
+
+GAC Val-409-Val GAO
+"
+r
+GC Ala-410-A
+Ala-410-Alaa AGC
+^AAGC
+Leu-411-Leu CAG
+^ \TC Asp-412-Asp
+G
+
+amplification,
+quences intron
+_DNA was size-fractionated on a 6% polyacrylamide gel in buffer A, and the 242-bp fragment
+
+*
+
+-
+
+_":
+
+from a control subject and FH homozygote 3a are
+compared. Exon 9 was amplified using an unlaoligonucleotide
+Cbeled
+:* CAC
+Val-4089Met| PCR-NI (5'-
+
+CTGACCTCGCTCCCCGGACCCCCAG-3')
+
+-cfrom
+to upstream
+omplementary
+flanking
+sequence
+an end-labeled
+oligonucleotide
+intron 8, and
+At_
+PCR-N2
+(5-GGCTGCAGGCAGGGGCGACGCTCA-3') complementary to downstream
+flanking sequence from intron 9. After amplification the DNA was size-fractionated on a 6% polyacrylamide gel in buffer A, and the 222-bp fragment corresponding to the amplified exon was
+excised from the gel, purified, and subjected to sequence analysis. Comparison between the normal and FH 3a genes revealed a single base substitution (cytosine to thymidine) causing a single amino acid substitution (valine to methionine) at residue 408.
+mature 160-kD
+
+form. C shows the results of a pulse-chase
+
+analysis of the FH-3a cells. These cells also processed the LDL
+receptor protein slower than the normal cells but more rapidly
+than the FH-la cells.
+It was also noted that the LDL receptor protein synthesized
+in the FH-3a cells was degraded more rapidly than in the
+normal or FH- la cells (Fig. 3). In two separate experiments,
+the amount of LDL receptor (I120 plus 160 kD) was estimated
+by densitometric analysis of the fluorograms at the various
+time points of the pulse-chase experiment. The amount of
+receptor protein remaining after each chase interval was averaged and graphed for each cell line. In both normal and FH-la
+cells there was no significant loss of LDL receptor protein after
+6 h. This is in contrast to FH-3a cells where the receptor was
+degraded more rapidly. After 6 h, only 13% of the LDL
+-
+
+receptor protein remained.
+Each basepair substitution resulted in the creation of a new
+restriction site. The guanine to cytosine substitution found in
+FH- 1 a created a new Dde I site (consensus sequence: CTNAG)
+and the cytosine to thymine change identified in FH-3a
+formed a new N1a III restriction site (consensus sequence:
+CATG). Therefore, it would be predicted that the mutations
+could be assayed by restriction analysis using these two restriction enzymes. FH- 1 a, FH-3a, and FH-6a were analyzed separately for the presence or absence of these two restriction sites
+
+(Fig. 4).
+
+-
+
+Fig. 4 A shows the results of restriction analysis of amplified DNA from subjects FH-6a, FH- la, FH-3a, and the parents of FH-6a. PCR-Dl and end-labeled PCR-D2, 25-base
+oligonucleotides homologous to sequences flanking the mutation, were used to selectively amplify the 3' region of exon 4 of
+the LDL receptor gene. The purified 220 bp DNA fragment
+was subjected to restriction analysis with Dde I and the products were size fractionated on a polyacrylamide gel. In the
+normal LDL receptor gene, an 87-bp band would be expected
+due to the presence of an invariant Dde I site in exon 4. In
+FH-la, a 23-bp band would be expected since a new Dde I site
+(labeled Dde I-M) is formed. As expected, FHI la (lane 5) is
+homozygous for the 23-bp band and FH-3a (lane 6) is homozygous for the 87-bp band. FH-6a (lane 4) has both the 87- and
+23-bp bands and he shares the abnormal band with his mother
+(lane 3).
+Genomic DNA from these same individuals was subjected
+to polymerase chain reaction using end-labeled PCR-Nl and
+PCR-N2, two 25-base oligonucleotides homologous to the intron sequences flanking exon 9, and the resultant 222 bp fragment was subjected to Nla III restriction analysis (Fig. 4 B).
+Exon 9 of the normal LDL receptor gene does not contain an
+Nla III site so a 222-bp fragment is expected if there is no
+mutation. In the presence of the point mutation found in
+FH-3a, an Ma III site is created and a 126 bp fragment is
+expected. As expected, restriction analysis of amplified DNA
+Familial Hypercholesterolemia in Afrikaner Homozygotes
+
+957
+
+Figure 3. Permanent
+CHO cells expressing
+A
+w~Athe normal LDL recepFHa'
+tor and the mutant rea 5(
+ceptor of FH la and of
+FH 3a were pulsed with
+2!'5 *
+nL
+[35S]methionine for 1 h
+-J
+I
+0
+and then chased with
+Vo
+cold methionine for
+various time intervals
+before harvesting. The
+4
+2
+cells were solubilized,
+Thne of Chase otmrs)
+subjected to immunoprecipitation using an MAb to the LDL receptor, and fractionated
+on a gel as described in the legend to Fig. 2. The autoradiograms
+from two different experiments were analyzed by densitometry and
+the amount of receptor remaining after each period of chase was calculated as a percentage of amount after a 1-h chase. The results of
+two experiments were averaged together at each time point.
+I A
+
+A
+
+ioo
+
+75 L
+.>
+
+A/
+
+_60
+
+1
+460
+-C^.,.,,_
+420-
+
+/
+
+50
+zo.
+CZC.)~~~~~~~~~~~~~~~~~h~
+10 0
+°
+25i 0
+CZ
+c:j2OkD120 kD
+o
+
+4
+
+C-1
+-.2C
+2 4
+
+A
+
+'
+
+>
+
+B. FH la
+$ ~
+~*
+~
+o\
+-0
+75
+_
+
+25
+
+A
+
+~~~~~hours
+l6OkD-
+
+/
+
+D>
+
+5V120 kD
+
+,
+
+~~~.5 d 2 4 6
+
+10004
+
+-0
+a:
+n
+
+I
+
+2
+
+*/ k< 160 kD
+
+*
+
+| C. FH 3a
+
+z
+
+1\,<~120 kD
+
+Q
+
+/)75
+
+;
+i
+
+A
+
+/-16
+
+2T5
+
+n~~~
+
+kD20
+~~
+(.
+
+5
+
+ur2
+
+from his father. The other nine Afrikaner FH homozygotes
+were analyzed in a similar fashion and all the alleles with an
+LDL receptor haplotype 3 and 15 have the same restriction
+pattern as FH-la and FH-3a, respectively (data not shown).
+The nature of the mutation associated with LDL receptor
+haplotype 16 was not determined but was confirmed not to be
+either of the two common mutations.
+
+Discussion
+
+4
+
+Time of Chase (hours'
+Figure 2. Biosynthesis of LDL receptors in transfected CHO cells.
+Plasmids encoding the normal LDL receptor protein (pLDLR4), and
+the mutant LDL receptor proteins from FH-la and FH-3a were
+transfected into LDL-A7 cells, a CHO cell line that makes no LDL
+receptors. Permanent cell lines were established and grown as described. The cells were pulse-labeled with 200 MCi/ml of ["5S]methionine for 1 h before incubation in medium supplemented with
+0.2 mM cold methionine for indicated time periods. The cells were
+then solubilized and the LDL receptor protein was immunoprecipitated using IgG-C7, an MAb to the LDL receptor, and then fractionated on a 7% polyacrylamide gel containing SDS, as described (21).
+The gels were dried, enhanced, and then subjected to fluorography
+using Kodak XAR-5 film and intensifying screens at -70°C for the
+following time intervals: 20 h for the TR-7 15 cells and 6 d for the
+TR-1 163 and TR-1 187 cells. The fluorograms were subjected to densitometry and the percentage of immunoprecipitated LDL receptor
+in the precursor (120 kD) or mature (160 kD) form was determined
+for each cell line at each time point of the chase. A shows the results
+of the pulse-chase analysis from cells with the normal LDL receptor
+gene and B and C show results of similar analysis with the two mutant cell lines.
+
+from FH- la (lane 5) and FH-3a (lane 6) showed the 222- and
+126-bp bands, respectively. In FH 6a (lane 4) both the normal
+222-bp fragment and the abnormal 126-bp fragment were
+seen. FH-6a shares the smaller 126-bp fragment with his father
+(lane 2). Therefore, FH-6a is a compound heterozygote; he
+inherited an LDL receptor allele with the same mutation as
+FH-la from his mother and an LDL receptor allele like FH-3a
+958
+
+A
+
+/
+
+25
+
+a)
+
+Ae
+
+A,
+
+Leitersdorf; Van Der Westhuyzen, Coetzee, and Hobbs
+
+In this study we have characterized two common mutations at
+the LDL receptor locus that make up > 95% of the mutant
+alleles responsible for FH in a cohort of Afrikaner FH homozygotes living in the Transvaal Province of South Africa. FH
+has been estimated to have a frequency of at least 1 in 100 in
+the Afrikaner population, which is five times greater than in
+the European and North American populations (9, 10). If this
+high frequency is due to a founder effect, it would be expected
+that one or two LDL receptor mutations would predominate
+in the present population of FH Afrikaners. To estimate the
+number of different LDL receptor mutations represented in
+the 12 FH Afrikaner homozygotes available for analysis, we
+determined their LDL receptor gene haplotypes using 10
+RFLPs. At the ,B-globin and phenylalanine hydroxylase loci
+particular mutations are often in linkage disequilibrium with
+particular haplotypes (26-28). Therefore, we took two subjects
+homozygous for the two commonly observed haplotypes and
+sequenced the coding region of their LDL receptor genes and
+identified two different mutations. Fortuitously, each mutation created a new restriction site enabling indirect detection of
+the mutation in the remaining FH homozygotes. All the individuals sharing the same haplotypes as FH- la and FH-3a also
+had the same corresponding mutation, as reflected by restriction enzyme analysis of selectively amplified DNA segments
+(data not shown). Therefore, each LDL receptor mutation was
+in linkage disequilibrium with a different RFLP haplotype.
+Both mutations resulted in a change in a single amino acid.
+To exclude the possibility that the amino acid change was an
+innocent polymorphism, we reproduced and analyzed each
+mutation in vitro. A permanent cell line expressing the same
+mutant LDL receptor protein as FH-la showed an identical
+phenotype to that previously observed in fibroblasts cultured
+
+A
+PCR-DI
+5'4
+
+DdeI
+
+Family
+
+t
+
+EXON 4
+
+3'
+
+PCR-D2*
+
+1 2 3 4 5 6
+
+bp
+
+_ _ _
+
+-220-________
+-- 87-- 23-
+
++
+
+B
+PCR-N1*
+5
+
+_
+
+DdeI
+
+NIa=-M
+EXON 9
+
+3
+]
+PCR-N2
+4-
+
+--
+
+1
+
+bp
+
+-222 -
+
+binding repeats but, unlike the previously described mutations, it is a single amino acid substitution and not a deletion.
+glutamic acid is substituted for an aspartic acid in a highly
+conserved motif within the ligand binding repeats. In the 3'
+
+n
+6
+@
+0r
+ol=
+A
+>
+EaI
+I
+
+DdeI-M
+
+_
+
+2
+
+---
+
+3
+
+4
+
+5 6
+
+_
+
+126-
+
++NIaM
+Figure 4. Detection of mutant alleles in South Africa in subjects with
+familial hypercholesterolemia. (A) shows the map of the 3' end of
+exon 4 of the LDL receptor gene, including an invariant Dde I site
+and the mutant (Dde I-M) restriction site. Two oligo snucleotides,
+PCR-DI and end-labeled PCR-D2* (5'-CGCCCATA iCCGCAGTTTTCC-3'), were used to amplify the interver ing
+from 1 ,g of genomic DNA. After amplification, 50
+cpm) of the purified amplified fragment (183 bp) we] e
+Dde I digestion, using a total of 20 U of enzyme. Th digested DNA
+was size-fractionated on a 6% polyacrylamide gel in Ibuffer A and autoradiographed for 20 min at room temperature. Th e expected band
+sizes for the undigested (220 bp) and Dde I-digested fragments from
+a normal (87 bp) and mutant (23 bp) allele are show rn schematically
+by the solid lines. Lane I shows the undigested ampl Iified fragment.
+Lanes 2-4 show FH homozygote 6a and his parents are shown: lane
+(2) mother of FH homozygote 6a (haplotypes 15, 15 ); lane 3, father
+of FH1 homozygote 6a (haplotype 3, 3); lane 4, FH h omnozygote 6a
+(haplotype 3, 15). Lanes5 and 6 show the results obitained for FH
+homozygote la (haplotype 3, 3) and Ff1 homozygote e 3a (haplotypes
+15, 15), respectively. B shows exon 9 of the LDL rec eptor gene
+which has no NIa III site. 5' end-labeled PCR-N1* o 'ligonucleotide
+and 3' unlabeled PCR-N2 were used to amplify exon 9 from genomic
+DNA. A 222-bp fragment was purified and digested with NlaIII.
+The expected fragment sizes obtained from digestion i of the normal
+and mutant allele are 222 and 126 bp, respectively. The DNAwas
+size fractionated on a 6% polyacrylamide gel and aui toradiographed
+for 30 min at room temperature. Lane shows the indigested DNA.
+Lanes 2-6 show the results obtained for the same in(dividuals analyzed byDde I digestion in A.
+sequence
+
+resubjected to
+
+-
+
+I
+
+from a skin biopsy of FH-la (15). Biosynthetic studies demonstrated the production of an apparently norm ial 120-kD precursor LDL receptor protein that was not p rocessed to the
+160-kD mature form as rapidly as is that of th4e normal receptor protein. Five other mutations at the LDL receptor locus
+have been characterized which also result in a similar slow
+processing phenotype (5, 23, 29, 30). Three of these mutations
+are small in-frame deletions located in the ligaLnd binding domain of the LDL receptor gene, a region ofth ie protein composed of seven cysteine-rich repeats (23, 29, 301). Each of these
+mutations results in a deletion of one to foiur amino acids
+between cysteine residues whose spacing is hiighly conserved
+within each repeat. The deletions may inte arfere with the
+proper folding of the LDL receptor protein Nwithin this cysteine-rich region (30). Numerous studies hav( demonstrated
+that the transport of newly synthesized proteii ns from the ER
+to the Golgi apparatus is highly regulated an d that proteins
+that are malformed are not transported normally to the Golgi
+complex (for review, see references 31 and 32)1. The mutation
+in FH-la is also located in one of the cyste ine-rich ligand
+1
+
+region of each
+
+of the seven
+
+repeats there
+
+is
+
+a
+
+triad of conserved
+
+amino acids: serine-aspartic acid-glutamic acid (3) and in
+FH- la the aspartic acid is changed to a glutamic acid in the
+fifth repeat. The amino acid substitution does not alter the
+charge of the residue at this conserved position, but the extra
+carbon atom in the glutamic acid must somehow interfere with
+the proper folding of the protein.
+In FH-3a, a single basepair substitution in exon 9 of the
+LDL receptor gene causes an amino acid substitution of methionine for valine. This substitution yields a LDL receptor
+protein that is processed more slowly than normal (though not
+as slowly as FH- la) and the mature 1 60-kD receptor is then
+rapidly degraded. Biosynthetic studies of the LDL
+cultured fibroblasts from FH-3a demonstrated
+
+receptor
+
+an
+
+in
+
+identical
+
+phenotype. The mutation is located in a region on the LDL
+receptor that shares 40% homology with part of the epidermal
+growth factor precursor gene (33). Prior studies have demon-
+
+strated that this domain is required for the acid-dependent
+ligand dissociation and for receptor recycling (34). A single
+
+conservative amino acid change within this region results in a
+dramatic increase in the rate of protein degradation, probably
+because it interferes with normal recycling.
+Based on the analysis of these 12 FH homozygotes,
+may predict that two mutations compose the majority of
+tant LDL receptor alleles in the Afrikaner
+population.
+
+one
+
+mu-
+
+Why do
+
+two mutations occur at such high frequency in this particular
+population? The Afrikaners, now numbering 3 million, are
+-
+
+descendents of fewer than 2,000 original settlers predominantly from Germany, Holland, and France who emigrated to
+South Africa in the 17th and 18th centuries (1 1, 13, 35). Originally they settled in the Cape province, but in the 19th century
+many migrated into the Transvaal region. The Afrikaners have
+remained largely genetically isolated due to their different language, culture, and religion. They had large families and were
+highly dispersed so that consanguinity was common in the
+early
+generations. The population expanded dramatically in
+size over a relatively short period of time (35).
+Prior genealogical studies of 29 Afrikaner FH homozygotes
+from the Transvaal region showed that many of the families
+had ancestors who were members of a particular church, the
+Gereformeerde Kerk (GK) (36). This church has the smallest
+membership of the three main Afrikaner church denominations. Two surnames were found to be common in the Afrikaner FH pedigrees and these names could be traced back to
+original church founders. Of the index families (i.e., the families of the parents of the FH homozygotes), 58% had an affiliation with the GK and numerous consanguineous marriages
+were noted in the early generations of the pedigrees of these 29
+Afrikaner FH homozygotes. It would now be of interest to
+identify which of the two mutations we have identified is
+found in the descendents of this particular religious group.
+Numerous rare genetic disorders have been found to have a
+high frequency in the Afrikaner population including
+Gaucher's disease, cystic fibrosis, sclerosteosis, variegate porphyria, lipoid proteinosis, Huntington's chorea, progressive familial heart block, and familial colonic polyposis (1 1, 12). Presumably, the small founder population represented only a
+small sampling of the European genetic pool and was enriched
+Familial Hypercholesterolemia in Afrikaner Homozygotes
+
+959
+
+for particular mutant genes. Most likely, among the original
+settlers there were one or more individuals (or families) with
+either one of the two common LDL receptor mutations identified in this study. One may expect that the Afrikaner population will also contain cases of FH caused by mutations at the
+"background" frequency of 1 in 500; the allele present in
+FH-2a is presumably one of these.
+White South Africans have a higher mortality rate from
+coronary heart disease than any other male population between 25 and 34 y of age (37) and the high frequency of FH in
+the Afrikaner population may be an important contributing
+factor. To determine the exact frequency of each mutation in
+the present Afrikaner population, it would be necessary to
+screen a large number of FH heterozygotes and homozygotes
+for the presence of either of the two mutations we identified.
+This can be easily done using the polymerase chain reaction
+technique in conjunction with restriction analysis, as we have
+demonstrated in this paper. If the frequency of these two mutations is high, as we expect, the appropriate molecular assay
+can be applied to the detection of heterozygotes and the prenatal diagnosis of homozygous FH in the Afrikaner community.
+
+Acknowledgments
+We thank Dr. Michael Brown and Dr. Joseph Goldstein for helpful
+discussions. Excellent technical assistance was provided by Shellie
+Craig, Kathy Schueler, Edith Womack, and Deborah Darrie.
+This study was supported by research grants HL-20948 and
+GM-33771 from the National Institutes of Health (NIH). H. H. Hobbs
+is supported by the Syntex Scholar Program. E. Leitersdorf is a recipient of a fellowship from the Fogarty International Center at the NIH
+Research (IF-05-TW03742). The South African Medical Research
+Council and the University of Cape Town have supported part of this
+work.
+
+References
+1. Goldstein, J. L., and M. S. Brown. 1983. Familial hypercholesterolemia. Chapter 33. In The Metabolic Basis of Inherited Disease.
+J. B. Stanbury, J. B. Wyngaarden, D. S. Fredrickson, J. L. Goldstein,
+and M. S. Brown, editors. 5th ed. McGraw-Hill Book Co., New York.
+672-712.
+2. Goldstein, J. L., M. S. Brown, R. G. W. Anderson, D. W. Russell, and W. J. Schneider. 1985. Receptor-mediated endocytosis: concepts emerging from the LDL receptor system. Annu. Rev. Cell Biol.
+1:1-39.
+3. Sudhof, T. C., J. L. Goldstein, M. S. Brown, and D. W. Russell.
+1985. The LDL receptor gene: a mosaic of exons shared with different
+proteins. Science (Wash. DC). 228:815-822.
+4. Russell, D. W., V. Esser, and H. H. Hobbs. 1989. Molecular basis
+of familial hypercholesterolemia. Arteriosclerosis (Suppl. I). 9:1-8-13.
+5. Lehrman, M. A., W. J. Schneider, M. S. Brown, C. G. Davis, A.
+Elhammer, D. W. Russell, and J. L. Goldstein. 1987. The Lebanese
+allele at the LDL receptor locus: nonsense mutation produces truncated receptor that is retained in endoplasmic reticulum. J. Bio.
+Chem. 262:401-410.
+6. Hobbs, H. H., M. S. Brown, D. W. Russell, J. Davignon, and
+J. L. Goldstein. 1987. Deletion in the gene for the LDL receptor in
+majority of French Canadians with familial hypercholesterolemia. N.
+Engl. J. Med. 317:734-737.
+7. Aalto-Setala, K., H. Gylling, T. Miettinen, and K. Kontula.
+1988. Identification of a deletion in the LDL receptor gene. A Finnish
+type of mutation. FEBS (Fed. Eur. Biochem. Soc.) Lett. 230:31-34.
+
+960
+
+Leitersdorf; Van Der Westhuyzen, Coetzee, and Hobbs
+
+8. Stein, E. A. 1977. The lipid disorders center at the Transvaal
+Memorial Hospital for Children. A review of the first 30 months. S.
+Afr. Med. J. 52:573-579.
+9. Jenkins, T., E. Nicholls, E. Gordon, D. Mendelsohn, H. C.
+Seftel, and M. J. A. Andrew. 1980. Familial hypercholesterolaemia: a
+common genetic disorder in the Afrikaans population. S. Afr. Med. J.
+57:943-947.
+10. Seftel, H. C., S. G. Baker, M. P. Sandler, M. B. Forman, B. I.
+Joffe, D. Mendelsohn, T. Jenkins, and C. J. Mieny. 1980. A host of
+hypercholesterolaemic homozygotes in South Africa. Br. Med. J.
+281:633-636.
+11. Botha, M. C., and P. Beighton. 1983. Inherited disorders in the
+Afrikaner population of southern Africa. Part I. Historical and demographic background, cardiovascular, neurological, metabolic and intestinal conditions. S. Afr. Med. J. 64:609-612.
+12. Botha, M. C., and P. Beighton. 1983. Inherited disorders in the
+Afrikaner population of southern Africa. Part II. Skeletal, dermal and
+haematological conditions; the Afrikaners of Gamkaskloof; demographic considerations. S. Afr. Med. J. 64:664-667.
+13. Gevers, W., L. A. F. Casciola, A. M. Fourie, D. A. Sanan, G. A.
+Coetzee, and D. R. van der Westhuyzen. 1987. Defective LDL receptors that are common in a large population. Familial hypercholesterolaemia in South Africa. Biol. Chem. Hoppe-Seyler. 368:1233-1243.
+14. van der Westhuyzen, D. R., G. A. Coetzee, I. P. C. Demasius,
+E. H. Harley, W. Gevers, S. G. Baker, and H. C. Seftel. 1984. Low
+density lipoprotein receptor mutations in South African homozygous
+familial hypercholesterolemic patients. Arteriosclerosis. 4:238-247.
+15. Fourie, A. M., G. A. Coetzee, W. Gevers, and D. R. van Der
+Westhuyzen. 1988. Two mutant low-density-lipoprotein receptors in
+Afrikaners slowly processed to surface forms exhibiting rapid degradation or functional heterogeneity. Biochem. J. 255:411-415.
+16. Leitersdorf, E., A. Chakravarti, and H. H. Hobbs. 1989. Polymorphic DNA haplotypes at the LDL receptor locus: application for
+the study of hypercholesterolemia. Am. J. Hum. Genet. 44:409-421.
+17. Beisiegel, U., W. J. Schneider, J. L. Goldstein, R. G. W. Anderson, and M. S. Brown. 1981. Monoclonal antibodies to the low
+density lipoprotein receptor as probes for study of receptor-mediated
+endocytosis and the genetics of familial hypercholesterolemia. J. Biol.
+Chem. 256:11923-11931.
+18. Saiki, R. K., T. L. Bugawan, G. T. Horn, K. B. Mullis, and
+H. A. Erlich. 1986. Analysis of enzymatically amplified fl-globin and
+HLA-DQ DNA with allele-specific oligonucleotide probes. Nature
+(Lond.). 324:163-166.
+19. Maniatis, T., E. F. Fritsch, and J. Sambrook. 1982. Molecular
+Cloning: A Laboratory Manual. Cold Spring Harbor Laboratory, Cold
+Spring Harbor, NY. 122.
+20. Maxam, A. M., and W. Gilbert. 1980. Sequencing end-labeled
+DNA with base-specific chemical cleavages. Methods Enzymol.
+65:499-560.
+21. Davis, C. G., M. A. Lehrman, D. W. Russell, R. G. W. Anderson, M. S. Brown, and J. L. Goldstein. 1986. The J. D. mutation in
+familial hypercholesterolemia: substitution of cysteine for tyrosine in
+cytoplasmic domain impedes internalization of LDL receptors. Cell.
+45:15-24.
+22. Kingsley, D. M., and M. Krieger. 1984. Receptor-mediated
+endocytosis of low density lipoprotein: somatic cell mutants define
+multiple genes required for expression of surface-receptor activity.
+Proc. NatL Acad. Sci. USA. 81:5454-5458.
+23. Esser, V., and D. W. Russell. 1988. Transport-deficient mutations in the low density lipoprotein receptor: alterations in the cysteine-rich and cysteine-poor regions of the protein block intracellular
+transport. J. Biol. Chem. 263:13276-13281.
+24. Yamamoto, T., C. G. Davis, M. S. Brown, W. J. Schneider,
+M. L. Casey, J. L. Goldstein, and D. W. Russell. 1984. The human
+LDL receptor: a cysteine-rich protein with multiple Alu sequences in
+its mRNA. Cell. 39:27-38.
+25. van Driel, I. R., J. L. Goldstein, T. C. Sudhof, and M. S. Brown.
+1987. First cysteine-rich repeat in ligand-binding domain of low den-
+
+sity lipoprotein receptor binds Ca2l and monoclonal antibodies, but
+not lipoproteins. J. Biol. Chem. 262:17443-17449.
+26. Orkin, S. H., H. H. Kazazian, Jr., S. E. Antonarakis, S. C. Goff,
+C. D. Boehm, J. P. Sexton, P. G. Waber, and P. J. V. Giardina. 1982.
+Linkage of f,-thalassaemia mutations and ,.-globin gene polymorphisms with DNA polymorphisms in the human f3-globin gene cluster.
+Nature (Lond.). 296:627-631.
+27. DiLella, A. G., J. Marvit, K. Brayton, and S. L. C. Woo. 1987.
+An amino-acid substitution involved in phenylketonuria is in linkage
+disequilibrium with DNA haplotype 2. Nature (Lond.). 327:333-336.
+28. DiLella, A. G., J. Marvit, A. S. Lidsky, F. Guttler, and S. L. C.
+Woo. 1986. Tight linkage between a splicing mutation and a specific
+DNA haplotype in phenylketonuria. Nature (Lond.). 327:333-336.
+29. Yamamoto, T., R. W. Bishop, M. S. Brown, J. L. Goldstein,
+and D. W. Russell. 1986. Deletion in cysteine-rich region of LDL
+receptor impedes transport to cell surface in WHHL rabbit. Science
+(Wash. DC). 232:1230-1237.
+30. Leitersdorf, E., H. H. Hobbs, A. M. Fourie, M. Jacobs, D. R.
+van der Westhuyzen, and G. A. Coetzee. 1988. Deletion in the first
+cysteine-rich repeat of low density lipoprotein receptor impairs its
+transport but not lipoprotein binding in fibroblasts from a subject with
+familial hypercholesterolemia. Proc. Natl. Acad. Sci. USA. 85:79127916.
+
+31. Lodish, H. F. 1988. Transport of secretory and membrane
+glycoproteins from the rough endoplasmic reticulum to the Golgi. J.
+Bio. Chem. 263:2107-21 10.
+32. Rothman, J. E. 1987. Protein sorting by selective retention in
+the endoplasmic reticulum and Golgi stack. Cell. 50:521-522.
+33. Sudhof, T. C., D. W. Russell, J. L. Goldstein, M. S. Brown, R.
+Sanchez-Pescador, and G. I. Bell. 1985. Cassette of eight exons shared
+by genes for LDL receptor and EGF precursor. Science (Wash. DC).
+228:893-895.
+34. Davis, C. G., J. L. Goldstein, T. C. Sudhof, R. G. W. Anderson,
+D. W. Russell, and M. S. Brown. 1987. Acid-dependent ligand dissociation and recycling of LDL receptor mediated by growth factor homology region. Nature (Lond.). 326:760-765.
+35. Ross, R. 1975. The White population of South Africa in the
+eighteenth century. Popul. Stud. 29:217-230.
+36. Torrington, M., J. L. Botha, G. J. Pilcher, and S. G. Baker.
+1984. Association between familial hypercholesterolaemia and church
+affiliation. S. Afr. Med. J. 65:762-767.
+37. Wyndham, C. H. 1978. Ischaemic heart disease mortality rules
+in white South Africans compared with other populations. S. Afr. Med.
+J. 55:595-601.
+
+Familial Hypercholesterolemia in Afrikaner Homozygotes
+
+961
+
+

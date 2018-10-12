@@ -1,0 +1,465 @@
+Hum Genet (1992) 89:49-53
+
+9 Springer-Verlag1992
+
+Detection of small RB1 gene deletions in retinoblastoma
+by multiplex PCR and high-resolution gel electrophoresis
+Dietmar Lohmann 1, Bernhard Horsthemke 2, Gabriele Giilessen-Kaesbach 2,
+Fritz Heinrich Stefani 3, and Heinz Hiifler 1' 4
+l Institut ftir Pathologie, GSF Forschungszentrum ftir Umwelt und Gesundheit, Ingolst~idterLandstrasse 1, W-8042 Neuherberg,
+Federal Republic of Germany
+2Institut for Humangenetik, Universit~itsklinikumEssen, W-4300 Essen, Federal Republic of Germany
+3Augenklinik der Universit~it, Ludwig Maximilians Universit~itMiinchen, W-8000 Mtinchen, Federal Republic of Germany
+4Institut ftir Pathologie, Technische Universiti~tMtinchen, W-8000 Miinchen, Federal Republic of Germany
+Received October 7, 1991 / Revised November 11, 1991
+
+Summary. Loss of function of both copies of the RB1
+gene is a causal event in the development of retinoblastoma. The predisposition to this tumor can be inherited
+as an autosomal dominant trait. Direct detection of the
+genetic defect is important for presymptomatic D N A
+diagnosis and genetic counseling in families with hereditary retinoblastoma. We have used multiplex polymerase
+chain reaction and high-resolution polyacrylamide gel
+electrophoresis to detect RB1 gene deletions as small as
+one base pair. By using three independent sets of amplification reactions, which cover 26% of the RB1 gene
+coding region, we identified RB1 gene deletions in the
+D N A of peripheral blood cells in 3 out of 24 (12.5%) unrelated patients with hereditary retinoblastoma. In one
+case, formalin-fixed paraffin-embedded tumor material
+was also used to detect the mutation. Sequencing of the
+mutated alleles revealed deletions of 1, 3 and 10 base
+pairs. Each deleted region was flanked by direct repeats.
+
+Introduction
+Retinoblastoma is a childhood tumor that arises from
+retinal progenitor cells. It is initiated by the loss of both
+copies of the RB1 gene, which encodes for a cell cycle
+regulatory protein (Cavenee et al. 1983; Friend et al.
+1986; Fung et al. 1987; Lee et al. 1987; Buchkovich et al.
+1989; DeCaprio et al. 1989). Approximately 40% of patients carry a germline mutation at this locus in all cells
+(Vogel 1979). Three quarters of these alterations represent de novo mutations. Tumor formation is initiated by
+the somatic loss or inactivation of the second allele on
+Offprint requests to: H.H6fler, Institut ffir Pathologie, GSF
+Forschungszentrum fiir Umwelt und Gesundheit, Ingolst~idter
+Landstrasse 1, W-8042 Neuherberg, Federal Republic of Germany
+
+the homologous chromosome. As somatic mutations are
+relatively frequent, these patients often develop multiple
+tumor loci in one or both eyes. However, some carriers
+develop only one tumor or escape tumor development
+completely. In 60% of all retinoblastoma patients, both
+alleles are inactivated by somatic mutations in a single
+cell. These patients develop only a single tumor focus.
+In familial cases, the chromosome carrying the mutated allele can often be identified by segregation analysis with polymorphic D N A markers (Wiggs et al. 1988;
+Scheffer et al. 1989; Yandell and Dryja 1989; Goddard
+et al. 1990). Because of the high frequency of de novo
+mutations, non-penetrance, or lack of informativity in
+some families, this indirect approach is often not feasible. Therefore, direct detection of the germline defect
+is the method of choice for identifying individuals at risk.
+Various deletions, insertions and point mutations at
+the RB1 locus have been characterized. Gross structural
+alterations as detectable by Southern blot hybridization
+are present in only 15% of patients with bilateral retinoblastoma (Kloss et al. 1991). Slightly higher rates have
+been found in tumor D N A (Goddard et al. 1988). The
+majority of mutations are too small to be detected by
+Southern blotting. Small deletions and insertions have
+successfully been detected by RNase mismatch analysis
+of tumor R N A (Dunn et al. 1988, 1989). Point mutations
+can be identified by enzymatic amplification and direct
+sequencing of genomic D N A (Yandell et al. 1989). All
+the mutations found so far show no preferential localization that would indicate a mutation hot spot in the gene.
+Therefore, it is necessary to screen all of the 27 exons
+and adjacent intronic sequences. To reduce the labor
+involved, we have simultaneously amplified different
+regions of the RB1 gene in a single polymerase chain
+reaction (multiplex PCR). The products can then be
+analyzed by high-resolution gel electrophoresis in order
+to detect small length alterations.
+
+50
+same conditions employing a single primer pair. Amplification
+from tumor D N A samples was carried out in a 50 gl reaction volume using 20 ~tl of the D N A solution and 40 PCR cycles.
+
+Materials and methods
+
+Patients
+Twenty-four unrelated patients with bilateral retinoblastoma were
+studied. Diagnosis of retinoblastoma was ascertained by standard
+histopathological criteria. Formalin-fixed paraffin-embedded material was available in one case.
+
+DNA isolation
+D N A was isolated from whole blood employing standard methods
+(Kunkel et al. 1977). D N A from formalin-fixed paraffin-embedded tissue was prepared as follows. Tumor tissue was scratched
+away from a single 5-gm-thick unstained section. The material was
+dewaxed with xylene, rinsed with ethanol and vacuum desiccated.
+The dried tissue was mixed with 100 gl sterile water and heat-denatured for 8 min at 98~ A sample of 20 lal of this preparation was
+sufficient for one amplification reaction.
+
+PCR amplification of DNA
+Amplification from whole blood D N A was performed in a total
+volume of 25 gl. The reaction mix contained 100 ng genomic DNA,
+20nmol each dNTP, 1.25 units Taq polymerase (Perkin Elmer,
+Norwalk, Conn.) and 10-20pmol of each amplification primer
+using standard buffer conditions (10 mM TRIS-HC1 pH 8.3, 50 mM
+KC1, 1.5 mM MgCI:, 0.001% (w/v) gelatin). Thermal cycling (denaturing for 1 min at 94~ annealing for 30s at 56-58~ and extension for 30 s at 72~ was performed on an automated thermocycler (Bio-med, Theres, FRG); 35 cycles were preceded by 4min
+at 94~ and followed by an additional 4rain at 72~ For screening, three seperate reactions were performed. In each reaction,
+three different regions of the RB1 gene sequence were amplified
+simultaneously (multiplex-PCR). Primers were chosen from the
+sequence reported by Friend et al. (1986) (Table 1). They were
+synthesized on a D N A synthesizer (Applied Biosystems 394 D N A /
+R N A Synthesizer) and had 5'-extensions containing EcoRI restriction sites. When required, simplex PCR was performed under the
+
+Table 1. Primer sets used for multiplex
+PCR. se, Sense primer; as, antisense primer
+
+Polyacrylamide gel electrophoresis
+An aliquot of the reaction mix (1/25) was electrophoresed at 10 V/
+cm on a 20 cm long, 0.75 mm thick, 10% polyacrylamide gel (Protean IIxi, Bio-Rad). After 20-36h, the D N A was visualized by
+silver-staining (Schumacher et al. 1983). Gels were washed and
+fixed twice for 6min in 10% ethanol, 0.5% acetic acid. They were
+transferred to a 0.2% AgNO3 staining solution and agitated for
+20 min. After washing several times in distilled water, the get was
+soaked in 1.5% NaOH, 0.4% formaldehyde (37%) and 0.01%
+NaBH4 for 7 min. To stop the developing process, the gels were
+transferred to a fixing solution (0.75% Na2CO3).
+
+Sequence analysis
+The amplified products were purified by agarose gel electrophoresis
+on 3% GTG NuSieve (FMC, Rockland, Me.), and recovered with
+a 0.45-1Jm filter unit (Ultrafree MC, Millipore, Yonezawa, Japan).
+The sequencing reaction was performed with Sequenase 2.0 (USB,
+Cleveland, Ohio) using a kinased PCR-primer (Casanova et al. 1990).
+For subcloning, amplification products were digested with EcoR1,
+purified by gel etectrophoresis in low melting agarose (GTG NuSieve,
+FMC, Rockland, Me.) and subcloned into pGEM4z. Plasmid DNA
+was recovered from cultures of single colonies. Sequencing was
+performed with c~-35SdATP using one of the amplification primers.
+
+Results
+T h e D N A f r o m p e r i p h e r a l b l o o d cells f r o m 24 u n r e l a t e d
+p a t i e n t s w h o h a d b i l a t e r a l r e t i n o b l a s t o m a b u t n o gross
+s t r u c t u r a l a l t e r a t i o n s o f t h e R B 1 g e n e was s t u d i e d by
+m u l t i p l e x P C R a n d p o l y a c r y l a m i d e gel e l e c t r o p h o r e s i s
+(PAGE)
+analysis. T h e a m p l i f i e d s e q u e n c e s c o v e r e d
+
+Multiplex
+reaction
+
+Primer a
+
+Sequence
+
+No. 1
+
+RB20se
+RB20as
+RB21se
+RB21as
+RB22se
+RB22as
+
+5'
+5'
+5'
+5'
+5'
+5'
+
+G C G A A T T C G G C T A A A T A C A C T T T G T G A 3'
+G C G A A T T C T C C A A A T G C C T G T C T C T C A T 3'
+C G G A A T T C A T G C A A A G T G A A G A A T A T A G 3'
+G C G A A T T C G C A T G A G G A A G A T C C T T G T A 3'
+G C G A A T T C G T G T T T T G A T C A A A G A A G A 3'
+G C G A A T T C G T G G A A G C A T A C T G C A A A A T 3'
+
+No. 2
+
+RB15se
+RB16as
+RBl7se
+RB17as
+RB19se
+RB19as
+
+5'
+5'
+5'
+5'
+5'
+5'
+
+G C G A A T T C C G A T T A T C C A T T C A A A A T T T 3'
+G C G A A T T C T G C T A T A T G T G G C C A T T A C A 3'
+GCGAATTCGAAGTACATCTCAGAATCTT 3'
+G C G A A T T C T G A G A G C C A T G C A A G G G A T T 3'
+G C G A A T T C G T A T C T T T C T C C T G T A A G A T 3'
+G C G A A T F C C A G T G A A A G A G A G G T A G ATT 3'
+
+No. 3
+
+RB3se
+RB3as
+RB8se
+RB8as
+RB23se
+RB23as
+
+5'
+5'
+5'
+5'
+5'
+5'
+
+GCG A A T T C G G A G G T T A T A T T C A A A A G A A 3'
+G C G A A T T C T G A T T T C G T A T G T T T T T C 3'
+G C G A A T T C A A A C A G C T G T T A T A C C C A T T 3'
+G C G A A T T C T C A T C T A T A T T A C A T T C A T 3'
+G C G A A T T C C C C C T A C C T T G T C A C C A A T 3'
+G C G A A T T C T T G A T C T T G G A G T C A T T T T 3'
+
+a Numbers designate the targeted exon
+
+51
+Table 2. Regions surveyed by multiplex
+
+PCR
+
+Multiplex
+reaction
+
+Surveyed regions a
+
+No. 1
+No. 2
+No. 3
+
+Exon 20 (2000 to 2081), exon 21 (2152 to 2181), exon 22 (2240 to 2300)
+Exon 16 (1418 to 1477), exon 17 (1517 to 1674), exon 19 (1834 to 1926)
+Exon 3 (284 to 362), exon 8 (736 to 842), exon 23 (2294 to 2422)
+
+a Enumeration of bases relative to the starting point of translation
+
+Fig. 1. PAGE of multiplex amplification of DNA from peripheral
+blood with multiplex primer set no. 2. Patient C.R. shows heterozygosity for a small deletion in the PCR product specific for exon 16
+(arrowhead). Lane 0 PCR without addition of DNA (negative
+control)
+
+Fig. 3. Pedigree of family R0 with retinoblastoma and result of
+PAGE analysis of simplex amplification of exon 16 of the RB1
+gene in DNA from peripheral blood. The patient (III-1, C.R.) is
+indicated by an arrow. All affected relatives and the "non-penetrant carrier" father (II-4) of the patient are heterozygous for the
+same deletion
+
+Fig. 4. Pedigree of family Fe with retinoblastoma and result of
+PAGE analysis of simplex amplification of exon 20 of the RB1
+gene in DNA from peripheral blood (lanes 1-4, from left) and
+tumor (Tu). The patient (11-2) is indicated by an arrow. The
+mother and the twin carry the same deletion. The tumor has only
+the mutated allele
+
+Fig. 2. Sequence analysis of the PCR product specific for exon 16
+(patient C.R.). The result is consistent with heterozygosity for a
+wild type sequence (wt) and a sequence with a 3-bp deletion (rout).
+Although the deletion is not in-frame the mutated allele codes for
+a protein that lacks an asparagine
+
+a b o u t 26% of the RB1 gene coding region. T h e primers
+used here had b e e n designed for the amplification of
+c D N A , and did not cover the splice junctions. The surv e y e d regions are listed in Table 2. In 3 out of 24 cases,
+we detected P C R products of a b e r r a n t length.
+
+Case 1, family R 6
+Analysis of patient C . R . with multiplex reaction no. 2
+indicated a small deletion in e x o n 16 of o n e RB1 allele
+
+(Fig. 1). Direct sequencing revealed a deletion of 3 bp.
+A l t h o u g h the deletion is not in-frame at the D N A level,
+it leads to the in-frame loss of amino acid A s n 4s~ (Fig. 2).
+Figure 3 shows the analysis of the patient's family with
+simplex amplification of exon 16. T h e affected grandfather (I-1) and his two affected children (11-2, I1-3)
+carry the same deletion. T h e patient's father (II-4), alt h o u g h free of retinoblastoma, also carries this deletion.
+As he transmitted the disease to his first child (III-1), he
+is a n o n - p e n e t r a n t carrier. His second child (111-2) does
+not have the deletion.
+
+Case 2, family Fe
+In this case multiplex P C R no. 1 indicated a small deletion in exon 20. The affected m o t h e r (I-2) and one of the
+twin sisters (II-1) have the same deletion (Fig. 4). Investigation of t u m o r material o b t a i n e d f r o m a single 5-~tmthick section of formalin-fixed and p a r a f f i n - e m b e d d e d
+tissue revealed the same deletion. T h e n o r m a l allele was
+not detected. Direct sequencing of the m u t a t e d allele revealed the presence of a 1-bp deletion leading to a new
+stop c o d o n 30 bp d o w n s t r e a m of the m u t a t i o n site.
+
+52
+Table 3. Summary of detected mutations, wt, Wild-type: mut,
+mutant sequence
+
+Mutation site
+Exon 16
+Fig. 5. Pedigree of family Be with retinoblastoma and result of
+PAGE analysis of simplex amplification of exon 23 of the RBI
+gene in DNA from peripheral blood. The patient (II-1, arrow)
+shows heterozygosity for a small deletion. Neither parent has a deletion-carrying allele
+
+Exon 20
+Exon 23
+
+Sequence a
+Asn 480
+wt AATGACAACATTTTT
+mut AATGACATTTTF
+Leu 683
+wt CCCTTTTCCAGCA
+mut CCCTTTCCAGCA
+Pro 793
+wt GTTTCCTAGTTCACCCTTACGGAT
+mut GTTTCCTTACGGAT
+
+a Direct repeats marked by underlining
+
+Case 3, family Be
+Investigation with multiplex P C R no. 3 indicated a deletion in exon 23. The deletion was not detected in the parents (Fig. 5). The P C R product was subcloned into
+pGEM4z. Nine individual clones were obtained. Four
+clones were sequenced. Two clones contained the wildtype sequence, whereas two showed a deletion of 10bp.
+
+Discussion
+
+Using multiplex P C R and high-resolution P A G E , we
+have been able to identify germline mutations in 3 out of
+24 patients with bilateral retinoblastoma.
+In case 1 (family R6), a deletion of 3 bp in exon 16
+leads to the elimination of Asn 48~in the protein. This deletion has not been found in other studies involving 150
+unrelated patients. Therefore, it is unlikely that this
+deletion is a neutral genetic polymorphism. The deleted
+amino acid is part of a region known to interact with the
+SV40 T antigen (Huang et al. 1990). However, the function of Asn 48~ in the action of RB1 is unknown. The
+patient's family was only partly informative for intragenic polymorphisms (not shown). In particular, the patient's father was homozygous for all available markers,
+and prediction testing of the patient's brother was not
+possible. By simplex amplification and P A G E analysis,
+the deletion was detectable in all affected relatives and
+the patient's father. The patient's brother did not inherit
+the deletion and hence does not have an increased risk of
+developing retinoblastoma. This prediction would also
+be correct if the deletion were a neutral polymorphism
+marking a mutated allele.
+In the second family (family Fe), a 1-bp deletion in
+exon 20 was detected in all affected individuals. This
+mutation generates a new stop codon 30 bp downstream
+from the mutation site. This mutation was reduced to
+hemi- or homozygosity in the tumor tissue investigated.
+This result demonstrates that formalin-fixed paraffin-embedded tissues also can be used for this form of analysis.
+The third patient (family Be) has a 10-bp deletion in
+exon 23 leading to a frame shift with a consequent disruption of the primary protein structure. Neither parent
+shows this alteration. Therefore, this mutation is a de
+novo germline mutation. Unless one of the parents has a
+germline mosaicism, the recurrence risk in another child
+will not be increased.
+
+All mutations described here are part of, or flanked
+by, short direct repeats (Table 3). As a consequence, it
+is impossible to define which of the repeated motifs is
+deleted. Short direct repeats have also been described
+at the breakpoints of large deletions at the RB1 locus
+(Canning and Dryja 1989; Gregor et al. 1990; Hashimoto et al. 1991). Until now, this has not been reported
+for small deletions at this locus. However, a 3-bp direct
+repeat is present at the breakpoints of a 10-bp deletion
+(case RB543) reported by D u n n et al, (1989). Recently,
+the occurrence of distinctive sequence patterns in the
+vicinity of short ( < 20 bp) deletions in different genetic
+loci has been investigated (Krawczak and Cooper 1991).
+In all but one of the 60 deletions analyzed, direct repeats
+of between 2 bp and 8 bp were present.
+The goal of the study presented here was to examine
+the value of multiplex P C R for the detection of mutations at the RB1 locus. By surveying 26% of the RB1
+open reading frame, we detected germline mutations in
+3 out of 24 cases. F u r t h e r m o r e , the results presented
+here demonstrate the use of this approach for the identification of gene carriers among relatives, for the uncovering of non-penetrance, and for the detection of
+de novo germline mutations. The mutation may even be
+determined in material obtained from histopathological
+specimens. We are currently testing primers that also
+allow the amplification of splice junctions. Multiplex
+P C R and high-resolution gel electrophoresis may be a
+useful approach for the rapid detection of small RB1
+mutations.
+
+Acknowledgements. This study was supported by the European
+Community, Contract No. BI-7-0002-C.B.H. and G.G.-K. are
+supported by grants from the Deutsche Krebshilfe and the Deutsche Forschungsgemeinschaft (B.H.). We wish to thank Professor
+E. Passarge for continous support.
+
+References
+
+Buchkovich K, Duffy LA, Harlow E (1989) The retinoblastoma
+protein is phosphorylated during specific phases of the cell
+cycle. Cell 58:1097-1105
+Canning S, Dryja TP (1989) Short, direct repeats at the breakpoints of deletions of the retinoblastoma gene. Proc Natl Acad
+Sci USA 86 : 5044-5048
+
+53
+Casanova J-L, Pannetier C, Jaulin C, Kourilsky P (1990) Optimal
+conditions for directly sequencing double-stranded PCR products with Sequenase. Nucleic Acids Res 18:4028
+Cavenee WK, Dryja TP, Phillips RA, Benedict WF, Godbout R,
+Gallic BL, Murphree AL, et al (1983) Expression of recessive
+alleles by chromosomal mechanisms in retinoblastoma. Nature
+305 : 779-784
+DeCaprio JA, Ludlow JW, Lynch D, Furukawa Y, Griffin J, Piwnica WH, Huang CM, et al (1989) The product of the retinoblastoma susceptibility gene has properties of a cell cycle regulatory element. Cell 58 : 1085-1095
+Dunn JM, Phillips RA, Becker AJ, Gallic BL (1988) Identification
+of germline and somatic mutations affecting the retinoblastoma gene. Science 241 : 1797-1800
+Dunn JM, Phillips RA, Zhu X, Becker A, Gallic BL (1989) Mutations in the RB1 gene and their effects on transcription. Mol
+Cell Biol 9 : 4596-4604
+Friend SH, Bernards R, Rogelj S, Weinberg RA, Rapaport JM,
+Albert DM, Dryja TP (1986) A human DNA segment with
+properties of the gene that predisposes to retinoblastoma and
+osteosarcoma. Nature 323 : 643-646
+Fung YK, Murphree AL, T'Ang A, Qian J, Hinrichs SH, Benedict
+WF (1987) Structural evidence for the authenticity of the
+human retinoblastoma gene. Science 236: 1657-1661
+Goddard AD, Balakier H, Canton M, Dunn J, Squire J, Reyes E,
+Becker A, et al (1988) Infrequent genomic rearrangement and
+normal expression of the putative RB1 gene in retinoblastoma
+tumors. Mol Cell Biol 8: 2082-2088
+Goddard AD, Phillips RA, Greger V, Passarge E, Hopping W,
+Zhu XP, Gallic BL, et al (1990) Use of the RB1 cDNA as a
+diagnostic probe in retinoblastoma families. Clin Genet 37:
+117-126
+Greger V, Passarge E, Horsthemke B (1990) Somatic mosaicism in
+a patient with bilateral retinoblastoma. Am J Hum Genet 46"
+1187-1193
+Hashimoto T, Takahashi R, Yandell DW, Xu HJ, Hu SX, Gunnell
+S, Benedict WF (1991) Characterization of two intragenic deletions in two sporadic germinal mutation cases of retinoblastoma resulting in abnormal gene expression. Oncogene 6: 463469
+
+Huang S, Wang NP, Tseng BY, Lee WH, Lee EH (1990) Two distinct and frequently mutated regions of retinoblastoma protein
+are required for binding to SV40T antigen. EMBO J 9 : 18151822
+Kloss K, W~ihrisch P, Greger V, Messmer E, Fritze H, HOpping
+W, Passarge E, et al (1991) Characterization of deletions at the
+retinoblastoma locus in patients with bilateral retinoblastoma.
+Am J Med Genet 39 : 196-200
+Krawczak M, Cooper DN (1991) Gene deletions causing human
+genetic disease: mechanisms of mutagenesis and the role of the
+local DNA sequence environment. Hum Genet 86: 425-441
+Kunkel LM, Smith KD, Boyer SH, Borgaonkor DS, Wachtel SS,
+Miller OJ, Breg WR, et al (1977) Analysis of human Y-chromosome-specific reiterated DNA in chromosome variants.
+Proc Natl Acad Sci USA 74:1245-1249
+Lee WH, Bookstein R, Hong F, Young LJ, Shew JY, Lee EY
+(1987) Human retinoblastoma susceptibility gene: cloning,
+identification, and sequence. Science 235 : 1394-1399
+Scheffer H, Te Meerman GJ, Kruize YCM, Van den Berg AHM,
+Penninga DP, Tan KEWP, Der Kinderen D J, et al (1989)
+Linkage analysis of families with hereditary retinoblastoma:
+nonpenetrance of mutation, revealed by combined use of
+markers within and flanking the RB1 gene. Am J Hum Genet
+45 : 252-260
+Schumacher J, Randles JW, Riesner D (1983) A two-dimensional
+electrophoretic technique for the detection of circular viroids
+and virusoids. Anal Biochem 135 : 288-295
+Vogel F (1979) Genetics of retinoblastoma. Hum Genet 52 : 1-54
+Wiggs J, Nordenskjr M, Yandell D, Rapaport J, Grondin V,
+Janson M, Werelius B, et al (1988) Prediction of the risk of
+hereditary retinoblastoma, using DNA polymorphisms within
+the retinoblastoma gene. N Engl J Med 318 : 151-157
+Yandell DW, Dryja TP (1989) Detection of DNA sequence polymorphisms by enzymatic amplification and direct genomic
+sequencing. Am J Hum Genet 45 : 547-555
+Yandell DW, Campbell TA, Dayton SH, Peterson R, Walton D,
+Little JB, McConkie RA, et al (1989) Oncogenic point mutations in the human retinoblastoma gene: their application to
+genetic counseling. N Engl J Med 321 : 1689-1695
+
+

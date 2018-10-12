@@ -1,0 +1,618 @@
+Hemoglobin
+international journal for hemoglobin research
+
+ISSN: 0363-0269 (Print) 1532-432X (Online) Journal homepage: http://www.tandfonline.com/loi/ihem20
+
+Polymerization and Solubility of Recombinant
+6VAL
+6LEU
+Hemoglobins α2β2
+(HB S) and α2β2
+(HB LEU)
+K. Adachi, E. Rappaport, H. S. Eck, P. Konitzer, J. Kim & S. Surrey
+To cite this article: K. Adachi, E. Rappaport, H. S. Eck, P. Konitzer, J. Kim & S. Surrey (1991)
+6VAL
+
+6LEU
+
+Polymerization and Solubility of Recombinant Hemoglobins α2β2
+(HB S) and α2β2
+LEU), Hemoglobin, 15:5, 417-430, DOI: 10.3109/03630269108998861
+To link to this article: https://doi.org/10.3109/03630269108998861
+
+Published online: 07 Jul 2009.
+
+Submit your article to this journal
+
+Article views: 4
+
+Citing articles: 5 View citing articles
+
+Full Terms & Conditions of access and use can be found at
+http://www.tandfonline.com/action/journalInformation?journalCode=ihem20
+
+(HB
+
+HEMOGLOBIN, 1 5 ( 5 ) , 417-430 ( 1 9 9 1 )
+
+POLYMERIZATION AND SOLUBILITY
+OF RECOMBINANT HEMOGLOBINS a2P26"AL (HB S)
+AND a 2 P 2 6 L E U (HB LEU)
+
+K. Adachi, E. Rappaport, H. S. Eck,
+P. Konitzer, J. Kim and S. Surrey
+
+The Children's Hospital of Philadelphia, Division of Hematology,
+University of Pennsylvania School of Medicine
+Philadelphia, PA
+
+19104, USA
+
+ABSTRACT
+In an effort to clarify the role of amino acid hydrophobicity at the p6
+position in sickling we have made recombinant hemoglobin tetramers
+containing p6 Val (Hb S) and p6 Leu (Hb Leu). Recombinant Hb S and Hb
+Leu had the same electrophoretic mobility, chromatographic behavior, and
+absorption spectrum. The deoxy form of both tetramers polymerized in
+high phosphate buffer (1.8 M) and exhibited distinct delay times prior to
+polymerization. The kinetics of polymerization.for recombinant and native
+Hb S were similar, while recombinant Hb Leu polymerized more readily.
+The solubility of deoxy Hb Leu was less than deoxy Hb S, indicating that
+rapid polymerization and decreased solubility of deoxyhemoglobin is
+accelerated with increasing hydrophobicity at the p6 position.
+
+Rcceivcd
+
+:
+
+Dccembm 1 2 , 1 9 9 0 .
+
+AcceptEd : Junc 20, 1 9 9 1 .
+
+41 7
+Copyright
+
+0 1991 by Marcel Dekker, Inc.
+
+418
+
+ADACHI E T A L .
+
+JNTRODUCTION
+Sickle cell disease is caused by an A to T change at the codon for the
+sixth amino acid (GAG to GTG) of P-globin, and results in the insertion of
+valine instead of glutamic acid at the p6 position. This change results in
+decreased solubility of deoxygenated Hb S, and causes polymerization
+which leads to the formation of an extensive network of fibers in red blood
+
+cells. The cells sickle, lose their deformability and often get clogged in
+blood vessels, which may lead to hemolysis and vaso-occlusive crises in
+patients with this disease. However, the relationship between amino acid
+substitution at the p6 position and the detailed mechanism of
+polymerization is not clear.
+The use of site-specific mutagenesis is a powerful approach to
+understanding the relationships between protein structure and function.
+Nagai et al used the expression vector pLcllFXp to produce several
+modified human hemoglobins (Hbs) for X-ray, nuclear magnetic
+resonance (NMR), and functional studies (1,2,3,4,5).
+Oxygen-binding
+properties of these recombinant Hbs were essentially the same as those
+of native human Hb. Furthermore, analysis of the differential map from Xray studies indicated that the recombinant tetramers were structurally
+identical to native Hb except for small local differences near the site of the
+mutation. These results indicate that the recombinant globin chains can
+be correctly refolded and reconstituted into functional Hb tetramers. Using
+this method, we have engineered P6 Val- and p6 Leu-containing Hbs in
+an effort to clarify the role of amino acid hydrophobicity and side chain
+structure at the p6 position in polymerization of deoxy Hb S.
+
+R F C O M B I N A N T HEMOGLODTNS ~b
+
+s
+
+ANII i i t r i A t u
+
+419
+
+METHODS
+The pLcllFXp-globin expression vector directs synthesis of a hybrid
+protein containing 31 amino terminal residues of the cll protein from
+lambda phage fused to a Factor Xa cleavage site (Ile-Glu-Gly-Arg) linked
+in frame to human p-globin. Fusion protein is isolated from E. coli and
+cleaved with Factor Xa, resulting in liberation of authentic p-globin which
+is then assembled into Hb tetramers (2).
+For mutagenesis, the expression vector pLcllFXp was digested with
+Sac I and Hind Ill, and the approximately 1 kb insert was subcloned into
+M13mp18.
+
+The 6th amino acid codon of the p-globin cDNA was
+
+mutagenized from GAG (glutamic acid) to GTG (valine - Hb S) or CTG
+(leucine - Hb Leu) employing synthetic oligonucleotide primers and an
+Amersham mutagenesis kit (6). The constructs were verified by DNA
+sequence analysis of single-stranded mutagenized cDNA employing the
+dideoxy chain termination technique (7). Following sequence verification,
+the Sac I/Hind Ill fragment was subcloned back into the expression vector.
+Cultures of E. coli (M5219) containing each expression vector were
+grown overnight and fusion proteins were isolated.
+
+Production of fusion
+
+protein was initially accomplished by induction with a temperature shift
+(3OOC => 42OC) to inactivate the temperature-sensitive lambda repressor;
+however, our more recent studies show constitutive expression of the
+fusion protein at 3OOC. Cells from overnight growths at 30OC were lysed,
+treated with DNase I, and soluble proteins removed by centrifugation (2).
+After 3-5 washes with 0.5% (v/v) Triton X-100, the resulting pellet was
+dissolved in 8 M urea/50 mM Tris buffer, and purified by ion-exchange
+chromatography (CM-Sepharose).
+
+The partially-purified fusion protein
+
+420
+
+A D A C H I ET A L .
+
+was dialyzed against distilled water, lyophilized, solubilized in 1Yo (v/v)
+formic acid, and further purified on a Sephacryl $200 column (3 x 100
+cm) equilibrated in 1% (v/v) formic acid/l mM DTT. Cleavage of fusion
+protein with activated Factor Xa (Boehringer Mannheirn, Indianapolis, IN)
+results in liberation of authentic p-globin.
+
+Confirmation of N-terminal
+
+protein sequence for recombinant p6 Val and p6 Leu globins was
+accomplished by Edman degradation employing an automatic protein
+microsequencer (ABI 477A pulsed-liquid protein sequencer, Applied
+Biosysterns, Inc., Foster City, CA).
+Tetrameric Hbs were directly reconstituted in cleavage buffer (8)
+following addition of cyanoheme and native a-globin chains in the CO
+form to the recombinant p-globin chains. Reconstituted Hb was reduced
+with sodium dithionite under an atmosphere of CO gas, and then purified
+by CM-52 ion exchange chromatography (2).
+
+The recombinant Hb
+
+tetramers were further purified on a Mono S column (Pharmacia, Uppsala,
+Sweden).
+
+Hb concentration was determined spectrophotometrically using
+millimolar extinction coefficients of 12.5 at 555 nm and 13.5 at 541 nm for
+monomeric
+
+deoxy and oxy Hb, respectively (9).
+
+Kinetic studies of
+
+polymerization of deoxy Hbs were performed using the turbidirnetric
+method in 1.8 M phosphate buffer as described elsewhere (10). Hb
+solubility was determined by measurement of soluble Hb concentration
+after removal of polymers by filtration through a 0.45 pm membrane filter
+(Millipore Co., Bedford, MA) (11).
+
+1
+Cultures of E. coli (M5219) containing each expression vector were
+grown at 3OoC overnight and fusion proteins were isolated.
+
+Various
+
+RECOMBINANT HEMOGLOBINS Hb S
+
+ANli
+
+t l t ) LEU
+
+42 1
+
+stages in the purification of the recombinant P-globin are depicted in Fig.
+1.
+
+Following lysis, DNAse treatment, and washes with Triton X-100 as
+
+described in Methods, the resulting pellet was purified by ion exchange
+chromatography (Fig. 1, lane 2). The partially-purified fusion protein was
+further purified on a Sephacryl 5-200 column (Fig. 1, lane 3) and cleaved
+with activated Factor Xa, resulting in liberation of authentic P-globin (Fig.
+1, lane 4).
+
+The overall yield of recombinant tetrameric Hbs after reconstitution and
+purification was approximately
+
+The recombinant Hb S and Hb Leu
+
+tetramers had the same electrophoretic mobility as normal Hb S on
+cellulose acetate electrophoresis (Fig. 2), and their absorption spectrum
+showed typical characteristics of carbonmonoxy Hb.
+Polymerization of deoxy Hb S both in vitro and in red blood cells is
+characterized by a delay time during which nuclei form and promote
+polymer formation (1 2,13,14). Hb polymerization can be studied in vitro
+employing high concentrations of phosphate buffer (10). High phosphate
+buffer concentrations (1.8 M) are used since Hb solubility is greatly
+reduced, facilitating polymerization at low Hb concentrations (10). For
+example, the concentration of deoxy Hb S required for polymerization in
+1.8 M phosphate buffer
+
+is about 300 times lower than that in 0.1 M
+
+phosphate buffer (10). Hence, the kinetics of polymer formation of modified
+recombinant tetramers can be readily analyzed using very small amounts
+
+of Hb.
+The kinetics of polymerization in 1.8
+
+M phosphate buffer for native and
+
+recombinant Hb S were similar. Each exhibited a distinct delay time prior
+to polymer formation, which varied inversely as a function of Hb
+
+concentration (Fig. 3).
+
+The data points at higher Hb concentrations
+
+M l
+
+2
+
+30
+4.
+
+2 1.5*
+14.
+
+I
+
+M 1 2
+200
+92
+69
+46
+
+30
+2 1.5
+14.3
+
+3
+
+4
+
+R E C O M B I N A N T HEMOGLOBINS tlb S A N D tlb L E U
+
+423
+
+showed that both recombinant and native Hb S tetramers exhibited
+identical polmerization kinetics as a function of Hb concentration.
+Recombinant Hb S did, however, demonstrate a longer delay time prior to
+polymerization compared with native Hb S at the lowest Hb concentration
+studied.
+
+This difference could reflect the presence of improperly or
+
+incompletely folded recombinant tetramers; however, further studies are
+required to clarify this observation. Recombinant deoxy Hb S polymers
+also depolymerized when the temperature was decreased to Oo C (data not
+shown), just like native deoxy Hb S (10).
+Deoxy Hb Leu
+
+also polymerized in vitro with a distinct delay time
+
+which was inversely proportional to Hb concentration, just like native and
+recombinant Hb S (Fig. 4). The relationship between delay time and Hb
+concentration is plotted as the log of one over the delay time versus the
+log of Hb concentration (Fig. 3). Interestingly, the line for recombinant Hb
+Leu was shifted to the left of that for native and recombinant Hb S,
+indicating that Hb Leu polymerized more readily than Hb S at comparable
+Hb concentrations. These data indicate that polymerization of deoxy Hb
+
+FIGURE 1
+SDS-polyacrylamide gel analysis of cllFXp-globin fusion protein
+expression, purification and cleavage. Inclusion body pellet after removal
+of soluble bacterial proteins-is shown in lane 1. Purification of cllFXpglobin is shown after CM-52 column chromatography (lane 2) followed by
+gel filtration on a Sephacryl S-200 column in 1% ( v h ) formic acid/l mM
+DTT (lane 3). Factor Xa-induced cleavage of cllFXp-globin (Boehringer
+Mannheim, 0.25 units/mg for 5 days at 4OC) is shown in lane 4 with
+position of albumin stabilizer in commercial Factor Xa (A), uncleaved
+cllFXp-globin (B), p globin (C) and cllFX (D) also indicated by arrows on
+the right. Size in kilodaltons is indicated for molecular weight markers in
+lane M on the left.
+
+ADACHI E T A L .
+
+4 24
+
+2
+A
+
+S
+FIGURE 2
+
+Cellulose acetate electrophoresis of recombinant Hb S and Hb Leu
+tetramers in the CO form. A mixture of native Hb tetramers (Hb A and Hb S;
+lane 1, A and S, respectively) is compared to purified recombinant Hb S
+(lane 2 ) and recombinant Hb Leu (lane 3).
+
+molecules is not specific for valine at the p6 position, since insertion of
+leucine slightly accelerated polymer formation in vitro.
+The solubilities of the oxy and deoxy forms of Hb S, as well as
+recombinant Hb S and recombinant Hb Leu, were compared to those of
+Hb A (p6 Glu) and the two naturally-occurring
+
+p
+
+( p 6 Lys) and Hb Machida (p6 Gln) (11).
+
+Hb solubility is inversely
+
+chain Hb variants Hb C
+
+proportional to phosphate buffer concentration (1 0,15), and is readily
+
+42 5
+
+RECOMBINANT HEMOGLOBINS H b S ANI, t l b LEU
+
+I
+
+I
+
+I
+
+-1.0
+
+-
+
+n
+
+-E
+
+‘C
+Y
+
+r
+
+I
+
+0
+
+-1.5
+0
+
+0
+
+-2.c
+
+FIGURE 3
+Relationship between log of reciprocal delay time and Hb concentration
+for native Hb S, recombinant Hb S and recombinant Hb Leu.
+Polymerization studies were performed at 30OC in 1.8 M phosphate buffer
+pH 7.4 by the temperature jump method for the deoxy-form of native Hb S
+recombinant Hb S ( 0 )
+and recombinant Hb Leu ( A).
+
+(a),
+
+426
+
+ADACHI E'r A L .
+
+0.5
+0
+0
+h
+
+4
+
+0
+Time (min)
+
+FIGURE 4
+Polymerization of recombinant deoxy Hb Leu. Time course for
+polymerization of deoxy Hb Leu at two different Hb concentrations [88
+mg/dl in (A) and 60 mg/dl in (B)] in 1.8 M phosphate buffer, pH 7.4 at 30%.
+
+measured from the amount of Hb remaining in solution after completion of
+polymerization in 1.8 M phosphate buffer, pH 7.4 at 3OoC (Fig. 5A).
+The solubility of recombinant Hb S was slightly higher than that of
+native deoxy Hb S, while the solubility of Hb Leu was lower than that of
+native and recombinant deoxy Hb S. The log of the solubility for deoxy
+Hbs A , C and Machida was linearly related to the amino acid
+hydrophobicity at the p6 position as determined by calculation of transfer
+energy from water to organic solvents (16).
+
+There was an abrupt
+
+decrease in solubility for the deoxy forms of Hb S and Hb Leu which
+contain more hydrophobic amino acid residues at the p6 position (Fig.
+5A). Solubilities of the oxy form of native and recombinant Hb S were also
+
+A
+
+n
+
+0
+
+-2
+
+1
+
+K E
+
+v r
+
+Q
+1
+
+v v
+
+2
+0
+-2
+Hydrophobicity of
+
+Q
+
+K E
+
+VL
+
+1
+
+1
+
+1
+1
+
+I
+
+2
+
+0
+
+I 1
+vL.
+-2
+
+Amino A c i d ( k c a l / m o l )
+
+FIGURE
+
+5
+
+Relationship between amino acid hydrophobicity at the p6 position and
+tetramer solubility. Solubilities after polymerization were measured as
+described (1 1) for the deoxy (panel A ) and oxy (panel 8 ) forms of a variety
+of naturally-occurring p6 variant Hbs [Hb S (p6 Val)
+, Hb C (p6 Lys) A ,
+and Hb Machida (p6 Gln) 01,recombinant Hbs [Hb S (p6 Val) A ,and Hb
+Leu (p6 Leu).],
+and native Hb A ( 0 ) . The solubilities of the deoxy and
+oxy Hbs were measured at 3OoC in 1.8 M and 2.3 M phosphate buffers, pH
+7.4, respectively. Values for solubilities of Hbs A , C, and Machida were
+previously described (1 l ) , while values for p6 amino acid hydrophobicity
+were assigned as described (16). Solubility of oxygenated forms of
+recombinant ( A )
+and native (
+Hb S were identical and are not
+distinguished on graph in panel B. Single-letter designations for p6 amino
+acids are included on X-axis of graph.
+
+e)
+
+higher than that of the oxy form of Hb Leu in 2.3 M phosphate buffer at
+30OC (Fig. 58). The log of the solubility decreased linearly with increasing
+
+amino acid hydrophobicity at the (16 position, suggesting a simple "saltingout" phenomenon in the oxy form (1 7)
+
+1
+
+428
+
+A D A C H I ET A L .
+
+We previously hypothesized that the low solubility of deoxy Hb S could
+be attributed to strong intermolecular hydrophobic associations caused
+by cooperative stereospecific protein-protein interactions between p6 Val
+on one molecule and the U-shaped EF helix region on another (1 1). We
+also proposed that this interaction could be enhanced by more
+hydrophobic amino acids at the p6 position when Hb molecules were in
+the deoxy form (1 1). Intermolecular interaction of p6 Val with p85 Phe and
+
+p88 Leu was previously suggested from X-ray crystallographic analysis of
+deoxy Hb S (18), although studies with Hbs A , S, and C have suggested
+that substitutions at the p6 position do not lead to dramatic changes in the
+crystal structure of the deoxy form (1 9, 20).
+The degree of hydrophobicity of the p6 amino acid, in addition to its
+shape, size and position of side chains in the molecule may determine the
+strength of the interaction with neighboring tetramers. Our previous (1 1)
+and present studies on the solubility of various mutants indicate that the
+extent of this interaction in the deoxy form varies discontinuously when
+comparing hydrophobic and hydrophilic amino acids at the p6 position
+(see Fig. 5).
+Most recently Baudin-Chich et al (21) reported that the recombinant
+Hb tetramer ct2P,611e
+
+polymerized in vitro more readily and exhibited
+
+decreased solubility in 1 . 8 M phosphate buffer compared to native Hb S .
+The results reported for that mutant Hb are very similar to those we have
+reported here for Hb Leu. However, more detailed studies comparing the
+properties of p611e - and p6Leu
+
+-
+
+containing tetramers are now required.
+
+Val, Leu, and Ile at the p6 position all facilitate polymerization and their
+corresponding tetramers have lower than expected solubilities in the
+deoxy form based on comparison with tetramers containing more
+
+RECOMBINANT HEMOGLOBINS Hb S A N D H b LEU
+
+429
+
+hydrophiiic replacements at the p6 position. Our present solubility results
+of recombinant deoxy and oxy Hb Leu and the recent results using
+recombinant deoxy Hb He (a2p2611e) (21) further support this notion, since
+substitution of Leu or He for Val might be expected to enhance
+intermolecular hydrophobic interactions. Thus, these protein-protein
+interactions would also depend on the tertiary and quaternary structural
+configuration in the deoxy-form. Nonpolar regions in deoxy Hb molecules
+would then associate cooperatively with the hydrophobic acceptor pocket
+of an adjoining molecule, and thereby accelerate polymer formation
+resulting in decreased solubility. Once oxygen binds to deoxy Hb, the
+molecule undergoes a conformational change from the T (Tense) to the R
+(Relaxed) state which would result in disruption of these proposed
+cooperative hydrophobic interactions (18).
+
+ACKNOWLEDGE MENTS
+We wish to thank Dr. Kiyoshi Nagai for sending the pLcllFXp-globin
+expression plasmid, Janet Fithian for editorial assistance and Sharon
+Formanek for help in typing this manuscript. We also thank Drs. Elias
+Schwartz and Toshio Asakura for their critical review of this manuscript.
+This research was supported by grants HL32908 and HL38632
+(Comprehensive Sickle Cell Center) from the National Institutes of Health.
+REFERENCES
+1. Nagai, K. and Thogersen, H.C., Nature, 309:810, 1984.
+2. Nagai, K., Perutz, M.F., and Poyart, C., Proc. Natl. Acad. Sci.
+USA, 82:7252, 1985.
+3. Luisi, B. and Nagai, K., Nature, 320555, 1986.
+4. Nagai, K., Luisi, B., Shin, D., Miyazaki, G., Imai, K., Poyart, C.,
+DeYoung, A., Kwiatkowsky, L., Nabel, R.W., Lin, S-H., and Yu, N-T.,
+Nature, 329:858, 1988.
+
+430
+
+A D A C H I ET A L .
+
+5. Ishimori, K., Morishima, I., Imai, K., Fushitani, K., Miyazaki, G., Shih,
+D., Tame, J., Pegnier, J., and Nagai, K., J. Biol. Chem., 264:14624,
+1989.
+6. Taylor, J.W., Ott, J., and Eckstein, F., Nucleic Acids Res., 13:8764,
+1985.
+7. Sanger, F., Nicklen, S., and Coulson, A.R., Proc. Natl. Acad. Sci.
+USA, 74:5463, 1977.
+8. Nambiar, K.P., Stackhouse, J., Presnell, S.R., and Benner, S.A., Eur.
+J. Biochem., 163:67,1987.
+9. Antonini, E. and Brunori, M., in Frontiers of Bioloay, edited by A.
+Neuberger and E.L. Tatum, Vol. 21, page 19, North Holland
+Publishing Company., Amsterdam, 1971.
+10. Adachi, K. and Asakura, T., J. Biol. Chem. 254:7765, 1979.
+11. Adachi, K., Kim, J., Travitz, R., Harano,T., and Asakura, T., J. Biol.
+Chem., 262:12920, 1987.
+12. Hofrichter, J., Ross, R.D., and Eaton, W.A., Proc. Natl. Acad. Sci.
+USA, 71: 4864, 1974.
+13. Ferrone, F.A., Hofrichter, J., Sunshine, H.K., and Eaton, W.A.,
+Biophys. J., 32:361, 1980.
+14. Mozzarelli, A., Hofrichter, J. and Eaton, W.A., Science, 237:500,
+1987.
+15. Perutz, M.F. and Mitchison, J.M., Nature, 166:677,1950.
+16. Hopp, T.P. and Woods, K.R., Proc. Natl. Acad. Sci. USA 78:3824,
+1981.
+17. Adachi , K. and Asakura, T., J. Biol. Chem., 257:5738, 1982.
+18. Wishmer, B.C., Ward, K.B., Lattman, E.E., and Love, W.E., J. Mol.
+Biol., 98:179, 1975.
+19. Padlan, E.A. and Love, W.E., J. Biol. Chem., 260:8272, 1986.
+20. Padlan, E.A. and Love, W.E., J. Biol. Chem., 260:8280, 1986.
+21. Baudin-Chich,V., Pagnier, J., Marden, M., Bohn, B., Lacaze, N.,
+Kister, J., Schaad, O., Edelstein, S.J., and Poyart, C., Proc. Natl.
+Acad. Sci. USA, 87:1845, 1990.
+
+

@@ -1,0 +1,814 @@
+Volume 15 Number 14 1987
+
+Nucleic Acids Research
+
+GT to AT transition at a splice donor site causes skipping of the preceding exon in
+Phenylketonuria
+
+J.Marvit, A.G.DiLellal, K.Brayton2, F.D.Ledley, K.J.H.Robson3 and S.L.C.Woo
+Howard Hughes Medical Institute, Department of Cell Biology and Institute of Molecular Genetics,
+Baylor College of Medicine, One Baylor Plaza, Houston, TX 77030, USA
+Received April 28, 1987; Revised and Accepted June 12, 1987
+ABSTRACT
+
+Classical Phenylketonuria (PKU) is an autosomal recessive human
+genetic disorder caused by a deficiency of hepatic phenylalanine
+hydroxylase (PAH). We isolated several mutant PAH cDNA clones from a PKU
+carrier individual and showed that they contained an internal 116 base pair
+deletion, corresponding precisely to exon 12 of the human chromosomal PAH
+gene. The deletion causes the synthesis of a truncated protein lacking the
+C-terminal 52 amino acids. Gene transfer and expression studies using the
+mutant PAH cDNA indicated that the deletion abolishes PAH activity in the
+cell as a result of protein instability. To determine the molecular basis
+of the deletion, the mutant chromosomal PAH gene was isolated from this
+individual and shown to contain a GT-->AT substitution at the 5' splice
+donor site of intron 12. Thus, the consequence of the splice donor site
+mutation in the human liver is the skipping of the preceding exon during
+RNA splicing.
+INTRODUCTION
+
+Classical Phenylketonuria (PKU) is an autosomal recessive human genetic
+disorder caused by a deficiency of hepatic phenylalanine hydroxylase (PAH,
+phenylalanine 4--monooxygenase, EC 1.14.16.1). In the normal human liver, PAH
+catalyzes the hydroxylation of phenylalanine to tyrosine. Absence of PAH
+activity causes an accumulation of serum phenylalanine, resulting in
+hyperphenylalaninemia and a depletion of its normal catabolites. Without
+detection at birth followed by rigid implementation of a restricted synthetic
+diet low in phenylalanine, the abnormalities associated with phenylalanine
+metabolism in PKU patients will cause postnatal brain damage and severe mental
+retardation. PKU is the most common inborn error in amino acid metabolism.
+Its incidence among Caucasians is about 1:10,000, and the mutant gene
+frequency predicts that I in 50 individuals is a carrier of the disease trait
+(for reviews, see ref. 1,2).
+To understand the molecular basis of PKU, we previously isolated PAH cDNA
+clones from two independent human liver cDNA libraries (3, 4). The original
+
+© I RL Press Limited, Oxford, England.
+
+561 3
+
+Nucleic Acids Research
+liver cDNA library was constructed in pBR322 (5) and provided several
+partial-length PAH cDNA clones (3) representing the 3'-half of PAH mRNA. The
+second cDNA library was constructed in Xgtll from a different liver source,
+from which a full-length 2.4 kb PAH cDNA (phPAH247) was obtained (4). Clone
+phPAH247 has been sequenced (4) and shown to code for enzymatically active PAH
+upon transfection into manmalian cells (6).
+When we characterized the
+partial-length human PAH cDNA clones from the original library by restriction
+mapping and sequence analysis, normal and mutant clones were identified. The
+normal cDNA was comparable to hPAH247 and contained a 588 bp HindIll fragment
+in the peptide coding region, while the mutant cDNA contained an internal 472
+bp HindIII fragment instead. In this paper we report that this fragment size
+difference in the mutant cDNA resulted from a deletion of the entire exon 12
+sequence (coding for amino acids #401-438 of PAH) during mRNA processing.
+This deletion results in a frameshift mutation that abolishes PAH stability
+and enzymatic activity. The presence of normal and mutant PAH mRNAs in the
+liver of the "apparently normal" individual used in this study demonstrated
+that this individual was a PKU carrier.
+The molecular cloning and
+characterization of the corresponding mutant chromosomal PAH gene demonstrated
+a GT-->AT transition at the 5'-donor splice site of intron 12, which is
+identical to the one we recently reported for the most prevalent PKU allele
+among Caucasians of Northern European decent (7). The cloning of a mutant PAH
+cDNA from a PKU carrier in this report enabled us to show that the intron 12
+splice donor site mutation in PKU results in skipping of exon 12 during mRNA
+processing in vivo.
+MATERIALS AND METHODS
+Enzymes and Reapents
+Restriction endonucleases and T4 DNA ligase were purchased from New
+England Biolabs. Escherichia coli DNA polymerase I (Klenow fragment) was
+purchased from Boehringer Mannheim. T4 polynucleotide kinase and the M13
+cloning/sequencing kit was obtained from PL Biochemicals.
+[1- S]dATP
+(65OCi/mmol) for sequencing and [ C] phenylalanine (600 Ci/mmol) for PAH
+activity assays were purchased from Amersham Corporation, and 1Y P]ATP
+(7000 Ci/mmol, crude fraction) was purchased from ICN.
+Isolation and Characterization of Human PAH cDNA Clones
+We previously constructed a human liver cDNA library (comprised of 40,000
+independent transformants) cloned into the PstI site of pBR322 by the dG-dC
+tailing method (5). The human cDNA library was screened using a previously
+
+5614
+
+Nucleic Acids Research
+cloned rat PAH cDNA (9) and a total of eight PAH cDNA clones were isolated
+from this library (3). Restriction enzyme mapping of the cDNA clones and
+selected DNA fragments reported in this paper was carried out as described by
+Kwok et al (4).
+DNA Sequence Analysis
+The internal 588 bp Hindill fragment isolated from PAH cDNAs were
+into
+and
+inserted
+M13mpl8(10),
+sequenced by the dideoxynucleotide
+chain-termination method (11). The entire sequence of the HindIII fragment
+was determined by using M13 clones containing inserts in both orientations.
+The remaining sequence of the PAH cDNA was determined by the chemical
+modification method of Maxam and Gilbert (12) using the sequencing strategy
+previously reported for hPAH247 (4). The plasmids were digested with the
+
+appropriate restriction endonuclease and either 5' end labelled with
+polynucleotide kinase and [Y-3 P]ATP or 3' end labelled with DNA
+polymerase I (Klenow fragment) and [v- P]dNTP. After digestion with a
+second restriction enzyme, single end labelled fragments were isolated from 5%
+polyacrylamide gels for DNA sequence analysis.
+Plasmid Constructions
+Standard cloning techniques were used for plasmid constructions.
+Eukaryotic expression vector p91023(B) (13) was linearized with EcoRI and
+treated with calf intestinal alkaline phosphatase (2.5 units/50 pmol of 5'
+termini). This vector contains the SV40 origin of replication, which enables
+propogation of recombinant clones in monkey kidney (COS) cells (14). To
+construct the normal PAH cDNA expression clone, phPAH247 was restricted with
+EcoRI and the full-length cDNA insert was isolated by preparative low melting
+temperature agarose gel electrophoresis (International Biotechnologies,
+Inc.). PAH cDNA insert (lOng) was ligated to p91023(B) (9Ong) in a 20 41
+reaction at 8 C overnight. Ligated DNA was used to transform E. coli HB101,
+and bacterial transformants were selected for resistance to tetracycline (7.5
+DNA was isolated from transformants by the
+pg/ml of growth medium).
+alkaline lysis procedure (15) and the orientation of PAH cDNA insert in the
+p91023(B) vector was determined by restriction enzyme mapping (4).
+To construct the full-length mutant PAH cDNA expression clone, the 588 bp
+internal HindlII fragment of hPAH247 was replaced by the corresponding HindlII
+fragment (containing the 116 bp deletion) from the partial-length mutant PAH
+cDNA (Fig. 3A). The orientation of the mutant HindIII fragment within the
+cDNA was then determined by restriction endonuclease mapping (4).
+The
+resulting full-length mutant PAH cDNA fragment was ligated into the EcoRI site
+of p91023(B) as described above for the normal PAH cDNA.
+5615
+
+Nucleic Acids Research
+Gene Transfer Experiments
+Normal and mutant PAHcDNA/p91023B constructs were used to transfect COS
+cells in suspension by the Chu and Sharp method (16).
+Briefly, cells
+were cultured in Dulbecco's modified Eagle's medium (DMEM) supplemented with
+
+10% bovine calf serum. Cells from three 15 cm plates (about 10 cells) were
+transfected in 2 ml of DNA-calcium phosphate cocktail (16) (containing 50 pg
+of recombinant plasmid) for 15 minutes at room temperature in a 50 ml
+polypropylene tube, followed by the addition of 40 ml of DMEM supplemented
+with 6.25 mM CaCl . Ten ml aliquots of the suspended cells were then plated
+2
+After S hours at 37 C, the cells were
+onto each of four 15 cm plates.
+shocked in 25% glycerol, and then incubated in growth medium for approximately
+36 hours.
+PAH mRNA and Protein Analysis
+Transfected cells from three 15 cm plates were harvested by scraping in
+30 ml of phosphate buffered saline (PBS), centrifuged, and resuspended in 400
+4l of PBS. PAH activity assays and Western blot analysis were carried out
+on cell extracts as previously described (6). RNA was isolated from cells
+
+from one 15-cm plate by phenol extraction and spotted directly on
+nitrocellulose using a slot blot manifold (Schleicher and Schuell). The
+filter was hybridized to labelled hPAH247.
+Genomic DNA Cloning
+Frozen liver tissue (0.5g) was ground to a fine powder in liquid nitrogen
+using a mortar and pestle. After the liquid nitrogen evaporated, lOml of
+lysis buffer (0.1 M NaCl, 1.0 mM EDTA, 0.05 M Tris-HCl (pH7.5), 100 Pg/ml
+proteinase K, and 0.5% SDS) was immediately added, and DNA was isolated as
+described (17). Genomic DNA (100 pg) was digested to completion with EcoRI
+and size fractionated on a 1.25-5 H NaCl gradient (17).
+Lambda (X)
+bacteriophage CH4A cloning arms were prepared by ligation of the cohesive
+termini and digestion with EcoRI as described (18). Contaminating stuffer
+fragments (6.6 kb and 7.8 kb) were removed from the cloning arms (31 kb) by
+NaCl gradient centrifugation.
+Size-fractionated genomic DNA (0.45 jg; 10-20
+kb) was ligated to XCH4A arms (1.3 pg) in a 16 4I reaction at 12 C
+overnight.
+The resulting concatenated DNA molecules were packaged with
+extracts prepared by the procedure of Grosveld et al. (19), and the infectious
+bacteriophage particles were used to transduce E. coli LE392. The genomic
+library was screened by the amplification method of Woo (20) using hPAH247 as
+the hybridization probe.
+
+5616
+
+Nucleic Acids Research
+Oligonucleotide Hybridization Analysis of Genomic Clones
+DNA was isolated from positive bacteriophage plaques as previously
+described (4). EcoRI plus HindIII digests of the recombinant clones were
+electrophoresed on 1% agarose gels, stained with ethidium bromide, and
+processed for direct-gel hybridization (21). The dried gel membranes were
+
+hybridized overnight at 370C in 6 x NET (0.9 H NaCl, 6 mM EDTA, 0.5% SDS,
+and 0.09 H Tris, pH7.5) containing 0.2 mg of salmon sperm DNA and 2 x 10
+The gel
+cpm of oligonucleotide probe per ml of hybridization solution.
+membranes were then washed in tetramethylammonium chloride at TD 5 C (21)
+and then autoradiographed between two Quanta III intensifier screens (Dupont)
+0
+
+at -80 C.
+Si Endonuclease Mapping
+P-end labelled DNA
+
+probe (50,000 cpm)
+
+was
+
+co-precipitated with human
+
+liver cytoplasmic RNA (50 jig), pelleted by centrifugation, and resuspended
+in
+of
+(30
+mM
+30
+41
+hybridization
+buffer
+piperazine-N-N'-bis
+(2-ethanesulfonic acid) (pH6.4), lmH EDTA (pH8.0), 300 mM NaCl, and 70%
+deionized formamide). After hybridization, 320 4l of ice-cold SI nuclease
+buffer (300 mM NaCl, 50 mM Na-acetate [pH4.5], 2 mM zinc acetate [pH4.51)
+containing 2,000 units of SI nuclease (Miles Laboratories, Inc.) was added to
+the reaction, and the sample was incubated at 37 C for 2 hours.
+The
+reaction was then stopped by the addition of 14 4l of stop buffer (0.5 M
+Tris-HCl, 0.25 M EDTA (pH7.5)), extracted once with an equal volume of
+phenol/chloroform/isoamyl alcohol (24:24:1) and then ethanol precipitated.
+The Sl-nuclease resistant DNA-RNA hybrid was collected by centrifugation,
+dried under vacuum, and dissolved in 10 p4 of loading buffer (50 mM NaOH,
+1mM EDTA, 2.5% Ficoll, and 0.025% bromocresol green). The sizes of the
+protected fragments were determined by alkaline-agarose gel electrophoresis
+and autoradiography.
+RESULTS
+
+Identification of an Internally Deleted Human PAH cDNA Clone
+We previously reported the isolation of several partial-length PAH cDNA
+clones representing the 3' half of PAH mRNA from a human liver cDNA library
+constructed in pBR322 (3).
+Restriction endonuclease analysis of these
+recombinants established the overlapping regions of the inserts and revealed
+normal and mutant cDNA types (Fig. 1). The normal cDNA (lane 1) contained an
+internal 588 bp HindIII fragment that was longer than the corresponding 472 bp
+
+5617
+
+Nucleic Acids Research
+4n.
+
+K 1-A.
+.
+
+Figure 1. Identification of normal and mutant PAH eDNA clones.
+Lane N, bacteriophage X-HindIII and QX174-HaeIII restricted DNA size
+markers; lane 1, normal cDNA clone restricted with HindIII; lane 2, mutant
+cDNA clone restricted with HindIII; lane 3, purified 588 bp HindIll fragment
+derived from hPAH247 (4). The solid box in hPAH247 represents the coding
+region, and the solid lines represent the untranslated regions. Normal and
+mutant cDNA's are partial length PAH clones that were isolated from a human
+liver cDNA library constructed in the Pstl site of pBR322(3). The overlapping
+regions of the cDNA clones and the size comparison of the internal HindlIl
+fragments are shown schematically on the right. Brackets denote the deleted
+region of the mutant PAH cDNA. H, HindIII.
+
+5618
+
+Nucleic Acids Research
+GAT TOC ATU MC
+Asp Ser le Asn
+438
+
+MC T GCTGCC
+Asn Phe Aa Ala
+401
+
+397
+442
+(ly
+le
+G u Lys Val Arg Ser Glu
+Type-I cDNA-- ...GAG AAA GTA AGG AGT GAA ATT GGA....
+
+Type-Il cDNA-. ...GAG AAA GTA AGG --T GAA ATT GGA....
+Gu
+397
+
+Lys
+
+Val
+
+Arg
+
+S
+
+Figure 2. Alignment of homologous nucleotide sequences of normal and mutant
+Nucleotides 1423 to 1536
+cDNA's in the regions flanking the deletion.
+encoding amino acids 401 to 438 of PAH (4), in addition to nucleotides 1537
+and 1538 of the Ser (#439) codon (dashes), are deleted from the mutant cDNA.
+HindlII fragment from the mutant cDNA (lane 2). The internal HindIII fragment
+purified from hPAH247 (4) (lane 3) comigrated with the corresponding HindlIl
+fragment of the normal cDNA (lane 1), suggesting that the mutant cDNA
+phenotype resulted from a deletion within the internal HindlII fragment. The
+upper two bands in lanes 1 and 2 correspond to pBR322 and cDNA sequence
+flanking the internal PAH HindIII fragment.
+The precise location of the deletion in the mutant cDNA was defined by
+sequence analysis. The nucleotide sequence of the internal HindIII fragment
+derived from the normal cDNA was identical to that previously reported for
+hPAH247, which corresponds to nucleotides 1309 to 1902 of the cDNA (4). The
+sequence derived from the mutant HindIII fragment was identical to the normal
+cDNA except for a 116 bp internal deletion of contiguous DNA spanning
+nucleotides 1423 to 1538, which includes the 3'-coding sequence of PAH cDNA
+(Fig. 1, open bracket). Interestingly, the 116 bp deleted region corresponded
+precisely to exon 12 of the human chromosomal PAH gene (8). The nucleotide
+sequences flanking the internal HindIII fragments of both normal and mutant
+cDNA's were identical to the corresponding regions of hPAH247 (data not shown).
+Exon 12 deletion abolishes PAH enzymatic activity and stability
+Figure 2 shows the alignment of the nucleotide sequences of the normal
+and mutant cDNA's in the immediate 5' and 3' regions flanking the deletion.
+The deletion includes 114 bp encoding amino acids 401 to 438 of PAH and an AG
+dinucleotide deletion in the Ser #439 codon, resulting in a frameshift
+mutation that introduces a premature termination codon (UGA) following Arg 400
+in the mutant cDNA.
+Since this mutation would result in a PAH product
+truncated by 52 amino acids at the carboxyl-terminus, we determined its effect
+on PAH activity by gene transfer and transient expression experiments.
+5619
+
+Nucleic Acids Research
+
+-Afift,
+
+v
+
+-Alm.
+
+is' oi;:q
+-P,
+14qw"
+
+Aliffolk
+
+.,.Mww
+
+umt%,
+Afiw.
+
+.A6
+
+Figure 3. Biochemical analysis of COS cells transfected with normal and
+mutant PAH cDNA's. A). Cloning strategy: the full-length PAH cDNA insert was
+isolated from phPAH247 by EcoRl restriction. The start codon (AUG) and stop
+A
+codon (UAA) define the boundaries of the coding region of the cDNA.
+full-length mutant PAH cDNA was generated by replacing the Hindlll fragment of
+hPAH247 with the corresponding HindllI fragment from mutant cDNA. Normal and
+mutant PAH cDNA's were cloned into the EcoRI site of the eukaryotic expression
+vector p91023(B).
+B). PAH activity assay: assays were carried out as
+previously described (6) in the presence (odd numbered lanes) or absence (even
+numbered lanes) of the synthetic cofactor tetramethylhydropterin. Lanes 1 and
+2, normal human liver extract; lanes 3 and 4, extracts from COS cells
+transfected with normal PAH cDNA; lanes 5 and 6, extracts from COS cells
+transfected with mutant PAH cDNA. C). Western blot analysis of PAH in cells
+transfected with normal and mutant PAH cDNA. Lane 1, normal human liver
+extract (lOO1g); lanes 2, 3 and 4, extracts from normal PAH cDNA-transfected
+cells (100, 5, and 0.5 ig, respectively); lane 6, extracts from mutant PAH
+cDNA-transfected cells (100ug). D). Slot-blot hybridization analysis of PAH
+mRNA content in cells transfected with normal and mutant PAH cDNA. Lanes 1-4,
+total RNA isolated from normal PAH cDNA-transfected cells (10, 5, 1, and 0.5
+pg, respectively); lanes 5-8, total RNA isolated from mutant PAH
+cDNA-transfected cells (10, 5, 1, and 0.5pg, respectively).
+
+5620
+
+Nucleic Acids Research
+A full-length PAH cDNA bearing the deletion was constructed by replacing
+the normal 588 bp Hindlll fragment of hPAH247 with the 472 bp HindlIl fragment
+isolated from the mutant cDNA (Fig. 3A). The normal and internally deleted
+recombinant cDNAs were then cloned into the EcoRI site of the eukaryotic
+expression vector p91023(B) (13), downstream of the adenovirus major late
+promoter (Ad MLP).
+PAH activity assays measuring the conversion of
+
+[ Cl-phenylalanine to 1 CI-tyrosine were performed using extracts from
+cells transfected with the normal and mutant PAH cDNA constructs.
+PAH
+activity was present in extracts from control human liver (Fig. 3B, lane 1)
+and in extracts from cells transfected with the normal PAH cDNA/p91023(B)
+construct (Fig. 3B, lane 3).
+However, PAH activity was not detected in
+extracts from cells transfected with the mutant PAH cDNA/p91O23B construct
+
+(Fig. 3B, lane 5),
+
+in assays carried out in the absence of cofactor (Fig.
+3B, lanes 2, 4 and 6). The complete absence of PAH activity is indicative of
+the Classical PKU phenotype and can be attributed specifically to the deletion
+of the exon 12 coding sequence in the mutant mRNA.
+Western blot analysis using a PAH-specific antibody (6) demonstrated a
+52-kd protein present in normal human liver extract (Fig. 3C, lane 1).
+Extracts from transfected cells expressing normal PAH cDNA also contained
+abundant levels of inmunoreactive PAH (Fig. 3C, lane 2) which was identical in
+size to that present in the control liver. When the Western analysis was
+carried out under conditions that could detect less than 1% of the normal PAH
+levels (Fig. 3C, lane 5), no immunoreactive protein was detected in extracts
+from cells transfected with the mutant PAH cDNA construct (Fig. 3C, lane 6).
+Hybridization analysis of RNA isolated from transfected cells demonstrated
+that both the normal (Fig. 3D, lanes 1-4) and mutant (Fig. 3D, lanes 5-8) cDNA
+constructs expressed the respective mRNAs at comparable levels.
+Characterization of the mutation causing exon 12 deletion
+Nucleotides 1423 to 1538 deleted from the mutant PAH cDNA correspond to
+exon 12 of the PAH gene (8).
+Since sequences encoded by exons 11 and 13 were
+present in the mutant clone, the molecular basis of this mutation could result
+either from an exon 12 deletion in the mutant PAH allele or skipping of exon
+12 during processing of the mutant PAH mRNA transcript. To distinguish these
+possibilities, we constructed a genomic DNA library from the human liver
+sample from which the mutant cDNA was obtained. We screened the library with
+hPAH247 and isolated the corresponding genomic DNA clones. Since the mutant
+cDNA deletion corresponded to exon 12, we focused our analysis on this region
+or
+
+5621
+
+*: s.^';t </!E:w
+
+Nucleic Acids Research
+
+4
+
+l,
+
+B'-._
+
+!t
+
+t
+
+L
+
+..
+
+!;
+
+o.
+
+.*
+
+....
+
+_
+-_
+_i
+__
+
+Figure 4. Oligonucleotide hybridization analysis of normal and mutant PAH
+genomic clones. The 12-kb EcoRI fragment (box) containing exons 9 to 13 and
+3'-flanking region of the PAH gene was cloned into the EcoRI site of XCH4A
+vector (solid lines). HindlIlI (H) plus EcoRI restriction of the recombinant
+clones were electrophoresed on 1% agarose gels, stained with ethidium bromide
+(lanes 1 and 2), and processed for direct-gel hybridization as previously
+normal
+to
+were
+gels
+Dried
+hybridized
+described
+(7).
+and
+mutant
+and
+3
+(lanes
+4)
+(5' -AAATTACTTACTGTTAATGGA- 3')
+(5'-TCCATTAACAATAAGTAATTT-3") (lanes 5 and 6) specific intron 12 donor splice
+site oligonucleotide probes (7). Exon 12 is contained in a 5.4-kb HindlII
+The HindIII insertion polymorphism (inverted triangle) is
+fragment (A).
+located in the 3'-flanking region of the PAH gene in HindTII fragment B (8).
+The HindIII fragment D (1 kb) containing exon 9 is not shown on this gel. The
+upper most fragment (25.3 kb) contains the 20 kb left XCH4A arm annealed at
+the cos site to the 5.3 Kb right arm fragment. The 5.7 Kb frament corresponds
+to the remaining portion of the XCH4A right arm after enzyme digestion.
+
+5622
+
+Nucleic Acids Research
+
+kb
+
+2
+
+M
+
+1.4
+14- e
+
+3
+
+_
+
+9
+
+S
+
+B
+
+UAA
+
+H
+
+E
+
+*Probe
+994 bp
+INormal Region of Probe
+i494 bpo
+Mutant fProtected by Si
+Si-nuclease analysis of human liver RNA.
+A -1.4-kb
+(BamHI(B)-->EcoR1(E)) 3'-fragment derived from hPAH247 was
+sub-cloned directly into pBR322. The recombinant plasmid was restricted at a
+unique ~jpal (H) site in the 3'-untranslated region at nucleotide #2032 of the
+PAM cDNA (4). Following end-labelling with [y32p]-ATP and T4 kinase, the
+DNA was then restricted at a unique SalI (5) site in pBR322. The 1269 bp
+end-labelled PAH probe, containing 994 bp of PAH cDNA and 215 bp of pBR322,
+was then analyzed by Sl-nuclease digestion after annealing to SOpg of total
+RNlA isolated from control (lane 1) and mutant carrier (lane 2) liver. Lane 3,
+51 nuclease digested probe after annealing to 50 pzg of tRNA to measure the
+extent of self-annealing of the complementary DNA strands and the level of
+resistance of the blunt ends to S1-nuclease. H, end-labelled QX174-HaeII
+restricted DNA size markers. The hatched box corresponds to the cDNA region
+encoded by exon 12. UAA refers to the stop codon position in PAM mRNA.
+
+Figure 5.
+
+of the gene. Exons 9 to 13, including 3-kb of 3'-flanking sequence, are
+contained in a 12-kb EcRI fragment of the PAM gene (7) (Fig. 4). In addition
+to a mutant PAM allele, the genomic library should also contain a second
+
+5623
+
+Nucleic Acids Research
+allele encoding the normal PAH cDNA sequence. We distinguished the normal and
+mutant alLelic PAH clones by RFLP analysis.
+The map positions of eight RFLP's detected in the PAH gene have recently
+
+been reported (8).
+There is a 4.2/4.0 kb HindIll insertion polymorphism
+within this 12-kb EcoRI fragment of the gene, which is present in the genomic
+
+Thus, the genomic DNA clones were
+digested by Hindlll, and two representative clones are shown in Fig. 4. One
+clone generated a 4.0-kb fragment (lane 1) and another generated a 4.2-kb
+fragment (lane 2). These clones must therefore represent the two PAH alleles
+in this individual. Exon 12 is contained in a 5.4-kb HindIII fragment which
+is identical in size for both alleles (Fig. 4, lanes 1 and 2), suggesting that
+the. mutation does not result from the deletion of exon 12 in the mutant PAH
+allele. This was verified by Southern blot hybridization analysis using an
+exon 12 specific oligonucleotide probe, which demonstrated that this exon was
+indeed present in both genomic clones (data not shown).
+DNA of this individual (data not shown).
+
+The mutant PAH mRNA could then result from an error in RNA processing.
+We recently reported a prevalent PKU mutation resulting from a single base
+substitution (GT- ->AT) in the canonical 5'-donor splice site at the exon
+
+12/intron 12 junction of the PAH gene (7). Since a similar substitution in
+intron 2 of the human 1-globin gene results in the skipping of exon 2 from
+the corresponding mRNA transcript (31), we speculated that the PKU splicing
+mutation might cause the skipping of exon 12 in the mRNA. To test this
+hypothesis, we used previously constructed oligonucleotide probes specific for
+the normal and mutant sequences to detect the GT--->AT mutation of intron 12
+(7).
+Using the hybridization conditions previously reported (7, 21), the
+normal oligonucleotide probe hybridized specifically to the 5.4--kb HindlI
+fragment of the PAH clone containing the 4.0-kb polynorphic HindlII fragment
+(Fig. 4, lane 3), while the mutant oligonucleotide probe hybridized
+The data suggested
+specifically to the 4.2-kb allele (Fig. 4, lane 6).
+strongly that the exon 12 skipping mutation identified at the PAH mRNA level
+resulted from a GT- >AT transition at the 5'-splice donor site of intron 12
+of the mutant allele.
+This exact mutation was subsequently verified by
+sequence analysis of the cloned mutant gene (data not shown).
+S1 Nuclease analysis of normal and mutant PAH RNA transcripts
+In order to estimate the relative frequency of aberrant splicing among
+RNA transcripts from the mutant PAH allele in the human liver, we performed S1
+nuclease protection experiments using total RNA isolated from the subject
+liver sample (Fig. 5). When the 1.3-kb PAH cDNA probe containing exons 7-13
+
+5624
+
+Nucleic Acids Research
+plus part of the 3'-untranslated region was annealed to control human liver
+RNA, a distinct SI nuclease resistant 994-bp fragment was detected (lane 1).
+This fragment represented complete protection of the PAH cDNA (spanning
+nucleotides 1038 to 2032) by the normal PAH mRNA transcript (Fig. 5,
+schematic). An SI nuclease protection assay on the subject liver RNA sample
+showed a 994-bp fragment protected by the normal PAH gene transcript, plus a
+494-bp fragment of similar intensity (lane 2).
+The latter fragment
+represented protection of the PAH cDNA by a PAH mRNA species lacking the exon
+12 sequence (Fig. 5, schematic). The data showed that the steady-state levels
+of the normal and mutant PAH mRNA transcripts in the human liver are
+comparable, suggesting that the predominant splicing event associated with the
+mutant allele transcript in the human liver is exon 12 skipping.
+DISCUSSION
+We previously reported the isolation of eight partial-length
+
+clones from a human liver cDNA library (3).
+
+PAH cDNA
+
+We were surprised to find that
+
+The
+three of these cDNA clones contained an exon 12 sequence deletion.
+deletion of exon 12 sequence in the cDNA caused a frameshift mutation that
+resulted in a premature stop codon which causes the deletion of 52 amino acids
+from the C-terminus of PAH. Gene transfer and expression studies using the
+mutant PAH cDNA demonstrated that it results in an unstable protein, thereby
+abolishing PAH activity in the cell. The complete absence of PAH activity is
+indicative of the Classical PKU phenotype and can be attributed specifically
+to the loss of the C-terminal portion of PAH encoded by exon 12. The data is
+
+comparable to the lack of immunoreactive protein in PKU liver biopsy specimens
+reported by other laboratories (26-28).
+The GT to AT mutation at the 5' splice donor site observed in this study
+was the same as the one we reported recently to be associated with mutant
+
+Normal
+
+Mutant
+Figure 6. A schematic representation of the exon 12-skipping event in the
+splicing of a mutant precursor PAH RNA transcript containing a GT to AT
+transition at the 5' splice donor site of intron 12.
+
+5625
+
+Nucleic Acids Research
+haplotype--3 alleles (7) which is the most prevalent among PKU alleles in
+Caucasians. Thus, the subject individual was a PKU carrier without a family
+history of PKU, and contained a common mutant PAH allele. We recently
+reported that PKU patients with mutant RFLP haplotype combinations 2//2, 2//3,
+and 3//3 have the highest phenylalanine level in blood and follow a severe
+c.linical course (25). Having established at the molecular and biochemical
+levels that the mutations in the PAH gene associated with haplotype-2 (29) and
+haplotype-3 (this manuscript) result in no detectable enzymatic activity, it
+is understandable why these patients exhibit such severe biochemical and
+clinical phenotypes.
+SI nuclease protection experiments demonstrated that the levels of normal
+and mutant PAH mRNA's were comparable, suggesting that the level of expression
+and processing of both alleles into the respective mRNA products were similar
+in the human liver cell. Thus, the possibility of mRNA instability being the
+underlying cause of the PKIJ mutation can be ruled out. Furthermore, the exon
+1l-exon 13 splice appeared to be the major product derived from the mutant
+allele, with no cryptic splice sites being used to generate other aberrantly
+spliced mRNA products in vivo. This aberrant splicing event utilizes the 5'
+donor splice site of intron 11 and the 3'-acceptor splice site of intron 12
+(Fig. 6).
+What causes the exon 12 deletion in PKU? Normal intron splice sites in
+eukaryotic genes have conserved GT and AC dinucleotides at the 5'-donor and
+3'-acceptor sites, respectively (22,23).
+13-thalassemia splicing mutations
+have provided definitive evidence for the importance of these splice sites in
+accurate RNA processing (24). In the human 3-globin gene, a G to A splice
+donor site mutation in intron 2 completely inactivates the 5'-splice site of
+this intron, and causes skipping of exon 2 in mature 13-globin mRNA in the
+patient's bone marrow cells (31). Since there are only 3 exons in the
+1-globin gene, exon 3 can only splice with exon I if skipping of the
+preceding exon is the major consequence of the mutation in vivo. In the
+mutant PAH gene, however, exon 13 could have been spliced with any of the
+preceding 11 exons. The fact that the major mRNA product from this allele
+only lacks exon 12 would suggest that this exon is disregarded by the splicing
+machinery as a result of the GT to AT mutation at the splice donoti site of
+intron 12. Similarly, in the hamster dihydrofolate reductase gene, a GT to CT
+transition at the splice donor site of intron 5 causes skipping of exon 5, and
+only exon 4 to exon 6 splice products were detected (30).
+Whatever mechanism is involved in the exon skipping event, it must take
+
+5626
+
+Nucleic Acids Research
+into account that the 3' acceptor splice site of the preceding intron (i.e.,
+intron 11) is perfectly normal but is not utilized effectively in splicing
+(Fig. 6). Mutant cDNA clones representing other aberrantly spliced products
+were not present in the liver cDNA library suggesting exon 12 skipping is
+indeed the major splicing event in the mutant RNA. There may be cooperative
+interactions between the small ribonucleoprotein particles at the intron/exon
+boundaries, such that the ribonucleoprotein particles cannot bind efficiently
+to the 3' acceptor site of intron 11 if no interacting ribonucleoprotein
+particles are present at the 5' donor site of intron 12. Under these
+circumstances, exon 12 would have been regarded as part of an intron and
+removed during splicing by joining together exons 11 and 13. This hypothesis
+would suggest that not only introns, but also exons, are looped out during RNA
+slicing in a splicesome (32).
+ACKNOWLEDGEMENTS
+
+This work was supported in part by NIH grant HD17711. S.L.C.W. is an
+Investigator and F.D.L. an Assistant Investigator of the Howard Hughes Medical
+Institute. A.G.D. was supported by NIH postdoctoral fellowship HD06495. We
+would like to thank Ms. Kelly Porter for typing the manuscript.
+
+Present addresses: 'Growth Biochemistry and Development, Merck Sharp and Dohme Research
+Laboratories, PO Box 2000, Rahway, NJ 07065, 2Purdue University, Department of Biochemistry,
+Life Science Building, West Lafayette, IN 47907, USA and 3University of Oxford, John Radcliffe
+Hospital, Nuffield Department of Clinical Medicine, Headington, Oxford OX3 9DU, UK
+REFERENCES
+1.
+Scriver, C.R. and Clow, C.L. (1980) New Engl. J. Med. 303,1336-1343.
+2.
+Scriver, C.R. and Clow, C.L. (1980) A. Rev. Genet. 14,179-202.
+3.
+Woo, S.L.C., Lidsky, A.S., Giittler, F., Chandra, T. and Robson, K.J.H.
+(1983) Nature 306,151-155.
+4.
+Kwok, S.C.M., Ledley, F.D., DiLella, A.G., Robson, K.J.H. and Woo, S.L.C.
+5.
+6.
+7.
+
+8.
+9.
+
+10.
+11.
+12.
+
+(1985) Biochemistry 24,556-561.
+Chandra, T., Stackhouse, R., Kidd, V.J. and Woo, S.L.C. (1983) Proc.
+Natl. Acad. Sci. USA 80,1845-1848.
+Ledley, F.D., Grenett, H.E., DiLella, A.G. and Woo, S.L.C. (1985)
+Science 228,77-79.
+DiLella, A.G., Marvit, J., Lidsky, A.S., Giittler, F., and Woo, S.L.C.
+(1986) Nature 322,799-803.
+DiLella, A.G., Kwok, S.C.M., Ledley, F.D., Marvit, J. and Woo, S.L.C.
+(1986) Biochemistry 25,743-749.
+Robson, K.J.H., Chandra, T., MacGillivray, R.T. and Woo, S.L.C. (1982)
+Proc. Natl. Acad. Sci. 79,4701-4705.
+Messing, J. (1983) Meth. Enzym. 101,20-78.
+Sanger, F., Nicklen, S. and Coulson, A.R. (1977) Proc. Natl. Acad. Sci.
+U.S.A. 74,5463-5467.
+Maxam, A.M. and Gilbert, W. (1980) Meth. Enzym. 65,499-560.
+5627
+
+Nucleic Acids Research
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+
+28.
+29.
+
+30.
+
+31.
+32.
+
+5628
+
+Wong, G.G., Witek, J.S., Temple, P.A., et al. (1985) Science 228,810-815.
+Kaufman, R.J. and Sharp, P.A. (1982) Mol. Cell. Biol. 2,1304-1319.
+Birnboim, H.C. and Doly, J. (1979) Nucleic Acids Res. 7,1513-1523.
+Chu, G. and Sharp, P.A. (1981) Gene 13,197-202.
+DiLella, A.G. and Woo, S.L.C. (1987) Meth. Enzym. 152,199-212.
+Maniatis, T., Hardison, R.C., Lacy, E., Lauer, J., O'Conell, C., Quon,
+D., Sim, D.K. and Efstratiadis, A. (1978) Cell 15,687-701.
+Grosveld, F.G., Dahl, H.H.H., deBoer, E. and Flavell, R. (1981) Gene
+13,227-237.
+Woo, S.L.C. (1979) Meth. Enzym. 68,389-395.
+DiLella, A.G. and Woo, S.L.C. (1987) Meth. Enzym. 152,447-451.
+Breathnack, R. and Chambon, P. (1981) Ann. Rev. Biochem. 50,349-383.
+Mount, S.M. (1982) Nucl. Acids Res. 10,459-472.
+Orkin, S.H. and Kazazian, H.H. (1984) Ann. Rev. Genet. 18,131-171.
+GUttler, F., Lidsky, A.S., Ledley, F.D., DiLella, A.G., Sullivan, S.E.
+and Woo, S.L.C. (1987) J. Pediat. 110,68-71.
+Friedman, P.A., Kaufman, S. and Kang, E.S. (1972) Nature 240,157-159.
+Friedman, P.A., Fisher, D.B., Kang, E.S. and Kaufman, S. (1973) Proc.
+Natl. Acad. Sci. USA 70,552.556.
+Choo, K.H., Cotton, R.G.H., Jennings, I.G. and Danks, D.M. (1979) J.
+Inher. Metab. Dis. 2,79-84.
+DiLella, A.G., Marvit, J., Brayton, K., and Woo, S.L.C. Nature
+327,333-336.
+Mitchell, P.J., Urlaub, G., and Chasin, L. (1986) Mol. Cell Biol. 6,
+1926-1935.
+Treisman, R., Proudfoot, N.J., Shander, M., and Haniatis, T. (1982) Cell
+29, 903-911.
+Woo, S.L.C., DiLella, A.G., Harvit, J., and Ledley, F.D. (1986) Cold
+Spring Harbor Symposia on Quantitative Biology, Vol. LI, pp. 395-401.
+
+

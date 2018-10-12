@@ -1,0 +1,1155 @@
+003 1-3998/90/2803-0247$02.00/0
+PEDIATRIC RESEARCH
+Copyright O 1990 International Pediatric Research Foundation, Inc.
+
+Vol. 28, No. 3, 1990
+Prinred in U.S.A.
+
+Impaired Skin Fibroblast Carnitine Uptake in
+Primary Systemic Carnitine Deficiency
+Manifested by Childhood Carnitine-Responsive
+Cardiomyopathy
+I. TEIN, D. C. DE VIVO, F. BIERMAN, P. PULVER, L. J. DE MEIRLEIR, L. CVITANOVICSOJAT, R. A. PAGON, E. BERTINI, C. DIONISI-VICI, S. SERVIDEI, AND S. DIMAURO
+
+H. Houston Merritt Clinical Research Center for Muscular Dystrophy and Related Diseases [S.D.], The Division
+of Pediatric Neurology [I. T., D.C.D. V., P.P.], and The Division of Pediatric Cardiology [F.B.], Columbia
+University, New York, New York 10032; Department of Pediatric Neurology, Academisch Ziekenhuis, Vrije
+Universiteit Brussel, Brussels, Belgium [L.J.D.M.];Clinique de Pediatrie, Hosp. Clin. Dr. M. Stojanovic, Zagreb,
+Yugoslavia [L.C.-S.];Children's Hospital and Medical Center, University of Washington, Seattle, Washington
+98105 [R.A.P.];Departments of Metabolism and Cardiology, Bambino Gesu Pediatric Hospital, Rome, Italy
+[E.B., C.D.-V.]; and Institute of Neurology, Catholic University of Rome, Rome, Italy [S.S.]
+
+ABSTRACT. Evidence is emerging that primary systemic
+carnitine deficiency, a potentially lethal but eminently
+treatable inborn error of fatty acid oxidation, involves a
+cellular defect in the uptake of carnitine. We present four
+unrelated children with primary carnitine-responsive cardiomyopathy, weakness (with or without hypoketotic hypoglycemic encephalopathy), low serum and/or tissue carnitine concentrations, and severe renal carnitine leak. Dicarboxylic acids were absent in the urine of three children
+who were tested, and all four had a rapid and dramatic
+improvement in cardiac function, strength, and somatic
+growth after carnitine therapy. We studied carnitine uptake
+in cultured skin fibroblasts from all four children and seven
+of the eight healthy nonconsanguinous parents. [3H]~-carnitine uptake was evaluated in vitro under linear time
+kinetics. Substrate concentrations were varied from 0.1 to
+1000 wM. Physiologic uptake was determined at carnitine
+concentrations between 0.1 and 50 wM. Nonspecific uptake
+was determined at a concentration of 10 mM. The four
+patients had negligible uptake throughout the physiologic
+range, implying a marked deficiency in the specific highaffinity, low-concentration, carrier-mediated uptake mechanism. At a concentration of 5 pmol/L, the mean velocity
+of uptake in the four patients was 2% of control values.
+Their parents showed intermediate maximal rates of carnitine uptake ranging from 13 to 44% of control V,,,
+values, but normal Km values, suggesting that the heterozygotes had a reduced number of normal functioning carnitine transporters. The observed reduction in V,,, values
+for the parents supports an autosomal recessive inheritance
+pattern and may be a more sensitive indicator of heterozygosity than serum carnitine concentrations. We conclude
+that carnitine uptake studies in cultured skin fibroblasts
+are important for diagnosis, screening of siblings and heterozygote parents, understanding pathogenesis, and investigating the molecular basis of this disease. Given the
+Received March 14, 1990; accepted May 1, 1990.
+Correspondence and reprint requests: Dr. S. DiMauro, Department of Neurology, Rm. 4-420, College of Physicians and Surgeons, Columbia University, 630
+West 168th Street, New York, NY 10032.
+Supported by Center grants NS 11766 from the National Institute of Neurological
+and Communicative Disorders and Stroke, the Muscular Dystrophy Association,
+and the Colleen Giblin Foundation for Pediatric Neurological Research. I.T. is a
+recipient of the Duncan L. Gordon Fellowship from the Toronto Hospital for Sick
+Children Foundation.
+
+2
+
+frequent history of previously unexplained sibling deaths
+in these familes, early identification of presymptomatic
+siblings and oral institution of carnitine prophylaxis may
+decrease immediate and long-term morbidity and mortality.
+(Pediatr Res 28: 247-255,1990)
+Abbreviations
+CK, creatine kinase
+IQ, intelligence quotient
+MCAD, medium-chain acyl CoA dehydrogenase
+RBC, red blood cell
+
+Carnitine (P-hydroxy-y-trimethylaminobutyric acid), a quaternary amine, has several important intracellular functions. 1 ) It
+serves as an essential cofactor for mitochondrial fatty acid oxidation by transfening long-chain fatty acids as acylcarnitine
+esters across the inner mitochondrial membrane. 2) It facilitates
+branched-chain a-keto acid oxidation. 3) It shuttles acyl moieties
+chain-shortened by P-oxidation out of peroxisomes in the liver.
+4) It modulates the intramitochondrial acyl CoA/CoA sulfhydryl
+ratio in mammalian cells. Carnitine also has a detoxifying role
+of trapping potentially toxic acyl CoA metabolites that may
+increase during acute metabolic crises. Bremer (1) provides a
+synopsis of references for the potential roles of carnitine.
+A major difficulty in assessing the role of carnitine deficiency
+in both genetic and acquired defects of fatty acid oxidation in
+childhood is that only a few disorders have been unequivocally
+attributed to primary carnitine deficiency.
+Since 1973 (2), many patients with carnitine deficiency have
+been described, and they have been divided into two groups.
+Those with "systemic carnitine deficiency" had recurrent episodes of hypoglycemic, hypoketotic encephalopathy or "Reyelike" syndrome beginning in infancy or early childhood and low
+concentrations of carnitine in serum, muscle, and liver. Patients
+with "myopathic carnitine deficiency" had progressive lipid storage myopathy beginning in childhood or later in life, and carnitine deficiency was confined to skeletal muscle (3-5). However,
+recently, it has become apparent that many of these cases were,
+in fact, due to a variety of defects involving P-oxidation or the
+respiratory chain with secondary carnitine deficiency (6). For
+
+248
+
+TEIN ETAL.
+
+example, many patients initially diagnosed to have systemic
+carnitine deficiency were found to have MCAD deficiency (7,
+8). A common feature of genetic defects associated with secondary carnitine deficiency is an intramitochondrial block of oxidation of one or more of the acyl CoA compounds that can be
+esterified to carnitine. These defects (6) include specific inborn
+errors of fatty acid or amino acid oxidation, such as MCAD,
+long-chain acyl CoA dehydrogenase, short-chain acyl CoA dehydrogenase, and multiple acyl CoA dehydrogenase deficiencies,
+isovaleric acidemia, propionic acidemia, methyl malonic aciduria, P-hydroxy-P-methylglutaryl CoA lyase deficiency, and glutaryl CoA dehydrogenase deficiency. Although information on
+the tissue carnitine concentrations is not complete for all of these
+disorders, most seem to share the abnormalities seen in MCAD
+deficiency, namely low plasma concentrations of total carnitine,
+increased ratio of esterified carnitineltotal carnitine, and low
+tissue concentrations of total carnitine. Similarly, certain patients
+with adult onset chronic weakness formerly diagnosed to be
+primary muscle carnitine deficiency have now been diagnosed
+to have other defects such as short-chain acyl CoA dehydrogenase
+deficiency (9, 10). A further important and still controversial
+issue in these cases of secondary carnitine deficiency is the degree
+to which carnitine therapy is beneficial in either acute or chronic
+situations (6).
+Therefore, a definition of primary carnitine deficiency should
+be based on the following criteria: I ) the metabolic disorder is
+caused directly by inadequate carnitine; 2) it is accompanied by
+impaired fatty acid oxidation; 3) it is corrected when carnitine
+concentrations are restored to normal; and 4) it is not secondary
+to a defect of mitochondria1 P-oxidation.
+Possible causes of primary carnitine deficiency include: I )
+defective biosynthesis and dietary intake; 2) defective intestinal
+absorption; 3 ) defective transport affecting uptake and/or release
+of carnitine from tissues; 4) renal loss due to decreased tubular
+reabsorption or increased excretion; and 5) increased degradation. No evidence for defective carnitine biosynthesis (1 l), defective absorption, or excessive degradation (12) was found in
+several patients with systemic carnitine deficiency, all of whom,
+however, were identified subsequently to have MCAD deficiency.
+Evidence for a defect in cellular carnitine uptake was first
+offered in 1988 (13, 14). Eriksson et al. (13) documented carnitine deficiency in cultured fibroblasts from a 4-y-old girl with
+cardiomyopathy and found intermediate carnitine concentrations in the fibroblasts of the asymptomatic mother. Carnitine
+transport was studied directly by Treem et al. (14) in fibroblasts
+from an infant girl with hypoketotic, hypoglycemic coma, markedly decreased carnitine concentrations in plasma, liver, and
+muscle, and normal acyl CoA dehydrogenase activities. Carnitine
+administration corrected the defect in fasting ketogenesis and
+restored normal carnitine concentrations in plasma and liver,
+but not in muscle.
+We have studied four unrelated patients with primary carnitine-responsive cardiomyopathy. Studies of carnitine uptake in
+cultured fibroblasts indicate that a defect in carnitine transport
+is the cause of carnitine deficiency in these children. We also
+found defective carnitine uptake in fibroblasts from the presumed heterozogyte parents of these patients, suggesting autosomal-recessive inheritance.
+
+CASE REPORTS
+
+Case 1. A 9%-y-old girl was born of unrelated asymptomatic
+parents of East Indian and Caucasian heritage. A sister had
+congenital hypotonia and muscle atrophy, progressive cardiomyopathy with severe mitral regurgitation diagnosed at 1 y,
+failure to thrive, and progressive motor deterioration. She died
+at 3 y 5 mo of age and had fatty infiltration of the liver at
+autopsy.
+The index patient was born a footling breech. A cardiac
+murmur was first noted at 1 mo of age. By 14 mo, her gross
+motor milestones plateaued, and over the next 2 y, she developed
+slowly progressive weakness and recurrent respiratory infections
+(Table I). At 3 y of age, the patient's clinical findings included
+congestive heart failure with moderate-to-severe mitral regurgitation. Marked left ventricular dilatation was present on cardiac
+ultrasound examination. The ECG demonstrated peaked T
+waves in the anterolateral precordial leads. She was started on
+digoxin and diuretics. At 4 y 3 mo of age, she was found to have
+very low carnitine concentrations in serum and muscle (Table
+2). A muscle biopsy showed lipid storage, but P-oxidation enzymes were normal. Serum CK was mildly elevated. Serum
+glucose was normal, as were urinary organic acids. There was no
+dicarboxylic aciduria. Oral carnitine was started at 1 g 3 times
+daily. In 1 wk, there was a dramatic improvement in appetite
+and affect and cardiac function (Fig. 1). By 4 wk, she had gained
+weight and markedly increased exercise tolerance, and the ECG
+showed inversion of the formerly peaked T waves. By 4 mo, she
+had good exercise tolerance and cardiac end diastolic and end
+systolic dimensions had markedly improved (Fig. I). At 5 y of
+age, she had regained gross motor milestones. Her digoxin and
+diuretics were discontinued by 6'12 y. Presently, at 9 y of age, she
+has an IQ of 140 and is a competitive swimmer at school. On
+examination, she has a mildly myopathic facies, mild hypotonia,
+absent extensor digitorum brevis bilaterally, and persistent, although improving, fine motor delay. Electromyogram was normal. Motor nerve conduction studies revealed borderline abnormalities. Her serum carnitine concentrations fluctuate between
+borderline and normal, and she continues to have decreased
+renal reabsorption of carnitine. Her father's serum carnitine
+concentrations are normal (total 60.9, free 54.7 pmol/L),and her
+mother's are low normal (total 35.7, free 27.8 pmol/L).
+Case 2. A 10-y-old Italian boy was born of nonconsanguinous
+parents. At 17 mo of age, he had gross motor delay and failure
+to thrive, and at 18 mo he began having recurrent episodes of
+abdominal pain and diarrhea for which cow's milk protein
+intolerance was excluded (Table 1). At 7 % y, he was found to
+have a dilatative cardiomyopathy by chest x-ray and echocardiography with peaked T waves on ECG. He had marked hypochromic anemia requiring blood transfusions, and decreased
+serum iron of 25 pg/dL (normal 50-120). Thalassemia was ruled
+out. He also had weakness of neck flexor and limb-girdle muscles.
+He had an IQ of 67 and failure to thrive. He had low carnitine
+concentrations in serum and muscle (Table 2), as well as a
+striking decrease in renal reabsorption of carnitine (52%; normal
+>95%) despite low serum concentrations. Both parents had low
+serum carnitine concentrations (father: total 35, free 24 pmol/L;
+mother: total 21, free 14 pmol/L; control: total 45 + 6.5, free 34
++ 8.8 pmol/L). Serum glucose and CK and urinary organic acid
+
+Table 1. Maior clinical and lab01.atorv features-CPMC
+
+series*
+
+Age of
+onset Presenting
+Patient Sex (mo)
+feature
+1
+
+2
+3
+4
+
+F
+M
+F
+F
+
+1
+
+17
+
+1
+2
+
+Decrease in
+Decrease in
+Affected Cardio- Weakness or Lipid storage
+fasting ketorenal reab- Dicarboxylic
+siblings myopathy motor delay in muscle Coma
+genesis
+FTT Anemia sorption
+aciduria
++
+Cardiac
++
++
++
+ND
++ +
++
+Motor delay
++
+ND
++
++
++ +
+Hypotonia
+ND
+Cardiac
++
++
++
++
+?
++?
++
+NR
+NR
+
++
+
++
+
++
+
++
++
+
++
+
+* CPMC, Columbia-Presbyterian Medical Center; FTT, failure to thrive; ND, not done; NR, not recorded.
+
++
+
++
+
+249
+
+CARNITINE-RESPONSIVE CARDIOMYOPATHY
+
+Table 2. Response to carnitine therapy-CPMC series*
+Serum carnitine totallfree
+(~mol/L)
+
+Muscle carnitine
+totallfree (~rnol/g)
+
+Patient
+
+Before
+
+After
+
+Before
+
+After
+
+1
+2
+3
+4
+
+19/15?
+1.2/1.2/
+0
+91544
+
+25-60117-33$
+9-2819-1 711
+
+0.17/0.11§
+].I**
+ND
+0.97**
+
+ND
+2.7tt
+ND
+ND
+
+Wt (percentile)
+
+Anemia (Hb g/dL)
+
+Before
+
+Improved function
+
+After
+
+Before
+
+After
+
+Motor
+
+Cardiac
+
+3
+3
+
+50
+50
+$$
+
+<20
+
+11 11
+
+10.2
+5
+NR
+Hct 28%
+
+12.2
+7.1-11.8
+NR
+Hct 38%
+
++
++
++
++
+
++
++
++
++
+
+Cognitive
+
++
+-
+
+NR
+
++
+
+* CPMC, Columbia-Presbyterian Medical Center; NCP, noncollagen protein; ND, not done; NR, not recorded.
+f Normal control values: 5 1.5 f 11.6/40.0
+$ l wk later.
+
+4 Normal
+
++ 9.5 Pmol/L.
+
+control values: 3.6112.69 + 0.56 Pmol/g wet wt.
+
+1) Normal control values: 45 + 6.5134 + 8.8 jtmol/L.
+
+7 1-2 y later.
+**Normal control values: 20.5 f 8.7/18.0 + 8.1 pmol/g NCP.
+f f l y later.
+$$ Wt increased; percentile not determined.
+$9 Normal control values: 35-56129-45 pmol/L.
+11 11 Wt increased 1.5 kg after 5/12 y; percentile not determined.
+
+Months of therapy
+Fig. 1. Left ventricular dimensions in patient 1. Longitudinal follow-up of ratio between actual and percent predicted left ventricular end diastolic
+(El) and end systolic (+) dimensions after initiation of carnitine therapy. Accelerated response evident during 1st mo of therapy persists toward a
+plateau by 8 mo of treatment.
+
+profile were normal. Muscle biopsy showed lipid storage myopathy with normal mitochondria. He was started on oral carnitine
+therapy (150 mg/kg/d) and digoxin, and his heart rate dropped
+from 120 to 80 beats per min in a few days. There was a gradual
+improvement of cardiac function and the ECG normalized in 2
+y. The patient regained normal strength and weight in 1 y and
+the recurrent abdominal pains subsided. He continued to have
+hypochromic anemia with Hb levels between 7 and 12 g/dL. A
+repeat IQ was 75. By 9 y of age, he had shown significant clinical
+improvement, and a second muscle biopsy showed no lipid
+accumulation despite persistently low serum and muscle carnitine concentrations (Table 2).
+Case 3. A 4%-y-old girl of Yugoslovian origin born of healthy
+nonconsanguinous parents had normal early growth but was
+always hypotonic. At 2'12 y, during an episode of pharyngitis, she
+became flaccid and somnolent and, on hospitalization, was found
+to have hypoglycemia ( 1 mmol/L), elevated serum glutamicoxaloacetic transaminase, and normal ammonia. An EEG re-
+
+vealed large amplitude slow waves. She returned to normal and
+had normal serum glucose after 24 h; the serum glutamicoxaloacetic transaminase and EEG normalized after 1 wk. She
+experienced similar episodes at 3 and 3% y of age, coinciding
+with viral infections and fever and accompanied by nonketotic
+hypoglycemia, elevation of total serum lipoproteins, and increased CK (1280 U/L; normal <150). Serum and urine amino
+acids and serum lactate and pyruvate were normal. An oral
+glucose tolerance test after insulin and glucagon challenges was
+normal. Echocardiogram revealed a cardiomyopathy. A 24-h
+fasting test resulted in marked hypoglycemia and somnolence
+that lasted 3 d despite glucose infusion. Total serum lipoproteins
+were again elevated and CK was slightly raised. During a separate
+17-h fast, urine organic acids were normal. Free carnitine in the
+blood was undetectable in the presence of high urinary acyl
+carnitine, suggesting a renal carnitine leak. Oral carnitine therapy
+resulted in marked improvement of cardiac function with normal
+echocardiogram and ECG, increased strength, and improved
+appetite and growth.
+
+TEIN ET AL.
+
+Fig. 2. Carnitine uptake studies. Mean (+SEM) rates of carnitine uptake by cultured skin fibroblasts from patient 1 (W), mother of patient 1 (D),
+father of patient I (A), and six controls (0).
+The data represent two separate experiments (each performed in duplicate) in the patient and her parents
+and three to four separate experiments (each performed in duplicate) in each control. a, rates of uptake with extracellular carnitine concentrations
+ranging from 0.1 to 2.0 pmol/L. b, rates of uptake with extracellular carnitine concentrations ranging from 1.0 to 50 ~ m o l / L .
+
+Table 3. Carnitine uptake in cultured fibroblasts
+Km
+
+V,,,
+
+( 10-6 mol/L)
+
+Normal controls
+( n = 6; 3 female, 3 male)
+
+uptake
+
+% Control
+
+vmax
+
+( 10-l2 mol/min/mg)
+
+5.5 + 0.58*
+
+3.4
+
++ 0.36*
+
+100
+
+Disease controls
+Carnitine palmitoyl transferase deficiency
+Methylmalonic acidemia
+Hyperinsulinism
+Primary cardiomyopathy
+Mother
+5.0
+5.0
+5.8
+5.7
+
+Parents
+Case 1
+Case 2
+Case 3
+Case 4
+
+Father
+5.0
+5.0
+5.8
+
+Mother
+1.33
+1.50
+1.33
+0.57
+
+Father
+1.33
+0.44
+0.75
+
+Mother
+40
+44
+40
+17
+
+Father
+40
+13
+22
+
+* Mean + SD.
+Table 4. Maior clinical features-literature
+
+Reference
+Chapoy et a/. (19) 1980
+Tripp et a/. (20) 1981
+Case 1
+Case 2
+Waber et al. (2 1) 1982
+Eriksson et a/. (13) 1988
+Case 1
+Case 2
+Treem et a/. (14) 1988
+
+Affected
+Age at
+siblings
+onset
+(n)
+Consanguinity (mo)
+Sex
+M
+
++(I)
+
+-
+
+3
+
+F
+M
+M
+
++(3)
++(3)
++(I)
+
+-
+
+11
+26
+40
+
+F
+M
+F
+
++(I)
++(I)
+
+-
+
++
+
+Presenting
+feature
+Coma
+
++ cardiac
+
+Cardiac
+Cardiac
+Cardiac
+
+<48
+Cardiac
+<I 8
+Cardiac
+3.5 Coma
+
+series
+
+Cardio- Weakness or
+myopathy motor delay Coma/seizure Hepatomegaly
+
++
+
++
+
++
++
++
++
++
++
+
+-
+
++/+
+
++
+-(+sibs)
+
++
++
+
++
++/+
+
++
+
+Table 5. Laboratory features and response to carnitine therapy-literature series
+% Normal tissue
+
+Beneficial response to carnitine therapy
+
+carnitine
+
+4
+
+Reference
+
+Sex
+
+jJ
+Blood
+sugar
+
+Chapoy et al.
+(19) 1980
+Tripp et al.
+(20) 1981
+Case 1
+Case 2
+Waber et al.
+(21) 1982
+Eriksson et al.
+(13) 1988
+Case 1
+Case 2
+Treem et al.
+(14) 1988
+
+M
+
++
+
+F
+M
+M
+
+F
+M
+F
+
+Fasting
+ketogenesis
+
++
+
+Dicarboxylicaciduria
+-
+
+-
+
+-
+
++
+
+-
+
++
+
+-
+
+(small adipic)
+
+* N (normal control values) = 35.5 -1- 5.6 pmol/L.
+
+t N = 35-75
+
+pmol/L.
+$ N = 20-80 pmol/L.
+5 N = 37-58128-47 pmol/L.
+
+Anemia
+
++
++
+
++
+
+Plasma
+carnitine
+pM total
+(free)
+4.8*
+
+Muscle
+1.5
+
+Liver
+6
+
+4.8 (3.6)t
+4.5 (3.5)t
+4.2$
+
+1
+1
+2
+
+30
+
+<3%
+
+<1
+
+0-2.29
+
+<1
+
+Heart
+
+5
+
+Lipid
+storage
+in
+muscle
+
+Lipid
+storage
+inliver
+
++
+
++
+
++
++
+
++
+
+<1
+5
+
++
+
++
+
+d
+
+Renal
+% reabsorption
+
+%
+
+Normal
+muscle
+carnitine
+40
+
+Plasma
+carnitine pM
+total(free)
+18
+
+5
+
+13-44 (12-36)
+
++
++
++
+
+22-55
+
+Muscle
+
+Cardiac
+
++
+
++
+
++
++
+
++
++
+
+Ketogenesis
+
++
+2.6
+
+44 (24)
+
++
+
+252
+
+TEIN ETAL.
+
+Case 4. A 7Ih-y-old girl was born uneventfully of healthy
+nonconsanguinous Mexican parents. An older brother died at
+age 6 of progressive congestive heart failure. A second 13-y-old
+brother suffers from chronic bronchiectasis without cardiac disease and has developmental delay and unusual facial features
+but normal chromosomes.
+The proband was noted to have an anemia at 15 d of age. At
+2 mo, she had anorexia and diaphoresis on feeding, and a heart
+murmur was detected. At 7 mo, the anemia was characterized as
+normochromic and normocytic with a low reticulocyte count
+(Table 2). Serum iron, total iron binding capacity, and femtin
+were normal. Repeated work-ups for blood loss were negative. A
+bone marrow biopsy at 32 mo showed decreased iron stores, for
+which she was treated. A Hb electrophoresisat 54/~2y was normal.
+There was mild gross motor delay; she rolled over at 9 mo and
+walked at 18 mo. A chest x-ray and ECG at 19 mo were
+reportedly normal. From 3 y of age, she had progressive failure
+to thrive, anorexia, low energy, elevated respiratory rate, and
+occasional complaints of chest pain. An echocardiogram at 5 % ~
+Y revealed mild cardiomegal~.At age 5, she also suffered from
+multiple episodes of somnolence and vomiting at school that
+forced her to return home. She was admitted to the hospital at
+69/~2y in severe congestive heart failure with mitral regurgitation.
+Echocardiography revealed a dilated cardiomyopathy involving
+both the left and the right side of the heart with poor contractility.
+An ECG revealed mild 1st degree heart block, biventricular
+hypertrophy, and peaked T waves. She also had generalized
+weakness with decreased muscle bulk and persistent anemia
+(hematocrit 30). Initial therapy included digoxin and furosemide.
+Metabolic investigations revealed very low Serum carnitine Concentrations with normal levels of short- and long-chain esterified
+acyl carnitines. CK was normal. Muscle biopsy showed type I
+fiber predominance, lipid storage, and subsarcolemmal aggregates of enlarged mitochondria containing lipid and dense matrix
+granules. On oral carnitine therapy, she had marked clinical and
+ECG improvement with concomitant reduction of cardiac chamber dimensions. Motor function also improved, although she has
+some residual weakness (415) in the shoulder girdle after 5 mo
+of therapy. Her affect and school performance have improved
+dramatically and she is currently a top student.
+
+Cell protein was measured in the remaining 200 pL of the
+hydrolysate for each individual plate by the method of Lowry et
+al. (17). All experiments were performed in duplicate and run in
+parallel with one or two control cultures. Reproducibility of
+results was confirmed by separate experiments with the same cell
+line. Specific uptake of radioactivity was used to calculate the
+rates of total carnitine uptake. Apparent Michaelis-Menten constants (Km and V,,, values) were determined by linear regression
+analysis of Lineweaver-Burk plots.
+Carnitine uptake studies were also performed in patients with
+other defects in fatty acid oxidation (e.g. carnitine palmitoyl
+transferase deficiency) as well as with secondary carnitine deficiency (e.g. methylmalonic aciduria) to confirm the specificity
+and sensitivity of our studies for a primary carnitine transporter
+defect.
+RESULTS
+
+Table 1 summarizes the major clinical and laboratory features
+of our four cases. Two children had affected siblings, but none
+the families were consanguinous and the ethnic origins were
+varied, ~ 1 had
+1 early age of onset varying from 1 mo to 17 mo.
+The presenting features were cardiomyopathyin two cases, motor
+delay in one, and hypotonia in the fourth case. All four children
+had cardiomyopathy with markedly increased cardiac dimensions and three had strikingly peaked T waves on ECG. Motor
+weakness and delay with lipid storage myopathy were noted in
+three cases and two children had mild elevations of serum CK.
+Enzymes of P-oxidation in muscle were normal in the one child
+in whom they were measured. One child (patient 3) had documented and one (patient 4) had suspected decreased fasting
+ketogenesis, which probably predisposed them to episodes of
+hypoglycemic encephalopathy.
+Three &Idren had failure to thrive and anemia. Only one
+child had fixed cognitive delay. Decreased renal reabsorption of
+carnitine was found in the three children in whom it was measured. Abnormal dicarboxylic aciduria was not found in any of
+the three children in whom it was measured.
+The concentrations of serum carnitine were very low in all
+four children before carnitine supplementation (Table 2), and
+were not completely normalized even with large-dose oral carnitine therapy. Both parents of patient 2 had low serum carnitine
+MATERIALS A N D METHODS
+values although not nearly as low as their son's. Muscle carnitine
+All studies on the patients were performed with prior informed values were 4 and 6% of normal in two children and remained
+parental consent and with the approval of the institutional review low (15%) in one child who underwent a repeat muscle biopsy
+boards of the various universities and hospitals. Total and free months after carnitine therapy.
+On the basis of clinical, echocardiographic, and ECG criteria,
+carnitine concentrations in plasma, urine, and muscle were
+measured as described by McGany and Foster (15) for cases 1 cardiac function improved dramatically in all four cases after
+and 4. Urinary organic acids for case 1 were measured by Dr. therapy, and the improvement was notable even within 1 mo of
+Orville Mamer (McGill University, Montreal, Canada). Dicar- therapy. For example, in patient 1, the left ventricular endboxylic acids were identified in the urine as the trimethylsilyl diastolic dimension had decreased from 205 to 163% predicted
+derivatives by gas-liquid chromatography and were confirmed (normal, loo%), the left ventricular end-systolic dimension had
+by gas chromatography-mass spectroscopy. The urinary frac- decreased from 237 to 174% predicted (normal, loo%), and the
+tional excretion of carnitine was calculated on the basis of the ECG showed a dramatic change with an inversion of the formerly
+ratio of the clearance of carnitine to the clearance of creatinine. peaked T waves in the lateral precordial leads. Clinically, motor
+Muscle biopsy specimens were immediately frozen for histo- function was significantly improved in all four patients who had
+chemistry and for the measurements of carnitine and P-oxidation been weak before therapy. Two children showed significant
+enzymes. Other portions were fixed for light and electron mi- improvement in affect and school performance after carnitine
+croscopy. All @-oxidationenzymes in muscle were assayed spec- therapy. Three children had significant failure to thrive with a
+trophotometrically, as previously described by Trevisan et al. remarkable improvement after therapy. In contrast, there was
+variable improvement in the variegate anemia documented in
+(16).
+Fibroblasts from the patients and their parents (passage 6-14) three cases.
+Carnitine uptake in fibroblasts from normal controls suggested
+and from six control subjects (passage 6- 12) were plated onto
+9.5 cm2 six-well plates (Gibco Laboratories, St. Lawrence, MA) the presence of a high-afinity, low-concentration, specific carand allowed to grow to confluence in RPMI 1640 medium rier-mediated transport process with an apparent Km of 5.5 &
+(Gibco) supplemented with 10% FCS (medium total carnitine, 0.58 pM and a maximal velocity in rate of uptake of 3.4 & 0.36
+2 pmol/L). The uptake of carnitine was investigated in cultured pmol/min/mg of protein (Fig. 2A and B; Table 3). These findings
+skin fibroblasts by the method of Treem et al. (14). Cell-bound are in reasonable agreement with previously reported values (14,
+radioactivity was determined in 800 hL of the final fibroblast 18). Similar values were obtained in one child with carnitine
+hydrolysate using Aquasol-2 with a counting efficiency of 60%. palmitoyl transferase deficiency (Km = 5.0 pM; V,, = 3.33
+
+CARNITINE-RESPONSIVE CARDIOMYOPATHY
+
+pmol/min/mg) and in another with hyperinsulinism (Km = 6.6
+pM; Vmax= 3.00 pmol/min/mg). Treem et al. (14) also showed
+that children with secondary carnitine deficiency disorders due
+to medium-chain and long-chain acyl CoA dehydrogenase deficiencies had Km and V,,, values similar to those of controls.
+In contrast, the fibroblasts from our four patients showed
+minimal or no uptake of carnitine throughout the entire range
+of physiologic concentrations of carnitine precluding the possibility of calculating Km and V,,, values (Fig. 2A and B; Table
+3). At a carnitine concentration of 5 pmol/L, the mean rate of
+uptake in the four patients was 0.0432 (2%) as compared with
+1.955 5 0.440 pmol/min/mg protein in the controls. Their
+parents, on the other hand, showed intermediate maximal rates
+of carnitine uptake ranging from 13 to 44% of control V,,,
+values, whereas Km values were normal (Fig. 2A and B; Table
+3). At very high concentrations of carnitine (10 mM), patients,
+parents, and controls had the same rate of carnitine uptake,
+reflecting a common low-affinity, high-concentration, nonspecific diffusion uptake.
+PREVIOUSLY REPORTED CASES
+
+If the diagnosis of primary systemic carnitine deficiency requires direct demonstration of a carnitine uptake defect, then
+only the case of Treem et al. (14) should be considered in addition
+to our patients. However, there are six other cases that warrant
+consideration on the basis of indirect evidence including: 1 ) very
+low serum and tissue carnitine concentrations, 2) cardiomyopathy, 3) a rapid and dramatic response to carnitine therapy or, if
+no carnitine was given, a positive family history of a similarly
+affected sibling with carnitine-responsive cardiomyopathy, and
+4) absence of abnormal dicarboxylic aciduria, which is seen in
+patients with secondary deficiency due to defects in P-oxidation
+or a lack of repletion of carnitine tissue stores despite oral
+carnitine therapy, implying a transporter defect (Tables 4 and 5).
+Primary carnitine-responsive cardiomyopathy was also distinguished from cases of X-linked cardiomyopathy with neutropenia, short stature, abnormal carnitine metabolism, and dicarboxylic aciduria (22-24).
+DISCUSSION
+
+Our results confirm that these four children have primary
+carnitine deficiency. All had very low serum carnitine and three
+also had low concentrations of muscle carnitine. Impairment of
+fatty acid oxidation was suggested by deficient ketogenesis during
+fasting and by the accumulation of lipid in muscle. The tissues
+most severely affected, heart, muscle, liver, and kidneys, derive
+much of their energy from fatty acid oxidation, for which carnitine is essential. The normal actitivies of P-oxidation enzymes in
+the muscle of one patient and the absence of dicarboxylic aciduria in three patients indicate that carnitine deficiency in these
+children was not secondary to other defects of fatty acid oxidation
+known to be associated with secondary carnitine deficiency. The
+rapid and dramatic clinical improvement in cardiac function,
+strength, and growth also suggested that the defect was due to
+primary carnitine deficiency and not to other abnormalities of
+fatty acid oxidation. In patients with secondary carnitine deficiency, it is still controversial as to whether carnitine therapy is
+beneficial in the acute or chronic stages (6).
+The studies of carnitine uptake in vitro support the concept
+that primary carnitine deficiency is due to a defect in the active
+transport of carnitine, as suggested by Treem et al. (14) and
+Eriksson et al. (13). Under normal conditions, the carnitine
+concentration in tissues other than brain is 20- to 50-fold higher
+than in plasma (6). Uptake therefore occurs across a large concentration gradient and is maintained by a transport system
+driven by a large sodium potential across the plasma membrane
+(1,25). Because carnitine is not degraded in the body, the kidney
+is primarily responsible for controlling body stores and is capable
+
+253
+
+of adjusting to wide variations in dietary carnitine because it has
+a threshold of 40 pmol/L, which is identical to the normal serum
+concentration (26). Three patients in our series in whom urinary
+carnitine was measured showed decreased renal reabsorption,
+indicating a defect of carnitine transport in the kidney, as demonstrated in several literature cases (13, 14, 21). Also, muscle
+carnitine did not return to normal in our patient 2 when plasma
+carnitine concentrations were raised, suggesting that transport
+may also be impaired in muscle, as suggested by Treem et al.
+(14). Muscle carnitine concentration in three of our patients, as
+well as in six other reported childhood cases, was below 5% of
+normal, and below 2% in six of them, indicating severe tissue
+depletion. Furthermore, in several literature cases in which the
+carnitine-deficient patients underwent second muscle biopsies,
+carnitine therapy also failed to normalize the carnitine concentrations in muscle (14,20), although there may have been clinical
+improvement or decreased muscle lipid storage (Table 5).
+Our in vitro fibroblast studies showed a defect in the specific
+high-affinity, low-concentration, carrier-mediated carnitine uptake mechanism. Other clinically affected tissues in our patients
+could have been depleted of carnitine because of the low serum
+carnitine concentrations, which, in turn, were due to decreased
+renal conservation. In this case, however, one would expect tissue
+concentrations to be corrected when serum carnitine concentration is restored to normal. Alternatively, some tissues may share
+with fibroblasts a defect in the specific plasma membrane carnitine transporter, which would explain why carnitine concentrations failed to increase after carnitine replacement therapy. The
+therapeutic effect of carnitine administration may then result
+from the flooding of the unaffected nonspecific-diffusion, lowaffinity, high-concentration uptake mechanism, thereby bypassing the specific carrier-mediated transporter.
+In contrast to muscle, liver carnitine concentrations rose dramatically from 3.5 to 400% and from 5 to 55% of normal in two
+patients reported in the literature after oral supplementation (14,
+19), suggesting that carnitine depletion in liver was due to low
+serum carnitine concentrations. Treem et al. (14) proposed that
+their patient had a defect in a plasma membrane carnitine carrier
+that normally is shared by muscle, kidney, and fibroblasts but
+not by liver. Our patient 2 suggests similar conclusions. Whether
+the severe cardiomyopathy is due to low serum carnitine or to a
+specific transporter defect is unclear because no patient has had
+repeat endocardia1 biopsies. Evidence for a specific transporter
+defect in muscle and heart could be provided by carnitine uptake
+studies in cultured skeletal or cardiac muscle from patients. The
+Km values for carnitine uptake in cultured human heart cells
+(4.8 + 2.2 pM) (27) and muscle (1.90 f 1.38 pM) (18) were
+similar to the Km observed by us in cultured fibroblasts (6.0 a
+0.66 pM) and very different from the Km values observed in
+human liver (500 pM) (28) and brain (>lo00 pM) (28).
+On review of the literature, the age of presentation was under
+4 y of age in seven cases and under 12 mo in three (Table 4).
+The presenting feature was cardiomyopathy in six cases and
+coma in two. Cardiomyopathy was present in all cases by definition. The response to carnitine was dramatic, specific, and
+evident within the 1st mo of therapy. In our case 1, the initiation
+of carnitine therapy made other medications, such as digoxin
+and diuretics, unnecessary. The characteristic peaked T waves
+on ECG also disappeared with therapy (cases l , 2 , and 4; ref. 20,
+2 1).
+Heart has a high concentration of carnitine and is critically
+dependent upon fatty acid oxidation as an energy source. In
+addition, carnitine plays an important role in trapping toxic
+long-chain acyl CoA metabolites that accumulate in ischemia
+and may promote sarcolemmal membrane damage and arrhythmias. It has been suggested that long-chain acyl CoA may deform
+cellular membranes and potentiate the toxic effects of hydroperoxides, high Ca2+concentrations, or elevated temperatures on
+mitochondria1 membranes, and that these toxic effects are delayed by carnitine (29-3 1).
+
+TEIN ET AL.
+
+Weakness was present in most cases, but was surprisingly
+absent in one patient (20) despite a low muscle carnitine concentration of 1 %.
+Coma was probably due to hypoglycemia which, in turn, may
+be explained by the inability to decrease glucose consumption in
+later stages of fasting when ketone bodies generated from hepatic
+fatty acid oxidation normally replace glucose as a source of
+energy. Cognitive delay and pyramidal signs in two cases (14,
+19) could have been the consequences of hypoglycemic encephalopathy and cardiac or respiratory arrest.
+Unusual and unexplained CNS signs occurred in case 1 of
+Tripp et al. (20), a 9-y-old child who began having syncopal
+episodes at age 8 and had bilateral extensor plantar responses
+and minimal athetoid movements. Similarly, patient 2 in our
+series, a 10-y-old boy, had moderate mental retardation with no
+obvious predisposing factors on history. The significance of
+carnitine to CNS function or development cannot be accurately
+assessed at present other than as a key preventive agent against
+hypoxic-ischemic encephalopathy secondary to cardiomyopathy
+or hypoglycemic hypoketotic encephalopathy. It is, however,
+interesting to note that in cases 1 and 4 of our series and in the
+case of Waber et al. (2 l), a dramatic improvement in affect and
+cognitive performance was noted after carnitine therapy.
+The importance of carnitine for the bowel, another tissue
+highly dependent on the oxidation of fatty acids, is raised by our
+patient 2, who had recurrent episodes of unexplained diarrhea
+and abdominal pains that resolved with carnitine therapy. None
+of the reported cases had this problem, but smooth muscle
+disorders (e.g. pyloric stenosis, recurrent stridor, and gastroesophageal reflux) were present in 3/4 of the children in the family
+described by Tripp et al. (20).
+An intriguing question is the possible role of carnitine deficiency in the variegate anemia noted in three of our patients and
+in three other reported cases. Some response to carnitine treatment was noted in the three patients in whom Hb was measured
+after carnitine administration. In our series, case 2 had a hypochromic anemia and case 4 had a normochromic normocytic
+anemia with a low reticulocyte count and normal serum iron.
+Both patients of Tripp et al. (20) had a mild anemia and one of
+them had a trial of iron therapy with no response. The patient
+of Waber et al. (2 1) had a Hb of 10.4 g/dL with mild macrocytosis
+and normal serum ferritin, folate, B12,and bone marrow aspirate.
+A male sibling of this patient died at age 23 mo with cardiomyopathy and mild anemia unresponsvie to iron therapy. The role
+of carnitine in the RBC is not well understood, but it has been
+proposed that carnitine may protect the RBC from membrane
+damage by toxic fatty acyl CoA derivatives (20, 32) or that it
+may improve lipid metabolism in the RBC membrane (33).
+Combining our four cases with the seven literature cases
+showed a nearly equal sex distribution (6 female; 5 male), a
+history of affected siblings in eight cases, and asymptomatic
+parents, suggesting an autosomal-recessive pattern of inheritance.
+Our finding that the V,,, in all seven parents in our series was
+decreased to the heterozygote range (13-44% of control V,,
+values) further supports this inheritance pattern and indicates
+that even a residual uptake of 13% is sufficient for normal
+function. There was no consanguinity in the four families studied
+by us and the patients had diverse ethnic backgrounds, suggesting
+that the defect is genetically widely distributed. Compared with
+uptake studies, serum carnitine concentrations in the parents are
+not good indicators for a decreased plasma membrane carnitine
+transporter. For example, although both parents of case 2 had
+low serum carnitine concentrations, the father of case 1 had
+normal serum carnitine concentrations despite a similarly decreased in vitro uptake. The variable serum concentrations in
+the presumed heterozygote parents was also described in other
+families (14, 20). Therefore, serum carnitine concentrations in
+the parents are a useful and simple screen, but in vitro cultured
+fibroblast uptake studies provide more definitive evidence of
+heterozygosity. The normal Km values for carnitine substrate
+
+concentration and the reduced V,, values for carnitine uptake
+in heterozygote parents suggest the presence of a reduced number
+of normally functioning carnitine receptors, but this remains to
+be confirmed.
+Primary systemic carnitine deficiency is a specific entity characterized by carnitine-responsive cardiomyopathy with or without weakness, hypoglycemic hypoketotic encephalopathy, failure
+to thrive, and anemia with low plasma and tissue concentrations
+of carnitine, lipid storage in muscle and liver, and severe renal
+leak of carnitine. Exclusion of other defects in fatty acid oxidation
+is essential. The importance of an accurate diagnosis of this
+potentially fatal entity lies in the eminently treatable nature of
+the disorder through lifelong oral carnitine supplementation.
+Carnitine uptake studies in cultured skin fibroblasts are important for diagnosis and screening of siblings and heterozygote
+parents. These studies are also useful in understanding pathogenesis and investigating the molecular basis of this disease. Given
+the frequent history of previously unexplained sibling deaths in
+these families, early identification of presymptomatic siblings
+with institution of carnitine supplementation may decrease immediate and long-term morbidity and mortality.
+
+Note added in proof After submission of our manuscript, we
+noted the publication by Eriksson et al. 1989 (Transport of
+carnitine into cells in hereditary carnitine deficiency. J Inher
+Metab Dis 12:108-111) in which the workers directly demonstrated a defect in carrier-dependent carnitine transport in fibroblasts from the girl with the cardiomyopathy previously described
+in Ericksson et al. 1988 (Eur J Pediatr 147:662-663, cited as
+reference no. 13), thus further supporting our data and adding
+another literature case with confirmed skin fibroblast carnitine
+uptake defect.
+Acknowledgments. The authors thank Dr. Charles A. Stanley,
+Children's Hospital of Philadelphia, for his valuable scientific
+advice. We also thank Ann Zaragoza for excellent word processing. The EMG and NCS for case 1 were performed by Dr. Dale
+Lange, Neurological Institute, New York.
+REFERENCES
+I. Bremer J 1983 Carnitine-metabolism and functions. Physiol Rev 63:14201480
+2. Engel AG, Angelini C 1973 Carnitine deficiency of human skeletal muscle
+with associated lipid storage myopathy: a new syndrome. Science 179399902
+3. Angelini C, Trevisan C, Isaya G, Pegolo G, Vergani L 1987 Clinical varieties
+of carnitine and carnitine palmitoyl transferase deficiency. Clin Biochem
+20: 1-7
+4. DiMauro S 1979 Metabolic myopathies. In: Vinken PJ, Bruyn GW (eds)
+Handbook of Clinical Neurology, Vol41, Diseases of Muscle, Part 11. North
+Holland, New York, pp 175-234
+5. Rebouche CJ, Engel AG 1983 Carnitine metabolism and deficiency syndromes.
+Mayo Clin Proc 58:533-540
+6. Stanley CA 1987 New genetic defects in mitochondria1 fatty acid oxidation
+and carnitine deficiency. Adv Pediatr 34:59-88
+7. Coates PM, Hale DE, Stanley CA, Glasgow AM 1984 Systemic carnitine
+deficiency simulating Reye syndrome. [letter] J Pediatr 105(4):679
+8. Hale DE, Cruse RP, Engel AG 1985 Familial systemic carnitine deficiency.
+Arch Neurol 42: 1133
+9. Turnbull DM, Bartlett K, Stevens DL, Alberti KG, Gibson GJ, Johnson MA,
+McCulloch AJ Sherratt HS 1984 Short-chain acyl-CoA dehydrogenase deficiency associated with a lipid-storage myopathy and secondary carnitine
+deficiency. N Engl J Med 31 1:1232-1236
+10. Trevisan CP, Reichmann H, De Vivo DC, DiMauro S 1985 Beta-oxidation
+enzymes in normal human muscle from a patient with an unusual form of
+myopathic carnitine deficiency. Muscle Nerve 8:672-675
+I 1. Rebouche CJ, Engel AG 1980 I n vitro analysis of hepatic carnitine biosynthesis
+in systemic carnitine deficiency. Clin Chim Acta 106:295-300
+12. Rebouche CJ, Engel AG 1984 Kinetic compartmental analysis of carnitine
+metabolism in the human carnitine deficiency syndromes. Evidence for
+alterations in tissue carnitine transport. J Clin Invest 732357-867
+13. Eriksson BO, Lindstedt S, Nordin 1 1988 Hereditary defect in carnitine
+membrane transport is expressed in skin fibroblast. Eur J Pediatr 147:662663
+14. Treem WR, Stanley CA, Finegold DN, Hale DE, Coates PM 1988 Primary
+carnitine deficiency due to a failure of carnitine transport in kidney, muscle
+and fibroblasts. N Engl J Med 319(20): 1331-1 336
+
+

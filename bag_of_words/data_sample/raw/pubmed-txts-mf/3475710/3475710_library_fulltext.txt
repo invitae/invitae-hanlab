@@ -1,0 +1,1157 @@
+Proc. Natl. Acad. Sci. USA
+Vol. 84, pp. 5947-5951, August 1987
+Medical Sciences
+
+Mutations in the human adenosine deaminase gene that affect
+protein structure and RNA splicing
+(adenosine deaminase deficiency/severe combined immunodeficiency)
+
+ANN L. AKESON, DAN A. WIGINTON, J. CHRISTOPHER STATES, CHARLES M. PERME, MARY R. DUSING,
+AND JOHN J. HUTTON*
+Children's Hospital Research Foundation and Department of Pediatrics, University of Cincinnati College of Medicine, Cincinnati, OH 45229
+
+Communicated by Eloise R. Giblett, May /1, 1987 (receivedfor review March 5, 1987)
+
+Adenosine deaminase (ADA; adenosine amiABSTRACT
+nohydrolase, EC 3.5.4.4) deficiency is one cause of the genetic
+disease severe combined immunodeficiency. To identify mutations responsible for ADA deficiency, we synthesized cDNAs to
+ADA mRNAs from two cell lines, GM2756 and GM2825A,
+derived from ADA-deficient immunodeficient patients. Sequence analysis of GM2756 cDNA clones revealed a different
+point mutation in each allele that causes amino acid changes of
+alanine to valine and arginine to histidine. One allele of
+GM2825A also has a point mutation that causes an alanine to
+valine substitution. The other allele of GM2825A was found to
+produce an mRNA in which exon 4 had been spliced out but had
+no other detrimental mutations. S1 nuclease mapping of
+GM2825A mRNAs showed equal abundance of the full-length
+ADA mRNA and the ADA mRNA that was missing exon 4.
+Several of the ADA cDNA clones extended 5' of the major
+initiation start site, indicating multiple start sites for ADA
+transcription. The point mutations in GM2756 and GM2825A
+and the absence of exon 4 in GM2825A appear to be directly
+responsible for the ADA deficiency. Comparison of a number
+of normal and mutant ADA cDNA sequences showed a number
+of changes in the third base of codons. These changes do not
+affect the amino acid sequence. Analyses of ADA cDNAs from
+different cell lines detected aberrant RNA species that either
+included intron 7 or excluded exon 7. Their presence is a result
+of aberrant splicing of pre-mRNAs and is not related to
+mutations that cause ADA deficiency.
+
+we believe account for ADA protein instability in GM2756
+and GM2825A. We also report evidence for aberrancies of
+RNA splicing in both normal and ADA-deficient cells.
+
+METHODS
+Poly(A)+ RNA Isolation. All cell lines were obtained from
+the Human Genetic Mutant Cell Repository (Camden, NJ).
+Poly(A)+ RNA was isolated from whole cell extracts by
+guanidium thiocyanate extraction, cesium chloride gradient
+centrifugation, and oligo(dT) chromatography (10).
+SI Nuclease Mapping. A 1330-base-pair (bp) BamHI/Nco I
+restriction fragment derived from pADA211 cDNA (6) (Fig.
+1, probe II) was 3'-end-labeled with [a-32P]dCTP (11). An
+excess of probe was hybridized to 2 jig of poly(A)+ RNA or
+with 2 ptg of calf liver tRNA. The hybridization products were
+digested with SI nuclease (Pharmacia) at 1100 units/ml at
+room temperature for 1 hr (12). The digestion products were
+separated on a 15-cm-long 4.5% polyacrylamide gel containing 8.3 M urea.
+Preparation and Analysis of B-Lymphoblast cDNA Libraries. cDNA was synthesized by the method of Gubler and
+Hoffman (13). The size-selected cDNA was tailed with
+terminal deoxynucleotidyltransferase and dCTP, annealed
+with G-tailed Pst I-cut pBR322, and transformed into competent Escherichia coli RR1. Tetracycline-resistant colonies
+were transferred to nitrocellulose master filters, which were
+used to prepare two replicas on Zetabind membranes (AMF
+Cuno, Meriden, CT). Filters were processed by the procedure of Geyer and Johnson (14), screened by hybridization
+with cDNA probes derived from pADA211 (6) by Nco I
+digestion (Fig. 1, probe I) or Pst I digestion (Fig. 1, probe III),
+and labeled by the random primer method (15). Pst I
+fragments of the ADA cDNAs were subcloned into M13mpl8
+and sequenced by a modified dideoxy-chain termination
+method (16). To resolve compressions, sequencing reactions
+were carried out with 7-deaza-dGTP (Boehringer Mannheim)
+
+Adenosine deaminase (ADA; adenosine aminohydrolase, EC
+3.5.4.4) is part of the purine salvage pathway catalyzing the
+deamination of adenosine and deoxyadenosine. While present in all mammalian tissues, ADA levels are regulated during
+both differentiation and development, particularly in
+lymphoid cells (1, 2). In humans, the genetic deficiency of
+ADA causes severe combined immunodeficiency, which is
+characterized by the failure of both B and T lymphocytes to
+function properly (3, 4). B-lymphoblast cell lines have been
+established from a number of ADA-deficient immunodeficient patients. Investigations of these cell lines have indicated
+that most of the genetic defects underlying ADA deficiency
+cause structural changes in the ADA protein (5, 6). Point
+mutations altering the ADA amino acid sequence have been
+reported for the ADA-deficient cell lines GM2471 (7) and
+GM1715 (8).
+Relative levels of ADA mRNA in the ADA-deficient cell
+lines GM2825A and GM2756 are normal (9). GM2825A cells
+contain mRNAs of abnormal size (6). Both lines contain <5%
+of normal ADA activity and immunoreactive protein (5). We
+describe here sequence analysis of ADA cDNA from these
+ADA-deficient cell lines. We have identified mutations that
+
+(17).
+
+Blot Hybridization Analysis of Genomic DNA. High molecular weight genomic DNA was isolated (18) and 10 ,g was cut
+with various restriction enzymes. Fragments were electrophoresed through a 1.0% agarose gel. The gel was processed
+by modification (19) of the Southern transfer procedure (20)
+using GeneScreenPlus (New England Nuclear). Probes were
+32P-labeled by the random primer method (15).
+
+RESULTS
+Si Nuclease Mapping. Normally spliced mature ADA
+mRNA would fully protect probe II (Fig. 1) from S1 nuclease
+digestion, giving a major band of 1330 bases. Such a band is
+
+The publication costs of this article were defrayed in part by page charge
+payment. This article must therefore be hereby marked "advertisement"
+in accordance with 18 U.S.C. §1734 solely to indicate this fact.
+
+Abbreviation: ADA, adenosine deaminase.
+*To whom reprint requests should be addressed.
+
+5947
+
+5948
+
+Proc. Natl. Acad. Sci. USA 84
+
+Medical Sciences: Akeson et al.
+
+(1987)
+
+I
+
+1I
+
+Probes
+
+III
+IV
+N B
+
+ADA
+cDNA
+
+P
+
+N
+
+P
+
+I I
+
+I11121 3 145
+I1 6 171 8 191 10 Iii
+0.5
+
+1.0
+
+12
+1.5 kb
+
+FIG. 1. Probes I-IV were prepared from pADA211 (6) by restriction endonuclease digestion and agarose gel isolation. Structures are
+compared to full-length ADA cDNA. The sizes of exons 1-12 are indicated by the relative size of the open boxes. N, Nco I; B, BamHI; P, Pst
+I.
+
+seen at the top of the autoradiogram in Fig. 2. The faint band
+in lane A (calf liver tRNA) is the result of self-hybridization
+of the probe. The presence of one major band in lanes B
+(ADA-deficient cell line GM2756) and C (normal cell line
+GM130) indicates that the vast majority of the ADA poly(A)+
+RNAs present in these cells is full-length mRNA. In lane D
+(ADA-deficient cell line GM2825A), there are two major
+bands of approximately equal intensity. The intensity of the
+1330-base band in lane D is approximately half that in lanes
+B and C. The 161-base fragment corresponds to the size
+anticipated from protection of the probe by ADA RNAs with
+exon 4 absent. This indicates that normal ADA mRNAs and
+ADA mRNAs missing exon 4 are present in approximately
+equal abundance in the cell line GM2825A, as previously
+suspected (6).
+
+M
+
+6222
+527
+
+A
+
+C
+
+D
+
+*_p _i
+
+-
+
+B
+
+-
+
+404
+
+-
+
+309
+
+-
+
+242
+238
+217
+201
+190
+
+__
+
+-
+
+180
+
+160
+
+:
+
+1 47
+
+FIG. 2. End-labeled S1 nuclease protection mapping of ADA
+RNAs. Lane A, tRNA; lanes B, C, and D, poly(A)+ RNA from cell
+lines GM2756, GM130, and GM2825A, respectively; lane M, molecular weight markers (sizes in bases).
+
+The bands of 540 and 621 bases in lanes B, C, and D
+correspond to the sizes anticipated from protection of the
+probe by ADA RNAs with intron 6 present or exon 7 absent
+(540 bases) and intron 7 present or exon 8 absent (621 bases).
+The faintness of the bands relative to the intensity of the
+bands corresponding to full-length protection of the probe
+indicates that they are minor species. In other S1 nuclease
+protection mapping experiments (data not shown) using a
+probe that was 5'-end-labeled at the junction of exons 8 and
+9, minor species were seen that signaled the presence of
+aberrant mRNAs with either exon 7 absent or intron 7
+present. There was no evidence of mRNAs containing intron
+6. The 540- and 621-base S1 nuclease-protected products
+were also seen in mapping experiments with total cellular
+RNAs isolated from two T-lymphoid lines, MOLT-4 and
+CCRF-CEM (data not shown). That these ADA mRNA
+species are found when T-cell RNA is mapped indicates that
+the splicing aberrations seen in the B-cell RNAs are not
+specific to B cells and therefore do not represent a posttranscriptional processing pathway specific to B cells.
+Sequence Analysis of ADA cDNAs from Deficient Cell Lines
+GM2756 and GM2825A. We have cloned and sequenced
+cDNAs corresponding to poly(A)+ RNAs encoded by both
+ADA alleles for the cell line GM2756 (Fig. 3). Each allele has
+a single point mutation affecting the amino acid sequence and
+several point mutations not affecting the amino acid sequence. Clone 2756-13b extends from one base short of the
+major transcription initiation site into the poly(A) tail. Compared to the consensus ADA cDNA sequence, clone 275613b has a base change at position 1081 (GCG to GTG), which
+results in an amino acid change of alanine to valine at amino
+acid 329. Clone 2756-15 is a full-length cDNA for the other
+ADA allele. In this allele, a point mutation at base 727 (CGT
+to CAT) results in an arginine to histidine change at amino
+acid 211. In addition to these point mutations, each allele has
+a point mutation in the third base of a codon that does not
+alter the amino acid encoded (Fig. 3; Table 1, columns a and
+b). In clone 2756-13b, the codon for Ser-110 is TCT rather
+than TCC, as found in the consensus sequence. In clone
+2756-15, the codon for Val-629 is GTA rather than GTG.
+Additional clones of each of the alleles were also analyzed.
+These partial clones have unusual characteristics, which
+suggest occasional aberrant splicing of ADA pre-mRNA.
+Clone 2756-la includes intron 7. We have previously reported
+a similar ADA cDNA sequence pADA3-3 (21). In both cases,
+the intron 7 sequence is identical to intron 7 of the normal
+ADA gene (24, 25). In contrast, clone 2756-2 has exon 7
+missing. Sequence analysis showed that exon 7 was cleanly
+spliced from the RNA used as template. As discussed below,
+
+Medical Sciences: Akeson
+consensus
+ADA cDNA
+
+Lt
+
+Proc. Natl. Acad. Sci. USA 84 (1987)
+GCG
+ala
+
+'S
+
+---I
+
+12T3T 4
+
+2756-1 3b
+
+al.
+
+GTG CGT
+val J arg
+
+TCC
+ser
+---I
+
+1
+
+et
+
+6
+
+17
+
+91 10
+
+8
+
+*
+
+11
+
+12
+
+*
+
+GTG
+val
+
+TCT
+serJ
+LI
+
+GTG
+val
+L
+
+CGT
+argJ
+
+L-
+
+L
+
+I
+
+111213 4 151 617181910II
+
+12
+
+*
+
+CGT
+arg
+
+2756-la
+
+GTG
+
+l--
+
+6 7 8 9 10
+
+val
+
+11i
+
+12
+
+intron 7
+2756-15
+
+*
+
+GTA
+val
+
+TCC
+ser -i
+
+I1 12131
+2756- 2
+
+4
+
+*
+
+CAT
+his
+
+GCG
+
+ala
+|,L1W
+
+151 61718191101111
+
+12
+
+*
+
+TCC
+
+GTA
+
+.3
+
+4
+
+GCG
+1lo
+
+val
+
+ser
+
+5
+
+d6789 10 11II
+
+12
+
+deleted
+
+FIG. 3. Sequence analysis of ADA cDNA clones for the ADAdeficient cell line GM2756. The consensus ADA cDNA sequence
+was derived from sequences of six cDNAs (6-8, 21-23), exons of two
+genes (24, 25), and the cDNAs of GM2756 and GM2825A as reported
+here. It is compared to full-length cDNA clones 2756-13b and 2756-15
+and the partial cDNA clones 2756-la and 2756-2. Exons 1-12 are
+shown as open boxes. Asterisks denote base changes relative to the
+ADA consensus sequence.
+we do not believe that the absence of exon 7 or the inclusion
+of intron 7 is relevant to ADA deficiency.
+We have previously shown by molecular hybridization to
+an ADA-specific cDNA probe that the ADA-deficient cell
+
+5949
+
+line GM2825A has two codominant mature mRNA species, a
+full-length 1.6-kilobase (kb) message and a shortened 1.45-kb
+message (6). The S1 nuclease mapping reported above
+indicates that the 1.45-kb message has a deletion of exon 4.
+Sequence analysis of two separate GM2825A cDNA clones
+(Fig. 4) confirms this observation. Clone 2825A-17b is a
+partial cDNA with 1148 bases of the total sequence. Exon 4
+is cleanly deleted from this clone. This cDNA has no other
+mutations that alter the ADA amino acid sequence. A second
+clone, 2825A-20, representing the same ADA allele, is missing exon 7 as well as exon 4. The deletion of exon 7
+corresponds to that seen in clone 2756-2. Clone 2825A-10
+represents the other ADA allele of this cell line (Fig. 4). It has
+only one point mutation that alters an amino acid. This
+mutation at base 1081 (GCG to GTG) changes amino acid 329
+from alanine to valine. While this change is identical to the
+one seen in clone 2756-13b, these clones do not represent the
+same ADA allele. Each has another distinct mutation that
+does not alter the amino acid sequence (Figs. 3 and 4; Table
+1, columns a and c). These mutations are in the codon for
+Ser-110 in clone 2756-13b and for Val-629 in clone 2825A-10.
+Clones 2825A-10 and 2825A-20 are also unusual in that they
+include an additional 48 bases and 31 bases, respectively, 5'
+to the major transcription initiation site. These additional 5'
+sequences agree with genomic sequence of this region (24, 25)
+and indicate that there are multiple transcription initiation
+sites within the 5' end of the human ADA gene. S1 nuclease
+analysis of the 5' ends of ADA mRNA in our laboratory
+(J.C.S., unpublished data) has shown that there is a major
+initiation site, base 1 of the consensus sequence, and several
+very minor initiation sites. Multiple initiation sites have been
+reported for the murine ADA gene (26).
+Genomic DNA Analysis. Deletions such as absence of exons
+4 and 7 in ADA mRNAs might be due to small deletions in the
+gene. Consequently, genomic DNA from GM2756, GM2825A, and the normal cell line GM2184 was analyzed by blot
+hybridization. DNA was digested with Nco I or HindIII,
+blotted, and hybridized with cDNA probe III (Fig. 1), Sma
+I/Bgl II genomic probe (Fig. 5A) or HindIII genomic probe
+(Fig. SB). A partial or complete deletion of exon 7 or the
+flanking introns would affect the size or intensity of the
+1123-bp Nco I fragment (Fig. SA). Nco I fragments of
+identical size and intensity were detected in all three cell lines
+with both the cDNA probe III and the Sma I/Bgl II genomic
+probe (Fig. SC). Therefore, we conclude that there are no
+
+Table 1. Differences in nucleotide sequences among ADA alleles
+Normal alleles
+Mutant alleles
+(6)
+(21)
+(22)
+(8)
+(8)
+(7)
+d
+a
+b
+c
+A
+C
+A
+A
+A
+A
+ND
+A
+A
+A
+G
+Lys/Lys
+G
+A
+A
+G
+G
+G
+G
+G
+G
+A
+A
+A
+Lys/Arg
+A
+A
+A
+G
+A
+A
+ND
+Ala/Ala
+C
+C
+C
+T
+C
+C
+C
+C
+ND
+C
+G
+Arg/Gln
+G
+G
+G
+A
+G
+G
+G
+ND
+G
+425
+C
+C
+C
+C
+C
+C
+Ser/Ser
+C
+T
+ND
+C
+485
+A
+Val/Val
+G
+G
+G
+G
+G
+G
+G
+G
+G
+629
+A
+G
+Val/Val
+G
+A
+A
+G
+G
+G
+A
+A
+A
+727
+G
+G
+Arg/His
+G
+G
+G
+G
+G
+G
+A
+G
+G
+0
+1006
+T
+Leu/Arg
+T
+T
+T
+T
+T
+T
+T
+T
+T
+1081
+C
+C
+C
+T
+C
+C
+C
+C
+T
+C
+C
+Ala/Val
+1483
+A
+A
+A
+G
+A
+A
+A
+A
+A
+A
+A
+A
+Base changes compared to the consensus ADA cDNA sequence, as described in Fig. 3, are bold face. The paired amino acids are derived from
+the codon sequence of the consensus and the codon sequence with the noted base change. Base number 1 is the first base of the major initiation
+start site (24). Bases 42 and 1483 are within the 5' and 3' untranslated regions of the mRNA, respectively. This is an expansion of the collation
+of Bonthron et al. (8). Sequences derived from the following sources: refs. 25 and 24, normal genomic ADA DNA; refs. 6, 21, 22, and 8, normal
+ADA cDNA; ref. 8, ADA cDNA from deficient cell line GM1715; ref. 7, ADA genomic DNA from the deficient cell line GM2471; a and b, ADA
+cDNA of both alleles of the deficient cell line GM2756; c and d, ADA cDNA of both alleles of the deficient cell line GM2825A. ND, not
+determined. Exon 4 is absent from the cDNA shown in column c so bases 334, 368, 397, and 425 could not be determined for this allele.
+Base
+number
+42
+287
+334
+368
+397
+
+Amino
+acid
+
+(25)
+A
+G
+A
+C
+G
+C
+G
+G
+G
+T
+C
+
+(24)
+A
+G
+A
+C
+G
+C
+G
+
+Medical Sciences: Akeson et al.
+
+5950
+
+consensus
+ADA cDNA
+
+I1
+
+4
+
+151
+
+17
+
+6
+
+8 9
+
+10
+
+I i5 s | 61 7718191
+
+1i
+
+10 |
+
+123
+78 9
+
+6
+
+12
+
+|-I
+I
+
+I
+
+GCG
+ala
+
+GTA
+val
+
+vi
+
+jl
+
+-
+
+5
+
+-I
+
+Al
+NN N
+
+N
+
+N
+
+I
+
+1 kb
+
+B
+
+12
+
+185
+3
+
+4
+
+5
+
+deleted
+*
+
+2825A- 20
+
+I
+
+21 3 1: : : :
+
+5
+
+*
+
+2825A- i0
+
+1
+
+1T.l 2
+
+1,9
+
+deleted
+
+deleted
+
+j
+
+8
+
+GTA
+val
+
+121 3 14 151
+
+6
+
+17
+
+8 9 10
+
+I
+
+1 kb
+
+C
+LO
+
+LO
+C\J
+
+*
+
+CQj
+
+2
+cN
+
+GTG
+val
+
+CM
+
+CM
+
+(O
+
+11
+
+H
+
+H
+
+GCG
+ala
+
+GTA
+val
+
+bs
+
+N
+
+bp
+
+12
+
+FIG. 4. Sequence analysis of ADA cDNA clones for the ADAdeficient cell line GM2825A. The full-length cDNA clones 2825A-20
+and 2825A-10 and the partial clone 2825A-17b are compared to the
+consensus ADA sequence as described in Fig. 3. Exons and base
+changes are as noted in Fig. 3. The hatched area designates the
+additional 5' noncoding region of cDNA clones 2825A-20 and
+2825A-10.
+
+large deletions affecting intron 6, exon 7, and intron 7 in the
+ADA-deficient cell lines GM2756 and GM2825A.
+The same general strategy was used to analyze the exon 4
+deletion in GM2825A. GM2825A DNA was digested with
+HindIII, blotted, and hybridized with a genomic 1185-bp
+HindIII probe (Fig. 5B). If there were a deletion of exon 4
+within one ADA allele, blot hybridization would give a
+1185-bp band representing a normal-sized allele and a smaller
+band representing the allele with a portion of exon 4 and/or
+introns 3 and 4 missing. HindIII fragments of equal size and
+intensity were detected in GM2825A and the normal cell line
+GM2184, A deletion of the entire 1185-bp HindIII fragment
+would not be detected by the HindIII probe. However, such
+a deletion would affect the size and intensity of the 587-bp
+Nco I fragment detected by probe III (Fig. 5A). The normal
+size and intensity of this band in GM2825A excludes the
+possibility of a large deletion involving exon 4 in the gene.
+
+DISCUSSION
+We have described the construction and analysis of cDNA
+libraries from the ADA-deficient cell lines GM2756 and
+GM2825A. GM2825A has a defect in one allele that leads to
+an abnormal RNA species found to be missing exon 4. Blot
+hybridization of GM2825A genomic DNA eliminated the
+possibility of a large deletion in the gene that included exon
+4. Isolation and sequence analysis of cDNAs corresponding
+to this allele (clones 2825A-17b and -20) showed no mutations
+within the remaining exons that would alter the amino acid
+sequence. It seems likely that mutation(s) within intron 3
+and/or intron 4 causes deletion of exon 4 during the splicing
+process. The deletion of exon 4 does not alter the translational reading frame, but it is likely that any protein produced
+would be rapidly degraded. Since the immunoprecipitable
+ADA protein in GM2825A is <5% of that in normal cells (5)
+despite normal levels of translatable mRNAs (9), we assume
+
+W
+
+_
+
+/_-
+
+:0
+
+b
+
+CD
+
+1508
+1123
+
+(1987)
+
+976
+
+258
+
+587
+
+N N
+
+*
+
+2825A-1 7b
+
+A
+
+GCG
+ala
+
+GTG
+val
+
+121 31
+
+Proc. Natl. Acad. Sci. USA 84
+
+-
+
+-976-
+
+1508s
+10
+I 7I
+
+fragments
+11
+
+exons
+
+|
+
+NN N
+
+N
+
+Sma I-Bgl 11 probe
+
+fragment
+6
+
+exons
+
+78 9
+
+m
+
+.=;p
+
+H
+
+Hind III probe
+
+D
+
+N
+
+CO
+CM
+
+CD
+
+CD
+
+(C)
+
+co
+
+Co
+
+N
+
+CM
+
+cD
+
+_*
+
+mm-
+
+bp
+
+-1185
+
+-587
+
+-258
+Probe IlIl
+
+Sma
+
+1
+
+-Bgl 1I
+
+Probe
+
+Hind
+
+III
+
+Probe
+
+FIG. 5. Blot hybridization analysis of ADA genomic DNA. (A)
+Nco I-digested genomic DNAs (10 Ag) from the normal cell line
+GM2i84 and the ADA-deficient cell lines GM2756 and GM2825A
+were hybridized with 32P-labeled cDNA probe Ill (Fig. 1) or with a
+32P-labeled Sma l/Bgl 11 genomic probe. Nco I fragments expected
+to hybridize are shown as solid lines above the ADA gene (open line).
+Exons 5-11 are shown as small solid boxes and Nco I restriction sites
+are designated N. (B) HindlIl-digested genomic DNAs (10 14g) from
+GM2184 and GM2825A were hybridized with a 32P-labeled HindIll
+genomic probe. The HindIll fragment expected to hybridize is shown
+as a solid line above the ADA gene. Hind1II sites are designated H.
+
+that ADA encoded by the full-length mRNA species represented by clone 2825A-10 is also unstable. It is likely that the
+defect in this allele, a point mutation altering alanine-329 to
+valine, affects ADA protein stability.
+We identified a point mutation in each allele of the
+ADA-deficient cell line GM2756. In one allele, amino acid 329
+is changed from alanine to valine. In the second allele, amino
+acid 211 is changed from arginine to histidine. Hydropathicity
+analysis by the method of Hopp and Wood (27) indicates that
+the region from amino acid 208 to 213 becomes decidedly
+more hydrophilic when amino acid 211 is changed from
+arginine to histidine. The alanine to valine substitution has
+virtually no effect on the predicted hydropathicity profile or
+on the predicted secondary structure of the protein as
+determined by the method of Garnier et al. (28). Because of
+the absence of ADA catalytic activity and immtinoreactive
+protein but presence of ADA mRNA in GM2756, we believe
+these mutations both affect ADA stability.
+The sequences of cDNAs encoded by 12 ADA alleles are
+now known (Table 1, updated from ref. 8). Point mutations
+
+Medical Sciences: Akeson
+
+et
+
+al.
+
+that result in amino acid changes that are detrimental to ADA
+function have previously been reported for two ADAdeficient cell lines. Bonthron et al. (8) found a nonconservative amino acid change (arginine to glutamic acid), which they
+postulate causes loss of function in ADA expressed by one
+allele in the ADA-deficient cell line GM1715. Two similar
+mutations in ADA resulting in the substitution of arginine for
+leucine and arginine for lysine were found for the deficient
+cell line GM2471 (7). Use of an expression system (7) showed
+that a leucine to arginine change caused loss of ADA activity.
+Also of interest are the conservative base changes in ADA
+mRNAs that do not alter the amino acid sequence. Among
+the ADA alleles (Table 1) are five changes in the third base of
+codons that do not alter the amino acids encoded. ADA may
+be the first large human single copy gene for which so many
+alleles have been sequenced. Therefore, it is not clear
+whether this rate of conservative mutation within exons is
+unique to ADA or common to other similar human genes.
+The S1 nuclease mapping studies reported here indicated
+the presence of minor ADA mRNA species missing exon 7 or
+containing intron 7 in normal and ADA-deficient cell lines.
+The relative intensities of bands that represent these two
+species are darker than the very faint bands corresponding to
+other incompletely processed species. Both species are
+relatively abundant and stable as indicated by their availability as templates for cDNA synthesis. The sequence at the
+exon 7/intron 7 splice site (GAG:GTGAGG) in clone 2756-la
+is identical to the sequence found in the normal ADA genomic
+DNA (24). We have compared this sequence to the consensus
+5' splice site sequence of Sharp (29), which is (A/C)AG:
+GT(A/G)AGT. The three bases within the exon preceding the
+splice site and the 4 bases following the GT (invariant bases
++1 and +2) are only moderately conserved (30). The exon
+7/intron 7 splice site of ADA has alternate bases at positions
+-3 and +6. Aebi et al. (31) have shown that changing the base
+at position -3 from adenine or cytosine to guanine and the
+base at +6 from thymine to adenine or guanine of the 5' splice
+site of intron 2 impairs correct splicing and promotes joining
+of exon 1 to exon 3 in the large rabbit f3-globin RNA. Similar
+inefficient use of the 5' splice site of intron 7 in ADA where
+base -3 is guanine and base +6 is guanine may account for
+the two aberrant exon 7 intron 7 mRNA species. In one case,
+the inefficient utilization of the intron 7 splice site leads to
+mRNA species without exon 7. In the second case, the
+splicing process fails to remove intron 7. The efficiency of
+splicing may also be influenced by RNA secondary structures
+(32) and the size of intron 7. Intron 7 in ADA contains only
+76 bases and is near the minimum intron size of 60 bases
+required for accurate splicing (30).
+This work was supported by National Institutes of Health Research Grant HD19919.
+1. Drexler, H. D., Gaedike, G. & Minowada, J. (1985) Leuk. Res.
+9, 209-219.
+2. Srivastava, B. 1. S. & Minowada, J. (1983) Leuk. Res. 7,
+331-338.
+
+Proc. Natl. Acad. Sci. USA 84 (1987)
+
+5951
+
+3. Giblett, E. R., Anderson, J. E., Cohen, F., Bollara, B. &
+Meuwissen, H. J. (1972) Lancet ii, 1067-1069.
+4. Kredich, N. M. & Hershfield, M. S. (1983) in The Metabolic
+Basis of Inherited Disease, eds. Stanbury, J. B., Wyngaarden,
+J. B., Fredrickson, D. S., Goldstein, J. L. & Brown, M. S.
+(McGraw-Hill, New York), pp. 1157-1183.
+5. Wiginton, D. & Hutton, J. J. (1982) J. Biol. Chem. 257,
+3211-3217.
+6. Adrian, G. S., Wiginton, D. A. & Hutton, J. J. (1984) Mol.
+Cell. Biol. 4, 1712-1717.
+7. Valerio, D., Dekker, B. M. M., Duyvesteyn, M. G. C., van
+der Voorn, L., Berkvens, Th. M., van Ormondt, H. & van der
+Eb, A. J. (1986) EMBO J. 5, 113-119.
+8. Bonthron, D. T., Markham, A. F., Ginsberg, D. & Orkin,
+S. H. (1985) J. Clin. Invest. 76, 894-897.
+9. Adrian, G. S., Wiginton, D. A. & Hutton, J. J. (1984) Hum.
+Genet. 68, 169-172.
+10. Aviv, H. & Leder, P. (1972) Proc. Natl. Acad. Sci. USA 69,
+1408-1412.
+11. Maxam, A. M. & Gilbert, W. (1980) Methods Enzymol. 65,
+499-560.
+12. Berk, A. J. & Sharp, P. A. (1977) Cell 12, 721-732.
+13. Gubler, U. & Hoffman, B. J. (1983) Gene 25, 263-269.
+14. Geyer, P. K. & Johnson, L. F. (1984) J. Biol. Chem. 259,
+7206-7211.
+15. Feinberg, A. P. & Vogelstein, B. (1983) Anal. Biochem. 132,
+6-13.
+16. Duncan, C. (1985) NEN Product News 4, 6-7.
+17. Barr, P. J., Thayer, R. M., Laybourn, P., Najarian, R. C.,
+Seela, F. & Tolan, D. R. (1986) BioTechniques 4, 428-432.
+18. Longmire, J. L., Lewis, A., Meincke, L. J. & Hilderbrandt,
+C. E. (1986) Fed. Proc. Fed. Am. Soc. Exp. Biol. 45, 1849a
+(abstr.).
+19. Wahl, G. M., Stern, M. & Stark, G. R. (1979) Proc. Natl.
+Acad. Sci. USA 76, 3683-3687.
+20. Southern, E. M. (1975) J. Mol. Biol. 98, 503-517.
+21. Wiginton, D. A., Adrian, G. S. & Hutton, J. J. (1984) Nucleic
+Acids Res. 12, 2439-2446.
+22. Daddona, P. E., Shewach, D. S., Kelley, W. N., Argos, P.,
+Markham, A. F. & Orkin, S. H. (1984) J. Biol. Chem. 259,
+12101-12106.
+23. Valerio, D., McIvor, R. S., Williams, S. R., Duyvesteyn,
+M. G. C., van Ormondt, H., van der Eb, A. J. & Martin,
+D. W., Jr. (1984) Gene 31, 39-45.
+24. Wiginton, D. A., Kaplan, D. J., States, J. C., Akeson, A. L.,
+Perme, C. M., Bilyk, 1. J., Vaughn, A. J., Lattier, D. L. &
+Hutton, J. J. (1986) Biochemistry 25, 8234-8244.
+25. Valerio, D., Duyvesteyn, M. G. C., Dekker, B. M. M., Weeda, G., Berkvens, Th. M., van der Voorn, L., van Ormondt, H.
+& van der Eb, A. J. (1985) EMBO J. 4, 437-443.
+26. Ingolia, D. E., Al-Ubaidi, M. R., Yeung, C.-Y., Bigo, H. A.,
+Wright, D. A. & Kellems, R. E. (1986) Mol. Cell. Biol. 6,
+4458-4466.
+27. Hopp, T. P. & Wood, K. R. (1981) Proc. Natl. Acad. Sci.
+USA 78, 3824-3828.
+28. Gamier, J., Osguthorpe, D. J. & Robson, B. (1978) J. Mol.
+Biol. 120, 97-120.
+29. Sharp, P. A. (1981) Cell 23, 643-646.
+30. Padgett, R. A., Grabowski, P. J., Konarska, M. M., Seiler, S.
+& Sharp, P. A. (1986) Annu. Revl. Biochem. 55, 1119-1150.
+31. Aebi, M., Hornig, H., Padgett, R. A., Reiser, J. & Weissmann, C. (1986) Cell 47, 555-565.
+32. Solnick, D. (1985) Cell 43, 667-676.
+
+

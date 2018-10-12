@@ -1,0 +1,578 @@
+Cell, Vol 53, 881-885, June 17, 1988, Copyrtght© 1988 by Cell Press
+
+Catalytic Deficiency of Human Aldolase B
+in Hereditary Fructose Intolerance Caused
+by a Common Missense Mutation
+Nicholas C. P. Cross,* Dean R. Tolan,t
+and Timothy M. Cox*
+* Royal Postgraduate Medical School
+London, W12 ONN
+England
+t Biological Sctence Center
+2 Cummington Street
+Boston, Massachusetts 02215
+
+Summary
+Hereditary fructose intolerance (HFI) is a human autosomal recessive disease caused by a deficiency of
+aldolase B that results in an inability to metabolize
+fructose and related sugars. We report here the first
+identification of a molecular lesion in the aldolase B
+gene of an affected individual whose defective protein
+has previously been characterized. The mutation is a
+G--*C transversion in exon 5 that creates a new recognition site for the restriction enzyme Ahall and results
+in an amino acid substitution (Ala~Pro) at position
+149 of the protein within a region critical for substrate
+binding. Utilizing this novel restriction site and the
+polymerase chain reaction, the patient was shown to
+be homozygous for the mutation. Three other HFI patients from pedigrees unrelated to this individual were
+found to have the same mutation: two were homozygous and one was heterozygous. We suggest that this
+genetic lesion is a prevailing cause of hereditary fructose intolerance.
+Introduction
+
+Hereditary fructose intolerance (HFI) is an autosomal
+recessive disease that is characterized by abdominal
+pare, vomtting, and hypoglycaemia following the ingestion
+of fructose or related sugars (Chambers and Pratt, 1956;
+Gttzelmann et al., 1983). In infants at weaning, the condition may be severe and cause fatal liver dysfunction
+(Odtevre et al., 1978), but it responds dramattcally to dietary exclusion. Although the inctdence of the dtsease in
+different populations is unknown, a survey in Switzerland
+esttmated a frequency of 1 in 20,000, and therefore a carher frequency of 1% (Gttzelmann and Baerlocher, 1973).
+The association of a catalytic defect in aldolase B with HFI
+has been well documented (Hers and Joassm, 1961).
+Aldolase B (EC.4.1.2.13) catalyzes the cleavage of
+fructose-l-phosphate to form dlhydroxyacetone phosphate and D-glyceraldehyde (Hers and Kusaka, 1953)
+The enzyme is expressed exclustvely tn the liver, kidney,
+and intestine--tissues that actively assimdate fructose. AIdolase B ts thus functionally distinct from the homologous
+isozymes, aldolases A and C, which are abundant in muscle and nervous tissue, respectively, and which have a
+greater activity wtth respect to fructose 1,6-diphosphate
+(Penhoet and Rutter, 1971).
+
+Hereditary fructose intolerance is genettcally heterogeneous (Gitzelmann et al., 1974; Gregori et al., 1982; Cox
+et al., 1983a), but immunologically detectable ~ldolase B
+has been found in biopsy samples of all affected tissues
+examined thus far (Nordmann et al., 1968; Gregori et al.,
+1982). In several studies, the apparent concentratton of
+cross-reacting material (crm +) was markedly reduced,
+and a regulatory defect of tissue-specific expression has
+been proposed (Gregon et al., 1982). However, immunotitration studies in patients with diminished apparent crm +
+tn liver and intestine demonstrated the presence of abundant bssue aldolase B with reduced specific activity and
+impatred recognition by polyclonal anttbodies (Cox et al.,
+1983b). Thus naturally occurring mutations in crm ÷ patients alter regtons of the aldolase B protein that are critical for functional actiwty, but they may also induce major
+structural changes that lead to impaired antibody recognitton. Precise characterization of such genetic defects
+should help to define crttical regions of the enzyme and
+clarify the relattonship between aldolase structure and its
+function.
+The aldolase B gene has been mapped to human chromosome 9 and sequenced (Tolan and Penhoet, 1986). It
+consists of nine exons, the first of which is untranslated.
+The cognate mRNA encodes 364 amino acids and there
+are three independent reports of its sequence (Rottman
+et al., 1984; Sakakibara et al., 1985; Paolella et al., 1984).
+Previously, molecular defects of aldolase B in hereditary
+fructose intolerance have not been identified. Here, we report the sequence analysis of the aldolase B genes of a
+patient tn whom the mutant protein has been characterized wtth respect to enzymattc activity, immunological reactwity, and subunit structure (Cox et al., 1982; Cox et al.,
+1983b).
+Results and Discussion
+Cloning and Sequencing of a Mutant Aldolase B Gene
+A genomlc library was constructed from leucocyte DNA
+prepared from an HFI patient who has been described
+previously and studied (Cox et al., 1982, Cox et al., 1983b).
+Six clones, containing exons 3-9 on a 9 kb BamHI fragment, were recovered. The complete sequence of the coding regtons from one of these clones was determined and
+a single base pair change was f o u n d - a G-->C transversion at codon 149 (Figure 1). The mutatton causes a proline residue to be substituted for an alanine at this position and hence is designated A149R Exon 2 from the same
+patient was cloned directly into a plasmid after specific
+amplification of that exon by the polymerase chain reactton
+(PCR) (Satki et al., 1985). Five independent clones were
+sequenced and found to be normal.
+The splicing signals for all the introns, comprising the
+5'GT/3'AG splice sttes and the intron sequences containing the lariat branch point signal within 50 bp of the 3'
+sphce stte, were determined. These sequences were iden*
+tical to the w~ld type with the exception of a deleted C resi-
+
+Cell
+882
+
+Wild type
+
+HFI
+
+306 -G---~
+
+183-123--
+
+C.--ID...
+
+1
+T
+
+C
+
+G
+
+A
+
+#
+
+145
+
+146
+
+147
+
+148
+
+149
+
+150
+
+151
+
+152
+
+Gly
+
+Lys
+
+Trp
+
+Arg
+
+Ala
+
+Val
+
+Leu
+
+Arg
+
+Codon
+
+T
+
+C
+
+G
+
+A
+
+Wdd Type GGGiAAG TGG CGT GCT GTG CTG AGG
+HFI
+
+Pro
+
+CCT
+
+Figure 1 Identificattonof a MissenseMutation in the HumanAldolase
+B Gene
+The gene sequencewas obtamedfrom an mdwidualaffected by HFI
+A singlediscrepancywasfound betweenthe mutantand wild-typecodmg sequences,a G~C transversionresultingin the replacementof an
+alanine by prohneat posit=on149, thus designatedA149P The lesion
+generatesa new recognitions~tefor the restncttonenzyme Ahall.
+
+due 16 bp upstream of the start of exon 8. This is the first
+base of the polypyrimidine tract that precedes the 3' splice
+site and is too far downstream to disrupt the lariat branch
+point signal found between - 3 7 and -18 (Reed and Mamatis, 1985). Indeed, the only candtdate sequence (GACTAAT, see consensus PyXPyTPuAPy) lies between positions - 3 5 and - 2 9 in this intron. The deleted C cannot
+cause activation Of a cryptic 3' splice site since the use of
+alternative AG sttes within the intron would generate a
+truncated product due to stop codons in the retained intron sequence. Activation of the first in frame AG within
+exon 8 would produce a protein 11 amino acids shorter,
+with altered charge and incompatible with the mutant aldolase B in this patient, which has a slightly increased apparent subunit size without a change in charge (Cox et al.,
+1983b).
+
+Detection of the A149P Mutation by Direct Analysis
+of Amplified Genomic DNA
+The A149P mutation creates a new recognition site for the
+restriction enzyme Ahall (GPuCGPyC). However, this enzyme and its isoschizomers were found to cut leucocyte
+DNA very poorly even when used in large excess, and detection of the mutation by Southern blotting of genomic
+DNA was not undertaken. Thts may be due to methylatlon
+of genes not actively expressed m white cells. Cloned
+DNA was efficiently cleaved by Ahall, and all six HFI
+clones were found to contain the A149P mutation (data not
+shown), suggestmg that the mdividual was homozygous.
+To confirm this, exon 5 sequences were specifically amplified from genomic DNA of this patient by the PCR and
+
+2
+
+3
+
+4
+
+5
+
+Ftgure 2 GenotypeAnalysts of Patientswtth HFI
+Lane 1: healthy individual; lanes 2-5: HFI patients.
+Lane 5 representsthe mdtvldualfrom whom the genomic library was
+constructed and the A149P mutattoncharactenzed.Aldolase 8 exon
+5 was select=velyamplified from genomtc DNA by the PCR to give a
+306 bp fragment. This was then digested w~th Ahall; the A149P is
+cleavedto gtve bandsof 183 bp and t23 bp, whtte alleles wtthoutthts
+mutation remainuncut. Lanes2, 3, and 5 thereforerepresenttndividuals who are hornozygousfor A149P, while lane 4 representsan mdtvtdual who is heterozygousfor A149P.
+
+digested with Ahall. The amplified 306 bp fragment was
+cleaved completely by the restriction enzyme to give products of 183 bp and 123 bp, thus demonstrating the presence of the mutation in both alleles of the gene (Figure 2,
+lane 5). As expected, exons 5 from normal individuals
+were not digested by Ahall (Figure 2, lane 1). An identical
+analysis was carried out on three HFI individuals unrelated to the patient above. Two of them, a brother and
+sister, were also found to be homozygous for the A149P
+mutation (Figure 2, lanes 2 and 3). The third patient was
+heterozygous (Figure 2, lane 4). Thts latter patient is therefore a compound heterozygote, and the amphfied exon 5
+fragment that was not cut by Ahall represents and originated from a different mutant allele. This corroborates the
+prevtous study of the mutant enzyme in this patient in
+which the aldolase differed structurally from that of the
+HFI individual first shown to be homozygous for the A149P
+mutation. Nonetheless, the phenotypic manifestations of
+disease in these two patients are clinically indistinguishable (Cox et al., 1982; Cox et al., 1983a).
+
+Segregation of the A149 Allele in an Affected Pedigree
+To demonstrate segregation of the A149P alleles, genomic
+DNA was isolated from five members of a pedigree affected by HFI and was analyzed by digestion with Ahall
+after PCR amplification. The family includes the two affected individuals shown to be homozygous for the A149P
+allele (Figure 2, lanes 2 and 3; Figure 3, lanes 3 and 4).
+As predicted by the autosomal recessive transmission of
+the disorder, both unaffected parents carry one wild-type
+and one mutant allele (Figure 3, lanes 1 and 2). Their
+asymptomatic daughter was found to be a heterozygous
+carrier of the disease (Figure 3, lane 5). These data show
+that inheritance of two alleles bearing this mutation is associated with expression of the disease in this kindred.
+Our findings indicate that homozygosity for the A149P
+allele is directly responsible for the HFI phenotype in several apparently unrelated patients. Aldolase B was cloned
+
+Mutation m the Gene for Human Aldolase B
+883
+
+306 m
+183 n
+123m
+1
+
+2
+
+3
+
+4
+
+5
+
+Figure 3 Genotype Analysis of Family Affected by HFI
+Lane 1' father, lane 2' mother, lane 3: unaffected daughter, lanes 4 and
+5 affected children The parents are distant cousins. Open symbols
+represent the normal haplotype and sohd symbols the mutant haplotype Exon 5 was specifically amplified by the PCR and cut with Ahall
+as described m the text
+
+from an affected h o m o z y g o t e w h o s e defect is known to reduce specific activity rather than levels of expression of
+the enzyme, =.e, catalytic rather than regulatory (Cox et
+al., 1983b) The mutant gene was s e q u e n c e d and found
+to contain a single base pair c h a n g e with respect to the
+wild type, resulting in a missense mutation in the protein.
+In addition, this lesion was found in other unrelated individuals with HFI and segregated with the disease m an affected pedigree as a recessive Mendelian character.
+
+Implications of the A149P Mutation for
+Catalytic Function
+Aldolase isozyme cDNA clones have been sequenced
+from diverse species and show considerable homology. It
+is notable that the a m i n o acid residue at position 149 (the
+site of the mutation shown here) is specific for aldolase B
+(Figure 4). In the human, rat, and chicken e n z y m e this is
+
+Human B
+
+,I,
+
+146
+
+147
+
+148
+
+149
+
+150
+
+151
+
+Lys
+
+Trp
+
+Arg
+
+~-~
+
+Val
+
+Leu
+
+AAI~a
+a
+
+Rat B
+
+Lys
+
+Trp
+
+Arg
+
+Chicken B
+
+Lys
+
+Trp
+
+Arg
+
+Val
+
+Leu
+
+Val
+
+Leu
+
+Human A
+
+Lys
+
+Trp
+
+Arg
+
+Cys
+
+Val
+
+Leu
+
+Rabbit A
+
+Lys
+
+Trp
+
+Arg
+
+Cys
+
+Val
+
+Leu
+
+Human C
+
+Lys
+
+Trp
+
+Arg
+
+Cys
+
+Val
+
+Leu
+
+Mouse C
+
+Lys
+
+Trp
+
+Arg
+
+Cys
+
+Val
+
+Leu
+
+Figure 4 Comparison of Aldolase Protein Sequences Surrounding
+the Site of the Mutation Described Here (posrtton 149 marked by an
+arrow)
+This residue ts an alamne ~naldolase B but cysteme tn aldolases A and
+C and thus may be involved in aldolase B-specific catalysts. The sequences were obtained from the following publications human B (Rottmann et al., 1984); rat B (Tsutsumt et al, 1985), chcken B (Burgess
+and Penhoet, 1985), human A (Izzo et al., 1987), rabbit A (Tolan et al,
+1984); human C (Rottmann et al, 1987), mouse C (Paolella et al,
+1986).
+
+an alanine, but aldolases A and C possess a cysteine at
+this position. The residue may therefore be involved in aldolase B-specific catalysis. The insertion of a prohne residue, an imino acid in which peptide bond formation involves the rigid pyrollidone ring, is known to alter protein
+s e c o n d a r y structure. Moreover, vicinal residues (Lys 146
+and Arg 148) are implicated in the binding of substrate
+(Hartman and Brown, 1976; Patthy et al., 1979) and have
+been shown by X-ray crystallography of muscle aldolase
+to be located on the ~ strand of a binding pocket (Sygusch
+et al., 1987). Thus mutation resulting in the c h a n g e of Ala
+149 to proline is likely to disrupt the spatial configuration
+of juxtaposed restdues in aldolase B and adversely affect
+its catalytic properties. That this mutation drastically modifies e n z y m e structure is shown by the markedly reduced
+i m m u n o r e a c t w i t y of the protein and by tts altered electrophoretic mobility wtthout c h a n g e in charge (Cox et al.,
+1983b).
+Carrier Detection and Diagnosis of
+Fructose Intolerance
+The A149P mutation has been found in five out of the six
+HFI alleles studied. This implies that the methods employed here may facilitate carrier detection and diagnosis
+=n families affected by the disease. Further work is needed
+to ascertain the true prevalence of th~s mutation. We suggest that the selection pressure against HFI was probably
+minimal before sugars b e c a m e widely available wtth the
+advent of the industrial revolution. Mutations in aldolase
+B may have been able to accumulate by genetic drift and
+it =s therefore possible that a limited n u m b e r of mutant alleles may account for the great majority of individuals affected by fructose intolerance.
+Experimental Procedures
+Cloning of a Mutant Aldolase B Gene
+Genomtc DNA obtained from peripheral leucocytes of an HFI patient
+was dtgested to complehon wtth BamHI and slze-fractionated on an
+agarose gel. An aldolase B-enriched fraction of approximately 9 kb
+(Tolan and Penhoet, 1986) was recovered by the freeze-squeezetechnlque (Tautz and Renz, 1983) and hgated to XL47 arms (Loenen and
+Brammar, 1980). Packaging extracts were prepared and the reactions
+performed as described (Scherer et al, 1981). A sequence in intron 6
+of aldolase B has previously been found to be unclonable rn rec A
+stratus of E coh (Tolan and Penhoet, 1986), presumably because =t
+contains a long palindrome or homopolymer tract (Leach and Stahl,
+1983, Nader et al, 1986) This problem was obviated by plating the library on a rec BC sbcB host (Leach and Stahl, 1983). Six aldolase B
+clones, containing exens 3-9 on a 9 kb BamHI fragment, were retrieved by probing w~th the cDNA clone pilL413 (Rottmann et aL,
+1984) Exon 2 was cloned directly from genom=cDNA after spectfic amplification of that exon by the polymerase chain reachon (PCR, see
+below)
+DNA Sequence Analysis
+Fragments of one phage clone, designated XEE13, were subcloned
+into pEMBL 18 or 19 (Dente et al., 1983) and sequenced by the chain
+terminator method (Sanger et al., 1977) using either the M13 universal
+primer (New England Btolabs) or specific ohgonucleottde primers derived from the genomtc sequence (Tolan and Penhoet, 1986) and synthesized on a Cyclone DNA synthesizer (Btosearch, Inc.).
+DNA Amplification
+The polymerase chain reaction was performed as follows: 1 p.g
+genomtc DNA was dispersed in 100 #1 PCR reaction buffer (50 mM
+
+Cell
+884
+
+KCI, 2 mM MgCI2, 10 mM Iris (pH 8.3), 0.1% gelatin, 0.2 mM each
+PCR primers, 0.2 mM dATE 0 2 rnM dTTP, 0.2 mM dCTP, 0.2 mM dGTP)
+in 0.5 ml mtcrofuge tubes. The DNA was denatured by heating to 95°C
+for 7 min. The samples were transferred to a water bath (45°C) for 5
+min to allow annealing of the pnmers. One unit of Taq polymerase (Anghan Biotechnology Ltd ) was added, and the reaction mixes were
+overlaid with 50 p.I mineral oil (Sigma). The tubes were transferred to
+a 70°C water bath for 3 rain to allow primer extension, denatured to
+91°C for 2 rain, and reannealed at 45°C for 2 rain This cycle was
+repeated 30 times with the addition of a further unit of Taq polymerase
+after every 10 cycles. Aliquots of the reactions were analyzed on 2%
+mm~gels: usually 200 ng-1 p.g of the desired fragment was produced
+Occasionally, however, add,tlonal spurious bands were also found,
+usually of very small size. In these cases the correct fragment was excised from the gel and recovered The primers used for amplification
+were" 5'GTTGTTATATGATGAGACTG3' and 5'GAGCCACCCATGGTTCTGTG3' for exon 2, which produced a 201 bp fragment, and 5'CCATGGATCAGGTACAAAGG3' and 5'GGTCCATTTGTAGTTATAGT3' for
+exon 5, which produced a 306 bp fragment.
+Detection of A149P Allele
+AldoSase B exon 5 was specifically amplified by the PCR from genomlc
+DNA obtained from HFI patients and normal controls The 306 bp fragment was digested with Ahall (New England Biolabs) according to the
+manufacturer's recommendat=ons The mutant A149P allele =scleaved
+to produce bands of 183 bp and 123 bp.
+Acknowledgments
+We thank Professor W J Brammar for supplying the vector XL47, Dr
+D. Leach for supplying E coh strata CES200, and Drs. J and D. Hardmg for providing family blood samples Dr F E Baralle and Professor
+L. Luzzatto gave generous advice and Dr W. J Marshall kindly referred two patients for study This work was supported by the Medical
+Research Council.
+The costs of publication of this article were defrayed m part by the
+payment of page charges This article must therefore be hereby
+marked "advertisement" ~n accordance with 18 U.SC Section 1734
+solely to indbcate th~s fact
+
+Fredrtckson, J L Goldstem, and M S Brown, eds (New York"
+McGraw-Hill), pp 118-132
+Gregerl. C., Shaplra, F, Kahn, A , Detpech, M , and Dreyfus, J. C
+(1982) Molecular studtes of liver aldolase B in hereditary fructose intolerance using blotting and immunochemleal techniques. Ann. Hum
+Genet. 46, 281-292
+Hartman, F C, and Brown, J B (1976) Affinity labeihng of a previously
+undetected essential lysy( residue m class 1 fructose bisphosphate aldolase J Biol Chem. 251, 3057-3062.
+Hers, H-G, and Kusaka, T. (1953) Le metabohsm du fructose-Iphosphate dans le fole. B~och~m B~ophys. Acta 11,427-430.
+Hers, H -G., and Joassm, G (1961). Anomahe de I'aldolase hepat~que
+dans I'mtolerance au fructose. Enzymol Biol. Chn. 7, 4-14.
+Izzo, P., Costanzo, P., Lupo, A , Ripa, E, Borghese, A , Paolella, G ,
+and Salvatore, F. (1987). A new species of aldolase A mRNA from flbroblasts Eur. J. Biochem 164, 9-13.
+Leach, D. R. E, and Stahl, E (1983) Viability of X phages carrying a
+perfect palindrome ~n absence of recombination nucleases Nature
+305, 448-451
+Loenen, W M., and Brammar, W. J. (1980). A bacteriophage X vector
+for cloning large DNA fragments made with several restriction enzymes. Gene 70, 249-259
+Morris, R C., Uekl, I, Loh, D, Eanes, R Z., and McLm, P (1967) Absence of renal fructose-l-phosphate aldolase act~wty in hereditary fructose intolerance Nature 2!4, 920-921
+Nader, W. F, tsenberg, G, and Sauer, H. W. (1986) Structure of physarum actm gene locus ard A a non-palindromic sequence causes mwablllty of phage lambda and rec A-independent deletions. Gene 48,
+133-144
+Nordmann, Y, Schaplra, F, and Dreyfus, J-C (1968). A structurally
+modified liver aldolase in fructose intolerance, immunological and
+chemical ewdence B~ochem. B~ophys Res Commun 31, 884-889
+Odlevre, M., Gentd, C, Gautier, M , and Alag~lle, D. (1978). Hereditary
+fructose intolerance in childhood. Am. J D~s Child. 132, 605-608
+Patthy, C, Varadi, A., Thesz, J, and Kovacs, K. (1979). Identification
+of the C-l-phosphate binding argimne residue of rabbit muscle aldolase Eur. J. Blochem 99, 309-313
+
+References
+
+Paolella, G , Santamana, R, Izzo, P, Constanzo, P., and Salvatore, F
+(1984) Isolation and nucleotlde sequence of a full length cDNA coding
+for aldolase B from human hver Nucl Acids Res 12, 7401-7409
+
+Burgess, D G., and Penhoet, E E (1985) Characterization of the
+chicken aldolase B gene J Biol Chem 260, 4604-4614
+
+Paolella, G., Buono, P, Manclnl, F P, Izzo, P., and Salvatore, F (1986).
+Structure and expression of mouse aldolase genes. Eur. J. Biochem
+256, 229-235
+
+Received January 25, 1988, revised April 1, 1988
+
+Chambers, R, and Pratt, R. T. C (1956) Idiosyncrasy to fructose. Lancet II, 340
+Cox, T M, Cam=llerl, M, O'Donnell, M W, and Chadwick, V S (1982)
+Pseudodomlnant transm=sslon of fructose =ntolerance in an adult and
+three offspring Heterozygote detection by intestinal biopsy N. Engl
+J Med 307, 537-540
+Cox, T M., O'Donnell, M W, and Camlllen, M (1983a) Allehc heterogeneity =n adult hereditary fructose intolerance Detection of structural
+mutat=ons in the aldolase B molecule Mol Biol. Meal. 1, 393-400
+Cox, T M, O'Donnell, M W, Cam=ller=, M., and Burghes, A. H
+(1983b) Isolation and characterization of a mutant liver aldolase in
+adult hereditary fructose intolerance Identification of the enzyme variant by rad~oassay m tissue biopsy spec=mens J Chn Invest 72,
+201-213.
+Dente, L, Cesarerl, G , and Portesl, R (1983) pEMBL, a new family
+of single stranded plasm~ds Nucl Acids Res 11, 1645-1655
+Gltzelmann, R, and Baerlocher, K. (1973) Vortelle und nachtelle der
+fructose in der nahrung Padlat Fortblldlung Prax~s 37, 40-55
+Gitzelmann, R, Stemmann, B., Ball,/, C, and Lebherz, H G (1974).
+Antibody activation of mutant fructesedlphosphate aldolase B in liver
+extracts of patients with hereditary fructose intolerance B~ochem B~ophys Res Commun 59, 1270-1277
+Gitzelmann, R., Stelnmann, B, and Van den Berghe, G (1983)
+Hereditary fructose intolerance In The Metabohc Basis of Inherited
+Disease, Fifth Edition, J.B. Stanbury, J B Wyngaarden, D S
+
+Penhoet, E E., and Rutter, W J (1971) Catalytic and immunochemlcal
+properties of homomeric and heteromenc combinations of aldolase
+subunlts J~ Biol Chem. 246, 318-323
+Reed, R, and Manlatls, T (1985) Intron sequences involved in lariat
+formation during pre mRNA splicing Cell 41, 95-105.
+Rottmann, W H, Tolan, D R, and Penhoet, E. E. (1984) Complete
+amino acid sequence for human aldolase B derived from cDNA and
+genomlc clones Proc. Natl Acad Scl. USA 81, 2738-2742
+Rottrnann, W H, De Selms, K R., NLclas, J., Camerato, T, Holman,
+P S, Green, C J., and Tolan, D. R. (1987). The complete amino acid
+sequence of human aldolase C isozyme derived from genomlc clones.
+Biochlmbe 69, 137-145.
+Salkb, R K, Scharf, S, Faloona, F, Mulhs, K B., Horn, G., Erhch, H,
+and Arnhelm, N (1985) Enzymatic amplification of 13-globln sequences and restriction s~te analysis for d~agnosls of sickle cell anaemia. Science 230, 1350-1354
+Sakaklbara, M, Mukal, T, Yatsukl, H , and Horl, K (1985) Human aldolase isozyme gene" the structure of multlspecles aldolase B
+mRNAs Nucl Acids Res !3 5055-5069
+Sanger, F, Nicklen, S, and Coulsen, A (1977) DNA sequencing with
+chain terminating Inhlbttors Proc. Natl Acad. Scl USA 74, 5463-5467
+Scherer, G, Telford, J., Baldan, C, and PIrrotta, V (1961). Isolation of
+cloned genes d~fferentlally expressed at early and late stages of Drosophila embryonic development. Dev Biol 86, 438-447
+Sygusch, J, Beaudry, D, and Allalre, M (1987) Molecular resolution
+
+Mutatton m the Gene for Human Aldolase B
+885
+
+of rabbit skeletal muscle aldolase at 2.7 A resolution. Proc. Natl. Acad.
+Sci USA 84, 7846-7850.
+Tautz, D, and Renz, M. (1983) An optlmtzed freeze-squeeze method
+for the recovery of DNA fragments from agarose gels. Anal Biochem.
+132, 14-19
+Tolan, D R, and Penhoet, E. E. (1986). Characterization of the human
+aldolase B gene. Mol B~oI. Med 3, 245-264
+Tolan, D R., Amsden, B., Putney, S D., Urdea, M. S., and Penhoet,
+E E. (1984). The complete nucleottde sequence for rabbit muscle aldolase A messenger RNA J B~ol. Chem 259, 1127-1131.
+Tsutsuml, K., Mukat, T., TsutsumJ, R., Htdaka, S, Afar, Y, Hon, K., and
+Ishikawa, K (1985). Structure and genomtc organisatton of the rat aldolase B gene J Mol. Biol 181, 153-160.
+
+

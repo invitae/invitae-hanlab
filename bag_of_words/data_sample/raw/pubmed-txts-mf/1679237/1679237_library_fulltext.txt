@@ -1,0 +1,534 @@
+Proc. Natl. Acad. Sci. USA
+
+Vol. 88, pp. 7825-7829, September 1991
+Genetics
+
+Identification of a germ-line mutation in the p53 gene in a patient
+with an intracranial ependymoma
+(inherited mutation/familial cancer syndrome/recessive oncogene)
+
+ANDREW K. METZGER*, VAL C. SHEFFIELDt, GEOFFREY
+MICHAEL S. B. EDWARDS*§¶, AND PHILIP H. COGEN*§¶II
+
+DUYKf, LALEH DANESHVAR*§
+
+*Brain Tumor Research Center, and Departments of tBiochemistry and Biophysics, Neurological Surgery, and 1Pediatrics, University of California, San
+Francisco, CA 94143; and tDepartment of Pediatrics, Division of Medical Genetics, University of Iowa, Iowa City, IA 52242
+
+Communicated by Ira Herskowitz, June 24, 1991 (received for review April 3, 1991)
+
+We detected a germ-line mutation of the p53
+ABSTRACT
+gene in a patient with a malignant ependymoma of the posterior
+fossa. This mutation, which was found at codon 242, resulted
+in an amino acid substitution in a highly conserved site of exon
+7 of the p53 gene; the same mutation was found in both the
+germ-line and the tumor tissue. This is the most common region
+of previously described somatic p53 mutations in tumor specimens and of the germ-line p53 mutations in patients with the
+Li-Fraumeni cancer syndrome. Evaluation of the patient's
+family revealed several direct maternal and paternal relatives
+who had died at a young age from different types of cancer. The
+association of a germ-line p53 mutation with an intracranial
+malignancy and a strong family history of cancer suggests that
+p53 gene mutations predispose a person to malignancy and, like
+retinoblastoma mutations, may be inherited.
+
+Tumor-suppressor genes, recessive oncogenes that are associated with a variety of human cancers (1), were initially
+detected by restriction fragment length polymorphism
+(RFLP) analyses showing deletion of specific chromosome
+sequences (2). Recently, studies have shown both deletion
+and mutation of the p53 gene (human gene symbol, TP53) on
+chromosome 17 in several different types of tumors (3, 4).
+These and related findings (5, 6) have established that the p53
+gene has tumor-suppressor activity like that of the retinoblastoma gene (RB), the prototype of a recessive oncogene.
+Whereas inherited and somatically acquired mutations of RB
+were initially identified in specimens of peripheral blood as
+well as tumor tissues from patients with retinoblastoma (7),
+mutations ofthe p53 gene were shown primarily only in tumor
+specimens (4). Recently, germ-line mutations of the p53 gene
+have been detected in affected members from families with
+the Li-Fraumeni cancer syndrome (8, 9).
+We have detected a germ-line mutation in the p53 gene in
+a boy with an intracranial malignant ependymoma, a type of
+brain tumor not previously reported to be part of the LiFraumeni series of tumors (10). The same mutation was found
+in both the germ-line and the tumor tissue. This patient also
+had a strong family history of cancer in both the maternal and
+paternal kindreds, suggesting that the p53 gene mutation may
+underlie the etiology of his tumor.
+
+MATERIALS AND METHODS
+Molecular Genetic Tumor Studies. The patient, a 5-year-old
+boy, presented with headache, nausea and vomiting, and
+unsteady gait that had progressively worsened over a period
+of several months. A contrast-enhanced computerized tomography scan showed a large mass arising from the floor of
+
+the fourth ventricle. The patient underwent excision of the
+tumor mass. Pathologic examination of the tumor specimen
+showed features consistent with a low-grade ependymoma.
+Although the patient also received postoperative radiation
+therapy, the tumor recurred 2 years after surgery. A second
+operation was performed, at which time specimens of peripheral blood (20 ml) and tumor tissue were obtained following protocols previously approved by the Human Sub-
+
+jects Committee, Stanford University Medical Center.
+Pathologic examination of these tumor specimens showed
+features of a high-grade malignant ependymoma, consistent
+with the relatively rapid regrowth of the mass. His condition
+was stable for approximately 3-4 months, when the tumor
+recurred, ultimately resulting in his death.
+Leukocytes from the peripheral blood were separated by
+centrifugation at 5000 x g for 15-20 min. The tumor specimen
+was stored at -800C and was disaggregated manually at the
+start of the experimental procedure. Genomic DNA was
+extracted by published procedures (11). To determine
+whether there was a deletion of DNA sequences in the tumor
+specimen, RFLP analysis was performed using Southern blot
+hybridization techniques (11, 12). We selected the following
+probes from chromosome 17p because of our earlier results
+showing deletion of DNA sequences from this chromosome
+in medulloblastoma, another pediatric tumor of the posterior
+fossa (12): 144D6 (17p13.3), YNZ22.1 (17p13.3), HRP5.5
+(17pl3.1), Hp53b (p53 gene-17pl3.1), EW 503 (17p12),
+MYH2 (17p12), and HF12-2 (17p12) (Howard Hughes Medical Institute Gene Mapping Data Base, Yale University,
+1990). For electrophoresis, following digestion of the DNA,
+samples from the leukocytes and the tumor were run in
+adjacent lanes and the blood and tumor specimens were
+compared to determine any difference in their respective
+hybridization patterns for each of the probes. Absence of a
+band in the tumor tissue that was seen in the leukocytes from
+the same patient was scored as a deletion. The results were
+confirmed by densitometric analysis (12).
+DNA amplification by means of the polymerase chain
+reaction (PCR) was used in combination with screening of the
+reaction products by denaturing gradient gel electrophoresis
+(DGGE) to study the blood and tumor specimens for p53
+mutations. PCRs were performed using each of four pairs of
+oligodeoxynucleotide primers that were synthesized from
+published sequence data to cover the entire evolutionarily
+conserved region of the p53 gene (13). The primers were
+modified by the addition of a 40-base-pair G+C-rich sequence ("G-C clamp"), which had previously been shown to
+improve the sensitivity of the DGGE technique (14-16). The
+Abbreviations: RFLP, restriction fragment length polymorphism;
+DGGE, denaturing gradient gel electrophoresis.
+"To whom reprint requests should be addressed at: Department of
+Neurological Surgery, c/o Editorial Office, 1360 Ninth Avenue,
+Suite 210, San Francisco, CA 94122.
+
+The publication costs of this article were defrayed in part by page charge
+payment. This article must therefore be hereby marked "advertisement"
+in accordance with 18 U.S.C. §1734 solely to indicate this fact.
+
+7825
+
+7826
+
+Genetics: Metzger et al.
+
+primers** for exon 7 that proved to be informative were AOG
+3 (5'-CGCCCGCCGCGCCCCGCCCGGCCCGCCGCCCCCGCCCGGGATCCGTGTTGTCTCCTAGGTTGGCT-3'; GC clamp at 5' end) and AOG 4 (5'-GCCGGAATTCCAAGTGGCTCCTGACCTGGA-3'). The PCR was performed using previously described variables (17).
+DGGE was performed with gel conditions and an optimal
+time of electrophoresis that were determined empirically
+based on previous studies (16). The PCR samples were
+prepared for DGGE by ethanol precipitation and resuspension in 30 1.l of 10 mM Tris-HCI, pH 7.5/1 mM EDTA/0.3 M
+NaCl. The samples were then denatured at 950C for 5 min and
+were reannealed at 580C for several hours, after which 10 ,.l
+of each sample was added to 10 gl of orange G loading dye
+and loaded on a DGGE apparatus. Electrophoresis was
+performed at 160 V on a parallel gradient gel containing a
+linear gradient of DNA denaturants ranging from 35% to 65%
+[100%o denaturant = 7 M urea with 40%~(wt/vol) formamide]
+at a constant temperature of 60'C for 8 hr. The gels were then
+stained with ethidium bromide and photographed. The presence of a novel band and heteroduplex bands on the gels
+indicated a gene mutation (14-17).
+Multiple isolates of the p53 gene defined by the primers
+AOG 3 and 4 were subcloned and sequenced by standard
+methods (18, 19). A modified bacteriophage T7 DNA polymerase (Sequenase, United States Biochemical) and
+[a-[35S]thio]dATP were used for the sequencing reactions.
+The four termination-reaction mixtures were then heated to
+750C for 2 min and loaded on an 8% polyacrylamide gel
+containing 7 M urea. Electrophoresis was then performed at
+60-W constant power for 3-6 hr, after which the gel was dried
+for 1 hr at 80°C and exposed to Kodak XAR-5 film for 36 hr.
+The sequence for the fragment of the p53 gene defined by the
+primers was read from the gel and was compared with the
+published data for the p53 gene (7).
+Family Studies. Historical information obtained from the
+patient's maternal and paternal relatives included the sex of
+family members, their current age or age at death, history of
+a cancer diagnosis, and cause of death. Diagnoses of cancer
+were verified with an examination of records and pathologic
+specimens whenever possible. In addition, molecular genetic
+studies were performed on peripheral blood specimens from
+paternal family members who were available for venipuncture. Early death from cancer of many younger relatives on
+the maternal side of the kindred limited the available data. No
+maternal relatives were available for molecular genetic analyses, nor were we able to obtain tissue blocks from those who
+had died. The family members studied were those identified
+in the pedigree as III-K; IV-J, -K, -L, and -M; and V-D, -E,
+and -F (Fig. 1). Peripheral blood (20-30 ml) was obtained
+from each person, and DNA was extracted as described (11).
+The DNA was then used for PCR amplification of exon 7 of
+the p53 gene followed by screening by DGGE.
+DNA obtained from the blood of the available paternal
+relatives was analyzed to investigate the possible inheritance
+of the p53 gene mutation shown in the patient. Southern blots
+were prepared and hybridized with probes from chromosome
+17p. In an attempt to identify the pattern of inheritance of the
+p53 gene region of chromosome 17p for the patient, a
+comparison was made of the allelic fragments obtained after
+hybridization for each informative probe tested against the
+DNA from each family member.
+RESULTS
+RFLP studies showed preservation of both alleles of all of the
+informative chromosome 17p probes tested against the DNA
+**Primer sequences for the other p53 regions are available from
+P.H.C. at the Department of Neurological Surgery (Box 0112),
+University of California, San Francisco, CA 94143.
+
+Proc. Natl. Acad. Sci. USA 88 (1991)
+
+from the patient's leukocyte and tumor specimens. In particular, no deletions of the p53 gene were detected. The
+combined PCR-DGGE analysis, however, showed a mutation at codon 242 in exon 7 of the p53 gene in both the blood
+and tumor tissue of the patient. The mutation was detected on
+the denaturing gradient gel by the presence of a novel band
+and novel heteroduplex bands (Fig. 2A). The patient was
+heterozygous for the p53 mutation in the peripheral blood.
+Sequencing of the p53 exon 7 fragment confirmed this result
+(Fig. 2B). The mutation is a substitution of an adenine for a
+guanine, resulting in the replacement of a cysteine residue by
+a tyrosine residue. The site of the mutation in exon 7 is highly
+conserved across species (Fig. 3) and is one of the most
+common sites of p53 mutation in many types of neoplasms (4,
+20) as well as in the blood and tumor tissue of affected family
+members with the Li-Fraumeni syndrome (8, 9).
+No p53 gene mutations were detected in the DNA from
+available paterpal family members who were screened with
+the combined PCR-DGGE technique. The chromosome 17p
+markers tested against those same DNA specimens gave no
+information to resolve whether the mutation was inherited or
+arose spontaneously. The lack of either fresh or archival
+tissue from the maternal family members therefore precluded
+verification of the origin of this germ-line p53 gene mutation.
+
+DISCUSSION
+We analyzed the p53 gene because previous studies have
+shown mutations in a variety of tumors in which deletions of
+chromosome 17p are well documented (3, 4), findings that
+project an important role of the p53 gene in human neoplasia
+(4, 20, 21). Studies such as those documenting the transformation of early-passage rodent cells by the p53 gene in
+cooperation with the ras oncogene suggested that the primary
+activity of the p53 protein was growth stimulation (5, 22).
+Subsequently, however, it was determined that those initial
+investigations were performed with a mutated version of the
+gene (5). The wild-type p53 protein has since been shown to
+be growth-suppressive, most recently in transfection experiments performed in colon cancer and glioblastoma cell lines
+(23, 24).
+Although studies of breast cancer biopsy specimens that
+overexpressed a mutated p53 protein in a tumor-specific
+fashion suggested a role for the gene in human neoplasia (5,
+25), a significant role for mutant p53 proteins was shown by
+molecular genetic analysis of colorectal cancer (3, 26). Deletion of the region of chromosome 17p containing the p53
+gene was first detected with RFLP analysis in a large percentage of colorectal cancer specimens (26). Thereafter,
+PCR-based amplification studies of the p53 gene in colorectal
+cancer detected frequent point mutations, both in specimens
+that, with RFLP analysis, showed deletion of p53 alleles and,
+later, in the specimens in which both p53 alleles appeared to
+be preserved (3).
+Our study shows a germ-line p53 gene mutation in a patient
+who developed an intracranial ependymoma. The mutation
+was detected in one of the four regions where p53 mutations
+are clustered ("hot spots"), sites that have been observed in
+colorectal, breast, lung, and adult brain tumors and that
+correspond to highly evolutionarily conserved exons of the
+p53 gene (4, 20, 21). Although definitive proof of altered gene
+function resulting from a mutation requires an assay of
+cellular transformation, the identification of a germ-line p53
+mutation provides strong circumstantial evidence for its role
+in the etiology of our patient's tumor. At present, the
+mechanism by which mutation of the p53 gene results in
+neoplastic transformation has not been established. Transgenic mice produced from mutant p53 gene constructs show
+a phenotype consisting of several different kinds of tumors
+(6). Studies using a temperature-sensitive mutant p53 con-
+
+Genetics: Metzger et aL
+
+Proc. NatL Acad. Sci USA 88 (1991)
+C;
+
+co
+
+IC
+
+r-
+
+4.
+0.
+c.0
+C's
+
+CLD
+O.
+
+K .:
+4-ce
+
+co
+
+0.
+
+c
+Co
+
+M 0
+
+.; 0
+
+.0
+
+c
+
+0.
+
+3 U,
+
+,
+
+U,t
+
+O
+
+C
+
+.= Z
+4-
+
+U)
+
+Ct
+
+CZ
+
+00 C
+
+co
+
+,4
+
+O
+
+Q)
+
+(3 .?:
+4,
+
+m
+0
+
+7827
+
+~~_
+
+Proc. Natl. Acad. Sci. USA 88 (1991)
+
+Genetics: Metzger et al.
+
+7828
+
+A
+ca-
+
+VO.
+
+only small amounts of genomic DNA, which can be obtained
+from materials ranging from needle biopsy specimens of
+tumor tissues to archival paraffin-embedded human specimens. Cancer family pedigrees can therefore be screened
+rapidly with the use of the PCR-DGGE technique for p53 and
+other tumor-suppressor gene mutations, provided that sufficient tumor tissues are available for study. We therefore hope
+that this work serves not only to identify a germ-line p53 gene
+mutation but also to act as a reminder to preserve archival
+specimens for such future investigations.
+
+B
+
+a)
+
+°
+
+E
+
+Wild-type
+
+m
+
+e
+
+A C G T
+
+Blood
+A C G T
+
+1
+*~~~~~~o
+_.
+-fi=G
+_-~~~~mw
+
+C
+
+-
+
+A
+
+emw
+
+FIG. 2. (A) Denaturing gradient gel shows a germ-line p53 mutation. Novel band and novel heteroduplex bands are seen in DNA
+from blood and tumor specimens. (B) Sequencing gels showing
+wild-type and mutant p53 sequences at codon 242. A, adenine; C,
+cytosine; G, guanine; T, thymine.
+struct have shown that the cellular proliferation and transformation induced by the gene is lost when the permissive
+temperature is raised and is restored when the temperature is
+lowered. This finding suggests that p53 activity may be
+reversible (27). A strong transcription-activating sequence in
+the amino-terminal part of the protein has also been detected,
+suggesting that p53 may activate an inhibitor of cellular
+proliferation genes (28).
+Several familial cancer syndromes have been reported in
+which there is a high incidence of brain tumors associated
+with other types of neoplasms (29). In Li-Fraumeni syndrome, there is a predisposition to sarcomas, leukemias,
+breast and colon cancers, and gliomas of the brain (10), and
+affected individuals have been shown to harbor germ-line
+mutations of the p53 gene in exon 7 (8, 9). Although the
+members of our kindred did not show an increased incidence
+of the most common tumors in Li-Fraumeni syndrome, one
+of the family members (IV-N) developed an osteogenic
+sarcoma and several members (III-E, III-I, and V-C) had
+brain tumors. The detection of a p53 mutation in the family
+at exon 7 suggests that there is overlap of the family's
+pedigree with the more classic type of Li-Fraumeni syndrome. Moreover, as ependymomas of the brain are not
+typically part of the Li-Fraumeni syndrome, our results
+suggest that the syndrome may include other types of tumors.
+The finding of a germ-line p53 mutation in the member of
+a cancer family kindred whom we describe, as well as the
+recent studies on several Li-Fraumeni kindreds (8, 9), suggest that, like mutations of RB, inherited mutations of the p53
+gene can result in malignancy. Our results provide additional
+incentive to examine exon 7 of the p53 gene whenever
+Li-Fraumeni syndrome is suspected.
+The PCR-DGGE combination technique allows rapid
+screening of DNA mutations in all types of tissue specimens.
+The specificity of the DGGE technique in detecting single
+base-pair mutations, particularly with the use of the G-C
+clamp, has been well documented (15, 16). The PCR requires
+
+V
+
+Human IHYN [MCNSSCMGGMNRRPILTIITLELDSSG
+Monkey
+Mouse -------------------------Rat ---K --------------------------_
+Chicken VL-- F------------------L-Frog
+_-------------------- PPGRainbow Trout VL--- _--------------------- QE
+--
+
+VL-v Aj
+
+FIG. 3. Conservation of the site of germ-line p53 mutation across
+Amino acid sequences are shown with one-letter symbols.
+Dashed lines show sites of conservation; nonconserved sites are
+shown by the letters on the lines below the human sequence (see ref.
+12).
+species.
+
+We thank the following individuals for providing probes: E.
+Wright, R. White, Y. Nakamura, D. Barker, B. Vogelstein, T.
+Takeuchi, N. Spurr, A. Ferguson-Smith, S. Weil, P. Chambon, M.
+Chao, E. Bakker, C. Buys, C. Schwartz, M. Litt, and R. Neve. We
+thank David Cox and Richard Myers for advice on the project and the
+reporting of the results, Susan Eastwood for editorial advice, and
+Cindy Huff and Cheryl Christensen for manuscript preparation. This
+work was supported by National Institutes of Health Postdoctoral
+Training Grant GM07085 and grants from the School of Medicine,
+University of California, San Francisco, and the National Brain
+Tumor Foundation. A.K.M. is a Howard Hughes Medical Institute
+Medical Student Research Training Fellow. G.D. was supported by
+Training Grant CA09291 from the National Institutes of Health.
+1. Ponder, B. (1988) Nature (London) 335, 400-402.
+2. Cavenee, W. K., Dryja, T. P., Phillips, N. A., Benedict,
+W. F., Godbout, R., Gallie, B. L., Murphree, A. L., Strong,
+L. C. & White, R. A. (1983) Nature (London) 305, 779-784.
+3. Baker, S. J., Fearon, E. R., Nigro, J. M., Hamilton, S. R.,
+Preisinger, A. C., Jessup, J. M., vanTuinen, P., Ledbetter,
+D. H., Barker, D. F., Nakamura, Y., White, R. & Vogelstein,
+B. (1989) Science 244, 217-221.
+4. Nigro, J. M., Baker, S. J., Preisinger, A. C., Jessup, J. M.,
+Hotstetter, R., Cleary, K., Bigner, S. H., Davidson, N., Baylin, S., Devilee, P., Glover, T., Collins, F. S., Weston, A.,
+Modali, R., Harris, C. C. & Vogelstein, B. (1989) Nature
+(London) 342, 705-709.
+5. Lane, D. P. & Benchimol, S. (1990) Genes Dev. 4, 1-8.
+6. Lavigueur, A., Maltby, V., Mock, D., Rossant, J., Pawson, T.
+& Bernstein, A. (1989) Mol. Cell. Biol. 9, 3982-3991.
+7. Friend, S. H., Dryja, T. P. & Weinberg, R. A. (1988) N. Engl.
+J. Med. 318, 618-622.
+8. Malkin, D., Li, F. P., Strong, L. C., Fraumeni, J. F., Jr.,
+Nelson, C. E., Kim, D. H., Kassel, J., Gryka, M. A., Bischoff,
+F. Z., Tainsky, M. A. & Friend, S. H. (1990) Science 250,
+1233-1238; comment by Marx, J. (1990) Science 250, 1209.
+9. Srivastava, S., Zou, Z. Q., Pirollo, K., Blatner, W. & Chang,
+E. H. (1990) Nature (London) 348, 747-749; comment by
+Vogelstein, B. (1990) Nature (London) 348, 681-682.
+10. Li, F. P., Fraumeni, J. F., Jr., Mulvihill, J. J., Blattner, W. A.,
+Dreyfus, M. G., Tucker, M. A. & Miller, R. W. (1988) Cancer
+Res. 48, 5358-5362.
+11. Feder, J., Yen, L., Wijsman, E., Wang, L., Wilkins, L.,
+Schroeder, J., Spurr, N., Cann, H., Blumenberg, M. & CavalliSforza, L. L. (1985) Am. J. Hum. Genet. 37, 635-649.
+12. Cogen, P. H., Daneshvar, L., Metzger, A. K. & Edwards,
+M. S. B. (1990) Genomics 8, 279-285.
+13. Lamb, P. & Crawford, L. (1986) Mol. Cell. Biol. 6, 1379-1385.
+14. Fisher, S. G. & Lerman, L. S. (1983) Proc. Natl. Acad. Sci.
+USA 80, 1579-1583.
+15. Myers, R. M., Fisher, S. G., Lerman, L. S. & Maniatis, T.
+(1985) Nucleic Acids Res. 13, 3131-3145.
+16. Sheffield, V. C., Cox, D. R., Lerman, L. S. & Myers, R. M.
+(1989) Proc. Natl. Acad. Sci. USA 86, 232-236.
+17. Myers, R. M., Maniatis, T. & Lerman, L. S. (1987) Methods
+Enzymol. 155, 501-527.
+18. Haltiner, M., Kempe, T. & Tjian, R. (1985) Nucleic Acids Res.
+13, 1015-1026.
+19. Maniatis, T., Fritsch, E. F. & Sambrook, J. (1982) Molecular
+Cloning:A Laboratory Manual (Cold Spring Harbor Lab., Cold
+
+Spring Harbor, NY).
+
+20. Takahashi, T., Nau, M. M., Chiba, I., Birrer, M. J., Rosenberg, R. K., Vinocour, M., Levitt, M., Pass, H., Gazdar, A. F.
+& Minna, J. D. (1989) Science 246, 491-494.
+
+Proc. Nati. Acad. Sci. USA 88 (1991)
+
+Genetics: Metzger et al.
+21. Menon, A. G., Anderson, K. M., Riccardi, V. M., Chung,
+R. Y., Whaley, J. M., Yandell, D. W., Farmer, G. E., Frieman, R. N., Lee, J. K., Li, F. P., Barker, D. F., Ledbetter,
+D. H., Kleider, A., Martuza, R. L., Gusella, J. F. & Seizinger,
+B. R. (1990) Proc. Nati. Acad. Sci. USA 87, 5435-5439.
+22. Eliyahu, D., Raz, A., Gruss, P., Givol, D. & Oren, M. (1985)
+Nature (London) 312, 646-649.
+23. Baker, S. J., Markowitz, S., Fearon, E. M., Willson, J. K. V.
+& Vogelstein, B. (1990) Science 249, 912-915.
+24. Mercer, W. E., Shields, M. T., Amin, M., Sauve, G. J.,
+
+25.
+26.
+
+27.
+28.
+29.
+
+7829
+
+Apella, E., Romano, J. W. & Ullrich, S. J. (1990) Proc. NatI.
+Acad. Sci. USA 87, 6166-6170.
+Cattoretti, G., Rilke, F., Andreola, S., D'Amato, L. & Delia,
+D. (1988) Int. J. Cancer 41, 178-183.
+Law, D. J., Olschwang, S., Monpezat, J.-P., Lefrancois, D.,
+Jagelman, D., Petrelli, N. J., Thomas, G. & Feinberg, A. P.
+(1988) Science 241, 961-965.
+Michalovitz, D., Halevy, 0. & Oren, M. (1990) Cell 62, 671-680.
+Fields, S. & Jang, S. K. (1990) Science 249, 1046-1051.
+Muller, H. (1990) Anticancer Res. 10, 505-512.
+
+

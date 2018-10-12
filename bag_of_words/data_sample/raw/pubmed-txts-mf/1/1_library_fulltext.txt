@@ -1,0 +1,626 @@
+HIOCHEMICAL
+
+MEDICINE
+
+Formate
+
+13, 117-126 (1975)
+
+Assay
+
+in Body
+
+in Methanol
+A. B. MAKAR,
+
+Fluids:
+
+Application
+
+Poisoning
+
+K. E. MCMARTIN,
+AND T. R. TEPHLY’
+
+M. PALESE,
+
+The Toxiocology
+Center,
+Department
+of Pharmacology,
+The University
+of Iowa, Iowa City, Iowa 52242
+
+Received March 12. 1975
+
+The availability
+of a sensitive and specific assay for formic acid
+remains one of the limiting factors in our understanding of its role in the
+toxicity of methanol in man and lower animals (1). A great deal of information has been generated on the oxidation of methanol in lower animals and in primates (2-5) and, recently, the disposition
+of formaldehyde in animals has been studied (6). However, little is known
+concerning the disposition of formate in vivo in animals despite the relative wealth of information available on the metabolism of this substance
+in vitro (7,8). This is due partly to the lack of a suitable assay for formate
+in body fluids and tissues.
+Several methods have been used to estimate the level of formate in
+body fluids. Most of these techniques take advantage of the useful analytical technology in formaldehyde
+measurements. Grant (9) and later
+Reitbrock et al. (10) have used this to good advantage. However, it is
+our experience that procedures which depend on the reduction of formate to formaldehyde are tedious and subject to considerable variability.
+Furthermore,
+a steam distillation
+step is necessary for proper preparation of samples of tissues and body fluids. Therefore, another method
+has been developed in our laboratory.
+Since the description of a bacterial dehydrogenase,
+formate dehydrogenase, (EC 1.2.1.2.), by Johnson et al. (11) we have studied this enzyme either alone or in coupled reactions as a specific and sensitive
+method for the determination
+of formic acid. The method that is described in this report takes advantage of a coupled system of formate
+dehydrogenase with a diaphorase-catalyzed
+reduction of resazurin, a
+nonfluorescent substance, to resorufin, a fluorescent dye which is easily
+quantified by fluorometric methods. The adaptation of this coupled reaction to the measurement of organic acids was suggested by Guilbault and
+his colleagues (12) and with certain adjustments to the reactions cata1 To whom reprint requests should be mailed.
+117
+Copyright
+All rights
+
+@ 1975 by Academic
+Press, Inc.
+of reproduction
+in any form reserved.
+
+118
+
+MAKAR
+
+ET
+
+AL.
+
+lyzed by formate dehydrogenase and diaphorase a sensitive and specific
+assay for formic acid in body fluids has been obtained. Its use in determining blood formic acid levels in monkeys poisoned with methanol
+is described.
+MATERIALS
+Resazurin and resorufin were purchased from Pfaltz and Bauer. Nutrient agar was purchased from Baltimore Biological Laboratories and
+yeast extract was obtained from Difco Laboratories.
+Diaphorase, Type
+II, NAD, and NADH were purchased from the Sigma Chemical Company. All other reagents employed in these investigations
+were of the
+highest available purity. Pseudomonas
+oxalaticus,
+strain 11883, was obtained from the American Type Culture Collection.
+METHODS
+Growth
+
+and Maintenance
+
+of P. oxalaticus
+
+A modification of the method of Johnson et al. (11) was employed for
+the maintenance and growth of P. oxalaticus. Cultures of P. oxalaticus
+are initially plated onto blood agar plates and incubated for approximately 2436 hours at 30”. The culture was then transferred to slopes
+consisting of nutrient agar and 5 mM sodium oxalate. Slopes were then
+incubated for 24 hours at 37” and immediately
+stored at 4”. The organism
+was subcultured at least once a month in this fashion.
+Induction
+
+of Formate
+
+Dehydrogenase
+
+in P. oxalaticus
+
+To induce formate dehydrogenase (FDH) in P. oxalaticus,
+a stored
+slope of bacteria was used to inoculate 50 ml of liquid culture medium.
+The growth medium consisted of (NH&S04,
+2.5 g; MgS04 . 7Hz0, 0.2 g;
+CaCl, * 2Hz0, 0.001 g; FeSO, . 7Hz0, 0.005 g; MnSO, . 5Hz0, 0.0025 g;
+N&MOO, . 2HZ0, 0.0025 g; K2HP04, 8.7 g; NaH2P04 . 2Hz0, 7.8 g per
+liter of water. Yeast extract, 0.2%, and sodium oxalate, 0.05%, were
+added to this growth medium. A 50 ml aliquot of this liquid culture was
+placed in an Erlenmeyer flask and incubated at 37” on a rotary shaker.
+At the end of 24 hours, 10 ml of this medium was transferred to a 2 liter
+Fernbach flask containing 500 ml of liquid growth medium plus 20 mM
+sodium oxalate as the sole carbon source. A 1 ml aliquot of bromothymol blue solution (0.02%) was added to monitor pH changes visually.
+This liquid culture was incubated at 37” on a rotary shaker and the pH of
+the medium was carefully maintained at 7.0 by the addition of appropriate amounts of 1 M oxalic acid solution. The bacteria were harvested in
+the logarithmic phase of growth (about 24 hours later). This was equivalent to an optical density change in the liquid growth medium of about
+0.5 at 540 nm.
+
+FORMATE
+
+Preparation
+of Cell-free
+from P. oxalaticus
+
+119
+
+ASSAY
+
+Extracts
+
+Bacterial cells were harvested by centrifugation
+in a Sorvall RC-2B
+refrigerated centrifuge. All subsequent operations were carried out at a
+temperature of O-4”. Pellets were washed twice with 100 vol of 50 mM
+potassium phosphate buffer containing 1 mM disodium EDTA and 0.1
+mM dithiothreitol
+at pH 7.4. The cells were then resuspended in a given
+volume of buffer and subjected to sonication (40 Watts at 20 kilocycles
+for 3 minutes at 15second intervals with 30 second cooling periods).
+The preparation was then centrifuged at 13,000g for 20 minutes. The
+supernatant solution was then centrifuged at 165,OOOg for 36 minutes in a
+Spinco model L-5 ultracentrifuge.
+The supernatant was analyzed for
+FDH activity.
+Measurement
+of Formate
+(FDH) Activity
+
+Dehydrogenase
+
+The specific activity of the cell-free extract was determined by measuring the rate of NADH formation at 340 nm on the Gilford 2000 spectrophotometer.
+A final reaction volume of 2 ml contained 1 mM sodium
+formate, 2 mM NAD, 0.1 ml formate dehydrogenase (FDH) preparation
+(2-3 mg protein/ml),
+and 50 mM potassium phosphate buffer, pH 7.5.
+The specific activity of this preparation varied between 0.2-0.6 pmoles
+NADH/mg
+protein/minute.
+Protein analysis was conducted using the
+microbiuret method (13).
+Formate
+
+Analysis
+
+The enzyme preparation was stored in l-2 ml fractions in small vials
+at -80” in the presence of dithiothreitol
+(0.1 mM) and disodium EDTA
+(1.0 mM). No loss in activity was observed after 6 months of storage. It
+has been shown by Guilbault and colleagues (12) that pyridine nucleotide-dependent
+assays may be conducted with the use of the following coupled reactions:
+NAD+
+NADH
+
++ HCOOH
++
+
+resazurin
+(nonfluorescent)
+
+-=+
+a
+
+NADH
+
++ H+ + CO,
+
+NAD+
+
++ resorufin .
+
+(1)
+(2)
+
+(fluorescent)
+
+Optimal conditions were determined and a routine procedure was developed from experiments described in Results. A final reaction volume of
+1 ml contained NAD, 1 mM; resazurin, 20 mM; diaphorase, 0.03 units, and
+FDH, 0.006 units, in 100 mrvr phosphate buffer, pH 6.0. One unit of diaphorase activity (EC 1.6.4.3) is defined as the amount of enzyme which
+oxidized 1 kmole of NAD per minute at pH 7.5 and 25” in the presence of
+
+120
+
+MAKAR
+
+ET
+
+AL.
+
+dichlorphenolindophenol.
+Standard reactions contained sodium formate
+concentrations between 0.5 and 10 ~glml.
+The reactions were started by the addition of FDH and incubated for
+15 minutes at 37”. Reaction mixtures were placed in boiling water for 3
+minutes and centrifuged to remove precipitated protein. The supernatant
+was brought up to a final volume of 6 ml with water. The change in
+fluorescence between 0 and 15 minutes (&) was determined using an
+Aminco-Bowman
+spectrophotofluorometer
+with an excitation
+wavelength at 565 nm and an emission wavelength of 590 nm. A standard curve
+using 0.5 to 10 pg of formate/ml of reaction mixture was prepared for each
+experiment.
+Arterial blood and urine samples obtained from a monkey which had
+been given 3 g/kg of methanol orally were analyzed for methanol, formate, pH, pCOz and pOz. Blood gases and pH were measured using a
+blood gas analyzer (Instrumentation
+Laboratory, model 213). Methanol
+blood levels were determined by a modification of the method of Baker
+et al. (14). Formate was analyzed by the method described above. Blood
+samples (1.0 ml) were diluted with 1.4 ml of H,O, thoroughly mixed and
+allowed to stand for 5 minutes. Then, 0.3 ml of 7.5% ZnSO,.7H,O
+was
+added and samples were thoroughly mixed. Then, 0.3 ml of 0.4 N NaOH
+was added dropwise with mixing and samples were centrifuged at
+35,000g for 20 minutes on a RC-2B Sorvall centrifuge to sediment the
+protein. Aliquots of the protein free supernatant were used for formate
+and methanol analyses.
+RESULTS
+Specificity of Formate Dehydrogenase (FDH)
+
+The lower limit of sensitivity for the spectrophotometric
+measurement
+of NADH is about 0.1 mM which can be increased greatly by determination of NADH using fluorometric techniques. However, with the use of
+a crude extract of P. oxalaticus and certain body fluids the measurement
+of NADH directly by fluorometric
+means gave less than satisfactory
+results due to fluorescent high background values. Also, attempts at
+purification of the FDH yielded preparations which were much more unstable than the crude preparation. Therefore, the coupled fluorometric
+method described by Guilbault et al. (12) in the presence of FDH was
+used in order to obtain a reasonably fast and sensitive method for formate measurements without having to spend a great deal of time on
+either enzyme purification or tissue preparation for analysis. Although
+Johnson et al. (11) had shown that methanol, ethanol, formaldehyde,
+oxalate, acetate, pyruvate, and malate did not react with FDH, these
+studies were repeated in order to show that these and other substances
+did not react or inhibit either the activity of FDH in the crude prepara-
+
+FORMATE
+
+TABLE
+SPECIFICITY
+
+121
+
+ASSAY
+
+1
+
+OF FORMATE
+
+Compound
+
+Resorufin formation
+
+Formate*
+Methanol
+Ethanol
+4-Methylpyrazole
+Pyruvic acid
+Lactic acid
+Sodium oxalate
+Citric acid
+Malic acid
+Acetaldehyde
+Formaldehyde
+Propionic acid
+Butyric acid
+Acetic acid
+
++
+-
+
+ASSAY
+
+Percentage of inhibition”
+0
+0
+0
+10
+0
+IO
+0
+10
+0
+0
+0
+0
+0
+
+” Resorufin formation was measured in the presence of 0.1 mM sodium formate with
+other reactants as described in Methods.
+h The reactivity of a compound was determined by measuring resorufin formation as
+described in Methods. Concentrations of all substrates were 0.1 mM except that 1 UIM
+concentrations of methanol and ethanol and a 10 pM concentration of 4-methylpyrazole
+were used.
+
+tion or the activity of the second catalyst, diaphorase. Table 1 shows
+that a number of closely related substances and physiological metabolic
+intermediates do not serve as a substrate for FDH. At 0.1 mM concentrations, pyruvate, oxalate, and malate produced about a 10% inhibition
+of the reaction whereas the other substances tested had no effect on the
+reactions in the presence of 0.1 mM formate. The concentration
+of
+pyruvate and malate used in these studies represents about 20-40 times
+the concentrations that would be observed when blood would be analyzed for formate under our conditions.
+Determination
+of Optimal Conditions for
+Formate Determinations
+The pH optimum reported by Quayle (15) for FDH was at 7.6. This
+was repeated and found to be 7.4 using spectrophotometric
+measurements at 340 nm. At pH 7.4 the Michaelis constant (K,) was found to be
+0.13 mM a value similar to that reported by Quayle (15).
+The reaction catalyzed by diaphorase displayed a pH optimum
+between 6.0 and 6.4 and the coupled reaction had a pH optimum of 6.0
+(Fig. 1). The K, for formate measured by the coupled fluorometric assay
+was about 0.15 mM, a value that closely approximates the value obtained
+at pH 7.4 using the spectrophotometric
+method. Figure 2 shows results
+obtained when varying amounts of resazurin were added to reaction
+
+122
+
+MAKAR
+
+ET AL.
+
+80-
+
+20-
+
+/
+
+5
+
+6
+
+7
+
+PH
+FIG. 1. pH optima for the diaphorase
+(0) and the coupled
+enzyme system (@). The incubation medium and the assay procedure for the coupled enzyme system were as described in Methods except that 1 mM formate and 0.003 units formate dehydrogenase/ml
+reaction mixture were used. Coupled reactions were carried out in phosphate buffers, 100
+mM, and each value represents the mean of at least six determinations
+?SEM. The incubation mixture for the diaphorase reaction contained: NADH, 0.5 mM; resazurin, 20 mM;
+phosphate buffer, 100 mM, and diaphorase, 0.02 units/ml of reaction mixture. The assay
+procedure for the diaphorase reaction was the same as described for the coupled enzyme
+system except that the incubation period was 5 minutes. Each point represents the mean
+value of two determinations +-SEM.
+
+mixtures containing other ingredients of the coupled reaction. Maximal
+rates were obtained with about 20 mM and concentrations beyond this
+were somewhat inhibitory.
+Standard conditions for the analysis of formate using FDH included
+the use of 100 mM phosphate buffer, pH 6.0; 20 mM resazurin; 0.03-0.04
+
+60
+
+40
+REZAS”2RqN
+
+(mM)
+
+FIG. 2. @feet of resazurin
+concentration
+on resoruj?n formation
+in a coupled system. The
+incubation mixture and assay procedure for formate determinations was as described in
+Methods except that 1 ItIM formate and 0.003 units of formate dehydrogenaselml were
+used. Each point represents the mean value of four determinations ?SEM.
+
+FORMATE
+
+123
+
+ASSAY
+
+5
+Sodium
+
+10
+
+Formate
+(w/ml)
+
+FIG. 3. The standard
+curve of formare.
+The incubation medium and assay procedures
+were as described in Methods. Each point represents the mean value from at least three
+experiments &SEM.
+
+units of diaphorase, and 1.0 mM NAD. The amount of formate dehydrogenase was kept at about 0.006 units/ml of reaction mixture for optimal conditions and reactions were routinely performed at 37” for 15
+minutes with shaking in a Dubnoff metabolic shaker under an atmosphere of air. Under these conditions no appreciable decomposition
+of
+NADH occurred and the fluorescence intensity of resorutin decreased
+only about 1% from values obtained at pH 7.4. A standard curve of formate concentration
+as determined by the FDH assay coupled with
+resazurin and diaphorase is shown in Fig. 3. It should be noted that
+under these conditions the curve is not linear and a standard curve was
+employed with every series of determinations.
+The limit of sensitivity is
+about 0.5 pg/ml of reaction mixture under these conditions. Table 2
+shows that the recovery of formate from blood using a protein precipitation method involving zinc sulfate and sodium hydroxide, a method
+which was modified from that described by Somogyi (16). An average
+recovery of about 95% was achieved. Trichloroacetic
+acid was found to
+be inhibitory to the coupled reaction and competitive with formate as its
+TABLE 2
+RECOVERY OF SODIUM FORMATE FROM BLOOD
+Formate addeda
+@g/ml blood)
+10
+
+20
+50
+100
+200
+
+Amount recovered
+(pgiml blood)
+9.5
+18.5
+46.9
+97.2
+193.8
+
+2 0.7
+-r- 0.8
+f 1.4
+k 2.4
+zt 3.3
+
+Mean % recovery
+95
+93
+94
+97
+97
+
+” Results were obtained from at least four determinations after the indicated amount
+of sodium formate was added to whole blood. Zinc sulfate and sodium hydroxide were
+added, samples were prepared and formate determined as described in Methods.
+
+124
+
+MAKAR
+
+ET
+
+AL.
+
+mechanism of inhibition.
+Perchloric acid was also unsatisfactory as a
+protein precipitant. Placing blood in a boiling water bath for 10 minutes
+was also less satisfactory than zinc sulfate:sodium
+hydroxide since the
+resulting supematant retained interfering pigments and blood treated this
+way contained some inhibitory
+substances which were apparently removed by the zinc sulfate:sodium hydroxide precipitation.
+The concentrations of zinc sulfate and sodium hydroxide carried over to reaction
+mixtures did not influence reaction rates. Urine samples were treated
+with one-sixth the amount of zinc sulfate:sodium hydroxide as that used
+for blood, amounts which assured complete removal of protein prior to
+formate analysis.
+Figure 4 shows results from an experiment where 3 g/kg of methanol
+
+PIGTAIL
+
+FIG.
+
+tered
+
+MONKEY
+
+4. Changes in blood methanol,
+formate,
+pCOz. and pH in a pigtail monkey
+adminismethanol.
+An oral dose of methanol
+(3 g/kg) was given as a 20% (w/v) solution.
+
+FORMATE
+
+ASSAY
+
+125
+
+was administered orally to a pigtail monkey (Mucaca nemestrina) as a
+20% solution (w/v) in water. Metabolic acidosis, indicated by a drop in
+arterial pH with a concurrent decrease in pCOZ, was observed as blood
+levels of formate increased. Arterial pOZ levels remained normal. This
+pattern has been observed recently with other pigtail and rhesus
+monkeys and these animals show the relationship
+of formate blood
+levels and the metabolic acidosis seen in methanol poisoning in the
+monkey.
+DISCUSSION
+
+A specific and sensitive method for the determination
+of formate in
+body fluids was developed using FDH coupled to the diaphorasecatalyzed reduction of resazurin to resorufin. The crude extract of P.
+oxalaticus which served as the enzyme source was actually a more
+useful preparation than more purified preparations of this enzyme. When
+the enzyme was purified from the crude extract the enzyme became
+labile and lost activity rapidly while the crude extract maintained about
+100% of its activity in the presence of dithiothreitol
+(0.1 mM) and disodium EDTA (1.0 mM) at -80” for at least 6 months. The crude extract
+can be stored in small volumes and used when needed for the measurement of formate. The use of the coupled reaction was better than the
+spectrophotometric
+method (15) because of an increased sensitivity
+(about ten times) and the requirement for far less enzyme in reaction
+mixtures. Analysis of NADH by fluorometric methods was not satisfactory because of the relatively high background fluorescence obtained
+with the crude extract of enzyme in the presence of body fluids. Also,
+no distillation
+procedure is needed prior to analysis of formate from
+blood or urine. The method described averted these problems and allowed for an economical and rapid means for formate determination.
+This method can be used for a variety of purposes in laboratories
+interested in toxicology and drug metabolism. The lowest level of blood
+formate which can be accurately determined is about 1.0 mg%. Both
+methanol and formate measurements can be performed on 0.25 ml of
+blood at a low level of of formate in the blood. One example was shown
+(Fig. 4) where a pigtail monkey which had received methanol became
+acidotic with increasing blood levels of formate. Since a controversy
+exists concerning the role of formic acid in methanol-induced
+metabolic
+acidosis the technique will be useful in elaborating the part played by
+this acid in the overall toxicity of methanol in primates and man. Another use of this method would be the demonstration
+of formate as a
+product of the metabolism of certain drugs or chemicals. For example,
+many compounds that might be demethylated could conceivably be converted to formate and certain one-carbon halogenated compounds may
+be converted to formate in their conversion to carbon dioxide. The sen-
+
+126
+
+MAKAR
+
+sitivity offered by this technique
+problems.
+
+ET
+
+AL.
+
+may be helpful in application
+
+to these
+
+SUMMARY
+A sensitive and specific assay for formic acid in body fluids has been
+developed. The assay is based on the reaction of formate with bacterial
+formate dehydrogenase coupled to a diaphorase-catalyzed
+reduction of
+the nonfluorescent dye resazurin to the fluorescent substance resorufin.
+Formate concentrations of 0.5 &ml
+of reaction mixture can be accurately measured. Small volumes of body fluids can be used for the analysis
+of both methanol and formate. The procedure described is simple and
+allows for the economical and rapid determination
+of formate. It can be
+used in studies concerned with the disposition of formate, as it relates to
+methanol metabolism.
+Also, it may be useful in studies where formate
+might exist as a metabolic intermediate
+of certain drugs or chemicals.
+ACKNOWLEDGMENT
+This research was supported by NIH Grant GM 19420.
+
+REFERENCES
+I. Tephly, T. R., Watkins, W. D., and Goodman, J. I. (1974) In “Essays in Toxicology”
+(Hayes, W. J., Jr. Ed.), pp. 149-177, Academic Press, New York.
+2. Tephly, T. R., Parks, R. E., Jr., and Mannering, G. J. (1964)J. Pharmacol. Exp. Ther.
+143, 292.
+
+3. Makar, A. B., Tephly, T. R., and Mannering, G. J. (1968) Mol. Pharmacol.
+4, 471.
+4. Mannering, G. J., Van Harken, D. R., Makar, A. B., Tephly, T. R., Watkins, W. D.,
+and Goodman, J. I. (1969). Ann. N.Y. Acad. Sci. 168, 265.
+5. Watkins, W. D., Goodman, J. I., and Tephly, T. R. (1970) Mol. Pharmacol.
+6, 567.
+6. Goodman, J. I. and Tephly, T. R. (1971) Biochim. Biophys. Acta 252, 489.
+7. Oro, J. and Rappoport, D. A. (1959) J. Eiol. Chem. 234, 1661.
+8. Aebi, H., Frei, E., Knab, R., and Siegenthales, P. (1957) Helv. Physiol. Acta 15, 150.
+9. Grant, W. M. (1948)Anal.
+Chem. 20, 267.
+10. Rietbrock, N. and Hinrichs, W. -D. (1964). K/in. Wschr. 42, 981.
+11. Johnson, P. A., Jones-Mortimer, M. C.. and Quayle, J. R. (1964) Biochim.
+Biophys.
+Acta 89, 351.
+12. Guilbault, G. G., Sadar, S. H., and McQueen, R. (1%9) Anal. Chirn. Acra 45, 1.
+13. Zamenhof, S. (1957) In “Methods of Enzymology” (Colowick, S. P. and Kaplan,
+N. O., Eds.), Vol. 3, p. 702, Academic Press, New York.
+14. Baker, R. N., Alenty, A. L., and Zack, J. F., Jr. (1969) J. Chromntogr.
+Sci. 7, 312.
+15. Quayle, J. R. (1966) In “Methods of Enzymology” (Colowick, S. P. and Kaplan,
+N. O., Eds.), Vol. 9, pp. 360-364, Academic Press, New York.
+16. Somogyi, M. (1945) J. Biol. Chem. 160, 69.
+
+

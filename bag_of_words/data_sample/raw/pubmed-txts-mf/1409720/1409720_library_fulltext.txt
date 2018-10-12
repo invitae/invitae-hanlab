@@ -1,0 +1,834 @@
+Proc. Natl. Acad. Sci. USA
+Vol. 89, pp. 9924-9928, October 1992
+Genetics
+
+Different missense mutations at the tissue-nonspecific alkaline
+phosphatase gene locus in autosomal recessively inherited
+forms of mild and severe hypophosphatasia
+(bone mineralization/rickets/genetic disease)
+
+PAULA S. HENTHORN*t, MICHAEL RADUCHA*, KENTON N. FEDDEt, MARY ANN LAFFERTY§,
+AND MICHAEL P. WHYTE*¶
+
+*Section of Medical Genetics, University of Pennsylvania School of Veterinary Medicine, Philadelphia, PA 19104; tDivision of Bone and Mineral Diseases,
+Washington University School of Medicine at The Jewish Hospital of St. Louis, St. Louis, MO 63110; §University of Pennsylvania School of Nursing,
+Philadelphia, PA 19104; and IMetabolic Research Unit, Shriners Hospital for Crippled Children, St. Louis, MO 63131
+Communicated by William H. Daughaday, July 20, 1992 (received for review February 21, 1992)
+
+Alkaline phosphatases (ALPs) [orthophosphoric-monoester
+phosphohydrolase (alkaline optimum), EC 3.1.3.1] are homodimeric or homotetrameric glycoproteins that can hydrolyze a variety of monophosphate esters with high pH optima
+(1). In humans there are four isozyme forms of ALP; tissuenonspecific ALP (TNSALP), also known as "liver/bone/
+kidney" ALP, placental ALP, intestinal ALP, and placentallike ALP. Each isozyme is encoded by a separate gene (2-5).
+Expression of the placental, intestinal, and placental-like
+ALPs is limited to a few specific tissues, whereas TNSALP
+is present in many cell types and is especially rich in
+mineralizing bone (1).
+The physiological function of ALP in most tissues is
+uncertain; however, the TNSALP isoenzyme has long been
+thought to play a role in skeletal mineralization (1, 6-8) and
+appears to function at physiologic pH as a cell-surface
+
+phosphatase toward several natural phospho-monoester substrates (8-10). Perhaps the strongest evidence for a role for
+TNSALP in skeletal formation is provided by the inbornerror-of-metabolism hypophosphatasia, an inherited metabolic bone disease that is characterized by deficient TNSALP
+activity and defective skeletal mineralization (for reviews,
+see refs. 8, 10, and 11).
+Hypophosphatasia is highly variable in its clinical expression, which ranges from stillbirth with no radiographically
+apparent mineralized bone to pathologic fractures not developing until late in adulthood. However, affected siblings are
+usually phenotypically similar. Severe forms of the disease,
+when manifested at birth (perinatal hypophosphatasia) or
+within the first 6 mo of life (infantile hypophosphatasia), are
+transmitted in an autosomal recessive fashion. The mode of
+inheritance of clinically more mild childhood hypophosphatasia or adult hypophosphatasia is uncertain, and both autosomal recessive and autosomal dominant transmission have
+been suggested (11). Carriers of the severe forms are clinically normal but often have modestly reduced serum ALP
+activity. Like patients, carriers accumulate certain phosphocompounds (phosphoethanolamine, inorganic pyrophosphate, and pyridoxal 5'-phosphate) thought, therefore, to be
+natural substrates of TNSALP (8, 12, 13). At least one form
+of severe hypophosphatasia, prevalent in the Canadian Mennonite population, has been shown to be tightly linked to the
+ALPL locus (14,15), which encodes TNSALP. However, the
+only reported molecular defect in hypophosphatasia to date
+is our description of an identical single missense mutation in
+both alleles of the TNSALP gene in an infant with lethal
+hypophosphatasia whose parents are second cousins. This
+mutation was shown, by site-directed mutagenesis, to abolish
+TNSALP activity and causes perinatal disease in the homozygous state. It has been detected only in members of this
+inbred kindred and is not found in 42 other hypophosphatasia
+individuals (16). In addition, correct-sized TNSALP mRNA
+with abundance within the normal range was found in the
+fibroblasts of 13 severe cases of hypophosphatasia (17).
+Taken together, these findings were interpreted to predict
+that (i) there are at least two different severe hypophosphatasia mutations in the gene for TNSALP, (ii) the variability in
+clinical expression of hypophosphatasia probably results
+from a variety of TNSALP mutations, and (iii) most cases of
+severe hypophosphatasia are likely to be caused by point
+mutations or by small deletions in the TNSALP gene (17).
+To explore the mutations, inheritance, and markedly variable clinical expression of hypophosphatasia, we analyzed
+
+The publication costs of this article were defrayed in part by page charge
+payment. This article must therefore be hereby marked "advertisement"
+in accordance with 18 U.S.C. §1734 solely to indicate this fact.
+
+Abbreviations: ALP, alkaline phosphatase; TNSALP, tissue-nonspecific alkaline phosphatase.
+tTo whom reprint requests should be addressed.
+
+Hypophosphatasia is a heritable form of rickABSTRACT
+ets/osteomalacia with extremely variable clinical expression.
+Severe forms are inherited in an autosomal recessive fashion;
+the mode of transmission of mild forms is uncertain. The
+biochemical hallmark of hypophosphatasia is deficient activity
+of the tissue-nonspecific isozyme of alkaline phosphatase
+(TNSALP). Previously, we demonstrated in one inbred infant
+that an identical missense mutation in both alleles of the gene
+encoding TNSALP caused lethal disease. We have now examined TNSALP cDNAs from four unrelated patients with the
+severe perinatal or infantile forms of hypophosphatasia. Each
+of the eight TNSALP alleles from these four individuals contains a different point mutation that causes an amino acid
+substitution. These base changes were not detected in at least
+63 normal individuals and, thus, appear to be causes of
+hypophosphatasia in the four patients. (Two additional base
+substitutions, found in one allele from each of the four patients,
+are linked polymorphisms.) Twenty-three unrelated patients
+(of 50 screened), who reflect the entire clinical spectrum of
+hypophosphatasia, possess one of four of the above eight
+mutations. In two of these additional patients, mild forms of the
+disease are also inherited in an autosomal recessive fashion.
+Our findings indicate that hypophosphatasia can be caused by
+a number of different missense mutations and that the specific
+interactions of different TNSALP mutant alleles are probably
+important for determining clinical expression. Severe forms,
+perinatal and infantile disease, are largely the result of compound heterozygosity for different hypophosphatasia alleles.
+At least some cases of childhood and adult hypophosphatasia
+are inherited as autosomal recessive traits.
+
+9924
+
+Genetics: Henthom et al.
+the TNSALP cDNA synthesized from fibroblast RNA of four
+unrelated patients (GM4235, GM3859, MW5, and MW10)
+with severe (perinatal or infantile) hypophosphatasia. We
+identified a different mutation in each of the eight TNSALP
+alleles in these four subjects, found two linked polymorphisms in one allele of each patient, and examined the
+distribution of these 10 base changes in a relatively large
+number of individuals who represented all clinical forms of
+hypophosphatasia. 11
+
+MATERIALS AND METHODS
+Cell Lines and Patient Materials. Fibroblast lines from four
+severely affected patients, referred to as GM3859, GM4235
+(18), MW5, and MW10, were studied. GM3859 was taken from
+a girl who died 3 hr after birth. GM4235 was obtained from a
+5-mo-old boy who expired at 6 mo of age. MW10 was from a
+boy who presented with pneumonia at 6 mo of age and was
+found to have rickets that underwent gradual spontaneous
+improvement so that, now, at 9 yr of age, he has little bony
+deformity. MW5 was obtained at autopsy from an infant girl
+who presented at 2 mo of age and died 6 mo later (19). The four
+patients all exhibited the clinical, radiologic, and biochemical
+abnormalities that typify either perinatal or infantile hypophosphatasia (11). Fibroblast lines GM3859 and GM4235, as
+well as GM1571, GM3459, GM3502, GM8690, GM9032,
+GM9033, and GM9442 (all from patients who had severe forms
+of hypophosphatasia) were purchased from the National Institute of General Medical Sciences Human Genetic Mutant
+Cell Repository, Camden, NJ. Peripheral blood or fibroblast
+cell lines were also obtained from 39 additional unrelated
+hypophosphatasia patients who represented all clinical forms
+of the disorder and, in some cases, from their family members.
+Most of these individuals were either studied or their clinical
+information was reviewed by one of us (M.P.W.), and the form
+of hypophosphatasia was assigned according to clinical/
+radiologic criteria (11). Among these patients were two siblings, 2 and 31/2 yr old, with classic childhood hypophosphatasia (family Z) and one 65-yr-old woman (family VV) with
+typical adult disease (see below). Fibroblast cultures were
+established by standard methods (18) and grown as described
+(17). All samples were obtained with informed consent.
+DNA Analysis. The protein-coding regions of TNSALP
+cDNAs were amplified from individual patients as described
+(16). Amplified fragments were isolated (16), treated with an
+excess of EcoRI, and cloned into the plasmid vector pUC18.
+Multiple plasmid clones from each patient were isolated, and
+their inserts were transferred to the m13 phage M13mpl9 and
+sequenced as described (16). For each patient, the nucleotide
+sequences of three independent plasmid clones were determined to distinguish base changes present in their genomic
+DNA from base changes introduced during cDNA synthesis
+or PCR amplification.
+To corroborate that the base changes seen in the cloned
+TNSALP cDNA isolates were, indeed, mutations present in
+the patient's genome, exon amplification and allele-specific
+oligonucleotide hybridization were used to detect base
+changes in genomic DNA from patients and available family
+members. Specifically, standard methods were used for the
+isolation of genomic DNA from peripheral white blood cells
+(20). One microgram of genomic DNA served as the template
+in an amplification reaction containing AmpliTaq DNA polymerase (Perkin-Elmer/Cetus) (21) and oligonucleotide primers specific for exons 3, 4, 6, 7, 9, 10, or 11. Primer sequences
+(19-21 bases in length) were based on the sequence analysis
+
+"This work was presented, in part, at the 8th International Congress
+of Human Genetics, Oct. 6-11, 1991, Washington, and the 13th
+Annual Scientific Meeting of the American Society for Bone and
+Mineral Research, Aug. 24-28, 1991, San Diego.
+
+Proc. Natl. Acad. Sci. USA 89 (1992)
+
+9925
+
+of the human TNSALP gene (5) and are available upon
+request. One-tenth of the amplified DNA was electrophoresed in a 7.5% polyacrylamide gel and electroblotted (Mini
+Trans-Blot, Bio-Rad) or electrophoresed in 4% 3:1 NuSieve
+agarose gel and transferred with capillary action onto ZetaProbe membrane (Bio-Rad) according to the manufacturer's
+instructions. Prehybridization was performed for 1.0 hr at
+370C in a solution containing 0.5 M NaHPO4 (pH 7.20), 1%
+bovine serum albumin, 4% SDS, 1 mM EDTA, denatured
+salmon sperm DNA at 50 gg/ml, and polyadenylic acid at 50
+/ug/ml (adapted from ref. 22). Each hybridization was done
+overnight at 370C after addition of the appropriate 32P-labeled
+mutant allele-specific oligonucleotide probe. The specific
+sequences for the mutant oligonucleotide probes were as
+follows: 274T (exon 3), 5'-AGACCAAGTGCAAGAGA-3';
+387T (exon 4), 5'-CGGCTGCCTGCATCCTC-3'; 388C (exon
+4), 5'-GGCTGCCCCCATCCTCA-3'; 747A (exon 6), 5'AGACCACAAGATGCC-3'; 796C (exon 6), 5'-CGCCTACCCGCTCATGC-3'; 963C (exon 7), 5'-AACCGAGACACAAGCAC-3'; 1052G (exon 9), 5'-TTCGAGCCGGGGGACAT-3'; 1057C (exon 9), 5'-CCAGGGGCCATGCAG-3';
+1309T (exon 10), 5'-ACTGCGGACATTCC-3'; and 1482C
+(exon 11), 5'-TGGTGGACATGGTGAG-3'. The underlined
+letters indicate the nucleotide changes from the normal
+cDNA sequence (23). Membranes were first washed at 37°C
+with a solution containing 3.0 M tetramethylammonium chloride, 50 mM Tris HCl (pH 8.0), 2 mM EDTA, and 0. 1% SDS
+and autoradiographed to confirm the presence of amplified
+DNA for all samples. They were then washed in the same
+buffer at a temperature empirically determined to discriminate between single-base mismatches (24). The wash temperature necessary for discrimination of each probe was as
+follows: 274T, 54.5°C; 387T, 57°C; 388C, 52.50C; 747A, 440C;
+796C, 490C; 963C, 450C; 1052G, 500C; 1057C, 450C; 1309T,
+45°C; and 1482C, 480C. The blots were autoradiographed for
+30 min to overnight at -70°C with an intensifying screen.
+
+RESULTS
+Base Changes Detected in Hypophosphatasia Patients.
+GM4235 TNSALP cDNA clones contained four single-base
+changes in the two TNSALP alleles. These base changes and
+the resulting amino acid substitutions are summarized in
+Table 1. The base changes at positions 387, 963, and 1052
+were found on the same TNSALP allele. This allele was
+inherited from the propositus' mother (DNA derived from
+fibroblast cell line GM4234), as shown by allele-specific
+hybridization in Fig. 1A, whereas the 1057C allele was
+inherited from the father (fibroblast cell line GM4236).
+GM3859 TNSALP cDNA clones also contained four single-base changes in the two TNSALP alleles. The specific
+base changes are summarized in Table 1. The base changes
+Table 1. Summary of base changes
+Amino
+cDNA
+Amino acid
+Base
+acid
+base
+Cell line position Exon change position
+change
+54
+4
+C -T
+GM4235
+387*
+Arg Cys
+A- C
+277
+GM4235
+1057
+9
+Asp Ala
+54
+4
+G C
+GM3859
+388
+Arg -Pro
+Gln Pro
+796*
+6
+A C
+190
+GM3859
+Ala- Val
+274
+3
+C -T
+16
+MW10
+1482*
+11
+T-. C
+419
+Tyr-- His
+MW10
+174
+Glu -Lys
+MW5
+747
+6
+G- A
+MW5
+1309*
+10
+A-. T
+361
+Asp - Val
+7
+T -. C
+246
+Tyr-- His
+963
+All 4
+None
+AB 4
+9
+A- G
+275
+1052
+*Denotes allele that contains %3C and 1052G base changes.
+
+9926
+
+Genetics: Henthom et al.
+
+A GM4234 GM4236
+
+Proc. Natl. Acad. Sci. USA 89 (1992)
+
+B ol
+
+02
+
+ZZ3
+
+C
+378T *1057C
+
+ZZ4
+
+1482C
+
+274T
+
+747A
+
+GM4235
+
+MW12
+
+MW1o
+
+378T
+E.w
+
+,
+
+MW5 ZZ2
+
+GM4235
+
+...
+
+1057C
+
+(
+
+1309T
+
+GM4235
+
+274T
+
+747A
+
+1 482C
+
+1309T
+
+FIG. 1. (A) Analysis of 387T and 1057C mutation in GM4235 fibroblast DNA and parental DNA. Exons 4 and 9 of the TNSALP gene were
+amplified from genomic DNA from patient and parents' fibroblast cell lines and hybridized to allele-specific oligonucleotide probes.
+Hybridization results are shown below the pedigree. Solid filling of pedigree symbols indicates presence of the 1057C allele, whereas diagonal
+line filling represents the 387T allele. MW12, a fibroblast line from a patient known to have the normal bases at these positions (16), is a negative
+control. (B) Analysis of 274T and 1482C mutations in MW10 fibroblast DNA and parental DNA. Exons 3 and 11 of the TNSALP gene were
+amplified from genomic DNA from patient fibroblast cells and parents' peripheral blood and hybridized to allele-specific oligonucleotide probes.
+Horizontal line filling of pedigree symbols indicates presence ofthe 274T allele, whereas vertical line filling represents the 1482C allele. GM4235
+is a negative control. (C) Analysis of 747A and 1309T mutations in MW5 fibroblast DNA and family DNA. Exons 6 and 10 of the TNSALP
+gene were amplified from genomic DNA from patient and fibroblast cells and from family members' peripheral blood and hybridized to
+allele-specific oligonucleotide probes. Left-hand diagonal-line filling of pedigree symbols indicates presence of the 747A allele, whereas
+right-hand diagonal-line filling represents the 1309T allele. GM4235 is a negative control.
+at positions %3 and 1052 were those also found in GM4235
+
+(see above).
+MW10 cDNAs contained the 963C and 1052G single-base
+changes found together in the two patients described above.
+The allele containing these base changes also contained a T
+C transition at nucleotide position 1482 (Table 1). As
+shown by allele-specific oligonucleotide hybridization (Fig.
+1B), the 274T allele was inherited from the propositus' father,
+whereas the 1482C allele was inherited from his mother.
+MW5, as in each of the three patients described above, also
+contains the 963C and 1052G single-base changes together in
+one TNSALP allele. On the same allele, a thymine replaces
+an adenine at nucleotide 1309 (Table 1). The other MW5 allele
+contains a single-base substitution at nucleotide residue 747,
+which was inherited from the proposita's mother (Fig. 1C).
+The allele carrying the 1309T mutation was inherited from her
+father and is also present in her clinically unaffected sister.
+Population and Family Studies. To determine whether these
+base changes might represent mutations deleterious to the
+TNSALP gene function or are common nondeleterious polymorphisms, we used allele-specific oligonucleotide hybridization, as described above, to examine genomic DNA from
+57 to 73 unrelated normal individuals and 42 to 50 nonrelated
+patients representing all of the various clinical types of
+hypophosphatasia. The base changes 963C and 1052G, found
+together in one allele from each of the four hypophosphatasia
+fibroblast lines described above, appear to be polymorphic in
+both the normal and hypophosphatasia populations. The
+frequencies of 963C in the normal and affected populations
+that we examined were 0.33 and 0.43, respectively, whereas
+1052G was found at frequencies of0.31 and 0.47, respectively
+(Table 2). These frequencies do not differ significantly between the normal and hypophosphatasia populations, as
+determined by a 2 x 2 contingency analysis with three
+degrees of freedom. (For 963C, x2 = 1.25, 0.8 > P > 0.7 and
+for 1052G, x2 = 3.15, 0.4 > P > 0.3). In addition, consistent
+with the observation that these two base changes are on the
+same TNSALP allele in our patients and have also been
+reported by others as variant nucleotides in a single human
+liver ALP cDNA (25), statistical analysis reveals that these
+two polymorphisms are in linkage disequilibrium. In a total of
+117 normal and hypophosphatasia individuals examined for
+the presence of both base changes, 71 had neither, 41 had
+both, 3 had only 1052G, and 2 had only 963C. Therefore, the
+association of base 963C with 1052G, which in this study is
+
+due to linkage because these mutations are both found in the
+TNSALP gene, is highly significant with P < 0.0005 (analysis
+is by 2 x 2 contingency with x2 = %.6), demonstrating the
+linkage disequilibrium between these polymorphisms.
+With regard to the other eight single-base changes we
+detected in the four hypophosphatasia patients, none was
+found in normal individuals (Table 2). By their absence in the
+normal population and, with only one exception, by the
+criterion of evolutionary conservation (see Discussion),
+these eight base changes, therefore, appear to be deleterious
+mutations that, in combination, can cause severe hypophosphatasia. Henceforth, these eight base changes will be referred to as hypophosphatasia mutations.
+We then searched, using allele-specific oligonucleotide
+hybridization, for the presence of the eight missense mutations in other hypophosphatasia patients (or in their parents
+when patient material was not available). Four of the eight
+mutations (387T, 388C, 796C, and 1482C) were not found in
+any other hypophosphatasia patient. The remaining four
+mutations, however, were all detected in at least one other
+unrelated hypophosphatasia individual, as summarized in
+Table 2. In one of the families, the propositus had died from
+infantile hypophosphatasia and was unavailable for study.
+Both of his unrelated parents carry the 1057C allele.
+Evidence for Autosomal Recessive Inheritane I Mild
+Forms of Hypophosphatasia. The screening of hypophosphatasia patient DNA described above revealed three individuals who carry both the 747A and 1057C mutant alleles.
+Table 2. Population distribution of base changes
+
+Population
+Cases, no.
+Base
+change Normal Hypoph. P/I Child Adult Odon.
+0
+3
+0
+0
+274T
+3/47
+0/65
+0
+1
+0
+0
+387T
+1/48
+0/67
+0
+1
+0
+0
+388C
+1/47
+0/67
+4
+0
+747A
+1
+2
+7/46
+0/57
+1
+0
+0
+0
+796C
+1/47
+0/64
+NA
+NA
+NA
+NA
+963C
+21/49
+24/73
+NA
+NA
+NA
+NA
+1052G
+23/49
+22/71
+2
+0
+2
+1057C
+2
+6/50
+0/72
+4
+2
+2
+1
+1309T
+9/42
+0/63
+0
+0
+1
+0
+1482C
+1/45
+0/65
+NA, not analyzed; P/I, perinatal/infantile; Hypoph., hypophosphatasia; Odon, odontohypophosphatasia.
+
+Proc. Natl. Acad. Sci. USA 89 (1992)
+
+Genetics: Henthom et al.
+IV
+
+'T
+
+III
+
+A
+1
+
+2
+
+1
+
+I
+
+MO
+
+VV1 VV2 VV3
+
+74'
+
+f-4~Th
+
+3
+
+e
+
+E
+2
+
+WA
+
+MO
+
+_-
+
+VV4
+
+5
+
+4
+
+3
+
+747A
+
+1057C
+
+MW5 GM4235
+
+747A
+
+5
+
+4
+
+2
+
+1
+_ _
+
+a]
+
+El
+
+b-
+
+II
+
+_-
+
+1057C
+
+9927
+
+-_
+_
+
+_
+w
+
+1057C
+
+_WA
+
+747A
+
+1057C
+FIG. 2. Pedigree of family Z, showing autosomal recessive inheritance of childhood hypophosphatasia. All family members were
+examined for the presence of the 747A (diagonal line filling) and
+1057C (solid filling) by oligonucleotide hybridization of allele-specific
+probes, the results of which are shown below the pedigree. The
+sibling children who display childhood hypophosphatasia are I-1 and
+1-2. MW5 and GM4235 each serve as both a positive and negative
+control.
+
+Two of these individuals are siblings (Fig. 2, I-1 and I-2 of
+family Z) who show the classic phenotype of childhood
+hypophosphatasia. All members of the family depicted in the
+pedigree were examined for the presence of the 747A and
+1057C alleles, and the results are indicated in the pedigree.
+The pattern of inheritance shows that the 747A and 1057C
+mutations are on different TNSALP alleles and that the
+affected individuals are compound heterozygotes for these
+two mutant alleles. Carriers in this family report no clinical
+signs or symptoms of the disease (M.P.W., data not shown).
+Consequently, this family appears to show autosomal recessive inheritance for the relatively mild childhood form of
+hypophosphatasia.
+The third individual who tests positive for both the 747A
+and 1057C mutant alleles is a 65-year-old woman (VV1)
+whom we recently diagnosed with adult hypophosphatasia.
+This patient is of interest because she, as in -50%o of adult
+hypophosphatasia cases (26), recalls having been told she had
+rickets as a young child but reported having generally good
+health until long bone fractures began during her sixth decade
+of life. Allele-specific oligonucleotide hybridization to amplified DNAs from the woman, her two sisters, and her
+daughter (Fig. 3) indicated that the two TNSALP mutations
+are on separate alleles. This woman is, therefore, a compound heterozygote and shows autosomal recessive inheritance for the mild adult form of hypophosphatasia.
+
+DISCUSSION
+We have identified 10 additional base changes in the
+TNSALP genes of four unrelated patients with perinatal or
+infantile hypophosphatasia. Two of these changes, 963C and
+1052G, are linked polymorphisms that are common in our
+samples of normal and hypophosphatasia individuals. The
+remaining 8 base changes, however, are missense mutations
+that were not found in any of at least 57 or more subjects
+representing the normal population.
+Further assessment of these mutations comes from considering the conservation of ALP polypeptides through ev-
+
+FIG. 3. Pedigree of family VV, showing autosomal recessive
+inheritance of adult hypophosphatasia. All family members were
+examined for the presence of the 747A (diagonal line filling) and
+1057C (solid filling) by oligonucleotide hybridization of allele-specific
+probes, the results of which are shown below the pedigree. The
+65-year-old proposita is VV1. MW5 and GM4235 each serve as both
+a positive and negative control.
+
+olution in light of the three-dimensional structure of Escherichia coli ALP, which has been determined by x-ray crystallography (27, 28). The ALP protein sequences available for
+comparison include one from yeast, one from E. coli (29, 30),
+two from Bacillus subtilis (31), and ten mammalian ALPs,
+both tissue-nonspecific and tissue-specific (4, 23, 32-41).
+Three of the eight hypophosphatasia mutations (387T,
+388C, and 1309T) result in amino acid substitutions in regions
+of the polypeptide that are conserved throughout evolution,
+being identical in mammals, yeast, and bacteria (23, 28, 31).
+Both the 387T and 388C mutations cause amino acid substitutions at Arg-54 in the mature TNSALP polypeptide. This
+residue is within a region of the polypeptide that is involved
+in metal-ligand binding. The residue in E. coli analogous to
+Asp-361, which is affected by mutation 1309T, corresponds
+to a metal-binding ligand. Both amino acid residues affected
+by these three mutations are identical in all characterized
+ALPs.
+Two of the mutations (274T and 796G) affect amino acid
+residues that are completely conserved in mammalian ALPs.
+Because there is not sufficient homology between TNSALP
+and yeast and prokaryotic ALPs in the two corresponding
+regions to make direct sequence alignments, we cannot
+speculate on the function of these regions of the polypeptide.
+For the remaining three mutations (747A, 1057C, and
+1482C), the amino acid residues are conserved among all
+TNSALPs. Once again, the affected regions of the polypeptide are not conserved among TNSALP and prokaryotic
+ALPs, so a direct comparison of amino acid residues again
+cannot be made.
+The polymorphic 963C base change causes an amino acid
+substitution of histidine for tyrosine at amino acid position
+246 in TNSALP. Rat intestinal ALP also has a tyrosine
+residue at this position. The remaining mammalian ALPs
+(except the type 3 allele of human placental ALP, see ref. 34)
+have a histidine residue at this position. Finding both tyrosine
+and histidine residues in this position in the mammalian ALPs
+supports the conclusion, based on population distributions
+(see Population and Family Studies above), that the 963C
+base change is a functionally silent polymorphism.
+The salient features of the eight mutations described herein
+are as follows: Mutation 274T was originally detected in a
+case of infantile hypophosphatasia (MW10) who has survived
+into childhood but was also seen in two other cases of
+infantile hypophosphatasia that proved lethal. This mutation
+affects an amino acid residue that is conserved in all characterized mammalian ALPs. Mutation 387T was first characterized in a lethal infantile case of hypophosphatasia and
+affects a highly conserved and functionally significant amino
+acid residue. Mutation 388C was discovered in a lethal
+perinatal case of hypophosphatasia and affects a highly
+
+9928
+
+Proc. Natl. Acad. Sci. USA 89 (1992)
+
+Genetics: Henthom et al.
+
+conserved and functionally significant amino acid residue.
+Mutation 747A was first found in a case of lethal infantile
+hypophosphatasia (MW5) but is also found in mild childhood
+and adult forms of hypophosphatasia and can be inherited in
+an autosomal recessive fashion in both severe and mild
+disease. Mutation 796C was first detected in a lethal perinatal
+case of hypophosphatasia and affects a highly conserved
+amino acid residue. Mutation 1057C was discovered in a
+lethal infantile case of hypophosphatasia but is also found in
+mild forms of hypophosphatasia. It is inherited in an autosomal recessive fashion in both severe and mild hypophosphatasia and causes lethal infantile hypophosphatasia when
+present in both TNSALP alleles. Mutation 1309T was first
+observed in a lethal infantile case of hypophosphatasia, is
+found in all clinical forms of hypophosphatasia, and affects a
+highly conserved and functionally significant amino acid
+residue. Mutation 1482C was first characterized in a surviving infantile case of hypophosphatasia.
+Our findings in these four cases of severe hypophosphatasia provide insight concerning a number of aspects of this
+inborn error of metabolism and its inheritance. All four of the
+patients were compound heterozygotes for TNSALP gene
+defects. Thus, the five cases of severe hypophosphatasia
+(perinatal and infantile forms) examined to date (see ref. 16
+also) have resulted from autosomal recessive inheritance of
+a number of different missense mutations at the TNSALP
+gene locus. The nine hypophosphatasia point mutations
+(including the 711A mutation discussed in ref. 16) are present
+in a total of 24 of our 50 patients, with the most prevalent
+mutation being found in only 9 patients (1309T). Our pool of
+DNA samples from 50 patients contains 100 TNSALP alleles;
+we have identified a mutation in 32 of these alleles to date.
+Three of the point mutations observed in severe forms of
+hypophosphatasia (747A, 1057C, and 1309T) are involved in
+the clinically mild childhood and adult forms of the disease.
+In two families, one with childhood (family Z) and the other
+with adult hypophosphatasia (family VV), affected individuals are compound heterozygotes for the 747A and 1057C
+alleles. These families, therefore, show autosomal recessive
+inheritance of the same two mutations in mild forms of
+hypophosphatasia. Despite their classification as different
+forms of the disease by an accepted clinical nosology (11),
+these patients appear to have very similar clinical expression
+of their disorder. Therefore, longitudinal study of the affected
+children in family Z and comparison to the adult patient from
+family VV will be important to assess the impact of TNSALP
+genotype versus environmental or other genetic factors in
+determining the clinical consequences of compound heterozygosity for these two mutations.
+Molecular characterization of additional hypophosphatasia
+patients, including families in which autosomal dominant
+inheritance has been reported (for review, see ref. 42),
+together with clinical and biochemical studies, should provide additional insights into the biological function of
+TNSALP. Identification of specific causal molecular defects
+in the marked varying clinical forms of hypophosphatasia
+may also improve the current clinical nosology and enhance
+prognostication for this inborn error of metabolism.
+We thank Dr. Harry Harris, in whose laboratory this work was
+initiated, for support and guidance. We also thank Drs. A. L.
+Beaudet, D. E. Cole, C. Insogna, C. A. Moore, and J. Shaker for
+providing some of the hypophosphatasia patient samples, Dr. Richard Mulivor for providing fibroblast cultures, Dr. Richard Spielman
+for making available DNA samples from normal individuals, Kunal
+Ray for many sample preparations, and the nursing and technical
+staff of the Metabolic Research Unit, Shriners Hospital for Crippled
+Children, St. Louis, for their expert care of many patients. This work
+was supported by the National Institutes of Health (Grants GM27018
+
+and RR00036), the Lucille P. Markey Charitable Trust, and the
+Shriners Hospitals for Crippled Children (Grants 15958 and 15963).
+1. McComb, R. B., Bowers, G. N. & Posen, S. (1979) Alkaline Phosphatase (Plenum, New York).
+2. Henthorn, P. S., Raducha, M., Kadesch, T., Weiss, M. J. & Harris, H.
+(1988) J. Biol. Chem. 263, 12011-12019.
+3. Knoll, B. J., Rothblum, K. N. & Longley, M. (1988) J. Biol. Chem. 263,
+12020-12027.
+4. Millan, J. L. & Manes, T. (1989) Proc. Nat!. Acad. Sci. USA 85,
+
+3024-302§.
+
+5. Weiss, M. J., Ray, K., Henthorn, P. S., Lamb, B., Kg4esch, T. &
+Harris, H. (1988) J. Biol. Chem. 263, 12002-12010.
+6. Robison, R. (1923) Biochem. J. 17, 286-293.
+7. Wuthier, R. E. & Register, T. C. (1985) in Chemistry and Biology of
+Mineralized Tissue, ed. Butler, W. T. (EBSCO Media, Birmingham,
+AL), pp. 113-124.
+8. Whyte, M. P. (1989) in Bone and Mineral Research, ed. Peck, W. A.
+(Elsevier, Amsterdam), Vol. 6, pp. 175-218.
+9. Fedde, K. N., Lane, C. C. & Whyte, M. P. (1988) Arch. Biochem.
+Biophys. 264, 400-409.
+10. Fedde, K. N. & Whyte, M. P. (1991) Am. J. Hum. Gen. 47, 767-775.
+11. Whyte, M. P. (1989) in The Metabolic Basis of Inherited Disease, eds.
+Scriver, C. R., Beaudet, A. L., Sly, W. S. & Valle, D. (McGraw-Hill,
+New York), 6th Ed., pp. 2843-2856.
+12. Fraser, D. (1957) Am. J. Med. 22, 730-746.
+13. Harris, H. & Robson, E. B. (1959) Ann. Hum. Genet. 23, 421-441.
+14. Chodirker, B. N., Evans, J. A., Lewis, M., Coghlan, G., Belcher, E. E.,
+Phillips, S., Seargeant, L. E., Sus, C. & Greenberg, C. R. (1987) Genomics 1, 280-282.
+15. Greenberg, C. R., Chodirker, B. N., McKendry-Smith, S., Redekopp,
+S., Haworth, J. C., Coghlan, G., Sus, K., Seargeant, L. E., Weiss, M. J.
+& Harris, H. (1988) Pediatr. Res. 23, 329 (abstr.).
+16. Weiss, M. J., Cole, D. E. C., Ray, K., Whyte, M. P., Lafferty, M. A.,
+Mulivor, R. A. & Harris, H. (1988) Proc. Nat!. Acad. Sci. USA 85,
+7666-7669.
+17. Weiss, M. J., Ray, K., Fallon, M. D., Whyte, M. P., Fedde, K. N.,
+Lafferty, M. A., Mulivor, R. A. & Harris, H. (1989) Am. J. Hum. Genet.
+44, 686-694.
+18. Whyte, M. P., Vrabel, L. A. & Schwartz, T. D. (1983) J. Clin. Endocrinol. Metab. 57, 831-837.
+19. Whyte, M. P., Valdes, R., Jr., McAlister, W. H. & Ryan, L. M. (1982)
+J. Pediatr. 101, 379-386.
+20. Poncz, M., Solowiejczyk, D., Harpel, B., Mory, Y., Schwartz, E. &
+Surrey, S. (1982) Hemoglobin 6, 27-36.
+21. Saiki, R. K., Gelfand, D. H., Stoffel, S., Scharf, S. J., Higuchi, R.,
+Horn, G. T., Mullis, K. B. & Erlich, H. A. (1988) Science 239,487-491.
+22. Church, G. M. & Gilbert, W. (1984) Proc. Natl. Acad. Sci. USA 81,
+1991-1995.
+23. Weiss, M. J., Henthorn, P. S., Lafferty, M. A., Slaughter, C., Raducha,
+M. G. & Harris, H. (1986) Proc. Nat!. Acad. Sci. USA 83, 7182-7186.
+24. Wood, W. I., Gitschier, J., Lasky, L. A. & Lawn, R. M. (1985) Proc.
+Nat!. Acad. Sci. USA 82, 1585-1588.
+25. Kishi, F., Matsuura, S. & Kajii, T. (1989) Nucleic Acids Res. 17, 2129.
+26. Whyte, M. P., Teitelbaum, S. L., Murphy, W. A., Bergfeld, M. A. &
+Avioli, L. V. (1979) Medicine 58, 329-347.
+27. Sowadski, J. M., Handschumacher, M. D., Murphy, H. M. K., Foster,
+B. A. & Wyckoff, H. W. (1985) J. Mol. Biol. 186, 417-433.
+28. Kim, E. E. & Wyckoff, H. W. (1989) Clin. Chim. Acta 186,175-188.
+29. Kaneko, Y., Hayashi, N., Toh-e, A., Banno, I. & Oshima, Y. (1987) Gene
+58, 137-148.
+30. Chang, C. N., Kuang, W. J. & Chen, E. Y. (1986) Gene 44, 121-125.
+31. Hulett, F. M., Kim, E. E., Bookstein, C., Kapp, N. V., Edwards, C. W.
+& Wyckoff, H. W. (1991) J. Biol. Chem. 266, 1077-1084.
+32. Milian, J. L. (1986) J. Biol. Chem. 261, 3112-3115.
+33. Kam, W., Clauser, E., Kim, Y. S., Kan, Y. M. & Rutter, W. (1985) Proc.
+Nat!. Acad. Sci. USA 82, 8715-8719.
+34. Henthorn, P. S., Knoll, B. J., Raducha, M., Rothblum, K. N., Slaughter, C., Weiss, M., Lafferty, M. A., Fischer, T. & Harris, H. (1986) Proc.
+Natl. Acad. Sci. USA 83, 5597-5601.
+35. Henthorn, P. S., Raducha, M. G., Edwards, Y. H., Weiss, M. J.,
+Slaughter, C., Lafferty, M. A. & Harris, H. (1987) Proc. Nat!. Acad. Sci.
+USA 84, 1234-1238.
+36. Berger, J., Garattini, E., Hua, J.-C. & Udenfriend, S. (1987) Proc. Natl.
+Acad. Sci. USA 84, 695-698.
+37. Lowe, M., Strauss, A. W., Alpers, R., Seetharam, S. & Alpers, D. H.
+
+(1990) Biochim. Biophys. Acta 1037, 170-177.
+
+38. Manes, T., Glade, K., Ziomek, C. A. & Millan, J. L. (1990) Genomics 8,
+541-554.
+39. Garattini, E., Hua, J. C. & Udenfriend, S. (1987) Gene 59, 41-46.
+40. Thiede, M. A., Yoon, K., Golub, E. E. & Rodan, G. (1988) Proc. Nat!.
+Acad. Sci. USA 85, 319-323.
+41. Terao, M. & Mintz, B. (1987) Proc. Nat!. Acad. Sci. USA 84,7051-7055.
+42. Caswell, A. M., Whyte, M. P. & Russell, R. G. G. (1991) CRC Crit. Rev.
+Clin. Lab. Sci. 28, 175-232.
+
+

@@ -1,0 +1,1380 @@
+MOLECULAR AND CELLULAR BIOLOGY, Nov. 1989, p. 45964604
+
+Vol. 9, No. 11
+
+0270-7306/89/114596-09$02.00/0
+Copyright X 1989, American Society for Microbiology
+
+Mutations in the RBI Gene and Their Effects
+
+on
+
+Transcription
+
+J. M. DUNN,"2 R. A. PHILLIPS,2'3 X. ZHU,2'3 A. BECKER,3 AND B. L. GALLIE 12,3*
+Institute of Medical Science' and Department of Medical Genetics,3 University of Toronto, and Division of
+Hematology/Oncology, The Hospital for Sick Children,2 Toronto, Ontario, Canada M5G 1X8
+Received 14 June 1989/Accepted 27 July 1989
+
+Inactivation of both alleles of the RBI gene during normal retinal development initiates the formation of a
+retinoblastoma (RB) tumor. To identify the mutations which inactivate RBI, 21 RB tumors isolated from 19
+patients were analyzed with the polymerase chain reaction or an RNase protection assay or both. Mutations
+were identified in 13 of 21 RB tumors; in 8 tumors, the precise errors in nucleotide sequence were
+characterized. Each of four germ line mutations involved a small deletion or duplication, while three somatic
+mutations were point mutations leading to splice alterations and loss of an exon from the mature RBI mRNA.
+We were unable to detect expression of the mutant allele in lymphoblasts of three bilaterally affected patients,
+although the mutation was present in the genomic DNA and transcripts containing the mutations were obvious
+in the RB tumors in the absence of a normal RBI allele. The variations in the level of expression of mutant
+transcripts suggest deregulation of RBI transcription in the absence of a functional RBI gene product.
+
+The Knudson two-hit hypothesis (21) outlined the genetic
+changes associated with the development of heritable and
+nonheritable retinoblastoma (RB). In heritable cases, one
+allele at the RBI locus on chromosome 13 is inactivated in
+the germ line; the second event involves somatic inactivation
+of the second allele. Since heritable cases require only a
+single somatic mutation to initiate tumor formation, they
+most commonly develop bilateral and multifocal tumors. In
+the nonheritable cases, both alleles of the RBI gene must
+acquire somatic inactivating mutations in a single retinal
+precursor cell. Because of the low frequency of somatic
+mutation, nonheritable RB is always unilateral and unifocal.
+As initially predicted by Knudson (21) and later shown by
+Cavenee et al. (4), all RB tumors have mutations in both
+alleles of the RBI gene. In 70% of tumors, the second
+mutation involves the somatic loss of the normal allele, often
+by mitotic recombination and loss of heterozygosity (LOH)
+in the RBI locus (4, 9).
+A cDNA corresponding to the RBI locus has been cloned
+and sequenced (2, 11, 12). The mRNA is ubiquitously
+expressed, producing a 928-amino-acid, 105-kilodalton nuclear phosphoprotein, detectable in a variety of tissues (12,
+24). Homozygous deletion of RBJ has been noted in several
+RB tumors and in other tumor types (12, 13, 17, 18, 23, 24).
+However, most RB tumors express a full-length RBI transcript and do not contain RBI gene rearrangements when
+analyzed on Northern (RNA) and Southern blots (17). The
+two-hit model of Knudson predicts that both RBI alleles in
+these tumors must contain subtle mutations leading to functional inactivation of the RBI gene product. Previously, we
+demonstrated that subtle mutations, detectable only by
+RNase protection, were the predominant types of mutations
+in RB tumors (10). To extend our characterization of the
+mutations in RBI, we have used RNase protection of RBI
+transcripts to locate probable mutations, followed by polymerase chain reaction (PCR) to amplify and sequence the
+mutant allele.
+
+*
+
+MATERIALS AND METHODS
+
+Cell culture and nucleic acid isolation. RB tumor cell lines
+(14, 15) and Epstein-Barr virus (EBV)-transformed lymphocytes (34) were grown as described previously. Fresh surgical RB tumor specimens and cultured cells were lysed in
+guanidine thiocyanate and layered on a CsCl gradient. The
+RNA and DNA were isolated as described before (6, 17).
+PCR oligonucleotides. The oligonucleotides were synthesized with an Applied Biosystems model 380A DNA synthesizer.
+
+First-strand cDNA synthesis from total RNA, using specific
+primers. Oligonucleotides JD1, JD3, and JD5 (0.5 pmol each)
+were added to 10 to 20 ,ug of total RNA in 10 ,ul of 200 mM
+NaCl-40 mM PIPES [piperazine-N,N'-bis(2-ethanesulfonic
+acid)], pH 6.5-1 mM EDTA and heated to 70°C for 2 min,
+followed by incubation at 42°C for 4 h. cDNA synthesis was
+initiated by the addition of 40 ,ul of RTase buffer containing
+60 mM Tris hydrochloride, pH 8.3, 12.5 mM MgCl2, 50 mM
+KCl, 2.5 mM NaPPi, 2.5 mM dithiothreitol, a 0.5 mM
+concentration of each deoxynucleoside triphosphate, 25 U of
+RNAguard (Pharmacia), 20 U of avian myeloblastosis virus
+(Boehringer Mannheim Diagnostics), and 22 U of murine
+(Pharmacia) reverse transcriptases. Reaction mixtures were
+incubated at 40°C for 2 h and then frozen at -20°C until
+needed.
+Amplification of cDNA and genomic DNA, using the PCR.
+Genomic DNA (1 ,ug) or cDNA (1/10 of first-strand synthesis) was denatured in 0.2 M NaOH for 5 min at room
+temperature and then neutralized with HCl prior to amplification. PCR was performed as described before (28), using
+three constant-temperature water baths and a robot arm to
+move the samples between water baths. For amplifications
+of s500 base pairs (bp), we used 80-s denaturation at 93°C,
+100-s annealing at 56°C, and 60-s extension at 72°C. For
+longer products, the extension times were increased. The
+extension times were increased to 5 to 10 min on the last
+cycle to ensure complete synthesis. Typically, 30 cycles
+were sufficient for cloning and RNase protection experiments. The PCR reaction mixture was brought to 5 mM
+EDTA and 300 mM NaOAc and extracted sequentially with
+equal volumes of phenol and chloroform-isoamyl alcohol
+
+Corresponding author.
+4596
+
+RBI MUTATIONS
+
+VOL. 9, 1989
+
+4597
+
+TABLE 1. Summary of mutations in RB tumors and constitutional cells from patients
+RNA
+DNA
+RB
+
+Cells
+
+LOH
+
+Allele 2
+
+Allele 1
+
+Allele 2
+
+Allele 1
+
+Bilaterala
+
+RB429
+
+Yesb
+
+(5-bp deletion)
+
+(5-bp deletion)
+
+5-bp deletion
+
+5-bp deletion
+
+Bilateral
+
+EBV538
+RB538
+
+No
+Yes
+
+55-bp duplication
+55-bp duplication
+
+Normal
+55-bp duplication
+
+No transcript
+55-bp duplication
+
+Normal
+55-bp duplication
+
+Bilateral
+
+EBV543
+RB543
+
+No
+Yes
+
+10-bp deletion
+10-bp deletion
+
+Normal
+10-bp deletion
+
+No transcript
+10-bp deletion
+
+Normal
+
+Bilateral
+
+EBV570
+RB570B
+RB570C
+RB570D
+
+No
+Yes
+No
+No
+
+9-bp deletion
+9-bp deletion
+9-bp deletion
+9-bp deletion
+
+Normal
+9-bp deletion
+Point mutation
+Unknown
+
+No transcript
+9-bp deletion
+No transcript
+9-bp deletion
+
+Normal
+9-bp deletion
+Exon 22 deletion
+Unknown
+
+Unilateral
+
+EBV571
+RB571
+
+No
+No
+
+Normal
+Point mutation
+
+NDc
+
+Unknown
+
+Normal
+Exon 12 deletion
+
+ND
+No transcript
+
+RB600
+
+Yes
+
+Point mutation
+
+Point mutation
+
+Exon 12 deletion
+
+Exon 12 deletion
+
+Unilaterala
+
+10-bp deletion
+
+a Normal cells not available from these patients.
+b Inferred LOH.
+c ND, Not determined.
+
+(24:1). The mixture was precipitated with 2.5 volumes of
+ethanol, pelleted by centrifugation, and suspended in TE (10
+mM Tris hydrochloride, 1 mM EDTA, pH 7.4) prior to
+further manipulation.
+Agarose gel electrophoresis of PCR products. Typically,
+1/10 of the PCR reaction was separated on 1.2% agarose gels
+for products .800 bp in length or 1% agarose-2% NuSieve
+composite gels for smaller products. Gels were electrophoresed, and the DNA was visualized as described previously (25).
+RNase protection assay. Antisense RNA (cRNA) probes
+were generated in vitro as described previously (10). In a
+volume of 30 jil, 1/50 of the PCR reaction was hybridized to
+105 cpm of labeled RNA probe. RNase digestion and electrophoresis were performed as described before (10).
+Cloning of PCR products. The PCR products were ligated
+into the EcoRV site of plasmid Bluescript SK (Stratagene)
+and used to transform XL-1 Blue (Stratagene) Escherichia
+coli. Colonies containing the insert were identified by their
+inability to cleave the X-Gal (5-bromo-4-chloro-3-indolyl,B-D-galactopyranoside) substrate.
+DNA sequencing. Double-stranded plasmid templates containing the cloned PCR products were isolated as described
+previously (26). Dideoxynucleotide chain termination sequencing reactions were performed on the plasmid DNA,
+using a Sequenase kit (version 2.0) according to the specifications of the supplier (U.S. Biochemical Corp.).
+
+analyzed by PCR, two were from patients with unilateral
+disease and six were from four patients with bilateral RB
+tumors. EBV-transformed lymphoblast cell lines from four
+RB patients and the parents of three of the bilaterally
+affected patients were also studied.
+The Taq DNA polymerase requires a DNA template (28);
+therefore, the RBI mRNA was first converted to cDNA by
+reverse transcriptase. Three antisense oligonucleotides
+(JD1, JD3, and JD5) (Fig. 1) were hybridized to total cellular
+RNA to prime first-strand cDNA synthesis. Three separate
+PCR reactions, each covering approximately one-third of the
+coding region, were performed on the first-strand cDNA
+(Fig. 1), and the PCR-cDNA products were analyzed by
+agarose gel electrophoresis and the RNase protection assay.
+Once the approximate location of the mutation was identified, the appropriate PCR-cDNA fragment was cloned and
+sequenced. To determine whether or not the mutations
+5,
+mRNA
+
+--4
+
+.w
+
+5-6
+
+3,
+
+JD2
+
+(922) ->
+
+(1817) -1
+
+:..
+_q
+
+.......
+
+(919)
+JD5
+
+-(2830)
+
+-(1s18)
+
+JD3
+
+JD1
+
+1-2
+
+3-4
+
+PCR-cDNA
+
+(787)
+
+llH
+cRNA
+
+RESULTS
+Detection of mutations. The RBI gene has 27 exons spanning approximately 180 kilobases of genomic DNA and
+transcribes a 4.7-kilobase mRNA. To simplify the initial
+screening of tumors, we focused our analysis on the coding
+sequence in the RBI transcripts; most tumors (85%) express
+detectable transcripts and are suitable for analysis with this
+strategy. Mutations were identified in 13 of the 21 tumors
+that were screened by RNase protection of RBI RNA
+transcripts. Eight of these 13 RB tumors were studied in
+greater detail, using PCR to isolate and sequence the mutant
+portion of the genome (Table 1). Of the eight RB tumors
+
+JD 4
+
+JD6
+(132) *
+
+(832)
+
+(89)
+
+(1013)
+
+17H
+
+(902)
+
+19Bg
+18Ba
+(916)
+
+(1047)
+
+FIG. 1. Diagram of RBI mRNA, PCR oligonucleotides, PCRcDNA products, and cRNA antisense probes. The coding region of
+the RBI mRNA is shown as a filled box. The positions of the
+oligonucleotide primers used in the initial PCR reactions are shown
+as small arrows above (sense) and below (antisense) the mRNA.
+Numbers in parentheses indicate the number of nucleotides from the
+start methionine. The three PCR-cDNA products are shown as
+opposing arrows, with the numbers of the primers used above and
+the length of the normal product below. The antisense cRNA probes
+used to screen the total RNA and PCR products are shown as solid
+arrows, with designation above and the length of protected product
+below.
+
+4598
+
+DUNN ET AL.
+
+B
+
+-
+
+MOL . CELL . B IOL .
+-
+
+i_
+
+T
+
+T
+
+_.11
+
+A
+
+1i\('\
+
+II
+
+---Pro Va'- A
+
+NA
+
+it
+
+GTT A
+_C CA GTT A
+
+----A
+
+1 \
+
+1\U\
+
+\ 12
+
+Im
+
+- --- Phe Asn Asn Cys Thr Val Asn
+-TT
+al
+
+TT
+A\ 94
+
+-
+
+TT
+
+AAC I AAC
+
+--
+
+l-
+
+T!C A:>A
+
+A ACT CCA CA
+
+v
+
+RA
+
+A
+
+A
+
+----Pro Val ATThr Ala GIn S_p
+
+introll'1
+
+\O\ 12
+
+C-tcag
+-ta
+ct
+
+G ACT GTT
+
+-
+
+TTT AAC
+
+gtaagc--c
+
+-
+
+TT t+
+
+ataagcci
+
+111
+T I r-T
+IT AACi
+I!aItaci
+
+ototai :;ACT GT
+
+|RB-R1\15 l.
+
+FIG. 2. Evidence that point mutation causes loss of exon 12 from RBJ mRNA in RB571 and RB600. First-strand cDNAs were amplified
+and separated by agarose gel electrophoresis as described in Materials and Methods. (A) Ethidium-stained gel of PCR-cDNA amplified with
+oligonucleotides JD3 and JD4 from constitutional cells of patient 571 (EBV571), RB571, and RB600. EcoRI- and HindIll-digested A DNA were
+run as size markers. The length of the fragments is indicated on the left. A product of decreased length was detected in the RB571 and RB600
+cDNAs. (B) Nucleotide sequences of wild-type and mutant RBI mRNA and genomic DNA at the intron boundaries of exon 12. The deletion
+of exon 12 in RB571 and RB600 RNAs causes a translational frame shift and a termination codon in exon 13. The DNA mutation, a G-to-A
+transition at the splice donor site of exon 12, is indicated with a wide arrow.
+
+detected in the RNA were present in the DNA, the relevant
+regions in genomic DNA from tumor cells and lymphoblasts
+were amplified by PCR, using oligonucleotides flanking the
+mutant region. The genomic sequence of RBJ was provided
+by T. Dryja (25a). For yet unknown reasons, we have been
+unable to amplify the sequences of exon 1 from either cDNA
+or genomic DNA, and we were unable to characterize three
+tumors with mutations in this region (10).
+Identical somatic point mutations result in loss of exon 12
+from two unrelated RB tumors. The unilateral and unifocal
+tumors RB571 and RB600 were isolated from two unrelated
+patients with no family history of RB. Analysis by agarose
+gel electrophoresis of the PCR-cDNA products (primed with
+JD3-4) of RB600, RB571, and EBV571 (an EBV-transformed
+lymphoblast line from patient 571) showed an anomalous
+band migrating at a lower molecular weight in both tumors
+compared with the control (Fig. 2A). The PCR-cDNA products of RB571 and RB600 were cloned into plasmid vectors
+and sequenced. All 10 cDNA clones isolated from both
+tumors were missing exon 12, consistent with splice site
+mutations. Loss of exon 12 introduced a frameshift into the
+reading frame which could produce a truncated protein of
+379 amino acids.
+To identify the exact mutation responsible for the aberrant
+splicing, we amplified and sequenced the genomic region
+surrounding and including exon 12. Oligonucleotides corresponding to genomic sequences flanking exon 12 were used
+in PCR amplification of the genomic DNA isolated from
+RB571, RB600, and the constitutional cells (EBV571) of
+
+patient 571. Constitutional cells from patient 600 were not
+available. All 10 clones isolated from EBV571 contained the
+normal sequence. Clones representative of each allele were
+isolated from the RB571 tumor: two contained the normal
+sequence and three contained a G-to-A transition at the
+splice donor site of exon 12 (Fig. 2B). These results confirm
+the restriction fragment-length polymorphism analysis showing that RB571 retains both maternal and paternal alleles.
+Using the sensitive PCR technique, we were unable to detect
+any cDNAs which contained exon 12; apparently, the mutation on the other allele prevents synthesis of a detectable
+transcript. The genomic PCR products from RB600 contained the same G-to-A transition in all 10 clones isolated,
+suggesting that LOH was the second genetic event in this
+tumor.
+Identification of germ line mutations. RB tumors isolated
+from patients with bilateral tumors must have one mutant
+RBJ allele in the germ line. The four tumors from bilaterally
+affected individuals without a family history of RB (RB429,
+RB538, RB543, and RB570B) all demonstrate LOH (35), so
+that the allele remaining in each tumor should carry the germ
+line mutation. The constitutional cells from three of these
+patients contained the mutation detected in the RB tumor;
+constitutional cells of patient 429 or her parents were not
+available. None of the parents of the other three patients
+carried the mutated allele, confirming that these children
+have new germ line mutations.
+(i) RB429. RNase protection of the RB1 mRNA and
+sequencing the PCR-cDNA demonstrated a 5-bp deletion in
+
+VOL. 9, 1989
+
+RBI MUTATIONS
+
+4599
+
+~rJ
+
+Ln0
+
+1-
+
+e-
+
+*
+
+A
+
+C#
+
+tn
+
+BT-hc
+L~
+
+T
+
+U~
+
+T
+282 bp
+227 bp
+e
+
+951 bp
+S96 bp
+
+C EXON 10:
+
+NORMNIAL
+-----
+
+Leu Lys Asn Lys
+t. AAA AAT AAA
+
+---
+
+Leu Giln Tlr Asp --At-T GAT ---
+
+OTT CAG
+
+RB538
+
+55 bp duplication
+AAA
+AAA
+..eu Lys Asn Lys
+
+CTT
+
+T
+
+CAG A4A AA T
+A
+eu Gln
+s -Lys STOP
+
+CT TCA GAC TGA
+
+FIG. 3. Duplication of 55 bp of DNA in the constitutional cells (EBV538) and RB538 tumor from bilaterally affected patient 538. (A)
+Ethidium-stained gel of PCR-cDNA amplified with oligonucleotides JD3 and JD4 from constitutional cells of patient 538 (EBV538) and RB538.
+EcoRI- and HindIII-digested X DNA were run as size markers. The length of the fragments is indicated on the right. An anomalous fragment
+of increased length in the RB538 lane is not detectable in EBV cells from the patient. (B) Ethidium-stained 3% NuSieve agarose composite
+gel of PCR-amplified genomic DNA from the patient's constitutional cells, RB538, and his parents' lymphocytes. (C) Nucleotide sequence
+of the region of exon 10 containing the 55-bp duplication in patient 538. The box indicates the 55 bp of DNA which is duplicated. The
+duplication introduces a frameshift and termination TAA shown below.
+
+exon 8. The absence of a normal sequence in this region
+confirmed the LOH for this tumor (29). The deletion shifted
+the reading frame and resulted in a new TGA termination
+codon within exon 8. The predicted truncated protein would
+contain 268 amino acids. The constitutional cells were not
+available from this patient to confirm the 5-bp deletion as the
+germ line mutation.
+(ui) RB538. Figure 3A shows agarose gel electrophoresis of
+the PCR-cDNA products of EBV538 and RB538, generated
+by using the JD3 and JD4 primers. A band of increased
+molecular weight is seen in the RB tumor. Southern blot
+analysis and RNase protection of these PCR products indicated no mutant product in the lymphoblasts (data not
+shown). Cloning and sequencing of the PCR-cDNA from the
+tumor revealed a 55-bp duplication within exon 10. This
+duplication altered the reading frame and introduced a novel
+TAA termination codon at position 346 (Fig. 3C). According
+to the two-hit model, the 55-bp duplication should be the
+germ line mutation; however, no transcripts containing this
+mutation were detected in the constitutional cells of the
+patient. To resolve this discrepancy, oligonucleotides homologous to the intron sequences flanking exon 10 were used
+for PCR amplification of genomic DNA from RB538, the
+constitutional cells of patient 538 and his parents. Agarose
+gel electrophoresis of the PCR-amplified products from
+genomic DNA are shown in Fig. 3B. The two bands in the
+constitutional cells of the patient indicate one allele with the
+55-bp duplication and one normal allele; as expected, the RB
+tumor contained only the 55-bp duplication. Since neither
+parent carried this mutation, the 55-bp duplication must be a
+new germ line mutation. It is noteworthy that no mutant
+
+mRNA was detected in the lymphoblasts, while a mutant
+mRNA was easily detectable in the RB tumor (see Discussion).
+(iii) RB543. We previously localized a mutation in RB543
+to exon 18 of the RBI gene (10). The tumor had undergone
+LOH and contained only mutant transcripts. We were unable to detect the predicted germ line mutation in the RNA of
+a patient's constitutional cells. Cloning and sequencing the
+PCR-cDNA defined the mutation in RB543 as a 10-bp
+deletion within exon 18. The deletion shifted the reading
+frame and resulted in a TAA termination codon. The predicted truncated protein would contain 586 amino acids.
+PCR amplification of genomic DNAs from constitutional
+cells of patient 543 and her parents and from tumor RB543
+were performed with oligonucleotides flanking the mutation.
+RNase protection of these products detected the 10-bp
+deletion on one allele of the patient's constitutional cells
+(EBV543), confirming that it was the germ line mutation
+(Fig. 4A). RB543 contained only the 10-bp deletion. Since
+neither parent had the mutation, the 10-bp deletion must be
+a new germ line mutation in their child.
+(iv) RB570B. Patient 570 presented with advanced tumors
+requiring enucleation of both eyes. Four separate tumors,
+RB570A, -B, -C, and -D, were isolated from the two eyes.
+Analysis of these four tumors with RFLP probes on chromosome 13 indicated that RB570A and -B (left eye) showed
+LOH for markers within RBI. RB570C and -D (right eye)
+remained heterozygous for all RFLPs tested (35). RNase
+protection was performed on total RNA from tumors
+RB570B, -C, and -D and EBV570 (data not shown). All
+transcripts in RB570B contained a mutation in exon 19;
+
+4600
+
+MOL. CELL. BIOL.
+
+DUNN ET AL.
+
+r
+
+-e
+
+,
+I
+
+*-
+
+B
+A
+
+I i1)bp
+1
+
+2) t'
+
+I )1S
+
+II
+
+F
+
+I
+
+....
+
+v..
+
+311
+
+t
+
+1X),3
+
+1
+
+=
+
+I'.-. >sxe.-,\a.,,\x;\
+\\
+,>,\
+
+1'24 nt
+()4l
+
+t
+
+)(1 nt
+f ) t It
+I) rIt
+
+C
+
+I
+
+\$()N\ 1H
+
+-
+
+N
+
+M
+
+31
+
+OM
+
+a
+
+I
+
+\(J
+
+\
+
+FIG. 4. A 10-bp deletion in the germ line and RB tumor of bilaterally affected patient 543. (A) Diagram of PCR products, using
+oligonucleotides JD3 and JD8. The position of the 10-bp deletion is indicated above, and the length of protected cRNA probes is shown below.
+(B) RNase protection of PCR-amplified genomic DNAs performed as described in Materials and Methods. Antisense cRNA probe 18Ba was
+used to protect the amplified products of the constitutional cells of patient RB543 and the lymphocytes of the parents. The sizes of protected
+fragments are given on the left. (C) Nucleotide sequence of the region of exon 18 which contains the 10-bp deletion in RB543 and EBV543
+cells. The deletion results in a translation frameshift and a TAA termination codon in exon 19.
+
+transcripts from RB570D contained this mutation and an
+apparently normal transcript; all RB570C transcripts contained a mutation in exon 22; and EBV570 contained only
+normal transcripts. Since the mutation in exon 19 was
+present in tumors isolated from different eyes, it was assumed to be in the germ line, even though transcripts with
+this mutation were not observed in the patient's lymphoblasts or in RB570C (see below).
+Oligonucleotide primers homologous to intron sequences
+flanking exon 19 were used to amplify genomic DNA from
+constitutional cells of patient 570 and her parents and from
+tumors RB570B, -C, and -D. RNase protection of the PCR
+products confirmed that a 9-bp deletion (see below) was the
+germ line mutation carried by the patient and present in the
+three tumors studied (Fig. SA). Both parents carried only
+normal alleles, indicating that this patient had a new germ
+line mutation. Since the 9-bp deletion in exon 19 led to the
+formation of a novel, in-frame TAA termination codon,
+translation of this message would result in a truncated
+protein of 649 amino acids.
+Somatic mutations in different tumors from a patient with
+bilateral RB. All tumors arising in a patient with bilateral RB
+should contain the same germ line mutation but should have
+different somatic mutations, since each tumor arises independently. As shown above, the normal cells and all tumors
+from patient 570 contain a 9-bp deletion in exon 19; clearly,
+this is the predisposing germ line mutation. The second
+somatic mutations in all four tumors are different, confirming
+their independent origin. In tumors RB570A and -B, the
+
+second somatic mutation was LOH on chromosome 13, in
+RB570A by mitotic recombination between the RBI gene
+and the most proximal informative RFLP (p7F12) and in
+RB570B by LOH for all informative RFLPs (35). By using
+primers JD1 and JD2, two different clones were isolated
+from the PCR-amplified cDNA of RB57OD: one carried the
+normal sequence, while the other contained the 9-bp deletion
+within exon 19. The somatic mutation which initiated formation of RB570D has not yet been identified. Agarose gel
+electrophoresis of the PCR-cDNAs generated with primers
+JD1 and JD2 from the constitutional cells of patient 570 and
+the three tumors RB570B, -C, and -D is shown in Fig. 6A.
+The anomalous band of lower molecular weight was seen
+only in sample RB570C, a tumor in which transcripts with
+the 9-bp deletion were not detected. The location (defined by
+RNase protection) and size of the mutant cDNA were
+consistent with a deletion of exon 22 from the mature
+mRNA. This observation was confirmed by cloning and
+sequencing the PCR-cDNA product from RB570C. All
+clones were missing exon 22. Since, using oligonucleotides
+JD1 and JD2, the PCR-cDNA product contains both exon 19
+and 22, it was clear that the allele transcribing the exon22-deleted message was not the allele which contained the
+line 9-bp deletion. Oligonucleotides flanking exons 22
+and 23 were used to amplify genomic DNA from EBV570
+and RB570C. One allele of the tumor showed a singlebase-pair change: the AG of the splice acceptor site of exon
+22 was changed to AA. The other allele from the tumor and
+both alleles from the EBV cell line showed the normal AG.
+
+germ
+
+RBI MUTATIONS
+
+VOL. 9, 1989
+EXON 19
+
+initroii Is
+
+4601
+
+intron 19
+
+A9bp
+
+A
+JDIIS+
+
+JD119-
+
+145 nt
+133 nt
+
+t'
+if1
+t
+
+n
+
+;>
+NO
+M^£
+-
+
+0D
+
+0
+
+0
+
+r-"
+
+r.-..
+
+in
+
+in
+
+tlmn
+
+m
+
+m
+
+' -T T T
+B
+-.-
+
+145 tit
+
+-
+
+<-3133 nt
+. Uoat
+I
+
+EXON 20
+
+EXON 19
+Ser
+
+NORMAL
+----
+
+GEIIINE
+
+--TCT
+----
+
+Leu
+
+Ser
+
+Leu
+
+Phe
+
+Tyr
+
+Lys
+
+Lys
+
+Val
+
+Tyr
+
+TCT CTT TCA CTG TTT TAT AAA AAA GIG TAT
+CTT
+
+TCA
+
+CTG
+
+T
+
+bp*A 9---
+
+AA
+
+GIG
+
+---
+
+TAT
+
+Ser Leu Ser Leu STOP
+
+FIG. 5. A 9-bp deletion in the germ line and three individual RB tumors isolated from a bilaterally affected patient. (A) Diagram of PCR
+products, using oligonucleotides JD118+ and -119-. The position of the 9-bp deletion is indicated above, and the length of protected cRNA
+probes is shown below. (B) RNase protection of PCR-amplified genomic DNAs performed as described in Materials and Methods. Antisense
+cRNA probe 18Ba was used to protect the amplified products of the constitutional cells of the patient (EBV570), RB570B, -C, and -D and the
+parents' lymphocytes. The sizes of protected fragments are given on the right. Since only three nucleotides remain beyond the deletion in
+exon 19, the mutant transcript protects a smaller fragment 133 nucleotides in length. The reduced signal in RB570C was due to the limiting
+amount of DNA available. (C) Nucleotide sequence of the region of exon 19 which contained the 9-bp deletion in RB570B, -C, -D, and
+EBV570. The deletion resulted in the formation of an in-frame TAA termination codon at the site of the deletion.
+
+Ligation of exon 21 to exon 23 leaves the mRNA in frame
+and should result in a truncated RBI protein missing only the
+38 amino acids encoded by exon 22.
+DISCUSSION
+Characterization of mutations in RBI. The Knudson twohit model (21) makes several clear predictions on the state of
+the RBI alleles in RB patients and their tumors. The first
+prediction is that all bilateral RB patients carry one mutated
+and one normal allele in their constitutional cells. We have
+detected mutations of one allele of RBI in the constitutional
+cells from four bilaterally affected RB patients: EBV247
+(shown previously [10]), EBV538, EBV543, and EBV570.
+The second prediction is that a somatic mutation inactivates the remaining normal allele of the recessive RBJ gene
+to initiate tumorigenesis. Earlier studies have shown that, in
+70% of RB tumors, this second hit was loss of the normal
+allele and duplication of the mutant allele (5), often by
+mitotic recombination. Molecular demonstration of this
+event is presented here for RB538, RB543, and RB57OB;
+both alleles in these tumors carry the germ line mutation
+detected on one allele of the EBV line. In the remaining 30%
+of tumors, the somatic mutation has been assumed to be
+different from the first mutation. The mutation in RB570C
+
+validates this conclusion: in this tumor, one allele has the
+line 9-bp deletion and a somatic point mutation present
+in the other allele results in aberrant splicing and the loss of
+exon 22.
+The third prediction of the Knudson model is that the
+multiple tumors arising in patients with bilateral RB will all
+contain the same germ line mutation, but different somatic
+mutations will inactivate the remaining normal allele. Patient
+570 had four independent tumors. All tumors and the lymphocytes have a 9-bp deletion in exon 19. As described
+above, the second somatic mutation was different in each
+tumor (Table 1).
+The fourth prediction is that most patients with unilateral
+RB develop tumors from the occurrence of two somatic
+mutations in a single retinoblast cell and will have two
+normal alleles in their constitutional cells. We show that
+RB571 and RB600, unilateral tumors, had the same point
+mutation in the splice donor site of exon 12, resulting in a
+mature mRNA lacking the entire exon 12. Since patient 600
+was unavailable and one mutation in RB571 was undefined,
+we were unable to demonstrate unequivocally the presence
+of two independent somatic mutations in unilateral RB.
+A splice donor mutation similar to that seen in RB571 and
+-600, resulting in skipping an exon, has been documented in
+
+germ
+
+4602
+
+DUNN ET AL.
+
+MOL. CELL. BIOL.
+rl
+
+r-..~~~~I
+
+'-,
+oo
+
+0
+
+A
+
+B
+
+FKO(N)\ 21
+-----
+
+RN A
+---
+
+j,.-
+
+..-
+
+T
+
+T
+
+T
+
+10'
+lO3bp
+
+E
+
+23899kp
+
+E-XON 22
+
+Val Gin Glu Thr Phe
+GT CAG GAG ACA TTC
+
+-----
+
+F ox
+ON "
+
+Thr Arg Pro Pro
+ACC AGG CCC COT
+
+-\l 114
+GTT CAG GAG
+nit 1 n I u <-\33
+V al Gn
+8 ,m -
+
+>
+
+1
+
+illftron 21
+
+NA
+I)N
+
+I
+
+---
+
+---
+
+CCC CT ---
+
+Pro Pro 1-
+
+EXON 22
+
+'
+
+''
+
+illtron1 22
+
+tcctcaglACA TTC
+
+AAC AGG gtaggtca
+
+tcctcaac ACA TTC
+
+AAC AGG gtaggtca
+
+NOR1\X
+
+FIG. 6. Evidence that a point mutation resulting in an in-frame deletion of exon 22 is the second somatic mutation in RB570C. (A)
+Ethidium-stained gel of PCR-cDNA amplified with oligonucleotides JD1 and JD2 of constitutional cells of the patient (EBV570) and RB570B,
+-C, and -D. EcoRI- and HindIII-digested DNA were run as size markers. The length of the fragments is indicated on the right. (B) Nucleotide
+sequence of normal and RB570C PCR-cDNA and genomic DNA at the intron boundaries of exon 22. The deletion of exon 22 results in the
+in-frame deletion of 38 amino acid residues from the RBI coding sequence. The DNA mutation, a G-to-A transition at the splice accepter site
+of exon 22, is indicated with an arrow.
+
+thalassemia (31). However, in that instance, the majority of
+the transcripts of the cloned mutant used a cryptic splice
+donor 3' of the exon, resulting in a transcript of increased
+length. Only a fraction of the transcripts were truncated by
+skipping of the exon. In contrast, in RB571 and RB600, only
+the truncated transcript missing exon 12 was detected. This
+may be due to the absence of an adequate cryptic splice
+donor in intron 12 or to instability of transcripts created from
+a cryptic splice donor site.
+Naturally occurring mutations which lead to disease states
+have revealed much about the predisposing genes. Analysis
+of the mutations in a low-density lipoprotein receptor gene in
+familial hypercholesterolemia (3), oa- and P-globin genes in
+thalassemia and sickle cell anemia (27), the gene for phenylalanine hydroxylase in phenylketonuria (8), and the hypoxanthine phosphoribosyltransferase gene in Lesch-Nyhan
+syndrome (32) have delineated functional domains and suggested mechanisms of mutation. Analysis of mutations in
+RBI has not yet provided such information (19, 22), although
+Horowitz et al. did correlate loss of exon 21 in a bladder
+carcinoma cell line with decreased stability of the RBI
+protein and with loss of the ability to bind adenovirus ElA
+protein.
+RB tumors present a unique opportunity to study spontaneous germ line and somatic mutations in the same gene. It
+is interesting that all four germ line mutations involve small
+
+deletions
+
+or
+
+duplications. The three point mutations leading
+
+to exon loss by aberrant splicing are all somatic mutations.
+
+Deletions or duplications may be the result of double-strand
+breaks followed by the DNA repair characteristically associated with meiotic recombination (30). Some diseases with
+a high frequency of new germ line mutations, such as
+Duchenne muscular dystrophy, also often involve deletions
+and duplications (1, 20). Patients with Lesch-Nyhan syndrome have germ line mutations in the hypoxanthine phosphoribosyltransferase gene; mutations can be small deletions, splice mutations (16), or point mutations (33).
+Diseases with a low frequency of new germ line mutations,
+such as the P thalassemias (27), are more often point
+mutations than deletions.
+Our failure to detect single-base-pair changes within the
+coding region of the gene may be due to our selection by
+RNase protection of tumors for analysis. Deletions and
+insertions are the mutations most easily detectable by RNase
+protection, while single-base changes may be undetectable
+by the conditions we used for RNase protection. We are now
+sequencing the coding region of the tumors which do not
+show mutations by RNase protection; we expect to observe
+single-base-pair mutations in these tumors.
+Effects of mutations on RBI transcription. Results from this
+study and our previous work indicate the presence of only
+normal transcripts in the constitutional cells of bilaterally
+
+RBI MUTATIONS
+
+VOL. 9, 1989
+
+affected RB patients, e.g., F462, EBV538, EBV543, and
+EBV570; except for EBV247 (10), we did not detect transcripts from the mutant allele in lymphocytes. In the RB
+tumors of these patients, the mutant mRNA was easily
+detectable. It is difficult to explain these results without
+postulating regulation of transcription of the RBI gene. Two
+assumptions are required to construct a model which will fit
+the available data. First, a functional RBI gene product must
+directly or indirectly regulate its own transcription rate. In
+support of this assumption, adenovirus-transformed human
+retina cells express high levels of RBI transcripts (17); we
+suggest that the binding of the RBI gene product by the Ela
+protein of adenovirus prevents feedback regulation and leads
+to increased transcription of the RBI gene in transformed
+cells. Second, the RBI transcripts produced from the mutant
+allele must be less stable than the normal transcript. The
+instability of transcripts with premature termination codons
+has been documented for other genes (7, 27).
+We suggest that the following changes in transcription
+occur in the cells of patients with a germ line mutation in one
+RBI allele. In normal cells, i.e., lymphocytes, the transcription rate may increase twofold to compensate for the functional loss of RBI product from the mutant allele. If the
+mutant transcript is unstable, its steady-state level will be
+much less than that of the wild-type transcript, making the
+mutant transcript undetectable in normal tissues. In RB
+tumors, however, both alleles are mutant, and the complete
+absence of functional RBI protein will result in maximal
+transcription rates from both mutant alleles, allowing the
+accumulation of detectable levels of unstable mutant
+mRNAs in the tumor cells. This model can explain the
+unexpected observations made on patients 538 and 543. The
+germ line mutation in patients 538 (55-bp duplication) and
+543 (10-bp deletion) produce premature termination of translation, probably leading to unstable transcripts which are
+undetectable in lymphoblasts. However, the tumors in both
+patients show LOH and contain only the mutant allele. The
+absence of functional RBI protein results in very high rates
+of transcription from the mutant alleles and accumulation of
+levels of RBI transcripts which are easily detectable despite
+their instability.
+Patient 570 presents a unique opportunity to test the
+assumptions of increased transcription of RBI in tumors and
+instability of mutant RBI messages. As with the other
+patients, the mutant allele (9-bp deletion) does not produce
+detectable transcripts in lymphocytes. Three different tumors from this patient all show different patterns of RBI
+transcripts. Tumor RB570B shows LOH and contains only
+the allele with the germ line mutation; mutant transcripts are
+easily detectable in this tumor. RB570D retains the mutant
+germ line allele and has an uncharacterized mutation in the
+remaining allele. Transcripts from both alleles are detectable
+in this tumor at approximately the same level, indicating that
+the somatic mutation in RB570D results in a transcript
+whose stability is comparable to that containing the germ
+line mutation. Tumor RB570C contains the germ line mutation on one allele and a somatic splice accepter mutation on
+the other allele, leading to loss of exon 22 from the mature
+mRNA. This tumor contains only transcripts with exon 22
+deleted; we detected no transcripts with the 9-bp deletion.
+We predict that the transcripts with the exon 22 deletion are
+more stable than the ones with the 9-bp deletion because the
+exon 22 deletion does not lead to premature termination.
+Furthermore, we expect that the transcription rate of RBI in
+RB570C will be less than in RB570B and -D.
+It is perhaps significant that, of the four tumors isolated
+
+4603
+
+from patient 570, only RB570C has not grown in culture or in
+the anterior chamber of a nude mouse eye (14). The cells,
+which remain alive in culture, have formed Flexner-Wintersteiner rosettes, indicative of differentiating retinoblast cells.
+Perhaps the removal of the 38 amino acid residues from exon
+22 only partially inactivates the protein, allowing it to carry
+out some of its functions, and permits the tumor to undergo
+some differentiation.
+The importance of RBI in the developing retina is apparent from the observation that mutations in RBI prevent
+normal differentiation and lead to uncontrolled growth of
+retinal stem cells. A number of tumors from a variety of
+tissues have been shown to contain mutated RBI alleles,
+underlining the importance of RBI in regulating growth or
+differentiation in many cell types. Given the general importance of RBI, it is likely that its expression requires precise
+regulation. Our paper provides indirect, but convincing,
+evidence in support of a model of transcriptional regulation
+of RBI.
+ACKNOWLEDGMENTS
+We thank T. P. Dryja for generously providing the original RBI
+cDNA clone (p4.7R) and the RBI genomic structure. We are grateful
+for the encouragement of the entire Toronto RB Group, especially
+Marc Canton and Evy Reyes, who grew the cells and isolated the
+RNA and DNA, and Fred Sablitzky for helpful discussions.
+This work was supported by a Terry Fox Programme Project
+Grant of the National Cancer Institute of Canada and the Medical
+Research Council of Canada. J.M.D. is a recipient of a Steve Fonyo
+Studentship Award from the National Cancer Institute of Canada.
+X.Z. is a graduate student at the University of Toronto and a
+member of the Department of Medical Genetics, Sun Yat-sen
+University of Medical Sciences, Guangzhou, China. B.L.G. is a
+Research Associate of the Ontario Cancer Foundation.
+LITERATURE CITED
+1. Bodrug, S. E., P. N. Ray, I. L. Gonzalez, R. D. Schmickel, J. E.
+Sylvester, and R. G. Worton. 1987. Molecular analysis of a
+constitutional X-autosome translocation in a female with muscular dystrophy. Science 237:1620-1624.
+2. Bookstein, R., E. Y. Lee, H. To, L. J. Young, T. W. Sery, R. C.
+Hayes, T. Friedmann, and W. H. Lee. 1988. Human retinoblastoma susceptibility gene: genomic organization and analysis of
+heterozygous intragenic deletion mutants. Proc. Natl. Acad.
+Sci. USA 85:2210-2214.
+3. Brown, M. S., and J. L. Goldstein. 1986. A receptor-mediated
+pathway for cholesterol homeostasis. Science 232:34-47.
+4. Cavenee, W. K., T. P. Dryja, R. A. Phillips, W. F. Benedict, R.
+Godbout, B. L. Gallie, A. L. Murphree, L. C. Strong, and R. L.
+White. 1983. Expression of recessive alleles by chromosomal
+mechanisms in retinoblastoma. Nature (London) 305:779-784.
+5. Cavenee, W. K., M. F. Hansen, M. Nordenskjold, E. Kock, I.
+Maumenee, J. A. Squire, R. A. Phillips, and B. L. Gallie. 1985.
+Genetic origin of mutations predisposing to retinoblastoma.
+Science 228:501-503.
+6. Chirgwin, J. M., A. E. Przybyla, R. J. MacDonald, and W. J.
+Rutter. 1979. Isolation of biologically active ribonucleic acid
+from sources enriched in ribonuclease. Biochemistry 18:52945299.
+7. Daar, I. O., and L. E. Marquot. 1988. Premature translation
+termination mediates triosephosphate isomerase mRNA degradation. Mol. Cell. Biol. 8:802-813.
+8. DiLelia, A. G., J. Marvit, A. S. Lidsky, F. Guttler, and S. L. C.
+Woo. 1986. Tight linkage between a splicing mutation and a
+specific DNA haplotype in phenylketonuria. Nature (London)
+322:799-803.
+9. Dryja, T. P., W. Cavenee, R. White, J. M. Rapaport, R.
+Petersen, D. M. Albert, and G. A. Bruns. 1984. Homozygosity
+of chromosome 13 in retinoblastoma. N. Engl. J. Med. 310:
+
+550-553.
+
+4604
+
+DUNN ET AL.
+
+10. Dunn, J. M., R. A. Philips, A. J. Becker, and B. L. Gallie. 1988.
+Identification of germline and somatic mutations affecting the
+retinoblastoma gene. Science 241:1797-1800.
+11. Friend, S. H., R. Bernards, S. Rogelj, R. A. Weinberg, J. M.
+Rapaport, D. M. Albert, and T. P. Dryja. 1986. A human DNA
+segment with properties of the gene that predisposes to retinoblastoma and osteosarcoma. Nature (London) 323:643-646.
+12. Friend, S. H., J. M. Horowitz, M. R. Gerber, X. F. Wang, E.
+Bogenmann, F. P. Li, and R. A. Weinberg. 1987. Deletions of a
+DNA sequence in retinoblastomas and mesenchymal tumors:
+organization of the sequence and its encoded protein. Proc.
+Natl. Acad. Sci. USA 84:9059-9063.
+13. Fung, Y. K., A. L. Murphree, A. Tang, J. Qian, S. H. Hinrichs,
+and W. F. Benedict. 1987. Structural evidence for the authenticity of the human retinoblastoma gene. Science 236:16571661.
+14. Gallie, B. L., D. M. Albert, J. J. Y. Wong, N. Buyukmikci, and
+C. A. Puliafita. 1977. Heterotransplantation of retinoblastoma
+into the athymic nude mouse. Invest. Ophthalmol. 16:256-259.
+15. Gallie, B. L., W. Holmes, and R. A. Phillips. 1982. Reproducible
+growth in tissue culture of retinoblastoma tumor specimens.
+Cancer Res. 42:301-305.
+16. Gibbs, R. A., and C. T. Caskey. 1987. Identification and
+localization of mutations at the Lesch-Nyhan locus by ribonuclease A cleavage. Science 236:303-305.
+17. Goddard, A. D., H. Balakier, M. Canton, J. Dunn, J. Squire, E.
+Reyes, A. Becker, R. A. Phillips, and B. L. Gallie. 1988. Infrequent genomic rearrangement and normal expression of the
+putative RBI gene in retinoblastoma tumors. Mol. Cell. Biol.
+8:2082-2088.
+18. Harbour, J. W., S. L. Lai, P. J. Whang, A. F. Gazdar, J. D.
+Minna, and F. J. Kaye. 1988. Abnormalities in structure and
+expression of the human retinoblastoma gene in SCLC. Science
+241:353-357.
+19. Horowitz, J. M., D. W. Yandell, S. Park, S. Canning, P. Whyte,
+K. Buchkovich, E. Harlow, R. A. Weinberg, and T. P. Dryja.
+1989. Point mutational inactivation of the retinoblastoma antioncogene. Science 243:937-940.
+20. Hu, X. Y., A. H. Burghes, P. N. Ray, M. W. Thompson, E. G.
+Murphy, and R. G. Worton. 1988. Partial gene duplication in
+Duchenne and Becker muscular dystrophies. J. Med. Genet.
+25:369-376.
+21. Knudson, A. G. 1971. Mutation and cancer: statistical study of
+retinoblastoma. Proc. Natl. Acad. Sci. USA 68:820-823.
+22. Lee, E. Y., R. Bookstein, L. J. Young, C. J. Lin, M. G.
+Rosenfeld, and W. H. Lee. 1988b. Molecular mechanism of
+retinoblastoma gene inactivation in retinoblastoma cell line Y79.
+Proc. Natl. Acad. Sci. USA 85:6017-6021.
+
+MOL. CELL. BIOL.
+23. Lee, E. Y., H. To, J. Y. Shew, R. Bookstein, P. Scully, and W. H.
+Lee. 1988a. Inactivation of the retinoblastoma susceptibility
+gene in human breast cancers. Science 241:218-221.
+24. Lee, W. H., J. Y. Shew, F. D. Hong, T. W. Sery, L. A. Donoso,
+L. J. Young, R. Bookstein, and E. Y. Lee. 1987b. The retinoblastoma susceptibility gene encodes a nuclear phosphoprotein
+associated with DNA binding activity. Nature (London) 329:
+642-645.
+25. Maniatis, T., E. F. Fritsch, and J. Sambrook. 1982. Molecular
+cloning: a laboratory manual. Cold Spring Harbor Laboratory,
+Cold Spring Harbor, New York.
+25a.McGee, T. L., D. W. Yandell, and T. P. Dryja. 1989. Structure
+and partial genomic sequence of the human retinoblastoma
+susceptibility gene. Gene 80:119-128.
+26. Morelle, G. 1989. A plasmid extraction procedure on a miniprep
+scale. Focus 11.1:7-8.
+27. Orkin, S. H., and H. H. Kazazian, Jr. 1984. The human ,3-globin
+gene. Annu. Rev. Genet. 18:131-171.
+28. Saiki, R. K., D. H. Gelfand, S. Stoffel, S. J. Scharf, R. Higuchi,
+G. T. Horn, and K. B. Mullis. 1988. Primer-directed enzymatic
+amplification of DNA with a thermostable DNA polymerase.
+Science 239:487-491.
+29. Squire, J., B. L. Gallie, and R. A. Phillips. 1985. A detailed
+analysis of chromosomal changes in heritable and non-heritable
+retinoblastoma. Hum. Genet. 70:291-301.
+30. Sun, H., D. Treco, N. P. Schultes, and J. W. Szostak. 1989.
+Double-stranded breaks at an initiation site for meiotic gene
+conversion. Nature (London) 338:87-90.
+31. Treisman, R., J. Proudfoot, M. Shander, and T. Maniatis. 1982.
+A single-base change at a splice site in a P3-thalassemic gene
+causes abnormal RNA splicing. Cell 29:903-911.
+32. Wilson, J. M., J. T. Stout, T. D. Palella, B. L. Davidson, W. N.
+Kelley, and C. T. Caskey. 1986. A molecular survey of hypoxanthine-guanine phosphoribosyltransferase deficiency in man.
+J. Clin. Invest. 77:188-195.
+33. Wilson, J. M., G. E. Tarr, and M. N. Kelley. 1983. Human
+hypoxanthine (guanine) phosphoribosyltransferase: an amino
+acid substitution in a mutant form of the enzyme isolated from
+a patient with gout. Proc. Natl. Acad. Sci. USA 80:870-873.
+34. Winger, L., C. Winger, P. Shastry, A. Russell, and M. Longnecker. 1983. Efficient generation in vitro, from human peripheral blood mononuclear cells, of monoclonal Epstein-Barr virustransformants producing specific antibody to a variety of
+antigens without prior deliberate immunization. Proc. Natl.
+Acad. Sci. USA 80:4484 4488.
+35. Zhu, X., J. M. Dunn, A. D. Goddard, K. E. Paton, A. J. Becker,
+R. A. Phillips, and B. L. Gallie. 1989. Preferential germline
+mutation of the paternal allele in retinoblastoma. Nature (London) 340:312-313.
+
+

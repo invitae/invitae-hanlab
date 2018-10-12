@@ -1,0 +1,3904 @@
+HUMAN MUTATION 1 : 4 4 5 4 6 6 (1992)
+
+MUTATION UPDATE
+
+Molecular Genetics of the LDL Receptor Gene
+in Familial
+ercholesterolemia
+Helen H. Hobbs,* Michael S. Brown, and Joseph L. Goldstein
+Departments of Molecular Genetics and Internal Medicine, University of Texas Southwestern Medical Center at Dallas,
+Dallas. Texas 75235
+Communicated by Haig H. Kazazian, Jr.
+
+The low density lipoprotein (LDL) receptor is a cell surface transmembrane protein that mediates the
+
+uptake and lysosomal degradation of plasma LDL, thereby providing cholesterol to cells. Mutations
+disrupting the function of this receptor produce autosomal dominant familial hypercholesterolemia
+(FH). Affected individuals have elevated plasma levels of LDL, which causes premature coronary
+atherosclerosis. To date, 7 1 mutations in the LDL receptor gene have been characterized at a molecular
+level. In this report, we describe 79 additional mutations and review the insights that all 150 mutations
+have provided into the structure/function relationship of the receptor protein and the clinical manifestations of FH. 0 1992 WiIepLiss, Inc.
+KEY WORDS:
+
+Low density lipoprotein (LDL) receptor, Familial hypercholesterolemia (FH), Mutations,
+Membrane proteins, Receptor-mediated endocytosis, Coronary atherosclerosis
+
+INTRODUCTION
+
+LDL receptor alleles (true homozygotes), while oth-
+
+The cell surface receptor for low-density lipoprotein (LDL)' removes cholesterol-carrying LDL from
+plasma via receptor-mediated endocytosis (Brown
+and Goldstein, 1986). Mutations in the LDL receptor gene produce familial hypercholesterolemia
+(FH), a common autosomal dominant disorder
+that affects about 1in 500 individuals. The receptor
+defect impairs the catabolism of LDL, and the
+resultant elevation in plasma LDL-cholesterol promotes deposition of cholesterol in the skin (xanthelasma), tendons (xanthomas), and coronary arteries (atherosclerosis) (Goldstein and Brown, 1989).
+FH occurs clinically in two forms. FH heterozygotes, who inherit one mutant LDL receptor allele,
+manifest a 2- to 3-fold elevation in plasma LDLcholesterol and typically develop premature coronary heart disease after age 35. In the United States
+and Western Europe, about 5% of all individuals
+who have a myocardial infarction before age 60 are
+FH heterozygotes (Goldstein et al., 1973). FH homozygotes, who inherit two mutant LDL receptor
+alleles, are rare (1 in lo6 individuals) and have a
+more severe clinical picture. Their plasma concentrations of LDL-cholesterol are elevated 6- to
+8-fold, and they often die of myocardial infarctions
+during the first two decades of life. Some phenotypic FH homozygotes inherit two identical mutant
+
+ers inherit two different mutant Blleles (compound
+heterozygotes). For the sake of simplicity, individuals who have two mutant LDL receptor alleles,
+whether identical or not, are referred to as FH
+homozygotes.
+Over the past 20 years, we have maintained
+fibroblast cultures from 170 unrelated FH individuals, including 157 homozygotes and 13 heterozygotes. These cultures were initiated from skin biopsies sent to Dallas by 100 physicians from 14
+different countries. These fibroblast strains, referred to as the Dallas collection, have allowed us
+to perform a systematic structure/function analysis
+of LDL receptor mutations at multiple levels, including the intact cell, the isolated protein, and the
+cloned gene.
+The human LDL receptor cDNA and gene were
+cloned and characterized in 1984 and 1985, respectively (Yamamoto et al., 1984; Sudhof e t al., 1985).
+
+0 1992 WILEY-LISS.INC.
+
+Received September 25, 1992; accepted November 2, 1992.
+*To whom reprint requestsicorrespondence should be addressed.
+'The abbreviations used are LDL, low-density lipoprotein; FH,
+familial hypercholesterolemia; bp, base pair; PCR, polymerase chain
+reaction; SSCP, single-strand conformation polymorphism; kb, kilobase; EGF, epidermal growth factor; IDL, intermediate density lipoprotein; p-VLDL, p-migrating vely low-density lipoprotein.
+
+446
+
+HOBBS ET AL.
+TABLE 1.
+
+Regionlexon
+Promoter
+Exon 1
+Exon 2
+Exon 3
+Exon 4A
+Exon 48
+Exon 5
+Exon 6
+Exon 7
+Exon 8
+Exon 9
+Exon 10A
+Exon 10B
+Exon 11
+Exon 12
+Exon 13
+Exon 14
+Exon 15
+Exon 16
+Exon 17
+Exon 18
+
+Oligonucleotides for Amplification of Human LDL Receptor Exons"
+
+5' Oligonucleotide
+sequence (5' to 3')
+GAGTGGGAATCAGAGCTTCACGGGT
+ACTCCTCCCCCTGCTAGAAACCTCA
+CCTTTCTCCTTTTCCTCTCTCTCAG
+TGACAGTTCAATCCTGTCTCTTCTG
+GTTGGGAGACTTCACACGGTGATGG
+
+CCCCAGCTGTGGGCCTGCGACAACG
+
+CAACACACTCTGTCCTGTTTTCCAG
+TCCTTCCTCTCTCTGGCTCTCACAG
+AGTCTGCATCCCTGGCCCTGCGCAG
+CCAAGCCTCTTTCTCTCTCTTCCAG
+TCCATCGACGGGTCCCCTCTGACCC
+AGATGAGGGCTCCTGGTGCGATGCC
+GATCCACAGCAACATCTACTGGACC
+CAGCTATTCTCTGTCCTCCCACCAG
+GCACGTGACCTCTCCTTATCCACTT
+GTCATCTTCCTTGCTGCCTGTTTAG
+CCTGACTCCGCTTCTTCTGCCCCAG
+GAAGGGCCTGCAGGCACGTGGCACT
+CCTCACTCTTGCTTCTCTCCTGCAG
+TGACAGAGCGTGCCTCTCCCTACAG
+TCCGCTGTTTACCATTTGTTGGCAG
+
+3' Oligonucleotide
+sequence (5' to 3')
+CCACGTCATTTACAGCATTTCAATG
+TTCTGGCGCCTGGAGCAAGCCTTAC
+AAAATAAATGCATATCATGCCCAAA
+ATAGCAAAGGCAGGGCCACACTTAC
+
+ACTTAGGCAGTGGAACTCGAAGGCC
+
+GGGGGAGCCCAGGGACAGGTGATAG
+GGAAAACCAGATGGCCAGCGCTCAC
+GCAAGCCGCCTGCACCGAGACTCAC
+AGGGCTCAGTCCACCGGGGAATCAC
+CCACCCGCCGCCTTCCCGTGCTCAC
+
+AGCCCTCATCTCACCTGCGGGCCAA
+
+GCCCTTGGTATCCGCAACAGAGACA
+AGCCCTCAGCGTCGTGGATACGCAC
+TGGGACGGCTGTCCTGCGAACATAC
+CACCTAAGTGCTTCGATCTCGTACG
+
+GTTTCCACAAGGAGGTTTCAAGGTT
+CGCAGAAACAAGGCGTGTGCCACAC
+GTGTGGTGGCGGGCCCAGTCTTTAC
+CGCTGGGGGACCGGCCCGCGCTTAC
+
+GCTTTCTAGAGAGGGTCACACTCAC
+AATAAAACAAGGCCGGCGAGGTCTC
+
+Fragment
+size
+(bP)
+155
+234
+172
+176
+355
+267
+252
+174
+169
+175
+271
+202
+162
+168
+209
+217
+202
+246
+127
+207
+135
+
+"Oppositely oriented 25-base oligonucleotides complementary to DNA sequences flanking the promoter and exons of the human LDL
+receptor gene were synthesized on an AB1380B DNA synthesizer (AppliedBiosystems, Foster City, CA) and used to amplify the intervening
+sequences with the polymerase chain reaction (PCR) (Mullis and Faloona, 1987). Each PCR reaction was performed in 20 )LI containing
+0.1 pg genomic DNA, 20 pmol of each primer, 1nmol dNTPs, 3.3 pmol of [3ZP]dCTP(3000 Ciimmol),and 2 U of DNA polymerase Themus
+oquah'cus(Promega, Madison, WI)in 10 mM Tris-CI (pH 8.3), 50 mM KCI, and 1.5 mM MgCI,. Each PCR reaction was overlaid with mineral
+oil and subjected to 30 cycles at 96°C for 1 min and 68°C for 5 min in a thermocycler (Perkin-Elmer Cetus, Nowalk, CT). A total of 1 p1
+of the reaction was diluted in 30 )LI of formamide dye [98% (viv)formamide, 50 mM sodium EDTA. 0.01% (w/v)xylene cyanol, and 0.01%
+(wiv)bromophenol blue] and boiled for 3 min. An aliquot (2 pl) was subjected to electrophoresis (300 V for 14 hr at room temperature)
+on a 6.5% nondenaturing polyacrylamide gel in 2 x TBE (10x TBE = 0.5 M Tris-chloride, 0.5 M boric acid, and 10 mM sodium EDTA
+at pH 8.2) and 10% (v/v) glycerol (EM Science, Gibbstown, NJ). Each gel was dried and exposed to XAR-5 film for 12 hr at 24°C.
+
+Shortly thereafter, the first molecular characterization of an LDL receptor mutation was reported
+(Lehrman et al., 198%). In the ensuing 5 years,
+from 1985 to 1990, a total of 42 mutations, including 33 from the Dallas collection, were characterized genetically and biochemically, and these
+data are reviewed in Hobbs et al. (1990). Owing to
+the development of improved molecular techniques
+to detect single base pair (bp) changes in DNA, we
+have witnessed, in the last 2 years, an exponential
+acceleration in the molecular identification of mutations in the LDL receptor gene, bringing the total
+to 71. In this paper, we describe the molecular and
+cell biological characterization of 79 new LDL receptor mutations that were identified in the Dallas
+collection. We estimate that the Dallas collection
+contains as many as 190 mutant alleles, 112 of
+which have now been characterized at a molecular
+level.
+The 79 new LDL receptor mutations reported in
+this paper were identified through use of the polymerase chain reaction (PCR) (Mullis and Faloona,
+1987) and the single-strand conformation polymorphism (SSCP)technique (Orita et al, 1989a). Each
+
+of the 18 exons of the LDL receptor gene was amplified and labeled uniformly with 32P using PCR
+and oppositely oriented 25-base oligonucleotides
+complementary to intron sequences that flank the
+exons. The sequences of these oligonucleotides and
+the conditions for amplification are given in Table
+1 and its legend. The amplified fragments were
+denatured'and size-fractionated o n a 6.5% nondenaturing polyacrylamide gel as described by Orita et
+al. (1989b). The aberrantly migrating PCR fragments were sequenced directly (Lee, 1991),and the
+mutation identified. In this paper, the newly described 79 mutations are reviewed together with all
+other molecularly characterized receptor mutations
+reported in the literature as of September 1, 1992,
+bringing the total number to 150.
+LDL RECEPTOR GENE STRUCTURE
+The LDL receptor gene (Fig. l ) , located o n the
+distal short arm of chromosome 19 (p13.1-p13.3),
+spans 45 kilobases (kb), is comprised of 18 exons
+and 17 introns (Hobbs et al., 1990 for review).
+Exon 1 encodes the signal sequence. Exons 2-6 encode the ligand binding domain, which consists of
+
+LDL RECEPTOR MUTATIONS
+
+..
+
+.
+
+0
+0
+
+Exon
+
+No.
+
+1
+
+I
+
+2
+
+Signal
+Sequence
+
+3
+
+4 5 6
+
+447
+
+8
+
+7 8 910 11 12 13 14 15
+
+T’
+
+16 17
+
+18
+
+I
+(
+Ligand
+EGF Precursor
+0-Linked
+Cytoplasmic
+
+v Insertion
+
+Binding
+
+-Deletion
+0 Frameshift v Splicing
+
+Homology
+
+Sugars
+
+Nonsense Missense
+Basepair Change
+
+*
+
+seven tandem repeats of a 40-amino acid, cysteinerich sequence. Exons 7-14 encode a region that
+shares sequence identity to the human epidermal
+growth factor (EGF) precursor gene. This domain
+contains three 40-amino acid, cysteine-rich growth
+factor repeats (designated A, B, and C). The A and
+B repeats (encoded by exons 7 and 8) are separated
+from the C repeat (encoded by exon 14) by five
+copies of a 40-60 amino acid repeat (encoded by
+exons 9-13). Each of these five repeats contains a
+conserved motif, Tyr-Trp-Thr-Asp (YWTD). Exon
+15 encodes a 58-amino acid sequence that is the
+attachment site for many 0-linked carbohydrate
+chains. Exon 16 and the 5’-end of exon 17 encode
+22 hydrophobic amino acids that anchor the protein to the cell membrane. The remainder of exon
+17 and the 5’-end of exon 18 encode the cytoplasmic domain that contains the signal that clusters
+the receptor in clathrin-coated pits, allowing it to
+be internalized by receptor-mediated endocytosis.
+Transcription of the LDL receptor gene is regulated by feedback suppression mediated by the endproduct, intracellular cholesterol. The 5’-flanking
+region of the LDL receptor gene contains most, if
+not all, of the cis-acting DNA sequences responsible
+for the sterol-regulated expression of the gene in
+
+Spanning
+
+animal cells (Goldstein and Brown, 1990; Smith et
+al, 1990). Within 200 bp of the initiator methionine codon are three imperfect 16-bp direct repeats
+(repeats 1 through 3), two N T - r i c h sequences
+(TATA boxes), and a cluster of mRNA initiation
+sites, all of which function in transcription. Repeats
+1 and 3 interact with transcription factor Spl to
+promote transcription, but they themselves are not
+sufficient for high-level expression. They require
+the contribution of the other direct repeat (repeat
+2), which contains a conditional-positive sterol regulatory element, termed SRE-1, that is 10 bp in
+length. This element enhances transcription when
+cellular sterols are low, and its effect is abolished
+when sterols accumulate within cells.
+
+LDL RECEPTOR MUTATIONS
+Of the 150 naturally occurring LDL receptor
+mutations characterized at a molecular level, 127
+
+(including 112 from the Dallas collection) have
+been subjected to structure-function characterization, including analysis of binding and uptake of
+LDL, receptor biosynthesis, receptor transport, and
+gene structure. The remaining 23 mutations include deletions and insertions that have been
+mapped by Southern blotting or molecular cloning,
+
+TABLE 2.
+
+Point Mutations and Small (< 25 Base Pair) Deletionsilnsertions in LDL Receptor Gene
+Patient characterization
+
+Gene characterization
+Allele
+Exonl
+Codon
+designation"
+intron
+change
+A. Signal Sequence (exon 1)
+'FH Dallas-1
+1
+Fs 3g
+'FH Cofumbia-1
+'FH Nanjing-1
+
+Nucleotide
+change
+
+Functional
+classb
+
+Ethnic
+back
+ground'
+
+LDL
+receptor
+Geno- activity'
+(%I
+typed
+
+AC
+
+1
+
+American
+
+rp
+
+<2
+
+1
+
+stop 4h
+
+TGG-sTAG
+
+1
+
+Columbian
+
+aa
+
+<2
+
+1
+
+Stop 4h
+
+TGGTGA
+
+1
+
+Chinese
+
+gb
+
+<2
+
+American
+
+B. Ligand-Binding Resion
+- (exons 2-61
+'FH San
+Francisco
+'FH Turkeg
+
+2
+
+C6W'
+
+TGThTGG
+
+2B
+
+2
+
+stop 12
+
+CAGTAG
+
+1
+
+'FH Algeria-4
+tFH Cincinnati-5*
+'FH Cape
+Town-l
+'FH Paris-4
+'FH Pedi-1
+
+2
+2
+
+Stop 23
+
+Fs 12
+
+AG
+TGkTAG
+
+1
+1
+
+2
+
+AD26G27
+
+AGCGATG
+
+2B
+
+2
+2
+
+C31Y
+Fs 37
+
+TGC--.TAC
+AG
+
+'FH French
+Canadian4
+'FH London4
+
+3
+
+W66G
+
+TGG-sGGG
+
+3
+
+D69G
+
+GAT-+GGT
+
+%H tancashire
+
+3
+
+E80K
+
+GAG-A AG"
+
+'FH Raponi
+'FH Lille
+
+3
+3
+
+CAA-sTAA
+Stop 81
+Splice donor ACG
+
+tFH Munster-1
+?FH Paris-5
+
+4
+4
+
+C88R
+Stop 92
+
+TGC-XGC
+GAG-+TAG
+
+(28) German
+1 French
+
+15-30
+<2
+
+'FH
+'FH
+'FH
+'FH
+
+4
+
+4
+4
+
+Fs 107
+stop 119
+E119K
+C134G
+
+ATGTG
+GAGTAG
+GAGAAG"
+TGChGGC
+
+40-50
+15-30
+15-30
+15-30
+
+FH Sephardic
+
+4
+
+D147H
+
+GAC-KAC
+
+*FH Greece-1
+
+4
+
+C152R
+
+TGC-XGC
+
+African-American
+Italian-Venezuelan
+Philippine-Canadian
+PolishIGermanCanadian
+2B Sephardic Jewish
+Israel 10%
+(2B) Greek
+
+Dallas-2
+Venezuela
+Phil~pp~nes
+Germany
+
+4
+
+Turkish
+Italian
+Algerian
+American
+German-Canadian
+African
+
+(28) French
+1 Pedi tribe
+(South Africa)
+3 or 5 Fr. Canadian 7%k
+French
+(28) English
+American
+28 American
+English 6%
+French
+1 Italian-American
+3 or 5 French
+
+1
+1
+(2B)
+2B
+
+Comments
+
+References'
+
+b-not known:
+generates 8.7 kb
+mRNA
+
+I
+
+b-FH Nanjing-2
+
+s
+
+I
+
+15-30
+
+§
+
+(2
+
+5-15
+2-5
+
+Hobbs et al., 1990
+
+15-30
+
+15-30
+5-15
+
+b-not known
+b-FH Pedi-2
+
+25-100'
+
+15-30
+
+b-FH Baltimore-1
+
+<2
+5-15
+
+Leitersdorf et a!.,
+1988
+
+s
+
+0, van Wingerden
+
+et al., 1981
+Leitersdorf et al.,
+1990
+
+4
+
+I, Webb et al.,
+
+15-30
+<2
+2-5
+
+8
+I
+
+b-FH Algeria-3
+b-not known
+
+1992
+
+§
+
+8
+
+a-generates 7.9 and
+5.0 kb mRNAs
+b-FH Munster-2
+b-FH French
+Canadian-3
+b-not known
+b-not known
+b-FH French
+Canadian-4
+b-FH Greece-2
+
+§
+
+I
+§,
+
+Uauy et al., 1991
+
+0
+
+s
+
+I
+Leitersdorf et al.,
+1992
+
+I
+
+FH Afrikaner3
+
+4
+
+D154N
+
+GAT-+AAT
+
+tFH Puerto
+Rico
+
+S156L
+
+TCGTTG"'
+
+tFH Druze
+
+Stop 167
+
+TAC+TAG
+
+tFH Shreveport
+'FH El
+Salvador-1
+tFH Jerusalem
+tFH Lithuania
+(Piscataway)
+
+C176F
+C176Y
+
+TGC-TTC
+TGC-+TAC
+
+E187K
+AG197
+
+GAGjAAG"
+AGGT
+
+tFH Padova
+tFH Tulsa-I
++FH Portugal
++FH Italy-2
++FH Miami-1
+'FH Afn'kaner-I'
+(FH Maine)
+
+D200G
+VAA200-207
+D203N
+D203G
+S205P
+D206E
+
+GAC-GGC
+V21 bp
+GA C j AAC
+GAC-tGGC
+TCTjCCT
+GAC-tGAG
+
+(2B)
+2B
+28
+
+(2B)
+2B
+
+4
+4
+4
+4
+
+4
+
+NR
+
+tFH Morocco
+tFH Tulsa-2
+tFH French
+CanadianS
+(FH Mexico)
+
+4
+
+4
+
+Stop 207
+E207Q
+E207K
+
+GAGTAG
+GAG-KAG
+GA-AAG"'
+
+tFH Charlotte
+IFH Corsica
+tFH Bretagne-I
+t~~ Nevers
+
+5
+5
+5
+5
+
+E219K
+stop 221
+C227F
+D235G
+
+GAA-+AAA"
+CAGTAG
+TGC-TTC
+GAC-GGC
+
+(2B)
+
+Cincinnati-1
+tFH Miami-2
+'FH Greece-2
+
+5
+
+D245E
+
+5
+6
+
+'FH Denver-2
+
+'FH
+Baltimore-Ii
+
+t~~
+
+Afrikaner 5-10%
+
+NR
+
+Puerto Rican
+French
+American
+Druze
+(Golan Heights)
+African-American
+El Salvadorian
+
+<2
+
+<2
+<2
+
+b-FH Denver-2
+b-FH El Salvador.2
+
+Moslem
+Ashkenazi Jewish
+lsraeI35%
+S. Africa 80%
+Italian American
+African-American
+Portuqese
+Italian-American
+Seminole Indian
+Afrikaner 65-70%
+American
+
+5-15
+<2
+
+b-not known
+
+<2
+2-5
+<2
+5-15
+<2
+5-15%
+
+b-FH Genoa
+b-FH Tulsa-2
+
+I
+
+<2
+
+<2
+2-5
+<2
+
+2B
+(28)
+
+Moroccan American
+African-American
+Fr. Canadian 2%
+French
+Italian
+Mexican-American
+American
+French
+French
+French
+
+GAT-GAA
+
+2B
+
+American
+
+15-30
+
+C249Y
+S265R
+
+TGC+TAC
+AGCjAGA
+
+(28)
+(2B)
+
+5-15
+5-15
+
+6
+
+D283N
+
+GACjAAC
+
+2B
+
+American
+Greek
+English
+African-American
+
+6
+
+D283E
+
+GAC-GAG
+
+2B
+
+American
+English
+French
+
+2-5
+
+1
+
+1
+
+Kobe et al., 1989,
+1991; van Roggen
+et al., 1991
+Hobbs et al., 1989;
+Vega et al., 1991
+
+15-30
+<2
+<2
+5-15
+
+5-15
+
+b-not known
+
+Landsberger et at.,
+1992
+§
+
+5
+
+§
+
+Hobbs et al., 1990;
+Meiner et al.,
+1991
+§
+§
+§
+§
+
+0
+
+Kotze et al., 1989,
+1991; Leitersdorf
+et al., 1989b; van
+der Westhuyzen
+et al., 1984; Fourie
+et al., 1988 van
+Roggen et al., 1991
+a-FH Tulsa-I
+
+b-FH Pans-9
+b-FH Bretagne-2
+b-not known;
+generates 4.7 kb
+mRNA
+b-not known
+a-FH Greece-l
+
+§
+§
+
+Leitersdorf et al.,
+1990 Hobbs et
+al., 1990
+§
+§
+§
+
+B
+
+8
+§
+
+Hobbs et al., 1990
+Bilheimer et al.,
+1985; Nora et al.,
+1985; Schneider
+et al., 1983
+§
+
+continued
+
+TABLE 2.
+
+Point Mutations and Small (< 25 Base Pair) DeletionslInsertions in LDL Receptor Gene Continued
+Patient characterization
+
+Gene characterization
+Allele
+designation"
+'FH Arnsterdam
+FH Karelia
+
+'FH cypruS
+
+Exod
+Codon
+intron
+change
+6
+S285L
+
+Nucleotide
+change
+TCA-TTA
+
+FuncEthnic
+tional
+back
+classb
+ground'
+(2B)
+Dutch
+
+LDL
+receptor
+Geno- activity'
+tVued
+(%)
+Comments
+ab
+2-5
+b-not known
+
+References'
+
+B
+
+6
+
+Fs287
+
+ACCCATCA
+
+1
+
+Finnish
+
+A?
+
+NR
+
+6
+
+Stop292
+
+TGC-TGA
+
+1
+
+Greek Cypriot
+
+aa
+
+<2
+
+Mexican-American
+French
+French
+African-American
+
+Aa
+ah
+
+ab
+
+b-not known
+
+Qb
+
+2-5
+30-40
+<2
+2-5
+
+French
+
+a!!
+
+15-30
+
+b-FH Baltimore-1
+
+J
+
+Mexican
+
+ab
+
+15-30
+
+b-FH Mexico9
+
+§
+
+American Indian
+German
+
+9
+
+15-30
+15-30
+
+b-not known
+a-FH Munster-1
+
+0
+
+French
+
+ob
+
+b-FH Puerto Rico
+
+§
+
+BeIgian
+Mexican-American
+
+ab
+ab
+
+<2
+15-30
+
+b-not known
+a-FH Mexico2
+
+§
+§
+
+American
+
+aa
+
+(2
+
+aa
+aa
+
+15-30
+<2
+
+aa
+a!!
+ab
+
+C. Epidermal Growth Factor Homology Domain (exons 7-14)
+7
+C297Y
+tFH Mexico-1
+(2B)
+TGC-TAC
+7
+G314S
+'FH Paris-6
+GGC-AGC
+(5)
+TACjTAA
+i'
+'FH Bretagne-2
+7
+Stop315
+GAC-GAG
+2B or
+7
+D321E
+tFH New
+York-1
+5
+GGC-AGC"
+2 8 or
+tFH Picardie
+7
+G322S
+
+5
+
+'FH Mexico-2
+
+7
+
+C331Y
+
+TGC-TAC
+
+'FH Oklahoma
+'FH Munster-2
+
+8
+8
+
+D333V
+D333G
+
+GAT-G'IT
+GAT-GGT
+
+'FH Paris-7
+
+8
+
+E336K
+
+GAGAAG
+
+'FH Brussels
+'FH Mexico9
+
+8
+8
+
+Stop338
+C343R
+
+CAG-TAG
+TGC-CGC
+
+tFH Nashville
+
+8
+
+Fs352
+
+VGGGT
+
+2B or
+5
+5
+2Bor
+5
+2Bor
+5
+1
+2B or
+5
+1
+
+'FH Naples-1
+'FH Algeria-1
+
+8
+9
+
+C358R
+E387K
+
+TGT-.CGT
+GAGjAAG"'
+
+5
+5
+
+'FH Afn'kaner-2
+
+9
+
+V408M
+
+GTG+ATG"
+
+5
+
+Italian
+Algerian
+French
+American
+Afrikaner 20-30%
+
+'FHAlgeria-2
+'FHAlgeria-3
+'FH Russia-1
+'FH Roen
+
+9
+9
+9
+9
+
+A410T
+T413K
+1420N
+1420M
+
+GCT-ACT"
+ACG-AAG
+ATC+AAC
+ATC-+ATG
+
+5
+5
+(2A)
+5
+
+Algerian
+Algerian
+Russian
+French
+
+a!!
+
+Koivisto et al.,
+1992b
+§
+
+a-FH Bretagne-1
+b-FH New York-2
+
+ob
+
+§
+§
+
+8
+
+B
+
+Hobbs et al., 1990;
+Stacpoole et al.,
+1981
+§
+§
+
+<2
+
+5-15
+5-15
+<2
+5-15
+
+9:
+
+a-FH Algeria-4
+b-FH Russia9
+b-not known
+
+Kotze et al., 1989,
+1991; Leitersdorf
+et al., 1989b; van
+der Westhuyzen
+et al., 1984; Fourie
+et al., 1 9 8 8 van
+Roggen et al., 1991
+Hobbs et al., 1990
+§
+§
+
+B
+
+5-15
+
+b-FH Gujerat
+
+0
+
+African-American
+
+2-5
+
+a-FH New York-1
+
+11
+
+Italian
+American
+
+15-30
+<2
+
+b-not known
+a-FH Nashville
+
+11
+
+15-30
+
+5
+
+Kuwaiti
+Italian
+American
+
+5-15
+
+b-not known
+
+4
+
+AG
+GGC-GAC
+
+1
+2A
+
+American
+French
+
+5-15
+(2
+
+b-not known
+
+9:
+Hobbs et al., 1990
+
+G528D
+G544V
+Stop 556
+D558N
+
+GGT+GAT
+GGC-tGTC
+TGG-tTGA
+GACAAAC
+
+2A
+2A
+1
+28
+
+Italian
+Italian
+Russian
+American
+
+<2
+<2
+<2
+<2
+
+12
+12
+
+VV558
+G571E
+
+VGTC
+GGG-tGAG
+
+2A
+5
+
+French
+Italian
+German
+
+3
+
+ab
+
+<2
+5-15
+
+12
+
+L578S
+
+TTG-+TCG
+
+28
+
+English
+
+-
+
+ab
+
+5-15
+
+tFH Tunis
+
+12
+
+G-A
+
+1
+
+Tunisian
+
+12
+
+T+C
+
+1
+
+tFH French
+Canadian-2
+t~~ Nanjing-2
+tFH New
+York-3
+tFH EI
+Saluador-2
+tFH Lebanese
+
+14
+
+TGTATAT
+
+2A
+
+Japanese
+French
+Fr. Canadian 5%
+
+aa
+aa
+
+<2
+
+tFH Niigata
+
+Splice
+junction
+Splice
+junction
+C646Y
+
+14
+14
+
+Fs 650
+C656R
+
+AC
+TGC-XGC
+
+1
+(28)
+
+Chinese-Han
+American
+
+<2
+5-15
+
+b-not known:
+§
+generates 4.6 kb
+mRNA
+§
+b-Paris-1
+b-not known:
+§
+generates 4.7 kb
+mRNA
+b-not known;
+§
+generates 4.5 kb
+mRNA
+a-generates 7.5 kb
+J
+mRNA
+a-generates 8.4 and 11, Hobbs et al.,
+5.3 kb mRNAs
+1988
+Leitersdorf et al.,
+1990
+a-FH Nanjingl
+8
+b-FH Cincinnati-I
+§
+
+14
+
+Stop 657
+
+CAG-tTAG
+
+1
+
+El Salvadorian
+
+<2
+
+a-FH El Salvador-1
+
+14
+
+Stop 660
+
+TGC+TGA
+
+2A
+
+aa
+-
+
+<2
+
+Issoire
+tFH Gujerali
+
+14
+14
+
+L661P
+P664L
+
+CTC-t CCC
+CCWCTG
+
+(2B)
+26
+
+Christian Lebanese
+Syrian
+French
+Asian-Indian
+Italian
+English 2%
+Norwegian
+
+aa
+-
+
+ab
+
+<2
+15-30
+
+tFH New
+York-4
+
+14
+
+Fs677
+
+AT
+
+1
+
+American
+
+Aa
+
+35-45
+
+tFH North Plat!
+
+9
+
+W422C
+
+TGWTGC
+
+2 8 or
+
+American
+French
+
+tFH New
+York-2
+tFH Milan
+t~~ cincinnati-2
+tFH Kuwait
+
+10
+
+G457R
+
+GGG+AGG"
+
+2B or
+
+10
+10
+
+H464R
+Stop 469
+
+CAC+CGC
+TGG-+TAG
+
+5
+1
+
+10
+
+V502M
+
+GTG-+ATG"
+
+2A
+
+Cincinnati-3
+tFH Pittsburgh
+t~~ Saint
+Omer
+'FH Genoa
+'FH Naples-2
+'FH Moscow
+t~~ Cincinnati-4
+
+10
+
+P505S
+
+CCT+TCT
+
+11
+11
+
+Fs 515
+G525D
+
+11
+11
+12
+12
+
+'FH Paris4
+tFH Sicily
+
+t~~
+
+t~~
+
+5
+5
+
+ab
+
+<2
+<2
+
+§
+
+Hobbs et al., 1990
+
+Hobbs et al., 1990
+Esser et al., 1988
+9:
+
+b-not known
+
+§
+
+Lehrman et al.,
+1987c
+
+5
+
+8, King-Underwood
+et al.,
+1991: Soutar et
+al., 1989:
+Knight et al.,
+1989
+§
+
+continued
+
+TABLE 2. Point Mutations and Small (< 25 Base Pair) Deletions/lnsertions in LDL ReceDtor Gene
+
+Patient characterization
+
+Gene characterization
+Allele
+designationa
+
+Exon/
+intron
+
+Nucleotide
+chanae
+
+Codon
+chanae
+
+Functional
+classb
+
+D. 0-Linked Sugar and Transmembrane Domain (exons 15-17)
+15
+T7051
+ACC+ATC
+(2B)
+tFHParis-9
+FHTyrone
+'FH Russia-2
+
+15
+16
+
+Fs 743
+1771F
+
+E. Cytoplasmic Tail (exons 17-18)
+'FH Bahrain'
+17
+Stop 792
+
+AT'+ITT
+
+1
+(2A)
+
+TG-TGA
+
+4A
+
+AA
+
+Continued
+
+Ethnic
+back
+around'
+
+LDL
+receptor
+Geno- activitye
+bed
+I%)
+
+Comments
+
+References'
+
+French
+American
+Irish
+Russian
+
+ab
+
+2-5
+
+b-not known
+
+ab
+ab
+
+NR
+<2
+
+a-FH Russia-1
+
+Bahrain
+French
+
+aa
+-
+
+<2
+
+Lehrman et al.,
+Loux et al., 1991
+Lehrman et al.,
+
+b-FH Lancashire
+
+8
+Webb et al., 1992
+§
+
+1985a
+
+'FHParis-3
+
+17
+
+Fs 795
+
+VGAAA
+
+4A
+
+French
+
+aa
+-
+
+<2
+
+IFH New
+York-5
+'FH J.D.-Bari'
+
+17
+
+V806I
+
+GTC-ATC"
+
+(4A)
+
+American
+
+ab
+
+15-30
+
+b-FH Lithuania
+
+17
+
+Y807C
+
+TAT-TGT
+
+4A
+
+Italian
+Syrian
+
+gb
+
+<2
+
+b-FH Potenza
+S a m e as FH Ban
+
+Brown and
+Goldstein,
+1976; Davis et
+al., 1986; Davis
+et al., 1987;
+Chen et al., 1990
+
+ab
+
+5-15
+
+a-FH Pedi-1
+
+0, van Wingerden
+
+ab
+
+5-15
+
+b-FH Algeria-1
+
+aa
+-
+
+5-15
+
+F. Promoter and Signal Sequence (5' flanking region and exon 1)
+'FH Pedi-2
+Promoter -92
+ACTT
+Promoter
+
+'FH Albu-
+
+querque
+tFH Columbia-2
+
+Promoter
+
+-44
+
+C+T
+
+Promoter
+
+Pedi tribe
+(South
+Africa)
+American
+
+Promoter
+
+-42
+
+C+G
+
+Promoter
+
+Columbian
+
+1985a
+
+§
+
+et al., 1981
+
+I
+§
+
+Abbreviations: Fs, frameshift; A, deletion; V, insertion; NR, not reported in publication. Dagger (t)denotes allele present in Dallas collection.
+Refers to geographic origin of individual.
+bParentheses denote situations in which the functional class cannot be determined with complete accuracy since the FH homozygote is a compound heterozygote
+without one null allele.
+'If not otherwise specified, the American individuals are Caucasian.
+dRefersto whether patient is a true homozygote (aa), compound heterozygote (ab),or FH heterozygote (Aa). The relevant allele is underlined.
+'LDL receptor activity determined by assays of '*%LDL degradation and LDL-mediated stimulation of cholesteryl [''Cloleate formation in fibroblast monolayers
+(Goldstein et al., 1983). In the case of compound heterozygotes with genotype of ab, the individual contributions of the a and b alleles cannot be determined except
+where a or b is a null allele. Values for receptor activity are given relative to those in control fibroblasts studied in the same experiment. For each allele, the data
+on one representative subject are shown.
+A
+' 5 denotes mutations identified in Dallas and reported for the first time in this paper by analysis of genomic DNA using PCR and the SSCP method of Orita et
+al. (1989b). In many of these cases, the physiological effect of the mutation has not been verified by in vitro mutagenesis and transfection studies. None of these
+mutations has been seen in over 200 non-FH alleles.
+gDenotes frameshift mutation (Fs)involving the third amino acid in signal sequence of human LDL receptor cDNA (Yamamoto et al., 1984).
+hDenotes nonsense mutation (Stop) involving the fourth amino acid in signal sequence (Yamamoto et al., 1984).
+'C6W, Cys+Trp substitution at codon 6 of mature LDL receptor protein (Yamamoto et al., 1984). All amino acid substitutions are given in the one-letter amino
+acid code.
+'Recurrent mutation, i.e., a mutation that has occurred more than once in unrelated individuals.
+kDenotes frequency of mutation in indicated ethnic group.
+'In fibroblasts from 3 unrelated individuals who were homozygous for the FH French Canadian4 allele, LDL receptor activities were 25 to 55% of normal in subject
+1, 30 to 50% in subject 2, and 65 to 100%in subject 3.
+"'Mutation is a C-T transition in CpG dimer.
+
+LDL RECEPTOR MUTATIONS
+
+but have not been analyzed at the level of receptor
+biosynthesis or function. The 150 mutations are
+summarized in Tables 2 and 3 and Figures 1 and 2.
+The mutations identified in the Dallas collection
+are denoted by a dagger (t)in Tables 2 and 3. T h e
+79 mutations reported in this paper are denoted by
+a section sign (3) in Table 2.
+In the Dallas collection, 60% of the 157 unrelated FH homozygotes are compound heterozygotes, as assessed by RFLP and mutational analysis
+(Hobbs e t al., 1990; unpublished data). Many of
+the true homozygotes are from populations known
+to be inbred, owing to founder effects or geographic/cultural isolation (discussed below).
+Functionally, the LDL receptor mutations have
+been classified into 5 classes based o n biosynthetic
+and functional studies of fibroblast cell strains derived from skin biopsy specimens (Brown and
+Goldstein, 1986; Hobbs et al., 1990). The LDL
+receptor alleles that make up each of the 5 functional classes are discussed below. It should be emphasized that these classifications are somewhat arbitrary since many LDL receptor alleles produce
+proteins that fall into more than a single class. For
+example, many transport-defective receptors are
+also binding-defective.
+Class 1 Mutations: Null Alleles
+Class 1 mutations fail to produce immunoprecipitable LDL receptor protein (null alleles). Approximately 17% of the 157 FH homozygote fibroblast strains in the Dallas collection have two null
+alleles of the Class 1 type. These cell strains exhibit less than 2% of the normal amount of high
+affinity binding, uptake, and degradation of 1251LDL. Thirty-six null alleles have been characterized at the molecular level. The most frequent
+types of Class I mutations are nonsense and frameshift mutations, and these are randomly distributed
+among the exons (Figs. 1 and 3A). These mutations produce mRNA that is normal in size, but
+reduced in concentration (Hobbs et al., 1988).
+The absence of receptor protein in these cells may
+be due to a rapid turnover of the mRNA as occurs
+with some nonsense mutations at the (3-globin locus (Trecartin et al., 1981) or to accelerated degradation of the receptor protein. Three Class 1
+alleles contain deletions that include the LDL receptor promoter region (Fig. 2, Numbers 1-3).
+These alleles produce no mRNA or protein. Six
+Class 1 alleles generate receptor mRNAs of abnormal size, two caused by splicing mutations (Table
+1, FH Tunis and FH Niigata) and four by large
+deletions (Fig. 2, Numbers 29-31 and 33).
+
+453
+
+Class 2 Mutations: Transport Defective Alleles
+Class 2 mutations are the most common at the
+LDL receptor locus; 54% of the cell strains in the
+Dallas collection have at least one allele with a
+Class 2 phenotype. Class 2 alleles encode proteins
+that are blocked, either completely (Class 2A) or
+partially (Class 2B) in transport between the endoplasmic reticulum and the Golgi apparatus
+(transport-defective alleles). The normal receptor
+is synthesized in the endoplasmic reticulum as a
+partially glycosylated precursor that migrates with
+an apparent molecular mass of 120 kDa (Goldstein
+et al., 1985 for review). Within 60 min the receptor is transported through the Golgi, where the Nand O-linked sugars are processed. Coincident
+with processing, the apparent molecular mass of
+the receptor protein increases to 160 kDa. In Class
+2 fibroblasts in which transport to the Golgi is
+abolished (Class 2A alleles), the apparent molecular mass of the receptor remains at 120 kDa.
+Forty-nine Class 2 alleles have been characterized at the DNA level. Two-thirds of these mutations are located in the ligand-binding domain and
+one-third in the EGF precursor homology domain.
+The mutations are not evenly distributed between
+the ligand binding repeats, but show a striking clustering in repeat 5 (Fig. 3B). As discussed below,
+repeat 5 is unique among the seven ligand binding
+repeats in that its structural integrity is required for
+binding of both of the receptor’s ligands.
+Most of the Class 2 mutations within the ligand
+binding domain are missense mutations that involve amino acid residues that are highly conserved
+among multiple animal species (Mehta e t al.,
+1991), especially the invariant cysteine residues
+and the negatively charged Asp-X-Ser-Asp-Glu
+consensus sequence located at the 3’ end of each
+repeat. In-frame deletions and insertions within the
+ligand binding domain also can result in a Class 2
+phenotype presumably by interfering with disulfide
+bond formation and preventing correct folding of
+the receptor during synthesis in the endoplasmic
+reticulum.
+Most of the remaining Class 2 mutations are
+located in the EGF precursor homology domain.
+This is the most highly conserved domain in the
+receptor protein (Mehta et al., 1991), and its
+structure is easily disrupted if only a single amino
+acid is changed. Of the nine alleles that produce a
+complete block in transport of the receptor protein
+(Class 2A), eight are located within this domain.
+As will be discussed below, the Class 2 LDL
+receptor mutations are illustrative of an emerging
+
+TABLE 3.
+
+Large Deletions and Insertions in LDL Receptor Gene in Individuals with FH
+Patient characterization
+
+Molecular lesion
+
+Exons
+FuncAllele
+deleted or
+tional
+Ethnic
+designationa
+Exon/intron
+inserted
+Sue
+classb background'
+A. Promoter and Signal Sequence (5' flanking region and exon 1)
+tl.FH French
+5'FR-lnl
+A1
+A>15
+1
+Fr. Canadian
+Canadian-1
+60%g
+French
+
+'
+
+LDL
+receptor
+Geno- activitye
+typed
+(%)
+aa
+-
+
+<2
+
+ab
+
+<2
+
+t2. FH Denver-1
+
+5'FR-In1
+
+A1
+
+A6
+
+1
+
+American
+
+3. FH Bologna-1
+
+5'FR-In6
+
+A1
+
+A>25
+
+1
+
+Italian
+English
+
+40-50
+
+A2-12
+A2and3
+
+A25
+A10
+
+(3)
+
+1
+
+Italian
+Japanese
+
+45-55
+NR
+
+A12
+
+NR
+
+Japanese
+
+NR
+
+A5
+
+(3)
+
+Fr. Canadian
+5%
+
+NR
+
+B. Ligand-Binding Domain (Exons 2-6)
+4. FH Pauia
+Inl-In12
+5. FH Tonami-2
+Inl-In3
+
+Comments
+
+b-not known;
+produces no
+detectable
+mRNA
+
+References
+Hobbs et al., 1987;
+Leitersdorf et al.,
+1990,
+Furneron et al.,
+1992
+Hobbs et al., 1988
+
+Lelli et al., 1991b;
+Sun et al., 1992
+
+6. FH Kanazawa
+
+lnl-In4
+
+7. FH French
+Canadian-5
+
+Inl-In3
+
+A2and
+3(4)
+A2 and 3
+
+8. FH Tsukuba-1
+
+lnl-In3
+
+A2and 3
+
+A5
+
+(3)
+
+Japanese
+
+NR
+
+*t9. FH St. Louish
+
+Inl-In8
+
+V2-8
+
+V14
+
+3
+
+American
+
+5-15
+
+10. FH Vancouver-5
+11.FH Vancouver-4
+'12. FH Paris-2
+13. FH Vancouuer-3
+14. FH Aarhus-2
+
+Inl-In6
+
+A2-6
+
+A9.5
+
+NR
+
+Canadian
+
+NR
+
+Bertolini et al., 1992
+Kajinami et al.,
+1991
+Kajinami et al.,
+1990
+Leitersdorf et al.,
+1990
+Ma et al., 1989
+Yamakawa et al.,
+1989
+Lehrman et al.,
+1987a
+Langlois et al., 1988
+
+Inl-In6
+
+A2-6
+
+A10
+
+NR
+
+Canadian
+
+NR
+
+Langlois et al., 1988
+
+In2-In5
+1112-1118
+
+v3-5
+A3-8
+
+v7
+All
+
+3
+NR
+
+French
+Canadian
+
+NR
+NR
+
+Hobbs et al., 1990
+Langlois et al., 1988
+
+1112-1116
+
+A3-6
+
+A9
+
+NR
+
+Danish
+
+NR
+
+Rudiger et al.,
+1991b
+Langlois et al., 1988
+
+15. FH Vancouver-6
+*+16.FH Pans-1
+17. FH London-2
+
+In3-In6
+
+A4-6
+
+A5
+
+NR
+
+Canadian
+
+NR
+
+In4-In5
+1114-In5
+
+A5
+
+A5
+
+A0.8
+A1.O
+
+3
+(3)
+
+French
+English
+
+<2
+NR
+
+*18. FH Aarhus-3
+
+In4-In5
+
+A5
+
+A1.0
+
+(3)
+
+Danish
+
+NR
+
+b-not known
+
+a-Paris4
+
+Hobbs et al., 1986
+Horsthemke et al.,
+1987b
+Rudiger et al.,
+1991a
+
+C. Epidermal Growth Factor Homolow Domain (exons 7-14)
+A7-10
+A7.5
+1116-In10
+19. FH Oula-1
+
+NR
+
+NR
+
+Finnish
+
+$20. FH Osaka2
+(FH Okayama)
+
+In6-In14
+
+A7-14
+
+A12
+
+3 and Japanese
+5
+English
+
+<2
+
+21. FH London-7
+'22. FH Leuuen-1
+
+1116-In14
+In6-In8
+
+A7-14
+A 7 and 8
+
+All
+A4
+
+NR
+
+NR
+
+23. FH Cape T o w n 9 ln6-In8
+
+A7 and 8
+
+A2.5
+
+Asian Indian
+3 and Dutch 10%
+5
+3 and South African
+5
+
+24. FH London4
+25. FH London-3
+
+1116-1118
+1116-In7
+
+V7 and 8
+A7
+
+v4
+A1
+
+NR
+NR
+
+English
+English
+
+NR
+NR
+
+26. FH Reykjauik
+27. FH Leuuen-3
+28. FH O ~ l u - 2
+
+In8-In10
+In8-In12
+In10-In1 6
+
+A9 and 10 A2
+V9-12
+v4.4
+A13
+All-16
+
+NR
+NR
+NR
+
+Icelandic
+Dutch
+Finnish
+
+NR
+NR
+NR
+
+*29. FH London-1
+
+11112-In14
+
+A 1 3 and
+14
+A 1 3 and
+14
+A 1 3 and
+14
+V13-15
+
+A4
+
+1
+
+English
+
+NR
+
+84.5
+
+(1)
+
+Canadian
+
+NR
+
+A4
+
+1
+
+<2
+
+v7
+
+NR
+
+ItalianCanadian
+Italian
+
+1
+
+Italian
+
+a_b
+
+<2
+
+30. FH Vancouver-1 11112-In14
+t31. FH Italy-1
+
+11112-In14
+
+32. FH Bologna-2
+
+11112-In15
+
+D. 0-Linked Sugar and Transmembrane (exons 15-17)
+Ex13-In15
+A13-15
+A5
+*t33. FH Pofema
+
+(2
+
+b-not known
+
+2-5
+
+NR
+a-FH J.D.-Ban'
+
+Aalto-Setala et al.,
+1992
+Miyake et al., 1989;
+Kajinami et al.,
+1990
+Sun et al., 1992
+Sun et al., 1992
+Russell et al., 1987;
+Top et al., 1990
+van der
+Westhuyzen et
+al., 1991;
+Henderson et al.,
+1988
+Sun et al., 1992
+Horsthemke et al.,
+1987b
+Taylor et al., 1989
+Top et al., 1990
+Aalto-Setala et al.,
+1992
+Horsthemke et al.,
+1987
+Langlois et al.,
+1988
+Hobbs et al., 1988;
+Lelli et al., 1991b
+Lelli et al., 1991a
+Lehrman et al.,
+1986
+Kajinami et al.,
+1988
+Koivisto et al.,
+1992a
+Sun et al., 1992
+Lelli et al., 1991b
+
+34.FH Tonami-1
+
+In14-In15
+
+A15
+
+A6
+
+NR
+
+Japanese
+
+Ag
+
+NR
+
+35. FH Espso
+
+ln14-In15
+
+A15
+
+A6
+
+NR
+
+Finnish
+
+A9
+
+NR
+
+36. FH London-9
+37. FH Viterbo
+
+11114-In18
+11115-In17
+
+A10.5
+V5.5
+
+NR
+NR
+
+English
+Italian
+
+As
+aa
+-
+
+NR
+NR
+
+38. FH Tsukuba-2
+
+11115-In17
+
+A15-18
+V16and
+17
+A16and
+17
+
+A4
+
+NR
+
+Japanese
+
+Ag
+
+NR
+
+Yamakawa et al.,
+1989
+
+A16-18
+
+A9.5
+
+48
+
+Finnish
+30-40%
+
+A2
+
+40-50
+
+Aalto-Setala et al.,
+1988,
+1992
+continued
+
+E. Cytoplasmic Tail (exons 17-18)
+ln15-Ex18
+*39. FH Helsinki
+
+TABLE 3.
+
+Large Deletions and Insertions in LDL Receptor Gene in lndividuals with FH Continued
+Patient characterization
+
+Molecular lesion
+Allele
+designation"
+
+Exonhntron
+
+Exons
+deleted or
+inserted
+
+Size
+
+Functional
+classb
+
+Ethnic
+background"
+
+LDL
+receptor
+Geno- activity'
+(W)
+typed
+
+*+4O.FH Osaka-I
+
+11115-Ex18
+
+616-18
+
+A7.8
+
+4B
+
+Japanese
+
+5
+
+<2
+
+*+41.FH Rochester
+
+ln15-Ex18
+
+A16-18
+
+A5.5
+
+4B
+
+American
+
+gb
+
+<2
+
+42.FH Leuuen-2
+*43. FH Van-
+
+11115-In16
+11116-In17
+
+A16
+A17
+
+A0.4
+
+A0.4
+
+NR
+NR
+
+Dutch
+Canadian
+
+Ag
+A
+!
+
+NR
+NR
+
+In16-In17
+
+A17
+
+A2
+
+NR
+
+Danish
+
+A!
+
+NR
+
+11116-3'FR
+
+A17and
+
+A>lO
+
+2B
+
+American
+
+ab
+
+2-5
+
+couuer-3
+44. FH-Aarhus-I
+
+'45. FH Baltimore-.?
+
+18
+
+Comments
+
+b-not known
+
+References
+Lehrman et al.,
+1987b
+Lehrman et al.,
+1985b
+Top et al., 1990
+Langlois et al.,
+
+1988
+
+a-FHBaltimore-2
+
+Rudiger et al.,
+1991b
+Hobbs et at., 1990
+
+Abbreviations: FR, flanking region; In, intron; Ex, exon; A, deletion; V, insertion; NR, not reported in publication. Dagger (t)denotes allele present in Dallas
+collection.
+"Refers to geographic origin of FH individual.
+bParentheses denote mutations in FH individuals that were not characterized functionally in the original report, but have been recreated by in vitro mutagenesis
+and characterized biochemically in Dallas.
+C.d.eSeefootnotes for Table 2.
+'Numbers correspond to the deletiodinsertion numbers in Figure 2. All insertions appear to be partial duplications.
+gDenotes frequency of mutations in indicated ethnic group.
+hAn asterisk (*) refers to those deletions or insertions whose end points have been delineated by DNA sequencing.
+
+LDL RECEPTOR MUTATIONS
+class of mutations involving membrane and secretory proteins that cause human disease.
+Class 3 Mutations: Binding Defective Alleles
+The LDL receptor has two major physiological
+ligands: LDL, which binds to the receptor by virtue
+of its single apoB-100; and intermediate density
+lipoprotein (IDL, also referred to as p-migrating
+very low-density lipoprotein or p-VLDL), which
+binds to the receptor by means of its multiple copies of apoE. The LDL receptor has a higher affinity
+for p-VLDL (which contains multiple copies of
+apoE and a single copy of apoB-100) than for LDL
+(which contains one copy of apoB-100 and no
+apoE) (Mahley et al., 1986). Class 3 mutations
+encode proteins that are synthesized and transported to the cell surface, but fail to bind LDL
+normally (binding-defective alleles). Some of
+these mutant proteins retain the ability to bind
+
+p-VLDL.
+
+Deletional analysis by in vitro mutagenesis revealed that each of the cysteine-rich binding repeats in the ligand binding domain makes an independent contribution to ligand binding and that
+replacement of a single conserved amino acid in a
+repeat produces the same functional abnormality as
+does deletion of the entire repeat (Russell et al.,
+1989). Deletion of repeat 1 has no effect on binding of either LDL or P-VLDL. Deletion of any
+other single repeat impairs LDL binding by up to
+95%, but does not impair the binding of p-VLDL.
+The sole exception is repeat 5, whose deletion reduces p-VLDL binding by 50%. A likely explanation for the observed clustering of Class 2 mutations in repeat 5 (Fig. 3B) is one of selection bias.
+These mutations probably produce a more severe
+clinical phenotype, owing to the fact that the reduced number of receptors that reach the cell surface are defective in binding IDL (or P-VLDL) as
+well as LDL. Class 2B mutations that affect other
+repeats may retain normal IDL binding and thus
+may produce only a mild elevation of LDL in
+plasma.
+Eleven Class 3 alleles produce receptors that are
+transported to the cell surface normally, but are
+defective in ligand binding. All are caused by inframe insertions or deletions in the ligand binding
+or EGF precursor homology domains. The binding
+characteristics of each of these mutant receptors
+mimics the results of the in vitro mutagenesis studies (Russell et al., 1989). For example, deletion of
+repeat 6, as in FH-Paris I , produces a receptor that
+fails to bind LDL (apoB-100) but binds P-VLDL
+(apoE) with normal affinity (Hobbs et al., 1986).
+
+457
+
+Class 4 Mutations:
+Internalization-Defective Alleles
+Class 4 mutations encode receptors that move
+to the cell surface and bind LDL normally, but are
+unable to cluster in clathrin-coated pits and thus
+do not internalize LDL (internalization-defective
+alleles). The seven Class 4A mutations have been
+subclassified into two groups: mutations that alter
+the cytoplasmic domain alone (Class 4A) and mutations that involve the cytoplasmic domain together with the adjacent membrane-spanning region (Class 4B) (Hobbs et al., 1990). The most
+informative Class 4A mutation is the 1.0. allele
+(FH Bari allele) in which a single bp change substitutes a cysteine for tyrosine at position 807 in
+the cytoplasmic domain (Davis et al., 1986). This
+position must be occupied by an aromatic amino
+acid (tyrosine, phenylalanine, or tryptophane) in
+order for internalization to occur normally (Davis
+et al., 198713). TyrBO7
+is part of a tetrameric signal
+sequence NPVY (Asn-Pro-Val-Tyr) that is conserved in LDL receptors from six animal species
+(Chen et al., 1990) and targets the LDL receptor
+protein to the coated pit.
+The second subclass of internalization-defective
+alleles (Class 4B) produce truncated receptors that
+lack the membrane-spanning domain as well as the
+cytoplasmic tail. Most of these molecules are secreted from the cell, but approximately 10% remain adherent to the cell membrane where they
+bind LDL but do not internalize it. The three Class
+4B mutant alleles have deletions that extend from
+intron 15 to the noncoding region of exon 18. The
+truncated intron 15 is not removed by splicing, so
+translation extends into intron 15 which produces
+an abnormal COOH-terminal sequence that contains 55 novel amino acids (Lehrman et al.,
+1987b). This sequence includes a cluster of 14 hydrophobic amino acids but not an NPVY signal so
+the mutant receptors adhere to the cell membrane,
+but cannot be internalized.
+Class 5 Mutations: Recycling-Deficient Alleles
+Class 5 mutations encode receptors that bind
+and internalize ligands in coated pits, but fail to
+release the ligands in the endosome and thus do
+not recycle to the cell surface (recycling-defective
+alleles). A total of 22% of the fibroblast strains in
+the Dallas collection have a Class 5 phenotype,
+including 11 missense mutations, all of which occur in the EGF precursor homology domain (Fig.
+3C). This domain mediates acid-dependent dissociation of receptor and ligand in the endosome, an
+event that is essential for receptor recycling (Davis
+
+458
+
+HOBBS ET AL.
+
+Exon
+No.
+
+I
+
+2
+
+-
+
+-4
+4
+
+3 4 5 6
+
+789
+
+11
+
+13 15
+
+1617 18
+
+- -25 I
+
+4
+
+4
+
+5-
+
+2627-
+
+28
+*29-31
+
+-6
+7,8
+
+32
+*9 7
+*33
+10
+34,35
+1136
+3
+7
+0
+12 0
+38 0
+13
+14
+*39
+"40
+15
+*16,17
+*4142
+*18*43
+19
+*204-B
+44
+
+-
+
+21
+2 2 , 2 3 B
+24 0
+
+=
+=
+45
+
++-
+
+FIGURE 2. Large deletions and insertions in the LDL receptor
+gene in individuals with FH. Exons, shown as vertical boxes,
+are separated by introns, which are drawn to approximate
+scale. The extent of each deletion (solid bar) or insertion
+(open bar) is shown below the gene map. Rearrangements
+
+involving A h repeats are denoted by stippled arrowheads
+that indicate the orientation of the repeat element. An asterisk (*) denotes those mutations where the deletion or insertion joint has been sequenced. Numbers refer to the FH alleles described in Table 3.
+
+et al., 1987a). If the ligand is not released from the
+receptor in the endosome, the receptor-ligand
+complex is degraded, and the receptor fails to be
+recycled to the cell surface.
+The Class 5 mutations cluster in the 5' end of
+the EGF precursor homology domain, especially in
+the first YWTD repeat (Repeat Y1 in Fig. 3C).
+This finding is likely related to the finding that the
+A and B growth factor repeats at the 5' end of this
+domain play an essential role in recycling the receptor to the cell surface, even in the absence of
+ligand (Davis et al., 1987a; van der Westhuyzen et
+al., 1991).
+
+small target size of DNA (200 bp) that is essential
+for transcriptional regulation (discussed below).
+
+Promoter Mutations
+
+To date, only three naturally occurring mutations (two missense mutations and one 3-bp deletion) have been mapped to the transcriptional regulatory elements of the LDL receptor gene, and all
+involve one of the two S p l binding sites. The low
+frequency of this class of mutation reflects the
+
+POPULATION GENETICS
+Founder Effects
+
+In most populations of the world, the frequency
+of heterozygous FH is -0.2%, and a plethora of
+different mutations are responsible for the disease.
+However, in certain populations of the world a
+small number of mutations predominate due to
+founder effects. These populations include Ashkenazi Jews of Lithuanian descent, Afrikaners,
+French Canadians, Christian Lebanese, Druze,
+Sephartic Jews, and Finns. In some of these populations, the frequency of FH is much higher than
+0.2%. Table 4 lists the most frequent mutant alleles in these populations.
+Recurrent Mutations
+Numerous LDL receptor mutations have been
+found in two unrelated individuals of different eth-
+
+LDL RECEPTOR MUTATIONS
+
+0
+
+u
+
+459
+
+.....
+1 2 3 4 5
+
+Ligand Binding Repeats
+
+EGF Precursor Domain
+
+FIGURE 3. Distribution of point mutations and small deletions/insertions(<25 bp) in the ligand binding
+repeats and EGF precursor domain of 81 mutant LDL receptor alleles. The data in this figure include
+only those mutations in which the functional defect at the protein level has been analyzed.
+
+nic backgrounds. To determine whether the two
+individuals inherited the same mutant allele from a
+common ancestor or if the mutation occurred
+twice, the RFLP haplotypes of the two alleles were
+compared using 10 previously defined RFLPs
+(Hobbs et al., 1990; Leitersdorf et al., 1989a). In
+nine cases, the two alleles had different RFLP haplotypes and thus were likely recurrent mutations.
+These mutations are denoted by the superscriptj in
+Table 2. Three of the nine possible recurrent mutations result from a cytosine (C) to thymidine (T)
+transition at a CpG dinucleotide, a frequent cause
+of mutations in the human genome (Cooper e t al.,
+1988). At the LDL receptor locus, 16% of the
+point mutations are C to T substitutions at CpG
+dimers; these mutations are demarcated by superscript m in Table 2.
+DIAGNOSTIC RELEVANCE
+
+In the French Canadian, Christian Lebanese,
+Finnish, Afrikaner, and Ashkenazi Jewish populations, it is now feasible to screen for FH at the
+DNA level and thereby to detect the mutation
+
+responsible for the majority of FH (Table 5 ) . However, in most populations of the world, including
+the populations of North America and Europe,
+more than 150 different mutations produce FH. In
+these populations, the molecular diagnosis of FH
+can be made through linkage analysis in families
+with the use of RFLP polymorphisms. Numerous
+RFLP polymorphisms have been identified that
+span the entire LDL receptor locus, and these can
+be used to construct haplotypes (Leitersdorf e t al.,
+1989a). In families with FH, haplotype analysis
+can be employed to follow the segregation of the
+LDL receptor gene and establish or confirm the
+diagnosis of FH.
+INSIGHTS FROM LDL RECEPTOR MUTATIONS
+The following information of general biological
+importance has emerged from the molecular analysis of LDL receptor mutations:
+Alu Repeats and Gene Rearrangements
+
+A h repeats are the predominant “middle repetitive” DNA sequences in the mammalian genome.
+
+460
+
+HOBBS ET AL.
+
+The human genome contains about 9 10,000 copies
+of these 300-bp repeat sequences (Hwu e t al.,
+1986). Alu sequences are distributed throughout
+all chromosomes, occurring mostly in intergenic
+regions and in introns (Jelinek et al., 1982), but
+occasionally in the 3’-untranslated regions of mRNAs as in the LDL receptor (Yamamoto e t al.,
+1984). They are thought to have arisen by duplication and recombination of a small number of
+founder repeats (Britten et al., 1988). Alu repeats
+can be transcribed by RNA polymerase 111, which
+recognizes sequence blocks (A and B) in each arm
+that act as a bipartite promoter as in 5 S ribosomal
+RNA genes and tRNA genes (Jelinek et al.,
+1982). The large number of Alu repeats in the
+human genome, coupled with their capacity to be
+transcribed into RNA, has led to the idea that
+these sequences might serve as sites for genome
+rearrangements (Britten et al., 1988). This hypothesis has received its strongest support from the
+almost invariant finding of Alu sequences at the
+junctions of large rearrangements in the LDL receptor gene (Hobbs et al., 1990 for review).
+Of the 45 large deletions and insertions in the
+LDL receptor gene reported to date, the deletionjoints have been sequenced in 10 (Fig. 2). Nine of
+these 10 possess an Alu repeat at one or both mutation endpoints. Most commonly, the two Ah
+repeats found at the deletion (insertion) breakpoints are in the same orientation. In these cases,
+it is presumed that homology between the Alu sequences led to a mispairing of chromosome 19
+chromatids during meiosis, followed by an unequal
+crossover that deletes (or inserts) the intervening
+sequence. In some cases, the two Alu sequences are
+oriented in opposite directions, and in these cases
+the recombination was likely an intrachromosomal
+event. Single Alu sequences can also instigate gene
+rearrangements at the LDL receptor. Ah-mediated
+rearrangements of the type seen in the LDL receptor gene have been reported for more than 30 different human mutations involving more than 14
+loci (for review, Hobbs et al., 1990; also see Neote
+et al., 1990; Hu et al., 1991).
+Transport-Defective Mutations as a Cause of
+Human Disease
+
+As discussed above, transport-defective alleles
+are the most frequent class of LDL receptor mutations, accounting for over 50% of all mutations
+that cause FH. I t has become increasingly clear
+that mutations producing transport-defective proteins are not only a frequent cause of FH but also
+of other genetic diseases (Hobbs et al., 1990; Am-
+
+ara et al., 1992). Transport-defective mutations
+causing inborn errors have recently been described
+in the genes that encode five membrane proteins.
+These include the P-subunit of the heterodimeric
+leukocyte adhesion proteins LFA-1, Mac-I, and
+p150,95 (responsible for leukocyte adhesion deficiency), sucrase-isomaltase (congenital sucraseisomaltase deficiency), the insulin receptor (several rare alleles causing leprechaunism and insulinresistant diabetes mellitus), the cystic fibrosis
+transmembrane conductance regulator (CFTR)
+(the most common allele producing cystic fibrosis), and rhodopsin (autosomal dominant forms of
+retinitis pigmentosa). A transport-defective phenotype has also been observed in mutations involving three secretory proteins that cause disease: a1-antitrypsin
+(responsible
+for
+hereditary
+emphysema), pro-a- 1 collagen (osteogenesis imperfects), and pro-a-2 collagen (osteogenesis im-
+
+perfects).
+
+Together with observations o n the LDL receptor, these findings suggest that a transport-defective phenotype may frequently underlie mutations
+involving cell surface or secreted proteins. The
+transport defect can be attributed to the ability of
+the cell to detect small regions of misfolding within
+a protein and thereby to interdict its movement to
+the cell surface (Yamamoto et al., 1986; Gething
+and Sambrook, 1992).
+
+Targeting Signals for Receptors That Cluster in
+Coated Pits
+
+The discovery of the LDL receptor internalization defect in the FH homozygote J. D. (Brown and
+Goldstein, 1976) and the subsequent demonstration that the mutant receptors in this patient failed
+to cluster in clathrin-coated pits (Anderson et al.,
+1977) provided the earliest evidence that cell surface receptors must cluster in clathrin-coated pits
+in order to carry their ligands into cells (Goldstein
+et al., 1979).
+As discussed above, the 1.0. allele has a single
+bp change that substitutes a cysteine for tyrosine
+807, which is part of a tetrameric sequence NPVY
+that constitutes the signal for clustering the LDL
+receptor in coated pits. A variant of this sequence
+NPxY (where x can be any amino acid) is present
+in the cytoplasmic tails of four other members of
+the LDL receptor gene family-LDL receptor-related protein (LRP) (Herz et al., 1988), gp330
+(Heymann nephritis antigen) (Raychowdhury et
+al., 1989), the VLDL receptor (Takahashi e t al.,
+1992), and the chicken vitellogenin receptor
+(Barber et al., 1991). O n e or more NPxY se-
+
+TABLE 4. LDL Receptor Mutations in Inbred Populations
+
+Ethnic
+population
+
+Geographical
+location
+
+Frequency of
+FH heterozygotes
+in population
+
+Mutant
+allele
+
+Proportion of
+FH heterozygotes
+with mutant allele
+
+References
+
+(%)
+
+1/67
+
+FH Lithuania
+
+80
+
+Not known
+
+FH Lithuania
+
+33
+
+11270
+
+FH French Canadian-1
+FH French Canadian2
+FH French-Canadian-3
+FH French-Canadian-4
+FH French-Canadian4
+
+60
+5
+2
+7
+5
+
+Hobbs et al., 1987; Ma et al.,
+1989;Leitersdorf et al., 1990;
+Moojani et al., 1989
+
+South Africa
+
+11100
+
+FH Afrikaner-1
+FH-Afrikaner-2
+FH-Afrikaner3
+
+65-70
+20-25
+5-10
+
+Leitersdorf et al., 1989b;Kobe
+et al., 1991;
+van Roggen et al., 1991
+
+Christian
+Lebanese
+
+Lebanon and Syria
+
+11170
+
+FH Lebanese
+
+-100
+
+Lehrman et al., 1987c;Slack,
+
+Finnish
+
+Finland
+
+-11500
+
+FH Helsinki
+FH Karelia
+
+30-40
+
+Ashkenazi Jews
+of Lithuanian
+ancestry
+
+South Africa
+
+French
+Canadians
+
+Quebec Province,
+Canada
+
+Afrikaners
+
+Israel
+
+34
+
+Hobbs et al., 1990 Sefiel et al.,
+1989;Meiner et al., 1991
+
+1979
+
+Aalto-Setala et al., 1992;
+Koivisto et al., 1992b
+
+462
+
+HOBBS ET AL.
+
+quences are also present in the cytoplasmic domains of at least 13 other cell surface receptors,
+including several with tyrosine kinase activity
+(EGF, c-erb-Blneu, insulin, IGF-l), the P-subunits
+of the integrin receptors, and the amyloid precursor protein (Chen et al., 1990). In the insulin
+receptor, two NPxY sequences make a contribution to internalization (Backer et al., 1992). The
+functional role of this sequence in the other proteins is unknown.
+Stimulated by the studies of the J.D. allele, investigators studying other coated pit receptors have
+searched for targeting signals that contain an aromatic amino acid. In the transferrin receptor and
+the mannose-6-phosphate receptor, the signals for
+coated pit clustering involve sequences of 4-6
+amino acids that each contains at least one aromatic residue, usually a tyrosine, but lacks the
+other elements of the NPxY signal (Vaux, 1992 for
+review). Computer modeling (Collawn et al.,
+1991) and NMR studies (Bansal and Gierasch,
+1991) suggest that the common feature in the targeting sequences for all three of these receptors is
+the ability to form a tight turn that orients the
+aromatic residue in a fixed configuration. Presumably, the coated pit assembly proteins recognize
+the aromatic residue within this tight turn and
+thereby move the receptor to a coated pit.
+Multiplicity of Repeats and
+Multifunctionality of Receptors
+The LDL receptor is a modular protein that was
+assembled by exon shuffling (Siidhof et al., 1985).
+In general, each of the 40-amino acid, cysteinerich repeats in the ligand binding domain as well as
+each of the three growth factor repeats and the five
+YWTD-containing repeats in the EGF homology
+region is encoded by a separate exon.
+As discussed above, analyses of naturally occurring FH mutations, as in the FH Paris-1 allele, and
+of in vitro-generated mutations have shown that
+different combinations of the multiple cysteinerich repeats in the ligand binding domain allow the
+receptor to bind two structurally different ligands.
+Binding of apoB-100 of LDL requires the integrity
+of repeats 2 through 7, whereas binding of apoE of
+P-VLDL is determined predominantly by repeat 5
+(Russell et al., 1989).
+The use of different combinations of cysteinerich repeats to bind different ligands has general
+implications for explaining an important concept
+in receptor biology, namely that many cell surface
+receptors are multifunctional molecules that bind
+structurally different ligands. Three examples are
+
+illustrative. First, the mammalian cation-independent mannose-6-phosphate receptor, which contains 15 cysteine-rich repeats with an average size
+of 147 amino acids per repeats, binds two unrelated
+families of ligands: (1) lysosomal enzymes that contain multiple mannose-6-phosphate residues; and
+( 2 ) insulin-like growth factor-I1 (IGF-11) which
+contains no mannose-6-phosphate in its structure
+(Kornfeld, 1992). The second example involves
+the Drosophila notch locus, which encodes an EGFhomologous transmembrane receptor that contains
+36 cysteine-rich growth factor repeats. Mutations
+that affect different repeats produce different developmental phenotypes (Kelley et al., 1987), implying multiple protein-protein interactions. One
+of these interactions, found between notch and
+delta, requires only 2 of the 36 repeats in the notch
+gene product (Rebay et al., 1991).
+The third example of a multifunctional receptor
+is the LDL receptor-related protein, LRP, a 4525amino acid protein that contains 3 1 cysteine-rich
+ligand binding repeats of the LDL receptor type
+organized in four clusters and 22 growth factor repeats that are separated by eight YWTDcontaining repeats. LRP differs functionally from
+the LDL receptor in that it does not bind LDL. It
+is selective for lipoproteins that are enriched with
+apoE (Brown et al., 1991). LRP is also able to bind
+and internalize several nonlipoprotein ligands, including lipoprotein lipase (Beisiegel e t al., 1991;
+Willnow et al., 1992), activated az-macroglobulin
+(Strickland et al., 1990; Kristensen e t al., 1990),
+plasminogen
+activatorlinhibitor
+complexes
+(Willnow et al., 1992; Orth et al., 1992; Bu e t al.,
+1992), and Pseudomonas exotoxin A (Kounnas et
+al., 1992). If these three receptors behave like the
+LDL receptor, then their multiple ligands may
+bind to different combinations of repeats, and selective obliteration of certain repeats may selectively abolish binding of one ligand.
+Clinical Variability in FH: Entr6e for Identifying
+New Cholesterol Genes
+The nature of the LDL receptor gene mutation
+contributes to the clinical variability seen in patients with FH. Individuals with mutations that
+impair, but do not completely abolish, receptor
+function tend to have lower plasma levels of LDLcholesterol, are more responsive to therapy, and
+have less aggressive coronary atherosclerosis than
+do individuals whose genes produce totally defective receptors (Goldstein and Brown, 1989).
+Those mutations that produce a protein that retains the ability to bind and internalize IDL (P-
+
+LDL RECEPTOR MUTATIONS
+
+VLDL) but not LDL tend to have lower plasma
+LDL-cholesterol concentrations and less severe
+clinical sequelae (Hobbs et al., 1990).
+In individuals with FH, the concentration of
+plasma LDL can vary remarkably even among individuals with the same mutation within the same
+family. One reason is that other genes impact importantly o n the concentration of plasma LDL.
+This has been shown most dramatically in a large
+family, the P. family, in which one-third of the FH
+heterozygotes with a documented LDL receptor
+mutation have concentrations of plasma LDL below the 90th percentile, whereas the other twothirds with the same receptor mutation have the
+expected elevation in plasma LDL concentration
+above the 95th percentile (Hobbs et al., 1989).
+Genetic analysis suggests the presence of a dominant gene whose effect is to suppress the effect of
+the LDL receptor mutation. This putative suppressor gene is not linked to the LDL receptor locus
+itself or to the genes for apoB-100, apoE, or nine
+other candidate genes that influence lipoprotein
+metabolism. Further studies with anonymous genomic probes will be required to map the chromosomal location of this LDL-lowering gene.
+ACKNOWLEDGMENTS
+We thank Kathy Schueler for excellent technical assistance in the DNA analysis of LDL receptor
+mutations; Edith Womack, Tracye Martin, and
+Lisa Beatty for invaluable help in maintaining the
+Dallas collection of fibroblasts; and Debra NobleMorgan and Gloria Brunschede for excellent technical assistance in assays of LDL receptor function.
+This work was supported by research grants from
+the National Institutes of Health (HL 20948), Lucille P. Markey Charitable Trust, and the Perot
+Family Foundation.
+We are deeply indebted to the 100 physicians
+who have sent us skin biopsies from their FH homozygote patients. Owing to space limitations, we
+cannot acknowledge each of them individually.
+We do, however, wish to mention the following
+physicians who have each provided more than 5
+biopsy samples: Drs. Francois Dairou and J.L. de
+Gennes of Paris (30 FH homozygotes); Evan Stein
+of Cincinnati (10); Vera Rose of Toronto (9);
+David W. Bilheimer of Dallas (7); and Paul J. Lupien of Quebec (7).
+REFERENCES
+Aalto-Setala K (1988) The Finnish type of the LDL receptor gene
+mutation. Molecular characterization of the deleted gene and
+the corresponding mRNA. FEBS 234:411-416.
+Aalto-Setila K, Koivisto U-M, Miettinen T A , Gylling H , Ke-
+
+463
+
+saniemi YA, Savolainen M, Pyorala K, Ebeling T, Mononen I,
+Turtola H, Viikari J, Kontula K (1992) Prevalence and geographical distribution of major LDL receptor gene rearrangements in Finland. J Intern Med 231:227-234.
+Amara JF, Cheng SH, Smith AE (1992) Intracellular protein trafficking defects in human disease. Trends Cell Biol 2:145-149.
+Anderson RGW, Brown MS, Goldstein JL (1977) Role of the
+coated endocytic vesicle in the uptake of receptor-bound low
+density lipoprotein in human fibroblasts. Cell 10:35 1-364.
+Backer JM, Shoelson SE, Weiss MA, Hua QX, Cheatharn RB,
+Haring E, Cahill DC,White MF (1992) The insulin receptor
+juxtamembrane region contains two independent tyrosine/Pturn internalization signals. J Cell Biol 118:831-839.
+Bansal A, Gierasch LM (1991) The NPXY internalization signal of
+the LDL receptor adopts a reverse-turn conformation. Cell
+67:1195-1201.
+Barber DL, Sanders EJ, Aebersold R, Schneider W] (1991) The
+receptor for yolk lipoprotein deposition in the chicken oocyte.
+J Biol Chem 266:18761-18770.
+Beisiegel U, Weber W, Bengtsson-Olivecrona G (1991) Lipoprotein lipase enhances the binding of chylomicrons to low density
+lipoprotein receptor-related protein. Proc Natl Acad Sci USA
+€3823342-8346.
+Bertolini S, Lelli N, Coviello DA, Ghisellini M, Masturzo P,
+Tiozzo R, Elicio N , Gaddi A , Calandra S (1992) A large deletion in the LDL receptor gene-the cause of familial hypercholesterolemia in three Italian families: A study that dates
+back to the 17th century (FH-Pavia). Am J Hum Genet 51:
+123-134.
+Bilheiiner DW, East C , Grundy SM, Nora JJ (1985) 11. Clinical
+studies in a kindred with a kinetic LDL receptor mutation
+causing familial hypercholesterolemia. Am J Med Genet 22:
+593-598.
+Britten RJ, Baron WF, Stout DB, Davidson EH (1988) Sources
+and evolution of human A h repeated sequences. Proc Natl
+Acad Sci USA 85:4770-4774.
+Brown MS, Goldstein JL (1976) Analysis of a mutant strain of
+human fibroblasts with a defect in the internalization of receptor-bound low density lipoprotein. Cell 9:663-674.
+Brown MS, Goldstein JL (1986) A receptor-mediated pathway for
+cholesterol homeostasis. Science 232:34-47.
+Brown MS, Herz J , Kowal RC, Goldstein JL (1991) The lowdensity lipoprotein receptor-related protein: double agent or
+decoy? Current Opinion Lipidol 2:65-72.
+Bu G, Williams S, Strickland DK, Schwartz AL (1992) LRP/
+a,-macroglobulin receptor is an hepatic receptor for tissue-type
+plasminogen activator (t-PA). Proc Natl Acad Sci USA 89:
+7427-743 1.
+Chen W-1, Goldstein JL, Brown MS (1990) NPXY, a sequence
+often found in cytoplasmic tails, is required for coated pitmediated internalization of the low density lipoprotein receptor. J Biol Chem 265:3116-3123.
+Collawn JF, Kuhn LA Sue-Liu LF, Tainer JA, Trowbridge IS
+(1991) Transplanted LDL and mannose-&phosphate receptor
+internalization signals promote high-efficiency endocytosis of
+the transferrin receptor. EMBO J 10:3247-3253.
+Cooper DN, Youssoufian H (1988) The CpG dinucleotide and
+human genetic disease. Hum Genet 78:151-155.
+Davis CG, Lehrman MA, Russell DW, Anderson RGW, Brown
+MS, Goldstein JL (1986) The J.D. mutation in familial hypercholesterolemia: Amino acid substitution in cytoplasmic domain impedes internalization of LDL receptors. Cell 45: 15-24.
+Davis CG, Goldstein JL, Sudhof TC, Anderson RGW, Russell
+DW, Brown MS (19874 Acid-dependent ligand dissociation
+and recycling of LDL receptor mediated by growth factor homology region. Nature (London) 326:760-765.
+
+464
+
+HOBBS ET AL.
+
+Davis CG, van Driel IR, Russell DW, Brown MS, Goldstein JL
+(198713) The LDL receptor: Identification of amino acids in
+cytoplasmic domain required for rapid endocytosis. J Biol
+Chem 262:4075-4082.
+Esser V, Russell DW (1988) Transport-deficient mutations in the
+low density lipoprotein receptor: Alterations in the cysteinerich and cysteine-poor regions of the protein block intracellular
+transport. J Biol Chem 263:13276-13281.
+Fourie AM, Coetzee GA, Gevers W, van der Westhuyzen DR
+( 1988) Two mutant low-density-lipoprotein receptors in Afrikaners slowly processed to surface forms exhibiting rapid degradation or functional heterogeneity. Biochem J 255:411-415.
+Fumeron F, Grandchamp 8 , Fricker J , Krempf M, Wolf L-M,
+Khayat M-C, Bioffard 0,Apfelbaum M (1991) Presence of the
+French Canadian deletion in a french patient with familial
+hypercholesterolemia. N Engl J Med 326:69.
+Gething MJ, Sambrook J (1992) Protein folding in the cell. Nature
+(London) 355:33-45.
+Goldstein JL, Schrott HG, Hazzard WR, Bierman EL, Motulsky
+AG (1973) Hyperlipidemia in coronary heart disease. II. Genetic analysis of lipid levels in 176 families and delineation of
+a new inherited disorder, combined hyperlipidemia. J Clin lnvest 52:1544-1568.
+Goldstein JL, Anderson RGW, Brown MS (1979) Coated pits,
+coated vesicles, and receptor-mediated endocytosis. Nature
+(London) 279:679-685.
+Goldstein JL, Basu SK, Brown MS (1983) Receptor-mediated endocytosis of LDL in cultured cells. Methods Enzymol 98:241260.
+Goldstein JL, Brown MS, Anderson RGW, Russell DW, Schneider WJ (1985) Receptor-mediated endocytosis: Concepts
+emerging from the LDL receptor system. Annu Rev Cell Biol
+1:l-39.
+Goldstein JL, Brown MS (1989) Familial hypercholesterolemia.
+In, The Metabolic Basis of Inherited Disease. Scriver CR,
+Beaudet AL, Sly WS, Valle D (eds): New York: McGraw-Hill,
+pp 1215-1250.
+Goldstein JL, Brown MS (1990) Regulation of the mevalonate
+pathway. Nature (London) 343:425-430.
+Henderson HE, Berger GMB, Marais AD (1988) A new LDL
+receptor gene deletion mutation in the South African population. Hum Genet 80:371-374.
+Herz J , Hamann U, Rogne S, Myklebost 0, Gausepohl H, Stanley
+KK (1988) Surface location and high affinity for calcium of a
+500-kd liver membrane protein closely related to the LDLreceptor suggest a physiological role as lipoprotein receptor.
+EMBO J 7:4119-4127.
+Hobbs HH, Brown MS, Goldstein JL, Russell DW (1986) Deletion of exon encoding cysteine-rich repeat of LDL receptor
+alters its binding specificity in a subject with familial hypercholesterolemia. J Biol Chem 261:13114-13120.
+Hobbs HH, Brown MS, Russell DW, Davignon J , Goldstein ]L
+(1987) Deletion in the gene for the LDL receptor in majority
+of French Canadians with familial hypercholesterolemia. N
+Engl J Med 317:734-737.
+Hobbs HH, Leitersdorf E, Goldstein JL, Brown MS, Russell DW
+(1988) Multiple crm-mutations in familial hypercholesterolemia: Evidence for 13 alleles, including four deletions. J Clin
+Invest 81:909-917.
+Hobbs HH, Leitersdorf E, Leffert C , Cryer DR, Brown MS, Goldstein JL (1989) Evidence for a dominant gene that suppresses
+hypercholesterolemia in a family with defective low density
+lipoprotein receptors. J Clin Invest 84:656-664.
+Hobbs HH, Russell DW, Brown MS, Goldstein JL (1990) The
+LDL receptor locus and familial hypercholesterolemia: Mutational analysis of a membrane protein. Annu Rev Genet 24:
+133-170.
+
+Horsthemke B, Beisiegel U, Dunning A, Havinga JR, Williamson
+R, Humphries S (1987a) Unequal crossing-over between two
+Alu-repetitive DNA sequences in the low-density-lipoproteinreceptor gene. A possible mechanism for the defect in a patient
+with familial hypercholesterolaemia. Eur J Biochem 164:7781.
+Horsthemke B, Dunning A, Humphries S (1987b). Identification
+of deletions in the human low density lipoprotein receptor
+gene. J Med Genet 24:144-147.
+Hu X, Ray PN, Worton RG (1991) Mechanisms of tandem duplication in the Duchenne muscular dystrophy gene include
+both homologous and nonhomologous intrachromosomal recombination. EMBO J 10:2471-2477.
+Hwu HR, Roberts JW, Davidson EH, Britten RJ (1986) Insertion
+and/or deletion of many repeated DNA sequences in human
+and higher ape evolution. Proc Natl Acad Sci USA 83:38753879.
+Jelinek WR, Schmid C W (1982) Repetitive sequences in eukaryotic DNA and their expression. Annu Rev Biochem 51:813844.
+Kajinami K, Mabuchi H, Itoh H , Michishita I, Takeda M, Wakasugi T, Koizumi J, Takeda R (1988). New variant of low density lipoprotein receptor gene FH-Tonami. Arteriosclerosis 8:
+187-192.
+Kajinami K, Mabuchi H, lnazu A, Fujita H , Koizumi J, Takeda R,
+Matsue T, Kibata M (1990). Novel gene mutations at the low
+density lipoprotein receptor locus: FH-Kanazawa and FHOkayama. J Intern Med 227:247-251.
+Kajinami K, Fujita H , Koizumi J, Mabuchi H, Takeda R, Ohta M
+(1991) Genetically determined mild type of familial hypercholesterolemia including normocholesterolemic patients: FH-Toonami-2. Circulation 80 (Suppl.):ll-278.
+Kelley MR, Kidd S, Deutsch WA, Young MW (1987) Mutations
+altering the structure of epidermal growth factor-like coding at
+the drosophila notch locus. Cell 51:539-548.
+King-Undenvood L, Gudnason V, Humphries S, Seed M, Patel D,
+Knight B, Soutar A (1991) Identification of the 664 proline to
+leucine mutation in the low density lipoprotein receptor in four
+unrelated patients with familial hypercholesterolemia in the
+UK. Clin Genet 40:17-28.
+Knight BL, Gavigan SJP Soutar AK, Patel DD (1989) Defective
+processing and binding of low-density lipoprotein receptors in
+fibroblasts from a familial hypercholesterolaemic subject. Eur J
+Biochem 179:693-698.
+Koivisto PVI, Koivisto U-M, Miettinen TA, Kontula K (1992a)
+Diagnosis of heterozygous familial hypercholesterolemia. DNA
+analysis complements clinical examination and analysis of serum lipid levels. Arterio Thromb 12:584-592.
+Koivisto U-M, Turtola H, Aalto-Setala K, Top B, Frants RR,
+Kovanen PT, Syvanen A-C, Kontula K (1992b) The familial
+hypercholesterolemia (FHf-north Karelia mutation of the low
+density lipoprotein receptor gene deletes seven nucleotides of
+exon 6 and is a common cause of FH in Finland. J Clin Invest
+90:2 19-228.
+Kornfeld S (1992) Structure and function of the mannose 6-phosphate/insulinlike growth factor II receptors. Annu Rev Biochem 61:307-330.
+Kotze MJ, Langenhoven E, Warnich L, Du Plessis L, Marx MP,
+Oosthuizen CJJ, Retief AE (1989) The identification of two
+low-density lipoprotein receptor gene mutations in South African familial hypercholesterolemia. S Afr Med J 76:399-401.
+Kotze MJ, Langenhoven E, Warnich L, Du Plessis L, Retief AE
+(1991) The molecular basis and diagnosis of familial hypercholesterolemia in South African Afrikaners. Ann Hum Genet
+55:115-121.
+Kounnas MZ, Morris RE, Thompson MR, FitzGerald DJ, Strick-
+
+LDL RECEPTOR MUTATIONS
+land DK, Saelinger CB (1992) f i e a,-macroglobulin receptor/
+low density lipoprotein receptor-related protein binds and internalizes Pseudomanas exotoxin A. J Biol Chem 267:1242012423.
+Kristensen T, Moestrup SK, Gliemann J, Bendtsen L, Sand 0,
+Sottrup-Jensen L (1990) Evidence that the newly cloned lowdensity-lipoprotein receptor related protein (LRP) is the a2macroglobulin receptor. FEBS Lett 276:151-155.
+Landsberger D, Meiner V, Reshef A, Levy Y, van der Westhuyzen
+DR, Coetzee G A , and Leitersdorf E (1992) A nonsense mutation in the LDL receptor gene leads to familial hypercholesterolemia in the Druze Sect. Am J Hum Genet 50:427-433.
+Langlois S,Kastelein JJP, Hayden MR (1988) Characterization of
+six partial deletions in the low-density-lipoprotein (LDL) receptor gene causing familial hypercholesterolemia (FH). Am J
+Hum Genet 43:60-68.
+Lee J-S (1991) Laboratory Methods: Alternative dideoxy sequencing of double-stranded DNA by cyclic reactions using Taq polymerase. DNA Cell Biol 10:67-73.
+Lehrman MA, Goldstein JL, Brown MS, Russell DW, Schneider
+WJ (1985a) Internalization-defective LDL receptors produced
+by genes with nonsense and frameshift mutations that truncate
+the cytoplasmic domain. Cell 41:735-743.
+Lehrman MA, Schneider WJ. Siidhof TC, Brown MS, Goldstein
+JL, Russell DW (1985b) Mutation in LDL receptor: Ah-Alu
+recombination deletes exons encoding transmembrane and cytoplasmic domains. Science 227: 140-146.
+Lehrman MA, Russell DW, Goldstein JL, Brown MS (1986)
+Exon-Ah recombination deletes 5 kilobases from low density
+lipoprotein receptor gene, producing null phenotype in familial
+hypercholesterolemia. Proc Natl Acad Sci USA 83:36793683.
+Lehrman MA, Goldstein JL, Russell DW, Brown MS (1987a)
+Duplication of seven exons in LDL receptor gene caused by
+Alu-Alu recombination in a subject with familial hypercholesterolemia. Cell 48:827-835.
+Lehrman MA, Russell DW, Goldstein JL, Brown MS (1987b)
+Alu-Ah recombination deletes splice acceptor sites and produces secreted LDL receptor in a subject with familial hypercholesterolemia. J Biol Chem 262:3354-3361.
+Lehrman MA, Schneider WJ, Brown MS, Davis C G , Elhammer
+)
+Lebanese allele at
+A , Russell DW, Goldstein JL ( 1 9 8 7 ~The
+the LDL receptor locus: Nonsense mutation produces truncated
+receptor that is retained in endoplasmic reticulum. J Biol
+Chem 262:401-410.
+Leitersdorf E, Hobbs HH, Fourie AM, Jacobs M, van der Westhuyzen DR, Coetzee G A (1988) Deletion in the first cysteinerich repeat of low density lipoprotein receptor impairs its transport but not lipoprotein binding in fibroblasts from a subject
+with familial hypercholesterolemia. Proc Natl Acad Sci USA
+85:7912-7916.
+Leitersdorf E, Chakravarti A, Hobbs HH (1989a) Polymorphic
+DNA haplotypes at the LDL receptor locus. Am J Hum Genet
+44:409-42 1.
+Leitersdorf E, van der Westhuyzen DR, Coetzee GA, Hobbs HH
+(1989b) Two common low density lipoprotein receptor gene
+mutations cause familial hypercholesterolemia in Afrikaners. J
+Clin Invest 84:954-961.
+Leitersdorf E, Tobin EJ, Davignon J, Hobbs HH (1990) Common
+low-density lipoprotein receptor mutations in the French Canadian population. J Clin Invest 85:1014-1023.
+Leitersdorf E, Reshef A, Meiner V, Dann EJ, Beige1 Y, van Roggen
+FG, van der Westhuyzen DR, Coetzee GA (1992) A missense
+mutation in the low density lipoprotein receptor gene causes
+familial hypercholesterolemia in Sephardic Jews. Hum Genet,
+in press.
+Lelli N, Ghisellini M, Calandra S,Gaddi A, Ciarrocchi A , Co-
+
+465
+
+viello DA, Bertolini S (1991a) Duplication of exons 13, 14,
+and 15 of the LDL-receptor gene in a patient with heterozygous
+familial hypercholesterolemia. Hum Genet 86:359-362 (Abstract).
+Lelli N, Ghisellini M, Gualdi R, Tiozzo R, Calandra S,Gaddi A,
+Ciarrocchi A, Arca M, Fazio S, Coviello DA, Bertolini S
+(1991b) Characterization of three mutations of the low density
+lipoprotein receptor gene in Italian patients with familial hypercholesterolemia. Arterio Thromb 11:234-243.
+Loux N , Benlian P, Pastier D, Boileau C, Cambou JP, Monnier L,
+Percheron C , Junien C (1991) Recurrent mutation at aa 792 in
+the LDL receptor gene in a French patient. Hum Genet 87:
+373-3 75.
+Ma Y, Betard C, Roy M, Davignon J , Kessling AM (1989) Identification of a second “French Canadian” LDL receptor gene
+deletion and development of a rapid method to detect both
+deletions. Clin Genet 36:219-228.
+Mahley RW, Innerarity TL, Weisgraber KH, Rall SC Jr, Hui DY,
+Lalazar A, Boyles JK, Taylor JM, Levy-Wilson B (1986) Cellular and molecular biology of lipoprotein metabolism: Characterization of lipoprotein receptor-ligand interactions. Cold
+Spring Harbor Symp 51:821-827.
+Mehta KD, Chen W-J, Goldstein JL, Brown MS (1991) The low
+density lipoprotein receptor in Xenopus laevis: I. Five domains
+that resemble the human receptor. J Biol Chem 266:1040610414.
+Meiner V, Landsberger D, Berkman N, Reshef A, Segal P, Seftel
+HC, van der Westhuyzen DR, Jeenah MS, Coetzee G A , Leitersdorf E (1991) A common Lithuanian mutation causing
+familial hypercholesterolemia in Ashkenazi Jews. Am J Hum
+Genet 49443-449.
+Miyake Y, Tajima S, Funahashi T, Yamamoto A (1989) Analysis
+of a recycling-impaired mutant of low density lipoprotein receptor in familial hypercholesterolemia. J Biol‘ Chem 264:
+16584-16590.
+Moorjani S,Roy M, Gagne C , Davignon J, Brun D, Toussaint M,
+Lambert M, Campeau L, Blaichman S,Lupien P (1989) Homozygous familial hypercholesterolemia among French Canadians in Quebec Province. Arteriosclerosis 9:211-216.
+Mullis KB, Faloona FA (1987) Specific synthesis of DNA in vitro
+via a polymerase-catalyzed chain reaction. Methods Enzymol
+155:335-350.
+Neote K, McInnes B, Mahuran DJ, Gravel RA (1990) Structure
+and distribution of an Alu-type deletion mutation in Sandhoff
+disease. J Clin Invest 86:1524-1531.
+Nora JJ, Lortscher RM, Spangler RD, Bilheimer DW (1985) 1.
+Familial hypercholesterolemia with “normal” cholesterol in obligate heterozygotes. Am J Med Genet 22:585-591.
+Orita M, lwahana H, Kanazawa H , Hayashi K, Sekiya T (1989a)
+Detection of polymorphisms of human DNA by gel electrophoresis as single-strand conformation polymorphisms. Proc
+Natl Acad Sci USA 86:2766-2770.
+Orita M, Suzuki Y, Sekiya T, Hayashi K (1989b) Rapid and sensitive detection of point mutations and DNA polymorphisms
+using the polymerase chain reaction. Genomics 5:874-879.
+Orth K, Madison EL, Gething M-J, Sambrook IF, Herz J (1992)
+Complexes of t-PA and its serpin inhibitor PAI-1 are internalized uza the LRP/ol,-macroglobulin receptor. Proc Natl Acad
+Sci USA 89:7422-7426.
+Raychowdhury R, Niles JL, McCluskey RT, Smith J A (1989) Autoimmune target in heymann nephritis is a glycoprotein with
+homology to the LDL receptor. Science 244:1163-1166.
+Rebay 1, Fleming RJ, Fehon RG, Cherbas L, Cherbas P, Artavanis-Tsakonas S (1991) Specific EGF repeats of Notch mediate interactions with Delta and Serrate: Implications for Notch
+as a multifunctional receptor. Cell 67:687-699.
+
+466
+
+HOBBS ET AL.
+
+Rudiger NS, Hansen PS, Jorgensen M, Faergeman 0, Bolund L,
+Gregersen N (1991a) Repetitive sequences involved in the
+recombination leading to deletion of exon 5 of the low-densitylipoprotein receptor gene in a patient with familial hypercholesterolemia. Eur J Biochem 198:107-111.
+Rudiger NS, Heinsvig EM, Hansen FA, Faergeman 0, Bolund L,
+Gregersen N (1991b) DNA deletions in the low density lipoprotein (LDL) receptor gene in Danish families with familial
+hypercholesterolemia. Clin Genet 39:45 1-462.
+Russell DW, Lehrman MA, Yamamoto T, Davis CG, Hobbs HH,
+Brown MS, Goldstein JL (1987) The LDL receptor in familial
+hypercholesterolemia: Use of human mutations to dissect a
+membrane protein. Cold Spring Harbor Symp Quant Biol 5 1:
+811-819.
+Russell DW, Brown MS, Goldstein JL (1989) Different combinations of cysteine-rich repeats mediate binding of low density
+lipoprotein receptor to two different proteins. J Biol Chem
+264:21682-21688.
+Schneider WJ, Brown MS, Goldstein JL (1983) Kinetic defects in
+the processing of the LDL receptor in fibroblasts from WHHL
+rabbits and a family with familial hypercholesterolemia. Mol
+Biol Med 1:353-367.
+Seftel HC, Baker SG, Jenkins T, Mendelsohn D (1989) Prevalence of familial hypercholesterolemia in Johannesburg Jews.
+Am J Med Genet 34:545-547.
+Slack J (1979) Inheritance of familial hypercholesterolemia. Atheroscler Rev 5:35-66.
+Smith JR, Osborne TF, Goldstein JL, Brown MS (1990) Identification of nucleotides responsible for enhancer activity of sterol
+regulatory element in low density lipoprotein receptor gene. J
+Biol Chem 265:2306-2310.
+Soutar AK, Knight BL, Patel DD (1989) Identification of a point
+mutation in growth factor repeat C of the low density lipoprotein-receptor gene in a patient with homozygous familial hypercholesterolemia that affects ligand binding and intracellular
+movement of receptors. Proc Natl Acad Sci USA 86:41664170.
+
+Taylor R, Bryant J , Gudnason V, Sigurdsson G, Humphries S
+(1989) A study of familial hypercholesterolemia in Iceland using RFLPs. J Med Genet 26:494-498.
+Top B, Koeleman BPC, Leuven JAG, Havekes LM, Frants RR
+(1990) Rearrangements in the LDL receptor gene in Dutch
+familial hypercholesterolemic patients. Presence of a common
+4 kb deletion. Atherosclerosis 83:127-136.
+Trecartin RF, Liebhaber SA, Chang JC, Furbetta M, Angius A,
+Cao A (1981) p” Thalassernia in Sardinia is caused by a nonsense mutation. J Clin Invest 68:1012-1017.
+Uauy R, Vega GL, Grundy SM (1991) Coinheritance of two mild
+defects in low density dipoprotein receptor function produces
+severe hypercholesterolemia. J Clin Endocrinol Metab 72:179187.
+van der Westhuyzen DR, Coetzee GA, Demasius IPC, Harley EH,
+Gevers W, Baker SG, Seftel H C (1984). Low density lipoprotein receptor mutations in South African homozygous familial
+hypercholesterolemic patients. Arteriosclerosis 4:238-247.
+van der Westhuyzen DR, Stein ML, Henderson HE, Marais AD,
+Fourie AM, Coetzee G A (1991) Deletion of two growth-factor
+repeats from the low-density-lipoprotein receptor accelerates
+its degradation. Biochem J 278:677-682.
+van Roggen FG, van der Westhuyzen DR, Marais AD, Gevers W,
+Coetzee G A (1991) Low density lipoprotein receptor founder
+mutations in Afrikaner familial hypercholesterolaernic patients: a comparison of two geographical area. Hum Genet
+88:204-208.
+van Wingerden JJ (1981) Primary familial hypercholesterolemia in
+a South African Black. S Afr Med J 60:554-556.
+Vaux D (1992) The structure of an endocytosis signal. Trends Cell
+Biol 2:189-192.
+Vega GL, Hobbs HH, Grundy SM (1991) Low density lipoprotein
+kinetics in a family having defective low density lipoprotein
+receptors in which hypercholesterolemia is suppressed. Arterioscler Thrornb 11:578-585.
+
+Stacpoole PW, Grundy SM, Swift LL, Greene HL, Slonim AE,
+Burr IM (1981) Elevated cholesterol and bile acid synthesis in
+an adult patient with homozygous familial hypercholesterolemia. J Clin Invest 68:1166-1171.
+
+Webb JC, Sun X-M, Patel DD, McCarthy SN, Knight BL, Soutar
+AK (1992) Characterization of two new point mutations in the
+low density lipoprotein receptor genes of an English patient
+with homozygous familial hypercholesterolemia. J Lipid Res
+33:689-698.
+
+Strickland DK, Ashcom JD, Williams S,Burgess WH, Migliorini
+M, Argraves WS (1990) Sequence identity between the a 2 macroglobulin receptor and low density lipoprotein receptorrelated protein suggests that this molecule is a multifunctional
+receptor. J Biol Chem 265: 17401-1 7404.
+
+Willnow TF, Goldstein JL, Orth K, Brown MS, Herz J (1992) Low
+density lipoprotein receptor-related protein (LRP) and gp330
+bind similar ligands, including plasminogen activator/inhibitor
+complexes and lactoferrin, an inhibitor of chylomicron remnant clearance. J Biol Chem 267:26172-26180.
+
+Sudhof TC, Goldstein JL, Brown MS, Russell DW (1985) The
+LDL receptor gene: A mosaic of exons shared with different
+proteins. Science 228:815-822.
+
+Yamakawa K, Takada K, Tanagi H, Tsuchiya S, Kawai K, Nakagawa S, Kajujama G , Hamaguchi H (1989) Three novel partial
+deletions of the low-density lipoprotein (LDL) receptor gene in
+familial hypercholesterolemia. Hum Genet 82:317-321.
+
+Sun X-M, Webb JC, Gudnason V, Humphries S, Seed M,
+Thompson GR, Knight BL, Soutar AK (1992) Characterization of deletions in the LDL receptor gene in patients with
+familial hypercholesterolemia in the United Kingdom. Arterioscler Thromb 12:762-770.
+
+Yamamoto T, Davis C G , Brown MS, Schneider WJ, Casey ML,
+Goldstein JL, Russell DW (1984) The human LDL receptor: A
+cysteine-rich protein with multiple Alu sequences in its
+mRNA. Cell 39:27-38.
+
+Takahashi S, Kawarabayasi Y, Nakai T, Sakai J , Yamamoto T
+(1992) The rabbit very low density lipoprotein receptor: A low
+density lipoprotein receptor-like protein with distinct ligand
+specificity. Proc Natl Acad Sci USA 89:9252-9256.
+
+Yamamoto T, Bishop RW, Brown MS, Goldstein JL, Russell DW
+(1986) Deletion in cysteine-rich region of LDL receptor impedes transport to cell surface in WHHL rabbit. Science 232:
+1230-1237.
+
+

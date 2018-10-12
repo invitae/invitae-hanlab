@@ -21,7 +21,7 @@ $ test_index.sh
 
 ## Bag of Words (BoW)
 
-Note: Only codes are included. Data files are not.
+Note: Codes and a sample dataset are included. The original data files are not. The sample dataset was generated from the original dataset with the script `make_data_sample.py`.
 
 Steps:
 

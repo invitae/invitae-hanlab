@@ -1,0 +1,1165 @@
+Molecular Characterization of Antithrombin
+Variants Using Polymerase Chain Reaction
+Identification of the ATIII Charleville
+
+as an Ala 384 Pro
+
+Ill
+
+(ATIII)
+
+mutation
+
+Pascale Molho-Sabatier, Martine Aiach,* Isabelle Gaillard, Jean-Noel Fiessinger,t
+Anne-Marie Fischer,9 Gilliane Chadeuf,* and Eric Clauser
+Institut National de la Sante et de la Recherche Medicale, Unit 36, 75005 Paris, *Laboratoire d'HImostase and tCentre de Recherches
+Claude Bernard sur les Maladies Vasculaires Periphe'riques, H6pital Broussais, 75014 Paris;
+and §Laboratoire d'Hematologie, Centre hospitalo-universitaire Necker-Enfants Malades, 75006 Paris
+
+Abstract
+The genes of seven structural mutants of antithrombin III
+(ATIII), presenting either defective serine protease reactivity
+or abnormal heparin binding, were analyzed. The polymerase
+chain reaction (PCR) was used to amplify the corresponding
+gene exon and the mutation was identified by either dot blot
+analysis using a battery of allele-specific oligonucleotide
+probes or sequencing.
+Variants Paris and Paris 2 were identified as Arg 47 Cys
+mutations, and Clichy, Clichy 2, and Franconville were found
+to be Pro 41 Leu mutations. All five are heparin binding-site
+variants. ATIII Avranches is an Arg 393 His mutation and
+ATIII Charleville is an Ala 384 Pro mutation. These two mutations impair the reactive site of the molecule.
+ATIII Charleville is a new mutation of the reactive center,
+as predicted by previous biochemical data. The position of this
+new mutation, together with the other previously described
+mutations of the reactive center, sheds light on the molecular
+function of this site in inhibiting thrombin.
+Finally, genomic amplification by PCR is a powerful technique for the fast identification of antithrombin III mutations
+and their homozygous/heterozygous status, and should be
+useful for predicting thrombotic risk.
+
+Introduction
+Qualitatively deficient antithrombin III (ATIII),' a circulating
+glycoprotein that plays a major role in the physiological inhibition of blood coagulation, is a classical but rare cause of thrombosis.
+
+Identification of the mutation responsible for this deficiency is important for at least two major reasons: (a) to demonstrate a correlation between clinical events, generally recurrent thromboembolisms, and a particular molecular defect of
+antithrombin III; (b) to provide a better understanding of the
+Address reprint requests to Dr. Eric Clauser, INSERM U36, 17, rue du
+Fer-a-moulin, 75005 Paris, France.
+Received for publication 30 March 1989 and in revised form 15
+June 1989.
+1. Abbreviations used in this paper: ASO, allele-specific oligonucleotide; ATIII, antithrombin III; DVT, deep venous thrombosis; WT,
+wild-type.
+
+J. Clin. Invest.
+©) The American Society for Clinical Investigation, Inc.
+
+0021-9738/89/10/1236/07 $2.00
+Volume 84, October 1989, 1236-1242
+1236
+
+Molho-Sabatier et al.
+
+structural features responsible for the function of the protein's
+heparin binding site located near
+the NH2 terminus (1), which interacts with heparin to modify
+the affinity of antithrombin for its protease (2), and the
+COOH-terminal reactive site, which forms a covalent complex
+with thrombin after cleavage of the Arg 393-Ser 394 bond (3).
+Identification of these mutations was, until recently, quite
+difficult. But the cloning and sequencing of the ATIII cDNA
+and gene (4-7), together with rapid improvements in the techniques of molecular biology (enzymatic amplification of genomic DNA plus dot-blot analysis with specific oligonucleotide
+probes) now allow direct investigation of ATIII gene abnormalities.
+This report describes the diagnosis of the mutation in seven
+families presenting with a qualitative antithrombin deficit.
+Analysis of these patients provides new insights into the structure and the function of ATIII and the resulting data give a
+clear indication of the thrombotic risk associated with each
+mutation.
+
+two functional domains: the
+
+Methods
+Patients
+Five ATIII variants, referred to as heparin binding-site variants (HBS
+variants), were defined by their low antiprotease activity (< 50%) in the
+presence but not the absence of heparin and normal immunoreactive
+ATIII. The propositi of ATIII Paris (8) and Paris 2 (9) presented with
+severe thrombotic complication, but all the other family members
+having the protein abnormality were asymptomatic. None of the three
+other cases had thrombosis. The Clichy abnormality was detected in a
+24-yr-old woman presenting with a thoracic outlet syndrome (10). The
+Franconville variant was diagnosed in a 25-yr-old woman who presented with a retroplacental hemorrhage, which led to fetal death in the
+7th mo of pregnancy. No relationship could be established between
+this clinical event and the defective ATIII. Her mother and two sisters
+had the same protein abnormality but no thrombotic history; one
+brother was unaffected. The Clichy 2 variant was discovered fortuitously in a 25-yr-old woman before she started oral contraception. She
+had no personal or familial history of thrombosis. Three members of
+the ATIII Alger family (11) were also tested, and used as positive
+controls. One was homozygous, and the other two were heterozygous,
+for the Arg 47 Cys mutation. The incidence ofdeep venous thrombosis
+(DVT) in the heparin binding-site variants of our series, together with
+those in the literature, is shown in Table I.
+Two variants, referred to as reactive-site variants, were also studied.
+They are defined by a low (. 50%) antiprotease activity in both the
+presence and absence of heparin. The clinical and biological features of
+these two cases have been described ( 12, 13).
+
+Materials
+Enzymes. T4 polynucleotide kinase, T4 DNA ligase, and the restriction enzyme Sma I were purchased from New England Biolabs (Bev-
+
+Table . Incidence ofDVT in HBS Variants
+Variant
+
+No. of abnormal
+subjects in the family
+
+Mutation
+
+Basel (37)
+
+1
+
+Clichy (IO)
+
+1
+1
+4
+
+Clichy 2*
+
+Pro 41 Leu
+
+Franconville*
+
+Paris (8)
+Paris 2(9)
+Tours (38, 39)
+Toyama (21, 40)
+
+Heterozygous
+
+0
+0
+0
+0
+
+Heterozygous
+
+1
+
+Homozygous
+Heterozygous
+Homozygous
+Heterozygous
+
+0
+1
+0
+1
+0
+
+2
+2 Heterozygous
+2 J
+
+0
+0
+1t
+
+7
+
+Arg 47 Cys
+
+2
+9
+1
+6
+
+Alger (20)
+
+1
+
+9
+
+Rouenl(41)
+Rouen II(25)
+Rouen III (42)
+
+Arg47 His
+Arg 47 Ser
+Ile 7 Asn
+
+No. of
+subjects
+with DVT
+
+1
+
+* Unpublished.
+tDVT occurred during an episode of heparin-induced thrombocytopenia.
+
+Reference numbers are in parentheses.
+
+erly, MA). Klenow fragment of E. coli DNA polymerase I was from
+Boehringer Mannheim GmBH (Mannheim, FRG). Thermus aquaticus polymerase was from Cambio (Cambridge, UK).
+Deoxynucleotides. Deoxyadenosine triphosphate (dATP), deoxycytosine triphosphate (dCTP), deoxythymidine triphosphate (dTTP),
+and deoxyguanosine triphosphate (dGTP) were purchased from Pharmacia Fine Chemicals (Uppsala, Sweden).
+
+Experimental protocols
+Oligonucleotides were synthesized on a gene assembler (Pharmacia
+Fine Chemicals) using the fl-cyanoethyl phosphoramidite method and
+purified on polyacrylamide gels. The sequences of all the oligonucleotides are summarized in Table II. The sequences of the allele-specific
+oligonucleotide (ASO) probes were designed according to the published mutations of different ATIII variants. When the mutation had
+been determined by protein sequencing, the codon presenting a single
+nucleotide difference from the wild type sequence was selected. These
+probes were 5' end-labeled with [32P] -yATP according to Maxam and
+Gilbert (14) with a specific activity of 3-4 ACi pmol-'.
+Preparation of DNA samples. Peripheral blood samples from the
+eight patients having qualitative ATIII deficiencies and their families
+were collected over EDTA. The leucocytes were isolated and their
+DNA extracted. This DNA was purified by the method of Bell et al.
+(15) with minor modifications: DNA was precipitated with isopropanol, washed three times with 70% ethanol, and dried. It was dissolved over several days at 4°C in 1 mM Tris HCI, 0.1 mM EDTA and
+treated with RNase (100
+Ig/mI) for 3 h, and dialyzed against the same
+buffer for 24 h at 4°C.
+Enzymatic amplification of specific genomic DNA sequences. Genomic amplification was performed essentially according to the
+method of Saiki et al. (16). The amplification was performed with
+either the Klenow fragment of Escherichia coli DNA polymerase I
+(first results obtained with dot-blot) or the Taq polymerase Cambio
+(for subcloning). Target sequences were amplified in the amplification
+buffer (10 mM Tris-HCI [pH 7.6], 10 mM MgCI2, 50 mM NaCI) (100
+,gl final volume) containing 1 Ag of genomic DNA, 1.5 mM each of
+dATP, dCTP, dGTP, and dTTP, and 100 pmol (1 MM) of each extension primer. The extension primers (Table II) were PSIB and PS2B for
+exon II, coding for the heparin binding site, and PSI IC and PS12 for
+-
+
+exon VI, coding for the reactive site. Samples were heated at 950C for 7
+min, microfuged for 10 s, and incubated for 2 min at 550C for Taq
+polymerase or 370C for Klenow; 2 U of enzyme (Klenow or Taq) were
+then added to each sample and the extension step was carried out at
+70°C (Taq) or 50°C (Klenow) for 3 min. A total of 25 cycles were
+performed, with addition of either 1 U of Klenow at every cycle, or 2 U
+of Taq polymerase at rounds 1 and 12.
+Quality control of the amplified material was performed by electrophoresis on 3% agarose gel and Southern blot hybridization (17) with
+specific ASO probes (PS3 for amplified exon II and PS9 for amplified
+exon VI).
+Dot-blot analysis. A 10-Al aliquot of each amplified sample was
+denatured with 0.4 N sodium hydroxide and 25 mM EDTA in a final
+volume of 200 M,l heated for 2 min at 950C, and cooled on ice. Duplicate 100-Ml aliquots of each sample were placed in the wells of hybridot manifold (Bethesda Research Laboratories, Bethesda, MD) containing a nylon membrane (Biotrace RP, Gelman Sciences, Inc., Ann
+Arbor, MI). The samples passed through the filter under vacuum, and
+the filter was rinsed quickly in 2X SSPE (I X SSPE = 0.18 M NaCl, 10
+mM NaH2PO4, I mM EDTA, pH 7.4) and baked for 2 h at +80°C.
+Prehybridization (30 min) and hybridization with the labeled ASO
+probe (1 h) were carried out in plastic sealing bags containing 5X SSPE,
+5X Denhardt's and 0.5% SDS (solution A), between 42 and 50°C,
+depending on the melting temperature of the DNA duplex (Tm) of each
+ASO probe.
+After hybridization, filters were rinsed twice with 6X SSPE, 0.1%
+SDS (solution 1) at room temperature, washed 10 min in 2X SSPE,
+0.1% SDS (solution 2) at a temperature determined by the Tm of the
+probe, and then exposed to x-ray film for 1-2 h at -80°C with one
+intensifying screen (Philips Electronic Instruments, Mahwah, NJ).
+Subcloning and sequencing. 50 ,ul of amplified genomic DNA was 5'
+end-phosphorylated with I Ml 10 mM ATP using T4 polynucleotide
+kinase in 60 Ml (final volume) for I h at 37°C, purified on a Nen-Sorb
+20 column (New England Nuclear Research Products, DuPont Co.,
+Wilmington, DE), lyophilized, and redissolved in 35 ,l distilled water.
+Blunt-end ligation of 5 Ml of the phosphorylated samples with 50 ng of
+bacteriophage M 13 mp 18 digested with Sma I was performed for 16 h
+at 1 4°C. After transformation, recombinant phages were screened with
+two oligonucleotide probes, which were 5' end-labeled with [32P]dATP.
+The probes were PS3 and PSI 6 for the heparin binding site, and PS9
+and PS13 for the reactive site (Table II).
+Prehybridization and hybridization were carried out in solution A
+at 42°C for 24 h. The filters were then washed at 50°C for 30 min in
+solution 1 and 30 min in solution 2. Single-stranded templates were
+prepared from positive recombinant bacteriophages as previously described ( 18).
+These single-stranded templates were sequenced by the dideoxynucleotide chain termination method of Sanger (19), as modified for
+use with the sequenase kit (United States Biochemicals, Cleveland,
+OH) and 35S-dATP.
+
+Results
+Exons II and VI ofthe ATIII genes from the seven patients and
+one control were amplified and resolved as single bands that
+hybridized with their respective specific probes (data not
+
+shown).
+Identification of point mutations by dot-blot analysis. The
+amplified material was analyzed by dot-blot and hybridization
+with a series of ASO probes corresponding to either wild-type
+(WT) sequences (WT probes) or to mutated sequences (mutated probes). Fig. 1 shows the results for the HBS variants. All
+the samples, except the variant Alger a, hybridized at position
+47 with the WT probe (arginine 47). Four samples (Alger a,
+Alger b, Paris 1, Paris 2) also hybridized with the mutated
+probe (cysteine 47). Thus, the variant Alger a is homozygous
+for the mutation (CGT) Arg 47 Cys (TGT) and Alger b is
+Antithrombin III Variants
+
+1237
+
+Table II. Oligonucleotides
+ASO
+
+Extension primers
+
+Heparin binding site
+Coding strand
+
+8
+Cys
+GC
+
+5'
+
+Noncoding strand
+79
+80
+Ser
+Pro
+3'C AGT GGG
+
+9
+Thr
+ACA
+
+81
+Leu
+GAC
+
+10
+Ala
+GCC
+
+11
+12
+Lys Pro
+AAG CCG
+
+82
+83
+Ser
+Ile
+TCA TAG
+
+13
+14
+Arg Asp
+CGG GAC
+
+44
+45
+Thr Asn
+5' ACC AAC
+
+46
+47
+48
+49
+Trp
+Arg Arg Val
+P
+CGG CGT GTC TGG G
+PS4 5' ACC AAC CGG TGT GTC TGG G
+
+3'
+
+PS5 5' ACC AAC CGG CAT GTC TGG G
+PS6 5' ACC AAC CGG AGT GTC TGG G
+
+84
+
+Ser
+AGG T
+
+3' Wild-type
+
+3' Cys47
+3' His47
+
+3' Ser47
+
+5'
+
+PS7 5'
+PS8 5'
+
+38
+39
+Gln Lys
+AG AAG
+
+40
+41
+42
+Ile Pro Glu
+ATC CCG GAG
+
+AG AAG
+
+ATC CTG GAG
+
+43 44
+Ala Thr
+GCC AC 3' Wild-type
+GCC AC 3' Leu41
+
+Active site
+
+Coding strand
+
+IPS1lC|
+
+5'
+
+ivs
+CTGCAG
+
+375
+Val
+GTA
+
+390
+Ile
+
+376 377 378 379
+Asn Glu Glu Gly
+AAT GAA GAA GG
+
+3'
+
+PS4
+
+Noncoding strand
+422 423
+Phe
+Met
+3'G AAG TAC
+
+PS3
+
+425
+Gly Arg
+CCG TCT
+424
+
+426 427
+Val
+Ala
+CAT CGG
+
+T
+
+5' [3
+
+391
+Ala
+
+392
+Gly
+
+393
+Arg
+
+394
+Ser
+
+395 396
+Leu Asn
+
+5'
+
+CT GGC CGT TCG CTA AAC CC 3' Wild-type
+
+5'
+
+CT GGC CGT TTG CTA AAC CC 3' Leu394
+
+TT GCT GGC TGT TCG CTA AA 3'
+
+PSS5 5'
+PSS6 5'
+
+397
+Pro
+
+TT GCT GGC CAT TCG CTA AA 3'
+
+Cys 393
+His 393
+
+Screening probes (Noncoding strands)
+
+3'
+
+52
+Ser
+AGG
+
+3'
+
+385
+Ser
+CA
+
+57
+54
+55
+56
+53
+Ala Asn
+Ser Arg
+Lys
+TTC CGG TTA AGG GCG A
+
+386
+Thr
+TGG
+
+387
+388
+Ala
+Val
+CGA CAA
+
+389
+Val
+CAC
+
+390
+Ile
+TAA C
+
+5' [J
+
+5'
+
+The amino acid sequence is numbered according to reference 7. Oligonucleotides in the coding strand are written from the left to the right in codons. Oligonucleotides in the noncoding strand are written from the right to the left (anticodon) intervening sequence (ivs) or intron.
+
+heterozygous, as previously described (20). The two other variants (Paris 1 and Paris 2) are also heterozygous for the same
+
+mutation.
+All the samples gave a positive signal at position 41 with
+the WT probe (Pro). Three variants (Clichy, Clichy 2, and
+Franconville) also hybridized with the mutated probe (Leu),
+indicating that they are heterozygous for the mutation (CCG)
+Pro 41 Leu (CTG).
+Fig. 2 shows the dot-blot analysis of the amplified reactive
+site sequence. The three DNAs tested hybridized with the WT
+probe, but that of ATIII Avranches also hybridized with one of
+the mutated probes, identifying a point mutation of the cleavage site sequence, His 393-Ser 394 instead of Arg 393-Ser 394.
+None of the variants reacted with either the mutant leucine
+394 probe or the cysteine 393 probe (data not shown).
+The second active site variant (ATIII Charleville) thus was
+the only one for which the mutation could not be identified by
+dot blot using ASO to previously identified mutants.
+Sequencing ofamplified sequences. All the amplified DNAs
+were subcloned and sequenced to confirm the six mutations
+1238
+
+Molho-Sabatier et al.
+
+identified by dot-blot and to identify new mutations. The amplified region encompassing amino acids 15-78 was sequenced
+for the heparin binding site and the region encompassing
+amino acids 380-421 for the reactive site.
+The point mutation of ATIII Avranches ([CGT] Arg 393
+His [CAT]) was directly confirmed by sequencing, as were the
+mutation of (CCG) Pro 41 Leu (CTG) (ATIII Clichy 2 and
+Franconville) and the mutation (CGT) Arg 47 Cys (TGT)
+(ATIII Paris 1 and Paris 2). An example of sequencing of each
+mutation (Leu 41, Cys47 and His393) is shown in Fig. 3.
+Six single-stranded templates corresponding to the amplified DNA of ATIII Charleville were also sequenced. Two of
+them exhibited the same point mutation in position 384, GCA
+to CCA, leading to the substitution of alanine 384 for proline
+
+(Fig. 3 b).
+Discussion
+This study was designed to identify the molecular abnormality
+in a series of HBS variants and in two reactive-site variants,
+
+Arg47
+
+Cys47
+
+.
+
+*
+
+WILD TYPE
+
+Ser47
+
+His 47
+
+Pro41
+
+Leu4l
+
+0
+0
+
+ALGER a
+
+M UTATION
+
+ARG47-CYS HOMOZYGOUS
+
+ALGER b
+
+ARG47-CYS \
+*
+
+**
+_s
+
+PARIS 2
+
+*
+
+W
+
+*
+
+CLICHY
+
+FRANCONVILLE
+
+ARG47-CYS
+*
+
+PRO41-LEU
+PRO4 1-LEU
+
+HETEROZYGOUS
+
+ARG47- CYS
+
+PARIS
+
+O.
+
+CLICHY 2
+
+PRO41-LEU J
+
+.M:3 ":
+'-
+
+Figure 1. Analysis by dot blot of the amplified DNA from seven patients with heparin binding site abnormalities and one control DNA. (Left)
+Names of the different ATIII variants; (right) mutations. (Top) different ASOs are designed by the mutation that they represented. The samples
+were hybridized with either wild-type probes (Arg 47, Pro 41) or mutated probes (Cys 47, His 47, Ser 47, Leu 41). Heterozygous variants
+reacted with both the wild-type and one of the mutated probes.
+
+and thus provide a better understanding of the structure-function relationships of ATIII and the correlation between molecular mutations and thrombosis. Analysis of these molecular
+defects was greatly simplified by enzymatic amplification of
+genomic DNA for the molecular characterization of a series of
+seven ATIII variants. Enzymatic amplification was followed
+by dot-blot analysis with ASO probes and sequencing of the
+
+0)
+a:
+C',)
+
+0)
+
+w
+
+w
+
+cr.
+Ci)
+
+Ci)
+
+Cv,)
+0)
+CY)
+
+0
+
+0)
+CO,
+Ci)
+I
+
+WILD TYPE
+
+AVRANCHES
+
+0'
+.
+
+CHARLEVILLE
+Figure 2. Analysis by dot blot of the amplified DNA from two patients with reactive-site variants. (Left) Reactive-site ATIII variants.
+(Top) ASO corresponding to the different 393-394 sequences. The
+samples were hybridized with either the wild-type probe (Arg 393Ser 394) or mutated probes: His 393, Leu 394, or Cys 393 (not shown).
+
+amplified material. The use of ASO probes specific for a panel
+of mutations already listed in ATIII variants ensured rapid
+detection of these mutations in six out of the seven variants.
+The homozygous or heterozygous state can also readily be
+assessed by this method, which can now be used for routine
+examination. Sequencing of all the amplified samples was necessary to confirm the mutations detected by dot-blot and is
+especially useful for identifying new mutations, as demonstrated by the ATIII Charleville variant.
+Identification of the amino acid substitution responsible
+for these seven ATIII variants enabled us to reexamine several
+aspects of the structure of the two major functional domains of
+the ATIII protein (heparin binding site and serine protease
+reactive site) and the pathological impact of each mutation.
+The five HBS variants included two Arg 47 Cys mutations
+(CGT to TGT) and three Pro 41 Leu mutations (CCG to
+CTG). Dot-blot analysis indicated that all the patients were
+heterozygous for the gene abnormality. The two heterozygous
+patients with Arg 47 Cys mutations had a history of DVT,
+whereas the three patients with Pro 41 Leu mutation were
+
+asymptomatic.
+Mutations affecting the heparin binding site are usually
+associated with a low incidence of DVT. As shown in Table I,
+among 52 subjects with an HBS variant, only 5 had previously
+had a DVT, and 2 were homozygous. Our two patients with
+Arg 47 Cys mutations are heterozygous and both had a severe
+thrombotic history. Thus, although there is no definitive proof
+of an association between the type of mutation and the thrombotic tendency, this analysis does indicate that DVT is not
+present in subjects with heterozygous Pro 41 Leu mutation
+and that there is an increased risk of thrombosis with homozygous mutations and Arg 47 Cys mutation. However, the
+number of cases studied to date is limited and some heterozygous Arg 47 Cys subjects are asymptomatic (21).
+The presence of a free cysteine in the protein could be
+responsible for this increase in the thrombotic tendency, as it
+may form disulfide bonds with other plasma proteins that
+would interfere with binding of ATIII to the glycosaminoglycans of the vascular wall.
+The frequency of mutations involving the Pro 41 and Arg
+47 among the HBS variants is potentially significant for several
+Antithrombin III Variants
+
+1239
+
+G A T C
+
+a
+50
+
+50-
+
+L EU C TG
+GLU G AA
+
+VRP
+VAL
+AR3G
+ARiG
+45 -ASN
+TH R
+
+ALA
+GLU
+40
+
+PRO
+IL E
+
+TCG
+GTC
+CGT
+GGG
+AAC
+ACC
+GCC
+GAG
+CCG
+ATC
+
+50 -
+
+C YS T GT
+._1w,
+
+A
+
+_t"
+
+*
+
+45
+
+45 -
+
+-
+
+v"
+
+3_
+
+4
+i. Z_.
+40 ;-
+
+C
+
+G A T C
+
+G A T C
+
+..W,
+
+PRO
+ASN AAC
+395- LEtl C TA
+
+395
+
+-_.
+
+I LA_
+
+ARG CGT
+GLY
+ALA
+390- L E
+VAL
+
+LEU CTG
+40 -
+
+B
+
+G A T C
+c! cct c
+
+I
+
+:xtI
+
+A
+
+b
+
+G A T C
+
+G A T C
+
+HIS CAT
+
+GGC
+GCT
+ATT
+GTG
+
+.s
+
+395
+
+4Z
+
+'8^.*
+
+*; ....
+
+the dideoxynucleotide
+used in each sequencing
+reaction. Left of the nucleotide sequence autoradiography the follow-
+
+AN
+
+390 3 -90
+
+VA L GTT
+ALA GCT
+THR ACC
+
+3
+
+3853- SER AGT
+ALA GCA
+
+385
+
+ing are indicated from
+right to left: (i) the nu-
+
+_
+
+-
+
+PRO CCA
+
+ALA GCT
+
+D
+
+E
+
+First, these two amino acids are encoded by the
+codons CCG and CGT, both of which contain the CG dimer,
+which is a major site of methylation in human DNA. CG
+dimers might be mutation "hot spots" in the ATIII gene, as
+they are in the factor VIII gene (22). On the other hand, Arg 47
+and Pro 41 might be critically important for heparin binding to
+ATIII. Several proteins can bind heparin through ionic interactions. ATIII is the only one that differentiates between lowand high-affinity heparin. The latter has an irregular sequence
+corresponding to a pentasaccharide, which is critical for ATIII
+binding. There must be a unique sequence in ATIII corresponding to this pentasaccharide. Perhaps this sequence includes Arg 47 and Pro 41, whose mutations are involved in 7
+out of 12 families of HBS variants. However, a comparison of
+aminoacid sequences shows that Arg 47 is present in a homologous position in histidine-rich glycoprotein (23) and heparin
+cofactor 11 (24), two proteins that bind either low- or high-affinity heparin. ATIII models based on the three-dimensional
+structure of a,-antitrypsin indicate that the positively charged
+amino acids Arg 47, Lys 125, Arg 129, and Lys 133 are at the
+surface of the molecule and may be responsible for heparin
+binding through ionic interactions (1, 25). The fragment of
+ATIII, obtained by V8 protease digestion, which has the greatest affinity for high-affinity heparin, is 114-156; this fragment
+might represent part of the physiological heparin binding
+reasons.
+
+1240
+
+Molho-Sabatier et al.
+
+Figure 3. (a) Sequences
+of the heparin binding
+site. (A) Wild-type; (B)
+Arg 47 Cys mutation;
+(C) Pro 41 Leu mitation. (b) Sequences of
+the reactive center. (D)
+Wild-type; (E) Arg 393
+His mutation; and (F)
+Ala 384 Pro mutation.
+(Top) GATC indicates
+
+f
+
+cleotide sequence; (ii)
+the corresponding
+amino acid sequence;
+and (iii) the number of
+this amino acid sequence, according to
+the sequence published
+by Prochownik et al. (5).
+
+domain, whereas fragment 41-49 might be indirectly involved (26).
+The case of the reactive-site variants is very different, because the sequence involved in this function is much more
+defined and these variants are always associated with a high
+incidence of thrombosis, whatever the mutation site (27, 28).
+ATIII reactive-site variants are totally unable to inhibit
+thrombin. As with other protease inhibitors, ATIII first binds
+to the catalytic site of the serine-protease, e.g., the Arg 393-Ser
+394 bond of thrombin. Cleavage at this site allows the stoichiometric formation of a covalent inactive complex. This reactive
+site of antithrombin III is structurally supported by a loop of
+the protein that presents this sequence to the enzyme. Cleavage of ATIII potentially induces a conformational change in
+the protein, which switches from a native stressed form (S) to a
+more relaxed form (R) (29).
+It thus is easy to understand that substitutions at the cleavage site involving PI Arg (393) (30, 32) or P'1 Ser (394) (33)
+preclude inactivation of thrombin and other clotting protease,
+because the absence of cleavage makes the formation of the
+ATIII-thrombin irreversible complex impossible. One of the
+variants of our series, ATIII Avranches, was found to bear such
+a mutation (393 Arg to His), identical to those found in ATIII
+Sheffield (30) and ATIII Glasgow (32, 33). The latter also has a
+second biochemical defect: the variant was eluted from a hepa-
+
+rin-Sepharose column with NaCl concentrations higher than
+those required for normal ATIII. It was speculated that the P1
+residue was indirectly involved in heparin binding and that the
+replacement of Arg by His may result in a conformational
+change more favorable to heparin binding (31). However, we
+could not reproduce these results with the Avranches variant,
+which coeluted with normal ATIII from a heparin-Sepharose
+column (13). This apparent discrepancy, also observed for
+ATIII Sheffield (30), may be due to technical differences and is
+presently under further investigation. However, it could also
+arise if one of the variants had an additional mutation, because
+the proteins have not been completely sequenced.
+Antiprotease activity was also abolished by mutations located in the peptide sequences adjacent to the cleavage site.
+The Pro 407 Leu and Ala 382 Thr mutations observed in
+ATIII Utah and Hamilton (34, 35) are associated with a loss of
+antiprotease activity. These two amino acids are extremely
+conserved in the serpin family; thus the nature or the location
+(respectively in P14 and P12) of the substitution may modify the
+presentation or the structure of the loop, so that it can no
+longer react with the catalytic site of thrombin (Fig. 4). This
+view is supported by the fact that the two variants are not
+modified by thrombin and thus are probably not cleaved even
+though the cleavage site is intact.
+This interpretation makes analysis of the last reactive-site
+variant, ATIII Charleville, identified as a Ala 384 Pro mutation, even more interesting. This variant has a unique biochemical behavior and cannot inactivate thrombin, as described previously (13). Briefly, there is an apparent shift in
+molecular mass from 58 to 62 kD when ATIII Charleville is
+
+THROMBIN
+
+incubated with thrombin, whereas the migration of the native
+protein in SDS polyacrylamide gel remains normal.
+These results, together with the fact that this variant corresponds to a new mutation of an amino acid located in the loop
+but different from the cleavage site, indicate that ATIII
+Charleville belongs to a new class of reactive-site mutant.
+The biochemical data suggest that ATIII Charleville binds
+to and is cleaved by thrombin, since the in vitro interaction of
+
+the purified variant protein with thrombin increases the appar-
+
+ent molecular weight of the protein, probably by modifying the
+
+conformation of the molecule. Denaturing conditions demolecular weight, probably by releasing the cleaved
+fragment. Nevertheless, this ATIII does not form stable covalent ATIII-thrombin complexes, as a consequence of the mutation of the Ala 384 to Pro. It thus is possible to consider
+ATIII Charleville, not as an inhibitor of thrombin, but as a
+substrate for the enzyme.
+It is difficult to understand why this mutation is associated
+with such a functional modification. However, by analogy
+with the fact that ATIII is a substrate for elastase, which
+cleaves the loop of ATIII between PI and Pg, it may be that the
+new sequence, Pro-Ser-Thr (instead of Ala-Ser-Thr) competes
+with the regular sequence of the loop as a substrate for thrombin, and in this way prevents the variant ATIII being covalently linked to the enzyme. That the sequences of almost all
+thrombin substrates have a proline in position P2 (36) favors
+this explanation. Sequencing of the NH2 terminus of the
+thrombin-modified form of this variant protein could help to
+clarify this situation.
+In conclusion, ASO probes specific for all the mutations
+listed for ATIII variants can be used as a screening test allowing rapid detection of these mutations after enzymatic DNA
+amplification. Analysis of a large series of ATIII variants might
+lead to the discovery of a correlation between the site of mutation and the thrombotic risk. Sequencing is necessary to identify new mutations that contribute to the characterization of
+the reactive sites of ATIII. The new mutation in position 384,
+together with the previously reported mutations in position
+382 and 407 indicate that additional amino acids are critical
+for thrombin inhibition.
+crease the
+
+Acknowledgments
+We are indebted to Dr. C. Boyer-Neumann (H6pital Bicetre, Paris),
+Dr. 0. Chafa (H6pital Mustapha, Algiers, Algeria), Dr. M. H. Denninger (H6pital Beaujon, Paris), and Dr. M. Wolf (H6pital Bicetre,
+Paris), for providing blood from patients with qualitative or quantitative ATIII deficiencies. We thank Prof. P. Corvol for helpful discussion. We also thank Nicole Braure and Annie Boisquillon for their
+excellent secretarial assistance.
+Pascale Molho-Sabatier holds a "Coeur de Lyon" fellowship from
+the Credit Lyonnais Bank. We are indebted to Institut National de la
+Sante et de la Recherche Medicale (INSERM) for the constitution and
+the support of a clinical network (Reseau INSERM de Recherche en
+Sante Publique, 1986). Part of this work was also supported by a grant
+from the "Fonds d'Etudes et de Recherches du Corps Medical des
+Hopitaux de Paris".
+Figure 4. Schematic representation of the reactive site of ATIII.
+Arrow, cleavage site by thrombin. The amino acids 382, 384, and
+407 might belong to the reactive site as their substitution impairs the
+protease inhibition. The mutations described are Ala 382 Thr for
+ATIII Hamilton (35), Ala 384 Pro for ATIII Charleville (this work)
+and Pro 407 Leu for ATIII Utah (34).
+
+References
+1. Carrell, R. W., P. B. Christey, and D. R. Boswell. 1987. Serpins:
+antithrombin and other inhibitors of coagulation and fibrinolysis. Evidence from aminoacid sequences. Thromb. Haemostasis. 57:1-15.
+2. Rosenberg, R. D. 1975. Actions and interactions of antithrombin and heparin. N. Engl. J. Med. 292:146-151.
+3. Bjork, I., A. Danielsson, J. W. Fenton, and H. Jornvall. 1981.
+
+Antithrombin III Variants
+
+1241
+
+The site in human antithrombin for functional proteolytic cleavage by
+human thrombin. FEBS (Fed. Eur. Biochem. Soc.) Lett. 126:257-260.
+4. Bock, S. O., K. L. Wion, G. A. Vehar, and R. M. Lawn. 1982.
+Cloning and expression of the cDNA for human antithrombin III.
+Nucleic Acids Res. 10:8113-8125.
+5. Prochownik, E. V., A. F. Markham, and S. H. Orkin. 1983.
+Isolation of a cDNA clone for human antithrombin III. J. Biol. Chem.
+258:8389-8394.
+6. Prochownik, E. V., S. C. Bock, and S. H. Orkin. 1985. Intron
+structure of the human antithrombin III gene differs from that ofother
+members of the serine protease inhibitor superfamily. J. Biol. Chem.
+260:9608-9612.
+7. Chandra, T., R. Stackhouse, V. J. Kidd, and S. L. C. Woo. 1983.
+Isolation and sequence characterization of a cDNA clone of human
+antithrombin III. Proc. Natl. Acad. Sci. USA. 80:1845-1848.
+8. Wolf, M., C. Boyer, J. M. Lavergne, and M. J. Larrieu. 1982. A
+new familial variant of antithrombin III: "Antithrombin III Paris." Br.
+J. Haematol. 51:285-295.
+9. Fischer, A. M., S. Beguin, C. Stemnberg, and M. D. Dautzenberg.
+1987. Comparative effect of heparin and heparan sulphate on two
+abnormal antithrombin III type 3 variants. Br. J. Haematol. 66:213217.
+10. Aiach, M., D. Franfois, P. Priollet, L. Capron, M. Roncato, M.
+Alhenc-Gelas, and J. N. Fiessinger. 1987. An abnormal antithrombin
+III (ATIII) with low heparin affinity: ATIII Clichy. Br. J. Haematol.
+66:515-522.
+11. Fischer, A. M., P. Cornu, C. Stemnberg, F. Meriane, M. D.
+Dautzenberg, 0. Chafa, S. Beguin, and M. Desnos. 1986. Antithrombin III Alger: a new homozygous ATIII variant. Thromb. Haemostasis.
+55:218-221.
+12. Aiach, M., M. Nora, J. N. Fiessinger, M. Roncato, D. Francois,
+and M. Alhenc-Gelas. 1985. A functional abnormal antithrombin III
+(ATIII) deficiency: ATIII Charleville. Thromb. Res. 39:559-570.
+13. Aiach, M., M. Roncato, G. Chadeuf, P. Dezellus, L. Capron,
+and J. N. Fiessinger. 1988. Antithrombin III Avranches, a new variant
+with defective serine-protease inhibition. Comparison with ATIII
+Charleville. Thromb. Haemostasis. 60:94-96.
+14. Maxam, A. M., and W. Gilbert. 1980. Sequencing end-labeled
+DNA with base specific chemical cleavages. Methods Enzymol.
+65:499-560.
+15. Bell, G. I., J. H. Karam, and W. J. Rutter. 1981. Polymorphic
+DNA region adjacent to the 5' end of the human insulin gene. Proc.
+Natl. Acad. Sci. USA. 78:5759-5763.
+16. Saiki, R. K., D. H. Gelfand, S. Stoffel, S. J. Scharf, R. Higuchi,
+G. T. Horn, K. B. Mullis, and H. A. Erlich. 1988. Primer-directed
+enzymatic amplification of DNA with a thermostable DNA polymerase. Science (Wash. DC). 239:487-494.
+17. Southern, E. M. 1975. Detection of specific sequences among
+DNA fragments separated by gel electrophoresis. J. Mol. Biol.
+98:503-517.
+18. Messing, J., and J. Vieira. 1982. A new pair of M 13 vectors for
+selecting either DNA single strand or double-digest restriction fragments. Gene (Amst.). 19:269-276.
+19. Sanger, F., S. Nicklen, and A. R. Coulson. 1977. DNA sequencing with chain terminating inhibitors. Proc. Natl. Acad. Sci.
+USA. 74:5463-5467.
+20. Brunel, F., N. Duchange, A. M. Fischer, G. N. Cohen, and
+M. M. Zakin. 1987. Antithrombin III Alger: a new case of Arg47-Cyst
+mutation. Am. J. Hematol. 25:223-224.
+21. Sakuragawa, N., K. Takahashi, S-i. Kondo, and T. Koide.
+1983. Antithrombin III Toyama: A hereditary abnormal antithrombin
+III of a patient with recurrent phlebitis. Thromb. Res. 31:305-317.
+22. Youssoufian, H., H. H. Kazazian, D. G. Phillips, S. Aronis, G.
+Tsiftis, V. A. Brown, and S. E. Antonarakis. 1986. Recurrent mutations in haemophilia A give evidence for CpG mutations hotspots.
+Nature (Lond.). 324:380-382.
+23. Koide, K., D. Foster, and S. Odani. 1986. The heparin binding-site(s) of histidin-rich glycoprotein as suggested by sequence ho1242
+
+Molho-Sabatier et al.
+
+mology with antithrombin III. FEBS (Fed. Eur. Biochem. Soc.) Lett.
+194:242-244.
+24. Blinder, M. A., J. C. Marasa, C. H. Reynolds, L. L. Deaven, and
+D. M. Tollefsen. 1988. Heparin cofactor II: cDNA sequence, chromosome localization, restriction fragment length polymorphism, and expression in Escherichia Coli. Biochemistry. 27:752-759.
+25. Borg, J. Y., M. C. Owen, C. Soria, J. Soria, J. Caen, and R. W.
+Carrell. 1988. Arginine 47 is a prime heparin binding site in antithrombin. A new variant Rouen II, 47 Arg to Ser. J. Clin. Invest.
+81:1292-1296.
+26. Smith, J. W., and D. J. Knauer. 1987. A heparin-binding site in
+antithrombin III. Identification, purification and aminoacid sequence.
+J. Biol. Chem. 262:11964-11972.
+27. Finazzi, G., R. Caccia, and T. Barbui. 1987. Different prevalence of thromboembolism in the subtypes of congenital antithrombin
+III deficiency: review of 404 cases. Thromb. Haemostasis. 58:1094.
+28. Hultin, M. B., J. McKay, and U. Abilgaard. 1988. Antithrombin Oslo: Type lb classification of the first reported antithrombin
+deficient family with a review of hereditary antithrombin variants.
+Thromb. Haemotasis. 59:468-473.
+29. Carrell, R. W., and M. C. Owen. 1985. Plakalbumin, a1-antitrypsin, antithrombin and the mechanism of inflammatory thrombosis. Nature (Lond.). 317:730-732.
+30. Lane, D., H. Erdjument, A. Flynn, V. Di Marzo, M. Panico,
+H. R. Morris, M. Greaves, G. Dolan, and F. E. Preston. 1988. Antithrombin III Sheffield: aminoacid substitution at the reactive site
+(Arg 393 to His) causing thrombosis. Br. J. Haematol. 71:91-97.
+31. Erdjument, H., D. A. Lane, M. Panico, V. Dimarzo, and H. R.
+Morris. 1988. Single aminoacid substitutions in the reactive site of
+antithrombin leading to thrombosis. Congenital substitution of arginine 393 to cysteine in antithrombin Northwick Park and to histidine
+in antithrombin Glasgow. J. Biol. Chem. 263:5589-5593.
+32. Owen, M. C., C. H. Beresford, and R. W. Carrell. 1988. Antithrombin III Glasgow, 393 Arg to His: a P1 reactive site variant with
+increased heparin affinity but no thrombin inhibitory activity. FEBS
+(Fed. Eur. Biochem. Soc.) Lett. 231:317-320.
+33. Stephens, A. W., B. S. Thalley, and C. H. W. Hirs. 1987.
+Antithrombin III Denver, a reactive site variant. J. Biol. Chem.
+262:1044-1048.
+34. Bock, S. C., J. A. Marrinan, and E. Radziejewska. 1988. Antithrombin III Utah: Proline-407 to leucine mutation in a highly conserved region near the inhibitor reactive site. Biochemistry. 27:6171 6178.
+35. Devraj-Kizuk, R., D. H. K. Chui, E. V. Prochownik, C. J.
+Carter, F. A. Ofosu, and M. A. Blajchman. 1986. ATIII Hamilton: a
+gene with a point mutation (guanine to adenine) in codon 382 causing
+impaired serine protease reactivity. Blood. 72:1518-1523.
+36. Mann, K. G., and R. L. Lunblab. 1987. Biochemistry of
+thrombin In Hemostasis and Thrombosis. R. W. Colman, J. Hirsh,
+V. J. Marder, and E. W. Salzman, editors. J. B. Lippincott Co., Philadelphia, PA. 148-161.
+37. Chang, J. Y., and T. H. Tran. 1986. Antithrombin III Basel.
+Identification of a Pro-Leu substitution in a hereditary abnormal antithrombin with impaired heparin cofactor activity. J. Biol. Chem.
+261:1174-1176.
+38. Chasse, J. F., F. Esnard, J. D. Guitton, H. Mouray, F. Perigois,
+G. Fauconneau, and F. Gauthier. 1984. An abnormal antithrombin
+with no apparent affinity for heparin. Thromb. Res. 34:297-302.
+39. Duchange, N., J. F. Chasse, G. N. Cohen, and M. M. Zakin.
+1987. Molecular characterization of the antithrombin III Tours deficiency. Thromb. Res. 45:115-121.
+40. Koide, T., S. Odani, K. Takahashi, T. Ono, and N. Sakuragawa. 1984. Antithrombin III Toyama: replacement of arginine 47 by
+cysteine in hereditary abnormal antithrombin III that lacks heparinbinding ability. Proc. Natl. Acad. Sci. USA. 81:289-293.
+41. Owen, M. C., J. Y. Borg, C. Soria, J. Soria, J. Caen, and R. W.
+Carrell. 1987. Heparin binding defect in a new antithrombin III variant: Rouen, 47 Arg to His. Blood. 69:1275-1279.
+
+

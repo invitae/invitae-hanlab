@@ -1,0 +1,812 @@
+Hum Genet (1995) 96:312 318
+
+9 Springer-Verlag 1995
+
+Valeria Brancolini 9 Laura Cremonesi 9 Elena Belloni
+Emanuela Pappalardo 9 Roberta Bordoni - Manuela Seia
+Silvia Russo - Rita Padoan - Annamaria Giunta
+Maurizio Ferrari
+
+Search for mutations
+in pancreatic sufficient cystic fibrosis italian patients:
+detection of 90% of molecular defects and identification
+of three novel mutations
+Received: 30 October 1994 / Revised 18 January 1995
+
+A b s t r a c t A cohort of 31 cystic fibrosis patients showing
+pancreatic sufficiency and bearing an unidentified mutation on at Least one chromosome was analyzed through
+denaturing gradient gel electrophoresis of the whole coding region of the cystic fibrosis transmembrane conductance regulator gene, including intron-exon boundaries.
+Three new and 19 previously described mutations were
+detected. The combination of these with known mutations
+detected by other methods, allowed the characterization
+of mutations on 56/62 (90.3%) chromosomes. A m o n g
+those identified, 17 can be considered responsible for pancreatic sufficiency, since they were found in patients carrying a severe mutation on the other chromosome. Among
+these presumed mild mutations, eight were detected more
+than once, R352Q being the most frequent in this sample
+(4.83%). Intragenic microsatellite analysis revealed that
+the six chromosomes still bearing unidentified mutations
+are associated with five different haplotypes. This may indicate that these chromosomes bear different mutations,
+rarely occurring among cystic fibrosis patients, further underlying the molecular heterogeneity of the genetic defects present in patients having pancreatic sufficiency.
+
+Introduction
+Cystic fibrosis (CF) is the most common severe autosomal
+recessive disorder among Caucasian populations, where
+
+V. Brancolini - L. Cmmonesi - E. Belloni - E. Pappalardo
+R. Bordoni - M. Ferrari
+IRCCS, H.S.Raffaete, DIBIT, Unit.a di Genetica, Milan, Italy
+M. Seia. S. Russo
+Laboratorio di Ricerche Cliniche, ICP, Milan, Italy
+R. Padoan - A. Giunta
+Centro Fibrosi Cistica, Dipartimento di Pediatria,
+Universit'a di Milano, Milan, Italy
+M. Ferrari (lEVI)
+IRCCS, H.S.Raffaele, Dipartimento di Medicina di Laboratorio.
+20132 Milan, Italy
+
+the incidence is estimated to be l in 2500 live births and
+carrier frequency 1 in 25 (Boat et al. 1989). The gene responsible for the disease (Kerem et al, 1989; Rommens
+et al. 1989; Riordan et al. 1989), encodes a 1480-amino
+acid protein named cystic fibrosis transmembrane conductance regulator (CFTR), which is predicted to function
+as a cAMP-regulated chloride channel (Anderson et al.
+1991). Reduced chloride secretion is at the basis of insufficient hydration of ductural mucus in the airways, reproductive system and pancreas, leading to progressive obstructive damage (The Cystic Fibrosis Genotype-Phenotype Consortium 1993). The clinical expression of the disease is heterogenous but most patients with CF typically
+present with chronic obstructive lung disease, elevated
+electrolyte concentration in the sweat and insufficient
+pancreatic exocrine function (pancreatic insufficiency or
+PI). Approximately 10-15% of CF patients have pancreatic sufficiency (PS) (Shwachman 1975).
+To date, over 470 mutations and sequence alterations
+have been identified by the CF Genetic Analysis Consortium in regions of the CFTR gene coding for different
+functional domains of the potypeptide chain. The main
+mutation causing CF, AF508, a 3-bp deletion located in
+exon 10 in the first nucleotide binding fold (NBF I)
+(Kerem et al. 1989), has a frequency in patients ranging
+from 30 to 88% in different populations (European Working Group on CF Genetics 1990).
+A correlation between the mutations identified and the
+clinical symptoms has been observed with pancreas status
+(Corey et al. 1989; Kerem et al. 1990a), while severity of
+lung involvement is not so clearly related to the CFTR
+genotype, suggesting that this phenotype might be modulated by additional genetic or environmental lectors (The
+Cystic Fibrosis Genotype-Phenotype Consortium 1993).
+Pancreatic sufficient status is genetically determined by
+mild mutations, mostly being missense, which have been
+hypothesised to confer a higher residual CFTR activity
+than the severe ones (Kerem et al. 1989).
+Identifying the molecular defects associated with the PS
+phenotype could be very useful in further clarifying the
+role of the CFTR protein, and eventually in prognostic
+
+313
+evaluations and establishing care protocols. Furthermore,
+searching for mutations in the group of patients with PS
+m a y reveal the presence of some p r e d o m i n a n t mutations,
+which should be preferentially tested.
+Data available on the overall C F population, i n c l u d i n g
+both PI and PS patients, indicate a high heterogeneity of
+m o l e c u l a r defects. A few mutations have been so far associated with the PS phenotype (Tsui 1992; Kristidis et al.
+1992), but no extensive m o l e c u l a r characterization focused on patients with PS has b e e n reported yet. We have
+studied a cohort of 31 Italian patients with PS using firstly
+traditional methods to screen for mutations which predominate in the Italian population [AF508, G 5 4 2 X (Kerem
+et al. 1990b), N1303K (Osborne et al. 1991), 1717-1G--~A
+(Guillermit et al. 1990) and W 1 2 8 2 X (Vidaud et al. 1990)],
+secondly denaturing gradient gel electrophoresis ( D G G E )
+analysis of the entire coding part of the C F T R gene, thirdly
+testing for the presence of the two mutations [1811+
+1.2kbA--+G (Chillon et al., personal c o m m u n i c a t i o n to the
+C F Genetic Analysis C o n s o r t i u m ) and 3 8 4 9 + 1 0 k b C - + T
+(Highsmith et al. 1994)] located in n o n - c o d i n g portions of
+the gene, which were not detectable by D G G E , and finally
+intragenic microsatellites [IVS8/GT (Morral et al. 1991),
+I V S 1 7 b / T A a n d I V S 1 7 b / C A ( Z i e l e n s k i et al. 1991b)]
+mapping.
+
+Materials and methods
+
+Pancreatic sufficiency was identified by fecal fat balance (3 days
+fecal fat collection to calculate the absorption coefficient) (van der
+Kamer et al. 1949) over 90% in all cases over age of 3 years, by
+absence of steatorrhea measured with steatocrit (Phuapradit et al.
+1981) in the only child under 3 years, and by pancreatic stimulation test (Durie et al. 1984) in three adult patients with sweat chloride in the borderline values.
+Pulmonary status was evaluated as follows: (1) chest X-ray
+scored according to Chrispin and Norman (CN) (1974) (0-38;
+0 the best); (2) respiratory function was assessed by the following
+indexes: forced vital capacity (FVC) and forced expiratory volume
+in 1 s (FEV0 (Polgar and Promadhat 1971) expressed as a percentage of predicted values for height and sex; and (3) presence of
+P. aeruginosa chronic lung infection.
+Nutritional status was evaluated by the following parameters:
+(1) weight and height centiles; and (2) Cole's index: percent of
+ideal body weight predicted for height and sex.
+All patients showed a normal growth without pancreatic supplementation.
+Mutation detection
+Screening for mutations which predominate in our population:
+AF508, G542X, N1303K, 1717-1G---~A,W1282X, and of the two
+intronic mutations 3849+10kbC--+T and 1811+l.2kbA---~G was
+carried out as previously described (Ballabio et al. 1990; Friedman
+et al. 1991; Cremonesi et al. 1991; Vidaud et al. 1990; Highsmith
+et al. 1994; Chillon et al., personal communication to the CF Genetic Analysis Consortium).
+DGGE analysis and direct sequencing
+
+CF patients
+DNA specimens were obtained from 31 unrelated Italian nuclear
+families with a CF child (18 males and 13 females) showing PS.
+These patients were regularly followed at the Milan CF Center at
+the Department of Pediatrics, University of Milan. CF diagnosis
+was based on typical findings of pulmonary CF-related disease (24
+cases), on metabolic alkalosis mimicking Bartter's syndrome (3
+cases) or on positive neonatal screening (4 cases). Diagnoses were
+confirmed by a sweat chloride concentration of 60 mmol/1 or
+higher, during Gibson Cooke pilocarpine iontophoresis (Gibson
+and Cooke 1959), in all but three cases. In the three patients with
+chloride values in the borderline range (40-60 mmol/1), CF was diagnosed for typical Pseudomonas aeruginosa bronchitis and chest
+radiological features (Stem et al. 1978; Davis et al. 1980). Age at
+diagnosis varied widely only for patients diagnosed because of pulmonary symptoms (median age 12 years 7 months; range 3 months
+to 33 years 10 months). Patients' age ranged at sampling from 2.5
+to 36.5 years (mean age 17 years 7 months + 8 years 3 months).
+
+Table 1 PCR primers and
+conditions for denaturing gradient gel electrophoresis analysis of exons 1 and 9 (for exon
+9 two different PCR products
+were analyzed under different
+conditions in order to detect all
+possible base changes)
+
+Assessment of clinical features
+
+DGGE conditions including GC-clamped primer sequences, gradient denaturant concentration, time and voltage of the electrophoretic
+separations were as previously described (Fanen et al. 1992; Audrezet et al. 1993) except for those indicated in Table 1. At least
+one control sample, carrying an already known mutation, was run
+in parallel with samples under investigation, for each exon being
+examined. Direct sequencing was performed on asymmetric PCRamplified templates (Gyllensten and Ehrlich 1988).
+Microsatellite analysis
+Microsatellite analysis was carried out as indicated elsewhere (Magnani et al. 1994).
+
+Exon
+
+PCR primers 5"---~3"
+
+Annealing
+temperature (~C)
+
+Denaturing
+range
+
+Electrophoresis
+time (h)
+
+1
+
+TAGGTCTTTGGCATTAGGAG
+(55GC)CCAAACCCAACCCATA
+CACAC
+(35GC)TGAAAATATCTGACAA
+ACTC
+CCTTCCAGCACTACAAACTA
+(37GC)AACAGGGATTTGGGG
+AATTA
+AACTAGAAAAAAAAAGAGA
+
+54
+
+40%-90%
+
+6
+
+45
+
+10%-60%
+
+6
+
+50
+
+10%-60%
+
+6
+
+314
+
+Results
+Screening for predominant mutations
+A preliminary screening for mutations being predominant
+in our population was carried out in our series of patients
+showing PS, revealing the presence of AF508 on 19 (30.6%)
+chromosomes, 1717-1G---~A and G542X on 2 (3.22%). In
+a previous study the overall frequencies of mutations in
+the whole sample population referring to our Center had
+been evaluated on a sample of 1018 CF chromosomes
+having the following frequencies: A F 5 0 8 : 5 1 6 (50.7%)
+chromosomes, G542X: 52 (5.1%), 1717-1G--->A: 41 (4.0%),
+N1303K: 35 (3.4%), WI282X: 14 (1.4%) (our unpublished
+results).
+
+Search for mutations
+Direct sequencing of samples displaying altered electrophoretic mobility through D G G E analysis of 27 exons,
+including intron-exon boundaries of the CFTR gene, allowed the identification of 22 mutations (32 chromosomes). Amongst these, three were previously unreported
+(W57G, D579G and E193K) (Fig. 1). The remaining 19
+included R352Q (Cremonesi et al. 1992) (three chromosomes), G85E (Zielenski et al. 1991a), Dl152H (High-
+
+Fig. 1 A-C Direct sequencing of PCR products from three cystic
+fibrosis patients (CF) carrying the W57G (A), E193K (B) and
+D579G (C) mutations, in parallel with control samples (C) displaying normal sequences (N/N)
+
+Direct sequencing of exon 3
+
+smith et al., personal communication to the CF Genetic
+Analysis Consortium), R1066H (Ferec et al. 1992), T338I
+(Saba et al. 1993), 711 +5G--+A (Gasparini et al., personal
+communication to the CF Genetic Analysis Consortium),
+M1V (Cheadle et al. 1993), R334W (Gasparini et al. 1991)
+(two chromosomes each), 4382delA (Claustres et al. 1993),
+R1158X (Ronchetto et al. 1992), F1052V (Mercier et al.
+1993), G1349D (Beaudet et al. 1991), 1898+3A-+G (Cremonesi et al. 1992), $549N (Cutting et al. 1990), 711+
+3A-->G (Petreska et al. 1994), R347P (Dean et al. 1990),
+2789+5G--+A (Highsmith et al. 1990), R1066C (Fanen et
+al. 1992) and S1251N (K~ilin et al. 1992) (one chromosome each). All mutations altering a restriction site were
+confirmed by restriction digestion.
+The W57G mutation was a T301 to G transversion in
+exon 3 substituting tryptophan at position 57 with glycine,
+and was detected in a patient from Northern Italy (Lombardia) bearing the R352Q mutation on the other chromosome. This patient presented with severe respiratory symptoms since childhood, but CF diagnosis was made at the
+age of 22 years (sweat test 101.74 mmol/1; fat balance
+95.45%; severe pulmonary phenotype: FEV l 17%, FVC
+34%, chest X-ray score 33, chronic lung P. aeruginosa infection for several years and cor pulmonale). At the age of
+27 years, she presented with chronic sinusitis, had been on
+chronic oxygen supplementation for 2 years and continuous parenteral antibiotic therapy for 8 months. She was on
+a waiting list for heart-lung transplantation.
+The D579G mutation was a A1868G transition in exon
+12, substituting aspartic acid 579 with glycine and creating an AvrII restriction site. This mutation was found in
+two patients both carrying the AF508 mutation on the
+other chromosome. The first patient was from Southern
+
+Direct sequencing of exon 5
+
+315
+Italy (Puglia), and presented with CF-related symptoms in
+the first years of life. CF with pancreatic sufficiency was
+confirmed at 7 years (sweat test 77 mmol/1 chloride, fecal
+fat balance 97.81%). Clinical evaluation at the latest visit
+(20 years) was as follows: FEVI 50%, FVC 77%, chest Xray score 24. Chronic P. aeruginosa and Xanthomonas
+maltophilia lung infection occurred since 12 years of age,
+allergic bronchopulmonary aspergillosis (ABPA), upper
+right lobe atelectasis and repeated emophtoe since the age
+of 10 years which needed repeated bronchial artery embolizations. For the second patient carrying the D579G
+mutation, it was not possible to define the grandparental
+transmission [grandparents originated from southern
+(Puglia) and northern Italy (Lombardia-Emilia)]. He presented with pulmonary symptoms at the age of 1 year but,
+due to previous misdiagnosis (tuberculosis, sarcoidosis
+and bronchiectasis) and to lack of pancreatic insufficiency, CF was diagnosed at the age of 18 years on the basis of sweat test value (63 mmol/1 chloride). PS was confirmed by fecal fat balance (96%). Clinical evaluation at
+the latest visit (28 years 10 months) was as follows: FEV l
+29%, FVC 52%, chest X-ray score 30. He has had P.
+aeruginosa chronic lung infection since age 18 years 6
+months. He is azoospermic.
+The third mutation, E193K, was a G709---~A transition
+in exon 5 substituting the glutamic acid 193 with a lysine.
+It was found in a patient originating from the center of
+Italy (Abruzzo), and carrying the AF508 mutation on the
+other chromosome, diagnosed at the age of 20 years
+(sweat test 82 mmol/1). This patient showed PS associated
+with mild pulmonary disease. Clinical and biochemical
+assessment at the latest visit (24 years 4 months) were as
+follows: FEV 1 91%, FVC 99%, CN score 13, fecal fat balance 94%, presence of intermittent Pseudomonas infection.
+The W 5 7 G mutation was not detected on an additional
+132 CF and 50 normal chromosomes, D579G on an additional 115 CF and 50 normal chromosomes and E193K on
+an additional 108 CF and 54 normal chromosomes.
+Chromosomes still carrying unidentified molecular defects after D G G E analysis of the whole coding region of
+the CFTR gene were additionally screened for the two intronic mutations 1811 + 1.2kbA---~G and 3849+ 10kbC---~T,
+leading to the identification of one (1.6%) chromosome
+bearing 3849+10kbC---rT. In total, mutations were detected on 56/62 (90.3%) chromosomes. Table 2 shows patients' genotypes after the preliminary screening (left side)
+and at the end of the study (right side).
+
+Microsatellite haplotypes
+Five intragenic IVS8/GT, IVS17b/TA and IVS17b/CA
+microsatellite haplotypes were found in association with
+the six chromosomes still carrying unidentified mutations:
+16-30-13 (two chromosomes), 16-30-14, 16-31-13, 1628-12 and 16-7-17 (one chromosome each). The two haplotypes 16-30-14 and 16-28-12 were not detected among
+220 CF and 220 normal chromosomes (our unpublished
+
+Table 2 Mutations detected in Italian cystic fibrosis (CF) patients
+having pancreatic sufficiency. (UN yet unidentified mutation)
+Patient
+number
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+
+Genotype after
+preliminary screening
+
+Genotype at the end
+of the analysis
+
+UN/UN
+1717-1G---~A/UN
+AF508/UN
+UN/UN
+AF508/UN
+UN/UN
+UN/UN
+UN/UN
+AF508/UN
+AF508/UN
+UN/UN
+AF508/UN
+UN/UN
+UN/UN
+AF508/UN
+G542X/UN
+AF508/UN
+1717-1G---~A/UN
+AF508/UN
+AF508/UN
+AF508/UN
+AF508/UN
+AF508/UN
+AF508/UN
+G542X/UN
+AF508/UN
+AF508/UN
+AF508/UN
+AF508/UN
+AF508/UN
+AF508/UN
+
+M 1V/4382delA
+1717-1G---~A/R1066H
+AF508/D579G
+M 1V/UN
+AF508/UN
+T338I/R1158X
+G85E/71 I+5G---~A
+D 1152H/UN
+AF508/UN
+AF508/3849+ 10kbC---~T
+711 +3A---~G/UN
+AF508/F1052V
+R352Q/W57G
+1898+3A----~G/UN
+AF508/711 +5G--~A
+G542X/D I 152H
+AF508/E 193K
+1717-1G---~A/2789+5A---)G
+AF508/G 1349D
+AF508/G85E
+AF508/R347P
+AF508/R352Q
+AF508/R352Q
+AF508/S549N
+G542X/R 1066H
+AF508/T338I
+AF508/R334W
+AF508/R334W
+AF508/S 1251N
+AF508/R 1066C
+AF508/D579G
+
+results) while the remaining three haplotypes had been
+found in association with other rare mutations, which were
+excluded by D G G E analysis in these patients (Table 3).
+
+Discussion
+Since the CFTR gene was localized, great efforts have
+been focused on detecting mutations. To date, patients
+with PS have not yet been exhaustively analyzed as a distinct group, resulting in scarce information about mutations present in these patients, and only a few mutations
+have been associated with the PS phenotype. Accordingly,
+we searched for mutations in a group of patients with PS,
+originating from different Italian regions, using methods
+allowing the rapid identification of sequence alterations.
+D G G E analysis coupled with direct sequencing in a
+sample of 31 patients having PS led to the characterization of 22 mutations, including 3 previously unreported.
+These, in combination with three mutations identified
+through a preliminary screening for predominant mutations and one intronic mutation, identified molecular de-
+
+316
+T a b l e 3 Microsatellite haplotypes detected in association with yet uncharacterized chromosomes and their distribution among CF and
+
+normal chromosomes
+Patient
+number
+
+Microsatellite haplotype
+
+14
+4
+II
+5,8
+9
+
+CF chromosomes
+
+IVS8
+GT
+
+IVS 17b
+TA
+
+IVS 17b
+CA
+
+16
+16
+16
+16
+16
+
+30
+31
+28
+30
+7
+
+14
+13
+12
+13
+17
+
+AF508
+0
+0
+0
+0
+0
+
+Total chromosomes analyzed
+
+97
+
+Normal
+chromosomes
+
+Other
+mutations
+
+Unknown
+mutations
+
+0
+2~
+0
+5b
+21 ~
+
+1
+7
+l
+11
+8
+
+0
+36
+0
+25
+33
+
+77
+
+46
+
+220
+
+~Both chromosomes carry the D 1152H mutation
+bG 1349D, R352Q, 1898+3A---~G, 4382delA, R334W (one chromosome each)
+1717-1G---~A ( 15 chromosomes). 541 delC and 711 +5G-+A (two chromosomes each), E585 X and F 1052V (one chromosome each)
+
+fects on a total o f 56/62 (90.3%) c h r o m o s o m e s in these
+patients.
+A m o n g the new mutations detected in this study, both
+D 5 7 9 G and E 1 9 3 K were found in patients c o m p o u n d hete r o z y g o u s for AF508 and p r e s u m a b l y cause the mild pancreatic status, being d o m i n a n t o v e r AF508. W 5 7 G was
+found in a patient carrying R 3 5 2 Q on the other c h r o m o some, and we cannot exclude a contribution to the PS
+p h e n o t y p e by the W 5 7 G mutation. The r e m a i n i n g 19 mutations detected by D G G E in patients with PS had already
+been described.
+D G G E analysis was carried out on the whole coding
+portion o f the C F T R gene. In 7 out of 62 C F c h r o m o somes a n a l y z e d at this stage of the study, the m o l e c u l a r
+Fig.2 Localization of the 17 presumed mild mutations, with respect to exons (blank boxes, numbered from 1 to 24) and intronic
+regions. In the lower part, the corresponding putative protein domains are schematically represented (filled boxes)
+
+defect was not detected. Search for the only two reported
+intronic mutations (1811 + 1.2kbA--)G and 3849+ 10kbC--qT)
+revealed the presence o f 3 8 4 9 + 1 0 k b C - + T , a PS mutation
+( A u g a r t e n et al. 1993), on one c h r o m o s o m e . O n l y a further analysis at the m R N A level or sequencing of the promoter region could p r e s u m a b l y allow the identification o f
+the remaining six still uncharacterized alterations.
+In total, a m o n g the mutations detected in our PS patients, 17 (D579G, E193K, F1052V, 711+5G---~A, G1349D,
+G85E, R 3 4 7 R R352Q, $549N, 2789+5A---~G, D1152H,
+R 1 0 6 6 H , R 3 3 4 W , T 3 3 8 I , 3849+10kbC---~T, S 1 2 5 1 N ,
+R1066C) have been detected in c o m p o u n d h e t e r o z y g o s i t y
+with a m u t a t i o n a l r e a d y c l a s s i f i e d as s e v e r e ( A F 5 0 8 ,
+1717-1G--~A, G 5 4 2 X ) and thus can be considered as pres u m a b l y mild. O f these mutations, seven (G85E, E I 9 3 K ,
+711+5G--qA, R347P, R334W, R352Q, T 3 3 8 | ) are located
+in the first t r a n s m e m b r a n e (I T M ) domain, five (2789+
+5A---~G, R I 0 6 6 H , F1052V, D1152H, R1066C) in the second t r a n s m e m b r a n e (II T M ) domain, four in the nucleo-
+
+R334W
+R347P
+R352Q
+T338I
+
+R1066C
+R1066H
+F1052V
+
+S1251N
+
+I
+
+3849+11 tKbC->T
+D579G
+
+E193K
+711+.EG - > A
+
+S 549N
+
+G85E
+
+1
+
+2
+
+3
+
+G1349D
+
+I
+
+4
+
+5 6a 6b
+
+7
+
+8
+
+9
+
+10
+
+11 12
+
+2789+5A->G
+
+13
+
+!11 ! m
+MEMBRANE SPANNING
+
+ATP
+BINDING
+
+1 4 a 1 4 b 15
+
+D1152H
+
+1617a
+
+17b 18
+
+19
+
+20 21 22 23 24
+
+III!
+R DOMAIN
+
+MEMBRANE SPANNING
+
+ATP
+BINDING
+
+317
+tide b i n d i n g folds ( $ 5 4 9 N and D 5 7 9 G in the N B F I,
+G 1 3 4 9 D and S 1 2 5 1 N in the N B F II) and one in intron 19
+(3849+10kbC--~T), further c o n f i r m i n g that the m i l d e r defects m o s t l y affect the m e m b r a n e spanning d o m a i n s with
+a greater incidence on the I T M (Fig. 2).
+T h e results o f this search showed, as expected, a different distribution o f classical severe m u t a t i o n s (AF508,
+G542X, 1717-1G-+A, N1303K, W 1 2 8 2 X ) in patients with
+PS as compared to the overall C F population (37.1% against
+67.4%). M o r e o v e r , s o m e classical m i l d mutations, w h i c h
+have been frequently detected in other PS s a m p l e p o p u l a tions, are absent (R117H) (Dean et al. 1990) or infrequent
+(R347P) in our patients. Conversely, other presumably mild
+mutations such as R352Q (three chromosomes), and G85E,
+D l 1 5 2 H , 711+5G--~A, R1066H, T338I, R334W, D 5 7 9 G
+(two c h r o m o s o m e s each), are m o r e frequently detected in
+the PS cohort, accounting in total for 27.4% o f c h r o m o somes.
+Search for m u t a t i o n s in PS patients should be perf o r m e d starting with the analysis o f exons w h e r e m o s t o f
+the m i l d m u t a t i o n s s e e m to be located such as exon 7, 5
+and 17b in our population, and p r o c e e d i n g with other exons c o d i n g for the two T M domains.
+S c r e e n i n g for only eight p r e s u m e d m i l d mutations
+(R352Q, R 1 0 6 6 H , G85E, D l 1 5 2 H , 711+5G---~A, T338I,
+R 3 3 4 W and D 5 7 9 G ) in addition to the p r e d o m i n a n t four
+severe mutations (AF508, G542X, 1717-1G-+A and
+N 1 3 0 3 K ) , w o u l d have a l l o w e d the identification o f 64.5%
+o f the m o l e c u l a r defects in our patients having PS. This
+finding is r e m a r k a b l e in v i e w o f the l o w e r incidence o f severe mutations in patients having PS.
+Finally, in 6 out o f 62 C F c h r o m o s o m e s a n a l y z e d in
+this study, the m o l e c u l a r defect was not detected. F i v e different intragenic m i c r o s a t e l l i t e h a p l o t y p e s were identified
+in these c h r o m o s o m e s . A m o n g these, two were uniquely
+d e t e c t e d a m o n g C F - P S c h r o m o s o m e s and are not present
+in 220 C F and 220 n o r m a l c h r o m o s o m e s tested. The rem a i n i n g three, relatively frequent a m o n g n o r m a l c h r o m o somes, have b e e n found in association with a l r e a d y
+k n o w n mutations, w h i c h have been e x c l u d e d in our sample b y D G G E analysis where they were k n o w n to be detectable. T h e s e findings suggest that mutations on these
+u n c h a r a c t e r i z e d c h r o m o s o m e s will not be c o m m o n , further c o n f i r m i n g the high h e t e r o g e n e i t y o f m o l e c u l a r defects in patients with PS.
+Acknowledgements This work was partially supported by P. F.
+Ingegneria Genetica, CNR, Lega Italiana delle Associazioni Fibrosi Cistica and Bio-Rad Laboratories.
+
+References
+Anderson MP, Rich DP, Gregory RJ, Smith AE, Welsh MJ (1991)
+Generation of cAMP-activated chloride current by expression
+of CFTR. Science 251:670-682
+Audrezet MP, Mercier B, Guillermit H, Quere I, Verlingue C,
+Rault G, Ferec C (1993) Identification of 12 novel mutations in
+the CFTR gene. Hum Mol Gen 2 : 51-54
+
+Augarten A, Kerem B-S, Yahav Y, Noiman S, Rivlin Y, Tal A,
+Blau H, Ben-Tur L, Szeinberg A, Kerem E, Gazit E (1993)
+Mild cystic fibrosis and normal or borderline sweat test in patients with the 3849+10kbC---~T mutation. Lancet 342 : 25-26
+Ballabio A, Gibbs RA, Caskey CT (1990) PCR test for cystic fibrosis deletion. Nature 343 : 220
+Beaudet AL, Feldman GL, Kobayashi K, Lemma WK, Fembach
+SD, Knowles MR, Boucher RC, O'Brien WE (1991) Mutation
+analysis for cystic fibrosis in a North American population. In:
+Tsui L-C, Romeo G, Greger R, Gorini S (eds) The identification of the CF (cystic fibrosis) gene - recent progress and new
+research strategies. Plenum Press, New York, London, pp 5354
+Boat TF, Welsh MJ, Beaudet AL (1989) Cystic fibrosis. In:
+Scriver CR, Beaudet AL, Sly WS, Valle D (eds) The metabolic
+basis of inherited disease, 6th edn. McGraw-Hill, New York,
+pp 2649-2680
+Cheadle JP, A1-Jader LN, Meredith AL (1993) Direct sequencing
+of the complete CFTR gene: the molecular characterization of
+99.5% of CF chromosomes in Wales. Hum Mol Genet 2:317319
+Chrispin AR, Norman AP (1974) The systematic evaluation of the
+chest radiograph in cystic fibrosis. Pediatr Radiol 2:101-106
+Claustres M, Maguelone L, Desgeorges M, Giansily M, Culard JF,
+Razakatsara G, Gerrard B, Demaille J (1993) Analysis of the
+27 exons and flanking regions of the cystic fibrosis gene: 40
+different mutations account for 91.2% of the mutant alleles in
+southern France. Hum Mol Genet 2:1209-1213
+Corey M, Durie P, Moore D, Forstner G, Levison H (1989) Familial concordance of pancreatic function in cystic fibrosis. J Pediatr 115 : 274-277
+Cremonesi L, Seia M, Magnani C, Ferrari M (1991) Rapid detection of the 1717-1G---rA mutation in CFFR gene by PCR-mediated site-directed mutagenesis. Clin Chem 37 : 1447
+Cremonesi L, Ferrari M, Belloni E, Magnani C, Seia M, Ronchetto
+P, Rady M, Russo MP, Romeo G, Devoto M (1992) Four new
+mutations of the CFTR gene (541delC, R347H, R352Q,
+E585X) detected by DGGE analysis in Italian CF patients, associated with different clinical phenotypes. Hum Mutat 1:314319
+Cutting GR, Kash LM, Rosenstein BJ, Zielenski J, Tsui L-C, Antonarakis SE, Kazazian HH (1990) A cluster of cystic fibrosis
+mutations in the first nucleotide-binding fold of the cystic fibrosis conductance regulator protein. Nature 346 : 366-369
+Davis P, Hubbard V, Di Sant'Agnese P (1980) Low sweat electrolytes in a patient with cystic fibrosis. Am J Med 6 9 : 6 4 3 646
+Dean M, White MB, Amos J, Gerrard B, Stewart C, Khaw K-T,
+Leppert M (1990) Multiple mutations in highly conserved
+residues are found in mildly affected cystic fibrosis patients.
+Cell 61:863-870
+Durie PR, Gaskin K J, Corey M, Kopelman H, Weizman Z, Frostner GG (1984) Pancreatic function testing in cystic fibrosis.
+J Pediatr Gastroenterol Nutr 3 (suppl) : $89-$98
+European Working Group on CF Genetics (1990) Gradient of distribution in Europe of the major CF mutation and of its associated haplotype. Hum Genet 85:436 /I/12
+Fanen P, Ghanem N, Vidaud M, Besmond C, Martin J, Costes B,
+Plassa F, Goossens M (1992) Molecular characterization of
+cystic fibrosis: 16 novel mutations identified by analysis of the
+whole cystic fibrosis conductance transmembrane regulator
+(CFFR) coding regions and splice site junctions. Genomics 13 :
+770-776
+Ferec C, Audrezet MP, Mercier B, Guillermit H, Moullier P,
+Quere I, Verlingue C (1992) Detection of over 98% cystic fibrosis mutations in a Celtic population. Nature Genet 1 : 188191
+Friedman KJ, Highsmith WE, Silverman LM (1991) Detecting
+multiple cystic fibrosis mutations by polymerase chain reaction-mediated site-directed mutagenesis. Clin Chem 37:
+753-755
+
+318
+Gasparini P, Nunes V, Savoia A, Dognini M, Morral N, Gaona A,
+Bonizzato A, Chillon M, Sangiuolo F, Novelli G, Dallapiccola
+B, Pignatti PF, Estivill X (1991) The search for South European cystic fibrosis mutations: identification of two new mutations, four variants, and intronic sequences. Genomics 10:
+193-200
+Gibson L, Cooke R (1959) A test for concentration of electrolytes
+in sweat in cystic fibrosis of pancreas utilizing pilocarpine by
+iontophoresis. Pediatrics 23 : 545-549
+Guillermit H, Fanen P, Ferec C (1990) A 3" splice site consensus
+sequence mutation in the cystic fibrosis gene. Hum Genet 85 :
+450-453
+Gyllensten UB, Erlich HA (1988) Generation of single-stranded
+DNA by the polymerase chain reaction and its application to
+direct sequencing of the HLA-DQA locus. Proc Natl Acad Sci
+USA 85 : 7652-7656
+Highsmith WE, Strong T, Burch N, Smith T, Silverman LM,
+Collins FS, Boucher R~ Knowles MR (1990) Identification of a
+splicing error of exon 14b giving rise to a frameshift mutation
+in a consanguineous family with mild cystic fibrosis. Pediatr
+Puhnonol 5 [suppl] : 1 I A
+Highsmith WE, Burch LH, Zhou Z, Olsen JC, Boat TE, Spock A,
+Gorvoy JD, Quittell L, Friedman K J, Silverman LM, Boucher
+RC, Knowles MR (I 994) Cystic fibrosis gene mutations in patients with normal sweat chloride concentrations. N Engl J Med
+(in press)
+KS_lin A, D6rk T, Ttimmler B (1992) A cystic fibrosis allele encoding missense mutations in both nucleotide binding folds of
+the cystic fibrosis transmembrane conductance regulator. Hum
+Mutat 1 : 2 0 4 - 2 1 0
+van der Kamer JH, ten Bokkel Huinik H, Weyers HA (1949)
+Rapid method for the determination of fat in feces. J Biol Chem
+177:347-355
+Kerem B, Rommens J, Buchanan JA, Markiewicz D, Cox TK,
+Chakravarti A, Buchwald M, Tsui L-C (1989) Identification of
+the cystic fibrosis gene: genetic analysis. Science 245 : 10731080
+Kerem E, Corey M, Kerem B, Rommens J, Markiewicz D, Levison H, Tsui L-C, Durie P (1990a) The relation between genotype and phenotype in cystic fibrosis - analysis of the most
+common mutation (AF508). N Engl J Med 323:1517 1522
+Kerem B, Zielenski J, Markiewicz D, Bozon D, Gazit E, Yahaf J,
+Kennedy D, Riordan J, Collins F, Rommens J, Tsui L-C (1990
+b) Identification of mutations in regions corresponding to the 2
+putative nucleotide (ATP)-binding lolds of the cystic fibrosis
+gene. Proc Natl Acad Sci USA 8 7 : 8 4 4 7 - 8 4 5 l
+Kristidis P, Bozon D, Corey M, Markiewicz D, Rommens J, Tsui
+L-C, Durie P (1992) Genetic determination of exocrine pancreatic function in cystic fibrosis. Am J Hum Genet 5 0 : 1 1 7 8 1184
+Magnani C, Cremonesi L, Belloni E, Ferrari M, Seia M, Russo
+MP, Devoto M, Ronchetto P, Romeo G (1994) Informativity of
+intragenic microsatellites for carrier detection and prenatal diagnosis of cystic fibrosis in the Italian population. Clin Genet
+45:135-139
+Mercier B, Lissens W, Novelli G, Kalaydjieva L, De Arce M,
+Kapranov N, Canki Klain N, Lenoir G, Chauveau P, Lenaerts
+C, Rault G, Cashman S, Sangiuolo S, Audrezet MP, Dallapiccola B, Guillermit H, Bonduetle M, Liebaers I, Quere I, Verlingue C, Ferec C (1993) Identification of eight novel mutations in a collaborative analysis of a part of the second transmembrane domain of the CFTR gene. Genomics 16:296-297
+
+Morral N, Nunes V, Casals T, Estivill X (1991) CA/GT microsatellite allele within the cystic fibrosis transmembrane conductance regulator (CFTR) gene are not generated by unequal
+crossingover. Genomics 10 : 692-698
+Osborne L, Knight R, Santis G, Hodson M (1991) A mutation in
+the second nucleotide binding fold of the cystic fibrosis gene.
+Am I Hum Genet 4 8 : 6 0 8 - 6 1 2
+Petreska L, Koceva S, Gordova-Muratovska A, Nestorov R, Efremov G (1994) identification of two new mutations (7I I+3A
+----~G and V1397E) in CF chromosomes of Albanian and Macedonian origin. Hum Mol Genet 3 : 9 9 9 1000
+Phuapradit P, Narang A, Mendeca P, Harris DA, Baum JD ( 1981 )
+The steatocrit: a simple method for estimating stool fat content
+in newborn infants. Arch Dis Child 56 : 725
+Polgar G, Promadhat V (1971) In: Sounders WB Co (ed) Pulmonary function testing in children. Philadelphia
+Riordan JR, Rommens JM, Kerem B, Alon N, Rozmahel R, Grzelczak Z, Zielenski J, Lok S. Plavisk N, Chou J, Drum M, lannuzzi M, Collins F, Tsui L-C (1989) Identification of the cystic
+fibrosis gene: cloning and characterization of complementary
+DNA. Science 245 : 1066-1073
+Rommens JM, lannuzzi MC, Kerem B, Drumm ML. Melmer G,
+Dean M, Rozmahel R, Cole J, Kennedy D, Hidaka N, Zsiga M,
+Buchwald M, Riordan J. Tsui L-C, Collins F (1989) Identification of the cystic fibrosis gene: chromosome walking and
+jumping. Science 245 : 1059-1065
+Ronchetto P, Telleira Orriols J J, Fanen P, Cremonesi L, Ferrari M.
+Magnani C, Seia M, Goossens M, Romeo G, Devoto M (1992)
+A nonsense mutation (Rl158X) and a splicing mutation (3849+
+4A--+G) in exon 19 of the cystic fibrosis transmembrane conductance regulator gene. Genomics 12 : 417-418
+Saba L, Leoni GB, Meloni A, Fa~ V, Cao A, Rosatelli MC (1993)
+Two novel mutations in the transmembrane domain of the
+CFTR gene in subjects of Sardinian descent. Hum Mol Genet 2 :
+1739-1740
+Shwachman H (1975) Gastrointestinal manifestations of cystic fibrosis. Pediatr Clin North Am 22 : 787-805
+Stern RC, Boat TF, Abramowsky CR, Matthews LW, Wood RE,
+Doersmick CF (1978) Intermediate-range sweat chloride concentration and Pseudomonas bronchitis: a cystic fibrosis variant with presentation of exocrine pancreatic function. J Am
+Med Assoc 239 : 2676-2680
+The Cystic Fibrosis Genotype-Phenotype Consortium (1993) Correlation between genotype and phenotype in patients with cystic fibrosis. N Engl J Med 3 2 9 : 1 3 0 8 - 1 3 1 3
+Tsui L-C (1992) The spectrum of cystic fibrosis mutations. Trends
+Genet 8 : 392-398
+Vidaud M, Fanen P, Martin J, Ghanem N, Nicolas S, Goossens M
+(1990) Three point mutations in the CFTR gene in French cystic fibrosis patients: identification by denaturing gradient gel
+electrophoresis. Hum Genet 85 : 446-449
+Zielenski J, Bozon D, Kerem B, Markiewicz D. Durie P, Rommens J. Tsui L-C (I 991 a) Identification of mutations in exons
+1 through 8 of the cystic fibrosis transmembrane conductance
+regulator (CFTR) gene. Genomics I 0 : 2 2 9 - 2 3 5
+Zielenski J, Markiewicz D, Rininsland F, Rommens JR, Tsui L-C
+(1991 b) A cluster of highly polymorphic dinucleotide repeats
+in intron 17b of the CFTR gene. Am J Hum Genet 49: 12561262
+
+

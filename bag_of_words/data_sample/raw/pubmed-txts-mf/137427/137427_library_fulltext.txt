@@ -1,0 +1,396 @@
+Controlled Variations of Input-Output Parameters
+affecting the Active Tension-Extension Diagram during
+Muscle Stretch
+H.-D. HENATSCH, C. STUDENT, UTE STUDENT and K. TAKANO
+Department of Physiology II, University of Gottingen, Gottingen (G.F.R.)
+
+The total tension which a muscle with intact innervation develops during a
+progressive stretch consists of two components: one is the passive tension, due
+to the viscoelastic properties of the muscle, the other is the active tension, produced by muscular contraction in response t o the excitatory inflow to the muscle. Active tension alone is obtained by subtracting the amount of passive tension from the total tension, which was usually done with a tedious graphical
+procedure by previous workers. Takano and Henatsch (1964, 1971) have described an electrical compensation method which allows immediate recording
+of the active tension during the ongoing extension. The principle is quite simple: the muscle under study is stretched together with the homonymous contralateral muscle, which is denervated. Provided that the mechanical conditions
+are carefully equalized for both muscles, the two passive tensions are practically identical. Thus their electrical equivalents can be cancelled in a simple
+Wheatstone’s-bridge circuit, and the remaining tension record is the active tension of the intact muscle. Slow stretch rates not exceeding 2 mmlsec allow use
+of an X-Y recorder t o record the active tension in the ordinate direction and
+the muscular extension (above resting length) in the abscissa direction. The resulting curve is called the active tension-extension diagram (TED).
+Fig. 1 shows typical TEDs of the triceps surae muscle of a decerebrate cat
+which was stretched repeatedly in situ up t o 1 4 mm. Several traces are superimposed to demonstrate the good reproducibility of the individual TED curves
+obtained with the compensation method. There is an initial range of extension
+(a) in which no visible tension appears, at least at the presently chosen gain of
+the tension record. The next range (b) marks what we might call the curved
+“knee” of the diagram, and in the last extension range (c) the course of the
+TED is nearly linear, as already described by Granit (1958) and several other
+authors. At the highest extension values, some saturation of the curve sometimes occurs, which is not seen here.
+In the present paper we are interested in an analysis of the different influences which can modify the course of the TED. Formally, two types of such
+changes can be distinguished: either a parallel shift of the curve or a change of
+its final slope, and of course, various combinations of both effects. Some empirical observations in this respect have already been described and interpreted
+in the literature. Thus, Granit (1958) and others (e.g., Koella et al., 1956) con-
+
+404
+15001
+
+1
+
+’
+
+a
+
+b
+
+I
+
+,I
+
+C
+
+Fig. 1. Typical active tension-extension diagrams (TEDs) of the triceps surae muscle of a
+decerebrate cat. Reflex arc is intact. Ordinate, active tension in g. Abscissa, extension length
+of the muscle in mm from an initial length at which the tension is 20 g. The velocity of
+linear stretching was 2 mm/sec. Each stretching was performed at an interval of 3 min. Ten
+curves during 30 min were superimposed. a: initial range. b: knee. c : linear part.
+
+sider the slope constants of the TED as indicators of the overall gain of the
+stretch reflex, and it was particularly Pompeiano (1960) who investigated slope
+increases of the TED due to different types of disinhibition of the cu-motoneurones. Parallel shifts, on the other hand, were mainly studied by Matthews
+(1959a,b) who interpreted them as being predominantly caused by changes of
+the gamma bias. However, it was never systematically tested whether other
+influences might also alter the TED in similar ways.
+In this situation, we thought it useful t o perform a series of simple “model
+experiments” in which naturally occurring changes of the input-output parameters of the stretch reflex might be more or less simulated by electrical stimulations with controlled parameter variations. In the first part we will report on
+simulated variations of the output side of the stretch reflex, that is, of the
+efferent excitatory innervation which reaches the muscle. In the second part,
+controlled variations of the input side, that is, electrical stimulation of excitatory or inhibitory afferents, will be added t o the stretch-induced afferent inflow from the muscle. Variations of stimulation frequencies or intensities were
+performed either stepwise, remaining constant throughout the slowly increasing
+extension of the muscle, or in a crescendo-like fashion, running linearly from
+a lowest to a highest value modulated by the extension. The cats were decerebrated by pre- or intercollicular section. The right hindlimb was completely
+denervated. The left hindlimb was also denervated except for the two nerves
+to the triceps surae which served as the active muscle. Further details of the
+experimental arrangement and of the procedures to balance the strain gauge
+bridge circuit prior to the TED recordings are described elsewhere (Takano and
+Henatsch, 1971).
+For the model experiments on the efferent output, the cat was laminectomized and on the experimental side all ventral roots from L5 to Sz were sev-
+
+405
+
+Fig. 2. Summation of TEDs in a nerve-muscle preparation in situ. a: tw o bundles from ventral root SI (I) or L7 (11) were tetanically stimulated (40 Hz) a t a supramaximal stimulus
+strength. For curves I + 11, both bundles were stimulated simultaneously. Open circles show
+t h e algebraic sum of t h e individual tension values in curves I and 11. The inset picture shows
+t h e experimental arrangement. b: t h e experimental arrangement is the same as in a except
+that t h e nerves were stimulated with crescendo frequencies. (Stretch-modulated frequency
+change, 7-50 Hz.)
+
+ered. Individual bundles of the distal stumps of the ventral roots L7 and/or S 1
+were placed on stimulating electrodes. In other cases the two gastrocnemius
+nerves were stimulated. Thus the experimental model consisted of a nerve-muscle preparation in situ, lacking the natural output from the motoneurones
+which was replaced by artificial stimulation of the motor fibres to the muscle.
+Under these conditions, the tension which develops during muscular extension
+has nothing to do with the afferent input; it is a “pseudoreflex” phenomenon,
+as described by Pompeiano (1960).
+Fig. 2a demonstrates the effects of constant tetanic stimulation of two different ventral root bundles, a smaller one from S1 , and a larger one from L 7 .
+The two TEDs have clearly different slopes, the steeper one (11) belonging to
+
+406
+
+the stimulation of the larger bundle which contains more motor fibres. When
+bundles I and I1 are stimulated together (always with the same constant frequency of 40 imp/sec), the slope of the resulting TED is still greater. The open
+circles are the graphical sum of the individual tension values of I and 11. The experimentally obtained curve I + I1 fits quite well with the theoretical summation values, indicating that a good integration of the partial excitatory and
+mechanical effects takes place in the effector organ. Comparing the general
+courses of these TEDs with those of the preceding Fig. 1,which were obtained
+under natural stretch-reflex conditions, it will be noted that the present ones
+are more smoothly curved. This is a typical finding in all cases where the efferent stimulation remains constant during the muscle extension.
+In Fig. 2b, a similar stimulation technique of two ventral root bundles was
+used, this time, however, with a crescendo increase of the stimulation frequencies from 7 to 50 imp/sec (intensities kept constant). The principal results
+concerning slope increases of the TEDs and good algebraic summation of the
+individual stimulation effects are similar to those described above. The shape
+of the curves, however, now resembles better that of the natural, reflexly induced TED; they show an early “knee”, a later near-linear portion and some
+saturation at extreme extension values. Obviously the crescendo stimulation
+provides a better simulation of the natural conditions.
+In Fig. 3 we have stimulated one and the same ventral root bundle with different impulse frequencies, each remaining at a constant value during the extension. As expected, the curves are lacking a “knee” and they clearly differ in
+their slopes: the higher the constant stimulation frequency, the steeper the
+slope. It may be added that quite similar slope changes are obtained if instead
+of increasing the frequency stepwise at maintained stimulus intensity, we apply
+different intensity steps at maintained stimulus frequency. In other words, with
+respect to the net effect upon the TED, the two parameters frequency and intensity of electrical efferent stimulation appear, within limits: interchangeable.
+
+700-
+
+Fig. 3. TEDs of a nerve-muscle preparation under supramaximal stimulation of the ventral
+roots at three different constant frequencies. Stimulus frequencies were 10, 20 and 30 Hz
+for the curves 1, 2 and 3, respectively. The small inset graph shows the programmes of stimulation.
+
+407
+
+3750-
+
+2500-
+
+1250-
+
+0
+
+0
+
+2
+
+L
+
+6
+
+8
+
+10
+
+I
+
+12
+
+1
+
+llmm
+
+Fig. 4. Parallel shift of the TEDs of a nerve-muscle preparation during different but parallel
+crescendo changes of frequency of Stimulation (a) and similar crescendo changes of strength
+of stimulation (b). In a, the stimulus strength on the L7 ventral root was supramaximal and
+the stimulus frequencies changed from 1 0 to 30 Hz in curve 1 , from 1 5 t o 35 Hz in curve 2.
+In b, the constant stimulus frequency was 40 Hz and stimulus strength was changed from 0.5
+to 0.6 V in curve 1, from 0.6 to 0.7 V in curve 2.
+
+Until now we have only described stimulus variations which lead t o slope
+changes of the TED. In Fig. 4 we see two examples for artificially induced
+parallel shifts in our nerve-muscle preparation. In Fig. 4a the distal stump of
+the ventral root was stimulated with crescendo frequencies, running during the
+first extension from 10 t o 30 imp/sec, during the second extension from 15 to
+35 imp/sec. Thus, the frequency increase is parallel-shifted from 1t o 2, as seen
+in the inset, and so are the two TEDs, at least in their linear range.
+In Fig. 4b, the Crescendo stimulation is performed with intensity increases,
+while the frequency remains constant. Again, the parallel shift in the stimulation program causes a parallel shift of the TEDs. What we have simulated here
+is an output change of the stretch reflex which under natural conditions would
+occur if the transmission gain remains constant but the bias is increased. It
+turns out that at least two conditions must be fulfilled in order t o obtain, by
+artificial efferent stimulation, a parallel shift of the TED: first, the stimulation
+must be of the crescendo type, with either a frequency or an intensity increase
+
+408
+
+0
+
+b 5200-
+
+2
+
+Volt
+
+9
+39000.5
+7
+
+lLmm
+
+2600-
+
+1300-
+
+0
+
+0
+
+2
+
+L
+
+6
+
+8
+
+10
+
+12
+
+1Lmm
+
+Fig. 5. Slope change of TEDs of nerve muscle preparation during frequency- (a) and strengthcrescendo stimulation (b). In a, stimulation of the L7 ventral root was supramaximal and the
+crescendo frequency change ranged from 5 to 25 Hz in curve 1, from 5 to 40 Hz in curve
+2. In b, the stimulus frequency was 40 Hz and the stimulus strength changed from 0.5 t o 0.6
+V in curve 1, from 0.5 to 0.7 V in curve 2.
+
+during the extension; and second, the stimulus program in itself, as plotted
+against extension, must undergo a real parallel shift.
+If we select, for instance, two different ranges of crescendo stimulation but
+let them start, as shown in Fig. 5, from the same initial frequency (top curves)
+or intensity (bottom curves), respectively, the slope change of the two stimulus
+programs (insets) is clearly reflected in a slope change of the two TEDs.
+We now want to more closely approach the real situation of the natural
+
+409
+
+stretch reflex, by including the spinal cord in our experimental model and altering the input rather than the output side of the reflex loop by electrical stimuli.
+For this series of experiments, both the dorsal and ventral roots of the preparation are left intact, allowing the proprioceptive stretch-induced input t o be
+transmitted to the output side which in turn will act on the muscle effector. In
+order to avoid any directly disturbing influence of the stimuli on the natural
+proprioceptive input, all nerves other than the one connected with the
+stretched muscle were cut and their central stumps used for stimulation.
+Electrical stimulation of severed dorsal root bundles was tried in some cases but
+soon given up due to the difficulties in selectively stimulating a homogenous
+group of dorsal root fibres of known origin and function. Instead, we stimulated either synergistic or antagonistic muscle nerves with near-threshold intensities, thus adding a controlled excitatory or an inhibitory input to the
+stretch-induced natural input.
+It was not surprising that under the new experimental conditions the TEDs
+in general showed more variabilities and more or less irregularities. This is
+certainly a consequence of the natural fluctuations of descending supraspinal
+influences in the decerebrate animal which complicate the “black box’’ behaviour of the spinal compartment of our model. However, in most experiments it was still possible to differentiate between slope changes or parallel
+shifts of the TED curves, as induced under different influences.
+Fig. 6 demonstrates two examples of facilitatory effects on the TED by additional afferent stimulation. In Fig. 6a, the control curves were obtained by extension of the gastrocnemius muscle while only the lateral gastrocnemius nerve
+was kept intact. Since the moderate scatter of the individual TEDs makes it
+somewhat difficult to recognize their averaged “normal” course, this is redrawn by hand in the simplified lower inset diagram; the upper inset plots, as
+before, the stimulus program against extension. For the curves 1, the muscle
+extension was performed during constant stimulation at 50 imp/sec of the
+proximal stump of the cut medial gastrocnemius nerve, i.e., of a close synergist.
+The stimulation frequency was increased to 160 imp/sec for the curves 2. The
+averaged curves 1 and 2, respectively, are parallel-shifted to the left from the
+control curve. At the first glance, this result might appear a bit puzzling, as
+compared t o the fact that on the efferent side artificial stimulation at constant
+parameters during extension had never led t o a parallel shift of the pseudoreflex TED. However, such an additional constant excitatory input on the afferent side is indeed equivalent to a stepwise increase of the bias in the stretch
+reflex, and this was our common denominator for obtaining parallel shifts. It
+must be stressed here that bias changes must not exclusively occur in the
+gamma-spindle loop of the extended muscle itself, since some other constant
+excitatory or inhibitory input t o the motoneurone pool, being in itself stretchindependent, will have a similar parallel-shifting effect on the TED.
+Another example is seen in the Fig. 6b. Here, the additional stimulation at
+constant frequency and near-threshold intensity was applied t o the contralateral tibia1 nerve, in a cat which had obtained 36 hr earlier a local injection of
+tetanus toxin (see Takano, 1976). This pretreatment considerably improves the
+appearance of excitatory effects induced from contralateral sources. It is obvious that the curves 1 are parallel-shifted against the control curves. The sec-
+
+410
+2
+
+a 2000
+9
+1500
+
+1000
+
+500
+
+0
+
+b 1800
+
+8’
+
+Hz
+
+9
+
+100,
+
+-
+
+1200
+
+0
+
+7
+
+lLrnrn
+
+600
+
+0
+
+0
+
+2
+
+i
+
+6
+
+8
+
+10
+
+12-
+
+lhmm
+
+Fig. 6. a: parallel shift of TEDs in a preparation with partially intact reflex arc. The supramaximal tetanic stimulations at frequencies of 50 Hz (for curves 1)and 160 Hz (for curves
+2 ) were given on the proximal end of the severed N. gastrocnemius lateralis. The N. gastrocnemius lateralis was left intact. K, control without electrical stimulation. The small inserted graphs show the program of stimulation (upper graph) and schematic illustration of
+the change of TEDs (lower graph). b: Parallel shift (curves 1)and slope change (curves 2) of
+the TEDs in a preparation with partially intact reflex arc during tetanus intoxication. Supramaximal tetanic stimulation of constant frequency (50 Hz, for curves 1 ) or crescendo stimulation (7-80 Hz for curves 2) was given on the contralateral tibia1 nerve. The Nn. gastrocnemii were left intact. K, controls.
+
+ond contralateral stimulation was done with a crescendo increase for frequency
+during the extension, and interestingly enough, this time we get a slope increase
+in the curves 2.
+
+411
+
+b 2000
+9 1
+
+0
+
+7
+2
+
+L
+
+10
+
+I
+
+12
+
+1
+
+lLmm
+
+Fig. 7 . a: parallel shift of TEDs in the preparation with partially intact reflex arc. The supramaximal tetanic stimulation was given on the antagonistic N. peroneus at two different constant frequencies ( 5 0 Hz for curves 1, 100 Hz for curves 2). K , controls. b: slope change
+(K-1) and parallel shift (1-2) of TEDs during frequency crescendo stimulation. Stimulation
+frequency changes 15-100 Hz in curves 1, 50-135 Hz in curves 2. K, controls.
+
+Fig. 7 is concerned with electrically induced inhibitory effects upon the
+TED. The uppermost curves are the controls without stimulation. In the top
+picture, the antagonistic peroneal nerve (ipsilateral) was stimulated at two different, but constant frequencies, 50 imp/sec for curves 1,and 100 imp/sec for
+curves 2. The expected parallel shift of the TEDs, this time to the right, i.e., in
+the inhibitory direction, is clearly visible. The same effects are observed (not
+illustrated here), when instead of frequency the intensity of stimulation is
+varied in two constant steps during extension. This demonstrates once more
+that principally the same stimulation effects can be obtained by either frequency or intensity variations. While the latter will certainly change the number of
+excited fibres within the nerve, this is most improbable with frequency variations within the low ranges applied in this study. The equivalence of the two
+effects, increase of the number of excited input fibres or of the number of excitations per time unit in a constant fibre population, respectively, indicates a
+very efficient integration of the total of individual effects at the follower sta-
+
+412
+tions, namely, of postsynaptic events in the motoneurone pool and of mechanical events in the effector muscle.
+In summary, our simple model experiments have confirmed that those procedures which enhance the gain, either at the peripheral muscular or at the
+spinal motoneural station, will lead t o an increased slope of the TED. In vivo,
+this is most commonly, but not exclusively, done by a recruitment of further
+motor units, higher density of the impulse barrage reaching the muscle being
+the other possibility. On the other hand, a change of bias will cause a parallel
+shift of the TED. While it is certainly true that in vivo modulations of the efferent gamma-spindle control are a predominant means of changing the bias, it
+must be realized that any other additional excitatory or inhibitory input t o the
+motoneurone pool will have the same effect on the TED, provided it remains
+constant during the stretch. Only if such stretch-independent changes of the
+input can be excluded, are we justified in interpreting a parallel shift of the
+TED as a sign of a gamma bias change.
+ACKNOWLEDGEMENTS
+This study was supported by the Deutsche Forschungsgemeinschaft (SFB
+33). Tetanus toxin was kindly supplied by Behringwerke AG Marburg. A part
+of this study was submitted by one of the authors (C.S.) t o the Faculty of
+Medicine, University of Gottingen, as a doctoral dissertation. English text was
+checked by Miss Paula Terhaar.
+REFERENCES
+Granit, R. (1958) Neuromuscular interaction in postural tone of the cat’s isometric soleus
+muscle. J. Physiol. (Lond.), 143: 387-402.
+Koella, W.P., Nakao, H., Evans, R.L.and Wada, J. (1956) Interaction of vestibular and proprioceptive reflexes in the decerebrate cat. Amer. J. Physiol., 1 8 5 : 6 0 7 - 6 1 3 .
+Matthews, P.B.C. (1959a) The dependence of tension upon extension in the stretch reflex
+of the soleus muscle of the decerebrate cat. J. Physiol. (Lond.), 147: 521-546.
+Matthews, P.B.C. (1959b) A study of certain factors influencing the stretch reflex of the
+decerebrate cat. J. Physiol. (Lond.), 147: 547-564.
+Pompeiano, 0. (1960) Alpha types of “release” studied in tension-extension diagrams from
+cat’s forelimb triceps muscle. Arch. itul. Biol., 9 8 : 91-117.
+Takano, K. (1976) Local tetanism, a tool for understanding the stretch reflex. In Progress
+in Bruin Research, Vol. 4 4 , Understanding the Stretch Reflex, S . Homma (Ed.), Elsevier, Amsterdam, Session X.
+Takano, K. und Henatsch, H.-D. (1964) Direkte Aufnahme von Langen-ReflexspannungsDiagrammen einzelner Muskeln in situ. Pflugers Arch. ges. Physiol., 281: 105.
+Takano, K. and Henatsch, H.-D. (1971) The effect of the rate of stretch upon the development of active reflex tension in hind limb muscles of the decerebrate cat. Exp. Brain
+Res., 1 2 : 422-434.
+
+

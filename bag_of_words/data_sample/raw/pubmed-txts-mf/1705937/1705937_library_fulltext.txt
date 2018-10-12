@@ -1,0 +1,663 @@
+THEJOURNAL
+OF BIOLOGICAL
+CHEMISTRY
+1991 by The American Society for Biochemistryand Molecular Biology, Inc.
+
+Vol. 266, No. 8, Issue of March 15, pp. 5286-5290, 1991
+Printed in U.S.A.
+
+(c)
+
+Analysis of Naturally Occurring andSite-directed Mutations in the
+Argininosuccinate Lyase Gene*
+(Received for publication, October 19, 1990)
+
+Peter BarbosaSg, Mary Cialkowskill, and William E. O'BrienS7l)I**
+From the Wnstitutefor Molecular Genetics,. fDeDartment
+of Biochemistry and the 11 Howard Hughes Medical Institute, Baylor
+. .
+College of Medicine, 'Houston, Texas 77030
+
+Argininosuccinic aciduria is an inborn error of me- has 16 cysteines, 4 of which can be reacted with Ellman's
+tabolism due to the geneticdeficiency of argininosuc- reagent without loss of activity (4). Studies (8) on the acidcinate lyase. In order to determine the
+molecular basis base requirements of the reaction found the enzyme to be
+for thedisease, RNA isolated from cultured skin fibro- sensitive' to reversible inactivation by diethylpyrocarbonate.
+blasts derived from four unrelated patients was reThese workers (8) suggested that a histidine residue and a
+verse-transcribed and amplified using the polymerase carboxyl group may participate in the reaction.
+Using the
+chain reaction and the products were cloned and se- alkylating reagent, bromomesaconic acid, Lusty and Ratner
+quenced. Three single base missense mutations were (9) demonstrated that the
+lysine at position 51 was chemically
+identified: Arg"' -P Trp, Gln2" + Arg, and Arglg3+ modified during the reaction and that the
+modification could
+Gln. One single base amber mutation was identified
+at
+Gln454.One mutation involved a 13-base pair deletion be blocked by the presenceof the substrate, argininosuccinate.
+The cDNA encoding argininosuccinatelyase has been idenwithin exon 13, and it wasnoted that the majorityof
+the mature RNA derived from this allele was deleted tified and sequenced for the human (10-12) and rat (13). The
+yeast gene (14) has been isolated and
+sequenced. Both the rat
+for the entire exon rather than containing the exon
+encoding
+with the 13 bases deleted. A final mutation was ob- (15) and human' genes have 16 exons, and the exons
+the
+protein
+are
+identical
+in
+size
+and
+content.
+Argininosuccinserved in which exon 2 was deleted from the mature
+ate lyase is one of the genes that has been recruited for use
+RNA. The molecular basis for this deletion was not
+species (16,17).
+determined. Of the eight potential mutations present as a crystallin molecule in avian and reptilian
+in the fourcell lines studied, six mutationswere iden- The avian gene has undergone duplication to produce two
+genes (designated 61 and 62 crystallin) approxitified and further data indicate that the remaining homologous
+two
+mately 4 kilobase pairs apart on thechromosome (18, 19).
+unidentified mutationswere different from those identified.
+In humans, mutations in the argininosuccinate lyase gene
+Twosite-directedmutations
+were created in the
+cause argininosuccinic aciduria. The disease is inherited as a
+cDNA, Lyssl + Asn and Hissg + Gln, and these were autosomal recessive disorder and is manifested by hyperamexpressed in yeast. The Lys" mutation caused an ap- monemia, which may be life-threatening, andmassive excreproximate 2-fold reduction in activity and the Hiss9 tion of argininosuccinicacid and its anhydrides. There is
+mutation resulted in an approximate 10-fold reductionconsiderable heterogeneity at the clinical level (20), and this
+in activity.
+heterogeneity is also apparent in complementation studies
+The combination of determination of naturally oc- (21) and by Western blotting (22).
+T o further our understandcurring mutations and the study of the effect of site- ing of the molecular events underlying the heterogeneity in
+directed mutations on
+the activityof argininosuccinate this disorder,we have determined mutations in the argininolyase provide insight into the amino acid residues critsuccinate lyase gene causing inactivation of the gene.
+ical to the function
+of the enzyme.
+MATERIALS AND METHODS
+
+Cell Lines-Cultured skin fibroblast cell lines were obtained from
+patients seen in ourclinic or were received from referring centers for
+Argininosuccinate lyase (EC 4.3.2.1) participates in the ureaconfirmation of the diagnosis of argininosuccinic aciduria. All pacycle in ureotelic animals, where it catalyzes the reversible tients used in this study presented in the neonatal
+period and enzyme
+cleavage of argininosuccinic acid into fumarate and arginine. activity in the cell lines was <3% of normal. Cell lines were cultured
+9% fetal bovine
+The bovineenzyme has been extensively characterized by in minimal essential medium supplemented with
+Ratner and colleagues (1-4), and the human enzyme (5) has serum.
+Nucleic Acid Methodology-DNA was isolated after extraction with
+been purified also. Several reviews of the properties of the phenol/chloroform and precipitation with ethanol. RNAwas isolated
+enzyme are available (6, 7). The enzyme is a homotetramer using either the guanidinium isothiocyanate/CsCl cushion centrifuof 50-kDa subunits in allspecies studied. The bovine enzyme gationmethod(23)ortheacidguanidiniumthiocyanate/phenol/
+chloroformextractionmethod
+(24). The synthesis of cDNA was
+* This work was supported in partby Public Health Service Grant performed as described previously (25) with only minor modifications.
+EY07612. The costs of publication of this article were defrayed in The polymerase chain reaction (PCR)' was carried out essentiallyas
+gepart by the payment of page charges. This article must therefore be described elsewhere (26) using either the first strand cDNA or
+hereby marked "aduertisement" in accordance with18 U.S.C. Section nomic DNA as template. One-seventh of a typical cDNA synthesis
+reaction or 1 pg of genomic DNA were added to the reaction mix in
+1734 solely to indicate thisfact.
+5 Supported by a National Science Foundation Minority Graduate
+R. D. Abramson, P. Barbosa, K. Kalumuck, and W. E. O'Brien,
+Fellowship.
+** To whom correspondence should be addressed: Inst. forMolec- unpublished results.
+The abbreviations used are: PCR, polymerase chain reaction; bp,
+ular Genetics, Baylor College of Medicine, One Baylor Plaza, Housbase pair(s).
+ton, T X 77030. Tel.: 713-798-4795; Fax: 713-797-6718.
+
+5286
+
+5287
+
+Mutations in Argininosuccinate Lyase
+TABLE
+I
+Oligonucleotides used in the analyses
+All primers are shown in their 5' >> 3' orientation. Underlined sequences represent linkers used to generate
+BamHI restriction endonuclease sites used for cloning Dumoses.
+No.
+
+Primer
+
+Start
+
+End
+
+Pumose
+
+Full-length AL cDNA/cloning
+Full-length AL cDNA/cloning
+Confirmation of Q454X
+Confirmation of Q454X
+Confirmation of Q286R
+Confirmation of Q286R
+Analysis of exon 13-skipping
+Analysis of exon 13-skipping
+Confirmation of R l l l W
+Confirmation of R l l l W
+
+cDNA"
+
+422
+423
+
+gacgacgaggatccgcccaac
+cgtcggatcctgggaggacctaggcctg
+
+-21
+1404
+
+-1
+1387
+
+32
+30
+198
+
+ccaagagaacatgggacagg
+tgagggtcatcaggagcccg
+cggatccggtgtggaccgagagctgctccgag
+
+1068
+943
+628
+
+1087
+924
+652
+
+31
+533
+199
+
+gctgatggtctgcagctcct
+cattggtgcaacggcag
+cggatccgactagtggcatccatgctgttgag
+
+1251
+297
+702
+
+1232
+313
+679
+
+Genomic
+
+2268
+2269
+3090
+3089
+
+5'
+3'
+5'
+3'
+
+-tcccggggtacacccatt
+cgtcggatcctgtcaatccctaaggcta
+gggttttgtggggatccctgggtgc
+cgtcggatcctgcctgggacctaggggaggaga
+
+confirmation of R193Q
+confirmation of R193Q
+amplification of exon 13
+amplification of exon 13
+
+Site-directed mutagenesis
+
+Creation of K51N
+MG231
+gccctgcgttctccagg
+MG122
+tggctgtttggatgtcc
+Creation of H89Q
+The numbering corresponds to thecDNA sequence with first base of the initiation codon designated as +l.
+a final volume of 100 pl containing 3 units of Taq polymerase. The
+reactions were subjected to 30 cycles of PCR with denaturation a t
+94 "C for 1 min, annealing a t 60 "C for 45 s, and polymerization a t
+72 "C for 1-3 min depending on the lengthof fragment being synthesized. Other general methods were as described in methods manuals
+(27, 28). Single strand DNA sequencing was performed either manually (29,30) or using an automated sequencer (Applied Biosystems,
+Foster City, CA). Numerous oligonucleotides were utilizedin this
+study and areshown in Table I.
+Expression of Enzyme in Yeast-Saccharomyces cerevisiae strain
+MGD131-102a (arg4, his3, CYH5, ade2, ura3, trpl, a) containing a
+deletionin the ARG4 gene was obtained fromDr. Alain Nicolas
+(University of Paris, Orsay, France). The vector pVT103 (31) was
+used for all expression studies.
+The vector contains the 2-micron
+origin of replication and uses an alcohol dehydrogenase promoter. I n
+vitro mutagenesis was performed essentially as described by Kunkel
+et al. (32) using strains obtained from Bio-Rad Laboratories.
+The
+oligonucleotides employed to introduce the mutations are shown in
+Table I. Transformation of yeast was performedusing the LiCl
+method (33). Other routine methods for manipulating yeast were
+performed as described (27).
+RESULTS
+
+General Strutegy-Total RNA was prepared from fibroblast
+cell lines derived from patients with argininosuccinic aciduria
+and first strand cDNA was synthesized with reverse transcriptase using oligo(dT) primers. The entire coding region was
+amplified using PCR with oligonucleotide primers (422 and
+423 in Table I) just flanking the coding sequence. The PCR
+products were first analyzed by gel electrophoresis to determine their size and to assess the possibility of heterogeneity
+of the products. Normally, only one major product of approximately 1400 bp was noted but in some cell lines (notably
+patient LD) size heterogeneity was obvious at thisstage. The
+products of the amplification reactions were cloned and four
+to six independent clones from each patient were sequenced
+in their entirety. Single base changes which were observed
+only once were not considered to be due to mutations but
+rather to artifactsintroduced during the amplification process. Previous work in this laboratory (25) as well as thiswork
+encountered such changes a t a rate of approximately 1in 800
+
+T
+
+I C
+
++ l 2 3 4 + 1 2 3 4
+
+d&WL;FIm
+
+rEGEZ
+
+518-W
+
+I
+
+FIG. 1. Sequence analysis revealing a C to T mutation in
+patient S S . The nucleotidesequence of the antisense strand of
+cDNA from a normal (+) and four unique subclones from patient SS
+(lanes 1-4) are shown. The left halfof thefigure shows lanescontaining the dideoxythymidine (T) reactions, and the right half shows
+lanes containing the dideoxycytidine (C) reactions. The arrow indicates the position of a C to T nucleotide change at base pair 578 in
+clones 1 and 3.
+
+bases when 30 cycles of amplification were used in the analysis.
+Identificution of Single Base Changes-In order to facilitate
+the analysis of data, the sequencing reactions were loaded on
+the gel as shown in Fig. 1. In this example, two of the four
+clones analyzed from patient SS were noted to have a T at
+position 578 instead of the C present in the normal sequence.
+The sequence of the noncoding strand is shown. (The numbering system used to designate the nucleotides involved in
+mutations assigns the A of the initiation codon as +1 and
+uses the corrected nucleotide sequence of Matuo et al. (ll).)
+This G to A change in the coding strand results inthe
+substitution of a glutamine (Q) for arginine (R) at position
+193 inthe amino acid sequence (subsequently designated
+R193Q). The other two clones which did not contain this
+mutation were subsequently shown to have a deletion of exon
+13 (see below).
+For cell line HL, 13 M13 clones were isolated and six were
+sequenced in their entirety. In this case, all six clones contained a C to T change a t position 331 in the cDNA sequence
+as shown in Fig. 2. This mutation creates a FokI site in the
+nucleotide sequence and substitutes a tryptophan for an arginine at amino acid position 111 (R111W) in the protein.
+In patient AR, 12 independent clones were obtained and 6
+
+5288
+
+Mutations in Argininosuccinate Lyase
+
++
+
+site and produced a DNA product containing 323 bases. The
+mutation is predicted to create an additional HpaII site as
+NORMAL
+ACG GGA CGG AGC CGG
+shown in Fig. 4. Following digestion with HpaII, the normal
+thr gly arg ser arg
+product gives rise to a fragment of 268 bp. In patientAR two
+fragments are observed, a major product at 235 bp, which is
+PATIENTHL
+ACG GGA TGG AGC CGG
+the predicted size of the mutantproduct, and a second product
+thr gly trp ser arg
+FIG.2. Nucleotide sequence showing the mutation in cell of lesser abundance at 268 bp.This second product is presumline HL. The position of the mutation is indicated by the uertical ably derived from the other allele, since this patient is not
+from a consanguineous mating. This approach also allowed
+arrow. The site of the FokI site created in the mutant sequence is
+underlined.
+us toscreen the remaining M13 clones obtained from this cell
+line. All six clones not sequenced previously contained this
+same mutation. Hence, 12 of 12 clones obtained from this cell
+1360
+line contained the same mutation. The relative intensity of
+the two products observed in Fig. 4 probably reflects the
+abundance of the RNA products from the two alleles and may
+account for our failure to clone any products from the second
+allele. A very similar approach is shown in Fig. 5 for cell line
+HL. In the case of the RlllW mutation in patient HL, an
+additional FokI site is created. Amplification of cDNA from
+thispatient with flanking oligonucleotides (533 and 199)
+yielded a 414-bp product. Digestion of the amplification product from normal RNA with FokI gives a diagnostic band at
+Normal
+Patient LD
+FIG.3. Automated sequence analysis revealing a G to A 91 bp(lanes 3 and 5 ) . DNA derived from the mutantallele is
+mutation in patient LD. The nucleotide sequence of the antisense cleaved by FokI to yield two fragments of 48 and 43 bp (lanes
+strand of the cDNA from bp 1352 to 1371 from a normal and patient 4 and 6). In lanes 4 and 6, the 91-bp product derived from the
+LD. The position of the mutation is indicatedby the vertical arrow.
+other allele not containing the RlllW mutation is readily
+visible.
+Mutation Q454X destroyed a ScrfI and was confirmed in a
+similar fashion using flanking primers 32 and 423 (data not
+shown).
+A second approach was used to confirm mutations which
+did not alter a restriction site. All of the exonlintron boundaries are known for the human argininosuccinate lyase gene'
+and nucleotide sequence flanking each exon is available. This
+allowed us toamplify the exon containing the mutation from
+35 ?o
+genomic DNA to confirm the presence of the mutation in the
+Normal
+2MI
+SS
+genomic sequence. In the case of the R193Q mutationin
+patient SS no restriction site was destroyed or created. Using
+Patient AR
+flanking oligonucleotides (2268 and 2269), we amplified the
+FIG.4. Confirmation of the Q286R mutation. An ethidium exon (exon 7) from genomic DNA that contained this mutabromide-stained agarose gel showing products from patient AR and tion. Three of eight clones that were sequenced from amplinormal, before (-) and after (+) digestion with HpaII is shown. A
+fication of the genomic DNA contained the C to T mutation
+schematic representation of the DNA product is shown below with (Fig. 6) confirming the presence of this mutation in thegene.
+arrows indicating the positions
+of HpaII sites.
+The otherfive clones contained the normal sequence and are
+presumably derived from theother allele which contains
+clones were sequenced. All six clones had an A to G change normal sequence in exon 7.
+at nucleotide position 857, a mutation that would result in
+Analysis of Mutations Involving Deletions-We observed
+the substitution of an arginine for a glutamine at residue 286
+1 2 3 4 5 6
+of the amino acid sequence (Q286R). This mutation has been
+observed previously (34).
+In patient LD, three of the six clones examined by automated sequencing contained a C to T mutation at position
+1360 (Fig. 3). This mutation results in a premature termination signal (Q454X).
+Confirmation of Single Base Changes-Since we were aware
+that thesingle base changes observed in this type of analysis
+223
+may have resulted from a polymerase error during the ampli91
+loo
+Normal
+fication process we felt that it was imperative to assess the
+48 43 100
+223
+presence of the mutation by an independent means. This was
+Patient HL
+accomplished using two approaches. First, when the mutation
+resulted in thedestruction or creation of a restrictionenzyme
+FIG.5. Confirmation of the R111W mutation. An ethidium
+site, we chose to perform a second amplification from an bromide-stained acrylamide gel showing the products of the DNA
+independent reverse transcription reaction followed bydiges- amplificationbefore andafter digestion. Lane I , HaeIII-digested
+6x174; lane 2, undigestedamplifiedcDNA; lane 3, cDNA from a
+tion of the product with the restriction enzyme that was normal
+individual digested with FokI; lane 4, amplified cDNA from
+predicted to be involved. This approach is shown in Fig. 4 for patient HL digested with FokI; lanes 5 and 6 contain FokI-digested
+patient AR. To perform the analysis, two additional oligonu- amplified DNA from M13 clones derived from a normal individual
+cleotides, 30 and 198, were used which flanked the mutation and patient HL, respectively.
+
+5
+
+J.
+
+J. 3
+J.J. 3
+
+5289
+
+Mutations inArgininosuccinate Lyase
+
+J.
+
+J.
+hnl
+d l
+Cd2
+
+ddl
+dd2
+*a1
+ya1
+
+Normal
+Patient
+
+SS
+
+FIG.6. Confirmation of mutation R193Q. Genomic DNA was
+amplified from the region of the gene containing exon 7. Automated
+sequence analysis of the antisense strand of the cloned amplified
+DNA showing the C to T change predicted. The uertical arrow
+designates the position of the mutation.
+
+B
+
+MW SS NL
+
+C
+
+GCCACTGGCGTCATCTCTACGCTGCAGgcaagaca
+
+NORMAL
+
+PATIENT
+
+SS
+
+GCCACTGGC-------------TGCAGgcaagaca
+
+FIG.7. Analysis of exon 13 skipping in patient SS.A shows
+partial nucleotide sequence from the antisense strand of cDNA clones
+from a normal and patient SS. The reading of the sequence and the
+exon boundaries for the normal and mutant alleles are shown. B, an
+ethidium bromide-stained gel showing products derived from amplified DNA from patient (SS) and normal (NL) and HaeIII-digested
+6x174 (MW). C, a partial sequence of exon 13 from normal and
+patient SS. Bases in the exon are in upper case, and bases in the
+intron are inlower case. The deleted bases are shown as dashes.
+
+that the sequences encodedby exon7 of the gene weredeleted
+in a small percentage of our clones from numerous patients.
+On further analysis it was shown that exon 7 is skipped in
+normal cell lines and normal tissues at a similar frequency
+and we attributed this to be due to the small size of the
+preceding intron.' Walker et al. (35) have reported a similar
+observation involvingexon 2. However, of the 26 clones
+derived from fourunrelated patients that we sequenced, only
+three were noted to be deleted for exon2 sequences. All three
+of these clones were derived frompatient LD. At the present
+time wedo not know whether this represents the second
+mutation in this cell line or is the result of infrequent skipping
+of the exon.
+The two clones from patient S S that did not contain the
+R193Q mutation were subsequently shown to be precisely
+deleted for sequences encoded by exon 13 as shown in Fig.
+7A. To confirm this deletion we amplified a smaller section
+of the cDNA (631 bp) using flanking oligonucleotides (198
+and 31) and analyzed the DNA on an agarose gel. Three
+products were noted (Fig. 7B):one, 631 bp in length, corresponds to the expected size forthe exon 13-containingprod-
+
+TABLEI1
+Argininosuccinate lyase activity in transformed yeast
+All genes were carried in the expression vector pVTlO3. The ability
+of the transformants to grow in arginine-deficient medium is designated as a + in the Argcolumn. Activity in nanomoles/min/mg
+protein is expressed as the mean f S.D. with the number of indeDendent colonies assaved Drovided in Darentheses.
+cDNA
+
+HAL
+K51N
+H89Q
+
+A%
+
++
+
++
+2
+
+Activity
+
+4.20 f 0.9 (4)
+1.16 f 0.43 (3)
+0.41 f 0.35 (4)
+
+uct, one, 547 bp in length, corresponds to the product completely lacking exon13 sequences, and anunexpected product
+of approximately 610bp. In order to determine the exact
+nature of the mutation that resulted in the deletion of exon
+13 sequences from the cDNA in patient SS we synthesized
+oligonucleotides (3089 and 3090) complementary to regions
+in the introns that flanked the exon enabling us to amplify
+the entireexon includingboth boundaries. The product of the
+amplification reaction was cloned into M13 vectors and sequenced. Five of eight clones sequencedhad a 13-bp deletion
+within exon 13 asshown in Fig. 7C. This deletion apparently
+causes exonskipping frequently, since the 13-bp deletionwas
+not observed in the clones that were sequenced. The unexpected product observed in Fig. 7B is likely to be derived from
+an RNA with the 13-bpdeletion sincethe predicted sizewould
+be 618 bp.It may benoteworthy that thismutation occurs in
+an exon with an unusual 5' splice donorsite (GC uersus GT)
+
+Mutations in Argininosuccinate
+Lyase
+
+5290
+
+and may lead to exon skipping more readily.
+area of complete sequence conservation in the active moleSite-directed Mutations-In order to further study the ef- cules leads t o significant loss of enzyme activity. The lysine
+fect of mutations on the argininosuccinate
+lyase molecule, we at position 51 is alsoconserved in all of the molecules shown
+constructed two site-directed mutations in the protein. The
+in Fig. 8. The K51N mutation, however, does not lead to
+lysine at position 51 which had beenimplicated to participate complete inactivation as was anticipated but onlyreduces
+in the catalyticprocess was mutated to an asparagine and theactivity. This observationsuggests that K51 does not partichistidine at position 89 was changed to a glutamine. This ipate directly in the catalyticprocess but rather may be only
+amino acid substitution was suggested by the presenceof this near the binding sitefor argininosuccinate.
+change in the6 1 crystallin molecules of chicken and duck (36)
+Acknowledgments-We wish to thank Craig Rosenblum and Diane
+(Fig. 8). We have expressed both duck 61 and 62 crystallin in
+yeast and demonstrated that only the
+62 product is enzymat- Dicks for excellent technical assistance.We also wish to thank Drs.
+G. Wistow and J. Piatigorsky for providing us with the sequence of
+ically active.3 The His8’ + Gln substitutionoccurs in a highly the
+duck 6 crystallin cDNA sequences prior to publication.
+conserved region of argininosuccinate lyase from all species.
+REFERENCES
+Given the observations thata histidine residue might play a
+role in the catalyticprocess of this enzyme, this change might 1. Murakami-Murofushi, K., and Ratner, S. (1979) Anal. Biochem. 9 5 , 139155
+be predicted to yield a mutant product of reduced catalytic
+2. Bray, R. C., and Ratner, S. (1971) Arch. Biochem. Biophys. 146,531-541
+3. Dales, S., Schulze, I. T., and Ratner, S. (1971) Biochim. Biophys. Acta 2 2 9 ,
+potential.
+771-778
+The cDNA molecules containing the site-directed muta4. Havir, E.A,, Tamir, H., Ratner,S., and Warner, R. C. (1965) J. Biol. Chem.
+240,3079-3088
+tions were expressed in yeast and their ability to complement
+O’Brien, W. E., and Barr, R. H.(1981) Biochemistry 20,2056-2060
+the ARG4 mutation by growth on arginine-deficient medium 5.
+6. Ratner, S. (1973) Adu. Enzymol. 3 9 , 1-90
+7.
+Ratner, S. (1972) Enzymes 7 , 167-197
+and total enzyme activity were determined. These data are
+8. Garrard, L. J., Bui, Q. T. N., Nygaard, R., and Raushel, F. M. (1985) J.
+shown in Table 11. The K51N mutation which we predicted
+Biol. Chem. 260,5548-5553
+9. Lusty, C. J., and Ratner,S. (1987) Proc. Natl. Acad. Sci. U. S. A. 84,3176would inactivate the enzyme leads to an active enzyme but
+3180
+one with reduced activity. This mutant does support growth 10. O’Brien, W. E., McInnis, R., Kalumuck, K., and Adcock, M. (1986) Proc.
+Natl. Acad. Sei. U. S. A. 8 3 , 7211-7215
+on arginine-deficient medium. The H89Q mutation results in
+11. Matuo, S., Tatsuno, M., Kobayashi, K., Saheki, T., Miyata, T., Iwanaga,
+a n enzymewithonly
+10% of wild typeactivity,andthis
+S., Amaya, Y., and Mori, M. (1988) FEBS Lett. 234,395-399
+mutant grows very poorly if a t all on arginine deficient me- 12. Todd, S., McGill, J. R., McCombs, J. L., Moore, C. M., Weider, I., and
+Naylor, S. L. (1989) Genomics 4 , 53-59
+dium. The variation in activity observed in the experiments 13. Lambert, M. A,, Simard, L. R., Ray, P. N., and McInnes, R.R. (1986) Mol.
+Cell. Biol. 6 , 1722-1728
+is believed to be due to differences in thecopy number of the
+14. Beacham. I. R.. Schweitzer. B. W.. Warrick. H. M.. and Carbon.. J. (1984)
+.
+.
+plasmid containing the mutantgenes.
+Gene (Amst.j 29,271-279
+DISCUSSION
+
+15. Matsubasa. T.. Takieuchi. M.. Amava. Y.. Matsuda.
+, , I..
+, and
+, , Mori. M. (1989)
+Proc. Natl. Acad. Sci. U . S.’A. 86,5921596
+16. Piatigorsky, J., O’Brien, W. E., Norman, B. L., Kalumuck, K., Wistow, G.
+J., Borras, T., Nickerson,J. M., and Wawrousek, E.F. (1988) Proc. Natl.
+Acad. Sci. U. S. A. 8 5 , 3479-3483
+17. Piatigorsky, J., and Wistow, G. J. (1989) Cell 5 7 , 197-199
+18. Nickerson, J. M., and Piatigorsky, J. (1984) Proc. Natl. Acad. Sci. U. S. A.
+81,2611-2615
+for
+19. Nickerson, J. M., Wawrousek, E. F., Borras, T., Hawkins, J. W., Norman,
+B. L., Filpula, D. R., Nagle, J. W., Ally, A. H., and Piatigorsky, J. (1986)
+J. Biol. Chem. 261,552-557
+20. Brusilow, S. W., andHorwich, A.L. (1989) in The Metabolic Basis of
+
+The previous clinical experience and biochemical analysis
+of cell lines derived from patients with argininosuccinic aciduria indicated extensive heterogeneity in the disease and
+certainly suggested that multiple mutations might account
+the disease. We have studied four cell lines derived from
+patients with complete deficiency of argininosuccinate lyase.
+Of the eight alleles present in this population, six mutations
+in the gene have been determined. In patient AR only one 21.
+mutation was detected, but further restrictionenzyme analy- 22.
+sis revealed the presenceof a small amountof product derived
+from thesecond allele indicating thattwo different alleles are 23.
+present. It is highly likely that all of the patients have a 24.
+different mutation in each allele and therefore are compound 25.
+heterozygotes. This observationof multiple mutations causing 26.
+argininosuccinic aciduria may in part account
+for the observed 27.
+heterogeneity in this disease at theclinical level. This is very
+similar to our observations
+in citrullinemia where all patients 28.
+of nonconsanguineous matings are compound heterozygotes
+(25).
+29.
+If one comparestheamino acidsequence of numerous
+argininosuccinate lyase molecules, several large regions
+are 30.
+delineated that have maintained a very high level of conser- 31.
+vation during evolution (Fig. 8). It is noteworthy that all of 32.
+the naturally occurring missense mutations that have been
+33.
+observed fall into these regions. In addition, the H89Q mutation, created by site-directed mutagenesis, lies within a n 34.
+“ G . Wistow, J. Piatigorsky, M. Cialkowski, and W. E. O’Brien,
+unpublished results.
+
+Inherited Disease (Scriver, C. R., Beaudet, A. L., Sly, W. S., and Valle,
+D., eds) pp. 629-663, McGraw-Hill, New York
+McInnes, R. R., Shih, V., and Chilton, S. (1984) Proc. Natl. Acad. Sci. U.
+5‘. A. 81,4480-4484
+Simard, L., O’Brien, W. E., and McInnes, R. R.(1986) Am. J. Hum. Genet.
+39,38-51
+
+Chirgwin, J. M., Przybyla, A. E.,MacDonald,R. J., and Rutter, W. J.
+(1979) Biochemistry 18,5294-5299
+Chomczynski, P., and Sacchi, N. (1987) Anal. Biochem. 162,156-159
+Kobayashi, K., Jackson, M. J., Tick, D. B., O’Brien, W. E., and Beaudet,
+A. L. (1990) J . Bid. Chem. 265,11361-11367
+Kogan, S. C., Doherty, M., and Gitschier, J. (1987) N. Engl. J . Med. 3 1 7 ,
+985-990
+
+Ausubel, F. M., Brent, R., Kingston, R. E., Moore, D. D., Seidman, J. G.,
+Smith, J. A., and Struhl, K. (eds) (1990) Current Protocols in Molecular
+Biology, Greene Publishing & Wiley-Interscience, New York
+Sambrook, J., Fritsch, E. F., and Maniatis,
+T. (1989) Molecular, Cloning:A
+Cold Sprmg Harbor,
+Laboratory Manual, Cold Spring Harbor Laboratory,
+NY
+Biggin, M. D., Gibson, T. J., and Hong, G. F. (1983) Proc. Natl. Acad. Sci.
+U. S. A. 80,3963-3965
+Sanger, F.,Nicklen, S., and Coulson, A. R. (1977) Proe. Natl. Acad. Sci. U.
+S. A. 74,5463-5467
+Vernet, T., Dignard, D., and Thomas, D. Y. (1987) Gene (Amst.)5 2 , 225233
+
+Kunkel, T. A., Roberts, J. D., and Zakour, R. A. (1987) Methods Enzymol.
+154,367-382
+
+Ito, H., Fukuda, Y., Murata, K., and Kimura, A. (1983) J . Bacteriol. 1 5 3 ,
+163-168
+
+Walker. D. C.. McCloskev. D. A.. Simard., L. R... and McInnes. R. R. (1990)
+Am. J. Hum. Genet. 49; A169’(abstr.)
+35. Walker, D. C., McCloskey, D. A,, Simard, L. R., and McInnes, R. R. (1989)
+Am. J. Hum. Genet. 4 5 , A227 (abstr.)
+36. Wistow, G., and Piatigorsky, J. (1991) Gene (Amst.),in press
+
+

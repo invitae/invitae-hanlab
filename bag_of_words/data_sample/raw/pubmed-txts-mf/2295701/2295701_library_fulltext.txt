@@ -1,0 +1,1138 @@
+Frameshift Mutation Near the 3' End of the COLIAl Gene
+of Type I Collagen Predicts an Elongated Proal(1)
+Chain and Results in Osteogenesis Imperfecta Type I
+Marcia C. Willing,* Daniel H. Cohn,t and Peter H. Byers
+Department of*Pediatrics, **Division ofMedical Genetics, Department ofMedicine, *Department of Pathology,
+and *OCenter for Inherited Diseases, University of Washington, Seattle, Washington 98195;
+and ODivision ofMedical Genetics, Cedars Sinai Medical Center, Los Angeles, California 90048
+
+Abstract
+Osteogenesis imperfecta (01) is a heterogeneous disorder of
+type I collagen of which OI type I, an autosomal dominant
+condition, is the mildest and most common form. Affected indi-
+
+Presented in part at the Second International Conference on Molecular
+Biology and Pathology of Matrix, Philadelphia, June 1988 and the
+Annual Meeting of the American Society of Human Genetics, New
+Orleans, October 1988 and published in abstract form in 1988. (Am. J.
+Hum. Genet. 43:A207.)
+Address reprint requests to Dr. Willing, Division of Medical Genetics, Department of Medicine, RG-25, University of Washington,
+Seattle, WA 98195.
+Received for publication 19 April 1989 and in revised form 17
+August 1989.
+
+common form, 01 type I, is characterized by normal or near
+normal stature, bone fragility without significant deformity,
+osteopenia, blue sclerae, and inheritance in an autosomal
+dominant fashion (1). Adult onset hearing loss and/or dentinogenesis imperfecta are seen in some kindreds. Family studies have demonstrated linkage of the 01 type I phenotype to
+restriction fragment length polymorphisms in COLlA1, the
+gene encoding the proal(I) chain of type I collagen, in the
+majority of cases, and to sites in COLlA2, the gene encoding
+the proa2(I) chain of type I collagen, in the minority (2-4).
+Little is known about the nature ofthe mutations that result in
+01 type I, except that dermal fibroblasts from affected individuals produce and efficiently secrete about half the expected
+amount of structurally normal type I collagen (4, 5). The abnormality in type I collagen production is reflected in altered
+ratios of type I to type III collagen in skin (4), and represents
+the most characteristic biochemical correlate of the phenotype.
+Barsh et al. (6) demonstrated that the disturbance in type I
+collagen production is due to decreased synthesis of proal(I)
+chains in the patients they studied. Dermal fibroblasts from
+these individuals synthesized proa 1(I) and proa2(I) chains in a
+1:1 ratio instead of the expected 2:1 ratio. Additional analyses
+by Rowe et al. (7) and Genovese and Rowe (8) and by our
+laboratory (Willing, M. C., and P. H. Byers, unpublished observations) indicate that the decreased proa I(I) production reflects a reduction in steady-state COLlA1 mRNA levels.
+These data, taken together suggest that 01 type I frequently
+results from mutations that affect the apparent expression of
+COLlA 1, but the mechanisms by which expression is altered
+are not clear.
+In this paper we describe a three-generation family with OI
+type I in which all affected members have a 5 bp deletion that
+disrupts the 3' intragenic Eco RI site in one COLlAl allele.
+The deletion creates a shift in the translational reading-frame
+of the protein beginning at the Eco RI site, which is located 30
+bp from the normal protein termination site, and predicts a
+protein that extends beyond the normal termination point by
+84 amino acid residues. Although the mutant proa l(I) chain is
+synthesized in an in vitro translation system, we are unable to
+detect its presence in intact cells, suggesting that it is unstable,
+rapidly degraded, and thus unable to participate in heterotrimer assembly. These findings indicate that mutations that
+alter protein stability, in addition to those that interfere with
+nuclear processing (8) can result in decreased production of
+type I collagen and produce the OI type I phenotype.
+
+1. Abbreviations used in this paper: 01, osteogenesis imperfecta; PCR,
+polymerase chain reaction; RER, rough endoplasmic reticulum.
+
+Methods
+
+viduals have blue sclerae, normal stature, bone fragility without significant deformity and osteopenia. Fibroblasts from
+most affected individuals produce about half the expected
+amount of structurally normal type I collagen as a result of
+decreased synthesis of one of its constituent chains, proal(I),
+but the nature of the mutations which result in 01 type I are
+unknown. We describe a three generation family with OI type I
+in which all affected members have one normal COLlA1 allele
+and another from which the intragenic Eco RI restriction site
+near the 3' end of the gene is missing. Amplification by polymerase chain reaction and sequence determination of the normal allele and of the mutant allele in the domain that normally
+contains the Eco RI site demonstrated a 5-bp deletion frop the
+mutant allele. The deletion changes the translational readingframe beginning at the Eco RI site and predicts the synthesis of
+a proal(I) chain that extends 84 amino acids beyond the normal termination. Although the mutant proal(I) chain is synthesized in an in vitro translation system, we are unable to
+detect its presence in intact cells, suggesting that it is unstable
+and rapidly destroyed in one of the cell's degradative pathways.
+Our analysis of individuals with 01 type I from 20 families
+indicates that this is a unique mutation and suggests that the
+phenotype can result from multiple mechanisms that decrease
+the synthesis of normal type I procollagen molecules, including
+those that alter protein stability. (J. Clin. Invest. 1990.
+85:282-290.) elongated proal(I) * frameshift OI type I
+
+Introduction
+Osteogenesis imperfecta (OI)' is a clinically, biochemically and
+genetically heterogeneous disorder (1). The mildest and most
+
+J. Clin. Invest.
+© The American Society for Clinical Investigation, Inc.
+
+0021-9738/90/01/0282/09 $2.00
+Volume 85, January 1990, 282-290
+282
+
+M. C. Willing, D. H. Cohn, and P. H. Byers
+
+Clinical summary. The proband (11-2) (see pedigree in Fig. 2) is a
+33-yr-old Caucasian male with normal stature, mild scoliosis, blue
+sclerae, normal hearing and dentition, and a history of multiple fractures that have healed without deformity. He has a son with a similar
+
+phenotype and an unaffected daughter. Within the family there is
+clinical heterogeneity. Two individuals (I-2 and II-4) have had repeated
+fractures, bony deformity in the lower extremities, and severe osteopenia, which lead to above the knee amputations for both. Neither has
+upper extremity deformity and both have blue sclerae. Individual II-4
+has a son who appears more mildly affected.
+
+Cell culture and electrophoretic analysis of labeled proteins. Skin
+biopsies were taken from four affected (1-2, 11-2, 11-4, and 111-1) and
+from one unaffected family member (11-3), after receiving appropriate
+consent. The biopsies were explanted and dermal fibroblasts were
+grown in Dulbecco-Vogt modified Eagle's medium (DME) that contained 10% fetal calf serum, 100 U/ml of penicillin, and 100 Mg/ml of
+streptomycin. Labeling proteins with [2,3,4,5 3H]proline (Amersham
+Corp., Arlington Heights, IL; 101 Ci/mmol) and [35S]cysteine (Amersham Corp.; 600 Ci/mmol), harvesting of medium and cell layer proteins, SDS-PAGE, cleavage of proteins with cyanogen bromide (CNBr)
+in gels and two-dimensional analysis of CNBr peptides of type I collagen were all carried out as previously described (9, 10).
+For short pulse experiments, dermal fibroblasts were plated in
+DME with 10% fetal calf serum at a density of 250,000 cells per 35-mm
+dish and allowed to attach overnight. An entire dish was used for each
+time point. The next day, the tissue culture medium was replaced with
+DME that contained 1.5% NuSerum (Collaborative Research, Inc.,
+Bedford, MA) and ascorbic acid (50 jig/ml) and the cells were incubated for 2 h. After trypsinization, the cells from each dish were pelleted in microfuge tubes and resuspended in DME that contained 1.5%
+NuSerum and 100 MCi [3H]proline (Amersham Corp.). All labeling
+reactions were carried out at 370C. At the end of each time period (5,
+10, and 15 min), 1 ml ofice-cold DME was added to each tube, and the
+cells were rapidly pelleted and lysed in an inhibitor solution containing
+PBS, I I mM EDTA, 10 mM PMSF, 45 mM Tris-HCl pH 7.4,180 mM
+NaCl, and 4.5% SDS, and boiled for 2 min. Radiolabeled procollagens
+were analyzed by SDS-PAGE with 2 M urea under reducing conditions, and the separated proteins were identified following radioautofluorography with EN3HANCE (New England Nuclear, Boston, MA)
+as the fluor (9, 10).
+Restriction endonuclease analysis of genomic DNA. Aliquots of
+genomic DNA prepared from cultured dermal fibroblasts or from
+lymphocytes were digested with Eco RI (New England Biolabs, Inc.,
+Beverly, MA) according to manufacturer's specifications, the fragments were separated by gel electrophoresis in 0.8% agarose and transferred to nitrocellulose (1 1). The filter was hybridized separately with
+COL I A I cDNA Hf677 fragments (12) and with a 5-kb genomic fragment from COLIAI clone CG103 (13). Hybridization probes were
+labeled with a-[32PJdCTP (New England Nuclear, Inc., Boston, MA)
+by random primer extension (14).
+cDNA synthesis. Dermal fibroblasts were grown to near confluence
+in DME with 10% FCS and 100 U/ml of penicillin and 100 jg/ml of
+streptomycin. 1 d before RNA isolation, cells were incubated in DME
+with 20% FCS and 50 .g/ml of ascorbic acid. Total cellular, nuclear,
+and cytoplasmic RNA were isolated as previously described (15, 16).
+Before cDNA synthesis, the RNA was resuspended in 40 mM Tris pH
+7.8, 10 mM NaCl, 6 mM MgCl2 and incubated with RNase-free DNase
+(Promega-Biotek, Madison, WI; 2.5 U/ml) at 37°C for 30 min. 10 Mg
+of RNA was precipitated with the appropriate 3' synthetic oligonucleotide primer (Operon Technologies, Inc., San Pablo, CA), and resuspended in an RNase-free solution of 160 mM KC1, 10 mM Tris-HCI
+pH 8.0, 1 mM EDTA with 12.5 U of RNasin (Promega-Biotek; 25
+U/MI). The RNA was denatured at 94°C for 5 min, followed by a 5-min
+incubation at 37°C to allow for primer annealing. The cDNA synthesis
+was carried out at 45°C for 30 min in a final reaction cocktail containing 10 mM MgCI2, 55 mM Tris pH 8.3, 80 MM deoxynucleotide
+triphosphates with 37.5 U of RNasin, and 40 U of AMV reverse transcriptase (Life Sciences, Inc., St. Petersburg, FL) (17). Before addition
+of the reverse transcriptase, the sample was split into two tubes and
+only one tube received the enzyme. The remaining tube served as a
+control for the polymerase chain reaction amplification (PCR, see
+below).
+
+Polymerase chain reaction amplification ofgenomic DNA and synthesized cDNA. Aliquots of fibroblast DNA and synthesized cDNA
+served as templates for the PCR amplification (18). Sequence for the
+oligonucleotide primers was derived from sequencing appropriate
+portions of COLIAl cDNA Hf677 and from published sequence information (12). One Mg each of the appropriate HPLC-purified oligonucleotide primers was used per reaction, and conditions were those
+specified in the Perkin Elmer Cetus DNA amplification kit (Perkin
+Elmer Cetus, Norwalk, CT), except that a final concentration of 400
+MM ofeach deoxynucleotide triphosphate was used instead of200 MM.
+For amplification of genomic DNA, both primers were complementary to sequences in exon 52; their sequences are A: 5' CTGGGGCAAGACAGTGATTGAATAC 3', B: 5' CAGTTTGGGTTGCTTGTCTGTTTCCG 3'. For amplification of cDNA, primer B and a new
+upstream primer (C), complementary to sequences in exon 51 were
+used; the sequence of C is: 5' CAACAGCCGCTTCACCTACAGCGTC 3' (see Fig. 8). After the PCR, aliquots were separated on a 6%
+polyacrylamide gel to assess the reaction products.
+Cloning ofamplified genomic DNA and DNA sequence determination. Amplified genomic DNA was separated by agarose gel electrophoresis in 2% low-melting-point agarose, and the 213-bp fragment
+was resected and purified (19). The isolated material was cleaved with
+Cla I and Msp I (New England BioLabs, Inc.) according to manufacturer's specifications, to yield a 13 1-bp fragment. 24 ng of cleaved
+DNA was ligated into the Acc I site of 100 ng of Ml3mp9, singlestranded DNA was isolated (20), and DNA sequence determined by
+the dideoxy chain-termination method (21). Confirmation of published sequence was determined after subcloning a fragment of
+COLIAI cDNA Hf677 into Ml 3mp9, and a fragment of genomic
+clone CG103 into Ml 3mp8 (12, 22).
+Cell-free translation ofmRNA. 10Mg oftotal cellular RNA was used
+for in vitro translation in a methionine minus rabbit reticulocyte lysate
+(Promega) (23). Reaction conditions were as specified in the Promega
+kit except that 500 MCi of [3H]proline per sample was used as the
+radioactive label. All reactions were carried out at 26°C for 90 min.
+Each sample was subsequently divided into three equal aliquots and
+the newly synthesized proteins were precipitated with an equal volume
+of saturated ammonium sulfate at 4°C. Pelleted proteins from two
+aliquots were each resuspended in 80 mM CaCI2, 8 mM Tris-HCl, pH
+7.4, 160 mM N-ethylmaleimide, and 1.6 mM PMSF. Proteins in one of
+the two samples were digested with 1.5 U of bacterial collagenase (24)
+(Clostridium histolyticum; Advance Biofactures Corp., Lynbrook,
+NY) for 4 h at 37°C before analysis of the synthesized proteins by
+SDS-PAGE. Proteins in the third aliquot were separated by SDSPAGE in 5% acrylamide gels and subsequently digested in the gels with
+CNBr (9). The peptides were separated in a 12.5% acrylamide gel.
+
+Results
+Dermal fibroblasts from affected individuals synthesize decreased amounts of type I collagen. We analyzed [3H]prolinelabeled procollagens synthesized by dermal fibroblasts from
+four affected and from one normal family member by SDSPAGE (Fig. 1). Cells from the unaffected control synthesized
+and secreted normal amounts of proa l(I), with the expected
+2:1 ratio of proal(I):proa2(I). There was a 3:1 ratio of
+proa 1 (I):proa 1(III). In contrast, cells from affected family
+members secreted about half the expected amount of type I
+collagen. The secreted type I procollagen was normal and contained proa I(I) and proa2(I) chains in the expected 2:1 ratio.
+The ratio of proal(I):proal(III) was about 1:1. There was no
+evidence of excessive posttranslational lysyl hydroxylation or
+hydroxylysyl glycosylation (overmodification) or retention of
+aberrant material within the cell (Fig. 1 B), as is typically observed in more severe forms of 01 (10, 25-28).
+
+Frameshift Mutation in COLJAI Gene and Osteogenesis Imperfecta. Type I
+
+283
+
+Cells
+
+Medium
+
+EI#
+
+I
+
+-I --jf2
+
+30O4
+
+)2
+
+II
+
+3
+
+A
+R
+
+prall)' n
+1)
+
+procx2()
+
+=
+
+m
+
+11. .1,111.."
+-~*-~~~m-226
+
+11
+
+.,..
+
+4*r
+*
+
+~~~~~~~~*
+
+11-3 11-4 111-1 11-2 1-2 11-3 11-4
+Figure 1. [3H]Proline-labeled proa chains synthesized by dermal fibroblasts from affected and unaffected (*) family members, separated
+by SDS-PAGE under reducing conditions. C, control; 1-2, II-2, 11-4,
+III-1, affected family members; II-4, normal family member. Dermal
+fibroblasts from affected individuals secrete less type I procollagen
+than the unaffected family member and have a proa l(I):proal(III)
+ratio of 1: 1, compared with the typical 3:1 ratio seen in normal cells.
+111-1
+
+11-2
+
+1-2
+
+Identification of a disrupted intragenic Eco RI site in one
+COLIA allele in affected family members. The COLl Al
+gene, except for the portion that encodes the carboxyl-terminal
+12 amino acids and the 3' untranslated region, is contained
+within a 22.6-kb Eco RI fragment, which is useful for assessing
+gene size and structural integrity (13). We analyzed Eco RI
+digests of genomic DNA from nine available family members
+(Fig. 2). In the digests from the four clinically normal individuals, the probe, a 1.4-kb fragment of COLlA1 cDNA Hf677
+(labeled probe A in Fig. 2), recognized only a single fragment
+of 22.6 kb, while fragments of 22.6 kb and 28.3 kb were
+recognized by the probe in the digests from the five affected
+individuals. This indicated that all of the family members with
+OI had one normal COLlA1 allele and another from which
+one of the intragenic Eco RI sites was missing. To determine
+which restriction site was altered, the same Southern blot was
+stripped of probe A and rehybridized separately with a 5-kb
+genomic fragment from the 5' end of the gene (data not
+shown), and with a 300-bp fragment of cDNA Hf677 that
+extends 3' from the intragenic carboxy-terminal Eco RI restriction site (Fig. 2 B). The latter probe (labeled probe B in Fig. 2)
+identified only the 28.3-kb fragment in the affected individuals, confirming that the 3' Eco RI site was missing in their
+DNA. All family members had a 5.7-kb fragment recognized
+by probe B.
+Identification of the mutation in one COLIAJ allele. To
+-
+
+sequence across the site of mutation in the normal and mutant
+alleles, we used the polymerase chain reaction to amplify a
+21 3-bp fragment of genomic DNA in the domain containing
+the relevant Eco RI restriction site (Fig. 3) from an affected
+individual (III-I) and from a normal family member (II-3). To
+confirm that we had successfully amplified the appropriate
+fragment, we digested the DNA from both individuals with
+Eco RI (Fig. 3). As expected, the amplified material from the
+normal family member yielded only fragments of 118 and 95
+bp, while material from the affected individual produced the
+118- and 95-bp fragments as well as the full-length 213-bp
+fragment. The smaller fragments are derived from the normal
+allele, while the uncleaved fragment is the product of the mu-
+
+tant allele.
+
+In addition to the full-length amplified material and the
+restriction products, we observed two more slowly migrating
+284
+
+M. C. Willing, D. H. Cohn, and P. H. Byers
+
+B
+
+_t
+
+Alow,
+
+*
+
+COLIAL
+
+E
+
+4_-_W__-V
+
+w
+
+w
+
+22.6
+
+Probes
+
+-28 3
+
+-5.7
+
+E
+
+Hf 677
+
+5
+
+E
+
+~-+
+
+AB
+
+Figure 2. Restriction endonuclease analysis of genomic DNA from
+available family members. (A) Eco RI digests hybridized with a 1.4kb Eco RI fragment of COLlIA I cDNA Hf677 (indicated in the figure as probe A). (B) Identification of the disrupted Eco RI site. The
+same blot was rehybridized with the 300 nucleotide fragment of
+cDNA HF677, extending 3' from the Eco RI site within the cDNA
+(indicated as probe B in the figure). The pedigree indicates affected
+(darkenedfigures) and unaffected (open figures) family members.
+DNA from II-I has been omitted in B.
+
+bands present only in amplified DNA from the affected individuals (only data from III-1 are shown). We used both restriction endonuclease mapping and denaturation-renaturation
+studies to show that these bands represent heteroduplexes
+formed between the products of the mutant and normal alleles. For the restriction mapping, DNA was purified from
+both bands of slower mobility and cleaved with different restriction endonucleases. In each case, the fragments generated
+were identical to those seen with cleavage of DNA isolated
+from the 21 3-bp fragment (data not shown), except that there
+was no cleavage with Eco RI. We reproduced the more slowly
+migrating bands by denaturing DNA isolated from the 21 3-bp
+fragment (a mixture of DNA from the normal and mutant
+alleles) and allowing these fragments to renature before electrophoresis. Finally, denaturation and renaturation of DNA
+isolated from the slowly migrating bands yielded the 213 bp
+band (Cohn, D. H., unpublished observations). The reason for
+the anomolous mobilities of the heteroduplexes is unknown,
+but presumably it reflects some secondary structure created by
+the hybridization of sense and anti-sense strands of different
+alleles, one of which has a mutation.
+Taking advantage of natural restriction sites within the
+amplified 213-bp fragment, we cloned a 13 1-bp Cla I-Msp I
+fragment from III- 1 into Ml 3 and determined the nucleotide
+sequence across the region ofthe Eco RI site in the mutant and
+
+AC G T
+_..
+
+..
+
+ACG
+
+T
+
+-3-
+
+805
+w--.
+
+514
+448
+
+AM--,
+
+m
+
+-
+
+-K
+
+:Heterodup lex
+
+WI.^*
+
+-
+
+--_
+
+C--
+
+T
+
+339
+
+216/211|
+
+--n E : H
+
+l
+
+-2131/208
+
+And A~~~_
+
+A
+
+-1
+
+94
+
+01
+
+51
+
+01
+
+C
+
+t
+
+..I
+
+-
+
+G
+
+iI
+
+A_*_~
+
+~
+
+~
+
+T
+G
+C
+C
+
+72
+
+C
+EcoRI -
+
+__
+
+PA
+
+Clal
+
+I
+
+M13
+
+MspI
+
+Figure 3. Strategy used to isolate, clone, and sequence the normal
+and mutant alleles in the domain containing the Eco RI site. Using
+the polymerase chain reaction, we amplified a 21 3-bp fragment of
+genomic DNA from II-3 (C) and a similar fragment from III-I (01).
+Amplified material from each individual was digested with Eco RI.
+Positions of molecular size markers from bacteriophage DNA digested with Pst I are indicated down the left side of the figure. We
+cloned the normal and mutant ClaI-MspI fragments from III-I into
+M 13 and determined the nucleotide sequence of both alleles. The
+horizontal arrows labeled A and B indicate the locations of the oligonucleotide primers used in the amplification reaction, while E marks
+the location of the Eco RI restriction site within the amplified fragment.
+
+normal alleles (Fig. 4). The sequence from both alleles was
+identical, except that the mutant allele had a 5-bp deletion at
+the Eco RI site, creating a shift in the translational readingframe of the protein beginning at the Eco RI site. The 21 3-bp
+band seen in Fig. 3, therefore, represents a mixture of 213- and
+208-bp fragments derived from the normal and mutant alleles,
+respectively, and the heteroduplexes are formed by the annealing of sense and anti-sense strands of the normal and deletion allele. We have observed this same phenomenon with
+two other COLlAl deletions (Wallis, G., P. H. Byers, C.
+Pruchno, and P. H. Byers, unpublished observations).
+The nucleotide sequence of the mutant allele predicts a
+protein that extends 84 amino acids beyond the normal termination signal (Fig. 5). The nucleotide sequence corresponding
+to the extended proal(I) chain was determined by sequencing
+appropriate portions of COLlAl cDNA Hf677 (12), and genomic clone CG103 (13, 22). The new termination signal lies
+within the first canonical polyadenylation signal in the
+COLlA 1 gene and immediately follows a 22-bp stretch of
+adenosine nucleotides. Of the 84 amino acid residues in the
+predicted proal(I) extension, 14 are lysine residues and 10 of
+these lysines are contained within the last 19 amino acid residues, making the carboxyl-terminal portion of the protein
+highly charged.
+The search for the predicted protein. We used short-pulse
+experiments and in vitro translation to identify the protein
+product of the mutant allele. For short pulse studies, fibro-
+
+Normal
+
+Mutant
+
+Figure 4. Nucleotide sequence around the Eco RI site in the normal
+allele (left) and in the same domain of the mutant allele (right) from
+III-I. Sequence was determined using the dideoxy chain-termination
+method. The mutant allele has a 5-bp deletion that disrupts the Eco
+RI site (far right vertical sequence).
+
+blasts from one unaffected and four affected individuals were
+labeled for periods of 1-20 min with [3H]proline. Cells from
+the normal individual synthesized proa I(I) and proa2(I)
+chains in the expected 2:1 ratio. In contrast, fibroblasts from
+the 01 individuals synthesized less proa I(I) than the normal
+cells at each time point, and in fact, exhibited closer to a 1:2
+synthetic ratio of proal(I):proa2(I) (Fig. 6; only data from
+III-1 and II-4 are shown). The alteration in synthetic ratio was
+also observed in labeling periods of < 5 min (data not shown).
+In addition, cells from affected individuals appeared to produce larger amounts of proa I (III) than the normal cells.
+To identify the material migrating in the position of
+proal(III), we digested [3H]proline-labeled proa chains separated in the first dimension by SDS-PAGE, with cyanogen
+bromide and separated the resultant peptides in a second dimension gel (Fig. 8 C). Only the normal type III collagen
+peptide pattern was observed, whether this was carried out on
+procollagens synthesized during pulses of 5-15 min, or on
+procollagens produced in 20-h labelings (data not shown). Because the predicted proa 1 (I) chain contains two new cysteine
+residues we also performed CNBr peptide mapping on [35S]cysteine-labeled procollagens. Although we expected a [35S]cysteine-labeled fragment from the aberrant proal(I) chain
+that would migrate slightly faster than a I(I)CB3, we were unable to detect such a peptide (data not shown). The short-pulse
+data argue that the protein product of the mutant allele is
+either not synthesized or is rapidly degraded. Alternatively, the
+mutation while having its primary effect on translation termination may have a secondary effect on mRNA metabolism
+
+Frameshifi Mutation in COLIAJ Gene and Osteogenesis Imperfecta Type I
+
+285
+
+5' Normal
+
+5' 01
+
+5' Normal
+5' 01
+
+1 ATC
+Ilu
+Ilu
+1 ATC
+76 TAA
+Ter
+Ser
+76 TCC
+
+GAT
+Asp
+Asp
+GAT
+
+GTG
+Val
+Val
+GTG
+
+GCC CCC TIC
+Ala Pro Leu
+Ala Pro Leu
+GCC CCC TIG
+
+GAC GTT GGT GCC CCA GAC CAG GAA T7C G;C TTC GAC GTT GGC
+Asp Val Gly Ala Pro Asp Gln Glu Phe Gly Phe Asp Val Gly
+Asp Val Gly Ala Pro Asp Gin Arnt Leu Ari Arit Trp Pro Cys
+GAC GTT GGT GCC CCA GAC CAG CGG CTT CGA CGT TGC CCC TGT
+
+TIC CTG 75
+Phe Leu
+Val Asn
+GTA MC
+
+75
+
+ACT CCC TCC ATC CCA ACC TGG CTC CCT CCC ACC CAA CCA ACT TTC CCC CCA ACC CCG AAM CAG ACA AGC MC 150
+*
+Leu His Pro Asn Leu Ala Pro Ser His Pro Thr Asn Phe Pro Pro Asn Pro Glu Thr Asp Lys Gin Pro LYs
+CTC CAT CCC MC CTG GCT CCC TCC CAC CCA ACC MC m7T CCC CCC MC CCG GM ACA GAC MG CAA CCC AAA 150
+
+5' Normal 151 CCA MC TGA ACC CCC CCA AM GCC AM MA
+
+5' 01
+
+CCT GTC TGC
+Pro Val Cys
+Leu Leu Pro
+CTG CTT CCT
+
+T1GC
+
+GAG ACA ATT TCA CAT GGA CTI TGG AAA ATA TIm TmT TCC TIm 225
+
+Leu Asn Pro Pro Lys Ser Glu Lys Met Gly Asp Asn Phe Thr Trp Thr Lou Glu Asn Ilu Phe Phe Leu CYS Ile
+151 CTG MC CCC CCC AM AGC CAA A ATA ; GGA GAC MT TIC ACA TGG ACT TIG GAA MT ATI mff TIC CTT T¶1C ATT 225
+
+5' Normal 226 GCA TTC ATC TCT CAA ACT TAG TmT TTA TCT TIG ACC MC CGA ACA TGA CCA AAA ACC AM ACT GCA TTC MC CTT 300
+5' 01
+
+His Leu Ser Asn Leu Val Phe Ilu Phe Asp Gin Pro Asn Met Thr Lys Asn Gin Lys Cys Ile Gln Pro Tyr Gln
+226 CAT CTC TCA MC TTA GTT Tmr ATC 171 GAC CM CCG MC ATG ACC AAA MC CAA MCG GC ATT CM CCT TAC CM 300
+
+5' Normal 301 ACC AAA AAA AMA AMA AMA AM AAA AGA ATA MT AM TM CTr Tfm AM AAA GGA AGC TT
+
+5' 01
+
+Lys Lys Lys Lys Lys Lys Lys Asn LYS Ter
+301 AAAMAAM A AA AM AMA MG MT AA TM ATA ACT Tmf TM AAA AGG MG CTT
+
+359
+
+354
+
+Figure 5. Nucleotide and protein sequences from the product of the normal allele and predicted sequence from the mutant allele. The 5-bp deletion (underlined in the top row of the figure) results in a frame-shift that predicts a protein which extends beyond the normal termination signal by 84 amino acid residues. The new reading-frame is indicated by the solid bar beginning at the Eco RI site. Nucleotide sequence was determined for the mutant and normal allele for nucleotides labeled 1-131 in the figure. Sequence data for the predicted protein was determined by
+sequencing a subclone of COLIAI cDNA Hf677 that started at the Eco RI site, and extended to the end of the cDNA (nucleotides 40-303 in
+the figure). The remaining nucleotide sequence was determined by sequencing a subclone of COLlA I genomic clone CG 103 (nucleotides
+40-359). Our nucleotide sequence data differ from the published sequence in several places. Nucleotide 96 is deoxycytosine in both the normal
+and 01 alleles and in Hf677 from our sequence determination, instead of deoxythymidine (nucleotide 57, Fig. 4, clone d, reference 12). Immediately after residue 135 we found a run of three deoxyadenosine nucleotides instead of the two reported in Hf677 (nucleotides 97-99, Fig. 4,
+clone d, reference 12). In addition we found a polymorphism at nucleotide 166; the sequence in cDNA Hf677 is deoxythymidine (12), which
+we confirmed, while genomic clone CG 103 has deoxycytosine at this position. Finally, we found a stretch of 22 deoxyadenosine nucleotides before the new termination signal (nucleotides 304-325), while the published sequence indicates a 19 base-pair stretch (nucleotides 225-243 in
+Fig. 6, reference 22).
+
+and/or transport of the mRNA from the nucleus to the cytoplasm.
+To investigate the stability of the mRNA from the mutant
+allele, we synthesized COLlAl cDNAs from total, nuclear,
+and cytoplasmic fibroblast RNA from affected and normal
+family members, and used the polymerase chain reaction to
+amplify this material. We reasoned that if mRNA from both
+the normal and mutant alleles is present, we should detect
+heteroduplexes formed between the amplification products of
+the two alleles. To eliminate the possibility of contamination
+of RNA with genomic DNA that might amplify, we selected a
+5' primer that is located in the exon immediately upstream of
+the one that contains the Eco RI site. This meant that any
+contaminating genomic DNA that amplified would contain
+Figure 6. Short-pulse
+experiments. Dermal fibroblasts from normal
+prol(ll)
+U
+(11-3) and affected fam_. _
+mproaf(l) L
+ily members (only III-1
+is shown here) were laproa2(I)- _ d _
+4 4
+beled with [3H]proline
+":.0
+for periods of 5-15
+5 10 15
+Time (min) 5 10 15
+min. The band that mi111-1 (01)
+11-3(Normol)
+grates above proal(I) is
+proal(III) (see Fig. 8
+C). Cyanogen bromide peptide maps of proa chains synthesized in
+short-pulse experiments by control and 01 cells.
+286
+
+A-f. C. Willing, D. H. Cohn, and P. H. Byers
+
+intronic sequence and thus be distinguished by size from amplified cDNA. Amplified cDNA produced separately from
+total cellular RNA from four affected individuals exhibited the
+characteristic heteroduplexes formed between the products of
+the normal and mutant alleles, while amplified cDNA from
+the normal family member produced only a single band of 269
+bp (Fig. 7 A). Although these results confirm that mRNA is
+transcribed from the mutant COLlA 1 allele in affected individuals, they do not allow us to determine if it is transported to
+the cytoplasm and available for translation. To this end, we
+amplified cDNAs derived from both nuclear and cytoplasmic
+RNA from two affected and one normal family member (Fig.
+7 B). As expected, the amplified cDNAs synthesized from nuclear and cytoplasmic mRNA from the normal family
+member each yielded the expected 269-bp fragment. In addition, we observed the characteristic heteroduplexes in the amplified cDNAs derived from both nuclear and cytoplasmic
+mRNA from affected family members. These data argue that
+transport of the mutant COLIA I mRNA from the nucleus to
+the cytoplasm and mRNA steady-state levels in the cytoplasm
+are probably not substantially different from those of the normal mRNA, but we cannot rule out the possibility of crosscontamination of RNAs from the two compartments during
+
+purification.
+Although we were unable to detect the aberrant proa 1(I)
+chain in cells, our cDNA amplification data suggested that the
+mRNA from the mutant COLIA I allele was potentially available for translation. To investigate the ability of this mRNA to
+
+B
+
+A
+
+RT -
+
+X - +
+1-2--li-4---il-2+
+
+-
+
+NCU N
+
+11-3 11-1 11-4
+
+52- A
+
+C -
+
+Exon 51
+
+NU
+
+direct translation in vitro, we translated mRNA in a cell-free
+rabbit reticulocyte lysate (Fig. 8 A). Aliquots of each in vitro
+translation reaction were treated with bacterial collagenase to
+aid in the identification of collagenous proteins. The mRNA
+from the unrelated controls (data not shown) and the unaffected family member directs the production of proal(I) and
+proa2(I), with a synthetic ratio of roughly 2:1 (Fig. 8 A). The
+mRNA derived from the 01 cells also directs the synthesis of
+proa l(I) and proa2(I), but the synthetic ratios are abnormal
+and resemble those seen in the short-pulse experiments. In
+addition, we observed a collagenous species migrating more
+slowly than the normal proa l(I) that was not observed in the
+short-pulse labelings. Cyanogen bromide peptide mapping of
+this chain indicated that it was a proa l(I) species (Fig. 8 B).
+These data confirm that the mRNA derived from the mutant
+COLlAl allele can be translated, and suggest that our inability
+to detect the aberrant proal (I) chain in cells reflects the presence of an unstable, rapidly degraded protein rather than a
+block in translation.
+The decrease in type I procollagen production by cells from
+affected members in this family is correlated with remarkable
+alterations in collagen fibril morphology in their skin (29).
+Skin from the three affected individuals 1-2, II-2 and I14 have
+large numbers of composite fibril structures in dermis, similar
+to those seen in skin from individuals with several forms of
+Ehlers-Danlos syndrome (29).
+
+I1OObp
+
+N
+
+B
+
+Figure 7. Polymerase chain amplification of 01 and control cDNAs
+derived from total, nuclear, and cytoplasmic fibroblast RNA. (A)
+cDNAs synthesized from total cellular mRNA isolated from three
+different affected family members, 1-2, 11-4, and 11-2, in the presence
+(+) or absence (-) of reverse transcriptase (RT). Molecular size
+markers, derived from digesting bacteriophage lambda DNA with Pst
+I, are indicated between parts A and B. Each individual has a
+269/264-bp fragment corresponding to the normal and mutant alleles, and in addition each has the more slowly migrating heteroduplexes. (B) cDNAs synthesized from nuclear (N) and cytoplasmic (C)
+mRNA isolated from control (11-3) and OI (11I-1 and 11-4) dermal fibroblasts. The unaffected control has a single 269-bp fiagment, while
+the two affected individuals each have a 269/264 nucleotide fragment and in addition, the heteroduplexes in the cDNAs derived
+from both nuclear and cytoplasmic mRNA. The diagram at the bottom illustrates the amplification strategy. The arrows C and B indicate the locations of the 5' and 3' oligonucleotide primers used for
+the cDNA amplifications, respectively. Arrows A and B represent the
+oligonucleotide primers used in the amplification of genomic DNA
+
+Discussion
+Investigation into the biochemical and molecular basis of 01
+indicates that it is a heterogeneous disorder. Structural alterations and point mutations within the coding region of either
+COLlAl or COLlA2 are known to produce the more severe
+
+(Fig. 3).
+A
+
+_
+
+B£
+0
+
+i
+
+qL
+
+a.
+
+0
+
+0
+
+0
+
+9s49~
+
+0
+
+tL
+
+FN
+
+C ffi
+
+_
+
+0
+I
+
+4
+
+.2(1)CB3-5
+
+prool(l)-
+
+proa2(I)
+cxl(I)CB7-
+
+cxl(I)CBB-
+
+*
+
+*
+
+-cx2(1)CB4
+'I....l. C
+
+cxl(I)CB34
+
+-
+
+4
+
+Collagenase - +
+11-4
+11-3
+11-I
+11-3
+11-4
+1ll-I
+Figure 8. In vitro translation. (A) Proa chains synthesized from total cellular mRNA isolated from control (11-3) and 01 (11-4 and III-1) dermal
+fibroblasts. Digestion with bacterial collagenase (+) was used to identify collagenous proteins. The locations of the proa 1(I) and proa2(I) chains
+and fibronectin (FN) are shown to the left of the figure. The control has a proal(I)/proa2(I) synthetic ratio of 2:1, while the 01 individuals have
+closer to a 1:2 ratio. Both affected individuals also have an additional band (shown by the arrow), which represents the aberrant proal(I) chain
+(see below). (B) CNBr peptides of proa chains synthesized in vitro from control (11-3) and 01 (11-4 and III- 1) mRNA. The proa chains were
+separated in a first dimension gel under reducing conditions and cleaved in the gel with CNBr. After cleavage, the strip was placed at the top of
+the second dimension 12.5% polyacrylamide gel and the resultant peptides were separated in the second dimension under reducing conditions.
+The positions of the proa 1(I) and proa2(I) chains are shown above the figure, while the positions of the peptide fragments derived from
+proal(I) and proa2(I) are shown to the right and left of the figure, respectively. The arrow marks the position of the aberrant proal(I) chain,
+seen only in the affected individuals. (C) Cyanogen bromide peptide map of proa chains synthesized in short-pulse experiments by 01 cells.
+There is no evidence of the aberrant proa (I) chain as is seen in the peptide map of the proa chains translated in vitro.
+_
+
+Frameshift Mutation in COLIAI Gene and Osteogenesis Imperfecta Type I
+
+287
+
+forms of 01 (25). In most cases, dermal fibroblasts from affected individuals synthesize normal molecules and, in addition, structurally abnormal collagens that are overmodified,
+thermally unstable, and inefficiently secreted (25-28, 30-33).
+In contrast, fibroblasts from most patients with 01 type I produce and efficiently secrete about half the expected amount of
+structurally normal type I collagen (4-6), and little is known
+about the nature of these mutations.
+All affected members of this three generation family have a
+5-bp deletion near the 3' end of one COLlAl allele that produces a shift in the translational reading-frame and predicts a
+protein that extends beyond the normal termination signal by
+84 amino acid residues. Although we are able to detect the
+aberrant proa I(I) chain in an in vitro translation assay, we find
+no evidence of it in vivo suggesting that ifit is translated within
+the cell, it must have a very short half-life because even in the
+shortest pulse-label experiments (1 min), we cannot identify
+the aberrant protein.
+The mRNA from the mutant allele appears to be processed
+and transported to the cytoplasm and thus potentially available for translation. What effect the translation of stretches of
+mRNA that normally remain untranslated has on mRNA and
+protein stability is unclear. Work on elongated globin variants
+(34-38) and phage and ribosomal RNAs (39, 40) suggests that
+these regions of mRNA may be essential for its stability or
+functional integrity, perhaps by forming loops that protect it
+from hydrolytic attack by 3' exonucleases. If mRNA secondary
+structure is disturbed in order for the elongated portion of the
+chain to be translated, the mRNA may become more susceptible to degradation. Alternatively, the unfolding process itself
+may impose a restraint upon elongation and alter the overall
+stoichiometry of translation. The elongated proa 1(I) chain described in this paper is much longer than any of the aberrant
+globin proteins (41) and any secondary structure generated by
+the 3' untranslated region would be altered during translation
+of this long extension. If mRNA secondary structure plays a
+role here however, it may be to affect translation rather than
+mRNA stability, as the product of the mutant allele appears to
+have a stability comparable to that of the normal, judging from
+availability for reverse transcription and amplification.
+After chain assembly, procollagen molecules follow the
+RER-Golgi-secretory vesicle route to the extracellular matrix
+(42). How the cell determines the destiny of aberrant proteins
+is unclear. From our data we cannot determine whether the
+abnormal proa I(I) is not synthesized within cells, or is rapidly
+destroyed in the lumen of the RER or elsewhere along the
+secretory pathway. The elongated protein may become
+trapped within the RER membrane and rapidly degraded,
+never entering the secretory pathway. Interestingly, the predicted protein sequence has a highly basic carboxyl-terminus
+similar to some nuclear targeting sequences (43), and of such
+density that it could act as a "stop-transfer" signal to block the
+final extrusion into the RER lumen (44).
+The fate of free proa2(I) chains is also unknown, but we
+think it is unlikely that these normal chains will form heterotrimers with the elongated proa I(I) chains because the 84
+amino acid extension would make interaction at the carboxyltermini impossible. Accumulating evidence indicates that different pathways are used for handling normal versus aberrant
+protein chains, as well as partially or incorrectly assembled
+molecules (45-51). Thus, it is not unreasonable to think that
+different cell sorting mechanisms target free proa2(I) and abnormal proa 1(I) chains for different degradative routes.
+288
+
+M. C. Willing, D. H. Cohn, and P. H. Byers
+
+The persistence of structurally abnormal procollagen molecules inside the cell with variable secretion into the extracellular matrix is the biochemical hallmark of the more severe 01
+phenotypes, while decreased production of structurally normal
+type I -collagen appears to be the hallmark of the OI type I
+phenotype. We suggest that having a "null allele" results in a
+milder phenotype because abnormal procollagen molecules
+are not generally secreted outside the cell and incorporated
+into the extracellular matrix.
+The effect on the matrix of producing less type I procollagen than normal appears to be dramatic as judged by alteration
+in fibril biogenesis (29). We are uncertain why the effects are so
+striking but they may simply represent altered ratios of collagens and proteoglycan molecules in the extracellular environment. The production of other matrix components, including
+a variety of proteoglycan molecules, by these cells appears to
+be unaltered (Vogel, K., unpublished data and personal communication).
+Although all affected members of the family described here
+have the same mutation, there is considerable intrafamilial
+clinical variability. We wondered if there might be subtle biochemical differences between family members with respect to
+the amount of abnormal proa I(I) produced or its intracellular
+fate, but no differences were observed. In reviewing the clinical
+findings, we noticed that the more severely affected family
+members (1-2 and 1I-4) had children with both mild and severe
+phenotypes, while the mildly affected individual (II-2) had an
+offspring with a mild phenotype. This suggests that there might
+be some other factor (not identified) segregating independently
+in this family that acts to modulate the final phenotype.
+The mutation described in this paper is unique among
+mutations producing 01 that we have examined. A similar
+mutation in the COLlA2 gene results in synthesis of a
+proa2(I) chain that is of normal size but has a different end
+(52). That proa chain is not incorporated into molecules but is
+identified within cells (53).
+Although the nature of mutations responsible for OI type I
+is largely unknown, structural alterations (5) and point mutations in (54, 55) or near the triple helical coding region (56-58)
+appear to be rare causes. Mutations that could alter the apparent expression of COL IA I and lead to decreased type I collagen synthesis include deletion of one allele or structural rearrangements that create a nonfunctional allele, promoter and
+enhancer mutations, splicing mutations, small deletions and
+insertions that create a shift in the reading frame of the protein,
+and single nucleotide substitutions that result in premature
+termination codons. We suspect that there is etiologic heterogeneity within the 01 type I phenotype and that many different
+mechanisms, both at the gene and protein level can act to
+ultimately reduce the secretion of type I collagen and produce
+01 type I.
+
+Acknowledgments
+We wish to thank the family for their interest and help with the studies,
+Kathy Braun and Carole Rainer for their excellent technical assistance,
+Barbra Starman for advice on protein biochemistry, Dr. Art Grix for
+helping to obtain DNA samples from some family members, Dr.
+Francesco Ramirez for Hf677, Dr. Richard Gelinas for CG103, and
+Robert Underwood for his excellent photographic assistance.
+This work was supported in part by grants from the National Institutes of Health (AR-2 1557 and GM- 15253), a grant from the Arthritis
+Foundation and a Basic Science Research Grant from the University
+of Washington.
+
+References
+1. Sillence, D., A. Senn, and D. Danks. 1979. Genetic heterogeneity
+in osteogenesis imperfecta. J. Med. Genet. 16:101-116.
+2. Sykes, B., P. Wadsworth, D. Ogilvie, J. Anderson, and N. Jones.
+1986. Osteogenesis imperfecta is linked to both type I collagen structural genes. Lancet. ii:69-72.
+3. Wallis, G., P. Beighton, and C. G. Mathew. 1986. Mutations
+linked to proa2(I) collagen gene are responsible for several cases of
+osteogenesis imperfecta type I. J. Med. Genet. 23:411-416.
+4. Sykes, B., M. Francis, D. Phil, and R. Smith. 1977. Altered
+relation of two collagen types in osteogenesis imperfecta. N. Engl. J.
+
+23. Bateman, J. F., S. Lamande, D. Chan, and W. G. Cole. 1987.
+Peptide analysis of collagen produced from cDNA by transcription
+and translation in vitro. Biochem. J. 245:393-398.
+24. Peterkofsky, B., and R. Diegelmann. 1971. Use of a mixture of
+proteinase-free collagenases for the specific assay of radioactive collagen in the presence of other proteins. Biochemistry. 10:988-993.
+25. Byers, P. H. 1989. Disorders of Collagen Biosynthesis and
+Structure. In The Metabolic Basis of Inherited Diseases. C. R. Scriver,
+A. L. Beaudet, W. S. Sly, and D. Valle, editors. McGraw-Hill Book
+Co., New York. 2805-2842.
+26. Wenstrup, R. J., P. Tsipouras, and P. H. Byers. 1986. Osteogenesis imperfecta type IV: biochemical confirmation of genetic linkage to the proa2(I) gene of type I collagen. J. Clin. Invest. 78:1449-
+
+Med. 296:1200-1203.
+5. Byers, P. H., J. R. Shapiro, D. W. Rowe, K. E. David, and K. A.
+1455.
+Holbrook. 1983. Abnormal a2-chain in type I collagen from a patient
+27. Wenstrup, R. J., A. S. Hunter, and P. H. Byers. 1986. Osteowith a form of osteogenesis imperfecta. J. Clin. Invest. 71:689-697.
+genesis imperfecta type IV: evidence of abnormal triple helical struc6. Barsh, G. S., K. E. David, and P. H. Byers. 1982. Type I osteoture of type I collagen. Hum. Genet. 74:47-54.
+genesis imperfecta: a nonfunctional allele for proa l(I) chains of type I
+28. Wenstrup, R. J., D. Cohn, T. Cohen, and P. H. Byers. 1988.
+procollagen. Proc. Natl. Acad. Sci. USA. 79:3838-3842.
+Arginine for glycine substitution in the triple-helical domain of the
+7. Rowe, D., J. Shapiro, M. Poirier, and S. Schlesinger. 1985. Diproducts of one a2(I) collagen allele (COLIA2) produces the osteominished type I collagen synthesis and reduced alpha 1(I) collagen
+genesis imperfecta type IV phenotype. J. Biol. Chem. 263:7734-7740.
+messenger RNA in cultured fibroblasts from patients with dominantly
+29. Holbrook, K. A., and P. H. Byers. 1986. Diseases of the extrainherited (type I) osteogenesis imperfecta. J. Clin. Invest. 76:604-611.
+cellular matrix: structural alterations of collagen fibrils in skin. In
+8. Genovese, C., and D. Rowe. 1987. Analysis of cytoplasmic and
+Connective Tissue Disease: The Molecular Pathology of the Extracelnuclear messenger RNA in fibroblasts from patients with type I osteolular Matrix. J. Uitto and A. Perejda, editors. Marcel Dekker, Inc.,
+genesis imperfecta. Methods Enzymol. 145:223-235.
+New York. 101-140.
+9. Bonadio, J., K. A. Holbrook, R. E. Gelinas, J. Jacob, and P. H.
+30. Barsh, G. S., C. L. Roush, J. Bonadio, P. H. Byers, and R. E.
+Byers. 1985. Altered triple helical structure of type I procollagen is
+Gelinas. 1985. Intron-mediated recombination may cause a deletion
+associated with prolonged survival in lethal perinatal osteogenesis imin an a 1 (I) type I collagen chain in a lethal form of osteogenesis. Proc.
+perfecta. J. Biol. Chem. 260:1734-1742.
+Natl. Acad. Sci. USA. 82:2870-2874.
+10. Bonadio, J. F., and P. H. Byers. 1985. Subtle structural alter31. Bateman, J. F., D. Chan, I. D. Walker, J. G. Rogers, and W. G.
+ations in the chains of type I collagen produce osteogenesis imperfecta
+Cole. 1987. Lethal perinatal osteogenesis imperfecta due to substitutype II. Nature (Lond.). 316:363-366.
+tion of arginine for glycine at residue 391 of the al(I)chain of type I
+11. Southern, E. 1975. Detection of specific sequences among
+collagen. J. Biol. Chem. 262:7021-7027.
+DNA fragments separated by gel electrophoresis. J. Mol. Biol.
+32. Steinmann, B., V. H. Rao, A. Vogel, P. Bruckner, R. Gitzel98:503-517.
+mann, and P. H. Byers. 1984. Cysteine in the triple-helical domain of
+12. Chu, M.-L., J. C. Myers, M. P. Bernard, J.-F. Ding, and F.
+one allelic product ofthe a 1 (I) gene of type I collagen produces a lethal
+Ramirez. 1982. Cloning and characterization of fine overlapping
+form of osteogenesis imperfecta. J. Biol. Chem. 259:11129-11138.
+cDNAs specific for the human proa l(I) collagen chain. Nucleic Acids
+33. Willing, M. C., D. Cohn, B. Starman, K. A. Holbrook, C.
+Res. 10:5925-5934.
+Greenberg, and P. H. Byers. 1988. Heterozygosity for a large deletion
+13. Barsh, G. S., C. L. Roush, and R. E. Gelinas. 1984. DNA and
+in the a2(I) collagen gene has a dramatic effect on type I collagen
+chromatin structure of the human a 1(I) collagen gene. J. Biol. Chem.
+secretion and produces perinatal lethal osteogenesis imperfecta. J.
+259: 14906-14913.
+Biol. Chem. 263:8398-8404.
+14. Feinberg, A., and B. Vogelstein. 1984. A technique for radiola34. Clegg, J. B., D. J. Weatherall, and P. F. Milner. 1971. Hemoglobeling DNA restriction endonuclease fragments to high specific activbin Constant Spring, a chain termination mutant? Nature (Lond.).
+ity. Anal. Biochem. 137:266-267.
+234:337-340.
+15. Chomczynski, P., and N. Sacchi. 1987. Single-step method for
+35. Clegg, J. B., D. J. Weatherall, I. Contopolow-Griva, K. CaroutRNA isolation by acid guanidinium thiocyanate-phenol-chloroform
+sos, P. Poungouras, and H. Tsevrenis. 1974. Haemoglobin Icara, a new
+extraction. Anal. Biochem. 162:156-159.
+chain-termination mutant which causes a thalassemia. Nature (Lond.).
+16. Greenberg, M. E. 1987. Preparation and Analysis of RNA. In
+251:245-247.
+Current Protocols in Molecular Biology. F. M. Ausubel, R. Brent,
+36. Derry, S., W. G. Wood, M. Pippard, J. B. Clegg, D. J. WeathR. E. Kingston, D. D. Moore, J. G. Seidman, J. A. Smith, and K.
+S. N. Wickramasinghe, J. Darley, S. Fucharoen, and P. Wasi.
+erall,
+Struhl, editors. John Wiley and Sons, New York. Vol I. 4.10.2.
+1984. Hematologic and biosynthetic studies in homozygous hemoglo17. Maniatis, T., E. F. Fritsch, and J. Sambrook. 1982. In Molecubin Constant Spring. J. Clin. Invest. 73:1673-1682.
+lar Cloning: A Laboratory Manual. Cold Spring Harbor Laboratory,
+37. Laux, B. E., D. Dennis, and H. B. White III. 1973. Human
+Cold Spring Harbor, NY. 213-216.
+a-chain
+globin messenger: prediction of a nucleotide sequence. Bio18. Saiki, R. K., D. H. Gelfand, S. Stoffel, S. J. Scharf, R. Higuchi,
+chem. Biophys. Res. Commun. 54:894-898.
+G. T. Horn, K. B. Mullis, and H. A. Erlich. 1988. Primer-directed
+38. White, H. B., B. E. Laux, and D. Dennis. 1972. Messenger
+enzymatic amplification of DNA with a thermostable DNA polymerRNA structure: compatibility of hairpin loops with protein sequence.
+ase. Science (Wash. DC). 239:487-491.
+Science (Wash. DC.). 175:1264-1266.
+19. Benson, S. A. 1984. A rapid procedure for isolation of DNA
+39. Jou, W. Min, G. Haegeman, M. Ysebaert, and W. Fiers. 1972.
+fragments from agarose gels. Biotechniques. 2:66-67.
+Nucleotide sequence of the gene coding for the bacteriophage MS2
+20. Messing, J., R. Crea, and P. H. Seeburg. 1984. A system for
+coat protein. Nature (Lond.). 237:82-88.
+shotgun DNA sequencing. Nucleic Acids Res. 9:309-321.
+21. Sanger, F., S. Nicklen, and A. R. Coulson. 1979. DNA se40. Fellner, P., C. Ehresmann, P. Stiegler, and J.-P. Ebel. 1972.
+Partial nucleotide sequence of 16S ribosomal RNA from E. coli. Nat.
+quencing with chain-terminating inhibitors. Proc. Natl. Acad. Sci.
+New Biol. 239:1-5.
+USA. 74:5463-5467.
+22. Chu, M.-L., W. de Wet, M. Bernard, and F. Ramirez. 1985.
+41. Kazazian, H. H., Jr., C. E. Dowling, P. C. Waber, S. Huang, and
+Fine structural analysis of the human proa I(I) collagen gene. J. Biol.
+W. H. Y. Lo. 1986. The spectrum of fi thalassemia genes in China and
+Chem. 260:2315-2320.
+southeast Asia. Blood. 68:964-966.
+
+Frameshift Mutation in COL]AI Gene and Osteogenesis Imperfecta Type I
+
+289
+
+42. Byers, P. H., and J. Bonadio. 1985. The molecular basis of
+clinical heterogeneity in osteogenesis imperfecta: mutations in type I
+collagen genes have different effects on collagen processing. In Metabolic and Genetic Disease in Pediatrics. J. Lloyd and C. R. Scriver,
+editors. Butterworths, London. 56-91.
+43. Kalderon, D., B. L. Roberts, W. D. Richardson, and A. E.
+Smith. 1984. A short amino acid sequence able to specify nuclear
+location. Cell. 39:499-509.
+44. Sifers, R. N., S. Brashears-Macatee, V. J. Kidd, H. Muensch,
+and S. L. C. Woo. 1988. A frameshift mutations results in a truncated
+al-antitrypsin that is retained within the rough endoplasmic reticulum. J. Biol. Chem. 263:7330-7335.
+45. Valle, G., J. Besley, A. R. Williamson, T. R. Mosmann, and A.
+Colman. 1983. Post-translational fate of variant MOPC 315 chains in
+Xenopus oocytes and mouse myeloma cells. Eur. J. Biochem.
+132:131-138.
+46. Verbanac, K. M., and E. C. Heath. 1986. Biosynthesis, processing and secretion of M and Z variant human a,-antitrypsin. J. Bio.
+Chem. 261:9979-9989.
+47. Kreis, T. E., and H. F. Lodish. 1986. Oligomerization is essential for transport of vesicular stomatitis viral glycoprotein to the cell
+surface. Cell. 46:929-937.
+48. Copeland, C. S., R. W. Doms, E. M. Bolzau, R. G. Webster,
+and A. Helenius. 1986. Assembly of influenza hemagglutinin trimers
+and its role in intracellular transport. J. Cell Bio. 103:1179-1191.
+49. Gething, M.-J., K. McCammon, and J. Sambrook. 1986. Expression of wild-type and mutant forms of influenza hemagglutinin:
+the role of folding in intracellular transport. Cell. 46:939-950.
+50. Lippincott-Schwartz, J., J. S. Bonifacino, L. C. Yuan, and R. D.
+Klausner. 1988. Degradation from the endoplasmic reticulum: disposing of newly synthesized proteins. Cell. 54:209-220.
+
+290
+
+M. C. Willing, D. H. Cohn, and P. H. Byers
+
+51. Berg, R. A., M. L. Schwartz, L. H. Rome, and R. G. Crystal.
+1984. Lysosomal function in the degradation of defective collagen in
+cultured lung fibroblasts. Biochemistry. 23:2134-2138.
+52. Deak, S. B., A. Nichols, F. M. Pope, and D. J. Prockop. 1983.
+The molecular defect in a nonlethal variant ofosteogenesis imperfecta.
+J. Biol. Chem. 258:15192-15197.
+53. Pihlajaniemi, T., L. A. Dickson, F. M. Pope, V. R. Korhonen,
+A. Nichols, D. Prockop, and J. C. Myers. 1984. Osteogenesis imperfecta: cloning of a proa2(I) collagen gene with a frameshift mutation. J.
+Bio. Chem. 259:12941-12944.
+54. de Vries, W. N., and W. J. de Wet. 1986. The molecular defect
+in an autosomal dominant form of osteogenesis imperfecta. J. Biol.
+Chem. 261:9056-9064.
+55. Starman, B. J., D. Eyre, H. Charbonneau, M. Harrylock, M. A.
+Weis, L. Weiss, J. M. Graham, Jr., and P. H. Byers. 1989. Osteogenesis
+imperfecta. The position of substitution for glycine by cysteine in the
+triple helical domain of the proal(I) chains of type I collagen determines the clinical phenotype. J. Clin. Invest. 84:1206-1214.
+56. Nichols, A. C., and F. M. Pope. 1984. An abnormal collagen a
+chain containing cysteine in autosomal dominant osteogenesis imperfecta. Br. Med. J. 288:112-113.
+57. Steinmann, B., A. C. Nicholls, and F. M. Pope. 1986. Clinical
+variability of osteogenesis imperfecta reflecting molecular heterogeneity: cysteine substitutions in the al(I) collagen chain producing lethal
+and mild forms. J. Bio. Chem. 261:8958-8964.
+58. Cohn, D. H., S. Apone, D. Eyres, B. Starman, P. Andreassen,
+H. Charbonneau, A. Nicholls, F. M. Pope, and P. H. Byers. 1988.
+Substitution of cysteine for glycine within the carboxyl terminal telopeptide of the a l chain of type I collagen produces mild osteogenesis
+imperfecta. J. Bio. Chem. 263:14605-14607.
+
+

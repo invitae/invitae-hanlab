@@ -1,0 +1,2276 @@
+Hum Genet (1991) 88:75-84
+
+9 Springer-Verlag1991
+
+Hypercholesterolemia in five Israeli Christian-Arab kindreds
+is caused by the "Lebanese" allele
+at the low density lipoprotein receptor gene locus
+and by an additional independent major factor
+Arie Oppenheim 1, Yechiel Friedlander 2, Eldad J. Dann 1, Neville Berkman 1,
+Sigal Pressman Schwartz 1, and Eran Leitersdorf 1
+IDepartment of MedicineB, Lipid Research Laboratory, Hadassah UniversityHospital, P.O. Box 12000, Jerusalem, Israel
+2Department of Social Medicine,Facultyof Medicine, Hebrew University-HadassahMedical School, Jerusalem, Israel
+
+Received November 26, 1990 / Revised April 25, 1991
+Summary. Segregation analyses were performed for plasma low density lipoprotein cholesterol (LDL-C), triglycerides (TG) and high density lipoprotein cholesterol (HDLC) in five Christian Arab kindreds identified through
+probands with familial hypercholesterolemia. In this subset of the Christian Arab community, the results were
+consistent with major gene determination of LDL-C with
+allele frequency (q) of 0.042 (95% confidence interval
+0.008-0.079) in addition to polygenic transmission (h 2 =
+0.34). The "Lebanese" allele was identified directly by
+polymerase chain reaction and H i n f I restriction analysis.
+Analysis of this mutation permits direct diagnosis of familial hypercholesterolemia in most affected individuals
+although our results indicated the possible existence of
+an additional independent factor leading to elevated LDLC levels. The segregation results for TG indicated the
+presence of a major effect, although the existence of a
+major gene could not be demonstrated. There was also
+no evidence of a major locus effect on HDL-C levels.
+
+Introduction
+Previous clinical and epidemiological studies have recognized plasma lipid and lipoprotein levels as important
+risk factors for coronary heart disease (CHD; Tyroler
+1987). High levels of total plasma cholesterol, low density lipoprotein cholesterol (LDL-C), and trigylcerides
+(TG) and low levels of high density lipoprotein cholesterol (HDL-C) are associated with increased risk of
+CHD. Strong familial aggregation of these traits has
+been established in many studies (Garrison et al. 1979;
+Robertson 1981; Friedlander et al. 1982; Namboodiri et
+al. 1984). Examination of the relevant factors determining familial resemblance has indicated that a multifactorial component governed by many genetic loci, as well
+Offprint requests to: E. Leitersdorf
+
+as by environmental factors, is one source of trait variability. The presence of rare major genes with large effect strongly influences the variation of some of these
+traits.
+Familial hypercholesterolemia (FH), an autosomal
+dominant disease characterized by raised plasma LDL-C
+levels, is caused by mutations in the LDL-receptor gene
+(Brown and Goldstein 1986). The effects of a host of
+mutations in this gene on plasma LDL-C levels have been
+clearly delineated in recent years (Hobbs et al. 1990).
+The estimated world prevalence of heterozygous FH is 1
+in 500 persons. However, in several population groups
+the disease is much more common (Khachadurian and
+Uthman 1973; Seftel et al. 1980; Moorjani et al. 1989).
+In these population groups most FH subjects living in the
+same area have the same LDL receptor mutation (Lehrman et al. 1987; Hobbs et al. 1987; Leitersdorf et al.
+1989b, 1990), presumably as a result of a founder effect.
+Khachadurian and Uthman (1973) observed an increased prevalence of F H in Lebanon. A single mutation
+in the LDL-receptor gene (a nucleotide substitution that
+produces a premature termination codon and a truncated
+receptor) was subsequently found to be responsible for
+FH in most of the Lebanese homozygous cases (Lehrman
+et al. 1987). The possible existence of other mutations
+responsible for elevated LDL-C levels in this community
+was also suggested (Lehrman et al. 1987).
+The adult Christian Arab population living in the Galilee region of northern Israel consists mainly of Lebanese
+who have immigrated from Lebanon over the last two
+centuries. In recent years, several individuals from this
+community have been identified as FH patients. Ascertainment of all available family members of kindreds
+sampled from this Israeli-Arab community to determine
+carrier status of the "Lebanese" mutation offers the opportunity to test the validity of methods of segregation
+analysis for inferring major genes. In addition it allows
+an estimation of the rote of environmental and polygenic
+factors in the variability in the FH phenotype.
+
+76
+
+Segregation and linkage analysis
+
+Materials and methods
+
+Family ascertainment
+Five Christian Arab kindreds (7 to 37 individuals in each) were
+recruited to the study through probands treated at the Lipid Clinic
+of the Hadassah University Hospital in Jerusalem for hypercholesterolemia and xanthomatosis. The five probands had LDL-C levels
+ranging from 188 to 666. Pedigrees were constructed and birth
+dates verified through personal interviews with all available family
+members and official identification documents. Each pedigree
+consisted of at least three generations.
+
+Lipid determination
+Fasting blood samples were drawn for determination of total plasma
+cholesterol (TC), triglycerides (TG), and high density lipoprotein
+cholesterol (HDL-C). Measurements were performed using commercially available kits (Boehringer Mannheim). LDL-C was estimated according to the Friedewald formula (Friedewald et al. 1972).
+
+Polymerase chain reaction (PCR) analysis
+of the Lebanese allele
+Genomic DNA was extracted from blood leukocytes as described
+(Hobbs et al. 1986) and was amplified using the PCR technique (Saiki
+et al. 1988) applied as described (Leitersdorf et al. 1989a). Oligonucleotides LM-I (5'-GAGTGAACTGGTGTGAGAGGACCAC3') and LM-II (5'-CTGTGAGGCAGCTCCTCATGTCCCT-3')
+complementary to exon 14 sequences that flank the mutation were
+used. The amplified DNA was subjected to restriction analysis
+using HinfI enzyme (New England Biolabs, Beverly Mass.) and
+electrophoresis on a 6% polyacrylamide gel. Results were read directly from gels following ethidium bromide staining.
+
+Data transformation
+
+The mixed model of segregation analysis (Morton and MacLean
+1974; Lalouel et al. 1983) was used to test for the presence of
+major loci. This model incorporates the following independent
+sources of variation: a major locus with a large effect; polygenes,
+each with a small effect; and a random nontransmissible factor.
+The polygenic and the random environment are assumed to be
+normally distributed and the major locus is assumed to have two
+alleles (A and a). The model involves estimating the following parameters: q, frequency of the major locus allele (a) for extreme
+levels of the trait. Assuming Hardy-Weinberg equilibrium, the
+relative frequency of individuals with genotypes AA, Aa and aa is
+p2, 2pq and q2 respectively, where p = 1 - q. Other parameters of
+the model include ~AA, ~Aa and ~aa as the phenotypic means and
+the phenotypic variance r
+among subjects having the same
+major gene genotype (AA, Aa or aa). The mixed model partitions
+this variance into a fraction attributable to polygenes (h z) and
+the rest ( 1 - h 2) attributable to individual environmental effects.
+Dominance of an allele occurs when ~Aa = ~AA or ~Aa = ~aa,
+whereas the general Mendelian hypothesis allows ~AA ~: OAa
+"aa. In addition three transmission probabilities (~1, z2, x3) that
+persons of the three types (AA, Aa, and aa) will transmit A to
+their offspring is included in the model (Elston and Stewart 1971).
+Under Mendelian hypothesis in which types are genotypes, zl, x2,
+T3take on values 1, 0.5 and 0, respectively. Likelihood of various
+genetic models were computed using pedigree analysis package
+(PAP; Hasstedt and Cartwright 1981) and the maximum likelihood
+parameter estimates were obtained with GEMINI (Lalouel 1979).
+For the mixed model, an approximation of the exact likelihood
+was employed. Different subhypotheses were tested with a likelihood ratio criterion by fixing certain parameters to their hypothesized values while estimating the remaining parameters from
+the data. Minus twice the natural logarithm of the ratio of the
+maximum likelihood in the full model, to the maximum likelihood
+in the reduced model, is distributed approximately x 2 when the
+null hypothesis is true. The degrees of freedom equal the number
+of parameters restricted to values stated by the hypothesis. The
+test of hypotheses done during segregation analysis were:
+1. No familial transmission (no major locus or polygenic loci effect).
+
+The effects of sex and age on lipid and lipoprotein concentrations
+were investigated. Since familial data was ascertained through
+nonrandomly recruited probands, the phenotypes in the sample
+were adjusted following the method proposed by Morton (1979).
+First, all probands were removed from the sample used to derive
+regression equations. Then, using the multiple regression analysis,
+we modeled each lipid and llpoprotein as a function of the following variables: sex, age, age 2, age 3, sex • age, sex x age z, sex •
+age 3, and REL x PHPROB, where REL is the coefficient of relationship of the individual to the proband and PHPROB is the
+phenotype level of the proband. Only significant terms were retained. All values were then adjusted to the mean age of men and
+the adjusted data were further standardized with their own mean
+and standard deviation. Skewness in the distribution of quantitative trait can falsely simulate a major locus unless adequately transformed prior to segregation analysis. Therefore, we applied the
+method of MacLean et al. (1976) to distinguish between skewness
+and the possibility of comingling. Specifically, the data were transformed as:
+
+2. No major gene transmission (polygenic model).
+3. No polygenic effect (codominant major locus model, dominant
+major locus model, or recessive major locus model).
+To confirm the presence of a major locus, the likelihood of the submodels assuming Mendelian transmission were compared with the
+likelihood of the general model with estimated transmission probabilities. To eliminate an environmental mixture of distributions,
+we also tested the hypothesis that Xl = x2 = x3 = x by comparing the
+likelihood of the mixed model with estimated transmission probabilities. A major locus was inferred if environmentaltransmission
+was rejected, while Mendelian inheritance could not be rejected.
+We corrected for ascertainment by calculating the likelihood of the
+pedigrees conditional on the phenotypes of the probands (Cannings
+and Thompson 1977).
+Maximum likelihood methods were also computed using the
+PAP program to test the linkage between the HinfI site at the
+LDL receptor gene and the possible major gene for each of the
+lipids and lipoproteins (Morton 1955).
+
+Results
+
+y =
+for ~,=0
+where we used R = 6 as a scale constant to ensure that x/R is positive. Different estimates of power transformation were obtained
+under the assumption of a single normal distribution and a mixture
+of two and three normal distributions.
+
+Sex a n d age characteristics a n d d e t a i l e d results of lipid,
+l i p o p r o t e i n , a n d L D L r e c e p t o r g e n o t y p e s for all study
+participants are given in A p p e n d i x 1. T h e structure of
+the five pedigrees is s h o w n in A p p e n d i x 2. D e s c r i p t i v e
+statistics of the 117 individuals in the s a m p l e are given in
+
+77
+Table 1. Descriptive statistics (mean __. SD)
+
+of lipid and lipoprotein levels in adultsa and
+juvenilesb
+
+Variable
+
+Total cholesterol
+(mg/dl)
+LDL-cholesterol
+(mg/dl)
+Triglyceride
+(mg/dl)
+HDL-cholesterol
+(mg/dl)
+
+Adults
+
+Juveniles
+
+Males
+(n = 36)
+
+Females
+(n = 49)
+
+Males
+(n = 15)
+
+Females
+(n = 17)
+
+226.1 + 78.6
+
+241.7 _+ 80.2
+
+291.0 + 192.6
+
+219.2 + 75.7
+
+196.1 _+77.8
+
+171.1 _+ 81.8
+
+233.2 +_201.8
+
+156.2 _+ 76.5
+
+163.7 + 75.7
+
+120.9 _+74.5
+
+84.3 _ 33.2
+
+92.4 __ 40.2
+
+37.3 _ 7.3
+
+46.4 __. 11.6
+
+40.9 __ 13.6
+
+44.5 _+ 11.1
+
+a Adults, age range 20 to 83; mean 40.7
+b Juveniles, age range 1 to 19; mean 10.2
+
+Table 2. Maximum likelihood estimates of genetic parameters a derived from segregation analysis for LDL-C
+Model
+
+- 2 In L + C
+
+q
+
+"AA
+
+'Aa
+
+"aa
+
+02rag
+
+h2
+
+General
+T1= 1.00 b
+"C2 = 0.49
+~3= 0.00
+No familial transmission
+Mixed codominant
+Mixed dominant
+Mixed recessive
+Major locus codominant
+Major locus dominant
+Major locus recessive
+Polygenes
+Nontransmitted major factor
+zi = x = 0.725
+
+228.0
+
+0.042
+
+-0.90
+
+0.57
+
+1.59
+
+0.39
+
+0.34
+
+276.2
+228.0
+238.4
+274.6
+234.8
+244.4
+276.3
+269.7
+247.1
+
+0.042
+0.058
+0b
+0.045
+0.068
+0b
+0.275
+
+- 0.26
+- 0.90
+- 0.91
+-- 0.37
+- 0.90
+-0.89
+-0.28
+- 0.51
+-1.00
+
+- 0.26
+0.57
+0.59
+-0.56
+0.59
+- 0.51
+0.16
+
+- 0.26
+1.59
+0.59
+-1.77
+0.59
+- 0.51
+0.86
+
+0.85
+0.39
+0.42
+0.86
+0.40
+0.43
+0.84
+0.87
+0.44
+
+0.34
+0.39
+0.35
+0.51
+0.95
+
+a Except for the general model and the model with a nontransmitted major factor transmission parameters were fixed at their Mendelian values
+b Converged to boundary through iterations
+
+T a b l e 1. F o r L D L - C , t w o n o r m a l d i s t r i b u t i o n s ( a f t e r
+transformation) fitted the data better than one normal
+distribution. Using a conservative approach, we applied
+o n l y t h e p o w e r t r a n s f o r m a t i o n (2. = - 2 . 4 4 ) f r o m a single
+d i s t r i b u t i o n . T a b l e 2 gives t h e r e s u l t s o f t h e s e g r e g a t i o n
+analysis o f t h e L D L - C v a l u e s , a n d e s t i m a t e s o f t h e different parameters of the mixed model and the maximum
+l i k e l i h o o d ( - 2 In L + c). W e first t e s t e d t h e h y p o t h e s i s
+o f t h e e n v i r o n m e n t a l t r a n s m i s s i o n b y s e t t i n g all t h r e e z's
+equal a n d c o m p u t i n g t h e l i k e l i h o o d . T h e m o d e l with equal
+t r a n s m i s s i o n p r o b a b i l i t i e s h a d a s i g n i f i c a n t l y l o w e r likelih o o d t h a n t h e g e n e r a l m o d e l . T h e e x p o n e n t i a l o f t h e diff e r e n c e in l o g l i k e l i h o o d i n d i c a t e d t h a t t h e M e n d e l i a n
+m o d e l w a s o v e r 14,000 t i m e s m o r e l i k e l y t h a n t h e m o d e l
+with e q u a l t r a n s m i s s i o n p r o b a b i l i t i e s . T h e m i x e d m o d e l ,
+which i n c l u d e d a single locus (zl --- 1, z2 = 0.5, x3 = 0) plus
+p o l y g e n i c effect, c o u l d n o t b e r e j e c t e d w h e n c o m p a r e d
+to t h e g e n e r a l m o d e l . I t was t h e n c o n s i d e r e d to b e t h e
+full m o d e l to w h i c h t h e o t h e r r e d u c e d m o d e l s w e r e c o m pared. The hypothesis of no familial transmission bet w e e n g e n e r a t i o n s (q = h 2 = 0; " A A = " A a = ~aa) was
+t h e n t e s t e d . T h e r e s u l t i n g Z 2 v a l u e , 276.2 - 228.0 = 48.2
+with 4 d e g r e e s o f f r e e d o m was h i g h l y significant, which
+i n d i c a t e d a familial c o m p o n e n t o f L D L - C . O u r d a t a
+
+g a v e e v i d e n c e c o n s i s t e n t with a significant m a j o r g e n e
+(Z23 = 269.7 - 228.0 = 41.7; P-< 0.001) in a d d i t i o n to polygenie t r a n s m i s s i o n (Z21 = 6 . 8 ; P = 0 . 0 0 9 1 ) . T h e p o s t u l a t e d m a j o r locus h a d a c o d o m i n a n t allele g o v e r n i n g high
+L D L - C levels with a f r e q u e n c y q = 0.042 (95% confidence interval 0.008-0.079) and a polygenic heritability
+o f 0.34. T h e d i s p l a c e m e n t s o f t h e m e a n s b e t w e e n A A
+( n o r m a l s ) a n d A a a n d b e t w e e n A A a n d a a g e n o t y p e s , in
+terms of the standard deviation of residuals around the
+g e n o t y p i c m e a n s , w e r e 3.76 a n d 7.32 S D units, r e s p e c tively.
+S e v e n t e e n i n d i v i d u a l s h a d e l e v a t e d T G levels ( > 200
+mg/dl). T w e l v e o f t h e m h a d t y p e - I I b h y p e r l i p i d e m i a (def i n e d as L D L - C > 150 m g / d l ) in a d d i t i o n to t h e e l e v a t e d
+T G levels. F i v e p a t i e n t s h a d t y p e - I V h y p e r l i p i d e m i a ( d e f i n e d as T G > 2 0 0 m g / d l with n o r m a l L D L - C levels).
+T h e r e f o r e , it was i n t e r e s t i n g to find w h e t h e r t h e r e is a n y
+m a j o r g e n e i n v o l v e m e n t in t h e d e t e r m i n a t i o n o f p l a s m a
+T G levels in this g r o u p . T a b l e 3 s u m m a r i z e s t h e results
+for t r i g l y c e r i d e s ( T G ) . F r o m t h e c o m i n g l i n g analysis, t h e
+h y p o t h e s i s t h a t a single n o r m a l d i s t r i b u t i o n fits t h e d a t a ,
+as well as a m i x t u r e o f two d i s t r i b u t i o n s c o u l d n o t b e rejected and therefore our normalized data did not support
+t h e e x i s t e n c e o f a n y m a j o r effect. H o w e v e r , since this
+
+78
+Table 3. Maximum likelihood estimates of genetic parameters a derived from segregation analysis for triglyceride
+Model
+
+- 2 In L + C
+
+q
+
+~AA
+
+~Aa
+
+~aa
+
+cr2mg
+
+h2
+
+General
+xl = 0.91
+zz = 0.79
+x3 = 0.39
+No familial transmission
+Mixed codominant
+Mixed dominant
+Mixed recessive
+Major locus codominant
+Major locus dominant
+Maj or locus recessive
+Polygenes
+Nontransmitted major factor
+"ci = ~ = 0.856
+
+265.3
+
+0.165
+
+- 0.44
+
+1.01
+
+3.79
+
+0.45
+
+0.24
+
+330.0
+288.4
+291.0
+290.5
+289.0
+295.0
+294.3
+324.6
+268.0
+
+0.184
+0.028
+0.178
+0.184
+0.029
+0.183
+0.143
+
+0.00
+- 0.34
+- 0.08
+- 0.08
+- 0.38
+- 0.12
+- 0.12
+-0.01
+-0.47
+
+0.00
+0.46
+3.45
+- 0.08
+0.50
+3.40
+- 0.12
+-0.01
+0.92
+
+0.00
+3.79
+3.45
+3.52
+3.79
+3.40
+3.54
+-0.01
+3.55
+
+0.99
+0.66
+0.76
+0.75
+0.63
+0.75
+0.75
+1.00
+0.46
+
+0.13
+0.25
+0.24
+0.34
+0.46
+
+a Except for the general model and the model with a nontransmitted major factor transmission parameters were fixed at their Mendelian values
+Table 4. Maximum likelihood estimates of genetic parameters a derived from segregation analysis for HDL-C
+Model
+General
+"q = 1 . 0 0
+
+- 2 In L + C
+
+q
+
+UAA
+
+325.0
+
+0.113
+
+0.13
+
+341.3
+326.1
+325.9
+325.3
+325.8
+328.8
+325.7
+327.8
+328.7
+
+0.188
+0.457
+0.768
+0.425
+0.333
+0.768
+0b
+
+0.00
+0.13
+1.00
+0.75
+0.99
+0.72
+0.75
+0.04
+0.129
+
+~Aa
+
+~aa
+
+~2ms
+
+h~
+
+- 0.25
+
+- 2.39
+
+0.92
+
+0.45
+
+0.00
+- 0.24
+-0.38
+0.75
+-0.21
+-0.55
+0.75
+0.04
+-
+
+0.00
+- 2.43
+-0.38
+- 0.50
+- 1.01
+-0.55
+-0.55
+0.04
+-
+
+0.99
+0.92
+0.76
+0.77
+0.68
+0.76
+0.76
+0.98
+0.94
+
+0.45
+0.47
+0.11
+0.46
+0.46
+
+b
+
+~ = 0.52
+93 = 0.10
+No familial transmission
+Mixed codominant
+Mixed dominant
+Mixed recessive
+Major locus codominant
+Major locus dominant
+Major locus recessive
+Polygenes
+Nontransmitted major factor
+"q=~=l
+
+a Except for the general model and the model with a nontransmitted major factor transmission parameters were fixed at their Mendelian values
+b Converged to boundary through iterations
+
+t r a n s f o r m a t i o n m a y lead to a r e d u c t i o n in the p o w e r t o
+d e t e c t the p r e s e n c e of a m a j o r g e n e w h e n o n e exists, we
+p e r f o r m e d o u r s e g r e g a t i o n analysis using the u n t r a n s f o r m e d T G values ( M a c L e a n et al. 1976). I n a d d i t i o n ,
+the i n c l u s i o n of the e n v i r o n m e n t a l m o d e l in the segregat i o n analysis as a n a l t e r n a t i v e e x p l a n a t i o n for the mixt u r e of d i s t r i b u t i o n s reduces the possibility for a false inf e r e n c e r e g a r d i n g the p r e s e n c e of a m a j o r effect ( D e m e nais et al. 1986). A s i d e f r o m the m o d e l with equal transm i s s i o n p r o b a b i l i t i e s , all o t h e r r e d u c e d models were rejected. T h e hypothesis of n o transmission of a major locus
+o r p o l y g e n i c effect was r e j e c t e d (Z2(7) = 64.7; P--- 0.001).
+U n d e r a m i x e d m o d e l with a possible c o d o m i n a n t m a j o r
+g e n e effect, the polygenic c o m p o n e n t did n o t c o n t r i b u t e
+to family r e s e m b l a n c e . T h e existence of a m a j o r effect
+was tested b y ~2 6 ---~324.6 - 265.3 = 59.3, which was f o u n d
+to b e significant (P___ 0.001). Yet, o u r data failed to p r o v e
+t h a t this was a g e n e t i c m a j o r factor.
+T h e r e s u l t s for H D L - C are p r e s e n t e d i n T a b l e 4.
+S i m i l a r t o t h e T G d a t a , t h e a d m i x t u r e analysis u s i n g
+
+the n o r m a l i z e d data did n o t p r o v i d e a n y s u p p o r t for bimodality. T h e r e f o r e , we u s e d the u n t r a n s f o r m e d H D L - C
+values i n the following s e g r e g a t i o n analysis. T h e r e d u c e d
+m o d e l , which defines n o familial t r a n s m i s s i o n , was rej e c t e d (Z27 = 16.3; P--< 0.05). B o t h t h e m i x e d m a j o r g e n e
+a n d the p u r e p o l y g e n i c h y p o t h e s e s w e r e n o t rejected. A s
+a m o r e rigorous test of the m a j o r g e n e m o d e l , we tested
+the h y p o t h e s e s of M e n d e l i a n effect t h r o u g h a n application of the u n i f i e d m o d e l ( L a l o u e l e t al. 1983), which
+c o m p a r e s the l i k e l i h o o d of the g e n e r a l m o d e l to that
+with e q u a l t r a n s m i s s i o n p r o b a b i l i t i e s . T h e e s t i m a t e s of
+t r a n s m i s s i o n p r o b a b i l i t i e s in the g e n e r a l m o d e l were
+close to t h e i r M e n d e l i a n values a n d t h e m o d e l with e q u a l
+t r a n s m i s s i o n was 6.3 times less likely t h a n the g e n e r a l
+m o d e l . H o w e v e r , the difference b e t w e e n this e n v i r o n m e n t a l m o d e l a n d the m i x e d m o d e l w i t h e s t i m a t e d transmission p r o b a b i l i t i e s was n o t statistically significant.
+Since g e n e t i c h e t e r o g e n e i t y a m o n g p e d i g r e e s m a y
+exist w h e n different g e n e s o r d i f f e r e n t m e c h a n i s m s give
+rise to a p p a r e n t l y similar p h e n o t y p e s , the l i k e l i h o o d of
+
+79
+Table 5. Heterogeneity in support a of a
+major locus for LDL-C levels data from the
+five pedigrees involved in the study.
+n, Number of individuals in each pedigree
+
+Pedigree
+No.
+
+n
+
+Mixed model
+vs polygenic
+model
+
+FH300
+FH353
+FH354
+FH356
+FH362
+
+37
+12
+29
+32
+7
+
+23.25
+6.58
+-2.57
+13.86
+1.33
+
+Codominant
+vs polygenic
+
+Dominant
+vs polygenic
+
+22.24
+6.09
+-5.84
+9.96
+1.44
+
+11.74
+5.34
+-3.86
+9.35
+1.92
+
+Recessive
+vs polygenic
+-5.06
+0.69
+0.18
+-0.97
+- 1.64
+
+a 2 In [L(models with a major gene)/L(polygenes)]
+
+Fig. 1. PCR analysis of the "Lebanese" allele. Genomic DNA was
+amplified using the PCR technique. Oligonucleotide LM2 was
+end-labeled using [32P-7]ATP and polynucleotide kinase. Following HinfI restriction analysis the amplified DNA was size fractionated on a 6% polyacrylamide gel and autoradiographed for 6 h.
+HaelII-digested ~x size marker was used. The 153-bp band signifies the normal allele and the 98-bp band, the mutant allele following HinfI digestion. The results obtained for a nuclear family
+within kindred FH r 300 are shown. The grandmother (III-14) and
+both parents (IV-18 and IV-19) are clinically heterozygous (all
+three have hypercholesterolemia and tendon xanthomas). The two
+children (V-1 and V-2) are homozygous FH patients with diffused
+xanthomatosis and extremely elevated LDL cholesterol levels
+(Appendix I). The genotype obtained by restriction analysis of
+their amplified DNA correlates well with their observed phenotypes
+different models from the segregation analysis of the
+L D L - C data was calculated within the different pedigrees. Table 5 presents twice the difference in natural
+log likelihoods under the different genetic models and
+indicates that four pedigrees supported a single m a j o r
+gene.
+The detection of the " L e b a n e s e " mutation in the
+L D L - r e c e p t o r gene w~is determined with the restriction
+Table 6. Genotype distribution and allele
+frequency of the Lebanese a allele (H2) detected with the restriction endonuclease
+HinfI in 112 family members of the index
+
+enzyme H i n f I on PCR-amplified D N A (Fig. 1). The frequency of the mutant alleles d e t e r m i n e d in 112 family
+m e m b e r s is given in Table 6. T h e frequency of the rare
+( " L e b a n e s e " ) allele H 2 was a p p r o x i m a t e l y 20%.
+Results f r o m linkage analysis for L D L - C using maxim u m likelihood m e t h o d showed the largest lod score
+(21.3) at a recombination fraction | = 0, confirming a
+cosegregation of the mutation and the m a j o r gene for the
+L D L - C phenotype. A h e t e r o g e n e i t y test (Ott 1983) indicated homogeneity in lod scores at | = 0 across the five
+pedigrees. H o w e v e r , it is i m p o r t a n t to note that in two
+pedigrees (FH354. FH362), lod score values were less
+than 3.0.
+
+Discussion
+O n e of the main predisposing factors to coronary heart
+disease is hyperlipidemia especially an elevated level of
+LDL-C. In the general population probably several genes
+are involved in the d e v e l o p m e n t of hyperlipidemia. The
+L D L - r e c e p t o r gene is the best u n d e r s t o o d (Brown and
+Goldstein 1986). H o b b s et al. (1990) have shown that
+m a n y different mutations in the L D L - r e c e p t o r gene can
+cause familial hypercholesterolemia. O u r data strongly
+support the hypothesis that the " L e b a n e s e " allele, an
+L D L - r e c e p t o r mutation, accounts for extremely elevated
+LDL-cholesterol levels a m o n g m e m b e r s of large A r a b
+kindreds living in the Galilee region of northern Israel.
+T h e small n u m b e r of families in the study reduces the
+possibility of genetic heterogeneity. O t h e r studies based
+on restriction f r a g m e n t length p o l y m o r p h i s m ( R F L P )
+analysis showed tight linkage b e t w e e n single L D L - r e -
+
+Allele frequency
+
+Genotype frequency
+H1H1
+
+H1H2
+
+H2H2
+
+H1
+
+H2
+
+cases
+
+Males
+Females
+
+28
+41
+
+29.3
+43.1
+
+19
+23
+
+16.4
+18.9
+
+1
+0
+
+2.3
+2.1
+
+0.781 _ 0.042
+0.820 __.0.034
+
+0.219 + 0.042
+0.180 • 0.043
+
+Total
+
+69
+
+72.3
+
+42
+
+35.4
+
+1
+
+4.3
+
+0.804 • 0.027
+
+0.196 __.0.027
+
+a All five probands (two males, three females) including one horn|
+heterozygotes are not included in this table
+
+FH and four
+
+80
+ceptor sites and the major gene for hypercholesterolemia
+(Humphries et al. 1985; Leppert et al. 1986). In several
+population groups, single mutations in the LDL-receptor gene were found in most of the familial hypercholesterolemic subjects (Hobbs et al. 1987; Leitersdoff et al.
+1989b, 1990; Aalto-Setala et al. 1989).
+In the present study, the linkage between the major
+gene for plasma LDL-C and the existence of the "Lebanese" mutation combining all five pedigrees was proven.
+In two pedigrees, (FH354 and FH362) the maximum lod
+scores at | = 0 was less than 3.0. In pedigree FH362 it
+seems that the lower lod score is due to decreased informativeness resulting from the small number of individuals investigated. In several nuclear families in pedigree
+FH354, it appears that there may be a second major factor resulting in the elevated LDL-C levels. In these families, a number of individuals were observed with LDL-C
+levels between 182 mg/dl (III-24) and 219 mg/dl (IV-14)
+although they did not carry the "Lebanese allele." One of
+these individuals (IV-14) was found to have xanthomatosis and corneal arcus. Haplotype analysis at the LDL-receptor gene locus (through study of the joint segregation
+of ten RFLPs according to Leitersdorf 1989a) was done
+for his nuclear family as well as for an F H homozygote
+that carries the "Lebanese" allele. This patient has LDLreceptor haplotypes 2, 3, and the FH homozygote was
+haplotypes 23,23. These results support the conclusion
+that an additional mutation is probably responsible for
+FH in some individuals from our sample. This possible
+heterogeneity was also indicated in our preliminary segregation analysis (Table 5). Our parameters estimated
+from the mixed model suggested that the inheritance of
+LDL-C in this subpopulation involves both a codominant
+major gene and a polygenic component. Support for the
+involvement of a single major gene was expressed in four
+pedigrees, while the fifth pedigree (FH354) supports additional effects on plasma LDL-C. The possibility of the
+involvement of a second distinct mutation in the LDLreceptor has been previously suggested in several FH cases
+from the Lebanese population (Lehrman et al. 1987).
+Thus, it is possible that in the present study population,
+which is believed to be descended from the Lebanese,
+the same rare mutation exists in addition to the relatively
+common "Lebanese" mutation.
+According to parameters estimated in the segregation
+analysis (following ascertainment correction) approximately 8% of the individuals of this subcommunity of
+Christian Arabs (ascertained through the Lipid Clinic)
+are expected to be heterozygous for the "Lebanese" mutation. This number should be judged with caution however, due to the relatively high standard error (0.02).
+The prevalence of heterozygotes may thus range from
+1.6% to 14.5% (95% confidence interval). The minimal
+expected prevalence (1:62.5) is similar to that found in
+the Afrikaner population (Seftel et al. 1980), which in
+both cases is much higher than the average worldwide
+frequency of 1:500 (Hobbs et al. 1990). A similar high
+prevalence of familial hypercholesterolemia has been reported in other populations (Khachadurian et al. 1973;
+Seftel et al. 1980). The reason for the high prevalence of
+FH in this specific ethnic group is not known, but it is
+
+probably related, as in other populations, to a founder
+effect.
+The results in our sample provide evidence that 34.4%
+of the LDL-C variance around the LDL-receptor genotypic means may be attributed to a polygenic effect.
+From the segregation analysis, which ignores the measured genotypic information, it appears that in this subcommunity (as defined by our clinic) the major gene contribution to the total LDL-C variability is greater (30.4%)
+than that of the polygenic variance component (23.2%).
+In the general population, due to low prevalence of F H
+the contribution of the polygenic component is higher
+and the variability at the LDL-receptor locus accounts
+for about 1% of cholesterol variability (Sing et al. 1975).
+From a practical viewpoint, the present linkage data
+indicate that the diagnosis of FH using the PCR technique
+on genomic DNA in Christian Arabs living in Israel is
+feasible. Examining their PCR-amplified D N A with the
+HinfI restriction endonuclease, should provide early diagnosis in the great majority of individuals with familial
+hypercholesterolemia. This method can also be applied
+to prenatal diagnosis. In addition, our analysis indicates
+the validity of segregation analysis in pedigrees with a
+known LDL-receptor mutation. This allows estimation
+of other components of the LDL-C variability (major
+genes and environmental parameters), which may have
+therapeutic implications.
+Previous studies disagree as to whether triglyceride
+levels are subject to major gene effects or are transmitted
+through multifactorial mechanisms. The known heterogeneity of hypertriglyceridemia may cause incosistencies
+regarding the mode of inheritance. Elevated plasma triglyceride levels can be due to familial hypertriglyceridemia (type-IV hyperlipidemia), familial combined hyperlipidemia (type IIB), remnant hyperlipidemia (type III)
+or type-V hyperlipoproteinemia. In addition, polygenic
+and sporadic hypertriglyceridemia are also known. Some
+authors have suggested that the mode of inheritance is
+autosomal dominant with increased penetration in adults
+and the gene frequency has been estimated to be 0.005
+(Goldstein and Brown 1989). When complex segregation was applied to samples of pedigrees and nuclear
+families, there was no statistical evidence for a major
+gene in any of these studies (Morton et al. 1978; Williams et al. 1982). On the basis of complex analysis, our
+results support a major effect. Yet, the likelihood for a
+Mendelian gene was lower than for a major environmental effect.
+The high levels of triglycerides in the five families
+may be due to diverse etiologies. These observations may
+obscure a major gene involvement. A further complication is that ascertainment was based on LDL-C and not
+triglycerides. Methods for constructing the likelihood for
+data ascertainment in this way have been described (Dawson and Elston 1984) but were not yet incorporated into
+the currently available computer software. In the noncarriers, the correlation coefficients between LDL-C and
+TG, LDL-C and HDL-C, and TG and HDL-C were 0.24,
+-0.09, -0.59, respectively. As the correlation between
+LDL-C and triglyceride is modest, it may not be critical
+to use ascertainment correction, and thus the estimate of
+
+81
+the transmission probabilities u n d e r the unified m o d e l
+m a y in part reflect the inappropriate ascertainment correction.
+L o w levels o f H D L - C are also of clinical i m p o r t a n c e
+b e c a u s e of the well-established inverse relationship between these levels and c o r o n a r y heart disease (Castelli et
+al. 1977; G o l d b o u r t 1979). Several genetic disorders related to extreme levels o f H D L - C have b e e n described
+( H a v e l et al. 1980; Franceschini et al. 1980; G l o m s e t et
+al. 1983). O u r lack o f evidence for a single locus with a
+major effect o n H D L - C levels in these five pedigrees,
+eliminates in our analysis these k n o w n genetic disorders.
+T h e present analysis indicates that a m o d e s t a m o u n t of
+triglyceride and H D L - C variability was due to polygenic
+effect. It is the goal o f the m e a s u r e d g e n o t y p e a p p r o a c h
+to partition this polygenic contribution into the contribution o f individual m e a s u r e d loci. T h e clustering o f the
+apolipoprotein A I - C I I I - A I V genes o n c h r o m o s o m e 11
+as well as the clustering o f apolipoprotein C I - C I I and E on
+c h r o m o s o m e 19 suggest that R F L P s in these gene clusters could be associated with triglyceride and H D L - C
+levels (Karathanasis et al. 1983; Rees et al. 1983). It would
+be of interest to d e t e r m i n e these p o l y m o r p h i s m s in highrisk families to e x a m i n e their effects o n triglyceride and
+H D L - C concentrations. I n particular, it would be important to examine the possible effect of interactions between the L D L - r e c e p t o r locus and the other genes on the
+p h e n o t y p i c expressions o f lipid and lipoprotein levels.
+
+Acknowledgements. We thank Drs. Y. Stein and S. Eisenberg for
+helpful discussions. Osnat Eliav is thanked for her valuable technical assistance. Sausan Schade is thanked for her outstanding contribution in family recruitment and study coordination. This study
+was supported in part by Sandoz Pharma Ltd., Basel, Switzerland.
+
+References
+Aalto-Setala K, Helve E, Kovanen PT, Kontula K (1989) Finnish
+type of low density lipoprotein receptor gene mutation (FI-IHelsinki) deletes exons encoding the carboxy-terminal part of
+the receptor and creates an internalization-defection phenotype. J Clin Invest 84: 499-505
+Brown MS, Goldstein JL (1986) A receptor-mediated pathway for
+cholesterol hemeostasis. Science 232: 34-47
+Cannings C, Thompson EA (1977) Ascertainment in the sequential sampling of pedigrees. Clin Genet 12:208-212
+Castelli WP, Doyle JT, Gordon T, Haines CJ, Hjortland MC,
+Hulley SB, Kagan A, Zukel WJ (1977) HDL cholesterol and
+other lipids in coronary heart disease: the cooperative lipoprotein phenotyping study. Circulation 55: 767-772
+Dawson DV, Elston RC (1984) A bivariate problem in human genetics: ascertainment of families through a correlated trait. Am
+J Med Genet 18: 435-448
+Demenais F, Lathrop M, Lalouel JM (1986) Robustness and power
+of the unified model in the analysis of quantitative measurements. Am J Hum Genet 38: 228-234
+Elston RC, Stewart J (1971) A general model for the genetic analysis of pedigree data. Hum Hered 21 : 523-542
+Franceschini G, Sirtori CR, Capurso A, Weisgaber KH, Mahley
+RW (1980) A-I Milano apoprotein: decreased high density lipoprotein cholesterol levels with significant lipoprotein modifications and without clinical atherosclerosis in an Italian family.
+J Clin Invest 66: 892-900
+
+Friedewald WT, Levy RI, Fredriekson DS (1972) Estimation of
+the concentration of low-density cholesterol in the plasma, without using preparative ultracentrifuge. Clin Chem 18:499-502
+Friedlander Y, Cohen T, Stenhouse N, Davies AM, Stein Y (1982)
+Familial aggregation of total cholesterol, triglyceride and high
+density lipoprotein-cholesterol in an Israeli population sample.
+Isr J Med SCI 18:1137-1143
+Garrison RT, Castelli WP, Feinleib M, Kannel W'B, Havlik ILl,
+Padgett ST, McNamara PM (1979) The association of total
+cholesterol, triglycerides and plasma lipoprotein levels in first
+degree relatives and spouse pairs. Am J Epidemiol 110:313-321
+Glomset JA, Norum KR, Gjone E (1983) Familial lecithin - cholesterol-acyltransferase deficiency. In: Stanbury JB, Wyngaarden J-B, Fredrickson DS, Goldstein JL, Brown MS (eels) The
+metabolic basis of inherited disease, 5th edn. McGraw-Hill,
+New York, pp 643-654
+Goldbourt U, Medalie JH (1979) High density lipoprotein cholesterol and incidence of coronary heart disease: the Israeli Ischemic
+Heart Disease Study. Am J Epidemiol 109 : 296-308
+Goldstein JL, Brown MS, Anderson RGW, Russell DW, Schneider
+WJ (1985) Receptor-mediated endoeytosis: concepts emerging
+from the LDL-receptor system. Annu Rev Cell Biol 1 : 1-39
+Goldstein JL, Brown MS (1989) Familial hypercholesterolemia.
+In: Scriver CR, Beaudet AL, Sly WS, Valle D (eds) The metabolic basis of inherited disease, 6th edn. McGraw-Hill, New
+York, pp 1215-1250
+:
+Hasstedt SJ, Cartwright PE (1981) PAP: Pedigree analysis package. (Tech Rep 13) Department of Biophysics and Computing,
+University of Utah, Salt Lake City
+Havel ILl, Goldstein JL, Brown MS (1980) Lipoprotein and lipid
+transport. In: Bondy PK, Rosenberg LE (eds) Metabolic control and disease, 8th edn. Saunders, Philadelphia, pp 393-494
+Hobbs HH, Brown MS, Goldstein JL, Russell DW (1986) Deletion of exon encoding cysteine-rich repeat of LDL receptor
+alters its binding specificity in a subject with familial hypercholesterolernia. J Biol Chem 261 : 13114-13120
+Hobbs HH, Brown MS, Russell DW, Davignon J, Goldstein JL
+(1987) Deletion in the gene for the low-density lipoprotein receptor in a majority of French Canadians with familial hypercholesterolemia. N Engl J Med 317: 734-737
+Hobbs HH, Russell DW, Brown MS, Goldstein JL (1990) The
+LDL receptor locus in familial hypercholesterolemia: mutational analysis of a membrane protein. Annu Rev Genet 24:
+133-170
+Humphries SE, Horsthemke B, Seed M, Holm M, Wynn V, Kessling AM, Donald JA, Jowett N, Galton DJ, Williamson R
+(1985) A common DNA polymorphism of the low-density lipoprotein (LDL) receptor gene and its use in diagnosis. Lancet
+I: 1003-1005
+Karathanasis SK, Norum RA, Zannis VI, Breslow JL (1983) An
+inherited polymorphism in the human apolipoprotein A-I gene
+locus related to the development of atherosclerosis. Nature
+301 : 718-720
+Khachadurian AK, Uthman SM (1973) Experiences with the homozygous cases of familial hypercholesterolemia. Nutr Metabol
+15 : 132-140
+Lalouel JM (1979) GEMINI: a computer program for optimization
+of general nonlinear functions. (Tech Rep 14) Department of
+Medical Biophysics and Computing, University of Utah, Salt
+Lake City
+Lalouel JM, Rao DC, Morton NE, Elston RC (1983) A unified
+model for complex segregation analysis. Am J Hum Genet 35 :
+816-826
+Lehrman MA, Schneider WJ, Brown MS, Davis CG, Elhammer
+A, Russell DW, Goldstein JL (1987) The Lebanese allele at the
+low density lipoprotein receptor locus: nonsense mutation produces truncated receptor that is retained in endoplasmic retieulum. J Biol Chem 262 : 401-410
+Leitersdorf E, Chakravarti A, Hobbs HI-I (1989a) Polymorphic
+haplotypes at the LDL receptor locus. Am J Hum Genet 44:
+409-421
+
+82
+Leitersdorf E, van der Westhuyzen DR, Coetzee GA, Hobbs
+HH (1989b) Two common low density lipoprotein gene mutations cause familial hypercholesterolemia in Afrikaners. J Clin
+Invest 84: 954-961
+Leitersdorf E, Tobin EJ, Davignon J, Hobbs HI-I (1990) Common
+low-density lipoprotein receptor mutations in the French Canadian population. J Clin Invest 85:1014-1023
+Leppert MF, Hasstedt S, Holm T, O'Connell P, Wu L, Ash O,
+Williams RR (1986) A DNA probe for the LDL-receptor gene
+is tightly linked to hypercholesterolemia in a pedigree with
+early coronary disease. Am J Hum Genet 39: 300-306
+MacLean CA, Morton NE, Elston RC, Yee S (1976) Skewness commingled distributors. Biometrics 32: 695-699
+Moorjani S, Roy M, Gagne C, Davignon J, Brun D, Toussalnt M,
+Lambert M, Champeau L, Blaichman S, Lupien P (1989) Homozygous familial hypercholesterolemia among French-Canadians
+in Quebec Province. Arteriosclerosis 9: 212-216
+Morton NE (1955) Sequential test for the detection of linkage. Am
+J Hum Genet 7:277-318
+Morton NE (1979) Genetics of hyperuricemia in families with
+gout. Am J Med Genet 4:103-106
+Morton NE, MacLean CT (1974) Analysis of family resemblance.
+III. Complex segregation of quantitative traits. Am J Hum
+Genet 26: 489-503
+Morton NE, Guldbrandsen CL, Rhoads GG, Kagan A, Lew R
+(1978) Major loci for lipoprotein concentrations. Am J Hum
+Genet 30: 583-589
+Namboodiri KK, Green PP, Kaplan EB, Morrison JA, Chase GA,
+Elston RC, Owen ARG, Rifkind B, Glueck CA, Tyroler H A
+(1984) The Collaborative Lipid Research Clinics program family
+study. IV. Familial association of plasma lipids and lipoproteins.
+Am J Epidemiol 119: 975-996
+Ott J (1983) Linkage analysis and family classification under heterogeneity. Ann Hum Genet 47: 311-320
+Rees A, Shoulders CC, Stocks J, Galton DJ, Baralle FE (1983)
+DNA polymorphism adjacent to human apolipoprotein A-I
+gene: relation to hypertriglyceridemia. Lancet 1:444-446
+Robertson FW (1981) The genetic component in coronary heart
+disease: a review. Genet Res 37:1-16
+Russell DW, Lehrman MA, Sudhof TC, Yamamoto T, Davis CG,
+Hobbs HH, Brown MS, Goldstein JL (1987) The LDL receptor in familial hypercholesterolemia: use of human mutations
+to dissect a membrane protein. Cold Spring Harb Symp Quant
+Biol 51 : 811-819
+Saiki RK, Gelfand DH, Stoffel S, Scharf SJ, Higuchi R, Horn GT,
+Mullis KB, Ehrlich H A (1988) Primer directed enzymatic amplification of DNA with a thermostable DNA polymerase. Science 239: 487-491
+Seftel HC, Baker SG, Sandier MP, Mendelsohn D (1980) A host
+of hypercholesterolemic homozygotes in South Africa. Br Med
+J 28: 633-636
+Sing CF, Chamberlain M, Block WD, Feiler S (1975) Analysis of
+genetic and environmental sources of variation in serum cholesterol in Tecumseh, Michigan. 1. Analysis of the frequency
+distribution for evidence of a genetic polymorphism. Am J
+Hum Genet 27: 333-347
+Sudhof TC, Goldstein JL, Brown MS, Russell DW (1985) The
+LDL-receptor gene: a mosaic of exons shared with different
+proteins. Science 228: 815-822
+Tyroler HA (1987) Review of lipid lowering clinical trials in relation to observational elinicat studies. Circulation 76:515-522
+Williams WR, Lalouel JM (1982) Complex segregation analysis of
+hyperlipidemia in a Seattle sample. Hum Hered 32: 24-36
+
+A p p e n d i x 1. Characteristics of 117 study p a r t i c i p a n t s
+
+Family IndiFH no. vidual
+
+Sex
+
+Age
+Lipid values
+(years) (mg/dl)
+
+no. a
+
+300
+
+353
+
+Genotype b
+
+TC
+
+TG
+
+I-IDL-C
+
+II-1
+1I-2
+III-1
+III-2
+III-3
+III-8
+III-11
+III-12
+III-13
+III-14
+III-16
+III-17
+III-18
+IV-2
+IV-3
+IV-4
+IV-5
+IV-6
+IV-7
+IV-8
+IV-9
+IV-10
+IV-12
+IV-14
+IV-15
+IV-17
+IV-18
+IV-19
+IV-20
+IV-21
+IV-22
+IV-23
+IV-25
+V-1
+V-2 c
+V-3
+V-4
+
+F
+M
+F
+F
+M
+F
+F
+M
+M
+F
+F
+M
+F
+F
+M
+F
+F
+M
+F
+F
+F
+F
+F
+F
+M
+F
+M
+F
+F
+M
+F
+F
+M
+M
+M
+M
+F
+
+76
+83
+52
+57
+62
+51
+48
+51
+78
+65
+51
+63
+44
+35
+33
+31
+21
+22
+23
+30
+23
+25
+27
+44
+41
+37
+38
+33
+35
+34
+29
+29
+36
+9
+10
+8
+3
+
+267
+341
+185
+475
+234
+361
+350
+202
+261
+414
+245
+222
+176
+168
+167
+212
+281
+253
+143
+158
+148
+169
+194
+232
+354
+225
+314
+350
+213
+203
+286
+316
+192
+775
+695
+152
+263
+
+85
+94
+86
+78
+113
+96
+196
+230
+152
+241
+205
+137
+167
+60
+65
+66
+66
+62
+29
+58
+50
+56
+137
+98
+136
+104
+202
+140
+110
+109
+47
+86
+317
+114
+63
+103
+92
+
+58
+34
+36
+32
+52
+46
+44
+28
+50
+24
+42
+36
+34
+56
+44
+36
+52
+40
+54
+60
+56
+68
+66
+54
+30
+50
+38
+46
+50
+40
+36
+38
+28
+10
+16
+32
+28
+
+II-1
+II-2c
+II-4
+II-5
+III-1
+III-2
+III-3
+III-4
+III-5
+III-6
+III-7
+III-8
+
+F
+M
+F
+M
+M
+M
+F
+F
+M
+F
+F
+M
+
+33
+42
+34
+34
+11
+9
+9
+13
+8
+5
+3
+1
+
+204
+285
+337
+224
+348
+249
+157
+156
+296
+133
+315
+178
+
+112
+116
+67
+149
+99
+67
+61
+58
+59
+46
+65
+156
+
+48
+44
+76
+36
+54
+34
+58
+60
+56
+52
+68
+42
+
+++++-
+
++-
+
++-+-+--
+
++-+-+--
+
++-+-++
+++
++-+-+-+-+--
+
++-+--
+
+83
+Appendix I (continued)
+
+Appendix 1 (continued)
+Family
+FI-I n o .
+
+Individual
+
+Sex
+
+Age
+Lipid v a l u e s
+(years) ( m g / d l )
+
+nO. a
+
+354
+
+TC
+
+TG
+
+HDL-C
+
+334
+
+140
+
+44
+
++-
+
+195
+347
+
+106
+154
+
+34
+30
+
+-+-
+
+---
+
+II-16
+II-17
+
+F
+M
+
+41
+62
+
+192
+228
+
+128
+108
+
+54
+48
+
+---
+
+58
+
+--
+
+28
+34
+26
+28
+42
+
+++-+--
+
+III-1
+III-2
+III-3
+III-4
+
+M
+M
+F
+M
+
+10
+16
+19
+20
+
+321
+268
+256
+189
+
+105
+137
+82
+61
+
+44
+54
+38
+46
+
++++--
+
+III-8
+III-9
+
+F
+F
+
+7
+7
+
+119
+148
+
+118
+79
+
+38
+52
+
+-- -
+
+110
+144
+
+38
+38
+
+---
+
+III-10
+III-11
+
+M
+F
+
+9
+12
+
+257
+288
+
+55
+106
+
+40
+36
+
+++-
+
+196
+191
+215
+39
+95
+
+38
+62
+44
+44
+34
+
+----+-
+
+III-12
+III-13
+
+M
+F
+
+14
+14
+
+120
+233
+
+69
+113
+
+42
+38
+
+-+-
+
+III-14
+
+F
+
+18
+
+115
+
+92
+
+44
+
+--
+
+7
+
+236
+269
+269
+186
+328
+
+III-15
+III-16
+
+M
+M
+
+14
+12
+
+185
+168
+
+58
+67
+
+52
+40
+
+---
+
+9
+4
+
+167
+270
+
+74
+78
+
+54
+46
+
+-+-
+
+III-18
+III-21
+
+F
+M
+
+28
+21
+
+186
+325
+
+43
+206
+
+64
+36
+
+-+-
+
+1
+33
+35
+
+272
+201
+289
+
+124
+74
+124
+
+42
+46
+52
+
++---
+
+III-22
+
+F
+
+25
+
+147
+
+103
+
+42
+
+--
+
+III-23
+III-24
+
+F
+F
+
+29
+35
+
+310
+174
+
+126
+71
+
+42
+66
+
++--
+
+58
+35
+
+261
+128
+
+105
+248
+
+36
+24
+
+F
+
+25
+
+182
+
+79
+
+F
+F
+M
+M
+F
+
+19
+33
+35
+31
+31
+
+325
+315
+243
+331
+173
+
+222
+88
+266
+235
+108
+
+F
+M
+
+36
+50
+
+203
+318
+
+III-21
+III-23
+III-24
+IV-1
+IV-2
+
+F
+F
+F
+M
+F
+
+48
+52
+64
+
+IV-3
+IV-4
+
+M
+F
+
+IV-5
+IV-6
+IV-9
+IV-12
+
+F
+M
+F
+
+II-2
+II-4
+II-5
+II-8
+II-9
+II-10
+II-12
+
+HDL-C
+
+57
+
+M
+M
+
+V-1
+
+TG
+
+43
+59
+
++-+-
+
+IV-14
+IV-16
+IV-17
+
+TC
+
+Genotype b
+
+F
+M
+
+30
+50
+26
+
+IV-13
+
+Age
+Lipid v a l u e s
+(years) (mg/dl)
+
+M
+
+127
+97
+380
+
+III-11
+III-12
+III-13
+III-20
+
+Sex
+
+II-14
+II-15
+
+327
+197
+296
+
+III-10
+
+Individual
+
+II-13
+
+62
+51
+53
+
+III-8
+III-9 r
+
+Family
+FI-I n o .
+
+no. a
+
+F
+F
+F
+
+II-1
+II-5
+II-7
+II-8
+III-1
+III-5
+
+356
+
+Genotype b
+
+9
+
+356
+
+F
+
+28
+
+153
+
+100
+
+46
+
+--
+
+III-25
+
+F
+
+36
+
+194
+
+391
+
+30
+
+--
+
+M
+M
+
+22
+43
+
+218
+298
+
+208
+226
+
+30
+34
+
+---
+
+III-26 r
+
+M
+
+32
+
+306
+
+401
+
+25
+
++-
+
+M
+M
+F
+
+29
+27
+17
+
+398
+257
+192
+
+277
+199
+80
+
+36
+38
+50
+
++---
+
+II-3
+II-5
+
+F
+M
+
+55
+48
+
+423
+449
+
+172
+137
+
+40
+38
+
++ + -
+
+II-6
+II-9 c
+
+M
+F
+
+37
+40
+
+340
+281
+
+182
+70
+
+30
+38
+
++ +-
+
+F
+
+38
+
+204
+
+174
+
+50
+
+--
+
+III-1
+
+F
+
+27
+
+199
+
+158
+
+44
+
+--
+
+M
+F
+
+39
+39
+
+140
+170
+
+104
+47
+
+40
+48
+
+---
+
+III-3
+III-4
+
+M
+F
+
+21
+19
+
+280
+156
+
+101
+60
+
+34
+46
+
++ --
+
+M
+F
+M
+M
+
+49
+
+128
+150
+404
+206
+
+139
+79
+138
+160
+
+30
+
+42
+53
+55
+
+40
+44
+50
+
+--+--
+
+362
+
+a R o m a n n u m e r a l d e n o t e s g e n e r a t i o n ; A r a b i c n u m e r a l , birth o r d e r
+b G e n o t y p e for t h e " L e b a n e s e " allele: - - , n o r m a l ; + - , h e t e r o z y g o t e ; + + , h o m o z y g o t e for t h e m u t a n t allele
+c I n d e x case
+
+n.&
+
+~
+
+n.&
+
+~n.& ~[
+
+n.&
+
+~n.a.
+
+n.&
+
+II ~
+
+I
+
+FH 356
+
+n.~.
+
+n.a.
+
+n.a,
+
+V
+
+Ill ~
+
+FH 354
+
+n.a.
+
+n.&
+
+n.a.
+
+it.a.
+
+n.a.
+
+3n~~ ~ ~-]76
+e~~ '~
+
+ItS r~ ~ / ~ ) ~) ~~ ~) ~ ~]
+
+II
+
+FH 353
+
+,v
+
+FH300
+
+Appendix2. Structureof fivepedigreeswithfamilialhypercholesterolemia. Solid pedigree symbols, homozygous
+for the "Lebanese" mutation; half-solid pedigree sym-
+
+12
+
+~
+
+~~1
+
+13~14
+
+n.a.
+
+n.a.
+
+I ~"
+
+n.a.
+
+I n~
+
+n.a.
+
+n.a.
+
+I
+
+n.a.
+
+Ill
+
+n,
+
+n.& n.a.
+
+n.a.
+
+n.a.
+
+~ ~ ~ ~ 6
+
+o,
+
+FH 362
+
+n.a.
+
+e ~ 1~1~20~
+
+I
+
+2 ~ 2 2 ~ 2 ~ | ~
+
+1~_
+
+bols, heterozygousfor the "Lebanese" mutation; arrow,
+index case; n.a., not availablefor the study
+
+~,a,
+
+o.,
+
+n.,
+
+2e~
+
+4~
+
+Oo
+
+

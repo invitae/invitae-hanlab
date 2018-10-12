@@ -1,0 +1,929 @@
+Am. J. Hum. Genet. 51:793-801, 1992
+
+A Pseudodeficiency Allele Common in Non-Jewish Tay-Sachs
+Carriers: Implications for Carrier Screening
+B. L. Triggs-Raine,* E. H. Mules,t M. M. Kaback,§ J. S. T. Lim-Steele,§ C. E. Dowling,$
+B. R. Akerman,* M. R. Natowicz,II E. E. Grebner,# R. Navon,** J. P. Welch,tt
+C. R. Greenberg,$t G. H. Thomas,t and R. A. Gravel*
+*McGill University-Montreal Children's Hospital Research Institute, and the Department of Biology, McGill University, Montreal; tGenetics
+Laboratory, The Kennedy Institute, Center for Medical Genetics, and $Department of Pediatrics, The Johns Hopkins School of Medicine,
+Baltimore; §Children's Hospital of San Diego, and Department of Pediatrics, School of Medicine, University of California, San Diego; IlEunice
+Kennedy Shriver Center for Mental Retardation, Waltham, MA, and Harvard Medical School, Boston; #Division of Medical Genetics, Thomas
+Jefferson University, Philadelphia; * *Human Genetics Department, Sackler School of Medicine, Tel-Aviv University, and Department of Molecular
+Genetics, Sapir Medical Center, Kfar-Sava, Israel; ttAtlantic Research Centre for Mental Retardation, Dalhousie University, Halifax, Nova
+Scotia; and t$Department of Pediatrics, University of Manitoba, Winnipeg
+
+Summary
+Deficiency of P-hexosaminidase A (Hex A) activity typically results in Tay-Sachs disease. However, healthy
+subjects found to be deficient in Hex A activity (i.e., pseudodeficient) by means of in vitro biochemical tests
+have been described. We analyzed the HEXA gene of one pseudodeficient subject and identified both a
+C739-to-T substitution that changes Arg247-Trp on one allele and a previously identified Tay-Sachs disease
+mutation on the second allele. Six additional pseudodeficient subjects were found to have the C739-to-T
+mutation. This allele accounted for 32% (20/62) of non-Jewish enzyme-defined Tay-Sachs disease carriers
+but for none of 36 Jewish enzyme-defined carriers who did not have one of three known mutations common
+to this group. The C739-to-T allele, together with a "true" Tay-Sachs disease allele, causes Hex A pseudodeficiency. Given both the large proportion of non-Jewish carriers with this allele and that standard biochemical
+screening cannot differentiate between heterozygotes for the C739-to-T mutations and Tay-Sachs disease
+carriers, DNA testing for this mutation in at-risk couples is essential. This could prevent unnecessary or
+incorrect prenatal diagnoses.
+
+Introduction
+
+Tay-Sachs disease (GM2 gangliosidosis type I, reviewed
+in Sandhoff et al. 1989) is a neurodegenerative disorder resulting from deficiency or defective function of
+the a-subunit of l-hexosaminidase A (Hex A). There
+are two major forms of 13-hexosaminidase, Hex A and
+Hex B (Robinson and Stirling 1968). Hex A comprises
+one a-subunit and one fi subunit, while Hex B comprises two D subunits (Geiger and Arnon 1976; Srivastava et al. 1976; Mahuran and Lowden 1980). The a
+and 13 subunits are encoded by the HEXA and HEXB
+Received February 5, 1992; final revision received June 4, 1992.
+Address for correspondence and reprints: Dr. Roy Gravel,
+McGill University-Montreal Children's Hospital Research Institute, 2300 Tupper Street, Montreal, Quebec, Canada H3H 1P3.
+i 1992 by The American Society of Human Genetics. All rights reserved.
+0002-9297/92/5104-0013$02.00
+
+genes, respectively (Proia and Soravia 1987; Neote et
+al. 1988; Proia 1988). The assay of j-hexosaminidase
+with a synthetic substrate, 4-methylumbelliferyl-13-Nacetyl-glucosaminide (4-MUG), in combination with
+a heat denaturation step, can be used to differentiate
+the heat-stable Hex B from Hex A (Kaback 1972),
+allowing Tay-Sachs disease heterozygotes, homozygotes, and noncarriers to be reliably differentiated.
+Healthy subjects found to have deficiency of Hex A
+activity when tested with standard synthetic substrates
+have been described elsewhere (Vidgoff et al. 1973;
+Kelly et al. 1976; O'Brien et al. 1978; Thomas et al.
+1982; Grebner et al. 1986; Navon et al. 1986); they
+have been called "pseudodeficient" or "Hex A minus"
+normal. Most pseudodeficient subjects have been
+identified through enzyme screening or during prenatal diagnosis. One such subject was also the mother
+793
+
+794
+
+of a classical Tay-Sachs disease child (Vidgoff et al.
+1973), suggesting that some of these subjects are compound heterozygotes of a Tay-Sachs disease allele and
+a pseudodeficiency allele. This indicated that, despite
+the biochemical defect associated with the pseudodeficiency allele, it must encode a protein with activity
+toward the natural substrate, GM2 ganglioside, compatible with normal life. Unfortunately, carriers of
+the pseudodeficiency alleles cannot be separated from
+carriers of Tay-Sachs disease alleles by using routine
+enzymatic methods (Vidgoffet al. 1973; O'Brien et al.
+1978; Thomas et al. 1982; Grebner et al. 1986).
+In North American non-Jews, the Tay-Sachs disease
+carrier frequency of 1/300, estimated by HardyWeinberg analysis, is almost half the frequency,
+1 / 167, determined by enzyme screening (Kaback et
+al. 1978). This contrasts with the data for Ashkenazi
+Jews, in whom the carrier frequency estimated from
+the disease incidence, 1/30 (Myrianthopoulos and Aronson 1966), is consistent with the 1/31 frequency
+found by enzyme screening (Petersen et al. 1983).
+Greenberg and Kaback (1982) proposed that inconsistencies between the disease incidence and the enzyme-based carrier frequency in non-Jews could be
+accounted for by a-subunit mutations that make individuals appear as Tay-Sachs disease heterozygotes on
+the basis of standard biochemical tests, while they are
+either (a) not at risk for having offspring with infantile
+Tay-Sachs disease or (b) carriers of a Hex A minus
+allele.
+The Hex A from most individuals who are compound heterozygotes for a pseudodeficiency allele and
+a Tay-Sachs allele have a characteristic biochemical
+phenotype. The serum Hex A activity has been reported as 0%-15%, similar to that of a Tay-Sachs
+disease child or a person with a variant form of TaySachs disease, while the leukocyte activity is 13%24%, just above the level in some adult-onset patients
+but below the carrier range (Vidgoff et al. 1973; Kelly
+et al. 1976; Thomas et al. 1982; Grebner et al. 1986;
+Navon et al. 1986). Fibroblast levels vary 8%-26%
+(Kelly et al. 1976; O'Brien et al. 1978; Thomas et al.
+1982; Grebner et al. 1986; Navon et al. 1986) between Tay-Sachs disease heterozygotes and individuals with variant forms of the disease. In contrast, however, in vivo and in vitro assays with the natural
+substrate of Hex A, i.e., GM2 ganglioside, give enzyme
+activities in the low normal range (Kelly et al. 1976;
+O'Brien et al. 1978; Thomas et al. 1982; Grebner et
+al. 1986).
+
+Triggs-Raine et al.
+A large number of mutations responsible for TaySachs disease and its variants have been identified.
+Three HEXA mutations account for most Tay-Sachs
+disease and its variants in Ashkenazi Jews (Paw et al.
+1990; Triggs-Raine et al. 1990; Grebner and Tomczak 1991; Landels et al. 1991), and more than 20
+disease mutations have been identified in non-Jews
+(Tanaka et al. 1990; reviewed in Akli et al. 1991;
+Gravel et al. 1991; Paw et al. 1991; Triggs-Raine et
+al. 1991). In the present study, a mutation associated
+with Hex A pseudodeficiency in Ashkenazi Jewish and
+non-Jewish individuals is described. We show that this
+mutation accounts for a large proportion of nonJewish enzyme-defined carriers but that it does not
+account for a significant proportion of Jewish enzyme-defined carriers.
+
+Subjects and Methods
+DNA Sources
+Subject A (HSC 1107 [Hospital for Sick Children,
+Toronto]), subject B (GM04863 [Human Genetic
+Mutant Cell Repository, Camden, NJ], designated as
+patient 1 by Grebner et al. [1986]), subject C (designated as patient 2 by Grebner et al. [1986]), subject D
+(Bayleran et al. 1986), subject E (Navon et al. 1986),
+subject F (designated as 11-2 by Kelly et al. [1976] and
+as patient 2 by Thomas et al. [1982]), subject G (The
+Kennedy Institute, Baltimore), and subject H (designated as patient 3 by Grebner et al. [1986]) were all
+healthy individuals identified to be Hex A deficient by
+means of the synthetic substrate, 4-MUG. DNA for
+analysis was prepared (Hoar et al. 1984) from fibroblasts or leukocytes.
+Leukocyte pellets or sonicates from enzyme-defined
+carriers and noncarriers and from obligate carriers of
+Tay-Sachs disease were from the California, Boston,
+and Toronto Tay-Sachs Disease Prevention Programs.
+Most of the carrier samples from Ashkenazi Jews that
+were supplied by the Toronto and Boston progams
+had formed the basis of a previous study on the distribution of Tay-Sachs disease alleles in Ashkenazi Jews
+(Triggs-Raine et al. 1990). A sample was excluded
+from the biochemically defined carriers if it was from a
+person who was a biological relative of either another
+enzyme-defined carrier or an obligate carrier. Obligate
+carriers were defined as a biological parent of a fetus
+or child with any form of Tay-Sachs disease. DNA
+from two sibs with amyotrophic lateral sclerosis was
+
+provided by the Health Sciences Centre, Winnipeg.
+
+Tay-Sachs Pseudodeficiency Allele
+
+795
+
+Mutation Identification
+
+Detection of C739-to-T Mutation
+
+The three mutations common in the Ashkenazi Jewish population were analyzed according to a method
+described elsewhere (Triggs-Raine et al. 1990). The
+DNA was then screened for novel mutations after PCR
+amplification of sequences flanking the 14 HEXA exons (Triggs-Raine et al. 1991). Single-strand conformational polymorphism (SSCP) analysis (Orita et al.
+1989) was done by means of a&2P-dATP-labeled PCR
+products, with separation of the single- stranded DNA
+by electrophoresis on a 6% nondenaturing polyacrylamide gel containing 10% glycerol. The PCR product
+exhibiting a change in electrophoretic mobility was
+phosphorylated and cloned into EcoRV-cut pBS +
+(Stratagene, San Diego) by following standard procedures (Maniatis et al. 1982). Double-stranded DNA
+was sequenced with Sequenase (United States Biochemicals, Cleveland).
+
+DNA (0.1-0.5 jig) prepared from fibroblasts or leukocytes was amplified according to a method described elsewhere (Triggs-Raine et al. 1990), except
+that the reaction cycle consisted of 32 cycles each of
+which comprised 30 s at 94°C, 30 s at 60°C, and
+90 s at 720C. A 10-15-il aliquot was taken from
+the PCR product, and 1 pl (2 units) of the restriction
+enzyme NlaIII (New England Biolabs, Beverly, MA)
+was added. After a 2-h incubation at 370C the samples
+were analyzed on 2.5% agarose gels.
+
+Reverse Transcription of Total RNA, and cDNA Amplification
+Total RNA was isolated (Chirgwin et al. 1979), and
+25 gg, dissolved in 20 pd of water, was denatured at
+650C for 5 min. Reverse transcription was done by
+immediately placing the denatured sample on ice and
+adding 80 units of RNasin (Promega Corporation,
+Madison), 1 jl of oligonucleotide primer (0.5 gg of
+dT15), 25 id of 2 x buffer (200 mM Tris-hydrochloride pH 8.0; 280 mM potassium chloride; 20 mM
+magnesium chloride; 2 mM of dATP, dCTP, dGTP,
+and dTTP; and 10 mM DTT), and 1 gd (3-5 units) of
+AMV reverse transcriptase (Bethesda Research Laboratories, Gaithersburg, MD). The mixture was incubated at 420C for 1 h. The HEXA coding sequence
+was amplified from the resulting cDNA in three overlapping fragments. To generate each fragment, a 5-l
+aliquot of the synthesized cDNA was amplified, in a
+standard PCR reaction mixture, with one of the following primer pairs (Triggs-Raine et al. 1990): exons
+1-7, sense primer 5'CTCACCTGACCAGGGTCTC
+ACGT-3' placed 5' of exon 1 and antisense primer
+5'-AAGTGTGGCCAGGAGTGTCA-3' in exon 7;
+exons 6-11, sense primer 5'-TGTCATGGCGTACAATAAAT-3' in exon 6 and antisense primer 5'-AGGGGTTCCACTACGTAGAA-3' in exon 11; and
+exons 7-14, sense primer 5'-TACAACCCTGTCACCCACAT-3' in exon 7 and antisense primer 5'-CCTTTCTCTCCAAGCACAGG-3', 3' of exon 14. The
+products were phosphorylated and subcloned into
+EcoRV-cut pBS + for sequencing as described above.
+
+Hexosaminidase Enzyme Assay
+
+All assays using 4-MUG as the substrate were performed according to the manual heat-inactivation
+methods described elsewhere (Lowden et al. 1976).
+Assays using 4-MUGS (4-methyl-umbelliferyl-6-sulfo2-acetamido-2-deoxy-13-D-glucopyranoside; Toronto
+Research Chemicals) were performed by the same
+methods but without the heat-inactivation step.
+
+Results
+
+Identification of the Pseudodeficiency Mutation
+
+During routine enzyme screening, subject A was
+found to be deficient in Hex A activity. We tested
+his DNA for the three known mutations common in
+Ashkenazi Jews. The exon 12 splice-junction mutation (Arpaia et al. 1988; Myerowitz 1988; Ohno and
+Suzuki 1988), an allele associated with the lethal infantile form of Tay-Sachs disease, was identified on
+one chromosome (data not shown). The second allele
+was detected by SSCP analysis. The exon 7 PCR product showed a band pattern distinct from that of the
+normal sequence (fig. 1). It was cloned and sequenced
+and revealed a single change, a C739-to-T transition
+corresponding to an Arg247-to-Trp substitution (fig.
+2). The remainder of the HEXA coding region of subject A was examined by reverse transcription of total
+RNA and amplification of overlapping portions of the
+cDNA. This was simplified because the other mutant
+allele in subject A's DNA (exon 12 splice junction)
+produces a reduced quantity of mRNA (Ohno and
+Suzuki 1988). The amplified products were subcloned
+and sequenced. The C739-to-T mutation was identified
+in all three clones, amd no other changes were detected.
+
+796
+
+Triggs-Raine et al.
+
+I
+
+2
+
+T
+
+C\
+
+G
+G
+
+MUTANT
+AC G T
+
+T
+
+NORMAL
+ACG T
+
+/C
+G
+G
+
+*T
+
+C
+
+A
+
+A
+
+\
+
+C/
+
+C
+
+G
+
+G
+\C
+
+C
+
+Figure 2
+Sequence of normal and mutant DNA. The region
+of exon 7 containing the C739-to-T mutation is shown. The asterisk
+indicates the altered base in the mutant sequence.
+
+a.
+A
+15
+
+4B
+41
+
+105
+
+(t)
+
+k 5-CCTGTCACCCAGATGTACACAGCAr3'
+Figure I
+
+SSCP analysis of exon 7 of HEXA. The a32PdATP-labeled PCR products of subject A (lane 1) and of a normal
+control (lane 2) were denatured, and the single strands were separated on a nondenaturing polyacrylamide gel containing 10% glycerol. The arrow indicates the nondenatured band. The two extra
+bands in lane 1 result from a mutation that alters the conformation
+and, therefore, the mobility of the DNA strands from one allele.
+
+5'-TMCAAGCAGAGTCCCTCTGGT-3'
+Total Size: 161 bp
+
+B:
+
+b.
+
+bp
+Detection of the Mutation
+
+The C739-to-T mutation creates an NlaIII site, which
+allowed for a strategy for the detection of this mutation, as outlined in figure 3. A region of exon 7 through
+intron 8, including the region containing the mutation, was amplified and tested for the presence or absence of the NlaIII site. In addition, the forward primer
+was synthesized with a single base mismatch to create
+an independent NlaIII site (S'-CCTGTCACCCACATGTACACAGCA-3') to act as a control NMaII site to
+assure that the restriction enzyme was active even if
+the C739-to-T mutation was absent.
+Testing for the C739-to-T Mutation in Other Subjects
+with Pseudodeficiency
+
+DNA samples from the Jewish subjects A-E, all of
+whom were healthy Hex A-deficient individuals, were
+each found to carry a single copy of the C739-to-T
+
+1
+
+2
+
+3 4
+
+161
+146-
+
+105Figure 3
+Strategy for the detection of the C739-to-T mutation. a, NlaIII sites, denoted by arrows, in the sequence. The parentheses indicate the site created by the presence of the C739-to-T
+mutation. The asterisk under the A primer indicates the single base
+change introduced to create a control NlaIII site. b, Agarose gel
+electrophoresis of the products of the strategy used with the A
+primer. Lane 1, Normal uncut. Lane 2, Normal, cut by NlaIII. Lane
+3, Mutant uncut. Lane 4, Mutant, cut by NlaIII.
+
+mutation in combination with a previously identified
+mutation associated with infantile Tay-Sachs disease
+(table 1). Two additional DNA samples were from
+subjects F and G, non-Jewish Pennsylvania Dutch in-
+
+797
+
+Tay-Sachs Pseudodeficiency Allele
+Table I
+DNA Analysis of Pseudodeficient Subjects
+
+Subject
+(age in years)
+
+Presentation
+
+A (47) ..........
+B (12) ..........
+C (14) ..........
+D (30s) ..........
+E (39) ..........
+F (56) ..........
+G (13) ..........
+H (36) ..........
+
+Allele 1
+
+Allele 2
+
+Heritage
+
+Reference
+
+Ashkenazi-Jewish
+Ashkenazi-Jewish
+Ashkenazi-Jewish
+Ashkenazi-Jewish
+Ashkenazi-Jewish
+Pennsylvania Dutch and ?e
+Pennsylvania Dutch
+Non-Jewish
+
+Present study
+Grebner et al. 1986
+Grebner et al. 1986
+Bayleran et al. 1986
+Navon et al. 1986
+Thomas et al. 1982
+Present study
+Grebner et al. 1986
+
+Screeninga
+Prenatalc
+Prenatalc
+Screeninga
+Screeninga
+Screeninga
+Prenatalc
+
+C739-IT
+C739'T
+C739-T
+C739IT
+C739IT
+C739 T
+C739-bT
+
+Exon 12b
+Exon 1 1d
+Exon 11d
+Exon 11d
+Exon 11d
+Unknown
+Unknown
+
+Screeninga
+
+Unknown
+
+Unknown
+
+a
+Identified as hexosaminidase A deficient during Tay-Sachs disease screening.
+b Exon 12 splice junction mutation (Arpaia et al. 1988; Myerowitz 1988; Ohno and Suzuki 1988).
+c Identified by prenatal diagnosis because both parents were found to be carriers during standard Tay-Sachs screening.
+d 4-bp insertion in exon 11 (Myerowitz and
+Costigan 1988).
+' Heritage of the subject's mother is unknown.
+
+dividuals who are part of a kindred with an elevated
+incidence of Tay-Sachs disease (Kelly et al. 1975). In
+these cases, the C739-to-T mutation was independently
+identified by direct sequencing of the exon 7 PCR amplification product. The second allele in subjects F and
+G remains unidentified, although it is presumed to be
+an infantile Tay-Sachs disease allele that is segregating
+in this population. Subject H, a pseudodeficient subject whose hexosaminidase had biochemical properties different from those of the hexosaminidase of
+other subjects (Grebner et al. 1986), did not have the
+C739-to-T allele.
+
+Enzyme Assay of a Pseudodeficient Subject
+
+Serum and leukocyte samples from subject B and
+from subject B's carrier mother and sib were assayed
+with both the standard substrate 4-MUG and the
+a-subunit-specific substrate 4-MUGS (tables 2 and 3).
+The mother, a carrier of the C739-to-T mutation, had
+Hex A levels just outside the carrier range, i.e., in the
+"inconclusive" region. The sib of subject B, a carrier
+of the exon 11 + TATC mutation, had Hex A levels
+in the carrier range. Subject B, who has both of these
+mutant alleles, had Hex A levels well below the carrier
+range, similar to or slightly higher than those associ-
+
+Table 2
+Hexosaminidase Levels in Leukocytes of Subject B and Family
+4-MUG
+
+SOURCE
+
+Subject B
+Sib ofBa
+Mother ofBb
+Carriers:
+
+Average
+Range (n=12)
+
+% Hex A
+
+4-MUGS
+SPECIFIC ACTIVITY
+(nmol substrate
+cleaved/mg protein/h)
+
+MUGS/MUG
+(x 100)
+
+1,300
+1,330
+1,230
+
+17.2
+51.4
+58.5
+
+16.1
+53.9
+61.1
+
+1.2
+4.0
+5.0
+
+1,080
+752-1,350
+
+50.6
+41.7-54.5
+
+44.4
+27.3-62.1
+
+4.1
+3.6-4.6
+
+1,160
+910-1,540
+
+69.7
+65.4-72.2
+
+73.0
+56.4-95
+
+6.3
+5.8-7.3
+
+Specific Activity
+(nmol substrate
+cleaved/mg protein/h)
+
+Normals:
+
+Average
+Range (n= 12)
+a
+
+b
+
+Carrier of 4-bp insertion in exon 11, which is associated with infantile Tay-Sachs disease.
+Carrier of C739-to-T mutation in exon 7, which is associated with Hex A pseudodeficiency.
+
+Triggs-Raine
+
+798
+
+et
+
+al.
+
+Table 3
+Serum Levels of Hexosaminidase in Subject B and Family
+
+(nmol substrate
+cleaved/ml serum/h)
+
+% Hex A
+
+4-MUGS
+SPECIFIC ACTIVITY
+(nmol substrate
+cleaved/ml serum/h)
+
+Subject B .............
+Sib of Ba .............
+Mother of Bb .........
+Carriers:
+
+784
+1,070
+790
+
+9.6
+44.5
+53.4
+
+9.5
+51.2
+51.0
+
+1.2
+4.8
+6.5
+
+Average .............
+Range (n=12) ....
+Normals:
+Average .............
+Range (n = 12) ....
+
+950
+679-1,190
+
+41.5
+38.0-46.8
+
+49.1
+35.6-61.2
+
+5.2
+4.5-6.3
+
+1,050
+799-1,370
+
+59.6
+56.1-63.1
+
+78.3
+60.5-103
+
+7.5
+7.1-8.1
+
+4-MUG
+
+SOURCE
+
+MUGS/MUG
+(x 100)
+
+Carrier of 4-bp insertion in exon 11, which is associated with infantile Tay-Sachs disease.
+b Carrier of C739-to-T mutation in exon 7, which is associated with Hex A pseudodeficiency.
+
+a
+
+ated with classical or variant forms of Tay-Sachs disease. In all cases, the extent of the forms of the deficiency was found to be similar by both synthetic
+substrates, i.e., 4-MUG and 4-MUGS.
+Screening for the C739-to-T Mutation in Tay-Sachs
+Disease Carriers and Noncarriers
+
+The samples initially screened for this mutation
+from Ashkenazi Jews who had been biochemically screened as part of the regular Tay-Sachs disease
+prevention programs in California, Boston, and Toronto. We thought that this mutation might account
+for some of the enzyme-defined carriers who did not
+have any of the other common mutations causing
+Tay-Sachs disease in this population. As shown in table 4, none of the 36 Ashkenazi Jewish enzyme-defined
+carriers previously shown not to have one of the three
+mutations common in that population had the C739to-T mutation.
+Samples from non-Jews who had also been enzymatically screened as part of the California and Boston
+Tay-Sachs disease prevention programs, as well as
+samples from non-Jewish obligate carriers of TaySachs disease, were analyzed for the C739-to-T mutation. It is significant that the mutation was found in
+20/62 non-Jewish enzyme-defined carriers. Fifty-five
+noncarriers and 33 obligate carriers of Tay-Sachs disease did not carry the mutation (table 4). Finally, the
+mutation was identified in two middle-aged nonJewish sibs with familial amyotrophic lateral sclerosis
+(ALS) who had carrier (44% and 49%) Hex A activity.
+An additional middle-aged sib, who did not have ALS,
+
+also had carrier levels of enzyme activity. The nonJewish carriers with this allele had Hex A levels scattered throughout the carrier range and could not be
+differentiated from true Tay-Sachs disease carriers by
+means of standard methods. Most of the non-Jewish
+individuals with the C739-to-T allele had some ancestral origin in western Europe, suggesting that this allele may have originated in this region.
+
+were
+
+Table 4
+DNA Analysis of Enzyme-defined Carriers,
+
+Enzyme-defined Noncarriers, and Obligate
+Carriers of Tay-Sachs Disease
+
+Heritage and Status
+
+Total
+No.
+
+No. (%) with
+C739-to-T Mutation
+
+62
+15
+
+20 (32)
+0 (0)
+
+36a
+40
+
+0 (0)
+0 (0)
+
+33
+
+0 (0)
+
+Non-Jewish:
+Carrier ..............
+Noncarrier ...........
+
+Jewish:
+Carrier ..............
+Noncarrier ...........
+
+Non-Jewish
+obligate carrierb
+
+....
+
+a These 36 carriers did not have one of the three mutations common in the Ashkenazi Jewish population identified in a previous
+study (Triggs-Raine et al. 1990).
+b Seventeen of the obligate carriers are actually represented by 10
+Tay-Sachs disease-affected offspring (3/20 alleles in the affected
+offspring either were inherited from a parent of Ashkenazi Jewish
+origin or were already represented by an obligate carrier, leaving 17
+
+non-Jewish obligate alleles).
+
+Tay-Sachs Pseudodeficiency Allele
+Discussion
+We found a C739-to-T (Arg247-to-Trp) mutation in
+seven pseudodeficient subjects of either non-Jewish or
+Jewish origin. In the five Ashkenazi Jewish individuals, who come from a population where the mutations
+causing Tay-Sachs disease are largely known, the second allele was identified as one of the common TaySachs disease-causing alleles. This confirms earlier
+
+hypotheses that pseudodeficient subjects would be
+compound heterozygotes for a Tay-Sachs disease allele and a "pseudodeficiency" allele.
+A characteristic enzyme phenotype is associated
+with compound heterozygosity for the C739-to-T mutant allele and a Tay-Sachs disease allele. On the basis
+of synthetic substrates, these individuals exhibit low
+or absent serum Hex A activity, but the levels are
+somewhat higher in fibroblasts and/or leukocytes
+(Thomas et al. 1982; Grebner et al. 1986; Navon
+et al. 1986; present study). Substantial levels of GM2
+ganglioside hydrolysis in cultured cells from subjects
+B, C, and F have been reported (Thomas et al. 1982;
+Grebner et al. 1986). M. M. Kaback and K. Sandhoff
+(unpublished data) found similar levels of enzyme activity in subject D by using an in vitro GM2 gangliosidase assay (489.7 pmol GM2 ganglioside degraded/h/
+gg protein; normal range 384-787; adult-onsetdisease range 13-33). Therefore, the Arg247-to-Trp
+change in the a-subunit does not appear to affect the
+capacity of Hex A to hydrolyze the natural substrate.
+Further, the a-subunit containing the Arg247-to-Trp
+mutation appears to be made, processed, and secreted
+normally from fibroblasts (Thomas et al. 1982;
+Grebner et al. 1986). The reduced activity toward
+4-MUGS compared with GM2 ganglioside was unexpected, since the two substrates have been shown to be
+specific to the a-subunit (Kytzia and Sandhoff 1985).
+Indeed, their different behavior toward Hex A in subjects with the pseudodeficiency allele suggests that the
+mutated region of the protein may be involved in substrate recognition.
+The C739-to-T mutation accounted for 32% of
+enzyme-defined carriers among non-Jews. The high
+prevalance of the allele in this population could explain the discrepancy between the enzyme-defined carrier frequency of 1 / 167 and the 1 / 300 frequency predicted by disease incidence. If the carriers of the
+C739-to-T mutation are removed from the calculation,
+then the carrier frequency becomes 1/250, which is
+closer to that predicted. Since one pseudodeficient subject in our study did not have the C739-to-T mutation,
+
+799
+there may be additional alleles among non-Jewish carriers that do not cause disease.
+The C739-to-T allele was not identified in any of the
+Ashkenazi Jewish enzyme-defined carriers who were
+previously analyzed and shown not to have any of the
+three mutations common in this population (TriggsRaine et al. 1990). A larger study will be required to
+establish the frequency of this allele within Ashkenazi
+Jewish carriers.
+Assessment of the clinical phenotype associated
+with the C739-to-T mutation in pseudodeficient subjects is of crucial importance in providing a prognosis
+for these individuals and others with the same genotype. Subject A was healthy when he was first tested
+and still appears healthy at age 47 years, although no
+formal neurological assessment has been done. Subject
+E had a neurological assessment 4 years ago, at the
+age of 35, and was found to be normal. Subject D
+was healthy at the time of testing in her mid-30s and
+remained so in the next decade, but no further update
+is available. Subject F, now 56 years of age, similarly
+reports no health problems. It is not yet possible to say
+that compound heterozygotes carrying a Tay-Sachs
+disease allele in combination with the pseudodeficiency allele will be disease free throughout their lives.
+However, until more detailed neurological assessments can be made, especially in older subjects, we
+would counsel that the C739-to-T allele appears to pose
+little or no clinical risk.
+The atypical Hex A activities associated with the
+C739-to-T mutation also complicate prenatal diagnosis
+when there is another disease-related allele, as was the
+case for subjects B, C, and G. Prenatal diagnosis in
+two cases was uncertain. With Hex A levels between
+that of a Tay-Sachs disease homozygote and that of a
+Tay-Sachs disease heterozygote (for subject B, 3.5%
+in amniotic fluid and 25% in cultured amniotic fluid
+cells; for subject C, 2% in amniotic fluid and 8% in
+amniotic fluid cells; and, for subject G, 14%-21% in
+cultured amniotic fluid cells), subjects C and G were
+considered at risk for a variant form of Tay-Sachs
+disease. DNA testing for the C739-to-T mutation
+should prove to be a useful adjunct to enzyme procedures in distinguishing the allele from those causing
+variant clinical forms of the disease.
+We believe that testing for this allele should be available in programs for carrier testing for Tay-Sachs disease in both Ashkenazi Jews and non-Jews. In particular, the anxiety and expense associated with antenatal
+diagnosis, as well as the difficulty in interpreting the
+
+800
+
+unusual enzyme levels, make it important to identify
+the C739-to-T mutation in couples presumed to be at
+risk. As we have shown in one instance, neither
+4-MUG nor 4-MUGS could distinguish between a carrier of the C739-to-T allele and a carrier of a known
+disease allele. This has been extended to a broader
+survey of carriers (M. M. Kaback, unpublished data).
+While the natural substrate assay would appear to be
+an appropriate alternative, the instability of the radiolabeled natural substrate, the requirement for the biological activator protein, and the complexity of the
+assay make it impractical. DNA testing is currently
+the only simple method for identifying this allele.
+
+Acknowledgments
+The authors are grateful to Drs. Elizabeth Prence and
+Peter Hechtman for testing or providing some of the samples
+used in this study. This research was supported by Medical
+Research Council of Canada grant MA-10432 and by a
+Canadian Network of Centres of Excellence grant, both to
+R.A.G.; by Kennedy/Hopkins NICHD Mental Retardation
+Research Center Core Grant HD24061 to G.H.T.; by a
+National Tay-Sachs Disease and Allied Disease Association,
+Inc. grant to M.M.K.; by Israeli Academy of Science and
+Humanities grant 260, March of Dimes Birth Defects grant
+6-576, and Chief of Scientists Office of the Israeli Ministry
+of Health grant 1700 to R.N.; and by a Genetic Disease
+Section, Maternal and Child Health Branch, Department
+of Health, State of California contract to M.M.K. This is
+publication 91011 from the McGill University-Montreal
+Children's Hospital Research Institute.
+
+References
+Akli S, Chelly J, Lacorte J-M, Poenaru L, Kahn A (1991)
+Seven novel Tay-Sachs mutations detected by chemical
+mismatch cleavage of PCR-amplified cDNA fragments.
+Genomics 11: 124-134
+Arpaia E, Dumbrille-Ross A, Maler T, Neote K, Tropak M,
+Troxel C, Stirling JL, et al (1988) Identification of an
+altered splice site in Ashkenazi Tay-Sachs disease. Nature
+333:85-86
+Bayleran J, Hechtman P, Smith-Jones L, Kaback M, Kolodny E (1986) Adults with low hexosaminidase A: prognostic value of sulfated synthetic substrate. Am J Hum
+Genet 39 [Suppl]: A4
+Chirgwin JM, Przybyla AE, MacDonald RJ, Rutter WJ
+(1979) Isolation of biologically active ribonucleic acid
+from sources enriched in ribonuclease. Biochem 18: 52945299
+Geiger B, Arnon R (1976) Chemical characterization and
+subunit structure of human N-acetyl hexosaminidases A
+and B. Biochemistry 25:3484-3492
+
+Triggs-Raine et al.
+Gravel RA, Triggs-Raine BL, Mahuran DJ (1991) Genetics
+and biochemistry of Tay-Sachs disease. Can J Neurol Sci
+18:419-423
+Grebner EE, Mansfield DA, Raghavan SS, Kolodny ER,
+D'Azzo A, Neufeld EF, Jackson LG (1986) Two abnormalities of hexosaminidase A in clinically normal individuals. Am J Hum Genet 38:505-515
+Grebner EE, TomczakJ (1991) Distribution of three a-chain
+0-hexosaminidase A mutations among Tay-Sachs carriers. Am J Hum Genet 48:604-607
+Greenberg DA, Kaback MM (1982) Estimation of the frequency of hexosaminidase A variant alleles in the American Jewish population. Am J Hum Genet 34:444-451
+Hoar DI, Haslam DB, Starozik DM (1984) Improved direct
+molecular diagnosis and rapid fetal sexing. Prenat Diagn
+4:241-247
+Kaback MM (1972) Thermal fractionation of serum hexosaminidases: applications to heterozygote detection and
+diagnosis of Tay-Sachs disease. Methods Enzymol 28:
+862-867
+Kaback MM, Hirsh P, Roy C, Greenwald S, Kirk M (1978)
+Gene frequencies for Tay-Sachs (TSD) and Sandhoffs disease (SD) in Jewish and nonjewish populations. Pediatr
+Res 12:530A
+Kelly TE, Chase GA, Kaback MM, Kumor K, McKusick
+VA (1975) Tay-Sachs disease: high gene frequency in a
+non-Jewish population. Am J Hum Genet 27:287-291
+Kelly TE, Reynolds LW, O'Brien JS (1976) Segregation
+within a family of two mutant alleles for hexosaminidase
+A. Clin Genet 9:540-543
+Kytzia H-J, Sandhoff K (1985) Evidence for two different
+active sites on human 13-hexosaminidase A. J Biol Chem
+260:7568-7572
+Landels EC, Ellis IH, Fenson AH, Green PM, Bobrow M
+(1991) Frequency of the Tay-Sachs disease splice and insertion mutations in the UK Ashkenazi Jewish population.
+J Med Genet 28:177-180
+Lowden JA, Burton RM, Desnick RJ, Goodman S, Kaback
+MM, Kolodny EH, Rattazzi MC, et al (1976) Tay-Sachs
+carrier screening: a manual of methods. National TaySachs and Allied Disease Association, Boston
+Maniatis T. Fritsch EF, Sambrook J (1982) Molecular cloning: a laboratory manual. Cold Spring Harbor Laboratory, Cold Spring Harbor, NY
+Mahuran D, Lowden JA (1980) The subunit and polypeptide structure of hexosaminidases from human placenta.
+Can J Biochem 58:287-294
+Myerowitz R (1988) Splice junction mutation in some Ashkenazi Jews with Tay-Sachs disease: evidence against a
+single defect within this ethnic group. Proc Natl Acad Sci
+USA 85:3955-3959
+Myerowitz R, Costigan FC (1988) The major defect in Ashkenazi Jews with Tay-Sachs disease is an insertion in the
+gene for the a-chain of P-hexosaminidase. J Biol Chem
+263:18567-18569
+Myrianthopoulos NC, Aronson SM (1966) Population dy-
+
+Tay-Sachs Pseudodeficiency Allele
+namics of Tay-Sachs disease. I. Reproductive fitness and
+selection. Am J Hum Genet 18:313-327
+Navon R, Argov Z, Firsch A (1986) Hexosaminidase A
+deficiency in adults. Am J Med Genet 24:179-196
+Neote K, Bapat B, Dumbrille-Ross A, Troxel C, Schuster
+SM, Mahuran DJ, Gravel RA (1988) Characterization of
+the human HEXB gene encoding lysosomal 0-hexosaminidase. Genomics 3:279-286
+O'Brien JS, Tennant L, Veath ML, Scott CR, Bucknall WE
+(1978) Characterization of unusual hexosaminidase A
+(HEX A) deficient human mutants. Am J Hum Genet 30:
+602-608
+Ohno K, Suzuki S (1988) A splicing defect due to an exonintron junctional mutation results in abnormal 1-hexosaminidase a chain mRNAs in Ashkenazi Jewish patients
+with Tay-Sachs disease. Biochem Biophys Res Commun
+153:463-469
+Orita M, Suzuki Y, Sekiya T, Hayashi K (1989) Rapid and
+sensitive detection of point mutations and DNA polymorphisms using the polymerase chain reaction. Genomics 5:
+874-879
+Paw BH, Tieu PT, Kaback MM, Lim J, Neufeld EF (1990)
+Frequency of three Hex A mutant alleles among Jewish
+and non-Jewish carriers identified in a Tay-Sachs screening program. Am J Hum Genet 47:698-705
+Paw BH, Wood LC, Neufeld EF (1991) A third mutation at
+the CpG dinucleotide of codon 504 and a silent mutation
+at codon 506 of the HEXA gene. Am J Hum Genet 48:
+1139-1146
+Petersen GM, Rotter JI, Cantor RM, Field LL, Greenwald
+S, Lim JST, Roy C, et al (1983) The Tay-Sachs disease
+gene in North American Jewish populations: geographic
+variations and origin. Am J Hum Genet 35:1258-1269
+Proia RL (1988) Gene encoding the human 1-hexosaminidase j3 chain: extensive homology of intron placement in
+the a- and 1-chain genes. Proc Natl Acad Sci USA 85:
+1883-1887
+
+801
+Proia RL, Soravia E (1987) Organization of the gene encoding the human IB-hexosaminidase a-chain. J Biol Chem
+262:5677-5681
+Robinson D, Stirling JL (1968) N-acetyl-p-glucosaminidases in human spleen. Biochem J 107:321-327
+Sandhoff K, Conzelmann E, Neufeld EF, Kaback MM, Suzuki K (1989) The GM2 gangliosidosis. In: Scriver CR,
+Beaudet AL, Sly WS, Valle D (eds) The metabolic basis
+of inherited disease, 6th ed. Vol 2. McGraw-Hill, New
+York, pp 1807-1839
+Srivastava SK, WiktorowiczJE, Awasthi YC (1976) Interrelationship of hexosaminidases A and B: confirmation of
+the common and the unique subunit theory. Proc Natl
+Acad Sci USA 73:2833-2837
+Tanaka A, Ohno K, Sandhoff K, Maire I, Kolodny EH,
+Brown A, Suzuki K (1990) GM2-gangliosidosis B1 variant: analysis of 1-hexosaminidase gene abnormalities in
+seven patients. Am J Hum Genet 46:329-339
+Thomas GH, Raghavan S. Kolodny EH, Frisch A, Neufeld
+EF, O'Brien JS, Reynolds LW, et al (1982) Nonuniform
+deficiency of hexosaminidase A in tissues and fluids of two
+unrelated individuals. Pediatr Res 16:232-237
+Triggs-Raine BL, Akerman BR, Clarke JTR, Gravel RA
+(1991) Sequence of DNA flanking the exons of the HEXA
+gene and identification of mutations in Tay-Sachs disease.
+Am J Hum Genet 49:1041-1054
+Triggs-Raine BL, Feigenbaum ASJ, Natowicz M, Skomorowski M-A, Schuster SM, Clarke JTR, Mahuran DJ, et al
+(1990) Screening for carriers of Tay-Sachs disease among
+Ashkenazi Jews-a comparison of DNA-based and
+enzyme-based tests. N Engl J Med 323:6-12
+Vidgoff J, Buist NRM, O'Brien JS (1973) Absence of 1-Nacetyl-D-hexosaminidase A activity in a healthy woman.
+Am J Hum Genet 25:372-381
+
+

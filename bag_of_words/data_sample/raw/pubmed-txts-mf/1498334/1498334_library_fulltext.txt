@@ -1,0 +1,1303 @@
+From www.bloodjournal.org by guest on November 12, 2014. For personal use only.
+
+1992 80: 942-952
+
+Role of individual gamma-carboxyglutamic acid residues of activated
+human protein C in defining its in vitro anticoagulant activity
+L Zhang, A Jhingan and FJ Castellino
+
+Updated information and services can be found at:
+http://www.bloodjournal.org/content/80/4/942.full.html
+Articles on similar topics can be found in the following Blood collections
+Information about reproducing this article in parts or in its entirety may be found online at:
+http://www.bloodjournal.org/site/misc/rights.xhtml#repub_requests
+Information about ordering reprints may be found online at:
+http://www.bloodjournal.org/site/misc/rights.xhtml#reprints
+Information about subscriptions and ASH membership may be found online at:
+http://www.bloodjournal.org/site/subscriptions/index.xhtml
+
+Blood (print ISSN 0006-4971, online ISSN 1528-0020), is published weekly by the American
+Society of Hematology, 2021 L St, NW, Suite 900, Washington DC 20036.
+Copyright 2011 by The American Society of Hematology; all rights reserved.
+
+From www.bloodjournal.org by guest on November 12, 2014. For personal use only.
+
+Role of Individual y-Carboxyglutamic Acid Residues of Activated Human Protein
+C in Defining its In Vitro Anticoagulant Activity
+By Li Zhang, Ashish Jhingan, and Francis J. Castellino
+To evaluate the contributions of individual ycarboxyglutamic acid (gla) residues t o the overall Ca2+-dependent
+anticoagulant activity of activated human protein C (APC),
+we used recombinant (e) DNA technology t o generate protein
+C (PC) variants in which each of the gla precursor glutamic
+acid (E) residues (positions 6,7, 14, 16, 19,20,25,26, and 29)
+was separately altered t o aspartic acid (D). In one case, a
+gla26V mutation ([glaZIVIr-PC) was constructed because a
+patient with this particular substitution in coagulation factor
+IX had been previously identified. Two additional r-PC mutants were generated, viz, an r-PC variant containing a
+substitution at arginine (R) 15 ([R15]r-PC), because this
+particular R residue is conserved in all gla-containing blood
+coagulation proteins, as well as a variant r-PC with substitution of an E at position 32 ([F31L, Q32EIr-PC). because gla
+residues are found in other proteins at this sequence location. This latter protein did undergo ycarboxylation at the
+newly inserted E32 position. For each of the 11 recombinant
+variants, a subpopulation of PC molecules that were ycarboxylated at all nonmutated gla-precursor E residues has been
+purified by anion exchange chromatography and, where
+necessary, affinity chromatography on an antihuman PC
+
+column. The r-PC muteins were converted t o their respective
+r-APC forms and assayed for their amidolytic activities and
+Caz+-dependent anticoagulant properties. While no significant differences were found between wild-type (wt) r-APC
+and r-APC mutants in the amidolytic assays, lack of a single
+gla residue at any of the following locations, viz, 7, 16,20, or
+26, led t o virtual complete disappearance of the Ca2+dependent anticoagulant activity of the relevant r-APC mutant, as compared with its wt counterpart. On the other hand,
+single eliminations of any of the gla residues located at
+positions 6,14, or 19 of r-APC resulted in variant recombinant
+molecules with substantial anticoagulant activity (80% t o
+92%), relative t o wtr-APC. Mutation of gla residues at
+positions 25 and 29 resulted in r-APC variants with significant
+but low (24% and 9% of wtr-APC, respectively) levels of
+anticoagulant activity. The variant, [R15L]r-APC, possessed
+only 19% of the anticoagulant activity of wrt-APC, while
+inclusion of gla at position 32 in the variant, [F31L, Q32glalrAPC, resulted in a recombinant enzyme with an anticoagulant activity equivalent t o that of wtr-APC.
+o 1992by The American Society of Hematology.
+
+H
+
+into blood6 and/or its ability to interact productively with
+inhibitors of plasminogen activators (PAI-l), thereby precluding their participation in inhibition of plasminogen
+activation.' While complexes of PAI-1 and APC have been
+observed,s the importance of this mechanism toward enhanced fibrinolysis in vivo has been questioned? More
+recently, it has been proposed that APC inhibits an antifibrinolytic component derived from activation of prothrombin, thus promoting a fibrinolytic response.1° PS also
+appears to be a cofactor for the fibrinolytic response of
+PC."
+The coding regions of the human PC gene are contained
+in eight exonsI2that translate into a 42-amino acid residue
+leader sequence, followed consecutively by a 155-amino
+acid residue light chain and a heavy chain of 262-amino
+acids. The catalytic triad of H211, D255, and S360 exists in
+this latter domain region. A dipeptide, K156-Rl57, is
+present in the translated protein that connects the two
+chains, and its removal during normal processing is critical
+to forming an activatable form of PC.*3,14Other processing
+steps that generate mature plasma PC include cleavage of
+the leader polypeptide,I2 y-carboxylation of the nine gla
+precursor E residues, present at amino acid sequence
+positions 6,7, 14, 16,19, 20, 25,26, and 29 of human PC,14,15
+P-hydroxylation of D71,I6 and glycosylation of N97, N248,
+N313, and N329.l' Based upon consideration of the positions of the introns in the gene, and amino acid sequence
+homologies with other proteins, it is clear that PC contains
+several domains. These include the y-carboxyglutamic acid
+(g1a)-rich amino terminal polypeptide, followed by two
+consecutive regions homologous to epidermal growth factor, an activation peptide, and the serine protease catalytic
+region. Fully processed recombinant (r) human PC18J9and
+r-APCZ0have been expressed in mammalian cells, accomplishments that allow structure-function investigations of
+
+UMAN PROTEIN C (PC) is a member of the family
+of vitamin K-dependent blood coagulation proteins
+and exists in plasma as a zymogen. The activated form of
+this protein (APC) functions to maintain blood fluidity by
+functioning both as an anticoagulant and as a profibrinolytic agent. Activation of PC occurs at the endothelial cell
+surface and results from limited proteolytic reactions catalyzed by thrombin/Ca2+in conjunction with the membrane
+protein cofactor, thrombomodulin.' Much slower activation
+of PC can occur in plasma, catalyzed by thrombin alone. In
+this latter case, CaZ+inhibits the reaction.2 The mechanism
+of the anticoagulant activity of APC is well established.
+Here, APC, a serine protease, catalyzes specific limited
+proteolytic events that lead to inactivation of coagulation
+cofactors V (fv) and Va (fVa),3 as well as cofactors VI11
+(fVIII) and VIIIa (fVIIIa).4 These inactivation reactions
+are stimulated by Ca2+ and phospholipid (PL)? along with
+a cofactor, protein S (PS).5 The fibrinolytic response of
+APC involves several possible mechanisms, viz, its stimulation of release of plasminogen activators from vasculature
+From the Department of Chemistry and Biochemistry, University of
+Notre Dame, Notre Dame, IN.
+Submitted December 24, 1991; accepted April 14, 1992.
+Supported by Grant No. HL-19982 from the National Institutes of
+Health and the Kleiderer-Pezold family endowed professorship (to
+F.J.C.).
+Address reprint requests to Francis J. Castellino, PhD, Department
+of Chemistry and Biochemistry, University of Notre Dame, Notre
+Dame, IN 46556.
+The publication costs of this article were defrayed in part by page
+charge payment. This article must therefore be hereby marked
+"advertisement" in accordance with 18 U.S.C. section 1734 solely to
+indicate this fact.
+0 I992 by The American Society of Hematology.
+0006-4971J9218004-0004$3.00/0
+942
+
+Blood, VOI 80, NO4 (August 15), 1992: pp 942-952
+
+From www.bloodjournal.org by guest on November 12, 2014. For personal use only.
+
+PROTEIN C MUTAGENESIS
+
+r-PC and r-APC to be designed through site-directed
+mutagenesis.
+The posttranslational processing of appropriate precursor E residues to gla residues allows vitamin K-dependent
+blood coagulation proteins to bind to Ca2+and PL, interactions that are essential to their proper functioning.2l Regarding PC, it is clear that incomplete y-carboxylation of
+random gla-precursor E
+as well as proteolytic
+removal of the entire gla domain of plasma PC, leads to a
+substantial diminution of the anticoagulant activities of
+their activated forms, as shown by the reduction of the
+APC-induced prolongation of activated partial thromboplastin times (APTT) of plasma. Because thromboembolic
+complications in patients arising from PC deficiencies are
+well-known clinical
+and the increasing use of
+polymerase chain reaction (PCR) technology has led to
+identification of patients with defined amino acid mutations
+in this protein,25we have embarked on a program aimed to
+show the identity of specific amino acids that play major
+roles in the anticoagulant activity of PC. To date, using
+recombinant DNA technology, we have shown that double
+mutations that prevent y-carboxylation at the E pairs
+present at r-PC sequence positions 6 and 7,19 and 19 and
+20,26residues conserved in all vitamin K-dependent coagulation proteins, greatly reduce the anticoagulant properties
+of the resultingvariant r-APC molecules. More recently, we
+have constructed, expressed, and purified r-PC molecules
+containing individual mutations at all gla-precursor E
+residues. This allowed us to identify which of these are
+critical to the anticoagulant properties of APC. This report
+is a summary of our findings.
+MATERIALS AND METHODS
+
+Proteins. Human 293 kidney cell-expressed wild-type (wt) r-PC
+was generated and purified as described p r e v i o ~ s l y .Human
+~~
+plasma PC was donated by Enzyme Research Laboratories, Inc
+(South Bend, IN).
+All r-PC and variant r-PC activations were performed as described earlier,19 using the Agkisrrodon contortix contortix venom
+activator of PC, Protac C, purchased from American Diagnostica
+(New York, NY). The temporal progress of each activation was
+monitored spectrophotometrically by the appearance of amidolytic
+activity of r-APC toward the substrate, L-pyroglutamyl-L-prolyl-Larginine-p-nitroanilide (substrate ,52366; Helena Laboratories,
+Beaumont, TX).
+Murine monoclonal anti-PC, C3,27 was provided by Dr John
+Griffin (La Jolla, CA) and used in Western analysis for screening
+clones of transfected 293 cells for r-PC production. Murine
+monoclonal antibody (MoAb), LI, a Ca2+-independent antibody
+that recognizes a determinant in the protease domain of PC, was
+generated in this laboratory2* and used to prepare immunoaffinity
+chromatography columns to assist in the purification of some of the
+variant r-PC molecules.
+Restriction endonucleases were purchased from Fisher Scientific (Springfield, NJ) and BRL (Gaithersburg, MD). These enzymes were used according to the manufacturers' recommendations.
+Genes for wt and mutant r-PC molecules. The cDNA coding for
+wtr-PC was provided by Dr Earl Davie (Seattle, WA) in pUC119.
+The changes that we incorporated into the cDNA for use with our
+293 kidney cell expression system and the plasmid expression
+vector used (pCIS2M) have been described in detail.19
+
+943
+
+The cDNAs coding for each of the r-PC mutants described were
+constructed from the wt cDNA for human PC, or an r-PC mutant
+cDNA, by site-directed mutagenesis using synthetic oligonucleotide primers. Screenings of positive transformants were accomplished by the gain or loss of suitable restriction endonuclease sites.
+The presence of the proper nucleotide insertions in the relevant
+cDNAs was evaluated by DNA sequence analysis before their
+placement in the expression vectors. Insertion of the variant
+cDNAs into the expression plasmid, pCIS2M, was accomplished as
+for the wt-PC gene.19
+Transfection in adenovirus-transformed human kidney 293 cells
+(ATCC CRL. 1573). The 293 cell growth conditions, the procedures for their transfection with pCIS2M containing the cDNA of
+interest, the selection and propagation of clones expressing wtr-PC
+or the relevant r-PC mutants, and the harvesting of conditioned
+cell media were as published previo~sly.'~
+Purification of the recombinant proteins. Purification of wtr-PC
+with selection for a subpopulation of PC molecules that contained
+the maximal level of gla residues was conducted as described
+earlier.19 Similar techniques were used for the purification of all
+mutants, with minor operational modifications depending on the
+elution behavior from the anion exchange columns and their
+purities as shown by sodium dodecyl sulfate/polyacrylamide gel
+electrophoresis ( D O ~ S O ~ / P A G EThe
+) . ~following
+~
+general procedure sufficed in all cases to provide r-PC and r-PC mutants
+containing gla residues at all available precursor E residues.
+Benzamidine-HCl(5 mmol/L, final concentration) was added to
+the conditioned media of the 293 cells. Approximately 1.5 L of this
+solution was dialyzed against a buffer of 20 mmol/L Tris-HCl/lSO
+mmol/L NaCI, pH 7.4 (column buffer), containing 5 mmol/L
+benzamidine-HC1/4 mmol/L EDTA, and passed over a 5 mL
+column of Pharmacia Fast Flow Q (FFQ) anion exchange resin
+(Pharmacia, Piscataway, NJ), equilibrated with column buffer/4
+mmol/L EDTA at 4°C. After washing the resin with 3 column
+volumes of this buffer, followed by 3 column volumes of the same
+buffer without EDTA, the r-PC, or r-PC variant, was eluted in one
+step with column buffer/30 mmol/L CaC12, pH 7.4. At this stage,
+the total sample volume was approximately 20 mL. Several such
+samples were combined and, after dialysis against column buffer
+containing 4 mmol/L EDTA, the dialysate was repassaged over a
+column containing 3 mL of this same resin equilibrated with
+column buffer at 4°C. The relevant r-PC or r-PC mutein was eluted
+at a flow rate of 0.25 mL/min with a CaC12 gradient (start solution,
+30 mL of column buffer; limit solution, 30 mL of column buffer/30
+mmol/L CaC12, pH 7.4), as described.22 Fractions (1 mL) were
+obtained and those containing r-PC, which were readily identified
+by DodSOd/PAGE, were pooled and the CaCl2 removed by dialysis
+against column buffer. Next, the protein was readsorbed to 3 mL of
+a second FFQ column, equilibrated in column buffer at 4"C, after
+which the r-PC was eluted at a flow rate of 0.25 mL/min with an
+NaCl gradient (start solution 30 mL of column buffer; limit
+solution, 30 mL of 20 mmol/L Tris-HC1/500 mmol/L NaCl, pH
+7.4). r-PC-containing fractions (1 mL) were identified by DodS04/
+PAGE and pooled. Some r-PC variants show slightly altered
+column behavior from the wt-protein, and from each other, but use
+of this procedure results in readily identifiable, highly homogeneous material. We have repeatedly observed for a variety of single
+and double gla mutant proteins that the r-PC material at this stage
+contained maximally y-carboxylated protein (at least seven residues of gla per mole of PC). Subpopulations of PC molecules
+containing lower levels of y-carboxylation, the amounts of which
+were considerable with some recombinant mutants, displayed very
+different chromatographic behavior on each column. Generally,
+incompletely y-carboxylated subforms were much more weakly
+adsorbed to the first column.
+
+From www.bloodjournal.org by guest on November 12, 2014. For personal use only.
+
+944
+
+In the few cases in which a small amount of non-r-PC material
+was present after this last chromatography step, final purification
+was accomplished using affinity chromatography with a column
+(0.6 x 5 cm) of Sepharose-MoAb LI, equilibrated in column
+buffer. After washing with this same buffer, the material that
+eluted from the column upon treatment with 0.1 mol/Lglycine, pH
+2.7, was dialyzed against 20 mmol/L Tris-HC1, pH 7.4. The
+partially purified r-PC or r-PC variant was then reapplied to the
+FFQ anion exchange column, which was equilibrated in this same
+buffer. The column was then washed with a solution of 20 mmol/L
+Tris-HC1/200 mmol/L NaC1, pH 7.4, and eluted with a buffer of 20
+mmol/L Tris-HC1/500 mmol/L NaCl, pH 7.4. The highly purified
+r-PC preparation was then dialyzed against 50 mmol/L NH4HC03,
+followed by HzO.
+Gla determinations. These experiments were performed by
+amino acid analysis after alkaline hydrolysis. The hydrolyses were
+conducted with 2.5 mol/L KOH for 20 hours at llO"C, and KOH
+was removed from the samples as reported p r e v i o ~ s l yAmino
+.~~
+acid analysis by reverse-phase high performance liquid chromatography (HPLC) was performed after precolumn derivatization with
+o-phthaldehyde/p-mercaptoethanol,using a 4.6 mm (ID) X 70 mm
+Ultrasphere XL ODS column (3.0 p) with a precolumn (Beckman
+Instruments, Fullerton, CA) step. The buffer used was 90% 0.1
+mol/L NaOAc, pH 7.2/9.5% methanol/0.5% tetrahydrofuran. The
+flow rate of the column was 1.5 mL/min. This chromatographic
+step resulted in baseline resolution of gla (retention time, 0.8
+minutes), D (retention time, 2.0 minutes), and E (retention time,
+4.1 minutes). The ratios of gla/D and gla/E were used to obtain the
+number of gla residues per mole of protein.
+We used as reference standards both a commercial o-phthaldehyde-derivatized amino acid standard mixture as well as a peptide,
+ANSFL(gla)(gla)LRSSL, synthesized by standard Fmoc chemistry
+(the a-N-Fmoc-y,y'-ditBu-L-gla-OH
+used in the peptide synthesis
+for placement of gla in the peptide was chemically synthesized by
+Dr Sushi1 Sharma in this laboratory). Use of this peptide for this
+purpose allowed us to obtain recovery factors after alkaline
+hydrolysis of the peptide and to determine very accurate conversion factors of peak areas to concentrations of gla residues in the
+hydrolyzed samples. The gla/D ratio in this peptide of 2.0 (N is
+converted to D as a result of hydrolysis), along with the concentration response factor for D from a commercial standard amino acid
+solution, was used to obtain the concentration response factor for a
+gla residue. Checks of the method were made by performing gla
+residue analyses on human plasma PC and bovine plasma factor X.
+Amino acid sequence analysis of various PC molecules. Automated amino terminal amino acid sequence analysis of each r-PC
+sample was conducted as previously d e ~ c r i b e d .In
+~ ~all cases,
+protein sequencing was successful through 35 residues, steps that
+were sufficient to obtain sequence information through the entire
+gla-domain.
+Amidolytic assays of r-APC and its variants. Optimal conditions
+found for activation of r-PC and the variants described herein have
+been described earlier.19 For amidolytic assay of the resulting
+r-APCs, solutions were prepared with 20 to 400 pL of substrate
+S2366 (stock solution, 4.2 mmol/L in HzO), 40 pL of Tris-HCI, pH
+7.4 (stock solution, 1 mol/L), and 80 pL NaCl (stock solution, 1
+mol/L). A quantity of H20 was added to adjust final volumes to
+0.79 mL. The amidolytic reaction was accelerated as a result of
+addition of 10 pL of enzyme and rates of p-nitroanilide release
+were monitored by the increase of absorbancy at 405 nm. Km and
+kcat values were calculated from Lineweaver-Burk plots of the
+variation in initial velocities as a function of S2366 concentrations.
+APTT assays. For this assay, the concentrations of wtr-APC,
+human plasma APC, and all recombinant variants investigated
+were adjusted so that each APTT assay was conducted at the same
+
+ZHANG, JHINGAN, AND CASTELLINO
+
+amidolytic activity of the particular APC under study. The concentration range of human plasma APC in the assay solutions was
+0.025 to 0.4 pg/mL and was readjusted for the muteins, depending
+on the clotting times observed.
+APTT assays were conducted at 37°C with PC-deficient plasma
+using the APTT assay kit (Sigma Diagnostics, St Louis, MO),
+essentially as described earlier.I9 Controls in this assay were
+performed in the absence of APC and with unactivated r-PCs in
+place of their respective APCs. For the assay, a volume of 100 pL of
+APTT reagent was added to the reaction vessel and allowed to
+temperature-equilibrate at 37°C for 1minute. This was followed by
+the addition of 10 pL of the desired concentration of the r-APC
+under examination and 90 pL of PC-deficient human plasma. After
+an additional 3 minutes of incubation, clotting was initiated by the
+addition of 100 p L of a 25 mmol/L stock solution of CaC12,
+pre-equilibrated at 37°C. Clotting times were measured with a
+commercial fibrometer (Fisher Scientific, Springfield, NJ). Our
+standard clot times (approximately 45 seconds) were essentially the
+same as those reported by the manufacturer of the assay kit.
+For calculation of the results, plots of the logarithm of clotting
+time versus the logarithm of the dilution of the stock solutions of
+the relevant APC were constructed for each APC sample. The
+displacement of the sample line from the wtr-APC sample (the
+dose-response curves for the different r-APC mutants were parallel) was used to calculate the relative potencies of each sample.
+The specific activity of the wtr-APC sample in each assay was
+obtained by comparison of the same graphs constructed for plasma
+APC and wtr-APC. The specific activity of wtr-APC was calculated
+using the value of 250 U/mg for human plasma APC'* and the
+percent activity of wtr-APC relative to plasma APC. The specific
+activities of each variant r-APC were calculated from the specific
+activity of wtr-APC and from the above described direct determinations of the relative activities of wtr-APC and the variant r-APC of
+interest.
+Analyticalmethods. Our procedures for oligonucleotide synthesis, cDNA purification and sequencing, cell transfections, sitespecific mutagenesis, and Western analysis of the expressed PC
+molecules have been previously described in detai1.*9,26
+RESULTS
+
+A number of strategically important recombinant gladomain variants of PC have been constructed, expressed,
+and purified. These are listed in Table 1, along with the
+oligonucleotides used for mutagenesis and the restriction
+endonuclease sites used for screening positive bacterial
+transformants. The translated amino acid sequence of the
+gla-domain of human PC is illustrated in Fig 1, with
+indications of the sequence positions of the amino acids
+mutated in this investigation. After translation of each
+cDNA in human kidney 293 cells, it was necessary not only
+to purify the r-PC, but also to isolate the subpopulation of
+r-PC molecules that contained gla residues at all precursor
+E residues. We have found that some of the variants,
+particularly [gla20D]r-PC, [glal6D]r-PC, and [gla26V]rPC, possessed only a small percentage (approximately 10%
+to 20%) of maximally y-carboxylated r-PC antigen, whereas
+in other variants, viz, [gla6D]r-PC and [gla7D]r-PC, a much
+higher percentage (approximately 80% to 90%) of the total
+r-PC antigen was y-carboxylated at all available precursor E
+residues. Regardless of this circumstance, the purification
+procedure that we used was very satisfactory for isolation of
+maximally y-carboxylated subpopulations of r-PC variants,
+
+From www.bloodjournal.org by guest on November 12, 2014. For personal use only.
+
+PROTEIN C MUTAGENESIS
+
+945
+
+Table 1. Construction of Human r-PC Variants
+Mutation
+
+Primer
+
+Screen
+
+gla6D
+gla7D
+glal4D
+R15L'
+glal6Dt
+glal9D
+gla20D
+gla25D
+gla26V
+gla29D
+F31L, Q32gla
+
+5'-TCCTTCCTGGAtGAaCTCCGTCACAGC
+5'-CCTGGAGGAcCTCCGTCACAGC
+5'-GCAGCCTGGAtCGcGAGTGCATAGA
+5'-AGCCTGGAGCtcGAGTGCATAGAG
+5'-CAGCCTGGAGCgCGAcTGCATAGAGGA
+5'-GTGCATAGAcGAaATCTGT
+5'-TGCATAGAGGAtATCTGTGAC
+5'-TGTGACTTCGAtGAGGCgAAGGAAATT
+5'-CTTCGAGGtGGCCAAGG
+5'-AGGCCAAGGAtATcTTCCAAAATGT
+5'-GCCAAGGAAATTcTagAAAATGTGGATG
+
+-Sac I
+-Sac I
++Nru I
++ Sac I
+-Sac I
+-Bgl II
+-Bg/ II
+-Sv I
++Bal I
++EcoRV
++Xba I
+
+The lower case letters represent the mutagenic bases. The mutation
+convention used is the normal amino acid and its sequence position in
+PC, followed by the single letter code for the new amino acid placed in
+that sequence position by mutagenesis. Gla refers to y-carboxyglutamic acid.
+'The starting wt-cDNA was first mutated at the third base of the
+codon for L8 to eliminate the interfering Sac I restriction endonuclease
+site.
+tThe starting cDNA was [R15L]r-PC.
+
+and in all cases described herein isolation of appropriate
+proteins was accomplished.
+The first step of the purification used Ca2+-basedelution
+from an FFQ anion exchange column, an example of which
+is shown in Fig 2A, and provided PC molecules containing
+at least seven residues of gla in the protein material eluted
+with the Ca2+ gradient.19,22.26The second step of the
+purification (Fig 2B) is based on elution from the same
+chromatography resin with NaCl and results in removal of
+small amounts of contaminating protein. The elution positions of the different variants described herein may differ
+somewhat from each other and from the example provided
+in Fig 2, but the major protein peaks observed are the
+desired r-PC molecules. Finally, when needed (eg, [glal6D]rPC, [gla20D]r-PC, and [gla26V]r-PC), a further step on an
+immunoaffinity column resulted in highly purified protein.
+From our selected clones, the overall yields of the maximally y-carboxylated r-PC variants described varied considerably, with the lowest amount obtained for [glal6D]r-PC
+of approximately 50 pg/L of conditioned cell culture
+medium, to the highest amount obtained for [gla6D]r-PC of
+
+c
+
+0'648
+.
+
+5
+
+2
+184
+
+(E
+W
+0
+u 0.504
+
+E
+
+n
+
++
+
+N
+
+O
+
+0
+U
+
+F r a c t i o n number
+
+KI
+
+$
+
+I
+
+n
+
+-1220
+
+0.09
+6
+
+18
+30
+42
+F r a c t i o n number
+
+54
+
+-
+
+I50
+
+Fig 2. Purification of maximally y-carboxylated r-PC on FFQ anion
+exchange chromatography at 4°C. The example provided is for
+[glaGD]r-PC. (A) After batch elution with 30 mmol/L CaCI, of the
+[glaGDIr-PC contained in 1.5 L of conditioned human kidney 293 cell
+culture medium, three such preparations were combined. After dialysis against 20 mmol/L Tris-HCI/lW mmol/L NaC1/4 mmol/L EDTA,
+pH 7.4, the resulting sample was reapplied t o the same column (3 mL),
+equilibrated with a buffer of 20 mmol/LTris-HCl/l5Ommol/L NaC1/4
+mmol/L EDTA, pH 7.4 at 4°C. The column was washed with this buffer,
+followed by this buffer without EDTA, after which the indicated CaCl,
+gradient was applied (60 mL, total volume). Fractions (1 mL) were
+collected at a flow rate of 0.25 mL/min. The maior peak contains the
+desired material. (B) The partially purified [glaGDIr-PC isolated in (A),
+above, was dialyzed against a buffer of 20 mmol/L Tris-HCV150
+mmol/L NaCI, pH 7.4 at 4°C. and reapplied t o a 3 mL column of FFQ
+resin equilibrated in 20 mmol/L Tris-HCI/ 150 mmol/L NaCI, pH 7.4 at
+4°C. The indicated gradient of NaCl was applied (60 mL, total volume)
+and 1 mL fractions were collected. The major peak contains highly
+purified [glaGDIr-PC.
+
+approximately 500 pg/L of conditioned medium. For wtrPC, the usual yield of fully y-carboxylated material was
+approximately 3 mg/L of conditioned medium.
+DodS04/PAGE gels for the r-PC variants used in this
+6
+
+7
+
+14
+15
+
+Fig 1. Primary structure of the gla-domain of
+human PC. The region displayed spans from the
+amino terminus of the PC light chain t o T37, which is
+the last amino acid in the exon coding for the
+gla-domain. y-Carboxyglutamic acid is represented
+by Gla.
+
+32
+
+From www.bloodjournal.org by guest on November 12, 2014. For personal use only.
+
+ZHANG. JHINGAN, AND CASTELLINO
+
+946
+
+investigation arc provided in Fig 3. In all cases, highly
+homogcncous maximally y-carboxylated material has bccn
+obtained. Thc two componcnts obscrvcd for cach PC
+represent thc usual casc,1y.2?.?h
+and arc rclatcd to variable
+glycosylation of the four rclcvant N rcsiducs in thc protein..'? Wc dctcrmincd thc gla content of cach protein, and
+the results listcd in Table 2 show that all of thc mutants
+contained thc expected levels of gla. Additionally, aminoterminal amino acid sequence analysis for cach isolatcd
+recombinant protein has been pcrformcd through 35 rcsiducs. In all cases, the desired mutation was prcscnt at thc
+anticipated location, and no morc than a 5% rcpctitivc
+yield of E was obscrvcd at any of thc scquencc positions
+that should havc undergone y-carboxylation. Thcsc abscnccs of gla-prccursor E rcsiducs showcd that thc r-PC
+variants that wc havc isolatcd and invcstigatcd containcd
+the maximal lcvcls of gla rcsiducs rcsulting from processing
+of thc appropriate prccursor E rcsiducs.
+Wc havc convcrtcd cach r-PC variant to its rcspcctivc
+APC by activation with thc snakc vcnom protcasc, Protac
+C. This reaction does not rcquirc Ca?+,and it was cxpcctcd
+that the gla-deficient r-PC mutants, dcspitc having probable variations in Ca?+binding propcrtics, would bc noncthcless fully convcrtcd to thcir rcspcctivc r-APC forms. While
+we havc not as yet investigated possiblc diffcrcnccs in
+activation kinetics of this reaction for thc r-PC variants, wc
+did find that each r-PC was completely activatablc to its
+corrcsponding r-APC. This includcd the [ RlSLIr-PC and
+
+A
+
+1 2 3 4 5 6 7
+
+B 1 2 3 4 5 6 7 8
+
+Fig 3. Nonreduced sodium dodecyl sulfate polyacrylamide gel
+electrophoretograms of all purified r-PC variants used in this study.
+The samples displayed are as follows. (A) Lane 1, human plasma PC;
+2, 293 cell-expressed wtr-PC; 3, [glaGDlr-PC; 4, Igla7DIr-PC; 5,
+Iglal4DIr-PC; 6, [RlSLIr-PC; 7, [glalGDlr-PC. (B) Lane 1, human
+plasma PC; 2,293 cell-expressed wtr-PC; 3, IglalSDJr-PC;4, [glaZODIrPC; 5, [gla25D]r-PC; 6, [glaZGVlr-PC; 7, tgla29DIr-PC; 8, [F31L, 032glalrPC.
+
+Table 2. y-Carboxyglutamic Acid and Contents of Various r-PC
+Mutants
+Gla (moleslmolel
+Protein
+
+Expected
+
+Obtained
+
+Bovine factor X
+Human PC
+wtr-PC'
+[glaGDIr-PC
+Igla7Dlr-PC
+Iglal4Dlr-PC
+[R 15Llr-PC
+IglalGDIr-PC
+[glalSDIr-PC
+Igla20Dlr-PC
+IgIa25Dlr-PC
+[gla26Vlr-PC
+[gla29D]r-PC
+IF31L. 032glalr-PC
+
+12.0
+9.0
+9.0
+8.0
+8.0
+8.0
+9.0
+8.0
+8.0
+8.0
+8.0
+8.0
+8.0
+10.0
+
+11.7 2 0.4
+8.8 2 0.3
+8.9 2 0.3
+8.3 2 0.2
+8.3 z 0.3
+7.8 2 0.3
+9.0 2 0.3
+7.9 2 0.2
+8.0 2 0.3
+8.2 2 0.2
+7.7 2 0.3
+7.9 2 0.2
+7.9 2 0.2
+10.0 2 0.3
+
+The mutation convention used is the [normal amino acid, its sequence position in PC, single letter code for the new amino acid placed
+in that sequence position by mutagenesisl, followed by r-PC. Gla refers
+to ycarboxyglutamic acid.
+*Expressed in human kidney 293 cells.
+
+[F31L, Q32Elr-PC mutcins. Additionally. we dctcrmincd
+Km and kcat valucs, at pH 7.4 and 37°C. for wtr-APC and
+rcprcscntativc variants that wcrc activc (Iglal9DIr-APC)
+and inactive ([gla7D]r-APC) in A P T assays (vide infra).
+For thcsc proteins, thc Km value for substratc S2366
+rangcd from 1.1 to 1.4 mmol/L and thc kcat for this same
+substratc rangcd from 170 to 182 s-I. This shows that thc
+amidolytic activities arc csscntially thc samc, a fact that
+would bc cxpcctcd from litcraturc p r c c ~ d c n t s . ~ ~ ~ ' ' ' ~ ~ ~
+With thc availability of thc complctc sct o f single glamutated r-APC molcculcs, as wcll as somc othcr stratcgically mutated r-APC variants, the major goal of this
+investigation was to assess thc rolc of cach gla rcsiduc as a
+dctcrminant of thc in vitro anticoagulant activity of APC.
+For this purpose, wc chosc to usc thc clinically rclcvant
+A P T assay with PC-dcficicnt human plasma. Wc bclicvcd
+it most important to diffcrcntiatc this specific function of
+APC from its gcncral amidolytic activity. and thus chosc to
+adjust thc APC solutions in thc assay such that thcy wcrc
+prcsent at cqual amidolytic activities, which csscntially
+corresponds to thc samc protein conccntrations in thc cascs
+of thcsc particular mutations. As an cxamplc of thc data
+obtained, an illustration of thc clotting timc data obtaincd
+for wtr-APC and onc of thc gla variants, [gla25D]r-APC, is
+provided in Fig 4. This typc of analysis has bccn madc for
+cvcry gla mutant protein invcstigatcd. Thc resulting anticoagulant activitics of cach of thc recombinant variants arc
+summarizcd in Table 3 and comparcd with wtr-APC, which
+has bccn cxprcsscd in thc samc ccll linc. Thc rcsults clcarly
+show that anticoagulant activity has bcen grcatly reduced
+for recombinant variants that lack gla rcsiducs at any of thc
+following scqucncc positions. viz, 7, 16,20, and 26. whcrcas
+80% to 92% of thc anticoagulant activity of wtr-APC has
+been observcd in recombinant variants that lack gla rcsiducs at any of thc following positions, viz, 6, 14, and 19. Thc
+remaining two mutants containing substitutions at gla
+
+From www.bloodjournal.org by guest on November 12, 2014. For personal use only.
+
+PROTEIN C MUTAGENESIS
+
+I
+200
+
+I
+
+.
+
+""
+
+947
+
+eluted at low pH, we examined the effect of this treatment
+on the APTT activities of wtr-APC and two active mutants,
+[gla6D]r-APC and [glal4D]r-APC. These samples were
+adsorbed and eluted from the column as described, and
+activated to their respective r-APCs. The specific activities
+were 320 U/mg, 284 U/mg, and 290 U/mg, respectively.
+This shows that this purification step does not affect the
+functional property of interest.
+
+I
+
+DISCUSSION
+
+I
+
+....
+
+I
+
+I
+
+0.1
+
+1
+
+I
+5
+
+Relative dilution
+
+Fig 4. Assay of the overall anticoagulant activity of APC using the
+APlT times with PC-deficient human plasma at 37°C. A stock solution
+of wtr-APC was prepared and its amidolytic activity determined. A
+similar stock solution of the desired r-APC mutant was prepared and a
+minor adjustment of its concentration was made such that all
+amidolytic activities were identical. A dose-response curve was
+obtained for each sample and plotted as the APIT times (clotting
+times) versus the relative dilution of the wtr-APC stock solution (stock
+solution of wtr-APC = 1.0, final concentration approximately 0.3
+pg/mL). The displacement of the lines provided the activity of the
+r-APC sample relative to that of wtr-APC (the lines were parallel in all
+cases). ( 0 )wtr-APC; (W) Igla25DIr-APC.
+
+residues 25 and 29 showed significantly reduced levels of
+anticoagulant activity, yielding values of 24% and 9%,
+respectively, of wtr-APC. It has also been shown that R15 is
+an important residue in allowing Caz+-dependentanticoagulant activity to be expressed, because only a small amount
+of anticoagulant activity has been found, ie, 19% relative to
+wtr-APC, consequent to the R15L mutation. Finally, inclusion of a gla residue at sequence location 32 did not
+significantly influence the anticoagulant activity of the
+resulting gla32-derived recombinant variant.
+In addition, because some of the mutants have been
+purified by adsorbtion to an MoAb affinity column and
+Table 3. Anticoagulant Properties of r-APC Variants
+Protein
+
+Specific Activity
+Wmg)
+
+wtr-APC
+Activity ( O h )
+
+wtr-APC*
+[glaGDJr-APC
+Igla7DIr-APC
+[gla14DI-APC
+[R15L]r-APC
+[gla 16DIr-APC
+[gla1SDIr-APC
+[gla20D]r-APC
+Igla25Djr-APC
+[gla26V]r-APC
+[gla29D]r-APC
+[F31L, Q32gIalr..APC
+
+325 f 14
+279 f 12
+19 f 5
+299 f 10
+62 -+ 9
+<6
+260 2 11
+<6
+78 2 9
+<6
+29 f 6
+319 f 13
+
+100
+86 f 4
+622
+92 2 3
+19 f 3
+<2
+80 f 4
+<2
+24 f 3
+<2
+9 f 2
+98 f 4
+
+The mutation convention used is the [normal amino acid, sequence
+position in PC, single letter code for the new amino acid placed in that
+sequence position by mutagenesis], followed by recombinant r-APC.
+Gla refers to y-carboxyglutamic acid.
+*This protein and all muteins were expressed in human kidney 293
+cells.
+
+We have prepared and successfully expressed each of the
+nine possible r-PC variants containing mutations at E
+residues that would become y-carboxylated in the mature
+protein. The fact that some of the recombinant mutants
+contained a considerable amount of under-y-carboxylated
+r-PC molecules may suggest that some recognition sites for
+the y-carboxylase that catalyzes these reactions exist in the
+gla-domain, an observation made
+but which has
+been ~ h a l l e n g e d ? ~However,
+-~~
+our investigation was not
+designed to fully explore this question. In any case, a highly
+homogeneous subpopulation of r-PC has been isolated for
+each mutein. Each of these proteins contained the appropriate content of gla residues. Further, amino acid sequence
+analysis has clearly shown that the mutation placed in the
+corresponding cDNA was properly translated and that each
+mutein was y-carboxylated at all available gla-precursor E
+residues. Thus, the purified proteins were appropriate for
+the planned investigations intended to show the importance
+of individual gla residues of r-APC in its Ca2+-dependent
+anticoagulant activity.
+Each r-PC was converted to its corresponding r-APC as a
+consequence of activation by Protac C, a reaction that does
+not require Ca2+.37338
+The amidolytic activity of the variant
+r-APC preparations did not substantially differ from each
+other or from wtr-APC, a result consistent with earlier
+studiesls that showed that extensively under-y-carboxylated r-APC expressed in the presence of warfarin possessed a specific amidolytic activity similar to its wt counterpart. Each generated r-APC was then assayed for its
+Ca2+-dependent anticoagulant activity. From the results
+obtained, shown in Table 3, it is concluded that gla residues
+at amino acid sequence positions 7, 16, 20, and 26 are
+essential for the anticoagulant activity of APC, whereas
+those present at amino acid sequence positions 6,25, and 29
+are also of some importance to this same activity. The
+muteins expressing the highest anticoagulant activity, ie,
+80% to 92% of wtr-APC, were [gla6D]r-APC, [glal4D]rAPC, and [glal9D]r-APC, suggesting that gla at sequence
+positions 6,14, and 19 in wtr-APC are the least important to
+its specific function. These findings correlate well with our
+previous studies showing that pairwise mutations of gla
+residues present at amino acid sequence positions 6 and 7,19
+as well as 19 and 20,26led to a virtual complete elimination
+of the anticoagulant activity of each mutant r-APC. In the
+former recombinant mutant, it is now clear that this
+previously reported loss of activity was a result of mutation
+at gla7, whereas in the latter case, mutation of gla20 alone
+would have been sufficient for the observed loss of anticoagulant activity. Of significance, it also appears that R15, a
+
+From www.bloodjournal.org by guest on November 12, 2014. For personal use only.
+
+948
+
+residue conserved in all vitamin K-dependent human coagulation proteins, is extremely important to the Ca2+dependent anticoagulant activity of APC (Table 3), because
+only 19% of the activity of wtr-PC remained after alteration
+of this amino acid to a noncharged variant containing an
+L15 residue. Additionally, alteration of the Q32 in r-APC to
+contain E32, which did in fact undergo y-carboxylation
+during processing, led to a variant r-APC that contained full
+anticoagulant activity. While positioning of gla residues in
+other vitamin K-dependent blood coagulation proteins is
+highly conserved up to amino acid sequence position gla29
+(or its homologous residue), there are differences at sequence locations beyond this point. For example, human
+factor IX contains additional gla residues at sequence
+positions 33,36 and 40,39human prothrombin possesses an
+additional gla32,4O and human factor VI1 contains gla35.41
+Because inclusion of a gla at residue 32 of r-APC did not
+affect its anticoagulant activity, it appears that APC represents a functioning vitamin K-dependent protein with the
+minimum necessary levels of gla residues. Proteins containing additional gla residues may require such amino acids for
+their specific functions and/or their specific cellular properties.
+The results reported herein will be of great value in
+relating mutations in the gla domain of APC, which are
+being increasingly discovered with PCR technology in
+symptomatic patients, with the thrombotic complications
+observed in these same patients. As examples, in the recent
+past, several gla mutations have been found in vitamin
+K-dependent proteins in patients with clotting abnormalities. In factor IX-Nagoya 4, the nucleotide sequence of the
+subject DNA was predictive of a translated protein with an
+E21 (equivalent to E20 in PC) K mutation. This patient,
+clinically classified as a severe B-type hemophiliac, possessed a Ca2+-dependentfactor IX coagulant (fIX:c) activity less than 1% of
+This low level of residual
+activity is analogous to the situation with [gla20D]r-APC,
+wherein the gla-dependent activity of this latter protein in a
+clotting assay was essentially eliminated despite a much
+more conservative mutation at this same gla residue.
+Similarly, in other severe hemophilia B patients with known
+gla-domain variations, viz, factor IX-Seattle 343and factor
+IX-Chongqing,4 DNA mutations that would be predicted
+to translate into proteins with E27 (equivalent to E26 in
+PC) K (fIX:c < 1%)and E27 (equivalent to E26 in PC) V
+(fIX:c < 1%) alterations, respectively, have been found.
+We generated an r-PC with this latter mutation, ie,
+[gla26V]r-PC, and found that the corresponding [gla26V]rAPC also nearly completely lost its Ca2+-dependentactivity
+in a clotting assay (Table 3). Thus, gla residues 20 and 26 in
+human APC possess similar essential features to the corresponding residues 21 and 27 in human factor IXa, despite
+the fact that factor IXa exhibits procoagulant activity,
+whereas APC possesses anticoagulant activity. This suggests that the integrity of gla at these sequence positions is
+of great importance to the Ca2+-dependentfunctions of
+both proteins, probably related to common essential features of Ca2+binding, and this may be a uniform functional
+property of other vitamin K-dependent coagulation pro-
+
+ZHANG, JHINGAN, AND CASTELLINO
+
+teins. One gla mutation in PC has been discovered, viz,
+[gla20A] (along with [V34M]), in a patient with symptomatic type 2 PC deficien~y.4~
+Assuming that the thrombotic
+complication was due to the gla20A mutation, and not that
+of V34M, this finding would be entirely predictable from
+our data (Table 3), because the much more conservative
+mutation, gla20D, led to nearly complete loss of the
+Ca2+-dependentanticoagulant activity of the mutant r-APC.
+Another symptomatic patient with a dysfunctional PC, PC
+Yonago, has been identified, with an R15G mutation in the
+g l a - d ~ m a i n .Our
+~ ~ results with [R15L]r-APC, which possessed only 19% of the activity of wtr-APC, also are
+predictive of a thrombotic state in a patient homogyzous for
+this mutation.
+A final factor IX mutation of interest to this investigation
+has been found in a symptomatic patient with factor IX
+HB9, wherein a gla33D replacement (fIXc = 4%) has
+been di~covered.~’
+Because this gla residue was found to be
+of such importance for the clotting activity of factor IX, and
+because PC does not contain a gla precursor E residue at
+this location, we decided to substitute an E-residue for the
+equivalent Q32 in a mutant r-PC to determine whether
+r-APC activity would be influenced by this change. As seen
+in Table 3, the anticoagulant activity of this mutein was
+found to be approximately the same as that of wtr-APC.
+Thus, a gla residue at this location does not appear to be of
+similar importance to APC anticoagulant function as it is
+for factor IX coagulant activity. In this r-APC variant, an
+additional F31L mutation was incorporated due to the
+nature of the oligonucleotide primer used that was found to
+be highly suitable for screening bacterial transformants.
+Because such a high level of anticoagulant activity was
+obtained for this variant, we decided not to realter L31 to
+its natural F residue. Additionally, L is present at this
+position in human prothrombin and is obviously not harmful to expression of Ca2+-dependent properties of this
+protein at that location.
+It should be emphasized that we have intentionally
+engineered very conservative gla mutations into r-APC
+because our purpose was to discover which of the gla
+residues in this protein were essential to its Ca2+dependent anticoagulant properties. We believe that when
+such activity is lost with D-replacements for gla residues, it
+is likely that any other substitution will also result in at least
+this level of activity loss. As additional patients are discovered with other amino acid replacements for apparently
+nonessential gla residues, these will be inserted and investigated in this manner, as was accomplished here with the
+gla26V mutation.
+When examining human subject data of these types, it is
+extremely important to be able to decide whether the
+mutation in itself is lethal to the particular activity involved
+or whether the particular mutation caused activity loss
+because of other direct or secondary effects, such as the
+ability of a particular residue to influence the extent of
+y-carboxylation of the protein. In the case of PC, it has been
+shown that at least seven residues of gla are needed for
+APC anticoagulant activity,18 and thus a nonspecific loss of
+ability to y-carboxylate appropriate precursor E residues of
+
+From www.bloodjournal.org by guest on November 12, 2014. For personal use only.
+
+PROTEIN C MUTAGENESIS
+
+this protein would have a deleterious effect on the Ca2+dependent anticoagulant activity of the resulting r-APC.
+Thus, there is a need to conduct an investigation of this type
+with recombinant mutant proteins that are y-carboxylated
+at all nonmutated precursor E residues, a fact that we have
+considered paramount in deciding to rigorously purify
+subpopulations of r-PC that were maximally y-carboxylated. Were this investigation only to have considered total
+mutant r-PC antigen as the source of APC, the results
+would certainly not have been properly interpreted, because in virtually all cases a heterogeneous population of
+incompletely y-carboxylated r-PC molecules was produced
+by the transfected cells. This is likely also the case in plasma
+of symptomatic patients with these mutations, thus complicating exact correlation of the thrombotic complication
+with the observed amino acid mutation(s) in the protein.
+An ancillary benefit of this work will be its assistance in
+providing accurate and systematic correlations of this type
+with patient plasmas. Further, these results will be invaluable for clinical assessment of patients who may be heterozygous for these mutations, because in these cases a wide
+variety of functional and malfunctional molecules may be
+present in plasma.
+While elucidation of the exact mechanism(s) of the
+variable anticoagulant effects of the r-APC mutants in
+whole plasma was not the purpose of this study, such effects
+are undoubtedly related to the relative propensities of the
+muteins to inactivate coagulation cofactors fV,fVa, fVIII,
+and fVIIIa, as well as their relative abilities to be stimulated
+by protein S in plasma. It is also possible that the interaction of APC with its plasma inhibitor could be influenced by
+mutations at gla residues. All of these functional properties
+of APC are Ca2+-dependent,and it is of great interest to
+this laboratory to determine in purified assays whether all
+mutants exert their effects through the same functional
+properties. This long-term effort is currently ongoing and
+will be the subject of future communications.
+Finally, with the assistance of the crystallographic coordinates of the Ca2+/bovine prothrombin fragment 1 complex,48a region of prothrombin that contains its gla domain,
+it is possible to comment on the role of particular gla
+residues in the binding of Ca2+ and to consider the
+relationship between this binding and the Ca2+-dependent
+functional properties of APC. Because bovine prothrombin
+and human PC possess gla residues at equivalent locations
+of the molecule, and a high degree of identity exists in the
+remainder of the gla-domain, it is likely that Ca2+coordination in the gla domain is similar for both proteins.
+Indeed, using a human prothrombin MoAb that recognizes
+the Ca2+-induced conformational alteration common to
+several vitamin K-dependent clotting proteins, including
+PC, it has been found that the antigenic determinant for
+this antibody is expressed on human prothrombin and
+human PC. The epitope for this antibody is similarly
+masked in both of the above proteins after complexation
+with Ca2+, Mn2+,and Mg2+,49an observation that argues
+for a similar conformational alteration in these proteins
+after coordination with Ca2+.
+A view of the crystallographic relationships between gla
+
+949
+
+side chains and bound Ca2+ in bovine prothrombin fragment 1is provided in Fig 5.48Other relevant amino acid side
+chains are displayed, along with the peptide backbone of
+the hexapeptide disulfide loop (residues 18 through 28 in
+bovine prothrombin). The amino acid side chain, gla33, did
+not show sufficient electron density to be observed in the
+diffraction pattern. Interestingly, a total of seven atoms of
+Ca2+ form a channel through the gla-domain, with only
+three of these (Ca-1, Ca-6, and Ca-7) in good contact with
+solvent. Ca-2 is partially exposed to solvent, and Ca-3, Ca-4,
+and Ca-5 are not exposed to solvent. These latter three
+Ca2+ ions are most probably involved with structural
+maintenance of the complex. Gla8 in prothrombin (gla7 in
+human PC), along with gla residues 17 (16), 21 (20), 27 (26),
+and 30 (29), are involved in complex formation with Ca-2,
+Ca-3, Ca-4, and Ca-5. All of these amino acid residues are
+crucial to the Ca2+-dependent anticoagulant activity of
+APC, thus showing the importance of the integrity of the
+coordination of these Ca2+ ions to the structure and
+concomitant function of APC. The fact that partial Ca2+dependent anticoagulant activity is observed with mutations of some of these gla residues to D may revolve around
+the possibility that the side chain carboxyl group of D can
+substitute as a coordination donor for Ca2+. If this is the
+case, a reorientation of the geometry of the affected
+complexes to accommodate the carboxyl group of D would
+occur, and the partial loss of activity would not be surprising. It has been proposed that the Ca2+-inducedconformational change and binding to PL is dependent on the
+presence of gla16 in human prothrombin (corresponds to
+gla17 in bovine prothrombin and gla16 in human PC)>O The
+importance of gla16 to the activity of APC is directly shown
+in the current study, and likely correlates to the important
+structural role proposed above for this residue. Similarly,
+the essential role (Table 2) of gla20 (gla21 in bovine
+prothrombin) in the Ca2+-dependent APC anticoagulant
+activity of APC is also obvious from Fig 5 in that this residue
+is highly important for coordination of Ca-5 and, perhaps,
+Ca-6.
+The nonessential character of gla14 in APC (gla15 in Fig
+5) may be due to the fact that it only provides one
+coordination site for Ca-7, and another nonessential gla
+residue, gla19 (gla20 in Fig 5), provides the other two
+coordination sites for this same Ca2+. Thus, it may be
+concluded that these gla residues, and perhaps Ca-7, do not
+play an essential anticoagulant function role in APC.
+Because gla19 in APC also provides one donor site for Ca-6,
+it is not surprising that some activity may be lost with a
+substitution for this gla residue, and concomitant possible
+weakening of the Ca-6/APC interaction. However, from
+the fact that only a small loss in activity is observed with
+[glal9D]r-APC, it is concluded that either the Ca-6/gla19
+coordination site is relatively unimportant to the stability of
+Ca-6 binding to APC, that the mutant D19 can satisfy part
+of this function, and/or that Ca-6 is of lesser importance to
+the anticoagulant activity of r-APC. The activity (24% of
+wtr-APC) found despite the loss of gla25 (gla26 in Fig 5 ) in
+APC can be explained if Ca-1 is important to this function
+and the loss of the two possible donor sites provided to
+
+From www.bloodjournal.org by guest on November 12, 2014. For personal use only.
+
+ZHANG, JHINGAN, AND CASTELLINO
+
+950
+
+* .
+.. , .-.i,
+
+.
+
+J
+
+Fig 5. X-ray crystal structure of the bovine prothrombin fragment 1/Ca2+ complex. Only side chains of amino acids relevant t o this
+investigation are displayed. The colors represent the following atoms: yellow, carbon; green, hydrogen; red, oxygen; blue, nitrogen; pink, sulfur;
+white, calcium. The sequence positions of the amino acid side chains are indicated for bovine prothrombin (the corresponding amino acids and
+sequence position in human PC are provided in parenthesis). yCarboxyglutamic acid is represented by y. The atoms depicted by the filled spheres
+begin with the @-carbonof the amino acid side chain, and continue through the remainder of the side chain of that amino acid. Nonexchangeable
+hydrogen atoms of the amino acid side chains are not displayed. The only peptide bonds illustrated are those contained in the hexapeptide
+disulfide loop, encompassing residues 17 through 22. The solvent accessibility of each Ca2+ion is also outlined by the dotted area.
+
+Ca-l/APC stabilization by gla25 weakens that interaction.
+Because Ca-1 is also stabilized by two donor sites from the
+essential gla29 (gla30 in Fig 5), it may be retained in the
+complex (albeit more weakly), thus providing the lower
+level of activity observed (Table 3). Similar considerations
+may also govern the very low level of activity observed as a
+result of mutation of gla29. Lastly, while R15 does not
+provide sites for the coordination of Ca2+,the HH21 proton
+of R15 (R16 in Fig 5) is sufficiently close (0.23 nm) to the
+oxygen of the OE4 group of gla16 (gla17 in Fig 5) to form a
+hydrogen bond, which may stabilize a conformational state
+optimal for activity.
+The fact that substitution for gla6 (gla7 in Fig 5) in r-APC
+did not result in a significant activity loss (Table 3) requires
+special consideration, because its apparent role in contributing to the stability of Ca-4 and Ca-5 would seemingly be
+important. Only one of the two carboxyl groups of this gla
+residue is involved as a donor site for these two Ca2+ions,
+and it is possible that the carboxyl group of the substituted
+D residue can provide this same kind of coordination.
+Another explanation would be that loss of one of the seven
+possible coordination sites for Ca-4 and two of the possible
+five such sites from Ca-5, as a result of this mutation, did not
+
+significantly affect the abilities of these two Ca2+ ions to
+interact in a stable manner with the gla-domain.
+In conclusion, we have assessed the individual roles of all
+gla residues in APC that are important to the in vitro
+anticoagulant activity of APC. In addition, we have attempted to correlate this information with known mutations in gla residues in symptomatic patients and with
+structural features of the gla domain/Ca2+ complex.
+Whereas this latter analysis has been derived from crystallographic data on the bovine prothrombin fragment 1/Ca2+
+complex, the high degree of sequence homologies between
+these domains of prothrombin and PC justifies the approach. Further, the fact that this crystal structure shows
+such a strong correlation with the currently available
+functional data allows firmly based hypotheses to be forwarded and tested regarding the role of various amino acids
+in structure-activity relationships of APC.
+ACKNOWLEDGMENT
+
+The authors express their appreciationto Dr Alexander Tulinsky
+for providing the coordinates of the bovine prothrombin fragment
+1/Ca2+ complex to this laboratory and for many helpful discussions.
+
+From www.bloodjournal.org by guest on November 12, 2014. For personal use only.
+
+951
+
+PROTEIN C MUTAGENESIS
+
+REFERENCES
+
+1. Esmon NL, Owen WG, Esmon CT: Isolation of a membranebound cofactor for thrombin-catalyzed activation of protein C. J
+Biol Chem 257859,1982
+2. Amphlett GW, Kisiel W, CastellinoFJ: Interaction of calcium
+with bovine plasma protein C. Biochemistry20:2156,1981
+3. Kisiel W, Canfield WM, Ericsson LH, Davie E W Anticoagulant properties of bovine plasma protein C following activation by
+thrombin. Biochemistry 165824,1977
+4. Vehar GA, Davie EW: Preparation and properties of bovine
+factor VI11 (antihemophilicfactor). Biochemistry 19:401,1980
+5. Walker FJ: Regulation of activated protein C by a new
+protein. J Biol Chem 255:5521,1980
+6. Comp PC, Esmon C T Generation of fibrinolytic activity by
+infusion of activated protein C into dogs. J Clin Invest 68:1221,
+1981
+7. Taylor FB, Lockhart MS: A new function for activated
+protein C: Activated protein C prevents inhibition of plasminogen
+activators by releasate from mononuclear leukocytes-plateletsuspensions stimulated by phorbol ester. Thromb Res 35155,1985
+8. Sakata Y, Loskutoff DJ, Gladson CL, Hekman CM, Griffin
+JH: Mechanismof protein C-dependent clot lysis: Role of plasminogen activator inhibitor. Blood 68:1218, 1986
+9. Weinstein RE, Walker FJ: Species specificity of the fibrinolytic effects of activated protein C. Thromb Res 63:123,1991
+10. Bajzar L, Nesheim M: Activated protein C (APC) promotes
+fibrinolysis by inhibiting prothrombinase catalyzed formation of an
+antifibrinolytic component derived from prothrombin. Thromb
+Haemost 65:1199,1991
+11. de Fouw NJ, Haverkate F, Bertina RM, Koopman J, van
+Wijngaarden A, van Hinsberg VW:The cofactor role of protein S
+in the acceleration of whole blood clot lysis by activated protein C
+in vitro. Blood 67:1189,1986
+12. Foster DC, Yoshitake S, Davie EW: The nucleotide sequence of the gene for human protein C. Proc Natl Acad Sci USA
+82:4673,1985
+13. Foster DC, Davie E W Characterization of a cDNA coding
+for human protein C. Proc Natl Acad Sci USA 81:4766,1984
+14. Beckmann RJ, Schmidt RJ, Santerre RF, Plutzky J, Crabtree GR, Long G L The structure and evolution of a 461 amino
+acid human protein C precursor and its messenger RNA, based
+upon the DNA sequence of cloned human liver cDNAs. Nucleic
+Acids Res 135233,1985
+15. Kisiel W, Davie E W Protein C. Methods Enzymol 80:320,
+1981
+16. Drakenberg T, Fernlund P, Roepstorff P, Stenflo J: p-Hydroxyaspartic acid in vitamin K-dependent protein C. Proc Natl
+Acad Sci USA 801802,1983
+17. Kisiel W Human plasma protein C. J Clin Invest 64:761,
+1979
+18. Grinnell BW, Berg DT, Walls J, Yan SB: Trans-activated
+expression of fully gamma-carboxylated recombinant human protein C, an antithrombotic factor. Biotechnology51189,1987
+19. Zhang L, Castellino FJ: A y-carboxyglutamic acid variant
+(y6D, y7D) of human activated protein C displays greatly reduced
+activity as an anticoagulant. Biochemistry29:10828,1990
+20. Erlich HJ, Jaskunas SR, Grinnell BW, Yan SB, Bang N U
+Direct expression of recombinant activated human protein C, a
+serine protease. J Biol Chem 264:14298,1989
+21. Mann KG, Jenny RJ, Krishnaswamy S: Cofactor proteins in
+the assembly and expression of blood clotting enzyme complexes.
+Ann Rev Biochem 57:915,1988
+22. Yan SCB, Pazzano P, Chao YB, Walls JD, Berg DT,
+McClure DB, Grinnell BW: Characterization and novel purifica-
+
+tion of recombinant human protein C from three mammalian cell
+lines. Biotechnology8:655,1990
+23. Coller BS, Owen J, Jesty J, Horowitz D, Reitman MJ, Spear
+J, Yeh T, Comp P C Deficiency of plasma protein S, protein C, or
+antithrombin 111 and arterial thrombosis. Atherosclerosis 7:456,
+1987
+24. Gladson CL, Scharrer I, Hach V, Beck KH, Griffin JH: The
+frequency of type I heterogeneous protein S and protein C
+deficiency in 141 unrelated young patients with venous thrombosis.
+Thromb Haemost 5918,1988
+25. Reitsma PH, Poort SR, Allaart CF, Briet E, Bertina RM:
+The spectrum of genetic defects in a panel of 40 Dutch families
+with symptomatic protein C deficiency type I: Heterogeneity and
+founder effects. Blood 78890,1991
+26. Zhang L, Castellino FJ: Role of the hexapeptide disulfide
+loop present in the y-carboxyglutamicacid domain of protein C in
+its activation properties and in the in vitro anticoagulant activity of
+activated protein C. Biochemistry30:6696,1991
+27. Heeb MJ, Schwartz P, White T, Lammle B, Berrettini M,
+Griffin J: Immunoblottingstudies of the molecular forms of protein
+C in plasma. Thromb Res 52:33, 1988
+28. Zhang L: Structure-function relationships of the y-carboxyglutamic acid domain of human protein C. PhD Dissertation,
+University of Notre Dame, Notre Dame, IN, 1991
+29. Laemmli U K Cleavage of structural proteins during the
+assembly of the head of bacteriophage T4. Nature 227680,1970
+30. Kuwada M, Katayama K An improved method for determination of gamma carboxyglutamicacid in proteins, bone and urine.
+Anal Biochem 117:259,1981
+31. Chibber BAK, Urano S, Castellino FJ: Synthesis, purification and properties of a peptide that enhances the activation of
+human [gluJlplasminogen by tissue plasminogen activator and
+retards fibrin polymerization. Int J Peptide Protein Res 35:73,1990
+32. Grinnell BW, Walls JD, Gerlitz B: Glycosylation of human
+protein C affects its secretion, processing, functional activities, and
+activation by thrombin. J Biol Chem 266:9778, 1991
+33. Price PA, Fraser JD, Metz-Virca G: Molecular cloning of
+matrix gla protein: Implications for substrate recognition by the
+vitamin K-dependent y-carboxylase. Proc Natl Acad Sci USA
+84:8335,1987
+34. Jorgensen MJ, Cantor AB, Furie BC, Brown CL, Shoemaker
+CB, Furie B: Recognition site directing vitamin K-dependent
+y-carboxylationresides on the propeptide of factor IX. Cell 48:185,
+1987
+35. Ware J, Diuguid DL, Liebman HA, Rabiet M-J, Kasper CK,
+Furie BC, Furie B, Stafford DW: Factor IX San Dimas. Substitution of glutamine for arg-4 in the propeptide leads to incomplete
+y-carboxylation and altered phospholipid binding properties. J
+Biol Chem 264:11401,1989
+36. Huber P, Schmitz T, Griffin J, Jacobs M, Walsh C, Furie B,
+Furie BC: Identification of amino acids in the y-carboxylation
+recognition site of the propeptide of prothrombin. J Biol Chem
+265:12467,1990
+37. Exner T, Cotton B, Howden M: Detection of specific
+proenzyme activatorsin snake venoms by a new immunoadsorbentchromogenic substrate method. Biochim Biophys Acta 832:351,
+1985
+38. Orthner CL, Bhattacharya P, Strickland D K Characterization of a protein C activator from the venom of Agkistrodon
+contortriv contorhir. Biochemistry27:2558,1988
+39. Kurachi K, Davie EW: Isolation and characterization of a
+cDNA coding for human factor IX. Proc Natl Acad Sci USA
+79:6461,1982
+
+From www.bloodjournal.org by guest on November 12, 2014. For personal use only.
+
+952
+
+40. Degen SJF, MacGillivray RTA, Davie EW Characterization of the complementary deoxyribonucleic acid and gene coding
+for human prothrombin. Biochemistry 222087,1983
+41. Hagen FS, Gray CL, O’Hara P, Grant FJ, Saari GC,
+Woodbury RG, Hart CE, Insley M, Kisiel W, Kurachi K, Davie
+EW Characterization of a cDNA coding for human factor VII.
+Proc Natl Acad Sci USA 83:2412,1986
+42. Hamaguchi M, Matsushita T, Tanimoto M, Takahashi I,
+Yamamoto K, Sugiura I, Takamatsu J, Ogata K, Kamiya T, Saito
+H: Three distinct point mutations in the factor IX gene of three
+Japanese CRM+ hemophilia B patients (factor IX BMNagoya 2,
+factor IX Nagoya 3 and 4). Thromb Haemost 65:514,1991
+43. Chen SH, Thompson AR, Zhang M, Scott CR: Three point
+mutations in the factor IX genes of five hemophilia patients. J Clin
+Invest 84:113,1989
+44. Wang NS, Zhang M, Thompson AR, Chen SH: Factor IX
+Chongqing: A new mutation in the calcium-binding domain of
+factor IX resulting in severe hemophilia B. Thromb Haemost
+63:24, 1990
+45. Bovill EG, Tomczak J, Grant B, Pilimer E, Rainville I, Long
+G L Association of two novel mutations in the gla-domain (Glu20
+
+ZHANG, JHINGAN, AND CASTELLINO
+
+to Ala and Val 34 to Met) with symptomatic type I1 protein C
+deficiency. Thromb Haemost 65547,1991
+46. Minuro J, Muramatsu S-i, Iijima K, Nakamura K, Yoshitake
+S, Sakata Y, Matsuda M: Protein C Yonago: An amino acid
+substitution of gly for arg-15 causing defective calcium-dependent
+conformation. Thromb Haemost 65:1198,1991
+47. Koeberl DD, Bottema CDK, Buerstedde JM, Sommer SS:
+Functionally important regions of the factor IX gene have a low
+rate of polymorphism and a high rate of mutation in the dinucleotide CpG. Am J Hum Genet 45:488,1989
+48. Soriano-Garcia M, Padmanabhan K, deVos AM, Tulinsky
+A The Ca2+ ion and membrane binding structure of the gladomain of Ca-prothrombin fragment 1.Biochemistry 31:2554,1992
+49. Church WR, Boulanger LL, Messier TL, Mann KG: Evidence for a common metal ion-dependent transition in the 4-carboxyglutamic acid domains of several vitamin K-dependent proteins. J
+Biol Chem 264:17882,1989
+50. Borowski M, Furie BC, Furie B: Distribution of y-carboxyglutamic acid residues in partially carboxylated prothrombin. J Biol
+Chem 261:1624,1986
+
+

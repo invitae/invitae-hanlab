@@ -1,0 +1,798 @@
+HUMAN MUTATION 1 : 3 2 5 3 3 2 (1992)
+
+RESEARCH ARTICLE
+
+Screening for New Mutations in the LDL Receptor
+Gene in Seven French Familial Hypercholesterolemia
+Families by the Single Strand Conformation
+Polymorphism Method
+N. Loux, B. Saint-Jore, G. Collod, F. Dairou, P. Benlian, J. Truffert, B. Dastugue, P. Douste-Blazy,
+J.L. de Gennes, C. ]mien,* and C. Boileau
+INSERM U73, Chdteau de Longchamp, 75016 Paris, France (N.
+L., B. S-J., G.C.,
+P. B., C.J., C. B.), Service Endocrinologie,
+CHU Piti&-Salpe^tri?re,75013 Paris, France (F. D., P. B., J. T., J. L. dG. ), CHR Clermont-Ferrand, 63 100 Cebazat, France
+(B.D.), and INSERM UIOI, CHU Purpan, 31059 Toulouse, France (P.D-B.)
+Communicated by Michel Goossens
+
+To investigate the molecular basis of familial hypercholesterolemia (FH) in France, we applied the
+single strand conformation polymorphism (SSCP) method to the promoter region and the 18 exons of
+the low density lipoprotein receptor (LDLR) gene. Seven probands, 4 heterozygotes, 2 compound
+heterozygotes, and 1 homozygote, belonging to FH families were tested. In all cases, previous genetic
+analysis and/or LDL receptor fibroblast assay had shown that the disease was due to defects in the
+LDLR gene. O u t of the nine mutations expected, one nonsense mutation in exon 2 and six missense
+mutations were identified in exons 3, 6,8, 11, and 15. Two of the latter were found in exon 6. In each
+family, cosegregation of the base substitution and the disease was observed. Ninety-five control subjects were screened for the presence of the six missense mutations. None was detected, implying that
+the mutations identified are deleterious. Our results indicate that the SSCP analysis of amplified
+genomic D N A fragments can be successfully used to rapidly screen mutation containing exons in large
+genes. Furthermore, all these mutations are newly described and demonstrate heterogeneity of LDLR
+gene mutations responsible for FH in the French population, as in other reported Caucasian
+0 1992 Wiley-Liss, Inc.
+populations.
+KEY WORDS:
+
+Familial hypercholesterolemia, LDL receptor, Single strand conformation polymorphism
+
+INTRODUCTION
+Familial hypercholesterolemia (FH) is a common autosomal dominant disorder that affects
+about one in 500 persons. FH is clinically characterized by an elevated plasma low density lipoprotein (LDL) concentration, tendon xanthomas, and
+an increased risk of coronary arterial disease (Goldstein and Brown, 1989).
+More than 50 different mutations in the gene
+encoding the LDL receptor have now been reported at the molecular level in individuals with
+FH (for review see Hobbs et al., 1990; Benlian and
+Loux, 1991). These mutations, preventing normal
+clearance of plasma LDL (Goldstein and Brown,
+1989), are spanned throughout the 45 kilobases
+(kb) of the LDL receptor gene (LDLR) located o n
+chromosome 1 9 ~ 1 3(Sudhof et al., 1985). Twothirds of these mutations are gross gene rearrange0 1992 WILEY-LISS,INC.
+
+ments easily detected by Southern blot analysis.
+Since detection of point mutations is more difficult
+and relies on systematic sequencing, their number
+is probably underestimated with only 16 described
+to date. To avoid sequencing of each of the 18
+exons of the LDL receptor gene, it was necessary to
+develop methods to screen rapidly for unknown
+mutations in FH patients. These methods should
+enable localization of the gene defect, restricting
+sequencing to the targetted exons. A variety of
+methods have now been proposed (for review see
+Rossiter and Caskey, 1990), among them, the
+RNase A cleavage method (Myers et al., 1985)
+which failed to detect about one third of possible
+single base substitutions, chemical cleavage (CotReceived May 12, 1992; accepted July 16, 1992.
+*To whom reprint requestsicorrespondence should be addressed.
+
+326
+
+LOUX ET AL.
+TABLE 1. Oligonucleotides for
+
+Promoter
+Exon 4
+Exon 7
+Exon 10
+Exon 12
+Exon 16
+Exon 17
+
+SSCP Analysis of 6 Exons and the promoter of the LDLR
+
+PCR primers"
+(5' + 3')
+TCAGAGCTTCACGGGTTAAAAG
+CCGCGATTGCACTCGGGGC
+CCCCCAAGACGTGCTCCCA
+CGCAGTTTTCCTCGTCAGAT
+GGGACCAACGAATGCTTGGACAAC
+AATCACCTTCGCATCTTCGCTGGG
+ACCCAGCTTGACAGAGCCCA
+CCATGAACAGGATCCACCAC
+TTATCCACTTGTGTGTCTAGA
+TTCGATCTCGTACGTAAGCCA
+TTCTCTCCTGCAGCTCTGGG
+GCTTACCGATGGGGAGGACA
+TGCCTCTCCCTACAGTGCTC
+ACTCACCGAGGGGTAGCTGT
+
+Size of
+amplified product
+(bp)
+166
+381
+127
+227
+184
+97
+179
+
+"For each exon, the primer at the 5' end is on the first line and that at the 3' end is on the second line.
+
+ton et al., 1988) or denaturing gradient gel electrophoresis (Sheffield et al., 1989) which seem to
+be more efficient methods but are not always simple and easy to use. Single strand conformation
+polymorphism (SSCP) (Orita et al., 1989) represents an efficient and technically simple method,
+but is limited to the study of 200 base pair (bp)
+fragments. With its short exons, the LDL receptor
+gene was thus particularly suited to the SSCP analysis. The technique involves the electrophoretic
+separation of single strands of DNA on a nondenaturing polyacrylamide gel. Under these conditions, electrophoretic mobility of a single strand
+DNA depends on its conformation, which is directly related to its nucleotide sequence. Therefore, any change in the sequence should theoretically generate a variant electrophoretic pattern.
+In the present report we studied a sample of
+French FH patients, from which previous genetic
+data and fibroblast LDL receptor assay had linked
+the disease to the LDL receptor gene. Furthermore, no major gene arrangement had been found.
+For identification of point mutations lying anywhere within the coding region of the probands,
+we have used the SSCP method to systematically
+screen the promoter region and the 18 exons of the
+LDL receptor gene.
+PATIENTS AND METHODS
+Patients
+
+Patients with severe hypercholesterolemia, tendon xanthomas in some cases, and a family history
+of high cholesterol levels and heart disease, were
+selected. A total of seven probands and members
+of their family, belonging to independent kindreds
+numbered 1 to 7, were studied. The diagnosis of
+
+FH was based o n plasma cholesterol and LDL values in the patients. The four probands belonging to
+family 2, 4, 5, and 7 were clinically considered as
+heterozygotes with plasma cholesterol levels over
+300 mg/dl, while the three probands belonging to
+family 1, 3, and 6 were clinically considered as
+homozygotes and had plasma cholesterol levels
+over 600 mg/dl before the age of ten with tendon
+and cutaneous xanthomas. In these subjects, analysis of the LDLR gene haplotypes revealed that two
+probands, belonging to family 3 and 6, were in fact
+compound heterozygotes and had inherited a different mutant LDL receptor allele from each parent. The remaining proband, from family 1, was
+genetically homozygote with a family history of
+consanguinity. In all cases, previous genetic data
+or fibroblast LDL receptor assay had associated the
+disease to the LDLR gene.
+PCR-SSCP Analysis
+
+The PCR-amplified products of the promoter
+region and the 18 exons in the LDLR gene were
+studied with the SSCP method (Orita et al.,
+1989). T h e sequences of the primers that were specifically designed with the Oligotest program
+(Beroud et al., 1990) for this study are listed in
+Table 1. The other primers used were those described by Leitersdorf and co-workers (1990). PCR
+reactions were performed in a volume of 50 pl,
+using 0.5 p g genomic DNA, 200 pmol dNTPs,
+1.25 IU Taq polymerase, 0.25 pl of [ c ~ - ~ ~ P ] ~ C T P ,
+and 0.25 p1 of [ c x - ~ ~ P ] ~ A
+in T10
+P mM Tris-HCL
+pH 8.3, 50 mM KC1, 1.5 mM MgCl,, 0.01% gelatin; 10 pmol of each primer were used to amplify
+the majority of the exons. For exons 8 and 14, 5
+pmol of primers was used. For exon 18, 40 pmol of
+
+FRENCH LDL RECEPTOR GENE MUTATIONS
+
+327
+
+TABLE 2. Mutation-Specific Oligonucleotide Probes
+
+Probe
+Glu-80
+LYS-80
+Asp-283
+Tyr-283
+Lys-290
+Arg-290
+cys-347
+Tyr-347
+G1y 5 28
+Val-528
+Thr-705
+Ile-705
+
+-
+
+Sequence
+(5' + 3')
+
+T,"
+
+Washing
+temperatures
+
+GGCTCAGACGAGCAAGGC
+GGCTCAGACAAGCAAGGC
+GACTGCCGGGACTGGTCA
+GACTGCCGGTACTGGTCA
+GAACCCATCAAAGAGTGC
+GAACCCATCAGAGAGTGC
+AGCCAGCTCTGCGTGAAC
+AGCCAGCTCTACGTGAAC
+GGCCTGAATGGTGTGGAC
+GGCCTGAATGTTGTGGAC
+GAGACATCCACCGTCAGG
+GAGACATCCATCGTCAGG
+
+60
+58
+60
+58
+54
+56
+58
+56
+58
+56
+58
+56
+
+60
+62
+60
+60
+54
+58
+60
+68
+58
+58
+56
+60
+
+"Melting temperature.
+
+primers was added to the reaction mixture. Amplification conditions were 30 cycles of 1 min denaturation at 94"C, 1 min annealing at 55"C, 1
+min 30 sec elongation at 73"C, except for exons 6,
+9, 10, and 11 where annealing was at 62"C, and
+exons 12, 15, and 16 where annealing was at 56,
+50, and 65"C, respectively. T h e labelled PCR fragments were diluted 1/10 in a solution of 0.1%
+SDS, 10 mM EDTA. An aliquot of 2 pl was mixed
+with 2 p1 of 95% formamide, 20 mM EDTA,
+0.05% bromophenol blue, and 0.05% xylene cyanol, heated at 95°C for 2 min, and put on ice.
+Samples of 4 pl were then loaded onto a 5 or 6%
+nondenaturing polyacrylamide gel with or without
+10% glycerol. Electrophoresis was performed at
+room temperature at 5 W for 16 hr for glycerol
+containing gels, and at 6 W for 7 hr for gels without glycerol. The gel was dried onto 3 MM paper
+and was autoradiographed at -80°C for 20 hr.
+DNA Sequencing
+Exons displaying variant patterns were sequenced using the asymmetric PCR method (Attree et al., 1989). Following the first PCR reaction, a second amplification was carried out with
+an unequal ratio of primers (50:2) for 50 cycles,
+under conditions similar to those of the first PCR
+described above. To increase the specificity of the
+amplification, the first 10 cycles were performed
+with an increased annealing temperature corresponding to the T, of the primer in excess. Singlestrand PCR products were first purified and concentrated on a Centricon- 100 microconcentrator
+(AMICON) according to the manufacturer's instructions, and subsequently sequenced by the
+Sanger dideoxy method (Sanger e t al., 1977) (Se-
+
+quenase kit; version 2.0, USB) using 10 pmol of
+the appropriate primer.
+Allele-Specific Oligonucleotide Hybridization
+Ninety-five control subjects were screened for
+the presence of the six missense mutations detected by SSCP in exons 3, 6 (two mutations), 8,
+11, and 15, employing PCR-amplification followed by AS0 hybridization. After NaOH denaturation, 3/50 vol of the PCR reaction was dotted
+onto a charge-modified nylon membrane (Gelman
+Science). AS0 hybridization was performed under
+standard conditions (Saiki et al., 1986). The sequence of the primers used as probes specific for
+either the normal or the mutant sequence, and the
+appropriate washing conditions are described in
+Table 2.
+
+RESULTS
+The involvement of the LDL receptor gene was
+ascertained by haplotyping, or by assay of the receptor activity on fibroblasts, or by both. Haplotyping of the LDLR gene was performed by Southern blot experiments, in all probands, with an
+average of 6 RFLPs. Segregation of LDLR haplotypes with the disease was observed in families 1,
+2, 4, 5, and 6 (data not shown). Haplotyping was
+also performed for the apo B gene, excluding its
+implication in families 1, 2, 4, and 5. In the remaining families, the mutation at codon 3,500 in
+the apo B gene was not found (data not shown).
+Furthermore, by fibroblast assays less than 5% of
+the normal amount of LDL receptor activity was
+found in probands of family 1, 2, and 6. In proband
+of family 7, 50% of the normal amount of LDL
+receptor activity was measured (data not shown).
+
+328
+
+LOUX ET AL.
+
+FIGURE 1. Comparison of LDLR exon 2 DNA sequence in the region surrounding codon 12
+hom a normal subject and proband 1 which presented an abnormal migration profile by
+SSCP analysis. The base substituted in the patient is indicated in bold and changes a Gln
+codon to a Stop codon.
+
+In this study, the promoter region and the 18
+exons of the LDLR gene were separately PCR amplified with primers which flank each exon sequence. Consecutively, each PCR product was analyzed with the SSCP method. Using this
+approach, we screened 7 unrelated FH patients for
+unknown LDLR mutations, and we identified abnormal electrophoretic patterns in six different exons, for six subjects. In the remaining patient, the
+migration patterns in all the exons tested were similar to those observed for controls. Optimal results
+were obtained with both glycerol containing gels
+and gels without glycerol, when electrophoresis
+was performed at room temperature. Sequence
+analysis of exons revealing variant patterns identified 7 base substitutions as yet unreported.
+The proband of family 1 has a C -+ T substitution of 12Gln (CAG), which creates a stop codon
+(TAG) in exon 2 and would cause a premature
+termination in LDL receptor synthesis. As shown
+in Figure 1, the proband was found to be homozygous for the nonsense mutation, and his parents
+were heterozygous for this mutation as expected
+from the family history of consanguinity.
+The proband and two affected members of family 2, father and paternal uncle, were found to be
+heterozygous for a G + A transition that changes
+80G1u (GAG) to Lys (AAG) in exon 3 (data not
+shown).
+The proband belonging to family 3 was found to
+be heterozygous for a A -+ G transition that substitutes 290Lys (AAA) to Arg (AGA) in exon 6.
+This patient is a compound heterozygote and had
+inherited two different mutations from his parents.
+
+Family 3
+
+rfc 290 Lys-t Arg
+
+0 283 Asp +Tyr
+
+FIGURE 2. SSCP analysis of PCR fragment encompassing
+LDLR exon 6 in members of family 3. The abnormal fragment is indicated by an arrow and corresponds to the 290Lys
++ Arg mutation. This mutation is referred to by an asterisk
+(*) and is present in affected members from the paternal side
+of the family. The 283A~p+Tyr mutation is referred to by (0)
+and is present in affected members from the maternal side.
+This mutation is undetectable by SSCP analysis, since the
+mother (I3) has the same migration pattern as the control
+(C).
+
+As shown in Figure 2, SSCP analysis identified
+abnormal electrophoretic patterns in affected individuals from the paternal side of the pedigree, fa-
+
+FRENCH LDL RECEPTOR GENE MUTATIONS
+
+329
+
+Sequence analysis of exon 11 from the proband belonging to family 5 presenting
+an abnormal migration pattern by SSCP procedure. Proband 5 is heterozygous for the
+5zsGly4 Val mutation. The base substituted in the patient is indicated in bold.
+FIGURE 3.
+
+ther and uncle, implying that the proband has inherited the 290Lys + Arg substitution from his
+father. The mutation o n the maternal side was
+discovered by sequence analysis. Surprisingly, sequencing of exon 6 revealed the presence of a second nucleotide change, that did not alter the electrophoretic mobility by the SSCP method, since
+the mother showed a migration pattern similar to
+that of the control (Fig. 2). It constitutes a G + T
+transition that replaces 283Asp (GAC) by Tyr
+(TAC). By sequence analysis, this mutation was
+found at the heterozygous level in the proband as
+well as in affected members from the maternal side
+of the family, mother and aunt.
+The proband of family 4 was found to be heterozygous for a G -+ A change that substitutes
+347Cys(TGC) to Tyr (TAC) in exon 8. The abnormal SSCP pattern was present in the affected
+father and not in the healthy mother (data not
+shown).
+The proband and affected members of family 5,
+daughter, mother, maternal uncle, and maternal
+cousin, were found to be heterozygous for a G + T
+transition that changes '"Gly
+(GGT) to Val
+(GTT), This mutation detected in exon 11 is
+shown in Figure 3.
+The proband belonging to family 6, who is expected to be a compound heterozygote, has a C +
+T substitution at the heterozygous level that
+changes 705Thr(ACC) to lle (ATC) in exon 15.
+Inheritance of the mutation was tested in family
+members: the sister and the father, both FH patients, were shown to be heterozygous for the mutation as analysed by SSCP (Fig. 4). T h e mutation
+in the LDLR gene transmitted by the mother remains undetected.
+In all families, inheritance of the mutation(s)
+
+Family 6
+
+I1
+
+*
+
+o
+
+*[I0 *Il 0
+705Thr- Ile
+mutation not detected
+
+FIGURE 4. SSCP analysis of LDLR exon 15 in members of
+family 6. The abnormal fragment corresponding to the
+'05Thr + Ile mutation is indicated by an asterisk (*). This
+mutation is present in affected members from the paternal
+side of the family. The second abnormal band corresponding
+to a sequence polymorphism is indicated by (P), and is
+present both in the control (C) and the affected subject (IJ.
+
+was analysed either by SSCP and/or sequence analysis, and was found to be associated with the FH
+phenotype. However, in order to further determine if the missense mutations were diseasecausing mutations or polymorphisms segregating
+with the disease, we examined 95 control individuals by A S 0 hybridization. We identified none of
+
+LOUX ET AL.
+
+330
+
+TABLE 3.
+
+Proband
+number"
+
+List of the LDLR Mutations Identified
+in the Probands.
+
+FH vhenotvve
+
+Genetic status
+
+1
+2
+3
+
+Homozygote
+
+Homozygote
+
+4
+5
+6
+
+Mutations
+
+~~
+
+"Gln + Stop
+
+Heterozygote
+
+Heterozygote
+
+*'Gh + Lys
+
+Homozygote
+
+Compound
+heterozygote
+
+-+ Tyr
+283A~p
+290Lys+ Arg
+
+Heterozygote
+
+Heterozygote
+
+347Cys+ Tyr
+
+Heterozygote
+
+Heterozygote
+
+528Gly-+ Val
+
+Homozygote
+
+Compound
+Heterozygote
+
+'05Thr
+
+-+
+
+Ileb
+
+~
+
+"Each proband is identified according to the family number: for
+example, proband 1 belongs to family 1.
+bThe second mutation was not identified.
+
+the six missense mutations in control subjects
+(data not shown). The 7 base substitutions identified in this study are listed in Table 3 , their localisation with respect to the LDLR gene and protein are shown in figure 5.
+In some cases, variant electrophoretic patterns
+were found both in controls and FH individuab.
+Sequence analysis identified single base substitutions that did not change amino acids, implying
+they were polymorphisms. Two polymorphisms detected respectively in exons 2 and 18 were recently
+reported (Soutar, 1991; Cavanaugh and Esteal,
+1991). The new polymorphisms observed in exons
+10, 11, and 15 are described elsewhere (Saint-Jore
+et al., submitted).
+
+DlSCUSSION
+In order to identify FH mutations in a French
+population, we have performed the SSCP technique to screen the promoter region and the 18
+exons of the LDLR gene in probands, restricting
+sequencing to the exons revealing variant patterns.
+All patients whose migration profile was abnormal
+were found to carry a nucleotide change in the
+corresponding exon. However, in one patient the
+SSCP method failed to detect a mutation which
+was identified solely by sequencing: the 2 8 3 A ~+
+p
+Tyr substitution carried by proband 3 and his
+mother did not alter the electrophoretic pattern of
+exon 6. However the 290Lys+ Arg substitution
+carried by proband 3 and his father altered the
+electrophoretic mobility of exon 6 (Fig. 2). This
+clearly shows that some nucleotide changes do not
+alter the electrophoretic mobility of amplified exons. In principle, after SSCP analysis, in a subject
+heterozygous for a mutation, the nucleotide substitution should generate two supplementary bands
+corresponding to the mutated DNA strand and its
+
+complementary mutated strand. Actually, in the
+majority of the heterozygotes, we observed only
+one additional band. On the other hand, in some
+cases SSCP analysis can discriminate one change
+from another simultaneously present in the same
+amplified exon product. For example, substitutions
+found in exon 15, one mutation and one polymorphism, generate distinctly different migration profiles when analyzed by SSCP (Fig. 4). Thus, the
+ability of a single base substitution to alter the
+conformation of the DNA single strand is unpredictable and represents a drawback of this method.
+In our study, six mutations out of the nine expected gave abnormal migration patterns after
+SSCP analysis. Therefore, one-third of the possible mutations were undetected by SSCP analysis.
+This failure to detect an abnormal pattern was only
+confirmed in one case, the 2 8 3 A ~+p Tyr mutation
+in exon 6. For the two other expected mutations,
+since only the exons and the promoter of the
+LDLR gene were investigated, it can also be proposed that the two remaining undetected mutations lie elsewhere within the gene. Although numerous methods have been designed to detect
+single base substitutions in PCR products, none of
+them is both technically simple and powerful
+enough to detect 100% of the possible mutations.
+Thus, coupling of these scanning methods should
+increase the probability of detecting mutations.
+Two methods have been reported recently that are
+technically simple to use. O n e is derived from
+SSCP, the rSSCP method which uses RNA instead of DNA (Danenberg et al., 1992; Sarkar et
+al., 1992). The other, the heteroduplex method,
+can complement the SSCP analysis because its
+principle does not rely on secondary structure formation (White et al., 1992).
+In this study, we identified one nonsense mutation and six missense mutations. The nonsense
+mutation identified in codon 12 gives rise to a
+premature stop codon which eliminates almost all
+of the LDL receptor domains. This strongly suggests that the "Gln +- Stop change leads to a
+variant which fails to produce any LDL receptor
+protein. For the six missense mutations detected,
+the fact that we have not found these nucleotide
+changes in 95 control individuals, together with
+the segregation of these mutations with the FH
+phenotype in affected families, supports the hypothesis that these novel mutations are the cause
+of the disease. Furthermore, these variations affect
+amino acids that lie in domains important for maturation and function of the LDL receptor protein
+(Fig. 5).
+
+FRENCH LDL RECEPTOR GENE MUTATIONS
+
+*
+A
+
+I
+
++5
+
+5'
+
+Exon
+
+**
+
+*
+
+*
+
+*
+
+*
+
+I
+
+3'
+3
+
+4 5 6
+
+-
+
+Signal
+
+Ligand
+
+Sequence
+
+Binding
+
+789101112131415
+
+Y
+
+331
+
+Y
+
+EGF Precursor
+
+0-linked
+
+Homology
+
+Sugars
+
+7%
+Membrane-
+
+Gene
+
+Cytoplasmic
+
+Spanning
+
+A
+B
+
+Amino
+Acid
+
+* *
+
+**
+
+*
+
+*
+
+12 80
+
+283 290
+
+347
+
+528
+
+*
+705
+
+FIGURE5. Schematic localisation of the mutations identified. Asterisks indicate their localisation in the LDLR gene (A) and in the functional domains of the LDL receptor (B).
+
+-
+
+-
+
+Three missense mutations, the "Glu
+Lys,
+2 8 3 A ~ p Tyr, and 290Lys+ Arg substitutions,
+have been found in the ligand binding domain of
+the LDL receptor, which is composed of seven cysteine-rich repeats. Each repeat contains clustered
+negative charges that are involved in the binding
+of positively charged residues o n apo BlOO and apo
+E. The 8oG1u + Lys and 2 8 3 A ~+
+p Tyr substitutions concerned amino acids that are highly conserved among animal species and among repeat sequences (Esser et al., 1988), and are involved in
+the clustering of negative charges. These mutations result in a change of a basic for an acidic
+amino acid in the second and the seventh repeat,
+respectively. Although these substitutions are expected to affect the binding of the LDL receptor to
+its ligand, previous studies have demonstrated that
+amino acid substitutions in conserved domains of
+cysteine-rich repeats alter the transport of the LDL
+receptor protein from the endoplasmic reticulum
+(ER) to the Golgi complex (Leitersdorf et al.,
+1988, 1990). These mutations seem to interfere
+with the normal folding of the protein and prevent
+the transport of the unproperly folded protein out
+of the ER. The same substitution of a lysine for a
+glutamic acid residue identified in the highly conserve negatively charged amino acids near the
+COOH terminus of the second repeat was previously observed in the same sequence but in the
+fifth repeat (Leitersdorf et al., 1990). The resulting
+protein was not transported normally out of the
+
+ER. Since the nature and the number of amino
+acids located between cysteines are important for
+the proper folding of the protein, it can be proposed that the 290Lys + Arg substitution found
+near the last cysteine of the seventh repeat, interferes with the normal folding of the LDL receptor
+protein. Indeed steric hindrance of arginine is
+greater than that of lysine.
+The missense mutation found in codon 347 is
+located in the epidermal growth factor (EGF) like
+domain, which contains 3 cysteine-rich repeats
+(A, B, and C). Each repeat contains 6 cysteines
+that are normally involved in the formation of disulfide bonds. The mutation located in repeat B
+substitutes a tyrosine for a cysteine, giving rise to
+an unpaired cysteine. Another missense mutation,
+previously reported, results in the same substitution of a tyrosine for a cysteine but in repeat C
+(Leitersdorf et al., 1990). The effect of this mutation is to block the transport of the protein to the
+cell surface. Similarly, it can be proposed that the
+loss of a cysteine may alter the proper folding of the
+LDL receptor protein, and thus prevent the transport of the protein out of the ER. The other mutation found in the EGF like domain that causes a
+substitution of a valine for a glycine at residue 528
+does not reside in a cystein-rich region. However,
+the resulting LDL receptor protein may not be
+transported to the cell surface as an identical substitution of a valine for a glycine previously reported at residue 544 (Esser and Russel, 1988).
+
+332
+
+LOUX ET AL.
+
+These authors demonstrated that this substitution
+gave rise to a protein that is not transported out of
+the RE, and rapidly degraded.
+The last missense mutation was identified in
+exon 15, which encodes the 0-linked sugar domain. This mutation results in the change of an
+isoleucine for a threonine which is involved in the
+attachment of 0-linked carbohydrate chains. The
+function of these 0-linked sugars remains unknown. Divergent results have been reported concerning this domain. Davis and colleagues (1987)
+reported the construction of a cDNA with an exon
+15 deletion which had no effect on receptor function in transfected fibroblasts, whereas Kaj inami
+and co-workers (1988) described an exon 15 deletion found in an FH patient. The mutation reported in the present study is the first point mutation identified in this domain.
+In conclusion, the work reported here demonstrates the usefullness of the SSCP method, applied to the detection of point mutations in the
+LDLR gene. Furthermore, the wide distribution
+throughout the gene and the heterogeneity of the
+base substitutions identified in this French population are in agreement with previous results reported in other Caucasian populations (Benlian
+and Loux, 1991; Russel et al., 1989).
+
+ACKNOWLEDGMENTS
+We wish to thank Dr. M. Brown, Dr. J. Goldstein, and Dr. B. Jacotot for providing the results
+of fibroblast LDL receptor assay of the probands.
+This work was supported by grants from Caisse Nationale d’Assurance Maladie des Travailleurs Salaries, Federation de Cardiologie, and Association
+Fransaise contre les Myopathies.
+
+REFERENCES
+Attree 0, Vidaud D, Vidaud M, Amselem S, Levergne JM, Goossens M (1989) Mutations in the catalytic domain of human
+coagulation factor IX: Rapid characterization by direct genomic
+sequencing of DNA fragments displaying an altered melting
+behaviour. Genomics 4:266-272.
+Benlian P, Loux N (199 1) LDL receptor gene mutations heterogeneity in familial hypercholesterolemia. MIS 7:1052-1060.
+Beroud C , Antignac C , Jeanpierre C, Junien C (1990) A computer
+program for research of optimal primers for PCR. M/S 6:YOl903.
+Cavanaugh JA, Easteal S (1991) A HaeIIl polymorphism in the 3’
+untranslated region of the low density lipoprotein receptor
+(LDLR) gene. Nucl Acids Res 19:6663.
+Cotton RGH, Rodrigues NR, Campbell DR (1988) Reactivity of
+cytosine and thymine in single-base-pair mismatches with hydroxylamine and osmium tetroxide and its application to the
+study of mutations. Proc Natl Acad Sci USA 85:4397-4401.
+Danenberg PV, Horikoshi T, Volkenandt M, Danenberg K, Lenz
+HI, Shea LCC, Dicker AP, Simoneau A, Jones PA, Bertino JR
+(1992) Detection of point mutations in human DNA by anal-
+
+ysis of RNA conformation polymorphism(s). Nucl Acids Res
+20:573-579.
+Davis CG, Elhammer A, Russel DW, Schneider W], Kornfeld S,
+Brown MS, Goldstein JL (1986) Deletion of clustered 0-linked
+carbohydrates does not impair function of low density lipoprotein receptor in transfected fibroblasts. J Biol Chem 261:28282838.
+Esser V, Russel DW (1988) Transport-deficient mutations in the
+low density lipoprotein receptor. J Biol Chem 263:
+13276-13281.
+Esser V, Limbrid LE, Brown MS, Goldstein JL, Russel DW (1988)
+Mutational analysis of the ligand binding domain of the low
+density lipoprotein receptor. J Biol Chem 263:13282-13290.
+Goldstein JL, Brown MS (1989) Familial hypercholesterolemia In
+Scriver CR, Beaudet AL, Sly WS, Valle D (eds): The Metabolic Basis of Inherited Disease, 6th ed. New York: McGrawHill, pp 1215-1250.
+Hobbs HH, Russel DW, Brown MS, Goldstein JL (1990) The LDL
+receptor locus in familial hypercholesterolemia: Mutational
+analysis of a membrane protein. Ann Rev Genet 24:133-170.
+Kajinami K, Mabuchi H, Itoh H, Michishita I, Takeda M, Wakasugi T, Koizumi J , Takeda R (1988) New variant of low density
+lipoprotein receptor gene: FH-Tonami. Arteriosclerosis 8: 187192.
+Leitersdorf E, Hobbs HH, Fourie AM, Jacobs M, Van Der Westhuyzen DR, Coetzee GA (1988) Deletion in the first cysteinerich repeat of low density lipoprotein receptor impairs its transport but not lipoprotein binding in fibroblasts from a subject
+with familial hypercholesterolemia. Proc Natl Acad Sci 85:
+79 12-79 16.
+Leitersdorf E, Tobin EJ, Davignon J , Hobbs HH (1990) Common
+low-density lipoprotein receptor mutations in the French Canadian population. J Clin Invest 85:1014-1023.
+Myers RM, Larin Z, Maniatis T (1985) Detection of single base
+substitutions by ribonuclease cleavage at mismatches in RNA:
+DNA duplexes. Science 230:1242-1246.
+Orita M, Suzuki Y, Sekiya T, Hayashi K (1989) Rapid and sensitive detection of point mutations and DNA polymorphisms
+using the polymerase chain reaction. Genomics 5:874-879.
+Russel DW, Esser V, Hobbs HH (1989) Molecular basis of familial
+hypercholesterolemia. Arteriosclerosis 9 suppl. 1:8-13.
+Rossiter BJF, Caskey CT (1990) Molecular scanning methods of
+mutation detection. J Biol Chem 265:12753-12756.
+Saiki RK, Bugawan TL, Horn GT, Mullis KB, Erlich MA (1986)
+Analysis of enzymatically amplified globin and HLA-DQ DNA
+with allele-specific oligonucleotide probes. Nature (London)
+324: 163-166.
+Sanger F, Nicklen S, Colvson AR (1977) DNA sequencing with
+chain-terminating inhibitors. Proc Natl Acad Sci USA 74:
+5463 -5467.
+Sarkar G, Yoon HS, Sommer SS (1992) Screening for mutations
+by RNA single-strand conformation polymorphism (rSSCP):
+comparison with DNA-SSCP. Nucl Acids Res 20:871-878.
+Sheffield V, Cox DR, Lerman LS, Myers RM (1989) Attachment
+of a 40-base-pair G + C-rich sequence (GC-clamp) to genomic DNA fragments by the polymerase chain reaction results
+in improved detection of single-base-changes. Proc Natl Acad
+Sci USA 86:232-236.
+Soutar AK (1901) A polymorphism in exon 2 of the human LDLreceptor gene (LDLR). Nucl Acids Res 19:4314.
+Sudhof TC, Goldstein JL, Brown MS, Russel DW (1985) The
+LDL receptor gene: A mosaic of exons shared with different
+proteins. Science 228:815-822.
+White MB, Carvalho M, Derse D, OBrien SJ, Dean M (1992)
+Detecting single base substitutions as heteroduplex polymorphisms. Genomics 12:301-306.
+
+

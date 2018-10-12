@@ -1,7 +1,7 @@
 # Extract the labels of documents, and store them into an array.
 
-indir = "../data/raw/"
-outdir = "../data/processed/"
+indir = "../data_sample/raw/"
+outdir = "../data_sample/processed/"
 import numpy as np
 import pandas as pd
 import pickle
@@ -30,7 +30,6 @@ for i in range(len(categories)):
     tmp = str(categories[i]).split('|')
     for label in tmp:
         labels.loc[pmid, label] = True
-        
-print(labels)
+
 with open(outdir + "doc_labels.pkl", 'wb') as fout:
     pickle.dump(labels, fout)

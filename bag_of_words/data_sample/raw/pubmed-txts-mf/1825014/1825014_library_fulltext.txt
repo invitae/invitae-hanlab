@@ -1,0 +1,832 @@
+Am. J. Hum. Genet. 48:412-419, 1991
+
+Tay-Sachs Disease in Moroccan Jews: Deletion of a Phenylalanine
+in the a-Subunit of P-Hexosaminidase
+Ruth Navon*,t and Richard L. Proia*
+*Genetics and Biochemistry Branch, National Institute of Diabetes, Digestive and Kidney Diseases, National Institutes of Health, Bethesda, MD;
+and tHuman Genetics Department, Sackler School of Medicine, Tel-Aviv University, Tel Aviv, and Molecular Genetics Unit, Sapir Medical Center,
+Kfar-Sava, Israel
+
+Summary
+Tay-Sachs disease is an inherited lysosomal storage disorder caused by defects in the 0-hexosaminidase
+a-subunit gene. The carrier frequency for Tay-Sachs disease is significantly elevated in both the Ashkenazi
+Jewish and Moroccan Jewish populations but not in other Jewish groups. We have found that the mutations
+underlying Tay-Sachs disease in Ashkenazi and Moroccan Jews are different. Analysis of a Moroccan Jewish
+Tay-Sachs patient has revealed an in-frame deletion (AF) of one of the two adjacent phenylalanine codons
+that are present at positions 304 and 305 in the a-subunit sequence. The mutation impairs the subunit
+assembly of 0-hexosaminidase A, resulting in an absence of enzyme activity. The Moroccan patient was found
+also to carry, in the other a-subunit allele, a different, and as yet unidentified, mutation which causes a
+deficit of mRNA. Analysis of obligate carriers from six unrelated Moroccan Jewish families showed that three
+harbor the AF mutation, raising the possibility that this defect may be a prevalent mutation in this ethnic
+group.
+
+Introduction
+
+Tay-Sachs disease is an autosomal recessive disorder
+caused by an absence of the lysosomal enzyme, P-hexosaminidase A (reviewed by Neufeld [1989] and Sandhoff et al. [1989]). The enzyme, a heterodimer composed of noncovalently associated a- and 13-subunits,
+acts on a variety of substrates containing terminal
+N-acetylglucosaminides and N-acetylgalatosaminides,
+including GM2 ganglioside. In Tay-Sachs disease, mutations in the a-subunit gene cause the enzyme deficiency, and, as a consequence, undegraded GM2 ganglioside accumulates in lysosomes. This process is
+particularly injurious to neurons and leads to nervous
+system deterioration. In affected individuals, mental
+and motor impairment begins in the first year of life
+and progresses rapidly, with death ensuing in early
+childhood.
+Received August 17, 1990; revision received October 10, 1990.
+Address for correspondence and reprints: Dr. Richard L. Proia,
+Building 10, Room 9D-15, National Institutes of Health, Bethesda,
+MD 20892.
+
+This material is in the public domain, and no copyright is
+claimed.
+
+412
+
+Among the general population the Tay-Sachs disease carrier frequency, calculated from the incidence
+of the disease, is estimated to be 1/300 (Sandhoff et
+al. 1989). This frequency is elevated among certain
+ethnic groups. The most well-known example is the
+Ashkenazi Jewish population, in which rv3 % (1 /3 1)
+of the population carry an a-subunit mutation. The
+major mutation, a 4-bp insertion in exon 11 of the
+a-subunit gene, accounts for rv70% of the mutant
+alleles. Most of the remaining Tay-Sachs alleles in the
+population contain a splice-junction mutation at the
+5' end of intron 12 (Arpaia et al. 1988; Myerowitz
+1988; Myerowitz and Costigan 1988; Ohno and Suzuki 1988; Paw et al. 1990; Triggs-Raine et al. 1990).
+A second well-characterized group with an increased
+incidence of Tay-Sachs disease is within the FrenchCanadian population in eastern Canada, where the
+carrier frequency is similar to that in the Ashkenazi
+population (Andermann et al. 1977). In the FrenchCanadian isolate, as with Ashkenazi Jews, one particular mutation predominates, in this case a 7.6-kb deletion at the 5' end of the a-subunit gene (Myerowitz
+and Hogikyan 1987; Hectman et al. 1989).
+It has been established that Moroccan Jews, a sub-
+
+Tay-Sachs Mutation in Moroccan Jews
+group of Sephardic Jews, also have an elevated carrier
+frequency, estimated to be 'v1 /60, for Tay-Sachs disease (Vecht et al. 1983; R. Navon and E. Ackstein,
+unpublished data). The high carrier frequency in Ashkenazi and Moroccan Jews does not extend to other
+Jewish populations. Evidence has been presented suggesting that the Ashkenazi and Moroccan mutations
+may be distinct (Bach et al. 1976).
+In the present study we demonstrate that the molecular defects that cause Tay-Sachs disease in Ashkenazi
+and Moroccan Jews are different. Analysis of a Moroccan Jewish Tay-Sachs patient has demonstrated an
+in-frame phenylalanine codon deletion (AF) in the
+a-subunit gene. The mutation impairs the folding and
+assembly of the a-subunit, resulting in an absence of
+enzyme activity. The Moroccan patient was also
+found to carry, in the other allele, a different, and as
+yet unidentified, mutation, which causes a deficit of
+mRNA. Analysis of Tay-Sachs disease obligate carriers from six unrelated Moroccan Jewish families revealed that three carry the AF mutation.
+Experimental Procedures
+Reagents
+
+Tissue culture medium and reagents were from Biofluids (Rockville, MD). Immuno-Precipitin was from
+Bethesda Research Laboratories. Enlightening was
+from Amersham [35S]Methionine (1,000 Ci/mmol),
+[32P]ATP (3,000 Ci/mmol), and GeneScreenPlus membranes were from New England Nuclear. The reagents
+for the PCR technique were from Perkin Elmer-Cetus.
+Reagents for DNA sequencing were from U.S. Biochemicals. Low-melting-temperature agarose (SeaPlaque) was from FMC BioProducts (Rockland, ME).
+DEAE-dextran was from Pharmacia. AMV reverse
+transcriptase and oligo(dT)1s were from Promega. Restriction enzymes, DNA ligase, and T4 DNA kinase
+were from New England Biolabs. T4 DNA polymerase was from Bio-Rad. 4-Methylumbelliferyl-6-sulfo-2-acetamido-2-deoxy-D-glucopyranoside was from
+Toronto Research Chemicals.
+Moroccan Patient and Carriers
+
+The Moroccan Jewish Tay-Sachs patient was born
+in Israel. Both parents were born in Morocco - the
+father (MD) in Rabat, the mother (AD) in Casablanca.
+The patient had classical signs of infantile Tay-Sachs
+disease, and the diagnosis was confirmed by a deficiency of 1-hexosaminidase A in her serum, leukocytes, and skin fibroblasts.
+
+413
+
+All of the Moroccan Jewish carriers were obligate
+heterozygotes for Tay-Sachs disease. The carriers
+were found to have heterozygote levels of 1-hexosaminidase A, both in serum and in leukocyte samples.
+All were born in Morocco - SiM in Rabat, SY and SM
+in Marrakech, AR and HA in Casablanca, and AM in
+Fez. MD and SiM are first cousins, as are SY and SM.
+Cell Culture
+
+Normal human fetal lung fibroblasts, IMR-90, were
+obtained from the Human Genetic Mutant Cell Repository (Camden, NJ). A skin fibroblast culture was
+derived from the Moroccan Jewish patient with TaySachs disease. COS 1 cells were obtained from the
+American Type Tissue Culture Collection. Cells were
+cultured at 37PC in 5% CO2 in Dulbecco's modified
+Eagle's medium (DMEM) supplemented with 25 mM
+HEPES, 10% FBS, and antibiotics (growth medium).
+Fibroblast Labeling and Immunoprecipitation
+Human fibroblast cultures in 100-mm dishes were
+labeled with 400 gCi of [35S]methionine in 5 ml
+DMEM (formulated without methionine) containing
+5% dialyzed FBS. After 16 h the medium was collected, and the cells were rinsed twice with PBS. The
+cell monolayers were incubated with PBS containing
+1% Nonidet P-40 and 10 mg BSA/ml for 15 min at
+room temperature. The resulting cell extract and medium samples were preabsorbed with 100 jl of
+Immuno-Precipitin. To determine the association
+state of the a-subunit, the samples were divided in half
+and were first immunoprecipitated with 3 il of either
+anti-,B-hexosaminidase A, which recognizes all forms
+of the a-subunit, or anti-hexosaminidase B, which will
+precipitate only a-subunits that are associated with
+
+1-subunits (Proia et al. 1984). After incubation for
+2 h, 40 gl of Immuno-Precipitin was added, and the
+immune complexes were collected by centrifugation.
+The precipitate was washed twice with PBS containing
+0. 1% Nonidet P-40. The labeled proteins were solubilized by heating at 95°C for 5 min in 100 pl of PBS
+containing 1% SDS and 10 mM DTT. The ImmunoPrecipitin was removed by centrifugation, and 0.9 ml
+of PBS containing 2% Nonidet P-40, 10 mg BSA/ml,
+and 10 mM iodoacetamide was added to the supernatant. The samples were preabsorbed with ImmunoPrecipitin as before and then incubated overnight at
+40C with 3 ml of anti-denatured a-subunit serum.
+After incubation with 40 pl of Immuno-Precipitin, the
+immune complexes were washed three times with a
+buffer containing 20 mM Tris-HCl, 0.6 M NaCl,
+
+Navon and Proia
+
+414
+
+0.05% Nonidet P-40, and 0.1% SDS, pH 8.6. The
+labeled proteins were solubilized in sample buffer (1 %
+SDS, 0.125 M Tris-HCl, pH 6.8, and 10% glycerol),
+were reduced with 10 mM DTT, and were electrophoresed on 8%-16% gradient gels in the presence of
+SDS. The gels were saturated with Enlightening, were
+dried, and were exposed to Kodak X-Omat AR film
+at 700C.
+Site-directed Mutagenesis
+
+Introduction of the AF mutation into the a-subunit
+was accomplished by site-directed mutagenesis according to a method described elsewhere (Kunkel et
+al. 1987) by using single-stranded M13 containing the
+a-subunit (Navon and Proia 1989) and the mutagenic
+oligonucleotide (antisense), 5' GCT GAC TTC TAA
+GAA TGT GCT CAT GAA CTC 3'.
+Cell Transfections
+
+The normal a-subunit cDNA and the a-subunit
+with the AF mutation were cloned into the expression
+vector, pSVL, and were transfected into COS 1 cells
+according to a method described elsewhere (Navon
+and Proia 1989). Cell extracts were assayed for 13-hexosaminidase activity by 4-methylumbelliferyl-6-sulfo2-acetamido-2-deoxy-D-glucopyranoside according to a
+method described elsewhere (Navon and Proia 1989).
+Mutation Detection by DNA Sequence Analysis
+
+Total RNA was prepared from human fibroblast
+cultures by the guanidine isothiocyanate/CsCl method
+(Chirgwin et al. 1979), and the polyA+ fraction was
+isolated using an oligo(dT)-cellulose column (Aviv
+and Leder 1972). The polyA + RNA (2 ig) was reverse
+transcribed using AMV reverse transcriptase and
+oligo(dT)ls. Segments of the a-subunit were amplified
+by the PCR technique (Saiki et al. 1988) using Taq
+DNA polymerase and a-subunit-specific oligonucleotide primers which contained an additional EcoRI sequence at their 5' end. The DNA was subjected to
+amplification on a Perkin Elmer -Cetus thermocycler
+for 39 cycles. Each cycle was 2 min at 940C for denaturation, 3 min at 600C for annealing, and 6 min at
+720C for primer extension. The amplified segments
+were cleaved with EcoRI and isolated from a lowmelting-temperature agarose gel and were ligated into
+the EcoRI site of the M13mpl8 vector. From the recombinant clones, single-stranded DNA was isolated
+and sequenced by the dideoxy-chain termination method (Sanger et al. 1977) using Sequenase.
+Direct sequencing of DNA derived from asymmetric
+
+PCR amplification was accomplished according to a
+method described elsewhere (Kadowaki et al. 1990).
+The first amplification was accomplished using 5'
+GCA GGT GAA ATC AAC CTC ATC TCC TCC
+(primer 1) and 5'ACT CCT GGA TTA CTG ACT
+CCT TGC TAC (primer 2). A portion of the first
+reaction was subjected to asymmetric amplification
+using only primer 1. Sequencing was performed using
+a [32p] end-labeled internal primer, 5'TGC TAC TCT
+GGG TCT GAG CCC.
+Mutation Detection by Hybridization with Allele-specific
+Oligonucleotide Probes
+
+For detection of the AF mutation, cDNA prepared
+as described above, or genomic DNA was amplified
+using primer 1 and primer 2. The DNA was subjected
+to amplification on a Perkin-Elmer Cetus thermocycler for 39 cycles. Each cycle was 2 min at 940C for
+denaturation, 2.5 min at 600C for annealing and 3 min
+at 720C for synthesis. The Ashkenazi infantile TaySachs mutations were amplified according to a method
+described elsewhere (Myerowitz 1988; Myerowitz
+and Costigan 1988). The conditions for mutation detection by dot blotting and hybridization were as described elsewhere (Navon and Proia 1989). The sequence of the oligonucleotide probe specific for the
+AF mutation was 5'ATG AGC ACA TTC TTA GAA
+GTC. The sequence of the corresponding normal
+probe was 5'AGC ACA TTC TTC TTA GAA GTC.
+The sequences of the probes for detection of the Ashkenazi infantile mutations were as described elsewhere
+(Myerowitz 1988; Myerowitz and Costigan 1988).
+Results
+
+Control IMR-90 fibroblasts and a fibroblast culture
+derived from a Moroccan patient with Tay-Sachs disease were labeled with [35S]methionine for 16 h, and
+the cell extracts and medium were immunoprecipitated with antiserum prepared against either hexosaminidase A, which precipitates all forms of the
+a-subunit (total), or anti-hexosaminidase B, which
+precipitates only a-subunits associated with 1B-subunits (associated) (Proia et al. 1984). In contrast to
+the IMR-90 fibroblast extracts, which contained both
+precursor and mature a-subunits, the extracts from
+the Moroccan Tay-Sachs fibroblasts contained only
+precursor a-subunits (fig. 1). The a-subunits synthesized by the Tay-Sachs fibroblast culture were not immunoprecipitated by antibodies against the 1-subunits
+(associated), demonstrating that the a-subunits pro-
+
+Tay-Sachs Mutation in Moroccan Jews
+
+IMR-90SAHS
+
+IMR-90
+
+415
+
+oS
+
+Ser309
+ValI
+
+C
+G
+
+306
+
+T
+G
+
+A
+G
+
+Leu36
+
+T
+
+Phe3W
+
+T
+TC
+
+Phe34
+Precursor N..
+Mature -
+
+Thr303
+
+Moroccan
+
+IA
+
+T
+
+Tay-Sachs
+A G C T AG C T
+
+G
+
+Val30
+
+A GIuW6
+G
+A
+305
+T Leu
+T
+
+_
+
+T
+A
+
+Phe304
+
+C
+
+Ser302
+
+Phe 300 T
+
+duced by these cells were not competent for assembly
+with 3-subunits.
+The cell-labeling experiment demonstrated that
+a-subunit protein was produced by these cells. As expected, northern analysis revealed easily detectable
+a-subunit mRNA in the Moroccan Tay-Sachs fibroblasts (not shown). To identify the mutation carried
+by the Moroccan patient, mRNA was isolated from
+the fibroblast culture and was reverse transcribed into
+cDNA, and portions of the a-subunit cDNA were amplified by the PCR technique and were cloned and
+sequenced. This analysis revealed a deletion of one of
+the two adjacent phenylalanine codons (TTC) that
+are present at positions 304 and 305 in the normal
+a-subunit sequence (Myerowitz et al. 1985) (fig. 2).
+To verify the result, genomic DNA was amplified in
+the region of the mutation, and the amplified material
+
+Normal
+
+iCA Thr303
+
+Met301 T |
+
+Figure I
+Synthesis and assembly of a-subunit in normal and
+Moroccan Tay-Sachs fibroblasts. Fibroblast cultures in 100-mm
+dishes were labeled with 400 pCi [35S]methionine for 16 h. Cell
+extracts and medium samples were divided in half and immunoprecipitated with either anti-hexosaminidase A (total) or anti-hexosaminidase B (associated). The immune precipitates were solubilized and then reimmunoprecipitated with anti-denatured a-subunit
+serum.
+
+G SerA
+
+T
+
+G
+
+MEDIUM
+
+30
+Ser~
+
+T
+A
+AC
+
+G
+Ser302 AJ
+
+CELLS
+
+C
+T
+
+A
+
+A
+
+Glu307
+
+T
+
+k
+
+A
+G
+T
+
+A
+
+30
+Met30
+
+T Phe~
+
+T
+
+Figure 2
+Nucleotide sequences of a-chain cDNA from Moroccan patient with Tay-Sachs disease. A portion of an autoradiograph is shown for the sequencing gel of the normal cDNA and of
+the Moroccan Tay-Sachs patient's cDNA. The two adjacent TTC
+codons in the normal sequence and the single TTC codon in the
+mutant sequence are indicated.
+
+was sequenced directly (fig. 3). The resulting ladder
+demonstrated the sequence containing phenylalanine
+deletion (AF) superimposed on a normal sequence
+(N). Thus, the patient carries two different a-subunit
+alleles -one with the AF mutation and the other with
+a normal sequence in this region.
+The AF mutation was introduced into the normal
+a-subunit cDNA by oligonucleotide-mediated sitedirected mutagenesis. The normal and the mutated
+cDNAs were expressed in COS 1 cells under the control of the SV40 early promoter. As shown in table 1,
+the AF mutation rendered the a-subunit enzymatically
+inactive. In the transfected COS 1 cells the a-subunit
+carrying the AF mutation was found only as precursor
+in the cells, with none secreted into the medium (fig.
+4), a finding similar to results obtained with the Moroccan Tay-Sachs fibroblast culture.
+Genomic DNA from Moroccan Jewish individuals
+who were obligate carriers for Tay-Sachs disease were
+tested for the presence of the AF mutation. The region
+of the mutation was amplified by the PCR technique,
+
+N
+
+N AF
+
+G
+
+CT
+G C
+A T
+
+A
+c
+
+Normal
+
+T
+G I
+A AGCT
+
+Moroccan
+Tay-Sachs
+
+AGCT
+
+T G
+0 G A
+A C
+A T
+
+G
+
+GG
+
+A
+T
+T
+
+A A
+T A
+T G
+A
+T
+T
+
+C
+
+C
+
+T
+
+T
+
+T
+
+T
+
+C
+T
+
+C
+
+C
+
+T
+
+T
+T
+
+T
+T
+
+A
+
+AA
+
+A
+
+C
+G
+Al
+
+Expression of a-Chain-associated P-Hexosaminidase
+Activity in Transfected COS I Cells
+
+P-HEXOSAMINIDASE ACTIVITY
+
+c c
+
+A
+
+C
+
+|lAnd¢9-'~E$R.:
+
+Navon and Proia
+
+416
+
+(unitsa/mg protein)
+Experiment 1
+Experiment 2
+
+DNA
+
+pSVLa ...................
+pSVLaAF ....................
+Mock transfection
+
+.............
+
+the AF mutation. Because MD and SiM as well as SY
+and SM are first cousins, the AF mutation was found in
+three of the six unrelated families carrying a Tay-Sachs
+mutation. Genomic DNA from 10 normal Moroccan
+Jews was negative for the mutation. The patient and
+
+0
+
+Precursor%,
+Maturel
+
+and the product was blotted onto duplicate hybridization membranes. The samples were hybridized with
+allele-specific oligonucleotide probes to detect either
+the sequence containing the AF mutation or the corresponding normal sequence (fig. 5). Amplified genomic
+DNA of the Moroccan patient and the father (MD)
+were positive for the mutation in this assay. The
+mother (AD) tested negative for the AF mutation and,
+therefore, must be carrying the other, as yet unknown,
+mutation. The Moroccan patient's DNA hybridized
+with the normal probe, which was expected because
+of compound heterozygosity. In total, five of eight
+Moroccan Jewish obligate carriers were positive for
+
+4.1
+
+NOTE. -COS 1 cells were transfected with pSVLa or pSVLaAF
+or were mock transfected. After 48 h the cell extracts were assayed
+with 4-methylumbelliferyl-6-sulfo-2-acetamido-2-deoxy-D-glucopyranoside.
+a Defined as the activity that releases 1 nmol of 4-methylumbelliferone/min.
+
+CC
+AA
+CC
+GG
+zA A
+
+Direct sequencing of PCR products derived from
+Figure 3
+genomic DNA. Genomic DNA from a normal individual and from
+a Moroccan Tay-Sachs patient was subjected to asymmetric PCR
+amplification in the region of the AF mutation, and the products
+were sequenced. A portion of the autoradiograph is shown for the
+sequencing gel of the normal cDNA and of the Moroccan patient's
+DNA. The normal (N) and the mutant (AF) sequences are displayed.
+
+44.5
+2.7
+4.3
+
+47.3
+3.1
+
+0
+
+i
+
+l
+
+CELLS MEDIUM
+Figure 4
+
+Expression of a-subunit carrying AF mutation in
+COS 1 cells. COS 1 cells were transfected with pSVL carrying the
+wild-type a-subunit or the a-subunit containing the AF mutation
+or were mock transfected. After 48 h the cells were labeled with
+[35S]methionine for 16 h, and cell extracts and medium samples
+were immunoprecipitated with anti-hexosaminidase A.
+
+417
+
+Tay-Sachs Mutation in Moroccan Jews
+a
+
+Hi
+
+z
+
+Moroccan Carriers
+
+5 An MD SiM SY SM AR
+
+AM NA
+
+Normal
+Probe
+AF
+..
+
+Probe
+
+Figure 5
+Identification of AF mutation in Moroccan carriPCR-amplified genomic DNA from a clinically normal individual, the Moroccan Jewish Tay-Sachs patient, the patient's mother
+(AD) and father (MD), and six other obligate Moroccan Jewish
+carriers was assayed for the presence of the AF mutation. The DNA
+samples were hybridized with an allele-specific oligonudeotide probe
+specific for the AF mutation (AF Probe) and with an oligonucleotide
+specific for the corresponding normal region (Normal Probe).
+
+derived from the Moroccan patient's cDNA. Hybridization with the probe carrying the normal sequence,
+which should hybridize to sequences expressed from
+the unknown mutant allele, demonstrated a low level
+of expression, compared with that in normal fibroblasts. No signal was detected by direct amplification
+of mRNA done without reverse transcription, ruling
+out contamination with genomic DNA.
+
+ers.
+
+the carriers did not carry either of the two Ashkenazi
+mutations-the splice-junction mutation or the 4-bp
+insertion (not shown).
+We next determined whether RNA expressed from
+the other mutant allele carried by the patient could be
+detected. PolyA+ RNA from the Moroccan patient
+and from normal fibroblasts was reverse transcribed,
+and the region surrounding the AF mutation was amplified by PCR. Equal amounts of the amplified DNA
+were hybridized with allele-specific oligonucleotide
+probes (fig. 6). As expected, the probe specific for
+the AF mutation hybridized only to the PCR product
+
+I~~~~~~
+
+'T
+
+2
+
+NORMAL
+
+E
+
+sE
+
+I
+
+_
+
+PROBE
+Figure 6
+Allele-specific expression of mRNA in fibroblasts
+from Moroccan Tay-Sachs patient. The samples indicated on the
+top of the figure were subjected to amplification by PCR in the
+region of the AF mutation. Equal amounts of the indicated samples
+were dot blotted and hybridized with an allele-specific oligonucleotide probe specific for the AF mutation (AF Probe) and with an
+oligonucleotide specific for the corresponding normal region (Normal Probe).
+
+Discussion
+
+The Moroccan Jewish Tay-Sachs patient that we
+have described carries two different Tay-Sachs alleles.
+In one allele a 3-bp deletion results in the in-frame
+removal of one of the two successive phenylalanine
+codons that occur at positions 304 and 305 in the
+normal a-subunit sequence. The other allele contains
+an as yet unidentified mutation. We found that this
+unidentified mutation caused a significant decrease in
+the amount of a-subunit mRNA, suggesting a defect
+in transcription or mRNA stability. The unidentified
+mutation in both the Moroccan patient and obligate
+heterozygotes was not one of the two Ashkenazi infantile mutations. Different a-subunit mutations in the
+Ashkenazi and Moroccan Jewish populations are consistent with the hypothesis that Tay-Sachs disease
+mutations originated and expanded in the Ashkenazi
+Jewish population after the migration of their predecessors to Europe (Myrianthopoulos and Aronson
+1966; Petersen et al. 1983).
+The AF mutation occurred in the context of a stretch
+of pyrimidines, TTC TTC TT, containing direct trinucleotide repeats. The deletion of a short direct repeat is consistent with a "slipped mispairing" model in
+which strand slippage and mispairing during DNA
+replication causes a loop out of a repeat sequence
+which is subsequently excised (Farabaugh and Miller
+1978; Efstatiadis et al. 1980).
+The fibroblast culture derived from the Moroccan
+patient synthesized an a-subunit that is unable to assemble with the 5-subunit to form I-hexosaminidase
+A. Although the patient is a compound heterozygote,
+all or most of the a-subunit protein detected in the
+fibroblasts is likely to be derived from the AF allele
+because expression of transcript from the other allele is
+severely depressed. Also, the AF protein, in precursor
+form, is relatively stable as determined from the transfection experiment, arguing against the possibility that
+the AF protein might be rapidly degraded -and thus
+undetectable - in the patient's fibroblasts. It cannot be
+determined at this time whether the mutation induces
+
+418
+
+a global alteration in the folding of the a-subunit or
+whether this change has a more direct effect on the
+assembly process. The two adjacent phenylalanines at
+positions 304 and 305 in the human a-subunit are
+conserved in the homologous human and mouse 13-subunits (Myerowitz et al. 1985; Korneluk et al. 1986;
+Bapat et al. 1988; Proia 1988), suggesting that this
+region may be important for folding or attainment of
+the final enzyme structure. It is interesting that in the
+mouse a-subunit (S. Yamanaka and R. L. Proia, unpublished data) and in the single Dictyostelium hexosaminidase gene (Graham et al. 1988) the second phenylalanine is conserved, with the first being replaced
+by a leucine.
+Among Ashkenazi Jews, three a-subunit mutations
+account for nearly all of the alleles that cause TaySachs disease and its milder variant, adult GM2 gangliosidosis (Neufeld 1989). It has been suggested that a
+DNA-based assay, because of its high specificity and
+ability to distinguish between the adult and infantile
+disorders, may be very useful when used in conjunction with enzyme screening for Tay-Sachs disease carriers among Ashkenazi Jews (Paw et al. 1990; TriggsRaine et al. 1990). The finding that the AF mutation
+was carried by three of six unrelated Moroccan Jewish
+families harboring a Tay-Sachs allele raises the possibility that this may be a prevalent mutation among
+this population. At the present time there are 500,000
+Moroccan Jews and 1,500,000 Ashkenazi Jews living
+in Israel, with significant intermarriage between the
+populations (Vecht et al. 1983). DNA-based testing
+of enzymatically identified carriers among Israeli Jews
+should include the AF mutation, as well as the three
+Ashkenazi mutations. In addition, it is important that
+the other Moroccan mutation(s) be identified for incorporation into the DNA-based testing.
+
+Acknowledgments
+We thank J. Zlotogora for the patient's fibroblasts, B.
+Porter for help in obtaining blood samples from the Moroccan carriers, and George Poy for oligonucleotide synthesis.
+We thank Dan Camerini-Otereo, Jerri Anne Boose, Debra
+Boles, Peggy Hsieh, and Cyndi Tifft for careful reading of
+the manuscript. We also thank L. Taylor for secretarial
+assistance. This work was supported in part by grant 260/
+89 to R.N. from the Basic Research Foundation administered by the Israeli Academy of Sciences and Humanities.
+
+References
+Andermann E, Scriver CR, Wolfe LS, Dansky L, Ander-
+
+Navon and Proia
+mann F (1977) Genetic variants of Tay-Sachs disease:
+Tay-Sachs disease and Sandhoff's disease in French Canadians, juvenile Tay-Sachs disease in Lebanese Canadians,
+and a Tay-Sachs screening program in the French Canadian population. Prog Clin Biol Res 18:161-188
+Arpaia E, Dumbrille-Ross A, Maler T, Neote K, Tropak M,
+Troxel C, Stirling JL, et al (1988) Identification of an
+altered splice site in Ashkenazi Tay-Sachs disease. Nature
+333:85-86
+Aviv H. Leder P (1972) Purification of biologically active
+globin messenger RNA by chromatography on oligothymidylic acid-cellulose. Proc Natl Acad Sci USA 69:14081412
+Bach G, Navon R, Zeigler M, Beyth Y, Porter B, Cohen MM
+(1976) Tay-Sachs disease in a Moroccan Jewish family: a
+possible new mutation. Isr J Med Sci 12:1432-1439
+Bapat B, Ethier M, Neote K, Mahuran D, Gravel RA (1988)
+Cloning and sequence analysis of a cDNA encoding the
+1-subunit of mouse 13-hexosaminidase. FEBS Lett 237:
+191-195
+Chirgwin JM, Przybyla AE, MacDonald RJ, Rutter WE
+(1979) Isolation of biologically active ribonucleic acid
+from sources enriched in ribonuclease. Biochemistry 18:
+5294-5299
+Efstratiadis A, Posakony JW, Maniatis T, Lawn RM,
+O'Connell C, Spritz RA, DeRiel JK, et al (1990) The
+structure and evolution of the human 13-globin gene family. Cell 21:653-668
+Farabaugh PJ, Miller JH (1978) Genetic studies of the lac
+repressor. VII. On the molecular nature of spontaneous
+hotspots in the lad gene of Escherichia coli. J Mol Biol
+126:847-863
+Graham TR, Zassenhaus HP, Kaplan A (1988) Molecular
+cloning of the cDNA which encodes the O-N-acetylhexosaminidase A from Dictyostelium discoideum. J Biol
+Chem 263:16823-16829
+Hechtman P, Boulay B, Bayleran J, Kaplan F (1989) DNA
+diagnosis of Tay-Sachs disease: PCR amplification for detection of the French Canadian deletion allele. Am J Hum
+Genet 45 [Suppl]: A193
+Kadowaki T, Kadowaki H. Taylor SI (1990) A nonsense
+mutation causing decreased levels of insulin receptor
+mRNA: detection by a simplified technique for direct sequencing of genomic DNA amplified by the polymerase
+chain reaction. Proc Natl Acad Sci USA 87:658-662
+Korneluk RG, Mahuran DJ, Noete K, Klavins MH, O'Dowd
+BF, Tropak M, Willard HF, et al (1986) Isolation of cDNA
+
+clones coding for the a-subunit of human 0-hexosaminidase:
+
+extensive homology between the a- and 1-subunits and studies on Tay-Sachs disease. J Biol Chem 261:8407-8413
+Kunkel TA, Roberts JD, Zakour A (1987) Rapid and efficient site-specific mutagenesis without phenotypic selection. Methods Enzymol 154:367-382
+Myerowitz R (1988) Splice junction mutation in some Ashkenazi Jews with Tay-Sachs disease: evidence against a
+single defect within this ethnic group. Proc Natl Acad Sci
+USA 85:3955-3959
+
+Tay-Sachs Mutation in Moroccan Jews
+Myerowitz R, Costigan FC (1988) The major defect in Ashkenazi Jews with Tay-Sachs disease is an insertion in the
+gene for the a-chain of P-hexosaminidase. J Biol Chem
+263:18587-18589
+Myerowitz R, Hogikyan ND (1987) A deletion involving
+Alu sequences in the 0-hexosaminidase gene of French
+Canadians with Tay-Sachs disease. J Biol Chem 262:
+15396-15399
+Myerowitz R, Piekarz R, Neufeld EF, Shows TB, Suzuki K
+(1985) Human IB-hexosaminidase a chain: coding sequence and homology with the , chain. Proc Natl Acad
+Sci USA 82:7830-7834
+Myrianthopoulos NC, Aronson SM (1966) Population dynamics of Tay-Sachs disease. I. Reproductive fitness and
+selection. Am J Hum Genet 18:313-327
+Navon R, Proia RL (1989) The mutations in Ashkenazi
+Jews with adult GM2 gangliosidosis, the adult form of
+Tay-Sachs disease. Science 243:1471-1474
+Neufeld EF, (1989) Natural history and inherited disorders
+of a lysosomal enzyme, 0-hexosaminidase. J Biol Chem
+264:10927-10930
+Ohno K, Suzuki K (1988) A splicing defect due to an exonintron junctional mutation results in abnormal n-hexosaminidase a-chain mRNAs in Ashkenazi Jewish patients with Tay-Sachs disease. Biochem Biophys Res
+Commun 153:463-469
+Paw BH, Tieu PT, Kaback MM, Lim J, Neufeld EF (1990)
+Frequency of three HEX A mutant alleles among Jewish
+and non-Jewish carriers identified in a Tay-Sachs screening program. Am J Hum Genet 47:698-705
+Petersen GM, Rotter JI, Cantor RM, Field LL, Greenwald
+
+419
+S, Lim JST, Roy C, et al (1983) The Tay-Sachs disease
+gene in North American Jewish populations: geographic
+variations and origins. Am J Hum Genet 35:1258-1269
+Proia RL (1988) The gene encoding the human 0-hexosaminidase D-chain: extensive homology of intron positions in the a- and 3-chain genes. Proc Natl Acad Sci USA
+85:1883-1887
+Proia RL, D'Azzo A, Neufeld EF (1984) Association of
+a- and 1-subunits during the biosynthesis of 1-hexosaminidase in cultured human fibroblasts. J Biol Chem 259:
+3350-3354
+Saiki RK, Gelfand DH, Stoffel S, Scharf SJ, Higuchi R, Horn
+GT, Mullis KB, et al (1988) Primer-directed enzymatic
+amplification of DNA with a thermostable DNA polymerase. Science 239:487-491
+Sandhoff K, Conzelmann E, Neufeld EF, Kaback MM, Suzuki K (1989) The GM2 gangliosidoses. In: Scriver CR,
+Beaudet AL, Sly WS, Valle D (eds) The metabolic basis
+of inherited disease, 6th ed. McGraw-Hill, New York, pp
+1807-1842
+Sanger F, Nicklen S, Coulson AR (1977) DNA sequencing
+with chain-terminating inhibitors. Proc Natl Acad Sci
+USA 74:5463-5467
+Triggs-Raine BL, Feigenbaum ASJ, Natowitz M, Skormorowski M-A, Schuster SM, Clarke JTR, Mahuran DJ, et al
+(1990) Screening for carriers of Tay-Sachs disease among
+Ashkenazi Jews: a comparison of DNA-based and
+enzyme-based tests. N Engl J Med 323:6-12
+Vecht J, Zeigler M, Segal M, Bach G (1983) Tay-Sachs
+disease among Moroccan Jews. Isr J Med Sci 19:67-69
+
+

@@ -1,0 +1,3566 @@
+Vol.
+
+3, 839-846,
+
+November
+
+Cell Growth
+
+1992
+
+Germ-Line
+Splicing Mutation
+Cancer-prone
+Family’
+
+Sally G. Warneford,2
+Megan L Townsend,
+Luciano DaIIa-Pozza,
+
+Leah J. Witton,
+Peter B. Rowe, Roger R. Reddel,
+and Geoff Symonds3
+
+Leukemia
+Research and Viral Pathology
+Unit [S. C. W., L. J. W.,
+M. L. T., L. D-P., C. S.], Developmental
+Biology Unit [P. B. R.], and
+Cancer Research Unit [R. R. R.], Children’s
+Medical
+Research Institute,
+214 Hawkesbury
+Road, Westmead,
+New South Wales, Australia
+2145,
+and the Oncology
+Unit, Royal Alexandra
+Hospital
+for Children
+[L. D-P.],
+Camperdown,
+Sydney, Australia
+2050
+
+Abstrad
+Li-Fraumeni
+syndrome
+is a rare autosomal
+dominant
+susceptibility
+to a variety of cancers including
+carcinomas
+of the breast and the adrenal cortex,
+tumors of brain and muscle tissue, and leukemias.
+Affeded
+individuals
+develop cancer at a young age and
+often
+at multiple primary sites. A study has been
+conduded
+into the genetic basis of cancer in a
+particular
+Li-Fraumeni
+syndrome
+family. Examination
+of
+p53 as a candidate
+susceptibility
+gene revealed that, in
+two
+affeded
+individuals,
+there was an aberrant
+larger
+transcript
+of 3.6 kilobases present in both tumor and
+constitutional
+material
+in addition to the normal-sized
+2.8-kilobase
+transcript.
+The additional
+transcript
+was
+not found in three unaffeded
+family members.
+Si
+nuclease mapping localized
+the insertion toward the 5’
+end of the p53 transcript
+near exons 4 and 5, and
+sequencing
+revealed
+a point mutation
+in the splice
+donor site of intron 4 in the germ-line
+of the two
+affeded
+individuals,
+which accounted
+for the presence
+of the larger transcript.
+The same splicing mutation was
+also deteded
+in two obligate carriers and was not
+found in two unaffeded
+individuals.
+As no mutations
+were deteded
+in exons 5-8 in either tumor examined,
+the second p53 allele was most likely lost during
+tumorigenesis
+in both tumors. The demonstration
+of a
+germ-line
+splicing mutation
+in affeded
+individuals
+from a Li-Fraumeni
+syndrome
+family provides for a
+novel mechanism
+of p53 inadivation
+not seen
+previously
+in other affeded
+families, in whom the
+mutations
+have all been missense. This mutation
+also
+falls outside the region of the p53 gene commonly
+mutated in Li-Fraumeni
+syndrome,
+being the most 5’
+mutation
+reported to date.
+
+Received
+1
+
+This
+
+6/29/92.
+
+research
+
+was
+
+supported
+
+by
+
+funds
+
+from
+
+the
+
+University
+
+of
+
+Sydney
+
+Cancer Research Fund, Curvilinear,
+and the Children’s
+Medical
+Research
+Institute.
+S. C. W. is the recipient
+ofa New South Wales Medical Research
+Scholarship.
+C. S. is a National
+Health and Medical
+Research
+Council
+Senior Research
+Fellow. R. R. R. is the Bicentennial
+Research
+Fellow of
+the New South Wales State Cancer Council.
+2 To whom
+requests for reprints should be addressed.
+3 Present address:
+The R. W. Johnson
+Pharmaceutical
+Research Institute
+and the Department
+of Clinical
+Pharmacology
+and Toxicology,
+St. Vincent’s Hospital,
+Sydney, Australia
+2010.
+
+of the p53
+
+Gene
+
+& Differentiation
+
+839
+
+in a
+
+lntrodudion
+The most common
+genetic
+change
+in human
+cancer
+appears to be mutation
+of the tumor
+suppressor
+gene,
+p53 (1 -3). p53 mutations
+are primarily
+missense,
+commonly CpG transitions,
+resulting
+in an amino acid change
+and an altered
+protein.
+Less common
+are non-sense
+mutations,
+such as splice site mutations,
+and frameshift
+mutations,
+the latter being due to insertions
+and deletions
+(3) which may not produce any protein at all. The p53
+gene has been highly conserved
+throughout
+evolution.
+The interspecies
+regions of homology
+are concentrated
+into five conserved
+blocks (I-V) (1 -4), and it is within
+these conserved
+blocks (particularly
+II-V) that most of
+the human cancer mutations
+occur (1-3, 5).
+Recently,
+germ-line
+mutations
+of this gene have been
+identified
+in affected
+members
+of families
+with LFS4 (3,
+6, 7), predisposing
+them to cancer. LFS is a familial cancer
+syndrome
+with affected
+individuals
+exhibiting
+a spectrum
+of cancers,
+including
+premenopausal
+breast carcinomas,
+soft tissue sarcomas,
+brain tumors,
+osteosarcomas,
+leukemias,
+and adrenocortical
+carcinomas.
+These cancers
+have an early age of onset, and the development
+of
+multiple
+primary tumors is common.
+Segregation
+analysis
+of these tumors is consistent
+with an autosomal
+dominant
+mode of inheritance
+(8-10). The first documented
+inherited p53 mutations
+in LFS families were tightly clustered
+in exon 7, codons
+245-258,
+within
+conserved
+block IV
+(6, 7). It was later shown that the predisposing
+mutations
+in the p53 gene were not always restricted
+to that specific
+codon
+cluster
+(3, 11-13).
+In one family,
+the germ-line
+p53 mutation
+was a point mutation
+at codon 1 33 in exon
+5, within
+conserved
+block
+II (12). Another
+report
+descnibed a single base deletion
+at codon 307 in one family
+and a point mutation
+at codon
+286 in another
+family,
+both mutations
+being in exon 8 (1 3). Excepting
+the single
+base deletion
+which leads to a premature
+stop codon in
+exon 10, all of these point mutations
+cause nonconservative amino acid substitutions
+in the protein
+produced,
+presumably
+leading to a loss of function
+or altered function ofthe
+protein (1, 2).
+A germ-line
+p53 mutation
+was detected
+in a patient
+with ependymoma,
+a tumor
+not usually associated
+with
+LFS, at codon
+242, within
+the “hotspot”
+region
+(14).
+Studies of young patients
+with second malignancies
+(15)
+and patients
+with sarcoma
+(16) have shown
+germ-line
+p53 mutations
+in some individuals,
+most commonly
+in
+the exon 7 hotspot
+region, but also mutations
+at codon
+325 in exon 9 (15) and codon 282 in exon 8 (15, 16) and
+a 1-bp insertion
+in exon 6 (16), even though
+these mdividuals do not necessarily
+have a family history of malig-
+
+4
+
+The abbreviations
+
+plementary
+
+kilobase(s).
+
+DNA;
+
+used
+PCR,
+
+are: LFS, Li-Fraumeni
+polymerase
+
+chain
+
+syndrome;
+
+reaction;
+
+bp,
+
+cDNA,
+base
+
+pair(s);
+
+comkb,
+
+840
+
+p53 Splice
+
+Sate Mutation
+
+in Cancer
+
+Family
+
+Ill
+
+IV
+
+V
+.\
+
+B
+
+C
+
+I)
+
+I
+
+F
+
+G
+
+1. Pedigree
+of a Li-Fraumeni
+cancer syndrome
+family. Tumors were as follows:
+ID, uterine tumor;
+IE, leukemia
+(in his fourth
+decade);
+IIA, liver
+cancer
+(age 63 years); IIB, lung cancer
+(83 years); lIE, bowel
+and lung cancer;
+IIC, leukemia;
+IIH, cancer
+of limb (skin?); Il-I, breast cancer;
+IIIC,
+adrenocortical
+carcinoma,
+breast carcinoma
+(35 years); IIID, breast cancer (38 years); 111G. stomach cancer; 111K, cancer of limb (melanoma?);
+IIIN, uterine
+cancer; IVB, adrenocortical
+carcinoma
+(3 years); IVH, brain tumor (21 years); VA, brain tumor (3 years). IIIF had multiple
+sclerosis. Ages at death, where
+known,
+are shown in parentheses.
+0, unaffected
+female; , affected
+male;
+deceased
+affected
+female;
+3 unaffected
+individuals
+of either sex; ,,
+probands.
+This pedigree
+is a modification
+of one previously
+published
+(33).
+Fig.
+
+.0,
+
+nancy or a history that conforms
+to the diagnostic
+criteria
+for LFS.
+As the p53 protein
+levels in LFS cells appear
+to be
+equivalent
+to or lower than those in normal cells (6), it
+seems likely that the LFS p53 mutations
+result in proteins
+that are functionally
+distinct
+from the more common
+hsc7o-binding,
+highly
+expressed,
+mutant
+p53 proteins
+which exert a transdominant
+loss of function”
+effect on
+the wild-type
+p53 protein
+encoded
+by the remaining
+normal allele (1-3, 6, 17-22).
+That is, although
+the LFS
+p53 mutations
+yield abnormal
+proteins,
+functional
+loss of
+the second allele may still be necessary
+for total mactivation of p53 function.
+The p53 mutations
+observed
+in
+LFS are not unique
+to LFS. All of the germ-line
+p53
+mutations
+reported
+to date have also been observed
+in
+sporadic
+tumors (3, 6, 7, 11-16).
+We report
+here the detection
+of a germ-line
+point
+mutation
+in the splice donor site of intron 4 in affected
+family members
+and obligate
+carriers in one LFS family.
+We have previously
+shown that an adrenocortical
+carcinoma occurring
+in one family member
+had overexpression of the retinoblastoma
+susceptibility
+gene (23). The
+p53 splice site mutation
+described
+here results in the
+retention
+of intron 4 in the mature p53 mRNA, resulting
+in a larger transcript.
+This is the first report of a germ-line
+splice site mutation
+in p53 and is the most 5’ germ-line
+p53 mutation
+to date.
+Results
+Detection
+of a Larger p53 Transcript.
+In order to determine whether
+p53 was involved
+in the etiology
+of the
+cancer susceptibility
+in this family (Fig. 1), we examined
+the expression
+of this gene in patient cells and tissues, in
+parallel with sequencing
+studies. Fig. 2A shows Northern
+blot analysis
+of p53 expression
+in patient
+IIIC’s breast
+carcinoma,
+IVB’s adrenocortical
+carcinoma
+and skin fibroblasts,
+and peripheral
+blood from IIIB, IVA, and IVG.
+RNA from affected
+individuals
+IIIC and IVB exhibited
+a
+larger p53 transcript
+of approximately
+3.6 kb in addition
+to a normal-sized
+transcript
+of 2.8 kb in both tumor and
+constitutional
+material.
+Both transcripts
+were present in
+IlIC’s stromal fibroblasts
+and IVB’s peripheral
+blood (data
+not shown).
+Unaffected
+individuals
+IlIB, IVA, and IVG all
+
+G
+
+showed
+only the normal-sized
+transcript,
+2.8 kb, as did
+the control,
+MRC-5
+fibroblasts.
+A summary
+of the p53
+transcript
+data for all family members
+examined
+in this
+study is given in Table 1 Because the larger p53 transcript
+was present in both tumor material and the germ-line
+of
+two affected
+individuals
+tested,
+we postulated
+that it
+represented
+the underlying
+genetic
+lesion in this family.
+Possibilities
+for increased
+transcript
+size are gene rearrangement
+or a splicing aberration
+resulting in retention
+of an intron
+in the message.
+No obvious
+gene rearrangement
+was observed
+by restriction
+analysis
+and
+Southern
+hybridization
+to the p53 cDNA probe (data not
+shown).
+Two introns,
+namely
+introns
+4 and 10, are of
+approximately
+the right size, 755 bp and 920 bp, respectively, to account
+for the size difference
+in transcripts.5
+Using a 3’ end-labeled
+p53 cDNA,
+we were able to
+perform
+Si nuclease
+mapping
+to localize the insertion
+to
+approximately
+550 bp from the 5’ end of the p53 cDNA.
+As can be seen in Fig. 2B, the control,
+MRC-S
+RNA,
+showed
+a single band of approximately
+1 .8 kb upon
+hybridization
+and Si nuclease digestion,
+representing
+the
+portion ofthe p53 transcript
+identical
+to the cDNA probe.
+Hybridization
+of IVB’s RNA to the labeled
+p53 cDNA
+probe and digestion
+with 51 nuclease
+produced
+two
+bands. The first band was identical
+in size to that in the
+control and represented
+the normal-sized
+p53 transcript.
+The second band was approximately
+550 bp in size and
+represented
+the larger transcript
+digested
+at the point of
+insertion.
+The location
+of the insertion
+toward the 5’ end
+of the p53 transcript
+indicates
+that the likely insertion
+point would
+involve intron 4 rather than intron 10.
+Sequence Analysis of p53. The sequence
+analysis had
+two main objectives:
+to identify the mutation
+responsible
+for the larger transcript
+and to determine
+whether
+this
+family had any other germ-line
+p53 mutations,
+either in
+exon 7, the previously
+reported
+location
+of LFS mutations, or elsewhere
+in the gene.
+To determine
+whether
+the cause of the larger transcript
+in the affected
+individuals
+was retention
+of an intron, the
+splice donor and acceptor
+sites of introns 4 and 10 were
+.
+
+p, Chumakov,
+V. P. Almazov,
+observation,
+1991.
+S
+
+and J. R. Jenkins
+
+(Genbank),
+
+unpublished
+
+cell
+
+Growth
+
+& I)ttferenttatton
+
+B
+1
+
+2
+
+3
+
+4
+
+bp
+
+A
+1800
+
+12345678
+kb
+
+3#{149}6
+
+l#{234}
+
+28
+
+550
+
+C
+
+U)
+EXON
+
+56
+
+234
+
+10
+
+789
+
+11
+
+I-
+
+I
+1
+
+.
+
+2345678
+
+9
+
+10
+
+INTRON
+
+0
+
+1kb
+
+20.301kb
+
+(II)
+10
+
+INTRON
+
+-
+
+854bp
+
+-‘
+
+I.
+
+,
+
+.‘
+
+4
+
+INTRON
+
+-
+
+755bp
+
+\
+
+,
+
+:7\
+
+\
+
+‘-
+
+/
+\,..
+
+,
+
+0
+
+/
+
+11
+
+[112
+
+u
+
+i._U
+
+bp
+
+1c8
+
+I_J
+
+I
+
+23
+.
+
+bp
+
+0.5kb
+
+/ /
+
+279
+
+185
+
+110
+LJ
+
+‘
+
+102
+
+I
+
+1._i
+
+I 144
+
+75
+L_J
+
+113
+
+LJ
+
+137
+
+107
+2.832kb
+
+Xbal
+
+509bp
+
+I
+1 .85kb
+
+Fig. 2.
+
+p53
+
+RNA
+
+analysis.
+
+A, Northern
+
+blot
+
+analysis
+
+XbaI
+
+I300bp
+
+of p53
+
+PROBE
+
+expression.
+
+Total
+
+RNA
+
+was
+
+isolated,
+
+separated
+
+by gel ek#{176}ctrophoresis,
+
+blotted,
+
+and
+
+hybridiied
+
+to the ‘2P-Iabeled
+p53 cDNA
+probe
+as described.
+Each lane contains
+10 g total
+RNA from
+the cells and tissues
+listed
+as follows.
+Lane 1, IVB’s sktn
+fibroblasts;
+Lane 2, IVB’s adrenocortical
+carcinoma;
+Lane 3, SW-13
+adrenocortical
+adenocarcinoma
+cell line;
+Lane 4, MRC-5
+human
+embryonk
+lung
+fibroblasts;
+Lane 5, IIIC’s breast carcinoma;
+Lanes 6-8, peripheral
+blood
+from IVG, lllB, and IVA, respectively.
+B, Si nuclease
+mapping
+ot the p53 transcript.
+UP end-labeled
+p53 cDNA
+was hybridized
+to total
+RNA and then subjected
+to digestion
+with
+nuclease
+Si as described.
+Lane 1, IVB’s adrenoortkal
+carcinoma
+RNA;
+Lane 2, pS3 cDNA
+probe
+alone,
+digested
+with
+Si nuclease
+(control);
+Lane 3, MRC-5
+human
+embryonic
+fibroblast
+RNA;
+Lane 4, p53
+cDNA
+probe
+alone.
+without
+Si nuclease
+treatment.
+C: i, structure
+of the p53 gene, enabling
+a comparison
+of relative
+exon and intron
+sizes, ii, stru
+tur(’
+of the mature
+mRNA.
+Above
+the diagrammatic
+representation
+of the mRNA
+are lines representing
+the two introns
+most likely,
+on the basis of size, to b’
+the cause of the larger transcript,
+introns
+4 and 10, drawn
+to the same scale. The insertion
+points
+of the introns
+are shown,
+and the size’s of the exons
+aro
+indicated
+immediately
+below
+the mRNA.
+Further
+below
+the mRNA
+is a representation
+of the p53 cDNA
+probe
+aligned
+to the RNA, showing
+the position
+of intron
+4 and drawn
+to the same scale. #{176},the labeled
+end of the probe
+for the Si nuclease
+mapping.
+
+841
+
+842
+
+p53 Splice
+
+Table
+
+1
+
+Site Mutation
+
+Summary
+
+in Cancer
+
+Family
+
+of p53 expression
+
+Individual .
+from
+pedigree
+IIIC
+IIIC
+IVB
+IVB
+IVB
+IIIB
+IVA
+IVE
+IVG
+VB
+WT, wild-type
+b
+
+NT,
+
+not
+
+tested.
+
+and sequence
+
+data
+.
+
+.
+
+Cells or tissue
+Breast carcinoma
+Tumor-derived
+fibroblasts
+Adrenocortical
+carcinoma
+Skin fibroblasts
+Peripheral
+blood
+Peripheral
+blood
+Peripheral
+blood
+Peripheral
+blood
+Peripheral
+blood
+Peripheral
+blood
+
+p53 exon
+
+7 sequence
+
+exons
+
+(#{176}.
+
+.
+
+Clinical
+
+5-8
+
+Affected
+Affected
+Affected
+Affected
+Affected
+Unaffected
+? (Unaffected)
+Obligate
+carrier
+? (Unaffected)
+Obligate
+carrier
+
+indicating
+
+heterozygosity
+
+for
+
+the
+
+.
+
+Presence of
+.
+larger transcript
+
+Presence of G
+.
+> A transition
+
++
++
++
++
++
+
++
++
++
++
+NT”
+
+-
+
+-
+
+-
+
+-
+
+NT
+
++
+NT
++
+
+-
+
+NT
+
+Exon 7
+sequence
+WT
+WT
+WT#{176}
+WT
+NT
+
+WT
+NT
+
+WT
+NT
+
+WT
+
+wild-type).
+
+sequenced.
+Fragments
+representing
+the introns
+in their
+entirety
+were generated
+from affected
+individuals’
+genomic DNA using primers
+complementary
+to the flanking
+exonic
+sequences
+and the polymerase
+chain reaction.
+The fragments
+were either
+cloned
+and sequenced
+or
+directly
+sequenced.
+In each case in which cloning of PCR
+products
+was used, sequencing
+was carried
+out on six
+different
+clones representing
+separate
+reactions.
+These
+precautions
+were taken to guard against sequence
+discrepancies
+caused
+by base misinconporations
+by Taq
+polymerase.
+In all cases, both strands were sequenced.
+The sequences
+of both the splice donor
+and splice
+acceptor
+sites of intron 10 were determined
+to be wildtype in all clones sequenced,
+by comparison
+with the
+published
+sequences
+(data not shown). The splice accepton site of intron 4 was also found to be wild-type
+in all
+clones (data not shown),
+but the sequence
+of the splice
+donor site of intron 4 revealed
+a base change of a guanine
+to an adenine
+at the -1 position
+of the splice consensus
+sequence
+(Fig. 3; Table 2). This base change
+was observed in both tumor (Fig. 3, A and B) and fibroblast
+DNA
+(data not shown)
+from the probands
+IIIC and IVB and
+also in peripheral
+blood DNA from obligate
+carriers
+IVE
+and VB (Fig. 3C), the father and identical
+twin of VA,
+respectively
+(see Fig. 1 ). The base change was not found
+in peripheral
+blood
+DNA sequenced
+from unaffected
+individuals,
+IIIB or IVA (data not shown).
+In IIIC’s tumor
+DNA,
+sequenced
+directly,
+both adenine
+and guanine
+were present at the -1 position
+in the splice consensus
+sequence
+(Fig. 3B). Table 1 summarizes
+the sequencing
+results obtained
+for the 5’ splice site of intron 4 in family
+members.
+The base change was observed
+in five of six
+clones derived
+from IVB’s tumor
+DNA, and one clone
+was wild-type.
+In IVB’s fibroblast
+DNA, 50% of clones
+had the mutated
+base, and 50% had the wild-type
+guanme,
+
+.
+
+prediction
+
+mutation.
+
+Consti-
+
+tutional
+DNAs
+from other individuals
+(IlIC’s fibroblast
+DNA and IVE and VB peripheral
+blood DNA) were also
+heterozygous
+for the mutation.
+To address the question
+of the involvement
+of previously reported
+LFS mutations,
+an exon 7 fragment
+was
+generated
+by PCR from genomic
+DNA, and both strands
+were sequenced
+directly.
+No point mutations
+were detected in exon 7 in tumor or peripheral
+blood DNA from
+probands
+IIIC and IVB, or in peripheral
+blood DNA from
+obligate
+carriers IVE and VB or unaffected
+individual
+IlIB
+(Table 1). In addition,
+fragments
+representing
+exons 5-8
+were generated
+by PCR from IIIC’s and IVB’s tumor DNA
+and sequenced
+directly.
+No point mutations
+were ob-
+
+served apart from the intron 4 splice site mutation
+(Tables
+1 and 2). This lack of another
+point mutation
+in the p53
+hotspot regions makes it more likely that the inactivation
+of the remaining
+wild-type
+p53 alleles in tumonigenesis
+has occurred
+by loss rather than mutation
+in the case of
+IVB’s tumor.
+It is possible
+that the inactivation
+of the
+wild-type
+p53 allele in IIIC’s tumor
+was caused
+by a
+mutation
+in the regions of the p53 gene that were not
+sequenced
+in this study, that is, exons 1 -4 and 9-1 1.
+These regions
+are less frequently
+mutated
+in human
+tumors than exons 5-8 (1 -3, 5).
+Discussion
+The involvement
+of p53 in the genetics
+of LFS has been
+previously
+demonstrated
+(3, 6, 7, 1 1 -1 3). We have analyzed the expression
+of p53 in certain
+members
+of an
+LFS family, and observed
+the presence
+of a 3.6-kb transcript, in addition
+to the normal-sized
+2.8-kb transcript.
+The larger transcript
+was observed
+in the RNA of tumor
+and fibroblast
+material from two individuals,
+IIIC and IVB,
+and was therefore
+germ-line.
+Only the normal-sized
+transcript was found
+in peripheral
+blood
+RNA from unaffected individuals,
+IIIB, IVA, and IVG. We considered
+the
+most likely cause ofthe aberrant transcript
+to be a splicing
+mutation
+resulting
+in the retention
+of all or part of an
+intron in the mature
+mRNA.
+Although
+missense
+point
+mutations
+are by far the most common
+mutation
+in the
+p53 gene, splicing mutations
+have been reported
+in sporadic tumors.
+They have been mostly detected
+in lung
+carcinomas
+in introns 3, 4, 6, 7, and 9 (3, 24-27)
+and in
+leukemias
+in introns 4 and S (3, 28, 29).
+Based on size, the most likely introns to be included
+in the larger transcript
+were 4 and 10. Evidence
+from 51
+nuclease
+mapping
+indicated
+that intron 4 was present in
+the message. PCR and sequencing
+confirmed
+that intron
+4 had a point mutation
+in the splice donor site in both
+affected
+individuals
+IIIC and IVB’s tumor and fibroblast
+DNA. These were the individuals
+in which
+the 3.6-kb
+transcript
+was detected.
+Upon sequencing
+other family
+members,
+we found
+the same point
+mutation
+in the
+peripheral
+blood DNA from obligate
+carriers IVE and VB.
+In peripheral
+blood
+DNA from unaffected
+individuals,
+IIIB and IVA, the sequence
+for intron 4 and surrounding
+sequence
+was wild-type.
+The mutation
+was a guanine
+to adenine
+transition
+at
+position -1 in the splice donor consensus
+sequence.
+This
+base is nonessential
+for splicing to occur, unlike the CT
+dinucleotide,
+the first two bases of the intron (30). But
+
+Cell
+
+Growth
+
+& Differentiation
+
+A
+S
+
+AS
+
+_____
+mut
+
+G
+A
+
+wt
+
+.
+
+mut
+
+wt
+
+A
+C
+
+#{176}-.
+
+T
+
+intronG
+
+G
+
+-
+
+.
+
+#{149}
+
+A
+
+.
+
+G
+
+1
+
+m)
+
+.
+-
+
+:‘
+
+:
+
+GATC
+
+GATC
+
+T
+
+T
+
+GAT
+
+B
+
+C
+
+GATC
+
+C
+IVC
+
+IIIC
+
+G/A-
+
+G/A
+
+#{149}:
+
+:
+
+‘“
+
+,‘-.
+
+GATC
+
+VB
+
+...
+
+GATC
+
+GATC
+
+Fig. 3.
+Sequence
+analysis
+of the 5’ splice
+donor
+site in intron
+4. In A, one intron
+4 clone
+from
+IVB’s adrenocortical
+carcinoma
+DNA
+shows
+the point
+mutation
+at position
+-1 of the splice
+consensus
+sequence
+in the sense (5) and antisense
+(AS) strands.
+The mutant
+sequence
+(mut)
+has an adenine
+(A) at
+this position,
+whereas
+the wild-type
+sequence
+(wt) has a guanine
+(C). The wild-type
+clone
+shown
+here was the only one of the six sequenced.
+In B, IIIC’s
+breast
+carcinoma
+DNA also shows
+the guanine
+to adenine
+mutation
+in the splice donor
+site, the wild-type
+base, guanine,
+is present
+in a similar
+proportion
+to the mutant
+base, adenine.
+This sequence
+was derived
+directly
+from six pooled
+PCR samples.
+In C, peripheral
+blood
+DNA
+from obligate
+carriers,
+tvc
+and VB, shows
+both the guanine
+and the adenine
+in approximately
+equal
+intensities.
+This sequence
+was also derived
+from six pooled
+PCR samples.
+
+the intron
+4 splice
+donor
+sequence
+of p53 is atypical,
+having a cytosine
+at position
+3 ofthe
+consensus
+sequence
+instead
+of an adenine
+or a guanine.
+This means
+that the
+wild-type
+intron
+4 splice
+donor
+site has only
+seven
+of
+nine bases matching
+the consensus
+sequence.
+With
+the
+guanine
+to adenine
+transition
+at position
+-1, the match
+is decreased
+to six of nine
+bases,
+which
+is probably
+sufficient
+to disrupt
+splicing
+at this site. That
+site sequence
+can disrupt
+splicing
+has been
+a report
+of the same guanine
+to adenine
+
+such a splice
+indicated
+by
+transition
+at
+
+position
+-1 in the splice
+donor
+site of intron
+4 in a T-cell
+leukemia
+disrupting
+splicing
+and resulting
+in an aberrant
+transcript
+of 3.5 kb (29).
+To exclude
+the possibility
+that this splice site mutation
+was a polymorphism
+or a rare alternate
+splicing
+product,
+that is, a marker
+for the affected
+allele with no biological
+effect,
+not the predisposing
+lesion,
+we sequenced
+exons
+5-8.
+All Li-Fraumeni
+syndrome
+or germ-line
+p53 mutations
+reported
+to date
+have
+fallen
+within
+the region
+covered
+by exons 5-8 (1-3, 6, 7, 11-16),
+with the exception of the mutation
+reported
+here in exon
+4 and one
+other,
+in the first codon
+of exon
+9 (14). No mutations
+
+were
+Table
+
+2
+
+5’ splice
+
+donor
+
+sequences
+Exon/Intron
+-1+
+321 / 123456’
+
+Sequence
+
+Consensus
+WI
+Mut
+
+1
+
+WT,
+The
+
+, The
+type.
+
+sequence
+
+p53 intron
+p53 intron
+
+5’
+
+AG/GTA6T
+
+Mut,
+numbers
+
+guanine
+
+to adenine
+
+matching
+sequence
+
+3’
+
+ACG/GTCAGT
+ACA/GTCAGT’
+
+4 sequence
+4 sequence
+
+wild-type;
+position
+
+Bases
+consensus
+
+mutant.
+of the
+
+bases
+
+transition
+
+7/9
+6/9
+
+in the consensus
+in the
+
+splice
+
+sequence
+
+sequence
+
+are given.
+
+is in bold-face
+
+found
+
+in exons
+
+5-8
+
+in affected
+
+individuals
+
+IIIC and
+
+IVB, tumor
+or fibroblast
+DNA,
+or peripheral
+blood
+DNA
+from obligate
+carriers
+IVE and VB, apart from the guanine
+to adenine
+mutation
+in the splice donor
+site of intron
+4.
+In all constitutional
+material
+where
+the intron
+4 mutation was detected,
+the wild-type
+base guanine
+and the
+mutant
+base adenine
+were
+detected
+in a 1:1 ratio.
+In
+IIIC’s tumor
+DNA,
+which
+was sequenced
+directly
+from
+
+PCR, the mutant
+to the wild-type
+
+band, adenine,
+band, guanine.
+
+still possible,
+as the
+type
+p53 as stromal
+
+was similar in intensity
+Loss of heterozygosity
+is
+
+mechanism
+for
+contamination
+
+inactivation
+of tumor
+
+of wildmaterial
+
+843
+
+844
+
+p53 Splice
+
+Site Mutation
+
+Cancer
+
+in
+
+Family
+
+132-145
+
+239-248
+
+171-179
+
+272-286
+
+E1
+I
+
+t
+I
+I
+I
+
+I
+I
+I
+
+I
+
+11
+
+S
+
+I
+t.
+I, 15 Sw
+Rift.,,,
+I
+
+.
+
+*
+
+fe.I*
+
+1*
+
+II
+
+if!
+
+11
+
+*tfm
+
+III I.
+If.
+
+_
+
+lIt
+ITT
+
+*
+
+*
+
+TUMOR
+
+S
+
+I
+
+...
+
+1
+
+I_
+-w
+
+#{163}&f
+U
+
+#{149}
+
+#{149}
+
+GERM-LINE
+
+#{163}
+
+it
+I
+
+Fig.
+
+4.
+
+Mutations
+
+detected
+circles,
+mutation
+
+detected
+
+in sporadic
+splice
+site
+reported
+
+in humans
+
+tumors,
+
+whereas
+
+mutations.
+The
+here. (Redrawn
+
+p53.
+
+The
+
+those
+
+five
+
+below
+
+conserved
+
+are indicated
+by shading.
+Mutations
+indicated
+above the line have
+mutations.
+Arrowheads,
+missense
+mutations;
+asterisks,
+non-sense
+mutations;
+hotspot
+regions
+A, B, C, and 0, the codon
+spans of which are indicated.
+
+regions
+
+of p53
+
+the line are germ-line
+
+p53 mutations
+are
+from Ref. 44, with
+
+clustered
+data from
+
+in the
+Refs. 6, 7, 11-16,
+
+could have contributed
+50%
+of the DNA isolated.
+Loss
+of all wild-type
+p53 function
+in the tumor
+could have
+also have occurred
+by mutation
+of the wild-type
+p53 in
+regions of the gene outside
+those already sequenced.
+In
+the tumor material
+from IVB, which was sequenced
+after
+cloning,
+five of six clones had the mutant base, adenine,
+indicating
+a probable
+loss of the wild-type
+p53 allele in
+the tumor and stromal tissue infiltration
+causing the low
+background
+of wild-type
+sequence,
+whereas
+the mutant
+p53 allele remained
+present.
+Another
+alternative
+to explain the presence
+of a lower
+amount
+of wild-type
+transcript
+in IVB’s tumor
+is a gene
+dosage effect caused by the copy numbers
+of chromosome 1 7, the chromosome
+to which
+the p53 gene is
+localized
+(31-33).
+IVB’s tumor
+has three copies of chromosome
+1 7” two of which
+could
+be mutant
+and one
+which could be wild-type,
+causing the lower signal intensity
+
+for
+
+tumor
+IVB’s
+
+the
+
+wild-type
+
+has four
+tumor,
+
+base,
+
+copies
+
+guanine.
+
+Individual
+
+of chromosome
+
+has similar
+
+signal
+
+17
+
+intensities
+
+IIIC’s
+
+but,
+
+for the
+
+unlike
+mutant
+
+and wild-type
+bases (Fig. 3B). If this implies equal copy
+numbers
+of “wild-type”
+and mutant chromosomes,
+then
+inactivation
+of the wild-type
+p53 may have occurred
+by
+mutation
+in exons outside those sequenced
+in this study.
+This is the first report of an inherited
+splicing mutation
+in the p53 gene. This mutation
+lies in conserved
+block II,
+upstream
+of the exon S (conserved
+block II also) mutation
+reported
+in a LFS family (12), and represents
+the most 5’
+LFS mutation
+
+reported
+
+to date
+
+(Fig.
+
+4). It is interesting
+
+to
+
+note that although
+LFS families
+show a diverse range of
+tumors,
+not all families develop
+all of the hallmark
+types
+of tumors.
+For example,
+in the LFS family reported
+here,
+there have been no documented
+soft tissue sarcomas
+in
+the five generations
+shown (Fig. 1), but there have been
+two cases of adrenocortical
+carcinoma
+in the one family.
+In other families,
+there are no adrenocortical
+carcinomas
+but a preponderance
+of soft tissue sarcomas
+(6-8). Pos-
+
+A. Smith,
+unpublished
+7 S. Pittman,
+
+‘,
+
+data.
+
+S. Warneford,
+data.
+S. Warneford,
+
+R. Reddel,
+L. Dalla-Pozza,
+
+L. Dalla-Pozza,
+and
+
+and
+
+G. Symonds,
+
+G.
+
+Symonds,
+
+unpublished
+
+and
+
+,,
+
+been
+and
+the
+
+31).
+
+sibly, there is some
+mutations
+observed
+Materials
+
+degree of tissue
+in LFS.
+
+specificity
+
+in the p53
+
+and Methods
+
+Family Studies. The pedigree of the family examined
+in
+this study is given in Fig. 1 The probands
+were IIIC and
+IVB. IIlC’s first tumor was an adrenocortical
+carcinoma
+followed
+by premenopausal
+breast carcinoma,
+and her
+son IVB also had an adrenocortical
+carcinoma.
+Adrenocontical
+carcinoma
+is a rare tumor which occurs
+more frequently
+in LFS families than it does in the general
+population
+(9, 10, 13, 34, 35). From discussions
+with
+family members
+and, where possible,
+by confirmation
+of
+hospital
+records, the pedigree
+spanning
+five generations
+was compiled.
+The types of tumors,
+the ages of onset,
+and the inheritance
+pattern
+in this family are consistent
+with the diagnostic
+criteria
+for the LFS cancer
+family
+syndrome
+(8-10).
+The clinical
+histories
+of the two probands, IIIC and IVB, have been described
+in a previous
+publication
+(23). The inheritance
+appears
+to stem from
+the maternal
+side of the family,
+beginning
+with IIIC’s
+grandfather,
+IE, who died in his thirties
+from leukemia,
+although
+it has not been possible
+to confirm
+this by
+examination
+of archival
+pathology
+material.
+The contnibution of the paternal
+relatives of individual
+IVB (that is,
+relatives
+of IIIC’s husband,
+IlIB) to IVB’s cancer predisposition
+is not known. The types of tumors and their ages
+of onset are not consistent
+with LFS.
+Tumors and Cell Culture. The tissues used for analysis
+were as follows.
+A breast carcinoma
+from IIIC (23) and
+an adrenocortical
+carcinoma
+from IVB (23) were received
+as surgical
+specimens
+and processed
+immediately
+for
+DNA and/or
+RNA as described
+below.
+Peripheral
+blood
+was obtained
+from IIIB, IVA, IVB, IVE, IVG, and VB. The
+cell lines/strains
+used were:
+IIIC’s stromal
+fibroblasts,
+IVB’s skin fibroblasts,
+MRC-S
+human
+embryonic
+lung
+fibroblasts
+(36), and SW-13 human adrenocortical
+adenocarcinoma
+cells (37). IlIC and IVB’s fibroblasts
+were
+cultured
+in RPMI 1640 medium.
+MRC-S fibroblasts
+were
+maintained
+in Dulbecco’s
+modified
+Eagle’s medium,
+and
+SW-i 3 cells were kept in L-1 S medium.
+MRC-S and SW13 cells were obtained
+from the American
+Type Culture
+Collection.
+All media were supplemented
+with 10% fetal
+.
+
+Cell Growth
+
+Table
+
+3
+
+PCR and sequencing
+
+The sequence
+
+in bold within
+
+845
+
+primers
+Primer
+
+a
+
+& Differentiation
+
+Primer
+
+Intron
+
+4 left PCR
+
+Intron
+
+4 right
+
+sequence
+
+PCR’
+
+Exon 5
+Exon 5
+Exon 5
+Exon S
+
+left PCR
+left sequence
+right PCR
+right sequence
+
+TGT’FCACTTGTGCCCTGACT
+
+Exon
+Exon
+Exon
+Exon
+
+6
+6
+6
+6
+
+left PCR
+left sequence
+right PCR
+right sequence
+
+TGGTTGCCCAGGGTCCCCAG
+
+Exon
+Exon
+Exon
+Exon
+
+7
+7
+7
+7
+
+left PCR
+left sequence
+right PCR
+right sequence
+
+CTTGCCACAGGTCTCCCCAA
+AGGCGCACTGGCCTCATCTT
+
+Exon
+Exon
+Exon
+Exon
+
+8
+8
+8
+8
+
+left PCR
+left sequence
+right PCR
+right sequence
+
+T1GGGAGTAGATGGAGCCT
+
+the intron
+
+4 primers
+
+5’ to 3’
+
+GTAGGAATICGTCTGGGCTTCVFGCKVFC
+CATCGAATCGGCAGGTCTFGGCCAGTFGG
+
+TFCAACTCTGTCTCCTTCCT
+AGCAATCAGTGAGGAATCAG
+CAGCCCTGTCOTCTCTCCAG
+
+GCCTCTGATTCCTCACTGAT
+
+TGGAGGGCCACTGACAACCA
+TTAACCCCTCCTCCCAGAGA
+
+AGGGGTCAGCGGCAAGCAGA
+
+TGTGCAGGGTGGCAAGTGGC
+
+rrccrrAci’GccrcrrGcrr
+AGTGTTAGACTGGAAAC1Tf
+AGGCATAACTGCACCC11GG
+
+indicates
+
+the EcoRl site to facilitate
+
+calf serum,
+100 units/mI
+of penicillin,
+and 200 jag/mI of
+streptomycin,
+and cells were grown at 37#{176}C
+in a humidified atmosphere
+containing
+5% CO2.
+DNA and RNA Isolation.
+Lymphocytes
+for DNA and/
+or RNA were obtained
+from peripheral
+blood samples by
+separation
+on a Ficoll-Hypaque
+(Phanmacia)
+density gradient. Total RNA and/on genomic
+DNA was isolated
+by
+gently homogenizing
+minced tumor tissue in guanidmnium
+isothiocyanate
+or by lysing cultured
+cells or lymphocytes
+in guanidmnium
+isothiocyanate
+(38), followed
+by separation on a cesium chloride
+gradient
+(38). Cenomic
+DNA
+without
+RNA was isolated
+by standard
+techniques.
+Northern
+Analysis
+and Si Nuclease Mapping.
+In general, for Northern
+analysis,
+10-jag samples
+of total RNA
+were size fractionated
+by agarose gel electrophoresis
+in
+the presence of formaldehyde,
+transferred
+to nylon membranes, and hybridized
+to the p53 cDNA probe labeled
+with [a-32P]dCTP.
+The p53 probe used in this study was
+a 1.8-kb Xbal fragment
+gel purified
+from the plasmid
+pLSVhpS3c62
+(39) and labeled
+by random
+priming
+(40).
+All hybridizations
+were carried out at 42#{176}C
+in 50% formamide. The 51 nuclease
+mapping
+was carried out using
+standard
+techniques
+(38). Total RNA from the affected
+individual
+on control
+was hybridized
+to the p53 cDNA.
+The same Xbal fragment
+of pLSVhpS3c62
+was used,
+except that it was labeled by 3’ end labeling with [a-32P]
+dCTP (38). The molecular
+size markers
+used were the
+fragments
+generated
+from a Hint) digest of pBR322,
+5’
+end labeled with [‘y-32P}dATP
+(38). Reactions
+were analyzed on denaturing
+5% polyacrylamide
+gels containing
+8 M urea. Both Northern
+blots and Si nuclease
+gels were
+visualized
+by autoradiography.
+PCR and Sequencing
+Analysis. The PCR primers used
+are summarized
+in Table 3. For PCR amplification,
+in
+general,
+genomic
+DNA (0.5 jag) was incubated
+in a total
+volume
+of 50 jal of solution
+containing
+SO mt’i KCI, 10
+mM Tnis-CI (pH 8.3), 1.5 mti MgCI2,
+200 jaM each of the
+four deoxynibonucleotides,
+200 pmol
+oligonucleotide
+primers,
+and 3.75 units of AmpliTaq
+DNA polymerase
+(Perkin-Elmer
+Cetus). For PCR of introns 4 and 10, templates were denatured
+at 95#{176}C
+for 1 mm 20 s, followed
+
+cloning.
+
+by 35 cycles of PCR with 2 mm of primer annealing
+at
+70#{176}C,
+3 mm of extension
+at 72#{176}C,
+and 1 mm of denaturation at 94#{176}C.
+The intron 4 and 10 PCR products
+were
+then cloned
+into pCEM-3Z
+and sequenced
+using the
+Sanger dideoxy
+chain termination
+method
+(41), modified
+for sequencing
+close to the primers,
+using the PCR
+primers as sequencing
+primers.
+The intron 4 and 10 PCR
+products
+were sequenced
+by one of two strategies.
+Either
+six PCR reactions
+were cloned and sequenced
+separately
+or, alternatively,
+six PCR reactions
+were pooled
+and
+sequenced
+directly
+using the fmol Cycle Sequencing
+Kit
+(Promega
+Corp.). For PCR of exons 5-8, primers for both
+PCR and sequencing
+and the PCR protocol
+were as
+described
+(42, 43). In all cases, six PCR reactions
+were
+pooled,
+and PCR products
+were separated
+by agarose
+gel electrophoresis,
+then purified
+from the agarose
+by
+Magic PCR Preps (Promega
+Corp.) or Geneclean
+(Bio
+101,
+
+La Jolla,
+
+CA).
+
+Sequencing
+
+directly
+on the gel-purified
+Cycle Sequencing
+Kit.
+
+was
+
+then
+
+PCR product
+
+carried
+
+using
+
+out
+
+the fmol
+
+Acknowledgments
+The authors would like to thank the members
+of the family in this study
+for their encouragement,
+their patience,
+and for their permission
+for this
+work. The authors
+would
+also like to acknowledge
+Karen Willetts
+and
+Jane Noble for the p53 cDNA probe.
+
+References
+1 . Levine, A. J., Momand,
+J., and Finlay, C. A. The p53 tumour
+gene. Nature (Lond.), 351: 453-456,
+1991.
+
+2. Hollstein,
+M., Sidransky,
+D., Vogelstein,
+B., and
+mutations
+in human
+cancers.
+Science
+(Washington
+1991.
+
+suppressor
+
+Harris, C. C. p53
+DC), 253: 49-53,
+
+3. Caron de Fromentel,
+C., and Soussi, T. TP53 tumor suppressor
+gene:
+a model
+for investigating
+human
+mutagenesis.
+Genes
+Chromosomes
+Cancer, 4: 1-15, 1992.
+4.
+
+Soussi,
+
+the p53
+1990.
+5.
+
+Nigro,
+
+Cleary,
+Collins,
+
+T., Caron
+
+protein
+
+de Fromentel,
+
+in relation
+
+to gene
+
+C.,
+
+and
+
+May,
+
+evolution.
+
+P. Structural
+
+Oncogene,
+
+aspects
+of
+5: 945-952,
+
+J. M., Baker, S. J., Preisinger,
+A. C., Jessup, J. M., Hostetter,
+K., Bigner, S. H., Davidson,
+N., Baylin, S., Devilee,
+P., Glover,
+F. S., Westron,
+
+A.,
+
+Modali,
+
+R., Harris,
+
+C. C.,
+
+and
+
+Vogelstein,
+
+R.,
+T.,
+B.
+
+846
+
+pS3 Splice
+
+Site Mutation
+
+in Cancer
+
+Mutations
+in the p53 gene occur
+(Lond.), 342: 705-708,
+1989.
+
+Family
+
+in diverse
+
+human
+
+tumour
+
+types.
+
+24. Takahashi,
+
+Nature
+
+6. Malkin,
+D., Li, F. P., Strong, L. C., Fraumeni,
+J. F., Jr. Nelson,
+C. E.,
+Kim, D. H., Kassel, J., Gryka, M. A., Bischoff,
+F. Z., Tainsky, M. A., and
+Friend, S. H. Germ line p53 mutations
+in a familial syndrome
+of breast
+cancer, sarcomas
+and other neoplasms.
+Science (Washington
+DC), 250:
+1233-1238,
+7.
+line
+
+S., Zou,
+
+transmission
+
+Fraumeni
+
+for p53 inactivation
+
+z.,
+
+Pirollo,
+
+of a mutated
+
+syndrome.
+
+p53
+
+Nature
+
+8. Li, F. P., and Fraumeni,
+and other neoplasms.
+Ann.
+
+K., Blattner,
+gene
+
+(Lond.),
+
+W., and Chang,
+
+in a cancer-prone
+
+348:
+
+747-749,
+
+E. H. Germfamily
+
+with
+
+Li-
+
+1990.
+
+J. F., Jr. Soft-tissue
+sarcomas,
+breast
+Intern. Med., 71: 747-752,
+1969.
+
+cancer,
+
+9. Li, F. P., Fraumeni,
+J. F., Jr., Mulvihill,
+J. J., Blattner, W. A., Dreyfus, M.
+C., Tucker, M. A., and Miller, R. W. A cancer family syndrome
+in twentyfour kindreds.
+Cancer Res., 48: 5358-5362,
+1988.
+10. Lynch,
+
+of intronic
+
+D., Chiba,
+point
+
+in lung cancer.
+
+I., Buchhagen,
+
+mutations
+
+J. Clin.
+
+D. L., and Minna,
+
+as an alternative
+
+Invest.,
+
+86:
+
+mechanism
+
+363-369,
+
+1990.
+
+25. Hensel, C. H., xiang, R. H., Sakaguchi,
+A. V., and Naylor, S. L. Use
+of the single strand conformation
+polymorphism
+technique
+and PCR to
+detect p53 gene mutations
+in small cell lung cancer. Oncogene,
+6: 10671071,
+
+1990.
+
+Srivastava,
+
+T., D’Amico,
+
+J. D. Identification
+
+1991.
+
+26. Chiba,
+I., Takahasi,
+T., Nau, M. M., D’Amico,
+D., Curiel,
+D. T.,
+Mitsudomi,
+T., Buchhagen,
+D. L., Carbone,
+D., Piantadosi,
+S., Koga, H.,
+Reissman, P. T., Slamon, D. J., Holmes,
+E. C., and Minna, J. D. Mutations
+in the p53 gene are frequent
+in primary,
+resected
+non-small
+cell lung
+cancer. Oncogene,
+5: 1603-1610,
+1990.
+27. Sameshima,
+V., Akiyama,
+T., Mori, N., Mizoguchi,
+H., Toyoshima,
+K.,
+Sugimura,
+T., Terada, M., and Yokota, J. Point mutation
+of the p53 gene
+resulting
+in splicing
+inhibition
+in small cell lung carcinoma.
+Biochem.
+Biophys. Res. Commun.,
+173: 697-703,
+1990.
+
+H. T., Mulcahy,
+C. M., Harris, R. E., Guirgis, H. A., and Lynch,
+and pathologic
+findings in a kindred with hereditary
+sarcoma,
+breast cancer,
+brain tumors,
+leukemia,
+lung, laryngeal,
+and adrenal cortical carcinoma.
+Cancer (Phila.), 41: 2055-2064,
+1978.
+
+28. Foti, A., Bar-Eli, M., Ahuja, H. C., and Cline, M. J. A splicing mutation
+accounts
+for the lack of p53 gene expression
+in a CML blast crisis cell
+line: a novel mechanism
+of p53 gene inactivation.
+Br. J. Haematol.,
+76:
+
+1 1 . Santibanez-Koref,
+
+29. Soudon,
+J., Caron de Fromentel,
+C., Bernard,
+0., and Larsen, C-I.
+Inactivation
+of the p53 gene expression
+by a splice donor site mutation
+in a human
+T-cell leukemia
+cell line. Leukemia,
+5: 917-920,
+1991.
+
+J. F. Genetic
+
+143-145,
+
+M. F., Birch, J. M., Hartley,
+A. L., Morris Jones, P.
+H., Craft, A. W., Eden, T., Crowther,
+D., Kelsey, A. M., and Harris, M.
+p53 germline
+mutations
+in Li-Fraumeni
+syndrome.
+Lancet, 338: 14901491, 1991.
+12. Law, J. C., Strong,
+line
+
+L. C., Chidambaram,
+
+mutation
+
+in exon
+5 of the p53
+Res., 51: 6385-6387,
+1991.
+
+Cancer
+
+A., and Ferrell,
+
+gene
+
+in an extended
+
+R. E. A germ
+cancer
+
+family.
+
+17: 2159-2180,
+
+1992.
+
+16. Toguchida,
+J., Yamaguchi,
+T., Dayton,
+S. H., Beauchamp,
+B. A.,
+Herrera,
+G. E., Ishizaki,
+K., Yamamuro,
+T., Meyers,
+P. A., Little, J. B.,
+Sasaki,
+
+M.
+
+spectrum
+sarcoma.
+
+S., Weichselbaum,
+
+R. R., and
+
+Yandell,
+
+D.
+
+of germline
+mutations
+of the p53 gene
+N. Engl. J. Med., 326: 1301-1308,
+1992.
+
+W.
+
+among
+
+Prevalence
+
+and
+
+patients
+
+with
+
+17. StUrzbecher,
+H-W., Chumakov,
+P., Welch,
+W. J., and Jenkins, J. R.
+Mutant p53 proteins
+bind hsp 72/73 cellular heat shock-related
+proteins
+in SV4O-transformed
+monkey
+cells. Oncogene,
+1: 201-211,
+1987.
+18. Hinds, P. W., Finlay, C. A., Frey, A. B., and Levine, A. J. Immunological
+evidence
+for the association
+of p53 with a heat shock protein,
+hsc70, in
+p53-plus-ras-transformed
+cell lines. Mol. Cell. Biol., 7: 2863-2869,
+1987.
+19.
+
+Finlay,
+
+Levine,
+
+C. A., Hinds,
+
+A. J. Activating
+
+P. W.,
+
+Tan,
+
+mutations
+
+for
+
+gene product
+that forms an hsc70-p53
+Mol. Cell. Biol., 8: 531-539,
+1988.
+20.
+
+DilIer,
+
+L., Kassel,
+
+J., Nelson,
+
+T-H.,
+
+complex
+
+C. E., Gryka,
+
+M., Bressac, B., Ozturk,
+M., Baker,
+p53 functions
+as a cell cycle control
+Biol., 10: 5772-5781,
+1990.
+
+Eliyahu,
+
+transformation
+
+D., Oren,
+by
+
+with
+
+p53
+
+an altered
+
+M. A., Litwak,
+
+M., and
+produce
+
+a
+
+half-life.
+
+C., Gebhardt,
+
+S. J., Vogelstein,
+B., and Friend,
+protein in osteosarcomas.
+Mol.
+
+S. H.
+Cell.
+
+21. Hinds, P., Finlay, C., and Levine, A. J. Mutation
+is required
+to activate
+the p53 gene for cooperation
+with the ras oncogene
+and transformation.
+J. Virol.,
+63: 739-746,
+1989.
+22. Milner,
+J., and Medcalf,
+E. A. Cotranslation
+with wild type drives the wild-type
+p53 protein
+mation. Cell, 65: 765-774,
+1991.
+23. Warneford,
+Symonds,
+C.
+adrenocortical
+
+D., Oren, M., and Croce,
+tumour
+antigen
+to band
+
+C. M.
+17pl 3.
+
+M., Rotter, V., and
+arm of chromosome
+
+33. McBride,
+0. W., Merry, D., and Givol, D. The gene for human p53
+cellular tumor antigen is located on chromosome
+17 short arm (1 7p1 3).
+Proc. NatI. Acad. Sci. USA, 83: 130-134,
+1986.
+
+15. Malkin,
+D., Jolly, K. W., Barbier,
+N., Look, A. T., Friend,
+S. H.,
+Gebhardt,
+M. C., Anderson,
+T. I., B#{248}rresen,A-L., Li, F. P., Carber,
+J., and
+Strong, L. C. Germ-line
+mutations
+of the p53 tumor-suppressor
+gene in
+children
+and young adults with second malignant
+neoplasms.
+N. EngI. J.
+1309-1315,
+
+evolution
+Acids Res.,
+
+1989.
+
+32. Miller, C., Mohandas,
+T., Wolf, D., Prokocimer,
+Koeffler,
+H. P. Human
+p53 gene localized
+to short
+17. Nature
+(Lond.),
+319: 783-784,
+1986.
+
+14. Metzger,
+A. K., Sheffield,
+V. C., Duyk, C., Daneshvar,
+L., Edwards,
+M. S. B., and Cogen,
+P. H. Identification
+of a germ-line
+mutation
+in the
+p53 gene in a patient with an intracranial
+ependymoma.
+Proc. NatI. Acad.
+Sci. USA, 88: 7825-7829,
+1991.
+
+326:
+
+30. Jacob, M., and Gallinaro,
+H. The 5’ splice site: phylogenetic
+and variable
+geometry
+of association
+with Ui RNA. Nucleic
+31. Isobe, M., Emanuel,
+B. S., Givol,
+Localization
+of gene for human
+p53
+Nature (Lond.), 320: 84-85,
+1986.
+
+13. Sameshima,
+V., Tsunematsu,
+V., Watanabe,
+S., Tsukamoto,
+T., KawaHa, K., Hirata, V., Mizoguchi,
+H., Sugimura,
+T., Terada, M., and Yokata,
+J- Detection
+of novel germ-line
+p53 mutations
+in diverse-cancer-prone
+families
+identified
+by selecting
+patients
+with childhood
+adrenocortical
+carcinoma.
+J. NatI. Cancer Inst., 84: 703-707,
+1992.
+
+Med.,
+
+1990.
+
+of activated
+mutant
+p53
+into the mutant confor-
+
+S., Townsend,
+M., Rowe,
+P. B., Dalla-Pozza,
+L., and
+Overexpression
+of the retinoblastoma
+gene in a familial
+carcinoma.
+Cell Growth
+& Differ., 2: 439-445,
+1991.
+
+34. Tomlinson,
+M. J., and Bullimore,
+I. A. Adrenal-cell
+carcinoma
+and
+rhabdomyosarcoma
+occurring
+in father and daughter:
+#{176}SBLA”
+syndrome?
+Br. J. Radiol., 60: 89-90,
+1987.
+35. Tsunematsu,
+V., Watanabe,
+S., Oka, T., Tsukamoto,
+T., Kawa-Ha,
+K.,
+Hirata, V., Yamanaka,
+H., Ohira, M., and Ono, M. Familial aggregation
+of
+cancer from proband
+cases with childhood
+adrenal cortical
+carcinoma.
+Jpn. J. Cancer Res., 82: 893-900,
+1991.
+36. Jacobs, J. P., Jones, C. M., and Baille, J. P. Characteristics
+of a human
+diploid cell designated
+MRC-5. Nature (Lond.), 227: 168-170,
+1970.
+37. Leibovitz,
+A., McCombs,
+W. B., III, Johnston,
+D., McCoy,
+C. E., and
+Stinson, J. C. New human cancer cell culture
+lines. I. SW-13, small cell
+carcinoma
+of the adrenal cortex. J. NatI. Cancer Inst., 51: 691 -697, 1973.
+38. Sambrook,
+J., Fritsch, E. F., and Maniatis,
+T. Molecular
+Cloning:
+A
+Laboratory
+Manual (2nd Ed.). Cold Spring Harbor, NY: Cold Spring Harbor
+Laboratory
+Press, 1989.
+39. Zakut-Houri,
+R., Bienz-Tadmor,
+p53 cellular tumor antigen: cDNA
+EMBOJ.,
+
+4: 1251-1255,
+
+B., Givol, D., and Oren, M. Human
+sequence
+and expression
+in COS cells.
+
+1985.
+
+40. Feinberg, A. P., and Vogelstein,
+B. A technique
+for radiolabeling
+restriction
+endonuclease
+fragments
+to high specific
+activity.
+Biochem.,
+132:6-13,
+1983.
+
+DNA
+Anal.
+
+41. Sanger, F., Nicklen,
+S., and Coulson,
+A. R. DNA sequencing
+with
+chain-terminating
+inhibitors.
+Proc. NatI. Acad. Sci. USA, 74: 5463-5467,
+1977.
+42. Hsu, I. C., Metcalf,
+R. A., Sun, T., Welsh,
+J. A., Wang, N. J., and
+Harris, C. C. Mutational
+hotspot in the p53 gene in human hepatocellular
+carcinomas.
+Nature (Lond.), 350: 427-428,
+1991.
+43. Lehman, T. A., Bennett,
+W. P., Metcalf,
+R. A., Welsh, J. A., Ecker, J.,
+Modali,
+R. V., Ullrich, S., Romano, I. W., Appella,
+E., Testa, J. R., Gerwin,
+B. I., and Harris, C. C. p53 mutations,
+ras mutations,
+and p53-heat
+shock
+70 protein complexes
+in human lung carcinoma
+cell lines. Cancer Res.,
+51: 4090-4096,
+
+1991.
+
+44. Vogelstein,
+1990.
+
+B. A deadly
+
+inheritance.
+
+Nature
+
+(Lond.),
+
+348:
+
+681-682,
+
+

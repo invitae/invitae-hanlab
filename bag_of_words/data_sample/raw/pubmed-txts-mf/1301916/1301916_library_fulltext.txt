@@ -1,0 +1,881 @@
+Human Molecular Genetics, Vol. 1, No. 6
+
+427-432
+
+Characterization of mutations in phenotypic variants of
+hypoxanthine phosphoribosyltransferase deficiency
+Karin Sege-Peterson*. James Chambers2, Theodore Page, Oliver W.Jones1 and
+William L.Nyhan
+Department of Pediatrics and department of Medicine, University of California, San Diego, La Jolla, CA 92093 and
+department of Immunology, The Scripps Research Institute, La Jolla, CA 92037, USA
+Received May 11, 1992; Revised and Accepted July 10, 1992
+
+ABSTRACT
+The Lesch-Nyhan disease is caused by an almost complete
+lack of the enzyme hypoxanthine-guanine phosphoribosyltransferase (HPRT). Partial HPRT-deficiency, associated with
+less severe phenotype, has also been identified. We have
+characterized mutations occurring in HPRT cDNA isolated
+from patients with HPRT-deficiency with an emphasis on
+examining the more unusual partial variants of HPRTdeficiency. HPRT cDNA was amplified by PCR, cloned and
+analyzed by automated DNA sequence analysis. Twenty-two,
+unrelated individuals with HPRT deficiency were studied
+including eight classic Lesch-Nyhan patients and fourteen
+patients representing the different groups of partial HPRT
+deficiency. We found a diverse pattern of mutations with point
+mutations accounting for the majority of abnormal HPRT
+genes. Nonsense mutations and exon deletions were only found
+in HPRT cDNA isolated from classic Lesch-Nyhan patients.
+Mutations associated with partial HPRT-deficiency were
+frequently located in the amino terminal part of the molecule.
+A CpG mutational hot spot was identified at the position for
+Arg-51 in the HPRT protein. Two hyperuricemk patients
+exhibited unusual splice site mutations: in one this led to the
+creation of an additional exon in the HPRT gene and in the
+other part of exon 6 was missing in a subpopulation of the
+transcripts, producing the effect of a dominant, negative
+mutation.
+INTRODUCTION
+The Lesch-Nyhan disease (1), an inherited, X-linked recessive
+disorder of purine metabolism is caused by an almost complete
+lack of hypoxanthine phosphoribosyltransferase (HPRT; EC
+2.4.2.8.) activity (2,3). The disease is characterized by
+hyperuricemia, neurologic dysfunction, including severe spasticity
+and choreoathetoid movements, mental retardation, and a typical
+self-injurious behavior. Partial deficiency of HPRT has been
+described in a variety of patients with phenotypic differences
+ranging from isolated hyperuricemia to varying degrees of
+neurologic dysfunction. Notably, in HPRT deficiency there is
+an inverse correlation between residual HPRT enzyme activity,
+as measured in an intact cell assay, and the severity of the
+neurologic disease (4,5). Also, HPRT-deficient individuals from
+the same pedigree have a very similar disease. This is in contrast
+
+* To whom correspondence should be addressed
+
+Downloaded from https://academic.oup.com/hmg/article-abstract/1/6/427/632304
+by Reprints Desk user
+on 13 April 2018
+
+to many other genetic disorders e.g. medium chain acyl-CoA
+dehydrogenase deficiency (6) and Gaucher's disease (7) in which
+patients with identical mutations, and thus similar levels of
+residual enzyme activity, can have very different clinical course
+of the disease. The most common phenotypes of partial deficiency
+of HPRT are gout or nephropathy and normal cerebral function.
+The Lesch-Nyhan syndrome occurs with an incidence of 1 in
+100,000 to 1 in 380,000. The incidence of partial HPRT
+deficiency is not known but is lower than the classic
+Lesch—Nyhan disease.
+Human HPRT has been purified to homogeneity and its amino
+acid sequence determined (8). The native enzyme is comprised
+of four identical subunits, each containing 217 amino acids.
+Structural studies on the human HPRT gene (9,10) have identified
+9 exons spanning about 44 kb of DNA on the long arm of the
+X chromosome. Molecular studies have facilitated the search for
+mutations underlying deficiency of HPRT, and with the
+introduction of the polymerase chain reaction (PCR) the number
+of mutations identified in the HPRT gene has rapidly increased
+(11 -16). In the majority of patients with HPRT deficiency there
+is no gross alteration of the gene. The spectrum of mutations
+reported to date is broad with the same mutation rarely being
+found in unrelated pedigrees and includes point mutations,
+deletions, insertions, and duplications. Most of the reported
+mutations in HPRT have been derived from patients with the
+classic Lesch—Nyhan syndrome.
+In this report we have extended the search for mutations in
+the HPRT gene with an emphasis on examining a spectrum of
+phenotypes from classic Lesch—Nyhan to classic partial with
+clinical gout, and including the more unusual variants that exhibit
+hyperuricemia and neurologic dysfunction without the complete
+Lesch—Nyhan picture.
+RESULTS
+This study includes eight classic Lesch—Nyhan patients, five
+neurologic variants, and nine patients with hyperuricemia as the
+only manifestation of the disease. HPRT enzyme activity was
+measured in fibroblast cell lines, established from each patient,
+using an intact cell assay (5). The data on enzyme activity, shown
+in Table I, were consistent with the inverse correlation between
+clinical severity of the disease and residual enzyme activity
+
+428 Human Molecular Genetics, Vol. 1, No. 6
+Table I. Mutations in the HPRT gene
+HPRT activity
+% of control
+
+Nucleotide changes
+or rearrangements
+
+Deduced effect
+on protein
+
+Lesch-Nyhan
+GM
+AS
+MS
+PW
+DW
+RT
+DL*
+
+<1
+<1
+<1
+<1
+<1
+<1
+<1
+
+G601-T
+C151-T
+C151-T
+C368-G
+C222-A
+Deletion exon 4
+Deletion exon 7
+
+FG
+
+1.4
+
+G47-A
+
+Asp201-Tyr
+Arg 51-Stop
+Arg 51 —Stop
+Ser 123-Stop
+Phe74-Leu
+Asn 107 —Lys 128 missing.
+Ser 162 —Ala 218 missing; addition of 4 amino
+acids.
+Gly 16-Asp
+
+Hyperuricemia with Neurologic Symptoms
+DM
+1.6
+LW
+2.5
+6.9
+HB
+RW
+7.5
+AA
+7.5
+
+Duplication of exons 2 and 3
+G148-C
+T23-G
+Insertion of GCA after G429
+T 1 2 8 - G and G130-A
+
+Addition of 96 amino acids
+Ala 5 0 - P r o
+Val 8-Gly
+Insertion of Ala after Met 143
+Met 43 —Arg, Asp 44—Asn
+
+Hyperuricemia without Neurologic Symptoms
+JF
+8
+MiG
+9
+
+T548-C
+G403 —A452 missing
+
+lie 183-Thr
+Asp 135 —Val 150 missing; premature
+termination
+Val 53-Ala
+Arg48-His
+Arg 4 8 - H i s
+Val 53-Met
+Cys 2 3 - T i p
+Insertions of additional amino acids
+Asp 201 — Asn
+
+Patients
+
+MG
+AG
+DD
+TE
+JS
+TL
+RB
+
+15
+20
+20
+20
+30
+50
+60
+
+T158-C
+G143-A
+G143-A
+G157-A
+C69-G
+A - G at n 32863 in IVS 5
+G601-A
+
+Amino acid numbering includes the first Met as amino acid No 1. Abbreviations used: n = nucleotide; IVS = intervening sequence. *DL has all the features of
+a classic Lesch-Nyhan patient except for being of normal intelligence (4). Whether this represents another clinical subgroup is not yet clear since proper assessment
+of a Lesch-Nyhan patient's mental capabilities often is made difficult by the dysarthria and motor defects present in these individuals.
+
+observed in earlier studies. Table I also summarizes the nucleotide
+changes that were identified in the HPRT cDNA isolated from
+the patients.
+Cell lines from two of the subjects, DM (GM 1662, 25) and
+JF (1734, 15) were shared with other investigators and the data
+in Table I are identical to those reported in their studies. However,
+DM was listed (25) as a classic Lesch-Nyhan patient, but his
+phenotype was actually that of a partial variant with neurologic
+symptoms (26). JF was a patient with hyperuricemia and no
+neurologic abnormalities (27).
+Of the eight classic Lesch-Nyhan patients, HPRT cDNA
+isolated from three (AS, MS, PW) exhibited nonsense mutations.
+The HPRT cDNAs of AS and MS had identical mutations that
+changed the codon for Arg-51 into a stop codon. In the HPRT
+cDNA of PW a premature stop site replaced the codon for
+Ser-123. Exon skipping (exon 4, RT and exon 7, DL) was found
+in two instances. Three missense mutations were identified in
+this group and resulted in the substitution of Asp for Gly at residue
+16 (FG), Leu for Phe at residue 73 (DW) and Tyr for Asp at
+residue 201 (GM).
+Partial HPRT deficiency with neurologic symptoms can be
+divided into at least two clinical groups based on die neurologic
+manifestations. In one group patients have a neurologic
+examination indistinguishable from the classic Lesch-Nyhan
+patient whereas in the other group the neurologic symptoms are
+less severe. We sequenced HPRT cDNA isolated from three (HB,
+LW, DM) patients belonging to the former clinical group (26,28)
+and from two (AA, RW) representing the latter (29). In the first
+three patients we identified two missense mutations. One led to
+
+Downloaded from https://academic.oup.com/hmg/article-abstract/1/6/427/632304
+by Reprints Desk user
+on 13 April 2018
+
+the substitution of Gly for Val at amino acid 8 (HB) and the other
+to Pro for Ala at residue 50 (LW). The HPRT cDNA of patient
+DM contained a duplication of exon 2 and 3 resulting in the
+addition of a predicted 96 amino acids to the aminoKerminal part
+of the protein. In the second group we identified one instance
+of an inframe insertion of three nucleotides in the HPRT gene
+that gave rise to an extra Ala after amino acid 142 (RW) while
+in the HPRT gene of patient AA there were two missense
+mutations occurring two nucleotides apart changing Met-43 into
+Arg and Asp-44 into Asn. This HPRT variant was designated
+HPRTsahunanc,; The pedigree included several affected members
+represented by AA. Studies of available family members indicated
+the mother and sister to be carriers of the same double mutation,
+while the father and a maternal uncle had HPRT cDNA sequences
+without these changes (figure 1).
+Partial HPRT deficiency with hyperuricemia and its clinical
+consequences as the only manifestation of disease occurs when
+HPRT enzyme activity in the intact cell fibroblast assay is in the
+range of 8 to 60% of normal. HPRT cDNA from nine such
+individuals was characterized. In seven a single nucleotide change
+was found leading to amino acid substitution in the HPRT protein.
+In patients DD and AG this was the replacement of Arg-48 by
+His. In JS there was a substitution of Trp for Cys at residue 23.
+Patients TE and MG both had mutations affecting the codon for
+Val-53; it was changed to Met in TE and to Ala in MG. In patient
+JF Thr was substituted for He at residue 183 and in patient RB
+an Asn replaced Asp at amino acid position 201.
+DNA sequence analysis of HPRT cDNA clones isolated from
+a patient with hyperuricemia (TL) identified two different
+
+Human Molecular Genetics, Vol. 1, No. 6 429
+110
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+i
+
+120
+
+130
+
+DNA SEQ HA
+GGGTCTTTAT TCCTCATGGA
+HA / HPRT
+DNA SEQ AA
+GGGTCTTTAT TCCTCATCGA
+AA / HPRT
+AHINO ACID AA
+R V F I
+P H G
+AHINO ACID AA / HPRT
+DNA SEQ DA
+GGGTCTITAT TCCTCATGGA
+DA._/_ HPRT
+HPRT.SEQ
+GGGTGTTTAT TCCTCATCGA
+AHINO ACID HPRT
+R 7 F I
+P H G
+
+CTAATTAGGA
+*_*
+CTAATTAGGA
+*_*
+L I R
+*—
+CTAATTATCG
+
+G
+
+A C
+
+/)
+
+;
+
+G
+
+A
+/^
+
+;
+
+G
+
+\P\
+
+A
+
+c
+/)
+
+c
+
+A
+
+A T
+
+A
+
+/ \
+A
+
+/ \
+A
+
+/ \
+
+A T
+
+f\
+
+T
+
+,/\
+T
+
+A T
+
+A
+
+T
+
+O(
+
+3 DNR SEQ RR
+A G G
+A A c
+
+A A
+
+(\
+
+^
+
+1 DNfl SEQ UR
+A T G G A
+
+A
+
+150
+
+ACAGGACTCA ACGTCTTGCT
+ACAGGACTCA ACGTCTTGCT
+H R T E
+R L A
+*
+ACAGGACTCA ACGTCTTCCT
+
+CTAATTATCG ACAGGACTCA ACGTCTTCCT
+L I H
+D R T E
+R L A
+
+1 DNR SEQ MR
+A G G A A C
+
+/•)
+
+140
+
+c
+
+A
+
+G
+
+G
+
+C
+A
+
+C
+
+/> /)
+G
+
+K\
+DA
+A
+
+A
+
+G
+
+G
+
+A
+
+A
+
+/>
+
+h
+
+c
+
+G
+
+A
+
+c
+
+h
+
+G
+
+A
+
+A
+
+A
+
+C
+
+I
+
+A
+
+/ \
+
+ir\ A
+
+/>
+G
+
+G
+
+A
+
+• ^
+
+C
+
+I
+
+f\
+
+A C
+
+I
+
+A srs A
+
+Figure 1. Automated DNA sequence of PCR-amplified HPRT cDNA, as described in the text. The bottom three panels 1, 3 and 7, show the DNA sequence analyses
+obtained from the samples of AA's mother (MA), AA and AA's maternal uncle (UA), respectively. Only the interval between nucleotides 119 and 142 of the HPRT
+cDNA is shown. Nucleotide differences as compared to normal are indicated by arrows. Two different HPRT cDNA clones were present in the samples from the
+mother, in one the DNA sequence was identical to normal whereas in the other (shown here) the same changes were found as in AA. This identifies her as a carrier.
+In the top part of figure 1 comparisons between normal and mutant HPRT cDNA and deduced HPRT amino acid sequences are made. A slash indicates that a
+comparison to the normal sequence has been made and positions exhibiting differences are indicated by an asterisk. The one-letter amino acid code is used.
+
+transcripts that contained insertions, of 48 and 116 nucleotides
+respectively. Both insertions were located between the coding
+regions for exon 5 and exon 6. The 48 bp insert was inframe
+and thus an addition of 16 new amino acids to the HPRT protein
+was predicted. The 116 bp insertion resulted in a frameshift and
+premature stop codon after 87 bp. Examination of the established
+complete nucleotide sequence of the human HPRT gene (20) and
+comparing it with the two inserted sequences indicated that they
+correspond to segments of intervening sequence 5 (TVS 5) of the
+normal HPRT gene. Each inserted sequence is preceded in the
+genomic DNA by the dinucleotide AG. Both insertions end at
+exactly the same position and immediately precede the
+dinucleotide AT in the genomic HPRT DNA. Most eukaryotic
+exons are flanked by the dinucleotides AG at the 3' end and GT
+at the 5' end. An A to G transition occurring in the genomic
+DNA at the position immediately following the 5' end of the
+inserted sequences would create a 5' splice site. Since both
+sequences are preceded by cryptic 3' splice sites, the molecular
+prerequisites for additional exons could be fulfilled by such an
+A to G mutation. To this end, genomic DNA from patient TL
+was used to PCR-amplify a 261 bp fragment (primers 2217/2219)
+spanning the region of interest from FVS 5 of the HPRT gene.
+
+Downloaded from https://academic.oup.com/hmg/article-abstract/1/6/427/632304
+by Reprints Desk user
+on 13 April 2018
+
+After a second, asymmetric PCR amplification step the DNA
+was directly sequenced in the dideoxy reaction. The DNA from
+patient TL carried the predicted A to G transition.
+Fibroblasts isolated from another hyperuricemic patient (MiG)
+produced two types of transcripts; one correctly spliced HPRT
+mRNA and one in which a downstream cryptic 3' splice site in
+exon 6 was utilized. This led to the removal of the first 49
+nucleotides of exon 6 and a truncated protein with premature
+termination of translation. Direct DNA sequence analysis of a
+PCR-amplified, 322 bp fragment (primers 2483/2484) spanning
+the 3' splice site of exon 6 failed to reveal any changes as
+compared to normal within 100 bases immediately upstream of
+exon 6.
+DISCUSSION
+
+We identified 22 independent mutations in the HPRT gene, 14
+of which were derived from patients with partial HPRT
+deficiency, with the objective of exploring a possible correlation
+between phenotype and genotype.
+We found molecular evidence of genetic heterogeneity
+underlying the different forms of partial HPRT deficiency.
+
+430 Human Molecular Genetics, Vol. 1, No. 6
+Missense mutations were the most common cause of the genetic
+alterations but instances of duplication and insertion were found
+as well. A preferential clustering of these missense mutations
+to the amino-terminal part of the molecule was observed. Of the
+patients with mutations in exon one and two, only one (FG) had
+a Lesch —Nyhan phenotype and this patient's enzyme permitted
+very different behavior of cultured cells in a selective media than
+classic Lesch —Nyhan cells as well as some expression in the
+erythrocytes of a carrier (30). Also, missense mutations associated
+with partial HPRT deficiency often involved a conservative amino
+acid replacement in the HPRT protein in contrast to those found
+in patients with the classic Lesch -Nyhan phenotype. The aminoterminal clustering probably reflects functional areas of the protein
+that are of less importance for catalytic activity. Future studies
+may reveal whether the observed characteristics in location and
+type of DNA-sequence alteration associated with partial HPRT
+deficiency are distinct enough to permit their use as a prognostic
+factor to predict outcome of the disease in a newly diagnosed
+patient. Residual enzyme activity as measured in the intact cell
+assay (5) is in our opinion still the method of choice for these
+type of analyses.
+When examining the entire pool of independent point mutations
+reported so far in the HPRT gene, they appear to be fairly evenly
+spread along the HPRT coding region. However, a certain degree
+of clustering to a small region of exon three and exon five was
+noted by Tarle et al (15). This could reflect a genetic phenomenon
+or be due to an ascertainment bias where mutations producing
+a clinically apparent phenotype would be picked up more
+frequently than silent mutations with no negative effect on enzyme
+activity. However, no neutral polymorphism has so far been
+observed in the HPRT coding region. To date the entire coding
+region for more than 75 patients with HPRT deficiency has been
+sequenced. In no instance, except for one patient described here
+(AA, HPRTsgja,,,,,,^, has more than a single mutational event
+been observed. In addition we have sequenced HPRT cDNA
+isolated from 5 normal individuals and found no amino acid
+change. In HPRTsaJamanc two missense mutations were found
+one nucleotide apart leading to amino acid changes at residue
+43 and 44. The K,,, value for hypoxanthine was 40 /*M, with
+a normal value of 13 /*M. At this point it is not clear whether
+both amino acid replacements affect the decrease in substrate
+affinity although it is reasonable to assume since both represent
+non-conservative substitutions. No point mutation has previously
+been reported in the codon for amino acid 43 or 44.
+The clustering of mutations reported by Tarle et al probably
+has a genetic basis and may in part be explained by the location
+of a CpG mutational hot spot in exon three: Arg-51 contained
+an identical nonsense mutation (CGA —TGA) in two unrelated
+Lesch —Nyhan patients in this study. Among the entire pool of
+independent point mutations observed in the HPRT gene the
+codon for Arg-51 has been changed 7 times, making it the most
+commonly affected amino acid (12% of the point mutations). Five
+of these mutational events exhibit a C-to-T transition suggesting
+the location of a CpG mutational hot spot, where the deamination
+of a methylated C results in a C-to-T or a G-to-A transition (31).
+We identified two patients with hyperuricemia who displayed
+aberrant HPRT mRNA splicing. In one, (MiG), this had the effect
+of a dominant, negative mutation: the HPRT transcripts consisted
+of a mixture of normally spliced mRNA and mRNA where a
+cryptic 3' splice site in exon 6 was utilized, leading to a truncated
+molecule. The resulting enzyme activity was 9% and the K,,, for
+hypoxanthine was 27 /tM. This indicates that the abnormal HPRT
+
+Downloaded from https://academic.oup.com/hmg/article-abstract/1/6/427/632304
+by Reprints Desk user
+on 13 April 2018
+
+polypeptide participates as a subunit in the formation of the
+tetrameric enzyme. Sequence analysis of 100 intronic nucleotides
+preceding exon 6 did not show any deviation from normal and
+it is not yet clear what causes the abnormal splicing in this mutant.
+In another hyperuricemic patient (TL), an A-to-G transition
+in intron 5 (nucleotide position 32863 as numbered by Edwards
+et al) (20) of the HPRT gene led to the creation of a GT
+dinucleotide and a functional 5' splice site as evidenced by two
+HPRT cDNA transcripts containing novel exon sequences
+corresponding to segments of IVS 5. In patient TL isolated
+hyperuricemia accompanied a residual HPRT enzyme activity
+of approximately 50% as measured in intact fibroblasts. The
+HPRT Ko, value for hypoxanthine, measured in the same cells
+approximated 18 ^M, which is close to the control value of
+approximately 13 /tM. It is difficult to understand how a mutation
+leading to either a truncated protein (116 bp insertion) or a protein
+containing 16 amino acids inserted after residue 134 of the normal
+molecule (48 bp insertion) can result in such high residual enzyme
+activity. We unsuccessfully searched a large number of HPRT
+cDNA clones derived from TL with the objective of finding
+additional transcripts including a correctly spliced molecule. With
+at least two aberrant forms of the HPRT subunit synthesized it
+is not clear how the normally homotetrameric enzyme is
+assembled in this mutant. In vitro studies have shown that under
+certain experimental conditions the homodimer of the normal
+protein is catalytically active (32). Once a three dimensional
+structure is available for HPRT it will be of great interest to see
+whether the insertion in this mutant occurred without grossly
+disrupting catalytic regions of the molecule.
+Although the combined data on mutations in the HPRT gene
+point to a higher tolerance, in terms of enzyme function, for
+amino acid substitutions in the amino-terminal part of the protein,
+it is not possible to draw extended conclusions regarding effects
+on the three-dimensional structure until X-ray crystallographic
+information on HPRT or a closely related molecule is available.
+A three-dimensional prediction model has been created for HPRT
+(33). This was based on similarities between secondary structure
+predictions for HPRT and NAD binding proteins. The model
+for human HPRT was created on the basis of the dinucleotide
+fold found in the tertiary structure of many dehydrogenases.
+However, secondary structure predictions for mouse HPRT did
+not conform to the model (34) and another limitation was the
+fact that the C-terminal half of HPRT, a region that contains many
+of the most severe mutations, was not taken into account by this
+model. The current access to approximately 50 different missense
+mutations each with a defined effect on enzyme function makes
+the HPRT molecule an attractive candidate for structural studies.
+Of particular structural interest will be amino acid 201, an Asp
+in the wild-type molecule, which has been change to a different
+amino acid in four different patients representing three different
+clinical phenotypes: in a Lesch-Nyhan patient (GM) it was
+changed to a Tyr, in a neurologic variant with a residual enzyme
+activity of approximately 8% a Val was found at position 201
+(unpublished data) and in two hyperuricemic individuals (RB,
+35) Asn and Gly, respectively, replaced the Asp at position 201.
+MATERIALS AND METHODS
+Strategy
+Full-length HPRT cDNAs were characterized by DNA sequence analysis.
+Automated dideoxynucleotide sequencing was, unless otherwise stated, performed
+on PCR-amplified, cloned material. A minimum of two clones were sequenced
+from each amplification reaction and two independent PCR-amplifications were
+
+Human Molecular Genetics, Vol. 1, No. 6 431
+carried out on the cDNA from each patient. Fibroblast cell lines were the source
+of mRNA in all instances except for the analyses of AA and MG where EBvirus transformed B-lymphocytes and PHA-stimulated peripheral T-cells,
+respectively, were used.
+Cell lines
+Primary fibroblast cell lines were established from biopsied skin using standard
+methods. Cells were grown in Coon's F-12 medium supplemented with 10% fetal
+bovine serum and 2 mM glutamine. The cells were harvested by trypsinization.
+B-cell derived cell lines were established by Epstein—Barr virus transformation
+of cells isolated from peripheral blood (17). They were maintained in RPMI medium
+supplemented with 10% fetal bovine serum and 2 mM glutamine. All cell lines
+were derived from patients diagnosed in this laboratory. HPRT enzyme activity
+was measured in fibroblast cell lines established from each patient using an intact
+cell assay (5). K,,, values for hypoxanthine was analyzed as described (18).
+PHA-sdmulation of peripheral blood lymphocytes
+Lymphocytes were recovered from 10 ml of heparinized blood and incubated
+at a concentration of 1-2X10 6 cells per milliliter in RPMI medium
+supplemented with 10% fetal bovine serum, 2 mM glutamine and in the presence
+of 2% phytohemagglutinin (HA 15; Wellcome Diagnostics, Research Triangle
+Park, N Q for 72 hours.
+
+(2217/2219) or 48° (2483/2484) for 1 min, extension at 72° for 1.5 min; 30
+cycles. Aliquots of 5 /J of the PCR product were amplified in a second PCR
+reaction with asymmetric priming using 0.3 ng of oligonucleotide 2219 or 2284,
+40 cycles and otherwise identical conditions as in the first PCR reaction. PCR
+products were purified on a Centricon 30 mkroconcentrator (Amicon, Beverly,
+MA), dried under vacuum and directly sequenced using Sequenase version 2.0
+(USB, Cleveland, OH). In the sequencing reaction 1 jig of oligonucleoude primer
+2217 or 2483 were used.
+
+ACKNOWLEDGEMENTS
+The technical assistance and advice of Ms Robyn Broock, Dr Edward Diala and
+Ms Kari Hoyt are greatfully acknowledged. Dr Per A.Peterson and Dr Theodore
+Friedmann provided invaluable suggestions and comments. John Deirmenjian
+participated in the initial part of this work. This work was aided by U.S. Public
+Health Service Grants: Brcese Project Grant No: HD 23042/03 and The University
+of California San Diego, General Clinical Research Center, Division of Research
+Resources, Grant No: RR00827, National Institute of Health, National Institute
+of Child Health and Human Development, NIH, Bethesda, MD and a grant No:
+1-928 from the March of Dimes Birth Defects Foundation. K.S.-P. was partially
+supported by grants from OE and Edla Johanssons Vetenskapliga Stiftelse and
+the Swedish Society of Medicine.
+
+Synthetic oligonucleotides
+Oligonucleotidc primers were manufactured on a Gene Assembler (Pharmacia,
+Piscataway, NJ) according to the published sequences of HPRT cDNA (L1351,
+L1353),(19) and HPRT genomic DNA (2217, 2219, 2483, 2484),(20). Primers
+that were used only for PCR amplification were usually deprotected and not purified
+any further. An HPLC purification step on a RPC-PEP column (Pharmacia,
+Piscataway, NJ) was used for the DNA sequencing primers. Oligonucleotide
+primers for automated fluorescent DNA sequencing (SP6, T7; Stratagen, Jolla,
+CA) were dye labeled at the 5'terminus by the Aminolink method (21). The
+following oligonucleotide primers were used:
+L1351
+L1353
+2217
+2219
+2483
+2484
+
+5'GAATTCGAATTCCCAGATGTTTCCAAACTCAACTTGA'3
+5'GTCGACGTCGACCCGGCCGGCTCCGTTATG'3
+5'AGAATCATACAATATGTG'3
+5'ATGGTATCCAACTTACGA'3
+5'ATTCTTACTGCTTGCrGAGG'3
+5'AGAAGCAATCACTTAATCCC'3
+
+To facilitate subsequent cloning, two EcoRI restriction sites were added to the
+5' end of primer L1351 and two Sail restriction sites were built in to the 5' end
+of primer L1353.
+cDNA synthesis and PCR amplification
+Poly(A)+ RNA was isolated from cultured cells according to a published protocol
+(22). Fibroblasts ( 5 - lOx 106) or lymphoblasts ( 5 - 1 0 x 107) were typically used
+for each poly(A)+RNA isolation, yielding 2-5/ig of mRNA. The mRNA, 1-3
+/ig was used for single stranded cDNA synthesis (Red Module Kit; Invitrogen,
+San Diego, CA) using 1 jig of oligonucleotide primer LI351. The cDNA was
+extracted with phenol/chloroform, precipitated with ethanol and resuspended in
+10 y\ of water Aliquots of 10 jtl were amplified in a total volume of 100 /J
+in the PCR using 0.5 jig each of oligonucleotide primers L1351 and L1353.
+Additional specific PCR conditions were as follows: 2 mM MgCl2, 2.5 U Taq
+polymerase (Perkin-Elmer Cetus, Emeryville, CA), denaturation at 94° for 1.5
+min, annealing 44° for 2 min, extension 71° for 3 min; 25 cycles.
+Cloning and automated DNA sequencing
+The PCR reaction product was purified on glass beads (Geneclean, BIO 101,
+Inc La Jolla, CA), digested with EcoRI and Sail and passed through a Linkers
+6 Quick Spin column (Boehringer/Mannh, Indianapolis, IN) before ligation in
+the EcoRI/Sall sites of vector pGEM 3Zf(+) (Promega, Madison, WI). Plasmids,
+prepared (23) from JM 101 bacteria transformed with the ligation mixture, were
+analyzed by restriction digestion and their inserts, if present, were sequenced.
+Both strands were sequenced by dideoxy chain termination on an ABI 370A or
+373A DNA Sequencer (Applied Biosystems, Inc. Foster City, CA) using the SP6
+and T7 vector primer sequences. Sequences were analyzed on a VAX-VMS version
+5.2 computer with the programs of the University of Wisconsin Genetics Computer
+Group (24) or with ABI:s SEQ ED 675 version 1.0.9 (ABI, Foster City, CA).
+Direct, manual DNA sequencing
+Oligonucleotide primer pair 2217/2219 or 2483/2484 were used (0,5 jig of each
+primer) to PCR-amplify 1 ng of genomic DNA, using PCR conditions: 2 mM
+MgCI2, 2.5 U Taq polymerase, denaturation at 94° for 1 min, annealing at 45°
+
+Downloaded from https://academic.oup.com/hmg/article-abstract/1/6/427/632304
+by Reprints Desk user
+on 13 April 2018
+
+REFERENCES
+1. Lesch, M. and Nyhan, W.L. (1964) Am. J. Med., 36, 561-570.
+2. Seegmiller, J.E., Rosenbloom, F.M. and Kelley, W.N. (1967) Science, 155,
+1682-1683.
+3. Stout, J.T. and Caskey, C.T. (1989) In Scriver, C.R., Beaudet, A.L., Sly,
+W.S. and Valle, D. (eds), The Metabolic Basis of Inherited Disease 6th cd.
+New York McGraw-Hill. 1007-1028.
+4. Page, T., Bakay, B., Nissinen, E. and Nyhan, W.L. (1981) J. Inher. Metab.
+Dis. 4, 203-206.
+5. Page, T. and Nyhan W.L. (1989) In Mikanagi, K., Nishioka, K. and Kelley,
+W.N. (eds), Purine and Pyrimidine Metabolism in Man VI. Plenum
+Publishing Corp. 129-134.
+6. Matsubara, Y., Narisawa, K., Miyabayashi, S., Tada, K., Coatts, P.M.,
+Bachman, C , Hsas H, L.J., Pollitt, R.J., Rhead, W.J. and Roe, C.R. (1990)
+Biochem. Biophys. Res. Comm. 171, 498-505.
+7. Zimran, A., Gross, E., West, C , Sorge, J., Kubitz, M. and Beutler, E.
+(1989) The Lancet 2(8659) 349-352.
+8. Wilson, J.M., Tarr, G.E., Mahoney, W.C. and Kelley, W.N. (1982) J. Bwl.
+Chem. 257, 10978-10985.
+9. Patel, P.I., Framson, P.E., Caskey C.T. and Chinault, A.C. (1986) Mol.
+Cell. Biol. 6(2), 393-403.
+10. Kim, S.H., Moores, J.C., David, D., Respess, J.G., Jolly, D.J., and
+FriedmannJ. (1986) Nucl. Acid. Res. 14, 3103-3118.
+11. Gibbs, R.A., Nguyen, P., McBride, L.J., Koepf, S.M. and Caskey, C.T.
+(1989) Proc. Natl. Acad. Sci. USA. 86, 1919-1923.
+12. Gibbs, R.A., Nguyen, P., Edwards, A., Civitello, A.B. and Caskey, C.T.
+(1990) Genomics. 7, 235-244.
+13. Davidson, B.L., Tarle, S.A., Palella, T.D. and Kelley, W.N. (1989) J. Clin.
+Invest. 84, 342-346.
+14. Davidson, B.L., Tarle, S.A., van Antwerp, M., Gibbs, D.A., Watts, R.W.E.,
+Kelley, W.N. and Palella, T.D. (1991) Am. J. Hum. Genet. 48, 951 - 9 5 8 .
+15. Tarle, S.A., Davidson, B.L., Wu, V.C., Zidar, FJ., Seegmiller, E.J , Kelley,
+W.N. and PalellaJ.D. (1991) Genomics. 10, 499-501.
+16. Sege-Peterson, K., Nyhan, W.N. and Page, T. (1992) In Rosenberg, R.,
+Prusiner, S., DiMauro, S., Barchi, R. and Kunkel, L. (eds) Molecular and
+Genetic Basis of Neurological Disease. Butterworths/Heineman. In press.
+17. Sly, W.S., Sekhon, G.S., Kennett, R., Bodmer, W.F. and Bodmer, J. (1976)
+Tissue Antigens. 7, 165-172.
+18. Page, T., Bakay, B. and Nyhan, W.L. (1982) Anal. Biochem. 122, 144-147.
+19. Jolly, D.J., Okayama, H., Berg, P., Esty, A . C , Filpua, D., Bohler, P.,
+Johnson, G.G., Shively, J.E., Hunkapiller, T. and Friedmann, T. (1983)
+Proc. Natl. Acad. Sci. USA. 80, 477-481.
+20. Edwards, A., Voss, H., Rice, P., Civitello, A., Stegman, J., Schwager,
+C , Zimmerman, J., Erfle, H., Caskey, C.T. and Ansorge, W. (1990)
+Genomics. 6, 593-608.
+21. Applied Biosystems. User Bulletin, DNA Sequencer Model 370. (1989)
+Synthesis of fluorescent-based DNA sequencing. Applied Biosystems (Foster
+City, CA). January 10, No.ll.
+22. Badley, J.E., Bishop, G.A., St.John, T. and Frelinger, J.A. (1988)
+BioTechniques. 6,114-116.
+
+432 Human Molecular Genetics, Vol. 1, No. 6
+23. Kraft, R., TardiffJ., Krauter, K.S. and Leinwand, L.A. (1988)
+BioTechniques. 6, 544-547.
+24. Devereux, J., Haeberii, P. and Smithies, O. (1984) Nucl. Acids Res 12,
+387-395.
+25. Yang, T.P., Patel, P.I., Chinault, A.C., Stout, J.T., Jackson, L.G.,
+Hildebrand, B.M. and Caskey, C.T. (1984) Nature. 310, 412-414.
+26. Gottlieb, R.P., Koppel, M.M., Nyhan, W.L., Bakay, B., Nissinen, E.,
+Borden, M. and Page, T. (1982) J. Inner. Metab. Dis. 5, 183-186.
+27. Hersch, J.H., Page, T., Hand, M.E., Seegmiller, J.E., Nyhan, W.L. and
+Weiskopf, B. (1986) Ped. Neurol. 2, 302-304.
+28. Bakay, B., Nissinen, E., Sweetman, L., Francke, U. and Nyhan, W.L. (1979)
+Pediat. Res. 13, 1365-1370.
+29. Page, T., Nyhan, W.L. and DeVega, V.M. (1987) Pediatrics. 79, 713-717.
+30. Page, T., Broock, R.L., Nyhan, W.L. and Nieto, L.H. (1986) Clin. Chim.
+Acta. 154, 195-202.
+31. Ehrlich, M. and Wang, R. Y.-H. (1981) Science. 212, 1350-1357.
+32. Johnson, G.G., Eisenberg, L.R. and Migeon, B.R. (1979) Science. 203,
+174-175.
+33. Argos, P., Hanei, M., Wilson, J.M. and Kelley, W.N. (1983) J. Biol. Chem.
+258, 6450-6457.
+34. King, A. and Melton, D.W. (1987) Nucl. Acid. Res. 15, 10469-10481.
+35. Davidson, B.L., Pashmforoush, M., KeUey, W.N. and Palella, T.D. (1989)
+J. Biol. Chem. 264, 520-524.
+
+Downloaded from https://academic.oup.com/hmg/article-abstract/1/6/427/632304
+by Reprints Desk user
+on 13 April 2018
+
+
