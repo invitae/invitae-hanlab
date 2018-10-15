@@ -1,9 +1,20 @@
-# This script makes a small sample dataset for code review.
-
 import os
 from shutil import copyfile
 import pickle
 import pandas as pd
+
+'''
+Authors:
+    Jinfeng Xiao (jxiao13@illinois.edu)
+    Matthew Davis (matthew.davis@invitae.com)
+    
+# This script makes a small sample dataset for code review.
+
+'''
+
+
+
+
 
 if __name__ == "__main__":
     INDIR = "../data/"

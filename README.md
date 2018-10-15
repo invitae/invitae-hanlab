@@ -2,10 +2,12 @@
 
 ## ElasticSearch
 
-ElasticSearch docker-compose config was adapted from [Elastic's Docker documentation](https://www.elastic.co/guide/en/elasticsearch/reference/6.3/docker.html).
-A custom Dockerfile was created to bootstrap the installation with the [ElasticSearch Learning to Rank Plugin](https://elasticsearch-learning-to-rank.readthedocs.io/en/latest/).
-We are using the default container number recommended by ElasticSearch of 2 for local development, though in Invitae's production
-infrastructure we can scale this to more containers.
+ElasticSearch docker-compose config was adapted from 
+[Elastic's Docker documentation](https://www.elastic.co/guide/en/elasticsearch/reference/6.3/docker.html).
+A custom Dockerfile was created to bootstrap the installation with the 
+[ElasticSearch Learning to Rank Plugin](https://elasticsearch-learning-to-rank.readthedocs.io/en/latest/).
+We are using the default container number recommended by ElasticSearch of 2 for local development, though in Invitae's 
+production infrastructure we can scale this to more containers.
 
 To start the ElasticSearch cluster locally, navigate to `./elasticsearch` and run:
 
@@ -21,7 +23,8 @@ $ test_index.sh
 
 ## Bag of Words (BoW)
 
-Note: Codes and a sample dataset are included. The original data files are not. The sample dataset was generated from the original dataset with the script `make_data_sample.py`.
+Note: Codes and a sample dataset are included. The original data files are not. The sample dataset was generated from 
+the original dataset with the script `make_data_sample.py`.
 
 Steps:
 
