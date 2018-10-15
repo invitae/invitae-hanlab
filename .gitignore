@@ -134,5 +134,5 @@ Temporary Items
 .apdisk
 
 # data files
-*.pkl
+./bag_of_words/data_sample/processed/*.pkl
 
