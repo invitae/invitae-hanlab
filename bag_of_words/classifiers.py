@@ -1,4 +1,4 @@
-import sys
+import os
 import pickle
 from itertools import compress
 from sklearn.model_selection import cross_validate
@@ -6,7 +6,8 @@ from sklearn.svm import LinearSVC, SVC
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.ensemble import RandomForestClassifier
 from imblearn.ensemble import BalancedBaggingClassifier
-from utils import *
+from utils.logger import get_console_logger
+from utils.config import load_config
 
 """
 Authors:
@@ -18,30 +19,60 @@ Summary:
 """
 
 
-def read_bag_of_words(indir, tokenizer="tfidf"):
-    with open(indir + "bag_of_words_" + tokenizer + ".pkl", 'rb') as fin:
-        bow = pickle.load(fin)  # doc-by-word count sparse matrix
-        bow_rownames = pickle.load(fin)  # list of PMIDs
-        bow_colnames = pickle.load(fin)  # list of distinct words
+def read_bag_of_words(input_dir, tokenizer="tfidf"):
+    """
+
+    :param input_dir:
+    :param tokenizer:
+    :return:
+        - bow: doc-by-word count sparse matrix,
+        - bow_rownames: list of PMIDs
+        - bow_colnames: list of distinct words
+    """
+    with open(input_dir + "bag_of_words_" + tokenizer + ".pkl", 'rb') as fin:
+        bow = pickle.load(fin)
+        bow_rownames = pickle.load(fin)
+        bow_colnames = pickle.load(fin)
+
     return bow, bow_rownames, bow_colnames
 
 
-def read_doc_labels(indir):
-    with open(indir + "doc_labels.pkl", 'rb') as fin:
-        labels = pickle.load(fin)  # doc labels
+def read_doc_labels(input_dir):
+    """
+
+    :param input_dir:
+    :return: doc labels
+    """
+    with open(input_dir + "doc_labels.pkl", 'rb') as fin:
+        labels = pickle.load(fin)
+
     return labels
 
 
 def rm_doc_without_label(bow, bow_rownames, labels):
-    # Remove docs that have no labels from the BoW matrix
+    """
+    Remove docs that have no labels from the BoW matrix
+
+    :param bow:
+    :param bow_rownames:
+    :param labels:
+    :return: subsets of bow, bow_rownames, and labels
+    """
     labels_pos_ind = (labels.sum(axis=1) > 0)
     labels_pos_ind.sum() * 1.0 / len(labels_pos_ind)
-    # Return subsets of bow, bow_rownames, and labels
-    return bow[labels_pos_ind.values, :], list(compress(bow_rownames, labels_pos_ind.values)), labels[
-        labels_pos_ind.values]
+
+    return bow[labels_pos_ind.values, :], \
+           list(compress(bow_rownames, labels_pos_ind.values)), \
+           labels[labels_pos_ind.values]
 
 
 def model_initiator(classifier, n_estimators=1):
+    """
+
+    :param classifier:
+    :param n_estimators:
+    :return:
+    """
     clf = None
     logger = get_console_logger(name="model_initiator")
     if classifier == "svc-linear-l1":
@@ -64,9 +95,20 @@ def model_initiator(classifier, n_estimators=1):
         return clf
 
 
-def cross_validation(classifier, X, y, cv_fold=3, n_estimators=1, n_jobs=-1, par=[]):
+def cross_validation(classifier, X, y, cv_fold=3, n_estimators=1, n_jobs=-1, par=[], **kwargs):
+    """
+
+    :param classifier:
+    :param X:
+    :param y:
+    :param cv_fold:
+    :param n_estimators:
+    :param n_jobs:
+    :param par:
+    :param kwargs:
+    :return:
+    """
     scoring = ["precision", "recall", "f1", "accuracy"]
-    logger = get_console_logger(name=classifier)
     logger.info("Training & testing {0} with {1}-fold CV ...".format(classifier, cv_fold))
     clf = model_initiator(classifier, n_estimators)
     cv_results = cross_validate(clf, X, y, cv=cv_fold, n_jobs=n_jobs, scoring=scoring, return_train_score=False)
@@ -75,25 +117,35 @@ def cross_validation(classifier, X, y, cv_fold=3, n_estimators=1, n_jobs=-1, par
     logger.info("  Recall: " + str(sum(cv_results['test_recall']) / cv_fold))
     logger.info("  F1: " + str(sum(cv_results['test_f1']) / cv_fold))
     logger.info("")
+
     return cv_results
 
 
 if __name__ == "__main__":
-    INDIR = "../data/processed/"
-    CV_FOLD = 3
-    CLASSIFIER = sys.argv[1]
-    N_ESTIMATORS = int(sys.argv[2])
     logger = get_console_logger(name="classifiers")
-    bow, bow_rownames, bow_colnames = read_bag_of_words(INDIR, tokenizer='tfidf')
-    labels = read_doc_labels(INDIR)
+    config_d = load_config(os.path.abspath("config.yml"), 'classifier')
+
+    bow, bow_rownames, bow_colnames = read_bag_of_words(config_d.get("input_dir"), tokenizer='tfidf')
+
+    labels = read_doc_labels(config_d.get("input_dir"))
+
     bow, bow_rownames, labels = rm_doc_without_label(bow, bow_rownames, labels)
-    print(len(bow_colnames))
-    for label in ["individual_observations", "functional_experiments", "family_studies", "sequence_observations"]:
+
+    logger.info("Using {} columns of data".format(len(bow_colnames)))
+
+    for label in config_d.get("labels"):
         logger.info("Class: " + label)
-        cv_results = cross_validation(classifier=CLASSIFIER, X=bow, y=labels[label], cv_fold=CV_FOLD,
-                                      n_estimators=N_ESTIMATORS, n_jobs=-1, par=[])
-    logger.info("N_ESTIMATORS: " + str(N_ESTIMATORS))
-    logger.info("N_TOKENS: " + str(len(bow_colnames)))
+        cv_results = cross_validation(  # classifier=config_d.get("algorithm"),
+            X=bow,
+            y=labels[label],
+            # cv_fold=config_d.get("cv_folds"),
+            # n_estimators=config_d.get('n_estimators'),
+            n_jobs=-1,
+            par=[],
+            **config_d)
+
+    logger.info("N_ESTIMATORS: %(n_estimators)s" % (config_d))
+    logger.info("N_TOKENS: %s" % (len(bow_colnames)))
 
 # Ignore words whose DF does not fall within a given range
 # max_df = 0.5
