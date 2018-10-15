@@ -1,5 +1,18 @@
 classifier:
-  - input_dir: "../data/processed/"
-  - cross_validation_folds: 3
-  - classifier: ""
-  - n_estimators: 1
+  input_dir: "data_sample/processed/"
+  cv_folds: 3
+  # random-forest, svc-linear-l1, svc-linear-l2, svc-radial, decision-tree
+  classifier: svc-linear-l1
+  n_estimators: 1
+  labels:
+    - individual_observations
+    - functional_experiments
+    - family_studies
+    - sequence_observations
+bag_of_words:
+  input_dir: "data_sample/raw/pubmed-txts-mf/"
+  output_dir: "data_sample/processed/"
+  tokenizer: "tfidf"
+  output_format: pkl
+  max_df: !!float 0.5
+  min_df: !!float 0.01
