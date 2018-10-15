@@ -3,35 +3,50 @@
 import os
 import numpy as np
 import pickle
-from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
+from modules import *
 
-INDIR = "../data_sample/raw/pubmed-txts-mf/"
-OUTDIR = "../data_sample/processed/"
-vectorizer = CountVectorizer()
+def read_corpus(indir):
+    # Read papers into a list
+    logger = get_console_logger("read_corpus")
+    corpus = {x:'' for x in os.listdir(indir)}
+    logger.info("Reading corpus ...")
+    for pmid in corpus:
+        for field in os.listdir(indir + pmid + '/'):
+            with open(indir + pmid + '/' + field, 'r') as fin:
+                text = fin.read().replace('\n', ' ')
+                corpus[pmid] += text
+    return corpus
 
-# Read papers into a list
-pmids = os.listdir(INDIR)
-pmids.sort()
-# pmids = pmids[:5]  # For debugging
-corpus = [''] * len(pmids)
-print("Reading corpus ...")
-for i in range(len(pmids)):
-    if i % 10000 == 0:
-        print(str(i) + " docs processed ...")
-    for field in os.listdir(INDIR + pmids[i] + '/'):
-        with open(INDIR + pmids[i] + '/' + field, 'r') as fin:
-            text = fin.read().replace('\n', ' ')
-            corpus[i] += text
-print('')
+def tokenize_corpus(corpus, outdir, tokenizer="tf", output="pkl", max_df=0.5, min_df=0.01):
+    # Tokenize a corpus into a doc-by-token sparse matrix
+    logger = get_console_logger("tokenize_corpus")
+    logger.info("Building bag-of-words representation ...")
+    if tokenizer == "tf":
+        vectorizer = CountVectorizer(max_df=max_df, min_df=min_df)
+    elif tokenizer == "tfidf":
+        vectorizer = TfidfVectorizer(max_df=max_df, min_df=min_df)
+    else:
+        logger.error("Invalid tokenizer.")
+    bow = vectorizer.fit_transform(list(corpus.values()))
+    if output == "pkl":
+        outfile = outdir + "bag_of_words_" + tokenizer + ".pkl"
+        logger.info("Writing to %s ..." % format(outfile))
+        with open(outfile, 'wb') as fout:
+            pickle.dump(bow, fout)
+            bow_rownames = list(corpus.keys())
+            pickle.dump(bow_rownames, fout)
+            bow_colnames = vectorizer.get_feature_names()
+            pickle.dump(bow_colnames, fout)
+    #elif output == "csv":
+    #    
+    else:
+        logger.error("Invalid tokenization output format.")
+    logger.info("Done!")
 
-# Convert papers to bags of words, and save objects to file
-print("Building bag-of-words representation ...")
-bow = vectorizer.fit_transform(corpus)
-with open(OUTDIR + "bag_of_words.pkl", 'wb') as fout:
-    pickle.dump(bow, fout)
-    bow_rownames = pmids
-    pickle.dump(bow_rownames, fout)
-    bow_colnames = vectorizer.get_feature_names()
-    pickle.dump(bow_colnames, fout)
-print("Done!")
+if __name__ == "__main__":
+    INDIR = "../data_sample/raw/pubmed-txts-mf/"
+    OUTDIR = "../data_sample/processed/"
+    corpus = read_corpus(indir=INDIR)
+    tokenize_corpus(corpus, OUTDIR, tokenizer="tf", output="pkl", max_df=0.5, min_df=0.01)
 

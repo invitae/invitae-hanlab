@@ -1,19 +1,23 @@
-import pickle, heapq
+# Train and test bag-of-words classifiers for doc label prediction
+
+import pickle
+import heapq
 from itertools import compress
 import numpy as np
 from sklearn.model_selection import cross_validate
 from sklearn.svm import LinearSVC
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.ensemble import RandomForestClassifier
+from modules import *
 
-indir = "../data_sample/processed/"
+INDIR = "../data_sample/processed/"
 
-with open(indir + "bag_of_words.pkl", 'rb') as fin:
+with open(INDIR + "bag_of_words.pkl", 'rb') as fin:
     bow = pickle.load(fin)  # doc-by-word count sparse matrix
     bow_rownames = pickle.load(fin)  # list of PMIDs
     bow_colnames = pickle.load(fin)  # list of distinct words
 
-with open(indir + "doc_labels.pkl", 'rb') as fin:
+with open(INDIR + "doc_labels.pkl", 'rb') as fin:
     labels = pickle.load(fin)  # doc labels
 
 # Remove docs that have no labels
@@ -92,4 +96,3 @@ for label in ["individual_observations", "functional_experiments", "family_studi
     print("")
     print("")
     print("")
-
