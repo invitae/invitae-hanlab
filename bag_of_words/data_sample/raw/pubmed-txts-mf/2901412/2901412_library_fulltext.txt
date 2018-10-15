@@ -1,0 +1,838 @@
+THEJOURNAL
+OF BIOLOGICAL
+CHEMISTRY
+0 1988 by The American Society for Biochemistry and Molecular Biology, Inc
+
+Vol. 263, No. 26, Issue of September 15, pp. 13276-13281,1988
+Printed in U.S.A.
+
+Transport-deficient Mutations in the Low Density
+Lipoprotein Receptor
+ALTERATIONSIN THE CYSTEINE-RICH AND CYSTEINE-POOR REGIONS OF THE PROTEIN BLOCK
+INTRACELLULAR TRANSPORT*
+(Received for publication, May 16, 1988)
+
+Victoria Esser and David W. Russell$
+From the Department of Molecular Genetics. The Universityof Texas SouthwesternMedical Center at Dallas,
+’
+Dallas, Tex& 75235
+
+Certain individuals with familial hypercholesterolemia (FH) produce mutant forms of the low density
+lipoprotein (LDL) receptor that fail to move from the
+endoplasmic reticulum to the Golgi complex. Here, we
+describe the cloning and expression of one such mutant
+allele, FH 429. The mutation causes a substitution of a
+Val for a Gly at residue 544. When recreated in an
+expressible cDNA, this substitution gives rise to an
+LDL receptor that is not transported to the cell
+surface
+and is rapidly degraded. Three previously mapped
+transport-deficient alleles of the LDL receptor were
+traced to the cysteine-rich repeats of the protein, suggesting that the generation of non-disulfide-bonded
+(free) cysteinesmight cause the block in transport. The
+FH 429 mutation is not located in a cysteine-rich region, however. We have attempted to test the role of
+cysteine by expressing mutant cDNAs that encode proteins blocked in transport and predicted to contain free
+cysteines. The results suggest that free cysteines are
+not obligatory for the blocked intracellular movement
+of mutant LDL receptors.
+
+The human low density lipoprotein (LDL)’ receptor is a
+cell surface glycoprotein of 839 amino acids that supplies cells
+with cholesterol (1).The receptor is synthesized in the endoplasmic reticulum as a 120-kDa precursor that contains high
+mannose asparagine-linked carbohydrate chains and serineand threonine-linked N-acetylgalactosamine (2). Transport
+through the Golgi apparatus alters the protein to a 160-kDa
+mature form that contains N-linked carbohydrates that have
+been trimmed and sialylated and 0-linked sugars that have
+been elongated by the addition of galactose and sialic acid (2).
+The 160-kDa LDL receptor is transported to the cell surface
+where it mediates the uptake of cholesterol-rich LDL particles
+(1).
+* This research was supported by research grants from the National
+Institutes of Health (HL 31346) and theRobert A. Welch Foundation
+(1-971).The costs of publication of this article were defrayed in part
+by the payment of page charges. This article must therefore be hereby
+marked ‘‘advertisement” in accordance with 18 U.S.C. Section 1734
+solely to indicate this fact.
+The nucleotide sequence(s) reported in thispaperhas been submitted
+to the GenBankTM/EMBLDataBankwith
+accession numberfs)
+502790.
+
+$Recipient of a National Institutes of Health Research Career
+Development Award (HL 01287).
+The abbreviations used are: LDL, low density lipoprotein; bp,
+base pair; kb, kilobase pair; CHO, Chinese hamster ovary; EGF,
+epidermal growth factor; endo H, endo-0-N-acetylglucosaminidase
+H;
+FH, familial hypercholesterolemia; SDS, sodium dodecyl sulfate.
+
+The LDL receptor contains an extracellular domain of 767
+amino acids, a transmembrane domain, and a carboxyl-terminal domain of 50 residues located within the cytoplasm (3,
+4). More than one-half of the extracellular domain is composed of cysteine-rich repeats, each of which spans 40 amino
+acids and contains 6 cysteines (5). The repeats are of two
+types. One type is present in seven copies, and these together
+make up the ligand binding domain.2 The second type of
+repeat, present in three
+copies (5), is required for acid-dependent ligand dissociation and recycling of the receptor (6).
+This latter repeat is similar in structure to the epidermal
+growth factor (EGF), andfor this reason has been referred to
+as a “growth factor” repeat (7). Growth factor repeats are
+present in a diverse array of proteins, including other cell
+surface receptors, blood clotting factors, growth factors, and
+neurogenic loci in lower eukaryotes (6).
+In at least two of the proteins that contain growth factor
+repeats, the disulfide bonding pattern of the 6 cysteine residues has been elucidated. In EGF (8) and in prothrombin (9),
+the first cysteine forms a covalent bond with the third cysteine, the second with the fourth, andthe fifth with the sixth.
+It is likely that the same pattern will be present among all
+proteins thatsharethis
+repeat. It is also likely that the
+presence of three such bonds within a 40-amino acid repeat
+would lead to a tightly folded domain (10). Indeed studies of
+EGF by nuclear magnetic resonance techniques have revealed
+a compact triple-stranded P-sheet conformation held together
+by the three disulfide-bonded cysteines (11).The disulfide
+bonding pattern of the seven cysteine-rich repeats in the
+ligand binding domain of the LDL receptor is at present not
+known. However, chemical modification studies have shown
+that most, if not all of the cysteines in the receptor are
+involved in disulfide bonds (12, 13).
+Recently, the characterization of naturally occurring mutations in the LDL receptor gene has revealed another possible role for the disulfide-bonded cysteines, namely, a role in
+intracellular transport. These mutations are present in individuals with the genetic disease familial hypercholesterolemia
+(FH) andmay be divided into classes based on their disruption
+of LDL receptor synthesis, intracellular transport, orvarious
+binding activities (1).Three different FH mutations that slow
+the transport of the protein to the plasma membrane have
+been localized to thecysteine-rich repeats. The first mutation
+was isolated from the Watanabeheritable hyperlipidemic
+rabbit, an animal model of FH (14). In this mutation, a 12base pair (bp) deletion was found in the third cysteine-rich
+repeat of the ligand binding domain. A second mutation,
+
+* Esser, V., Limbird, L. E., Brown, M. S., Goldstein, J. L., and
+Russell, D. W. (1988) J. Biol. Chem. 263, 13282-13290.
+
+13276
+
+Transport-deficient LDL Receptors
+present in an individual known as FH 563, was localized to
+the fifth repeat in this domain by nuclease S1 mapping (141,
+and was later shown to be a 3-bpdeletion by DNA sequencing
+(15).Cells harboring these two mutations produced a receptor
+precursor with an M , of about 120,000 that possessed endoglycosidase H-sensitive carbohydrates characteristic of proteins that have not reached the Golgi apparatus (2, 14). One
+hypothesis to explain the block in transport was that the
+deletions were disrupting the formation of disulfide bonds in
+the mutant repeat and that the cell was in some manner
+sensing the unpaired or mispaired cysteines and preventing
+transport (14).
+This hypothesis was reinforced with the analysis of a third
+transport-deficient LDL receptor (13). In this FH gene, a
+single base pair change was present in an exon encoding one
+of the growth factor repeats (the C repeat (5)). The mutation
+converted a cysteine codon at amino acid 660 into anonsense
+codon, and resulted in a protein of M , 100,000 that lacked a
+membrane spanning domain (13). Cysteine 660 is the thirdof
+six cysteines in the C repeat. In this protein the first and
+second cysteines should exist in a free state, as their normal
+paired counterparts (the third and fourth cysteines, respectively) were absent (13). These results provided further evidence that alterations in thedisulfide bonding pattern might
+be responsible for the block in transport.
+Naturally occurring mutations that alter transport to the
+cell surface have recently been described in at least two other
+proteins, and both may involve cysteines. First, Kishimoto et
+ul. (16) demonstrated that some mutant genes for the common
+@-subunitof the leukocyte adhesion proteins, found in subjects with leukocyte adhesion deficiency, encode proteins that
+are not transported to the cell surface. Although the precise
+location of the mutation is not known, the @-subunit contains
+four cysteine-rich repeats (17), and it ispossible that defects
+in these regions underlie the transport-deficient p-subunit
+phenotypes. Second, in certain forms of osteogenesis imperfecta, mutations that substitute cysteine for a residue in the
+glycine-X-Y repeat of the cy1 chain of collagen blockintracellular transport (18-21). These cysteine residues form abnormal interchain disulfide bonds thatare thought to block
+transport (20, 21).
+Here, we have characterized a fourth mutation in the LDL
+receptor gene that encodes a transport-deficient protein. In
+contrast to the earlier defects, this mutation does not reside
+in the cysteine-rich repeats. To reexamine the requirement
+for altered cysteines, we have recreated the stop codon at
+position 660 in the LDL receptor in an expressible cDNA and
+have confirmed that the mutantprotein is not transported to
+the plasma membrane. However, when we converted the two
+putative free cysteines into serines, the protein was still not
+transported. Taken together, thesetwo lines of evidence suggest that unpaired or mispaired cysteines are not an essential
+component of the block in transport to the
+cell surface of this
+class of mutant LDL receptors.
+MATERIALS ANDMETHODS
+
+Cloning and Mutagenesis-Genomic DNA was isolated from cultured fibroblasts (22) and analyzed by Southern blottingusing standard procedures (23). Restrictionfragment length polymorphism haplotype analysis of the LDL receptor gene was carried out as described
+in Ref. 24. To clone the FH 429 LDL receptor gene, genomic DNA
+(200 pg) was first digested with the restriction enzymes BamHI or
+BgLII. The DNA was size-fractionated onsucrose gradients and fragments of approximately 15 kb (BamHI)or 11kb (BgtII),that together
+span all exons of the gene (5), were cloned into a bacteriophage X
+Charon 35 vector (25) exactly as described in Ref. 26. Recombinant
+clones were identified by plaque hybridization using exon-specific
+probes derived from the normal LDL receptor gene (5). Bacteriophage
+
+13277
+
+DNA inserts were subcloned into plasmid vectors and further subcloned into bacteriophage M13 vectors (27) for sequence analysis
+(28).
+For in vitro mutagenesis, DNA fragments from the expression
+plasmid pLDLR2 (3) were subcloned into bacteriophage M13 vectors
+and mutagenized according to published procedures (29). The desired
+mutations were identified by plaque hybridization, sequenced, and
+the appropriate DNA fragment was resected into pLDLR2. Plasmid
+DNAs harboring the mutations were prepared by standard procedures
+(23) and banded twice in CsC12 density gradients prior to transfection
+analysis.
+Culture and Transfection of Mammalian Cells-Simian COS-M6
+cells were grown and transfected by a DEAE-dextran technique as
+described by Esser et a1.' A mutant line ofChinese hamster ovary
+(CHO) cells lacking functional LDL receptors (kindly supplied by Dr.
+Monty Krieger, Department of Biology, Massachusetts Institute of
+Technology, Cambridge, MA)was maintained and transfected as
+described in Ref. 30. Followingtransfection, CHO colonies expressing
+the LDL receptor were identified by indirect immunofluorescence
+(30). Several colonies transfected with a given LDL receptor plasmid
+were cloned by limiting dilution and expanded into cell lines for
+subsequent analysis. Radiolabeling and immunoprecipitation of LDL
+receptors was carried outas described in Ref. 30. SDS-polyacrylamide
+gel electrophoresis and autoradiography were performed as described
+H (endo H) and neurin Ref. 2. Endo-P-N-acetylglucosaminosidase
+aminidase treatment of LDL receptor immunoprecipitates was carried out as described previously (30).
+RESULTS
+
+Previous studies with fibroblasts isolated from subject FH
+429 demonstrated that only the 120-kDa precursor form of
+the LDL receptor was present in these cells, that this protein
+was not sensitive to digestion by extracellular Pronase, and
+that theN-linked carbohydrate chains were sensitive to endo
+H (31). Pedigree studies had suggested that FH 429 had
+inherited the same transport-deficient allele from both parents (31).
+Table I indicates
+the results of a restriction fragmentlength
+polymorphism analysis carried out onDNA isolated from FH
+429, his mother, and his father. FH 429 was homozygous at
+each of the 10 polymorphic sites scored, further suggesting
+that he hadinherited the samemutant allele from both
+parents. No gross rearrangements of the gene were detected
+in these studies. RNA blotting revealed that theLDL receptor
+mRNA in FH 429 was identical in size (5.3 kb) to thenormal
+mRNA. Nuclease S1 mapping studies did not reveal a difference between the FH429 mRNA and thenormal mRNA (data
+not shown).
+The exact location of the mutation was determined by
+cloning and sequencing all 18 exons of the FH 429 LDL
+receptor gene. A single nucleotide change that altered the
+amino acid sequence was detected (Table 11). A guanine
+residue in the normal coding strand of exon 11 was changed
+to a thymidine in FH 429, resulting in the substitution of a
+Val for a Gly at position 544. This mutation is predicted to
+destroy a restriction sitefor the enzyme SfuNI (Table 11). To
+confirm this mutation in the genome of FH 429, we digested
+genomic DNAswith SfuNI, subjected the fragments to Southern blotting, and hybridized the filter with a 32P-labeledprobe
+derived from exon 11. In DNA derived from a normal individual, a fragment of 1.8 kb was generated (Fig. 1).In the FH
+429 DNA, a larger fragment of 2.5 kb was generated by the
+loss of the exon 11 SfuNI site and consequent extension of
+the fragment to a site in intron 11. DNA isolated from both
+parents of FH 429 showed a normal SfuNI band of 1.8kb and
+an abnormal band of 2.5 kb. These results confirm that FH
+429 is a truehomozygote. To search for other examples of the
+FH 429 mutation, we screened genomic DNAs isolated from
+23 FH individuals known to have inherited at least one
+transport-deficient allele. The 2.5-kb SfuNI band diagnostic
+
+Transport-deficient LDL Receptors
+
+13278
+
+Subiect
+
+BsmI
+
+Mothef
+Father
+FH 429
+
+++
+++
+++
+
+TABLE
+I
+Restriction fragment length polymorphism analysis of FH 429 family
+SDhI
+StUI
+Avo11
+SWI
+APuLI-5'
+PUUII
+Ne01
+
+++
+++
+
+-++- +
+"
+
+-+
+
+"
+
+"
+
+"
+
+--
+
+"
+
+"
+
+"
+
+"
+
+"
+
+"
+
+"
+
+PstI
+
+--+-
+
+"
+
+"
+
+AwLI-3'
+
+-+
+
+"
+
+"
+
+"
+
+"
+
++, restriction site present; -, restriction site absent.
+TABLE
+I1
+Mutation in FH 429 (Gly-544 + Val-544)
+The DNA sequence of exon 11 from FH 429 was determined by
+the dideoxyterminator method after subcloning the appropriate fragment into a bacteriophage M13 vector. The sequence of both strands
+of the DNAwas determined. The normalamino acid and DNA
+sequence of exon 11 was derived from Yamamoto et al. (3) andSiidhof
+et al. (5).The mutant amino acid and nucleotide residues in the LDL
+receptor protein and gene of FH 429 are circled and underlined,
+respectively. A cleavage site for the restriction enzyme SfaNI thatis
+present in normal DNA is ouerlined. This site is destroyed by the G
++ T transversion mutation in FH 429.
+Normal
+544
+Amino acid number
+Amino acid sequence
+Asn Gly Ile Thr .. .
+Exon 11 DNA sequence
+...AATGIXTTTACC ...
+FH 429
+Exon 11 DNA sequence
+. . AAT GTC
+- ATC ACC ...
+
+. ..
+
+.
+... A s n Q I l e
+
+Amino acid sequence
+Amino acid number
+
+min with [35S]methionine,chased for varying periods of time
+with unlabeled methionine, and thensolubilizedand subjected
+to immunoprecipitation with a monoclonal antibody. Immediately after labeling, the cells transfected with the plasmid
+encoding the wild-type sequence contained both the120-kDa
+precursor and the 160-kDa mature receptor (Fig. 2A, zero
+time). After a 2-h chase, essentially all of the precursor was
+converted into the mature 160-kDa form. In contrast, cells
+transfected with the mutant cDNA expressed only the 120kDa precursor (Fig. 2.4, rightpanel). With increasing times of
+chase (up to 6 h), thisprotein was not converted into ahigher
+molecular weight.
+The N-linked carbohydrate chains of the 120-kDa form of
+the normal LDL receptor are sensitive to endo H digestion,
+while those of the 160-kDa mature form are resistant to this
+glycosidase (Fig. 2B). These results are consistent with the
+
+T h r. . .
+
+A.
+
+544
+
+Chase (hr)
+200-
+
+*
+
+r'
+
+101214161
+
+-
+
+11697Normal
+
+++=+
+B.
+
+Sfa NI
+Normal
+FH 429
+Normal :gCATC
+FH 429 :I C A T C
+
+SfaNI
+SfaNI
+
+Endo H
+
+SfaNI
+~
+
+4
+
+Gly 544Val 544
+
+Exon II
+
+Sfa N I
+
+1.8 kb
+
+2.5 kb
+
+Mr x 10-3
+
+200
+116
+
+- 97
+
+4 2 3 4
+
+b
+
+S f a N I :gCATC
+
+FIG.1. Detection of FH 429 mutation in genomic DNA by
+Southern blotting.Genomic DNA (5 pg) from the indicated individual was digested with SfaNI, electrophoresed, and blotted as
+described in Ref. 22. The filter was hybridized with a 32P-labeled
+single-stranded probe corresponding to exon 11 of the normal LDL
+receptor gene. The sizes of the visualized bands were determined by
+comparison to DNA standards electrophoresed in adjacent lanes on
+the gel. The proposed origin of the fragments is shown below the
+autoradiogram.
+of the FH 429 mutation was not present in any of these
+subjects (data not shown), indicating that the frequency of
+this allele is low.
+To confirm that theobserved Gly-544+ Val-544 mutation
+in the FH 429 gene gave rise to the transport-deficient phenotype, we recreated the mutation in the expression plasmid
+pLDLR2 by site-directed mutagenesis. The resulting cDNA
+was transfected into CHO cellsand permanentcell lines were
+established. The transfected cells were pulse-labeled for 90
+
+FIG.2. Biosynthesis of receptors in transfectedCHO cells.
+Plasmids encoding the indicatedprotein were transfected into a
+mutant line of CHO cells that express no endogenous hamster LDL
+receptors (48). Permanent cell lines expressing the indicated LDL
+receptor proteins were established and cultured as described (30). On
+day 5 of cell growth, the cells were pulse-labeled with 150 pCi/ml of
+[35S]methionine inmethionine-free Ham's F-12 medium supplemented with 10% lipoprotein-deficient serum, followed bya chase for
+the indicated time in medium containing 0.2 mM unlabeled methionine. In A , radiolabeled LDL receptors were immunoprecipitated
+from solubilized cells and electrophoresed on 7% polyacrylamide gels
+containing SDS. In B, the immunoprecipitates were incubated for 16
+h at room temperature in 40 pl of30 mM sodium citrate (pH 5.5),
+0.75% (w/v) SDS, 1 mM phenylmethylsulfonyl fluoride, and 1 mM
+dithiothreitol, in the absence (-) or presence (+) of 40 milliunits of
+endoglycosidase H as indicated. After treatment, 40 pl of buffer
+containing 20% (v/v) glycerol, 120 mM Tris-C1 (pH 6.8),and 4.6%
+(w/v) SDS was added to each tube, followed by heating for 5 min at
+90 "C. SDS gel electrophoresis and autoradiography were then carried
+out as described above. Autoradiography was performed for 24-48 h
+at -70 "Cwith intensifying screens. The positions to which unlabeled
+protein M, standards (myosin, 200,000;&galactosidase, 116,000;and
+phosphorylase b, 97,000)migrated to in the gels are indicated on the
+sides of the autoradiograms.
+
+Transport-deficient LDL Receptors
+processing of the N-linked sugars to anendo H-resistantform
+within the Golgi complex during conversion to the 160-kDa
+form (2). The 120-kDa form of the Gly-544 ”+ Val-544 LDL
+receptor was sensitive to endo H digestion (Fig. 2B), suggesting that this protein had not been transported to the medial
+stacks of the Golgi compartment where conversion to endo H
+resistance occurs (32).
+From the pulse-chase experiments shown in Fig. 2, it was
+apparent that LDL receptors with the Gly-544 ”+ Val-544
+substitution were degraded more rapidly than the normal
+protein. To measure more accurately the half-life of the
+mutant LDL receptor, we pulse-labeled transfected CHO cells
+with [35S]methionineand thenimmunoprecipitated receptors
+after various times of chase. The isolated receptors were
+subjected to SDS-gel electrophoresis and the amounts were
+quantified by densitometric scanning of the autoradiograms.
+These studies showed the half-life of the Gly-544 + Val-544
+LDL receptor in transfected CHO cells was reduced to 5 h, as
+compared with the 8.5 h half-life measured for the normal
+protein (Fig. 3).
+Exon 11encodes part of a long sequence of about 280 amino
+acids that separates cysteine-rich repeats B and inCthe EGF
+precursor region of the LDL receptor. The sequence in this
+region is not cysteine-rich. Given the apparent autonomy of
+the individual repeats with respect to disulfide bonding (14,
+26), this observation made it unlikely that theGly-544 +Val544 mutation alteredthe disulfide bonding pattern, andtherefore the block in transport may have been independent of
+abnormal disulfide bonding. To test thishypothesis, we created three additional mutations as
+shown in Table 111. One of
+these duplicated the previously described naturally occurring
+FH mutation at residue 660 in the C repeat. This mutation
+was generated in pLDLR2 by converting the cysteine codon
+a t position 660 into a stop codon. Previous data indicated
+that thisprotein is not moved to theGolgi complex (13). This
+mutation generates two predicted non-disulfide-bonded cysx
+
+Normal
+
+G l y 5 4 4 +Val
+
+0‘
+0
+
+I
+
+2
+
+I
+
+4
+
+I
+
+6
+
+544
+
+1
+
+Time of Chase (hours)
+
+FIG. 3. Degradation of ‘“S-labeledhuman LDL receptors in
+transfected CHO cells. Cells transfected with the indicated plasmid
+were cultured for 5 days and then pulse-labeled and chased as described in the legend to Fig. l. Immunoprecipitation, SDS-polyacrylamide gel electrophoresis, and autoradiography were performed, and
+the resulting autoradiograms were scanned by densitometry. The
+relative intensities of the LDL receptor bands in each cell line were
+determined as a function of time. The data shown for the normal
+LDL receptor represent the mean intensities of the 160-kDa LDL
+receptor band from six different experiments. The data for the Gly544 + Val-544 protein represent the mean intensities of the 120-kDa
+LDL receptor derived from three experiments. The data from the
+multiple experiments was subjected to linear regression analysis to
+determine the accuracy of the plotted curves. The correlation coefficients were 0.7 for the normal LDL receptor and 0.9 for the Gly-544
++ Val LDL receptor.
+
+13279
+
+teines at positions 646 and 656. To determine whether these
+free cysteines were blocking transport, they were mutated to
+serine codons in a second construct (mutation Cys-646, -656
+”+ Ser, STOP 660). The third mutation produced a termination codon at residue 700 (mutation Thr-700 + STOP 700)
+located just after the C
+repeat. In this protein all of the
+disulfide bonds should form normally.
+Each of the mutantcDNAs was transfected into CHO cells
+and then analyzed for intracellular transport in pulse-chase
+experiments. In addition, the LDL receptor proteins were
+assayed for their susceptibility to endo H and/or neuraminidase digestion, and their half-lives were measured. The results
+of this series of experiments aresummarized in Table111. The
+mutation that truncated the
+protein within the C repeat(Cys660 + STOP 660), encoded a protein of 100 kDa that was
+not secreted from the cell (despite the absence of a transmembrane domain) and that retained its endo H-sensitive carbohydrate chains. The mutation that converted the two putative
+free cysteines in this protein into serines (Cys-646, -656 +
+Ser, STOP 660), also gave rise to a transport-defective LDL
+receptor with high mannose N-linked sugars (Table 111). As
+with the Gly-544 + Val-544 LDL receptor, the half-lives of
+these two mutantproteins were shorter than the
+normal
+protein. Truncationof the protein after the C repeatgave rise
+to anLDL receptor that was secreted from the cell. Based on
+the glycosidase sensitivity of the carbohydrate chains of this
+protein(TableIII),
+it appeared to travel along the same
+intracellular transport pathway as the 160-kDa form of the
+normal LDL receptor.
+DISCUSSION
+
+In this paper we have characterized several mutations in
+the LDL receptor that block intracellular transport of the
+protein. Based on pulse-chase and endo H sensitivity experiments, each of these mutations encode LDL receptors that
+are not transported throughthe Golgi apparatus and that are
+turned over more rapidly than the normal protein. The data
+demonstrate that transport-deficient LDL receptors can arise
+from alterations in the cysteine-poor as well as cysteine-rich
+regions of the protein. The results presented in Table I11
+further suggest that for mutations involving cysteine-rich
+repeats, the cysteines themselves are not absolutely required
+to block transport.
+The most likely explanation for the block in transport of
+these LDL receptor variants is that all of the mutations
+prevent the polypeptide backbone from folding into its native
+conformation (33). If this hypothesis is correct, then it is
+likely that the unfolded state can be brought about by alterations that occur throughout the protein. The sensitivity of
+the LDL receptor to thistype of mutation may depend on the
+structure of the protein in a given region. Thus, domains of
+the protein, such as hydrophilic loops on the surface, might
+be expected to have less stringent folding requirements with
+respect to the exact spacing and sequence of amino acids
+making up the loop. In contrast, other regions of the LDL
+receptor may be exquisitely sensitive to changes in primary
+sequence. The presence of three disulfide bonds within the 40
+residues of the growth factor repeats may place severe constraints on both the amino acid spacing and sequence required
+for proper folding. In agreement with this prediction is our
+finding that truncationof the LDL receptor immediately after
+the C repeat (mutation Thr-700 ”+ STOP 700) results in a
+secreted form of the protein(Table 111). Presumably, the
+intact C repeat in this protein can adopt a native conformation, whereas mutations that truncate within this repeat can
+not, leading to retention within the cell. In the mutations
+
+13280
+
+Transport-deficient LDL Receptors
+TABLEI11
+Growth factor repeat mutations in LDL receptor
+Cysteines in the LDL receptor growth factor repeat are indicated by the letter C, serines by the letter S, and
+stop codons by an asterisk. Biosynthetic and immunoprecipitation experiments with CHO cells transfected with
+the indicated plasmid were carried out as described in the legend to Fig. 2. Secretion was measured by immunoprecipitation of cell media. Endo H and neuraminidase sensitivity were assayed as described in Ref. 30. Protein
+half-lives were measured as described in the legend to Fig. 3. The values represent the averages from a minimum
+of three separate experiments. N.D., not determined.
+Repeat cysteines
+Secreted
+Neuraminidase-sensitive
+Protein
+Mutation
+
+Ehn;eHzg-
+
+kDa
+
+Normal
+CYS-660+ STOP 660
+cys-646, -656 + Ser, STOP
+660
+Thr-700 + STOP 700
+
+- - CC C C C C "CC
+S S
+
+--
+
+*
+*
+
+"CCCCCC*
+
+-
+
+kDa
+
+120+ 160
+100
+100
+
+No
+No
+No
+
+105 + 116
+
+Yes
+
+160
+
+form
+
+half-life
+
+ma
+
+h
+
+120
+100
+100
+
+None
+None
+
+8.5
+4
+4
+
+105
+
+116
+
+N.D.
+
+examined here, it has not proven possible to isolate enough 38,40, 41). However, we were again unable to detect any
+protein to determine the presence or absence of free cysteine differences between the FH 429 receptor and the precursor
+residues by direct biochemical means. This type of definitive form of the normal protein by this assay. This failure suggests
+experiment must await the development of tissue-culture that, if in fact the mutation blocks folding into the native
+expression systems for the mutant protein, a current goal in conformation, the disruption ishighly localized and/or minor
+this laboratory. Nevertheless, the mutations analyzed in Ta- in magnitude.
+ble I11clearly demonstrate that thecysteines are notnecessary
+Recent immune-electron microscopy studies by Pathak et
+for the transport-deficient phenotype.
+al. (42) have shown that the FH
+429 receptor is located within
+Glycine with its single hydrogen side chain is an amino acid transitional elements of the endoplasmic reticulum. Here, we
+that is often found at space-restricted positions within glob- have not attempted to address the mechanism by which the
+ular proteins (34). Regions of a polypeptide backbone that cell retains the mutant protein in this organelle. Previous
+contain such residues may also be sensitive targets for muta- studies have indicated that this mechanism is evolutionarily
+tions that disrupt folding. The FH 429 mutation, in which a conserved (43,44) and that the
+block in transportmay involve
+bulky valine is substituted for the normal glycine at position the formation of complexes between the abnormal protein
+544,may represent an example of such an alteration. In and a resident protein of the endoplasmic reticulum referred
+support of this hypothesis, internal glycine residues are fre- to asheavy chain binding protein, or Bip (37,45,46). Bip has
+quently conserved when the sequences of the same proteins been postulated to promote the folding of nascent polypeptide
+are compared between evolutionarily distant organisms (35). chains and/or to play an active role in retaining unfolded
+The glycine residue at position-544 in thehuman LDL recep- proteins in the endoplasmic reticulum (47). It has been found
+tor is conserved in both the rabbit (14) and hamster3 proteins,in association with a variety of proteins and may constitute
+suggesting an important role for this amino acid. Alterna- part of a universal recognition system for folding or unfolded
+tively, glycine 544 in the LDL receptor could be analogous to proteins (47). A protein migrating with the molecular weight
+the so called "surface turn" glycines in the bacteriophage P22 of Bip (77,000, Ref.37) is detected in variable amounts in our
+tail spike protein that are important in the
+generation of immunoprecipitation experiments with the different transfolding intermediates (36).The characterization of additional port-defective LDL receptors (data not shown). The variabiltransport-defective LDL receptor mutations in FH may serve ity that we observe may be due to the use of anti-receptor
+antibodies instead of anti-Bip antibodies (46), or to the parto identify folding hot spots involving glycine.
+In the case of the FH 429 LDL receptor, several attempts ticularly stringent immunoprecipitation protocol that we emwere made to obtain direct evidence for an unfolded state. In ploy prior to gel electrophoresis. Experiments are currently
+one series of experiments, immune complexes containing in progress in the laboratory to test the effects of these two
+either the FH 429 or normal LDL receptor precursor were variables on the co-isolation of Bip and transport-deficient
+isolated from radiolabeled transfected cells, subjected to diges- LDL receptors.
+tion with proteases, and then analyzed by gel electrophoresis
+Acknowledgments-We thank Michael Brown and Joseph Goldand autoradiography. Similar experiments with several induced viral protein mutations (37, 38) and a naturally occur- stein for helpful advice and critical reading of the manuscript; Daphne
+ring mutation in a Class I histocompatibility molecule (39), Davis, Shirley Hall, and Edith Womack for excellent technical assistance; and Monty Krieger for supplying the mutant line of CHO
+revealed a differential protease susceptibility between un- cells.
+folded and folded forms of the proteins. In our case however,
+both the normal and mutant proteins were equally sensitive
+REFERENCES
+t o digestion with the proteases employed, suggesting that the
+1. Brown, M. S., and Goldstein, J. L. (1986) Science 232, 34-47
+Gly-544 + Val-544 mutation in FH 429 did not result in a
+2. Cummings, R. D., Kornfeld, S., Schneider, W. J., Hobgood, K.
+grossly denatured protein. In a second series of experiments,
+K., Tolleshaug, H., Brown, M. S., and Goldstein, J. L. (1983)
+J. Biol. Chem. 258, 15261-15273
+we compared the sedimentation propertiesof the normal and
+3. Yamamoto, T., Davis, C.G., Brown, M. S., Schneider, W. J.,
+FH 429 LDL receptors in Triton X-100 sucrose gradients.
+Casey, M. L., Goldstein, J. L., and Russell, D. W. (1984) Cell
+Experiments with the influenza hemagglutinin and thevesic39,27-38
+ular stomatitisvirus G glycoprotein have revealed differences
+4. Russell, D. W., Schneider, W. J., Yamamoto, T., Luskey, K. L.,
+in the aggregation state of normal and unfolded forms (37,
+Brown, M. S., and Goldstein, J. L. (1984) Cell 37,577-585
+R. W. Bishop, T. C. Sudhof, M. S. Brown, J. L. Goldstein, and
+D. W. Russell, unpublished observations.
+
+5. Sudhof, T. C., Goldstein, J. L., Brown, M. S., and Russell, D. W.
+(1985) Science 228, 815-822
+6. Davis, C. G., Goldstein, J. L., Sudhof, T. C., Anderson, R. G . W.,
+
+Transport-deficient LDL Receptors
+Russell, D. W., and Brown, M. S. (1987) Nature 3 2 6 , 760-765
+7. Doolittle, R. F., Feng, D. F., and Johnson, M. S. (1984) Nature
+307,558-560
+8. Cohen, S., and Taylor, J. M. (1974) Rec. Prog. Horm. Res. 30,
+533-550
+9. Magnusson, S., Petersen, T. E., Sottrup-Jensen, L., and Claeys,
+H. (1975) in Proteases and BiologicalControl (Reich, E., Rifkin,
+D. B., and Shaw, E., eds) pp. 123-149, Cold Spring Harbor
+Laboratories, Cold Spring Harbor, NY
+10. Creighton, T.E. (1988) BioEssays 8,57-63
+11. Cooke, R. M., Wilkinson, A. J., Baron, M., Pastore, A., Tappin,
+M. J., Campbell, I. D., Gergory, H., and Sheard, B. (1987)
+Nature 3 2 7 , 339-341
+12. Daniel, T. O., Schneider, W. J., Goldstein, J. L., and Brown, M.
+S. (1983) J. BioL Chem. 258,4606-4611
+13. Lehrman, M. A., Schneider, W. J., Brown, M. S., Davis, C.G.,
+Elhammer, A., Russell, D. W., and Goldstein, J. L. (1987) J.
+Biol. Chem. 262,401-410
+14. Yamamoto, T.,Bishop, R. W., Brown, M. S., Goldstein, J. L.,
+and Russell, D. W. (1986) Science 2 3 2 , 1230-1237
+15. Russell, D. W., Esser, V., andHobbs, H. H. (1988) Arteriosclerosis,
+in press
+16. Kishimoto, T. K., Hollander, N., Roberts, T. M., Anderson, D.
+C., and Springer, T. A. (1987) Cell 5 0 , 193-202
+17. Kishimoto, T. K., OConnor, K., Lee, A., Roberts, T. M., and
+Springer, T. A, (1987) Cell 4 8 , 681-690
+18. Cohn, D. H., Byers, P. H., Steinmann, B., and Gelinas, R. E.
+(1986) Proc. Natl. Acad. Sci. U. S. A. 8 3 , 6045-6047
+19. Steinmann, B., Nicholls, A., and Pope, F. M. (1986) J. Bwl.
+Chem. 261,8958-8964
+20. Vogel, B. E., Minor, R. R., Freund, M., and Prockop, D. J. (1987)
+J. Biol. Chem. 262,14737-14744
+21. Stacey, A., Bateman, J., Choi, T., Mascara, T., Cole, W., and
+Jaenisch, R. (1988) Nature 332, 131-136
+22. Lehrman, M. A., Schneider, W. J., Sudhof, T. C., Brown, M. S.,
+Goldstein, J. L., and Russell, D. W. (1985) Science 227, 140146
+23. Maniatis, T.,Fritsch, E. F., and Sambrook, J. (1982) Molecular
+Cloning: A Laboratory Manual, pp. 1-545, Cold Spring Laboratories, Cold Spring Harbor, NY
+24. Hobbs, H. H., Leitersdorf, E., Goldstein, J. L., Brown, M. S., and
+Russell, D. W. (1988) J. Clin. Znuest. 8 1 , 909-917
+
+13281
+
+25. Loenen, W. A. M., and Blattner, F. R. (1983) Gene (Amst.) 2 6 ,
+171-179
+26. Hobbs, H. H., Brown, M. S., Goldstein, J. L., and Russell, D. W.
+(1986) J. Biol. Chem. 2 6 1 , 13114-13120
+27. Messing, J. (1983) Methods Enzymol. 101, 20-78
+28. Sanger, F., Nicklen, S., and Coulson, A.R. (1977) Proc. Natl.
+Acad. Sei. U. S. A. 74,5463-5467
+29. Zoller, M. J., and Smith, M. (1984) DNA 3,479-488
+30. Davis, C.G., Elhammer, A., Russell, D. W., Schneider, W. J.,
+Kornfeld, S.. Brown, M. S.. and Goldstein, J. L. (1986) J. Biol.
+Chem. 261,.2828-2838
+31. Tolleshaug, H., Hobgood, K. K., Brown, M. S., and Goldstein, J.
+L. (1983) Cell 32,941-951
+32. Kornfeld. R.. and Kornfeld. S. (1976) Annu. Reu. Biochem. 4 6 ,
+217-238
+33. Lodish, H. F. (1988) J. Biol. Chem. 263,2107-2110
+34. Dickerson, R. E., and Geis, I. (1969) The Structure and Action of
+Proteins, W. A. Benjamin, Inc., San Francisco
+35. Jornvall, H., Eklund, H., and Brandbn, C-I. (1978) J. Biol. Chem.
+253,8414-8419
+36. King, J., Haase, C., and Yu, M-h. (1987) in Protein Engineering
+(Oxender, D. L., and Fox, C. F., eds) pp. 109-121, Alan R. Liss,
+Inc., New York
+37. Gething, M-J., McCammon, K., and Sambrook, J. (1986) Cell 4 6 ,
+939-950
+38. Copeland, C. S., Doms, R. W., Bolzau, E. M., Webster, R. G., and
+Helenius, A. (1986) J. Cell Biol. 1 0 3 , 1179-1191
+39. Williams, D. B., Borriello, F., Zeff, R. A., and Nathenson, S. G.
+(1988) J. Biol. Chem. 263,4549-4560
+40. Kreis, T. E., and Lodish, H. F. (1986) Cell 46,929-937
+41. Doms, R. W., Keller, D. S., Helenius, A., and Balch, W. E. (1987)
+J. Cell Biol. 105, 1957-1969
+42. Pathak, R. K., Goldstein, J. L., Brown, M. S., and Anderson, R.
+G. W. (1988) J. Cell Biol. 106,1831-1842
+43. Woychik, N. A., Cardelli, J. A., and Dimond, R. L. (1986) J. Bid.
+Chem. 261,9595-9602
+44. Peacock, S. L., Bates, M. P., Russell, D. W., Brown, M. S., and
+Goldstein, J. L. (1988) J. Bwl. Chem. 263,7838-7845
+45. Hendershot, L., Bole, D., Kohler, G., and Kearney, J. F. (1987)
+J. Cell Biol. 104, 761-767
+46. Dorner, A. J., Bole, D. G., and Kaufman, R. J. (1987) J. Cell Biol.
+105,2665-2674
+47. Pelham, H. R. B. (1986) Cell 46,959-961
+48. Kingsley, D.M., and Krieger, M. (1984) Proc. Natl. Acad. Sci.
+U. S. A. 81,5454-5458
+'
+
+

@@ -1,0 +1,1439 @@
+Fabry Disease: Six Gene Rearrangements and
+a-Galactosidase Gene
+
+an
+
+Exonic Point Mutation in the
+
+Harold S. Bernstein, David F. Bishop, Kenneth H. Astrin, Ruth Komreich, Christine M. Eng, Hitoshi Sakuraba,
+and Robert J. Desnick
+Division ofMedical and Molecular Genetics, Mount Sinai School ofMedicine, New York 10029
+
+Abstract
+Fabry disease, an X-linked recessive disorder of glycosphingolipid catabolism, results from the deficient activity of the lysosomal hydrolase, a-galactosidase. Southern hybridization
+analysis of the a-galactosidase gene in affected hemizygous
+males from 130 unrelated families with Fabry disease revealed
+six with different gene rearrangements and one with an exonic
+point mutation resulting in the obliteration of an Msp I restriction site. Five partial gene deletions were detected ranging in
+size from 0.4 to > 5.5 kb. Four of these deletions had breakpoints in intron 2, a region in the gene containing multiple Alu
+repeat sequences. A sixth genomic rearrangement was identified in which a region of about 8 kb, containing exons 2 through
+6, was duplicated by a homologous, but unequal crossover
+event. The Msp I site obliteration, which mapped to exon 7,
+was detected in an affected hemizygote who had residual enzyme activity. Genomic amplification by the polymerase chain
+reaction and sequencing revealed that the obliteration resulted
+from a C to T transition at nucleotide 1066 in the coding sequence. This point mutation, the first identified in Fabry disease, resulted in an arginine356 to tryptophan3% substitution
+which altered the enzyme's kinetic and stability properties.
+The detection of these abnormalities provided for the precise
+identification of Fabry heterozygotes, thereby permitting molecular pedigree analysis in these families which revealed paternity exclusions and the first documented new mutations in
+this disease.
+
+Introduction
+Fabry disease, an X-linked recessive disorder, results from the
+deficient activity of the lysosomal hydrolase, a-galactosidase
+(a-galactosidase; EC 3.2.1.22) (1). The enzymatic defect in
+this lysosomal storage disease leads to the accumulation of
+glycosphingolipids with terminal a-linked galactosyl moieties, the primary substrate being globotriaosylceramide (galactosyla 1 -l 4galactosylB1- 4glucosylB1-- 1' ceramide) (2).
+In affected hemizygous males, the progressive glycosphingolipid deposition, primarily in the plasma and in lysosomes of
+the vascular endothelium, leads to the major clinical manifestations of the disease, including angiokeratoma, acroparestheAddress reprint requests to Dr. Desnick, Division of Medical and Molecular Genetics, Mount Sinai School of Medicine, Fifth Avenue at
+100th Street, New York, NY 10029.
+Receivedfor publication 3 August 1988 and in revisedform 6 December 1988.
+J. Clin. Invest.
+© The American Society for Clinical Investigation, Inc.
+
+0021-9738/89/04/1390/10 $2.00
+Volume 83, April 1989, 1390-1399
+1390
+
+Bernstein et al.
+
+sias, and vascular disease of the kidney, heart, and brain (1).
+Before the advent of renal dialysis and transplantation, many
+affected males did not survive past the fourth decade oflife (3).
+In contrast, most heterozygous females are clinically asymptomatic or have minimal symptomatology and live a normal
+life span (1).
+Biochemical confirmation of clinically suspect hemizygous
+males can be accomplished definitively by demonstration of
+deficient a-galactosidase activity in various sources including
+plasma, leukocytes, tears, and cultured cells (4-6). Prenatal
+diagnosis of at-risk male fetuses can be made reliably by demonstration of the enzymatic defect in fetal cells obtained by
+amniocentesis or chorionic villi sampling (e.g., 7, 8). In contrast, enzymatic identification of female carriers of the Fabry
+gene is less reliable inasmuch as heterozygotes can express
+levels of a-galactosidase activity ranging from essentially zero
+to normal owing to random X-chromosomal inactivation (9,
+10). In fact, obligate heterozygotes have been reported with
+normal levels of a-galactosidase activity and the absence of the
+characteristic keratopathy (1 1, 12), which has been observed
+by slit-lamp microscopy in 70% of obligate heterozygotes
+(1). In addition, recent evidence suggests that inactivated Xchromosomal genes may become reactivated as a result of
+aging and decreased levels of 5-methyldeoxycytidine (13-15).
+Thus, the demethylation and subsequent reactivation of Xchromosomal genes may explain the not infrequent observation that older obligate heterozygotes have levels of a-galactosidase activity in the high end of the heterozygote range or
+within the normal range (D. F. Bishop and R. J. Desnick,
+unpublished results). Clearly, this recently recognized aging
+phenomenon may further obscure precise enzymatic diagnosis
+of heterozygotes.
+Human a-galactosidase is a homodimeric glycoprotein
+with a mature subunit molecular weight of 46 kD (16-19).
+Biosynthetic studies using polyclonal antibodies produced
+against the purified human enzyme indicated that the a-galactosidase subunit is normally synthesized as a precursor glycopeptide of 50 kD. After cleavage of the signal peptide and
+carbohydrate modifications in the Golgi and lysosomes, mature enzyme subunits of 46 kD form the active, homodimeric
+enzyme (20, 21). In Fabry disease, early studies revealed the
+presence of nonfunctional, immunologically cross-reactive
+enzyme protein in some classically affected hemizygotes (with
+essentially no detectable enzymatic activity), while others had
+no detectable enzyme protein (22, 23). Rare, atypical variants
+with residual a-galactosidase activity and milder phenotypes
+had enzyme protein (24-28), however, the amounts were not
+quantitated. More recent studies of a-galactosidase biosynthesis in fibroblasts from unrelated Fabry hemizygotes demonstrated the occurrence of several types of enzyme defects (21).
+These included: (a) no detectable synthesis of the enzyme precursor, (b) synthesis of an unstable precursor protein, and ab-
+
+-
+
+-
+
+sence of the mature enzyme, (c) synthesis of a mutant precursor of normal size followed by abnormal processing of the
+mutant enzyme subunit to the mature lysosomal form, and (d)
+normal precursor synthesis and processing of the mutant enzyme protein. These findings suggested the occurrence of a
+variety of mutations including gene rearrangements and point
+mutations which affect a-galactosidase synthesis, maturation,
+and stability, as well as subunit association and/or kinetic
+properties.
+Recently, the full-length cDNA and genomic sequences
+encoding human a-galactosidase have been isolated and characterized (29, 30). The full-length cDNA encodes a precursor
+peptide of 429 amino acids including a signal peptide of 31
+residues. The genomic sequence is approximately 12 kb in
+length, contains seven exons ranging in size from 92 to 291 bp
+(30), and has been mapped to the region Xq2 1.33 a Xq22 by
+in situ hybridization (V. R. Potluri et al., unpublished results).
+In this communication, we describe the use of the full-length
+cDNA and genomic restriction maps (30) to identify the first
+molecular lesions in the ca-galactosidase gene which cause
+Fabry disease. Evaluation of 130 unrelated Fabry families revealed six gene rearrangements and an exonic point mutation,
+the latter resulting in the obliteration of an Msp I restriction
+site in this X-linked housekeeping gene.
+
+Methods
+Cell lines. Skin biopsies and peripheral blood samples were obtained
+from Fabry family members with informed consent. Cultured fibroblast lines were established using standard techniques and were grown
+in Weymouth's media supplemented with 10% heat-inactivated fetal
+calf serum, 2 mM glutamine, and 1% penicillin-streptomycin (Gibco,
+Grand Island, NY). Lymphoid cell lines were established with Epstein-Barr virus, using cyclosporin A to increase the efficiency of
+transformation (31), and maintained in RPMI 1640 media containing
+10% heat-inactivated fetal calf serum, 2 mM glutamine, 1% penicillinstreptomycin (Gibco).
+Enzyme studies. The enzymatic diagnosis of affected hemizygotes
+and of heterozygotes for Fabry disease in each family was determined
+by assaying the 4-methylumbelliferyl-a-galactosidase activity in
+plasma, isolated granulocytes and lymphocytes, or cultured fibroblasts
+and lymphoblasts as previously described (4-6) with the following
+modifications. The standard reaction mixture consisted of 25 Ail of
+enzyme source and 150 Ml of substrate solution which contained 5 mM
+4-methylumbelliferyl-a-D-galactopyranoside (Koch-Light, Haverhill,
+England) and 117 mM N-acetylgalactosamine (U.S. Biochemical
+Corp., Cleveland, OH) in 0.1 M citrate/0.2 M phosphate buffer, pH
+4.6. The mixture was incubated at 37°C for 15 min (cell extracts) or 2 h
+(plasma) and was terminated by the addition of 2.33 ml of 0.1 M
+ethylenediamine. Studies of the residual a-galactosidase activity in the
+plasma ofaffected hemizygotes from Family C included determination
+of the apparent Km value and thermostability when preincubated at
+40°C and pH 4.6 in 0.1 M citrate/0.2 M phosphate buffer, or at 40°C
+and pH 7.4 in N-2-hydroxyethylpiperazine-N'-2-ethanesulfonate (Calbiochem-Behring Corp., La Jolla, CA) buffer. Aliquots were removed
+for assay at time points during the 6-h preincubation period.
+Southern hybridization analysis. For each subject, DNA was isolated from mixed peripheral leukocytes (from 20 ml of whole
+blood), cultured fibroblasts or lymphoid cells (at least 106 cells) by the
+method of Aldridge et al. (32), and was digested with Hind III, Msp I,
+Pvu II, Sac I, or Taq I (New England Biolabs, Beverly, MA). Accurate
+quantitation of restriction-digested DNA samples was crucial for determining the nature and extent of the gene rearrangements in Families B and D. This was accomplished by the method of Brunk et al.
+(33), as modified by Aldridge et al. (32), using 4',6-diamidino-2-phenylindole (Accurate Chemical and Scientific, Westbury, NY).
+
+Digested DNA samples were electrophoresed in 1% agarose, transferred to Zetabind transfer media (AMF-Cuno, Meriden, CT) or BioTrace RP charge-modified nylon 66 binding matrix (Gelman Sciences,
+Inc., Ann Arbor, MI) by the method of Southern (34), and analyzed
+with the a-galactosidase cDNA, which was nick-translated using Escherichia coli DNA polymerase I (New England Biolabs) and [a-32P]dATP, [a-32P]dGTP, [a-32P]dCTP, and [a-32P]dTTP (3,000 Ci/mmol;
+Amersham Corp., Arlington Heights, IL; 1 mCi = 37 GBq) (35). Nylon
+membranes were exposed to film (XAR; Eastman Kodak Co., Rochester, NY) with intensifying screens (Cronex Lightening Plus; Dupont
+Co., Wilmington, DE) at -760C for 1-6 d. Densitometric comparison
+of hybridization signals was accomplished using a model GS 300 scanning densitometer with a Hewlett-Packard 3390A integrator (Hoefer
+Scientific Instruments, San Francisco, CA).
+Genomic amplification and sequence determination. Sense and
+anti-sense oligonucleotide primers were synthesized on a model 380B
+DNA synthesizer (Applied Biosystems, Foster City, CA) to regions
+flanking the Msp I site in exon 7. The anti-sense oligonucleotide was a
+29-mer (TCTAGAGGATCCTCACAGGGAGGAGCTGT) constructed complementary to 17 bases of exon 7 sequence (nucleotides
+[nt]' 1155-1171) and contained an additional 12 nt which included a
+Bam HI site. The sense oligonucleotide also was a 29-mer (GATTACGAATTCTGCTTGATAGTTCTGAC) which contained 17 nt of intron 6 sequence and an Eco RI site. Amplification of genomic DNA
+from Family C hemizygotes or normal individuals was achieved by the
+polymerase chain reaction (PCR) with Taq polymerase (Cetus Corp.,
+Emeryville, CA) using a modification of the method of Saiki et al. (36).
+The amplification reaction mixture contained 2 Mig of denatured genomic DNA in 100 Ml of 67 mM Tris-HCl, pH 8.8, 16.6 mM (NH4)2SO4,
+6.7 mM MgCl2, 10% dimethylsulfoxide, 10 mM fl-mercaptoethanol,
+33 MM each of dATP, dGTP, dTTP, and dCTP, 170 Mg/ml bovine
+serum albumin (Pentax fraction V; Miles Laboratories Inc., Naperville, IL), and 0.6 Mg each of the sense and anti-sense primers. The
+reaction mixture was incubated at 37°C for 15 min to allow annealing
+of the primers to genomic DNA, then Taq I polymerase (1 U) was
+added and polymerization was carried out for 5 min at 60°C. Subsequent cycles were performed by denaturation at 90°C for 60 s, cooling
+at room temperature for 60 s to allow for primer reannealing and
+polymerization at 60°C for 5 min. This was repeated 25 times with
+additional Taq polymerase (1 U) added at cycles 10 and 20. After
+phenol and chloroform extraction and ethanol precipitation, the amplified DNA was digested with Eco RI and Bam HI, ligated into linearized M13 (37), and used to transform competent JM109 cells.
+Clones containing the amplified fragment were identified by Southern
+hybridization using a 17-mer oligonucleotide constructed to an internal sequence in exon 7 (nt 11 18-1134) and sequenced by the dideoxy
+chain termination method (38) with a 17-mer oligonucleotide primer
+(TGCTTGATAGTTCTGAC) corresponding to the intron sequence
+used for amplification.
+Computer-assisted analysis of hydropathy and local secondary
+structure. Hydropathic indices for both the normal and mutant enzymes were determined by the algorithm of Kyte and Doolittle (39)
+and local secondary structure was predicted by the method of Chou
+and Fasman (40) using the University of Wisconsin Genetics Computer Group software developed by Wolf et al. (41). A region of 40
+amino acids surrounding the site of the Arg356 to Trp356 amino acid
+substitution (i.e., residues 336-376) was used for the analysis of regional secondary structure.
+
+Results
+Southern hybridization analysis of genomic DNA from 130
+unrelated Fabry hemizygotes identified six gene rearrangements including five different partial gene deletions and one
+1. Abbreviations used in this paper: nt, nucleotide(s); PCR, polymerase
+chain reaction; RFLP, restriction fragment length polymorphism.
+
+Gene Rearrangements and a C to T Transition in Fabry Disease
+
+1391
+
+partial gene duplication. Each gene rearrangement was detectable with the four restriction enzymes routinely employed for
+screening genomic DNA (i.e., Msp I, Pvu II, Sac I, and Taq I).
+These mutations resulted in the absence of any detectable agalactosidase activity in plasma and/or cell sources from the
+affected hemizygotes, all of whom manifested the classical disease phenotype. In addition, an Msp I restriction site obliteration was observed in genomic DNA from a seventh unrelated
+Fabry family. The fact that this affected hemizygote had residual a-galactosidase activity initially suggested that the Msp I
+site alteration was in the coding sequence. For further characterization of these lesions, cultured lymphoid or fibroblast
+lines were established from all available family members and
+DNA was isolated for molecular pedigree analyses.
+
+Partial gene deletions
+Fig. 1 shows the structural organization of the a-galactosidase
+gene, the restriction fragments which are detectable by Southern hybridization analysis using the full-length cDNA as a
+probe, and the relative positions of each of the partial gene
+deletions. It is notable that in four of these families (Families
+A, B, E, and F) a deletion breakpoint was mapped to intron 2,
+a region of the a-galactosidase gene which contains multiple
+Alu repeat sequences (Fig. 1). In the Southern hybridization
+analyses shown for each deletion (Figs. 2-6), a restriction enzyme was selected to clearly distinguish the mutant allele for
+molecular pedigree analysis.
+Family A. Pvu II-digested DNA from the two affected
+hemizygotes (I-1 and 1-5) had the normal 3.6- and 2.3-kb fragments and lacked the normal 6.9-kb fragment, the latter replaced by a unique 2. 1-kb fragment (Fig. 2). These findings,
+together with those from restriction analyses with the other
+enzymes (data not shown), indicated a partial gene deletion of
+4.8 kb at the 5' end of the gene (Fig. 1). In this family, the
+unique 2. 1-kb Pvu II fragment in female members would definitively identify heterozygotes for the mutant allele. The near
+-
+
+I
+
+-2
+
+2
+
+0
+
+Exons:
+
+4
+
+6
+
+2
+
+1
+
+Family E. As shown in Fig. 4, the normal 2.5-kb Sac I
+fragment was replaced by a unique 2.1-kb fragment in the
+affected hemizygote (III-1), indicating a partial gene deletion
+of 400 bp (Fig. 1). The presence of both the normal 2.5-kb
+and unique 2.1-kb Sac I fragments in the proband's mother
+(II-2) was consistent with heterozygosity for the partially deleted allele. The fact that the proband's sister (III-2) had a
+normal Sac I profile excluded the possibility that this woman
+carried the mutant allele. Of note was the observation that the
+proband's maternal grandmother also had a normal Sac I profile and that her husband had expired at age 64 yr from carcinoma of the stomach. Since survival of a Fabry hemizygote
+beyond 60 yr has not been reported (1), it is likely, but not
+certain, that the mutation in this family arose de novo in the
+germ-line of one of the maternal grandparents.
+Family F. Affected hemizygotes (I-2, 1-3, 1-4, 11-3) were
+-
+
+0I
+
+I
+
+.4
+
+normal levels of a-galactosidase activity in the two obligate
+heterozygotes (II-1 and II-2, the daughters of affected males),
+were initially presumed to reflect random X-chromosomal inactivation (9, 10). However, the absence of the diagnostic 2.1kb Pvu II fragment in their DNA provided molecular evidence
+for paternity exclusion. Nonpaternity for II-1 and 11-2 was
+confirmed by HLA haplotype analyses.
+Family B. In this family, Southern hybridization of Pvu
+II-digested DNA was most informative. The normal 6.9-, 3.6-,
+and 2.3-kb Pvu II fragments were not detected in genomic
+DNA from the affected hemizygote, 11-2 (Fig. 3). Only a
+unique 8.0-kb fragment (derived from the 5' portion of the
+normal 6.9-kb fragment) was observed indicating a partial
+gene deletion of> 5.5 kb including the 3' end of the a-galactosidase gene and extending an undetermined distance into the
+3' flanking region (Fig. 1). The presence of the unique 8.0-kb
+fragment, and hybridization signals for the normal 2.3- and
+3.6-kb Pvu II fragments consistent with dosage for one normal
+and one mutant allele, permitted the precise molecular identification of heterozygotes (I-1, II-4, 11-5, 111-2, 111-4).
+
+8
+
+3
+
+10
+
+14 kb
+
+12
+
+I
+
+1
+
+56 7
+
+4
+
+II I FI IEU
+.43.97
+
+III I
+
+Msp I
+Sac I
+
+II
+
+5.4
+
+I
+
+I
+
+1.0
+
+2.4
+
+2.5
+
+,
+
+a
+
+I
+
+6.9
+
+Family A
+
+I
+
+Family B
+>5.5 kb
+
+Family F
+3.2 kb
+
+H
+0.4 kb
+
+1392
+
+Bernstein et al.
+
+1
+
+5.7
+
+I> Family J
+>1.5 kb
+
+I
+
+4.8kb
+
+Family E
+
+1
+
+3.6
+
+2.3
+4.1
+
+,
+
+4.3
+
+I-
+
+_I
+
+*
+
+10.0
+
+Hind III
+
+1.5 .51
+II
+
+1.8,I
+
+,
+
+---
+
+I
+
+Pvu II
+
+I
+
+I
+
+J
+
+Figure 1. Partial deletions in the human
+a-galactosidase gene. Schematic diagram of the
+a-galactosidase gene showing the positions of
+the seven exons and the restriction sites for Msp
+I, Sac I, Pvu II, and Hind III (27) with exoncontaining fragments in bold outline. The locations of three Alu repeat sequences are indicated
+with stippled boxes in intron 2. The relative locations of the deletions in five families with
+Fabry disease are shown below the restriction
+maps. Arrows indicate that the 3' breakpoints in
+the Family B and J deletions extend beyond
+exon 7.
+
+Family B
+
+Family A
+II
+II
+
+III
+
+kb
+6.9-
+
+a
+
+e
+3.6-- e0_0
+2.3 _
+2.1 -
+
+'40.
+
+kb
+8.0*
+6.9 ---f
+
+*# A0-'
+
+-
+
+ec _
+
+40 AO, 40 40,
+
+0
+MM
+
+I:
+
+A
+
+i.,
+
+.
+
+0
+
+3.6-00
+
+wwww low"W
+
+2.3 - 0 _
+
+Om
+
+_MD
+W
+000000000_
+_w
+
+_
+
+-wpm
+
+8.0
+6.9 -.
+3.6-
+
+2.3-
+
+Pvu
+
+II
+
+Figure 2. The partial gene deletion in Fabry Family A. Southern hybridization analysis of Pvu II-digested DNA demonstrated the absence of the normal 6.9-kb fragment and the presence of a unique
+2.1-kb fragment in the affected hemizygotes (I-1 and 1-5). Note that
+the daughters (II- I and II-2) of the affected hemizygotes did not have
+the unique 2. 1-kb fragment or dosage for the 6.9-kb fragment. These
+findings indicated nonpaternity.
+
+identified readily by the absence of the normal 4. 1-kb Hind III
+fragment and the presence of a unique 2.4-kb fragment (Fig.
+5), consistent with a partial gene deletion of 3.2 kb (Fig. 1).
+Heterozygotes for the mutant allele were detected definitively
+by the presence of both the mutant 2.4-kb and normal 4. 1-kb
+fragments (I-5, II- 1). In addition, the inheritance of the mutant
+allele in the other at-risk females (1-7, 1-8, 11-4, II-5) was excluded by the absence of the unique 2.4-kb fragment.
+Family J. Based on Southern hybridization analyses with
+all four restriction endonucleases, the gene rearrangement in
+the affected hemizygote deleted 1.5 kb of the 3' end of the
+a-galactosidase gene and possibly extended into the 3' flanking
+region (Fig. 1). Molecular pedigree analysis in this family was
+best accomplished using Hind III-digested DNA (Fig. 6). The
+affected hemizygote (IV-1) had a unique 7.6-kb Hind III fragment which replaced the normal 5.7-kb and 4. 1-kb fragments.
+The presence of the unique 7.6-kb fragment identified his
+mother (111-2) and sister (IV-2) as heterozygotes. Of particular
+note was the fact that neither maternal grandparent (II- 1, 11-2)
+had the mutant allele; nonpaternity of the maternal grandfather was excluded by HLA typing of cultured lymphoid lines
+and by the analysis of restriction fragment length polymor-
+
+Pvu 11
+Figure 3. The partial gene deletion in Fabry Family B. Southern hybridization analysis of Pvu 1I-digested DNA detected the absence of
+the normal 6.9-, 3.6-, and 2.3-kb fragments and the presence of a
+unique 8.0-kb fragment in the affected hemizygote (upper panel)
+(II-2). Equal amounts of Pvu Il-digested DNA from each family
+member, quantitated with 4',6-diamidino-2-phenylindole (30), were
+applied to the gel and visualized after ethidium bromide staining
+(lower panel). Heterozygotes for the mutant allele (I-1, II-4, II-5,
+III-2, III-4) had the unique 8.0-kb fragment and dosage for the normal fragments, the latter confirmed by densitometry.
+
+phisms (RFLPs) linked to the a-galactosidase gene (K. H. Astrin, unpublished results). These findings were consistent with
+the molecular documentation of a new mutation in this family, which was suggested previously on the basis of enzyme
+assays (42).
+A partial gene duplication
+As shown in Fig. 7, the affected hemizygote (11-4) had a unique
+5.5-kb Pvu II fragment in addition to all of the normal fragments. Similarly, an additional 4.0-kb fragment was detected
+in Sac I-digested DNA from the affected hemizygote (not
+shown). The presence of the unique Pvu II or Sac I fragments
+Gene Rearrangements and a C to T Transition in Fabry Disease
+
+1393
+
+Family E
+
+I0
+11
+III
+
+kb
+
+5.4 4.3 -
+
+2_dmLl
+
+.51
+
+W,
+,
+
+i
+
+.lj "
+
+Ax,.
+
+"
+
+4,'p
+
+.ift.
+
+11
+
+0
+
+lo
+..:.
+
+2.52.1
+
+':
+
+f:
+_it
+
+:M.
+
+Vvl
+
+A
+
+" P
+
+4
+
+MO_"
+
+-
+
+1.8
+
+Sac I
+Figure 4. The partial gene deletion in Fabry Family E. Southern hybridization analysis of Sac I-digested DNA revealed the absence of
+the normal 2.5-kb fragment and the presence of a unique 2. 1-kb
+fragment in the affected hemizygote (III- 1). The proband's mother
+(11-2) had both the normal 2.5- and unique 2. 1-kb Sac I fragments
+consistent with heterozygosity, while the maternal grandmother (I-1)
+did not, suggesting that this deletion arose de novo. The maternal
+grandfather expired at age 64 of stomach cancer and samples were
+not available for analysis.
+
+definitively identified heterozygotes in this family. In addition
+to the unique 5.5-kb Pvu II fragment, densitometric analysis
+revealed a disproportionately increased autoradiographic signal for the 2.3-kb Pvu II fragment in the Fabry hemizygote.
+Compare the signal intensities for affected hemizygote II-4 and
+his normal brother II-5 (Fig. 7). Densitometry of the autoradiographic signals for obligate heterozygotes (II-1 and II-2)
+suggested triple dosage of the 2.3-kb Pvu II fragment compared
+to that in normal males. These data and similar data for Sac I
+indicated the occurrence of a gene rearrangement in this family resulting from the duplication of exons 2-6, as schematically illustrated in Fig. 8.
+An exonic point mutation
+Characterization of the defective enzyme in various sources
+from affected hemizygotes in Family C revealed residual a-galactosidase activity with altered kinetic and stability properties
+(Table I). The 4-methylumbelliferyl-a-D-galactosidase activity
+was 30% of normal in plasma whereas the activity in cells
+ranged from 1% to 3% of normal mean values. Compared to
+the activity in normal plasma, the residual plasma activity
+from the affected hemizygotes had a fourfold higher apparent
+Km value and was five times more thermostable at 40°C and
+pH 7.4, accounting for the presence of significant residual activity in the circulation. In contrast, the residual enzyme had a
+half-normal thermostability at 40°C and pH 4.6, consistent
+
+with the low activity in cells presumably due in part to the
+instability of the enzyme at lysosomal pH.
+Southern hybridization analyses of DNA from affected
+hemizygotes digested with Taq I, Sac I, and Pvu II demonstrated normal profiles, whereas Msp I-digested DNA revealed
+the presence of a unique 2.0-kb fragment and the absence of
+the normal 1.5- and 0.51-kb fragments (Fig. 9; IV-l and IV-4).
+The presence of the unique 2.0-kb Msp I fragment permitted
+the molecular diagnosis of heterozygotes for the mutant allele.
+In contrast, the enzymatic diagnosis of family C heterozygotes
+in plasma was difficult due to the enzyme's increased half-life,
+and in cells primarily due to random X-chromosomal inactivation. For example, routine a-galactosidase assays of plasma
+from heterozygotes I-1, III-2, and IV-3 revealed levels of 10.6,
+18.7, and 6.6 nmol/h per ml, respectively, which were within
+the normal range (n = 64) of 6.2 to 28.5 nmol/h per ml. The
+a-galactosidase activities in peripheral lymphocytes isolated
+from heterozygotes III-2 and IV-3 were 30.0 and 63.6 nmol/h
+per mg, respectively, also within the normal range (n = 20) of
+21.5-48.9 nmol/h per mg.
+Since only one Msp I site was present in the full-length
+cDNA (29), recently localized to exon 7 (30), it was reasoned
+that the obliterated Msp I site was the mutation which resulted
+in the residual defective a-galactosidase activity in Family C
+hemizygotes. To test this hypothesis, a genomic DNA region
+which included the Msp I site in exon 7 was amplified by the
+PCR technique using Taq polymerase. After 25 cycles of amplification, the 264-bp genomic fragment was subcloned into
+Ml 3 for sequencing. As shown in Fig. 10, a C -- T transition
+was identified at nt 1066 of the coding sequence (30) which
+resulted in an arginine to tryptophan amino acid substitution
+
+Family F
+
+00
+
+I
+
+4-0
+
+11
+kb
+10.0- #*
+5.7
+
+-
+
+n'
+
+ON.
+
+.0
+
+*4
+
+04s
+-U
+4.1-U
+
+2.4-
+
+**
+
+Wmw*
+* s
+OlleqE0
+
+_"~~.
+
+a #a
+
+-
+
+so
+
+-
+
+1394
+
+Bernstein el al.
+
+Hind III
+Figure 5. The partial gene deletion in Fabry Family F. Southern hybridization analysis of Hind 111-digested DNA evidenced the absence
+of the normal 4. 1-kb fragment and the presence of a unique 2.4-kb
+fragment in affected hemizygotes (I-2, 1-3, 1-4, 11-3). Carriers of the
+Fabry allele (I-5 and 11- 1) had both the normal 4. 1 -kb and unique
+2.4-kb Hind III fragments.
+
+Family D
+
+Family J
+III
+
+IV
+
+kb
+
+kb
+10.0O
+7.6-
+
+6.9-
+
+it
+
+*
+
+5.5-
+
+3.6-
+
+4.1-~~
+2.3
+
+Hind
+
+PM 11
+
+III
+
+Figure 6. The partial gene deletion in Fabry Family J. Southern hybridization of Hind III-digested DNA detected the absence of the
+4.1- and 5.7-kb fragments and the presence of a unique 7.6-kb fragment in the affected hemizygote (IV- 1). The presence of the unique
+7.6-kb fragment permitted the molecular diagnosis of the heterozygotes (III-2, IV-2) in this family. Note that neither the mother (II-2)
+nor father (II- 1) of heterozygote 111-2 had the 7.6-kb fragment, indicating the occurrence of a new mutation in this family. Nonpaternity
+was excluded by HLA typing and by analysis of RFLPs linked to the
+a-galactosidase gene.
+
+was not found in any
+other unrelated Fabry hemizygote, nor in 174 normal alleles
+examined (43, 44); therefore, this base substitution was not a
+polymorphism. Computer-assisted analysis of the region surrounding the amino acid substitution (residues 336-376) revealed a marked increase in hydrophobicity and predicted an
+altered local secondary structure with an increased tendency to
+form an a-helical conformation (Fig. 1). These structural
+changes presumably altered the kinetic and stability properties
+of the residual mutant enzyme.
+
+at residue 356. The Msp I site alteration
+
+Discussion
+
+Southern hybridization analysis of the a-galactosidase gene in
+130 Fabry families revealed seven genetic lesions, of which six
+or 4.6% were gene rearrangements. Compared with other Xlinked disease genes, the frequency of gene rearrangements in
+the a-galactosidase gene was similar to the 6% values reported
+for the ornithine transcarbamylase and factor VIII genes
+(45-47), less than half the 11% in the hypoxanthine phosphoribosyltransferase gene (48, 49), and much lower than the
+40-80% of mutations in the genes for factor IX and dystrophin
+(50-52).
+Of the human gene rearrangements identified to date, the
+precise breakpoint junctions have been characterized in relatively few (e.g., 53-59). However, a notable finding has been
+the occurrence of Alu repeat sequences at the breakpoint junctions, suggesting that these sequences may be mechanistically
+involved in the generation of these rearrangements. Approxi-
+
+Figure 7. Identification of a partial gene duplication in Fabry Family
+D. Southern hybridization of Pvu Il-digested DNA revealed the presence of a unique 5.5-kb fragment in addition to all the normal fragments in the affected hemizygote (11-4). Analogously, Sac I-digested
+DNA revealed an additional unique 4.0-kb fragment in affected hemizygotes (not shown). The presence of the 5.5-kb Pvu II or the 4.0-kb
+Sac I fragments identified heterozygotes in this family (1-3, II- 1, 11-2,
+11-6). Note that the molecular studies confirmed the prenatal diagnosis of a normal male fetus (arrow), which had been diagnosed by
+the a-galactosidase activity in amniotic fluid cells. The occurrence of
+the unique fragments, in addition to all normal fragments and the
+densitometric demonstration of dosage for the 2.3-kb Pvu II fragment (compare affected hemizygote II-4 to his normal brother II-5)
+indicated a partial duplication (see Fig. 8).
+
+million Alu copies are dispersed in the human
+with an expected frequency of approximately every
+4 kb (60). The fact that they are highly conserved in primate
+
+mately
+
+one
+
+genome
+
+-4
+
+-6
+
+PS
+
+I
+
+-2
+
+i
+
+2
+
+0
+
+6
+
+PS
+
+s
+
+11
+
+I4
+
+1
+
+2
+
+10
+
+8
+
+spp S P
+
+12
+
+16
+
+14
+
+18
+
+20 kb
+
+SP
+
+IIIL .1 I
+56i7
+
+3 4
+
+t
+
+Crossover
+
+PSX
+
+PS
+
+II
+
+I-il
+1
+
+S
+
+sPs
+
+P
+
+I
+I
+
+I I
+
+111
+
+2
+
+4
+
+567
+
+sPs
+
+P
+
+1 1
+
+31
+
+sP
+
+I11"
+
+P
+PS
+
+as
+
+P
+
+1
+
+I
+Exons: I
+
+2
+
+S 40kb
+SPP
+
+III
+
+I1I
+3 4
+
+II
+I
+1I
+56
+
+P
+
+2
+
+II
+
+11 '
+314
+
+sP
+II
+
+-I
+56 7
+
+5.5kb
+
+Figure 8. Schematic diagram of the partial gene duplication in Fabry
+Family D. The presence of the unique 5.5-kb Pvu II and 4.0-kb Sac I
+fragments and the densitometric analysis of the fragments from the
+Family D hemizygote and heterozygotes permitted alignment of a
+homologous, but unequal, crossover between introns 1 and 6 of the
+a-galactosidase gene as shown diagramatically.
+Gene Rearrangements and a C to T Transition in Fabry Disease
+
+1395
+
+.;
+
+Normal
+
+Table I. Residual a-Galactosidase Activity
+in Family C Hemizygotes
+
+Property
+
+Enzyme activity
+Plasma (U/ml)
+
+Classical Fabry
+
+Normal
+mean
+
+Fabry Family C
+hemizygotes
+
+hemizygotes
+mean
+
+11.6
+32.6
+68.2
+98.7
+
+2.3
+33
+47
+
+3.61 (31%)
+0.98 (2%)
+0.94 (1%)
+3.25 (3%)
+
+10.0
+16
+240
+
+Family C
+
+C
+11III2
+11Iv
+1 1 O
+
+1.5 0.97-
+
+0.51 0.43-
+
+S _
+
+-W.
+
+-
+
+O'
+
+-
+
+f.
+
+frs---:s-
+
+Msp I
+
+Figure 9. Msp I Site Obliteration in Fabry Family C. Southern hybridization analysis of Msp I-digested DNA detected the absence of
+the normal l.5r and 0.5 1-kb fragments and the presence of a unique
+2.0-kb fragment in the affected hemizygotes (IV- I and IV-4). The
+presence of the unique 2.0-kb fragment permitted identification of
+all heterozygotes (I-1, II-1, 11-2, III-2, IV-3). These findings suggested
+the occurrence of an Msp I site obliteration in the mutant allele.
+1396
+
+Bernstein et al.
+
+rg 356
+
+-C
+
+-'A
+
+-W-- Gm
+
+-
+
+-..
+
+*m
+
+G
+
+Trp 356
+
+C
+
+A
+
+ND*
+ND
+ND
+ND
+
+evolution suggests a functional role in some critical cellular
+process (61). These repetitive sequences, recently suggested to
+be human transposable elements (62), apparently are located
+
+2.4 2.0 -
+
+-G
+A
+
+A
+
+a-Galactosidase activity in various sources was determined as described in the text; a unit (U) of enzymatic activity equals 1 nmol of
+substrate hydrolyzed per hour. Normal mean values were determined
+for each source from at least 20 different individuals. * ND, no detectable a-galactosidase activity when corrected for a-N-acetylgalactosaminidase activity which was not inhibited by N-acetylgalactosamine (6).
+
+kb
+
+G
+
+At
+
+C_
+
+Lymphocytes (U/mg)
+Granulocytes (U/mg)
+Fibroblasts (U/mg)
+Plasma enzyme properties
+Apparent Km (mM)
+Stability
+pH 4.6 at 400C (t1/2; min)
+pH 7.4 at 40'C(t,/2; min)
+
+IV
+
+Family C
+
+G
+
+A
+
+m
+
+_
+
+toZw_
+
+A
+A
+
+......
+
+NW.
+
+Figure 10. Sequence analysis of point mutation in Fabry Family C.
+After amplification of the target sequence by PCR, the 264-bp sequence containing the Msp I restriction site at bp 1065-1068 was
+subcloned into M 13 and sequenced by the dideoxy chain-termination method of Sanger et al. (38). In contrast to the normal sequence
+at this site (CCGG; left), which encodes an arginine residue, a C -o T
+transition at nt 1066 (CTGG; right) results in a tryptophan substitution at residue 356 in the mutant enzyme in Family C.
+
+in the chromatin structure such that they are more likely than
+unique sequences to undergo homologous, but unequal, crossover events (63). In fact, the proportion of Alu sequences per
+kilobase may indicate the frequency of rearrangements expected for a given gene. In this regard, it is of interest that
+intron 2 in the human a-galactosidase gene has multiple Alu
+repeats (R. Kornreich, unpublished results). Thus, the localization to intron 2 of the breakpoint junctions for four of the
+five partial a-galactosidase gene deletions is consistent with the
+concept that Alu repeats are "hot spots" for gene rearrangement events, possibly because of their propensity to misalign
+during meiosis. Further understanding of the mechanistic role
+of the Alu repeats in the generation of human gene rearrangements may be gained by sequencing the breakpoint junctions
+in the rearranged a-galactosidase alleles.
+The first molecular demonstration of a point mutation in
+the a-galactosidase gene, initially detected as an Msp I restriction site obliteration, was identified as a C -- T transition
+using PCR to amplify a region of genomic DNA from the
+Family C hemizygote for sequencing. CpG dinucleotides are
+known mutational hot spots because cytosine in this position
+can be methylated and then deaminated to thymidine (64).
+Genes on the X-chromosome may be more susceptible to C -)
+T transitions since methylation and demethylation of certain
+CpG dinucleotides appear to be important for maintaining
+X-inactivation in females (65-67). Point mutations resulting
+from C -. T transitions have been documented in the Xlinked deficiencies of factors VIII and IX (68, 69) as well as in
+autosomal disorders (70-74). Therefore, Msp I and Taq I were
+chosen for the initial screening of genomic DNA from the
+Fabry families. The finding of the Msp I site obliteration was of
+particular interest since previous studies of affected hemizygotes in Family C revealed residual enzymatic activity (Table
+I). In addition to the kinetic defect, the residual enzyme was
+more thermolabile at lysosomal pH and more thermostable at
+pH 7.4. The decreased lysosomal stability was consistent with
+the disease phenotype whereas the increased stability at pH 7.4
+accounted for the presence of the defective enzyme in plasma
+at levels that could have led to a misdiagnosis ofaffected males
+if only this enzyme source had been assayed.
+Due to the C -- T transition, a tryptophan replaced the
+normal arginine at residue 356. Compared to arginine, the
+
+ity to accurately detect heterozygotes in these families led to
+the molecular exclusion of paternity in two instances in Family A. The detection of nonpaternity was confirmed by HLA
+typing in both cases. Thus, molecular pedigree analyses in
+these seven families permitted precise heterozygote detection
+which led to the identification of the first documented new
+mutations in this disorder as well as paternity exclusions. Until
+the specific mutations in the other Fabry families are identified, improved heterozygote detection can be accomplished by
+the use of two polymorphic sites in the a-galactosidase gene
+(43, 44) as well as by the use of closely linked random RFLPs
+
+NORMAL
+
+FAMILY C
+NH,
+
+(44, 75).
+Acknowledaments
+COOH
+
+Figure 11. Predicted hydropathy profile and secondary structure of
+the mutant a-galactosidase in Fabry Family C. Computer-assisted
+analysis of amino acid residues 336-376 in the normal (upper) and
+Fabry Family C (lower) a-galactosidase subunits is shown. The Arg356
+to Trp356 substitution increases the relative hydrophobicity of the region and the predicted secondary structure has an increased tendency
+to form an a-helical conformation. R and W indicate the position of
+amino acid 356 in the normal and mutant proteins, respectively.
+Sine wave, a-helix; sharp saw tooth, #-sheet; 1800 turns, turns; dull
+saw tooth, coil. (o) Hydrophobic region; (o) hydrophilic region.
+
+aromatic tryptophan residue is bulkier, more hydrophobic,
+and uncharged. Computer-assisted analyses of this amino acid
+substitution predicted alterations in the hydropathy profile
+and secondary structure in this region of the protein, presumably accounting for the unique properties of this mutant enzyme. To date, PCR analysis of other a-galactosidase exons in
+Family C hemizygotes has not revealed the presence of another
+lesion, supporting this C-T transition in the a-galactosidase
+coding sequence as the site of the disease-causing mutation.
+The identification of these seven a-galactosidase mutations
+by Southern hybridization analysis permitted molecular pedigree analyses in these families. Since precise heterozygote
+identification by analysis of gene product quantity or function
+is difficult in X-linked recessive disorders due to random Xchromosome inactivation (9, 10), the ability to detect the mutant allele obviates this problem. Thus, it was possible to determine the ancestry of the mutant allele in Families E and J,
+permitting the first demonstration at the molecular level of de
+novo mutations in Fabry disease. In each of these families, the
+mutations could be traced to a heterozygote whose mother and
+father each had normal a-galactosidase alleles based on DNA
+analyses and/or by the demonstration of normal a-galactosidase levels in plasma and cell sources. Nonpaternity was excluded in Family J; however, in Family E, the proband's maternal grandfather had expired at age 64, so paternity could not
+be documented. These findings suggest that the mutant alleles
+in each of these families arose either sporadically in a gamete
+of one of the proband's normal maternal grandparents or that
+one of the maternal grandparents was a germinal mosaic for
+the mutant allele. Similar molecular pedigree analyses to determine the origin of deletions in the factor VIII (47) and
+hypoxanthine phosphoribosyltransferase (48) genes indicated
+that new mutations in X-linked disorders could arise in the
+gametes of either maternal grandparent. In addition, the abil-
+
+We are grateful to Heidi Giordano, Safiana Katz, and Constantin
+Zamfirescu for skilled technical support, Catherine Painter for expert
+assistance with the initial studies of residual activity in selected hemizygotes, Dr. J. E. Louie for HLA typing of cultured fibroblasts and
+lymphoid lines, and Drs. L. Cohen (Cincinnati,OH), W. Gahl (Bethesda, MD), W. Kupik (Detroit, MI), and K. MacDermot (London,
+England) for clinical specimens.
+This work was supported in part by a grant ( 1-578) from the March
+of Dimes Birth Defects Foundation, a research grant (AM 34045) from
+the National Institutes of Health, and a General Clinical Research
+Center grant (RR-77) from the Division of Research Resources, National Institutes of Health. Mr. Bernstein and Ms. Kornreich are the
+recipients of predoctoral fellowships and Dr. Eng is the recipient of a
+postdoctoral fellowship in medical genetics from the National Institutes of Health (T32 HD07 105).
+
+References
+1. Desnick, R. J., and C. C. Sweeley. 1984. Fabry's disease: defective a-galactosidase A. In The Metabolic Basis of Inherited Disease.
+Fifth edition. J. B. Stanbury, J. B. Wyngaarden, D. S. Fredrickson, J. L.
+Goldstein, and M. S. Brown, editors. McGraw-Hill Book Co., New
+York. 906-944.
+2. Sweeley, C. C., and B. Klionsky. 1963. Fabry's disease: Classification as a sphingolipidosis and partial characterization of a novel
+glycolipid. J. Biol. Chem. 238:PC3148-PC3150.
+3. Colombi, A., A. Kostyal, R. Bracher, F. Gloor, R. Mazzi, and H.
+Tholen. 1967. Angiokeratoma corporis diffusum-Fabry's Disease.
+He/v. Med. Acta. 34:67-83.
+4. Desnick, R. J., K. Y. Allen, S. J. Desnick, M. K. Raman, R. W.
+Bernlohr, and W. Krivit. 1973. Enzymatic diagnosis of hemizygotes
+and heterozygotes. a-Galactosidase activities in plasma, serum, urine
+and leukocytes. J. Lab. Clin. Med. 81:157-17 1.
+5. Johnson, D. L., M. A. Del Monte, E. Cotlier, and R. J. Desnick.
+1975. Fabry disease: diagnosis of hemizygotes and heterozygotes by
+a-galactosidase A activity in tears. Clin. Chim. Acta. 63:81-90.
+6. Mayes, J. S., J. B. Scheere, R. N. Sifers, and M. L. Donaldson.
+1981. Differential assay for lysosomal a-galactosidases in human tissues and its application to Fabry's disease. Clin. Chim. Acta. 112:247251.
+7. Brady, R. O., B. W. Uhlendorf, and C. B. Jacobson. 1971.
+Fabry's disease: antenatal diagnosis. Science (Wash. DC). 172:174175.
+8. Desnick, R. J., M. K. Raman, R. P. Bendel, J. Kersey, J. C. Lee,
+and W. Krivit. 1973. Prenatal diagnosis of glycosphingolipidoses:
+Sandhoff's and Fabry's diseases. J. Pediatr. 83:149-150.
+9. Lyon, M. 1961. Gene action in the X-chromosome of the mouse
+(Mus musculus L.). Nature (Lond.). 190:372-373.
+10. Rietra, P. J. G. M., E. M. Brouwer-Kelder, W. P. De Groot, and
+J. M. Tager. 1976. The use of biochemical parameters for the detection
+of carriers of Fabry's disease. J. Mol. Med. 1:237-242.
+
+Gene Rearrangements and a C to T Transition in Fabry Disease
+
+1397
+
+11. Avila, J. L., J. Convit, and G. Velazquez-Avila. 1973. Fabry's
+disease: Normal a-galactosidase activity and urinary-sediment glycosphingolipid levels in two obligate heterozygotes. Br. J. Dermatol.
+89:149-154.
+12. Francois, J. 1967. Heterozygotes for sex-linked traits and Mary
+Lyon's inactivating theory. XIV. Fabry's dystopic lipidosis. In Proc.
+3rd International Congress on Human Genetics, Chicago 1967. Johns
+Hopkins University Press, Baltimore. 423.
+13. Wareham, K. A., M. F. Lyon, P. H. Glenisler, and E. D. Williams. 1987. Age-related reactivation of an X-linked gene. Nature
+(Lond.). 327:725-727.
+14. Holliday, R. 1986. Strong effects of 5-azacytidine on the in vitro
+lifespan of human diploid fibroblasts. Exp. Cell Res. 166:543-552.
+15. Wilson, V. L., R. A. Smith, S. Ma, and R. G. Cutler. 1987.
+Genomic 5-methyl-deoxycytidine decreases with age. J. Biol. Chem.
+262:9948-9951.
+16. Mayes, J. S., and E. Beutler. 1977. a-Galactosidase A from
+human placenta. Biochim. Biophys. Acta. 484:408-416.
+17. Kusiak, J. W., J. M. Quirk, R. 0. Brady, and G. E. Mook. 1978.
+Purification and properties of the two major isozymes of a-galactosidase from human placenta. J. Biol. Chem. 253:184-190.
+18. Dean, K. J., and C. C. Sweeley. 1979. Studies on human liver
+a-galactosidases. I. Purification of a-galactosidase A and its enzymatic
+properties with glycolipid and oligosaccharide substrates. J. Biol.
+Chem. 254:9994-10000.
+19. Bishop, D. F., and R. J. Desnick. 1981. Affinity purification of
+a-galactosidase A from human spleen, placenta and plasma with elimination of pyrogen contamination. J. Biol. Chem. 256:1307-1316.
+20. LeDonne, N. C., J. L. Fairley, and C. C. Sweeley. 1983. Biosynthesis of a-galactosidase A in cultured Chang liver cells. Arch. Bicchem. Biophys. 224:186-195.
+21. Lemansky, P., D. F. Bishop, R. J. Desnick, A. Hasilik, and K.
+Von Figura. 1987. Synthesis and processing of a-galactosidase A in
+human fibroblasts. Evidence for different mutations in Fabry disease.
+J. Biol. Chem. 262:2062-2065.
+22. Beutler, E., and W. Kuhl. 1973. Absence of cross-reactive antigen in Fabry disease. N. Engl. J. Med. 289:694-695.
+23. Rietra, P. J. G. M., J. L. Molenaar, M. N. Hamers, J. M. Tager,
+and P. Borst. 1974. Investigation of the a-galactosidase deficiency in
+Fabry's disease using antibodies against the purified enzyme. Eur. J.
+Biochem. 46:89-94.
+24. Clarke, J. T. R., J. Knaack, J. C. Crawhall, and L. S. Wolfe.
+1971. Ceramide trihexosidosis (Fabry's disease) without skin lesions.
+N. Engl. J. Med. 284:233-237.
+25. Romeo, G., M. Urso, A. Pisacane, E. Blum, A. De Falco, and A.
+Ruffilli. 1975. Residual activity of a-galactosidase A in Fabry's disease.
+Biochem. Genet. 13:615-621.
+26. Bishop, D. F., G. A. Grabowski, and R. J. Desnick. 1981. Fabry
+disease: an asymptomatic hemizygote with significant residual a-galactosidase A activity. Am. J. Hum. Genet. 33:7 1A.
+27. Bach, G., E. Rosemann, A. Kami, and T. Cohen. 1982. Pseudodeficiency of a-galactosidase A. Clin. Genet. 21:59-64.
+28. Kobayashi, T., J. Kira, N. Shinnoh, I. Goto, and Y. Kuroiwa.
+1985. Fabry's disease with partially deficient hydrolysis of ceramide
+trihexoside. J. Neurol. Sci. 67:179-185.
+29. Bishop, D. F., D. H. Calhoun, H. S. Bernstein, P. Hantzopoulos, M. Quinn, and R. J. Desnick. 1986. Human a-galactosidase A:
+nucleotide sequence of a cDNA clone encoding the mature enzyme.
+Proc. Natl. Acad. Sci. USA. 83:4859-4863.
+30. Bishop, D. F., R. Kornreich, and R. J. Desnick. 1988. Structural organization of the a-galactosidase A gene: further evidence for
+the absence of a 3' untranslated region. Proc. Natl. Acad. Sci. USA.
+85:3499-3503.
+31. Anderson, M. A., and J. F. Gusella. 1984. Use of cyclosporin A
+in establishing Epstein-Barr virus-transformed human lymphoblastoid
+cell lines. In Vitro (Rockville). 20:856-858.
+32. Aldridge, J., L. Kunkel, G. Bruns, U. Tantravahi, M. Lalande,
+T. Brewster, E. Moreau, M. Wilson, W. Bromley, T. Roderick, and
+1398
+
+Bernstein et al.
+
+S. A. Latt. 1984. A strategy to reveal high frequency RFLPs along the
+human X chromosome. Am. J. Hum. Genet. 36:546-564.
+33. Brunk, C., K. Jones, and T. James. 1979. Assay for nanogram
+quantities of DNA in cellular homogenates. Anal. Biochem. 92:497500.
+34. Southern, E. M. 1975. Detection of specific sequences among
+DNA fragments separated by gel electrophoresis. J. Mol. Biol.
+98:503-517.
+35. Maniatis, T., E. F. Fritsch, and J. Sambrook. 1982. Molecular
+Cloning: a Laboratory Manual. Cold Spring Harbor Laboratory, Cold
+Spring Harbor, NY. 109-112.
+36. Saiki, R. K., S. Scharf, F. Faloona, K. B. Mullis, G. T. Horn,
+H. A. Erlich, and N. Arnheim. 1985. Enzymatic amplification of figlobin genomic sequences and restriction site analysis for diagnosis of
+sickle cell anemia. Science (Wash. DC). 230:1350-1354.
+37. Messing, J., and J. Vieira. 1982. A new pair of Ml3 vectors for
+selecting either DNA strand of double digest restriction fragments.
+Gene (Amst.). 19:269-276.
+38. Sanger, F., A. R. Coulson, B. G. Barrell, A. J. H. Smith, and
+B. A. Roe. 1980. Cloning in single-stranded bacteriophage as an aid to
+rapid DNA sequencing. J. Mol. Biol. 143:161-178.
+39. Kyte, J., and R. F. Doolittle. 1982. A simple method for displaying the hydropathic character of a protein. J. Mol. Biol. 157:105132.
+40. Chou, P. Y., and G. D. Fasman. 1978. Prediction of the secondary structure of proteins from their amino acid sequence. Adv. Enzymol. 47:45-147.
+41. Wolf, H., S. Modrow, M. Motz, B. A. Jameson, G. Hermann,
+and B. Fortsch. 1988. An integrated family of amino-acid sequenceanalysis programs. CABIOS. 4:187-191.
+42. Gahl, W. A., M. Adamson, I. Kaiser-Kupfer, I. H. Ludwig, H. J.
+O'Connell, W. Cohen, and J. Barranger. 1984. Biochemical phenotyping of a single sibship with both cystinosis and Fabry disease. J.
+Inherited Metab. Dis. 8:127-131.
+43. Bernstein, H. S., D. F. Bishop, K. H. Astrin, R. Kornreich, and
+R. J. Desnick. 1986. Fabry disease: analysis of mutations in the human
+a-galactosidase A gene. Am. J. Hum. Genet. 39:A 188 (Abstr.).
+44. Desnick, R. J., H. S. Bernstein, K. H. Astrin, and D. F. Bishop.
+1987. Fabry disease: Molecular diagnosis of hemizygotes and heterozygotes. Enzyme (Basel). 38:54-64.
+45. Rozen, R., J. Fox, W. A. Fenton, A. L. Horwich, 4nd L. E.
+Rosenberg. 1985. Gene deletion and restriction fragment length polymorphisms at the human ornithine transcarbamylase locus. Nature
+(Lond.). 313:815-817.
+46. Antonarakis, S. E., P. G. Waber, S. D. Kittur, A. S. Patel, H. H.
+Kazazian, Jr., M. A. Mellis, R. B. Counts, G. Stamatoyannopoulos,
+E. J. W. Bowie, D. N. Fass, D. D. Pittman, J. M. Wozney, and J. J.
+Toole. 1985. Hemophilia A: detection of molecular defects and of
+carriers by DNA analysis. N. Engl. J. Med. 313:842-848.
+47. Youssoufian, H., S. E. Antonarakis, S. Aronis, G. Tsiftis, D. G.
+Phillips, and H. H. Kazazian, Jr. 1987. Characterization of five partial
+deletions of the factor VIII gene. Proc. Nat!. Acad. Sci. USA. 84:37723776.
+48. Yang, T. P., P. I. Patel, A. C. Chinault, J. T. Stout, L. G.
+Jackson, B. M. Hildebrand, and C. T. Caskey. 1984. Molecular evidence for new mutation at the hprt locus in Lesch-Nyhan patients.
+Nature (Lond.). 310:412-414.
+49. Jolly, D. J. 1986. The role of HPRT genes in human disease. In
+Human Genes and Diseases. F. Blasi, editor. John Wiley & Sons, New
+York. 123-168.
+50. Matthews, R. J., D. S. Anson, I. R. Peake, and A. L. Bloom.
+1987. Heterogeneity of the factor IX locus in nine hemophilia B inhibitor patients. J. Clin. Invest. 79:746-753.
+51. Forrest, S. M., G. S. Cross, A. Speer, D. Gardner-Medwin, J.
+Burn, and K. E. Davies. 1987. Preferential deletion of exons in Duchenne and Becker muscular dystrophies. Nature (Lond.). 329:638640.
+52. Bartlett, R. J., M. A. Pericak-Vance, J. Koh, L. H. Yamaoka,
+
+J. C. Chen, W. Y. Hung, M. C. Speer, M. C. Wapenaar, G. J. Van
+Ommen, E. Bakker, P. L. Pearson, R. S. Kandt, T. Siddique, J. R.
+Gilbert, J. E. Lee, M. J. Sirotkin-Roses, and A. D. Roses. 1988. Duchenne muscular dystrophy: high frequency of deletions. Neurology
+38:1-4.
+53. Ottolenghi, S., and B. Giglioni. 1982. The deletion in a type of
+a0-#°-thalassemia begins in an inverted Alu I repeat. Nature (Lond.).
+
+300:770-771.
+54. Vanin, E. F., P. S. Henthorn, D. Kioussis, F. Grosveld, and 0.
+Smithies. 1983. Unexpected relationships between four large deletions
+in the human fl-globin gene cluster. Cell. 35:701-709.
+55. Henthorn, P. S., D. L. Mager, T. H. J. Huisman, and 0.
+Smithies. 1986. A gene deletion ending within a complex array of
+repeated sequences 3' to the human fl-globin gene cluster. Proc. Natl.
+Acad. Sci. USA. 83:5194-5198.
+56. Lehrman, M. A., W. J. Schneider, T. C. Sudhof, M. S. Brown,
+J. L. Goldstein, and D. W. Russell. 1985. Mutation in LDL receptor
+Alu-Alu recombination deletes exons encoding transmembrane and
+cytoplasmic domains. Science (Wash. DC). 227:140-146.
+57. Langlois, S., J. P. Kastelein, and M. R. Hayden. 1988. Characterization of six partial deletions in the low-density-lipoprotein (LDL)
+receptor gene causing familial hypercholesterolemia (FH). Am. J.
+Hum. Genet. 43:60-68.
+58. Myerowitz, R., and N. D. Hogikyan. 1987. A deletion involving
+Alu sequences in the fl-hexosaminidase a-chain gene of French Canadians with Tay-Sachs disease. J. Biol. Chem. 262:15396-15399.
+59. Markert, M. L., J. J. Hutton, D. A. Wiginton, J. C. States, and
+R. E. Kaufman. 1988. Adenosine deaminase (ADA) deficiency due to
+deletion of the ADA gene promoter and first exon by homologous
+recombination between two Alu elements. J. Clin. Invest. 81:13231327.
+60. Hwu, H. R., J. W. Roberts, E. H. Davidson, and R. J. Britten.
+1986. Insertion and/or deletion of many repeated DNA sequences in
+human and higher ape evolution. Proc. Natl. Acad. Sci. USA.
+83:3875-3879.
+61. Britten, R. J., W. F. Baron, D. B. Stout, and E. H. Davidson.
+1988. Sources and evolution of human Alu repeated sequences. Proc.
+Natl. Acad. Sci. USA. 85:4770-4774.
+62. Lin, C. S., D. A. Goldthwait, and D. Samols. 1988. Identification of Alu transposition in human lung carcinoma cells. Cell.
+54:153-159.
+63. Korenberg, J. R., and M. C. Rykowski. 1988. Human genome
+organization: Alu, lines, and the molecular structure of metaphase
+chromosome bands. Cell. 53:391-400.
+64. Barker, D., M. Schafer, and R. White. 1984. Restriction sites
+
+containing CpG show a higher frequency of polymorphism in human
+DNA. Cell. 36:131-138.
+65. Gartler, S. M., and A. D. Riggs. 1983. Mammalian X-chromosome inactivation. Annu. Rev. Genet. 17:155-190.
+66. Yen, P. H., P. Patel, A. C. Chinault, T. Mohandas, and L. J.
+Shapiro. 1984. Differential methylation of hypoxanthine phosporibosyltransferase genes on active and inactive human X chromosomes.
+Proc. Natl. Acad. Sci. USA. 81:1759-1763.
+67. Cullen, C. R., P. Hubberman, D. C. Kaslow, and B. R. Migeon.
+1986. Comparison of factor IX methylation on human active and
+inactive X chromosomes: Implications for X inactivation and transcription of tissue-specific genes. EMBO (Eur. Mol. Biol. Organ.) J.
+9:2223-2229.
+68. Youssoufian, H., H. H. Kazazian Jr., D. G. Phillips, S. Aronis,
+G. Tsiftis, V. A. Brown, and S. E. Antonarakis. 1986. Recurrent mutations in haemophilia A give evidence for CpG mutation hotspots.
+Nature (Lond.). 324:380-382.
+69. Bentley, A. K., D. J. G. Rees, C. Rizza, and G. G. Brownlee.
+1986. Defective propeptide processing of a blood clotting factor IX
+caused by mutation of arginine to glutamine at position -4. Cell.
+45:343-348.
+70. Kidd, V. J., R. B. Wallace, K. Itakura, and S. L. C. Woo. 1983.
+a1-Antitrypsin deficiency detection by direct analysis of the mutation
+in the gene. Nature (Lond.). 304:230-234.
+71. Bonthron, D. T., A. F. Markham, D. Ginsburg, and S. H.
+Orkin. 1985. Identification of a point mutation in the adenosine deaminase gene responsible for immunodeficiency. J. Clin. Invest. 75:894897.
+72. Shibasaki, Y., T. Kawakami, Y. Kanazawa, Y. Akanuma, and
+F. Takaku. 1985. Posttranslational cleavage of proinsulin is blocked by
+a point mutation in familial hyperproinsulinemia. J. Clin. Invest.
+76:378-380.
+73. Duchange, N., J.-F. Chasse, G. N. Cohen, and N. M. Zakin.
+1986. Antithrombin III Tours gene: Identification of a point mutation
+leading to an arginine -- cysteine replacement in a silent deficiency.
+Nucleic Acids Res. 14:2408. (Abstr.)
+74. Romeo, G., H. J. Hassan, S. Staempfli, L. Roncuzzi, L. Cianetti, A. Leonard, V. Vicente, P. M. Mannucci, R. Bertina, C. Peschle,
+and R. Cortese. 1987. Hereditary thrombophilia: Identification of
+nonsense and missense mutations in the protein C gene. Proc. Natl.
+Acad. Sci. USA. 84:2829-2832.
+75. MacDermot, K. D., S. H. Morgan, J. K. Cheshire, and T. M.
+Wilson. 1987. Anderson Fabry disease: a close linkage with highly
+polymorphic DNA markers DXS17, DXS87 and DXS88. Hum.
+Genet. 77:263-266.
+
+Gene Rearrangements and a C to T Transition in Fabry Disease
+
+1399
+
+

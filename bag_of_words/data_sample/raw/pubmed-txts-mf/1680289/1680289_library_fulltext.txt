@@ -1,0 +1,657 @@
+Am. J. Hum. Genet. 49:878-885, 1991
+
+Homozygosity for a Newly Identified Missense Mutation in a
+Patient with Very Severe Combined Immunodeficiency Due
+to Adenosine Deaminase Deficiency (ADA-SCID)
+Rochelle Hirschhorn,* Vijay Chakravarti,t Jennifer Puck,t and Steven D. Douglast
+*Department of Medicine, Division of Medical Genetics, New York University Medical Center, New York; and TDepartment of Pediatrics,
+University of Pennsylvania School of Medicine and Division of Infectious Disease and Immunology, Children's Hospital, Philadelphia
+
+Summary
+We have identified a previously unrecognized missense mutation in a patient with severe combined immunodeficiency due to adenosine deaminase deficiency (ADA-SCID). The mutation is a G61-to-A transition at a
+CG dinucleotide and predicts a glycine-to-arginine substitution at codon 216. Computer analysis of secondary
+structure predicts a major alteration with loss of a beta-pleated sheet in a highly conserved region of the
+protein. The basepair substitution also generates a new site for the restriction enzyme BstXI in exon 7 of the
+genomic DNA. Digestion of genomic DNA from the patient and from his parents revealed that he was
+homozygous for the mutation and that his mother and father were carriers. This mutation in homozygous
+form appears to be associated with very severe disease, since the patient had perinatal onset of clinical
+manifestations of SCID, the highest concentration of the toxic metabolite deoxyATP in nine patients studied,
+and a relatively poor immunologic response during the initial 2 years of therapy with polyethylene glycoladenosine deaminase. Analysis of DNA from 21 additional patients with ADA-SCID and from 19 unrelated
+normals revealed that, while none of the normal individuals showed the abnormal restriction fragment, two
+of the 21 patients studied were heterozygous for the G646-to-A mutation.
+
+Introduction
+Mutations at the adenosine deaminase (ADA) locus in
+man result in a spectrum of phenotypes ranging from
+an early onset, rapidly fatal immunodeficiency (severe
+combined immunodeficiency [SCID]), to grossly normal immune function. In general, patients with ADAdeficient SCID (ADA-SCID) carry mutations causing
+complete absence of enzyme activity in all cell types.
+A late-onset, milder, and slowly progressive immunodeficiency appears to be associated with mutations resulting in absence of enzyme activity in erythrocytes
+and in extremely low but detectable residual enzyme
+activity in other cell types. Mutations causing absence
+Received January 24, 1991; final revision received June 18,
+1991.
+Address for correspondence and reprints: Rochelle Hirschhorn,
+M.D., Division of Medical Genetics, New York University Medical
+Center, 550 First Avenue, New York, NY 10016.
+i 1991 by The American Society of Human Genetics. All rights reserved.
+0002-9297/91/4904-0021$02.00
+
+878
+
+of enzyme activity in erythrocytes but with retention
+of greater than 5% of normal enzyme activity in other
+cell types ("partial" ADA deficiency) are usually associated with grossly normal immune function. Although the clinical presentation of classical ADASCID is relatively uniform, there is some variability
+with respect to several features, including age at onset,
+extralymphoid manifestations, and initial residual immune function (Giblett et al. 1972; reviewed in
+Hirschhorn 1986; Kredich and Hershfield 1989).
+ADA is a monomeric protein of 40,762 daltons that
+is expressed in all cell types. Deficiency of the enzyme
+results in accumulation and/or excretion of abnormally high amounts of substrates, including adenosine
+and 2' deoxyadenosine, and of the metabolite deoxyATP and also results in secondary inhibition of the
+enzyme SAH hydrolase. The relatively lymphospecific
+consequences of the genetic deficiency of ADA are believed to reflect the predominance in lymphoid cells
+of pathways leading to accumulation of metabolites
+(most notably deoxyATP) and/or greater sensitivity
+
+Severe Combined Immunodeficiency in ADA Deficiency
+
+of lymphoid cells to abnormal concentrations of substrates. In general, the degree of accumulation and/or
+excretion of metabolites and substrates, as well as the
+severity of disease, correlate with the degree of enzyme
+deficiency (reviewed in Kredich and Hershfield 1989;
+Hirschhorn 1990).
+The gene coding for ADA has been isolated, and
+the nucleotide sequences of both the mRNA and the
+structural gene have been determined. The cDNA contains 1,089 bp of coding sequence and is distributed
+in 12 exons contained in approximately 32 kb of DNA
+(Orkin et al. 1983; Valerio et al. 1983, 1984, 1985;
+Wiginton et al. 1983, 1984, 1986; Daddona et al.
+1984). This information has enabled the molecular
+definition of mutations in several patients with ADA
+deficiency. The majority of patients reported thus far
+have grossly normal mRNA, most consistent with
+single-basepair missense mutations. Six different point
+mutations resulting in single-amino-acid substitutions
+have been reported in patients with ADA-SCID (table
+1; Bonthron et al. 1985; Valerio et al. 1986; Akeson
+et al. 1987, 1988; Markert et al. 1989; Hirschhorn et
+al. 1990). An additional single-base-pair substitution
+at a splice site, resulting in an abnormally spliced,
+in-frame mRNA has also been reported (Akeson et
+al. 1988). In addition, six different point mutations
+resulting in partial ADA deficiency have also been defined (Hirschhorn et al. 1989, 1990). A conservative
+Lys80-to-Arg mutation that appears to be a previously
+undetected normal polymorphism not grossly affecting ADA activity has also been reported (Valerio et al.
+1986). Gross deletions of all or part of the ADA gene
+are rare, with only two such patients having been reported, both of whom appear to carry the identical
+deletion involving recombination at an Alu repeat (Berk-
+
+879
+
+al. 1987, 1990; Markert et al. 1987, 1988)
+(table 1).
+We now report a newly identified missense mutation
+that in homozygous form was associated with both
+perinatal onset of clinical manifestations of ADASCID and the highest concentration of toxic metabolites we have seen in an ADA-SCID patient. The mutation alters a restriction site, and we could therefore
+determine both that the patient was homozygous for
+the mutation and that two of 21 additional patients
+were genetic compounds for this mutation in conjunction with other mutations.
+
+vens et
+
+Subjects and Methods
+Brief Case Report
+
+The patient is the second male child of a mating
+between parents from two different extended Amish
+families from eastern Pennsylvania. Although no consanguinity could be determined from three-generation
+pedigrees, the two families are known to have intermarried in the past. At 3d of age the child developed
+respiratory distress and was hospitalized for pneumonia unresponsive to antibiotics. He was then transferred to Geisinger Hospital where the finding of severe lymphopenia and continued non-responsiveness
+to multiple antibiotics led to his transfer, at 4 wk of
+age, to Childrens Hospital of Pennsylvania, for possible bone marrow transplantation. However, no suitable bone marrow donor was found. He remained
+profoundly lymphopenic during the first 6 wk of life
+(absolute lymphocyte count 144-574), with few mature T or B cells (4%-10% CD4, 5%-13% CD8, and
+6%-15% CD11; 3% B1 /B4) and with 23% mononu-
+
+Table I
+Mutations in ADA-SCID
+Exon
+
+Basepair
+
+Basepair Change
+
+Deletion
+
+1
+4 ...
+
+7
+10
+11
+
+Amino Acid
+
+...
+
+...
+...
+
+IVS 3 3' splice
+301
+302
+320
+632
+646
+911
+986
+
+AG to GG
+CGG to TGG
+CGG to CAG
+CTG to CCG
+CGT to CAT
+GGG to AGG
+CTG to CGG
+GCG to GTG
+
+Exon 4 spliced out
+Arg101 to Trp
+Arg'01 to Gln
+Leu107 to Pro
+Arg211 to His
+Gly216 to Arg
+
+Leu304 to Arg
+Ala329 to Val
+
+Reference(s)
+
+Markert et al. 1989,
+Berkvens et al. 1990
+Akeson et al. 1988
+Akeson et al. 1988
+Bonthron et al. 1985
+Hirschhorn et al. 1990
+Akeson et al. 1987, 1988
+Present report
+Valerio et al. 1986
+Akeson et al. 1988
+
+880
+
+clear cells bearing NK markers. Both humoral and
+cellular immunity were defective, with nondetectable
+IgA and IgM at 1 mo of age and with absence (<1%
+of control) of proliferative response of lymphocytes to
+the mitogens (phytohemagglutinin) PHA, Con A, or
+PWM (pokeweed mitogen). Chest X-ray revealed
+changes consistent with the chondro-osseous dysplasia seen in approximately 50O of ADA-SCID patients
+(Cederbaum et al. 1976). He was treated with IV pentamidine and erythromycin, for the pulmonary infection, and with ketoconazole and nystatin, for urinary
+candidiasis, as well as with IV IgG. Open-lung biopsy
+at S wk of age failed to reveal pneumocystis. At 6 wk
+of age he was begun on polyethylene glycol-modified
+ADA (PEG-ADA) (Hershfield et al. 1987), which he
+has continued to receive until this time (he is now 2
+years of age), together with IV Ig, prophylaxis with
+trimethoprim/sulfamethexazole, and antibiotics as
+needed.
+Individuals Studied
+
+Epstein-Barr virus-immortalized lymphoid cell
+lines from the proband (GM 11411) and his parents
+(GM 11412 and GM 11413), as well as lymphoid
+and/or fibroblast cell lines from 21 additional ADAdeficient SCIDs, were studied. From the NIGMS Human Genetic Cell Mutant Repository (Camden, NJ)
+were cell lines GM 0469, GM 1390, GM 1715, GM
+2436, GM 2471, GM 2578, GM 2606, GM 2756,
+GM 2825A, GM 3136, GM 3137, and GM 4258A;
+from the Repository for Mutant Human Cell strains
+(Quebec) were WG 548 and WG 290. CR, DM, TM,
+CJ, Ro, Te, Fx, and Fa were patients of Drs. W. Borkowsky and R. Hirschhorn (CR), Dr. D. Kirkpatrick
+(DM), Dr. F. S. Rosen (TM), Dr. M. Ballow (CJ and
+R.), Dr. A. Heywood (Te), Drs. A. Martin and
+R. Hong (Fx), and Dr. J. Jung (Fa).
+General Methods
+DNA was isolated, digested with restriction endonucleases, electrophoresed in 0.8% agarose gels,
+transferred to nitrocellulose filters, and hybridized
+
+with 32P randomly labeled DNA probes by standard
+methods as described elsewhere (Southern 1975; Maniatis et al. 1982; Feinberg and Vogelstein 1984; Tzall
+et al. 1989). The genomic DNA probe containing
+exon 8 was a Ball/BglII fragment subcloned as described elsewhere (Tzall et al. 1989). Determination of
+RFLPs was as described elsewhere (Tzall et al. 1989).
+
+Hirschhorn et al.
+RNA was extracted by the method of Chirgwin et al.
+(1979).
+Amplification of Reverse-transcribed RNA
+
+On the basis of the method of Saiki et al. (1988), 1
+
+gg total RNA was incubated with 0.5 mM dNTPs, 3
+
+ig of oligo dT, 50 mM Tris pH 8.3, 50 mM KCI, 8
+mM MgCl2, 10 mM DTT, and 1 g1 (16.5 units) AMV
+reverse transcriptase (Life Sciences, Fla) in 50 pl at
+41 IC for 2 h. Ten microliters reaction mixture was
+diluted to 50 ,l with additions, resulting in 0.2 mM
+dNTPs, 10 mM Tris, 50 mM KCl, 1.6 mM MgC12,
+2 mM DTT, 0.01 % gelatin, and 1 jg each of primers.
+The primers used consisted of bp 19-54 with an added
+5' EcoRI site and of the complementary strand of bp
+1095-1124 with an added 5' HindIII site (bp 1 = A
+of ATG). The mixture was heated to 94°C for 4 min,
+0.5 jl (2.5 units) Taq polymerase (Perkin ElmerCetus) was added, and it was overlain with 50 jl mineral oil and was incubated for 30 cycles of 5 min at
+72°C and of 1 min 20 s at 94°C with the last cycle
+being at 72°C for 10 min. The reaction product was
+electrophoresed in low-melt agarose (BRL), the major
+band cut was out, and the DNA was eluted in 0.2 ml
+H20 by two cycles consisting of first freezing in dry
+ice/ethanol and then thawing at 370C, followed by
+centrifugation in a Beckman microfuge for 10 min;
+and DNA in the supernatant was precipitated with
+ethanol. The resuspended pellet was digested with
+EcoRI and HindIII, extracted with phenol, phenol-Sevag, and Sevag, precipitated with ethanol, resuspended, and ligated to EcoRI/HindIII-digested
+pUC 18 for further analysis by restriction digestion
+and DNA sequence determination. DNA sequence
+analysis of double-stranded DNA used a series of
+ADA-specific primers (Sanger et al. 1977; Bonthron
+et al. 1985; Mierendorf and Pfeffer 1987). DNA from
+12 clones containing inserts with the expected size and
+restriction were pooled for analysis of sequence. One
+of these clones was also sequenced separately.
+Biochemical and Immunologic Studies
+In vitro tests of immune function (proliferative responses to the mitogens PHA, PWM, and Con A and
+
+enumeration of lymphocyte subsets with monoclonal
+antibodies) were performed by standard methods as
+described elsewhere (Garty et al. 1989). Determination of ADA activity and concentration of erythrocyte
+deoxyATP were by methods described elsewhere
+(Hirschhorn et al. 1979).
+
+Severe Combined Immunodeficiency in ADA Deficiency
+Results
+
+881
+Table 2
+
+Biochemical studies
+
+Determination of ADA activity in erythrocytes revealed 0.0625 nmol/mg Hb/h, or less than 0.2% of
+normal (mean + SEM = 42.7 + 3. 1; n = 10). (The
+true ADA activity was <0.002% of normal, since only
+0.004 nmol was sensitive to the inhibitor EHNA,
+which is specific for the ADA isozyme encoded by the
+locus affected in ADA-SCID [Schrader et al. 1978].)
+Determination of ADA activity in an EBV-immortalized lymphoid line revealed less than 0.1% of normal ADA in the child and approximately 50% of normal activity in both parents (table 2). Erythrocyte
+deoxyATP was markedly elevated, to a concentration
+higher than was found in eight additional previously
+studied patients (table 2).
+
+A: ADA Activity in Lymphoid Cells
+ADA ACTIVITYa
+(nmol/mg protein/min)
+(-) EHNA
+EHNA Inhibitable
+
+Proband ........
+Mother .........
+Father
+Control
+.........
+
+.........
+
+.040
+9.100
+12.150
+20.800
+B. Erythrocyte deoxyATP
+
+Erythrocyte deoxyATPb
+(nmol/ml packed RBCs)
+Proband
+Previous ADA-SCID cases:
+1.
+
+Determination of the Specific Mutation
+
+Sequencing of cDNA amplified from reversetranscribed mRNA revealed only a G646-to-A transition at a CG dinucleotide. The basepair change predicts a glycine-to-arginine substitution at codon 216.
+As is to be expected from the substitution of the basic
+amino acid arginine for a neutral glycine, computer
+analysis of secondary structure predicted an increase
+in both hydrophilicity and surface probability. The
+Chou-Fasman algorithm predicts loss of a betapleated sheet between two helical domains (fig. 1).
+The recent report of crystallographic analysis of the
+protein is consistent with this analysis and indicates
+that the adjoining codon, Glu217, is involved in the
+catalytic mechanism (Wilson et al. 1991).
+The basepair substitution also generates a new site
+for the restriction enzyme BstXI in exon 7 of genomic
+DNA. Digestion of genomic DNA from the patient
+and from his parents revealed that he was homozygous
+for the mutation and that his mother and father were
+carriers of the mutation (fig. 2). Analysis of genomic
+DNA from 21 additional patients with ADA-SCID
+and from 19 unrelated normals revealed that two patients (GM 1390 and GM 2436) were heterozygous
+for the mutation while none of the 19 normal individuals showed the abnormal restriction fragment (data
+not shown).
+Determination of Haplotypes
+
+Since the mutation is a G-to-A transition at a CG
+dinucleotide, it represents what has been termed a
+"hot-spot" mutation. In order to evaluate whether
+
+.017
+9.030
+12.150
+20.800
+
+3................
+4.
+5.
+6.
+7e .....
+8.
+
+2,248
+1.707
+2C .830
+793 d
+687
+537
+428
+374
+174
+
+a
+Conversion of 14C adenosine to hypoxanthine and inosine; normal mean ± SEM = 26.0 ± 3.5 (n = 5).
+bNormal mean = 3.1 (range = 1.29-9; (n = 34).
+c Source: Hirschhorn et al., (1980a).
+dSource: Hirschhorn et al., (1980b).
+e3 mo after RBC transfusion.
+
+these identical mutations derived from a common ancestor or occurred independently in one or more of the
+three patients, we determined RFLPs at the ADA locus
+(Tzall et al. 1989). The proband carried the mutation
+on haplotype I, found in 62% of normal chromosomes
+(common RFLP at all sites), as defined by seven RFLPs
+at the ADA locus, and he exhibited the most common
+nucleotide at six silent polymophic sites (tabulated in
+Akeson et al. 1987). One of the two other patients
+carrying the mutation (i.e., patient GM 2436) was
+also homozygous for the most common haplotype I.
+The third patient (GM 1390) was heterozygous at the
+PstI, MspI IVS3, MspI IVS5, and Ball RFLPs and was
+homozygous for the common RFLP at the other sites.
+Since DNA from the parents of GM 1390 was not
+available, we could not determine phase, but, on the
+basis of observed linkage disequilibrium, GM 1390
+is probably heterozygous for either the I/V or II/VI
+haplotypes (Tzall et al. 1989). If he is heterozygous
+
+A
+ow2
+
+220
+
+V
+
+V0
+
+V
+
+V
+
+V
+
+V
+
+V
+
+CCOK
+O
+
+V
+
+COON
+
+Prediction of secondary structure of normal (A) and patient (B) ADA adenosine deaminase from codon 195 to 230, according
+Figure I
+to the Chou-Fasman method using Wisconsin GCG program. e = KD hydrophilicity > 1.3; * = KD hydrophobicity >1.3.
+
+Severe Combined Immunodeficiency in ADA Deficiency
+
+Genomic DNA digested with BstXI and hybridized
+Figure 2
+with genomic probe containing exon 8. The normal BstXI sites are
+at bp 27696 in IVS 6 and at 31500 in IVS 11 (Wiginton et al.
+1986), predicting a 3.8-kb fragment detectable by a genomic probe
+containing exon 8. The mutation creates a new BstXI site in exon
+7 at bp 28532, predicting a smaller-than-normal 2.968-kb fragment
+extending from mid exon 7 to IVS 11 and detectable by the exon
+8 probe (it also predicted an 0.836-kb fragment extending from IVS
+6 to mid exon 7, but this fragment is not visualized by the exon 8
+probe). The proband (PT) exhibited only a smaller-than-normal
+band, while both parents (MO and FA) exhibited the smaller band
+in addition to a normal band. Normals (NL) exhibited only the
+larger band.
+
+for the I and V haplotypes, the mutation could have
+occurred on the same haplotype as in the other two
+patients, and the findings are therefore not inconsistent with the mutation's having derived from a common ancestor.
+
+Discussion
+
+In a child with ADA-SCID we have determined the
+mutation that, in homozygous form, is associated with
+very severe disease, as manifested by extremely early
+onset of disease (i.e., 3 d of age) and the highest concentration of a toxic metabolite that we have seen in
+the nine patients studied. In addition, the recovery of
+immune function during 2 years of PEG-ADA therapy
+has been poor in comparison with that seen in other
+similarly treated ADA-SCID cases (M.Hershfield, personal communication; authors' unpublished observations). Although he has been clinically well (with the
+exception of two episodes of sepsis due to infection of
+a central venous line) and has maintained his growth
+curve slightly below the fifth percentile, his immunologic reconstitution on standard PEG-ADA therapy
+
+883
+
+remained limited, with lymphopenia and markedly
+impaired mitogen responses. These observations suggest that homozygosity for this mutation may be particularly deleterious. However, since, in this disorder,
+exposure to environmental microorganisms can play
+a major role in the initial phenotype, speculation as to
+genotype-phenotype correlations must be viewed with
+caution until additional patients homozygous for the
+codon 216 mutation have been ascertained. Nonetheless, we have also found that a mutation altering the
+adjacent codon 217 (with a deletion rendering the second allele nonfunctional) occurs in a child with both
+the next highest concentration of deoxy ATP (table
+2, patient 1) and very early onset of florid disease
+(unpublished results). These observations are consistent with recent reports that codons 212-217 are evolutionarily highly conserved and that Glu217 is in the
+catalytic site (Change et al. 1991; Wilson et al. 1991).
+We have also identified the codon 216 mutation in two
+additional ADA-SCID cases. Both of these children
+are genetic compounds for the mutation affecting codon 216 and for a second as yet unidentified allele that
+could modify the phenotype.
+The mutation is a G-to-A transition at a CG dinucleotide and therefore may represent a hot spot mutation,
+presumably reflecting spontaneous deamination of
+methylated cytosines at CG dinucleotides (reviewed in
+Cooper and Krawczak 1990). Similar to our finding
+of three patients with the same mutation occurring at
+a CG site, two other mutations at the ADA locus that
+result in SCID - i.e., the mutations Ala329-to-Val and
+Arg2t1-to-His-have each been reported in more than
+one unrelated patient, and both also occur at CG sites
+(Akeson et al. 1987; 1988; Markert et al. 1989). The
+Ala329-to-Val mutation has been shown to have occurred independently on two different chromosomal
+backgrounds. Determination of haplotypes for the
+Gly216-to-Arg mutation reported here was compatible
+with the possibility of a common ancestor. This, however, cannot be stated with a high degree of certainty,
+since the mutations were found on a haplotype accounting for 62% of normal chromosomes. It would
+seem likely that both GM 2436 and the Amish index
+patient derive the mutation from a common ancestor,
+since GM 2436 is Swiss and since the easternPennsylvania Amish immigrated from the canton of
+Bern in Switzerland (V. McKusick, personal communication). Their common background raises the possibility that the Gly216-to-Arg mutation, although not
+found in 38 normal Caucasian chromosomes, could be
+
+884
+a normal polymorphism unique to the inbred Swiss/
+Amish population. Such an interpretation is unlikely,
+since the third patient who bears the mutation derived
+from west Texas, was not Amish, and had no known
+Swiss ancestry. More to the point, the site of the mutation, in the region of the highly conserved sequence
+within the catalytic site (Chang et al. 1991; Wilson et
+al. 1991), would further argue that the Gly216-to-Arg
+mutation is responsible for the disease.
+
+Acknowledgments
+We thank Amy Ellenbogen and Marion Bodkin for outstanding technical assistance, Drs. J. Lobell and H. Shah for
+referring this patient, and Dr. D. E. Campbell of the clinical
+immunology laboratory at CHOP. This investigation was
+supported by grants from the NIH (Al R3710353 and MH
+47422) and the National Foundation March of Dimes. Computing was supported by the NSF under grant DIR8908095.
+
+References
+Akeson AL, Wiginton DA, Dusing MR, States JC, Hutton
+JJ (1988) Mutant human adenosine deaminase alleles and
+their expression by transfection into fibroblasts. J Biol
+Chem 263:16291-16296
+Akeson AL, Wiginton DA, States JC, Perme CM, Dusing
+MR, Hutton JJ (1987) Mutations in the human adenosine
+deaminase gene that affect protein structure and RNA
+splicing. Proc Natl Acad Sci USA 84:5947-5951
+Berkvens TM, Gerritsen EJ, Oldenburg M, Breukel C, Wijnen JT, van Ormondt H, Vossen JM, et al (1987) Severe
+combined immune deficiency due to a homozygous 3.2-kb
+deletion spanning the promoter and first exon of the adenosine deaminase gene. Nucleic Acids Res 15:9365-9378
+Berkvens TM, van Ormondt H, Gerritsen EJA, Meera Khan
+P. van der Eb AJ (1990) Identical 3250-bp deletion between two AluI repeats in the ADA genes of unrelated
+ADA-SCID patients. Genomics 7:486-490
+Bonthron DT, Markham AF, Ginsburg D, Orkin SH (1985)
+Identification of a point mutation in the adenosine deaminase gene responsible for immunodeficiency. J Clin Invest
+76:894-897
+Cederbaum SD, Kaitila I, Rimoin DL, Stiehm ER (1976)
+The chondro-osseous dysplasia of adenosine deaminase
+deficiency with severe combined immunodeficiency. J Pediatr 89:737-742
+Chang Z, Nygaard P, Chinault AC, Kellems RE (1991)
+Deduced amino acid sequence of Escherichia coli adenosine deaminase reveals evolutionarily conserved amino
+acid residues: implications for catalytic function. Biochemistry 30:2273-2280
+Chirgwin JM, Pryzbyla AE, MacDonald RJ, Rutter WJ
+
+Hirschhorn et al.
+(1979) Isolation of biologically active ribonucleic acid
+from sources enriched in ribonuclease. Biochemistry 18:
+5294-5299
+Cooper DN, Krawczak D (1990) The mutational spectrum
+of single base-pair substitutions causing human genetic
+disease: patterns and predictions. Hum Genet 85:55-74
+Daddona PE, Shewach DS, Kelley WN, Argos P, Markham
+AF, Orkin SH (1984) Human adenosine deaminase cDNA
+and complete primary amino acid sequence. J Biol Chem
+259:12101-12106
+Feinberg AP, Vogelstein B (1984) Addendum: a technique
+for radiolabelling DNA restriction enzyme fragments to
+high specific activity. Anal Biochem 137:266-267
+Garty B-Z, Levinson Al, Danon LY, Wilmott R, Douglas
+SD (1989) Lymphocyte subpopulations in children with
+abnormal lymphatic circulation. J Allergy Clin Immunol
+84:515-520
+Giblett ER, Anderson JE, Cohen F, Pollara B, Meuwissen
+HJ (1972) Adenosine deaminase deficiency in two patients
+with severely impaired cellular immunity. Lancet 2:10671069
+Hershfield MS, Buckley RH, Greenberg ML, Melton AL,
+Schiff R. Hatem C, Kurtzberg J, et al (1987) Treatment of
+adenosine deaminase deficiency with polyethylene glycolmodified adenosine deaminase. N Engl J Med 316:589596
+Hirschhorn R (1986) Inherited enzyme deficiencies and immunodeficiency: adenosine deaminase (ADA) and purine
+nucleoside phosphorylase (PNP) deficiencies. Clin Immunol Immunopathol 40:157-165
+(1990) Adenosine deaminase deficiency. In: Rosen
+FS, Seligmann M (eds) Immunodeficiency reviews, vol 2.
+Harwood Academic, New York, pp 175-198
+Hirschhorn R, Papageorgiou P, Kesarwala H, Taft LT
+(1980a) Amelioration of neurologic abnormalities after
+"enzyme replacement" in adenosine deaminase deficiency
+(1980) N Engl J Med 303:377-380
+Hirschhorn R, Roegner V, Jenkins T, Seaman C, Piomelli S,
+Borkowsky W (1979) Erythrocyte adenosine deaminase
+deficiency without immunodeficiency: evidence for an unstable mutant enzyme. J Clin Invest 64:1130-1139
+Hirschhorn R, Roegner V, Rubinstein A, Papageorgiou P
+(1980b) Plasma deoxyadenosine, adenosine and erythrocyte deoxyATP are elevated at birth in an adenosine
+deaminase-deficient child. J Clin Invest 65:768-771
+Hirschhorn R, Tzall S, Ellenbogen A, Eng F (1990) "Hot
+spot" mutations in adenosine deaminase (ADA) deficiency. Proc Natl Acad Sci USA 87:6171-6175
+Hirschhorn R, Tzall S, Ellenbogen A, Orkin SH (1989)
+Identification of a point mutation resulting in a heat-labile
+adenosine deaminase (ADA) in two unrelated children
+with partial ADA deficiency. J Clin Invest 83:497-501
+Kredich NM, Hershfield MS (1989) Immunodeficiency disease associated with adenosine deaminase deficiency and
+purine nucleoside phosphorylase deficiency. In: Scriver
+CM, Beaudet AL, Sly W, Valle D (eds) The metabolic
+
+Severe Combined Immunodeficiency in ADA Deficiency
+basis of inherited disease, 5th ed. McGraw Hill, New
+York, pp 1045-1076
+Maniatis T, Fritsch EF, SambrookJ (1982) Molecular cloning: a laboratory manual. Cold Spring Harbor Laboratory, Cold Spring Harbor, NY
+Markert ML, Hershfield MS, Wiginton DA, StatesJC, Ward
+FE, Bigner SH, Buckley RH, et al (1987) Identification of
+a deletion in the adenosine deaminase gene in a child with
+severe combined immunodeficiency. J Immunol 138:
+3203-3206
+Markert ML, Hutton JJ, Wiginton DA, States JC, Kaufman
+RE (1988) Promoter and first exon by homologous recombination between two alu elements. J Clin Invest 81:
+1323-1327
+Markert ML, Norby-Slycord C, Ward FE (1989) A high
+proportion of ADA point mutations associated with a
+specific alanine-to-valine substitution. Am J Hum Genet
+45:354-361
+Mierendorf RC, Pfeffer D (1987) Direct sequencing of denatured plasmid DNA. In: Berger SL, Kimmer AR (eds)
+Methods in enzymology, vol 152: Guide to molecular
+cloning techniques. Academic Press, New York, pp 556563
+Orkin SH, Daddona PE, Shewach DS, Markham AF, Bruns
+GA, Goff SC, Kelley WN (1983) Molecular cloning of
+human adenosine deaminase gene sequences. J Biol Chem
+258:12753-12756
+Saiki RK, Gelfand DH, Stoffel S, Scharf SJ, Higuchi R, Horn
+GT, Mullis KB, et al (1988) Primer-directed enzymatic
+amplification of DNA with a thermostable DNA polymerase. Science 239:487-491
+Sanger F, Nicklen S, Coulson AR (1977) DNA sequencing
+with chain-terminating inhibitors. Proc Natl Acad Sci
+USA 74:5463-5467
+Schrader WP, Pollara B, Meuwissen HJ (1976) Characterization of the residual adenosine deaminating activity in
+the spleen of a patient with combined immunodeficiency
+disease and adenosine deaminase deficiency. Proc Natl
+Acad Sci USA 75:446-450
+
+885
+Southern EM (1975) Detection of specific sequences among
+DNA fragments separated by gel electrophoresis. J Mol
+Biol 98:503-517
+Tzall S, Ellenbogen A, Eng F, Hirschhorn R (1989) Identification and characterization of nine RFLPs at the adenosine deaminase (ADA) locus. Am J Hum Genet 44:864875
+Valerio D, Dekker BMM, Duyvesteyn MGC, van der Voorn
+L, Berkvens TM, van Ormondt H, van der Eb AJ (1986)
+One adenosine deaminase allele in a patient with severe
+combined immunodeficiency contains a point mutation
+abolishing enzyme activity. EMBO J 5:113-119
+Valerio D, Duyvesteyn MGC, Dekker BMM, Weeda G,
+Berkvens TM, van der Voorn L, van Ormondt H (1985)
+Adenosine deaminase: characterization and expression of
+a gene with a remarkable promoter. EMBO J 4:437-443
+Valerio D, Duyvesteyn MGC, Meera Khan P, van Kessel
+AG, de Ward A, van der Eb AJ (1983) Isolation of cDNA
+clones for human adenosine deaminase. Gene 25:231240
+Valerio D, McIvor RS, Williams SR, Duyvesteyn MGC, van
+Ormondt H, van der EB AJ, Martin DWJr (1984) Cloning
+of human adenosine deaminase cDNA and expression in
+mouse cells. Gene 31:147-153
+Wiginton DA, Adrian GS, Friedman RL, Suttle DP, Hutton
+JJ (1983) Cloning of cDNA sequences ofhuman adenosine
+deaminase. Proc Natl Acad Sci USA 80:7481-7485
+Wiginton DA, Adrian GS, Hutton JJ (1984) Sequence of
+human adenosine deaminase cDNA including the coding
+region and a small intron. Nucleic Acids Res 12:24392446
+Wiginton DA, Kaplan DJ, States JC, Akeson AL, Perme
+CM, Bilyk IJ, Vaughn AJ, et al (1986) Complete sequence
+and structure of the gene for human adenosine deaminase.
+Biochemistry 25:8234-8244
+Wilson DK, Rudolph FB, Quiocho FA (1991) Atomic structure of adenosine deaminase complexed with a transition-state analog: understanding catalysis and immunodeficiency mutations. Science 252:1278-1284
+
+

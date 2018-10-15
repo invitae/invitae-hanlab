@@ -1,0 +1,1204 @@
+Cell, Vol. 69, 275-261,
+
+April 17, 1992,
+
+Copyright
+
+Somatic Mutations
+in Human Tumors
+
+0 1992 by Cell Press
+
+in the Neurofibromatosis
+
+Ying Li,’ Gideon Bollag,* Robin Clark,*
+Jeff Stevenq1s3 Leah Conroy,* Dan Fults,4*5
+Ken Ward,6*7 Eitan Friedman,8 Wade Samowitz,’
+Margaret Flobertson,‘.3 Paige Bradley,‘,3
+Frank McCormick,* Ray White,‘g3
+and Richard Cawthon’
+‘Department
+of Human
+Genetics
+3Howard Hughes Medical Institute
+4Department of Neurosurgery
+5Human Molecular Biology and Genetics Program
+Eccles Institute of Human Genetics
+6Department of Obstetrics and Gynecology
+7DNA Diagnostics Laboratory
+9Department of Pathology
+University of Utah School of Medicine
+Salt Lake City, Utah 84112
+*Department of Molecular Biology
+Chiron Corporation
+Emeryville, California 94608
+BDepartment of Clinical Genetics
+Karolinska Hospital
+S-104 01, Stockholm
+Sweden
+
+Summary
+The neurofibromatosis
+1 (EIF 7) gene product, neurofibromin, contains a GTPase-activating
+protein (GAP)related domain, or NFl GRD, that is able to downregulate ~21’“~ by stimulating
+its intrinsic
+GTPase.
+Since p21m.GTP is a major regulator
+of growth and
+differentiation,
+mutant neurofibromins
+resulting from
+somatic mutations in the NF1 gene might interfere with
+ras signaling pathways and contribute to the development of tumors. We describe an amino acid substitution in the NFl GRD, altering Lys-1423, that has occurred in three tumor types: colon adenocarcinoma,
+myelodysplastic
+syndrome,
+and anaplastic
+astrocytome, and in one family with neurofibromatosis
+1. The
+GAP activity of the mutant NFl GRD is 200- to 400-fold
+lower than that of wild type, whereas binding affinity
+is unaffected.
+Thus, germline mutations in NF7 that
+cause neuroflbromatosis
+1 can also occur in somatic
+cells and contribute
+to the development
+of sporadic
+tumors, including tumors not associated with neurofibromatosis
+1.
+Introduction
+Guanine nucleotide binding to ras proteins mediates signal transduction that regulates cell growth: binding to GTP
+activates signaling, while hydrolysis to GDP terminates
+signaling (Barbacid, 1987). A GTPase-activating
+protein
+(GAP) was the first protein found to catalyze the hydrolysis
+to GDP and thereby mediate the signal termination event
+(Trahey and McCormick, 1987). In addition to this role, it
+
+1 Gene
+
+has been proposed that GAP may alS0 fUnCtiOn in Signal
+propagation as a downstream effector of ras (McCormick,
+1989; Hall, 1990). More recently, the GAP-related domain
+(GRD) of neurofibromin,
+the neurofibromatosis
+1 (AW)
+gene product, was also found to stimulate the GTPase of
+ras (Ballester et al., 1990; Martin et al., 1990; Xu et al.,
+1990b) and to possess properties consistent with the functioning
+of neurofibromin
+as a downstream effector of ras
+(Bollag and McCormick, 1991).
+Since somatic mutations that activate fas genes may
+contribute to tumorigenesis in up to 30% of human tumors
+(Bos, 1989), we reasoned that somatic mutations in the
+NFl gene that affect the ras signaling pathway may also
+occur in some of these tumor types, as well as in tumors
+associated with neurofibromatosis
+1. Therefore, we chose
+to search sporadic tumors from non-NFl individuals as
+well as the constitutional DNA of NFl patients for mutations in the NFl GRD. Here we describe mutations found
+in tumors and in a family with neurofibromatosis
+1.
+Results
+Detection of Mutations in the NFl GRD
+in Tumors
+The polymerase chain reaction (PCR) single-stranded
+conformation polymorphism (SSCP) method (Orita et al.,
+1989) was used to screen rapidly for mutations in the GRD
+of the NF7 gene (NFl GRD) in samples of DNA extracted
+from tumors. The first exon screened is 159 bp in length
+and corresponds to codons 1371-l 423 of the open reading frame of the full-length NF7 cDNA (Marchuk et al.,
+1991). Located in the middle of the NFl GRD, the protein
+segment encoded by this exon shows approximately 30%
+homology to the corresponding
+segments of the human
+GAP and yeast IRA1 and IRA2 proteins (Xu et al., 1990a).
+A stretch of three consecutive amino acids, FLR, near the
+middle of the exon is completely conserved across all four
+proteins; FLR occurs only once in the entire 2818 aa sequence of the predicted NFl protein. For convenience, we
+refer to this exon as the FLR exon.
+This exon received high priority in our screening strategy, because the relatively high degree of conservation of
+amino acid sequence across these different proteins and
+between species suggested that somatic mutations in this
+region of the gene would be likely to alter amino acid residues crucial to the function of the protein, and so result in
+clinical pathology.
+A pair of intron-based primers (see Experimental Procedures) was used to generate a 236 bp PCR product containing the FLR exon. In most cases, paired samples of
+tumor DNA and accompanying
+constitutional DNA from
+the same individuals were analyzed. The DNA samples
+were from 22 colon adenocarcinomas
+paired with either
+peripheral blood lymphocytes or normal colon tissue; 28
+peripheral blood samples from patients with myelodysplastic syndrome (a preleukemia condition) for which no
+constitutional DNA was available; and 10 anaplastic astro-
+
+Cell
+276
+
+cytoma/peripheral
+blood lymphocyte pairs. (Astrocytoma
+is one of the most common malignant brain tumors.) No
+tumor samples were from NFl patients.
+One of each tumor type showed a variant band on SSCP
+gels. Figure 1 shows the SSCP patterns for the tumor and
+constitutional DNA from the one remarkable colon cancer
+sample and the one remarkable anaplastic astrocytoma
+sample. DNA sequencing (Figure 1) showed that both variant bands were due to a single base change affecting the
+first nucleotide position of the Lys codon (AAG) at position
+1423 in the amino acid sequence. This Lys is one of 14
+aa residues in the catalytic domain that are absolutely
+conserved across all members of the GAP family of proteins (proteins encoded in yeast by the IRAI, IRA2, and
+Sad genes and in mammals by the GAP and NF7 genes)
+(Xu et al., 1990a; Wang et al., 1991), suggesting that it has
+a crucial function in NFl GRD activity. An A to G transition
+in the colon cancer causes a Lys to Glu amino acid substitution. However, an A to C transversion in the anaplastic
+astrocytoma results in a Lys to Gln amino acid substitution.
+All SSCP bands derived from the constitutional DNA samples accompanying
+these two tumors were also sequenced, revealing only the normal AAG codon. The sequences of the tumor variant bands and the constitutional
+DNA bands were otherwise identical. Normal tissue DNA
+to accompany the one myelodysplastic syndrome sample
+
+.
+Figure 1. Somatic
+quenced
+
+AA
+
+Mutations
+
+in Tumors
+
+Detected
+
+by SSCP and Se-
+
+(Left) The SSCP patterns obtained from normal (n) tissue and colon
+cancer tissue (1) from one patient (upper two lanes) and from the normal
+and anaplastic
+astrocytoma
+tissue from another patient (lower two
+lanes).
+(Right) The sequences
+of the normal (NI) and mutant alleles: colon
+cancer (CC) and anaplastic astrocytoma
+(AA). Arrows indicate the specific variant bands that were cut from SSCP gels to obtain the sequences shown.
+
+that showed a variant SSCP pattern was not available;
+therefore, it was not possible to show that the variant seen
+reflects a somatic mutation arising in the tumor tissue.
+However, sequencing of the variant band from this myelodysplastic syndrome sample revealed the same GAG variant codon shown above to have occurred as a somatic
+mutation in the colon cancer sample.
+Detection of the Lys to Glu Mutation in a Patient
+with Neuroflbromatosis
+1
+To detect sensitively and rapidly any change in the first
+nucleotide of the Lys-1423 codon in the constitutional DNA
+of NFl patients, we designed a restriction enzyme digestion-based assay that uses PCR to introduce the recognition sequence of the enzyme in an allele-specific manner
+(Pettyetal., 1991). Inthisassaythepresenceofthenormal
+adenine nucleotide at the first base of the codon allows
+cutting, but the appearance of any other nucleotide destroys the recognition site of the restriction enzyme. A PCR
+primer based on the sequence immediately preceding the
+AAG lysine codon was used in combination with a downstream intron-based primer to amplify a short DNA segment containing the AAG lysine codon (see Experimental
+Procedures). By designing the upstream primer to have a
+nontemplate G nucleotide at its 3’terminus, we cause the
+PCR product derived from normal NFl sequence to contain the sequence TCGA, in which the G comes from the
+last base in the upstream primer and the A comes from the
+first nucleotide position of the AAG lysine codon. Since
+TCGA is the recognition site for Taql restriction endonuclease, the PCR product from the normal NFl sequence will
+be cut by Taql. Any mutation altering the first A in the AAG
+Lys-1423 codon prevents cutting by Taql.
+Lymphoblast DNA samples from 80 NFl patients were
+screened by this assay, along with the mutant anaplastic
+astrocytoma sample and its accompanying
+normal lymphocyte DNA. The PCR products from 79 of the 80 NFl
+patients and from the lymphocyte DNA of the anaplastic
+astrocytoma patient cut completely with Taql, whereas
+approximately one-half of the PCR product from the anaplastic astrocytoma DNA sample did not cut with the restriction enzyme, as expected from our sequencing data
+for this tumor DNA sample. However, NFl patient 11404
+appeared to be heterozygous at the first nucleotide position of the AAG codon, since only half of the PCR product
+showed cutting with Taql (Figure 2, sample 1).
+To determine what sequence change was responsible
+for this result, the entire FLR exon was PCR amplified
+from the genomic DNA of patient 11404, cloned into the
+pBluescript II phagemid vector, and sequenced manually.
+Sequencing of ten independent clones revealed that five
+contained the normal Lys-1423 codon, AAG; however, the
+remaining five clones contained the unusual codon Glu1423 GAG that had been found in the colon cancer DNA
+sample.
+Coinheritance
+of the Glu-1423 Mutation
+and Neuroflbromatosls
+1 in the Family
+of Patient 11404
+To investigate further the possibility that this A to G muta-
+
+Somatic
+
+Mutations
+
+in NFl
+
+in Human
+
+Tumors
+
+277
+
+12345678
+
+Figure 2. Coinheritance
+matosis 1 in the Family
+
+of the Glu-1423
+of Patient 11404
+
+Mutation
+
+and
+
+d
+
+Neurofibro-
+
+Patient 11404 (numbered
+1 here) and family members are shown in
+the pedigree. DNA from the spouse of patient 11404 (individual 8) was
+not available for analysis. Persons affected by neurofibromatosis
+1 are
+indicated byclosedsymbols;
+unaffected personsare
+indicated by open
+symbols. The Taql restriction patterns of the PCR products from DNAs
+of the family members are shown at the bottom. The control lane (C)
+shows undigested
+PCR product.
+The homozygotes
+for the Taqlcleavable allele, individuals 5 and 7, do not have neurofibromatosis
+1;
+the heterozygotes,
+all other family members,
+carry the disease.
+
+tion at codon 1423 is the cau8e of neurofibromatosis
+1
+in patient 11404, we tested DNA samples from several
+NFl-affected
+and unaffected family members of this patient, using the Taql restriction digestion-based
+assay
+(Figure 2). All NFl-affected descendants of patient 11404,
+like patient 11404 herself, were heterozygous
+by this
+assay. The one unaffected granddaughter
+was homozygous for the normal A nucleotide. The three NFl-affected
+granddaughters
+had to inherit the Taql-resistant
+allele
+from their NFl-affected father, because their unaffected
+mother is homozygous for the Taql-sensitive allele. This
+study shows that the Glu-1423 mutation perfectly coinherits with neurofibromatosis
+1 in this family and therefore
+must lie in the same copy of the NFl gene that bears the
+neurofibromatosis-causing
+mutation. This is the expected
+result if the Glu-1423 mutation itself is the cause of neurofibromatosis 1 in this family.
+Construction,
+Expression,
+and Biochemical
+Analysis of NFl GRD Mutant Proteins
+To examine the functional consequences of these mutations, site-directed mutagenesis by PCR was performed
+to generate the A to C and A to G mutant fragments of NFl
+cDNA encoding the GAP-related domain (NFl GRD). DNA
+sequencing confirmed that only the desired bases were
+mutated. Mutant NFl fragments with an appended sequence encoding the KT3 epitope (TPPPEPET)
+were
+cloned into the baculovirus transfer vector pAcC4, and
+the two mutant NFl GRD proteins were expressed in Sf9
+insect cells and purified using KT3 beads as previously
+described (Martin et al., 1990).
+The ras GTPase-stimulating
+activities of the mutant and
+wild-type NFl GRDs were determined by measuring phosphate release (Martin et al., 1990). Figure 3 shows that
+the activities of both mutant proteins are greatly reduced
+compared with that of wild-type NFl GRD. The activities
+of the Lys to Gln and Lys to Glu mutants were reduced by
+approximately 400- and 200-fold, respectively. ~21 N-ra8was
+
+2'0
+
+4‘0
+
+6b
+
+(NFt -GRD],
+Figure 3. Stimulationofp21N’“GTPase
+GRD Proteins
+
+6.0
+
+100
+
+nM
+
+byWild-TypeandMutant
+
+NFl
+
+GTPaseactivitiesattheindicatedconcentrationsofwild-typeormutant
+NFl GRD (Lys toGlu and Lys to Gln) were measured in 20 mM HEPES
+(pH 7.5) 2 mM MgCl2,2 mM dithiothreitol,
+and 500 pg/ml bovine serum
+albumin for 10 min at 25%. Prebinding of ~21” to [yJ2P]GTP (5000
+cpm/fmol) was performed
+as described
+elsewhere
+(Halenbeck
+et al.,
+1990). Final concentration
+of ~21’” [yJ2P]GTP
+is 2 nM.
+
+used in this assay, and the titration was performed at a low
+concentration of p21’“. GTP (2 nM). Similar results were
+obtained using P~~‘+“~.GTP (data not shown).
+The affinities of ras.GTP for the mutant and wild-type
+NFl GRD proteins were estimated by measuring the ability
+of ras.GppNHp (guanylylimidodiphosphate,
+a nonhydrolyzable GTP analog) to inhibit competitively NFl GRDstimulated hydrolysis of “P-labeled
+ras.GTP (Figure 4).
+The concentration of inhibitor at which GTP hydrolysis is
+inhibited by 50% is approximately
+equal for the mutant
+and the wild-type NFl GRD proteins, indicating that all
+bind with about the same affinity. The affinity of ras.GDP
+for both mutant and wild-type NFl GRD was approximately
+lOO-fold lower than the affinity for ras.GTP (data not
+shown).
+
+100)
+
+60
+
+J
+
+20
+
+-
+
+0
+
+.,.I.
+
+0
+
+I
+
+1000
+
+2000
+
+3000
+
+(N-ras-GppNHp],
+
+.I.,.
+
+4000
+
+5ObO
+
+60bO
+
+nM
+
+Figure 4. Competitive Inhibition by ~21’~.GppNHp
+of ~21”
+Hydrolysis
+by Wild-Type
+and Mutant NFl GRD Proteins
+
+[yJ2P]GTP
+
+The concentration
+of ~21’~ [y-32P]GTP was approximately
+1 nM. We
+started with different concentrations
+of the Lys to Glu mutant protein
+and the wild-type NFl GRD to achieve a similar GAP activity; therefore,
+the mutant protein was approximately
+509fold more concentrated
+than
+the wild-type peptide.
+
+Cell
+270
+
+Somatically acquired point mutations affecting codon
+14230f the NFl gene have been found in DNAfrom acolon
+adenocarcinoma
+and an anaplastic astrocytoma. One of
+these mutations was also detected in a myelodysplasia for
+which no constitutional
+DNA control was available. The
+mutations alter a Lys residue in the catalytic domain of
+neurofibromin
+that is invariant among GAP-related proteins (Xu et al., 1990a; Wang et al., 1991) and is therefore
+likely to be crucial for normal functioning. Indeed, the mutant NFl GRD proteins bind with normal affinity to
+ras.GTP but are severely impaired in stimulating the ras
+GTPase. Somatic mutations in tumors were not randomly
+distributed within the NF1 gene: within this 159 bp exon,
+screened in 60 tumors, mutations were detected only in
+codon 1423. A mutation in this same codon was also found
+in a family with NFl, where it coinherits with the disease.
+These results suggest that at least some of the mutations
+in the NF7 gene that occur in the germline to cause neurofibromatosis 1 can also occur in somatic cells and contribute
+to the development of sporadic tumors.
+One might expect that any tumor type found occasionally to harbor somatic mutations in the NFI gene would
+be a tumor type with an increased incidence among NFl
+patients. Indeed, astrocytomas have been reported to occur at higher rates in NFl patients (Blatt et al., 1966;
+Serensen et al., 1966; Cohen and Rothner, 1969; Kibirige
+et al., 1969). However, colon cancers and myelodysplasias do not seem to have an increased incidence among
+NFl patients. Furthermore,
+three generations of NFlaffected individuals in the family of patient 11404 had no
+history of either of these tumor types, even though the
+Glu-1423 mutation found in the colon and myelodysplasia
+tumors must be present in every somatic cell of these
+individuals.
+There is a precedent for this apparent paradox among
+the hereditary neoplastic syndromes. Somatic mutations
+in the retinoblastoma
+gene are found frequently in sporadic small cell lung cancers, yet this tumor type does
+not have an increased incidence among individuals with
+hereditary retinoblastoma (Harbour et al., 1966; Yokota et
+al., 1968). Thus, somatic mutations in the Rb gene in lung
+cells may contribute to, and may even be necessary for,
+the development of the tumors; however, the mutations
+are not rate limiting for tumorigenesis
+in this cell type.
+These considerations suggest that NF7 mutations might
+promote growth in NFl-associated
+tumor types by one
+mechanism and promote growth in other tumor types by
+a somewhat different mechanism. Possible roles for neurofibromin as either an upstream regulator or a downstream effector of ras.GTP have been presented (Xu et
+al., 1990a), but these roles are not incompatible: neurofibromin may serve both functions. In cell types where
+ras.GTP is growth promoting, e.g., in colon cancers (80s
+et al., 1987) and myelodysplasias (Liu et al., 1987; Lyons
+et al., 1988; Padua et al., 1988), the diminished capacity
+of mutant neurofibromins
+to stimulate GTP hydrolysis on
+ras may allow enhanced
+ras.GTP signaling, causing
+growth. In cell types where ras.GTP appears to be growth
+
+inhibiting, e.g., in Schwann cells (Ridley et al., 1988) and
+pheochromocytomas
+(Bar-Sagi and Feramisco, 1985;
+Noda et al., 1985) mutant neurofibromin
+may disrupt a
+ras.GTP-neurofibromin
+complex that is required for transduction of the growth-inhibiting
+signal. This would then
+shift the balance of growth-regulating
+signals toward
+growth. The latter mechanism may be involved in neurofibromatosis 1, since Schwann cells proliferate excessively in
+the development of neurofibromas (Riccardi and Eichner,
+1986) and pheochromocytomas
+have an increased incidence among NFl patients (Riccardi and Eichner, 1986;
+Cohen and Rothner, 1989). Furthermore, a careful screen
+for activating mutations in ras genes in human pheochromocytomas revealed none (Moley et al., 1991)-the expected
+result if ras.GTP inhibits growth in this cell type.
+According to the above scheme the Glu-1423 NF7 mutation would be expected to disrupt both of the proposed
+functions of neurofibromin (ras regulator and ras effector)
+in order to contribute to the development of colon and
+myelodysplasia tumors and cause neurofibromatosis
+1;
+i.e., the mutant neurofibromin should be functionally null.
+In addition to its diminished ability to stimulate the ras
+GTPase, demonstrated here, it should be blocked in signal
+transduction. Alternatively, the levels of the mutant neurofibromin in the cell could be very low if the mutation makes
+the protein unstable. Many of the NF7 mutations that have
+already been found in NFl patients are also expected to
+be nulls, because they involve translocations,
+mediumsized to large deletions, or stop codons occurring within
+protein-coding regions of the gene (Viskochil et al., 1990;
+Cawthon et al., 1990). The view presented here of neurofibromin as both ras regulator and ras effector would allow
+the protein to function somewhat differently in different
+tissues. Thus, overlapping but distinct classes of mutant
+NFl alleles may yet prove to be involved in the development of different tumor types.
+How broad a role do somatic mutations at the NF7 locus
+play in tumorigenesis? Three out of sixty tumors revealed
+functionally important missense mutations affecting a single normally invariant residue of the highly conserved FLR
+exon. However, it is difficult to estimate the overall frequency of involvement of NF 7 in such tumors, as the mutations reported here were detected in the first NF1 exon
+screened, leaving 49 protein-encoding
+exons yet to be
+scanned. Therefore, the true incidence of somatic mutations in the NFI gene in colon adenocarcinomas,
+myelodysplasias, and anaplastic astrocytomas may be quite
+high.
+In light of the mutations reported here, a possible role
+for NF7 mutations should be considered in any tumor type
+in which activatedrasgenesarefrequentlyfound.
+Perhaps
+in these tumortypes NF7 mutations are the functional complement of ras mutations and will be found in those tumor
+samples lacking ras mutations. Since in neurofibromatosis
+1 tumor incidence
+is elevated in at least some tissues
+where ras.GTP is growth inhibiting (see above), a role for
+NF7 mutations must also be considered in any tumor type
+in which activated ras can be shown to inhibit growth (e.g.,
+medullary thyroid carcinoma; Nakagawa et al., 1987; Nelkin et al., 1990). Perhaps in these tumor types NF7 muta-
+
+Somatic
+279
+
+Mutations
+
+in NFI
+
+in Human
+
+Tumors
+
+tions will be found in those tumor samples composed of
+cells that continue to proliferate when activated ras is introduced.
+
+the dideoxy sequencing
+reactions with Taq polymerase
+in a thermal
+cycler, using fluorescently
+tagged Ml3 universal or reverse sequencing primers, followed by gel electrophoresis
+and data collection and
+analysis on an Applied Biosystems
+model 373A automated sequencer.
+
+Experimental
+
+Taql Restriction
+Endonuclease
+Screening
+of the First
+Nucleotide
+in the Lys-1423
+Codon
+In this assay when genomic DNA is used as the template for PCR with
+the FLRTAQ and rFLRlN primers, amplification
+occurs from both the
+NF 1 locus on chromosome
+17 and the NFI pseudogene
+locus on chromosome 15 (Y. L. et al., unpublished
+data); this happens because the
+nucleotide
+sequence
+identity in these two homologous
+segments
+is
+greater than 90%, and neither of the primers used for PCR in this
+amplification
+is locus specific. To make the assay specific to the NF1
+locus on chromosome
+17, we first amplify the entire FLR exon with the
+intron-based
+primers FLRIN and rFLRlN (as above, but without the
+radioactive
+nucleotide).
+This PCR amplifies only from the NFI locus
+on chromosome
+17 (unpublished
+data), because FLRIN cannot prime
+in the pseudogene.
+We then dilute this NFI locus-specific
+PCR product IOOO-fold and perform a second PCR using the FLRTAQ
+and
+rFLRlN primers to obtain the final product that is tested in the Taql
+restriction
+endonuclease
+digestion
+assay.
+FLRTAQ,
+5’GAAAGGGGCTTGAAGTTAATGTCG-3’;
+rFLRIN,
+see above. PCR was performed in a 20 ul volume in a Techne MW-2 thermal cycler as follows:
+5 min at 95°C once; followed by 1 min at 95°C 1 min at 58OC, 1 min
+at 72OC, 35 times; then 5 min at 72OC. Half the PCR volume was
+transferred
+to a second microtiter plate, under a drop of mineral oil.
+Eight units of Taql restriction endonuclease
+in a 4 ul volume was then
+added to each sample, and the plate was incubated at 65“C for 2 hr.
+Samples were then subjected to electrophoresis
+through a 6% agarose
+gel (3:1, Nusieve:SeaPlaque
+agarose), stained with ethidium bromide,
+and photographed
+over an ultraviolet light.
+
+Procedures
+
+Patient Tissues
+DNA was extracted
+from normal and tumor tissues of colon cancer
+patients, starting from either frozen (Ausubel et al., 1991) or paraffinembedded
+specimens
+(Wright and Manos, 1990). DNA samples from
+normal and tumor tissues of anaplastic
+astrocytoma
+patients were
+kindly provided by Dr. Dan Fults. DNA samples from the peripheral
+blood of myelodysplastic
+syndrome patients were donated by Dr. Eitan
+Friedman. NFI patients participating
+in this study are those described
+(Cawthon et al., 1990). The protocols for obtaining human tissue samples used in this project have been approved by the Institutional Review Board at the University
+of Utah Health Sciences Center.
+The colon cancer DNA sample with the Lys to Glu mutation was from
+a moderately differentiated
+colon adenocarcinoma
+from an 83-year-old
+female.
+The myelodysplasia
+DNA sample with the Lys to Glu mutation was
+from a peripheral blood specimen diagnosed as refractory
+anemia with
+excess of blasts. This DNA was screened for N-ras and K-ras mutations
+at codons 12,13, and 61 by an allele-specificoligonucleotide
+hybridization assay, and no mutations were detected.
+The patient was a 56year-old woman who subsequently
+developed acute myelogenous
+leukemia.
+The anaplastic
+astrocytoma
+DNA sample with the Lys to Gln mutation was from tumor tissue removed from the right temporal lobe of a
+61-year-old
+male.
+PCR Amplification
+DNA samples were generated for SSCP analysis using PCR (7 min at
+95’C, once; followed by 1 min at 95’C, 1 min at 58’C, 1 min at 72OC,
+for 35 cycles;
+then 10 min at 72OC) with the primer pair FLRIN
+(5’~CAAACCTTATACTCAATTCTCAACTC-3’),
+rFLRlN
+(5’~AAGGGGAATTTAAGATAGCTAGATTATC-3’).
+The reaction mixture was made
+up of the following: 30-70 ng of genomic DNA, a 70 uM concentration
+of each deoxynucleoside
+triphosphate,
+a05 uM concentration
+of each
+primer, 10 mM Tris (pH 6.3) 50 mM KCI, 1.5 mM MgC&, 0.25 U of Taq
+polymerase,
+0.25 mM spermidine,
+and 0.1 ul of [@P]dCTP
+(3000 Gil
+ml) in a volume of 10 ul.
+SSCP Gel Analysis
+PCR products were diluted 30-fold in 0.1% SDS, 10 mM EDTA, then
+I:1 in 95% formamide, 20 mM EDTA. 0.05% bromphenol
+blue, 0.05%
+xylene cyanol. Products were heated at 90°C for 3 min to denature the
+DNA, cooled on ice or at room temperature,
+and then loaded onto 4.5%
+nondenaturing
+polyacrylamide
+gels (49:1 polyacrylamide:methylenebis-acrylamide)
+containing
+1 x or 0.5 x TBE (1 x TBE = 90 mM Trisborate (pH 7.81, 2 mM EDTA). Two conditions were routinely run for
+each set of samples:
+a gel at 4OC and a 5% glycerol gel at room
+temperature.
+Electrophoresis
+was carried out for both conditions
+at
+40 W, constant power, in the same TBE buffer as that used in the gel.
+After electrophoresis,
+the gel was transferred
+to Whatman 3MM paper
+and dried on a vacuum slab gel dryer. Autoradiography
+with Kodak
+X-Omat AR film at -70aC with an intensifying
+screen overnight was
+usually sufficient to detect bands on film.
+Sequencing
+of SSCP Conformers
+Individual SSCP bands were cut directly from the dried gel, placed in
+100 PI of distilled water, incubated at 37°C with shaking for 1 hr, and
+centrifuged
+briefly to pellet debris. A IO ul aliquot of the supernatant
+was used directly in a 100 ul PCR reaction. The primers used in the
+original amplification
+were used in this amplification
+as well, except
+that the 5’end of one primer contained additional sequence consisting
+of the universal sequencing
+primer from M13, and the 5’ end of the
+other primer included the sequence of the reverse sequencing
+primer.
+The double-stranded
+PCR product resulting from this amplification
+was purified by two centrifugation
+washes with a Centricon 100 column
+(Amicon), then sequenced
+following a test-site protocol suggested
+by
+Applied Biosystems,
+Inc. (Foster City, CA). This involved performing
+
+Cloning and Manual Sequencing
+of the PCR Product
+from the FLR Exon
+PCR product was generated as above, except that a BamHl site was
+added to the 5’end of the primer FLRIN and an EcoRl site was added
+to the 5’ end of the primer rFLRIN. The PCR product was phenolchloroform
+extracted,
+ethanol precipitated,
+and digested with BamHl
+and EcoRI. The digested fragment
+was ligated with pBluesdript
+II
+phagemid vector also cut with BamHl and EcoRI. The ligation mixture
+was transformed
+into XLI-Blue
+supercompetent
+cells (Stratagene).
+Double-stranded
+sequencing
+of ten independent
+plasmid clones was
+performed
+using Sequenase Version 2.0 (US Biochemicals)
+according
+to the manufacturers
+instructions.
+PCR Subcloning
+of Wild-Type
+and Mutant NFI GRD
+Subcloning of the wild-type NFI GRD is previously
+described in Martin
+et al. (1990). Two-step
+PCR was used to generate the mutant NFI
+GRD subclones.
+The first step included two PCR reactions with primer
+pair GM444 (5’-GGAGATGGTGTGTCGACCATGGAAGCCAAATCACAG-3’) and rGRDMU
+(5’-ACTCTGAAGTATCTGTGACATTAACTTCAA-3’, an internal antisense primer containing the mutated base [in
+bold]; here, T to G to generate the A to C mutant); and primer pair
+GRDMU (5’.TTGAAGTTAATGTCACAGATACTTCAGAGT-3’,
+an internal sense primer containing
+the mutated base [in bold]) and GM446
+(5’-TAGGAl-KTCTAGAGCTCATGmTCTGGTTCTGGTGGTGGTGTT
+AACGTTTTCAAAGCCTTG-x
+nucleotides
+encoding the KT3 epitope
+are in bold). One microgram
+of cDNA clone FB15 (Xu et al., 1990a)
+was the template for each PCR reaction in a volume of 100 ~1. PCR
+was performed with a 0.8 uM concentration
+of each primer, a 0.2 mM
+concentration
+of each deoxynucleoside
+triphosphate,
+10 mM Tris (pH
+6.3) 50 mM KCI, 1.5 mM MgCl*, 0.01% gelatin, and 2.5 U of Taq
+polymerase.
+Reactions
+underwent
+7 min at 95OC, once; followed by
+1 min at 95OC, 2 min at 55’C, 1 min at 72OC, 25 times; 10 min at 72OC.
+The second step involved only one PCR reaction with primer pair
+GM444 and GM446. In the PCR reaction, 30 pl of each PCR product
+from the first step was used as template. The final products obtained
+after 25 cycles of amplification
+(7 min at 95’C, 1 time; 1 min at 95OC,
+2minat550C,2minat720C,25times;l0minat720C)weresubcloned
+between the Ncol and Xbal sites of the baculovirus
+transfer vector
+pAcC4 (Luckow and Summers,
+1966).
+
+Cdl
+280
+
+Expression,
+of Wild-Type
+
+Purification,
+and Mutant
+
+and Activity
+NFl GRD
+
+The methods used for biochemical
+scribed (Martin et al., 1990).
+
+Assays
+
+analysis
+
+have been previously
+
+de-
+
+Lyons, J., Janssen, J. W. G., Bartram,
+(1988). Mutation of Ki-ras and N-ras
+syndromes.
+Blood 77, 1707-1712.
+
+Acknowledgments
+We thank E. Meenan for synthesizing
+oligonucleotides;
+Dr. Webster
+Cavenee of the Ludwig Institute for Cancer Research (La Jolla, CA) for
+providing some of the tumors used in this study; Ruth Foltz for editorial
+review of the manuscript;
+and Mark Hamblin for helpful discussion.
+Ft.
+Cawthon is supported
+by a research grant from the National Neurofibromatosis
+Foundation.
+G. B., Ft. Clark, L. C., and F. M. would like to
+acknowledge
+the support of Hoffmann-LaRoche
+and a postdoctoral
+fellowship from the National Cancer Institute (to G. B.). R. W. is an
+Investigator
+at the Howard Hughes Medical Institute.
+The costs of publication
+of this article were defrayed
+in part by
+the payment of page charges. This article must therefore be hereby
+marked “advertisement”
+in accordance
+with 18 USC Section 1734
+solely to indicate this fact.
+Received
+
+February
+
+7, 1992; revised
+
+February
+
+27, 1992.
+
+References
+Ausubel, F. M., Brenf, Ft., Kingston,
+R. E.. Moore, D. D., Seidman,
+J. G., Smith, J. A., and Struhl, K., eds. (1991). Current Protocols in
+Molecular
+Biology (New York: Greene Publishing
+Associates
+and
+,‘
+Wiley-Interscience).
+Ballester,
+R., Marchuk,
+D., Boguski,
+M., Saufino, A., Letcher, R.,
+Wigler, M., and Collins, F. (1990). The NFl.locus
+encodes a protein
+functionally
+related to mammalian
+GAP and yeast IRA proteins. Cell
+63, 851-859.
+Barbacid,
+
+M. (1987).
+
+ras genes.
+
+Annu.
+
+Rev. Biochem.
+
+56, 779-827.
+
+Bar-Sagi, D., and Feramisco,
+J. R. (1985). Microinjection
+oncogene
+protein into PC12 cells induces morphological
+tion. Cell 42, 841-846.
+
+of the res
+differentia-
+
+Blatt, J., Jaffe, R., Deutsch, M., and Adkins, J. C. (1986).
+matosis and childhood tumors. Cancer 87, 1225-1229.
+
+Neurofibro-
+
+Bollag, G’., and McCormick,
+F. (1991).
+and neurofibromatosis
+gene product
+Bos, J. L. (1989). ras oncogenes
+Res. 49,4662-4689.
+
+Differential regulation of rasGAP
+activities. Nature 357, 576-579.
+
+in human
+
+cancer:
+
+a review.
+
+Cancer
+
+Bos, J. L., Fearon, E. R., Hamilton, S. R., Verlaande
+Vries, M., van
+Boom, J. H., van der Eb, A. J., and Vogelstein,
+8. (1987). Prevalence
+of ras gene mutations in human colorectal cancers.
+Nature 327,293297.
+Cawthon, R. M., Weiss, R., Xu, G., Viskochil, D., Culver, M., Stevens,
+J., Robertson,
+M., Dunn, D., Gestefand,
+R., O’Connell, P., and White,
+R. (1990). A major segment of the neurofibromatosis
+type 1 gene:
+cDNA sequence,
+genomic structure,
+and point mutations.
+Cell 62,
+193-201.
+Cohen, B. H., and Rothner, A. D. (1989). Incidence,
+agement of cancer in patients with neurofibromatosis.
+30.
+
+types, and manOncology 3,23-
+
+Halenbeck.
+R.. Crosier. W. J., Clark, R., McCormick,
+F.. and Koths,
+K. (1990). Purification,
+characterization,
+and Western blot analysis of
+human
+GTPase-activating
+protein
+from native and recombinant
+sources.
+J. Biol. Chem. 265, 21922-21928.
+Hall, A. (1990).
+923.
+
+ras and GAP-who’s
+
+Luckow, V. A., and Summers, M. D. (1988). Signals important
+level expression
+of foreign genes in Autographa
+califomica
+polyhedrosis
+virus expression
+vectors.
+Virology 767, 56-71.
+
+controlling
+
+whom?
+
+Cell 61, 921-
+
+Harbour, J. W., Lai, S. L., Whang-Peng,
+J., Gazdar,
+A. F., Minna,
+J. D., and Kaye, F. J. (1988). Abnormalities
+in structure and expression
+of the human retinoblastoma
+gene in SCLC. Science 241, 353-357.
+Kibirige, M. S., Birch, J. M.. Campbell,
+R. H., Gattamaneni,
+and Blair, V. (1989). A review of astrocytoma
+in childhood.
+Hematol. Oncol. 6. 319-329.
+Liu, E., Hjefle, B., Morgan, R., Hecht, F., and Bishop,
+Mutation of the Kirsten res proto-oncogene
+in human
+Nature 330, 186-188.
+
+H. R.,
+Pediatr.
+
+J. M. (1987).
+preleukemia.
+
+C., Layton,
+oncogenes
+
+for highnuclear
+
+M., and Mufti, G. J.
+in myelodyspfastic
+
+Marchuk,
+D. A., Saulino, A. M., Tavakkol,
+R., Swaroop, M., Wallace,
+M. R., Andersen,
+L. B., Mitchell, A. L., Gutmann,
+D. H., Boguski, ht.,
+and Collins, F. S. (1991). cDNA cloning of the type 1 neurofibromatosis
+gene: complete sequence
+of the NFI gene product. Genomics
+II,
+931-940.
+Martin, G. A., Viskochil, D., Bollag, G., McCabe, P. C., Crosier, W. J.,
+Haubruck,
+H., Conroy, L., Clark, R., O’Connell, P., Cawthon, R. M.,
+fnnis, M. A., and McCormick,
+F. (1990). The GAP-related
+domain of
+the neurofibromatosis
+type 1 gene product interacts with ras ~21. Cell
+63.843-849.
+McCdrmick,
+F. (1989). ras GTPase activating
+ter and signal terminator.
+Cell 56, 5-8.
+
+protein:
+
+signal transmit-
+
+Moley, J. F., Brother, M. B., Wells, S. A., Spengler,
+8. A., Biedler,
+J. L., and Brodeur, G. M. (1991). Low frequency of ras gene mutations
+in neuroblastomas,
+pheochromocytomas,
+and medullary thyroid cancers. Cancer Res. 51, 1596-1599.
+Nakagawa,
+T., Mabry, M., de Bustros, A., Ihle, J. N., Nelkin, B. D.,
+and Baylin, S. B. (1987). Introduction
+of v-Ha-ras oncogene
+induces
+differentiation
+of cultured human meduflary thyroid carcinoma
+cells.
+Proc. Natl. Acad. Sci. USA 84, 5923-5927.
+Nelkin, B. D., Borges, M., Mabry, M., and Bayfin, S. B. (1990). Transcription factor levels in medullary thyroid carcinoma
+cells differentiated by Harvey ras oncogene:
+c-jun is increased.
+Biochem. Biophys.
+Res. Commun.
+770, 140-146.
+Noda, M., Ko, M., Ogura, A., Liu. D. G., Amano, T., Takano, T., and
+fkawa, Y. (1985). Sarcoma viruses carrying
+ras oncogenes
+induce
+differentiation-associated
+properties
+in a neuronal cell line. Nature
+318, 73-75.
+Orita, M., Suzuki, Y., Sekiya, T., and Hayashi, K. (1989). Rapid and
+sensitive detection of point mutations and DNA polymorphisms
+using
+the polymerase
+chain reaction. Genomics
+5, 874-879.
+Padua, R. A., Carter, G., Hughes, D., Gow, J., Farr, C., Oscier, D.,
+McCormick,
+F., and Jacobs, A. (1988). Ras mutations
+in myelodysplasia detected
+by amplification,
+oligonucleotide
+hybridization,
+and
+transformation.
+Leukemia 2, 503-510.
+Petty, E. M., Carstens,
+mylase polymorphism
+Acids Res. 19, 690.
+
+R., and Bale, A. E. (1991). Ornithine transcarbadetected by PCR introduction
+of Draf site. Nucl.
+
+Riccardi, V. M., and Eichner, J. E. (1986).
+type, Natural History, and Pathogenesis
+University
+Press).
+
+Neurofibromatosis:
+(Baltimore:
+Johns
+
+PhenoHopkins
+
+Ridley, A. J., Paterson,
+H. F., Noble, M., and Land, H. (1988). rasmediated cell cycle arrest is altered by nuclear oncogenes
+to induce
+Schwann cell transformation.
+EMBO J. 7, 1635-1645.
+Serensen,
+S. A., Mulvihill, J. J., and Nielsen, A. (1986). Long-term
+follow-up of von Recklinghausen
+neurofibromatosis.
+Survival and malignant neoplasms.
+N. Engl. J. Med. 374, 1010-1015.
+Trahey, M., and McCormick,
+lates normal N-~21‘” GTPase,
+Science 238, 542-545.
+
+F. (1987). A cytoplasmic
+protein stimubut does not affect oncogenic mutants.
+
+Viskochil, D., Buchberg,
+A. M., Xu. G., Cawthon, R. M., Stevens, J.,
+Wolff, R. K., Culver, M., Carey, J. C., Copeland, N. G., Jenkins, N. A.,
+White, R., and O’Connell,
+P. (1990). Deletions and a translocation
+interrupt a cloned gene at the neurofibromatosis
+type 1 locus. Cell 62,
+187-l 92.
+Wang, Y., Boguski, M., Riggs, M., Rodgers, L., and Wigler, M. (1991).
+Sari, a gene from Schizoseccharomyces
+pombe encoding a GAP-like
+protein that regulates
+rasl. Cell Regul. 2, 453465.
+Wright, D. K., and Manos,
+paraffin-embedded
+tissues.
+Applications,
+M. A. Innis, D.
+eds. (San Diego: Academic
+
+M. M. (1990). Sample preparation
+from
+In PCR Protocols, A Guide to Methods and
+H. Gelfand, J. J. Sninsky, and T. J. White,
+Press, Inc.), pp. 153-158.
+
+Somatic
+281
+
+Mutations
+
+in NFl
+
+in Human
+
+Tumors
+
+Xu, G., O’Connell, P., Viskochil, D., Cawthon, Ft., Robertson,
+M., Culver, M., Dunn, D., Stevens, J., Gesteland,
+R., White, R., and.Weiss,
+R. (199Oa). The neurofibromatosis
+type 1 gene encodes a protein related to GAP. Cell 62, 599-608.
+Xu, G., Lin, B., Tanaka, K., Dunn, D., Wood, D., Gesteland,
+R., White,
+R., Weiss, R., and Tamano, F. (1990b). The catalytic domain of the
+neurofibromatosis
+type 1 gene product stimulates
+ras GTPase and
+complements
+ira mutants of S. cerevisiae.
+Cell 63, 835-841.
+Yokota, J., Akiyama,
+T., Fung, Y. K., Benedict, W. F., Namba, Y.,
+Hanaoka,
+M., Wada, M., Terasaki,
+T., Shimosato,
+Y.. Sugimura, T.,
+and Terada, M. (1988). Altered expression
+of the retinoblastoma
+(RB)
+gene in small-cell carcinoma
+of the lung. Oncogene
+3, 471-475.
+
+

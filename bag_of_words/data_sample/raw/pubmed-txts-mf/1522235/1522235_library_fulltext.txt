@@ -1,0 +1,2219 @@
+Molecular Genetics of Steroid 5a-Reductase 2 Deficiency
+Anice E. Thigpen,* Daphne L. Davis,* Athena Milatovich,$ Berenice B. Mendonca, Julianne Imperato-McGinley,11
+James E. Griffin,'' Uta Francke, *** Jean D. Wilson,' and David W. Russell*
+*Department of Molecular Genetics and 'Internal Medicine, University of Texas Southwestern Medical Center, Dallas, Texas 75235;
+
+tDepartment of Genetics and **Howard Hughes Medical Institute, Stanford University Medical Center, Stanford, California 94305;
+§Department of Medicine, University of Sdo Paulo, Sdo Paulo, Brazil; and11 Department ofMedicine,
+Cornell University Medical Center, New York 10021
+
+Abstract
+Two isozymes of steroid 5a-reductase encoded by separate loci
+catalyze the conversion of testosterone to dihydrotestosterone.
+Inherited defects in the type 2 isozyme lead to male pseudohermaphroditism in which affected males have a normal internal
+urogenital tract but external genitalia resembling those of a
+female. The 5a-reductase type 2 gene (gene symbol SRD5A2)
+was cloned and shown to contain five exons and four introns.
+The gene was localized to chromosome 2 band p23 by somatic
+cell hybrid mapping and chromosomal in situ hybridization.
+Molecular analysis of the SRD5A2 gene resulted in the identification of 18 mutations in 11 homozygotes, 6 compound heterozygotes, and 4 inferred compound heterozygotes from 23 families with 5a-reductase deficiency. 6 apparent recurrent mutations were detected in 19 different ethnic backgrounds. In two
+patients, the catalytic efficiency of the mutant enzymes correlated with the severity of the disease. The high proportion of
+compound heterozygotes suggests that the carrier frequency of
+mutations in the 5a-reductase type 2 gene may be higher than
+previously thought. (J. Clin. Invest. 1992. 799-809.) Key
+words: androgen metabolism * dihydrotestosterone human
+mutations * sexual differentiation - male pseudohermaphroditism
+-
+
+Introduction
+The establishment of male phenotypic sex in man is a complex
+process mediated by two types of hormones from the fetal
+testes. The peptide hormone mullerian inhibiting substance is
+responsible for regression of the mullerian ducts, and steroidal
+androgens mediate development of the male urogenital tract
+and of the male external genitalia (reviewed in 1, 2).
+The androgen-dependent development of male genitalia
+can be further divided into events requiring testosterone and
+those requiring dihydrotestosterone (2). Testosterone induces
+the virilization of the Wolffian ducts into the seminal vesicles,
+vasa deferentia, and epididymides, and also serves as the pro-
+
+Address correspondence to Dr. David W. Russell, Department of Molecular Genetics, University of Texas Southwestern Medical Center,
+5323 Harry Hines Boulevard, Dallas, TX 75235.
+
+Received for publication 26 March 1992 and in revised form 22
+April 1992.
+J. Clin. Invest.
+C) The American Society for Clinical Investigation, Inc.
+0021-9738/92/09/0799/11 $2.00
+Volume 90, September 1992, 799-809
+
+hormone for the synthesis of dihydrotestosterone in a reaction
+catalyzed by membrane-bound steroid 5c-reductase (5a-reductase) enzymes (2, 3). Dihydrotestosterone in turn induces
+the formation of the external genitalia, urethra, and prostate
+(2). Although they mediate separate embryonic developmental programs, the two steroids act through the same androgen
+receptor protein (4).
+The two-androgen model of male phenotypic sexual differentiation was initially formulated on the basis of studies of
+dihydrotestosterone formation in the anlage of the external
+genitalia (5). This hypothesis received strong support from the
+study of an autosomal recessive disorder (5a-reductase deficiency) that results from impairment of the conversion of testosterone to dihydrotestosterone (6, 7). The disorder is caused
+by mutations in a 5a-reductase enzyme with an acidic pH optimum (8). At birth, affected males usually exhibit genital ambiguity characterized by normal Wolffian duct derivatives but
+abnormal external genitalia and a rudimentary prostate (4).
+The external genitalia in affected subjects exhibit phenotypic
+variation and can range from almost normal female structures
+(pseudovaginal perineoscrotal hypospadias), the usual finding
+(4, 6, 7, 9), to a clear cut male phenotype with hypospadias
+( 10 ). The genetic basis for this heterogeneity is not known, but
+biochemical analyses of fibroblasts and tissues from patients
+have revealed several different classes of mutations that affect
+5a-reductase activity (4).
+Complementary cDNAs have been isolated for two human
+5ca-reductase isozymes (designated types 1 and 2) with distinct
+biochemical, genetic, and pharmacological properties ( 1 1, 12).
+Genetic analyses excluded the type 1 locus as the responsible
+gene in eight unrelated families with the disorder ( 13), and a
+deletion in the type 2 gene was found in affected subjects from
+a small tribe in New Guinea ( 12 ).
+Here, we analyze the molecular genetics and biochemistry
+of 5a-reductase deficiency in a cohort of subjects from 25 families from various parts of the world. The results demonstrate
+that mutations in the type 2 gene account for this disorder, and
+they confirm the previously observed genetic heterogeneity.
+Over 40% of the affected individuals were compound heterozygotes, suggesting that the carrier frequency of 5a-reductase 2
+mutations in the population may be higher than previously
+thought. Biochemical analysis of two substitution mutations
+revealed determinants of both testosterone substrate and
+NADPH cofactor binding, as well as insight into the unusual in
+vitro acidic pH optimum characteristic of the type 2 isozyme.
+
+Methods
+Subjects. As indicated in Table I, 14 ofthe subjects have been described
+in the literature (6, 7, 9, 10, 12-24). The diagnosis of 5a-reductase
+
+Steroid 5a-Reductase 2 Mutations
+
+799
+
+deficiency was established in the other individuals by physical examination, measurements of ratios of plasma testosterone to dihydrotestosterone, pedigree analysis, studies of 5a-reductase in cultured skin fibroblasts, and karyotype.
+5R2-Sao Paulo-l was a 17-yr-old 46, XY individual with microphallus, perineoscrotal hypospadias, a vaginal pouch, and bilateral
+cryptorchidism. His parents were first cousins once removed; no other
+members of the family are affected. He was raised as a female until age
+15 when he began to virilize and changed gender role to male. No
+breast tissue was palpable. Plasma testosterone was 386 ng/dl, and
+plasma dihydrotestosterone was 4 ng/dl.
+5R2-Sao Paulo-2 was raised as a female until age 3 and then assigned male gender. When assessed at age 6 he had microphallus, perineoscrotal hypospadias, a vaginal pouch, and testes palpable in the inguinal canals bilaterally. His parents are first cousins, and a brother and
+three other relatives are similarly affected. After an hCG stimulation
+test, the plasma testosterone was 292 ng/dl and dihydrotestosterone
+was 6.6 ng/dl.
+5R2-Pakistan, a patient of Dr. J. J. Van Wyk of The University of
+North Carolina, Chapel Hill, NC, was born in Pakistan and was evaluated in infancy because of microphallus, perineoscrotal hypospadias,
+and left cryptorchidism. He was raised as a male. The parents are first
+cousins; no other family members are affected. The karyotype was
+46,XY with a t( 1 1;20) (q21;pl 1.2) balanced translocation. At age 19
+plasma testosterone was 603 ng/dl, and dihydrotestosterone was 17
+ng/dl.
+5R2-Chicago-3, a patient of Dr. Paul Wong of Presbyterian-St.
+Luke's Hospital, Chicago, was born in Pakistan and raised as a male.
+When examined in Chicago at age 9.5 he had microphallus (3 cm) with
+perineoscrotal hypospadias and testes palpable in the groin. The karyotype was 46,XY. There was no known consanguinity, but one sibling
+had an identical phenotype. After administration of hCG plasma testosterone was 227 ng/dl and dihydrotestosterone was 8 ng/dl.
+5R2-Sao Paulo-3 was raised as a female but changed gender role
+behavior to male at age 30. When evaluated at age 31 he had microphallus, perineoscrotal hypospadias, a vaginal pouch, and right sided
+cryptorchidism. No gynecomastia was present. His parents are first
+cousins, and he has two affected siblings. Plasma testosterone was 575
+ng/dl, and plasma dihydrotestosterone was 10 ng/dl.
+5R2-Sao Paulo-4 was also raised as a female and changed gender
+role behavior to male at age 14. When evaluated at age 29, he had
+microphallus with perineoscrotal hypospadias, a vaginal pouch, and
+testes in the inguinal canals. There is no consanguinity, but two siblings
+are affected. Plasma testosterone was 666 ng/dl, and plasma dihydrotestosterone was 24 ng/dl.
+5R2-Irvine, a patient of Dr. Ann K. Kershnar of the Children's
+Hospital, Orange, CA, was raised as a female and evaluated at age 17
+because of the development of clitoromegaly. There was no consanguinity, and the family history was uninformative. The karyotype was
+46,XY, and bilateral testes and epididymis were identified at exploratory laparotomy.
+5R2-Chicago-2, a patient of Dr. Robert L. Rosenfeld, University of
+Chicago, Chicago, IL, was evaluated as a newborn because of ambiguous genitalia, namely, microphallus with a perineal urethra and a chordee, no vaginal pouch, and testes palpable in the labia. There was no
+consanguinity, and the family history was uninformative. An hCG
+stimulation test was done at 42 mo of age; plasma testosterone was 717
+ng/dl, and plasma dihydrotestosterone was 19 ng/dl. The decision was
+made to raise the subject as a female, and the testes were removed.
+5R2-New York-2, a patient of Dr. Deborah Vine, Mount Sinai
+School of Medicine, New York, was born in Jordan and reared as a
+female but was told at an early age that she was a genetic male. At age
+28, she was evaluated in New York and found to have a 3-cm phallus
+with pseudovaginal perineoscrotal hypospadias, unfused labia, a blind
+ending vaginal pouch, and one testes was palpable in the left labia
+majora and the other was palpable in the right inguinal canal. The
+karyotype was 46,XY, and the diagnosis was established by measuring
+800
+
+Thigpen et al.
+
+ratios of urinary 5a to 5f# androgenic and other steroid metabolites in
+urine (20).
+5R2-New York-3 was identified at birth and raised as a female. At
+age 5, during inguinal exploration for a hernia, a left testes was found
+with epididymus and a spermatic cord. No uterus or fallopian tubes
+were found. At age 13.5, she was placed on estrogen replacement therapy with good breast development. She had anxiety about her sexual
+identity and other psychological problems throughout adolescence and
+into adulthood. On physical examination at age 27, she had a 2.5-cm
+clitoral-like phallus, a female urethra, a blind-ending vaginal pouch,
+and slight posterior fusion of the labia. The ratio of etiocholanolone to
+androsterone in urine was 3.4 (normal 0.93±0.37).
+5R2-Los Angeles-3, a 13-yr-old girl, was evaluated by Dr. Barbara
+Lippe, University of California, Los Angeles, for failure to feminize
+and development of clitoromegaly and a deepened voice. On physical
+examination, she had a female introitus and a shallow vagina, and
+testes were palpable bilaterally in the groin. The parents are first
+cousins once removed, but the family history was otherwise unremarkable. The karyotype was 46,XY. Plasma testosterone was 810 ng/dl
+and plasma dihydrotestosterone was 35 ng/dl. The decision was made
+to continue to raise her as a female, and the testes were removed. The
+epididymis and vas deferens were male in character.
+Measurement of5a-reductase activity in cultured skin fibroblasts.
+5a-reductase activity was measured at pH 5.5 in extracts of fibroblasts
+cultured from genital skin (labia majora, foreskin, scrotum) as before
+(23). In 14 subjects, the activity was undetectable (0.2 pmol/h per mg
+protein or less). In five instances (5R2-Pakistan, 5R2-Austria, 5R2New York-l, 5R2-London-2, and 5R2-Los Angeles-l) activity was
+measurable but was shown to be qualitatively abnormal on the basis of
+studies of enzyme stability and assessment of apparent Kms for
+NADPH and/ortestosterone (4). In one case, (5R2-New Haven) activity measured at different times in the same fibroblast strain was highly
+variable, but the diagnosis was established on endocrine and phenotypic grounds (10).
+Isolation of5a-reductase 2 gene. Bacteriophage X clones harboring
+inserts corresponding to the 5a-reductase 2 gene were isolated by high
+stringency hybridization screening (25) using 32P-radiolabeled probes
+(26) spanning the full length cDNA (12). Hybridization-positive
+plaques were purified through multiple rounds of screening. Bacteriophage DNA was prepared from plate lysates (27), and human genomic
+DNA inserts were released by digestion with the restriction enzyme
+SalI before cloning into plasmid vectors (pBluescript, Stratagene Inc.,
+La Jolla, CA). The intron-exon structure of the gene was determined
+by restriction enzyme mapping, Southern blotting, and DNA sequence
+analysis using oligonucleotide primers derived from the cDNA sequence ( 12).
+Genomic DNA isolation. Fibroblasts biopsied from affected or normal individuals were grown to confluency in 15-cm dishes before genomic DNA isolation. White blood cells were obtained from blood withdrawn in the presence of EDTA. Total cellular DNA was isolated with
+nucleic acid extractor (model 340A; Applied Biosystems, Inc., Foster
+City, CA) and stored in a buffer containing 10mM Tris-Cl, pH 8.0, and
+1 mM EDTA. DNA concentration was determined by fluorimetry using bisbenzimide.
+Polymerase chain reactions. Individual exons of the 5a-reductase 2
+gene were amplified via the polymerase chain reaction (PCR)' using
+thermostable DNA polymerases (28). The locations and names of the
+exon-specific pairs of oligonucleotides are described in Fig. 1 and Table
+II. Exon DNA to be analyzed for the presence of single strand conformation-dependent DNA polymorphisms (SSCPs) was amplified in a
+20-1l reaction containing 0.1 ,ug genomic DNA, 1.75 AM each oligonucleotide primer, 50 ,uM each of the four deoxynucleoside triphosphates,
+1.5% (vol/vol) glycerol, 50 mM KCI, 1.5 mM MgCl2, 10 mM Tris-Cl,
+1. Abbreviations used in this paper: PCR, polymerase chain reaction;
+SSCP, single strand conformation-dependent DNA polymorphism.
+
+pH 8.3 (at 22°C), 10 ,tCi [a-32P]dCTP, and 3 U ofthermostable DNA
+polymerase. All exons were amplified using a thermocycler program of
+35 cycles of 1 min/94°C, 1 min/68°C, and a final cycle of 1 min/
+94°C, 3 min/68°C.
+Exon DNA to be sequenced was amplified in a 50-Al reaction containing 1.2 ,ug genomic DNA, 20 AM each oligonucleotide primer, 100
+AM each of the four deoxynucleoside triphosphates, 1.5% (vol/vol)
+glycerol, 50 mM KCI, 2 mM MgCl2, 10 mM Tris-Cl, pH 8.3, and 3 U of
+thermostable polymerase. Thermocycler conditions were those described above. The amount of amplified DNA product in a given reaction was estimated by agarose gel electrophoresis.
+SSCP Analysis. Conformation-dependent DNA polymorphisms
+were scored for by modifications of the procedures of Orita et al. (29,
+30). Neutral polyacrylamide gels containing 5.4% (wt/vol) acrylamide-bisacrylamide (29:1), 90 mM Tris-borate, pH 8.3, 4 mM EDTA,
+0.05% (wt/vol) NH4SO4, and 0.0 1% (vol/vol) N,N,N,N'-tetramethylethylenediamine were used to separate DNA conformers. Glycerol was
+included at 10% (vol/vol) in some gels. Exon DNA (4.5 ,ul) amplified
+and radiolabeled as described above was diluted into 25 Ml of 0.1%
+(wt/vol) SDS, 10 mM EDTA. 2 ,ul of the diluted DNA was then added
+to 2 M1 of formamide loading buffer (95% formamide (vol/vol), 50
+mM EDTA, 0.05% (wt/vol) each of xylene cyanol and bromophenol
+blue), incubated at 1 00°C for 6 min, and then quick cooled on ice. 1 ,l
+of this sample was electrophoresed at 250 V for 14 h at 22°C (plus
+glycerol gels) or 4°C (minus glycerol gels). A nondenatured sample
+consisting of 0. 14 Ml of the original amplification reaction diluted into 2
+Ml of sucrose buffer (60% sucrose [wt/voll, 50 mM EDTA, 0.05%
+[wt/vol] each of xylene cyanol and bromophenol blue) was loaded in
+an adjacent lane to determine the position of migration of the doublestranded exon DNA fragment.
+Polymerase chain reaction sequencing. Exon DNA amplified in the
+absence of radiolabeled deoxynucleoside triphosphates was purified on
+Centricon- 100 columns (Amicon Corp., Danvers, MA) using a protocol supplied by the manufacturer. Aliquots corresponding to 3-10% of
+the purified DNA were subjected to PCR sequencing (31 ) in the presence of dideoxynucleoside triphosphates using 32P-radiolabeled oligonucleotide primers corresponding to those used to originally amplify
+the DNA. A thermocycler program consisting of 20 cycles of 30
+s/95°C, 30s/55°C, 30s/70°C,followedby 10cyclesofl min/95°C, 1
+min/ 70°C was employed. Sequencing reactions were electrophoresed
+on denaturing polyacrylamide gels, dried, and exposed to Kodak XAR5 film.
+
+Site-directed mutagenesis. Oligonucleotide-directed mutagenesis
+of an expressible 5a-reductase type 2 cDNA (12) was carried out as
+described by Zoller and Smith (32) using uracil-containing bacteriophage M13 templates (33). Mutagenic oligonucleotide primers were
+20 bases in length. The desired mutant was identified by direct DNA
+sequence analysis of single-stranded bacteriophage Ml 3 DNA and reconstructed into the starting pCMV expression vector (34) by standard
+methods of genetic engineering (25).
+Expression analysis in transfected 293 cells. Normal and mutant
+cDNAs were transfected into human embryonic 293 cells (CRL 1573;
+American Type Culture Collection, Rockville, MD) as described previously ( 12). Assay of enzyme activity in whole cells, preparation and
+assay of cell lysates, and determination of pH optima were carried out
+as described previously (11, 12). Immunoblotting of transfected cell
+lysates was carried out as per Thigpen and Russell (35), except that a
+rabbit antipeptide antiserum specific for the human Sa-reductase 2
+isozyme was employed.
+Chromosome mapping. Southern blot analysis of normal human
+and hamster controls and 14 human X Chinese hamster somatic cell
+hybrids derived from six independent fusion experiments (36) was
+carried out with a 250-bp MluI-BamHI fragment from the coding region of the human 5a-reductase 2 cDNA as described previously (37).
+Chromosomal in situ hybridization was carried out on PHA-stimulated peripheral blood lymphocyte cultures synchronized as described
+by Yunis ( 38) except that the methotrexate block was released by a 5-h
+
+treatment with BrdU (0.1 mM final concentration). Slides were made
+immediately after harvest and stored desicated at -20°C.
+A plasmid (pR5), containing a 20-kb human genomic DNA insert
+spanning exons 2-5 of the SRD5A2 gene, was used as a probe after
+biotin-dUTP labeling via nick translation (kit from Boehringer Mannheim Corp., Indianapolis, IN). Hybridization was carried out as described previously (37). Probe concentration was 67 ng/Ml, and 200
+ng/ul each of human placental and salmon sperm DNA were used as
+competitor. After 48 h hybridization at 37°C, a biotin/avidin/FITC
+detection system was used (39) with one round of amplification. Chromosomes were counter-stained with either propidium iodide or (4,6-diamino-2-phenylindole [DAPI]), both at a final concentration of 160
+ng/ml. A Zeiss Axiophot microscope equipped with epifluorescence
+and with a cooled CCD camera (Photometrics PM512)/Macintosh
+computer system was used with imaging software (GeneJoin®) supplied
+by Tim Rand (Yale University). Photographs were taken on Kodacolor Gold ASA 100 or 400 print film. Signals were counted as specific
+only when the FITC signal(s) were observed lying side-by-side on both
+chromatids of a chromosome. All single signals were judged to represent random hybridization.
+
+Results
+5a-Reductase deficient subjects. Table I summarizes the important clinical, geographical, enzymatic, and genetic features
+for the 5a-reductase deficiency subjects analyzed. Affected individuals from 25 families representing 19 ethnic groups were
+studied. The diagnosis of 5a-reductase deficiency was based on
+clinical findings, family studies, endocrine criteria, and in 21
+families on analysis of Sa-reductase activity in cultured skin
+fibroblasts. The subjects described in Table I represent over
+half (- 55%) of those reported in the literature to date with
+
+5a-reductase deficiency.
+
+Characterization of normal 5a-reductase 2 gene. With the
+exception of the gross deletion reported previously in the New
+Guinea subjects ( 12), Southern blot analysis of genomic DNA
+isolated from affected individuals described in Table I did not
+reveal any major rearrangements in the 5a-reductase 2 gene
+(data not shown). To detect point mutations, a partial structure for the normal gene was established (Fig. 1). A single
+hybridization-positive clone was isolated that spanned the 3'end of the gene after screening three genomic DNA libraries.
+Characterization of the cloned genomic fragment revealed the
+presence of four exons and four introns. No DNA sequence
+differences were found between the exons and the cDNA, and
+the positions at which the introns interrupted the coding region
+of the gene were identical to those for the type 1 gene (40).
+From these data, we inferred that the type 2 gene was composed of five exons and four introns (Fig. 1).
+The DNA sequences at the boundaries ofexons 2 through 5
+16
+
+20
+
+18
+
+4-1
+
+4-
+
+32
+
+19
+
+24
+
+22
+
+421
+
+3'
+
+423
+
+25
+
+Figure 1. Structure of the 5a-reductase type 2 gene and location of
+oligonucleotide primers. The five exons of the type 2 gene are shown
+as numbered boxes and are drawn to size. Thick black lines connecting exons represent cloned introns of the gene. Dashed lines indicate
+uncloned 5'- and 3'-flanking sequences. The sizes of the introns have
+not been determined. The locations, numbers, and orientations of
+oligonucleotide primers used in polymerase chain reactions are indicated above and below the gene. Introns 1, 2, 3, and 4 interrupt the
+gene at sequences encoding amino acids 94, 149, 183, and 233, re-
+
+spectively.
+Steroid 5a-Reductase 2 Mutations
+
+801
+
+u{
+
+'0
+
+ItCu
+
+C)
+
+'0
+
+'0
+
+Cu,,,Cu
+
+n,
+
+-= ef~ =uO
+
+H
+
+_
+
+,0
+
+4a)
+
+C~~~'C
+
+-Cl
+
+ct
+
+,0
+
+,)0*
+
+C-
+
+O0,
+
+U
+
+D
+
+t-
+
+H-H
+
+Cl
+
+-
+
+a)
+0
+
+0
+
+E.
+
+0
+Z~~~~~~~~'
+
+0
+
+Q
+
+'
+
+Cu
+
+u
+
+Cu
+
+3 _
+-3-
+
+Cu8
+
+U)
+
+*
+CA
+
+0
+o
+
+Cu'0
+
+Cu
+
+.o
+
+0
+O
+
+0
+u
+0
+
+Cl
+
+t
+cQ
+
+0
+
+FC
+
+o
+
+0
+
+t
+
+t tt t
+
+cQ
+
+vQ 00 0
+
+X
+
+Cl
+
+o
+
+&
+t
+
+u2
+
+'
+Cl00
+
+0
+
+._
+
+U
+
+*aU2
+
+0
+
+0Vu.
+
+N
+
+O0 _4
+
+04 a 0 0 0
+
+_
+
+_
+
+<
+
+H
+
+E-&<
+
+.<
+
+t
+
+t
+
+t t t
+
+0
+
+0
+
+UHO
+
+t t t t t t
+
+0
+ci
+
+L
+
+O< < 0 0
+
+v
+
+Cu
+
+cJC:
+en00
+
+%n W)
+
+,- <0 0
+
+t t t t
+
+'ict Cl4 en - Cl
+CuCuCuCuCuCu
+0 0x
+000
+0
+xk
+I
+L
+
+C
+
+Co
+
+en
+
+-
+
+-
+
+x
+
+x
+
+Cu
+
+u u u
+
+-
+
+x
+
+x
+
+CuCu
+
+H
+
+o~~o
+._
+
+N
+
+rAu uuuuu
+0
+
+a')
+
+to
+
+4)
+
+2
+
+E
+
+a)
+
+a)
+
+I
+
+L. *
+
+11.k 'Z
+.Q.
+
+Cu
+
+.
+
+:t "s
+z
+II
+
+V
+
+Cl
+
+Vo
+Z Co,
+V
+z
+>
+
+>1
+
+Cl
+
+CICl6
+
+C5
+
+Cl
+
+-4
+
+lz
+
+Cl
+
+Cu
+
+.0.0
+
+US 0t
+04.)
+
+a)
+
+a)
+
+C,,
+
+U.
+
+U.
+
+a)
+
+a)
+
+a)
+
+,
+
+0
+
+0
+
+.
+a)
+
+a)
+
+o
+
+0
+
+>uZ
+
+00
+
+)
+
+0 0a
+
+~Z Z>
+
+A
+
+(A
+
+0
+
+0
+
+0
+
+40
+
+0
+
+0
+
+0
+
+z
+
+z
+
+z"
+
+z
+
+U
+C.)
+
+z
+
+.0
+Cu
+
+Cu
+
+0
+
+a)
+
+.
+
+.
+
+Cu
+Cu
+
+Cu
+
+a)
+
+Cu
+
+Cu
+
+cu
+
+.
+
+0
+
+..
+
+.
+
+.
+
+..
+
+a)
+
+..Cu
+
+0
+
+Cu
+
+.
+
+.Y
+
+z
+.
+
+Ir
+a)
+
+Cu ~~~~~~~C
+
+.
+
+Cu
+
+Cd
+
+$-,
+
+0m
+
+*Cu
+
+0
+
+~0
+
+~~~~c
+
+I-a)a
+
+.CuCu.
+
+0Z
+
+&
+'O^
+
+0
+
+r_
+
+00~
+
+>
+
+00
+O
+
+-
+
+0%
+
+Cl
+
+en
+
+00
+
+eN
+0nr-00
+
+0_
+
+00
+
+-
+
+00~ oo
+
+t
+
+00
+
+It
+
+^ N
+O% 00r
+
+t
+
+oo
+
+Cl4
+CO)
+
+Cl0
+
+~.o Cl
+0%
+C
+
+0
+
+'f~
+
+c-
+
+N
+
+en
+
+-
+
+~ocl
+
+'.C
+
+-E
+IJ,
+'0
+
+4+C)
+
+Cu~~~~~~~A
+
+C~~~~~
+
+*~~~~~~
+
+uj
+
+0
+
+e
+
+WI
+
+802
+
+Thigpen et al.
+
+W
+
+)
+
+WI WI
+
+r)
+
+-
+
+0
+
+0
+
+*M
+<
+
+Y z i
+i i X h.V
+i
+i
+X
+i i i pu
+,< 0d
+C,)
+
+Cl
+
+Crn
+
+C)
+
+tn
+
+tCr)Q
+
+tr,t
+
+3U
+
+Z
+un
+
+3
+
+Z
+C4
+
+A
+
+en
+C4
+
+were used to design pairs of oligonucleotides (Fig. 1, Table II)
+for use in the PCR. To amplify exon 1, a 5' oligonucleotide
+(h5a2-16) was synthesized based on the sequence of the 5'-untranslated region of the cDNA and a 3' oligonucleotide (h5a232) was derived from the cDNA sequence at the predicted
+boundary of intron 1 (Fig. 1). A thermocycler program was
+identified empirically to amplify all exons of the gene. DNA
+fragments of the expected size were detected with each primer
+pair, including those used to amplify exon 1 (data not shown).
+The latter result indicates that the gene structure shown in Fig.
+
+Cu
+C)
+
+CS-,
+
+a
+
+en
+
+00
+
+e
+
+*l -
+
+10
+
+O
+D'e
+
+C)
+
+Cu
+
+4-)
+Cu
+
+0
+
+U
+*
+
+tt-
+
+0
+
+4)4)t
+
+HF-
+
+Q4)Q
+
+aC) 0
+
+1-
+
+0
+C)
+
+C)
+
+LC
+
+Lc
+
+Cu
+
+t
+
+Cu
+
+,ttM
+
+r- C' r
+
+.4-4.
+
+a
+
+L;
+
+Cu
+>
+
+0nT
+
+x
+
+x
+
+.0rD
+
+N
+
+0
+
+F-o
+
+x
+
+Cu
+
+cn0
+
+ci
+0C
+
+r.
+-
+
+ctc
+
+.
+
+.
+
+-.
+
+4)
+4;
+
+S.
+
+*
+
+Cu
+
+4.
+
+..
+
+6z
+
+&6
+
+-
+
+r4 e'4
+
+662
+
+Cu
+
+0.0 r.O
+
+0
+
+6
+v
+
+0
+
+4)C.)
+
+0
+
+zz
+
+00
+
+z
+
+6
+
+'0
+I-.
+0sa
+'4.
+'0Y
+
+v
+
+0 0
+4
+
+00
+
+>-
+
+zz
+
+0
+
+z
+
+.C)
+Cu'e
+
+Cu
+
+ICu
+
+Cu Cu
+
+c)
+
+C)
+
+c)
+
+.=
+
+.=
+
+Cu *
+
+.2 S
+
+c)
+
+Cu r.
+
+Cu
+Cu
+
+m mcis
+
+0
+0.
+
+u
+
+00
+
+e0
+-
+
+e
+
+.8
+
+E
+
+_
+
+Cu
+
+_uC,0_
+r
+CuX
+
+'.0
+N
+
+Cu7
+
+v
+
+ON
+
+0%::
+0(ON
+
+^- 'IO a,,e
+
+0
+0%
+
+; Cu
+
+C,.
+
+4)
+
+ci~
+N -
+
+o E0
+
+a4
+
+Cu
+
+-
+
+%0
+
+Cu
+Cu
+
+_
+
+2
+4)4
+
+aC
+4
+
+-
+
+22t:
+
+0~~~~
+
+=
+
+Cu
+
+, ~
+X~
+m
+
+~
+
+~~~~~~
+
+0
+
+.
+
+_
+
+0
+
+m e4
+t
+tn s
+tn
+X~
+nX~~~~~~
+e4
+*
+
+I*
+
+Cu
+
+1 is correct and that no additional introns are present in the
+coding region.
+SSCP analysis of 5a-reductase 2 gene. In most subjects,
+mutations in the Sa-reductase 2 gene were detected by SSCP
+analyses (Fig. 2). SSCPs were detected in one or more exons of
+almost all affected individuals. The differences in migration of
+the single stranded DNAs caused by the sequence changes
+ranged from the dramatic (e.g., exon 4, 5R2-Sao Paulo-2) to
+the subtle (e.g., exon 3, 5R2-New York- I and 5 R2-London-2).
+In most cases it was possible to determine the presence ofhomozygosity or compound heterozygosity (Fig. 2). In one instance,
+a point mutation in the 5a-reductase 2 gene was not detected
+by this technique but was identified by DNA sequencing (see
+below). The inheritance of a given SSCP coincided with the
+disease in several families, and this method has been used to
+diagnose carrier status in individuals of previously unknown
+genotype (data not shown).
+DNA sequence of mutations. The DNA sequences of the
+putative mutations detected by SSCP analysis were determined
+by PCR sequencing (Table I). In toto, the 19 mutations not
+previously described included 16 amino acid substitutions, a
+splice junction alteration, a nonsense codon, and a small deletion. The L224P mutation, present in subject 5R2-Phoenix
+(TableI), was detected only by DNA sequencing. Mutations of
+only one allele were detected in four individuals (5R2-Los Angeles-1, 5R2-Dallas, 5R2-Chicago-2, and 5R2-New York-3).
+We have tentatively classified these latter subjects as heterozygotes. No mutations were detected in two subjects (Los Angeles-3, London-3, Table I). For reasons discussed below, we
+believe that5a-reductase deficiency in both the heterozygotes
+and the no?bnormality identified group is due to mutations
+that map outside of the exon and immediate flanking intron
+sequences examined here.
+The locations of the mutations in the gene and their consequences for the5a-reductase 2 enzyme are summarized in Fig.
+3. Each of the substitution mutations alters an amino acid that
+is conserved among the sequenced5a-reductase enzymes ( 12).
+This finding suggests that the changes are in fact the cause of
+the disease rather than the result of random DNA polymorphisms. In agreement with this suggestion, no affected individual had more than two of the mutations shown in Fig. 3, and
+none of the mutations has been detected in multiple normal
+individuals (> 31 ) screened to date (data not shown). Identical mutations are present in different ethnic groups (TableI,
+Fig. 4) suggesting the possibility of mutational hotspots in the
+gene. A complete description of the Dominican Republic mutation has been reported elsewhere (Thigpen, A. E., D. L.
+Davis, T. Gautier, J. Imperato-McGinley, and D. W. Russell,
+submitted for publication). This mutation is described here for
+companson purposes.
+5a-Reductase mutations and clinical expression. Togain
+insight into correlations between a particular mutation and the
+Steroid5a-Reductase 2 Mutations
+
+803
+
+severity ofthe disease (i.e., degree of femaleness in 46,XY individuals) and structure-function relationships in the enzyme,
+two mutations were produced and analyzed in an expressible
+cDNA for 5a-reductase 2 (Table III, Fig. 5). The test cases
+represent the extremes of disease manifestation; an arginine
+substitution for glycine at position 34 (present in homozygous
+form in 5R2-Los Angeles-2, Table I) resulted in a female phenotype with only minor virilization at expected puberty (9). The
+second mutation, a serine substitution for a glycine at position
+196 (present in homozygous form in 5R2-New Haven, Table
+I) produced a predominantly male phenotype (1O).
+The mutant cDNAs and a normal control were transfected
+into cultured human embryonic 293 cells and assayed in whole
+cells and cell lysates for 5a-reductase activity. As shown in
+Table III, the Gl 96S mutation reduced enzyme activity in
+whole cells to 8.3% of normal, while the G34R mutation reduced activity to 1.7% of normal.
+Immunoblotting of lysates from the transfected cells indicated that essentially equal amounts of 5a-reductase protein
+were produced from the transfected cDNAs (Fig. 5 A), suggesting that the mutations did not affect the expression or the stability of the enzyme. The G1 96S mutation reduced the affinity of
+the enzyme for NADPH but did not alter the apparent Km for
+testosterone (Table III). In contrast, the G34R mutation drastically reduced the affinity of the mutant protein for testosterone but did not affect the NADPH Km.
+The two substitution mutations changed the pH activity
+profiles of the mutant enzymes (Fig. 5 B). The normal 5a-reductase 2 enzyme shows a characteristic narrow acidic pH optimum when assayed in transfected cell lysates (top panel). The
+G196S mutation (middle panel) shows a slightly more basic
+pH optimum (5.2 vs. 4.9 for normal). The G34R enzyme
+shows a different pH profile with a broad peak of activity in the
+neutral to basic range (bottom panel). This pH activity profile
+is similar to that of the type 1 isozyme of 5a-reductase ( 12, 13).
+In experiments not shown, identical results with respect to pH
+optima were obtained when the cDNAs were transfected into
+simian kidney COS cells, and the subcellular localization of
+the mutant proteins was normal as judged by immunocyto-
+
+chemistry.
+Chromosomal localization of the Sa-reductase 2 gene. The
+chromosomal localization of the disease gene was determined
+by in situ hybridization analysis of human lymphocyte prometaphase chromosomes and by Southern blot analysis of so-
+
+matic cell hybrid panels. As shown in Fig. 6, a genomic probe
+spanning exons 2-5 of the type 2 gene (symbol SRD5A2) hybridized to band 2p23 on the short arm of chromosome 2. Of
+20 metaphases scored, 16 had specific signal on both chromatids of both chromosome 2 homologues at band 2p23, while
+two metaphases had specific signal on only one chromosome 2
+and the other two metaphases had no specific signal. The identification of the stained chromosomes was possible due to an
+R-banding pattern caused by the incorporation of BrdU after
+cell synchronization. There was no cross-hybridization detectable between the SRDSA2 gene probe used here and the sites
+containing the SRDSA1 gene or the SRDSAPJ pseudogene
+(40). In somatic cell hybrid panels, a 250-bp cDNA probe
+detected human-specific BglII (8.8 kb) and PstI (14 and 3.5
+kb) DNA fragments in all hybrids retaining human chromosome 2. There were at least two discordant hybrids for all other
+human chromosomes (data not shown).
+
+Discussion
+The current studies describe a molecular genetic analysis of the
+5c-reductase type 2 gene in a worldwide cohort of subjects with
+male pseudohermaphroditism. 20 different mutations have
+been identified in the 5a-reductase type 2 gene on the short
+arm of chromosome 2. Over half of the affected individuals
+studied were true homozygotes whereas 40% were either compound heterozygotes or inferred compound heterozygotes.
+Identical mutations were found in individuals with widely differing geographical and ethnic backgrounds, suggesting the
+presence ofmutational hotspots in the gene. Biochemical analysis of two mutations representing opposite poles of disease
+manifestation (i.e., feminization of external genitalia versus
+predominantly male development), suggested a correlation between clinical expression and severity of the impairment of
+enzyme function.
+Mutations in the 5a-reductase type 2 gene were present in
+all but two individuals (5R2-Los Angeles-3, 5R2-London-3).
+The failure to find mutations in these patients could be due to
+clinical misdiagnosis, locus heterogeneity in 5a-reductase deficiency, trans-acting mutations, or mutations mapping outside
+the coding regions of the type 2 gene. Of these, we favor the
+latter explanation inasmuch as the present screen was confined
+to the exon and immediately flanking intron regions of the
+gene. In addition, a sequence encoding eight amino acids at the
+
+Table II. Sequence and Locations of Oligonucleotides in Sa-Reductase 2 Gene Usedfor Polymerase Chain Reactions
+Amplification
+Olignucleotide
+
+Location
+
+target
+
+Sequence 5' - 3
+
+h5a2-16
+
+5'-Untranslated, Exon 1
+
+h5a2-32
+h5a2-18
+h5a2-19
+
+Exon 1
+Intron 1
+Intron 2
+Intron 2
+Intron 3
+Intron 3
+Intron 4
+Intron 4
+
+Exon 1
+Exon 1
+Exon 2
+Exon 2
+Exon 3
+Exon 3
+Exon 4
+Exon 4
+Exon 5
+Exon 5
+
+CATCTAGAGAGCGTCCGCAGCGGCCACCGGCGAGG
+CGAAGCTTCACTGTGGAAGTAATGTACGCAGAAGA
+CAGGATCCGAACAGTGAATCCTAACCTTTCCTCCC
+
+h5a2-20
+h5a2-21
+h5a2-22
+h5a2-23
+h5a2-24
+h5a2-25
+
+804
+
+Thigpen et al.
+
+3'-Untranslated, Exon 5
+
+CGAAGCTTCATTGTTAGCTGGGAAGTAGGTGAGAA
+CAGGATCCGATGTGAAAAAAGCACCACAATCTGGA
+CGAAGCTTCAGCTCCAGGGAAGAGTGAGAGTCTGG
+CAGGATCCGATGCAATGATTGACCTTCCGATTCTT
+CGAAGCTTCAGTTTGGAGAAGAAGAAAGCTACGT
+
+CAGGATCCGATCAGCCACTGCTCCATTATATTTA
+CGAAGCTTCATTGACAGTTTTCATCAGCATTGTGG
+
+CM
+CU
+
+.r
+-aa>E
+
+r
+
+Z
+
+Z
+
+_
+
+E
+°
+
+Z
+
+*j
+
+Z
+
+__
+,
+
+Co 0
+c Xo
+
+O
+
+:>
+
+0Z
+
+0
+
+0)
+~~~~0
+-r_C
+< E
+
+- 0
+
+z
+
+em
+
+40
+DNA-*
+
+to
+
+"
+I$
+
+.4
+
+4
+
+_
+
+4
+
+_
+
+_
+
+N\
+
+E
+t
+
+lo
+
+.
+
+0 o000
+
+Z
+
+W0
+
+.w:0..
+
+rt;zm 4z n
+e
+
+C
+
+*i
+
+~~
+
+Z
+
+Z
+
+CU
+
+_
+
+a)
+0
+0CCU - co
+
+9
+
+a)
+
+00
+
+0XL
+
+E:
+c
+
+-,
+
+U)
+C
+
+<
+
+0
+
+0
+
+C)
+
+0
+Z
+
+Z
+
+u
+
+V)
+
+0
+
+E
+
+up, #1. ... up 60W..,
+I"
+
+ds
+DNA
+
+ds
+DNA
+
+a
+
+"so
+__p
+EXON 2
+
+00>-
+
+0
+
+0
+2\ U
+
+E
+
+0f
+
+2Ch
+
+q),A_
+
+__00
+
+EXON 1
+U)
+
+0
+
+a t a nn
+gli
+"
+aOlon.
+_os
+ds
+DNA
+
+0
+
+0
+
+.3 ? .3 'c,
+§*
+
+so
+
+N
+
+'A *14 W5aits,
+a a
+
+a
+
+-
+
+a
+
+!Fws}
+
+EXON 4
+
+EXON 3
+
+n
+
+X
+
+CD
+
+EIEcs CD
+
+ds
+
+a.
+
+t
+ww -w w uww
+
+A
+
+M
+WbSuf"
+3
+
+DNA
+
+-
+
+__"
+
+Cu
+
+X0m CZ
+
+o~
+
+"Z
+
+;iSS"S
+
+EXON 5
+3'-end of exon 1 was not screened due to the location of the
+oligonucleotide used to amplify this exon (Fig. 1). Clinical
+misdiagnosis is unlikely as these patients met all the criteria of
+5a-reductase deficiency and have been thoroughly characterized at the biochemical and endocrine levels. In fact, the 5R2London-3 family has been studied by two different groups ( 18,
+24). The existence of the type 1 isozyme of 5a-reductase
+renders genetic heterogeneity a formal possibility; however, in
+the case of 5R2-Los Angeles-3 the type 1 gene was excluded as
+the disease locus ( 13).
+
+0
+
+Figure 2. Detection of mutations in
+5a-reductase type 2 gene by SSCP
+
+analysis. Individual exons were amplified from genomic DNA extracted from the indicated subject
+and screened for SSCPs. Exon 1
+DNA was cleaved with BamHI before analysis to better resolve SSCPs
+in this 337-bp exon. Only the larger
+BamHI fragment (244 bp) is shown
+in the autoradiogram. All other
+exons were analyzed without restriction enzyme digestion. The migrational positions of the double
+stranded exon DNAs are indicated
+on the left of the autoradiograms.
+Subject New York-2 has two mutations in the exon 1 DNA fragment
+analyzed here. The relative contributions of these two mutations to
+the detected SSCP are not known.
+
+Different mutations at some human loci can confer either a
+dominant or recessive inheritance pattern depending on the
+structure of the protein affected and the nature of the lesion
+(41). If 5a-reductase were to function as a multimer, then the
+single mutations found in the four individuals classified as heterozygotes in Table I might compromise the activity of a normal allele and lead to the disease. This type of mutation would
+be expected to manifest itself in carrier individuals, i.e., in a
+dominant fashion. The family of subject 5R2-Dallas has been
+studied by us, and no evidence for the disease was adduced in
+Steroid 5a-Reductase 2 Mutations
+
+805
+
+R24*W
+
+CODING
+
+¢4R
+TLMO{
+
+G1 15D 0126R
+fR359 ATC
+
+R171S A207QL224P
+8
+IG1B3S19D1
+
+D164V
+
+-J
+
+R2480
+
+Cl)
+03)
+
+1R (
+
+3'~'
+
+Ir
+OC
+0 Z
+
+A
+
+725+1, G-T
+ANG
+
+c
+CY
+
+NON-CODING
+
+Figure 3. Mutations in 5a-reductase type 2 gene and protein. A schematic diagram ofthe 5a-reductase type 2 gene is shown together with
+the locations of 20 different mutations. The single letter amino acid
+code is used. All substitution mutations occur in amino acids that are
+conserved amongst the sequenced Sa-reductase proteins ( 12). Other
+mutations either delete a large (ANG) or small (359, ATC) portion of
+the gene, alter conserved splice junction signals (725 + 1, G -. T),
+or cause premature termination (R227 *). Amino acid numbers refer
+to those of the normal 5a-reductase type 2 protein ( 12). Other numbers refer to the normal cDNA and indicate the position at which a
+given mutation occurred (e.g., 359, ATC indicates a deletion of a TC
+dinucleotide at position 359 ofthe cDNA). Two different mutations
+(GGG -. AGG and GGG -- CGG) result in the G34R substitution.
+The ANG mutation was described previously ( 12) and the R246W
+mutation in the Dominican Republic individuals is extensively characterized in Thigpen, A. E., et al. (submitted for publication). They
+are included here for comparison and completeness.
+
+4331
+
+x
+
+~
+
+o
+
+2214B
+4.0-
+
+*m
+
+-4--S5axR2
+
+NORMAL
+,'
+
+II*
+
+2.7I
+
+63 known relatives spanning three generations (6). Furthermore, the father of subject 5R2-Dallas is a carrier of the H23 1 R
+mutation found in both this individual and an affected sibling,
+a finding that rules out dominant inheritance or the occurrence
+of a spontaneous mutation. In subject 5R2-Dallas and the
+other inferred compound heterozygotes it seems likely that a
+more exhaustive study of the Sa-reductase type 2 gene will
+reveal a second mutant allele.
+In two subjects analyzed at the biochemical level and in
+affected individuals from the Dominican Republic described
+in another study (Thigpen, A. E., et al., submitted for publication), there appears to be a correlation between the severity of
+manifestations and the severity of the impairment of enzyme
+function. Thus, the GI 96S mutation identified in a boy (5R2New Haven) with a predominant male phenotype reduces enzyme activity to - 8% of normal when assayed in transfected
+whole cells (Table III). The mechanism by which this mutation decreases enzyme activity is presumably related to the
+15 fold decrease in affinity of the enzyme for NADPH. The
+effect ofthis mutation on the catalytic activity ofthe enzyme in
+vivo is difficult to estimate because intracellular concentrations
+-
+
+Mexican-American
+Vietnamese
+GGG-AGG
+Gly34t Arg
+
+5':::
+
+Brazilian
+Sicilian
+Creole-American
+MaHese
+O
+CAA-CGA|AAGG-AGC
+171 Ser
+Gln 126 Arg
+
+1W,
+
+Caucasian American
+Black Ameaican
+CAC
+CA-CGC
+Ar
+
+~d
+
+~
+
+Black American
+Austrian
+Pakistani
+
+CGG-.CAGI
+Ar 246 GIn
+>3
+ICGG -TGGI
+|Arg 246 Trp|
+Dominican Republic
+Brazilian
+
+Figure 4. Apparent recurrent 5a-reductase type 2 mutations. A schematic diagram of the 5a-reductase type 2 gene is shown. The location
+of six mutations that occur in individuals of different ethnic backgrounds is indicated above and below the gene structure. These mutations are designated apparent recurrent because DNA polymorphisms have not yet been identified that would allow detailed haplotype analysis and subsequent determination of whether a given lesion
+occurred on two different genetic backgrounds, or represents two descendants from a common ancestor.
+806
+
+Thigpen et al.
+
+13
+
+-/
+
+\
+res
+
+3
+
+I
+
+G196S
+0L 0,(06>
+
+0)
+
+. .E
+
+10
+
+E O.:04
+
+i.a
+
+o
+
+0.
+
+02
+
+E
+
+/
+
+,3
+G3
+G34R
+
+\*
+
+*- ._
+
+0.36
+
+0.24 -0.124
+012h
+
+*
+!*0
+*
+
+0
+
+5.0 6.0 0 8.0 so.C
+pH
+Figure 5. Expression of normal and mutant 5a-reductase type 2
+cDNAs. Expression vectors containing the indicated cDNAs were
+transfected into monolayers of human embryonal 293 cells and assayed in cell lysates for 5a-reductase protein and enzyme activity. In
+A, an immunoblot of transfected cell lysates (60 ,g protein) is shown
+indicating that each cDNA produced approximately equal steadystate levels of 5a-reductase protein. Lane 1, mock transfected cells;
+lanes 2, 3, and 4, cells transfected with the normal, G 196S, and G34R
+cDNAs, respectively. The migrational positions of proteins of known
+molecular weight are shown on the left ofthe luminogram. In B, the
+pH optima ofthe normal and mutant 5a-reductase enzymes is shown.
+Aliquots of the normal enzyme (11 g), the G196S enzyme (55 Mg),
+and the G34R enzyme (42 Mg) were assayed for 10-30 min at 37°C
+in the presence of 5 MM testosterone and 10 mM NADPH at the
+indicated pHs. The normal enzyme shows a narrow acidic pH optimum centered around 4.9 (upper panel). The G196S mutation
+(middle panel) drastically reduces overall enzyme activity relative to
+normal (compare ordinate scales) and increases the pH optimum
+slightly. The G34R substitution (bottom panel) reduces enzyme activity and dramatically shifts the pH optimum.
+
+Table III. Biochemical Characterization Two 5a-Reductase
+Type 2 Mutations
+Normal*
+
+Activity in whole cellst
+pH optimum
+Vm. (nmol
+
+dihydrotestosterone/
+per mg protein)
+Km Testosterone
+KmNADPH
+
+69.2%
+4.8-4.9
+
+G I 96S*
+
+5.7%
+5.1-5.2
+
+2.0-5.0
+0.5-1.0 ,M
+
+0.05-0.07
+0.5-1.0 MuM
+
+8-13MgM
+
+150-180MM
+
+G34R*
+
+1.2%
+5.2-6.0
+
+0.4-0.6
+10-12 qM
+8-15 zM
+
+* Values are the averages determined in at least two experiments
+carried out on different days with different cells or cell lysates. $ Expressed as percent conversion of ['4CJtestosterone (1 MM) to dihydrotestosterone by whole cells transfected with the indicated cDNA in
+a 30-min incubation at 37°C in a cell culture incubator.
+
+of NADPH vary between 50 and 400 ,uM (42). It is therefore
+conceivable that the level of 5a-reductase activity in the anlage
+of the external genitalia in this subject was sufficient to induce
+partial virilization.
+In contrast, the G34R mutation found in subject 5R2-Los
+Angeles-2 reduces enzyme activity in whole cells to a greater
+extent and does so by reducing the affinity of the enzyme for
+testosterone substrate some 15-fold (Table III). The intracellular testosterone concentration is not known but is assumed to
+be near that of the serum in the fetus (- 50 nmol/liter). At
+this substrate concentration, the G34R enzyme is essentially
+inactive, thus giving rise to the female phenotype seen in subject 5R2-Los Angeles-2. The finding that the G34R mutation
+in the type 2 isozyme alters the substrate Km agrees well with a
+study (35) that mapped determinants of a competitive inhibi-
+
+tor to residues 26-29 of the type 1 isozyme of 5a-reductase.
+Together these results suggest that the substrate binding domain of 5a-reductase is encoded at least in part by residues
+encoded by exon 1.
+Both G34R and G 1 96S mutations shift the pH optimum of
+the 5a-reductase enzyme (Fig. 5 B). A narrow acidic pH optimum distinguishes the type 2 from the type 1 isozyme, which
+has a broad neutral to basic pH optimum. The biochemical
+basis for the acidic pH optimum of the type 2 enzyme is unknown, but this feature is also present in the rat type 2 enzyme
+(Normington, K., and D. W. Russell, unpublished observations) and is observed in multiple mammalian cell lines in
+which a type 2 human cDNA has been expressed (Thigpen, A.
+E., and D. W. Russell, unpublished observations). These data
+and the finding that the two substitution mutations shift the
+pH optimum, suggest that the acid requirement is an inherent
+feature of the enzyme and not a consequence of an inhibitor in
+the cell lysate or a cell type-specific membrane environment.
+The acidic pH optimum may represent an artifact associated with cell lysis or reflect localization ofthe type 2 enzyme
+within an acidic subcellular compartment. The G34R and
+G 1 96S mutations appear to alter the conformation of the
+membrane-bound enzyme in such a manner that the requirement for an acid environment is reduced. The acidic pH optimum of the normal enzyme may thus reflect an activation
+requirement. The study of additional naturally occurring and
+synthetic mutations in the type 2 enzyme may shed further
+light on this interesting feature.
+The two 5a-reductase genes are nonsyntenic: the type 1
+gene (symbol SRD5AI) is located in band p15 on the short
+arm of chromosome 5 (40), and the type 2 gene (symbol
+SRD5A2) is located in band p23 on the short arm of chromosome 2 (Fig. 6). The different chromosomal locations of these
+genes is consistent with their divergence at the DNA sequence
+
+Figure 6. In situ hybridization of 20 kb genomic 5a-reductase type 2 probe to human metaphase chromosomes.
+(Top) Pairs of chromosome 2 with centromeres placed
+on white line and specific hybridization signals at band
+2p23. (Bottom) Representative metaphase with signals
+on both chromosomes 2 that are overlapping (arrow).
+CCD images were obtained with the appropriate filter
+sets on an Axiophot microscope, of chromosomes stained
+with DAPI or propidium iodide and of hybridization signals generated by FITC-avidin bound to biotin-labeled
+5a-reductase 2 gene probe. The images were pseudocolored and superimposed with the GeneJoin® program.
+Steroid 5a-Reductase 2 Mutations
+
+807
+
+level (50% identity). SRD5A1 and SRD5A2 have similar gene
+architectures (5 exons/4 introns) and the positions at which
+introns interrupt the genes are identical between them (Fig. 1;
+ref. 40). These findings suggest that they arose as a consequence of an ancient duplication event and subsequently
+evolved separate physiological roles. The function of the type 2
+gene is defined by 5a-reductase deficiency, while the role ofthe
+type 1 gene in adrogen physiology has not yet been elucidated.
+5a-Reductase deficiency leading to male pseudohermaphroditism is a rare autosomal recessive disorder whose frequency has not been directly measured. The finding that almost half of the subjects analyzed here are known or presumed
+compound heterozygotes suggests that the carrier frequency of
+mutations in the type 2 gene may be quite high. The reasons
+behind and the effects of a putative high carrier frequency of
+mutations in the Sa-reductase type 2 gene are not known. The
+apparent recurrent mutations identified here (Fig. 4) suggest
+the possibility of mutational hotspots (43) in the gene that
+might lead to an increased carrier frequency. Alternatively,
+there may be an as yet unidentified selective advantage to heterozygous carriers.
+Mutations leading to subtle abnormalities in the enzyme
+may underlie some forms of commonly encountered urogenital birth defect in males such as hypospadias or microphallus.
+Along these same lines, regulatory defects in the type 1 or type
+2 genes may underlie a wide variety of androgen-dependent
+disorders such as male pattern baldness, acne, hirsutism, and
+benign or cancerous growth of the prostate. The availability of
+DNA probes for both genes should allow the future definition
+of the genetic role of Sa-reductase in these diseases.
+
+Acknowledgments
+We thank D. Allman, K. Cala, J. Cormier, R. Gibson, L. Sanders, K.
+Schueler, and E. Womack for technical assistance, and Drs. J. L. Goldstein and M. S. Brown for critical reading of the manuscript.
+Supported by research grants from the National Institutes of Health
+(GM-43753, DK-03892, HG-00298), the Howard Hughes Medical Institute, and the Robert A. Welch Foundation (I-097 1 ). A. E. Thigpen is
+the recipient of a postdoctoral fellowship (HD-07504) from the National Institutes of Health. U. Francke is an investigator of the Howard
+
+Hughes Medical Institute.
+
+References
+1. Wilson, J. D. 1978. Sexual differentiation. Annu. Rev. Physiol. 40:279-306.
+2. Wilson, J. D. 1984. The endocrine control of sexual differentiation. Harvey
+Lect. 79:145-172.
+3. Wilson, J. D. 1975. Metabolism of testicular androgens. Handb. Physiol.
+5:49 1-608.
+4. Griffin, J. E., and J. D. Wilson. 1989. The androgen resistance syndromes:
+5a-reductase deficiency, testicular feminization, and related disorders. In The
+Metabolic Basis of Inherited Disease. C. R. Scriver, A. L. Beaudet, W. S. Sly, and
+D. Valle, editors. McGraw-Hill, Inc., New York. 1919-1944.
+5. Wilson, J. D., and I. Lasnitzki. 1971. Dihydrotestosterone formation in
+fetal tissues of the rabbit and rat. Endocrinology. 89:659-668.
+6. Walsh, P. C., J. D. Madden, M. J. Harrod, J. L. Goldstein, P. C. MacDonald, and J. D. Wilson. 1974. Familial incomplete male pseudohermaphroditism,
+type 2. Decreased dihydrotestosterone formation in pseudovaginal perineoscrotal
+hypospadias. N. Engl. J. Med. 291:944-949.
+7. Imperato-McGinley, J., L. Guerrero, T. Gautier, and R. E. Peterson. 1974.
+Steroid Sa-reductase deficiency in man: an inherited form of male pseudohermaphroditism. Science (Wash. DC). 186:1213-1215.
+8. Moore, R. J., and J. D. Wilson. 1976. Steroid 5a-reductase in cultured
+human fibroblasts. J. Biol. Chem. 251:5895-5900.
+9. Johnson, L., F. W. George, W. B. Neaves, I. M. Rosenthal, R. A. Christensen, A. Decristoforo, H-U. Schweikert, M. V. Sauer, M. Leshin, I. E. Griffin, and
+
+808
+
+Thigpen et al.
+
+J. D. Wilson. 1986. Characterization of the testicular abnormality in Sa-reductase deficiency. J. Clin. Endocrinol. & Metab. 63:1091-1099.
+10. Carpenter, T. O., J. Imperato-McGinley, S. D. Boulware, R. M. Weiss, C.
+Shackleton, J. E. Griffin, and J. D. Wilson. 1990. Variable expression of Sa-reductase deficiency: presentation with male phenotype in a child of Greek origin.
+J. Clin. Endocrinol. & Metab. 71:318-322.
+1 1. Andersson, S., and D. W. Russell. 1990. Structural and biochemical properties of cloned and expressed human and rat steroid Sa-reductases. Proc. Natl.
+Acad. Sci. USA. 87:3640-3644.
+12. Andersson, S., D. M. Berman, E. P. Jenkins, and D. W. Russell. 1991.
+Deletion of steroid 5a-reductase 2 gene in male pseudohermaphroditism. Nature
+(Lond.). 354:159-16 1.
+13. Jenkins, E. P., S. Andersson, J. Imperato-McGinley, J. D. Wilson, and
+D. W. Russell. 1992. Genetic and pharmacological evidence for more than one
+human steroid 5a-reductase. J. Clin. Invest. 89:293-300.
+14. Imperato-McGinley, J., M. Miller, J. D. Wilson, R. E. Peterson, C. Shackleton, and D. C. Gajdusek. 1991. A cluster of male pseudohermaphrodites with
+5a-reductase deficiency in Papua New Guinea. Clin. Endocrinol. 34:293-298.
+15. Peterson, R. E., J. Imperato-McGinley, T. Gautier, and E. Sturla. 1977.
+Male pseudohermaphroditism due to steroid 5a-reductase deficiency. Am. J.
+Med. 62:170-191.
+16. Imperato-McGinley, J., R. E. Peterson, T. Gautier, and E. Sturla. 1979.
+Male pseudohermaphroditism secondary to Sa-reductase deficiency: a model for
+the role of androgens in both the development of the male phenotype and the
+evolution of a male gender identity. J. Steroid Biochem. 11:637-645.
+17. Goebelsmann, U., T. D. Hall, W. L. Paul, and F. Z. Stanczyk. 1975. In
+vitro steroid metabolic studies in testicular 17,8-reduction deficiency. J. Clin.
+Endocrinol. & Metab. 41:1136-1143.
+18. Price, P., J. A. H. Wass, J. E. Griffin, M. Leshin, M. 0. Savage, D. M.
+Large, D. E. Bu'Lock, D. C. Anderson, J. D. Wilson, and G. M. Besser. 1984.
+High dose androgen therapy in male pseudohermaphroditism due to 5a-reductase deficiency and disorders of the androgen receptor. J. Clin. Invest. 74:14961508.
+19. Bartsch, G., A. Decristoforo, and H.-U. Schweikert. 1987. Pseudovaginal
+perineoscrotal hypospadias. Clinical, endocrinological and biochemical characterization of a patient. Eur. Urol. 13:386-389.
+20. Peterson, R. E., J. Imperato-McGinley, T. Gautier, and C. Shackleton.
+1985. Urinary steroid metabolites in subjects with male pseudohermaphroditism
+due to Sa-reductase deficiency. Clin. Endocrinol. 23:43-53.
+21. Imperato-McGinley, J., R. E. Peterson, M. Leshin, J. E. Griffin, G.
+Cooper, S. Draghi, M. Berenyi, and J. D. Wilson. 1980. Steroid 5a-reductase
+deficiency in a 65-year old male pseudohermaphrodite: the natural history ultrastructure of the testes, and evidence for inherited enzyme heterogeneity. J. Clin.
+Endocrinol. & Metab. 50:15-22.
+22. Fisher, L. K., M. D. Kogut, R. J. Moore, U. Goebelsmann, J. J. Weitman,
+H. Isaacs, Jr., J. E. Griffin, and J. D. Wilson. 1978. Clinical, endocrinological, and
+enzymatic characterization of two patients with 5a-reductase deficiency: evidence that a single enzyme is responsible for the 5a-reduction of cortisol and
+testosterone. J. Clin. Endocrinol. & Metab. 47:653-664.
+23. Leshin, M., J. E. Griffin, and J. D. Wilson. 1978. Hereditary male pseudohermaphroditism associated with an unstable form of 5a-reductase. J. Clin. Invest. 62:685-691.
+24. Savage, M. O., M. A. Preece, S. L. Jeffcoate, P. G. Ransley, G. Rumsby,
+M. D. Mansfield, and D. I. Williams. 1980. Familial male pseudohermaphroditism due to deficiency of 5a-reductase. Clin. Endocrinol. 12:397-406.
+25. Sambrook, J., E. F. Fritsch, and T. Maniatis. 1989. Molecular Cloning: A
+Laboratory Manual. Cold Spring Harbor Laboratory, Cold Spring Harbor, NY.
+
+1-18.8.
+26. Church, G. M., and W. Gilbert. 1984. Genomic sequencing. Proc. Natl.
+
+Acad. Sci. USA. 81:1991-1995.
+27. Xu, S.-Y. 1986. A rapid method for preparing phage X DNA from agar
+plate lysates. Gene Anal. Tech. 3:90-91.
+28. Saiki, R. K., D. H. Gelfand, S. Stoffel, S. J. Scharf, R. Higuchi, G. T. Horn,
+K. B. Mullis, and H. A. Erlich. 1988. Primer-directed enzymatic amplification of
+DNA with a thermostable DNA polymerase. Science (Wash. DC). 239:487-491.
+29. Orita, M., H. Iwahana, H. Kanazawa, K. Hayashi, and T. Sekiya. 1989.
+Detection of polymorphisms of human DNA by gel electrophoresis as singlestrand conformation polymorphisms. Proc. Natl. Acad. Sci. USA. 86:2766-2770.
+30. Orita, M., Y. Suzuki, T. Sekiya, and K. Hayashi. 1989. Rapid and sensitive detection of point mutations and DNA polymorphisms using the polymerase
+chain reaction. Genomics. 5:874-879.
+31. Lee, J.-S. 1991. Alternative dideoxy sequencing of double-stranded DNA
+by cyclic reactions using Taq polymerase. DNA Cell Biol. 10:67-73.
+32. Zoller, M. J., and M. Smith. 1984. Oligonucleotide-directed mutagenesis:
+a simple method using two oligonucleotide primers and a single-stranded DNA
+template. DNA (NY). 3:479-488.
+33. Kunkel, T. A., J. D. Roberts, and R. A. Zakour. 1987. Rapid and efficient
+site-specific mutagenesis without phenotypic selection. Methods Enzymol.
+1 54:367-382.
+
+34. Andersson, S., D. L. Davis, H. Dahlback, H. Jornvall, and D. W. Russell.
+1989. Cloning, structure, and expression ofthe mitochondrial cytochrome P450
+sterol 26-hydroxylase, a bile acid biosynthetic enzyme. J. Biol. Chem. 264:82228229.
+35. Thigpen, A. E., and D. W. Russell. 1992. Four amino acid segment in
+steroid 5a-reductase 1 confers sensitivity to finasteride, a competitive inhibitor. J.
+Biol. Chem. 267:8577-8583.
+36. Francke, U., T. L. Yang-Feng, J. E. Brissenden, and A. Ullrich. 1986.
+Chromosomal mapping of genes involved in growth control. Cold Spring Harbor
+Symposium on Quantitative Biology, Cold Spring Harbor Laboratory, NY.
+51:855-866.
+37. Milatovich, A., A. Travis, R. Grosschedl, and U. Francke. 199 1. Gene for
+lymphoid enhancer-binding factor 1 (LEFI ) mapped to human chromosome 4
+(q23-q25) and mouse chromosome 3 near Egf Genomics. 11:1040-1048.
+38. Yunis, J. J. 1976. High resolution of human chromosomes. Science
+(Wash. DC). 191:1268-1270.
+
+39. Lichter, P., T. Cremer, J. Borden, L. Manuelidis, and D. C. Ward. 1988.
+Delineation of individual human chromosomes in metaphase and interphase
+cells by in situ suppression hybridization using recombinant DNA libraries.
+Hum. Genet. 80:224-234.
+40. Jenkins, E. P., C.-L. Hsieh, A. Milatovich, K. Normington, D. M. Berman, U. Francke, and D. W. Russell. 1991. Characterization and chromosomal
+mapping of a human steroid 5ca-reductase gene and pseudogene and mapping of
+the mouse homologue. Genomics. 11:1 102-1112.
+41. Prockop, D. J. 1990. Mutations that alter the primary structure of Type I
+collagen. J. Biol. Chem. 265:15349-15352.
+42. Burch, H. B., M. E. Bradley, and 0. H. Lowry. 1967. The measurement of
+triphosphopyridine nucleotide and reduced triphosphopyridine nucleotide and
+the role of hemoglobin in producing erroneous triphosphopyridine nucleotide
+values. J. Biol. Chem. 242:4546-4554.
+43. Cooper, D. N., and H. Youssoufian. 1988. The CpG dinucleotide and
+human genetic disease. Hum. Genet. 78:151-155.
+
+Steroid Sa-Reductase 2 Mutations
+
+809
+
+

@@ -1,0 +1,1211 @@
+THEJOURNAL
+OF BIOLOGICAL CHEMISTRY
+(C
+
+Vol. 267, No. 4, Issue of February 5, pp. 2406-2413,1992
+Printed in U. S.A.
+
+1992 by The American Society for Biochemistry and Molecular Biology, Inc
+
+A Novel Exon Mutation in the Human @-Hexosaminidase,t?Subunit
+Gene Affects 3‘ Splice Site Selection*
+(Received for publication, September 17,1991)
+
+Nobuaki WakamatsuS, Hisashi Kobayashi, Tadashi Miyatake, and ShojiTsujig
+From the Department of Neurology, Brain Research Institute, Niigata University, 1 Asahimachi, Niigata 951, Japan
+
+The molecular basis of a dramatically decreased
+steady state level of
+&hexosaminidase B subunit mRNA
+in a patient with juvenile Sandhoff disease was investigated. Nucleotide sequence analysis of the HEXB
+gene coding for the fi subunit revealed two single base
+substitutions, one in exon2 (A to G, a known polymorphism) and the other in exon 11 (C to T).Analysis of
+the j3 subunit mRNA species demonstrated activation
+of a cryptic splice site in exon 11 as well as skipping
+of the exon.A transfection assay using a chimeric gene
+containing intron 10 flanked by cDNA sequences carrying themutation confirmed that the singlebase substitution located at position 8 of exon 11 inhibits the
+selection of the normal 3’ splice site. The results demmutation affecting 3’ splice
+onstrate a new type of exon
+site selection.
+
+Sandhoff disease (0-variant GMP gangliosidosis) is a lysosomal storage disease caused by mutations of the @ subunit
+which result in reduced activities of both Hex A and B (1).
+As only Hex A canhydrolyze G M z ganglioside in the presence
+of G M z activator protein (13, 14), Hex A deficiency is responsible for the neuronal storage of G M 2 ganglioside in the central
+nervous system and peripheral nerves,
+On the basis of clinical signs and symptoms, as well as the
+age at onset, three principal clinical phenotypes of Sandhoff
+disease (infantile, juvenile, and adult forms) have been established. In the infantile form, onset occurs within the first 5
+months of age, and the disease is characterized by psychomotor retardation, amaurosis, and macular cherry-red spots,
+with death by 4 years ofage (1). Recent molecular genetic
+analysis has revealed a 50-kb deletion (15) and a 16-kb Alutype deletion (16) in the HEXB gene of patients with the
+infantile form. Neote et al. (16) reported that two patients
+with the infantile disease were homozygous for the Alu-type
+@-Hexosaminidase(@-N-acetylhexosaminidase,EC 3.2.1.52, deletion and thatfour other patients were compound heteroHex)’ is a lysosomal hydrolase that cleaves terminal @-N- zygotes with other mutations, allof whom displayed different
+acetylgalactosamine or @-N-acetylglucosamine moieties of clinical phenotypes. In the juvenile or adult form of the
+gangliosides, glycolipids, glycoproteins, and glycosaminogly- disease, onset is later and there are milder clinical manifescans (1). It occurs in two major forms, Hex A (Mr = 120,000, tations including spinal muscular atrophy, cerebellar ataxia,
+PI = 4.9), consisting of one a and one p subunit, and Hex B sensory disturbance, and mental retardation (1).In thejuve(Mr= 130,000, PI = 6.9), consisting of two @ subunits. Each nile form, a point mutation of the HEXB gene, creating a
+subunit is composed of proteolytically cleaved derivatives of new 3‘ splice acceptor site, has been described recently. It
+the pro-a and pro-@precursors (2-5). The pro-a polypeptide results in the insertion of eight amino acids into an inactive
+is encoded by the HEXA gene on chromosome 15 (6)and the larger @ subunit protein (17, 18).
+We recently examined a patient with juvenile Sandhoff
+pro-@polypeptide by the HEXB gene on chromosome 5 (7).
+disease
+presenting with mental retardation and local panatroMolecular cloning of the corresponding cDNAs have revealed
+that there is striking homology (55% on nucleotide sequence) phy (19). With a detailed analysis of the HEXB gene and its
+between them (8-10). The HEXA and HEXB genes each expression in cells of the patient, we found a dramatically
+contain 14 exons and, span 35-40 kb, and splice junctions decreased steady state level of @ subunit mRNA (20). In this
+paper, we describe a novel exon mutation affecting 3’ splice
+share identical positions for all but the first exon (11, 12).
+site selection and discuss the molecular mechanism of the
+*This work was supported in part by grants-in-aid for General aberrant splicing.
+Scientific Research (to S.T. and T. M.) from the Ministry of
+Education, Science and Culture, Japan, and Grant 11-A from the
+National Center of Neurology and Psychiatry (NCNP) of the Ministry of Health and Welfare, Japan. The costs of publication of this
+article were defrayed in part by the payment of page charges. This
+article must therefore be hereby marked “advertisement” in accordance with 18 U.S.C. Section 1734 solely to indicate this fact.
+The nucleotide sequence(s)reported in thispaperhas been submitted
+to the GenBankTM/EMBL Data Bank with accessionnumber(s)
+D90493-D90497.
+4 Present address: The McGill University-Montreal Children’s
+Hospital Research Institute, 2300 Tupper St., Montreal,Quebec H3H
+1P3, Canada.
+3 To whom correspondence and reprint requests should be addressed Dept. of Neurology, Brain Research Institute, Niigata University, 1 Asahimachi, Niigata 951, Japan Tel.:25-223-6161, Ext.
+5184; Fax: 25-225-6458.
+The abbreviations used are: Hex, @-hexosaminidase;nt, nucleotide(s); kb, kilobase(s); RT-PCR, reverse transcription-polymerase
+chain reaction.
+
+EXPERIMENTALPROCEDURES
+
+Patient
+The patient was a 39-year-old Japanese male with a mild clinical
+presentation of mental retardationand local panatrophy. The parents
+were first cousins. Hex A activity of the patient’s leukocytes and
+fibroblasts were decreased to 6 and 8% of control, respectively. Hex
+B activity was undetectable. Rectal biopsy demonstrated membranous
+cytoplasmic bodies in neurons of Meissner’s plexus. Urinary excretion
+of large amount of neutral oligosaccharides was demonstrated, which
+were consistent with the storage of the substrates due to the Hex A
+and B deficiencies.
+Materials
+
+COS cells usedfor the transient expression study were kindly
+provided by Dr. E. I. Ginns at the National Institute of Mental
+Health. [ o - ~ * P ] ~ C T[a-32P]dATP,
+P,
+and [a-”S]dCTP
+were purchased
+from Amersham Japan, Tokyo. Moloney murine leukemia virus re-
+
+2406
+
+Splicing Error Caused by Exon Mutation in Sandhoff Disease
+verse transcriptase was purchased from Bethesda Research Laboratories, Gaithersburg, MD. T4 DNA ligase, T4 DNA polynucleotide
+kinase, Ampli Taq", and restriction enzymes were purchased from
+Takara Shuzo Co., Kyoto, Japan. Human pcDHexa (10) and human
+pcDHex0 (8) were obtained from American Type Culture Collection
+(ATCC). Human genomic p actin DNA was kindly provided by Dr.
+T. Hamada, University of Tokyo.
+Synthesis of Oligonucleotides
+Oligonucleotides were synthesized using an automated DNA synthesizer (Applied Biosystems Inc., Foster City, CA) or provided by
+Dr. R. A. Gravel, Montreal Children's Hospital, Montreal, Canada.
+Northern Blot Analysis
+Total RNAwas extracted from cultured skin fibroblasts (21).
+Poly(A)+ RNA (5 pg) prepared by oligo(dT)-cellulose column chromatography was electrophoresed through a 1.2% formaldehyde/agarose gel and was transferred to a nitrocellulose membrane. The filter
+was hybridized with a 32P-labeledHex fl subunit cDNA probe (22).
+After the hybridization, the filter was washed to a final stringency of
+0.1 X SSC, 0.1% sodium dodecyl sulfate at 60 "C for 20 minutes (1X
+SSC = 150 mM NaCl and 15 mM sodium citrate, pH 7.0). Autoradiography was done using an intensifying screen. The same filter was
+used for rehybridization with "P-labeled Hex a subunit cDNA or (3
+actin genomic DNA.
+Southern Blot Analysis
+PCR products were electrophoresed through a 1.5% agarose gel
+and were transferred to a nitrocellulose membrane. After hybridization with 32P-labeled Hex 0 subunit cDNA (22), the filters were
+washed to a final stringency of 0.1 X SSC, 0.1% SDS at 55 "C for 10
+min and autoradiographed.
+Amplification of HEXB Genomic DNA
+We identified unique sequences in the HEXB gene (11) for the
+selection of oligonucleotide primers after a computer search of the
+GenBank data base to avoid sequences homologous to other genes.
+One of each oligonucleotide pair was constructed with an EcoRI or a
+HindIII linker sequence at the 5' end (Table IA). One microgram of
+a control or the patient's genomic DNA wassubjected to 30 cycles of
+
+2407
+
+PCR consisting of denaturation at 94 "C for 1min, annealing at 53 "C
+for 1 min, and primer extension at 72 "C for 3 min (23).
+Analysis of mRNA Species by Reverse Transcription-Polymerase
+Chain Reaction (RT-PCR)
+First strand cDNA was synthesized by reverse transcription of 10
+pgof total RNA from normal or the patient's fibroblasts with 400
+units of Moloney murine leukemia virus reverse transcriptase and 10
+pmol of specific antisense primers (Table IB)in a reaction volume of
+20 gl (24). The cDNA product was subjected to 30 cycles of PCR
+consisting of denaturation at 94 "C for 30 s, annealing at 55 "C for
+30 s, and extension at 72 "C for 1 min. Four pairs of oligonucleotides
+were designed to cover the entire subunit mRNA with overlapping
+regions (Table IB).
+Nucleotide Sequence Analysis
+PCR products were subcloned into a plasmid vector, pUC19, and
+more than 5 clones were sequenced by the dideoxynucleotide chain
+terminator method using double-stranded DNA as templates (25).
+MspZ Restriction Fragment Length Polymorphism of the Family
+Members and Normal Controls
+One microgram of genomic DNA from family members or normal
+controls was amplified using the specific primers, exon10: 5'GGTTTTGGATATTATTGCAACCATAAA-3' and exon 11: 5'GGAGCAGAAAGGATTACAGGGAAGCCA-3'. The PCR products
+were digested with MspI, andthe digested and undigested PCR
+products were electrophoresed through a 1.5% agarose gel.
+Oligonucleotide-directedMutagenesis of the pcDHexp cDNA
+
+A plasmid construct carrying a mutant 0 subunit cDNA in the
+expression vector, pcD (261, was prepared as follows:
+Step 1: Introduction of Exon 1 1 Mutation-A 2.2-kb XhoI fragment
+of the P subunit cDNA, pcDHexp, was subcloned into the XhoI site
+of pBluescript KS(+), in which the HindIII site in the polylinker
+sequence wasremoved for the convenience of subsequent steps
+(=pKSHexpl). A portion of the Hex 6 cDNA (nucleotides (nt) 12351524) (12) was amplified using two primers, of which one primer
+contained themutant sequence (exons 10 and 11: 5"AAGCAAAGCTTGCGCxGGGCACAATAG-3', mutation underlined; exons 12
+
+TABLEI
+List of primers
+A linker sequence for EcoRI (GGGAATTC) or HindIII (GGAAGCTT)was added at the 5' endof each antisense
+primer.
+Pairs
+A. Amplification of Hex 0 genomic DNA
+I.
+Sense: 5'-ggatccacaggagagcgcc
+Promoter
+Antisense: 5'-GGGAATTCggcggtttctcgtctgcg
+Intron 1
+Sense: 5"aggagttaactacaatgttactag
+Intron 1
+11.
+Antisense: 5"GGAAGCTTaataggaatcataaactc
+Intron 2
+111.
+Sense: 5'-gtgtggtgattgaggattaaca
+Intron 2
+Antisense: 5'-GGGAATTCcacaaagcaccaactgaa
+Intron 3
+IV.
+Sense: 5 " t t t a t c a t c t c a a t t t g t t g a t t t
+Intron 3
+Antisense: 5"GGGAATTCaaaggagacatcttcaga
+Intron 5
+V.
+5
+Intron
+Sense: 5 " a t g g a t t g t a t a t g a t a t c t g c a g
+Intron 6
+Antisense: 5"GGGAATTCcttgtaatgaaactatacc
+VI.
+Sense: 5'-acaatttccaggatcaaatctacg
+Intron 6
+Antisense: 5"GGAAGCTTaaaaaataagataaaatg
+Intron 7
+VII.
+Sense: s'-gacacttcttttaaaaagaatc
+7
+Intron
+9
+Intron
+Antisense: 5'-GGGAATTCcaaaaagcattaatacag
+VIII.
+9
+Intron
+Sense: 5'-aatatattgttaagcttatgatc
+Antisense: 5'-GGGAATTCaacaatggttgcttcact
+Intron 11
+IX.
+Sense: s'-taaagatggaggaaacaaatcttg
+Intron 11
+Antisense: 5"GGGAATTCttcttttgtgtccttaa
+Intron 14
+B. Amplification of Hex subunit cDNA
+I.
+Sense: 5' -CGGGAAGTCGGGTCCCGAGGCTCC
+Exon 1
+Antisense: 5' - AAGACTCATCTGAAGATATG
+Exon 2
+11.
+Sense: 5' - GCTGAATTCCAGGCTAAAACCCA
+Exon 2
+Antisense: 5' - ATCTCCTCCCAAATGAAT
+Exon 8
+111.
+Sense: 5"TAGTGAGGTGTTTCCAGATCAA
+Exon 8
+Antisense: 5' - GGAGCAGAAAGGATTACAGGGAAGCCA
+Exon 11
+IV.
+Sense: 5' - GGTTTTGGATATTATTGCAACCATAAA
+Exon 10
+Antisense: 5' - AGTACAGATTGCTGTGGCCT
+Exon 14
+
+2408
+
+Splicing
+Error
+
+Caused by Exon
+Mutation
+
+and 13: 5'-AGCACTTGCCCGAGGCCATAATCTT-3').
+The PCR
+product was digested with HindIII and inserted into the HindIII
+cleaved pKSHexP1 (=pKSHexb2). Next, the AflII-Bsu36I fragment
+of pcDHex8 was replaced with the AflII and Bsu36I fragment of
+pKSHexa2. The resultantconstruct, pcDHexBM8, contained the
+exon 11 mutation but was otherwise identical with pcDHexB.
+Step 2: Introduction of Exon 2 Mutation-A PCR product carrying
+the exon 2 mutationwas generated by PCR amplification of pcDHex8
+using the following primers, of which one primer contained the
+mutant sequence (exon 2: 5'-GCTGAATTCCAGGCTAGAACCCA3' (mutation underlined); exon 8 5"ATCTCCTCCCAAATGAAT3'). The PCR product was digested with EcoRI and inserted into
+EcoRI-cleaved pcDHexaM8. The resultant plasmid, pcDHexB(Lys12'
++ Arg, Pro4" + Leu), contained both the exon 2 mutation (LysI2'+
+Arg) and the exon 11 mutation (Pro4" + Leu), but was otherwise
+identical with pcDHex8, a full length human Hex 8 subunit cDNA in
+the pcD vector. The structure of themutant cDNA insert was
+confirmed by restriction mapping as well as by nucleotide sequence
+analysis.
+
+in Sandhoff Disease
+
+and a final concentration of 0.2 mM dGTP, 0.2 mM dCTP, 0.2 mM
+dTTP and0.1 mM dATP. Amplification was carried out for 20 cycles:
+each cycle consisted of a 30-s denaturation at 94 "C, 30-s annealing
+at 58 "C, and a 1-min extension at 72 "C. A 3-pl aliquot from each
+PCR product was analyzed on 6% polyacrylamide gel electrophoresis,
+1 X TBE (0.089 M Tris-borate, 0.089 M boric acid, and 0.002 M
+EDTA). The gel was dried under vacuum at 80 "C and exposed to
+Kodak XAR-film with an intensifying screen. Each band was measured by laser densitometry (LKB, Ultrascan XL).
+Analysis of mRNA Species in COS Cells Transfected
+with Chimeric Genes
+
+Total RNA was extracted from COS cells 58 h after transfection
+with 3, 10, or 20 pg of control or mutant chimeric genes. The first
+strand Hex 8 subunit cDNA wassynthesized by reverse transcription
+of Hex 8 subunit mRNA with a specific primer (Table IB, IV,
+antisense primer). The synthesized Hex 8 subunit cDNA was subjected to 30 cycles of PCR amplification consisting of denaturation
+at 94 "C for 30 s, annealing at 55 "C for 30 s, and extension at 72 'C
+Cell Culture and DNA Transfection
+for 1 min with specific oligonucleotide primers (Table IB, IV). PCR
+COS cells were maintained inDulbecco's modifiedEagle's medium products were digested with 30 units of Sac1 twice, electrophoresed
+supplemented with 10% heat-inactivated fetal calf serum. 5 X lo5 through a 1.5% agarose gel, and stained with ethidium bromide.
+cells were seeded in a 25-cm2culture dish 24 h prior to transfection.
+COS cells were transfected with 1 or 2 pgof plasmid DNA by the
+RESULTS
+calcium phosphate co-precipitation method (27). The precipitates
+were allowedto form for 10 min at room temperature and were added
+The Steady State LevelofHex /3 Subunit mRNA Is Deto the cultures. Ten hours later, the medium was replaced with the
+creased-Poly(A)+
+RNA of the patient's cultured skin fibrofresh medium, and the growth of the cultures was continued for an
+additional 48 h. COS cells were harvested by scraping. The Hex blasts, as well as that of control fibroblasts,were subjected to
+the Hex (Y and /3 subunit cDNAs
+activity of COS cell extracts was assayed using 4-methylumbelliferyl- Northern blot analysis using
+N-acetyl-8-glucosaminide as thesubstrate.
+and /3 actin genomic DNA as probes. The steady state level
+
+of the patient's /3 subunit mRNA was markedly decreased but
+
+Construction of Chimeric Genes (pcDHe@"', pcDHexfl13"o~R'c'n,
+of similar sizeto that of control (Fig. 1A). This contrasts with
+Plasmid constructscarryinga chimeric gene in the expression previous Northern blot analyses of juvenile and adult Sandvector, pcD (26), were prepared as follows.
+hoff disease patients, where the steady state levels of Hex /3
+1.The 214-bp HindIII fragment of pcDHex8 was inserted into the
+HindIII site of the KS(+) vector in which the BamHI site in the subunit mRNA were normal (28).
+Identification of Mutations in HEXB Gene-With the
+polylinker sequence had been removed (=pKSHexl).
+2. The ClaI-Bsu36I fragment of pcDHex8 was inserted into ClaI- steady state level of /3 subunit mRNA markedly decreased
+and Bsu36I-cleaved pKSHexl (=pKSHex2).
+compared to control, weturned to the analysis ofgenomic
+3. Parts of exons 10 and 11as well as intron 10 of the HEXB gene DNA from the patient to identify mutations in the HEXB
+were amplified by PCR of genomic DNA from the patient and a gene. On Southernblot analysis of EcoRI- orHindIII-digested
+normal control using the following primers (exon 1 0 5"GGTTTTG
+genomic DNA using the Hex /3 subunit cDNA as the probe,
+GATATTATTGCAACCATAAA-3'; exon 11: 5"GGAGCAGAAAG
+GATTACAGGGAAGCCA-3'). The PCR products were digested the patient's DNA showed patterns identical with those of
+with BamHI and then subjected to partial digestion with Bsu36I controls (data notshown). We next examined the nucleotide
+(intron 10 also has a Bsu36I cutting site).
+sequence of segments of the patient's HEXB gene. The pro4. The larger DNA fragment was inserted into BamHI-Bsu36Imoterregion, exons, splice junctions, andpartsofintrons
+cleaved pKSHex2 (=pKSHex3).
+were amplifiedin 9 portions by the polymerase chain reaction
+5. The BamHI fragment of pKSHex2 was inserted into theBamHI
+(PCR) usingprimersspecific to the HEXB gene (Fig. 2 4 ,
+site of pKSHex3 (=pKSHex4).
+6. The ClaI-Bsu36I fragment of pcDHex8 was replaced with the Table IA). All reactions withthe patient's DNAwere successgenomic fragment which was generated with the ClaI digestion and ful and were identical in size withthose produced from control
+partial Bsu36I digestion of pKSHex4. The resulting pcDHexp"' containsintron 10 flanked by cDNA sequences on both sides, and
+Pchain Ctchain Pactin
+pcDHexj311n.R'C'T'contains a C to T transition at position 8 of exon
+P N
+P N
+P N
+11 but is otherwise identical with pcDHexp"'. The structures of the
+pcDHex8 chimeric genes were confirmed by restriction mapping as
+well as nucleotide sequence analysis.
+28sQuantitative Analysis
+To estimate the ratio of the three types of Hex /3 mRNA species
+(Pl, P2, and P3) identified as the patient's fibroblasts, three sense
+primers (a, b, and c) andone antisense primer (d) were synthesized
+for amplification of reverse transcripts by PCR. These sense primers
+have 18 identical nucleotides of exon 10 sequence in addition to the
+first 5 nucleotides of each of different splice junctions (Fig. 7) as
+follows.
+a:
+5'-TTTGATGATAAAGCAAAGICTTGC-3';b 5'TTTGATGATAAAGCAAAGI ATTTG-3'; C: 5"TTTGATGATAAAGCAAAGIGTACT-3'; and d 5"AGTACAGATTGCTGTGGCCT3'.
+Reverse transcribed product (1 pl) from total RNA from patient
+and normal fibroblasts, as well as threedifferent plasmids containing
+P1, P2, and P3 cDNA, were amplified by PCR. The reactions were
+done in a total volume of 25 pl containing 2.5 pl of reaction buffer,
+0.2 pg of each primer, 0.5 pl of [a-"P]dATP (5 pCi; 3000 Ci/mmol),
+
+18s-
+
+A
+
+B
+
+C
+
+FIG. 1. Northern blot analysis of control and the patient's
+fibroblast mRNA. Five pg of poly(A)+ RNAs were electrophoresed
+through a 1.2% formaldehyde/agarose gel, transferred to a nitrocellulose membrane, and hybridized with "P-labeled Hex 8 subunit
+cDNA (A). After removal of the probe, the same filter was hybridized
+with "P-labeled Hex a subunit cDNA ( E ) and R2P-labeled actin
+genomic DNA (C), successively. N = normal; P = patient.
+
+Splicing Error Caused by Exon Mutation
+Sandhoff
+in
+A
+
+1
+
+Kllobasec
+Exons
+
+II
+
+I
+
+B
+
+I
+-c
+
+I
+
+P
+
+II
+P
+
+C
+
+3: :2
+
+3;
+
+6
+
+1
+
+8 91OnlZ1?14
+
+lil
+
+ii
+
+V
+
+VI
+
+VnVTl
+
+Ill
+p-c
+
+IV
+p-t
+
+v
+
+6c
+
+VI
+P-c
+
+VI1
+P
+
+2409
+
+4p
+
+3 4 5
+
+”
+
+PC R
+
+2;
+
+:1
+
+1p
+2
+
+1
+
+Disease
+
+C
+
+Vlll
+p-c
+
+E
+
+IX
+0-c
+
+PI
+
+i
+
+I
+
+CI
+
+I
+
+B
+
+FIG.2. Amplification of Hex B genomic DNA using specific
+primers. A , schematic diagram of HEXB gene andlocations of
+oligonucleotide primers used for PCR amplification. Oligonucleotide
+sequences are given in Table IA. The promoter region, exons, splice
+junctions, and partsof introns of the HEXB gene were amplified in
+9 portions (I-ZX) by PCR. B, PCR productswere run through a 2.5%
+NuSieve, 0.9% Seakem agarose gel and stained with ethidium bromide. c, PCR productof control DNA;p, PCR product
+of the patient’s
+DNA.
+
+Msp
+
+608
+515
+
+I
+
+FIG.4. MspI restriction fragment length polymorphism of
+the PCR product. The genomic DNA from the patient’s family as
+well as three unrelated normal individuals were amplified using the
+A, the diagram
+specific primers(see“ExperimentalProcedures”).
+indicates the position of the MspI site and the size of fragments
+produced after MspI digestion of the PCR productof normal control
+( P ) .The single base substitution in
+DNA (C)and the patient’s DNA
+exon 11 is shown by an asterisk. B, the MspI-digested PCR products
+(+) as well as undigested PCR products (-) were run through a 1.5%
+agarose gel. Lanes 1-3 and 8-10 are the PCR products from three
+controls; lanes 4 and 11, the patient; lanes 5 and 12, the patient’s
+father; lanes 6 and 13, the patient’s mother; lanes 7 and 14, the
+patient’s sister. Thesizes of the fragments areindicated on the right
+side.
+
+FIG.3. Partial nucleotide sequences of the amplified Hex /3
+genomic DNA, confirming single base substitutions in exon
+11 ( A )and exon 2 ( B ) .Arrows indicate the positionsof single base
+substitutions.
+
+DNA (Fig. 2B). The PCR products were subcloned into the
+plasmid vector, pUC19, and the nucleotide sequences were
+determined. The sequence of 450 base pairs of the HEXB
+promoter region includingputative GCboxes, CAAT box, and
+AP-1-like binding sequences, as well as all splice junctions
+and the 3’ noncoding region including the polyadenylation
+signal, were identical with those of control. Among the exon
+sequences, however, two single base substitutions were identified. One, a C to T transition substitutingleucine forproline
+417 (CCG to CTG,Fig. 3A), was found in exon11.The other,
+an A to G transition substituting arginine for
+lysine 121 (AAA
+to AGA, Fig. 3 B ) was found in exon 2. The latter has been
+shown to be polymorphic among normal populations and is
+presumed not tobe associated with thedisease.2
+The Candidate for the Disease Mutation, the Pro to Leu
+Change, Abolishes a MspI Site-We therefore established a
+diagnostic testfor the mutationby examining MspI restriction
+products after PCR amplification of surrounding sequences.
+The parents and the sister were shown to be heterozygous,
+and the patient was homozygous‘for the mutation (Fig. 4).
+Furthermore, the allele was not found in any of 36 normal
+unrelated individuals (data not shown).
+The Mutant Hex /3 Subunit cDNA Encodes Active Hex (?
+Subunits, and Hex Deficiency Is Due to the Decreased Steady
+State Leuel of Hex p Subunit mRNA-To establish whether
+the mutations we identified affect Hex p subunit activity, we
+introduced thetwo mutations into the pcDHexP
+cDNA, which
+contains thefull length human Hexp subunit cDNA(7). This
+B. McInnes and D. J. Mahuran, unpublished results.
+
+m
+
+1)rg
+
+2PQ
+
+FIG.5. Hexosaminidase activities in COS cells transfected
+with Hex B subunit cDNAs. COS cells were transfected with 1 or
+2 pg of normal Hex fl subunit cDNA (pcDHexp) or mutant Hex B
+subunit cDNA (pcDHexp(Lys’*’+ Arg, Pro“‘ + Leu)) or theywere
+mock-transfected (M). Hex activities were measured using 4-methylumbelliferyl-0-GlcNAc as the substrate. The columns indicate the
+mean of Hex activities, and vertical bars indicate S.E. ( n = 3).
+
+construct would show if Hex fi activity is affected by the
+mutations in circumstances where RNA splicing is not involved. The mutantcDNA construct, pcDHex@(Lys”’+Arg,
+Pro4’’ Leu), carries the two single base substitutions,but
+is otherwise identical with the original pcDHexp. Transient
+expression of the pcDHexp(LysI2’ 4 Arg, Pro4’: + Leu) in
+COS cells gave increased Hex activitycomparable to that
+seenin COS cells transfected withpcDHexp, the normal
+human Hex /3 subunit cDNA (Fig. 5).
+Identification of Aberrant Splicing of Hex P Subunit
+mRNA-The results described above suggested that the dramatically decreased steady state level of the Hex @ subunit
+mRNA in the patient’s cells is the primary cause for the
+decreased Hex A and B activities, because the mutant Hex p
+subunit carrying Pro4’‘+ Leu and Lys”)‘ + Arg is as active
+as the wild type Hex /3 subunit. Since we did not detect any
+mutations in the promoter region of the HEXB gene, we
+surmised that thereduction in steady statemRNA was likely
+due to instability of the mRNA. As nonfunctional mRNA is
+the most frequent cause of such instability, we analyzed the
+
+2410
+
+Splicing
+Error
+
+Caused by Exon
+Mutation
+Sandhoff
+in
+
+Disease
+
+Hex /3 subunit mRNA by RT-PCR to examine its integrity.
+A
+P2
+P3
+Hex p subunit mRNA of patient and control fibroblastswere
+P1
+G T A C
+amplifiedinfour
+overlappingportions usingfour pairs of
+G T A C
+G T A C
+.. .
+specific primers aftercDNA synthesis by reverse transcription
+(Fig. 6, Table IB). With primer pairIV (Table IB), abnormal
+"
+DNA fragments (P2 and P3Fig.
+in 6, B and C)were identified
+exonl'
+in the patient in addition to the normal PCR product(P1 in
+Fig. 6, B and C). Southern blot analysis using the Hex
+p
+subunit cDNA as the probe demonstrated that the two aberonll
+normal PCR products (P2 and P3) hybridized to the Hex /3
+subunit cDNA. The PCR products (Pl, P2, and P3) were
+subcloned into a plasmid vector, pUC19, and theirnucleotide
+sequences were determined. The results
+of the sequence analysis revealed that P1 corresponded to normally spliced Hex p
+B
+subunit mRNA. However, P2 appeared to be generated by
+abnormal splicing in exon 11, and P3was produced by skipping exon 11 (Fig. 7, A and B). In P2 and P3, early termination codons (TGA) appear
+6 nt and 171 nt after the abnormal
+63bp
+splice junction, respectively (Fig. 7B).
+P2
+Ratios of PI, P2, and P3 Hex p mRNA in Sandhoff Patient
+/ \
+ACTTAG~ATTTGAT
+and Normal Fibroblasts-To evaluate the ratio of the three
+AAAG~GTACTC---T~(~XOII~~)
+different Hex p mRNA species in patient and normal fibroblasts, we synthesized threespecific sense primers in order to
+12 1
+P3
+I*
+11
+1
+/
+".
+amplify each type of transcript uniquely (see "Experimental
+ti~IllagjGTAC?C
+Procedures" and Fig. 8A). Initially, we determined PCR conFIG. 7. Partial nucleotide sequences of the patient's three
+ditions thatwould allow correlation of the amount of ampli@ transcripts ( P l , P 2 ,and P3). A, nucleotide sequences of
+Hex
+fication product with the amount
+of mRNA initially present.
+the three transcripts (Pl, P2, and P3). The three RT-PCRproducts
+Therefore, PCR amplification of P1, P2, and P3 subclones
+(PI, P2, and P3) were subcloned into a plasmid vector, pUC19, and
+(10 ng) using appropriate pairsof primers was carried out for the nucleotide sequences were determined. B, schematic diagram of
+different numbers of cycles. Between 14 and 22 cycles, the splicing patterns of the patient's Hex 0 subunit mRNA. P2 is the
+results showed a linear correlationof product with the numbermRNA spliced using a crypticsplice acceptor site in exon 11, and P3
+of cycles performed (data not shown). Thus, we chose to is the mRNA with skipping of exon 11. The single base substitution
+estimate the amountof Hex p transcripts made in 20 cycles. in exon 11 is indicated by an asterisk.
+Our results showed the predominance of P1 (99.4%), detectable P2 (0.6%), but undetectable P3 ( ~ 0 . 1 % transcripts
+)
+in to 8% of control (Fig. 8, B and C).
+Exon Mutation Affects the 3' Splice Site Selection-The
+fibroblasts from normal individuals (Fig. 8, B and C). However, the three transcripts were detected in fibroblasts from results described above demonstrated aberrant splicings in
+the Sandhoff patient at an estimated ratio of P1:P2:P3 = exon 11. As the nucleotidesequence of intron 10 of the
+11:2:1 with overall levels in the patientsignificantly reduced patient's Hex p subunit gene is identical with that of control
+(data not shown), theC to T transition at position 8 seemed
+most likely to be responsible for the inappropriate 3' splice
+site selection. To examine thisconjecture, we constructed the
+chimeric genes, pcDHexp"" and pcDHexp"".R"C
+-.T' (Fig. 9A).
+The pcDHex/311')contains intron 10 inserted in pcDHexp, a
+full lengthhumanHex
+p subunit cDNA. The pcDHexp1Io.m
+'r) carries the C to T transition in exon 11, but is
+otherwise identical withpcDHexp"". The chimeric geneswere
+transfected into COScells, and mRNA species were analyzed
+indetail by RT-PCR (Fig. 9C). Preliminaryexperiments
+indicated that the endogenous COS cell (monkey) Hex
+1.35
+1.351.08.
+1.080.87.
+0.87subunit mRNAwassufficientlyidenticalwith
+that of the
+0.60
+-rl
+human Hex p subunit mRNA, as to
+confound the interpreta-P2
+-P3
+0.31,
+tion of the RT-PCR analysis. We therefore examined the
+0.28
+nucleotidesequence of COS Hex p subunit cDNA, and a
+single base difference wasfound inexon 13 that could be used
+FIG.6. RT-PCR analyses of Hex @ subunit mRNA. A, sche- to distinguish the human and COS mRNAs (Fig. 9B). The
+matic diagrams of Hex B subunit cDNA, location of oligonucleotide base differenceproduceda
+SacIcuttingsiteinthe
+COS
+primers used for PCR amplifications, and sizes of the four amplified sequence, and we confirmed that there are no SacI sites in
+cDNA segments ( I - I V ) . Arrows indicate directions of oligonucleotide
+primers, and their sequences are given in Table IB. B,10 pg of total any of the PCR products derived from the human mRNAs
+RNA extracted from cultured skin fibroblasts were converted to (PI, P2, or P3).As shown in Fig. 9C, lanes 1 and 2, the PCR
+cDNA by reverse transcription and subjected to 30 cycles of PCR product derived from COS cells was completely digested with
+(see "Experimental Procedures"). The PCR products were electro- SacI. When pcDHexp"", the chimeric gene carrying normal
+phoresed through a 1.5% agarose gel, transferred to a nitrocellulose Hex p subunit cDNA and intron 10, was transfected, producmembrane, and hybridized with '"P-labeled Hex p subunit cDNA ( C ) .
+Abnormal transcripts (P2and P3) were identified in addition to the tion of the normally spliced mRNA was detected (Pl). In
+normal transcript (PI ). c, control fibroblast mRNA; p , the patient's addition, an unspliced form (PO) and an aberrantly spliced
+fibroblast mRNA; s, pcDHexp cDNA was used as a template for the form (P2) were present. The results suggest that the cryptic
+splice acceptor site in exon 11 is also utilized in our experiPCR.
+"
+
+-
+
+I
+
+Splicing Error Caused by Exon
+Mutation
+Sandhoff
+in
+
+ir
+
+:";d;
+;cl;' lr,
+
+A
+
+c
+
+;c;g;l
+
+034
+
+'
+
+f
+".
+
+A
+vwlll;ll l\llll,
+
+I
+
+a"d
+5
+
+5
+
+>
+
+f
+
+7
+
+8
+
+b-d
+9 10
+11
+12
+13
+
+1'1
+
+78.11
+
++
+
+1'2
+
+11..W
+
++ 11.14
+
+1'3
+
+1 -p2
+-Pl
+-P3
+
+,
+
+f
+
+Disease
+
+b.11
+
++
+
+II.XN
+
++ 11.116
+
+11.411
+
+II.ZX+(I.I4
+
+<11.111
+
+c-d
+
+early promoter
+SV40 o>
+
+I*i,lir,,l 1,111'1
+
+4.811
+
+2411
+
+,
+
+U 15 16 17 (8 (9
+
+"
+
+-Pl
+
+CP2
+-P3
+
+B
+
+-PI
+
+-
+
+-P2
+-P3
+
+FIG.8. Quantitative analysis of P1,
+and
+P2,P3 Hex fi transcripts in Sandhoff patient and normal fibroblasts using PCR.
+A, amplification of P1, P2, and P3 subclones (1 pg) using pairs of
+primers specific to each species ( a and d, b and d, and c and d, see
+"Experimental Procedures). PCR productswere run through a 1.5%
+agarose gel. Lane I, P1 subclone; lane 2, P2 subclone; lane 3, P3
+subclone. E , PCR amplification of R T products (1pl) from total RNA
+from patient and normal fibroblasts, as well as of P1, P2, and P3
+subclones using each specific pair of primers. PCR products were
+loaded on 6% polyacrylamide gel electrophoresis, 1 X TBE. After
+electrophoresis, the gel was dried and exposed to x-ray film. The
+upper panel shows a short exposure and the lower panel shows a
+longer exposure. Lane 1, 1 X 10" fmol (calculated from absorbance
+fmol; lane 3, 1 X lo-" fmol; lane 4,
+measurements); lane 2, 3.1 X
+3.1 X lo-' fmol of P1 subclone. Lane 8, 3.1 X lo-' fmol; lane 9, 1 X
+loT3fmol; lane 10,3.1 X
+fmol of P2 subclone. Lane I4,3.1 X
+fmol; lane 15, 1 X
+fmol; lane 16, 3.1 X lo-' fmol of P3 subclone.
+Lanes 5, 11, and 17, amplified R T product (1 pl) fromnormal
+fibroblasts. Lanes 6, 12, and 18, amplified R T product (1 p l ) from
+patient fibroblasts. Lanes 7, 13, and 19, water (control). C,P1, P2,
+and P3 Hexp mRNA levels (molecules per pg of total RNA, meanf
+S.E., n = 3) in normal and Sandhoff patientfibroblasts.
+
+- - .- .,-$a,&
+Wlnvn
+
+: TGGAGTTCC
+
+-
+
+Kb
+
+aw-
+
+1211511197011
+
+FIG.9. The effect of the exon 1 1 mutation on the 3' splice
+site selection. A , schematic illustration of pcDHex$ chimeric gene
+(pcDHexp"", pcDHex$l",R'r'l"). The pcDHex0"" chimeric gene was
+constructed from pcDHex0 subunit cDNA by insertion of intron 10.
+The pcDHexpl'n~R'r carries the
+C to T transition in exon 11, but,
+otherwise, it is identical with pcDHexB"". B, partial nucleotide sequences of Hex fi subunit cDNA of COS cells. The diagram indicates
+the position of the SacI site (arrow) andthe size of fragments
+produced after SacI digestion of the PCR productof COS cell's Hex
+@ subunit cDNAwith the specific oligonucleotide primers (Table
+IB, IV). C, COS cells were transfected with pcDHexB"" or
+pCDHeXpIIO.R~CTI . The Hex 0 subunit mRNA species were analyzed
+by RT-PCR. For the following experiments, the same primer pair
+(Fig. 6A, ZV,Table IB, IV) was used for PCR. Lanes 1 and 2, total
+RNA
+of COS cells was amplified by RT-PCR. The PCR products
+mental condition using COS
+cells. When the mutantchimeric
+with SacI digestion (lane 2 ) or without SacI digestion (lane I ) were
+gene (pcDHex~"".R"' T') carrying the C to T transition in run through a 1.5% agarose gel. The fragment generated by SacI
+exon 11 and intron 10 was transfected, the normally spliced digestion is shown by an arrow. Lanes 3 and 4, the same primer pair
+form (Pl) is barely detectable, whereas the unspliced form was used for PCR of Hex p subunit cDNA (pcDHexB) (lane 3)and
+(PO) and the aberrantly spliced form (P2)were produced as the chimeric gene (pcDHex0"") (lane 4) to show the sizes of PCR
+observed in COS cells transfected with pcDHexp"". The ex- products. Lane 5 , RT-PCR products of mRNA extracted from the
+periments were repeated three times and
+we reproducibly patient's fibroblasts. Lanes 6-8, COS cells were transfected with 3
+(lane 6 ) , 10 (lane 7 ) , or 20 pg (lane 8 ) of the chimeric gene, pcobserved that formation of P1, the normally spliced form, is DHexp"", carrying intron 10 and thenormal exon 11 sequence. Total
+barely detectable inCOS cellstransfected withpcDHexB"".R'C RNAs were amplified by RT-PCR, digestedwith SacI, and run
+T I
+In addition, we subcloned the P1 and P2 products of through a 1.5% agarose gel. Lanes 9-1 1, COS cells were transfected
+transfected COS cells and confirmed that thesequences of P1 with 3 (lane 9), 10 (lane lo), and 20 pg (lane 11) of the mutant
+and P2 are identical with those
+of normal and patient fibro- chimeric gene, pcDHexp'1".R'r4Tl,carrying intron 10 and theexon 11
+blast(datanotshown).
+Moreover, thesameresults
+were mutation (Pro"' -., Leu). TotalRNAs from the COS cells were
+amplified by RT-PCR, digested by SacI completely and run through
+observed afterextensive digestionby Sad, excluding the a 1.5% agarose gel.
+
+-
+
+-
+
+- .
+
+possibility that theobserved results were due to partialdigestion by the enzyme.
+
+tion results in an amino
+acid substitution, Pro to Leu, we
+were unable to demonstrate an effect on enzyme activity in
+DISCUSSION
+COS cells transfected with a cDNA containing the mutation.
+The most common causes of reduced steady state levels of Instead, the mutation was shown to be associated with abermRNAs are: 1) mutations in splice donor or acceptor sites,
+2) rant mRNA species both in patient cells and the transfected
+nonfunctional mRNA caused by nonsense or frameshift mu- COS cells. RT-PCR analysis revealed these mRNAs to be
+tations,or 3) mutationsinpromotersor
+polyadenylation formed by selection of a cryptic splice site in exon 11 (P2) or
+signals (reviewed in Refs. 29 and 30). Our findingof a nucleo- by skipping of exon 11 (P3). As early termination codons
+tidesubstitutioninthe
+codingsequence of an exon that appear in both aberrantly spliced species, they are not exgenerates aberrant splicing without seeming to produce a pected to encode functional protein. Indeed, the enzyme acbiochemically defective protein provides a novel mechanism tivity observed in the patient'scells, sufficient to produce the
+juvenile rather than the more severe infantile onset form of
+for the causeof disease.
+These studies demonstrated a single mutation, a homozy- the disease, is accounted for entirely by the reduced amounts
+gous C to T transition in exon 11,
+responsible for the juvenile of normal mRNA (Pl).
+form of Sandhoff disease in the patient.Although the mutaOurdata suggest that the mutation we have identified
+
+2412
+
+Splicing Error Caused by Exon
+Mutation
+
+inhibits normal splicing rather than directs the selection of
+the novel species. First, the major aberrant species, P2, was
+found in reduced levels (0.6%) in normal cells. Secondly, the
+transfection of COS cells with normal cDNA containing intron 10 produced normal (Pl) and abnormal (P2) transcripts
+showing that P2 canbe a significantly selected product inthis
+cell type. Thus, our results point to a shift in the ratio of the
+three identified species: normal P1 (>99%): P2 (0.6%): P3
+(undetected) compared to mutantP1 (11):P2 (2): P3 (l),with
+the overall levels in the latter case significantly reduced (8%
+of control, Fig. 8C). In fact, with the likelihood that P2 and
+P3 areinherently unstable species, the actual ratio of synthesis may favor higher levels of P2 and possibly P3 in normal
+cells and the majority of synthesis of these species in mutant
+cells. Thus, we propose that the mutation, eight nucleotides
+into the exon adjacent to the splicing acceptor site, inhibits
+the recognition of the normal splice position, therebyallowing
+an increase in species normally present in very low or undetectable levels.
+The most frequentcause of aberrant splicing of the 3‘ splice
+siteis deletions or mutations (31-46) affecting the splice
+acceptor consensus sequence, NCAG/G (49, 50). Also, single
+base mutations within introns have been reported to create
+new acceptor splice sites (17, 18, 47, 48). None of these
+mechanisms can explainthe aberrantsplicing observed in the
+present case.
+Recent in vitro studies of pre-mRNA splicing in higher
+eukaryotes have demonstrated that splicing of individual introns takes place in two steps after assembly of the premRNA into the large multicomponent complex, termeda
+spliceosome, which is comprised of multiple small ribonucleoprotein (snRNP) particles (reviewed in Refs. 51 and 52).
+Although factors including U2 snRNP (53-55), U5 snRNP
+(56), hnRNP C protein (57), 70-kDa intron binding protein
+(58, 59), U2AF (60), several hnRNP proteins (61), and P62
+(62), have been shown to associate with sequences upstream
+of the 3’ splice site or to the3’ consensus AG sequence, there
+is no evidence for factor bindingto exon sequence downstream
+of the selected splice site. Our results suggest a role for
+adjacent 3’ sequences, whether they might participate through
+factorbinding or in the secondary structure of the RNA
+molecule in its association with the spliceosome.
+There areprecedents for exon mutation disrupting normal
+splicing. For example, it hasbeen shown that exon mutations
+involving insertions or deletions affect the splicing of SV 40
+mRNAs (63). Reed and Maniatis (64) showed that usage of
+the adjacent splice site is decreased when a normal human
+exon sequence was replaced by a highly homologous mouse
+exon. Furdon and Kole (65) showed that efficiency of splicing
+of human @-globinpre-mRNA depends on the length of the
+second exon, and insertion of a fragment of @-globinintron 2
+within exon 2 was shown to poison splicing. In the human
+fibronectin gene, a deletion of 81 nucleotides of the EDIIIA
+exon was shown to eliminate alternate splicing (66). Similar
+deletion studies showed that a 3’ exon sequence is essential
+for splicing of the bovine growth hormone pre-mRNA (67)
+and avianretrovirus RNA (68). Moreover, these deletion
+studies showed a significant decrease in the level of spliceosome assembly (68).
+Very recently, a single A/G nucleotide polymorphism in
+exon 2 of the episialin gene, eight nucleotides downstream of
+the second splice acceptor site, was shown to affect 3’ splice
+site selection (69), a finding quite similarto the presentcase.
+They proposed the interesting hypothesis that the A to G
+substitution results in the formation of an altered secondary
+structure of the pre-mRNA, which makes the splice acceptor
+
+in Sandhoff Disease
+
+site inaccessible to the splicing machinery. Previous studies
+have also suggested that the structure of stable hairpins of
+pre-mRNA can influence splice site selection (70-76). In the
+present case, there is a possibility that the exon 11 mutation
+affects the secondary structure of Hex @ subunit pre-mRNA.
+The present study has reinforced the importance of exon
+sequences in the splicing reaction and provides interesting
+insight into 3‘ splice site selection, whose detailed mechanism
+remains to be elucidated.
+Acknowledgments-We are grateful to Dr. Beth McInnes and Dr.
+Don J. Mahuran (Division of Neurosciences, The Hospital for Sick
+Children, Toronto) and Dr. Roy A. Gravel (McGill University, Montreal Children’s Hospital Research Institute, Montreal) for helpful
+discussions. We also acknowledge the assistance of Dr. Gravel in
+whose laboratory one of us (N. W.) conducted the experiments on
+quantitation of the mRNA species. We are also grateful to Dr. Roy
+A. Gravel for his criticalreadings of the manuscript and many helpful
+suggestions.
+REFERENCES
+1. Sandhoff, K., Conzelmann, E., Neufeld, E. F., Kaback, M. M.,
+and Suzuki, K. (1989) in The Metabolic Basis of Inherited
+Disease (Scriver, C. R., Beaudet, A. L., Sly, W. S., and Valle,
+D., eds) 6th Ed, pp. 1807-1839, McGraw-Hill, New York
+2. Mahuran, D. J., Tsui, F., Gravel, R. A,, and Lowden, J. A. (1982)
+Proc. Natl. Acad. Sci. U. S. A. 79, 1602-1605
+3. Mahuran, D. J., Neote, K., Klavins, M. H., Leung, A., and Gravel,
+R. A. (1988) J. Bwl. Chem. 2 6 3 , 4612-4618
+4. Quon, D. V. K., Proia, R. L., Fowler, A. V., Bleibaum, J., and
+Neufeld, E. F. (1989) J. Biol. Chem. 264, 3380-3384
+5. Hubbes, M., Callahan, J., Gravel, R., and Mahuran, D. (1989)
+FEBS Lett. 2 4 9 , 316-320
+6. Gilbert, F., Kucherlapati, R., Creagan, R. P., Murnane, M. J.,
+Darlington, G. J., and Ruddle, F. H. (1975) Proc. Natl. Acad.
+Sci. U. S. A. 7 2 , 263-267
+7. Lalley, P. A., Rattazzi, M. C., and Show, T. B. (1974) Proc. Natl.
+Acad. Sci. U. S. A. 7 1 , 1569-1573
+8. O’Dowd, B. F., Quan, F., Willard, H. F., Lamhonwah, A.-M.,
+Korneluk, R. G., Lowden, J. A., Gravel, R. A., and Mahuran,
+D. J. (1985) Proc. Natl. Acad. Sci. U. S. A. 8 2 , 1184-1188
+9. Myerowitz, R., Piekarz, R., Neufeld, E. F., Shows, T. B., and
+Suzuki, K. (1985) Proc. Natl. Acad. Sci. U. S. A . 82,7830-7834
+10. Korneluk, R. G., Mahuran, D. J., Neote, K., Klavins, M. H.,
+O’Dowd, B. F., Tropak, M., Willard, H. F., Anderson, M.-J.,
+Lowden, J. A., and Gravel, R. A. (1986) J. Biol. Chem. 2 6 1 ,
+8407-8413
+11. Proia, R. L. (1988) Proc. Natl. Acad. Sci. U. S. A. 8 5 , 1883-1887
+12. Neote, K., Bapat, B., Dumbrille-Ross, A., Troxel, C., Schuster,
+S. M., Mahuran, D. J., and Gravel, R. A. (1988) Genomics 3,
+279-286
+13. Conzelmann, E., and Sandhoff, K. (1979) Hoppe-Seyler’s 2. Physiol. Chem. 360,1837-1849
+14. Kytzia, H.-J., Hinrichs, U., and Sandhoff, K. (1984) Hum. Genet.
+67,414-418
+15. Bikker, H., van den Berg, F. M., Wolterman, R. A., de Vijlder, J.
+J. M., and Bolhuis, P. A. (1989) Hum. Genet. 81, 287-288
+16. Neote, K., McInnes, B., Mahuran, D. J., and Gravel, R. A. (1990)
+J. Clin Invest. 8 6 , 1524-1531
+17. Nakano, T., and Suzuki, K. (1989) J. Biol. Chem. 264, 51555158
+18. Dlott, B., d’Azzo, A., Quon, D. V. K., and Neufeld, E. F. (1990)
+J . Bwl. Chem. 265,17921-17927
+19. Wakamatsu, N., Tsuji, S., Nakano, R., Yamauchi, T., Harayama,
+H., Matsumura, G., Ito, M., and Miyatake, T. (1988) Am J.
+Hum. Genet. 4 3 , A74
+20. Wakamatsu, N.,Miyatake, T., and Tsuji, S. (1990) Am. J.Hum.
+Genet. 4 7 , A169
+21. Chirgwin, J. M., Przybyla, A. E., MacDonald, R. J., and Rutter,
+W. J. (1979) Biochemistry 18,5294-5299
+22. Wahl, G. M., Stern, M., and Stark,G. R. (1979) Proc. Natl. Acad.
+Sci. U. S. A. 7 6 , 3683-3687
+23. Saiki, R. K., Gelfand, D.H., Stoffel, S., Schart, S. J., Higuchi,
+R., Horn, G. T., Mullis, K. B., and Erlich, H. A. (1988) Science
+239,487-491
+
+in
+Splicing Error Caused bySandhoff
+Exon Mutation
+24. Rappolee, D. A., Mark, D., Banda, M. J., and Werb, Z. (1988)
+Science 241,708-712
+25. Chen, E. Y., and Seeburg, P. H. (1985) DNA ( N Y ) 4, 165-170
+26. Okayama, H., and Berg, P. (1983) Mol. Cell. Biol. 3, 280-289
+27. Wigler, M., Pellicer, A., Silverstein, S., and Axel, R. (1978) Cell
+14, 725-731
+28.O’Dowd, B. F., Klavins,M. H., Willard, H. F., Gravel, R. A.,
+Lowden, J. A,, and Mahuran, D. J . (1986) J. Biol. Chem. 261,
+12680-12685
+29. Orkin, S. H., and Kazazian, H. H., Jr. (1984) Annu. Rev. Genet.
+18,131-171
+30. Kazazian, H. H., Jr., and Boehm, C. D. (1988) Blood 72, 11071116
+31. Orkin, S. H., Sexton, J. P., Goff, S. C., and Kazazian, H. H., Jr.
+(1983) J . Biol. Chem. 258, 7249-7251
+32. Antonarakis, S. E., Orkin, S. H., Cheng, T.-C., Scott, A. F.,
+Sexton, J. P., Trusko, S. P., Charache, S., and Kazazian, H.
+H., Jr. (1984) Proc. Natl. Acad. Sci. U. S. A. 81, 1154-1158
+33. Atweh, G. F., Anagnou, N. P., Shearin, J., Forget, B. G., and
+Kaufman, R.E. (1985) Nucleic Acids Res. 13, 777-790
+34. Mitchell, P. J., Urlaub, G., and Chasin, L. (1986) Mol. Cell. Biol.
+6,1926-1935
+35. Green, M. R. (1986) Annu. Rev. Genet. 20,671-708
+36. Padgett, R. A,, Grabowski, P. J., Konarska, M. M., Seiler, S., and
+Sharp, P. A. (1986) Annu. Rev. Biochem. 66,1119-1150
+37. Padanilam, B. J., and Huisman, T. H. J. (1986) Am. J.Hematol.
+22,259-263
+38. Cladaras, C., Hadzopoulou-Cladaras, M., Felber, B. K., Pavlakis,
+G., and Zannis, V. I. (1987) J. Biol. Chem. 262,2310-2315
+39. Sharp, P. A. (1987) Science 235, 766-771
+40. Tromp, G., and Prockop, D. J. (1988) Proc. Natl. Acad. Sci. U.S.
+A. 85,5254-5258
+41. Kuivaniemi, H., Sabol, C., Tromp, G., Sippola-Thiele, M., and
+Prockop, D. J. (1988) J. Biol. Chem. 263, 11407-11413
+42. Hedley, M. L., Rorman, J., and Tucker,P. W. (1989) J. Zmmunol.
+143,1018-1025
+43. Wong, C., Antonarakis, S. E., Goff, S. C., Orkin, S. H., Forget,
+B. G., Nathan, D. G., Giardina, P. J. V., and Kazazian, H. H.,
+Jr. (1989) Blood 73, 914-918
+44. Satokata, I., Tanaka, K., Miura, N., Miyamoto, I., Satoh, Y.,
+Kondo, S., and Okada, Y. (1990) Proc. Natl. Acad. Sci. U. S. A.
+87,9908-9912
+45. Carstens, R. P., Fenton, W. A., and Rosenberg, L. R. (1991) Am.
+J. Hum. Genet. 48,1105-1114
+46. Mules, E. H., Dowling, C. E., Peterson, M. B., Kazazian, H. H.,
+Jr., and Thomas, G. H. (1991) Am. J. Hum. Genet. 48, 11811185
+47. Spritz, R. A., Jagadeeswaran, P., Choudary, P. V., Biro, P. A.,
+Elder, J. T., Deriel, J. K., Manley, J. L., Gefter, M. L., Forget,
+
+48.
+49.
+50.
+51.
+52.
+53.
+54.
+55.
+56.
+57.
+58.
+59.
+60.
+61.
+62.
+63.
+64.
+65.
+66.
+67.
+68.
+69.
+70.
+71.
+72.
+73.
+74.
+75.
+76.
+
+Disease
+
+2413
+
+B. G., and Weissman, S. M. (1981) Proc. Natl. Acad. Sci. U. S.
+A. 78,2455-2459
+Westaway, D., and Williamson, R. (1981) Nucleic Acids Res. 9,
+1777-1788
+Mount, S. M. (1982) Nucleic Acids Res. 10,459-472
+Shapiro, M. B., and Senapathy, P. (1987) Nucleic Acids Res. 15,
+7155-7174
+Maniatis, T., and Reed, R. (1987) Nature 325, 673-678
+Sharp, P. A. (1987) Harvey Lect. 81, 1-31
+Ruskin, B., and Green, M. R. (1985) Nature 317, 732-734
+Black, D. L., Chabot, B., and Steitz, J. A. (1985) Cell 42, 737750
+Bindereif, A., and Green, M. R. (1987) EMBO J. 6, 2415-2424
+Chabot, B., Black, D.L., LeMaster, D. M., and Steitz,J . A. (1985)
+Science 230, 1344-1349
+Choi, Y. D., Grabowski, P. J., Sharp, P. A., and Dreyfuss, G.
+(1986) Science 231, 1534-1539
+Tazi, J., Alibert, C., Temsamani, J., Reveillaud, I., Cathala, G.,
+Brunel, C., and Jeanteur, P. (1986) Cell 47, 755-766
+Gerke, V., and Steitz, J. A. (1986) Cell 47, 973-984
+Ruskin, B., Zamore, P. D., and Green,M. R. (1988) Cell 52,207219
+Swanson, M. S., and Dreyfuss, G. (1988) EMBO J. 7,3519-3529
+Garcia-Blanco, M. A., Jamison, S. F., and Sharp, P. A. (1989)
+Genes Dev. 3,1874-1886
+Somasekhar, M. B., and Mertz, J. E. (1985) Nucleic Acids Res.
+13,5591-5609
+Reed, R., and Maniatis, T. (1986) Cell 46,681-690
+Furdon, P. J., and Kole, R. (1988) Mol. Cell. Biol. 8,860-866
+Mardon, H. J., Sebastio, G., and Baralle, F. E. (1987) Nucleic
+Acids Res. 15,7725-7733
+Hampson, R. K., Follette, L. L., and Rottman, F. M. (1989) Mol.
+cell. Biol. 9, 1604-1610
+Fu, X.-D.. Katz, R. A.. Skalka, A. M., and Maniatis, T. (1991)
+Genes. Deu. 6,211-220
+Ligtenbere. M. J. L.. Gennissen. H. L. V.. Vos. H. L.. and Hilkens.
+5.(199G’Nucleic Acids Res. 19, 297-301 ’
+Solnick, D. (1985) Cell 43,667-676
+Eperon, L. P., Estibeiro, J. P., and Eperon, 1. C. (1986) Nature
+324,280-282
+Eperon, L. P., Graham, I. R., Griffiths, A. D., and Eperon, I. C.
+(1988) Cell 64, 393-401
+Solnick, D., and Lee, S. I. (1987) Mol. Cell. Biol. 7, 3194-3198
+Halfter, H., and Gallwitz, D. (1988) Nucleic Acids Res. 16, 1041310423
+Chebli, K., Gattoni, R., Schmitt, P., Hildwein, G., and Stevenin,
+J. (1989) Mol. Cell. Biol. 9, 4852-4861
+Watakabe, A., Inoue, K., Sakamoto, H., and Shimura, Y. (1989)
+Nucleic Acids Res. 17, 8159-8169
+
+

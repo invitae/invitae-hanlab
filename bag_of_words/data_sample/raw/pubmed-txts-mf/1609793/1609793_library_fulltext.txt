@@ -1,0 +1,1239 @@
+Am. J. Hum. Genet. 51:143-lS5, 1992
+
+Replacement of Arginine 773 by Cysteine or Histidine in the
+Human Androgen Receptor Causes Complete Androgen
+Insensitivity with Different Receptor Phenotypes
+Lynn Prior,*,t Sylvie Bordet,*,t Mark A. Trifiro,*It Anand Mhatre,*,t Morris Kaufman,*,t
+Leonard Pinsky,*,tt$,§ Klaus Wrogeman,II'# Denise D. Belsham,II Fred Pereira,II
+Cheryl Greenberg, # Jan Trapman, ** Albert 0. Brinkman, t t Chawnshang Chang,
+and Shutsung Liaott'§§
+*Lady Davis Institute, Sir M. B. Davis-Jewish General Hospital, and Departments of TBiology, tMedicine, and §Pediatrics, McGill University,
+Montreal; Departments of 1'Biochemistry and Molecular Biology, and #Human Genetics, University of Manitoba, Winnipeg;
+Departments of "Pathology, and ttEndocrinology and Reproduction, Erasmus University, Rotterdam; and $tBen May Institute,
+and §§Department of Biochemistry and Molecular Biology, University of Chicago, Chicago
+
+Summary
+We have discovered two different point mutations in a single codon of the X-linked androgen-receptor (AR)
+gene in two pairs of unrelated families who have complete androgen insensitivity (resistance) associated
+with different AR phenotypes in their genital skin fibroblasts. One mutation is a C-to-T transition at a CpG
+sequence near the 5' terminus of exon 6; it changes the sense of codon 773 from arginine to cysteine, ablates
+specific androgen-binding activity at 370C, and eliminates a unique KpnI site at the intron-exon boundary.
+The other mutation is a G-to-A transition that changes amino acid 773 to histidine and eliminates an SphI
+site. This mutant AR has a normal androgen-binding capacity at 370C but has a reduced affinity for androgens
+and is thermolabile in their presence. Transient transfection of COS cells with cDNA expression vectors
+yielded little androgen-binding activity at 370C from Arg773Cys and abundant activity with abnormal properties from Arg773His, thereby proving thepathogenicity of both sequence alterations. This conclusion
+coincides with the following facts about evolutionary preservation of the position homologous to Arg773 in
+the AR: it is occupied by Arg or lysine in the progesterone, glucocorticoid, and mineralocorticoid receptors,
+and it is within a 14-amino-acid region of their steroid-binding domains that share "-85% amino acid identity.
+Introduction
+Testosterone and Sct-dihydrotestosterone share primary responsibility for male sexual morphogenesis
+and for virilization at puberty (Wilson 1978). Their
+actions are mediated by the androgen receptor (AR),
+the product of a Xq12-linked gene (Brown et al.
+1989). The AR belongs to the superfamily of ligandactivated, transcription-regulating proteins whose
+DNA-binding domains, encoded by exons 2 and 3 (or
+Received October 14, 1991; revision received January 14, 1992.
+Address for correspondence and reprints: Leonard Pinsky,
+M.D., Lady Davis Institute, Sir M. B. Davis-Jewish General Hospital, 3755 Cote Saint Catherine Road, Montreal, Quebec H3T 1E2,
+Canada.
+i 1992 by The American Society of Human Genetics. All rights reserved.
+0002-9297/92/5101-0015$02.00
+
+B and C), share the "double-zinc-finger" motif (O'Malley 1990). Its carboxy-terminal androgen-binding domain, encoded by exons 4-8 (or D-H), shares ".'50%
+overall amino acid sequence homology with the
+steroid-binding domains of the receptors for progesterone, glucocorticoid, and mineralocorticoid (Chang
+et al. 1988; Lubahn et al. 1988; Kuiper et al. 1989;
+Tilley et al. 1989; Govindan 1990). These four steroid
+receptors form a subfamily within the superfamily.
+The stereochemistry that permits the AR to bind
+androgen selectively, and how an androgenic ligand
+contributes to the transcriptional regulatory attributes
+of an A-R complex are unknown. To help provide
+such information, we (Ris-Stalpers et al. 1990, 1991;
+Sai et al. 1990; Trifiro et al. 1991a, 1991b) and others
+(Brown et al. 1988, 1990; Marcelli et al. 1990a,
+1990b, 1991a, 1991 b; McPhaul et al. 1991) have be143
+
+144
+
+gun to use molecular-genetic techniques to study the
+AR of individuals and families who have different
+degrees of androgen insensitivity. Their clinical phenotypes vary from women with the syndrome of complete testicular feminization to men with mild undervirilization. In this paper we report two pairs of
+Canadian families with complete androgen insensitivity that share two different missense mutations at codon 773 in the androgen-binding domain of the AR.
+
+Prior et al.
+Cell Culture and Assay of Specific Androgen-binding Activity
+
+Subjects, Material, and Methods
+
+Labium majus skin fibroblast strains were developed after obtaining informed consent, according to
+an approved protocol. They and the COS-1 monkey
+kidney cells used as transfectants were maintained in
+Eagle's minimal essential medium (Earle's salts) supplemented with 5%-10% FCS, 1 mM pyruvate, 10
+mg garamycin/liter, 60 mg of penicillin G/liter, and
+60 mg of streptomycin/liter. The specific androgenbinding activity of monolayers in Petri dishes was
+quantitated and characterized according to the
+method described in detail by Gottlieb et al. (1987).
+
+The Propositae and Their Families
+
+DNA Isolation and Southern Analysis
+
+The mother of family 1 is French-Canadian. As reported by Pinsky et al. (1977), two of her 46,XY children have the typical clinicopathologic features of
+complete androgen insensitivity. Labium majus skin
+fibroblasts of the younger (coded here as LEL) have
+specific androgen-binding activity that is <5 fmol/mg
+protein, at 370C (i.e., were receptor negative). We
+were not permitted to study her sister, whose menarche was at age 18 years, or her three daughters, each
+of whom has apparently unaffected children.
+The mother of family 2 is English-Canadian. As
+recorded by Kaufman et al. (1976), her daughter
+(coded as TML) and two sisters have complete testicular feminization. TML's labium majus skin fibroblasts
+have specific androgen-binding activity that is <5
+fmol/ mg protein.
+The mother of family 3 is French-Canadian. As reported by Gottlieb et al. (1987), her daughter (coded
+as 30285) has the typical clinical, endocrine, and
+pathologic signs of complete androgen insensitivity.
+The AR in her genital skin fibroblasts has a normal
+binding capacity, but it has a decreased affinity for
+androgens and is unstable in their presence.
+The mother of family 4 is English-Canadian. She
+was born when her father was about 45 years old. Her
+only affected daughter (coded as 6779) presented at
+age 18 years with primary amenorrhea and sparse to
+absent sexual hair, despite otherwise normal pubertal
+feminization. Her peripheral lymphocyte karyotype
+was 46,XY. Intraabdominal exploration exposed two
+pelvic testes, histologically; the left had a nodule of
+Leydig cell hyperplasia, and the right was attached to
+a rudimentary fallopian tube. The androgen-binding
+activity in 6779's genital skin fibroblasts is described
+here for the first time (see Results).
+
+DNA was isolated from genital skin fibroblasts (Sai
+et al. 1990) or peripheral lymphocytes (Greenberg et
+al. 1987), precisely as described. Blots were obtained
+with either diazobenzyloxymethyl (DBM) paper (Alwine et al. 1979) or Hybond-N membrane. cDNA
+probes spanning the coding region were labeled to a
+specific activity >5 x 108 cpm / gg, by random priming (Feinberg and Vogelstein 1983).
+RNA Isolation and Northern Analysis
+
+RNA was isolated from genital skin fibroblasts by
+the guanidinium isothiocyanate method, precisely according to the method described by Sai et al. (1990).
+Poly(A + ) RNA was isolated using the Fast Track Kit
+(Invitrogen), was fractionated on 1% agarose gels
+containing 2.2 M formaldehyde (Murphy and Dotzlaw 1989), was blotted onto DBM paper (Alwine et
+al. 1979), and was probed with a 0.7-kb AR cDNA,
+overlapping its DNA- and androgen-binding domains
+(Trifiro et al. 1991a).
+Reverse Transcription (RT), PCR Amplification, and
+Sequencing of Androgen-binding Domain in the AR cDNA
+RT and PCR amplication of the portion of normal
+and LEL cDNA encoding the androgen-binding domain was carried out exactly according to the method
+described by Sai et al. (1990). Each product was
+blunt-ended by using T4 DNA polymerase, was digested with EcoRI, was separated on a 1.2% agarose
+gel, and was electroeluted. The fragments obtained
+were ligated with HinclI/EcoRI-digested Bluescript
+(SK) vectors (Stratagene) by using 2 units of T4 DNA
+ligase at 14°C for 18 h. The resulting plasmids
+(pSK.hAR and pSK.hARLEL) were transformed into
+
+XL1-Blue cells (Stratagene). After large-scale plasmid
+
+145
+
+Androgen Resistance: hAR Arg773Cys or His
+preparations, double-stranded DNA was sequenced
+by using both T7 and T3 primers, as described in the
+Sequenase kit (U.S. Biochemical).
+PCR Amplification of Genomic Exons
+
+For exons 2-8, we used conditions and sets of
+flanking intronic primers defined by Trifiro et al.
+(1991a). Exon 1 of LEL was amplified in sections
+according to the method described by Lubahn et al.
+(1989), with two modifications: (a) we used primer
+1. lB0 (5'GCTCTGGGACGCAACCTCTCTC) in
+place of their primer A2; and (b), for the GC-rich
+region encoding the glycine tract, we used VENT
+polymerase (New England Biolabs) as recommended,
+except for 5 mM Mg2+ and 50:150 gM dGTP:7deaza-dGTP (Innis 1990).
+Direct DNA Sequencing
+
+This was done exactly according to the method described by Trifiro et al. (1991b) for exons 2-8, and,
+for parts of exon 1, it was done by using primers (AlA8) described by Lubahn et al. (1989). In addition,
+we used our primers 1. lA (5'GTGGAAGATTCAGCCAAGCT) and 1.lb (5'TTGCTGTTCCTCATCCAGGA) for a region between primers A7 and A8.
+7-deaza-dGTP replaced dGTP for sequencing exon 1
+regions encoding the glutamine or glycine tracts.
+Construction of AR cDNA Expression Vector with Arg773Cys
+
+Both a 147-bp EcoRI-HincII fragment containing
+codon 773 from pSK.hARLEL and a 760-bp KpnIHinclI fragment from pGEM-3Z.hARo were ligated
+into a KpnI/partial EcoRI-digested fragment of pGEM3Z.hARo, to form pGEM-3Z.hARLEL. pSV.ARo is
+a pBR328-based, full-length hAR cDNA expression
+vector containing the SV40 early promoter and the
+rabbit 3-globin poly-A signal (Brinkmann et al. 1989).
+A 1,011-bp KpnI-PvuI fragment of it was replaced by
+a homologous insert from KpnI-PvuI-treated pGEM3Z.hARLEL containing codon 773. The exclusive
+presence of the C- T substitution was ascertained.
+Construction of AR cDNA Expression Vector with Arg773His
+
+Two opposite-sense 20-nucleotide oligonucleotides
+synthesized to contain the appropriate singlenucleotide substitution (sense: 5'AATGAGTACCACATGCACAA 3' and antisense: 5'TTGTGCATGTGGTACTCATT 3'). With normal hAR cDNA
+used as a template, separate PCRs were conducted: (a)
+the sense oligonucleotide with the downstream antiwere
+
+sense primer and (b) the antisense oligonucleotide with
+an upstream sense primer. The two products, containing
+upstream or downstream sequences, overlapped at the
+mutation site. They and the same up- and downstream
+primers, were used in a second PCR. The single product was cleaved with ScaI and BstBI to yield a mutated
+276-bp fragment that was ligated into the ScaI-BstBItreated expression vector, pBSV.hARo, a form of
+pSV.hARo modified to contain a unique BstBI site.
+Recombinant clones were tested for resistance to SphI
+digestion and were sequenced for exclusivity.
+Construction of the MMTV.GH Reporter Plasmid
+
+pMMTV.CAT (Miesfeld et al. 1986), obtained
+from J. Drouin (Montreal), was digested with NheI
+and HindIII to yield a 1,447-bp fragment containing
+its long-terminal repeat (LTR). p4GH, a pUC12 vector (Nichols Institute, Los Angeles) containing the human growth hormone (hGH) gene, was digested with
+XbaI and HindIII. The LTR fragment was ligated cohesively into p4GH because NheI and XbaI ends are
+sticky. The resulting reporter construct puts the hGH
+gene under the regulatory influence of four glucocorticoid/progesterone/androgen response elements
+from the LTR of the MMTV.
+Transfection of COS- I Cells by Electroporation
+
+COS-1 cells were washed and resuspended in icecold PBS to a concentration of 20 million/ml. A 0.5ml portion of the cell suspension was transferred to a
+sterile, cold cuvette (electrode gap 0.4 cm; Bio-Rad),
+10-20 gg of plasmid DNA were added, and the mixture was incubated on ice for 5 min. The shock parameters were 250 V, 960 RF, and 35 ms. After a 10-min,
+postshock incubation on ice, the cells in each cuvette
+were resuspended in 1.5 ml of medium (if more than
+one cuvette was used, the suspensions were fused),
+and 0.5 million cells were placed in each 35-mm petri
+dish.
+At specified times after transfection, various concentrations of androgen were added to the medium,
+the specific androgen-binding activity in the cells was
+characterized, and, when applicable, the concentration of growth hormone in the medium was measured
+radioimmunometrically as recommended by the assay
+kit (Nichols Institute, Los Angeles).
+Western Analysis of the AR in Transfected COS- I Cells
+Confluent monolayers ("'5 million cells) in 60-mm
+petri dishes were washed twice with PBS and were
+
+Prior et al.
+
+146
+
+lysed with 80 il of 50 mM Tris-HCl (pH 6.8) containing 10% glycerol, 2% SDS, 100 mM DTT, and
+100 gg of phenylmethylsulfonyl fluoride/ ml. Thereafter, preparation of the cell extracts, SDS-PAGE, western transfer, by electroblotting, and blocking were
+performed according to the methods described by
+Sambrook et al. (1989). The nitrocellulose filters were
+incubated overnight at 4°C, with a monoclonal antibody (F39.41) to a peptide (SP61) corresponding to
+amino acids 301-320 in the N-terminal portion of the
+hAR (Zegers et al. 1991). The antibody was diluted
+1/400 in 10 mM Tris HCl (pH 7.5) and 150 mM
+NaCl (Tris-buffered saline, [TBS]). After three washes
+in TBS, the filters were incubated with a 1 / 1,000 dilution of horseradish peroxidase-rabbit anti-mouse immunoglobulin G for 1 h at room temperature. After
+three more washes each in TBS with and without 0.5 %
+Tween-20, the blots were developed with 4-chloro-1naphthanol in the presence of H202 for 15 min.
+
+Results
+Androgen-binding Activity
+
+The genital skin fibroblasts of LEL (family 1) and
+TML (family 2) had negligible specific androgenbinding activity (i.e., receptor negative) at 37°C, as
+previously reported by Kaufman et al. (1976) and Pin-
+
+sky et al. (1977). In contrast, those of 30285 (family
+3) and 6779 (family 4) had activities in the normal
+range (12-50 fmol/mg protein). The AR in 30285's
+fibroblasts had previously been reported (a) to have a
+subnormal affinity for androgen, by both Scatchard
+analysis and off-rate analysis, (b) to form thermolabile
+A-R complexes, and (c) to resist up-regulation during
+prolonged incubation with the nonmetabolizable androgens, mibolerone, and methyltrienolone (Gottlieb
+et al. 1987). The cells of 6779 also failed to up-regulate, and they formed A-R complexes that dissociated
+at abnormally fast rates, identical to those of 30285
+
+(fig. 1).
+Identification of the Mutations
+
+Major AR gene disruption was ruled out, both by
+Southern analysis after digestion with BamHI, EcoRI,
+and HindIII and the use of various cDNA probes
+(Trifiro et al. 1991a) and by northern analysis that
+revealed normal amounts of an "-'10-kb AR mRNA in
+the fibroblasts of LEL and 6779 (fig. 2).
+The Arg773Cys mutation. - Reflecting a C-to-T transition (fig. 3), this mutation was identified first in LEL by
+indirect sequencing of the androgen-binding domain
+(exons 4-8) after PCR amplification of her cDNA. It
+was confirmed by directly sequencing both strands of
+PCR-amplified genomic exon 6 (fig. 4). Its apparent
+uniqueness was demonstrated by sequencing exons
+1-4 in like manner.
+
+0)
+
+ct
+n
+0._
+
+CD
+
+E
+
+0
+0
+
+0
+
+0)
+C)
+0)
+0
+
+CL
+CL
+a)
+
+0
+
+0
+
+30
+
+60
+
+90
+
+120
+
+0
+
+30
+
+60
+
+90
+
+120
+
+0
+
+30
+
+60
+
+90
+
+120
+
+Time (minutes) at 320C
+Rates of dissociation, at 32°C, of MB-, 5a-dihydrotestosterone (DHT)-, and methyltrienolone (MT)-receptor complexes
+Figure I
+in genital skin fibroblasts of subjects 30285 and 6779 and of a control. The cells had been incubated with 3 nM of the indicated androgen
+for 2 h at 37°C. The 0-time specific androgen-binding values were 22, 18, and 26 fmol/mg protein in 30285 ( x), 6779 (0), and the control
+
+(-), respectively.
+
+Androgen Resistance: hAR Arg773Cys or His
+
+147
+Kpnl analysis of the Arg773Cys mutation. -The nucleotide alteration predicted ablation of a unique KpnI
+restriction site at the intron 5-exon 6 boundary (fig.
+4). Southern analysis of KpnI-digested genomic DNA
+uncovered only TML among 11 unrelated subjects
+with complete androgen insensitivity. She and LEL
+have a band of "415 kb in place of ones at "410 and
+5-kb (fig. 5). KpnI digestion of PCR-amplified exon 6
+showed that the affected sister of LEL had only KpnIresistant exon 6 in her peripheral lymphocyte DNA
+(fig. 6, left panel). It is surprising that two different
+samples of their mother's DNA yielded only KpnIsensitive exon 6. Hence, she is a somatic-germ cell
+mosaic. We were not permitted to pursue this. TML's
+mother, also an obligate heterozygote, does have the
+two fragments representing KpnI sensitivity of the normal exon 6 allele (fig. 6, right panel).
+The Arg773His mutation. -Representing a G-to-A
+transition (figs. 4 and 7, top), this mutation was discovered in both 30285 (family 3) and 6779 (family
+4) by direct sequencing of PCR-amplified exon 6. Its
+uniqueness was defined by sequencing the other exons
+and not finding any abnormality in them.
+Sphl analysis of the Arg773His mutation. -The nucleotide alteration predicted ablation of an SphI site (fig.
+4). As expected (fig. 7, bottom), 30285 only had the
+parental product of PCR-amplified exon 6, and we
+discovered that her mother was probably heterozygous: her DNA had the mutant SphI-resistant allele
+
+MCH6
+
+DB(1 3082)
+
+WPO9
+LNCaP
+
+6779
+NHL
+
+LEL
+
+Northern analysis of the AR mRNA in genital skin
+Figure 2
+fibroblasts of a control, MCH-6; LEL and 6779, two propositae in
+the present paper; DB (13082), a subject with complete androgen
+insensitivity (CAI) due to a premature translation termination signal
+(Trifiro et al. 1991b); and NHL, a subject with CAI whose mutation
+is not known. WPO9 is a control nongenital skin fibroblast line that
+expresses the AR weakly. LNCaP is a carcinoma of the prostate cell
+line that overexpresses the AR. AR mRNA was detected with a
+0.7-kb fragment of the AR cDNA that is identified as probe hAR-1
+by Trifiro et al. (1991a). Actin (2 kb) was measured with a fulllength chicken O-actin cDNA probe (Cleveland et al. 1980).
+
+C-terminus
+
+/C
+A
+
+G ATC
+
+775
+His
+
+-C
+A
+-
+
+/GS
+
+T
+
+Met
+
+C
+
+G ATC
+
+T
+
+-C
+G Arg Cys G
+*
+
+CA
+T_
+G
+G
+A
+
+Control
+
+o
+
+c
+c
+
+Tyr
+772
+u
+
+-C
+A
+T
+G
+G
+
+I
+
+N-terminal
+intron
+
+A
+C
+c
+c
+
+LEL/TML
+
+Figure 3
+Sequence ladder exposing the C-T transition that causes Arg773Cys. The same codon is numbered 774 by Brown et al.
+(1990), 775 by Tilley et al. (1990), and 772 by Marcelli et al. (1991a).
+
+Prior et al.
+
+148
+
+CAATCAGAGACATTCCTCTGGGCTTATTGTAAACTTCCCCTCATTCCTTTTTCCTCTGTGTATCTCCTTCC
+primerA -
+
+Cys
+
+TA -> His
+
+KpnI i4
+
+Sph I
+
+CAG G TAC CGC ATG CAC AAG TCC CGG ATG TAC AGC CAG TGT
+u Tyr Arg Met His Lys Ser Arg Met Tyr Ser Gln Cys
+773
+
+GTC CGA ATG AGG CAC CTC TCT CAA GAG TTT GGA TGG CTC
+Val Arg Met Arg His Leu Ser Gln Glu Phe Gly Trp Leu
+CAA ATC ACC CCC CAG GAA TTC CTG TGC ATG AAA GCA CTG
+Gln Ile Thr Pro Gln Glu Phe Leu Cys Met Lys Ala Leu
+CTA CTC TTC AGC ATT A GTAAGTGCCTAGAAGTGCAGGGAATGCCCCCTGAGGGCAC
+Leu Leu Phe Ser Ile I
+AGAGATTCAGAGAGGACCACT
+<- primer B
+
+Amino acid and nucleotide sequence of exon 6 of the AR, with flanking intronic sequences. The primers used for PCR
+Figure 4
+amplification are shown. The C-T and G-A transitions and their resulting amino acid substitutions are indicated in boldface. The respective
+ablated restriction sites are underlined.
+
+and the two fragments representing the normal, SphIsensitive allele. Direct sequencing confirmed this (fig.
+7, top). We have had no opportunity to study 6779's
+mother.
+0)~~~0
+
+110)
+
+1-
+
+Z
+
+4
+
+0)
+
+w
+
+..iO
+
+aO
+
+Southern analysis of KpnI-digested genital skin fiFigure 5
+broblast genomic DNA with the 0.7-kb hAR cDNA probe (see fig.
+2). LEL and TML share the Arg773Cys mutation. 6779 has the
+Arg773His mutation. The remainder are unrelated propositae with
+complete androgen insensitivity.
+
+Expression of Mutant AR cDNAs and Transactivational
+Activity of Mutant ARs
+
+When pSVhAR.LEL (Arg773Cys) is transfected
+into COS-1 cells, they acquire a normal amount of AR
+protein (fig. 8), but their A-R complexes dissociate 15
+times faster than normal, even at 220C, and they have
+a low specific androgen-binding activity that is profoundly thermolabile (table 1). Furthermore, when incubated with 3 nM mibolerone (MB) after cotransfection with pMMTV.GH, insignificant amounts of GH
+are produced (table 2).
+When pSVhAR.30285 (Arg773His) is transfected
+into COS-1 cells, they acquire abundant androgenbinding activity because of an AR with a lower than
+normal affinity for androgen (figs. 9 and 10). When
+cotransfected with pMMTV.GH and incubated for
+72 h with <6.4 nM MB, they reached maximal GH
+production at 3.2 nM; replicates transfected with the
+normal AR cDNA needed <1 nM (fig. 11, left). We
+also measured the androgen-binding activity of
+transfected COS-1 cells after (a) continuous incubation with various concentrations of MB for 72 h ("regulated") or (b) incubation for only 2 h, at 70-72 h
+
+149
+
+Androgen Resistance: hAR Arg773Cys or His
+
+bp
+
+3
+
+4
+
+5
+
+6
+
+bp
+
+bp
+
+1
+
+2
+
+3
+
+4
+
+5
+
+bp
+
+6
+-
+
+242190
+147 _
+141
+
+-
+
+603
+
+266
+188
+-310 281
+
+266
+
+110-
+
+271
+-
+
+188-
+
+234
+
+-194
+
+78
+
+67-
+
+118
+
+78-72
+
+PAGE (8%) analysis after KpnI digestion of PCR-amplified exon 6. Left panel, LEL (lane 5), her older affected sister (lane
+Figure 6
+4), her mother (lanes 2 and 3), and her father (lane 6). The size standards (lanes 1 and 7) were generated by HpaII digestion of pGEM-4Z.
+Right panel, TML before (lane 2) and after (lane 3) exposure to KpnI, her mother (lane 4), and an unrelated female (lane 5). The size
+standards (lanes 1 and 6) were generated by HaeIII digestion of OX174RF.
+
+after transfection ("basal"). The COS-1 cells had
+'v2,000 fmol of "basal" binding activity/mg protein,
+at 6.4 nM MB, whether transfected with the normal
+or mutant AR cDNA (fig. 11, right); however, during
+prolonged incubation with MB, the normal binding
+activity went up, while the mutant's went down.
+Discussion
+A fully sequenced hAR cDNA, knowledge of flanking intronic sequence, and PCR have enabled us to
+identify, in two pairs of unrelated families with complete androgen insensitivity, either a single C- T transition or a single G- A transition in codon 773 (CGC)
+of exon 6 (or exon G), a transition that changes its
+sense from Arg to Cys (TGC) or His (CAC), respectively. Strong circumstantial evidence pointed to the
+pathogenicity of these substitutions. First, we did not
+find either substitution in the AR of 10 normal X chromosomes or in conjunction with another proved or
+putative pathogenic sequence alteration in any of 39
+other families with complete or partial androgen in-
+
+sensitivity. Second, the positions homologous to AR
+Arg773 are occupied by Arg or Lys in the three other
+receptors of the AR subfamily, and it is in a region of
+the androgen-binding domain of the AR that shares
+85% amino acid identity with the homologous region
+in their respective steroid-binding domains. Third,
+Arg differs markedly from Cys or His, physiocochemically.
+To prove pathogenicity, we created recombinant
+hAR cDNA expression vectors containing each of the
+transitions, and we transiently transfected one or the
+other into COS-1 cells. At 37°C the AR made in these
+cells had either barely measurable androgen-binding
+activity (Arg773Cys) or an abundant amount of an
+abnormal form of it (Arg773His). These results
+matched those for genital skin fibroblasts of the subjects. Furthermore, the Arg773His AR required a
+higher concentration of androgen to achieve the same
+maximum GH reporter gene response as was achieved
+by the normal AR. This could be explained easily both
+by its decreased affinity for androgen and by the increased turnover of its A-R complexes in the pro-
+
+GATC
+
+o
+His
+
+G ATC
+
+GATC
+
+G ATC
+
+1
+A
+
+A
+
+[s
+772 L o
+1A*,
+PGA
+
+His
+
+T2
+
+L u]
+
+C
+Gi*G
+~~~~~~~~~~G1 Ar
+
+'S-T-?
+
+T
+
+Tr7A
+
+772
+
+A
+
+G
+
+C
+C
+
+C
+C
+
+603~~~~~~~~~~~~7
+
+Top, Sequence ladders showing the G-A transition that causes Arg773His in 30285, her mother's heterozygosity, and her
+Figure 7
+sister's normality. Bottom, PAGE analysis of PCR-amplified exon 6 after exposure to 30X SphI. Shown are 30285's mutant, resistant allele
+(lane 2), her mother's sensitive normal allele and its mutant counterpart (lane 3), hemizygosity for the normal allele (lane 4), and homozygosity
+for the normal allele (lane 5).
+
+Androgen Resistance: hAR Arg773Cys or His
+n
+
+2
+
+3
+
+4
+
+6
+
+5
+
+7
+
+151
+1000
+
+8
+
+kDa
+-97.4
+
+(I
+
+CD
+
+-
+
+68
+
+Figure 8
+Western analysis of the - 1 10-kDa AR protein expressed in COS-1 cells at various times after transfection with
+pSVhAR or pSVhAR.LEL (Arg773Cys). Shown are an LEL sample
+at 48 h (lane 1), 72 h (lane 2), and 96 h (lane 3) and a normal sample
+at 48 h (lane 4), 72 h (lane 5), and 96 h (lane 6). Also shown is an
+equal (i.e., 450-.g) sample of protein from replicate, mocktransfected COS-1 cells (lane 0) and samples taken from a duplicate
+experiment (lanes 7 and 8) to indicate the size of the AR protein
+relative to the standards: phosphorylase b, 97.4 kDa; and BSA 68
+kDa.
+
+0
+UL
+
+0
+
+0
+
+200
+
+400
+
+600
+
+800
+
+MB bound (fmol/mg protein)
+
+Scatchard analysis ofthe specific MB-binding activFigure 9
+ity in COS-1 cells transfected with pSVhAR or pSVhAR.Arg773His.
+
+Table I
+Effect of Labeling Temperature on the Specific
+MB-binding Activity in COS-I Cells Transfected
+with Normal or Arg773Cys Expression Plasmid
+MB-BINDING ACTIVITY
+
+(fmol/mg protein)
+
+EXPERIMENT AND
+
+TEMPERATURE
+
+Normal
+
+Mutant
+
+1:
+
+370C ...............
+220C ...............
+40C ...............
+
+530
+230
+
+22
+93
+
+134
+
+56
+
+1,250
+
+45
+217
+
+2:
+370C ...............
+220C ...............
+
+567
+
+NOTE. - Replicate cell cultures were labeled, 96 h after transfection, with 3 nM [3H]MB alone or together with 0.6 gM MB at the
+indicated temperatures, either for 4 h (in experiment 1) or 6 h (in
+experiment 2). The data are corrected both for the specific
+androgen-binding activity measurable in mock-transfected cells at
+each labeling temperature and for transfection efficiency when
+pCMV-13-gal is used.
+
+Table 2
+Results of Cotransfection of COS-1 Cells with
+pMMTV.GH and pSVhAR or pSVhAR.LEL
+(Arg773Cys) in the Presence or Absence of 3
+nM MB for 48 h at 370C
+
+Cotransfection with
+pMMTV.GH
+
+(pg/mg protein)
+
+LEL:
+MB absent ............
+MB present ...........
+
+...
+
+hAR:
+MB absent ............
+MB present ...........
+
+...
+510
+
+Amount of
+MB Bound
+(finol/mg protein)
+
+GH
+
+...
+
+12
+
+6
+
+1,419
+1,231
+
+longed presence of androgen. In addition, the intrinsic
+transactivational competence of these complexes may
+be subnormal.
+The strikingly different mutant AR phenotypes of
+the two codon 773 substitutions will help to elucidate
+several physicochemical properties of the AR. For instance, Arg773Cys may disrupt androgen binding and
+retention more, and may cause greater AR thermolability, than does Arg773His, because Cys forms intramolecular disulfide bonds (Wilson et al. 1986).
+Marcelli et al. (1991la) compared a natural Cys substitution with an artificial methionine one at Arg773.
+In extracts of transfected cells, both caused thermal
+instability of androgen binding, but only the former
+affected its affinity. It should be noted that the genital
+skin fibroblasts of their subject with Arg773Cys appear to have a sevenfold-reduced steady-state level of
+AR mRNA, and they consider this a factor in the
+pathogenesis of their subject's clinical phenotype of
+complete androgen insensitivity, partly in view of the
+mutant's 4%-8% residual transactivational capacity
+as observed with the MMTV-CAT system. In contrast, we found normal levels of AR mRNA in the
+cells of subjects with either Arg773 mutation, and
+Arg773His produces complete androgen insensitivity
+while disturbing the androgen-binding function of the
+AR much less than does Arg773Cys.
+The AR needs Arg773 to support augmentation
+(up-regulation) of androgen-binding activity in normal genital skin fibroblasts during extended incubation with androgen (Kaufman et al. 1983; Gottlieb et
+al. 1987). The fact that prolonged androgen exposure
+
+Prior et al.
+
+152
+
+DHT
+
+MB
+"
+
+MT
+
+M
+
+QL ._:
+._o
+
+CD
+
+0(i
+' e)
+
+C
+
+E
+C
+
+0)a) CD~
+0 X
+
+-a)
+c
+
+o0
+
+Q-
+
+0
+
+50
+
+0
+
+50
+100
+150 0
+Time (min) at 340C
+
+150 0
+
+100
+
+50
+
+100
+
+150
+
+Figure I 0
+Rates of dissociation, and 340C, of MB-, DHT- and MT-receptor complexes formed in COS-1 cells transfected with
+pSVhAR (unblackened symbols) or pSVhAR.Arg773His (blackened symbols). In other experiments, the slower rate of dissociation of
+mutant MT-receptor complexes at 340C permitted observations at several time points that were perfectly coordinate with the single one
+shown here.
+
+augments androgen binding in COS-1 cells containing
+a normal hAR cDNA controlled by the SV40 early
+promoter affirms the view (Krongrad et al. 1991) that
+the mechanism is posttranscriptional, very probably
+by AR stabilization. Indeed, the loss of binding observed, under replicate conditions, when Arg773His
+is transfected instead indicates, in contrast, that formation of mutant A-R complexes destabilizes the AR.
+In this light, the intrinsic transregulatory competence
+of mutants such as Arg773His will only be measurable
+
+by systems of cotransfection or in vitro transcription
+that nullify-or, at least, weigh the complication ofmutant A-R complex instability.
+Both codon 773 mutations described here involved
+G:C-A:T transitions. This coincides with the propensity of cytosines at CpG dinucleotides to methylate
+and to spontaneously deaminate to thymines (Barker
+et al. 1984). That they are mutational hot spots is
+supported by our identification of four mutations at
+this site among the first 19 families with complete
+
+N
+CM
+
+x
+
+C)
+ai
+
+E0-
+
+a
+
+U
+
+Di
+
+0
+c
+0
+
+-C
+S
+0-
+
+0
+0
+
+E r0
+
+0
+
+'U
+CO
+
+0
+
+1
+
+2
+
+3
+
+4
+
+Mibolerone (nM)
+
+5
+
+6
+
+7
+
+3.2
+
+1.28
+
+0.64
+
+0.15
+
+0.1
+
+Milbolerone (nM)
+AR
+in COS-1 cells cotransfected
+of
+normal
+I
+I
+of
+the
+transactivational
+versus
+the
+mutant
+(Arg773His)
+competence
+Figure
+Analysis
+with pMMTV.GH, and incubated with MB for 72 h. Left, GH production in relation to mibolerone concentration. * = Normal; and
+0 = R773H. Right, Effect of prolonged incubation with mibolerone on the specific androgen-binding activity of the normal and mutant
+AR. * = Normal, 2 h; M = normal, 72 h; U = 30285, 2 h; and 1 = 30285, 72 h.
+
+Androgen Resistance: hAR Arg773Cys or His
+androgen insensitivity in whom we have defined AR
+mutations. Indeed, of all such mutations known, Arg773Cys has been among the earliest to be reported
+from the United States (Brown et al. 1990; Tilley et
+al. 1990), France (Mebarki et al. 1990), and Canada
+(Trifiro et al. 1989).
+Somatic and germinal mosaicism for single-gene
+mutations in humans has become well documented
+recently, thanks to the tools of molecular genetics. For
+X-linked disorders, affected males and females have
+been recognized (Maddalena et al. 1988; Gitschier et
+al. 1989; Bakker et al. 1989). The mother of family
+1 must be a somatic-germinal mosaic, because her peripheral lymphocyte DNA does not carry the Arg773Cys mutation, although she had two 46,XY daughters
+affected with it. Since her sister's menarche was delayed to age 18 years, which occasionally is a sign of
+heterozygosity due to random X-chromosome inactivation, it is probable that she herself was a heterozygous zygote whose mutant gene back-mutated (reverted) to the normal allele. Unfortunately, we were
+not permitted to prove this.
+Note added in proof. - We have discovered that the
+transfected Arg773Cys AR is thermostable at 370C in
+the absence of androgen and that its thermolability
+at 370C in the presence of androgen is reversible at
+220C.
+
+Acknowledgments
+We thank Rose Lumbroso, Carlos Alvarado, Rhona Rosenzweig, and Francine Busschaert for faithful assistance.
+This investigation was supported by the Medical Research
+Council of Canada Group Grant in Medical Genetics, by
+the Manitoba Health Research Council, by the Children's
+Hospital of Winnipeg Research Foundation, by the Netherlands Organization for Scientific Research, and by the U.S.
+National Institutes of Health.
+
+References
+Alwine JC, Kemp DJ, Parker BA, Reiser J, Renart J, Stark
+GR, Wahl GM (1979) Detection of specific RNAs or specific fragments of DNA by fractionation in gels and transfer to diazobenzyloxymethyl paper. Methods Enzymol
+68:220-242
+Bakker E, Veenema H, Den Dunnen JT, van Broeckhoven
+C, Grootscholten PM, Bonten EJ, van Ommen GJB, et al
+(1989) Germinal mosaicism increases the recurrence risk
+for "new" Duchenne muscular dystrophy mutations. J
+Med Genet 26:553-559
+
+153
+Barker D, Schafer M, White R (1984) Restriction sites containing CpG show a higher frequency of polymorphism in
+human DNA. Cell 36:131-138
+Brinkmann AO, Faber PW, van Rooij HCJ, Kuiper GGJM,
+Ris C, Klaassen P, van der Korput JAGM, et al (1989)
+The human androgen receptor: domain structure, genomic organization and regulation of expression. J Steroid
+Biochem 34:1-6
+Brown CJ, Goss SJ, Lubahn DB, Joseph DR, Wilson EM,
+French FS, Willard HF (1989) Androgen receptor locus
+on the human X chromosome: regional localization to
+Xq 1-12 and description of a DNA polymorphism. Am
+J Hum Genet 44:264-269
+Brown TR, Lubahn DB, Wilson EM, French FS, Migeon CJ,
+Corden JL (1990) Functional characterization of naturally
+occurring mutant androgen receptors from subjects with
+complete androgen insensitivity. Mol Endocrinol 4:17591772
+Brown TR, Lubahn DB, Wilson EM, Joseph DR, French
+FS, Migeon CJ (1988) Deletion of the steroid-binding domain of the human androgen receptor gene in one family
+with complete androgen insensitivity syndrome: evidence
+for further genetic heterogeneity in this syndrome. Proc
+Natl Acad Sci USA 85:8151-8155
+Chang C, Kokontis J, Liao S (1988) Structural analysis of
+complementary DNA and amino acid sequences of human
+and rat androgen receptors. Proc Natl Acad Sci USA 85:
+7211-7215
+Cleveland DW, Lopata MA, MacDonald RJ, Cowan NJ,
+Rutter WJ, Kirschner MW (1980) Number and evolutionary conservation of a- and IB-tubulin and cytoplasmic 0and y-actin genes using specific cloned cDNA probes. Cell
+20:95-105
+Feinberg AB, Vogelstein B (1983) A technique for radiolabelling DNA restriction endonuclease fragments to high
+specific activity. Anal Biochem 132:6-13
+Gitschier J, Levinson B, Lehesjoki AE, de la Chapelle A
+(1989) Mosaicism and sporadic hemophilia: implications
+for carrier determination. Lancet 1:273-274
+Govindan MV (1990) Specific region in hormone binding
+domain is essential for hormone binding and transactivation by human androgen receptor. Mol Endocrinol
+4:417-427
+Gottlieb B, Kaufman M, Pinsky L, Leboeuf G, Sotos JF
+(1987) Extracellular correction of the androgen-receptor
+transformation defect in two families with complete androgen resistance. J Steroid Biochem 28:279-284
+Greenberg CR, Hamerton JL, Nigh M, Wrogemann K
+(1987) DNA studies in a family with Duchenne muscular
+dystrophy and a deletion at Xp2l. Am J Hum Genet 41:
+128-137
+Innis MA (1990) PCR with 7-deaza-2'-deoxyguanosine. In:
+Innis MA, Gelfand DH, Sninsky JJ, White TJ (eds) PCR
+protocols: a guide to methods and applications. Academic
+Press, San Diego, pp 54-59
+Kaufman M, Pinsky L, Hollander R. BaileyJD (1983) Regu-
+
+154
+lation of the androgen receptor by androgen in normal
+and androgen-resistant genital skin fibroblasts. J Steroid
+Biochem 18:383-390
+Kaufman M, Straisfeld C, Pinsky L (1976) Male pseudohermaphroditism presumably due to target organ unresponsiveness to androgens. J Clin Invest 58:345-350
+Krongrad A, Wilson CM, Wilson JD, Allman DR, McPhaul
+MJ (1991) Androgen increases androgen receptor protein
+while decreasing receptor mRNA in LNCaP cells. Mol
+Cell Endocrinal 76:79-88
+Kuiper GGJM, Faber PW, van Rooij HCJ, van der Korput
+JAGM, Ris-Stalpers C, Klaassen P, Trapman J, et al
+(1989) Structural organization of the human androgen
+receptor gene. J Mol Endocrinol 2:R1-R4
+Lubahn DB, Brown TR, Simental JA, Higgs HN, Migeon
+CJ, Wilson EM, French FS (1989) Sequence of the intron/
+exon junctions of the coding region of the human androgen receptor gene and identification of a point mutation
+in a family with complete androgen insensitivity. Proc
+Natl Acad Sci USA 86:9534-9538
+Lubahn DB, Joseph DR, Sar M, Tan J, Higgs RN, Larson
+RE, French FS, et al (1988) The human androgen receptor: complementary deoxyribonucleic acid cloning, sequence analysis and gene expression in prostate. Mol Endocrinol 2:1265-1275
+McPhaul MJ, Marcelli M, Tilley WD, Griffin JE, IsidroGutierrez RF, WilsonJD (1991) Molecular basis of androgen resistance in a family with a qualitative abnormality
+of the androgen receptor and responsive to high-dose androgen therapy. J Clin Invest 87:1413-1421
+Maddalena A, Sosnoski DM, Berry GT, Nussbaum RL
+(1988) Mosaicism for an intragenic deletion in a boy with
+mild ornithine transcarbamylase deficiency. N Engl J Med
+319:999-1003
+Marcelli M, Tilley WD, Wilson CM, Griffin JE, Wilson JD,
+McPhaul MJ (1990a) Definition of the human androgen
+receptor gene structure permits the identification of mutations that cause androgen resistance: premature termination of the receptor protein at amino acid residue 588
+causes complete androgen resistance. Mol Endocrinol 4:
+1105-1116
+Marcelli M, Tilley WD, Wilson CM, Wilson JD, Griffin
+JE, McPhaul MJ (1 990b) A single nucleotide substitution
+introduces a premature termination codon into the androgen receptor gene of a patient with receptor-negative androgen resistance. J Clin Invest 85:1522-1528
+Marcelli M, Tilley WS, Zoppi S, Griffin JE, Wilson JD,
+McPhaul MJ (199 la) Androgen resistance associated with
+a mutation of the androgen receptor at amino acid 772
+(Arg-Cys) results from a combination of decreased messenger ribonucleic acid levels and impairment of receptor
+function. J Clin Endocrinol Metab 73:318-325
+Marcelli M, Zoppi S, Grino PB, Griffin JE, Wilson JD,
+McPhaul MJ (1991b) A mutation in the DNA-binding
+
+Prior et al.
+domain of the androgen receptor gene causes complete
+testicular feminization. J Clin Invest 87:1123-1126
+Mebarki E, Gasmi M, Forest MG, David M, Chatelain P,
+Morel Y (1990) Analysis of polymerase chain reaction
+(PCR)-amplified exons of the androgen receptor gene in
+14 patients with genetic androgen resistance. Paper presented at the 72d annual meeting of The Endocrine Society, Atlanta, June 20-23
+Miesfeld R. Rusconi S, Godowski PJ, Maler BA, Okret S,
+Wikstrom AC, Gustafsson JA, et al (1986) Genetic complementation of a glucocorticoid receptor deficiency by
+expression of cloned receptor cDNA. Cell 46:389-399
+Murphy LA, Dotzlaw H (1989) Regulation of transforming
+growth factor a and transforming growth factor 13 messenger ribonucleic acid abundance in T-47D, human breast
+cancer cells. Mol Endocrinol 3:611-617
+O'Malley BW (1990) The steroid receptor superfamily:
+more excitement predicted for the future. Mol Endocrinol
+4:363-369
+Pinsky L, Kaufman M, Lambert B, Faucher G, Rosenfeld R
+(1977) Male pseudohermaphroditism: diagnosis in cell
+culture. Can Med Assoc J 116:1274-1277
+Ris-Stalpers C, Kuiper GGJM, Faber PW, Schweikert HU,
+van Rooij HCJ, Zegers ND, Hodgins MB, et al (1990)
+Aberrant splicing of androgen receptor mRNA results in
+synthesis of a nonfunctional receptor protein in a patient
+with androgen insensitivity. Proc Natl Acad Sci USA 87:
+7866-7870
+Ris-Stalpers C, Trifiro MA, Kuiper GGJM, Jenster G, Romalo G, Sai T, van Rooij HCJ, et al (1991) Substitution of
+aspartic acid 686 by histidine or asparagine in the human
+androgen receptor leads to a functionally inactive protein
+with altered hormone-binding characteristics. Mol Endocrinol 5:1562-1569
+Sai T, Seino S, Chang C, Trifiro M, Pinsky L, Mhatre A,
+Kaufman M, et al (1990) An exonic point mutation of the
+androgen receptor gene in a family with complete androgen insensitivity. Am J Hum Genet 46:1095-1100
+Sambrook J, Fritsch EF, Maniatis T (1989) Detection and
+analysis of proteins expressed by cloned genes. In: Molecular cloning: a laboratory manual, 2d ed. Cold Spring
+Harbor Laboratory, Cold Spring Harbor, NY, pp 18.318.74
+Tilley WD, Marcelli M, GriffinJE (1990) Receptor-negative
+androgen resistance is caused by diverse abnormalities
+of the androgen receptor gene. Program, The Endocrine
+Society 72d annual meeting, Atlanta, June 20-23
+Tilley WD, Marcelli M, Wilson JD, McPhaul MJ (1989)
+Characterization and expression of a cDNA encoding the
+human androgen receptor. Proc Natl Acad Sci USA 86:
+327-331
+Trifiro M, Gottlieb B, Pinsky L, Kaufman M, Prior L, Belsham D, Wrogemann K, et al (1991a) The 56/58 kDa
+androgen-binding protein in male genital skin fibroblasts
+
+Androgen Resistance: hAR Arg773Cys or His
+with a deleted androgen receptor gene. Mol Cell Endocrinol 75:37-47
+Trifiro M, Prior L, Pinsky L, Kaufman M, Chang C, Trapman J, Brinkmann AO, et al (1989) A single transition at
+an exonic GpG site apparently abolishes androgen receptor (AR)-binding activity in a family with complete androgen insensitivity (CAI). Am J Hum Genet 45 [Suppl]:
+A225
+Trifiro M, Prior RL, Sabbaghian N, Pinsky L, Kaufman M,
+Nylen EG, Belsham DD, et al (1991b) Amber mutation
+creates a diagnostic MaeI site in the androgen receptor
+gene of a family with complete androgen insensitivity. Am
+J Med Genet 40:493-499
+
+155
+Wilson EM, Wright BT, Yarbrough WG (1986) The possible role of disulfide bond reduction in transformation of
+the 10 S androgen receptor. J Biol Chem 261:6501-6508
+Wilson JD (1978) Sexual differentiation. Annu Rev Physiol
+40:279-306
+Zegers ND, Claassen E, Neelen C, Mulder E, van Laar
+JH, Voorhorst MM, Berrevoets CA, et al (1991) Epitope
+prediction and confirmation for the human androgen receptor: generation of monoclonal antibodies for multiassay performance following the synthetic peptide strategy. Biochim Biophys Acta 1073:23-32
+
+

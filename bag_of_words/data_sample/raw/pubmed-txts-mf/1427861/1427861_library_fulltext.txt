@@ -1,0 +1,961 @@
+GENOMICS
+
+14, 474-480 (1992)
+
+The Human Galactose-l-phosphate Uridyltransferase Gene
+NANCY D. LESLIE,* ELISA B. IMMERMAN,* JAMES E. FLACH,t MAGDALENA FLOREZ,~
+JUDITH L. FRIDOVICH-KEIL,~AND LOUISJ. ELSAS~
+*Basic Science Research, Children's Hospital Research Foundation, Cincinnati, Ohio 45229; and tDivision of Medical Genetics,
+Department of Pediatrics, Emory University School of Medicine, Atlanta, Georgia 30322
+ReceivedApril 6, 1992; revised July 1, 1992
+
+detectable GALT activity is not fully explained by interC l a s s i c a l g a l a c t o s e m i a is an i n b o r n e r r o r o f m e t a b o vention in the neonatal period or adequacy of dietary
+lism caused by a deficiency of galactose-l-phosphate
+treatment (Waggoner et al., 1990).
+u r i d y l t r a n s f e r a s e ( G A L T ) . S t a n d a r d t r e a t m e n t w i t h diThe GALT gene has been cloned and sequenced from
+etary galactose restriction will reverse the potentially
+Escherichia coli (Lemaire and Mueller-Hill, 1986) and
+l e t h a l s y m p t o m s o f t h e d i s e a s e t h a t a r e m a n i f e s t in t h e
+yeast (Tajima et al., 1985). More recently, a human
+newborn period. However, the long-term prognosis for
+GALT cDNA was cloned (Reichardt and Berg, 1988)
+t h e s e p a t i e n t s is v a r i a b l e . A s a first s t e p t o w a r d i n v e s t i and characterized (Flach et al., 1990). The human GALT
+g a t i n g t h e m o l e c u l a r b a s i s f o r p h e n o t y p i c v a r i a t i o n in
+cDNA encodes a deduced protein sequence of 379 amino
+galactosemia, we have cloned and sequenced the entire
+acids. A comparison of the amino acid sequences of hugene for human galactose-1-phosphate uridyltransferman GALT with GALT from E. coli and yeast reveals an
+a s e . T h i s g e n e is o r g a n i z e d i n t o 11 e x o n s s p a n n i n g 4 k b .
+overall level of sequence identity among the three speI n e x o n s 6, 9, a n d a p o r t i o n o f 1 0 , t h e r e is a h i g h d e g r e e
+cies of 35% with many small regions of absolute identity
+o f a m i n o a c i d s e q u e n c e c o n s e r v a t i o n a m o n g Escheup to 13 amino acids in length (Reichardt and Berg,
+richia coli, y e a s t , m o u s e , a n d h u m a n . W e h a v e i d e n t i 1988; Flach et al., 1990). A few mutations have been
+fied a n u m b e r o f n u c l e o t i d e c h a n g e s in t h e G A L T g e n e s
+characterized in galactosemic patients using amplificaof galactosemic patients that alter conserved amino
+tion of cDNA from the RNA of lymphoblastoid cell lines
+a c i d s . T h e m o s t c o m m o n o f t h e s e is an A to G t r a n s i t i o n
+(Flach et al., 1990; Reichardt and Woo, 1991; Reichardt
+at n u c l e o t i d e p o s i t i o n 1 4 7 0 , c o n v e r t i n g a g l u t a m i n e to
+et
+al., 1991).
+an a r g i n i n e at a m i n o a c i d c o d o n p o s i t i o n 1 8 8 ( Q 1 8 8 R ) .
+To
+investigate genotypic variability in a large number
+Q 1 8 8 R is l o c a t e d in e x o n 6 in c l o s e p r o x i m i t y to t h e
+of
+patients
+with galactosemia, we have isolated and comp u t a t i v e e n z y m e c a t a l y t i c s i t e a n d w a s f o u n d in o v e r
+60% o f g a l a c t o s e m i a a l l e l e s t e s t e d . © 1992 Academic pletely sequenced the human GALT gene. Furthermore,
+
+we have developed a strategy for P C R amplification of
+the GALT gene from genomic DNA. Using this strategy,
+we have identified a mutation, Q188R, located in exon 6
+near the putative catalytic site of GALT that occurs in
+more than 60% of the GALT alleles tested from patients
+with classical galactosemia. A number of other less prevalent sequence changes are also described.
+
+Press, Inc.
+
+INTRODUCTION
+Classical galactosemia is a potentially lethal disease
+caused by a deficiency of galactose-l-phosphate uridyltransferase (GALT), the second enzyme in the Leloir
+pathway for the conversion of galactose to glucose. The
+clinical picture in newborns exposed to dietary galactose
+includes hepatocellular dysfunction, aminoaciduria, failure to thrive, cataracts, and sepsis (Segal, 1989). These
+symptoms can be reversed by prompt institution of dietary galactose restriction. However, the long-term
+prognosis for these children is clouded by the specter of
+mental retardation and verbal dyspraxia in patients of
+both sexes and primary ovarian failure in females (Waggoner et al., 1990).
+Investigation of GALT activity in humans has revealed a significant number of electrophoretic and activity variants. It appears that most patients lacking detectable GALT activity do produce some inactive protein
+(Banroques et aL, 1983). However, the variability in
+long-term outcome among patients with essentially no
+0888-7543/92 $5.00
+Copyright © 1992 by Academic Press, Inc.
+All rights of reproduction in any form reserved.
+
+MATERIALS
+
+AND METHODS
+
+Enzymes and biochemical reagents. Restriction endonucleases and
+DNA modifying enzymes were purchased from Boehringer-Mannheim, New England Biolabs, Inc., Bethesda Research Laboratories,
+and Promega. [a-85S]dATP (650 Ci/mmol), [a-a2p]dATP (3000 Ci/
+mmol), and [~-32p]ATP (6000 Ci/mmol) were obtained from D u P o n t /
+New England Nuclear. DNA purification matrix (Prep-A-Gene) was
+purchased from Bio-Rad and nucleic acid purification columns were
+obtained from Qiagen, Inc. Oligonucleotide primers were synthesized
+on an Applied Biosystems oligonucleotide synthesizer.
+Patient samples. Genomic DNA from white blood cells or lymphoblastoid cell lines was obtained from patients cared for in the Biochemical Genetics clinic at Children's Hospital Medical Center, Cincinnati,
+Ohio, and the Division of Medical Genetics, Emory University School
+of Medicine. A larger population of galactosemic patients was also
+screened by polymerase chain reaction and restriction enzyme analy-
+
+474
+
+HUMAN GALT GENE
+sis to determine the prevalence of certain sequence changes. DNA
+from these patients was contributed by genetic centers in Cincinnati,
+Atlanta, Oregon, and western Great Britain. All patients had wellcharacterized clinical phenotypes supported by enzymologic confirmation. Control DNA was obtained from phenotypically normal
+adults (all from Cincinnati) who were unrelated and had no family
+history of galactosemia. Patients and families gave informed consent
+to participate in this project and the work was approved by the Institutional Review Boards at Children's Hospital Medical Center and
+Emory University.
+Isolation of the human GALTgene. An EMBL 3 Sp6-T7 library of
+human placental genomic DNA (Clontech) was screened by in situ
+plaque hybridization (Benton and Davis, 1977) using a randomly labeled probe prepared from a 1000-bp XhoI fragment of hGALT pCD
+(Reichardt and Berg, 1988), provided by Juergen Reichardt. This
+probe included nucleotides encoding amino acid 114 through the polyadenylation site of the human GALT cDNA. The 5' end of the gene
+was isolated from a cosmid clone generously provided by Juergen Reichardt. This clone was originally isolated from a cosmid genomic library using a probe derived from the 5' end of hGALT pCD.
+Sequence analysis. DNA from phage isolates was subcloned into
+pBS S/K (Stratagene) and sequenced as double-stranded DNA with
+Sequenase (U.S. Biochemical). All nucleotides were determined on
+both coding and noncoding strands. Sequence analysis was performed
+using the Microgenie Software Program (Beckman).
+Identification of human GALT mutations. GenomicDNA was isofated from transformed lymphoblasts (Bird et al., 1981) or whole blood
+(Kawasaki, 1990) and subjected to amplification using two pairs of
+oligonucleotide primers. PCR primer pair i amplified a 1700-bp fragmerit extending from exon 1 (AACCTTCCGGGCAAACG)to intron
+G (GGGGACACAGGGCTTGGC).For each reaction, 1 ~g of genomic
+DNA was amplified in a 100-#1 volume containing 20 pmol of each
+primer, 2 mM MgCI~, 1 mM dNTPs, 50 mM KC1, 10 mM Tris. HC1,
+pH 8.4, 0.1 mg/ml gelatin, and 2.5 U Taq polymerase. Thirty cycles of
+amplification were carried out with the following thermal profile: 1
+min at 94°C, 2 rain at 55°C, and 2 rain at 72°C, with a final extension
+of 10 min at 72°C. The amplified DNA was modifiedwith Klenow and
+then digested with SacI; from the resulting three fragments, the 1040bp (exons 2-5) and the 380-bp (exons 6-7) fragments were gel purified
+and subcloned into pUC19. Plasmid DNA was isolated on Qiagen Tip
+20 followingthe manufacturer's recommendations and sequenced using vector or human GALT-specific oligonucleotide primers. PCR
+primer pair 2 amplified a 925-bp fragment extending from intron G
+(CTCCGGCTCCTATGTCAC) to intron J (CAACAGAAGTATCAGGTGCC), using the same reaction conditions and thermal profile
+as described above. Amplified DNA from primer pair 2 was directly
+subcloned into PCR 2000 (Invitrogen). Each mutation was characterized by sequencing three or more independent subclones or by restriction digestion and agarose gel electrophoresis of amplified DNA.
+RESULTS
+
+Isolation of the H u m a n G A L T Gene
+F r o m 5 X 105 phage plaques screened initially, 6 phage
+were plaque purified a n d f o u n d to c o n t a i n exon sequences s p a n n i n g from nucleotide 111 of the c D N A
+(Flach et al., 1990) to the p o l y a d e n y l a t i o n signal, along
+with 10-14 kb of 3' flanking sequence. T h e s e phage appeared to be identical b y S o u t h e r n analysis. Since we
+would have expected to find only one copy of the G A L T
+gene in 5 X 105 inserts of 13-20 kb in size, we a s s u m e d
+t h a t all 6 p h a g e r e p r e s e n t e d amplification of a single
+clone during c o n s t r u c t i o n of the library. T h e initial 5 X
+105 phage plus an additional 5 X 105 phage were again
+screened using a 300-bp X h o I f r a g m e n t of h G A L T p C D
+(encoding a m i n o acids 1-113), b u t no clones represent-
+
+475
+
+ing the 5' end of the gene were identified from this library. S o u t h e r n blots of genomic D N A (data n o t shown)
+suggested t h a t the missing nucleotides were located
+within 500 bp of the 5' end of the previously isolated
+phage. T o identify these sequences, we analyzed a cosmid clone generously provided b y J u e r g e n Reichardt.
+W e d e t e r m i n e d t h a t the cosmid a n d phage clones cont a i n e d overlapping regions of D N A b y c o m p a r i n g their
+restriction maps. Restriction f r a g m e n t s of the cosmid
+t h a t hybridized to a probe derived from the 5' end of the
+h u m a n G A L T c D N A were subcloned a n d sequenced. Sequence analysis revealed t h a t the cosmid clone cont a i n e d sequences derived from the 5' flanking region of
+the G A L T gene as well as the coding region for the first
+27 a m i n o acids of h u m a n G A L T .
+
+Structure of the H u m a n G A L T Gene
+T h e h u m a n G A L T gene consists of 11 exons separated
+by 10 i n t r o n s (Fig. 1). T h e gene is relatively small, spanning 3900 bp from the start of the published c D N A to its
+3' terminus. Figure 2 shows the nucleotide sequence of
+the entire h u m a n G A L T gene a n d the deduced a m i n o
+acid sequence of the h u m a n G A L T protein. All splice
+j u n c t i o n s followed the G T / A G rule. T h e respective sizes
+of the exons a n d introns are detailed in Table 1. T h e r e is
+a single A l u repeat in i n t r o n J. N o other repetitive regions were f o u n d nor were regions h o m o l o g o u s to o t h e r
+genes identified in a search of the Genetic Sequence
+D a t a Bank. T h e coding region of this gene agrees precisely with the published c D N A (Flach et al., 1990) except at codons 258 a n d 259. In the gene, the sequence at
+nucleotides 2146 t h r o u g h 2154 is C G T C G G C A T , with a
+deduced a m i n o acid sequence of A r g - A r g - H i s . A careful
+resequencing of the cloned G A L T c D N A confirmed t h a t
+this is also the correct sequence for the cDNA. It is therefore likely t h a t the misplaced C in the previously rep o r t e d c D N A sequence reflects a c o m p r e s s i o n artifact of
+sequencing.
+
+Variation of A m i n o Acid Sequence Homology
+in Different Exons
+T h e deduced a m i n o acid sequences of E. coli, yeast,
+mouse (N. Leslie, G e n B a n k Accession No. M96265),
+a n d h u m a n G A L T are highly conserved. T h e overall
+a m i n o acid identities with respect to h u m a n G A L T are
+46, 39, a n d 87% for E. coli, yeast, a n d mouse, respectively. However, a c o m p a r i s o n of G A L T sequences from
+these three species reveals long stretches of a m i n o acid
+sequence w i t h o u t m u c h a p p a r e n t homology. Analysis of
+the k n o w n a m i n o acid sequences by exons as defined in
+the h u m a n G A L T gene shows t h a t two of these, exon 6
+a n d exon 10, are strikingly well conserved, while others,
+e.g., 1, 2, 5, a n d 7, are poorly conserved with respect to
+overall a m i n o acid identity (Table 1). E x o n 1 is n o t a b l y
+different in h u m a n in t h a t an extra 18-20 a m i n o acids
+are p r e s e n t in the deduced h u m a n G A L T sequence. It is
+not k n o w n w h a t functional role these a m i n o acids play.
+T h e putative active site in E. coli G A L T , H i s - P r o - H i s
+
+476
+
+LESLIE E T AL.
+
+I
+
+II
+
+~o
+
+.~
+
+E c~
+
+~
+
+t:)_Q. X
+
+Z
+
+I~ m
+
+fEI
+
+III
+
+V
+
+IV
+
+VI
+
+VII
+
+Vlll
+
+~.
+
+IX
+
+X
+
+~
+
+.,~
+
+0_
+
+ft.
+
+XI
+
+0
+
+1.0
+
+2.0
+
+3.0
+
+4.0
+
+[
+
+I
+
+l
+
+I
+
+I
+
+NUCLEOTIDES (Kb)
+F I G . 1. Partial restriction m a p of the h u m a n G A L T gene. T h e exons (1) are numbered with R o m a n numerals. T h e introns are drawn as
+open boxes. T h e u n t r a n s l a t e d regions of the first a n d last exons are designated by hatched (m) regions. T h e SacI sites used in subcloning and the
+HpaII sites used in restriction analysis of m u t a t i o n s are enclosed in boxes.
+
+(Field et al., 1989), corresponds to an identical amino
+acid sequence in human G A L T exon 6. T h e amino acid
+sequence of this exon is conserved 100% between human
+and mouse and 79 or 74% between human and E. coli or
+human and yeast, respectively. T h e localization of other
+conserved amino acid patches within exon boundaries
+may suggest a domain structure delineating other functional elements in the G A L T protein.
+
+Sequence Changes in the Human GALT Gene
+Sequence analysis of amplified genomic DNA from 10
+patients with abnormal G A L T activity (6 classical galactosemic GG patients, 1 galactosemia-Duarte heterozygote, 1 Duarte homozygote, 1 Duarte carrier, and 1 compound heterozygote for galactosemia and the Los Angeles allele) revealed a variety of nucleotide changes
+leading to amino acid substitutions (Table 2). We identified a common sequence change, Q188R, in exon 6,
+very close to the putative active site (Fig. 2). This change
+was also recently reported by Reichardt and colleagues
+(1991). We observed t h a t this mutation results in the
+creation of a HpaII restriction enzyme site in the DNA
+sequence and designed a rapid detection method for
+Q188R based on this observation (Fig. 3). Using this
+method, we examined another 26 GG patients and found
+the Q188R mutation in 42 of the total 64 galactosemia
+alleles from GG patients. In contrast, this mutation was
+found in none of over 40 control alleles screened (Table
+3). Th e amino acid change N314D, first described by
+Reichardt and shown to have a neutral effect on enzyme
+activity in transfection studies (Reichardt and Woo,
+1991), was observed in 15% of G A L T alleles from random nongalactosemic controls. This sequence change
+was not seen in any GG patients but was found in all
+subjects with D alleles or LA alleles. Each of the other
+amino acid changes listed in Table 2 was found in only a
+single allele and represented the only amino acid change
+identified in the sequences examined (exons 2-10 along
+with at least 10 bp of intronic DNA flanking each exon).
+Therefore, our frequency data strongly support the designation of Q188R as a mutation and N314D as a polymorphism with possible linkage to Duarte or Los Angeles alleles. Two sequence changes, R333G and K334R,
+were particularly problematic because they occurred in
+individuals with electrophoretic genotypes t hat sug-
+
+gested compound heterozygosity (GD and G-Los Angeles). Both of these changes were amenable to restriction analysis: R333G deletes a HpaII site, K334R creates
+a HinfI site. We analyzed a number of DNA samples to
+determine whether these sequence changes could be
+found in individuals with similar genotypes or in controls. We found the changes only in the original patients
+and have designated t hem as candidate galactosemia
+mutations in Table 3.
+DISCUSSION
+In this paper, we have described the complete structure and sequence of the human G A L T gene and demonstrated a strategy for amplification of most of the gene
+using the polymerase chain reaction. Using this amplification strategy, we have isolated and studied G A L T sequences from a number of galactosemic patients. We
+have identified nucleotide changes t hat may account for
+the altered or absent G A L T enzyme function observed
+in these patients. In each of the 19 abnormal alleles studied by sequence analysis, we found one and only one
+candidate mutation. One such sequence change, Q188R,
+is particularly striking because of its frequency as well as
+its location two amino acids downstream of the H isP r o - H i s sequence t hat has been shown to be essential
+for catalytic function in E. coli GALT. In contrast, several of our amino acid changes are located in evolutionarily conserved regions distant from this presumed catalytic site. Determination of the effect of these changes
+on enzyme activity and stability should begin to allow
+the construction of a functional map of the human
+G A L T protein.
+From their analysis ofE. coli GALT, Field et al. (1989)
+noted that substitution of His 281 (corresponding to human His 300) and His 298 (corresponding to human His
+321) with asparagine residues conferred decreased but
+detectable G A L T activity. Both of these residues are located in conserved amino acid patches in human exons 9
+and 10. In this context, it will be interesting to determine
+if K285N also results in decreased but detectable G A L T
+activity.
+T he population surveyed in this study, which included
+15 patients homoallelic for Q188R, showed considerable
+variability in initial presentation. Many of the patients
+studied are too young to make any meaningful conclu-
+
+HUMAN GALT GENE
+
+477
+
+GAATTCCGGATCAAATGAATGATTGCAGCAAGCAAGTCCTGTAGGCATCCTGGAGCCCAAGGATTCTGCAGTAGGCAGCTTTCACAGAGGTTCTTCCAGTGTAGTGGCTCTAGCTCTGGG
+
+-206
+
+TGAAGTAGGATCATCAATGTCGGCCCCCAGGGTTCACAGCTGTTCTGAGCCCCGCCCCCTGGTGGCAGCCGACGGGAGTCAGTCAGTCACGTGCTGGCGGCTGGCCAATCATCGGGGGCG
+
+-86
+
+I) MetSerArgSerGlyThrAspProGlnGlnArgGln
+GCGCGGGGAGGGGTGGTGTGGA•GGAGAAAGTGAAAGGTGAGGCACGGC•CTGCAGATTTTCCAGCGGATCCCCCGGTGGCCTCATGTCGCGCAGTGGAAC•GATCCTCAGCAA•GCCAG
+
+12
+
+36
+
+GlnAlaSerGluAlaAspAlaAlaAlaAlaThrPheArgAlaAsnA
+CAGGCGTCAGAGGCGGACGCCGCAGCAGCAACCTTCCG(~?~%AACGGTAACTGCACCGCGGCAGGGACTCGCTGGGGCGCGGAGCCGAGCCCTCCCCTTCCTTAGGAAGCTTTCGTCCCC
+
+156
+
+CTCCGAAGGTTGGAACGCTCATCCCGAGCCAGACCGACAAGGCGTACAGTCTGCAGGCCTCTACGAGCAGCAGGCCAATTGGCGCTGGGAAAGTCCAATCCTGGGCCTCTAGCTCCTGAG
+
+276
+
+2) spHisG
+CGGGACAGGGCCGAGAGGGCGCTCCCGAGCTTGGGCCTGCTGGTGGGTGAGACCCAGGAGAGAGGGAGCTAGAGGGGGGAGCTCTGAGGACTGATCTTGACTGTCTGCCCCCAGACCATC
+
+396
+
+m.
+
+•nHisI•eArgTyrAsn•r•LeuG•nAspG•uTrpva•LeuVa•SerA•aHisArgMetLysArgPr•TrpG•nG•yG•nVa•G•uPr•G•nLeuLeuLysThrVa•Pr•ArgHisAspP
+AGCATATCCGCTACAACC•G•TGCAGGATGAGTGGGTGCTGGTGT•AG•TCAcCGCATGAAGCGG•CCTGGCAGGGTCAAGTGGAGCCC•AG•TTCTGAAGACAGTG•C••GCCATGAC•
+
+roLeuAsnProLeuCysProGlyAlaIleArgAlaAsnGlyGlu
+
+27
+
+29
+69
+
+516
+84
+
+CT•TCAA•••TCTGTGTC•TGGGGCcATC•GAG•CAACGGAGAGGTAAGCCTGTAGAG•••TG•ATCTGCAGG•TGGG•CAcGGGGAGTAGTT•••T•TTAGAACTGT••TC•A••cACA
+
+636
+
+GGATAGTGAA~CTCCTT~TGGGT~ATATC~CACCAAGCTTTTTGGTCC~TAGGGTGGGCCTT~C~TACTCCCTTGTAGCCTGTCCAGT~TTTGAAGCCCA~AGGTAA~TGGTGGTATG
+
+756
+
+3) ValAsnProGlnTyrAspSerThrPheLeuPheAspAsnAspPheProAlaLeuGlnProAspAlaProSerProG
+GGG•AGTGAGTGCTTCTAG••TATC•TTGT•GGTAGGTGAAT••C•AGTACGATAG•A•CTT•CTGTTTGACAA•GACTT•C•AG•TCTG•AG••TGATGC•CCCAGTC•AGGTAA•CTG
+
+4) lyProSerAspHisProLeuPheGlnAlaLysSerAlaA
+GCT•CAACTG•TG•TGGGGAGGAGGGTGG•TAGA••T•TTGAGGGACTT•TGCTG•AGAGAGTGATACTCCTTTA•CT•AGGA••CAGTGATCATCc•CTTTT••AAGCAAAGTCTGCTC
+
+rgGlyValCy
+
+110
+
+876
+123
+
+996
+126
+
+GAGGAGTCTGGTAACTATGGATTTC•C•TCTTACAACTTT•AAA••AGAGTTGGAGA•TCAG•ATTGGGGTT•G•CCTGCC•GTAGCACAGC•AAGCC•TACCTCTCGGTTAT•TTTT•T
+
+5) sLysVa~MetCys~eHisPr~TrpSerAspVa~ThrLeu~r~LeuMetServa~r~G~uI~eArgA~ava~Va~AspA~aTrpA~aSerVa~ThrG~uG~uLe
+•••GTCACCACC•AGTAAGGT•ATGTGCTTCcA•••CTGGTCGGATGTAA•GCTGCCACT•ATGTCGGTC•CTGAGATC•GGGCTGTTGTTGATGcATGGGC•TCAGTCACAGAGGAGCT
+
+uGlyAlaGlnTyrProTrpValGln
+
+1116
+161
+
+1236
+169
+
+GGGTG•CCAGTACCCTTGGGTGCAGGTTTGTGAGGT•GC••CTTCC••TGGATGGGCAGGGAGGGGGTGATGAAGCTTTGGTT•TGGGGAGTAA•ATTT•TGTTTCCACAGGGTGTGGT•
+
+1356
+
+6) IlePheGluAsnLysGlyAlaMetMetGlyCysSerAsnProHisProHisCysGln
+AGGAGGGAGTTGACTTGGTGTCTTTTGGCTAACAGAGCTCCGTATCCCTATCTGATAGATCTTTGAAAACAAAGGTGCCATGATGGGCTGTTCTAA•CCCCACCCCCACTG•CAGGTAAG
+
+1476
+
+GGTGTCAGGGGCTCCAGTGGGTTTCTTGGCTGAGTCTGAGCCAGCACTGTGGACATGGGAACAGGATTAATGGATGGGACAGAGGAAATATGCCAATGATGTGGAGGCTTGGAGGTAAAG
+
+1596
+
+7) Va•TrpA•aSerSerPheLeuPr•AspI•eA•aG•nArgG•uG•uArgSerG•nG•nA•aTyrLysSerG•nHisG•yG•uPr
+GACCTGCCTGTTCTTCTCTGCTTTTGCCCCTTGACAGGTATGGGCCAGCAGTTTCCTGCCAGATATTGCCCAGCGTGAGGAGCGATCTCAGCAGGCCTATAAGAGTCAGCATGGAGAGCC
+
+1716
+
+oLeuLeuMetGluTyrSerArgGlnGluLeuLeuArgLys
+CCTGCTAATGGAGTACAGCCGCCAGGAGCTACTCAGGAAGGTGGGAGAGAGCCAAGCCCTGTGTC~CCAAGGAGTCCCTAACTTTCTTATCCCATGAGAGAGGTGTGTAAAGGAGAAAGC
+
+1836
+
+TAGAGGTGAACTAGTAGAGAGAGACTTGCTAGGAGGCCTTAGCAATAATCCAGTAATCTAAAGGAAAGATGATGGTGACTTAGACTCGGGTGGTTAGTGGTAGAGGTGGTGAGAAGACAT
+
+1956
+
+8) GluArgLeuValLeu
+CAGATCCTGGGCACATTCTTTTCTTCTGCTTCCCTTGCCTATTTGCTGACCACACTCCGGcTCCTATGTCACCTTGATGACTT•CTATCCATTCTGTCTTCCTAGGAACGTCTGGTCCTA
+
+2076
+
+ThrSerG•uHisTrpLeuVa•LeuVa••r••heTrpA•aThrTrpPr•TyrG•nThrLeuLeuLeu•r•ArgArgHisVa•ArgArgLeuPr•G•uLeuThrPr•A•aG•uArgAspA
+ACCAGTGAGCACTGGTTAGTACTGGTCCCCTTCTGGGCAACATGGCCCTACCAGACACTGCTGCTGCCCCGTCGGCATGTGCGGCGGCTACCTGAGCTGACCCCTGCTGAGCGTGATGGT
+
+2196
+
+9) spLeuAlaSerIleMetLy
+CAGTCTCCCAAGTAGGATCCTGGGGCTAGGCACTGGATGGAGGTTGCTCCCAGTAGGGTCAGCATCTGGACCCCAGGCTGAGAGTCAGGCTCTGATTCCAGATCTAGCCTCCATCATGAA
+
+2316
+
+sLysLeuLeuThrLysTyrAspAsnLeuPheGluThrSerPheProTyrSerMetGlyTrpHisG
+GAAGCTCTTGACCAAGTATGACAACCTCTTTGAGACGTCCTTTCCCTACTCCATGGGCTGGCATGGTGAGGCTTTTCAAGTACCTATATTTAGCCCCAACACCATTTCTGGGCTCCTGGG
+
+2436
+
+CTCAGCCTAGTGAACTGCAACCTCAAAGGAGCAAGCCTTGAAACAGTTGCTGGGGGAAGTGGCCAGAGTAGAGATGCTGGGACTGAGGGTGGAGCAGCAAACTTGGTGAAACTACATCTC
+
+2556
+
+CAATGTGCTTTCTAATCTCCTGCCAGCTCTTCTCAAGCAGGGGATCCTGGGAGATGTAGTTTTCAGATACCTGGTTGGGTTTGGGAGTAGGTGCTAACCTGGATAACTGTAAAAGGGCTC
+
+2676
+
+I0) •yA•a•r•ThrG•ySerG•uA•aGlyA•aAsnTrpAsnHisTrpG•nLeuHisA•aHisTyrTyrPr••r•LeuLeuArgSerA•aTh
+TCTCTCCCCACTGTCTCTCTTCTTTCTGTCAGGGGCTCCCACAGGATCAGAGGCTGGGGCCAACTGGAACCATTGGCAGCTGCACGCTCATTACTACCCTCCGCTCCTGCGCTCTGCCAC
+
+2796
+
+rValArgLysPheMetValGlyTyrGluMetLeuAlaGlnAlaGlnArgAspLeuThrProGluGln
+
+188
+
+216
+229
+
+234
+274
+280
+302
+
+330
+353
+
+TGTCCGGAAATTCATGGTTGGCTACGAAATGCTTGCTCAGGCTCAGAGGGACCTCACCCCTGAGCAGGTCAGGACTCAGAACAGTCTGGCGTCTCCAGACTCTCACATGCAGTATGTGCA
+
+2916
+
+C~CACCTGATACTTCT~TGCCCTTGTGCTCCAGTCATTGCACAAGGCAGAAACAGCTCTGGCAGGAAGGGACTGCCAAAGTTAGGAGCCCTAGGGCCTGGAAGGAGAGTATGGTCCTCA
+
+3036
+
+GATCCCCCTTCTCTCCTGCTTCCTCCAGGGAACCCAACAGTCATGACCCTGATAGTTTCCCATAACAACCTGGGCATTCCTTGGGACTCAGGAGCTGCTAAACTCTTTCATCCCCTGGTG
+
+3156
+
+GCTTCAGCAGTCCTTATCACCAGCCTCACAATCCCACAGGCCCACCCCCAGTGGGCCTGTGGCATTCATATTTCATATTCATATTTCAAACCACAATATCCAGCAAAATGTCTCCTGAGC
+
+3276
+
+ACCCAGAACTCCATACCATCGGCCGGGTGTGGTGGCTCATGCCTTAATCCCAGCACTTTGGGAGGTCAAGATGGGAGGATTGCTTGAGCCCAGAAGTTCGAGACTAGCCTGGGAAACATA
+GGAAGCCCTCGTCTCTACAAAAAAAATTTAAAAAGTTAGCCAGGTATGGTGGCATATACTTGTGGTCCCAGATACTTGGGAGGCTGAGATAGGATCACTTGGGCCCAGGAGTTTGAGGCT
+GCAGTGAGCCATCATCATGGCATCATTGCATTCCAGCCTGGGCAACAGAGCAAGACCTCGTCTC~GAAGTCCATGCCACCATTCTTGGCAGCCCAGCCCTTAT
+II) AlaAlaGluArgLeuArgAlaLeuProGluValHisTyrHisLeuGlyGlnLysAspArgGluThrAlaThrIleAla
+CCTCCTTAATTGCTCCCTGTCCCTTTTCCAGGCTGCAGAGAGACTAAGGGCACTTCCTGAGGTTCATTACCACCTGGGGCAGAAGGACAGGGAGACAGCAACCATCGCCTGACCACGCCG
+ACCACAGGGCCTTGAATCCTTTTTTGTTTTCAACAGTCTTGCTGAATTAAGCAGAAAGGGCCTTGAATCCTGGCCTGGAATTTGGGCAGATATAGCATTAATAAAACTGTGCATCTCAAA
+CTTTTATCACATACTCTAATATCAGAGGAGTGTGAACCTTCAGAGATCTAGGGTTAAAAGCTAAAGGCATAGCT
+
+3396
+3516
+3636
+379
+
+3816
+3936
+
+F I G . 2 . S e q u e n c e of t h e h u m a n G A L T gene. T h e u n t r a n s l a t e d regions are u n d e r l i n e d . P o s i t i o n s of t h e a m p l i f i c a t i o n p r i m e r s are i n d i c a t e d
+w i t h arrows. T h e s e s e q u e n c e d a t a h a v e b e e n s u b m i t t e d to G e n B a n k u n d e r A c c e s s i o n No. M96264.
+
+478
+
+LESLIE E T AL.
+
+TABLE 1
+O r g a n i z a t i o n o f the H u m a n G A L T G e n e
+Number of identical amino acids a %b
+Number of amino acids
+Exon or intron
+
+Nucleotides
+
+1
+A
+2
+B
+3
+C
+4
+D
+5
+E
+6
+F
+7
+G
+8
+H
+9
+I
+10
+J
+11
+
+109
+3O8
+170
+232
+76
+89
+49
+125
+130
+153
+57
+162
+123
+305
+133
+103
+84
+327
+155
+804
+206
+
+Total
+
+3900
+
+Amino acids
+27
+
+E. coli
+1/7
+
+(4)
+
+Mouse c
+
+Yeast
+1/9
+
+(4)
+
+(26)
+
+56/57
+
+(98)
+(96)
+
+57
+
+24/55 (42)
+
+25
+
+10/26 (40)
+
+7/26
+
+(41)
+
+24/27
+
+17
+
+7/16 (41)
+
+7/22
+
+(41)
+
+14/17 (82)
+
+43
+
+18/43 (42)
+
+12/47 (28)
+
+42/43 (98)
+
+19
+
+15/18 (79)
+
+14/19 (74)
+
+19/19 (100)
+
+41
+
+16/41
+
+11/41
+
+(27)
+
+35/41
+
+(85)
+
+44
+
+22/44 (50)
+
+12/44 (27)
+
+40/44
+
+(91)
+
+28
+
+17/28 (61)
+
+21/28 (75)
+
+27/28
+
+(96)
+
+52
+
+38/50
+
+(73)
+
+28/51
+
+(55)
+
+46/52
+
+(88)
+
+26
+
+6/26
+
+(23)
+
+6/26
+
+(23)
+
+21/26 (81)
+
+149/370 (39)
+
+331/363 (87)
+
+379
+
+(39)
+
+174/354 (46)
+
+30/57 (53)
+
+7/9
+
+a Alignments carried out using Microgenie.
+b Denominator is the number of amino acids in h u m a n GALT.
+c Data from the deduced amino acid sequence of mouse GALT cDNA (N. Leslie, GenBank Accession number M96265).
+
+sions about long-term intellectual function or ovarian
+function. Therefore, a large clinical study, complemented by careful expression analysis of various genotypes, could add substantially to our understanding of
+variable prognosis in galactosemia. Further examination
+of the reported 10% residual activity of Q188R alleles in
+expression analysis (Reichardt et al., 1991) will also be
+important, since all of our patients homoallelic for
+Q188R had undetectable GALT activity in their red
+blood cells and three patients homoallelic for Q188R
+also had undetectable GALT activity in transformed
+lymphoblasts (J. Fridovich-Keil, unpublished). P C R
+
+amplification of genomic DNA followed by mutation
+analysis could also be used to supplement existing methods for prenatal diagnosis of galactosemia in chorionic
+villus tissue (Rolland et al., 1986) or cultured amniocytes
+(Fenson et al., 1974) or to clarify a suspected diagnosis of
+galactosemia in an infant who has received a red blood
+cell transfusion (Sokol et al., 1989).
+The frequency of Q188R in our population differs substantially from that reported by Reichardt et al. (1991),
+
+NN GG
+
+TABLE 2
+S e q u e n c e C h a n g e s in the H u m a n G A L T G e n e
+Amino
+acid
+
+Exon
+
+Nucleotide
+change
+
+Amino acid
+change
+
+Phenotype
+
+81
+139
+188a
+285
+314 b
+333
+334
+
+2
+5
+6
+9
+10
+10
+10
+
+GCC-~ACC
+CTG-~CCG
+CAG-~CGG
+AAG-~AAT
+AAC-~GAC
+CGG-~GGG
+AAA-~AGA
+
+Ala-~Thr
+Leu-~Pro
+Gln--~Arg
+Lys-~Asn
+Asn--~Asp
+Arg-~Gly
+Lys-~Arg
+
+GG
+GG
+GG
+GG
+N1,G-LA,DD,D-LA,GD
+G-LA
+G-D
+
+a First described by Reichardt, Packman, and Woo (1991).
+b First described by Reichardt and Woo (1991).
+
+-.~-.-1130 bp
+589 bp
+.~..~ 316 bp
+
+273 bp
+FIG. 3. Restriction analysis of the Q188R mutation using HpaII.
+Genomic DNA was amplified with primer pair 1, ethanol precipitated,
+digested with HpaII, and electrophoresed on a 1% agarose gel. A single
+HpaII site is present in wildtype DNA; the Q188R mutation creates a
+second site, resulting in the appearance of two smaller bands in place
+of the 589-bp band.
+
+HUMAN GALT GENE
+TABLE 3
+F r e q u e n c y o f H u m a n G A L T Mutations
+Sequence change
+
+G alleles
+
+Q188R
+N314D
+R333G
+K334R
+
+42/64
+0/18
+lb/18
+lb/18
+
+D alleles
+0/6
+
+6/6
+0/6
+0/6
+
+Control allelesa
+0/40
+6/40
+0/40
+0/40
+
+From phenotypically normal adults who were unrelated and had
+no family history of galactosemia.
+bTentatively attributed to the G allele in a compound heterozygous
+patient.
+who f o u n d Q188R in only 26% of galactosemia alleles.
+Our p o p u l a t i o n was p a n e t h n i c , including p a t i e n t s of
+n o r t h e r n E u r o p e a n , A f r i c a n - A m e r i c a n , native American, P u e r t o Rican, a n d A s h k e n a z i descent. Of 32 patients tested, only 2 were k n o w n to be related to one
+another. W e c a n n o t explain the a p p a r e n t discrepancy
+between our prevalence d a t a a n d those of Reichardt.
+Since b o t h p a t i e n t groups were small, sampling error
+r e m a i n s a possibility.
+T h e a p p a r e n t association between N 3 1 4 D a n d the
+D u a r t e a n d Los Angeles genotypes is interesting, especially since the genetic basis for these v a r i a n t s has n o t
+been established. T h e frequency with w h i c h this polym o r p h i s m appears in r a n d o m controls is higher t h a n the
+reported frequency o f D u a r t e alleles a n d Los Angeles
+alleles in one p o p u l a t i o n s t u d y (Vaccaro e t al., 1984). It is
+possible t h a t some of our N 3 1 4 D controls are also
+D u a r t e or Los Angeles variants. W e were unable to s t u d y
+f u r t h e r this p o p u l a t i o n by G A L T g e n o t y p i n g since only
+D N A samples were available. F u r t h e r work in this area
+is planned.
+A l t h o u g h G A L T activity has been f o u n d in all tissues
+t h u s far examined, the a m o u n t of activity observed varies by tissue a n d by age at the time of assay. In particular, considerable variability is seen in the perinatal period (Rogers e t al., 1989; S h i n - B u e h r i n g e t al., 1977). T h e
+5' flanking region of the h u m a n G A L T gene is similar to
+t h a t observed in o t h e r " h o u s e - k e e p i n g " genes in t h a t it
+lacks an obvious T A T A box a n d is very GC rich (Dynan,
+1986). T h e classification of G A L T as a house-keeping
+gene does n o t imply lack of t r a n s c r i p t i o n a l regulation,
+however. I n s p e c t i o n of 300 bp of sequence 5' to the A T G
+revealed a C C A A T sequence a p p r o x i m a t e l y 70 bp ups t r e a m of the end of the published c D N A as well as two
+c o n s e n s u s SP1 sequences a n d three consensus AP-1 sequences. It is n o t k n o w n w h e t h e r these sequences have
+a n y f u n c t i o n a l significance. T h e role of tissue-specific or
+d e v e l o p m e n t a l l y regulated factors in altering transcription or splicing events, a n d the d e t e r m i n a t i o n of
+w h e t h e r these processes play a n y role in the p a t h o p h y s i ology of galactosemia, will be the subject of f u r t h e r investigation.
+ACKNOWLEDGMENTS
+The authors acknowledge Juergen K. V. Reichardt for his generosity in sharing his hGALT pCD plasmid and his genomic cosmid clone.
+
+479
+
+We thank Nell Buist, Judi Tuerck, John Holton, and Lynda Tyfield
+for contributing DNA from galactosemic patients and David Glass for
+the control DNA panel. Excellent technical assistance was provided
+by Nick Hjelm and Stuart Litwer. This work was supported by a Trustee Grant from Children's Hospital Research Foundation, a grant
+from the Emory-Egleston Children's Research Center, and a contract
+from the Department of Human Resources, State of Georgia. Finally,
+we dedicate this work to the memory of Jim Flach.
+
+REFERENCES
+Banroques, J., Schapira, F., Gregori, C., and Dreyfus, J.-C. (1983).
+Molecular studies on galactose-l-phosphate uridyltransferase from
+normal and mutant human subjects: An immunological approach.
+Ann. Hum. Genet. 47: 177-185.
+Benton, W. D., and Davis, R. W. (1977). Screening k gt recombinant
+clones by hybridization to single plaques in situ. Science 196: 180182.
+Bird, A. G., McLachlan, S. M., and Britton, S. (1981). Cyclosporin A
+promotes spontaneous outgrowth in vitro of Epstein-Barr virus-induced B-cell lines. Nature 289: 300-301.
+Dynan, W. S. (1986). Promoters for housekeeping genes. Trends
+Genet. 2: 196-197.
+Fenson, A. H., Benson, P. F., and Blunt, S. (1974). Prenatal diagnosis
+of galactosemia. Brit. Med. J. 4: 386-387.
+Field, T. L., Reznikoff,W. S., and Frey, P. A. (1989). Galactose-l-phosphate uridyltransferase: Identification of histidine-164 and histidine-166 as critical residues by site-directed mutagenesis. Biochemistry 28: 2094-2099.
+Flach, J., Dembure, P., and Elsas, L. J. (1990). Transferase deficiency
+galactosemia: A molecular analysis. Am. J. Hum. Genet. 47: 607A.
+Flach, J. E., Reichardt, J. K. V., and Elsas, L. J. (1990). Sequenceof a
+cDNA encoding human galactose-l-phosphate uridyltransferase.
+Mol. Biol. Med. 7: 365-369.
+Kawasaki, E. S. (1990). Sample preparation from blood, cells, and
+other fluids. In "PCR Protocols: A Guide to Methods and Applications" (M. A. Innis, D. H. Gelfand, J. J. Sninsky, and T. J. White,
+Eds.), p. 146, AcademicPress, San Diego.
+Lemaire, H. G., and Mueller-Hill,B. (1986). Nucleotidesequences of
+the GAL E gene and the GAL T gene of E. coll. Nucleic Acids Res.
+14: 7705-7711.
+Reichardt, J. K. V., and Berg, P. (1988). Cloningand characterization
+of a cDNA encoding human galactose-l-phosphate uridyltransferase. Mol. Biol. Med. 5: 107-122.
+
+Reichardt, J. K. V., Packman, S., and Woo, S. L. C. (1991). Molecular
+characterization of two galactosemia mutations: Correlation of mutations with highly conserved domains in galactose-l-phosphate uridyltransferase. Am. J. Hum. Genet. 49: 860-867.
+Reichardt, J. K. V., and Woo, S. L. C. (1991). Molecular basis of galactosemia: Mutations and polymorphisms in the gene encoding human galactose-l-phosphate uridylyltransferase. Proc. Natl. Acad.
+Sci. USA 88: 2633-2637.
+Rogers, S. R., Bovee, B. W., Saunders, S. L., and Segal, S. (1989).
+Activity of hepatic galactose metabolizing enzymes in the pregnant
+rat and fetus. Pediatr. Res. 25: 161-166.
+Rolland, M. 0., Mandon, G., Farriaux, J. P., and Dorche, C. (1986).
+Galactose-l-phosphate uridyltransferase activity in chorionic villi:
+A first trimester prenatal diagnosis of galactosaemia. J. Inher. Metab. Dis. 9: 284-286.
+Segal, S. (1989). Disorders of galactose metabolism. I n "The Metabolic Basis of Inherited Disease" (C. R. Scriver, A. L. Beaudet, W. S.
+Sly, and D. Valle, Eds.), pp. 453-480, McGraw-Hill, New York.
+Shin-Buehring, Y. S., Beier, T., Tan, A., Osang, M., and Schaub, J.
+
+480
+
+LESLIE ET AL.
+
+(1977). The activity of galactose-1-phosphate uridyltransferase and
+galactokinase in human fetal organs. Pediatr. Res. 11: 1003-1009.
+Sokol, R. J., McCabe, E. R., Kotzer, A. M., and Langendoerfer, S. I.
+(1989). Pitfalls in diagnosing galactosemia: False negative newborn
+screening following red blood cell transfusion. J. Pediatr. Gastro.
+Nutr. 8: 266-268.
+Tajima, M., Nogi, Y., and Fukasawa, T. (1985). Primary structure of
+the Saccharomyces cerevisiae GAL7 gene. Yeast 1: 67-77.
+
+Vaccaro, A. M., Mandara, I., Muscillo, M., Ciaffoni, F., De Pellegrin,
+S., Benincasa, A., Novelletto, A., and Terrenato, L. (1984). Polymorphism of erythrocyte galactose-l-phosphate uridyltransferase
+in Italy: Segregation analysis in 696 families. Hum. Hered. 34: 197206.
+Waggoner, D. D., Buist, N. R., and Donnell, G. N. (1990). Long term
+prognosis in galactosemia: Results of a survey of 350 cases. J. Inher.
+Metab. Dis. 13: 802-818.
+
+

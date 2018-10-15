@@ -1,0 +1,597 @@
+Rapid Publication
+Schindler Disease: The Molecular Lesion in the a-N-Acetylgalactosaminidase
+Gene that Causes an Infantile Neuroaxonal Dystrophy
+Anne M. Wang,* Detlev Schindler,** and Robert J. Desnick*
+*Division ofMedical and Molecular Genetics, Mount Sinai School ofMedicine, New York 10029, and tDepartment of Human
+Genetics, University of Wuirzburg, 8700 Wurzburg, Federal Republic of Germany
+
+Abstract
+Schindler disease is a recently recognized infantile neuroaxonal dystrophy resulting from the deficient activity of the lysosomal hydrolase, a-N-acetylgalctosaminidase (a-GalNAc).
+The recent isolation and expression of the full-length cDNA
+encoding a-GalNAc facilitated the identification of the molecular lesions in the affected brothers from family D, the first
+cases described with this autosomal recessive disease. Southern and Northern hybridization analyses of DNA and RNA
+from the affected homozygotes revealed a grossly normal aGalNAc gene structure and normal transcript sizes and
+amounts. Therefore, the a-GalNAc transcript from an affected
+homozygote was reverse-transcribed, amplified by the polymerase chain reaction (PCR), and sequenced. A single G to A
+transition at nucleotide 973 was detected in multiple subclones
+containing the PCR products. This point mutation resulted in a
+glutamic acid to lysine substitution in residue 325 (E325K) of
+the a-GalNAc polypeptide. The base substitution was confirmed by dot blot hybridization analyses of PCR-amplified
+genomic DNA from family members with allele-specific oligonucleotides. Furthermore, transient expression of an a-GalNAc construct containing the E325K mutation resulted in the
+expression of an immunoreactive polypeptide which had no
+detectable a-GalNAc activity. (J. Clin. Invest. 1990.86:17521756.) Key words: a-N-acetylgalactosaminidase neuroaxonal
+dystrophy lysosomal hydrolase polymerase chain reaction
+-
+
+-
+
+-
+
+Introduction
+Schindler disease is a recently recognized infantile form of
+neuroaxonal dystrophy resulting from the deficient activity of
+the lysosomal glycohydrolase, a-N-acetylgalactosaminidase
+(E.C. 3.2.129; a-GalNAc)' (1-3). The enzymatic defect, inherAddress reprint requests to Dr. Robert J. Desnick, Division of Medical
+and Molecular Genetics, Mount Sinai School of Medicine, Fifth Avenue at 100th Street, New York, NY 10029.
+Received for publication 10 July 1990.
+1. Abbreviations used in this paper: a-GalNAc, a-N-acetylgalactosaminidase; CRIM, cross-reacting immunological material; 4-MU-aGalNAc, 4-methylumbel/liferyl-a-GaINAc; nt, nucleotide; PCR, polymerase chain reaction.
+J. Clin. Invest.
+©O The American Society for Clinical Investigation, Inc.
+
+0021-9738/90/11/1752/05 $2.00
+Volume 86, November 1990, 1752-1756
+1752
+
+A. M. Wang, D. Schindler, and R. J. Desnick
+
+ited as an autosomal recessive trait, leads to the tissue accumulation and increased urinary excretion ofglycopeptides and
+oligosaccharides containing a-N-acetylgalactosaminyl moieties (4, 5). The disorder was described in two brothers from
+family D who were the offspring of a consanguineous couple of
+German descent. The affected infants' development appeared
+normal for the first 9 to 12 mo of age. In the second year of life,
+they experienced a period of developmental delay which was
+followed by rapid psychomotor regression. By 3-4 yr of age,
+the progressive neurologic impairment led to cortical blindness, myoclonic seizures, spasticity, decorticate posturing, and
+profound psychomotor retardation. A cortical biopsy revealed
+the presence of"spheroids" in terminal axons, the unique neuropathology which classified this disease as a neuroaxonal dystrophy (2, 6). These clinical and morphologic manifestations
+in the two affected brothers were essentially identical to those
+in patients with Seitelberger disease, an infantile form of neuroaxonal dystrophy (6); however, the finding of normal a-GalNAc activity in eight unrelated patients with Seitelberger disease (2) demonstrated that Schindler disease was biochemically distinct and that the infantile neuroaxonal dystrophies
+were genetically heterogeneous (2).
+The affected homozygotes with Schindler disease had levels
+of a-GalNAc activity that were less than 1% of normal in
+various sources as assayed with the recently synthesized substrate, 4-methylumbelliferyl-a-N-acetylgalactosaminide
+(4MU-a-GalNAc) (2, 7). Their parents had intermediate levels
+of activity consistent with being obligate heterozygotes for this
+autosomal recessive disorder. Using monospecific rabbit antihuman a-GalNAc antibodies, immunoblots of fibroblast extracts from the affected brothers revealed no detectable immunoreactive enzyme protein, while extracts from their parents
+and a normal brother had two immunoreactive peptide species, the 48-kD monomeric and 117-kD dimeric forms of aGalNAc observed in normal cultured fibroblasts and in preparations of the purified human enzyme (2, 8). These findings
+suggested that the a-GalNAc mutation in this family markedly
+altered the enzyme's activity and stability.
+The recent isolation, sequencing, and expression of the
+full-length cDNA encoding human a-GalNAc (8) permitted
+investigation of the molecular lesion in the a-GalNAc gene
+that causes Schindler disease in this consanguineous family.
+The a-GalNAc cDNA encodes a polypeptide of 411 amino
+acids including a signal peptide of 17 residues. Studies of
+human a-GalNAc biosynthesis indicated that the precursor
+
+polypeptide was cotranslationally glycosylated in the endoplasmic reticulum, and following carbohydrate modifications
+and phosphorylation of its high mannose-type oligosaccharide
+structures in the Golgi, the mature glycopeptide of 394 amino
+
+acids was trafficked to the lysosome via the mannose-6-phosphate receptor-mediated pathway (9). Presumably, the mature
+glycopeptide is dimerized to form the 11 7-kD active form in
+the Golgi.
+In this communication, we report the specific missense
+mutation in the a-GalNAc coding region which causes an infantile neuroaxonal dystrophy in this consanguineous family.
+This base substitution was confirmed by analysis of genomic
+DNA from family members and by transient expression studies. Of interest was the fact that inactive enzyme protein expressed in COS- 1 cells was immunologically detectable,
+whereas no cross-reacting immunological material (CRIM)
+was present in cultured fibroblasts from the patients.
+
+Total Cellular RNA
+Reverse
+
+1st Strand Synthesis
+
+Transcnptase
+
+mRNA
+r~nNIA
+
+RNase H +
+j Polymerase
+
+2nd Strand Synthesis
+
+P3
+
+P1
+
+cDNA
+
+Coding Region
+
+-
+
+1236 nt
+
+P4
+PCR (30 cycles)
+Hind III
+
+Hind III
+Eco RI
+Eco RI
+| Subdone into Ml3
+
+Dideoxy Sequencing
+
+Methods
+Cell lines. Primary cultures of fibroblasts and lymphoblasts were established from skin biopsies and peripheral blood samples obtained
+from the family D members with Schindler disease and from normal
+controls with informed consent. The COS-1 cell lines were obtained
+from the American Type Culture Collection (Rockville, MD). The
+fibroblasts, lymphoblasts, and COS-1 cell lines were grown in RPMI
+1640 media supplemented with 10% fetal bovine serum, 1% penicillin,
+and I mg/ml streptomycin by standard procedures (10).
+Assays ofa-GalNAc activity and protein. The a-GalNAc activity in
+COS- I cells was determined with the synthetic fluorogenic substrate
+4MU-a-GalNAc (7) as previously described (2). Protein concentration
+was determined by the fluorescamine assay (11). Immunobolt analyses
+of a-GalNAc in transfected COS- I cells were performed using monospecific rabbit anti-human antibodies as described (2, 8).
+Southern and Northern hybridization analyses. Genomic DNA was
+isolated from at least 106 cultured lymphoblasts (12). The DNA was
+digested with restriction endonucleases (e.g., Bam HI, Pst I, Eco RI,
+Taq I; New England Biolabs, Beverly, MA), electrophoresed in 1%
+agarose, transferred to BioTrace RP charge-modified nylon 66 binding
+matrix (Gelman Sciences, Inc., Ann Arbor, MI) (13), and analyzed
+using the nick-translated a-GalNAc cDNA as a probe (14). To determine the relative sizes and amounts of the 2.2- and 3.6-kb a-GalNAc
+transcripts (8), total RNA was isolated from at least 108 cultured lymphoblasts (15). RNA samples were electrophoresed in I% agarose/formaldehyde denaturing gels (16), transferred to the BioTrace membranes described above, and analyzed with the radiolabeled a-GalNAc
+riboprobe synthesized with SP6 polymerase from the a-GalNAc 2.2-kb
+cDNA cloned into the pGEM 4Z vector (Promega Biotec, Madison, WI).
+DNA amplification and sequencing of the mutant allele. Sense and
+antisense oligonucleotide primers designed to amplify the entire coding region of the a-GalNAc gene in two overlapping fragments were
+synthesized on a model 380B DNA synthesizer (Applied Biosystems,
+Inc., Foster City, CA). As shown in Fig. 1, the 5' region of the a-GalNAc transcripts (cDNA nucleotide [nt] -54 to 689 [8]) was amplified
+using the 32-mer sense primer, P1 (5'-AGTAGTGAATTCCTGATACACGCAGACCAGAT-3'), corresponding to a-GalNAc nt-34 to
+-53 with an additional 12 nt which included an Eco RI site and a
+32-mer antisense primer, P2 (5'-AGTAGTAAGCTTTTCAGGATGGAGAGCTCGCT-39,corresponding to a-GalNAc cDNA nt 670-689
+with a Hind III site for force subcloning. The 3' region of the coding sequence (cDNA nt 595 to 1292) was amplified using a 32-mer
+sense primer, P3 (5'-AGTAGTGAATTCAGGGTGAACTACAGTCTGCT-3), corresponding to nt 595-614 with an Eco RI site
+and a 32-mer antisense primer, P4 (5'-AGTAGTAAGCTTGCTCCATGGTCTAGGCTCAG-3), corresponding to nt 1273-1292 and
+containing a Hind III site. Total RNA (10 jg) was reverse-transcribed
+to cDNA using the BRL cDNA Synthesis Kit (Bethesda Research
+Laboratories, Gaithersberg, MD). One-fourth of the cDNA product
+was polymerase chain reaction (PCR)-amplified (17) using the Gene-
+
+Figure 1. Strategy for the identification of the specific molecular lesion in Schindler disease. Total RNA was isolated from lymphoblasts
+and reverse-transcribed to cDNA using oligo dT and reverse transcriptase. The a-GaINAc coding region was PCR-amplified in two
+overlapping fragments, cloned into the Ml 3 sequencing vectors, and
+sequenced in both orientations. See text for details.
+
+Amp DNA Amplification Reagent Kit (Perkin-Elmer Cetus, Norwalk,
+CT) and 1 jiM of each primer. Each of the 30 PCR cycles consisted of
+denaturation at 940C for 1 min; annealing at 370C for 2 min; and
+extension at 60'C for 7 min. Each PCR product was phenol extracted,
+ethanol precipitated, resuspended in 20 ul H20, and then 2 gl was
+analyzed by electrophoresis in a 1.8% agarose gel. The remaining 18 td
+was digested with Eco RI and Hind III and force-subcloned into the
+M 13 mpl 8 and 19 vectors (18). Clones containing the PCR products
+were identified by plaque hybridization using the nick-translated aGalNAc cDNA (14). Single-stranded template was isolated (18) from
+six separate M 13 clones, and each was sequenced in both orientations
+by the dideoxy chain-termination method (19) using universal and
+a-GalNAc-specific primers.
+Oligonucleotide hybridization ofgenomic DNA. Genomic DNAs (1
+jig) from affected homozygotes, their obligate heterozygous parents,
+and normal individuals were PCR-amplified using primers that
+flanked the region of the mutation by the conditions described above.
+The 5' sense primer was a 20-mer (5'-TGATGTCCACAGACCTGCGT-3') corresponding to nt 842-861 and the 3' antisense
+primer was a 20-mer (5'-TCAGCTGCAGGACCGATATG-3') corresponding to nt 1005-1024 of the a-GaINAc full-length cDNA,
+pAGB-3 (8). Normal and mutation-specific oligonucleotide probes
+(2 1-mers) were synthesized with the sequences 5'-TCTCTCATCGAAGTGTACATG-3' and 5'-TCTCTCATCAAAGTGTACATG-3',
+respectively. Dot blots were denatured, hybridized, and washed as
+described (20).
+Computer-assisted analyses. Local secondary structure for both the
+normal and mutant enzymes were predicted by the algorithms of Chou
+and Fasman (21) and Gamier et al. (22) using the University of Wisconsin Computer Group software (23). A region of 20 amino acids
+surrounding the site of the glutamic acid to lysine substitution was used
+for the prediction of the local secondary structure.
+Construction of the mutant cDNA and transient expression of the
+mutation in CC)S-J cells. A Bam HI-Kpn I fragment containing the G
+to A substitution from an M 13 clone was used as a cassette to replace
+the corresponding region in the full-length a-GalNAc cDNA (8). The
+sequence of this construct was confirmed by dideoxy sequencing, and
+then the construction was subcloned into the eukaryotic expression
+vector p91023(B) (24) kindly provided by Dr. R. J. Kaufmann, Genetics Institute, Cambridge, MA. COS- 1 cells were transfected with the
+mutant construct, designated p91-AGB-973A (25), harvested at 72 h
+posttransfection, and then assayed for activity and immunoreactive
+protein as previously described (2).
+
+Schindler Disease: Molecular Lesion in the a-N-Acetylgalactosaminidase Gene
+
+1753
+
+Results
+
+Molecular characterization of the a-GalNAc mutation in family D. In order to characterize the nature of the mutation in
+family D, Southern analysis was performed with four restriction endonucleases on genomic DNA from the affected homozygotes, their obligate heterozygous parents, and unrelated
+normal individuals. No obvious gene rearrangements were
+observed (data not shown). It is interesting that the family D
+members were polymorphic at the a-GalNAc locus for two
+restriction endonuclease sites, Bam HI and Taq I; these polymorphic sites were found in 16 of 40 (45%) and 2 of 76 (2.6%)
+normal Caucasian alleles, respectively. Northern analysis of
+total RNA from family D members and from normal individuals revealed the presence of the two a-GalNAc transcripts of
+2.2 kb and - 3.6 kb. Since the affected brothers had transcripts of normal size and abundancy, the possibility of promotor, mRNA processing, or stability mutations was excluded. These findings, and the fact that no a-GalNAc immunoreactive enzyme protein was detected in fibroblasts from the
+affected homozygotes, suggested that the mutation causing
+Schindler disease was most likely due to point mutations or
+small insertions or deletions in the coding region of the a-GalNAc gene.
+To identify the a-GalNAc mutation in this family, total
+RNA isolated from the cultured lymphoblasts of an affected
+sibling was reverse transcribed, PCR-amplified, and sequenced
+in both orientations as described above (Fig. 1). Sequence
+analysis of all 12 subclones revealed a G to A transition at
+nucleotide 973 which caused a glutamic acid to lysine substitution at residue 325 (Fig. 2). This substitution, designated
+E325K, was confirmed by hybridization of allele-specific oligonucleotides with PCR-amplified genomic DNA from the
+affected homozygotes, the obligate heterozygous parents and
+normal individuals. As shown in Fig. 3, the mutation-specific
+oligonuceotide hybridized only with the amplified genomic
+G
+Met T
+A
+
+Met
+
+.
+
+1-101"
+
+c
+Tyr A
+T
+
+Tyr
+
+45 0C
+
+Normal
+
+4w 4 1
+H
+
+A
+
+N
+
+580C
+
+N
+
+55 OC
+
+Mutation
+Specif ic
+
+*.j
+
+45 0C
+
+Figure 3. Allele-specific oligonucleotide hybridization of PCR-amplified genomic DNA isolated from lymphoblasts of an affected homozygote (A), his obligate heterozygous parent (H), and two unrelated
+normal individuals (N). Hybridization was carried out initially at
+450C and the filters were washed at the indicated temperatures for
+allele-specific binding. See text for details.
+
+sequence from the affected homozygotes. In support of this
+finding, the genomic PCR product from each of their parents
+hybridized with both the normal and mutation-specific oligonucleotides.
+Expression ofthe mutation in COS-I cells. To further characterize this mutation, the Bam HI-Kpn I fragment (nt
+921-1193) from an Ml 3 subclone containing the mutant allIle was introduced as a cassette into the full-length pAGB-3
+cDNA. The mutated cDNA, designated pAGB-973A, was sequenced and then subcloned into the eukaryotic expression
+vector p91023(B). This expression construct, p91-AGB-973A,
+was transfected into COS-1 cells, and 72 h after transfection
+the cells were harvested and extracts were assayed for a-GalNAc activity and immunoreactive enzyme protein. Immunoblot analysis revealed the presence of immunologically detectable protein with a subunit molecular weight of 48 kD (Fig.
+4). However, 4MU-a-GalNAc activity in COS-1 cells was not
+increased above endogenous COS- 1 cell levels, whereas the
+
+G
+Val
+
+Val T
+G
+-
+
+1
+
+A
+
+Glu A
+G
+lie
+
+Lys
+
+c
+
+Ile
+
+T
+
+3
+
+4
+
+Figure 4. Immunoblot
+of transiently expressed
+kD
+a-GalNAc constructs
+p9 I-AGB-3 and p9 1AGB-973A in COS-1
+-117 cells. Lane 1, mock
+transfection minus
+DNA; lane 2, p9 1AGB-3; lane 3, p91mI
+- 48 AG-973A; lane 4,
+_
+1 1 7-kD dimeric and
+48-kD monomeric aGalNAc purified from
+human lung (8). Note
+that the expressed normal and mutant a-GalNAc subunits are doublets that appear to have slightly higher molecular weights than the
+purified enzyme subunit from human lung, presumably due to
+slightly different glycosylation by COS-I cells.
+
+-__
+
+A
+
+C
+Leu
+
+Leu T
+
+C
+T
+Ser C
+T
+
+Ser
+
+Figure 2. Partial DNA sequence of the reverse-transcribed and PCRamplified a-GalNAc transcript from an affected family D homozygote. Compared to the normal cDNA sequence (left), a G to A transition at nt 973 that predicted a glutamic acid to lysine substitution
+at residue 325 was identified in all subclones containing the a-GalNAc PCR product from the affected homozygote. See text for details.
+1754
+
+2
+
+A. M. Wang, D.
+
+Schindler, and R. J. Desnick
+
+Table I. Transient Expression ofNormal and E325K
+a-N-Acetylgalactosaminidase cDNAs
+a-GaINAc activity*
+
+Construct
+
+U/mg protein
+
+p9 1-AGB-3
+Mean
+Range (n = 6)
+
+661
+105-24 15
+
+p91-AGB-973A
+Mean
+Range (n = 6)
+Mock transfection (no DNA)
+Mean
+Range (n = 6)
+
+44
+27-65
+
+36
+31-64
+
+* The reaction mixture contained 0.8 mM 4MU-a-GalNAc as substrate.
+
+normal construct, p91-AGB-3, expressed immunodetectable
+protein that had an a-GalNAc activity that was 20-fold greater
+than the mean endogenous level or the mean level in mocktransfected COS- 1 cells (Table I).
+Secondary structure analyses. Computer-assisted regional
+secondary structural analysis of residues 310 to 330 predicted
+differences in the normal and E325K structures (21, 22). As
+illustrated in Fig. 5, the glutamic acid to lysine substitution in
+E325K extended a ,-pleated sheet region 5' to the mutation,
+and created a short a-helical structure which included the mutation.
+
+Discussion
+Schindler disease is the only neuroaxonal dystrophy in which
+the biochemical defect has been identified. Although the deficient a-GalNAc activity results in the lysosomal accumulation
+and urinary excretion of a-GalNAc-containing oligosaccharides and glycopeptides, the nature of the biochemical alterations in the brain that cause the unique neuroaxonal patholNH2
+
+NORMAL
+
+325
+
+-
+
+Glu
+COOH
+
+NH2
+Amino Acids 310-330
+
+E325K
+(FAMILY D)
+
+325
+
+Lys+
+cooM
+
+AAM
+
+=
+
+P-pleated sheet
+
+= random
+
+coil
+
+/l = a-helix
+Figure 5. Computer-assisted secondary structure predicted for normal and E325K a-Ga1NAc residues 310-330. Note that the E325K
+mutation replaced a random coil region with an a-helical structure.
+See text for details.
+
+ogy has not been determined. The recent isolation of the
+full-length cDNA encoding aGalNAc permitted the characterization of the molecular lesion causing the enzymatic defect in
+the first family with this inherited disorder. Southern and
+Northern hybridization analyses of DNA and RNA from the
+affected homozygotes revealed no gross chromosomal rearrangements and transcripts of normal size and abundancy.
+Subsequent reverse-transcription, amplification, and sequencing of the a-GalNAc transcript from an affected homozygote
+revealed a single G to A transition at nt 973 in the coding
+region. This transition, which predicted a glutamic acid to
+lysine substitution at residue 325 of the a-GalNAc polypeptide
+(E325K), was confirmed in genomic DNA from both affected
+homozygotes and their obligate heterozygous parents using
+allele-specific oligonucleotides. These results indicated that the
+affected homozygotes were homoallelic for this mutation,
+consistent with the fact that the affected homozygotes were the
+offspring of a consanguineous marriage.
+The nonconservative E325K mutation altered the enzyme
+polypeptide and tertiary conformation (e.g., by the insertion of
+a short a-helical region as predicted in Fig. 5) such that no
+activity or immunoreactive enzyme protein was detectable in
+cultured cells from the affected homozygotes. In contrast,
+transfection of the mutant p9 I-AGB-973A a-GalNAc cDNA
+into COS- I cells resulted in the transient expression of a polypeptide which was immunoreactive, but had no detectable
+enzymatic activity toward the specific 4MU-a-GalNAc substrate. The fact that fibroblast extracts from the affected homozygotes were CRIM-negative suggested that the E325K
+mutation caused the enzyme polypeptide to be unstable and
+rapidly degraded in cultured cells and, presumably, in vivo. A
+similar finding of a CRIM-negative mutant protein in fibroblasts that was immunologically detectable when transiently
+expressed in COS- 1 cells has been observed for a mutation in
+the vitamin D receptor gene (26). The detection of immunoreactive enzyme in the COS- 1 cells most likely reflects the
+"pulsed" synthesis of the altered human polypeptide that then
+is degraded due to instability and/or the inability of the polypeptide subunits to associate into more stable multimeric
+forms. This may be the case for the a-GalNAc polypeptide
+since the homodimeric form is extremely stable (8). Thus, the
+classification of a mutation as CRIM- negative based on studies of the patient's cells or tissues does not imply that the
+enzyme is not synthesized. Subsequent stable expression of
+normal and mutant constructs may provide sufficient quantities of these enzyme proteins for comparison of their physical
+and kinetic properties. For example, such studies may determine if the E325K mutation alters subunit association, the
+interaction with different substrates, and/or other factors in
+the catalytic complex.
+The identification of this molecular lesion in the family D
+homozygotes will permit accurate heterozygote detection for
+relatives using allele-specific oligonucleotides. Molecular heterozygote diagnosis will be particularly valuable since there
+was significant overlap in the ranges of enzymatic activities in
+various sources for family D obligate heterozygotes and normal individuals. Moreover, since family D is from a small
+inbred village in which previous children with the Schindler
+phenotype were known, screening can be performed to identify carriers and provide the opportunity for accurate prenatal
+diagnosis, if requested.
+
+Schindler Disease: Molecular Lesion in the a-N-Acetylgalactosaminidase Gene
+
+1755
+
+Although Schindler disease is the only neuroaxonal dystrophy in which the biochemical and molecular defects have
+been identified, the nature of the accumulated neuronal substrate(s) and the pathophysiologic events that lead to the
+unique spheroid formations in the distal axons remain unknown. Further studies of this disease may provide insight into
+the normal role of a-Ga1NAc-containing glycoconjugates and
+a-GalNAc in neuronal metabolism and/or transport.
+
+Acknowledaments
+This research was supported in part by a research grant from the
+National Institutes of Health (5 RO DK-34045), a General Clinical
+Research Center grant (RR-0007 1) from the National Center for Research Resources, National Institutes of Health, and a grant (1-589)
+from the March of Dimes Birth Defects Foundation. A. Wang is the
+recipient of a predoctoral fellowship from the National Institutes of
+Health (5 T32 HD-07105).
+
+References
+1. van Diggelen, 0. P., D. Schindler, R. Willemson, M. Boer, W. J.
+
+Kleijer, J. G. M. Huijmans, W. Blom, and H. Galjaard. 1988. a-Nacetylgalactosaminidase deficiency, a new lysosomal storage disorder.
+J. Inherited Metab. Dis. 11:349-357.
+2. Schindler, D., D. F. Bishop, D. E. Wolfe, A. M. Wang, H. Egge,
+R. U. Lemieux, and R. J. Desnick. 1989. Neuroaxonal dystrophy due
+to lysosomal a-N-acetylgalactosaminidase deficiency. N. Engl. J. Med.
+
+320:1735-1740.
+3. Desnick, R. J., and D. F. Bishop. 1989. Schindler disease: a-Nacetylgalactosaminidase deficiency. In The Metabolic Basis of Inherited Disease. C. R. Schiver, A. L. Beaudet, W. S. Sly, and D. Valle,
+editors. McGraw-Hill, Inc., New York. 175 1-1796.
+4. Linden, H. U., R. A. Klein, H. Egge, J. Peter-Katalinic, J. Dabrowski, and D. Schindler. 1989. Isolation and characterization of
+sialic acid-containing glycopeptides of the O-glycosidic type from the
+urine of the two patients with hereditary deficiency in a-GalNAc activity. Biol. Chem. Hoppe-Seyler. 370:661-672.
+5. Schindler, D., T. Kanzaki, and R. J. Desnick. 1990. A method
+for the rapid detection of urinary glycopeptides in a-N-acetylgalactosaminidase deficiency and other lysosomal storage diseases. Clin.
+Chim. Acta. 190:81-92.
+6. Seitelberger, F. 1986. Neuroaxonal dystrophy: its relation to
+aging and neurological disease. In Handbook of Clinical Neurology.
+
+Vol. 49. P. J. Vinken, G. W. Bruyn, and H. L. Klawans, editors.
+Elsevier Science Publishers B. V., Amsterdam. 391-415.
+7. Lemieux, R. U., and R. M. Ratcliffe. 1979. The azidonitration of
+tri-O-acetyl-D-galactal. Can. J. Chem. 57:1244-1251.
+8. Wang, A. M., D. F. Bishop, and R. J. Desnick. Human a-N-acetylgalactosaminidase: molecular cloning, nucleotide sequence and expression of a full-length cDNA. J. Bio. Chem. In press.
+9. Sweeley, C. C., N. C. LeDonne, and P. W. Robbins. 1983.
+Post-translational processing reactions involved in the biosynthesis of
+lysosomal a-N-acetylgalactosaminidase in cultured human fibroblasts.
+Arch. Biochem. Biophys. 223:158-165.
+10. Bernstein, H. S., D. F. Bishop, K. H. Astrin, R. Kornreich,
+
+1756
+
+A. M. Wang, D. Schindler, and R. J. Desnick
+
+C. M. Eng, H. Sakuraba, and R. J. Desnick. 1989. Fabry disease: six
+gene rearrangements and an exonic point mutation in the a-galactosi-
+
+dase gene. J. Clin. Invest. 83:1390-1399.
+1 1. Bishop, D. F., and R. J. Desnick. 1981. Affinity purification of
+a-galactosidase A from human spleen, placental and plasma with elimination of pyrogen contamination. J. Biol. Chem. 256:1307-1316.
+12. Aldridge, J., L. Kunkel, G. Bruns, U. Tantravahi, M. Lalande,
+T. Brewster, E. Moreau, M. Wilson, W. Bromley, T. Roderick, and
+S. A. Latt. 1984. A strategy to reveal high frequency RFLPs along the
+human X chromosome. Am. J. Hum. Genet. 36:546-564.
+13. Southern, E. M. 1975. Detection of specific sequences among
+DNA fragments separated by gel electrophoresis. J. Mol. Biol.
+98:503-517.
+14. Maniatis, T., E. F. Fritsch, and J. Sambrook. 1982. Molecular
+Cloning: A Laboratory Manual. Cold Spring Harbor Laboratories,
+Cold Spring Harbor, NY. 545 pp.
+15. Chirgwin, J. M., A. E. Pryzbyla, R. J. MacDonald, and W. J.
+Rutter. 1979. Isolation of biologically active RNA from sources
+enriched in ribonuclease. Biochemistry. 18:5294-5298.
+
+16. Lehrach, H., D. Diamond, J. M. Wozney, and H. Doedtker.
+1977. RNA molecular weight determinations by gel electrophoresis
+under denaturing conditions, a critical look. Biochemistry. 16:47434751.
+17. Saiki, R. K., S. Scharf, F. Faloona, K. B. Mullis, G. T. Horn,
+H. A. Erlich, and N. Arnheim. 1985. Enzymatic amplification of flglobin genomic sequences and restriction site analysis for diagnosis of
+sickle cell anemia. Science (Wash. DC). 230:1350-1359.
+18. Messing, J., and J. Vieira. 1982. A new pair of M 13 vectors for
+selecting either DNA strand of double digest restriction fragments.
+Gene (Amst.). 19:269-276.
+19. Sanger, F., A. R. Coulson, B. G. Garrell, A. J. H. Smith, and
+B. A. Roe. 1980. Cloning in single-stranded bacteriophage as an aid to
+rapid DNA sequencing. J. Mol. Bio. 143:161-178.
+20. Theophilus, B., T. Latham, G. A. Grabowski, and F. I. Smith.
+1989. Gaucher disease: molecular heterogeneity and phenotype-genotype correlations. Am. J. Hum. Genet. 45:212-225.
+21. Chou, P. Y., and G. D. Fasman. 1978. Prediction of the secondary structure of proteins from their amino acid sequence. Adv. Enzymol. Relat. Areas Mol. Biol. 47:45-147.
+22. Garnier, J., D. J. Osguthorpe, and B. Robson. 1978. Analysis of
+the accuracy and implications of simple methods for predicting the
+secondary structure of globular proteins. J. Mol. Biol. 120:97-120.
+23. Wolf, H., S. Modrow, M. Motz, B. A. Jameson, G. Hermann,
+and B. Fortsch. 1988. An integrated family of amino-acid sequenceanalysis programs Comput. AppL. Biosci. 4:187-191.
+24. Wong, G. G., J. S. Witek, P. A. Temple, K. M. Wilkins, A. C.
+Leary, D. P. Luxenberg, S. S. Jones, E. L. Brown, R. M. Kay, E. C. Orr,
+et al. 1985. Human GM-CSF: molecular cloning of the complementary DNA and purification of the natural and recombinant proteins.
+Science (Wash. DC). 228:810-813.
+25. Chen, C., and H. Okayama. 1987. High efficiency transformation of mammalian cells by plasmid DNA. Mol. Cell. Bio. 7:27452752.
+26. Ritchie, H. H., M. R. Hughes, E. T. Thompson, P. J. Malloy, Z.
+Hochberg, D. Feldman, J. W. Pike, and B. W. O'Malley. 1989. An
+ochre mutation in the vitamin D receptor gene causes hereditary
+1,25-dihydroxyvitamin D3-resistant rickets in three families. Proc.
+Natl. Acad. Sci. USA. 86:9783-9787.
+
+

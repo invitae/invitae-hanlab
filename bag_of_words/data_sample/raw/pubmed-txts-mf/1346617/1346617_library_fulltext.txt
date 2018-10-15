@@ -1,0 +1,811 @@
+Identification of Three Mutant Alleles of the Gene
+for Mitochondrial Acetoacetyl-Coenzyme A Thiolase
+A Complete Analysis of Two Generations of a Family with 3-Ketothiolase Deficiency
+Toshiyuki Fukao,* Seiji Yamaguchi,* Tadao Oni,* Ruud B. H. Schutgens,$ Takashi Osumi,' and Takashi Hashimotoll
+*Department ofPediatrics, Gifu University School of Medicine, Gifu, Gifu 500, Japan; tDepartment of Pediatrics, University Hospital
+Amsterdam, Amsterdam, The Netherlands; §Department ofLife Science, Faculty ofScience, Himeji Institute of Technology, Kamigori,
+Hyogo 671-12, Japan; and IlDepartment of Biochemistry, Shinshu University School of Medicine, Matsumoto, Nagano 390, Japan
+
+Abstract
+3-Ketothiolase deficiency (3KTD) stems from a deficiency of
+mitochondrial acetoacetyl-coenzyme A thiolase (T2). We analyzed the molecular basis of 3KTD in two generations of a family. A boy (patient 2, GK04), his father (patient 1, GK05), his
+mother, and his brother were studied; three mutant alleles of
+T2 gene were identified. Patient 1 is a compound heterozygote:
+one allele has a point mutation of G to A at position 547 on his
+T2 cDNA, causing Gly1" to Arg substitution of the mature T2
+subunit, and the other allele has GT to TI transition at the 5'
+splice site of intron 8, causing exon 8's skipping of the T2
+cDNA. Patient 2 is also a compound heterozygote: one allele
+inherited from his mother has AG to CG transition at the 3'
+splice site of intron 10, causing exon 1l's skipping of the T2
+cDNA, and the other allele derived from patient 1 has the G to
+A mutation (Gly to Arg). The brother of patient 2 is an obligatory carrier with the mutant allele causing the exon 8 skipping.
+This report seems to be the first complete molecular definition
+of 3KTD at the gene level. (J. Clin. Invest. 1992.89:474-479.)
+Key words: exon skipping . j-ketothiolase deficiency- molecular basis * splice acceptor site * splice donor site
+
+Introduction
+3-Ketothiolase deficiency (3KTD'; McKusick 203750) is an
+inborn error of isoleucine and ketone body catabolism that
+shows autosomal recessive traits, caused by a deficiency of mitochondrial acetoacetyl-coenzyme A (CoA) thiolase (T2; EC
+2.3.1.9). 3KTD patients present with intermittent ketoacidotic
+episodes and urinary excretion of 2-methylacetoacetate, 2methyl-3-hydroxybutyrate, and tiglylglycine (1-4).
+Mammalian tissues have at least four thiolases: T2, mitochondrial 3-ketoacyl-CoA thiolase, peroxisomal 3-ketoacylCoA thiolase, and cytosolic acetoacetyl-CoA thiolase. They
+Address reprint requests to Dr. Fukao, Department of Pediatrics, Gifu
+University School of Medicine, 40 Tsukasa-Machi, Gifu, Gifu 500,
+Japan.
+
+Receivedfor publication 27 June 1991 and in revisedform 6 September 1991.
+1. Abbreviations used in this paper: PCR, polymerase chain reaction;
+T2, mitochondrial acetoacetyl-CoA thiolase; 3KTD, 3-ketothiolase de-
+
+ficiency.
+J. Clin. Invest.
+© The American Society for Clinical Investigation, Inc.
+
+0021-9738/92/02/0474/06 $2.00
+Volume 89, February 1992, 474-479
+474
+
+Fukao et al.
+
+differ from one another with respect to molecular, catalytic,
+and immunochemical properties (5-7). Among them, only T2
+is responsible for the cleavage of 2-methyl-acetoacetyl-CoA, an
+intermediate of isoleucine catabolism, and is activated in acetoacetyl-CoA thiolase by the presence of K+ (5, 8).
+It was reported that 3KTD fibroblasts lack both the 2-methylacetoacetyl-CoA thiolase activity and the K+ activation of
+acetoacetyl-CoA thiolase (3, 4, 8). In immunochemical analyses we found that fibroblasts from a 3KTD patient lacked the
+T2 protein because of a defect in its biosynthesis (9). We cloned
+and sequenced the rat and human T2 cDNAs (10, 1 1), and the
+human T2 gene (1 la) to study 3KTD at the gene level. Studies
+on the protein biosynthesis and mRNA expression suggested
+that the molecular defects of 3KTD are highly heterogeneous
+(11, 12).
+An uncommon case of a Caucasian family, in which the
+father and one of the children were 3KTD patients, was previously reported by Schutgens et al. (3). We describe here the
+molecular basis of 3KTD in this family at the DNA level.
+
+Methods
+Cases and cell lines. The case report and the in vitro enzyme assay in
+fibroblasts of the family have been described elsewhere (3). Briefly,
+patient 2 (GK04) had severe attacks of ketoacidosis at the age of 4.5 and
+6.5 yr. During the latter period, a diagnosis of 3KTD was made. Patient
+1 (GK05) is the father of GKO4. He was asymptomatic but was diagnosed as having 3KTD at the time of familial analysis. The mother and
+brother of patient 2 were expected to be obligatory carriers of 3KTD, as
+determined by the enzyme assay. Fibroblasts were cultured in Eagle's
+minimum essential medium containing 10% fetal calf serum. Data on
+the immunochemical analyses and Northern blot analysis of the patients have already been reported (1 1, 12).
+Oligonucleotideprimersfor cDNA synthesis, polymerase chain reaction (PCR) amplification, and sequencing. Oligonucleotide primers for
+cDNA synthesis and PCR amplification of T2 cDNA were designed
+according to the normal human T2 cDNA sequence (11) as follows:
+-03 (5'-AGTCTACGCCTGTGGAGC-3')/
+
+64(3'-ACTTGTCCTGCGAATACGAT-5')
+15 (5'-CTACAAGAACACCCATTGG-3')/
+100(3'-GGTTAACGAGGACATATACGA-5')
+60 (5'-AGCTGTGCTGAGAATACAGC-3')/
+
+135(3'-CACACTGATGACACCCAGT-5')
+When the A of the initiator ATG codon was designated base number 1,
+the primer pairs -03/64, 15/100, and 60/135 amplified the region
+-40-646, 140-995, and 583-1360, respectively. The most 3' antisense
+primer (termed as 135) was 57-76 bases downstream from TAG stop
+codon.
+
+cDNA synthesis and amplifcation of T2 cDNA. Total cellular RNA
+was prepared from fibroblasts by the acid guanidinium thiocyanatephenol chloroform extraction method (13). First-strand cDNAs were
+synthesized from 5 gg of total cellular RNA using 0.5 ,ug of the 135
+primer. Transcription was carried out at 370C for 60 min in 20 td of
+reaction mixture containing 50 mM Tris-HCl, pH 8.3, 6 mM MgCl2,
+40 mM KC1, 1 mM dithiothreitol, 1 mM dNTPs (dATP, dGTP, dCTP,
+and dTTP), 20 U of RNasin (Pharmacia LKB Biotechnology, Piscataway, NJ), and 10 U of Rous associated virus 2 reverse transcriptase
+(Takara Shuzo, Kyoto, Japan). PCR amplification was carried out with
+4 ,ul of the above cDNA solution as a template and 1 MM of each pair of
+the PCR primers. 40 cycles of PCR (1 min at 94°C, 2 min at 54°C, and
+4 min at 72°C) were performed with a DNA thermal cycler and Gene
+Amp DNA amplification reagent kit (Perkin-Elmer Cetus Corp., Norwalk, CT).
+Subeloning ofPCR-amplifiedfragments and sequencing. After electrophoresis on 2% agarose gel, fragments were excised and purified with
+Geneclean II kit (Bio 101 Inc., La Jolla, CA). They were subcloned into
+Sma I site of pTZ vector (U. S. Biochemical Corp., Cleveland, OH)
+after being treated with the Klenow fragment of DNA polymerase I
+(Takara Shuzo) to generate blunt-ended DNA fragments. Sequencing
+was performed on plasmid DNA with the Sequenase Kit (U. S. Biochemical Corp.) and [35S]dATPaS (Amersham Corp., Arlington
+Heights, IL). For direct sequencing, the purified PCR fragments
+(- 25-50 ng) were taken to initiate a second PCR containing only one
+of the original primers, as described (14). Sequencing was carried out
+with an aliquot of the above solution as a template, Taq DNA polymerase (Promega Corp., Madison, WI), and 32P-end-labeled oppositestrand primers, as described (15).
+In vitro transcription/translation of T2 cDNAs. Each of the normal
+and three mutant full-length T2 cDNA was subcloned into an in vitro
+expression vector, pTZ1 8U (U. S. Biochemical Corp.). In vitro transcription was carried out with T7 RNA polymerase according to the
+protocol recommended by manufacturer (U. S. Biochemical Corp.).
+The synthesized mRNAs were translated with a rabbit reticulocyte lysate (Amersham Corp.) and Tran 35S-label (ICN Biochemicals, Irvine,
+CA). Translation products were analyzed in SDS-PAGE after immunoprecipitation with anti-[rat T2]IgG, and were fluorographed.
+Genomic DNA amplification and sequencing. Genomic DNA from
+fibroblasts was prepared (16). Oligonucleotide primers for gene amplification were designed according to the normal T2 gene sequence (1 1 a),
+as follows: for the region surrounding exon 8,
+
+In7B(5'-ATTCTAGATGAGTGTTTACTTGG-3')/
+In8A(3'-GTCATATAGTCCGAGTACA-5'),
+and for the region surrounding exon 11,
+In1OB(5'-GAGACAGAGCAAGACTGTTG-3')/
+In I A(3'-GGATGGGTAGAAAGTATTCCG-5').
+PCR was carried out with 1 Mg of DNA as a template, according to the
+same procedure used for cDNA amplification. Sequencing was performed with subcloned plasmids.
+
+(Fig. 1, arrows). No fragment was amplified with any pair of
+primers, when mock cDNA (synthesized without reverse transcriptase) was used as a template (lanes marked with a minus
+sign), thereby confirming that the bands were not the result of
+accidental contaminations.
+Amplified fragments were subcloned to pTZ18U plasmid
+vectors and four clones of each fragment were sequenced. Sequencing of the long and short B fragments identified two mutations. In the normal size B fragment, a point mutation G to A
+at position 547 (nucleotide number beginning from the first
+residue of the initiator ATG triplet) was observed. This mutation should cause an amino acid change from Gly'50 to Arg of
+the mature T2 subunit. In the short B and C fragments, there
+was a deletion of positions 731-826. This deletion corresponds
+to exon 8 of the T2 gene. Since the G to A substitution at
+position 547 was present only in the normal size fragment, the
+two mutations must be present on separate alleles. All mutations were confirmed by direct sequencing of the amplified
+fragments (Fig. 2, A and B). No other mutation was detected in
+the T2 cDNA.
+Familial analysis in their T2 cDNA. PCR analysis of other
+family members with primers 60/135 showed the presence of
+
+a)
+
+A
+
+B
+11
+
+1
+
+-03-64 15-100 60-135
+
+(+) (-) (+) H (+) H
+I
+bp
+
+925-*
+421
+
+b)
+TAG
+
+ATG
+03 o
+AI
+
+464
+
+15
+60
+
+f%
+
+Results
+Identification ofmutations in T2 cDNA ofpatient 1. We amplified the entire coding region of human T2 cDNA by using three
+pairs of primers: -03 and 64 (termed as fragment A), 15 and
+100 (fragment B), and 60 and 135 (fragment C) (Fig. lb). A
+single band of the expected size was obtained with each primer
+pair by amplification of the normal cDNA: 680 bp of fragment
+A, 850 bp of fragment B, and 780 bp of fragment C (data not
+shown). In case of patient 1, another fragment smaller than the
+normal one by about 100 bp was amplified for either B or C
+
+C
+
+4 100
+
+4 135
+
+Figure 1. In vitro amplification of T2 cDNA of patient 1. (a) The
+coding region of T2 cDNA was amplified with three pairs of primers;
+-03 and 64 (termed fragment A), 15 and 100 (fragment B), and 60
+and 135 (fragment C). The first-strand cDNA synthesis before PCR
+amplification was performed with (lanes indicated by a plus sign) or
+without (lanes indicated by a minus sign) reverse transcriptase.
+Arrows indicate fragments smaller than normal cDNA fragments by
+100 bp. (b) Strategy of PCR amplification. ATG and TAG indicate
+the initiator methionine codon and the termination codon of T2
+cDNA, respectively. The positions of fragments A, B, and C and
+primers are shown.
+
+Molecular Basis of 3-Ketothiolase Deficiency
+
+475
+
+A)
+Larger fr.
+CTAG
+
+G
+5
+
+Asp
+
+A
+
+B)
+Smaller fr.
+CTAG
+
+A
+
+G
+Leu
+
+Ec
+Asp
+
+Nc
+G
+
+TA
+
+3' Thr C
+
+l-.T
+
+¢
+
+. W ,.
+
+9
+;W.NW
+
+TG
+
+-
+
+EA
+XA
+
+T Leu
+As
+As
+C Thr
+ToO
+
+.m
+
+E
+x
+0
+N
+
+8T
+
+- G~GY
+~~~G/0
+:X_
+
+T
+
+G A T C
+
+XA
+
+Gs
+
+NIC
+
+Larger fr. Smaller fr.
+
+E
+Ix
+I0
+N
+
+NA
+
+\G
+
+7
+
+Figure 2. Partial nucleotide sequence of fragment B of patient 1. The autoradiograms of the direct sequencing encompassing the mutated region
+are shown. Largerfr. and smallerfr., a normal size fragment B and the smaller fragment B, respectively. (A) A single base substitution of G to
+A at position 547 results in replacement of glycine (GGG) by arginine (AGG) in the larger fragment B. The smaller fragment B has a normal
+sequence at the site. (B) Exon 8 skipping in the smaller fragment B is shown.
+
+the shorter fragment in the brother and the father (Fig. 3, lanes
+B and PI, arrowheads) and the presence of an additional
+shorter fragment in patient 2 and his mother (Fig. 3, lanes P2
+and M, arrows). The smaller fragments did not hybridize with
+exon 8 and
+probes, respectively (data not shown).
+When the amplified fragments of patient 2 were sequenced,
+the G to A mutation at 547 was detected in the normal size
+fragment, for both A and B, whereas the deletion from positions 1006-1162,
+
+precisely corresponding
+
+to the exon
+
+of the
+
+T2 gene, was detected in the smaller fragment C (Fig. 4). No
+other mutation was found in the cDNA fragments. In the
+smaller fragment C of the mother and the brother, there was a
+skipping of exons 11 and 8, respectively.
+Hence three mutant alleles were inherited, as shown in Fig.
+5. The results are in accord with the observation that the
+mother and the brother are obligatory carriers of 3KTD with
+respect to the enzyme activity (3).
+
+M
+
+B
+
+P2 P1
+
+In vitro transcription/translation ofthe mutant T2 cDNAs.
+The skipping of exon 8 does not alter the reading frame of the
+T2 mRNA, hence a polypeptide shorter than the normal one
+by 32 amino acid residues is expected to be produced. The
+skipping of exon 11 is expected to result in not only a loss ofthe
+53-amino acid sequence encoded by exon 11 but also in a
+frameshift at the carboxyl-terminal portion of T2. Accordingly,
+the carboxyl-terminal 92 amino acids may be replaced with a
+70-amino acid polypeptide with a different sequence. The relative molecular mass of the T2 precursor translated from normal mRNA, the mRNA with exon 8 skipping, and the mRNA
+with
+
+exon
+
+skipping was calculated
+
+to be
+
+45,199, 41,437, and
+
+44,105 D, respectively. In in vitro transcription/translation experiments, the polypeptide derived from T2 cDNAs with exon
+8 skipping (Fig. 6, lane 1) and that with exon 11 skipping (lane
+3) were actually 3.5 and 1.0 kD, respectively, smaller than that
+from the normal T2 cDNA (lane 2). However, in the pulse-
+
+C
+
+Smaller fr. Larger fr.
+G A T C
+t
+
+E
+X
+
+A E
+A X
+T O
+T N
+
+0
+
+N
+
+bp
+925-_-
+
+G II
+G K
+Go
+AE
+T X
+x
+
+10
+
+E
+X
+
+420-.
+Figure 3. In vitro amplification of fragment C in the family. Lane M,
+mother; lane B, brother; lane P2, patient 2; lane PI, father (patient
+1); lane C, control. Arrows and arrowheads, the 100-bp smaller fragments C and 160-bp smaller fragments C, respectively.
+476
+
+Fukao et al.
+
+G
+
+N
+12
+
+C
+
+c
+
+N
+C 12
+T
+
+Figure 4. Partial nucleotide sequences of fragment C in patient 2.
+Largerft. and smallerfr., normal size fragment C and 160-bp smaller
+fragment C, respectively. Exon 11 skipping is evident in the 160-bp
+smaller fragment C.
+
+Patient 1
+
+T
+R
+O
+N
+
+t
+g
+a
+t
+
+8t
+g
+
+i
+
+A
+
+IIZL
+
+AlG
+
+Patient 2
+
+I*,
+
+E T
+
+X A
+° A
+NA
+8 A
+G
+A
+
+Gly--Arg substitution
+M
+
+Exon 8 skipping
+Exon 11 skipping
+
+_U*.
+
+Normal Mutant
+G A TC G A T C
+I
+
+\-
+
+is
+,
+
+**4
+
+1*
+
+"f
+
+gI
+t TN
+g R
+a O
+t N
+t 8
+
+GI
+T E
+A x
+I~~~~~~~~~~~
+A O
+A N
+A 8
+G
+A
+
+Figure 5. The pedigree
+of the family and summary of mutant alleles
+detected in cDNA analyses.
+
+Figure 7. Partial nucleotide sequence around the 5' splice site of intron 8 of patient 1. Genomic sequences around exon 8 were amplified
+with In 7B and In 8A primers. In the sequence of patient 1, both
+normal and mutant sequences were noted. A point mutation g to t at
+the 5' splice site is indicated by an arrow.
+
+chase experiments of the patients' fibroblasts, we found no
+such truncated T2 subunit derived from these precursors even
+with a 1-h pulse (12). These observations suggest that these
+truncated T2 proteins are extremely unstable.
+The polypeptide translated from the mutant cDNA with
+G547 to A substitution (lane 4) was almost the same size as that
+from normal T2 cDNA (lane 2). Hence, the T2 protein detected in pulse-chase experiments of their fibroblasts ( 12) appeared to have the G"47 to A mutation.
+Identification of a 5' splice site mutation of intron 8. To
+search for the cause of the exon 8 skipping, the genomic sequence around exon 8 was amplified with In 7B and In 8A
+primers. A single fragment, 440 bp was successfully amplified
+(data not shown). A point mutation from G to T was detected
+in 4 of 10 clones from patient 1; this mutation was located in a
+consensus sequence of the 5' splice site (GAAAATGgttagtg to
+GAAAATG~ttagtg) (Fig. 7). No other mutation was detected in
+the region around exon 8, up to 100 bp in either the 5' or the 3'
+direction. This mutation was also detected in the DNA from
+
+the brother but not from patient 2 and the mother; hence, this
+mutation is probably responsible for exon 8 skipping.
+Identification ofa 3' splice site of intron 11. To examine the
+cause of exon 11 skipping, we also sequenced the genomic region around this exon, after amplification with In lOB and In
+1 A primers. A point mutation from A to C was detected in
+four of seven clones from patient 2 and this mutation was located in a consensus sequence of3' splice site (aatttaagGTTC to
+aatttacgGTTC) (Fig. 8). No other mutation was detected in the
+regions around exon 1 1, up to 100 bp in either the 3' or the 5'
+direction. This mutation was also present in amplified specimens from the mother but not in those from the father (patient
+
+Normal allele
+
+Figure 6. In vitro transcrip-
+
+1 2 3 4
+
+tion/translation of the mutant
+T2 cDNAs. The polypeptides
+synthesized by in vitro transcription/translation were electrophoresed in SDS-PAGE
+
+kD
+46-
+
+after immunoprecipitation
+with anti-[rat T2]IgG. Prod-
+
+_
+30-
+
+ucts from normal T2 cDNA
+
+(lane 2), the T2 cDNAs with
+exon 8 skipping (lane 1), with
+exon 11 skipping (lane 3), with
+the G57 to A substitution (lane
+4) are shown. An arrowhead
+indicates the position of the
+mature T2 subunit (41,385
+mol wt).
+
+a
+
+Normal
+
+Mutant
+GATC
+
+I a
+N a
+T tt
+
+N t
+10 aa
+
+w
+
+.S.OW
+
+_a
+
+N
+
+_.
+
+T
+
+A
+
+.
+
+q
+
+*
+
+s-
+
+'HP.
+q~~~~~~~p
+
+-~~~~~~~~~
+
+"X
+
+n."_
+
+~~~~~V
+
+a
+
+I
+a N
+t T
+t R
+a
+
+10
+~~~~~~~~~~~~~~~~~.
+
+9
+AG
+TN^
+T E
+
+TC R
+
+IA 11
+
+Figure 8. Partial nucleotide sequence around the 3' splice site of intron 10 of patient 2. Genomic sequences around exon 11 were amplified with In lOB and In 11A primers. An a to c substitution at the
+3' splice site of intron 10 were detected heterozygously in the genomic
+sequence, as indicated by an arrowhead.
+
+Molecular Basis of3-Ketothiolase Deficiency
+
+477
+
+1) and the brother. Presumably this mutation is responsible for
+exon 11 skipping.
+
+Discussion
+We reported that there is molecular heterogeneity in 3KTD at
+protein and mRNA levels of expression (1 1, 12). Our present
+study clarified the genetic relation in a family, in which the
+father (GK05) and one of the children (GK04) were 3KTD
+patients, as described earlier (3). We have defined three mutant
+alleles for the molecular basis of 3KTD and described two
+point mutations causing exon skipping, with one occurring at
+the splice acceptor site. The present study appears to be the first
+complete definition of 3KTD, at the molecular level.
+Using an immunochemical technique we noted that GKO4
+and GKO5 fibroblasts lacked a detectable level of T2 protein, at
+a stable state (12). We further observed in pulse-chase experiments using these fibroblasts that a lower level of radioactivity
+was incorporated into a normal size of T2 polypeptide at a 1-h
+pulse, but when chased it degraded (12). This unstable T2 polypeptide should contain the Glylso to Arg substitution, because
+the two truncated forms of T2 polypeptide expressed from
+other alleles were not detected even at a 1-h pulse. Hence, this
+single amino acid change seems to affect the stability of the
+enzyme, thereby constituting a major cause of the disease.
+The primary structures of nine thiolases have been reported
+(10, 11, 17-23). When these amino acid sequences were
+aligned to achieve maximum homologies, the Gly'50 was conserved, irrespective of substrate specificities and origins of the
+enzymes, except for human and rat peroxisomal 3-ketoacylCoA thiolases, which are evolutionarily most distant from T2,
+as described elsewhere (10). According to the method of Chou
+and Fasman (24), this Gly is located within a predicted ,8-turn
+region. The probability of ,B-turn occurrence (P, value) at residues 147-150 is calculated to be 1.94 X 10-4 in the normal
+sequence but is reduced to 1.08 X l0-4 by the Gly'50 to Arg
+substitution. This region seems to be incorporated into the ahelix by the replacement, thereby altering the secondary structure of the T2 subunit. Thus it is highly probable that the single
+amino acid change causes instability of the enzyme. On the
+other hand, this mutation may also affect the enzyme activity.
+Unfortunately, we failed to examine the possibility of expressing the mutant protein in cultured cells because all the cell lines
+we tested contained relatively high endogenous activities of T2
+and other thiolases, thereby interfering with an accurate measurement of the T2 activity derived from the transfected gene.
+It is now well established that the 5' and 3' splice sites of
+introns are composed of GT and AG dinucleotides, respectively. These are absolutely conserved and required for accurate splicing of nuclear pre-mRNA (25, 26). Mutations at the
+GT dinucleotide of the 5' splice site have been reported to cause
+skipping of the preceding exon (27-31). We concluded that the
+substitution of GT dinucleotide for TT in the 5' splice site of
+intron 8 caused the skipping of exon 8.
+Mutations involving the consensus AG dinucleotide ofthe
+3' splice site have been noted in three genetic diseases: f3-thalassemia (32, 33), citrullinemia (34), and lipoprotein lipase deficiency (35). In these cases, the mutations caused abnormal
+splicing with the use of cryptic acceptor sites in the affected
+intron (33) or in the following exon (34), or the affected intron
+sequences were not spliced (32, 34). To our knowledge, there
+478
+
+Fukao et aL
+
+has been no report of a human disease involving an entire exon
+skipping caused by a mutation at the 3' splice site. However, an
+AG to AA transition at the splice acceptor site of an intron was
+reported to cause skipping of the following exon in a spontaneous mutant of Chinese hamster ovary cells deficient in dihydrofolate reductase activity (36). Similarly, it is highly probable
+that the AG to CG mutation at the splice acceptor site of intron
+11 in our patient (GK04) also affects the splicing of this intron.
+Hence, we propose that this mutation in GKO4 and his mother
+is the cause of exon 11 skipping detected in the cDNA analysis.
+Acknowledaments
+We thank H. Ohgusu and T. Takeda for the synthesizing the oligoprimers and M. Ohara for helpful comments.
+This study was supported in part by a grant for the promotion of
+science research (01570522) from the Ministry of Education, Science,
+and Culture of Japan, grants (2A-6-O1 and 2A-1 1-19) from the National Center of Neurology and Psychiatry of the Ministry of Health
+and Welfare, and a grant for pediatric research (63-A) from the Ministry of Health and Welfare, Japan.
+
+References
+1. Daum, R. S., P. H. Lamm, 0. A. Mamer, and C. R. Scriver. 1971. A "new"
+disorder of isoleucine catabolism. Lancet. ii:1289-1290.
+2. Daum, R. S., C. R. Scriver, 0. A. Mamer, E. Delvin, P. Lamm, and H.
+Goldman. 1973. An inherited disorder ofisoleucine catabolism causing accumulation of a-methylacetoacetate and a-methyl-ft-hydroxybutyrate, and intermittent metabolic acidosis. Pediatr. Res. 7:149-160.
+3. Schutgens, R. B. H., B. Middleton, J. F. van der Blij, J. W. E. Oorthuys,
+H. A. Veder, T. Vulsma, and W. H. H. Tegelaers. 1982. Beta-Ketothiolase deficiency in a family confirmed by in vitro enzymatic assays in fibroblasts. Eur. J.
+Pediatr. 139:39-42.
+4. Robinson, B. H., W. G. Sherwood, J. Taylor, J. W. Balfe, and 0. A. Mamer.
+1979. Acetoacetyl-CoA thiolase deficiency: a case of severe ketoacidosis in infancy simulating salicylism. J. Pediatr. 95:228-233.
+5. Middleton, B. 1973. The oxoacyl-coenzyme A thiolases of animal tissues.
+Biochem. J. 132:717-730.
+6. Miyazawa, S., T. Osumi, and T. Hashimoto. 1980. The presence of a new
+3-oxoacyl-CoA thiolase in rat liver peroxisomes. Eur. J. Biochem. 103:589-596.
+7. Miyazawa, S., S. Furuta, T. Osumi, T. Hashimoto, and N. Ui. 1981. Properties of peroxisomal 3-ketoacyl-CoA thiolase from rat liver. J. Biochem. 90:51 1519.
+8. Middleton, B., and K. Bartlett. 1983. The synthesis and characterisation of
+2-methylacetoacetyl coenzyme A and its use in the identification ofthe site of the
+defect in 2-methylacetoacetic and 2-methyl-3-hydroxybutyric aciduria. Clin.
+Chim. Acta. 128:291-305.
+9. Yamaguchi, S., T. Orii, N. Sakura, S. Miyazawa, and T. Hashimoto. 1988.
+Defect in biosynthesis of mitochondrial acetoacetyl-coenzyme A thiolase in cultured fibroblasts from a boy with 3-ketothiolase deficiency. J. Clin. Invest.
+81:813-817.
+10. Fukao, T., K. Kamijo, T. Osumi, Y. Fujiki, S. Yamaguchi, T. Orii, and T.
+Hashimoto. 1989. Molecular cloning and nucleotide sequence of cDNA encoding the entire precursor of rat mitochondrial acetoacetyl-CoA thiolase. J. Biochem. 106:197-204.
+11. Fukao, T., S. Yamaguchi, M. Kano, T. Orii, Y. Fujiki, T. Osumi, and T.
+Hashimoto. 1990. Molecular cloning and sequence of the complementary DNA
+encoding human mitochondrial acetoacetyl-coenzyme A thiolase and study of
+the variant enzymes in cultured fibroblasts from patients with 3-ketothiolase
+deficiency. J. Clin. Invest. 86:2086-2092.
+1 la.Kano, T., T. Fukao, S. Yamaguchi, T. Orii, T. Osumi, and T. Hashimoto.
+1991. Structure and expression of the human mitochondrial acetoacetyl-CoA
+thiolase-encoding gene. Gene. 109:285-290.
+12. Nagasawa, H., S. Yamaguchi, T. Orii, R. B. H. Schutgens, L. Sweetman,
+and T. Hashimoto. 1989. Heterogeneity ofdefects in mitochondrial acetoacetylCoA thiolase biosynthesis in fibroblasts from four patients with 3-ketothiolase
+deficiency. Pediatr. Res. 26: 145-149.
+13. Chomczynski, P., and N. Sacchi. 1987. Single-step method of RNA isolation by acid guanidinium thiocyanate-phenol-chloroform extraction. Anal. Biochem. 162:156-159.
+14. Gibbs, R. A., P. N. Nguyen, L. J. McBride, S. M. Koepf, and C. T. Caskey.
+1989. Identification of mutations leading to the Lesch-Nyhan syndrome by auto-
+
+mated direct DNA sequencing of in vitro amplified cDNA. Proc. Natl. Acad. Sci.
+USA. 86:1919-1923.
+15. Innis, M. A., K. B. Myambo, D. H. Gelfand, and M. A. Brow. 1988. DNA
+sequencing with Thermus aquatics DNA polymerase and direct sequencing of
+polymerase chain reaction-amplified DNA. Proc. Natl. Acad. Sci. USA. 85:94369440.
+16. Old, J. M. 1986. Fetal DNA analysis. In Human Genetic Diseases: A
+Practical Approach. K Davies, editor. IRL Press, Ltd., Oxford. 1-17.
+17. Arakawa, H., M. Takiguchi, A. Amaya, S. Nagata, H. Hayashi, and M.
+Mori. 1987. cDNA derived amino acid sequence of rat mitochondrial 3-oxoacylCoA thiolase with no transient presequence: structural relationship with peroxisomal isozyme. EMBO (Eur. Mol. Biol. Organ.) J. 6:1361-1366.
+18. Hijikata, M., N. Ishii, H. Kagamiyama, T. Osumi, and T. Hashimoto.
+1987. Structural analysis of cDNA for rat peroxisomal 3-ketoacyl-CoA thiolase.
+J. Biol. Chem. 262:8151-8158.
+19. Fairbairn, L. J., and M. J. A. Tanner. 1989. Complete cDNA sequence of
+human foetal liver peroxisomal 3-oxoacyl-CoA thiolase. Nucleic Acids Res.
+17:3588.
+20. Peoples, 0. P., S. Masamune, C. T. Walsh, and A. J. Sinskey. 1987.
+Biosynthetic thiolase from Zoogloea ramigera. J. Biol. Chem. 262:97-102.
+21. Dequin, S., R. Gloeckler, C. J. Herbert, and F. Boutelet. 1988. Cloning,
+sequencing and analysis of the yeast S. Uvarum ERG10 gene encoding acetoacetyl CoA thiolase. Curr. Genet. 13:471-478.
+22. Yu Yang, S., X. Ying He Yang, G. H. Louie, H. Schulz, and M. Elzinga.
+1990. Nucleotide sequence of thefadA gene. J. Biol. Chem. 265:10424-10429.
+23. People, 0. P., and A. J. Sinskey. 1989. Poly-jl-hydroxybutyrate biosynthesis in Alcaligenes eutrophus H16. J. Biol. Chem. 264:15293-15297.
+24. Chou P. Y., and G. D. Fasman. 1978. Prediction of protein secondary
+structure. Adv. Enzymol. 47:45-148.
+25. Padgett, R. A., P. J. Grabowski, M. M. Konarska, S. Seiler, and P. A.
+Sharp. 1986. Splicing of messenger RNA precursors. Annu. Rev. Biochem.
+55:1119-1150.
+26. Shapiro, M. B., and P. Senapathy. 1987. RNA splice junctions ofdifferent
+classes of eukaryotes: sequence statistics and functional implication in gene expression. Nucleic Acids Res. 15:7155-7175.
+27. DiLella, A. G., J. Marvit, A. S. Lidsky, F. Guttler, and S. L. C. Woo. 1986.
+
+Tight linkage between a splicing mutation and a specific DNA halotype in phenylketonuria. Nature (Lond.). 322:799-803.
+28. Weil, D., M. Bernard, N. Combates, M. K. Wirtz, D. W. Hollister, B.
+Steinmann, and F. Ramirez. 1988. Identification of a mutation that causes exon
+skipping during collagen pre-mRNA splicing in an Ehlers-Danlos syndrome variant. J. BioL. Chem. 263:8561-8564.
+29. Cole, W. G., A. A. Chiodo, S. R. Lamande, R. Janeczko, F. Ramirez,
+H. H. M. Dahl, D. Chan, and J. F. Bateman. 1990. A base substitution at a splice
+site in the COL3AI gene causes exon skipping and generates abnormal type III
+procollagen in a patient with Ehlers-Danlos syndrome type IV. J. Biol. Chem.
+265:17070-17077.
+30. Nakajima, H., N. Kono, T. Yamasaki, K. Hotta, M. Kawachi, M. Kuwajima, T. Noguchi, T. Tanaka, and S. Tarui. 1990. Genetic defect in muscle phosphofructokinase deficiency. Abnormal splicing of the muscle phosphofructokinase gene due to a point mutation at the 5' splice site. J. BioL. Chem. 265:93929395.
+31. Akli, S., J. Chelly, C. Mezard, S. Gandy, A. Kahn, and L. Poenaru. 1990.
+A "G" to "A" mutation at position -1 of a 5' splice site in a late infantile form of
+Tay-Sachs disease. J. BioL. Chem. 265:7324-7330.
+32. Orkin, S. H., J. P. Sexton, S. C. Goff, and H. H. Kazazian, Jr. 1983.
+Inactivation of an acceptor RNA splice site by a short deletion in jI-thalassemia. J.
+BioL. Chem. 258:7249-725 1.
+33. Antonarakis, S. E., S. H. Irkin, T. Cheng, A. F. Scott, J. P. Sexton, S. P.
+Trusko, S. Charache, and H. H. Kazazian, Jr. 1984. fl-Thalassemia in American
+Blacks: novel mutations in the "TATA" box and an acceptor splice site. Proc.
+NatL. Acad. Sci. USA. 81:1154-1158.
+34. Su, T., and L. Lin. 1990. Analysis of a splice acceptor site mutation which
+produces multiple splicing abnormalities in the human argininosuccinate synthetase locus. J. BioL. Chem. 265:19716-19720.
+35. Hata, A., M. Emi, G. Luc, A. Basdevant, P. Gambert, P. Iverius, and J.
+Lalouel. 1990. Compound heterozygote for lipoprotein lipase deficiency: Ser to
+Thr2" and transition in 3' splice site ofintron (AG to AA) in the lipoprotein lipase
+gene. Am. J. Hum. Genet. 47:721-726.
+36. Mitchell, P. J., G. Urlaub, and L. Chasin. 1986. Spontaneous splicing
+mutations at the dihydrofolate reductase locus in Chinese hamster ovary cells.
+Mol. Cell. Biol. 6:1926-1935.
+
+Molecular Basis of 3-Ketothiolase Deficiency
+
+479
+
+

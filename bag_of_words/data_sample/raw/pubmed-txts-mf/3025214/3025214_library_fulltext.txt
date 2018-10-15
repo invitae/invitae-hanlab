@@ -1,0 +1,1287 @@
+Vol. 262, No . 1, Issue of January 5,pp. 401-410, 1987
+Printed in U.S.A.
+
+THEJOURNAL
+OF BIOLOGICAL
+CHEMISTRY
+0 1987 by The American Society of Biological Chemists. Inc
+
+The Lebanese Allele at the Low Density Lipoprotein Receptor Locus
+NONSENSEMUTATIONPRODUCESTRUNCATEDRECEPTOR
+RETICULUM*
+
+THATIS RETAINEDIN
+
+ENDOPLASMIC
+
+(Received for publication, July 7, 1986)
+
+Mark A. LehrmanSg, WolfgangJ. SchneiderSq, MichaelS . Brown$, C. Geoffrey Davis$I(,
+Ake Elhammer**$$, David W. Russell$%#,and Joseph L. Goldstein$
+From the $Departments of Moleculur Geneticsand Internal Medicine, University of Texaa Health Science Center at Dallas,
+Southwestern Medical School,Dallas, Texas 75235 and t k **Division of Hemtohgy-Oncohgy, Departments of Internal
+Medicine and Biochemistry, Washington University School of Medicine, St. Louis, Missouri 63110
+
+We here describe a mutant low density lipoprotein
+Mutationsin the gene for the low density lipoprotein
+receptor gene that produces a shortened receptor pro- (LDL)’ receptor cause familial hypercholesterolemia (FH), a
+tein lacking three domains: the region of clustered 0- prevalent autosomal dominant disease (1).Operating through
+linked carbohydrates, the
+membrane-spanning region, receptor-mediated endocytosis, the LDL receptor promotes
+and the cytoplasmic tail. The defect is attributable to a the clearance of cholesterol-rich LDL particles from blood.
+single nucleotide substitution that creates a premature Individuals who inherit one mutant gene for the LDL receptor
+termination codon at amino acid 660, eliminating 180 (FH heterozygotes) have moderately elevated levels of LDL
+residues from the mature protein. The truncated pro- in plasma and develop heart attacks in the fourth to seventh
+tein retainsonly two domains: a complete ligand-bind- decade. Individuals who inherit two mutant genes (FH homoing region (residues 1-292) and a partial epidermal zygotes) have markedly elevated levels of LDL andfrequently
+growthfactorprecursor
+homology region (residues
+293-659). The termination codon occurs in themiddle suffer heart attacks in childhood. The prevalence of heteroof a cysteine-rich sequence that is part of the epidermal zygous FH appears to be approximately 1 in 500 among the
+growth factorprecursor homology domain. The mutant general population of most countries in the world. The prevprotein is present in markedly reduced amounts and alence of homozygotes is generally about 1 in 1 million.
+may be translated at a reduced rate. After synthesis, However, in Lebanon, the frequency of the homozygous conmost of the receptor remains within thecell for several dition is more than 10-fold higher. This is attributable to a
+hours with its N-linked carbohydrate in an unpro- high prevalence of heterozygosity for FH among Lebanese
+cessed endoglycosidaseH-sensitive form. This finding people, coupled with a high incidence of consanguinity which
+suggests that the shortened receptor leaves the endo- increases the proportion of homozygotes (2). It was through
+plasmic reticulum at an abnormally slow rate, which studies of the Lebanese population that Khachadurian (3)
+is likely attributable to abnormal folding of the trun- first clearly delineated the existence of homozygous FH. The
+cated protein. The mutation creates a new restriction molecular basis of the mutation in the LDL receptor gene
+site for theenzyme HinfI, thus permittingdiagnosis by that produces FH in the Lebanese population is unknown.
+Southern blotting of genomic DNA. Two copiesof this
+Recently, the cDNA and gene for the normal LDL receptor
+mutant gene were present in each of four unrelated have been cloned (4, 5), and a variety of defects in this gene
+Arab patients with homozygous familial hypercholes- have been identified among patients with FH (6-11). The
+terolemia (three from Lebanon and one from Syria). defects have been grouped into four broad classes (11).These
+We believe that thismutation, hereafter referred toas are: 1) “null” alleles that produce no immunoprecipitable
+the ”Lebanese allele,” is responsible for the extraordi- receptors; 2) transport-deficient alleles that produce receptors
+narily high incidence of familial hypercholesterolemia
+that fail to move from their site of synthesis in the endoin Lebanon.
+plasmic reticulum to their site of function on the cell surface;
+3) binding-defective alleles that produce immunoprecipitable
+receptors that reach the cell surface but fail to bind LDL
+normally; and 4)internalization-defective alleles that produce
+receptors that reach the surface and bind LDL but fail to
+*This research was supported in part by Research grants HL
+cluster in coated pits and therefore fail to carry LDL into the
+20948, HL 31346, and CA 08759 from the National Institutes of
+Health, and Grant 1-971from the Robert A. Welch Foundation. The cell. In an additional group of mutants, the receptor is syncosts of publication of this article were defrayed in part by the thesized without its hydrophobic transmembrane anchor, an
+payment of page charges. This articlemust therefore be hereby event that leads to secretion of the receptor from the cell (6).
+marked “advertisement” in accordance with 18 U.S.C. Section 1734
+The gene for the human LDL receptor encompasses 45
+solely t o indicate this fact.
+kilobases (kb) of DNA on the short arm of chromosome 19
+3 Recipient of a fellowship from the JaneCoffin Childs Memorial (5, 12). It is divided into 18 exons (5). Exon 1 encodes a
+Fund for Medical Research.
+ll Present address: Dept. of Biochemistry, University of Alberta, hydrophobic NH,-terminal signal sequence that directs the
+nascent receptor chain to the endoplasmic reticulum. Exons
+Edmonton, Canada T6G 2H7.
+11 Recipient of Postdoctoral Fellowship HL 06660 from the Na- 2-6 encode a cysteine-rich sequence of 40 amino acids that is
+tional Institutes of Health.
+$$ Present address: Dept. of Biochemistry, Arrhenius Laboratory,
+University of Stockholm, Stockholm, Sweden 10691.
+§§ Recipient of National Institutes of Health Research Career
+Development Award HL 01287.
+
+The abbreviations used are: LDL, low density lipoprotein; endo
+
+H, endo-N-acetylglycosaminidase
+H FH, familial hypercholesterolemia; kb, kilobases; HEPES, 4-(2-hydroxyethyl)-l-piperazineethanesulfonic acid; SDS, sodium dodecyl sulfate.
+
+401
+
+402
+
+Mutant LDL Receptor Retained in Endopbmic Reticulum
+
+was obtained from Arlene Wyman (Massachusetts Institute of Technology). h DNA packaging extracts (Gigapack) were purchased from
+Vector Cloning Systems.
+Clinical Data-Five subjects (FH 264,550,786,793, and 787) have
+the classical clinical syndrome of dominantly inherited homozygous
+FH. FH 264 (female), FH 550 (female), and FH 786 (male) are from
+three different Lebanese families. FH 793 (female) is Syrian. Cells
+from all four of these subjects produce a 100-kDa LDL receptor
+precursor that is not processed. FH 787 (male) is a French Canadian
+who is a compound heterozygote; his cells produce both a 120-kDa
+unprocessed form of the LDL receptor and a 160-kDaprocessed form.
+FH 265 (male) is a Lebanese with a variant form of familial
+hypercholesterolemia. He is one of four affected siblings in the Kh
+family described by Khachadurian (19) and Khachadurian and Uthman (20). The variant form of hypercholesterolemia is distinguished
+from classic FH in the following three ways: 1) autosomal recessive
+inheritance (the heterozygous parents in the Kh family have normal
+total plasma cholesterol levels); 2) lower total plasma cholesterol
+levels in affected homozygotes (the four affected siblings in the Kh
+family have values of 414-470 mg/dl versus 600-1000 mg/dl in classic
+FH homozygotes); and 3) a lower population frequency (of 30families
+with severe hypercholesterolemia in Lebanon, only 1 had the variant
+form and theother 29 had classic FH) (19,20).
+Assays of LDL Metabolism and Monoclonal IgG-C7Binding-Human fibroblasts were obtained from skin biopsy specimens and grown
+in monolayer culture a t 37 "C in a 5% CO, incubator. About 3.5 X
+lo' cells from stock cultures were seeded into 60-mm Petri dishes
+according to a standard protocol and cultured for 5 days. Maximal
+synthesis of LDL receptors was induced by incubation in human
+lipoprotein-deficient serum for 48 h prior to study, as described
+elsewhere (16). We then measured the binding, internalization, and
+degradation of '=I-LDL a t 37 'C (16) and thecell surface binding of
+monoclonal anti-receptor 1261-IgG-C7a t 4 'C (18).
+Immunochemical Analysis of 13SS/Methionin~-lobeled
+LDL Receptors-Monolayers of fibroblasts were incubated with [36S]methionine
+in methionine-free Dulbecco'smodified Eagle's medium supplementedwith 10% lipoprotein-deficient serum as indicated in the
+figure legends. After labeling, the cells were washed twice with 2 ml
+of ice-cold Dulbecco's phosphate-buffered saline (GIBCO 310-4190)
+and then lysed by addition of0.2 ml of buffer containing 10 mM
+HEPES (pH 7.4), 200 mM NaCl, 2 mM CaCl,, 2.5 mMMgC12, 1 mM
+unlabeled methionine, 1 mM phenylmethylsulfonyl fluoride, 0.1 mM
+leupeptin, and 1.5% (v/v) Triton X-100. The dishes were scraped
+with a rubber policeman, and thecell extract was centrifuged at 4 "C
+for 30 min a t 150,000 X g. The supernatant was precipitated with
+preformed immune complexes consisting of monoclonal mouse antiLDL receptor IgG-C7 or IgG-2001 and goat anti-mouse IgG as described previously (21). If not indicated otherwise, the immunoprecipitates were dissolved by heating a t 90 "C for 3 min in buffer
+containing63 mM Tris-C1 (pH 6.8), 2.3% (w/v) SDS, 20% (v/v)
+glycerol, and 150 mM dithiothreitol and thensubjected to electrophoresis on 6.5% or 7% SDS-polyacrylamide slab gels (14 X 8.5 X 0.15
+cm), followed by treatment with EN3HANCE, drying, and autoradiography (21).
+Preparatwn of Radiolabeled Glycopeptides by Pronase Digestion of
+SDS-Polyacrylamide Gel Slices Containing LDL Receptor-The proEXPERIMENTALPROCEDURES
+cedure of Cummings et al. (14) was followed. Briefly, autoradiograms
+Materials-We obtained neuraminidase (N-2133) from Sigma; con- were obtained from the dried gels, and slices of gel containing the
+canavalin A-Sepharose from Pharmacia P-L Biochemicals; [36S]me- bands of interest were treated with Pronase. The released glycopepthionine (-1100 Ci/mmol) and [1,6-3H]glucosamine(30-60 Ci/mmol) tides were subjected to chromatography on concanavalin A-Sepharose
+from New England Nuclear; [3H]iodoacetic acid (144 mCi/mmol) to analyze for the presence of 0-linked N-acetylgalactosamine resifrom Amersham Corp.; and endo-N-acetylglycosaminidaseH (endo dues.
+H) from Dr. Frank Maley (Health Research, Inc., Albany, NY).
+Blot Hybridization of Poly(A)+ RNA-Total cellular RNA from
+Human LDL (d 1.019-1.063 g/ml) was prepared by ultracentrifuga- fibroblasts was isolated by guanidinium chloride extraction (22), and
+tion and radiolabeled with lZ6Iby the iodine monochloride method poly(A)+ RNA was prepared by standard procedures (23). Blot hy(16). Anti-COOH-terminal I&, a polyclonal rabbit antibodydirected bridization of poly(A)+ RNA was carried out on Zeta-probe memagainst a synthetic peptide corresponding to the COOH-terminal 14 branes (Bio-Rad) as previously described (24).
+amino acidsof the LDL receptor, was prepared as described by Russell
+Genomic Cloning-High molecular weight DNA was isolated (23)
+et al. (13). IgG-C7, a mouse monoclonal antibody that recognizes an from fibroblasts (6) of FH homozygote 264 (200 pgof DNA) and
+epitope in theNH2-terminal extracellular domain of the human LDL digested for 2 h at 37 "C with a 3-fold excess of BamHI. The digested
+receptor, and IgG-2001, a control mouse monoclonal antibody di- DNA was extracted with phenol/chloroform (1:l) and then chlororected against an irrelevant antigen, were prepared as described (17, form, precipitated with 70% ethanol and86 mM sodium acetate, and
+18). IgG-C7 was radiolabeled with 1261by the IODO-GEN method dissolved in 100 pl of 10 mM Tris-C1 and 1 mM trisodium EDTA at
+(18). 32P-Labeled nucleotides were purchased from New England pH 7.5. After repeat digestion with BamHI, the DNA wasfractionated
+Nuclear. Enzymes used in cloning, sequencing, and restriction diges- by centrifugation on 10-40% sucrose gradients (23). Southern blotting
+tion were purchased from New England Biolabs. X Charon 35 was with an exon 18-specificcDNA probe (6) was used to identify fractions
+obtained from Phil Tucker (University of Texas Health Science containing the desired 17-kb fragment. The DNA (100 ng) was mixed
+Center a t Dallas), and Escherichia coli strain DB1255 (recBC-,sbcB-) with 0.5 pg ofBamHI-digested arms of X Charon 35 (25) and incubated
+
+repeated seven times and is believed to constitute the LDLbinding domain. Exons 7-14 encode a sequence of 400 amino
+acids of unknown function that is homologous to a sequence
+in theprecursor for epidermal growth factor. Exon 15 encodes
+a sequence of 58 amino acids that contains 18 serine and
+threonine residues, to most of which are attached short carbohydrate chains in 0-linkage (13, 14). This is the so-called
+clustered 0-linked sugar region (15). Exon 16 and part of
+exon 17 encode a hydrophobic sequence that spans themembrane. The remainder of exon 17 and exon 18encode a COOHterminal sequence of 50 amino acids that projects into the
+cytoplasm and directs the receptor to coated pits.
+The calculated molecular weight of the protein component
+of the LDL receptor (minus the signal sequence) is 93,102.
+When the receptor is synthesized, it migrates on sodium
+dodecyl sulfate (SDS)-polyacrylamide gels with an anomalous
+molecular weight of 120,000, a property that is partly attributable to the presence of N-acetylgalactosamine residues on
+the clustered serine and threonine residues encoded by exon
+15 (14, 15). After the newly synthesized receptor is transported to the Golgi complex, its apparent molecular weight
+shows afurther anomalous increase to 160,000, primarily
+owing to theelongation of the clustered 0-linked sugar chains
+by the addition of galactose and sialic acid residues (14). In
+addition to the clustered 0-linked sugars, the receptor contains a few 0-linked sugar chains as well as two to three N linked carbohydrate chains scattered on the NH2-terminal
+portion of the protein (15).These latterforms of carbohydrate
+contribute relatively little to the anomalous electrophoretic
+behavior of the receptor. When the clustered 0-linked sugar
+region encoded by exon 15 is artificially deleted from the
+cDNA, the transfected receptor loses most of its anomalous
+behavior on SDS-polyacrylamide gels (15).
+In the current study, we report the molecular basis of a
+prevalent mutation that causes FH in the Lebanese population. This "Lebanese allele" produces a receptor that migrates
+with an abnormally smallapparent molecular weight of
+100,000. The defect is attributableto a single base substitution
+in exon 14 that produces a premature termination codon. The
+truncated receptor lacks the region encoded by exon 15 and
+therefore lacks clustered 0-linked sugars. The receptor also
+lacks a membrane-spanning region and a cytoplasmic tail.
+Evidence for a similar defect was found in four individuals,
+three from different families in Lebanon and one from Syria.
+We believe that thisnonsense mutation accountsfor the high
+frequency of FH in Lebanon.
+
+403
+
+Mutant LDL Receptor Retained in Endoplasmic Reticulum
+(16 h, 14 "C) with 490 units of T 4 DNA ligase. The ligated material
+was packaged into X phage particles in vitro to yield a total of 1.9 X
+lo6 plaque-forming units, and one recombinant clone was identified
+with an exon Wspecific probe. This clone, designated XFH 264-22,
+was isolated after two additional cycles of plaque purification. The
+human DNA insert was subcloned into BamHl-digested pBR322. A
+restriction map of the insert was in agreement with that of the
+corresponding segment of the normal gene (5).
+DNA Sequencing-The sequence of exon 14 in XFH 264-22 was
+obtained as follows. An oligonucleotide primer specific for the 5' end
+was 5' end-laof exon 14 (5'-GAGTGAACTGGTGTGAGAGG-3')
+beled with [Y-~'P]ATP and T4 polynucleotide kinase. A doublestranded plasmid derived from pBR322 and containing the cloned
+insert of XFH 264-22 was denatured with 0.4 N sodium hydroxide and
+then annealed with the 32P-labeled primer. The primer-template
+complex was subjected to one of two procedures: 1) it was extended
+in the presence of appropriate dideoxynucleotide mixtures (without
+c~-~'P-labeled
+deoxynucleotides) and the Klenow fragment of E. coli
+DNA polymerase I and sequenced by a modification of the method of
+Sanger et al. (26); or 2) i t was extended in the presence of 1 mM
+deoxynucleotides and the Klenow fragment, digested with Sphl, and
+subjected to denaturing polyacrylamide gel electrophoresis to yield a
+119-nucleotide extension product, which was sequenced by the
+method of Maxam and Gilbert (27). The sequence of the normal exon
+14 (4, 5) was generated for direct comparison with the sequence of
+exon 14 from FH 264 by the above methods using plasmid p381-20
+(28), which contained a 17-kb BamHI fragment of the normal gene
+extending from intron 10 to exon 18.
+Southern Blotting-High molecular weight genomic DNA (5 pg)
+was isolated from cultured fibroblasts (6), digested with a 12-fold
+excess of HinfI, and subjected to electrophoresis for 14 h at 1.2 V
+cm" in 5% NuSieve-agarose (FMC Corp.) with buffer containing 45
+mM Tris acetate, 2 mM trisodium EDTA, 10 mM sodium acetate, and
+9 mM NaCl at pH8.2. The gel was then treated by shaking a t room
+temperature with 0.5 M NaOH and 1.5 M NaCl for 60 min, followed
+by 5 X buffer A (1 X buffer A = 50 mM Tris acetate and 1 mM
+trisodium EDTA at pH8.2) for 40 min, followed by 1 X buffer A for
+30 min. The DNA was transferred by capillary blotting (23) for 48 h
+with 1 X buffer A to Zeta-probe membranes (Bio-Rad). After rinsing
+for 1 min with 1 X buffer A, the filter was prehybridized, hybridized
+with 2.5 X lo6 cpm of a single-stranded probe/ml, and washed as
+previously described (6). Filters were then exposed with Kodak XAR5 x-ray film a t -70°C with intensifying screens.
+
+I A. Surface Bound
+
+1200
+
+B. Intracellular
+
+000 ~,o/o"'
+
+400
+
+I
+
+*H
+N
+
+4000
+
+,
+C. Degraded
+
+-0
+
+r
+
+3000
+Cell Slrrrin
+
+0 Normal
+
+2000
+
+A FH 264
+1000
+
+FIG. 1. Surface binding (A), internalization (B), and degradation (0 of 1261-LDLat 37 "C as a function of 1261-LDL
+concentration in normal (a) and FH homozygote 264 (A)
+fibroblasts. After incubation for 48 h in lipoprotein-deficient serum
+(day 7 of cell growth), each monolayer received 2 ml of medium
+containing lipoprotein-deficient serum and the indicated concentration of lZ6I-LDL(109 cpm/ng). After incubation for 5 h at 37 "C, the
+total values for surface-bound, intracellular, and degraded 'T-LDL
+were determined. The datawere not corrected for nonspecific binding,
+uptake, ordegradation of '=I-LDL.
+
+RESULTS
+
+Fig. 1 compares the binding, uptake, and degradation of
+lZ5I-LDLat 37 "C in cells from a normal subject and from
+subject FH 264, the prototype individual with the 100-kDa
+form of the LDL receptor that is produced by the Lebanese
+allele. The FH 264 cells showed no detectable high affinity
+binding, uptake, or degradation of lz5I-LDL. Table I shows
+that cells from three other individuals from different Arab
+families (FH 550 and 786 from Lebanon and FH 793 from
+Syria) also show a marked reduction in high affinity binding,
+uptake, and degradationof lz5I-LDL.Intact cells from FH 264
+and FH 550 also failed to bind '251-labeledIgG-C7 at 4 "C, a
+monoclonal antibody directed against the LDL receptor, indicating that no immunoreactive receptor reached the surface
+of these cells (Table 11).
+As shown in Fig. 2, after a 2-h incubation with [35S]methionine and precipitation with IgG-C7, normal fibroblasts exhibited two forms of the LDL receptor on SDS-polyacrylamide gelelectrophoresis: 1)the precursor form with an apparent
+molecular weight of 120,000, and 2) the mature form with an
+apparent molecular weight of 160,000 (Fig.2, Lane A ) . When
+the cells were chased with unlabeled methionine for 2 h, all
+of the precursor was converted to the mature form (Fig. 2,
+Lane B ) . In contrast, the FH 264 cells produced only a 100kDa precursor (Fig. 2, Lane C), which was not converted to a
+higher molecular weight even after a 2-h chase
+with unlabeled
+methionine (Fig. 2, Lane D).The amount of labeled receptor
+in the FH 264 cells was much less than that in the normal
+
+TABLE
+I
+Metabolism of ''=I-LDLat 37 "C by monolayers of fibroblastsfrom FH
+homozygotes
+After incubation for 48 h in lipoprotein-deficient serum (day 7 of
+cell growth), each monolayer received 2 mlof medium containing
+10% lipoprotein-deficient serum and 10 fig of protein/ml of "3-LDL
+(140-200 cpm/ng of protein) in the absence or presence of 500 pg of
+protein of unlabeled LDL. After incubation for 5 h a t 37 "C, the total
+amounts of surface-bound, intracellular, and degraded '''I-LDL were
+determined. The data shown represent high affinity values, which
+were calculated by subtracting the values obtained in the presence of
+excess unlabeled LDL (nonspecific values) from those obtained in
+the absence of unlabeled LDL (total values). The nonspecific values
+comprised 4 0 % of total values in normal cells. Each value represents
+the mean of triplicate incubations.
+Subject
+
+Surface-bound
+'=I-LDL
+
+Intracellular
+'I-LDL
+
+Degraded
+"''1-LDL
+
+w/mgprotein
+Experiment A
+Normal
+FH 550
+
+240
+1
+
+640
+6
+
+2320
+7
+
+Experiment B
+Normal
+FH 786
+
+150
+5
+
+1030
+14
+
+4960
+8
+
+Experiment C
+Normal
+FH 793
+
+220
+4
+
+880
+11
+
+3750
+28
+
+Mutant LDL Receptor Retained in Endoplasmic
+Reticulum
+
+404
+
+TABLE
+I1
+Binding of ‘251-Iabeiedanti-receptor IgG-C7 a t 4 “C to momhyers of
+fibroblasts from FH homozygotes
+After incubation for 48 h in lipoprotein-deficient serum (day 7 of
+cell growth), each monolayer received 1.5 ml of ice-cold medium
+containing 10% lipoprotein-deficient serum and 14 nM ‘=I-IgG-C7
+(61-75 cpm/fmol) in the absence and presence of excess unlabeled
+IgG-C7(1.3 p~ in Experiment A and 0.67 p~ in Experiment B).
+After incubation for 2 h a t 4 “C, the amountof lSI-IgG-C7 bound to
+the cells was determined. High affinity binding was calculated by
+subtracting the values of ‘’‘I-IgG-C7 bound in the presence of unlabeled IgG-C7 (nonspecific binding) from that in its absence (total
+binding). Each value remesents theaverage of tridicate incubations.
+
+A.
+
+M,
+
+X
+
+Surface-bound ‘”I-IgG-C7
+Subject
+
+Total
+
+High affinity
+
+f m o l / m g protein
+
+Experiment A
+362
+Normal
+FH 264
+
+409
+41
+
+0
+
+Experiment B
+Normal
+FH 550
+
+221
+42
+
+161
+2.0
+
+-
+
+M,
+
+4
+
+X
+
+200 -
+
+- 200
+
+116 97 -
+
+- 116
+- 97
+
+FIG. 3. Biosynthesis of S6S-labeledLDL receptors in fibroblasts fromFH homozygotes 264, 550, and 786. Fibroblasts
+from the indicated subjects were cultured as described for Fig. 2. In
+A , three dishes of each cell strain were labeled for 16 h with [35S]
+methionine (275 pCi/ml) in Dulbecco’s modified Eagle’s medium
+containing 5 pM unlabeled methionine. In B, six dishes of each cell
+strain were pulse-labeled with [35S]methionine(275 pCi/ml) in methionine-free medium for 2 h, followed by a chase in medium containing 200 p~ unlabeled methionine for 1 h. Detergent extracts of the
+cells were subjected to immunoprecipitation by the monoclonal antibody, IgG-C7, followed by SDS-polyacrylamide gel electrophoresis
+and autoradiography for 12 h (Lane I ) or 72 h (Lanes 2-5) as described
+under “Experimental Procedures.” M. standards areindicated.
+
+“T
+
+L
+
+0
+
+z
+
+200 -
+
+Mr
+
+116 -
+
+I
+
+X
+
+200 -
+
+9768 -
+
+116 -
+
+” 97 Nonimmune
+
+213
+
+a
+L L L L
+
+4
+
+5
+
+Mr
+
+X
+
+IO-3
+
+- 200
+
+d
+
+Immune
+
+B.
+
+- 116
+- 97
+
+FIG.4. Biosynthesis of S6S-labeledLDL receptors in fibroblasts from FH 793 and her heterozygous parents.Cells from
+FIG. 2. Biosynthesis of s6S-labeledLDL receptors by fibro- the indicated subject were cultured as described for Fig. 2. Six dishes
+blasts from FH homozygote 264. Cells from the indicated subject from each cell strain were then incubated for 30 min in methioninewere cultured as described under “ExperimentalProcedures.” On day free medium, followed by pulse labeling with [35S]methionine (120
+5 of cell growth after incubation for 18 h in lipoprotein-deficient pCi/ml) for 2 h in methionine-free medium and a chase for 1 h in
+serum, 6 dishes of normal cells and 14 dishes of FH 264 cells were medium containing 200 PM unlabeled methionine. 35S-LabeledLDL
+pulse-labeled for 2 h with [35S]methionine (210 pCi/ml) in methio- receptors were precipitated with the monoclonal anti-LDL receptor
+nine-free Dulbecco’s modified Eagle’s medium, followed by a chase antibody, IgG-C7, followedby SDS-polyacrylamide gel electrophorefor the indicated time in Dulbecco’s modified Eagle’s medium con- sis and autoradiography for 30 h as described under “Experimental
+taining 200 p~ unlabeled methionine. Detergent extracts of the cells Procedures.” M,standards areindicated.
+were prepared and subjected to immunoprecipitation with either
+monoclonal anti-LDL receptor antibody, IgG-C7 (Immune), or con- tients with the clinical syndrome of homozygous FH (Fig. 3,
+trol monoclonal antibody, IgG-2001 (Nonimmune), as indicated. Elec- A and B ) . All three mutant cell lines contained much less
+trophoresis of the precipitates on 6.5% SDS-polyacrylamide gels and labeled receptor than did the normal cells (note thedifferent
+autoradiography were performed as described under “Experimental
+Procedures.” The gelswere exposed to x-ray film for 28 h. The autoradiogram exposure time in the legend to Fig. 3).
+A similar 100-kDa protein was observed in cells from FH
+positions of migration of the following standards as determined by
+Coomassie Blue staining are indicated myosin (200,000), P-galacto- 793, a child from Syria with homozygous FH (Fig. 4, Lane 2).
+sidase (116,000),phosphorylase b (97,000),and bovine serum albumin Although consanguinity was denied, both parents of FH 793
+(68,000).
+showed evidenceof heterozygosity for the same defect (Fig.4,
+Lanes 3 and 4). The amount of the mutant 100-kDa protein
+
+cells. For comparative purposes in Fig. 2, we used 14 dishes
+of FH 264 cells uersus 6 dishes of normal cells.
+The FH 264 cells showed only the 100-kDa form of the
+receptor even when incubated with [35S]methioninefor 16 h
+(Fig. 3, Lane 2).A similar defect was seen in FH 550 and FH
+786 cells, which were obtained from unrelated Lebanese pa-
+
+in these heterozygotes was much lessthan theamount of the
+normal 160-kDa protein in the same cells. For comparative
+purposes, in the same experiment, we studied fibroblasts from
+a Canadian FH homozygote (FH 787) whose cellscontain the
+120-kDaprecursor form of the receptor and the160-kDa form
+(Fig. 4, Lane 5 ) . The 120-kDa band, which isthe same size as
+
+Mutant LDL Receptor Retained in Endoplasmic
+Reticulum
+
+405
+
+the normal precursor, migrated more slowlythan the100-kDa
+form present in the Syrian subjects.
+To compare the carbohydrates on the normal and mutant
+forms of the receptor, we pulse-labeled normal cells with [35S]
+methionine for 1 h so that theprecursor and mature forms of
+the receptor would both be labeled (Fig. 5A). We labeled the
+FH 264 cells for 2handthen
+incubated the cells for 2
+additional h in the presence of unlabeled methionine so as to
+obtain the 100-kDa receptor in its most mature form (Fig.
+5B).We treated the immunoprecipitates either with neuraminidase or with endo H prior to electrophoresis. In normal
+cells, neuraminidase decreased the apparent molecular mass
+of the 160-kDa mature receptor (Fig. 5, Lane 2), but it did
+not affect the 120-kDaprecursor. In contrast, endo H did not
+30
+affect the mature form of the receptor, but it did reduce the
+apparent molecular mass of the 120-kDa precursor ( L a n e 4).
+In the FH264 cells, neuraminidase had no effect on the 100kDa form of the receptor ( L a n e 7), but endo H reduced its
+apparent molecular mass ( L a n e 9). Thus, 2 h after its synthesis, the 100-kDa protein appeared to possess unprocessed
+high-mannose, endo H-sensitive N-linked sugars, but not
+mature sialylated oligosaccharides.
+To determine whether the 100-kDa receptor in the Lebanese homozygote cells contains clustered 0-linked N-acetylgalactosamine residues, we incubated normal and FH 264
+5
+IO
+15
+cells with [3H]glucosamine,isolated the receptor by immuFRACTION
+noprecipitation, and digested the protein with Pronase. The
+FIG. 6. Chromatography on concanavalin A-Sepharose of
+radiolabeled carbohydrate-containing fragments were applied radiolabeled glycopeptides isolated
+from LDL receptors
+of FH
+to a column of concanavalin A-Sepharose which was washed homozygote 264. A and B, FH 264 fibroblasts were cultured as
+and then eluted sequentially with 10 mM a-methylglucoside described for Fig. 2 and thenlabeled for 18 h with [1,6-3H]glucosamine
+followedby100
+mM a-methylmannoside (Fig. 6). Normal (300 pCi/ml) in Dulbecco’s modified Eagle’s medium containing 20
+glucose. C, normal fibroblasts were cultured as described for
+fibroblasts incorporate [3H]glucosamineinto N-linked oligo- mg/liter
+Fig. 2 and thenlabeled for 3 h with [1,6-3H]glucosamine(94 pCi/ml)
+saccharides. The cells also epimerize the precursor UDP-N- in glucose-free Dulbecco’s modified Eagle’smedium.Cell extracts
+a~etyl[~H]glucosamine
+to UDP-N-a~etyl[~H]gaIactosamine,were precipitated with eitherthe monoclonal anti-LDL receptor
+which isincorporated into 0-linkedoligosaccharides (14).The antibody, IgG-C7, or the monoclonal control antibody, IgG-2001,
+
+= I
+
+n
+
+-
+
+A. Normal
+Mrx10-31~12]
+200 116.
+97,
+
+B. FH264
+314151161
+
+7\91101“200
+18
+M, xjo-3
+.I16
+.97
+
+FIG. 5. Sensitivity of LDL receptors to treatment with
+H. Cells from the indicated subject were
+neuraminidase and endo
+cultured as described for Fig. 2. In A, normal fibroblasts were incubated for 30 min in methionine-free medium, followed by pulse
+labeling with [35S]methionine (120 pCi/ml) in methionine-free medium for 60 min. In B, cells from FH homozygote 264 were incubated
+for 30 min in methionine-free medium, then pulse-labeled for 2 h in
+methionine-free medium containing 170 pCi/ml [%]methionine, followed by a chase for 2 h in medium containing 200 p~ unlabeled
+methionine. ’%-Labeled LDL receptors were immunoprecipitated
+with the monoclonal anti-LDL receptor antibody, IgG-C7, as described under “Experimental Procedures.” The immunoprecipitates
+derived from two dishes (A) or five dishes ( B )were incubated for 20
+h a t 24 “C asfollows. Lanes 1 3 and 6 4 5 0 pl of 0.1 M sodium citrate
+(pH 6.0) in the absence or presence of 0.2 unit of neuraminidase as
+indicated; Lanes 4, 5,9,and IO, 50 pl of 30 mM sodium citrate (pH
+5.5), 0.75% (w/v) SDS, 1 mM phenylmethylsulfonyl fluoride, and 1
+mM dithiothreitolin the absence or presence of 50 milliunits of
+endoglycosidase H as indicated. Then, 50 pl of buffer containing 20%
+(v/v) glycerol, 125 mM Tris-C1 (pH 6.8), and 4.6% (w/v) SDS was
+added to each tube, followed by heating a t 90 “C for 3 min. SDS gel
+electrophoresis and autoradiography were performed as described
+under “Experimental Procedures.” The gels were exposed to x-ray
+film in A for 20 h and inB for 48 h. M, standards are indicated.
+
+followed by electrophoresis and autoradiography as described under
+“Experimental Procedures.” The radioactive receptor band and a
+similar size piece from the corresponding position in thenonimmune
+lane were excised from the gel and digested with Pronase, and the
+resulting glycopeptides were chromatographed on concanavalin ASepharose as described under “ExperimentalProcedures.” The arrows
+indicate elution with 10 mM a-methylglucoside (a-n-Glc) and 100
+mM a-methylmannoside (a-m-Man).A , FH 264 receptor. 0, labeled
+glycopeptides from the 100-kDa LDL receptor band on the gel immunoprecipitated with IgG-C? 0, labeled material from the corresponding position in the adjacent laneof the gel immunoprecipitated
+with IgG-2001. B, 0, the difference between the two profiles shown
+in A is plotted. C, normal 120-kDa receptor precursor. 0, labeled
+glycopeptides from the 120-kDa LDL receptor band on the gel immunoprecipitated with IgG-C7.
+
+N-linked oligosaccharides adhere tothe concanavalin ASepharose column, but the 0-linked sugars do not. Since there
+is much more N-acetylgalactosamine (0-linked) than N-acetylglucosamine (N-linked) in the LDL receptor precursor, the
+bulk of the radioactivity does not adhere to theconcanavalin
+A column (Fig. 6C and Ref. 14). A strikingly different distribution of radioactivity was observed in the FH 264 cells. In
+these cells, mostof the radioactivity adhered to the concanavalin A column and was eluted only with a-methylmannoside
+(Fig. 6A, solid circles). Verylittle LDL receptor-specificradioactivity appeared in the run-through fractions, indicating that
+little N-a~etyl[~H]galactosamine
+was incorporated into 0linked sugars (Fig. 6A).
+To control for nonspecific immunoprecipitation in the FH
+264 cells, we performed the same digestion and column chromatography on a corresponding fragment of a polyacrylamide
+gel to which we had applied a labeled extract that was im-
+
+Mutant LDL Receptor Retained in Endoplasmic Reticulum
+
+406
+
+munoprecipitated with an irrelevant monoclonal antibody
+(Fig. 6A, open circles). Fig. 6B shows the difference between
+the radioactivity obtained from the specific and nonspecific
+immunoprecipitates in each of the column fractions. Even
+after this correction was made, a small amount of specifically
+precipitated radioactivity from the FH264 cells was found in
+the void volume fractions in Fig. 6B. We believe that this
+radioactivity represents the small number of scattered 0linked carbohydrate chains that are known to be attached to
+the LDL receptor in regions outside of the cluster encoded by
+exon 15 (Ref. 15). Thus, the dataof Fig. 6 are consistentwith
+the hypothesis that the FH264 receptor lacked all clustered
+0-linked carbohydrates.
+To determine whether the shortened LDL receptor of FH
+264 cells contains a normal COOH terminus, we incubated
+cells for 4 h with [35S]methionineand then precipitated the
+receptors with either of two antibodies, one directed against
+the NH2-terminalregion of the receptor and the other
+directed
+against the COOH-terminal14 amino acids (Fig. 7). In normal
+cells, the receptor was precipitated with the anti-NH2-terminal antibody (Lane A) and the antibody directed against the
+COOH-terminal sequence (Lane B). The receptor produced
+in FH 264 cells was precipitated by the anti-NH2-terminal
+antibody (Lane C), but it was not precipitated by the antiCOOH-terminal antibody (Lane D).
+The reduced size, lack of clustered 0-linked sugars, and
+absence of reactivity with the anti-COOH-terminal antibody
+suggested that the FH264 receptor might terminate prior to
+the region encoded by exon 15. To determine whether this
+termination resulted from a gross deletion in the FH
+264 gene,
+we studied the size of the mRNA encoded by this allele. As
+shown in Fig. 8, the size of the LDL receptor mRNA produced
+by the FH 264 cells was indistinguishable from normal after
+denaturing agarose gel electrophoresis. Moreover, extensive
+analysis of the FH 264 receptor gene by Southern blotting
+with cDNA probes specific for exons 1-18 of the receptor
+indicated an absence of any large deletions or rearrangements
+(data not shown). These findings raised the possibility that
+the shortened receptor protein in the FH 264 cells was the
+
+T
+9
+x
+
+r’
+
+F
+
+146-
+
+97-
+
+Anti-COOH
+
+‘
+-
+
+28s-
+
+23s
+
+18SGrowth
+Conditions
+
+]Sterols
+
+1-1+1-1
+
+FIG. 8. Hybridization of S2P-labeled LDL receptor cDNA
+probe to poly(A)+RNA from FH 264 fibroblasts and normal
+SV40-transformedhuman fibroblasts. Cells were grownin monolayer under standard conditions and then incubated for 24 h with
+medium containing 10%lipoprotein-deficient serum and 10 p~ compactin in the absence (-) or presence (+) of sterols (2 pg/ml 25hydroxycholesterol plus 12 pg/ml cholesterol) as indicated. Poly(A)+
+RNA (10 pg) from the indicated cells was size-fractionated by agarose
+gel electrophoresis, transferred to Zeta-probe membranes, and hybridized a t 42 “C for 16 h with a 3ZP-labeledsingle-stranded human
+LDL receptor cDNA probe (10’ cpmlpg). The 32Pprobe was derived
+from a bacteriophage M13mp9 clone containing nucleotides 267-1082
+of the LDL receptor cDNA (4). The filter was exposed to x-ray film
+for 2 h a t -70°C. The positions to which bovine 18 S and 28 S
+ribosomal RNAs and E. coli 23 S ribosomal RNA migrated are
+indicated.
+I
+Exon NO.
+
+5’4
+
+1.I 12
+
+13 14
+II
+
+::
+
+I I,
+
+I
+
+F””” 4A
+
+15
+I
+
+16
+
+5 hb
+
+17
+
+3‘
+
+I
+
+I
+
+FH 264 Allele
+
+FIG. 9. Portion of LDL receptor gene analyzed in FH 264.
+The 3’ end of the LDL receptor gene (5) containing exons 11-18 is
+shown at the top. Exons are denoted by solid segments; introns are
+denoted by open segments. The BamHI sites used for construction of
+bacteriophage clone XFH 264-22 are shown. The region containing
+exon 14 is expanded at the bottom. The solid and broken arrows
+denote the lengths and orientations of DNA sequencing experiments
+performed by the enzymatic (26) and chemical (27) methods, respectively. The asterisk indicates the position of the mutation in exon 14.
+bp, base pairs.
+
+200 -
+
+Anti- NH2
+
+L L Z Z
+
+T
+
+l
+
+FIG. 7. SDS-polyacrylamide gel electrophoresis of %-labeled receptors in fibroblasts
+from FH 264 after immunoprecipitation with anti-COOH-terminal antibody.Cells from the
+indicated subject were cultured as described for Fig. 2. Twenty dishes
+for each cell strain were incubated for 30 min in methionine-free
+medium, followed by pulse labeling with [35S]methionine (170 pCi/
+ml) for 4 h in methionine-free medium. 35S-LabeledLDL receptors
+were immunoprecipitated from detergent-solubilized cell extracts as
+indicated either with monoclonal IgG-C7 (which recognizes the NHzterminal extracellular domain of the receptor) or with the polyclonal
+anti-COOH-terminal IgG, followed by SDS gel electrophoresis and
+autoradiography for 8 h (Lanes A and B) or 16 h (Lunes C and D) as
+described under “Experimental Procedures.” M,standards are indicated.
+
+product of a nonsense mutation occurring 5’ to exon 15 in
+the LDL receptor gene.
+To test this hypothesis, we turned to genomiccloning.
+Exons 11-17 (and part of exon 18) of the LDL receptor are
+contained on a 17-kb BarnHI fragment (Fig. 9). We digested
+genomic DNA from patient FH 264 with BarnHI, size-fractionated the fragments to isolate those with a size in the range
+of 17 kb, and ligated these DNAs into a bacteriophage X
+cloning vector. A recombinant bacteriophage containing the
+receptor fragment was isolated, and the DNA insert was
+subcloned into pBR322 and subjected to sequencing by primer
+extension on denatured double-stranded DNA (see “Experimental Procedures”). The sequence of the extended primer
+was determined by the chemical method of Maxam and Gilbert (27) and by the dideoxy chain termination method of
+Sanger et al. (26). Both methods gave the same result: the FH
+264 gene contained a cytidine to adenine transversion in
+
+Mutant LDL Receptor Retained in Endoplasmic Reticulum
+codon 660 of the mature receptor, changing the codon from
+TGC (cysteine) to TGA (termination). The sequencing gel
+autoradiogram showing this result obtained by the Sanger
+technique is presented in Fig. 10.
+The nucleotide substitution in FH 264 would be expected
+to create a new recognition site for the restriction enzyme
+HinfI (Fig. 11B). To confirm that thissubstitution was indeed
+present in genomic DNAand to determine whether the same
+FH 264
+
+Normal
+
+T~
+T
+CG@-
+
+7C T G
+
+Cys 660
+
+Stop 660
+
+FIG. 10. Nucleotide sequencesof LDL receptor genes from
+a normalsubjectandfrom
+FH homozygote 264 in region
+surrounding cysteine 660. DNA sequencingwasperformedby
+modification of the method of Sanger et al. (26) as described under
+“ExperimentalProcedures.” The normalandmutantsequences
+shown were obtained from double-stranded plasmids containing
+exon
+14 of genomic DNA from a normal subject or FH 264. A cytidineto
+adenine transversionis apparent in codon 660 ofFH 264.
+
+-
+
+A.
+
+Lebanese
+Allele
+
+u)
+
+U
+
+-206
+
+-
+
+J
+
+-210
+
+-
+
+- 234
+- 194
+
+201
+271
+
+6.
+Hinf I
+
+Hinf I
+
+Normal
+
+.
+
+LDL Receptor
+Gene
+
+EXON 14
+FH 264
+
+I
+
+Hint I
+
+Normal:
+GCCTC
+
+Hinf I
+
+HinfI
+
+-
+
+4
+
+76 nt
+FH264:
+
+GACTC
+
+HinfI:
+
+GANTC
+
+4
+
+5
+
+286 nt
+
+-
+
+b
+
+210 nt
+b
+
+FIG. 11. Detection of the Lebanese mutation
+in four patients
+with classic homozygous FH. A, genomic DNA (5 pg) from the
+indicated subject was digested withHinfI, electrophoresed, andblotted as describedunder“ExperimentalProcedures.” The blotwas
+probed with a single-strandedprobe (35) that contained a portionof
+exon 14 of the human LDL receptor gene (correspondingto nucleotides (nt) 2014-2107of the humanLDLreceptor
+cDNA) (4) as
+described under “Experimental Procedures.” The sizes of the fragments detected were estimated from their migration relative
+to standards obtained by digestionof 6x174 replicative form DNAwith
+HaeIII. The filter was exposedto x-ray filmfor 10 days. B shows the
+site of the mutation inexon 14 and the predicted fragmentsizes after
+HinfI digestion. bp, base pairs.
+
+407
+
+mutation was present in otherLebanese FH homozygotes, we
+performed the genomic blotting experiment shown in Fig.
+1lA. Genomic DNA was digested with HinfI, subjected to
+agarose gel electrophoresis,and blotted onto Zeta-probe membranes, which efficiently retain small fragments of DNA. The
+blots were probed with a 32P-labeledcDNA fragment corresponding to exon 14. DNA from five normal subjects (two of
+whom are shown in Fig. 1lA)showed a HinfI band of -286
+base pairs. In thethree Lebanese patients and theone Syrian
+patient described above (FH 264,550,786, and 793), a smaller
+HinfI fragment of -210 base pairs was seen (Fig. 1lA). This
+is the predicted size of the fragment if the abnormal HinfI
+site were present in thegene (Fig. 11B). Moreover,
+the absence
+of the normal 286-base pair fragment indicates that all four
+individuals are true homozygotes. DNA from the Lebanese
+patient (FH 265) with the variant form of hypercholesterolemia (see “Experimental Procedures”) showed onlythe normal
+Hinff band (Fig. 1lA). This result is consistent with the
+biochemical phenotype of these cells, which shows a mature
+receptor that migrates with an apparent molecular weight of
+160,000on SDS gels (data not shown).
+The premature termination codon in the FH264 cells would
+beexpected to produce a receptor that terminates in the
+middle of a 40-amino acid cysteine-rich sequence designated
+repeat C (Fig. 12). Such an alteration is likely to disrupt the
+disulfide-bondingpattern of the receptor in this region. Previous studies have suggested that the vast majority of the
+cysteine residues in the LDL receptor are disulfide-bonded
+(29). To demonstrate this phenomenon formally, we purified
+the LDL receptor from bovine adrenal cortex using a previously described procedure (30). The receptor was denatured
+in 7 M guanidine and then incubated in an excess of [3H]
+iodoacetic acid with or without prior reduction with P-mercaptoethanol (Table 111). Following the reaction, the receptor
+was dialyzed and theamount of incorporated 3H radioactivity
+was measured. In the absence of P-mercaptoethanol, very
+little [3H]iodoacetic acid was
+incorporated (approximately0.2
+mol/mol of receptor). In the presence of P-mercaptoethanol,
+85 mol of [3H]iodoaceticacid was incorporated per molof
+receptor. If the amino acidsequence of the bovineLDL
+receptor is the same as that of the human (4) or the rabbit
+(9), we would have expected 62-63 mol of [3H]iodoacetic acid
+incorporated per molof fully reduced receptor. The value
+observed in Table I11 (85 mol/mol) is close to the expected
+value if one allows for the experimental error of the protein
+determination used to estimate the amount of pure receptor.
+The dataindicate that very few, ifany, of the cysteine residues
+of the LDL receptor are accessible to [3H]iodoaceticacid in
+the absence of prior reduction, presumably because they are
+disulfide-bonded. If free cysteine residues do exist, they are
+presumably buried within the receptor structure where they
+are inaccessible to [3H]iodoacetic acid, even in the presence
+of a strong denaturant.
+DISCUSSION
+
+In this paper, we describe a nonsense mutation at codon
+660 in the LDL receptor gene. The mutation was found in
+three Lebanese subjects and one Syrian subject, all from
+different families. Each of the individuals had the classic
+syndrome of homozygous FH, andeach appeared to have two
+copies of the same mutant gene. As shown in Fig. 12, the
+nonsense mutation would be expected to give rise to a protein
+of 659 amino acids that lacks the region containing clustered
+0-linked carbohydrates, the membrane-spanning region, and
+the cytoplasmic tail. Biochemical studies confirmed that the
+receptor produced by the mutant cells is smaller than normal
+
+408
+
+Mutant LDL Receptor Retained in Endoplasmic Reticulum
+NORMAL
+
+I
+
+Ligand
+Binding
+
+FIG. 12. Structural models of normal LDL receptor and mutant Lebanese receptor. The two arrows at the
+COOH terminus of the mutant receptor
+denote the siteof the 2 putative unpaired
+cysteine residues in repeat C of the epidermal growth factor (EGF) precursor
+domain. Eachblock dot in the two receptor structures denotes the position of 1
+cysteine residue.
+
+EGF
+Precursor
+Homology
+
+0- Linked
+Sugars
+
+Membrane
+Spanning
+
+-
+
+Cytoplasmic
+
+4
+
+3
+2
+1
+
+I
+
+cc
+
+TABLE111
+Incorporation of fHliodmetic acid into denatured bovine LDL
+receptor in absenceand presence of reducing agent
+65 pg of bovine LDL receptor (0.7 nmol of protein; 44 nmol of
+cysteine; see Footnote a), purified by the method of Schneider et ul.
+(30),was dissolved in 77 pl of buffer containing 0.5 M Tris-C1 (pH
+8.0),and 7 M guanidine hydrochloride and incubated at 23 "C for 90
+min in the presence or absence of 125 nmol of 8-mercaptoethanol.
+Subsequently, 89 pl of the same buffer containing 1.2 pmol of ['HI
+iodoacetic acid (9.4 X lo3 cpm/nmol) was added, and the incubation
+was continued at 23 "C for 130 min in the dark. The samples were
+dialyzed for 24 h at 4 "C against four changes of buffer containing
+0.45 M sodium chloride and 9 mM sodium phosphate (pH 7.4). The
+protein recovered in the dialysate was measured in duplicate by the
+method of Lowry et ul. (36),and the incorporated 3H radioactivity
+was measured by scintillation counting.
+
+LEBANESE MUTATION
+
+COOH
+
+h C O O H
+
+that the FH264 cells contain approximately normal amounts
+of mutant receptor mRNA, this ie a qualitative experiment
+based on poly(A)+ RNA; and thus, the results must be interpreted with caution. It is conceivable that the premature
+termination codon maylead to a reduced cytoplasmic concentration of the mutant mRNA as hasbeen shown for a similar
+type of mutation in a @-thalassemiagene (31). Alternatively,
+the stop codon could affect the translational efficiency of the
+mutant RNA, perhaps owing to a kinetic delay in releasing
+the truncated nascent chain from the ribosome or in translocating the mutant polypeptide chain across the endoplasmic
+reticulum membrane. The magnitude of the reduced expression seems too great to be attributed to rapid degradation of
+the mutant protein. As shown in Fig. 2, at least half of the
+['H]Iodoacetic
+receptors
+produced during a 2-h pulse were intact after a 2-h
+8-Mercaptoethanol
+acid incorporated"
+chase. Moreover, the decrease is too great to be attributed to
+mol/nwl receptor
+a loss of methionine residues as a result of the truncation: 6
+0.2
+of the 10 methionine residues are retained in the FH 264
+85
++
+receptor. It is possible that the FH264 receptors fold abnorThe protein molecular weight of the bovine LDL receptor was mally so that only a small fractionis recognized by our
+assumed to be the same as the human LDL receptor, i.e. 93,201 (4).antibodies. This is unlikely since the same relative deficiency
+The number of cysteine residuespermol of bovine receptor was
+assumed to be the same as that for the human receptor (63mol/mol was seen when polyclonal as well as monoclonal antibodies
+were used (data not shown).
+of protein).
+Within 30 min of synthesis, the normal LDL receptor is
+transported to the Golgi complex where the N-linked carboand that itlacks clustered 0-linked sugars.
+A striking feature of the mutant receptor is its apparent hydrates are processed to a form that is resistant to endo H
+low level of expression in fibroblasts. The amount of immu- (Ref. 21 and Fig. 5). In contrast, the mutant receptors pronoprecipitable receptor produced in the FH264, FH 550, FH duced by the Lebanese allele remained in anendo H-sensitive
+786, and FH 793 cell strains is only about 10% of normal. form for at least 2 h following synthesis (Fig. 5). We therefore
+This difference is particularly evident in the heterozygote believe that this receptor leaves the endoplasmic reticulum at
+cells which contain both normal and mutant genes (Fig. 4). a slow rate. We could obtain no evidence that the mutant
+At the present time, we do not know the mechanism of this receptor was ever transported to theGolgi complex. We were
+reduction. Although the RNA blotting resultsof Fig. 8 indicate also unable to demonstrate that thereceptor was ever secreted
+
+Mutant LDL Receptor Retained
+Endoplasmic
+in
+from the cell. Indeed, we performed multiple experiments in
+which the FH 264 cells and the FH 550 cells were labeled
+with [36S]methionine for periods ranging up to 24 h, after
+which the culture medium was subjected to immunoprecipitation with antibodies known to precipitate the FH 264 and
+FH 550 receptors. No immunoprecipitable receptor was observed in the culture medium. These experiments were performed under conditions in which we have previously demonstrated secretion of LDL receptors in a cell line that expresses an LDL receptor gene that lacks the exons encoding
+the transmembrane and cytoplasmic domains (6). Instead of
+being secreted, the FH 264 receptor seemed to undergo degradation with ahalf-life of about 2 h (data not shown).
+We do not know why the FH264 receptor was retained in
+the endoplasmic reticulum for a prolonged period, but a clue
+may lie in the site of the premature termination (Fig. 12).
+The termination codon occurs in themidst of a 40-amino acid
+cysteine-rich sequence that has been designated as repeat C.
+This sequence is at the COOH-terminal end of a 400-amino
+acid sequence that is held in common by the LDL receptor
+and the epidermal growth factor precursor (32). Within this
+400-residue sequence, the 40-amino acid cysteine-rich sequence is repeated three times (32). The first two repeats (A
+and B)occur at theNH2-terminal endof the 400-amino acid
+sequence, and the finalrepeat ( C ) occurs at the COOHterminal end. Eachof the repeats is encoded by a single exon;
+the C repeat is encoded by exon 14. Each of the repeats
+contains 6 cysteine residues. Biochemical evidence suggests
+that these cysteine residues are all involved in intrachain
+disulfide bonds (Table 111); and it is likely that all of the
+bonds form within repeats rather than between repeats, a
+finding that has been documented for other proteins with
+similar cysteine-richsequences, e.g. the blood-clotting factors
+(33). The abnormal termination codon occurs at theposition
+of the third cysteine of the C repeat (Fig. 12). It seems likely
+that the 2 remaining cysteine residues would no longer be
+able to engage in normaldisulfide bond formation. This would
+leave unpaired cysteine residues near the COOH terminus,
+which might lie at the surface of the protein. The existence
+of such exposed free sulfhydryls might be sufficient to block
+the movement of the receptor out of the endoplasmic reticulum.
+We have previously observed two other mutations in which
+the LDL receptor fails to move to theGolgi complex(9). Both
+of these involve small in-frame deletions in another
+cysteinerich region, i.e. the NH2-terminal 292 amino acids that constitute theligand-binding domain. These mutations were also
+postulated to distort the normal pattern of disulfide bond
+formation, therebyleading to theexistence of unpaired sulfhydryls.
+It is possible that unpaired sulfhydryls in some way interfere with the movement of proteins from the endoplasmic
+reticulum tothe Golgicomplex. Such hindrance maybe
+mediated by gatekeeper proteins that bind these sulfhydryls
+and stop themovement of abnormal proteins to the surface.
+As originally suggested by Gething et al. (34), the purpose of
+such a system might be to prevent the immune system from
+being exposed to denatured proteins that might trigger abnormal immune responses. Further studies are now planned
+to testwhether the presence of unpaired cysteine residues in
+the truncated C repeat is responsible for the failure of the
+LDL receptor in the FH 264 cells to leave the endoplasmic
+reticulum a t a normal rate.
+From the data currently available, it would seem that the
+nonsense mutation at codon 660 is responsible for the high
+incidence of FH in Lebanon. This mutation accounts for all
+
+Reticulum
+
+409
+
+eight alleles at the LDL receptor locus in the four unrelated
+homozygotes with classic FH from Lebanon and Syria that
+we have studied. Presumably, the high frequency of this
+mutation is attributableto a founder effect. In addition to the
+classic form of familial hypercholesterolemia in Lebanon,
+there is also a rare variant form (19, 20). In DNA from one
+such rare variant,we found a normal HinfI digestion pattern.
+Thus, these rare variantsmust have a different mutation.
+The ability to distinguish the Lebanese allele on the basis
+of a HinfI digest of genomic DNAshould allow us to determine
+whether all cases of classic FH in Lebanon and neighboring
+Arab countries stem from the same mutation. If this is the
+case, then it should be possible to develop a rapid method of
+diagnosis employing Southern blotting.
+Acknowledgments-We thank Drs. Stuart Kornfeld, Helen Hobbs,
+and David Gross for helpful discussions. Wen-Ling Niu, Gloria
+Brunschede, and Mark Woelfle provided excellent technical assistance. Edith Womack and Lavon Sanders provided able assistance in
+growing cultured cells.
+REFERENCES
+1. Goldstein, J. L., and Brown, M. S. (1983) in The Metabolic Basis
+of Inherited Disease (Stanbury, J. B., Wyngaarden, J. B., Fredrickson, D. S., Goldstein, J. L., and Brown, M. S., eds) 5th Ed.,
+pp. 672-712, McGraw-Hill Book Co., New York
+2. Slack, J. (1979) Atheroscler. Reu. 5, 35-66
+3. Khachadurian, A. K. (1964) Am. J. Med. 37,402-407
+4. Yamamoto, T., Davis, C. G., Brown, M. S., Schneider, W. J.,
+Casey, M. L., Goldstein, J. L., and Russell, D. W. (1984) Cell
+39,27-38
+5. Sudhof, T. C., Goldstein, J. L., Brown, M. S., and Russell, D. W.
+(1985) Science 228,815-822
+6. Lehrman, M. A., Schneider, W. J., Siidhof, T. C., Brown, M. S.,
+Goldstein, J. L., and Russell, D. W. (1985) Science 227, 140146
+7. Lehrman, M. A., Goldstein, J. L., Brown, M. S., Russell, D. W.,
+and Schneider, W. J. (1985) Cell 41,735-743
+8. Davis, C. G., Lehrman, M. A., Russell, D. W., Anderson, R. G .
+W., Brown, M. S., and Goldstein, J. L. (1986) Cell 45, 15-24.
+9. Yamamoto, T., Bishop, R. W., Brown, M. S., Goldstein, J. L.,
+and Russell, D. W. (1986) Science 232,1230-1237
+10. Hobbs, H. H., Brown, M. S., Goldstein, J. L., and Russell, D. W.
+(1986) J. Bwl. Chem. 261,13114-13120
+11. Brown, M. S., and Goldstein, J. L. (1986) Science 2 3 2 , 3 4 4 7
+12. Lindgren, V., Luskey, K. L., Russell, D. W., and Francke, U.
+(1985) Proc. Natl. Acad. Sci. U. S. A. 82,8567-8571
+13. Russell, D. W., Schneider, W. J., Yamamoto, T., Luskey, K. L.,
+Brown, M. S., and Goldstein, J. L. (1984) Cell 37,577-585
+14. Cummings, R.D., Kornfeld, S., Schneider, W. J., Hobgood, K.
+K., Tolleshaug, H., Brown, M. S., and Goldstein, J. L. (1983)
+J. Bwl. Chem. 268,15261-15273
+15. Davis, C.G., Elhammer, A., Russell, D. W., Schneider, W. J.,
+Kornfeld, S., Brown, M. S., and Goldstein, J. L. (1986) J. Biol.
+Chem. 261,2828-2838
+16. Goldstein, J. L., Basu, S. K., and Brown, M. S. (1983) Methods
+Enzymol. 9 8 , 241-260
+17. Beisiegel, U., Schneider, W. J., Brown, M. S., and Goldstein, J.
+L. (1982) J. Bwl. Chem. 267,13150-13156
+18. Beisiegel, U., Schneider, W. J., Goldstein, J. L., Anderson, R. G .
+W., and Brown, M. S. (1981) J. Biol. Chern. 256, 11923-11931
+19. Khachadurian, A. K. (1971) Protides Biol. Fluids Proc. Colloq.
+19,315-318
+20. Khachadurian, A. K., and Uthman, S. M. (1973) Nutr. Metab.
+15,132-140
+21. Tolleshaug, H., Hobgood, K. K., Brown, M. S., and Goldstein, J.
+L. (1983) Cell 32,941-951
+22. Strohman, R.C., Moss, P. S., Micou-Eastwood, J., Spector, D.,
+Przybyla, A., and Paterson, B. (1977) Cell 1 0 , 265-273
+23. Maniatis, T.,Fritsch, E. F., and Sambrook, J. (1982) Molecular
+Cloning: A Laboratory Manuul, pp. 1-545, Cold Spring Harbor
+Laboratory, Cold Spring Harbor, NY
+24. Russell, D. W., Yamamoto, T., Schneider, W. J., Slaughter, C. J.,
+Brown, M. S., and Goldstein, J. L. (1983) Proc. Natl. Acad. Sci.
+U. S. A. 80, 7501-7505
+
+410
+
+Mutant LDL Receptor Retained in Endoplasmic Reticulum
+
+25. Loenen, W. A. M., and Blattner, F. R. (1983)Gene (Anzst.) 26,
+171-179
+26. Sanger, F., Nicklen, S., and Coulson, A. R. (1977)Proc. Natl.
+Acad. Sci. U.S. A. 74,5463-5467
+27. Maxam, A. M., and Gilbert, W. (1980)Methods Enzymol. 66,
+499-560
+28. Hobbs, H. H., Lehrman, M*
+Yamamoto* T'*
+and Russell, D.
+W. (1985)Proc. Natl. Acad. Sci. U. S. A. 82, 7651-7655
+29. Daniel, T. o., Schneider, w. J., Goldstein, J. L., and Brown, M.
+S. (1983)J. Biol. Chem. 258,46064611
+30. Schneider, W. J., Beisiegel, U., Goldstein, J. L., and Brown, M.
+S. (1982)J. Bwl. Chem. 267,2664-2673
+(1951)
+
+31. Trecartin, R.F., Liebhaber, S. A., Chang, J. C., Furbetta, M.,
+Angius, A., and Cao, A. (1981)J. Clin. Invest. 68, 1012-1017
+32- sfidhof, T. c., Russell, D. w.,Goldstein, J. L., Brown, M. S.,
+Sanchez-Pescador, R., and Bell, G. I. (1985)Science 228,893895
+33. Yoshitake, S., Schach, B.G., Foster, D. C., Davie, E. W., and
+Kurachi, K. (1985)Biochemistry 24,3736-3750
+34. &thing, M.-J., McCammon, K., and Sambrook, J. (1986)Cell
+46,939-950.
+35. Church, G. M., and Gilbert, W. (1984)Proc. Nat[. ad. Sei,
+U.S.A. 81,1991-1995
+36. Lowry, 0.H., Rosebrough, N. J., Farr, A. L., and Randall, R. J.
+J. Bwl. Chem. 193,265-275
+
+

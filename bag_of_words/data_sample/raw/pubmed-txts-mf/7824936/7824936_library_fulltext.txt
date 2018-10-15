@@ -1,0 +1,574 @@
+Massimo Santoro, Francesca Carlomagno, Alfredo Romano,
+Donald P. Bottaro, Nina A. Dathan, Michele Grieco,
+Alfredo Fusco, Giancarlo Vecchio, Brona Matoskova,
+Matthias H. Kraus, Pier Paolo Di Fiore*
+Multiple endocrine neoplasia types 2A and 2B (MEN2A and MEN2B) and familial medullary
+thyroid carcinoma are dominantly inherited cancer syndromes. All three syndromes are
+associated with mutations in RET, which encodes a receptor-like tyrosine kinase. The
+altered RET alleles were shown to be transforming genes in NIH 3T3 cells as a consequence of constitutive activation of the RET kinase. The MEN2A mutation resulted in RET
+dimerization at steady state, whereas the MEN2B mutation altered RET catalytic properties both quantitatively and qualitatively. Oncogenic conversion of RET in these neoplastic syndromes establishes germline transmission of dominant transforming genes in
+human cancer.
+
+MEN2A, MEN2B, and familial medullary
+thyroid carcinoma (FMTC) are dominantly
+inherited cancer syndromes. MEN2A is defined by the presence of medullary thyroid
+carcinoma, pheochromocytoma, and hyperparathyroidism. In addition to these abnormalities, MEN2B is characterized by skeletal abnormalities, ganglioneuromas of the
+intestinal tract, and mucosal neuromas. All
+three syndromes are associated with germline mutations of the RET proto-oncogene
+(1, 2), which codes for a receptor-like tyrosine kinase (3) whose ligand has not yet
+been identified. In the case of MEN2A and
+FMTC, point mutations result in the substitution of one of five Cys residues in the
+extracellular domain of RET (1). In
+MEN2B, a T-*C transition in the tyrosine
+kinase domain causes a Met->Thr substitution at position 918 (2). It is not known
+how these alterations contribute to neoplasia. In the simplest model, the mutated RET
+allele acts as a dominant transforming gene.
+Alternatively, the mutations may inactivate
+a possible tumor suppressor function of
+proto-RET. In this scenario, the reduced
+dosage of proto-RET might be sufficient to
+M. Santoro, F. Carlomagno, N. A. Dathan, M. Grieco, G.
+Vecchio, Centro di Endocrinologia ed Oncologia Sperimentale del Consiglio Nazionale delle Ricerche (CNR) e
+Dipartimento di Biologia e Patologia Cellulare e Molecolare "L. Califano," Universita degli Studi, Napoli, Italy.
+A. Romano, Laboratory of Experimental Carcinogenesis,
+National Cancer Institute, National Institutes of Health
+(NIH), Bethesda, MD 20892, USA.
+D. P. Bottaro, M. H. Kraus, P. P. Di Fiore, Laboratory of
+Cellular and Molecular Biology, National Cancer Institute,
+NIH, Bethesda, MD 20892, USA.
+A. Fusco, Dipartimento di Medicina Sperimentale e
+Clinica, FacoltA di Medicina e Chirurgia, Catanzaro, Italy.
+B. Maio.kova, Laboratory of Cellular Development and
+Oncology, National Institute of Dental Research, NIH,
+Bethesda, MD 20892, USA.
+*To whom correspondence should be addressed.
+
+trigger transformation or the product of the
+mutated allele might inhibit the function of
+the wild-type protein, thus exerting a dominant negative function (4).
+To test these possibilities, we engineered
+eukaryotic expression vectors (5) encoding
+proto-RET (LTR-ret), three different
+MEN2A alleles (RET Cys634->Tyr, Arg, or
+Trp; MEN2AY, MEN2AR, and MEN2AW,
+respectively), and the MEN2B allele (RET
+Met918--Thr; MEN2B). After transfection
+in NIH 3T3 fibroblasts, RET mutants, but
+not proto-RET, displayed high transforming
+efficiency (Fig. 1). In addition, MEN2A
+and MEN2B transfectants displayed high
+clonogenic ability in soft agar, whereas
+proto-RET transfectants did not show
+growth (6).
+Mass populations of transfectants were
+obtained by killer HAT selection and used
+for protein analysis. RET was detected in
+two forms, one --145 kD and the other
+Fig. 1. Transforming activity of RET constructs
+after transfection in NIH
+3T3 cells (18, 19). LTRgpt, vector control.
+Transforming efficiencies expressed in focusforming units per picomole of DNA were as follows: proto-RET, <1;
+MEN2AY, 6.9 x 103;
+MEN2AR, 3.5 x 103;
+MEN2AW, 1.5 X 103;
+and MEN2B, 3.7 x 103.
+Efficiencies were corrected for marker selectable colony formation.
+
+SCIENCE
+
+*
+
+VOL. 267
+
+*
+
+-160 kD (Fig. 2A), in all of the transfectants (7). Comparable amounts of RET
+were then immunoprecipitated from the
+various transfectants and assayed for phosphotyrosine (pTyr) content (8), a hallmark
+of receptor autophosphorylation and activation. No tyrosine phosphorylation of the
+proto-RET product was detectable, whereas
+RET-MEN2A and RET-MEN2B products
+showed high amounts of pTyr (Fig. 2A).
+Similar results were obtained in immunocomplex kinase assays (9). The proto-RET
+product displayed little, if any, kinase activity, whereas RET-MEN2A and RETMEN2B became autophosphorylated (Fig.
+2B). Autophosphorylation of RET-MEN2B
+was consistently one-third to one-fifth that
+of the RET-MEN2A forms in both assays
+(Fig. 2, A and B).
+We analyzed a medullary thyroid carcinoma cell line, TT (10), by the reverse
+transcriptase polymerase chain reaction
+(RT-PCR) and by nucleotide sequencing
+and found that it expressed both a wild-type
+and a mutated RET allele (Cys634--Trp)
+(11). This cell line allowed us to validate
+our observations with NIH 3T3 cells in a
+setting representative of a naturally occurring neoplasm. For comparison, we used the
+neuroblastoma cell line SK-N-BE (10),
+which expresses only wild-type RET (11).
+In TT cells, RET displayed detectable pTyr
+amounts, whereas no pTyr was detectable in
+RET expressed by SK-N-BE cells (Fig. 2C).
+Similarly, RET from TT cells, but not from
+SK-N-BE cells, displayed autophosphorylation activity in vitro (Fig. 2D).
+To investigate the mechanism of activation of the mutated RET alleles, we analyzed RET-MEN2A and RET-MEN2B by
+nonreducing SDS-polyacrylamide gel electrophoresis (SDS-PAGE). Under these
+conditions, RET-MEN2B migrated as monomeric forms at --150 to 160 kD, whereas
+RET-MEN2A displayed an additional species at -300 kD (Fig. 3A), consistent with
+
+LTR-gpt
+
+LTR-ret
+
+MEN2AY
+
+MlENAh
+
+MEN2AW
+
+MtNl
+
+20 JANUARY 1995
+
+381
+
+Downloaded from www.sciencemag.org on June 15, 2011
+
+Activation of RET as a Dominant Transforming
+Gene by Germline Mutations of
+MEN2A and MEN2B
+
+a
+
+,c
+
+,c
+
+m
+C.4
+
+$EC0J
+
+MEN2A. Thus, the clinical differences between the two syndromes cannot be
+explained by an increased transforming
+ability of RET-MEN2B. We therefore tested the possibility that the MEN2B mutation alters the substrate specificity of RET.
+We first obtained maps of pTyr-containing
+tryptic peptides for RET-MEN2A and RETMEN2B after autophosphorylation in vitro
+(Fig. 4A) (16). The RET-MEN2A map
+matched that obtained with an EGFR-RET
+chimera (14), which represents the closest
+"physiological" control of RET autophosphorylation in the absence of a RET ligand
+(Fig. 4A). RET-MEN2B displayed a different phosphopeptide map, indicating alterFig. 3. (A) Comparable amounts of
+RET proteins from the indicated
+transfectants were fractionated by
+SDS-PAGE under reducing or nonreducing conditions. Immunoblots
+were developed with anti-ret or anti-pTyr. Molecular size markers are
+indicated in kilodaltons; the positions of RET monomers and dimers
+are also indicated. (B) Covalent
+dimerization of RET in MEN2A
+transfectants. Immunoblot performed as in (A).
+
+ations in its autocatalytic specificity (Fig.
+4A). We then studied the two-dimensional
+electrophoretic pattern of RET-MEN2A
+and RET-MEN2B substrates in NIH 3T3
+transfectants (17). Although there was similarity of substrate phosphorylation, several
+spots appeared differentially phosphorylated
+in RET-MEN2B and RET-MEN2A transfectants (Fig. 4B). These results show that
+the MEN2B mutation alters the substrate
+specificity of RET. We propose that the
+nature and availability of substrates in different cell types control RET activity at a
+postreceptor level, resulting, in the case of
+MEN2B, in an organ-specific growth advantage. This model is consistent with our
+
+c> ci
+cmJcm
+
+NC
+
+Z Z
+
+Z Z
+-WW-
+
+W W
+
+.qxqnI-
+
+Dimer- -
+
+2.
+
+.
+
+cwecVN
+Z
+
+z
+
+z
+
+_ 330-
+
+:
+
+200-
+
+-
+
+Monomer_
+
+200-
+
+Monorme
+
+Reducing
+
+Anti-ret
+
+Nonreducing
+
+Nonreducing
+
+Anti-ret
+
+Anti-pTyr
+
+100- A
+
+Fig. 2. Autophosphorylation of wild-ttype and
+mutant RET proteins in vivo and in vitrro. Comparable amounts of RET proteins from the indicated cells were immunoprecipitatecJ with a
+polyclonal antibody to RET (Anti-ret). T[ie immunoprecipitates were then either immurioblotted
+with anti-ret (A through D, bottom pariels) or a
+monoclonal antibody to phosphotyrosiine (AntipTyr) (A and C, top panels) or subjecte d to an in
+vitro immunocomplex kinase assay (B arnd D, top
+panels) (9). (A and B) NIH 3T3 trans;fectants.
+Control, NIH 3T3 cells; ret, NIH-proto-F?ET cells.
+(C and D) TT and SK-N-BE cells.
+
+880Tryptic phosphopeptide maps. An
+41
+EGFR-RET chimera (dotted line),
+CL
+RET-MEN2AY (solid line), and RETMEN2B (dashed line) were analyzed
+' 60
+A
+as in (16). The EGFR-RET chimera
+,
+autophosphorylation reaction was
+camed out after in vitro stimulation
+,,
+I
+U
+with epidermal growth factor (4 ,ug/
+Q
+o 20ml). Results are expressed as a percentage of the counts per minutef
+relative to the highest peak for each
+0
+0
+30
+10
+20
+receptor. Maximum peaks were
+EGFR-RET, 4909 cpm; RETElution timne (min)
+MEN2A, 2666 cpm; and RETB
+MEN2B, 4738 cpm. The straight line
+pi
+pi
+depicts the acetonitnle gradient in
+7
+6
+5
+percent (v/v). (B) Two-dimensional
+electrophoresis of pTyr-containing
+proteins. Lysates were prepared
+from serum-starved NIH 3T3 cells
+transfected with RET-MEN2AY (left)
+or RET-MEN2B (right). Immunoprecipitates with anti-pTyr (from 6 mg of
+total protein) were analyzed by twodimensional electrophoresis as in
+(17). Immunoblots were developed
+with anti-pTyr. Molecular size markers are indicated on the right (in kiloMEN2A
+daltons), and isoelectric points (pl's)
+MEN2B
+are indicated at the top. Arrowheads
+identify spots differentially phosphorylated by RET-MEN2A and RET-MEN2B.
+
+382
+
+SCIENCE
+
+C14
+
+N4
+
+111 J IIJ
+z z
+W W
+
+A
+
+z z
+'-WW
+
+1P r
+
+Anti-rmt
+
+B3
+Kinase assay
+
+Z _
+C cn H
+
+Anti-pTYR 1
+
+a
+
+m
+
+I
+
+I
+
+Anti-ret
+
+*
+
+VOL. 267
+
+*
+
+20 JANUARY 1995
+
+5 5 5
+
+Dimer-
+
+Nonreducing
+
+Fig. 4. Substrate specificity of wildtype and mutant RET proteins. (A)
+
+C14 C14 CJ
+z z z
+Wl W W
+
+<
+
+Downloaded from www.sciencemag.org on June 15, 2011
+
+the size of disulfide-linked homodimers.
+RET dimers were present in all of the
+MEN2A transfectants (Fig. 3B). In addition, the dimer contained at least 10 times
+more pTyr in vivo than the monomer (Fig.
+3B), indicating that it is the form with
+constitutive kinase activity. We postulate
+that the Cys residues, disrupted by the
+MEN2A mutations, are normally involved
+in intramolecular disulfide bonds. The mutations may render the partner Cys available for aberrant disulfide bonding with
+other mutant RET molecules and thus create active homodimers. Such a mechanism
+has been described for in vitro mutagenized
+erythropoietin receptor and epidermal
+growth factor receptor (EGFR) (12).
+In the case of RET-MEN2B, we did not
+detect RET dimers (Fig. 3A). To verify this,
+we performed in vivo cross-linking (13)
+experiments on MEN2B transfectants with
+1 -(3-dimethylaminopropyl)-3-ethylcarbodiimide hydrochloride (EDC). Under conditions in which other receptor homodimers, such as RET-MEN2A, EGFR,
+and an EGFR-RET chimera (14) were
+cross-linked, no RET-MEN2B dimers were
+detectable (15), suggesting that RETMEN2B is activated by an intramolecular
+mechanism.
+MEN2B is a clinically more complex
+and aggressive disease than MEN2A. However, the RET-MEN2B protein did not display increased kinase activity or transforming ability, as compared with RET-
+
+M-
+
+higher amounts of transcripts (approximately threeto fivefold higher amounts of RET-specific mRNA in
+MEN2A and MEN2B transfectants, as compared
+with proto-RET transfectants) and in part to the increased half-life of the RET-MEN2A protein, as compared with RET-MEN2B (6 versus 3.5 hours, respectively) (M. Santoro and P. P. Di Fiore, unpublished
+
+data).
+9. The immunocomplex kinase assay was performed
+as in (16). Wild-type and mutant RETs were immunoprecipitated with the antibody to RET (14). The
+final kinase mixture contained 0.1 % Triton X-1 00, 20
+mM Hepes (pH 7.5), 150 mM NaCI, 15 mM MgCI2,
+15 mM MnCI2, and 20 ,Ci of y-32P-labeled adenosine triphosphate (3000 Ci/mmol). In the expenment
+shown, the reaction was for 20 min at room temperature. Similar results were obtained under initial conditions (1 min at 4°C).
+10. The TT and SK-N-BE cells were purchased from the
+American Type Culture Collection and grown in Dulbecco's modified Eagle's medium supplemented
+with 10% fetal calf serum.
+
+(1994).
+
+3. M. Takahashi et al., Oncogene 3, 571 (1988); M.
+Takahashi, Y. Buma, H. Hiai, ibid. 4, 805 (1988).
+4. R. A. Weinberg, Science 254, 1138 (1991); A. G.
+Knudson, Proc. Natl. Acad. Sci. U.S.A. 90, 10914
+
+(1993).
+
+5. We assembled the open reading frame (ORF) of
+proto-RET by starting from clones derived from an
+SK-N-BE complementary DNA (cDNA) library (corresponding to the extracellular portion of RET) and a
+fragment of a described EGFR-RET construct (14),
+corresponding to the intracellular portion of RET. We
+completely sequenced the resulting cDNA, which
+encodes the short isoform of the RET protein (3), on
+both strands and found it to match exactly the published sequence of wild-type RET (3). The proto-RET
+ORF was then cloned in the LTR-2 plasmid (18) to
+yield the LTR-ret eukaryotic expression vector. Using
+the RT-PCR, we cloned cDNA fragments with the
+desired mutations from RNA obtained from neoplastic tissues of individuals with MEN2A and MEN2B.
+Nucleotide sequence analysis confirmed that no other mutations were present in the cDNA fragments.
+For the MEN2A expression vectors, Nde l-Eco RI
+fragments [corresponding to positions 1717 to 2348
+of the proto-RET sequence (3)] from the mutated
+cDNAs were individually substituted for the analogous fragment in LTR-ret. For the MEN2B expression vector, a Bgl Il-Bcl fragment (positions 2765 to
+2972 of proto-RE7) was substituted for the analogous fragment in LTR-ret. A second cycle of sequence analysis confirmed the introduction of the
+expected mutations. Because all of the mutations
+were introduced directly into the LTR-ret vector, all
+constructs were identical except for the specified
+mutations, thus allowing comparison of their transforming abilities.
+6. M. Santoro, M. H. Kraus, P. P. Di Fiore, unpublished
+data.
+7. M. Takahashi, Y. Buma, M. Taniguchi, Oncogene 6,
+297 (1991).
+8. Immunoprecipitation and immunoblotting experiments were performed as in (14). Antibodies included a polyclonal antibody to RET (14) and the 4G1 0
+monoclonal antibody to phosphotyrosine (Upstate
+Biotechnology, Lake Placid, NY). RET-MEN2A and
+RET-MEN2B were expressed at higher amounts
+than the proto-RET product (1 5-fold and 5-fold, respectively). These differences were due in part to
+
+13.
+14.
+15.
+16.
+
+17.
+
+18.
+19.
+20.
+
+(1994).
+C. Cochet et al., J. Biol. Chem. 263, 3290 (1988).
+M. Santoro et al., Mol. Cell. Biol. 14, 663 (1994).
+F. Carlomagno and P. P. Di Fiore, unpublished data.
+0. Segatto et al., Mol. Cell. Biol. 11, 3191 (1991).
+Two-dimensional electrophoretic analysis of immunoprecipitates of pTyr was performed as described
+[A. Romano et al., Oncogene 9, 2923 (1994)].
+P. P. Di Fiore et al., Science 237, 178 (1987).
+M. Wigler et al., Cell 11, 223 (1977).
+Supported in part by grants from the Associazione
+Italiana Ricerca sul Cancro, the Progetto Finalizzato
+CNR-Applicazioni Cliniche della Ricerca Oncologica, and the Progetto Finalizzato CNR-Biotecnologia e Biostrumentazione.
+13 July 1994; accepted 23 November 1994
+
+A Hot Spot of Binding Energy in a
+Hormone-Receptor Interface
+Tim Clackson* and James A. Welist
+
+REFERENCES AND NOTES
+1. L. M. Mulligan et al., Nature 363, 458 (1993); L. M.
+Mulligan et al., Nat. Genet. 6, 70 (1994); H. DonisKeller et al., Hum. Mol. Genet. 2, 851 (1993).
+2. R. M. Hofstra et al., Nature 367, 375 (1994); K. M.
+Carlson et al., Proc. Nat!. Acad. Sci. U.S.A. 91, 1579
+
+11. M. Santoro, unpublished data.
+12. S. S. Watowich et al., Proc. Nat!. Acad. Sci. U.S.A.
+89, 2140 (1992); A. Sorokin, M. A. Lemmon, A. Ullrich, J. Schlessinger, J. Biol. Chem. 269, 9752
+
+The x-ray crystal structure of the complex between human growth hormone (hGH) and
+the extracellular domain of its first bound receptor (hGHbp) shows that about 30 side
+chains from each protein make contact. Individual replacement of contact residues in the
+hGHbp with alanine showed that a central hydrophobic region, dominated by two tryptophan residues, accounts for more than three-quarters of the binding free energy. This
+"functional epitope" is surrounded by less important contact residues that are generally
+hydrophilic and partially hydrated, so that the interface resembles a cross section through
+a globular protein. The functionally important residues on the hGHbp directly contact
+those on hGH. Thus, only a small and complementary set of contact residues maintains
+binding affinity, a property that may be general to protein-protein interfaces.
+
+Specific protein-protein interactions are
+critical events in most biological processes.
+A number of crystallographic studies have
+shown that the binding interfaces between
+proteins are generally large (600 to 1300 A2)
+and include many intermolecular contacts,
+involving 10 to 30 side chains from each
+protein (1-3). However, structural analysis
+alone cannot show whether all of these contacts are important for tight binding. A complete understanding of the chemistry of protein-protein association also requires a functional map of each binding surface, to reveal
+to what extent each contact contributes to
+the overall free energy of binding.
+The initial event in signaling through the
+hGH receptor is the binding of the extracellular domain (hGHbp) to site 1 of hGH to
+form a high-affinity 1:1 complex (dissociation constant, Kd, of 0.3 nM, corresponding
+to a binding free energy, AG, of -12.3 kcal/
+mol) (4, 5). The crystal structure of this
+Department of Protein Engineering, Genentech, 460
+Point San Bruno Boulevard, South San Francisco, CA
+94080, USA.
+*Present address: ARIAD Pharmaceuticals, 26 Lansdowne Street, Cambridge, MA 02139, USA.
+tTo whom correspondence should be addressed.
+
+SCIENCE
+
+*
+
+VOL. 267
+
+*
+
+20 JANUARY 1995
+
+complex (3, 6) shows that on each protein a
+surface area of about 1300 A2 becomes buried (defined by calculated inaccessibility to
+solvent) (7), including 33 side chains on the
+receptor (Fig. 1A). We mutated each of
+these side chains individually to alanine,
+except for G168 and the C108-C122 disulfide (8). Substitution by alanine deletes all
+interactions made by atoms beyond the P
+carbon and should reveal the contribution to
+binding energy made by the removed portion
+of the side chain (9). Each mutant hGHbp
+was expressed in Escherichia col, purified to
+>90% homogeneity, and assayed for hGH
+binding affinity (10, 1 1 ).
+Fewer than half of the mutations caused
+substantial loss in binding affinity (Fig. 1B).
+By far the greatest reductions in affinity
+(>4.5 kcal/mol) occurred on substituting
+two tryptophan residues, W104 and W169
+(12). Large effects (1.5 to 3.5 kcal/mol) were
+also seen for alanine substitutions at other
+hydrophobic residues (1103, 1105, P106, and
+1165), and generally smaller effects (1 to 2
+
+kcal/mol)
+
+were seen for some charged residues (R43, E44, D126, E127, and D164).
+This subset of 11 contact residues, which we
+term the functional epitope, maps to a con-
+
+383
+
+Downloaded from www.sciencemag.org on June 15, 2011
+
+observation that the mitogenic potency of
+RET varies in different target cells (14).
+These data establish that mutations in
+MEN2A and MEN2B convert RET into a
+dominant transforming gene. They also
+show the underlying mechanism to be a
+dominant oncogenic conversion rather
+than a loss of suppressor function. This
+finding is based on the observations that
+MEN2A and MEN2B mutations concomitantly activate the intrinsic kinase and
+transforming ability of RET and that mutant RET is enzymatically activated in the
+presence of a coexpressed normal allele as
+was shown in TT cells. Thus, the oncogenic
+conversion of RET illustrates that a dominant transforming gene can have a causal
+role in human hereditary neoplasia. In addition, our identification of the molecular
+mechanisms of RET activation provides the
+basis for therapeutic strategies in MEN2A,
+MEN2B, and FMTC.
+
+

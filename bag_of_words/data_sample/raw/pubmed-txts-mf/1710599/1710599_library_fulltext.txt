@@ -1,0 +1,1354 @@
+GENOMICS
+
+10,
+
+229-235
+
+(19%)
+
+Identification
+of Mutations
+in Exons 1 through 8 of the Cystic
+Fibrosis Transmembrane
+Conductance
+Regulator (CFTR) Gene
+JULIAN ZIELENSKI,*
+
+DOMINIQUE BOZON,* BAT-SHEVA KEREM,*,’ DANUTA MARKIEWICZ,*
+JOHANNA M. ROMMENS,* AND LAP-CHEE TSUI*~
+
+PETER DURIE,t
+
+*Department of Genetics, The Hospital for Sick Children, Toronto, Ontario M5G 1X8, Canada; *Departments of Molecular and
+Medical Genetics, University of Toronto, Toronto, Ontario M5.S lA8, Canada; and tDepartment
+of Pediatrics, University
+of Toronto and Division of Gastroenterology,
+The Hospital for Sick Children, Toronto, Ontario M5G lA8, Canada
+Received
+
+October
+
+4, 1990;
+
+revised
+
+January
+
+10, 1991
+
+1991). The polypeptide predicted from completely sequenced cDNA consists of 1480 amino acids and it is
+named cystic fibrosis transmembrane conductance
+regulator (CFTR). On the basis of its remarkable sequence and structural similarity to many ATP-dependent transport proteins, it has been generally assumed that CFTR contains two highly hydrophobic
+transmembrane regions, each followed by two nucleotide-binding folds (NBFs) (Riordan et al., 1989).
+A deletion of 3 bp in exon 10 of the CFTR gene,
+which results in the loss of a phenylalanine residue at
+amino acid position 508 (AF508), is the most common
+mutation causing CF, accounting for approximately
+70% of the CF chromosomes (Kerem et al., 1989b;
+Lemna et al., 1990). A large number of other mutations have also been identified in the CFTR gene
+(Cutting et al., 1990a,b; Dean et al., 1990; Kerem et uZ.,
+1990a; Vidaud et al., 1990; Guillermit et al., 1990;
+White et al., 1990), but most of them are rare in the
+population. These include missense, nonsense, frameshift, and RNA splicing mutations. Since the
+searches have been concentrated mostly on the two
+NBFs, many of the known mutations are also located
+in these regions.
+We have initiated a systematic analysis of all the
+CF chromosomes in our cohort of Canadian families
+(Tsui et al., 1986) and have reported mutations in the
+two NBFs (Kerem et al., 1990b). Since each of the CF
+chromosomes is characterized by extensive DNA
+marker haplotype (Kerem et al., 1989b), they may
+serve as excellent references for future population
+analysis. To continue our identification of disease-relevant mutations for delineation of the function of
+CFTR, we have screened the first eight exons of the
+gene by direct sequence analysis of genomic DNA amplified by the polymerase chain reaction (PCR; Saiki
+et al., 1988). In this communication, we report five
+(possibly six) apparent mutations within exons 1
+through 8 of the CFTR gene.
+
+Five different mutations have been identified in the gene
+causing cystic fibrosis (CF) through sequencing regions encompassing
+exons 1-8, including
+the 5’ untranslated
+leader. Two of these apparent mutations are missense mutations, one in exon 3 (Gly to Glu at position 85; GSBE) and
+another in exon 5 (Gly to Arg at 178; G178R), both causing
+significant changes in the corresponding
+amino acids in the
+encoded proteincystic fibrosis transmembrane
+conductance regulator
+(CFTR). Two others affect the highly conserved RNA splice junction flanking the 3’ end of exons 4
+and5(621+1G+T,711+1G+T),resultinginaprobable splicing defect. The last mutation is a single-basepair
+deletion in exon 4, causing a frameshift.
+These five mutations account for the 9 of 31 non-AF508
+CF chromosomes
+in our Canadian
+CF family collection
+and they are not
+found in any of the normal chromosomes. Three of the mutations, 621+ 1G + T, 711+ lG+T,andG85E,arefound
+in the French-Canadian
+population,
+with 621 + 1G --t T
+being the most abundant
+(5/7). There are two other sequence variations in the CFTR gene; one of them (129G --*
+C) is located 4 nucleotides upstream of the proposed translation initiation
+codon and, although present only on CF
+chromosomes, it is not clear whether it is a disease-causing
+mutation; the other (R75Q) is most likely a sequence variation within the coding region.
+o 1991 Academic press, IDC.
+
+INTRODUCTION
+
+The gene causing
+cystic fibrosis (CF) in humans
+has been recently identified (Rommens et al., 1989;
+Riordan et al., 1989; Kerem et al., 1989b). The 27 exons and the immediately flanking (intron) sequences
+of this gene have been determined (Zielenski et al.,
+Sequence
+data from this article have been deposited
+with the
+EMBL/GenBank
+Data Libraries
+under Accession
+Nos. M55499M55504.
+1 Present
+address: Department
+of Genetics,
+Hebrew
+University,
+Jerusalem
+91904, Israel.
+
+229
+
+o&3%7543/91
+
+$3.00
+
+Copyright
+0 1991 by Academic
+Press, Inc.
+All rights of reproduction
+in any form reserved.
+
+230
+
+ZIELENSKI
+
+MATERIALS
+
+Patient
+
+AND
+
+ET
+
+AL.
+
+TABLE
+
+METHODS
+
+Samples
+
+The 46 Canadian CF families used in this study had
+been previously
+described (Tsui et al., 1986). Extensive DNA marker haplotype information
+for the CF
+chromosomes
+in these families was available (Kerem
+et al., 1989b). Peripheral blood samples were also collected from additional
+CF patients
+and family
+members registered at the CF clinic of the Hospital
+for Sick Children. Informed consent was obtained for
+each participating
+individual, and blood samples were
+collected according to procedures
+approved by the
+HSC Human Subjects Review Committee.
+The pancreatic status of patients was defined as described
+(Kerem et al., 1990b). Data for one of the families
+(Toronto 17) reported here were deposited at the Human Genetic Mutant
+Cell Repository
+at Camden,
+New Jersey (GM1076). The criteria for diagnosis of
+pancreatic status were described (Gaskin et aZ., 1984;
+Durie et al., 1986; Kerem et al., 1989a).
+
+Methods
+
+Direct sequencing of PCR products was performed
+as described (Winship, 1989; Kerem et al., 1990a).
+The PCR primers B115-B, lOD, Zi-5, 3i-3, 4i-3, 5i-3,
+6Ai-3,6Ci-3, ?i-5,8i-3, as described in the accompanying paper (Zielenski et al., 1991), were used for sequencing. An internal primer for exon 1 (primer A;
+5’-CAAGTGCATAGTAGCGTACT-3’)
+was used.
+Allele-Specific Oligonucleotide (ASO) Hybridization
+The oligonucleotide hybridization conditions have
+been previously described (Kerem et al., 1989b). The
+normal and mutant-specific
+oligonucleotides are
+listed in Table 1. The hybridization was performed at
+37°C and the washings were done twice with 5~ SSC
+
+Method
+
+Hintl digestion
+
+G85E
+
+556delA
+
+621 + 1G +
+
+T
+
+711 + 1G +
+
+T
+
+G178R
+
+129G
+
++ C
+
+R75Q
+
+DNA Sequence Determination
+
+Mutations
+and Variations
+l-8 of CFTR
+
+Name
+
+Polymerase Chain Reactions
+DNA sequences spanning individual exons were
+amplified by PCR with oligonucleotide primers located in the respective flanking introns. The general
+procedures and the specific oligonucleotide primers
+used for the amplification of individual exon sequences have been described (Zielenski et at., 1991).
+Oligonucleotides were either purchased from the Hospital for Sick Children DNA Biotechnology Service
+Center or synthesized with the use of a Cruachem
+PS250 machine. PCR amplification of genomic DNA
+from cultured lymphoblasts or peripheral blood was
+performed in a Perkin-Elmer/Cetus
+DNA thermal
+cycler as described (Kerem et al., 1990a), except for
+exons 1 and 2 for which a modified protocol was used
+(Zielenski et al., 1991).
+
+for Detecting
+in Exons
+
+1
+
+Normal:
+32 + 172 + 105 bp
+Mutant:
+32 + 277 bp (destruction
+of site)
+BglI digestion
+Normal:
+438bp
+Mutant:
+288 + 149 bp (creation
+of site)
+MseI digestion
+Normal:
+35 + 71 f 299 + 33 bp
+Mutant:
+35 f 71 f 245 + 54 + 33 bp
+(creation
+of site) AS0 hybridization;
+washing
+at 40°C
+Normal:
+GGTACATACTTCATCA
+Mutant:
+GGTACATAATTCATCA
+AS0 hybridization;
+washing
+at 37°C
+Normal:
+AAGTA’I’TGGACAACTT
+Mutant:
+AAGTATTAGACAACTT
+AS0 hybridization;
+was?ling at 49’C
+Normal:
+GCCCAGAGACCATGCA
+Mutant(?):
+GCCCAGACACCATGCA
+AS0 hybridization;
+washing
+at 51°C
+Common:
+AACATCGCCGAAGGG
+Variant:
+AACAmGCCGAAGGG
+
+for 10 min each at room temperature followed by
+twice with 2X SSC for 30 min each at 45-57°C; the
+exact temperature was determined empirically for
+each AS0 as indicated.
+RESULTS
+
+As an ongoing effort to screen for mutations in the
+CFTR gene, 18 unrelated individuals (including 4 patients and 14 obligate carriers) carrying 20 nonAF508 CF chromosomes were used as the primary
+panel for DNA sequence analysis. These chromosomes were chosen because their haplotypes, consisting of 23 DNA markers spanning the entire gene, were
+available for comparative analysis (Kerem et al.,
+1989b). In the present study, direct DNA sequencing
+of PCR-amplified product was performed on the first
+eight exons of the CFTR gene, which included the
+region extending from 5’ of the presumptive promoter
+of the gene to sequences flanking the 3’ end of exon 8.
+A total of seven nucleotide alterations, compared to
+the published cDNA sequence, was noted (Table 2).
+Each of the changes was verified by repeated sequencing and confirmed with a specific diagnostic test (as
+indicated below) in other family members.
+G85E
+A missense mutation was found in exon 3, in a region corresponding to the predicted transmembrane
+
+CF
+
+231
+
+MUTATIONS
+
+TABLE
+Mutations
+
+and Sequence
+
+Variations
+
+2
+
+in Exon
+
+Regions
+
+1 to 8 of the CFTR
+Number
+
+Gene
+
+of chromosomes
+
+screened
+
+CF
+Name
+
+Amino
+
+None
+Gln + Arg at 75
+Gly * Glu at 85
+Frameshift
+Splice mutation
+Splice mutation
+Gly + Arg at 178
+
+129G + C
+R75Q
+G85E
+556delA
+621 + 1G + T
+711+
+1G * T
+G178R
+Note.
+
+mutation;
+parentheses
+
+acid change
+
+Nucleotide
+
+change
+
+G --) C at 129
+T --* C at 356
+G + A at 386
+1-bp deletion
+G-*Tat621+1
+G * Tat 711 + 1
+G -+ A at 664
+
+Mut.
+
+1
+3
+3
+4
+Intron
+Intron
+5
+
+3
+
+Number
+of chromosomes
+screened
+refers to the number
+of parental
+Mut., number
+of chromosomes
+with the indicated
+change; nonmut.,
+indicates
+the number
+of chromosomes
+within
+the same haplotype
+
+domain of CFTR. It was detected on paternal CF
+chromosome from family 26, a French-Canadian
+family classified as pancreatic insufficient (PI). As shown
+in Fig. 1, the patient was heterozygous for this mutation,
+which involved a G to A transition at nucleotide
+position 386, according to the numbering system of
+Riordan et al. (1989). The maternal CF chromosome
+was found to carry the 621 + 1G --) T mutation as
+described below. The G to A transition in G85E would
+predict a change in the encoded amino acid from Gly
+to Glu at amino acid position 85 of CFTR.
+G85E was found to be associated with the group IIb
+haplotype, as defined by Kerem eCal. (1989b) (see Fig.
+2). The mutation destroyed a HinfI site which could
+T
+A
+T
+A
+T \
+
+Exon
+
+G85E
+
+T
+A
+c
+T
+T \
+
+de1556A
+
+1
+1
+5
+1
+1
+
+4
+5
+
+Normal
+Nonmut.
+
+Mut.
+
+68 (10)
+41 (23)
+54 (8)
+31@)
+33 (18)
+54 (9)
+61 (1)
+
+Nonmut.
+51
+28
+50
+30
+29
+49
+54
+
+5
+
+(43)
+(11)
+(44)
+(16)
+(13)
+(41)
+(4)
+
+CF and normal
+chromosomes
+examined
+for the indicated
+number
+of chromosomes
+without
+the change; the number
+in
+group (see Fig. 2 and Ref. (10)).
+
+be used for rapid screening of G85E-upon
+cleavage
+with this enzyme, the normal PCR-amplified
+DNA
+would generate three fragments of 172,105, and 32 bp
+in size, and the mutant would give a novel 277 bp
+(Table 1). Screening of 54 CF chromosomes (8 from
+group II) and 50 normal chromosomes (44 from group
+II) did not detect another example of G85E.
+556delA
+
+A frameshift mutation caused by the deletion of a
+single nucleotide (A) at position 556 of the coding region was found in exon 4 (Table 2). This mutation
+(556delA) was detected in a PI patient (Toronto fam-
+
+C
+A
+T\
+
+621+1G+T
+
+71 l+lG+T
+
+E\
+
+G176R
+
+i
+T
+GT
+A
+
+G
+
+A
+
+T
+
+C
+
+G
+T
+A
+G
+T
+T
+T
+A
+A
+A
+
+A’
+
+FIG. 1. DNA sequence analyses of detected CF mutations
+(from left to right):
+All DNA samples were amplified
+by PCR, and sequences were determined
+with
+
+G85E, de1556A, 621+ 1G + T, 711+ 1G + T, and G178R.
+primers
+described
+under Materials
+and Methods.
+
+232
+
+ZIELENSKI
+
+ET
+
+AL.
+
+1
+
+1
+
+2
+
+1 2
+
+2
+
+2
+
+Ub)
+
+1
+1
+
+1
+1
+
+2
+2
+
+1 2
+1 2
+
+2
+2
+
+2
+2
+
+(Ib)
+Ob)
+
+1
+1
+
+1
+1
+
+2
+2
+
+1 2
+1 -
+
+2
+
+2
+-
+
+Ub)
+Ub)
+
+621+1&T
+621+1G+T
+
+2
+2
+
+1 2
+1 2
+
+1
+1
+
+2
+2
+
+1
+1
+
+1
+1
+
+1
+1
+
+1
+1
+
+1
+1
+
+2
+2
+
+2
+2
+
+1 2
+1 2
+
+1
+1
+
+2
+2
+
+621+lG+T
+621+1G+T
+
+2
+2
+
+2 1
+1 1
+
+1
+1
+
+2
+2
+
+1
+1
+
+1
+1
+
+-
+
+1
+1
+
+1
+1
+
+2
+2
+
+2
+2
+
+1
+1
+
+2
+2
+
+1
+1
+
+2
+2
+
+621+1G+T
+
+2
+
+1 2
+
+1
+
+2
+
+1
+
+1
+
+1
+
+1
+
+1
+
+2
+
+-
+
+1
+
+2
+
+1
+
+2
+
+129G4!
+
+21212112221---212111212
+
+@a)
+
+G85E
+
+1111211-221121212112222
+
+OW
+
+711+1G+T
+
+1
+
+556delA
+
+21212222-12212112221222
+
+G178R
+
+1
+
+1 1
+
+1 -
+
+1
+
+1
+
+2
+
+2
+
+1
+
+1
+
+1
+
+1
+
+2
+
+2
+
+1
+
+1 2
+
+1 2
+
+1
+
+2
+
+1
+
+1
+
+2
+
+2
+
+1
+
+1
+
+(IIb)
+(In@
+
+1
+
+2 (2) (2) (1)
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+1
+
+-
+
+-
+
+-
+
+1
+
+1
+
+(Va)
+
+FIG. 2. DNA marker
+haplotypes
+associated
+with the CF chromosomes.
+The DNA markers
+(with the locus names underlined),
+revealing
+the polymorphism,
+haplotypes,
+and group classifications
+(in parentheses)
+have been defined previously
+(10).
+
+ily 17, GM1076) heterozygous
+for this deletion; overlapping ladders were thus observed on the sequencing
+gel from the point of the deletion (Fig. 1). The
+556delA deletion was thought to be disease-causing
+because it would result in a shift of translation
+reading frame leading to a premature
+termination
+of
+CFTR synthesis.
+The mutant chromosome
+was classified as a member of the IIIb haplotype group, and
+the paternal CF chromosome in this family was found
+to have the AF508 mutation (Kerem et al., 198913).
+Since 556delA created a novel BgZI site in exon 4,
+the PCR-amplified
+product could be digested with
+BgZI to distinguish the mutant sequence, which would
+be cleaved by this enzyme into two fragments
+(287
+and 150 bp), from the normal (438 bp) (Table 1). The
+mutation was not found in 31 other CF chromosomes
+(9 from group IIIb) and 30 normal chromosomes
+(16
+from IIIb) .
+621 i- 1G --+ T
+A putative mutation was found in the splice donor
+site flanking the 3’ end of exon 4; the highly conserved
+GT at this location was changed to TT (Fig. 1). This
+mutation (621 + 1G + T), which was expected to
+result in aberrant
+splicing,
+was detected in five
+French-Canadian
+non-AF508
+CF chromosomes
+belonging to haplotype group I (one each in Toronto
+families 22, 23,26,36, and 53) but not in 33 other CF
+chromosomes
+(18 from the same group) and 29 normal chromosomes
+(13 from the same group). The
+
+enzyme
+
+other CF chromosomes
+in all five families were also
+known: the ones for families 23 and 36 were AF508,
+that for family 53 was A455E (Kerem et aZ., 1990a),
+that for family 26 was G85E (as described above), and
+that for family 22 was 711+ 1G + T (see below). The
+patients in these families, except those in family 53,
+were all documented to be PI.
+Since a novel We1 site was created by this G to T
+transversion,
+the mutant allele could be distinguished
+from the non-621 + 1G + T sequence with this enzyme; whereas four fragments of 33,35,71, and 299 bp
+in size would be generated by MseI digestion of the
+normal PCR-amplified
+product, the 299-bp fragment
+in the mutant would be cleaved by the enzyme to give
+two fragments of 54 and 245 bp instead.
+G178R
+A missense mutation (G178R) was detected in exon
+5, in a region predicted to be intracellular,
+and between the first and second membrane-spanning
+segments. The nucleotide at position 664 was changed
+from G to A (Fig. l), resulting in the replacement of
+Gly178 by Arg in the presumptive
+CFTR. The mutation was found to belong to haplotype group V, on the
+maternal CF chromosome
+in family 50. The patients
+in this family were classified as PI, and the paternal
+CF chromosome
+was AF508.
+G178R could be identified with AS0 hybridization,
+as described in Table 1. This G to A transition
+was
+thought to be a mutation causing CF because the en-
+
+CF
+
+233
+
+MUTATIONS
+
+coded amino acid residue switched
+from neutral to
+basic. No other sequence alterations were found in the
+coding region of this allele. In addition, the sequence
+variation was not detected in 54 normal chromosomes
+(including 5 in the same haplotype group); it was, in
+fact, found only once after screening of 61 CF chromosomes (including 2 others from the same group).
+
+711 + 1G + T
+This G to T change was found to be located at the
+highly conserved
+consensus
+sequence at the splice
+junction (nucleotide position 711+ 1) at the 3’ flanking region of exon 5 (Fig. 1). As a consequence, it was
+expected that this change (GT + TT) would result in
+aberrant splicing. The 711 + 1G --* T mutation was
+found on the maternal CF chromosome
+of a FrenchCanadian family with PI (family 22) from Chicoutimi;
+this chromosome was included in haplotype group 1%
+The 711 + 1G --) T mutation could be detected by
+AS0 hybridization
+as described in Table 1. We examined 54 CF chromosomes
+(9 from haplotype group II)
+and 49 normal chromosomes
+(41 group II), but did not
+see another example.
+
+129G + C
+While all of the presumptive
+CF mutations identified thus far were located in the coding region and
+RNA splice junctions
+(Kerem et al., 1989b, 1990a;
+Cutting et al., 1990a,b; Dean et al., 1990; White et al.,
+1990), one candidate mutation outside these regions
+was found at a nucleotide position 4 bp upstream of
+the presumptive
+initiation codon. The sequence alteration was a G to C transversion
+(129G + C). It was
+first found on the paternal CF chromosome
+in Toronto family 14 and associated with haplotype IIa.
+The CF children in this family were documented to be
+PS (pancreatic sufficient) and the maternal CF chromosome was AF508. The 129G + C mutation could
+be detected by AS0 hybridization
+as described in Table 1.
+Haplotype
+analysis indicated that haplotype
+IIa
+(the chromosome containing this mutation) was common among the normal chromosome
+population
+(Kerem et al., 1989b), but the G to C change was not
+found in 51 normal chromosomes
+screened (43 from
+group II). To obtain further
+evidence that this sequence alteration
+might associate with the disease,
+additional chromosomes
+were examined. Among 68
+other CF chromosomes
+(including 10 from haplotype
+group II) analyzed, two additional
+examples were
+found in two unrelated PS patients. The other chromosomes in these patients were AF508 but, unfortunately, their haplotype was not determined.
+
+R75Q
+An alternative nucleotide was noted at position 356
+in exon 3, where a T nucleotide was found in place of
+the reported C (data not shown); the corresponding
+amino acid would be Gln instead of Arg at amino acid
+position 75. The T nucleotide was found in 5 of 16
+normal chromosomes
+of haplotype IIa but not in 17
+normal chromosomes
+of other haplotypes
+nor in 41
+CF chromosomes
+(23 from IIa), suggesting that this
+mutation
+represents
+an amino acid sequence polymorphism.
+DISCUSSION
+
+Upon sequence analysis of exons 1 through 8, we
+have identified five, possibly six, different mutations
+in the CFTR gene. Although one of them, 556delA
+(the single-basepair deletion), which is expected to
+create a translational frameshift, is clearly a defective
+allele, the other five require further justification that
+they are disease-causing mutations. The identification of this frameshift mutation, together with G85E,
+confirms that the previously predicted initiation codon is in fact utilized, as the next available methionine codon is at amino acid position 150 toward the
+end of exon 4.
+Two of these apparent mutations (G85E and
+G178R) would lead to drastic amino acid substitutions (change of type). Since Gly85 is predicted to be
+in the first transmembrane segment of CFTR, replacement with a negatively charged residue (Glu) would
+probably cause a severe consequence to the localization of the mutant protein in the membrane. The result of substituting Arg for Glyl78 is not as obvious,
+as there is no information about a possible function of
+this presumed intracellular region. However, since no
+other sequence alterations have been detected in the
+coding regions of these alleles and since no normal
+chromosomes have been found to harbor these missense mutations, G85E and G178R are most probably
+disease-causing mutations. Formal proof that these
+sequence alterations are bona fide mutations awaits
+functional testing of each of them in transfection assays. In this regard, the transfection systems recently
+developed (Drumm et al., 1990; Rich et al., 1990)
+should be useful for the study.
+Two of the sequence changes (621 + 1G + T and
+711 + 1G + T) are expected to cause RNA splicing
+defects. The unprocessed or aberrantly processed
+RNA may be highly unstable and rapidly degraded,
+resulting in low or no CFTR synthesis. It is unclear,
+however, whether alternative splicing might occur at
+cryptic sites. Total omission of exon 4 or 5 is expected
+to create a shortened polypeptide, as both of these
+exons contain a number of nucleotides in multiples of
+
+234
+
+ZIELENSKI
+
+3, but the resulting proteins might not be functional.
+Direct examination
+of the RNA or protein derived
+from these mutant alleles should provide a better understanding
+of these mutations.
+The sequence change (129G --f C) located 4 nucleotides upstream of the proposed translation
+initiation
+codon is perplexing; it is unclear whether it represents
+a disease-causing
+mutation, especially since a C residue at position -4 of the initiation codon is preferred
+in experimental
+systems (Kozak,
+1986). The mutation has, however, so far been found on 3 CF chromosomes but not on any of the 51 normal chromosomes
+examined,
+including
+43 from the same haplotype
+group (IIa). It is possible that there is a mutation elsewhere in this allele, but no other change has been
+found after sequencing of the entire coding region and
+immediately
+flanking intron regions. Alternatively,
+129G + C may reduce expression
+of CFTR at the
+transcriptional
+level. Further analysis at the expression level may prove this point.
+On the basis of DNA marker haplotype analysis, we
+previously showed that all CF chromosomes
+carrying
+AF508 appear to have descended from a single mutational event (Kerem et al., 198913). A similar conclusion may be drawn for the 621 + 1G + T mutation
+described
+in this study; all the CF chromosomes
+carrying this mutation belong to haplotype group Ib
+(Fig. 2). In fact, the CF patients with 621 + 1G + T
+all come from the Saguenay-Lac
+St. Jean region in
+Quebec, confirming the common origin of this mutation. It is probable that the mutation was introduced
+into this historical
+settlement by a small number of
+founders (Bouchard,
+1987). In this regard, it is of interest to note that another mutation, A455E, found in
+this French-Canadian
+population
+is also associated
+with haplotype Ib (Kerem et aZ., 1990a). Since group I
+haplotype is rare among normal chromosomes,
+it is
+likely that 621+ 1G --* T, A455E, and perhaps AF508
+(Kerem et aZ., 1989a) all originated in a unique geographic location. Subsequent selection or drift could
+increase the frequencies of these mutations in the population. The two other mutations
+(G85E and 711
++ 1G + T) found in the French-Canadian
+population, although less frequently
+detected, also share a
+similar haplotype (group IIb, Fig. 2). This similarity
+may reflect their common ancestral relationship,
+but
+it is more likely to be a coincidence, as group II is the
+most common haplotype
+among normal chromosomes (Kerem et aZ., 1989b).
+We previously
+suggested that CF mutations could
+be classified as seuere and mild alleles with respect to
+their influence on pancreatic function (Kerem et al.,
+1989a,b). The AI?508 deletion has been included as
+one of the severe alleles, and patients homozygous for
+this mutation are almost exclusively PI (Kerem et al.,
+1989b, 199Ob). The hypothesis
+also predicts that pa-
+
+ET
+
+AL.
+
+tients homozygous for any combination
+of the severe
+alleles will be PI. Under this assumption, a number of
+other mutations
+could be classified as severe alleles
+for their association
+with PI patients (Kerem et al.,
+1990a). Similarly, five of the mutations reported here,
+i.e., G85E, G178R, 556delA, 621 + 1G + T, and 711
++ 1G --* T, could also be classified as severe alleles.
+Definition
+of a mild allele is less straightforward
+because the patient could carry one or two copies of a
+mild mutation(s).
+Two mutations
+(A455E
+and
+P574H) that are most likely mild alleles have been
+described; both of them are found in patients carrying
+AF508 (severe allele) as their other CF chromosome
+(Kerem et al, 1990a). In the present study, one of
+these mild alleles, A455E, is found in combination
+with 621 + 1G + T (a severe allele as defined above)
+in a PS patient, thus in complete agreement with our
+hypothesis. Further, the CFTR gene with the 129G --t
+C mutation probably constitutes
+a mild allele, because
+all three patients found to have this mutation are PS
+and carry AF508 on their other CF chromosome.
+In addition to furthering
+our understanding
+of the
+functional properties of CFTR and the clinical consequence of the different types of mutant alleles, the
+knowledge
+of CF mutations
+at the DNA level increases our ability to detect these mutations
+in the
+population. A cohort of 94 CF chromosomes
+that have
+been well characterized
+with respect to DNA marker
+haplotypes (Kerem et al., 1989b) has been used in our
+primary mutation detection study. The majority (631
+94) of these chromosomes
+carry the AF508 mutation,
+at a frequency similar to the world average (68%).
+After screening of over 90% of the coding region of
+CFTR, 15 additional mutations have been detected in
+this cohort (Kerem et al., 1990a; this study). Together, these mutations account for over 90% (85/94)
+of CF chromosomes
+in this population. Knowledge of
+the distribution
+of these mutations
+in other populations awaits further
+data collection
+through
+the
+CFTR Genetic Analysis Consortium.
+It is anticipated
+that there will be substantial
+variation
+in the frequency of each of the mutant alleles in different geographic locations.
+
+ACKNOWLEDGMENTS
+The authors thank Dara Kennedy
+for her expert technical
+assistance, and Mary
+Fujiwara
+and Richard
+Rozmahel
+for helpful discussions. The availability
+of the CF patient
+database at the Hospital for Sick Children
+in Toronto
+is also gratefully
+acknowledged.
+The research was supported
+by grants from the National
+Institutes
+of Health
+(U.S.A.)
+(DK-34944-53,
+the Cystic Fibrosis
+Foundation
+(U.S.A.),
+and the Canadian
+Cystic Fibrosis Foundation.
+L.-C.T.
+is
+a recipient
+of the Scientist
+Award
+from the Medical
+Research
+Council of Canada.
+
+235
+
+CF MUTATIONS
+
+REFERENCES
+1. BOUCHARD, G. (1987). The population history and the gene
+pool of the north-eastern populations of the province of Quebec. In “Proceedings, SOREP International
+Symposium,
+Chicoutimi,” pp. 11-17.
+2. CUTTING, G. R., KASH, L. M., ROSENSTEIN, B. J., ZIELENSKI,
+J., TSUI, L.-C., ANTONARAKIS, S. E., AND KAZAZIAN, H. H.
+(1990a). A cluster of cystic fibrosis mutations in the first nucleotide-binding fold of the cystic fibrosis conductance regulator protein. Nature 346: 366-369.
+3. CUTTING, G. R., KASH, L. M., ROSENSTEIN, B. J., TSUI, L.-C.,
+KAZAZIAN, H. H., JR., AND ANTONAFZAKIS, S. E. (1990b). Two
+cystic fibrosis patients with mild pulmonary disease and nonsense mutations in each CFTR gene. New Engl. J. Med. 323:
+1685-1689.
+4. DEAN, M., WHITE, M. B., AMOS, J., GERRARD, B., STEWART,
+C., KHAW, K.-T., AND LEPPERT, M. (1990). Multiple mutations in highly conserved residues are found in mildly affected
+cystic fibrosis patients. Cell 61: 863-870.
+5. DRUMM, M. L., POPE, H., CLIFF, W. H., ROMMENS, J. M.,
+MARVIN, S. A., TSUI, L.-C., COLLINS, F. S., FRIZZELL, R. A.,
+AND WILSON, J. M. (1990). Correction of the cystic fibrosis
+defect in vitro by retrovirus-mediated
+gene transfer. Cell 62:
+1227-1233.
+6. DURIE, P. R., FORSTNER, G. G., GASKIN, K. J., MOORE, D. J.,
+CLEGHORN, G. J., WONG, S. S., AND COREY, M. L. (1986).
+Age-related alterations in immunoreactive pancreatic cationic trypsinogen in sera from cystic fibrosis patients with
+and without pancreatic insufficiency. Pediatr. Res. 20: 209213.
+7. GASKIN, K. J., DURIE, P. R., LEE, L., HILL, R., AND
+FORSTNER, G. G. (1984). Colipase and lipase secretion in
+childhood-onset pancreatic insufficiency: Delineation of patients with steatorrhoea secondary to relative colipase deficiency. Gastroenterology
+86: l-7.
+8. GUILLERMIT, H., FANEM, P., AND FEREC, C. (1990). A 3’ splice
+site consensus sequence mutation in the cystic fibrosis gene.
+Hum.
+
+Genet.
+
+85: 450-453.
+
+9. KEREM, B., BUCHANAN, J. A., DURIE, P., COREY, M. L., LEVISON, H., ROMMENS, J. M., BUCHWALD, M., AND TSUI, L.-C.
+(1989a). DNA marker haplotype association with pancreatic
+sufficiency in cystic fibrosis. Am. J. Hum. Genet. 44: 827-834.
+10. KEREM, B., ROMMENS, J. M., BUCHANAN, J. A., MARKIEWICZ,
+D., Cox, T. K., CHAKRAVARTI, A., BUCHWALD, M., AND TSUI,
+L.-C. (1989b). Identification of the cystic fibrosis gene: Genetic analysis. Science 245: 1073-1080.
+11. KEREM, B., ZIELENSKI, J., MARKIEWICZ, D., BOZON, D., GAZIT, E., YAHAV, J., KENNEDY, D., RIORDAN, J., COLLINS, S. F.,
+ROMMENS, J., AND TSUI, L.-C. (1990a). Identification of mutations in regions corresponding to the 2 putative nucleotide
+(ATP)-binding
+folds of the cystic fibrosis gene. Proc. N&Z.
+Acad. Sci. USA 87: 8447-8451.
+12. KEREM, E., COREY, M., KEREM, B., ROMMENS, J., MARKIEWICZ, D., LEVISON, H., TSUI, L.-C., AND DURIE, P. (199Ob).
+Association between the most common mutation (AF508)
+and phenotypes in cystic fibrosis. New Engl. J. Med. 323:
+1517-1522.
+13. KOZAK, M. (1986). Point mutations define a sequence flank-
+
+14.
+
+15.
+
+16.
+
+17.
+
+18.
+
+ing the AUG initiator codon that modulates translation by
+eukaryotic ribosomes. Cell 44: 283-292.
+LEMNA, W. K., FELDMAN, G. L., KER.EM, B., FERNBACH,
+S. D., ZEVKOVICH, E. P., O’BRIEN, W. E., COLLINS, F. S.,
+TSUI, L.-C., AND BEAUDET, A. L. (1990). Mutation analysis
+for heterozygote detection and the prenatal diagnosis of cystic fibrosis. New Engl. J. Med. 322: 291-296.
+MIZUSAWA, S., NISHIMURA, S., AND SEXLA, F. (1986). Improvement of the dideoxy chain termination method of DNA
+sequencing by use of deoxy-7-deazaguanosine triphosphate in
+place of dGTP. Nucleic Acids Res. 14: 1319-1324.
+RICH, D. P., ANDERSON, M. P., GREGORY, R. J., CHENG, S. H.,
+PAUL, S., JEFFERSON, D. M., MCCANN, J. D., KLINGER,
+K. W., SMITH, A. E., AND WELSH, M. J. (1990). Expression of
+cystic fibrosis transmembrane
+conductance
+regulator
+corrects defective chloride channel regulation in cystic fibrosis airway epithelial cells. Nature 347: 25&265.
+RIORDAN, J. R., ROMMENS, J. M., KEREM, B., ALON, N., RozMAHEL, R., GRZELCZAK, Z., ZIELENSKI, J., LOK, S., PLAVSIC,
+N., CHOU, J-L., DRUMM, M., IANNUZZI, M. C., COLLINS, S. F.,
+AND TSUI, L-C. (1989). Identification of the cystic fibrosis
+gene: Cloning and characterization of complementary DNA.
+Science 246: 1066-1073.
+ROMMENS, J. M., KEREM, B., GREER, W., CHANG, P., TSUI,
+L.-C., AND RAY, P. (1990). Rapid nonradioactive detection of
+the major cystic fibrosis mutation. Am. J. Hum. Genet. 45:
+337-339.
+
+19. ROMMENS, J. M., IANNUZZI, M. C., KEF~EM, B., DRUMM,
+M. L., MELMER, G., DEAN, M., ROZMAHEL, R., COLE, J., KENNEDY, D., HIDAKA, N., ZSIGA, M., BUCHWALD, M., RIORDAN,
+J. R., TSUI, L-C., AND COLLINS, F. S. (1989). Identification of
+the cystic fibrosis gene: Chromosome walking and jumping.
+Science 245: 1059-1065.
+20. SAIKI, R. K., GELFAND, D. H., STOFFEL, S., SHARF, S. J., HIGUCHI, R., HORN, G. T., AND ERLICH, H. A. (1988). Primerdirected enzymatic amplification of DNA with a thermostable DNA polymerase. Science 239: 487-491.
+21. SANGER, F., NICKLEN, S., AND COULSON, A. R. (1977). DNA
+sequencing with chain terminating inhibitors. Proc. Natl.
+Acad.
+
+Sci. USA
+
+74: 5463-5467.
+
+22. TSUI, L.-C., ZENGERLING, S., WILLARD, H. F., AND BUCHWALD, M. (1986). Mapping of the cystic fibrosis locus on chromosome 7. Cold Spring Harbor Symp. Quant. Biol. 51: 325335.
+23. VIDAUD, M., FANEN, P., MARTIN, J., GHANEM, N., NICOLAS,
+S., AND GOOSSENS, M. (1990). Three mutations in the CFTR
+gene in French cystic fibrosis patients: Identification by denaturing gradient gel electrophoresis. Hum. Genet. 85: 434-435.
+24. WHITE, M., AMOS, J., Hsu, J. M.-C., GERRARD, B., FINN, P.,
+AND DEAN, M. (1990). A frameshift mutation in the cystic
+fibrosis gene. Nature 344: 665-667.
+25. WINSHIP, P. R. (1989). An improved method for directly sequencing PCR amplified material using dimethyl sulphoxide.
+Nucleic Acids Res. 17: 1266.
+26. ZIELENSKI, J., ROZMAHEL, R., BORON, D., KEREM, B.,
+GRZELCZAK, Z., RIORDAN, J. R., ROMMENS, J. M., AND TSUI,
+L.-C. (1991). Genomic DNA sequence of the cystic fibrosis
+transmembrane conductance regulator (CFTR) gene. Genomics 10: 214-228.
+
+

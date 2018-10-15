@@ -1,0 +1,437 @@
+Am. J. Hum. Genet. 50:229-233, 1992
+
+Identification of a New Mutation in Medium-Chain Acyl-CoA
+Dehydrogenase (MCAD) Deficiency
+Jia-Huan Ding, Bing-Zhi Yang, Yong Bao, Charles R. Roe, and Yuan-Tsong Chen
+Department of Pediatrics, Division of Genetics and Metabolism, Duke University Medical Center, Durham, NC
+
+Summary
+A mutation involving an A-to-G nucleotide replacement at position 985 of the medium-chain acyl-CoA
+dehydrogenase (MCAD) cDNA was found in homozygous form in 18 unrelated MCAD-deficient families
+and in heterozygous form in 4 families. By PCR amplification and sequencing of cDNA from a compound
+heterozygote, we have detected a new mutation in an MCAD-deficient patient in whom one MCAD allele
+produces mRNA that is missing 4 bp in the MCAD cDNA, while the other allele carries the A-to-G-985
+mutation. The presence of this 4-bp deletion was confirmed in the patient's genomic DNA by dot-blot
+hybridization with allele-specific oligonucleotide probes and by restriction analysis of PCR products. A rapid
+screening test for this 4-bp deletion was developed, based on mismatched primer PCR amplification. The
+deletion created a new restrictive-enzyme site which yielded two DNA fragments. The 4-bp deletion was not
+found in the three remaining MCAD chromosomes not harboring the A-to-G-985 mutation, nor it was
+present in 20 chromosomes from 10 unrelated normal Caucasians. The PCR-based method for screening these
+two mutations can detect over 93% of all MCAD mutations.
+
+Introduction
+
+Medium-chain acyl-CoA dehydrogenase (MCAD) deficiency is an autosomal recessive disorder which may
+present in the first 2 years of life, as sudden unexplained death, Reyes syndrome, or encephalopathy
+with or without hypoglycemia. It is estimated to occur
+in 1/6,000-1/10,000 live Caucasian births. Each
+year approximately 500 new cases in the United States
+are expected, of which one-fourth will die with their
+first episode (Roe and Coates 1989). In fact, many
+families in which MCAD deficiency is recognized have
+already sustained the unexplained loss of a child. Once
+the diagnosis is made, further loss of a sibling because
+of MCAD deficiency can be prevented; avoidance of
+fasting, carnitine supplementation, and prompt intravenous glucose therapy during acute illness all constitute effective therapy.
+Received May 22, 1991; revision received August 23, 1991.
+Address for correspondence and reprints: Y. T. Chen, M.D.,
+Ph.D., Department of Pediatrics, Duke University Medical Center,
+P.O. Box 3028, Durham, NC 27710.
+© 1992 by The American Society of Human Genetics. All rights reserved.
+0002-9297/92/5001 -0025$02.00
+
+Human and rat MCAD cDNAs have been cloned
+and sequenced (Kelly et al. 1987; Matsubara et al.
+1987). The coding region is 1,263-bp and encodes a
+421-amino-acid precursor protein. At the molecular
+level an A-to-G nucleotide replacement at position 985
+(G-985) of the MCAD cDNA appears to be the single
+prevalent mutation causing MCAD deficiency (Matsubara et al. 1990; Yokota et al. 1990b; Ding et al.
+1990; Kelly et al. 1990), although a 13-bp tandemrepeat insertion from position 999 (Yokota et al.
+1990a) has been reported in a single patient. With a
+PCR-based method to screen the A-to-G-985 mutation, we have demonstrated its use in diagnosis and
+carrier detection of MCAD deficiency, by using (1)
+dried blood spots on filter papers, (2) paraffinembedded tissue, and (3) formalin-fixed tissue (Ding
+et al. 1991). The ability to diagnose MCAD deficiency
+in postmortem fixed tissues is particularly relevant,
+since this disorder often presents as sudden infant
+death.
+In the present paper we extend our molecular investigation of A-to-G-985 mutation to a total of 22 unrelated MCAD-deficient families. We found that 4 families are compound heterozygotes for the mutation. In
+229
+
+Ding et al.
+
+230
+one of these families, we identified a new mutation
+which involved a 4-bp deletion in the MCAD gene.
+
+Patients and Methods
+Patients
+Twenty-two families of northern-European origin
+
+who were affected by MCAD deficiency were studied.
+The diagnosis of all probands was based on detection
+of metabolites characteristic of MCAD deficiency
+(Millington et al. 1989). This was confirmed in 12
+families by fibroblast-enzyme assay (Coates et al.
+1985).
+Cloning and Sequencing of MCAD cDNA
+
+Total RNA was prepared from peripheral lymphoby guanidinium-chloride extraction methods
+(Cox 1968). First-strand cDNA synthesized from total
+RNA by using AMV reverse transcriptase (Bethesda
+Research Lab, Gaithersburg, MD) was used for PCR
+to amplify the entire coding region of MCAD cDNA.
+The conditions for amplification were as follows: 100
+pl reaction mixture contained 50 mM Tris-HCl (pH
+8.3), 1.5 mM MgCl2, 0.01% (w/v) gelatin, 1 gI of
+first-strand cDNA synthesis mixture (as template
+DNA), 50 pmol of each of the appropriate sense and
+antisense PCR primers (which were constructed so
+that BamHI sequences are present at the 5' and 3' ends
+of the PCR products; table 1, oligonucleotide 1 and
+cytes
+
+2), 0.2 mM of each dNTP, and 2.5 units Taq DNA
+polymerase (Perkin Elmer-Cetus, Norwalk, CT);
+the overlay was 60 pl of mineral oil. The reaction was
+amplified for 30 cycles by denaturing at 940C for 1
+min, annealing at 560C for 1 min, and extending at
+720C for 1.5 min. The PCR product was extracted
+with phenol/chloroform and precipitated with ethanol, and the pellet was resuspended in 30 pl of TE
+buffer. The PCR product was then digested with
+BamHI (Bethesda Research Lab, Gaithersburg, MD)
+and subcloned into pGEM 3Zf( + ) Vectors (Promega
+Biotec, Madison, WI). Double-stranded dideoxy sequencing (Sanger et al. 1977) was performed using
+[35S] dATP and the Sequenase DNA-sequencing kit
+(United States Biochemical, Cleveland) with T7, SP6,
+or MCAD-specific primers (table 1, oligonucleotide 3
+and 4).
+Identification of Mutation in the Genomic DNA
+To detect A-to-G-985 mutation, genomic DNA was
+amplified with mismatched primers (table 1, oligonucleotides 5 and 6) digested with NcoI and subjected to
+electrophoresis on 12% polyacrylamide gel (Ding et
+al. 1990). To validate the 4-bp deletion, genomic
+
+DNA corresponding to MCAD cDNA (position from
+1052 to 1141) was PCR amplified with primers (table
+1, oligonucleotides 7 and 8). The amplified products
+were dot blotted to a nitrocellulose membrane and
+hybridized with [32p] allele-specific oligonucleotides
+(table 1, oligonucleotide 9 and 10). Prehybridization
+
+Table I
+Oligonculeotides Used for cDNA Synthesis, Sequencing, Genomic
+Amplification, and Allele-specific Hybridization
+
+Oligonucleotide
+Number
+1 ..........
+2
+..........
+3 ..........
+4 ..........
+5..........
+6..........
+7 ..........
+8..........
+9 ..........
+
+10 ..........
+11 ..........
+
+Sequencea
+
+5'-GGGATCCGGAACGGAGAGCCAACAT-3'
+5'-GGGATCCAGTGGCTTGTGTTCTAG-3'
+5'-TTATCAAAAGCTCCCATTG-3'
+5'-TGTGAAAGTGCCTAAAGAA-3'
+5'-TGCTGGCTGAAATGGCtATG-3'
+5'-CCCAAGCTGCTCTCTGGTAA-3'
+5'-CCTATTATGCTTCTATTGC-3'
+5'-ATCCATTGCCTCCAAGTAT-3'
+5'-GCAAATCAGTTAGCTAC-3'
+
+5'-GCAAATCAG7CTACTGAT-3'
+5'-CTGGAGATATTGCAAAdCAG-3'
+
+Orientationb
++
+
++
++
+
++
++
++
++
+
+cDNA
+Coordinatesc
+
+-18 to 2
+1294 to 1311
+818 to 836
+762 to 780
+965 to 984
+1008 to 1027
+1052 to 1070
+1123 to 1141
+1093 to 1109
+1093 to 1113
+1082 to 1101
+
+Asterisk denotes mismatched nucleotide; and arrowhead indicates position of 4-bp deletion.
+Indicated as sense (+) or antisense (-).
+c As numbered for published sequences of MCAD cDNA (Kelly et al. 1987).
+a
+
+b
+
+Mutations in MCAD Deficiency
+
+and hybridization conditions were as described elsewhere (Chen et al. 1982), except that the hybridization temperature was 370C.
+For rapid screening and further confirmation of the
+4-bp deletion, the genomic DNA was amplified with
+mismatched primers (table 1, oligonucleotides 8 and
+11). The amplified products were then subjected to
+BbvI (New England Biolabs, Beverly, MA) enzyme
+digestion and electrophoresis on 12% polyacrylamide
+gels.
+Results
+
+Twenty-two unrelated MCAD-deficient families
+were screened for the presence of A-to-G-985 mutation by restriction analysis of PCR products. This
+group included 10 families whom we have reported
+elsewhere (Ding et al. 1990). The A-to-G-985 mutation was present in homozygous form in 18 families
+and was present in heterozygous form in the remaining
+4 families. One of the compound-heterozygote patients was further studied by PCR amplification and
+sequencing of cDNA. Three cDNA clones were sequenced. One differed from the wild-type MCADcDNA sequence by the substitution of A to G at position 985, a result consistent with the genomic data.
+The other two cDNA clones had normal A at position
+985 as the wild type, but a 4-bp deletion from position
+1102 to position 1105 of MCAD cDNA was found
+(fig. 1). There were no other nucleotide changes observed.
+The presence of the 4-bp deletion was confirmed in
+the patient's genomic DNA by dot-blot hybridization
+analysis with allele-specific oligonucleotide probes
+(data not shown) and by direct visualization of restricted DNA PCR products on gel electrophoresis.
+Since neither the normal nor the deletion allele surrounding the deletion contained a restriction site that
+could be used for segregating normal and mutant sequences, we used mismatched primers to amplify genomic DNA at the regions containing the predicted
+mutations, to create a new restriction site recognized
+by enzyme BbvI. After BbvI digestion, the 60-bp DNA
+fragment amplified from normal individuals remained
+intact (fig. 2A), while the compound-heterozygote patients having the 4-bp deletion three fragments were
+seen. The allele without the deletion remained intact
+as a 60-bp fragment, while the deletion allele yielded
+two fragments (33 bp and 23 bp) (fig. 2B). The patterns, however, do not allow distinction between patients and carriers, for the 4-bp deletion.
+
+231
+
+B
+
+A
+6
+
+T A
+
+C
+
+S
+
+T
+
+A
+
+C
+3
+
+3'
+C
+A
+
+T
+
+T
+
+G
+T
+
+C
+G
+A
+
+T
+
+A
+C
+A
+T
+
+T
+G
+
+C
+
+A
+C
+T
+A
+A
+A
+
+A
+
+C
+
+T
+A
+A
+A
+
+C
+6
+
+T
+
+T
+
+51
+
+51
+
+Partial sequence of PCR-amplified cDNA clones
+Figure I
+from normal individual (A) and from patient with MCAD deficiency
+(B) showing deletion of 4 bp (TTAG). The arrowhead indicates the
+position of the deletion which corresponds to MCAD cDNA from
+1102 to 1105.
+
+By restriction analysis of the PCR product, both
+proband and affected sibling inherited the 4-bp deletion allele from their father (fig. 2B) and an A-to-G985 allele from their mother. The unaffected sibling
+inherited both the normal alleles from each of his parents (fig. 2B). The maternal side of this family has its
+origins in England, while the paternal side derives
+from the French-speaking part of Switzerland and
+from Wales. PCR study of the paternal grandparents
+revealed that the 4-bp deletion came from the paternal
+Welsh ancestry. The remaining three families with
+affected children who are compound heterozygous for
+the A-to-G-985 mutation were screened for the presence of this 4-bp deletion; none of these have revealed
+the same 4-bp deletion. Studies of 10 unrelated normal
+Caucasians did not reveal the mutation.
+Discussion
+A new mutation involving a 4-bp deletion in the
+MCAD cDNA at positions 1102 to 1105 in a patient
+with MCAD deficiency has been identified. The deletion could involve either cDNA positions 1100 to
+1103 or cDNA positions 1101 to 1104, since both
+positions 1100 to 1101 and positions 1104 to 1105
+have AG nucleotides. In any case, the deletion pro-
+
+Ding et al.
+
+232
+A
+
+B
+
+Normal
+
+MCAD Deficiency
+Family
+Welsh
+
+French
+
+English
+
+-60bp
+-33
+-23
+
+BbvI digestion of PCR-amplified genomic DNA fragments from normal individuals (A) and family with MCAD deficiency
+Figure 2
+(B). Genomic DNA fragments were amplified with mismatched primers, digested with BbvI, and subjected to electrophoresis on 12%
+polyacrylamide gel. The allele without the 4-bp deletion remained intact as a 60-bp fragment, but digestion of the mutant DNA yielded
+two fragments (33 bp and 23 bp). The proband (arrowhead) and affected sibling were compound heterozygotes; the hatched portions
+represent the allele with A-to-G-985 mutation, and the blackened portions indicate the allele with the 4-bp deletion.
+
+duced altered amino acids from codon 368 to codon
+386 and created a premature termination codon
+(TAG) at positions 1160 to 1162. Thus, the deletion
+would predict an early truncation of the MCAD protein (385 amino acids vs. 421) and may, therefore,
+affect function of the gene product, beyond any significance which the new altered amino acids may have
+had.
+The mechanism by which the 4-bp deletion described here has occurred is unclear. The PCR experiment with genomic DNA demonstrates that this deletion takes place in an exon, since the size of the
+amplified genomic DNA was the same as would be
+predicted from the cDNA, and our genomic genesequences data indicate no intron between cDNA positions 944 and 1194 (authors' unpublished observation). This suggests that the 4-bp deletion is not the
+result of abnormal splicing at the intron/exon junction. Examination of cDNA sequences flanking the
+region of deletion did not reveal either tandem repeat
+of short motifs or significant homologous sequences
+flanking the deletion. These factors might have explained such a deletion (Roth et al. 1985; Chandley
+1989; Jarman and Wells 1989).
+
+Acknowledgments
+This work was supported by National Institutes of Health
+grants HD24908, DK39078 and M01-RR-30 and by the
+National Center for Research Resources, the General Clinical Research Center Program, and generous contributions
+from the H. L. Holtkamp Memorial Fund.
+
+References
+Chandley AC (1989) Asymmetry in chromosome pairing: a
+major factor in de novo mutation and the production of
+genetic disease in man. J Med Genet 26:546-552
+Chen YT, Negishi M, Nebert DW (1982) Cytochrome
+Pi-450 structural gene in mouse, rat and rabbit: difference
+in DNA methylation and developmental expression of
+mRNA. DNA 1:231-238
+Coates PM, Hale DE, Stanley CA, Corkey BE, Cortner JA
+(1985) Genetic deficiency for medium-chain acyl coenzyme A dehydrogenase: studies in cultured skin fibroblasts
+and peripheral mononuclear leukocytes. Pediatr Res 19:
+671-676
+Cox RA (1968) The use of guanidinium chloride in the isolation of nucleic acids. Methods Enzymol 12:120-129
+Ding J-H, Roe CR, Chen YT, Matsubara Y, Narisawa K
+
+Mutations in MCAD Deficiency
+(1990) Mutations in medium chain acyl-CoA dehydrogenase deficiency. Lancet 336:748
+Ding J-H, Roe CR, lafolla AK, Chen YT (1991) Medium
+chain acyl-CoA dehydrogenase deficiency and sudden infant death. N Engl J Med 325:61-62
+Jarman AP, Wells RA (1989) Hypervariable minisatellites
+recombinators or innocent bystanders? Trends Genet 5:
+367-371
+Kelly DP, Kim J-J, Billadello JJ, Hainline BE, Chu TW,
+Strauss AW (1987) Nucleotide sequence of medium-chain
+acyl-CoA dehydrogenase mRNA and its expression in
+enzyme-deficient human tissue. Proc Natl Acad Sci USA
+84:4068-4072
+Kelly DP, Whelan AJ, Ogden ML, Alpers R, Zhifang Z,
+Bellus G, Gregersen N, et al (1990) Molecular characterization of inherited medium-chain acyl-CoA dehydrogenase deficiency. Proc Natl Acad Sci 87:9326-9240
+Matsubara Y. Kraus JP, Ozasa H, Glassberg R, Finocchiaro
+G, Ikelda Y, Mole J, et al (1987) Molecular cloning and
+nucleotide sequence of cDNA encoding the entire precursor of rat liver medium chain acyl coenzyme A dehydrogenase. J Biol Chem 262:10104-10108
+Matsubara Y, Narisawa K, Miyabayshi S, Tada K, Coates
+PM, Bachmann C, Elasas III LJ, et al (1990) Identification
+of a common mutation in patients with medium-chain
+acyl-CoA dehydrogenase deficiency. Biochem Biophys
+Res Commun 171:498-505
+
+233
+Millington DS, Norwood DL, Kodo N, Roe CR, Inoue F
+(1989) Application of fast atom bombardment with tandem mass spectrometry and liquid chromatography/mass
+spectrometry to the analysis of acylcarnitines in human
+urine, blood, and tissues. Anal Biochem 180:331-339
+Roe CR, Coates PM (1989) Acyl-CoA dehydrogenase deficiencies. In: Scriver CR, Beaudet AL, Sly WS, Valle D
+(eds) The metabolic basis of inherited disease, 6th ed.
+McGraw-Hill, New York, pp 889-914
+Roth DB, Porter TN, Wilson JH (1985) Mechanisms of
+nonhomologous recombination in mammalian cells. Mol
+Cell Biol 5:2599-2607
+Sanger F, Nicklen S, Coulson AR (1977) DNA sequencing
+with chain-terminating inhibitors. Proc Natl Acad Sci
+USA 74:5463-5467
+Yokota I, Tanaka K, Coates PM, Ugarte M (1990a) Mutations in medium chain acyl-CoA dehydrogenase deficiency. Lancet 336:748
+Yokota Y, Indo Y, Coates PM, Tanaka K (1990b) The
+molecular basis of medium chain acyl-coenzyme A dehydrogenase deficiency: an A to G transition at position 985
+that causes a lysine-304 to glutamate substitution in the
+mature protein is the single prevalent mutation. J Clin
+Invest 86:1000-1003
+
+

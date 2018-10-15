@@ -1,0 +1,588 @@
+JOURNAL OF CELLULAR PHYSIOLOGY 148:391-395 (19911
+
+Transforming Activity of Mutant Human
+p53 Alleles
+JOYCE M. SLINCERLAND AND S A M BENCHIMOL*
+
+The Ontario Cancer Institute, Toronto, Ontario, Canada M4X iK9
+Mutant formsof the p53 gene have been shown to cooperate with an activated ras
+gene in transforming primary cells in culture. The aberrant proteins encoded by
+p53 mutants are thought to act in a dominant negative manner in these assays. In
+vivo data, however, reveal that where p53 has undergone genetic change in
+tumors, both alleles have been affected. We previously identified a case of h u m a n
+acute myelogenous leukemia (AML) in which both alleles of the p53 gene had
+undergone independent missense mutations (at codons 135 cys to ser and 246 met
+to val). In these blasts, p53 mutations appear to be acting recessively. We have
+assayed the transforming potential of these p53 mutations, as well as that of
+another mutation at codon 273, also identified in a human neoplasm. Both
+mutations from the AML blasts (codon 135 and codon 246) confer transforming
+ability on the mutant protein. While transformation assays may define functionally
+different subsets of p53 mutations, the overexpression phenotype of mutants in
+this assay may not accurately reflect the pathological effects of p53 mutations in
+vivo.
+The observations that the p53 gene is a target for gene had undergone independent point mutation, a t
+mutational inactivation (gene rearrangement, point codons 135 and 246, respectively (Slingerland et al.,
+mutation, and allele loss) in Friend murine erythroleu- 1991). It is unlikely that the first mutation arising in
+kemia and in human malignancy (reviewed in Lane the blasts of this patient (referred to hereafter as
+and Benchimol, 1990; Levine and Momand, 1990) sup- “patient D”) was truly a dominant negative, since
+port a role for p53 as a tumor suppressor. p53 protein further growth advantage was conferred by mutation of
+may act in the negative regulation of cell growth.
+the remaining wild type allele.
+A role for p53 in oncogenesis was originally proposed
+In this communication we describe the characterizabased on the observation that p53 could cooperate with tion of the phenotype of the proteins expressed by each
+a n activated ras gene to transform primary rat cells in of these mutant p53 alleles. Unexpectedly, each was
+culture (Eliyahu et al., 1984; Jenkins et al., 1984; shown to cooperate with ras in transformation of early
+Parada et al., 1984; Hinds et al., 1987). Only certain passage rat embryo fibroblasts (REFS).
+mutant forms of the protein have this capacity howMATERIALS AND METHODS
+ever, and the wild type protein not only lacks transRecombinant vectors
+forming ability, but can also act to suppress transforThe pEJ6.6 vector is a pBR322 derivative containing
+mation (Finlay e t al., 1989; Eliyahu et al., 1989). It has
+been suggested that the mutant p53 protein expressed a n activated ras gene from a human bladder carcinoma
+in rat cells can act in a dominant negative manner to (Shih et al., 1982). p53pro193 contains a 16 kb EcoRl
+inactivate the endogenous r a t wild-type p53 protein fragment in pUC18 carrying the entire murine p53
+(reviewed in Lane and Benchimol, 1990). However, the gene with a mutation a t codon 193 that changes a n
+behavior of mutant p53 in these assays results from arginine residue to proline; it is identical to pMR53
+overexpression of the transfected gene and may not be previously described (Munroe et al., 1990; Rovinski and
+a true reflection of the behavior of the mutants in vivo. Benchimol, 1988). pECH53 contains the wild type p53
+Indeed, the accumulation of data to date suggests that human cDNA (Matlashewski et al., 1987) in the SV40in vivo, where p53 has undergone mutation, both derived expression vector pECE (Ellis et al., 1986).
+alleles have been affected (Slingerland et al., 1991; p53ser135H (identical to pED-1 previously described;
+Baker et a]., 1989, 1990; Nigro et al., 1989; Takahashi (see Johnson et al., 1991) differs from pECH53 in
+et al., 1989; Stratton et al., 1990; Prosser et al., 1990; having a point mutation at codon 135 that changes
+Iggo e t al., 1990; Bartek et al., 1990; Chiba e t al., 1990; cysteine to serine. This vector was constructed by
+Rodrigues e t al., 1990; Malkin e t al., 1990; Mulligan replacing a 477bp NcoI fragment in pECH53 with a
+et al., 1990). Thus in vivo, p53 mutations appear to be corresponding fragment from double stranded p53
+acting recessively.
+In the course of sequencing the p53 cDNA in primary
+blasts of patients with acute myelogenous leukemia, we Received April 18, 1991.
+discovered one case in which both alleles of the p53 ’To whom reprint requestsicorrespondence should be addressed.
+8 1991 WILEY-LISS, INC.
+
+392
+
+SLINGERLAND AND BENCHIMOL
+
+cDNA prepared from the primary blasts of a patient
+with acute myelogenous leukemia (Slingerland et al.,
+1991). p53va1246H differs from pECH53 in having a
+point mutation a t codon 246 that changes methionine
+to valine. It was constructed by replacing a 372 bp
+Bsu36I/StuI fragment in pECH53 with a corresponding
+fragment from double stranded mutant p53 cDNA
+prepared from AML blast cells. p53ser135H bears the
+patient’s original arginine polymorphism (Matlashewski et al., 1987; Harris et al., 1986) a t codon 72,
+while p53va1246H bears the proline polymorphism
+encoded by pECH53 a t codon 72. p53his273H is a
+human p53 cDNA vector with a mutation at codon 273
+that converts a n arginine to histidine. This was derived
+by the ligation into pECE of a 1.9 kb EcoRIiXbaI
+fragment from pR4-2 (Harlow et al., 1985), a p53 cDNA
+clone from a human vulvar carcinoma cell line. All
+vectors were sequenced to verify the presence of the
+mutations.
+
+Transformation assay
+Rat embryo fibroblasts (REFs) were prepared from
+14-day-old Fisher rat embryos as described (Rovinski
+and Benchimol, 1988); 3 x lo5 tertiary passage REFs
+were plated on dishes 60 mm in diameter in 5 ml of
+alpha minimal essential medium (a-MEM) supplemented with 10% fetal calf serum (FCS) and transfected on the following day. The calcium phosphate
+precipitate (Graham and Van der Eb, 1973; Wigler
+et al., 1978) contained 10 pg of NIH3T3 carrier DNA,
+with or without 2 pg of pEJ6.6 and with or without 4 pg
+of p53pro193 or 2 pg of human p53 cDNA expression
+vectors. Sixteen hours post-transfection, the cells were
+washed with phosphate-buffered saline and fresh medium applied. Approximately 36 hours post-transfection, cells were trypsinized and replated onto three 60
+mm dishes. Foci were scored 10-14 days after transfection.
+Transient expression assay
+The transfection protocol was modified to allow assessment of transient expression of transfected vectors in the human ovarian adenocarcinoma cell line
+SKOV-3. This cell line lacks endogenous g53 mRNA
+and protein (Johnson et al., 1991); 5 x 10 cells were
+plated on 60 mm dishes. On the next day they were
+transfected by calcium phosphate precipitation of 12.5
+pg of pECE based human cDNA vector and 10 pg NIH
+3T3 carrier DNA. Cells were assessed for p53 protein
+synthesis 40 to 48 hours post-transfection.
+Antibodies
+PAb419 is a n anti-SV40 large T antigen monoclonal
+antibody that crossreacts with a 35 kD protein in
+mammalian cells (Harlow et al., 1981). PAb421,
+PAb240, PAb1620, and PAb1801 are anti-p53 monoclonal antibodies. PAb421 (Harlow et al., 1981) recognizes a denaturation resistant carboxy-terminal
+epitope of p53 from several species (including rat and
+human). PAb240 is specific for mutant p53 from several
+species and was obtained from D. Lane (Gannon et al.,
+1990). PAb1620 recognizes rodent and human p53
+protein and was obtained from J. Milner (Milner et al.,
+1987). PAbl801, which recognizes human p53 protein,
+was obtained from L. Crawford (Banks et al., 1986).
+
+Metabolic labeling and immunoprecipitation
+Cells were metabolically labeled with [35S1-methionine and p53 protein was immunoprecipitated from cell
+lysates a s previously described (Slingerland et al.,
+1991). The lysis buffer was modified to include 1 mM
+phenylmethylsulfonyl fluoride and 50 pgiml aprotinin.
+Pulse chase
+Pulse chase analysis of [35S]-methioninelabeled p53
+protein in AML blasts was a s described (Slingerland
+et al., 1991).
+
+RESULTS
+Protein analysis
+As reported previously, leukemic blast cells from a n
+AML patient (patient D) were found to contain two
+mutant p53 alleles. One allele bore a missense mutation a t codon 135, while the other allele bore a missense
+mutation a t codon 246. The p53 protein expressed in
+patient D blasts was very stable, with a half-life (t,)
+exceeding 12 hours on pulse chase analysis (Fig. 1).
+This is in contrast to the t of 1 hour reported for p53
+expressed in normal activated human T lymphocytes
+(Lubbert et al., 1989). The increased t of the mutant
+p53 protein was reflected by its high steady-state level,
+allowing detection by Western blotting (Slingerland
+et al., 1991). Metabolic labeling revealed that the p53
+protein expressed in these primary blasts was recognized by PAb240, a monoclonal antibody t h a t is believed to recognize only mutant forms of p53. Unexpectedly, binding of p53 protein to PAb1620 was also
+seen (Fig. 2). This antibody is believed to recognize the
+wild-type form of p53 protein, and in this regard is
+similar to another monoclonal antibody, PAb246, that
+preferentially recognizes the wild-type conformation of
+mouse p53 protein (Cook and Milner, 1990).
+To clarify the immunological phenotype of the proteins encoded by each mutant p53 allele, p53 cDNA
+expression vectors bearing mutation at either codon
+135 (p53ser135H) or codon 246 (p53va1246H) were
+constructed. These were separately transfected into
+SKOV-3 cells, a cell line lacking endogenous p53
+expression. Forty to forty-eight hours after transfection, the cells were metabolically labeled and p53
+protein was immunoprecipitated from lysates. The
+p53ser135H vector encodes a protein recognized by
+the mutant-specific PAb240 but not by PAb1620.
+p53va1246H encodes a protein that resembles wild-type
+p53 in its ability to bind PAb1620 (Fig. 2); longer
+exposure of the gel revealed a relatively weak, but
+detectable reactivity with PAb240. When p53his273H
+was transiently expressed in SKOV-3, the resulting
+mutant protein also reacted with both PAb1620 and
+PAb240 (data not shown). Reactivity of mutant human
+p53 protein with both PAb1620 and PAb240 has been
+noted previously (Rodrigues et al., 1990; Bartek et al.,
+1990).
+lh
+
+Transformation assays
+Mutant alleles of murine or human p53 have been
+shown to cooperate with activated ras to transform
+primary rat embryo fibroblasts (Eliyahu et al., 1984;
+Jenkins et al., 1984; Parada e t al., 1984; Hinds et al.,
+1990). It has been suggested that missense mutations
+
+RECESSIVE p53 MUTATIONS ACT DOMINANTLY IN REFS
+
+2
+
+0
+
+393
+
+6 1 2
+
+4
+
+X
+U
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+Time (hours)
+Fig. 1. Pulse-chase analysis of p53 in patient D blasts. Cells were
+labeled metabolically with P%1 methionine for 1 hour, then were
+chased for the time periods indicated. Lysates were prepared and
+volumes representing equal amounts of trichloroacetic acid (TCA)
+insoluble radioactivity (lo7 counts) were immunoprecipitated with
+
+A
+
+5
+
+n n n n
+
+n n n n
+a a a a
+a a a a
+
+2 2 2 2
+. 69
+
+p53 -
+
+-
+
+302W
+
+PAb421 antibody against p53. The decay of total TCA precipitable
+radioactivity with time is shown in (A). The data shown in the inset
+for p53 were quantitated by densitometry and plotted as radioactivity
+in p53 in (B).Both curves represent the linear regression derived from
+actual data points plotted.
+
+C
+
+- 69 -p53
+
+. 46 -
+
+-
+
+D
+
+-
+
+69
+
+-
+
+-
+
+46
+
+-
+
+303W
+
+Fig. 2. Expression of p53 protein: (A) AML blasts from patient D; (B) SKOV-3 cells transfected with
+p53ser135H; (C) SKOV-3 cells transfected with p53va1246H, (D) SKOV-3 cells transfected with NIH3T3
+carrier DNA only. Cells were labeled metabolically with L3%] methionine for 1 hour. Extracts were
+prepared and immunoprecipitated with PAb419 or IgG2a (control) and anti-p53 monoclonal antibodies
+PAb421, mutant-specific PAb240, PAb1620, and human specific PAbl801. Molecular weight markers
+(lo3) are indicated.
+
+that confer transforming activity on the p53 gene
+represent dominant negative mutations. Thus, certain
+aberrant p53 polypeptides may participate in cellular
+transformation by interfering in trans with the endogenous wild-type rat p53 protein.
+The two mutant alleles detected in the blast cells of
+patient D provided a n opportunity to test this model. In
+these leukemic cells, the presence of two mutations
+
+indicates that the mutations are recessive in vivo. At
+least one of the mutations (whichever one occurred
+first) cannot be a true dominant negative since mutation of the second allele favored clonal outgrowth of
+these blasts in vivo. Moreover, the observation that one
+of the mutant alleles (codon 246) encoded a PAb1620positive protein suggested that it might lack transforming activity and be truly recessive. We, therefore,
+
+394
+
+SLINGERLAND AND BENCHIMOL
+
+wished to assess whether or not either of the p53
+missense mutant alleles from patient D encoded a
+protein capable of the “dominant-negative” transforming phenotype when overexpressed with a n activated
+ras gene in REFS.
+The results of several repeated transfection experiments are shown in Table 1. Cotransfection of
+p53va1246H with ras produced three- to elevenfold the
+number of foci relative to transfection with ras alone.
+The p53ser135H was also weakly transforming on
+cotransfection with ras, with a three- to sixfold increase
+in the number of foci over background. The p53his273H
+vector produced no significant increase in the number
+of foci over ras alone and resembled the wild type
+human p53cDNA vector, pECH53, in its lack of transforming activity. The murine genomic p53 mutant,
+p53pro193, cooperated with activated ras very effectively in the focus forming assay a s reported previously
+(Munroe e t al., 1990) and served as a positive control in
+this series of experiments.
+
+DISCUSSION
+Two mutant p53 alleles that behave recessively in
+vivo are shown in this study to have dominantly
+transforming activity when tested separately in REF
+transformation assays. In the leukemic blasts of patient D, both p53 alleles contain single point mutations.
+This patient did not have a germ-line p53 mutation
+since neither mutation was detected in mononuclear
+cells from a bone marrow sample obtained early in
+disease remission. Only the codon 246 mutation could
+be detected in a marrow sample obtained later in the
+same remission, while both were detected a t disease
+relapse, raising the possibility that the codon 246
+mutation preceded that a t codon 135 (Slingerland et al.,
+1991). Regardless of which mutation arose first, it is
+unlikely that the first mutation conferred a fully
+dominant negative phenotype. This would have obviated the growth advantage to be gained by mutation of
+the second allele.
+p53 gene mutations have been found in a broad
+spectrum of human malignancies. When these mutations are detected, the wild-type allele is commonly not
+present. This loss of heterozygosity supports the idea
+that p53 missense mutations behave recessively in vivo
+and are consistent with our data showing compound
+heterozygous p53 mutations in primary blasts from a
+leukemic patient.
+In the evolution of malignancy, a proliferative advantage may be gained by a decrease in the cellular
+concentration of wild-type p53 protein resulting from
+negative mutation of one allele. Alternatively, certain
+missense mutations may produce proteins that interfere with the wild-type product, either by bindinginactivation of the wild-type p53 protein or through
+competition for binding sites on target molecules. Some
+of these may be truly dominant negative, while in
+others, the inhibition of wild-type function may be
+incomplete. It has also been suggested that certain
+missense mutations may provide p53 with novel
+growth or tumor promoting properties (Wolf et al.,
+1984). In most cases, however, disruption of the remaining wild-type allele may be a prerequisite for tumor
+progression.
+
+TABLE 1. Transformation of early passage rat embryo fibroblasts’
+Plasmid DNA
+ras (pEJ6.6)
+oECH53 ras
+(p53 wild type)
+p53his273H ras
+p53ser135H ras
+~53va1246H ras
+D53oro193 f ras
+
++
+
++
++
++
+
+Number of transformed foci per experiment
+Exp5
+Exp3
+Exp4
+Exp 1 E x p 2
+10
+18
+
+5
+0
+
+7
+37
+33
+
+14
+
+-
+
+7
+42
+168
+
+5
+14
+18
+22, 33’
+55
+119
+
+4
+1. 6’
+
+1, 132
+19
+20, 242
+93
+
+14
+
+-
+
+-
+
+46, 44’
+
+-
+
+114
+
+‘A dash indicates t h a t transfections were not done.
+‘In these experiments, two independent transfections were performed on the same
+day with the indicated plasmid DNAs.
+
+It is interesting to note that the constitutive p53 gene
+mutations found thus far in families with the LiFraumeni syndrome cluster between codons 245 to 258
+(Malkin et al., 1990; Srivastava et al., 1990) and
+bracket the codon 246 mutation we have described. In
+this syndrome, the constitutive p53 mutations are
+clearly not acting as true dominant negatives, a s
+tumors arise in only certain tissues and, when tumors
+occur, they are always accompanied by loss of the
+wild-type p53 allele (Malkin et al., 1990).
+The idea that certain missense p53 mutations behave
+as dominant negatives is derived from and supported by
+transformation assays of rat cells growing in culture.
+As we and others (Munroe et al., 1990; Finlay et al.,
+1988; Halevy e t al., 1990; Hinds et al., 1990) have
+shown, not all the mutants behave similarly in this
+type of assay. Different mutants vary in their transforming activity. p53his273H lacks transforming activity in the REF assay and may be a truly negative (loss
+of function) mutant. Our observation that two mutant
+p53 alleles (one encoding a PAbl620-positive protein
+and the other a PAbl62O-negative protein) that behave
+recessively in vivo have weak but reproducible transforming activity in transformation assays was unexpected and raises the possibility that transformation
+assays may not accurately reflect the consequences of
+mutant p53 expression in primary tumors. The overexpression of mutant p53 in transformation assays resulting from the presence of strong constitutive promoters
+driving multiple gene copies may play a critical role in
+eliciting morphological change. This degree of overexpression is unlikely to occur in primary tumors. The
+significance of assessing the transforming activity of
+human and mouse p53 alleles in cells of a different
+species (rat) is also unclear and needs to be addressed.
+ACKNOWLEDGMENTS
+We thank J. Peacock and P. Johnson for helpful
+discussions and instruction regarding transfection protocols. We thank I. Ng and A. Murray for assistance in
+preparation of the manuscript. This work was supported by the Medical Research Council of Canada and
+the National Cancer Institute of Canada. J.M.S. is a
+post-M.D. fellow of the National Cancer Institute of
+Canada.
+
+LITERATURE CITED
+Baker, S.J., Fearon, E.R., Nigro, J.M., Hamilton, S.R., Preisinger,
+A.C., Jessup, J.M., vanTuinen, P., Ledbetter, D.H., Barker, D.F.,
+
+RECESSIVE p53 MUTATIONS ACT DOMINANTLY IN REFS
+Nakamura, Y., White, R., andvogelstein, B. (1989) Chromosome 17
+deletions and p53 gene mutations in colorectal carcinomas. Science,
+244t2 17-22 1.
+Baker, S.J., Preisinger, A.C., Jessup, J.M., Paraskeva, C., Markowitz,
+S., Willson, J.K.V., Hamilton, S., and Vogelstein, B. (1990)p53 gene
+mutations occur in combination with 17p allelic deletions as late
+events in colorectal tumorigenesis. Cancer Res., 50r7717-7722.
+Banks, L., Matlashewski, G., and Crawford, L. (1986) Isolation of
+human-p53-specific monoclonal antibodies and their use in the
+studies of human p53 expression. Eur. J. Biochem., 159.529-534.
+Bartek, J., Iggo, R., Gannon, J., and Lane, D.P. (1990) Genetic and
+immunochemical analysis of mutant p53 in human breast cancer
+cell lines. Oncogene, 5:893-899.
+Chiba, I., Takahashi, T., Nau, M.M., D’Amico, D., Curiel, D.T.,
+Mitsudomi. T.. Buchhaaen. D.L.. Carbone, D., Piantadosi, S., Koga,
+H., Reissman, P.T., Slamon, D.J., Carmack Holmes, E., and Minna,
+J.D. (1990) Mutations in the p53 gene are frequent in primary,
+resected non-small cell lung cancer. Oncogene, 5:1603-1610.
+Cook, A,, and Milner, J . (1990) Evidence for allosteric variants of
+wild-type p53, a tumor suppressor protein. Br. J. Cancer, 61.548552.
+Eliyahu, D., Michalovitz, D., Eliyahu, S., Pinhasi-Kimhi, O., and
+Oren, M. (1989) Wild-type p53 can inhibit oncogene-mediated focus
+formation. Proc. Natl. Acad. Sci. U.S.A., 86t8763-8767.
+Eliyahu, D., Raz, A., Gruss, P., Givol, D., and Oren, M. (1984)
+Participation of p53 cellular tumour antigen in transformation of
+normal embryonic cells. Nature, 312t646-649.
+Ellis, L., Clauser, E., Morgan, D.O., Edery, M., Roth, R.A., and Rutter,
+W.J. (1986) Replacement of insulin receptor tyrosine residues 1162
+and 1163 compromises insulin-stimulated kinase activity and uptake of 2-deoxyglucose. Cell, 45t721-732.
+Finlay, C.A., Hinds, P.W., and Levine, A.J. (1989) The p53 protooncogene can act as a suppressor of transformation. Cell, 57:10831093.
+Finlay, C.A., Hinds, P.W., Tan, T.H., Eliyahu, D., Oren, M., and
+Levine, A.J. (1988) Activating mutations for transformation by p53
+produce a gene product that forms a n hsc70-p53 complex with an
+altered half-life. Mol. Cell. Biol., 8t531-539.
+Gannon, J.V., Greaves, R., Iggo, R., and Lane, D.P. (1990) Activating
+mutations in p53 produce a common conformational effect. A
+monoclonal antibody specific for the mutant form. EMBO J.,
+9:1595-1602.
+Graham, F.L., and Van der Eb, A.J. (1973) A new technique for the
+assay of infectivity of human adenovirus 5 DNA. Virology, 52:456467.
+Halevy, O., Michalovitz, D., and Oren, M. (1990) Different tumorderived p53 mutants exhibit distinct biological activities. Science,
+250:113-116.
+Harlow, E., Crawford, L.V., Pim, D.C., and Williamson, N.M. (1981)
+Monoclonal antibodies specific for Simian virus 40 tumor antigens.
+J. Virol., 39361-869.
+Harlow, E., Williamson, N.M., Ralston, R., Heilman, D.M., and
+Adams, T.E. (1985) Molecular cloning and in vitro expression of a
+cDNA clone for the human cellular tumor antigen p53. Mol. Cell.
+Biol., 5t1601-1610.
+Harris, N., Brill, E., Shohat, O., Prokocimer, M., Wolf, D., Arai, N.,
+and Rotter, V. (1986) Molecular basis for heterogeneity of the
+human p53 protein. Mol. Cell. Biol., 6:4650-1656.
+Hinds. P.W.. Finlav. C.A., Frey, A.B., and Levine, A.J. (1987) Immunological evidence for the &sociation of p53 with a heat shock
+protein, hsc70, in p53-plus-ras-transformed cell lines. Mol. Cell.
+Biol., 7t2863-2869.Hinds, P.W., Finlay, C.A., Quartin, R.S., Baker, S.J., Fearon, E.R.,
+Vogelstein, B., and Levine, A.J. (1990)Mutant p53 DNA clones from
+human colon carcinomas cooperate with ras in transforming primary rat cells: A comparison of the “hotspot” mutant phenotypes.
+Cell Growth Differ., 1571-580.
+Iggo, R., Gatter, K., Bartek, J., Lane, D., and Harris, A.L. (1990)
+Increased expression of mutant forms of p53 oncogene in primary
+lung cancer. Lancet, 335t675-679.
+Jenkins, J.R., Rudge, K., and Currie, G.A. (1984) Cellular immortalization by a cDNA clone encoding the transformation-associated
+phosphoprotein p53. Nature, 312.651-654.
+
+395
+
+Johnson, P., Gray, D., Mowat, M., and Benchimol, S. (1991) Expression of wild-type p53 is not compatible with continued growth of
+p53-negative tumor cells. Mol. Cell. Biol., 11:l-11.
+Lane, D.P., and Benchimol, S. (1990) p53: Oncogene or anti-oncogene?.
+Genes Dev., 4tl-8.
+Levine, A,, and Momand, J. (1990) Tumor suppressor genes: The p53
+and retinoblastoma sensitivity genes and gene products. Biochim.
+Biophys. Acta, 1032:119-136.
+Lubbert, M., Miller, C.W., Kahan, J., and Koeffler, M.P. (1989)
+Expression, methylation, and chromatin structure of the p53 gene
+in untransformed and human T-cell leukemia virus type l-transformed human T-lymphocytes. Oncogene, 4:643-651.
+Malkin, D.. Li, F.P., Strong, L.C., Fraumeni, J.F., Nelson, C.E., Kim,
+D.H., Kassel, J., Gryka, M.A., Bischoff, F.Z., Tainsky, M.A., and
+Friend, S.H. (1990) Germ line p53 mutations in a familial syndrome
+of breast cancer, sarcomas, and other neoplasms. Science, 250:12331238.
+Matlashewski, G.J., Tuck, S., Pim, D., Lamb, P., Schneider, J., and
+Crawford, L.V. (1987) Primary structure polymorphism at amino
+acid residue 72 of human p53. Mol. Cell. Biol., 7t961-963.
+Milner, J., Cook, A,, and Sheldon, M. (1987) A new anti-p53 monoclonal antibody, previously reported to be directed against the large
+T antigen of simian virus 40. Oncogene, It453-455.
+Mulligan, L.M., Matlashewski, G.J., Scrable, H.J., and Cavenee, W.K.
+(1990)Mechanisms ofp53 loss in human sarcomas. Proc. Natl. Acad.
+Sci. U.S.A., 875863-5867.
+Munroe, D.G., Peacock, J.W., and Benchimol, S. (1990) Inactivation of
+the cellular p53 gene is a common feature of Friend virus-induced
+erytholeukemia: Relationship of inactivation to dominant transforming alleles. Mol. Cell. Biol., ZOt33073313.
+Nigro, J.M., Baker, S.J., Preisinger, A.C., Jessup, J.M., Hostetter, R.,
+Cleary, K., Bigner, S.H., Davidson, N., Baylin, S., Devilee, P.,
+Glover, T.. Collins, F.S., Weston, A,, Modali, R., Harris, C.C., and
+Vogelstein, B. (1989) Mutations in the p53 gene occur in diverse
+human tumour types. Nature, 342:705-708.
+Parada, L.F., Land, H., Weinberg, R.A., Wolf, D., andRotter, V. (1984)
+Cooperation between gene encoding p53 tumour antigen and ras in
+cellular transformation. Nature, 312t649-651.
+Prosser, J., Thompson, A.M., Cranston, G., and Evans, H.J. (1990)
+Evidence that p53 behaves a s a tumour suppressor gene in sporadic
+breast tumours. Oncogene, 5t1573-1579.
+Rodrigues, N.R., Rowan, A,, Smith, M.E.F., Kerr, I.B., Bodmer, W.F.,
+Gannon, J. V., and Lane, D.P. (1990) p53 mutations in colorectal
+cancer. Proc. Natl. Acad. Sci. U.S.A. 87:7555-7559.
+Rovinski, B., and Benchimol, S. (1988) Immortalization of rat embryo
+fibroblasts by the cellular p53 oncogene. Oncogene, 2t445-452.
+Shih, C., and Weinberg, R.A. (1982) Isolation of a transforming
+sequence from a human bladder carcinoma cell line. Cell, 29.161169.
+Slingerland, J.M., Minden, M.D., and Benchimol, S. (1991) Mutation
+of the p53 gene in human acute myelogenous leukemia. Blood,
+77t1500-1507.
+Srivastava, S., Zou, Z., Pirollo, K., Blattner, W., and Chang, E.H.
+(1990) Germ-line transmission of a mutated p53 gene in a cancerprone family with Li-Fraumeni syndrome. Nature, 348t747-749.
+Stratton, M.R., Moss, S., Warren, W., Patterson, H., Clark, J., Fisher,
+C., Fletcher, C.D.M., Ball, A,, Thomas, M., Gusterson, B.A., and
+Cooper, C.S. (1990) Mutation of the p53 gene in human soft tissue
+sarcomas: Assocation with abnormalities of the RB1 gene. Oncogene, 5r1297-1301.
+Takahashi, T., Nau, M.M., Chiba, I., Birrer, M.J., Rosenberg, R.K.,
+Vinocour, M., Levitt, Pass, H., Gazdar, A.F., and Minna, J.D., (1989)
+p53: A frequent target for genetic abnormalities in lung cancer.
+Science, 246:491-494.
+Wigler, M., Pellicer, A,, Silverstein, S., and Axel, R. (1978) Biochemical transfer of single copy eucaryotic genes using total cellular
+DNA as donor. Cell, Z4:725-731.
+Wolf, D., Harris, N., and Rotter, V. (1984) Reconstitution of p53
+expression in a nonproducer Ab-MuLV-transformed cell line by
+transfection of a functional p53 gene. Cell, 38t119-126.
+
+

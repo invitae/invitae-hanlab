@@ -1,0 +1,959 @@
+Am. J. Hum. Genet. 50:1318-1327, 1992
+
+Point Mutation in the DNA Binding Domain of the Androgen
+Receptor in Two Families with Reifenstein Syndrome
+Helmut Klocker, Felizia Kaspar, Johannes Eberle, Siegfried Uberreiter, Christian Radmayr,
+and Georg Bartsch
+Department of Urology, University of Innsbruck, Innsbruck
+
+Summary
+
+Inadequate androgen action in genetic and gonadal males causes an intersex phenotype. We have analyzed
+the androgen receptor (AR) gene in male pseudohermaphrodites with normal specific binding of dihydrotestosterone in their genital skin fibroblasts. In five patients with Reifenstein syndrome we have detected a point
+mutation in the DNA binding domain. They are from two unrelated families and presented with perineoscrotal
+hypospadias and undescended testes. After puberty they showed small testes, no palpable prostate, micropenis,
+azoospermia, and gynecomastia. The mutation was discovered when cDNA fragments from three brothers
+were sequenced. For rapid detection of the mutation in heterozygous and hemizygous carriers, allele-specific
+PCRs and restriction-analysis techniques have been developed. Relatives of the patients, a group of normal
+blood donors, and other patients were screened with these methods. Among 41 intersex patients with incomplete virilization, another two brothers presenting with this mutation were identified. The mutation is a
+guanine-to-adenine transition at nucleotide 2314, which changes the alanine codon (GCC) immediately after
+the first cysteine of the second zinc finger motif of the AR into a threonine codon (ACC). The mutation
+was recreated in an AR expression vector, and wild-type as well as mutant ARs were expressed in COS-7 cells.
+Cotransfection experiments were made using a mouse mammary tumor virus-chloramphenicol acetyltransferase reporter gene. The ability of the mutant receptor to stimulate transcription of the reporter gene was
+reduced by about two-thirds, as compared with the wild-type receptor.
+Introduction
+
+Male sex differentiation and the development of a normal male phenotype depend on the secretion and action of fetal androgens (Jost 1970). Disturbances of
+normal androgen physiology in genetic and gonadal
+males result in defective virilization. The patients
+affected cover the whole spectrum from phenotypical
+females to patients with partial disorders and phenotypical males with infertility (Peres-Palacios et al.
+1987; Griffin and Wilson 1989). The cardinal signs of
+male intersexuality include severe hypospadias with
+a perineoscrotal meatus frequently associated with a
+Received June 13, 1991; final revision received January 29,
+1992.
+Address for correspondence and reprints: Dr. Helmut Klocker,
+Department of Urology, University of Innsbruck, Anichstrasse 35,
+A-6020 Innsbruck, Austria.
+i 1992 by The American Society of Human Genetics. All rights reserved.
+0002-9297/92/5006-0021 $02.00
+
+1318
+
+bifid scrotum, microphallus, small gonads, and cryptorchidism.
+The different syndromes of hereditary male pseudohermaphroditism result either from deficient or delayed testosterone (T) secretion or from unresponsiveness of the target tissue to androgens (Griffin and
+Wilson 1989). A defective conversion of T to the more
+active androgen dihydrotestosterone (DHT) by means
+of 5a-reductase results in pseudovaginal perineoscrotal hypospadias (Imperato-McGinley et al. 1974). Patients who lack the specific binding sites for androgens
+in their target tissues suffer from the so-called complete androgen insensitivity syndrome, and patients
+with the X-linked Reifenstein syndrome often show
+quantitative and/or qualitative abnormalities of specific androgen binding and present with incomplete
+virilization (Hughes and Evans 1987; Peres-Palacios
+et al. 1987). On the other hand, there are patients with
+genital ambiguity who show normal specific binding
+
+Mutation in Androgen Receptor in Reifenstein Syndrome
+
+of androgens (receptor-positive androgen resistance).
+This may be caused by defects affecting an androgenaction step beyond the specific binding of the hormone
+to its receptor, e.g., binding of the hormone-receptor
+complex to the androgen-responsive elements.
+The androgen-receptor (AR) gene is localized on the
+long arm of the X chromosome and has eight exons
+(Brown et al. 1989; Lubahn et al. 1990). Exon A
+encodes the large N-terminal domain; exons B and C
+encode the DNA-binding domain; and exons D-H
+encode the ligand-binding domain. Investigations of
+the AR gene in patients with androgen insensitivity
+have identified mutations of the AR as the underlying
+molecular defect (Marcelli et al. 1990, 1991; Lubahn
+et al. 1990; Ris-Stalpers et al. 1990; Sai et al. 1990;
+McPhaul et al. 1991a, 1991b). We started to analyze
+the AR gene in patients with perineoscrotal hypospadias. In five Reifenstein syndrome patients from two
+unrelated families we detected a point mutation in the
+second zinc finger motif of the DNA binding domain
+of the AR.
+Patients and Methods
+Patients
+
+The three surviving brothers of family N. - and also
+a fourth brother, who later died in an accident -were
+admitted to our department in their childhood, with
+perineoscrotal hypospadias and undescended testes.
+They had a normal male karyotype (46,XY). Their
+external genitalia were corrected by staged surgery
+and orchidopexy. Examination at 12, 15, and 18
+years of age revealed incomplete virilization in the two
+postpubertal brothers, with flaccid phalli 2.5 and 3
+cm in length, two small (1 ml) scrotally fixed testes,
+no palpable prostate, no ejaculate volume, and gynecomastia. In these two boys T serum levels were normal, whereas LH (luteinizing hormone) and FSH
+(follicle-stimulating hormone) serum levels were increased. T levels were 7.4 and 5.4 ng/ml (normal
+range 3-9 ng/ml), FSH levels were 51 and 71 mU/ml
+(normal range 1-14 mU/ml), and LH levels were 24
+and 27 mU/ml (normal range 1.5-9.2 mU/ml). At
+the time of follow-up, fibroblasts were cultured from
+scrotal skin biopsies. Blood samples from the mother
+and sister of the patients, as well as from a maternal
+aunt and a maternal uncle, were obtained for analysis.
+In addition, skin fibroblasts from the mother were
+cultured and investigated.
+The two brothers of family U. showed similar clinical characteristics. They also presented with perineo-
+
+1319
+
+scrotal hypospadias and undescended testes. A correction of the penis was performed at the age of 2 years
+in one brother and at the age of 12 years in the other
+brother. Reevaluation at 19 and 29 years of age revealed intersex disorders including micropenis, no palpable prostate, gynecomastia, female pubic escutcheon, small (1 ml) testes, and azoospermia. FSH levels
+(39 and 26 mU/ml) and LH levels (12.8 and 11.6
+mU/ml) were increased. Serum T level was normal in
+one of them (4.5 ng/ml), whereas it was slightly above
+the upper-normal level in the other one (9.7 ng/ml).
+Blood samples from these two brothers, as well as
+from their mother, were obtained for analysis.
+Methods
+
+Specific binding of DHT.-Genital skin fibroblasts
+were cultured in Dulbecco's modified minimal essential medium (DMEM) supplemented with 10% FCS.
+Cells were grown to confluency, and, 24 h before the
+assay, medium was replaced with DMEM without
+FCS. Specific binding of 3H-DHT was determined by
+the dispersed-cell assay according to Terakawa et al.
+(1990), with the following modifications: Following
+incubation with 3H-DHT for 1 h at 37°C, the cells
+were extracted in a high-salt buffer (25 mM Tris-HCl,
+1.5 mM EDTA, 0.55 M KCl, pH 7.4), unbound radioactivity was separated with the help of dextrancoated charcoal, and the samples were counted in a
+liquid scintillation counter. Maximum binding and
+dissociation constants were determined by means of
+Scatchard plots. The maximum binding sites were related to the amount of protein.
+Thermostability of DHT binding. - In order to determine
+the best temperature for this test, specific binding was
+measured in fibroblasts derived from a normal male at
+37°C, 41 °C, and 420C, by means of the dispersed-cell
+assay. Compared with that at 370C, specific binding
+was slightly lower at 41 °C and decreased to 40%50% at 420C. Therefore a temperature of 41 °C was
+chosen to test the thermostability of DHT binding.
+Genital skin fibroblasts from the patients and from
+three normal males were incubated with 1.5 mM of
+3H-DHT (total binding) and with 1.5 nM of 3H-DHT
+plus a 200-fold molar excess of unlabeled DHT (unspecific binding), at 370C and 410C. After 1 h the
+cells were pelleted, and samples were extracted and
+counted as described above. Specifically bound DHT
+was calculated for both temperatures, and the amount
+bound at 41 °C was expressed as a percentage of the
+amount bound at 37°C.
+Sa-Reductase activity. - Sa-reductase activity was de-
+
+1320
+termined in cell-free fibroblast extracts by measuring
+the conversion of I4C-T to DHT, at a substrate concentration of 100 nM, according to the method of Leshin
+et al. (1978).
+RNA isolation and reverse transcription. -Total RNA
+was isolated from fibroblasts by the guanidine thiocya-
+
+nate-acid phenol extraction method (Chirgwin et al.
+1979) and was reversely transcribed to cDNA by
+AMV reverse transcriptase and random hexanucleotide primers. About 0.2-0.5 jig of total RNA, 200
+pmol of hexanucleotide primers, 10 units of AMV
+reverse transcriptase, and 50 units of RNase inhibitor
+were incubated in a total volume of 40 jl of AMV
+buffer (50 mM Tris-HCl [pH 8.3 at 42°C], 50 mM
+KC1, 8 mM MgCl2, 0.1 mg BSA/ml, 1 mM of each
+dNTP) for 8 min at 200C, followed by 8 min at 250C
+and 30 min at 420C. The reaction was stopped by
+boiling the sample for 2 min and cooling it on ice
+afterward.
+PCR amplification of AR cDNA.-Three overlapping
+AR cDNA fragments (depicted in fig. 1) were amplified by PCR with the following primer pairs: IAR457/21 (5'CTGTTGAACTCTTCTGAGCAA3')
+and AR1863 /21 as (5'ACACGGTCCATACAACTGGCC3'), II-AR1829/22 (5'TCACAGCCGAAGAAGGCCAGTT3') AR2474/22as (5'GTGGTGCTGGAAGCCTCTCCTT3'); and III-AR2113 / 19
+(5'AGCTACTCCGGACCTTACG3') and AR3350/
+25as (5'ACAGGCAGAAGAGATCTGAAAGGG3').
+The first number of the oligonucleotide primers indicates the 5' nucleotide position on the AR cDNA
+(Chang et al. 1988), and the second number represents
+the length of the primers. "As" indicates primers on
+the antisense strand. A 2.5-jl portion of cDNA solution and 47.5 jl of PCR mix (10 mM of Tris-HCI pH
+9.0, 50 mM KCI, 0.1 mg gelatin/ml, 0.1% Triton
+X-100, 0.2 mM of each dNTP, 0.25 jM of each
+primer, 25 units Taq Polymerase/ml) were mixed,
+overlaid with 30 jl of mineral oil, and incubated in
+a thermocycler. Thirty cycles were performed with
+strand separation for 45 s at 94°C, followed by 15 s
+at 96°C, annealing for 1 min at 55°C, and DNA synthesis for 1.5 min at 73° C. For the amplification of
+fragments I and II, 2% and 4% dimethylsulfoxide,
+respectively, was added to the PCR mix to lower the
+strand separation temperature, because these fragments contain regions with extremely high GC content
+and could not be amplified under standard conditions.
+PCR amplification of genomic DNA. -DNA was isolated from either fibroblast cells or whole blood by
+
+1Kocker et al.
+
+phenol-chloroform extraction. The cell pellet or 100
+
+gl blood was lysed in 500 il buffer (4 M guanidine
+thiocyanate, 0.5% sodium-N-lauroyl-sarcosine, 25
+mM sodium citrate pH 7.0, 0.1 M P-mercaptoetha-
+
+nol) and was extracted with 600 jil phenol:chloroform:isoamylalcohol (25:24:1). The DNA was precipitated with isopropanol, pelleted by centrifugation,
+washed with 75 % ethanol, and dissolved in TE buffer.
+From about 0.1 gg of DNA a 0.4-kb DNA fragment
+containing the third exon (exon C) of the AR gene
+was amplified with two primers annealing within the
+flanking introns (Lubahn et al. 1990). PCR conditions
+were the same as those described for cDNA fragments.
+DNA sequencing. - An automated sequencer was used
+for direct sequencing of the PCR fragments by the
+dideoxynucleotide chain termination method using
+fluorescent labels. From each fragment, overlapping
+single-strand fragments were synthesized from the
+coding strand, as well as from the noncoding strand,
+by asymmetric PCR using one primer at a concentration of 0.25 jiM and the other one at a concentration
+of 0.015 gM. Single-strand fragments were purified
+by ion-exchange columns and were sequenced with
+Taq polymerase sequencing kits, according to the protocols of the supplier (Applied Biosystems). PCR fragments III were sequenced with dye primer kits using
+the universal primer M13-21, whereas PCR fragments
+I and II, as well as exon C fragments, were sequenced
+with dye terminator kits using AR-specific primers.
+When primer sequencing kits were utilized, the universal Ml 3 primer sequence was introduced into the fragments during the asymmetric PCR by using one primer
+elongated with the universal primer sequence at the 5'
+end. The region encoding the glycine repeat of the
+N-terminal domain in cDNA fragments II could not
+be sequenced unequivocally, and the exact number of
+glycine repeats could not be determined. The number
+of glutamine repeats in the N-terminal cDNA fragments of our patients and two normal males is 21.
+Screening for the G-o-A2314 mutation. -For rapid detection of the mutant gene, an allele-specific PCR technique and a restriction-analysis method have been developed. Two allele-specific primers were chosen in
+such a way that their 3' ends-the starting points of
+the DNA polymerase -anneal at the site of the mutation (fig. 4). Both primers have a mismatch at the third
+nucleotide from the 3' end (A instead of the correct
+matching G). This mismatch increases the specificity
+of the reaction. When the normal AR sequence is present, the oligonucleotide AR 2299/18 (5'AACAGA-
+
+Mutation in Androgen Receptor in Reifenstein Syndrome
+
+AGTACCTGTACG3') yields PCR fragments, whereas,
+in case of mutation, PCR fragments are obtained with
+the oligonucleotide AR2299/18M (5'AACAGAAGTACCTGTACA3'). In both PCRs the second primer
+is the downstream primer of the exon C fragment. The
+PCRs were performed under the following conditions:
+strand separation for 45 s at 940C followed by 15 s
+at 950C, annealing for 75 s at 480C, and DNA synthesis for 30 s at 730C. After 30 cycles, 10 p1 of the
+sample were analyzed on a 2% agarose gel.
+Discrimination by restriction analysis was achieved
+with the restriction enzymes CfoI and Snol (fig. 4).
+CfoI (GCGC) only cuts the normal exon C fragment,
+whereas SnoI (GTGCAC) only cuts the exon C fragment carrying the mutation.
+Introduction of the mutation into an AR expression vector. -
+
+A HindIII-AspI fragment (286 bp) containing the mutation was isolated from a PCR-cDNA fragment III of
+one of the patients and was replaced in the expression
+vector HAOa. HAOa contains the human AR open
+reading frame cloned into the BamHI site of the eucaryotic expression vector pSG-5 (Green et al. 1988)
+and was provided by Dr. A. C. B. Cato of Karlsruhe.
+The resulting expression vector HAOa-M2314 was
+analyzed by restriction digestion and DNA sequencing.
+Transient AR expression in COS-7 cells.-Either wildtype or mutant AR expression vectors and the transfection efficiency control plasmid pSV-Ogal were cotransfected into COS-7 cells by electroporation. A 15-g
+portion of AR expression plasmid and 2 gg of 3-galactosidase expression plasmid were mixed with about 3
+x 106 COS-7 cells in 200 jl of HBS buffer (20 mM
+HEPES, 154 mM NaCl, 5 mM KCI, 0.7 mM
+Na2HPO4, 6 mM glucose, pH 7.05), and an electrical
+discharge was applied by an electroporation system
+(BioRad; settings were 150 V, 500 iF, resistance co)
+in a 2-mm electrode cuvette. The cells were suspended
+in DMEM supplemented with 10% FCS and were
+grown for 45 h, with one medium renewal after 16 h.
+Cells were harvested by trypsin digestion and were
+suspended in DMEM supplemented with 25 mM
+HEPES pH 7.2. Duplicate samples were incubated
+with 5 nM 3H-methyltrienolone (R1 881) in the presence or absence of a 100-fold molar excess of unlabeled R1881 for 1 h at 370C. Instead of DHT, R1881
+was used in these experiments, to prevent metabolization of the androgen during incubation. Specific binding was measured according to the method described
+for determination of specific binding of DHT in fibroblasts. An aliquot of the cells was lysed in 0-galac-
+
+1321
+
+tosidase buffer by ultrasonication, and 3-galactosidase
+activity was determined by a photometric assay (Sambrook et al. 1989) to monitor transformation efficiency.
+Cotransfection experiments. -Either wild-type or mu-
+
+tant AR expression vectors were introduced into
+COS-7 cells by electroporation, together with the reporter plasmid pHC-wt (Cato et al. 1988), and induction of chloramphenicol acetyltransferase (CAT) expression by DHT was measured. The reporter plasmid
+contains the CAT gene under the control of the
+hormone-inducible promoter from the long-terminal
+repeat (LTR) of the mouse mammary tumor virus
+(MMTV). A 30-gg portion of reporter plasmid and 3
+gg of AR expression vector were mixed with about
+6 x 106 COS-7 cells in 100 pl of HBS buffer, and
+an electrical discharge was applied (Biometra; settings
+were 150 V, 300 gF, resistance 00) in a 2-mm electrode
+cuvette. The cells were suspended in DMEM supplemented with 0.5% charcoal-stripped FCS and were
+distributed into six culture wells (0 = 3 cm). After
+incubation for 15 h the medium was renewed, 40 nM
+(end concentration) of DHT was added to three of the
+wells, and incubation was continued for 24 h. The
+cells were harvested, pelleted by centrifugation, and
+extracted with 100 gl of 0.3 M Tris.HCI pH 7.0 by
+ultrasonication. CAT activity in the cell extract was
+determined by a mixed-phase assay (Nielson et al.
+1989). Background level was measured in the cell extract of mock-transfected fibroblasts and was subtracted from the samples.
+Results
+
+Specific Binding of DHT, and Sa-Reductase Activity in
+Genital Skin Fibroblasts
+
+The genital skin fibroblasts derived from the three
+brothers N. were incubated with increasing amounts
+of 3H-DHT, and specific binding of DHT was determined by Scatchard plot analysis (table 1). The dissociation constants (KD) were 0.1,0.2, and 0.1 nM, and
+in the maximum binding capacities (Bmax) were 22,61,
+and 65 fmol/mg of protein. Fibroblasts derived from
+the foreskin of males who underwent circumcision
+showed dissociation constants of 0.1-0.3 nM and
+maximum binding capacities of 21-138 fmol/mg of
+protein. This shows that the patients' ARs bind DHT
+with normal affinity and that maximum binding is
+within the range for normal males. The thermostabil-
+
+Klocker et al.
+
+1322
+
+Table I
+Specific Binding of 'H-DHT, Determined by Scatchard Plot Analysis in Genital Skin Fibroblasts Obtained
+from the Three Brothers N. and from Seven Normal Males Who Underwent Circumcision
+DHT BINDING
+
+SUBJECT(S)
+Patient M.N
+Patient H.N. ......
+Patient P.N
+Normal males .....
+.
+
+.
+
+KD
+
+Bmax
+
+(nM)
+
+(fmol/mg protein)
+
+.1
+
+22
+
+.2
+
+61
+65
+21-138 (mean 41)
+
+......
+
+.1
+
+.......
+
+.1-.3 (mean .2)
+
+THERMOSTABILITY OF
+DHT-RECEPTOR COMPLEX'
+(%)
+79
+86
+85
+74-101 (mean 87)
+
+5a-REDUCTASEb
+(pmol/mg/h)
+26
+29
+99
+
+24-235 (mean 107)
+
+aCalculated as (specific binding at 41'C)/(specific binding at 371C) x 100.
+b Determined in cell-free extracts of genital skin fibroblasts from the three patients and from three normal males, by measuring the
+conversion of T to DHT.
+
+ity of DHT binding was also investigated. Specific
+binding was determined at 370C and at 41 0C. In the
+patients' fibroblasts, specific binding at 410C was
+79%, 86%, and 85% of the specific binding at 370C
+(table 1). This was not different from the results for
+control fibroblasts, in which specific binding at 41 IC
+was 74%-101%. Sa-Reductase activity was determined by measuring the conversion of T to DHT in
+cell-free extracts. The fibroblasts of the three brothers
+showed normal 5a-reductase activity.
+
+Subsequently, the fragments were sequenced directly with an automated DNA sequencer. In the three
+brothers a G- A substitution was found at nucleotide
+2314 (nucleotide numbering is according to Chang et
+al. 1988) in the region encoding the DNA binding
+domain. This point mutation changes the alanine triplet (GCC) immediately after the first cysteine of the
+second zinc finger motif into a threonine triplet (ACC)
+
+Sequencing of AR cDNA
+Total RNA was isolated from the fibroblasts of the
+three brothers N. and was reverse transcribed to
+cDNA. Three overlapping cDNA fragments that cover
+the entire coding region were amplified by PCR (fig.
+1). The fragments in 2% agarose gels were of the size
+that could be expected from the AR cDNA sequence
+and were not different from those of normal males,
+which indicates that there are no large insertions or
+deletions in the AR cDNA of the patients.
+
+In order to confirm the mutation on the genomic
+level as well, a fragment containing the third AR exon
+(exon C), which encodes the second zinc finger, was
+amplified from fibroblast DNA and was sequenced
+(fig. 3). The mutation was present in the fragments of
+each of the three brothers.
+
+(fig. 2).
+Analysis of the Third Exon of the AR Gene
+
+Q
+
+C-DNA Fragments
+.m..
+
+I: 457-1863
+11: 1829-2474
+ill 2113-3350
+
+Figure I
+
+N-TERMINAL
+
+NA-n
+
+iiiiIi
+<
+i -i _
+
+AR cDNA fragments amplified by PCR. The coding
+region of the AR cDNA is broadened. Three overlapping cDNA
+fragments covering the entire coding region were amplified, by
+reverse-transcription PCR, from total RNA. The numbers indicate
+the starting and end points of the fragments, according, to Chang
+et al. (1988).
+
+SECOND ZINC FINGER OF THE ANDROGEN RECEPTOR
+
+Second zinc finger of the DNA binding domain of
+Figure 2
+the AR. The amino acid sequence encoded by expn C and the proposed zinc finger structure is shown. The amino acid exchanged in
+the patients is indicated by an arrow. The amino acids between
+the first two cysteines identified to be the site of protein-protein
+interaction 'in steroid receptors (Hard et.al. 1990; Schwabe et al.
+1990; Luisi et al. 1991) are depicted as rectangles.
+
+Mutation in Androgen Receptor in Reifenstein Syndrome
+
+*.L[
+
+iIZ14' c
+
+A
+
+Exon C genomic DNA Iragment:
+
+C
+
+L _U
+T
+
+G
+
+cys
+T
+
+G
+
+aIa
+C
+
+G
+
+C
+
+s
+
+C
+
+A
+
+G
+
+A~~~~~~~~~~~~~~~~~~~A
+2314
+
+C
+
+A
+
+arg
+G A
+
+t h r
+A
+
+A/G
+
+Figure 3 Partial sequence of genomic exon C fragments.
+Fragments containing the exon C of the AR gene were amplified
+from fibroblast DNA of the three brothers N., from whole-blood
+DNA of their mother, and from fibroblast DNA of two normal
+males and were sequenced with the help of an automated fluorescence DNA sequencer. The figure shows the section around the
+mutated base 2314.
+=C-signal; -------- = T-signal; .........
+= G-signal; and----= A-signal. A, Normal male. B. One
+of the three brothers N. C, Mother of the three brothers N.
+
+Screening for the G--oA23'4 Mutation by Allete-specific
+Methods
+
+For rapid detection ofthe mutation in other carriers,
+two specific screening techniques that distinguish between normal and mutant AR genes were developed:
+an allele-specific PCR and an allele-specific restriction
+analysis of the exon C genomic fragment. These techniques were used to analyze relatives of the patients,
+a group of 105 normal individuals, and other intersex
+patients presenting with a wide range of incomplete
+
+virilization.
+Since the AR gene is located on the X chromosome
+(Brown et al. 1989), the three patients must have inherited the mutant gene from their mother. Therefore,
+DNA was isolated from her blood and was analyzed.
+The allele-specific PCRs, as well as the restriction analysis, revealed that she is heterozygous and has a mutant as well as a normal AR gene (fig. 4). This was
+confirmed by sequencing her exon C fragment. As
+shown in figure 3, a G signal and an A signal were
+
+1323
+
+obtained at the position of the mutation. The sister of
+the three patients also carries the mutant gene and is
+heterozygous, whereas a maternal uncle and a maternal aunt have the normal AR gene only (fig. 4).
+The group of normal individuals included 61 males
+and 44 females. DNA isolated from the blood of these
+persons was analyzed with the allele-specific PCR
+technique. In all of them, only the normal AR gene was
+identified, which indicates that the AR gene present in
+the three brothers is probably not a rare normal AR
+allele.
+Among the 41 intersex patients who were screened
+for the mutation, another two brothers (family U.)
+with the G--A2314 mutation were detected (fig. 4).
+They also presented with Reifenstein syndrome. Their
+clinical symptoms as well as their endocrine status
+were almost identical to those found in the three brothers of family N. Their mutation was confirmed by
+isolating and sequencing the AR exon C genomic fragment and by analyzing the DNA of their mother. As
+in family N., the mother was found to be heterozygous
+(fig. 4). All the other intersex patients investigated had
+the normal G nucleotide at site 2314.
+The two families with this AR mutation are obviously not related. In their histories there are no indications of a possible common maternal ancestry. For at
+least four generations their members have come from
+different places - members of family N. from the Austrian part of the Tyrol and members of family U. from
+the Italian part of the Tyrol. Nor is there any reported
+history of hypospadias in the maternal ancestors of
+both families.
+Transient Expression of AR in COS-7 Cells, and Induction
+of a Hormone-inducible Promoter in Cotransfection
+Experiments
+
+The mutation is within a 286-bp HindIII-AspI restriction fragment. This fragment was isolated from
+cDNA of one of the patients and was replaced in the
+AR expression vector HAOa. The ability of both
+HAOa and the resulting expression vector HAOaM2314 to induce expression of functionally active AR
+was tested by determination of androgen binding after
+transient expression of wild-type or mutant AR in
+COS-7 cells. Either wild-type or mutant expression
+vectors were transfected into the cells by electroporation together with a transfection-efficiency control
+plasmid. After incubation for 45 h, specific binding of
+the androgen methyltrienolone (R1881) and 13-galactosidase activity expressed from the control plasmid
+were measured. The synthetic androgen R1881 was
+
+1324
+
+* U:E=*l;:C298b
+
+------ - -
+
+AR EXON C
+
+-|-
+
+-
+
+- - - - - - - -
+
+1Kocker et al.
+
+-- - -
+
+-. CTGTGCA.CCAGC.
+
+PCR 1
+PCR2 L
+1
+
+4
+
+3
+
+2
+
+EX C rc primer
+
+CTGTACG
+CTGTACAl
+6
+
+5
+
+.
+
+--
+
+-
+
+-
+
+A
+
+__
+
+- 298 bp
+-234 bp
+
+a
+
+CTGTGCGCCAGC---- NORMAL
+Cfo I (A)
+.CTGTGCACCAGC---- MUTANT
+Sno I (B)
+
+1 2 3 4
+-
+
+9
+10
+8
+*
+*
+
+*7
+
+AR EXON C
+
+.
+
+I
+
+f6Xrc primer
+
+B
+
+1 2 3 4
+
+-
+
+-
+
+-_.
+
+P
+
+234 bp
+
+Screening for the G2314 -A mutation by allele-specific PCR and restriction analysis. Top, Allele-specific PCR. DNA was
+Figure 4
+isolated from fibroblasts or whole blood, and two PCRs were performed with the primers indicated at the top of the panel. The first PCR
+(left lane of each sample) yielded a fragment with the normal AR gene, while the second one (right lane of each sample) yielded a fragment
+with the mutated AR gene. A 10-p1 aliquot of each reaction was separated on a 2% agarose gel, and the fragments were visualized by
+ethidium bromide staining. 1 = Normal male; 2-7 = family N. (2-4 = the three affected brothers; 5 = mother; 6 = maternal aunt; and
+7 = maternal uncle); and 8-10 = family U. (8 and 9 = the two affected brothers; and 10 = mother). Bottom, Allele-specific restriction
+analysis of the exon C fragment. DNA was isolated from fibroblasts or whole blood, and the exon C fragment of the AR gene was amplified.
+Ten-microliter aliquots of the PCR reactions were then cut with the restriction endonucleases CfoI (A) or Snol (B) and were analyzed
+on a 2% agarose gel. 1 = Normal male; 2 = one of the patients; 3 = sister of the three brothers N.; and 4 = mother of the three brothers
+N.
+
+used instead of DHT, to minimize metabolization during incubation. Cells transfected with wild-type AR
+expression vector specifically bound 379 fmol R1 88 1 /
+mg protein, and cells transfected with mutant AR expression vector bound 406 fmol R1881 /mg protein
+(fig. SA). Thus the levels of AR expressed in transfected cells were very similar for both expression vectors. Transfection efficiencies also were similar, as indicated by the 3-galactosidase activities (304 vs. 271
+mU).
+
+In order to test the ability of the mutant receptor to
+activate a hormone-dependent promoter, either wildtype or mutant AR expression vectors were cotransfected into COS-7 cells, together with a reporter plasmid, and the induction of CAT expression by DHT
+was determined (fig. SB). The reporter plasmid contained a CAT gene controlled by the hormone-inducible promoter from the LTR of the MMTV virus.
+A 7.7-fold increase in CAT expression was induced
+by DHT when the wild-type AR was coexpressed with
+
+Mutation in Androgen Receptor in Reifenstein Syndrome
+
+B
+
+A
+U00
+
+mf~~~~~~~3
+
+20
+
+X0.1
+
+200 11
+
+1
+
+IE
+
+DHAON-t
+
+1 100A
+
+DHTf
+
++401
+
+f
+
+*HAOs-- 1M4
+
+Transient expression of cloned AR, and induction
+Figure 5
+of a hormone-inducible promoter in COS-7 cells. The mutation was
+introduced into the AR expression vector HAOa by replacing the
+HindIIl-AspI restriction fragment with the same fragment from one
+patient's cDNA. = Wild-type AR expression vector; and OM =
+mutant AR expression vector. A, Specific androgen binding of transiently expressed AR. Either wild-type or mutant AR expression
+plasmids were transfected into COS-7 cells, together with the transfection control plasmid pSV-Ogal, and cells were cultured for 45 h.
+Afterward cells were harvested and incubated in medium containing
+5 nM 'H-methyltrienolone (R1881) in the absence or presence of
+a 100-fold excess of unlabeled methyltrienolone, and specifically
+bound radioactivity was determined (left). In order to monitor
+transfection efficiency, 13-galactosidase activity expressed from the
+control plasmid was determined in the cell extracts (right). B, Induction of a hormone-inducible promoter in cotransfection experiments. Wild-type or mutant AR expression plasmids and the reporter plasmid pCW-wt carrying a CAT gene which is controlled
+by the hormone-inducible promoter from the LTR of MMTV were
+cotransfected into COS-7 cells by electroporation, and the cells were
+cultured in DMEM supplemented with 0.5% charcoal-stripped
+FCS. After 15 h the medium was renewed, and 40 nM of DHT was
+added to half of the samples. After 24 h, cells were harvested, and
+CAT activity was determined in the cell extracts. CAT activities are
+given in arbitrary units.
+
+the reporter plasmid, whereas only a 2.4-fold increase
+noted when the mutant AR was coexpressed with
+the reporter plasmid. These results indicate that the
+G--A2314 mutation reduces the ability of the AR to
+activate transcription from a hormone-inducible pro-
+
+was
+
+moter.
+
+Discussion
+
+Defective virilization in genetic and gonadal males
+results from inadequate androgen action. In addition
+to reduced synthesis of T and DHT, qualitative and
+quantitative abnormalities of the intracellular hormone-binding sites, as well as post-ligand-binding defects, are responsible for intersex phenotypes. In some
+patients with complete testicular feminization, point
+mutations in the hormone-binding domain of the AR
+that result in a loss of hormone-binding ability were
+
+1325
+
+identified as the underlying molecular defect (Lubahn
+et al. 1990; Marcelli et al. 1990; Ris-Stalpers et al.
+1990; Sai et al. 1990; McPhaul et al. 1991b).
+Binding assays can only evaluate the first step of
+androgen action - i.e., the binding of androgens to the
+receptor-and cannot evaluate the subsequent steps
+of signal transduction. We therefore started to analyze, by means of molecular-biological techniques,
+male patients who presented with severe malformations of the external genitalia despite normal specific
+binding of DHT. In three brothers with Reifenstein
+syndrome a point mutation that leads to the substitution of one amino acid in the AR DNA binding domain
+was detected. We have developed allele-specific assays
+that allow rapid detection of this mutation in heterozygous and hemizygous carriers. With the help of these
+methods the same mutation was found in another two
+brothers suffering from Reifenstein syndrome. The
+clinical symptoms of the patients of both families are
+almost identical. They include perineoscrotal hypospadias, undescended testes, gynecomastia, azoospermia, no palpable prostate, and elevated levels of FSH
+and LH. The mutations seem to have occurred independently in both families, since their histories do not
+indicate a common maternal ancestry.
+The patients have inherited the mutant gene from
+their mothers, who are heterozygous and carry a normal as well as a mutant gene. A sister of the patients
+also carries the mutant gene and is heterozygous. A
+maternal aunt and a phenotypically normal maternal
+uncle, as well as all 105 phenotypically normal individuals who were analyzed, carried the normal gene
+only. This indicates that the mutation detected in our
+patients is not a rare normal AR allele but indeed is
+associated with defective virilization.
+The G2314--A mutation occurred in the region between the first and second cysteine of the second zinc
+finger motif of the DNA binding domain, which is
+the site of interaction between the hormone-receptor
+complex and the androgen-responsive element. Binding of DHT to the receptor -the first step of androgen
+action - seems not to be affected. The mutant receptor
+has a normal ability to bind DHT, and the thermostability of the receptor-DHT complex is also normal. As
+shown by the cotransfection experiment the mutation
+reduces the ability of the AR to stimulate transcription
+from a hormone-inducible promoter. The remaining
+transactivation activity of the mutant receptor is approximately one-third that of the wild-type receptor.
+This is in good agreement with the clinical findings
+indicating that the response to androgens is strongly
+
+KMocker et al.
+
+1326
+
+reduced in the patients but not completely absent. The
+mutation described in the present report is different
+from AR mutations in the hormone-binding region
+found in patients with complete androgen insensitivity. Whereas these mutations prevent hormone binding to the receptor and result in a female phenotype,
+the mutation detected in our patients affects a step
+beyond hormone binding and leads to a partial reduction of androgen function, which results in incomplete
+virilization in patients with a male gender.
+Another mutation in the second zinc finger of the
+AR has been described by Marcelli et al. (1991). That
+mutation leads to replacement of the third amino acid
+after the last cysteine of the zinc finger and results
+in a loss of AR function. Consequently, the affected
+patient shows complete testicular feminization.
+The region in which the mutation occurred is highly
+conserved among the members of the steroid-receptor
+family and is invariably present in the AR of several
+species (Carson-Jurica et al. 1990; He et al. 1990).
+In vitro mutagenesis experiments and analyses of the
+three-dimensional structure of steroid hormone receptors showed that this region is essential for correct
+discrimination between different hormone-responsive
+elements, as well as for protein-protein interaction
+(Umesono and Evans 1989; Hard et al. 1990;
+Schwabe et al. 1990). All steroid receptors except the
+estrogen receptor have an alanine at the site corresponding to the site of the mutation in the AR of our
+patients. In the glucocorticoid receptor this alanine is
+involved in receptor dimerization (Liusi et al. 1991).
+The mutation introduces an additional polar OHgroup at this site by exchanging alanine with threonine
+and thereby probably affects protein-protein interactions.
+Identification of the molecular mechanisms that
+cause the various forms of sex ambiguity will greatly
+improve diagnosis and therapy in affected patients.
+Until recently little was known about defects affecting
+the steps of androgen action that occur after hormone
+binding. The AR mutation described here and the mutation described by Marcelli et al. (1991) are mutations of this kind. Rapid screening techniques such as
+the allele-specific PCR described in the present report
+allow early identification of known mutant AR genes
+in affected families, both in patients and in phenotypically normal heterozygous carriers. This will facilitate
+both diagnosis and genetic counseling.
+The decision about sex assignment in intersex patients should be made immediately after birth, to ensure normal psychosexual orientation and develop-
+
+ment of the child. Since all male individuals with the
+Ala--Thr mutation who are described in the present
+study have severe malformations of the external genitalia and-despite surgical corrections-exhibit a severe form of intersexuality after puberty, newborns
+with this mutation should be raised as females and
+should undergo feminizing genitoplasty as early as
+possible.
+
+Acknowledgments
+We gratefully acknowledge the contribution of Dr. Reier,
+who provided blood samples of his patients, and of Dr.
+Cato, who provided an AR expression vector. We also thank
+Drs. Utermann, Auer, Schweiger, and Doppler for helpful
+suggestions and discussions; S. Jobstl, T. Sierek, G. Holzl,
+and P. Dejaco for their technical assistance; and P. J. Oefner
+for the synthesis of oligonucleotide primers. This work was
+supported by Jubilaumsfonds der Osterreichischen Nationalbank grant 3776.
+
+References
+Brown CJ, Goss SJ, Lubahn DB, Joseph DR, Wilson EM,
+French FS, Willard HF (1989) Androgen receptor locus
+on the human X chromosome: regional localization to
+Xql1-12 and description of a DNA polymorphism. Am
+J Hum Genet 44:264-269
+Carson-Jurica MA, Schrader WT, O'Malley BW (1990) Steroid receptor family: structure and functions. Endocr Rev
+11:201-220
+Cato ACB, Skroch P, Weinmann J, Butkeraitis P, Ponta H
+(1988) DNA sequences outside the receptor binding sites
+differentially modulate the responsiveness of the mouse
+mammary tumour virus promoter to various steroid hormones. EMBO J 7:1403-1410
+Chang C, Kokontis J, Liao S (1988) Structural analysis of
+complementary DNA and amino acid sequences of human
+and rat androgen receptors. Proc Natl Acad Sci USA 85:
+7211-7215
+Chirgwin JM, Przybyla AE, MacDonald RJ, Rutter WJ
+(1979) Isolation of biologically active ribonucleic acid
+from sources enriched in ribonuclease. Biochemistry 18:
+5294-5299
+Green S, Issemann I, Sheer E (1988) A versatile in vivo and
+in vitro eukaryotic expression vector for protein engineering. Nucleic Acids Res 16:369
+Griffin JE, Wilson JD (1989) The androgen resistance syndromes: St-reductase deficiency, testicular feminization,
+and related syndromes. In: Scriver CR, Beaudet AL, Sly
+WS, Valle D (eds) The metabolic basis of inherited disease, 6th ed. McGraw-Hill, New York, pp 1919-1944
+Hard T, Kellenbach E, Boelens R, Maler BA, Dahlman K,
+Freedman LP, Carlstedt-Duke J, et al (1990) Solution
+
+Mutation in Androgen Receptor in Reifenstein Syndrome
+structure of the glucocorticoid receptor DNA binding domain. Science 249:157-160
+He WW, Fischer LM, Sun S, Bilhartz DL, Zhu X, Young
+XY, Kelley DB, et al (1990) Molecular cloning of androgen receptors from divergent species with a polymerase
+chain reaction technique: complete cDNA sequence of
+the mouse androgen receptor and isolation of androgen
+receptor cDNA probes from dog, guinea pig, rat and frog.
+Biochem Biophys Res Commun 171:697-704
+Hughes IA, Evans BAJ (1987) Androgen insensitivity in
+forty-nine patients: classification based on clinical and
+androgen receptor phenotypes. Horm Res 28:25-29
+Imperato-McGinley J, Guerrero L, Gautier T, Peterson RE
+(1974) Steroid Sa-reductase deficiency in men: an inherited form of male pseudohermaphroditism. Science 186:
+1213-1215
+Jost A (1970) Hormonal factors in the sex differentiation of
+the mammalian foetus. Philos Trans R Soc Lond [B] 259:
+119-130
+Leshin M, Griffin JE, Wilson JD (1978) Hereditary male
+pseudohermaphroditism associated with an unstable
+form of Sct-reductase. J Clin Invest 62:685-691
+Lubahn DB, Brown TR, Simental JA, Higgs HN, Migeon
+CJ, Wilson EM, French RS (1990) Sequence of the intron/
+exon junctions of the coding region of the human androgen receptor gene and identification of a point mutation
+in a family with complete androgen insensitivity. Proc
+Natl Acad Sci USA 86:9534-9538
+Luisi BF, Xu WX, Otwinowski Z, Freedman LP, Yamamoto
+KR, Sigler PB (1991) Crystallographic analysis of the interaction of the glucocorticoid receptor with DNA. Nature 352:497-505
+McPhaul MJ, Marcelli M, Tilley WD, Griffin JE, IsidoroGuiteres RF, WilsonJD (1991a) Molecular basis of androgen resistance in a family with a qualitative abnormality
+of the AR and responsive to high-dose androgen therapy.
+J Clin Invest 87:1413-1416
+McPhaul MJ, Marcelli M, Tilley WD, Griffin JE, WilsonJD
+(1991b) Androgen resistance caused by mutations in the
+androgen receptor gene. FASEB J 5:2910-2915
+Marcelli M, Tilley WD, Wilson CM, Wilson JD, Griffin
+
+1327
+
+JE, McPhaul MJ (1990) A single nucleotide substitution
+introduces a premature termination codon into the androgen receptor gene of a patient with receptor-negative androgen resistance. J Clin Invest 85:1522-1528
+Marcelli M, Zoppi S, Grino PB, Griffin JE, Wilson JD,
+McPhaul MJ (1991) A mutation in the DNA-binding domain of the androgen receptor gene causes complete testicular feminization in a patient with receptor-positive androgen resistance. J Clin Invest 87:1123-1126
+Nielson DA, Chang TC, Shapiro DJ (1989) A highly sensitive mixed-phase assay for chloramphenicol acetyltransferase activity in transfected cells. Anal Biochem 179:1923
+Peres-Palacios G, Chavez B, Mendez JP, McGinley JI,
+Ulloa-Aguirre A (1987) The syndromes of androgen resistance revisited. J Steroid Biochem 27:1101-1108
+Ris-Stalpers C, Kuiper PW, Faber PW, Schweikert H-U,
+van Rooij HCJ, Zegers ND, Hodgins MB, et al (1990)
+Aberrant splicing of androgen receptor mRNA results in
+synthesis of a nonfunctional receptor protein in a patient
+with androgen insensitivity. Proc Nati Acad Sci USA 87:
+7866-7870
+Sai T, Seino S, Chang C, Trifiro M, Pinsky L, Mhatre A,
+Kaufman M, et al (1990) An exonic point mutation of the
+androgen receptor gene in a family with complete androgen insensitivity. Am J Hum Genet 46:1095-1100
+Sambrook J, Fritsch EF, Maniatis T (1989) Assay for 3-galactosidase in extracts of mammalian cells. In: Molecular
+cloning: a laboratory manual, 2d ed. Cold Spring Harbor
+Laboratory, Press, Cold Spring Harbor, NY, pp 16.6616.67
+SchwabeJWR, Neuhaus D, Rhodes D (1990) Solution structure of the DNA-binding domain of the oestrogen receptor. Nature 348:458-461
+Terakawa T, Shima H, Yabumoto H, Koyama K, Ikoma F
+(1990) Androgen receptor levels in patients with isolated
+hypospadias. Acta Endocrinol 123:24-29
+Umesono K, Evans RM (1989) Determinants of target gene
+specificity for steroid/thyroid hormone receptors. Cell
+57:1139-1146
+
+

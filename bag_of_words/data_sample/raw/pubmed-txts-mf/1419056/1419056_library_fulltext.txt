@@ -1,0 +1,3156 @@
+The role of proteoglycans
+in cell adhesion,
+migration and proliferation
+Thomas
+
+N. Wight,
+
+Michael
+
+University
+
+G. Kinsella and Eva E. QwarnstrGm
+
+of Washington,
+
+Seattle,
+
+Washington,
+
+USA
+
+Proteoglycans
+comprise
+a part of the extracellular
+matrix
+that participates
+in the
+molecular
+events
+that
+regulate
+cell
+adhesion,
+migration
+and
+proliferation.
+Their
+structural
+diversity
+and
+tissue
+distribution
+suggest
+a
+functional
+versatility
+not
+generally
+encountered
+for
+other
+extracellular
+matrix
+components.
+This versatility
+is mainly
+dictated
+by their
+molecular
+interactions
+and
+their
+ability
+to regulate
+the
+activity
+of key
+molecules
+involved
+in several
+biological
+events.
+This
+molecular
+cooperativity
+either
+promotes
+or inhibits
+cell adhesion,
+migration
+and proliferation.
+A growing
+number
+of studies
+indicate
+that
+proteoglycans
+can play
+a direct
+role in
+these
+cellular
+events
+by functioning
+either
+as receptors
+or as ligands
+for molecules
+that
+are required
+for these
+events
+to occur.
+Such
+studies
+support
+a role for proteoglycans
+as important
+effecters
+of cellular
+processes
+that constitute
+the basis of development
+and disease.
+
+Current
+
+Opinion
+
+in Cell
+
+Introduction
+Adhesion of cells to their micro-environment and their
+subsequent proliferation and migration are regulated in
+part by their interaction with various components of
+the extracellular matrix (ECM) [I**]. This regulation
+involves molecular interactions that govern the attachment of cells to specific ECM components, detachment
+of cells from these components and molecular rearrangements in the ECM that allow cells to change shape during division and/or migration. Proteoglycans (PGs) are
+one of the ECM components that participate in these
+regulatory events [ 2*-4*,5**--7**,8*].
+Their involvement
+with a number of component molecules that take part
+in these processes is mediated either through charge
+interactions via the glycosaminoglycan (GAG) chains
+(carbohydrate-protein)
+or through protein-protein
+interactions via specific domains within the core proteins
+of the PGs. Recent reviews that stress the interactive nature of PGs and the role that they play in regulating cell
+behavior are available (Fig. 1) [ 5**-7**,8*]
+Cell adhesion
+Cells form stabilized contacts with the ECM by a complex
+process that depends on multiple interactions between
+ECM receptors and their various ligands and elements of
+the cytoskeleton [ 91. These contacts must be broken and
+reformed as cells proliferate and migrate. Proteoglycans
+promote cell adhesion by facilitating attachment of cells
+to specific ECM components (Fig. 2). For example, cell
+
+Biology
+
+1992,
+
+4:793401
+
+surface heparan sulfate (HS) PGs are necessary for the
+formation of stable focal adhesion sites on fibronectincoated substrates [lO,ll]. Recent studies have identified
+a sequence within fibronectin that interacts specifically
+with a cell surface phosphatidylinositol-anchored
+HSPG
+in mouse melanoma cells [ 12*]. These observations indicate that specific classes of PGs can mediate integrinindependent adhesion events.
+Expression of cell surface PGs that interact with ECM ligands appears to be critical for some cells to maintain their
+differentiated phenotype. Sll5 mouse mammary epitheliaf cells lose their flattened epithelial morphology and
+become
+tumorigenic when exposed to steroids. These
+changes are reversed when the cells are transfected with a
+full length cDNA to human syndecan, which is an intercalated membrane PG [ 13**]. The importance of syndecan
+in cell adhesion is further illustrated by the obsetvation
+that this membrane PG is transiently expressed on prep- and immature p-lymphocytes when in contact with the
+bone marrow stroma, but is absent from circulating and
+peripheral lymphocytes following release from the marrow (reviewed in [7**] ). As syndecan is known to exist in
+different polymorphic forms and bind a variety of ECM
+ligands (reviewed in [7**] ), either transient expression
+and/or structural modifications in this PG may regulate
+the adhesion of cells to different ECMs at different times
+during
+development.
+CD44 is another family of polymorphic integral membrane glycoproteins and PGs that participate in ceUular adhesion [7=*,14**]. There are both low (80-90kD)
+
+Abbreviations
+bFCF-basic
+fibroblast
+GAG-glycosaminoglycan;
+
+growth
+
+factor;
+CSchondroitin
+HS-heparan
+sulfate;
+TCF-pl-transforming
+
+@ Current
+
+sulfate;
+DSdermatan
+PDCF-platelet-derived
+growth
+factor
+
+Biology
+
+sulfate;
+ECM-extracellular
+growth
+factor;
+PC-proteoglycan;
+
+matrix;
+
+p-1.
+
+Ltd ISSN 0955%74
+
+793
+
+794
+
+Cell-to-cell
+
+contact
+
+and extracellular
+
+matrix
+
+Proliferation
+
+Basic fibroblast
+growth factor
+Acidic fibroblast
+growth factor
+Endothelial
+cell growth factor
+Platelet-derived
+growth factor
+Transforming
+growth factor, TGF-pl
+
+GM
+
+colony
+
+stimulating
+
+Adhesion
+
+and
+
+migration
+
+Vitronectin
+
+factor-l
+Neural
+
+l
+
+--
+
+cell adhesion
+
+molecule
+
+I
+
+Disease
+
+Apoprotein
+Viral and parasitic
+coat proteins
+Amyloid
+Calcium
+
+Fig. 1. Some
+
+of the
+
+molecular
+
+interactions
+
+in which
+
+proteoglycans
+
+and high (200 kD) molecular weight forms of CD44. The
+smaller form, which lacks GAG chains, predominates on
+lymphocytes and is responsible for the adherence of
+lymphocytes to the surface of high endothelial venules,
+a process referred to as lymphocyte homing. The high
+molecular weight form bears chondroitin or heparan sulfate chains and participates in cell adhesion through the
+ability of the GAG chains to bind ECM ligands such as fibronectin. Many cells express PG forms of CD44 that can
+be localized to filopodia and zones of cell contact [ 14-I.
+CD44 also contains a domain that possesses homology
+to the hyaluronan-binding region of cartilage link protein
+and the amino-terminal portion of two interstitial CSPGs,
+aggrecan and versican (reviewed in [7*-l >. This domain
+allows these molecules to interact with hyaluronan, an interaction that is important in the adhesion and migration
+of cells in ECM enriched in hyaluronan [ 15,16*].
+Syndecan and CD44 are members of different families of
+intercalated membrane PGs that have conserved cytoplasn-tic domains containing potential phosphorylation sites
+(reviewed in (7-I). Intercalated membrane PGs such as
+NG2 [17*] do not contain these specific sequences, but
+do contain potential phosphorylation
+sites. The presence of such sites has led to the suggestion that these
+molecules are important in signal transduction during cell
+adhesion.
+Cell surface PGs also promote the adhesion of microorganisms to cells. Parasites such as Tgpancxoma cruzl
+[18*] and malaria (Phsmodia) sporozoites [ 19.1 contain
+membrane proteins that specifically bind heparin- or HScontaining PGs. Invasion of these parasites into cells can
+be blocked by competition with heparin or HS. The importance of surface-associated HSPG in Herpes simplex
+
+participate
+
+virus infection has recently been shown by demonstrating that Chinese hamster ovary mutant cells defective in
+HSPG synthesis are resistant to infection by the virus
+[20*]. Such studies point towards an important new area
+of investigation of clinical relevance concerning plasma
+membrane PGs.
+Proteoglycans within the ECM or within specialized structures such as basement membranes may themselves serve
+as ECM ligands for adhesion. For example, the principal
+PG in basement membranes is a large HSPG, perlecan.
+Recent studies reveal that the core protein in both mouse
+[21-l and human [ 220, 23-l perlecan contains multiple
+domains with homology to adhesive molecules such as
+laminin and neural cell adhesion molecule, suggesting
+perlecan may also serve as a ligand for cell surface receptors. A 38 kD membrane protein has been tentatively
+identified as the cell surface receptor for this PG in
+cultured hepatocytes [24]. In addition, a heparin-binding 78kD protein (moesin) [25*] has homology to a
+number of proteins that form structural links between
+the cell membrane and elements of the cytoskeleton. It
+remains to be shown whether the interaction of these
+membrane-associated proteins with extracellular HSPG
+affects adhesion and modulates the behavior of cells that
+synthesize perlecan or other HSPGs.
+Whereas the interactions described above promote adhesion, PGs can also interfere with adhesion in several
+ways. PGs in the ECM may interact with other ECM adhesion ligands, such as fibronectin, and block the interaction of the ligand with its cell surface integrin receptor
+(Fig. 2) [8*]. The small interstitial dermatin sulfate (DS)
+PGs, decorin and biglycan, interact with a number of
+adhesive ECM kgdnds, either through their GAG chains
+
+Proteoglycans
+
+-
+
+0
+
+in cell adhesion,
+
+Core
+
+migration
+
+and proliferation
+
+Wight,
+
+Kinsella,
+
+QwarnstrBm
+
+protein
+
+Receptor
+
+Proteoglycan
+Glycosaminoglycan
+
+$ 3
+
+Phosphatidylinositol
+
+>
+
+Fig. 2. Possible
+
+models
+in which
+proteoglycans
+(PCs) may regulate
+adhesive,
+anti-adhesive
+and migratory
+events.
+(a) PC as an adhesive
+ligand. (b) PC as a receptor
+for an adhesive
+ligand. (c) PC linked to phosphatidylinositol.
+(d) Selective
+synthesis
+of hyaluronan
+to facilitate
+movement
+of the cell. (e) Secretion
+of proteases
+and glycosidases
+to break
+adhesive
+bonds.
+(13 Selective
+expression
+of PCS to create
+migration
+pathways.
+(g) PC binds anti-adhesive
+molecules
+such as tenascin.
+(h) PC binds to the adhesive
+ligand fibronectin
+preventing
+ligand binding
+to receptor
+
+[ 26.1, or their core proteins [ 27*] and interfere with cell
+attachment. The presence of large interstitial PGs at the
+cell surface may prevent the interaction of cell surface
+receptors with their specific ECM ligands by steric exclusion [28]. In addition, cell surface associated PGs may
+interact with other anti-adhesive ECM molecules such as
+thrombospondin
+[29] and tenascin [30-l to destabilize
+cell contact points (reviewed in [3I--1).
+
+Cell migration
+Adhesion sites are continually disrupted and reformed as
+cells change shape and move. Cell movement is also
+accompanied by changes in the cellular micro-environment involving the replacement of dense fibrous ECM
+that serves to stabilize stationary cells with a loose hydrated micro-environment that creates pathways for cell
+migration. Proteoglycans and hyaluronan, a GAG that occupies large solvent domains, influence these processes.
+Generally, the molecules that destabilize adhesion sites
+(e.g. CSPGs and hyaluronan) promote cell motility, while
+the PGs that contribute to the formation of tight cellular
+adhesion sites (i.e. HSPGs) inhibit cell migration. In fact,
+when stationary vascular endothelial
+cells are induced to
+migrate, they switch from synthesizing an ECM enriched
+in HSPG to an ECM enriched in CUDS PG [ 321.
+
+The importance of CSPGs in cell migration is well established. Removal of CSPG from the surface of mouse
+melanoma cells or inhibition of CSPG synthesis by these
+cells prevents their migration and invasion into type I
+collagen gels without affecting adhesion to a collagen
+substratum [33*]. The cell surface PG responsible for
+this activity is a CSPG whose core protein is immunologicaLly related to CD44. Furthermore, a spliced variant
+of CD44 is selectively expressed in metastasizing rat carcinoma cells and is capable of conferring metastatic behavior to non-metastasizing carcinoma cells [34-l. Although
+CD44 is not expressed by all cells during migration, other
+cell surface PGs may serve a similar role. For example,
+in the healing of cutaneous wounds, the migrating and
+proliferating epithelial cells and endothelial cells forming
+new blood vessels show increased expression of syndecan [35*]. While changes in specific PGs are associated
+with the onset of cell migration, the precise mechanism
+by which PGs influence this cellular event is not understood.
+Although certain PGs facilitate or promote celJ migration
+in some systems, other PGs inhibit or establish barriers to migrating cells. For example, regions enriched in
+CSPG in the developing mammalian retina exclude advancing growth cones [36**]. Removal of CSPG from
+these regions results in new axonal growth. Localized
+
+795
+
+7%
+
+Cell-to-ceil
+
+contact
+
+and extracellular
+
+matrix
+
+accumulation of CSPG also correlates with restriction
+of neural crest cell migration in developing chick embryos [37*]. m another mode1 of axonal guidance, axonal extensions of dorsal root ganglia avoid contact with
+explants of epidermis in co-culture [38*]. Inhibition of
+CSPG synthesis with P-xyloside, or incubation of the
+co-cultures with anti-CSPG antibodies, results in contact between extended axons and epithelial explants,
+abolishing avoidance of contact that is seen in control
+cultures. Also consistent with the conclusion that CSPGs
+delimit the pathways of neuronal outgrowth is the observation that CSPGs isolated from rat brain inhibited nerve
+growth factor-induced neurite extension when bound to
+pheochromocytoma
+cells [39*]. Thus, it may be that
+PGs function as ‘avoidance’ molecules in the nervous
+system by acting as steric blockers for receptors in the
+growth cone of elongating axons (discussed in [31*-l >.
+Two recent papers, however, suggest novel mechanisms
+by which matrix PGs may influence ceU migration. For example, HS and CS signilicantly increase activation of plasminogen by urokinase-type plasminogen activator [40-l,
+which has been previously localized to ceU adhesive sites,
+where it is thought to be involved in proteolytic events
+that are associated with ceU migration. Also, in a model of
+embryonic smooth muscle ceU migration in the ductus arteriosus, a critical event is the penetration of cells through
+elastic laminae. This process may involve shedding of a
+cetl surface elastin receptor, in a process induced by CS
+[41*].
+The GAG, hyaluronan, formerly termed hyaluronic acid,
+also plays a role in ceU migration. Although the man
+ner in which this GAG exhibits its effect is not clear,
+several studies have shown an increased but transient
+production of hyaluronan that coincides with rapid cell
+migration during processes of in&nmation,
+wound repair, tumor invasion and morphogenesis (reviewed in
+[16*]). Addition of hyaluronan to some cells in culture promotes their migration [42*,43-l, an activity that
+can be eliminated by removing hyaluronan with either
+enzyme treatments or blocking antibodies against ceU
+surface hyaluronan-binding proteins. Thus, hyaluronanbinding proteins are required for hyaluronan to influence
+ceU migration and they are associated with the leading
+1arneUae of rapidly migrating cells [43*-,44*]. This family
+of integral membrane glycoproteins and PGs has been recently named the hyaladherins, although synonyms such
+as ‘HAHAgrins’ and ‘gripabags’ have also been proposed
+[WI!
+Cell proliferation
+Different PGs can function to either inhibit or promote ceU proliferation (Fig. 3). Several laboratories have
+demonstrated that heparin and HS suppress the entry
+of cells into S phase in response to some mitogens
+(reviewed in [45] > but the mechanism(s) remains unclear. A number of studies have addressed several possible mechanisms. For example, for some cells and n-rtogens, growth inhibition may involve the inactivation of
+the mitogen by heparin [46*,47-l. Although heparin and
+HS are usually considered the only GAGS with anti-prolif
+erative properties, DS of high iduronate content inhibits
+the proliferation of human fibroblasts [48*]. Such studies
+
+suggest that the uranic acid moiety in the GAG chain is
+important as a structural determinant for the anti-proliferative activity of these GAGS. Unusual disaccharides
+containing a 2sulfated uronate have been found in the
+nucleus of growth-arrested hepatoma cells [49,50], although similar structures have not been found in the
+nuclei of smooth muscle cells that are growth arrested
+with heparin [45]. The fmding of GAG fragments within
+the nucleus suggests that GAGS might influence proliferative activity by interacting with transcription factors
+that are critical for ceU replication. For example, hepat-in treatment of 3T3 cells blocks phorbol ester induction of c-myc and c-fos, two proto-oncogene products
+necessary for ceU replication in some cells [51,52] .Recent experiments suggest that heparin interferes with
+the activation of these proto-oncogenes by interacting
+with specific transcription factors, inhibiting the binding of these trans-acting factors to DNA [53--l. Many
+of the transcription factors have heparin-binding basic
+amino acid sequences (discussed in [6-l). These observations raise the distinct possibility that GAGS may,
+under some circumstances, regulate gene activity at nuclear sites.
+Proteoglycans may also function as mitogens.The 80 kD
+subunit of colony stimulating factor-l (CSF-1) contains a
+single chain of CS [ 54*]. This PG regulates the prolifera
+tion and differentiation of mononuclear phagocytic cells
+in bone marrow. As CSF-1 PG possesses the same biological activity as its lower molecular weight counterpart,
+which does not bear GAG chains, it is unlikely that the
+GAG chain participates directly in growth factor activation. However, the GAG chain might permit the interaction of the growth factor with the ECM in the haemopoietic micro-environment for utilization by target cells in a
+manner similar to that described for the binding of other
+growth factors in bone marrow stroma [55,56].
+Proteoglycans may also influence cell proliferation by interacting with growth factors either acting as growth factor receptors [57-l or modifying the interaction of the
+growth factors with their high-affinity receptors [ 58,59*].
+Such interactions are believed to induce conformational
+changes in the growth factor [6O*] or possibly in the
+growth factor receptor, perhaps involving dimerization,
+such that high-affinity interactions between Ugand and
+receptor are possible. Removing HS from the surface
+of 3T3 cells and skeletal muscle myoblasts dramatically
+reduces the binding of basic Iibroblast growth factor
+(bFGF) to these cells [6l*] while leaving the mitogenic
+activity of other growth factors such as of platelet-derived
+growth factor (PDGF) and epidemlal growth factor unaffected. Recent studies indicate that HS chains contain a
+specific carbohydrate sequence in which N-sulfate groups
+and iduronate-2-sulfates are essential for binding of bFGF
+[62**]. This is in contrast to the binding of transforming
+growth-factor (TGF)-PI to the PG component of the
+TGF-P receptor, betaglycan, in which the GAG chains
+are not required [63,64-l. These different binding sites
+allow for the binding of more than one growth factor to
+the same PG [65*].
+Proteoglycans may also sequester growth factors in the
+ECM in a form protected from proteolysis [66**,67] and
+thereby regulate their availability and/or activity. Release
+
+Proteoglycans
+
+in cell adhesion,
+
+migration
+
+I=>
+
++
+
+Growth
+
+factor
+
+M
+
+Growth
+
+factor
+
+receptor
+
+68
+0
+
+Transcription
+Core
+
+-
+
+Proteoglycan
+
+Cell proliferation is often accompanied by the selective
+expression of specific PGs. For example, syndecan is expressed by proliferating cells in the mesenchyme during tooth bud morphogenesis [72*]. In addition, the
+stimulation of arterial smooth muscle cell proliferation
+by PDGF is accompanied by specific changes in the
+transcription/translation
+and post-translational processing of versican, which is a principle PG present in blood
+vessels [ 73.1. Although
+the relevance of these changes to
+the growth state of the cell is not yet understood, such
+modifications in specific PGs may alter the binding characteristics of the micro-environment surrounding cells af
+fecting growth factor availability and/or activity. It should
+be emphasized that although increased PG synthesis is
+correlated with cell proliferation, induction of PG synthesis does not always appear to be a prerequisite for
+cell proliferation as interruption of PG synthesis by /3o-xylosides can be uncoupled from the anti-proliferative
+effect of this molecule [74*,75*].
+
+Kinsella,
+
+797
+
+Qwarnstrdm
+
+Fig. 3. Proposed
+mechanisms
+in which
+proteoglycans
+(PCs) may participate
+in
+the regulation
+of cell proliferation.
+(a)
+PC binds growth
+factors
+in the extracellular
+matrix.
+(b) PC as a membranebound
+facilitator
+in high-affinity
+binding of growth
+factors
+to their
+receptor. (c) PC as a mitogen.
+cd) Processing
+of
+phosphatidylinositol-linked
+PC to generate growth
+inhibitory
+glycosaminoglycan (GAG) fragments,
+which
+are internalized.
+GAG binds to nuclear
+transcription factors,
+which inhibits
+their activity.
+
+I
+
+of the growth factor-PG complex could occur by the action of proteases, glycosidases or phospholipases [68*]
+made available during events associated with development, tissue injury and formation of new blood vessels
+169,701. Support for an effect by PGs on growth factor activity comes from studies that demonstrate that the small
+interstitial DSPGs, decorin and biglycan, can inactivate the
+mitogenic activity of TGF-j31 [71]. Interestingly, TGF-p1
+stimulates the synthesis of these small DSPGs in some
+cells (reviewed in [8*] ), and this reciprocal relationship
+may be one way in which specific PGs regulate the activity
+of growth factors.
+
+Wight,
+
+Division
+
+Phosphatidylinositol
+
+factor
+
+protein
+
+Glycosaminoglycan
+
+and proliferation
+
+Conclusion
+We have reviewed a number of examples published
+within the last year that implicate PGs in the regulation of cell adhesion, migration and proliferation. While
+some of the evidence is still circumstantial, several studies
+suggest that PGs can effect the biological activity of component molecules involved in these processes through
+highly specific interactions. The remarkable structural diversity of the Merent families of PGs provides a multiplicity of ways in which these interactions can occur.
+The challenge for the future will be to define the nature
+of these molecular interactions and the biological consequence( s) of such interactions in regulating cell function.
+Acknowledgements
+This
+
+work
+
+was
+
+supported
+
+by NIH
+
+and DE.08172
+(EQ). The authors
+Susan Potter-Per&o
+for her critical
+Ms.
+
+Barbara
+
+References
+
+Kovacich
+
+for
+
+the
+
+grants
+
+HL-18645,
+
+DE-0889
+
+(TNW)
+
+expresssincereappreciationto Dr.
+
+typing
+
+reading of the manuscript
+of the manuscript.
+
+and recommended
+
+Papers of particular
+interest,
+published
+view, have been highlighted
+as:
+of special
+interest
+.
+..
+of outstanding
+interest
+
+within
+
+and
+
+to
+
+reading
+the annual
+
+1.
+HAY ED: Cell Biology
+o/ ExtraceNtclar
+Mah-ix,
+..
+York: Plenum
+Press; 1991.
+in outstanding
+concise oveniew
+and up-to-date
+account
+and exciting
+in extracellular
+matrix biology.
+Chapters
+
+period
+
+of re.
+
+2nd edn.
+
+New
+
+of what is new
+are written
+
+for
+
+798
+
+Cell-to-cell
+
+contact
+
+and extracellular
+
+beginning
+srudents
+but also serve
+for your bookshelf!
+
+matrix
+
+the investigator
+
+as a quick
+
+update.
+
+A
+
+‘must’
+2.
+.
+
+WICHT TN, HEINEG&~D DK, HASCAU VC: ProteogIycans:
+ture and Function.
+In CeN Biology
+o/‘ Extracellular
+
+Edited by Hay ED. New York:
+Plenum
+This review discusses
+the StNCNre
+and function
+PGs. Emphasis
+is on tissue location
+and strucNre
+function.
+There are several excellent
+illustrations
+
+3.
+.
+
+HASCAU
+
+Metabolism
+
+VC,
+
+Struc-
+
+MaIrk
+Press; 1991:45-78.
+of selected classes of
+of PC& as related to
+as part of this review.
+
+HE~NEGARD DK, WICHT
+and Pathology.
+In Cell
+
+TN:
+
+ProteogIycans:
+
+Biolo@r
+o/ f3iraceC
+l&r
+Man-is
+Edited
+by Hay ED. New York:
+Plenun
+Press;
+14’t175.
+This review summarizes
+current
+concepts
+and problems
+concerning
+biosynthesis,
+catabolism
+and pathology
+of PGs. Excellent
+diagrams
+and
+illustrations
+facilitate
+the understanding
+of some of the complexities
+associated
+with these topics.
+
+4.
+.
+
+HARDINGHAM TE, FOSANG AJ: Proteoglycans:
+Many Functions.
+FASEB J 1992, 6:861-870.
+
+Many
+
+Forms
+
+and
+
+A concise and well written
+summary
+that emphasizes
+the StruCNre
+of
+the diRerent domains of the core proteins
+of several PGs and how these
+domains
+influence
+PG function.
+
+5.
+KJEU.EN 1 L~NDAHL U: Proteoglycans
+Structures
+and Interdc..
+tions. Annu
+Reu Biocbem
+1991, 60:44w75.
+A comprehensive,
+detailed and up-to-date
+account
+of how the StNCNre
+of the GAG chains and the core proteins
+of PGs influence
+the binding
+capacity and function
+of these molecules.
+The authors give considerable
+attention
+to the importance
+of the GAG chains in defining
+the interdction of the PGs and this coverage
+is often lacking in other reviews. An
+extensive
+bibliography
+is included.
+6.
+..
+
+JACKSON RL, BUSCH SJ. CARDIN AD: Glycosaminoglycans:
+Molecular
+Properties,
+Protein
+Interactions
+and Role
+Physiological
+Processes.
+Plysiol
+Ret’ 1991. 71:481-539.
+
+in
+
+A detailed and thorough
+up-to-date
+summav
+of evidence
+indicates that
+a key biological
+property
+of PGs is their ability to form specilic associations with critical molecules
+involved
+in several biological
+processes.
+More than 550 references
+are cited and this review is an excellent
+resource for those investigators
+interested
+in PG interactions.
+
+7.
+..
+
+JALKANEN M, J-EN
+lti
+Molecules
+by
+
+S, BERNFIELD M: Binding
+CeII Surface
+Proteoglycans.
+
+of
+
+ExtracelIn Biology
+
+of E~1racdiuk.v
+Matrix:
+Rectpors
+$or Ektracellrtkzr
+Alaltix.
+Orlando:
+Academic
+Press; 1991: l-37.
+An excellent
+current
+account
+of cell surface
+PGs that function
+either
+as ECM receptors
+or as growth
+factor receptors.
+Considenble
+attention is given to the concept
+that several different
+cell surface PGs share
+StrucN~
+features
+that implicate
+these mOkculeS
+in SignaUing ever&s
+associated
+with specilic Ugand interactions.
+Consideration
+is also given
+to evidence
+that indicates
+individual
+classes of PGs undergo
+StnIcNti
+modifications
+during
+morphogenic
+events, which may lead to altered
+PG function.
+
+8.
+RUOSLAHn E, YAMAGUCHI Y: Proteoglycans
+as Modulators
+.
+Growth
+Factor Activities.
+Cell 1991, 64:867-869.
+A short review that stresses the importance
+of PG interactions
+growth
+factors
+as potential
+in several different
+systems.
+
+regulators
+
+of the gro&
+
+of specific
+
+of
+v+ith
+cells
+
+9.
+
+AKNAMA SK, NAGATA K, YA!.~A
+KM: CeII Surface
+Receptors
+for ExtraceUular
+Matrix
+Components.
+Biodim
+Rio&a
+Acla
+1990, 1031:91-110.
+
+10.
+
+WOODS
+
+11.
+
+A, COUCHMAN JR, JOHN~ZN
+S, HOOK M: Adhesion
+and Cytoskeleton
+Organization
+of Fibroblasts
+in Response
+to Fibronectin
+Fragments.
+EMBO J 1986. 5:66=70.
+LEBARON RG, ESKO JD, WEEDS
+
+sion of GlycosamInogIycan
+Ovary CelI Mutants
+to Fibronectln
+106:94>952.
+12.
+.
+
+S, HOOK M: AdheDeficient
+Chinese
+Hamster
+Substrata
+J Cell Biol1988,
+
+13.
+..
+
+LEPPA S, MALI M. MIE-ITINEN
+
+pression
+Regulates
+Mammary
+EpitheIiaI
+1992. 89:932-936.
+
+M: Syndecan
+Exand Growth
+of Mouse
+
+HIM. JAU~ANEN
+
+CeU Morphology
+Tumor
+CeIIs.
+
+Pros
+
+Nat/
+
+Acad
+
+Sci USA
+
+One of a few recent studies
+that uses gene transfer
+technok>m
+to
+demonstrate
+the involvement
+of a particular
+PG in the regulation
+of
+cell phenoQpe
+and growth
+characteristics.
+Such an approach
+is one of
+the most convincing
+ways to implicate PGs directb
+in regulating
+cellular
+events.
+
+BROU;~ TA, BOLICHAKD T. ST. JOHN T, WA\?XR E. CARTER WG:
+Human
+Keratinocytes
+Express
+a New CD44 Core Protein
+(CD44E)
+as a Heparan
+SuIfate Intrinsic
+Proteoglycan
+with
+Additional
+Exons. J Cell Biol 1991, 113:X-221.
+A thorough
+study. which demonstrates
+that CD+i is a polymorphic
+fam
+11.
+
+. .
+
+ily of related membrane
+PGs and glycoproteins
+possessing
+extensive
+diversity in both glyco.sylation
+and core protein sequence.
+An important
+aspect of this work is the demonstrdtion
+that some of this divers@’
+is
+generated
+by alternate splicing of the CD14 mRNA
+15.
+
+AR~IFFO A, STA~IENKOVIC 1, MELNICK
+8: CD44
+is the
+Principle
+CeU
+
+Hyaluronate.
+16.
+.
+
+17.
+.
+
+M.
+
+I’NDEKHIII.
+
+Surface
+
+CB.
+
+S~XD
+
+Receptor
+
+for
+
+Cell 1990, 61:1303-1313.
+
+TOOLE B: Proteoglycans
+and Hyaluronan
+in Morphogenesis
+and Differentiation.
+In CeN Biology of E.~tracellrdur
+~Ilrrlri\:
+
+Edited bv Hay E. New York:
+An excellent
+&ew
+of the importance
+lating the behavior
+and differentiation
+DAHUN
+
+KJ,
+
+Plenum
+Press; 1991:305-341.
+of PGs and hyaluronan
+in reflof cells. Pleasant to rt-Id.
+
+NISHIYA~IA
+
+A.
+
+WB: The
+Spanning
+
+Primary
+Structure
+of NG2, a Novel
+Membrane
+Proteoglycan.
+J Cell Biol 1991, 114:359-371.
+
+PRINCE JT,
+
+JOHSTONE
+
+SR. STAII.CIIP
+
+Complete
+sequence
+of a cell surface PG. NG2, from rat neural cell lines
+has been deduced
+from cDNA clones. This newly cloned PG contains
+a different
+c>qoplasmic
+domain
+from other membrane
+PGs and is thus
+considered
+novel. Comparison
+of amino.terminal
+sequences
+shows that
+a PG previous$
+characterized
+as the human melanoma
+PG is the human homologue
+of this PG. Sequence
+infon-nation
+will be valuable
+in
+fUNre studies designed
+to investigate
+the role of this PG in both human
+melanoma
+and neuronal
+function.
+18.
+
+.
+
+ORTEGA-BARRLA E. PEKEIRA EA A Novel r cruzi Heparin-binding Protein
+Promotes
+Fibroblast
+Adhesion
+of Engineered
+Bacteria
+and Trypanosomes
+into Mammalian
+Cells. Cell 1991,
+
+67:il l--121.
+One of the tirst studies to demonstrate
+that a unique protein
+on the
+surface of pansites
+interacts
+a-ith HSPGs on the surface of mammalian
+cells. An important
+contribution
+that addresses
+a new role for cell surface PGs.
+
+19.
+.
+
+PAIXAKE
+
+SJ, HOLT GD. IMEUO~~K S, HoFFIWN
+
+51.: Malaria SporoProteins
+Bind Specifically
+to
+.I Cell Biol 1992. 117:1351-1357.
+
+zoites
+and Circumsporozoite
+Sulfated
+Glycoconjugates.
+
+Demonstrates
+that circumsporozoite
+proteins.
+which
+coat malaria
+sporozoites,
+contain
+sequences
+that specifically
+bind sulfidted glycoconjugates.
+Sporozoite
+invasion into hepatoc)$es
+could be inhibited
+b!
+heparin, suggesting
+that parasitic
+infection
+may depend on PGs. These
+obsen;ations
+have significant
+clinical relevance
+and lay the foundation
+for important
+additional
+studies to determine
+the speciticitv
+of such interactions
+and for additional
+approaches
+for limiting parasitic
+infection
+by targeting development
+of novel vaccines
+and drugs.
+20.
+.
+
+A, JOHN%~N
+
+DRAKE SL, KLEM DJ, MICKEISON DJ, OEGE~IA TR. FL~RCHT LT,
+JB: CeU Surface
+Phosphatldylinositol-anchored
+Heparan
+Sulfate
+Proteoglycan
+Initiates
+Mouse
+Melanoma
+CeU Adbesion
+to a Fibronectin
+Derived
+Heparin-binding
+Synthetic
+Peptide. J Cell Biol 1992, 117:1331-1341.
+
+MCCARTHY
+
+The importance
+of this paper lies in the demonstration
+that melanoma
+cells adhere to the heparimbinding
+domain
+of tibronectin
+by at lest
+two mechanisms
+one that involves
+a phosphatidylinositol-linked
+HSPG while the other involves
+non-RGD-dependent
+integrin (a-iBl ).
+
+SHIE~I M-T,
+
+W~IDUNN
+
+CeU Surface
+aran Sulfate
+
+D. MONTCOMEK~
+
+Receptors
+for
+Proteoglycans.
+
+RI, ESKO JD, SI+AH
+
+PG:
+
+Herpes
+Simplex
+Virus Are Hep.I Cell Biol 1992, 116:12731281.
+
+Taking advantage of cell mutants defective
+in HSPG synthesis.
+these investigators
+demonstrated
+that high efficiency
+HSV infection
+is speci6tally dependent
+on the presence
+of HSPG. As with [ 18.1 and [19*].
+these obsewtions
+have tremendous
+clinical
+rele\mce.
+The importance of PG in the infectivity
+of cells by micro-organisms
+constirutes
+a new and exciting
+ared of biomedical
+research.
+21.
+.
+
+NOONAN
+
+DM.
+
+M. YM~,V)A
+
+Ft1~
+
+Y, HAssEu
+
+4
+
+V..ut?n%
+
+JR: The
+
+P, CAI S, HORICAN
+
+Complete
+
+Sequence
+
+E, SA%XI
+
+of Per-
+
+Proteoglycans
+lecan, a Basement
+Membrane
+Reveals
+Extensive
+Similarity
+Density
+Lipoprotein-receptor
+sion Molecule.
+J Biol Chem
+See [23*].
+22.
+
+MURDOCH
+
+AD,
+
+DODGE
+
+in cell adhesion,
+
+Heparan
+Sulfate Roteoglycan,
+with
+Laminin
+A-Chain,
+Low
+and the Neural
+CeU Adhe1991, 266:2293&22947.
+
+GR, COHEN
+
+1. THAN
+
+RS, lozzo
+
+migration
+
+RV: PI-I-
+
+mat-y Structure
+of the Human Heparan
+Sulfate Proteoglycan
+from Basement
+Membrane
+(HSPG Z/Perlecan):
+A Chimeric
+Molecule
+with Multiple
+Domains
+Homologous
+to the Low
+Density
+Lipoprotein
+Receptor,
+Laminin,
+Neural
+Cell Adhesion Molecules
+and Epidermal
+Growth
+Factor. J Biol Cbem
+1992, 267:8544-8557.
+See [23*].
+KALLUNKI P. TRYGGVA.SON K: Human
+Basement
+Membrane
+Heparan
+Sulfate
+ProteogIycan
+Core
+Protein:
+A 467-kD
+Protein
+Containing
+Multiple
+Domains
+Resembling
+Elements
+of the Low Density
+Lipoprotein
+Receptor,
+Laminin,
+Neural
+Cell Adhesion
+Molecules
+and Epidermal
+Growth
+Factor. J
+Cell Biol 1992, 116:55‘+571.
+These papers [21*-23.1
+an*e
+the deduced
+amino acid sequences
+from cDNA clones of the extremely
+large core protein of the basement
+membrane
+HSPG, termed perlecan or HSPGZ. These ‘Herculean’
+efforts
+reveal that this large protein contains
+multiple
+domains
+capable of a
+variety of interactions.
+An understanding
+of the structure
+of perlecan
+will help our understanding
+of the role of this PG in matrix assembly
+as well as in possibly
+regulating
+cell adhesion and migration.
+B, SEGLIIXEAL
+
+B, HA..EL
+
+JR, MARTIN
+
+GR, AND YAMADA
+
+Y: ldentilication
+of a Cell Surface-binding
+Core Protein
+of tbe Basement
+Membrane
+Biol C%em 1989, 264:12467-12471.
+
+Protein
+for
+Proteoglycan.
+
+the
+
+~ANKES W, FURTHMAYR H: Moesin:
+a Member
+of the Protein
+4.1- talin-ezrin
+Family of Proteins.
+Proc Null Acad Sci USA
+1991, 88:8297-8301.
+The cloning and sequencing
+of this heparin-binding
+protein reveals an
+absence of a signaIling and transmembrane
+domain and a homology
+to
+other proteins
+thought to function
+intracellularly
+fo link the cytoskeleton to the plasma membrane.
+L~wwww
+
+K, CHOI
+
+HU.
+
+ROSENBERG LC, SASSE J, NEA~~E PJ,
+
+CULP IA: Extracellular
+Matrix
+Adhesion-promoting
+Activities of a Dermatan
+Sulfate Roteoglycan-associated
+Protein
+(22K)
+from Bovine
+Fetal Skin. J Cell Sci 1991, 99:657a.
+A 22kD protein isolated from bovine skin, which co-purifies
+with a
+DSPG, is shown to promote
+the adhesion of fibroblasts.
+The interaction
+of these two molecules
+eliminates
+the adhesive properties
+of the 22 kD
+protein. This is a classic example
+of a PG modifying
+the activity of an
+adhesive &and.
+.
+
+27.
+.
+
+WINNEMOUER M, SCHMIDT G, KRESSE H: lntluence
+of Decorin
+on Fibroblast
+Adhesion
+to Fibronectin.
+Euu,- J Cell Biol 1991,
+54:1&17.
+Further proof that a small interstitial
+DSPG can interfere with cell adhesion by binding fo adhesive ligands such as fibronectin.
+This paper is
+particularly
+instructive
+regarding
+the need fo use caution in preparing
+the PG for these types of studies.
+28.
+
+YAMACATA
+
+M, SUZUKI
+
+S, AK~‘AMA
+
+Regulation
+of Cell-substrate
+Immobilized
+on Extracellular
+264:8012-8018.
+29,
+
+MURPHY-UUXKH
+
+Focal Adhesions
+109:13oe1319.
+30.
+
+JE,
+in
+
+S. Y~hu\~n
+
+Adhesion
+Substrates.
+
+KM,
+
+SAUZ~~~TA M, ELENI~S K, VAINIO
+EHIUSMANN, THESWFF
+I, JAIXANEN
+
+KI,MATA K:
+
+by Roteoglycans
+J Biol Chem 1989,
+
+S, HOFER
+M: Syndecan
+
+Modulates
+Biol 1989.
+U,
+
+CHIQUET-
+
+Embryonic
+Tooth
+Mesenchyme
+Binds Tenascin.
+Ckm
+1991, 266:773>7739.
+An imponant
+obsenation,
+which reveals that syndecan
+isolated from
+mesenchyme
+differs in snucmre
+from syndecan
+isolated from epithelia.
+These structural
+differences
+contribute
+to differences
+in the ability of
+this molecule
+fo bind tenascin. An excellent
+example
+of post-tnnslational modiication
+contributing
+to differences
+in the functional
+properties of a PG.
+
+..
+
+from
+J Biol
+
+799
+
+33.
+
+FAA~SEN AE, SCHRAGER JA, KLEIN DJ, OEGEMA
+McC~~nrv
+JB: A CeU Surface Chondroitin
+
+TR, Couwhw
+
+JR,
+
+Sulate Roteoglycan, ImmunologicaUy
+Related to CD44 Is Involved
+In w
+1 Collagen-mediated
+Melanoma
+CeU Motility
+and Invasion.
+J Cell Biol 1992, 116:521-531.
+Conlirms
+recent work suggesting
+CD44-related
+antigens may bear chondroitin sulfate chains and serve as matrix receptors
+by binding collagen.
+Moreover,
+inhibition
+of melanoma
+cell invasion of type I collagen gels
+was inhibited
+by treatments
+that remove the chondroitin
+sulfate, sug
+gesting that this moiety may be required
+to confer metastatic
+potential.
+
+34.
+..
+
+G~NIHERT
+H~usshv.~~
+
+U, HoF,~
+I, MA-IZKU
+
+M, RUDY W, REBER S. ZOUER
+S, WENZEL A, PONTA P, HERRIJCH
+
+M,
+P:
+
+A New Variant
+of Glycoprotein
+CD44
+Confers
+Metastatic
+Potential
+to Rat Carcinoma
+Cells. Cell 1991, 65:13-24.
+Perhaps
+one of the most compelling
+studies
+implicating
+a specific
+molecule
+in a causal way in the regulation
+of tumor metastasis.
+Although the mechanism
+by which this spliced variant of CD44 exerrs
+it5 effect is unclear,
+these studies highlight
+the need to explore
+this
+experimental
+system.
+ELENIUS K, VAINIO
+
+S, LAATo
+
+M, SALMMRTA
+
+M, THESLEFF
+
+1:
+
+ln-
+
+duced
+Expression
+of Syndecan
+in Healing
+Wounds.
+J Cell
+Biol 1991, 144:585-595.
+An important
+study that associates increased
+syndecan expression
+with
+the migntion
+and proliferation
+of epithelial cells during wound
+healing. This study also notes that expression
+of syndecan
+occurs, apparently transiently,
+in endothellal
+cells in growing capillaries
+of granulation
+tissue.
+.
+
+BRITIX PA, CANNING DR, SILVER J: Chondroitin
+Sulfate as a
+Regulator
+of Neuronal
+Patterning
+in the Retina.
+Science
+1992, 255~733736.
+This exciting study provides important
+new evidence that the temporally
+regulated patterning
+of CSPG can serve to control
+the onset of retinal
+ganglion cell differentiation
+and direct initial axonal outgrowth.
+Clear
+evidence
+is presented
+to show that disruption
+of the endogenous
+patfern of CSPG deposition
+results in ectopic ganglion ceU differentiation
+and disorganization
+of axonal outgrowth.
+36.
+. .
+
+37.
+
+FERRIS R, KROTOSKI
+BRONNER-FRASER M:
+
+D.
+
+tiER
+
+T,
+
+DOMINGO
+
+c,
+
+%RRELL
+
+M,
+
+Spatial and Temporal
+Changes
+in the
+Distribution
+of Roteoglycans
+During
+Avian Neural
+Crest
+Development.
+DeL’elopmenl
+1991, 111:583-599.
+This study describes,
+by histochemical
+and immunochemical
+means,
+changes in distribution
+of hyaluronan
+and families of PGs during neu.
+ral crest migration
+and gangliogenesis.
+Most interestingly,
+of the several
+general distributions
+recognized
+for dierent
+PG,families,
+subsets of 6sulfated and unsulfated
+CSPGs were found to be present in prospective
+neural crest migratory
+pathways,
+prior to appearance
+of the cells, and in
+areas from which these cells are excluded.
+This observation
+supports
+a general role of these currently
+incompletely
+characterized
+CSPGs in
+directing
+ceU migration
+via exclusion
+mechanisms.
+.
+
+A, VERNA JM, OIJVARES J, SAXOD R: lnvolvement
+of a
+Chondroitin
+Sulfate Roteoglycan
+in the Avoidance
+of Chick
+Epidermis
+by Dorsal
+Root Ganglia
+Firs:
+a Study Using po-xyloside.
+Dell Biol 1991, l&:1-9.
+This SNdy uses an interesting
+co.culmre
+system to explore
+the phe
+nomenon
+of exclusion
+of contact
+between
+elongating
+neurltes
+and
+epidermal
+cells. The experiments
+implicate soluble chondroitin
+sulfate
+chains, which are borne on a yet unidentified
+CSPG and synthesized
+by
+epidermal
+cells, in forming a barrier preventing
+innenation
+by CUlNred
+dorsal root ganglia.
+
+38.
+.
+
+HOOK M: Tbrombospondin
+Endothelial
+Cells. J Cell
+
+Qwarnstrdm
+
+KINSEUA MG, WIGHT TN: Modulation
+of Sulfate Roteoglycan Synthesis
+by Bovine
+Aortic
+Endothelial
+Cells during
+Migration.
+J Cell Biol 1986, 102:67%6%7.
+
+35.
+J
+
+25.
+.
+
+26.
+
+Kinseila,
+
+32.
+
+.
+
+23.
+.
+
+CLEMENT
+
+Wight,
+
+SAGE EH, BORNSTEIN P: Extracellular
+Proteins
+that Modulate
+31.
+..
+Cell-matrix
+Interactions.
+J Biol cbem 1991, 266:14831-14834,
+An excellent,
+concise,
+but thorough
+review of the major glycoprotelns
+that influence
+adhesion
+and migration.
+Although
+this review does not
+consider
+PGs, it is still worth reading!
+
+.
+
+24.
+
+and proliferation
+
+FICHAKD
+
+A, MA-I-XII F, KATOH-SEMBA R Inhibitory
+Effects
+of
+Brain Chondroitin
+Sulfate Roteoglycans
+on Neurite
+Outgrowth
+from PC 12D Cells. J Newosci
+1991, 11:822-827.
+The experiments
+reported
+in this study indicate that brain CSPGs may
+inlluence neurite outgrowth
+by the mechanism
+of inhibition
+of elonga-
+
+39.
+.
+
+OOHIRA
+
+800
+
+Cell-to-cell
+
+contact
+
+and extracellular
+
+matrix
+
+tion. Unlike other work suggesting
+that similar inhibit&y
+activity is as.
+sociated with chondroitin
+sulfate chains, this work found isolated core
+proteins
+from brain CSPCs to be effective
+inhibitors
+in their system,
+and chondroitin
+chains and cartilage CSPG to be ineffective.
+
+factors
+(IL-2) are not inactivated
+by heparin. This paper indicates
+that
+suppression
+of cell proliferation
+by heparln and HS must involve multi.
+ple mechanisms
+that depend on the nature of the mitogen and the ceU
+type studied.
+
+40.
+.
+
+EDEIBERG M, WEISSIER M, PLZZO SV: Kinetic
+Analysis
+of
+the Effects
+of Glycosaminoglycans
+and Lipoproteins
+on
+Urokinase-mediated
+Plasminogen
+Activation.
+Biocben~
+J
+1991, 276~785-791.
+These
+kinetic
+studies
+indicate
+that heparin,
+heparan
+sulfate
+and
+chondroitin-6-sulfate
+all increase
+the catalytic
+rate of the activation
+of
+plasminogen
+by urokinase,
+which may be involved
+in migration-related
+proteolytic
+events at the cell surface.
+This work provides,
+indirectly,
+an
+explanation
+for the mechanism
+by which PGs might influence
+cell migration.
+
+47.
+.
+
+FAGER G, CAMEJO G. BONDJER~ G: Heparin-like
+Glycosaminoglycans
+Influence
+Growth
+and Phenotype
+of Human Arterial
+Smooth
+Muscle
+CeUs in Vitro
+I. Evidence
+for Reversible
+Biding
+and Inactivation
+of the Platelet-derived
+Growth
+Factor by Heparin
+In Vitro. Cell Dal Biol1992,
+2&l&-175.
+This paper presents
+indirect
+evidence that heparin blocks PDGF-stimu.
+lated proliferation
+of human arterial smooth
+muscle cells by binding to
+and inactivating
+serum mitogens.
+Other studies using different
+sources
+of arterial smooth
+muscle
+cells indicate
+that heparin
+has no effect on
+PDGF binding to its receptor.
+These differences
+need to be reconciled.
+
+41.
+.
+
+48.
+.
+
+H~NEK 4 Boyle J, RABINOVITCH M: Vascular
+Smooth
+Muscle
+Detatchment
+from
+Elastin
+and Migration
+through
+Elastin
+Laminae
+is Promoted
+by Chondroitin
+Sulfate Shedding
+of
+the 67KD
+Cell Surface
+Elastin-binding
+Protein.
+Exp cell Res
+1992, in press.
+The ability of fetal smooth
+muscle cells to penetrate
+an elastin matrix
+scaffold in culture correlates
+with reduced
+expression
+of elastin receptor. The authors
+found that galactosaminoglycans
+promoted
+penetration of the elastin scaffold
+and speculate
+that secretion
+of CSPGs or
+DSPGs by migrating
+cells may allow shedding
+of the elastin receptor
+and enhance
+penetration
+of elastic laminae.
+42.
+.
+
+BOLJDREAU N, TURLF~ E, RABMOVrrCH
+M: Fibronectin,
+Hyaluronan and an Hyaluronan
+Binding
+Protein
+Contribute
+to Increased
+Ductus
+Arteriosus
+Smooth
+Muscle
+CeU Migration.
+Dew Biol 1991, 143:235-247.
+This study uses a collagen gel matrix to model migration
+of ductal cells
+and aortic fetal smooth
+muscle cells. Ductal cells specifically
+respond
+with increased
+migration
+after inclusion
+of hyaluronan
+in the gel. The
+increased
+migration
+of these cells in hyluronan-supplemented
+gels is
+blocked
+by antibodies
+against a cell surface
+hyaluronan-biding
+protein, suggesting
+an alternative
+set of receptor-matrix
+ligands may be
+operating
+in hyaluronan-specific
+migration
+events.
+
+WESTERGREN-THORSSON
+G, ONNERVIK
+P-0,
+FRANSSON L-4
+MAINSTROM A: Proliferation
+of Cultured
+Fibroblasts
+is Inhibited by L-iduronate-containing
+Glycosaminoglycans.
+/ CeN
+f/+-id
+1991, 147:523530.
+A careful comparison
+of the effect of different GAGS on the inhibition
+of
+proliferation
+of human lung libroblasts.
+The authors conclude
+that GAG
+structure
+(i.e. sulfation
+and percentage
+iduronate)
+and plating density
+are determining
+factors
+for this anti.proliferative
+activity.
+49.
+
+FEDARKO NS, CONRAD HE: A Unique
+Heparan
+Sulfate in the
+Nuclei of Hepatocytes:
+Structural
+Changes
+with the Growth
+State of the CeU. J Cell Biol 1986, 102:587-599.
+
+50.
+
+ISHIHARA M,
+aran Sulfate
+Pbysicd 1989,
+
+CONRAD
+HE:
+Correlations
+Metabolism
+and Hepatoma
+138:467-176.
+
+between
+Growth.
+
+Hep-
+
+J Celf
+
+51.
+
+WRIGHT TC, PUKAC IA, CASIIZLLOT JJ, KARNO~~KY MJ, LEVINE RA
+ffihl-P.w(
+HY, CA~~PISI J: Heparin
+Suppresses
+the Induction
+of
+c-fos and c-myc mRNA in Murine
+Fibroblasts
+by Selective
+Inhibition
+of a Protein
+Kinase C Dependent
+Pathway.
+Proc
+Nafl Acud Sci USA 1989, 86:3199-3203.
+
+52.
+
+PUKAC L4, CASTELIOT JJ. WRIGHT
+TC, CALEB BL, KARNOVSKV
+MJ: Heparin
+Inhibits
+c-fos and c-myc Expression
+in Vascular
+Smooth
+Muscle
+Cells. Cell Regul 1990, 1:435-%43.
+
+43.
+..
+
+Tuw?f
+EA, ALISTEN I VANDEUGT
+K, CHARY C: Hyaluronan
+and a Cell-associated
+Hyaluronan
+Binding
+Protein
+Regulate the Locomotion
+of Ras-transformed
+Cells. / Cell Biol
+1991, 104-1047.
+Using Ras-transformed
+cells, driven
+by a Zn*+inducible
+metallo.
+thionein
+promoter,
+the authors
+have conlirmed
+that the transient,
+dramatic
+stimulation
+of ceU locomotion
+after ru.s gene induction
+is
+accompanied
+by a burst of hyaluronan
+synthesis.
+Additionally,
+promotion
+of ras gene expression
+induces
+the synthesis
+of a complex
+of hyluronan-binding
+proteins,
+upon which
+the ceUs are dependent
+for locomotion
+during an initial early phase of hyzluronan-dependent
+rapid migration.
+
+M, CARDIN
+BLI~CH SJ, MAnN
+GA
+BARNF~IWT RL, MANO
+AD, JACOON
+RL Trans.repressor
+Activity
+of Nuclear
+Glycosaminoglycans
+on Fos and Jun/AP-I
+Oncoprotein-mediated Transcription.
+J Cell Biol 1992, 116:311/2.
+A provocative
+study that uses transient
+transfections
+and DNA-binding
+assays to demonstrate
+that heparin blocks AP-l-mediated
+gene expres
+sion by forming
+a complex
+with Fos-Jun/Al-1
+transcription
+factor. Such
+observations
+have important
+implications
+for the role of GAGS in differentiation
+and support
+the hypothesis
+that matrix molecules
+may reg
+ulate gene activity at nuclear sites.
+
+44.
+.
+
+54.
+.
+
+HARDWICK C, HOARE K, OWENS R. HOHN HP, HOOK M, MOORE
+D, CR~PPS V, AUSTEN L, NANCE DM, TUWY
+EA:
+Molecular
+Cloning
+of a Novel
+Hyahuonan
+Receptor
+that Mediates
+Tumor
+Cell Motility.
+J Cell Biol 1992, 117:134>1350.
+This study describes
+the cloning of a novel hyaluronan-binding
+component, which is part of a Ras-induced
+complex
+of cell surface binding
+proteins
+involved in hyluronan-mediated
+motility. This protein, despite
+its ability to bind hyluronan,
+apparently
+does not contain
+a domain
+homologous
+to the hyaluronan-binding
+domain
+present
+in aggrecan,
+link protein, versican
+and CD44. The lack of a transmembrane
+domain
+Suggests that this molecule is associated
+with other ceU surface proteins.
+45.
+
+WIUGHT TC, C~LLOT
+JJ, KARNOVSKY MJ: Regulation
+lular Proliferation
+by Heparin
+and Heparan
+Sulfate.
+arim Edited by lane DA, Lindahl U. London:
+Edward
+1989295316.
+
+of CelIn Hep
+Arnold;
+
+KMJRA K, MATXJBARA H, S-H
+S. KITA Y, SAKATA T, NISHITANI
+Y, WATANABE S, HANAOKA T, FUJIWARA H: Role of Glycosaminoglycans
+in the Regulation
+of T Cell Proliferation
+Induced
+by Thymic
+Stromaderlved
+T-cell Growth
+Factor. / fmmunol
+1991, 146:261%2624.
+Many studies have indicated
+that the anti-proliferative
+effect of heparin
+is not due to the inactivation
+of a growth
+factor. This study argues that
+a stroma-derived
+T ceU growth
+factor binds to heparin
+and is inactivated. This effect appears
+to be specific
+because
+other T ceU growth
+
+53.
+..
+
+PRICE KH, CHOI HU, ROSENBERG 1 STANZEY ER: The Predominant
+Form
+of Secreted
+Colony
+Stimulating
+Factor-l
+is a
+Proteoglycan.
+J Biol C&em 1992, 267~2190-2199.
+Evidence
+that one of the monomeric
+subunits
+of CSF-1 contains
+a CS
+chain. One of the first mitogens
+to have been identified
+as a PG. The
+biological
+significance
+of CSF.1 as a PG needs to be established.
+An
+interesting
+discussion
+of why the higher molecular
+weight structure
+has
+not been recognized
+earlier is presented.
+55.
+
+56.
+
+46.
+.
+
+57.
+.
+
+GOREON
+MY, RIIXY GP, WA’IT
+of a Haematopoietic
+Growth
+cosaminoglycans
+in the Bone
+Nature
+1987, 326:403405.
+
+MF: Compartmentalization
+Factor
+(GM-CSF)
+by
+Marrow
+Microenvironment.
+
+Gly-
+
+ROBERTS R, GAUAGHER J, SPOONCER E, AUEN TD, BLOOMFIEID
+F, DEXTER TM: Heparan
+Sulfate
+Bound
+Growth
+Factors:
+a
+Mechanism
+for Stromal
+CeU Haemopoiesis.
+Nufure
+1988,
+332:376378.
+
+SAKAGLICHI K, YANAGISH~A M, TAKEUCHI Y, AURBACH GD: Identification
+of Heparan
+Sulfate Proteoglycans
+as a High Affinity
+Receptor
+for Acidic
+Fibroblast
+Growth
+Factor
+(aFGF)
+in a
+Parathyroid
+Cell Line. J Biol &em
+1991. 266:727&7278.
+Characterization
+of a parathyroid
+ceU 150 kD receptor
+for acidic FGF
+reveals that it bears a heparan sulfate chain that is critical for high-atfinity
+binding.
+These results indicate
+that ceU surface
+HSPGs dilfer in their
+
+Proteoglycans
+binding affinities for Merent
+growth
+factors
+of these differences
+needs to be elucidated,
+58.
+
+YAYON 4
+
+~GSBURN
+
+M, ESKO JD,
+
+although
+
+in cell adhesion,
+the signUicance
+
+LEDER P, ORNI?Z
+
+DM:
+
+CelJ
+
+Surface,
+Heparin-like
+Molecules
+Are Required
+for Biding
+of Basic Growth
+Factor to Its High A&dry
+Receptor.
+Cell
+1991. 64:841+48.
+H. SOKER S, VLODAVSKY I, NEUFEID G: The Binding of Vascular
+Endothelial
+Growth
+Factor
+to Its Receptors is Dependent
+on CeU Surface
+Associated
+Heparin-like
+Molecules.
+J Biol Uwm 1992, 267:609+-C&98.
+Another
+study that illustrates
+the importance
+of cell surface associated
+hepatin-like
+molecules
+in the binding
+of a growth
+factor to its highafTinity receptor.
+The potential
+significance
+of this interaction
+in the
+regulation
+of angiogenesis
+needs to be explored.
+
+59.
+.
+
+GTTA-GOREN
+
+60.
+.
+
+PRESTRELSKI SJ, FOX FM, ARAKAWA T: Binding
+of Heparin
+to
+Basic Fibroblast
+Growth
+Factor
+Induces
+a Conformational
+Change.
+Arch Bibem
+Bicp&
+1992, 293:314-319.
+This paper identifies highly reproducible
+and localized conformational
+changes in bFGF induced
+specifically
+by heparin
+through
+the use of
+infrared spectroscopy.
+Such changes suggest alterations
+in the number
+of @urns. It remains to be shown whether
+these alterations
+inlktence
+high-affinity
+binding of bFGF to its receptor.
+61.
+.
+
+AC, KRUFKA A, OLWIN BB: Requirement
+of Hep
+amrt Sulfate for bFGF-mediated
+Fibroblast
+Growth
+and Myoblast Differentiation.
+Science 1991, 252:1705-1798.
+Documentation
+that the presence
+of HSPG on the surface of cells is
+critical
+for bFGF binding
+and subsequent
+cellular
+activation.
+These
+studies illustrate the importance
+of cell surface HSPG in bFGF-directed
+skeletal muscle differentiation
+and proliferation
+of 3T3 cells. This system
+should allow identification
+of the specific HSPGs involved.
+62.
+
+RAF%EGER
+
+TURNBULL JE. FERNIG DG, KE Y, WIWNSON
+
+MC,
+
+GALLAGHER JT:
+
+Identification
+of the Basic Fibroblast
+Growth
+Factor Binding
+Sequence
+in Fibroblast
+Heparan
+Sulfate. J Biol C5em 1992,
+267:10337-10341,
+A valuable report on the characterization
+of the oiigosaccharide
+structure of HS required
+for binding
+to bFGF. This report indicates
+that
+specific binding sequences
+are present in segments
+of particular
+GAG
+chains. This may be another
+example
+in which particular
+sequences
+within polysaccharides
+interact with proteins such as previously
+demonstrated for the binding of hepdrin to antithrombin
+III.
+
+..
+
+63.
+
+64.
+
+CHEIFE~L S, MASSAGU~ J: Transforming
+Growth
+Factor-P
+(TGF-0)
+Receptor
+Proteoglycan.
+Cell Surface
+Expression
+and Ligand Binding
+in the Absence
+of Glycosaminoglycan
+Chains. J Biol Cbem 1989. 264:1202>12028.
+ANDKES JL. R~NNSIRAND
+
+L, CHEIFET%
+
+S, MASSAGUE J: Putica-
+
+tion of the Transforming
+Growth
+Factor -P(TGF-l3)
+Binding
+Proteoglycan
+p-glycan.
+J Biol Chem 1991, 266:23282-23287.
+Confirmation
+that p.glycan exists in tissue and has similar properties
+to
+the form identified on the surface of cultured
+cells.
+.
+
+ANDRES JL, DE FAKIS D, NODA M. MASSAGU~ J: Binding
+of
+Two Growth
+Factor
+Families
+to Separate
+Domains
+of the
+Proteoglycan
+Betaglycart.
+J Biol Cbem 1992. 267:5927-5930.
+The first demonstrdtion
+that two different
+growth
+factors can bind to
+the same PG by different mechanisms.
+These br vitro observations
+have
+implications
+regarding
+possible
+roles that the PG may play in the coordinate
+regulation
+of two growth
+factors (TGF-P and bFGF), which
+have frequently
+been shown to demonstrate
+antagonistic
+activities.
+
+65.
+.
+
+66
+
+VLODAVSK~
+
+I, BAR.%A\‘IT
+
+R, ISHAI.MICHAELI
+
+R, BASHKIN
+
+P, FUKS
+
+Z: Extracellular
+Sequestration
+and Release
+of Fibroblast
+Growth
+Factor: a Regulatory
+Mechanism.
+Trends Biochem
+Sci 1991, 16:26%271.
+An excellent
+minireview
+on the expanding
+area of interest concerning
+the interaction
+of growth factors with PGs present on the surface of
+cells and within the ECM.
+..
+
+67.
+
+S/UCSEIA 0,
+
+MOSCA~LLI
+
+Cell-derived
+
+Heparan
+
+Endothelial
+Fibroblast
+Growth
+
+D. S~M~IER A, RIFKIN DB:
+
+Sulfate
+
+Binds
+
+Basic
+
+migration
+
+and proliferation
+
+Wight,
+
+Factor
+and Protects
+it from
+Biol 1988, 197:743751.
+
+Kinsella,
+
+Proteolytic
+
+Qwarnstrijm
+
+Degradation.
+
+801
+
+J Celf
+
+68.
+.
+
+BRIJNNER
+
+G, GABRILOVE J. R~FKIN DB, WILSON ET: PhosphoUpase C Release of Basic Fibroblast
+Growth
+Factor
+from
+Human Bone Marrow
+Cultures
+as a Biologically
+Active Complex with a Phosphatidylinositol-anchored
+Heparan
+Sulfate
+Roteoglycan.
+J Cell Biol 1991, 114:127>1283.
+One of a number
+of recent papers demonstrating
+that PGs can associate with the surface of some cells via a phosphotidylinositol
+anchor
+in the plasma membrane.
+This phosphatidylinositolassociated
+HSPG
+binds bFGF and this complex
+can be released as a biologically
+active
+form by phospholipase
+C. This mechanism,
+together
+with the proteolytic cascade of plasminogen
+activation
+and plasmin ECM degradation,
+may generate bFGF-HSPG
+bioactive
+complexes
+and explain regulated
+control of growth factor release from the ECM.
+69.
+
+Rt~tu~ DB, MOSCATEUI: Recent
+Developments
+in the CeU
+Biology
+of Basic Fibroblast
+Growth
+Factor. J Cell Biol 1989,
+109+6.
+
+70.
+
+FOU(MAN J, KL4GSBURN M: Angiogenic
+235:442A47.
+
+71.
+
+YAMAGUCHI
+
+Y,
+
+MANN
+
+DM,
+
+Factors.
+
+Ruoxwn
+
+tion of Transforming
+Growth
+Factor-b
+Decorin.
+Nafure
+1990, 346:281-284.
+72.
+
+VAtNO
+
+.
+
+BERNFIEID
+
+73.
+
+SCHONHERR
+
+Science
+
+1987,
+
+Negative
+Regulaby the Proteoglycan
+
+E:
+
+S, JALKANE N M, VAAHTOKARI 4 SAHIBERG C, MAP M,
+M, THESLEW 1: Expression
+of Syndecan
+Gene is
+Induced
+Early, is Transient,
+and Correlates
+with Changes
+in Mesenchymal
+CeU Proliferation
+during
+Tooth
+Organogenesis.
+Dev Bill 1991, 147:322-333.
+An important
+study because
+it confirms
+the transient
+expression
+in
+mesenchymal
+cells of a cell surface PG that was once thought
+to be
+restricted
+to the surface of epithelial cells. The significance
+of selective
+syndecan expression
+in the proliferative
+process needs to be explored.
+E, J&VEL&INEN
+
+HT,
+
+SANDEU
+
+LJ, WIGHI’
+
+TN:
+
+Ef-
+
+fects of Platelet-derived
+Growth
+Factor
+and Transforming
+Growth
+Factor-p1
+on the Synthesis
+of a Large Versicanlike Chondroitin
+Sulfate Roteoglycan
+by Arterial
+Smooth
+Muscle
+Cells. J Biol Ckn
+1991, 266:17640-17647.
+Demonstrates
+that two growth factors with opposite
+mitogenic
+activity
+cause significant
+increases in mRNA transcripts
+for versican. However,
+only the mitogen alters the sulfation
+pattern of the CS chain. These
+post-translational
+modifications
+may be characteristic
+of the proliferative
+phenotype.
+
+.
+
+S, BRAUN KR, SCHONHERR E, WIGM
+TN: Inhibition
+of CeU Proliferation
+by P-D-xyloside
+Can be Dissociated
+from Altered
+Proteoglycan
+Synthesis
+via the False
+Acceptor
+Pathway.
+Arch Biophy
+Bicx-hn
+1992, 297:101-109.
+This study addresses the question of whether
+altered PG synthesis
+influences the capacity of cells to proliferate.
+The main conclusion
+is that
+the inhibitory
+effects of some xylosides
+on ceU proliferation
+must be
+due to effects other than altered PG synthesis
+via the false acceptor
+pathway.
+
+74.
+.
+
+POTIER-PERIGO
+
+Questioning
+the Reliability
+of p-nitrophenylp- D-xyloside
+as Probe to Study the Metabolic
+Effects of Abrogated
+Roteoglycan
+Synthesis
+in Cultured
+Cells. Biodem
+Pbarmacol
+1991, 42:1987-1995.
+A study that raises the possibility
+that some of the biological
+effects of
+P.o.xyloside
+on cells and tissues are not due to the direct effect of xyloside on PG synthesis but rather to the aglycone derivative
+p-nitrophenol
+attached to b-o-xyloside.
+Such observations
+stress the importance
+of USing diierently
+detivated
+b-xylosides
+and appropriate
+controls
+to CO~~ITII
+the importance
+of altered PG synthesis in biological
+events such as proliferation.
+75.
+.
+
+GRESSNER AM:
+
+TN Wight, MG Kin&la
+and
+ogy, University
+of Washington,
+98195, USA
+
+E QwznstrBm,
+Department
+of PatholSchool of Medicine, Seattle, Washington
+
+

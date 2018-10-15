@@ -1,0 +1,1379 @@
+Detection of a New Mutation in the f#-Myosin Heavy Chain Gene
+in an Individual with Hypertrophic Cardiomyopathy
+Ali J. Marian, Qun-Tao Yu, Adolph Mares, Jr., Rita Hill, Robert Roberts, and M. Benjamin Perryman*
+Section of Cardiology, Department of Medicine, Baylor College of Medicine, Houston, Texas 77030; and *Section of Cardiology,
+Department of Medicine, University of Colorado, Denver, Colorado 80262
+
+Abstract
+Familial hypertrophic cardiomyopathy (FHCM) is an autosomal dominant disease affecting primarily the myocardium. The
+gene responsible for FHCM has been localized to chromosome
+14 in some families and several mutations have been described
+in the #-myosin heavy chain (ftMHC), a candidate gene for the
+disease. We recently identified a family with HCM in whom we
+did not detect any of the known mutations in the ftMHC gene
+(the a/i#MHC hybrid gene and the missense mutation in exons
+13 and 9). However, we did observe a novel 9.5-kb BamHI
+restriction fragment length polymorphism detected by a
+,6MHC probe on Southern blots of DNA from the proband of
+this family. Similarly, a novel 3.8-kb TaqI polymorphism and a
+novel 4.3-kb HindI1 polymorphism were detected on Southern
+blots of DNA from the same proband. Polymerase chain reaction (PCR) was used to amplify the segment of the ,MHC that
+was detected by pSC14 probe. PCR amplification of the distal
+3'-end of the i6MHC gene yielded an additional product in the
+DNA template from the proband which was subsequently
+cloned and sequenced. The sequence analysis showed a 2.4-kb
+nucleotide deletion involving one allele of the ,6MHC gene. The
+deletion includes part of the intron 39, exon 40 including the
+3'-untranslated region and the polyadenylation signal, and part
+of the fl-aMHC intergenic region. This deletion was inherited
+in Mendelian fashion in an additional three members of this
+small family of which only the proband has developed clinically
+diagnosed HCM at a very late onset (age 59 yr), the other three
+family members are younger and have not developed the disease at the ages of 10, 32, and 33 yr. (J. Clin. Invest. 1992.
+90:2156-2165.) Key words: deletion* polymerase chain reaction * restriction fragment length polymorphism * Southern blot
+
+Introduction
+Familial hypertrophic cardiomyopathy (FHCM)' is an autosomal dominant disease that affects primarily the myocardium,
+resulting in inappropriate growth and hypertrophy. While it is
+a cause of heart failure later in life, in the young it is a common
+requests to Dr.
+
+Roberts, Section of Cardiology, 6535
+
+Address reprint
+Fannin, F905, Houston, TX 77030.
+Receivedfor publication 20 December 1991 and in revisedform I
+July 1992.
+
+1. Abbreviations used in this paper: FHCM, familial hypertrophic
+BMHC, ,B-myosin heavy chain; RFLP restriction fragment length polymorphism; RT PCR, reverse transcription polymerase chain reaction.
+J. Clin. Invest.
+© The American Society for Clinical Investigation, Inc.
+
+0021-9738/92/12/2156/10 $2.00
+Volume 90, December 1992, 2156-2165
+2156
+
+Marian et al.
+
+cause of sudden death and is the most common cause in young
+athletes (1). The pathological, hemodynamic, and clinical
+manifestations of HCM have been studied extensively for decades (2). The myriad of manifestations reflective of diverse
+pathophysiology include asymmetrical and concentric hypertrophy, decreased myocardial compliance, and outflow tract
+obstruction. HCM represents a paradigm ofcardiac pathophysiology and elucidation of its molecular basis should provide
+information fundamental to our understanding of the biology
+and pathology of the myocardium. The gene responsible for
+FHCM has been localized in some families to chromosome 14
+(3-6), and the f3-myosin heavy chain (i3MHC) gene has been
+identified as the candidate gene for this disease (3-5). Three
+mutations in #MHC gene in two families with FHCM have
+been described. The first, an a/f3 cardiac myosin hybrid gene
+described by Tanigawa et al. (7) occurred in all affected
+members of a single family with FHCM as a result of a crossover event between a- and flMHC genes occurred on exon 27.
+A missense mutation in exon 13 of fMHC gene has been found
+in all affected members of another family with FHCM (8).
+Similarly, another missense mutation in exon 9 of the ,BMHC
+gene has been described in a family with FHCM (9). We have
+examined DNA from the probands of 59 families with FHCM
+and have detected the exon 13 missense mutation in a single
+family, but did not detect the a/l hybrid gene in any family.
+However, during this study, we identified a unique restriction
+fragment length polymorphism (RFLP) on Southern blots of
+the DNA of a small family in whom the proband has HCM and
+showed that it was inherited in a Mendelian manner in two
+subsequent generations. Using polymerase chain reaction
+(PCR) to amplify DNA from the proband, we have determined
+that the RFLP represents a deletion in the f3MHC gene. The
+deletion is 2.4 kb long and extends from intron 39 of the
+f3MHC gene into the intergenic region between the #- and
+aMHC genes. Included within the deletion is exon 40 which
+contains coding sequence for the carboxy-terminal five amino
+acids, the stop codon, and entire 3'-untranslated sequence.
+
+Methods
+Patient studies. Patient evaluation was done as previously reported (5).
+Briefly, the proband and all members of family 151 (pedigree depicted
+on the top portion of Fig. 2) were given detailed cardiovascular examinations and two-dimensional echocardiography. The echocardiographic criteria for the diagnosis of HCM was defined as the presence of
+septal or ventricular hypertrophy with a wall thickness of 13 mm or
+more in the absence of other potential causes such as hypertension.
+Southern blot analysis. Following informed consent blood was collected from individuals and lymphoblastoid cell lines established by
+Epstein-Barr virus transformation (10). DNA was prepared from the
+cell lines using a nucleic acid extractor (Applied Biosystems, Inc., Foster City, CA). DNA was digested with a threefold excess of appropriate
+restriction endonucleases following the supplier's recommendation.
+DNA fragments were separated by agarose gel electrophoresis and
+
+Table I. Primers Used in the Representative PCR Reactions and the Corresponding Amplified Segments of the J3MHC Gene
+Corresponding
+
+PCR
+reaction
+
+nucleotide location
+in the ,BMHC gene
+
+Primer sequence
+
+Length of the
+amplified
+product
+
+bp
+A
+
+Sense
+Antisense
+Sense
+Antisense
+Sense
+Antisense
+Sense
+Antisense
+Sense
+Antisense
+
+B
+
+C
+D
+E
+
+5'-TGAAGCTTACCCAGGAGAGCATCATGG-3'
+5'-AAGAATTCTTGGAGAACTGTTGGTCC-3'
+5'-TTCTGAGCAGCCTGACTTCTGG-3'
+5'-TCTTCTTCTGGTTGAGGC-3'
+5'-TCAAACCGAGTTACCGTGTTCC-3'
+5'-TGGGATCCTGACCCAATTCTACTTTCTG-3'
+5'-TGAAGCTTAGCAAGCAAGGCTTAGAGC-3'
+5'-TTAAGCTTCTCCCTCAAGGCTCC-3'
+5'-GAGGATCCGAAAGTAGAATTGGGTCAGG-3'
+5'-TTAAGCTTCTCCCTCAAGGCTCC-3'
+
+transferred to nylon membranes (Zeta Probes, Bio-Rad Laboratories,
+Cambridge, MA). The /3-myosin probe, pSC 14, provided by H. P. Vosberg, was labeled to a specific activity of > 109 cpm/,Rg with [32P]dCTP
+(Amersham Corp., Arlington Heights, IL) by the random primer procedure of Feinberg and Vogelstein (11). Hybridization and washing
+conditions were as described previously (5). Following washing the
+membranes were exposed to X-ray film (XAR-5, Eastman Kodak Co.,
+Rochester, NY) and with Cronex (DuPont Co., Wilmington, DE) intensifying screens at -80'C for 24-72 h.
+PCR. Cardiac 3MHC gene nucleotide sequence (GenBank access
+no. 52889 [121 and the 3/aMHC intergenic region sequence (C. C.
+Liew, personal communication) were provided by C. C. Liew (University of Toronto, Canada). Based on these sequences several sets of oligonucleotide primers were designed to amplify 11 kb (10,788 bp) of
+the gene and the intergenic region corresponding to that segment detected by pSC 14 probe. The length of the DNA amplified varied from
+590 to 4,785 bp. The primers used in the PCR reactions that cover the
+total length of the amplified region are described in Table I. All reactions were done using 150 ng of template DNA from the proband and a
+normal genomic DNA control, 2 ,d of l Ox Taq polymerase buffer (500
+mM KCI, 100 mM Tris-HCl [pH 9.0 at 25° C], 15 mM MgCI2, 0.1%
+gelatin [wt/vol] 1% Triton X-100, Promegal Corp., Madison, WI) 0.5
+,MM of each primer, 1 U of Taq DNA polymerase (Pharmacia Inc.,
+Piscataway, NJ), and 0.2 mM of dNTP (except for reaction B in which
+the concentration of dNTP was 0.3 mM) in a total reaction volume of
+20 Ml. DNA thermal cycler (Perkin-Elmer-Cetus, Norwalk, CT) was
+used to denature at 95° C for 3 min and a subsequent 30-cycle amplification was performed by denaturing at 94° C for 1 min, annealing 1
+min, and extension at 72° C for 3-4 min with a 5-s per cycle increment.
+-
+
+15839-19015
+
+3,177
+
+19267-21989
+
+2,723
+
+20448-23276
+
+2,829
+
+21879-26627
+
+4,748
+
+23243-26627
+
+3,385
+
+The annealing temperatures for reactions A through E were 590C,
+560C, 550C, 570C, and 540C, respectively.
+Separation and extraction of PCR products. PCR products were
+separated using agarose (0.8- 1.0%) gel electrophoresis. The DNA products were excised from the gel under ultraviolet illumination and extracted using Sephaglas Band Prep kit (Pharmacia, Inc.).
+Cloning and sequencing techniques. Restriction endonuclease sites
+were incorporated at the 5'-end of the primers to yield PCR products
+-with asymmetric restriction sites. The PCR products were digested with
+the appropriate restriction endonucleases to create cohesive termini
+and subsequently purified using a Centricon No. 100 ultrafiltration
+system (Amicon, Beverly, MA). The PCR products with cohesive termini were cloned into a plasmid vector (pGEM) after digestion with the
+appropriate restriction endonucleases to create compatible termini. Recombinant plasmid DNA was purified by alkaline lysis method (13).
+Sequencing was performed by the dideoxy sequencing method using a
+T7 sequencing kit (Pharmacia, Inc.).
+RNA extraction. Biopsy samples from biceps muscle were taken
+after an informed consent was obtained. Samples were immediately
+frozen at -70'C and subsequently used for extraction of total RNA
+using the RNAzol method (Biotecx Laboratories, Inc., Houston, TX).
+Reverse transcription and first-strand cDNA synthesis. cDNA was
+synthesized from total RNA by the following method: 0.1 tg of total
+skeletal muscle RNA, 2 ,l of 5X reverse transcriptase buffer (250 mM
+Tris-HCl [pH 8.3 at room temperature], 375 mM KC1, 15 mM MgCl2
+[Gibco BRL, Gaitherburg, MD]), and 15,uM antisense primer in a total
+reaction volume of 10 ,l. After denaturing for 5 min, 100 U of Moloney murine leukemia virus RNase H- reverse transcriptase (M-MLV
+H- RT Superscript, Life Technologies, Inc., Gibco-BRL) 1 l of 5X RT
+
+Table II. Primers Usedfor Synthesis of First-strand cDNA and RT-PCR
+Primer
+to
+
+Sequence
+
+Exon 40
+
+Antisense
+
+5'-TGGATCCGCTACTCCTCATTCAAGCC-3'
+
+3'-UT
+
+Antisense
+
+5'-TTTTTTATTCTGGATCCTCCCAAGG-3'
+
+Second poly A
+Second 3'-UT
+
+Antisense
+Antisense
+
+5'-TTTTTATTTTCATCGTAGGATCCATTACCGC-3'
+5'-TAGGATCCAAATCAGATATAGAAGG-3'
+
+Exon 38
+
+Sense
+
+5'-AAAAGCTTCTGCGGCTGCAGGACCTGG
+
+Oligo dT,218
+
+Description
+
+Present in the normal allele and absent in the
+mutant allele
+Present in the normal allele and absent in the
+mutant allele
+May be present in the mutant allele
+May be present in the mutant allele
+Universal primer
+Present in the normal allele and the mutant
+allele
+
+Deletion of 13-Myosin Heavy Chain Gene in Hypertrophic Cardiomyopathy
+
+2157
+
+23 kb- -A
+9.5 kb ^
+
+_W
+
+Ul*
+3.8 kb
+
+**
+
+:- 4".
+
+2.32 kb - *v
+2.03 kb- dw_ ,T*8
+
+1.6 kb-
+
+.*
+
+*0d
+
+4
+
+3.3k
+
+3.3 kb
+
+iF
+
+*a
+
+_
+
+-
+
+_wp
+ap _go
+
+e
+
+-;
+
+..
+
+.1
+
+W.
+.".
+
+w
+
+A
+.a
+0
+
+Ae
+
+"
+
+tA
+
+,
+
+.
+....
+
+,*.--:
+
+0
+
+:4
+
+ik
+
+-.
+
+i,* .*w.'O.
+
+.....
+
+B
+
+A
+
+9.4 kb6.6 kb4.3 kb-
+
+C
+
+4p:
+
+reaction buffer, and 1.5 ,ul of 10 mM dNTP were added in a total
+reaction volume of 15 Ml. The reaction was incubated at 420C for 2 h
+and reverse transcriptase was inactivated at 680C for 20 min. cDNA
+was stored at -20'C if not used immediately. Antisense primers to
+exon 40, polyadenylation signal with 3'-untranslated region, a second
+polyadenylation signal located 1.7 kb downstream from the deletion
+(second polyadenylation primer), the 3'-untranslated region of this polyadenylation signal (second 3'-untranslated primer), and universal
+oligo dT,2-,8 primers were used (Table II). cDNA were screened by
+PCR amplification as follows: cDNA made by the above method was
+diluted 1:4-fold with x PCR buffer (Promega Corp.) and 12.5 ofthe
+cDNA dilute was added to 12.5 Ml ofPCR mix containing 0.2 MM sense
+primer, 0.2 mM dNTP, IU Taq DNA polymerase (Pharmacia, Inc.),
+yielding a final concentration of0. 1 MM sense and antisense primer and
+0.2 mM dNTP. PCR was done utilizing DNA Thermal Cycler (PerkinElmer-Cetus) in a setting similar to what was described earlier for genomic DNA. The annealing temperature was 550C. To amplify cDNA
+transcribed from the normal allele, a sense primer to exon 38 and an
+antisense primer to exon 40 or the 3'-untranslated region were used
+with the appropriate cDNA template in the PCR reactions. In an attempt to amplify cDNA transcribed from the mutant allele a sense
+primer to exon 38 and an antisense primer to the second polyadenylation signal or 3'-untranslated region or universal oligo dT primers were
+used in the PCR reactions with the appropriate cDNA template. The
+2158
+
+Marian et al.
+
+Figure 1. Representative autoradiograms of Southern blots of DNA
+isolated from probands with FHCM. Restriction endonuclease digests
+of patients' DNA were probed with the f3MHC gene probe, pSC 14.
+Notice the presence of a 9.5 kb (]A, lane 8), a 3.8 kb (JB, lane 8), and
+a 4.3 kb (IC, lane 8) novel restriction fragment endonuclease digests,
+in the proband from family 151 (lane 8).
+products of each reaction were identified by gel electrophoresis, extracted from the gel, cloned, and sequenced.
+Screening of the I3MHC gene for other mutations. DNA from the
+proband was screened for known mutations of the j3MHC gene including the a/,BMHC hybrid gene, the missense mutation on exon 13 and
+exon 9, and in addition remainder of exon 9 as well as exons 7 and 8
+were screened by chemical cleavage for potential mutations. Screening
+for a/JMHC hybrid gene was accomplished by Southern blot analysis
+after BamHI digestion of DNA from family members using a flMHC
+probe, pSC14, as described earlier. This probe detects a novel 2.8-kb
+BamHI restriction fragment if such a fusion gene is present in the proband DNA (7). In the exon 13 missense mutation, an adenine residue
+substitutes for a guanine residue in coding position 1208 of the I3MHC
+gene
+
+and creates
+
+an
+
+additional Ddel restriction site. The methods of
+
+screening for this missense mutation have been published previously
+(14). In brief, primers were designed to encompass exon 13 of the
+f3MHC gene which was amplified by PCR. The PCR product (154 bp)
+was separated by gel electrophoresis, identified by ethidium bromide
+staining, excised from the gel, and purified. The purified PCR product
+was subjected to Ddel digestion.
+The known missense mutation in exon 9 consists of a guanine residue at coding position 832 (exon 9) which is replaced by an adenine
+residue. Using chemical cleavage, we screened for this mutation and
+also for potential unknown mutations in the remainder of exon 9 and
+
+2
+10
+4
+
+6
+
+5/3
+13 14 12
+am
+
+1
+
+2
+
+aa_
+4
+
+6
+
+-5
+
+~43
+
+It
+3
+
+I1
+15
+
+21.2
+
+21.2 kb -
+
+l
+_w
+o Wotw we
+5.1
+
+-9.5 kb
+5.1 kb-
+
+3.5 kb-
+
+some
+IMPPI'MOP,
+
+-
+
+3.5 -
+
+MMLAMML -
+
+2.0 kb -
+
+_0 _w
+
+0
+
+,e
+
+_6
+1.6 kb-
+
+g
+
+- ---~~~~A
+4
+00000*000
+
+1.4 kb-
+
+2.0-
+
+0.947 kb0.831 kb -
+
+1.9-
+
+0.564 kb-
+
+1.61.4 -
+
+.947
+
+w
+
+--
+
+4.2
+
+e A.
+
+3.8 kb
+
+mean
+
+S
+
+B
+
+-
+
+.*?,
+
+# 40
+
+Figure 2. Pedigree of family 151 and the corresponding Southern blots of DNA digests with BamHI, TaqI, and HindIII detected by pSC14 probe.
+The BamHI (9.5 Kb), TaqI (3.8 Kb), and HindIll (4.3 Kb) novel restriction fragments are present in the proband and three additional members
+of the family. Open circles and squares represent clinically unaffected female and male gender, respectively. Closed circles or squares indicate
+clinically affected females or males. Hatched circles or squares indicate "uncertain" diagnosis and slash indicates deceased individuals.
+
+7 and 8 (15). The technique of chemical cleavage detects nucleotide mismatches in heteroduplexes composed of a normal DNA strand
+and its complementary test strand. This technique is also useful to
+detect other mutations such as deletions and insertions. Nucleotide
+mismatches occurring with cytosine residues are detectable after the
+hydroxylamine reaction. Mismatch thymine residues are detectable
+after the osmium tetroxide reaction. Chemical cleavage was performed
+as follows: The region of the ,BMHC gene encompassing exons 7
+through 9 was amplified by PCR. The PCR reaction contained 250 ng
+of the template DNA, 0.2 AM of each primer, 10 mM Tris HCl (pH
+8.3), 50 mM KCl, 0.001% (wt/vol) gelatin, 1.5 mM MgCl2, 200 JM 4
+dNTP, and 1 U of TaqI DNA polymerase (Pharmacia Inc., 5,000 U/
+ml). Thermal cycling parameters were: denaturing at 94° C for 3 min;
+followed by 30 cycles of denaturing at 94° C for 1 min, annealing at
+58° C for 30 s, and extension at 72° C for 30 s, with a final extension at
+72° C for 3 min. The amplified PCR products were isolated by gel
+electrophoresis and were excised and extracted as described above. A
+exons
+
+secondary amplification of the extracted product was performed using
+conditions described by Kogan et al. (16) and the same cycling parameters as in the primary amplification. The reamplified PCR product was
+extracted from the gel in a manner as described above. A sense and an
+antisense 32P end-labeled probe were produced using end-labeled sense
+and antisense primers in separate reactions to amplify the region of
+interest from normal DNA. Sense and antisense labeled heteroduformed by mixing
+3
+10 cpm of each labeled probe
+plexes
+separately with each secondary PCR product being tested and denaturing the mixture at 100° C for 3 min, and subsequent reannealing the
+strands at 42° C for 2 h. The reannealed heteroduplexes were isolated
+by ethanol precipitation and resuspended in 20 pl of H20 for use in the
+chemical reactions.
+Hydroxylamine reaction was as follows: a 6 ,l aliquot of each heteroduplex was mixed with 20 p1 of2.5 M hydroxylamine and incubated
+at 37° C for 1 h. The reaction was stopped by adding an excess of yeast
+carrier RNA and the heteroduplexes were isolated by ethanol precipitawere
+
+Deletion of f3-Myosin Heavy Chain Gene in Hypertrophic Cardiomyopathy
+
+2159
+
+4
+
+6
+
+5 3
+
+13 14 12
+
+21.2
+
+5.1
+
+WP
+
+4.2-
+
+a
+
+-4.3 kb
+
+2.01.9
+
+1.6 -
+
+1.4-
+
+.
+
+- Ci
+
+Figure 2 (Continued)
+tion, washed, and lyophilized. Osmium tetroxide reaction: a 6 pil aliquot of each heteroduplex was mixed with 15 ,ul of 2% OS04 in 10 mM
+Tris HCl (pH 7.7), 1 gM EDTA (pH 8.0), and 1.5% (vol/vol) pyridine
+and incubated at 370C for 5 min. The reaction was stopped and the
+heteroduplexes isolated as described above. The lyophilized products
+were mixed with 50 ,l of 1.0 M piperidine and incubated at 90'C for 30
+min. The mixture was quickly cooled on ice, and the cleavage products
+were ethanol precipitated and lyophilized. Chemical cleavage products
+were resuspended in formamide and electrophoresed on a 12% denaturing polyacrylamide gel. An autoradiogram was developed from the gel
+for detection of base mismatches in the heteroduplexes using conventional methodology.
+
+Results
+Clinical characteristics. The pedigree of this family has been
+depicted on the upper portion of Fig. 2 (q.r.). The proband is a
+67-yr-old male diagnosed at age of 59, when he presented with
+symptoms of atypical chest pain, lightheadedness, and decreased exercise tolerance. On cardiac examination we detected a S4 and a grade III/VI systolic ejection murmur at mid
+2160
+
+Marian et al.
+
+left sternal border. Electrocardiography (EKG) showed normal
+sinus rhythm and left ventricular hypertrophy with repolarization abnormalities. Analysis of recordings of two 24-h Holter
+monitoring intervals showed sinus rhythm with premature
+atrial and ventricular beats and short runs of ventricular bigeminy. A two-dimensional echocardiogram showed moderate
+concentric ventricular hypertrophy with septal and posterior
+wall thickness of 2 cm, a left ventricular ejection fraction of
+60-69%, and systolic anterior motion of the anterior leaflet of
+the mitral valve. There was also a 25 mmHg left ventricular
+outflow tract gradient. Right ventricular endomyocardial
+biopsy showed mild hypertrophic cardiac fibers with minimal
+focal interstitial fibrosis. The patient has been treated with :
+blockers and has done well. Parents of the proband died 37 yr
+ago, and their medical history is not available.
+The proband has three siblings and the clinical data ofthese
+individuals are provided as follows: Individual 4 is 77 yr old
+and has not experienced any cardiac symptoms. Her past medical history consists of pancreatitis, gall bladder disease, and
+degenerative joint disease. Her EKG showed sinus bradycardia
+at the rate of 56 bpm, and left axis deviation of -40. A recent
+chest X-ray showed mild left ventricular prominence. An echocardiogram showed moderate concentric left ventricular hypertrophy with normal left ventricular systolic function, moderately enlarged left atrium (4.6 cm), ventricular septal thickness
+of 1.7 cm, and posterior wall thickness of 1.6 cm. Although this
+individual meets the echocardiographic criteria for HCM, one
+cannot exclude these echocardiographic findings as due to age
+alone. Thus, she remains in the category of diagnosis "uncertain."
+Another sibling of the proband, individual 5, has symptoms
+of exertional dyspnea. She has been hypertensive for the past
+20 yr and has been treated with A blockers. Echocardiography
+showed mild concentric left ventricular hypertrophy with 1.3
+cm wall thickness and normal systolic function and chamber
+size. In addition, there was also a localized basal ventricular
+septal thickness of 18 mm and mild mitral regurgitation. Due
+to long-standing history of hypertension, which may be responsible for the hypertrophy, the diagnosis of HCM in this individual remains "uncertain." Individual 6 is a 63-yr-old female and
+is asymptomatic with a normal echocardiogram. Individual 13,
+a 35-yr-old female, is currently asymptomatic, and is normal
+on physical examination. Echocardiography showed normal
+left ventricular function with ventricular septal thickness of 1.1
+cm and posterior wall thickness of 1.0 cm. However, systolic
+anterior motion ofthe mitral valve chordae was noted on echocardiogram. Individual 12, a 33-yr-old female, is asymptomatic with a normal EKG and echocardiogram. Individual 14, a
+32-yr-old male, is asymptomatic with a normal physical examination. EKG and echocardiography are both normal with a
+septal thickness of 0.9 cm and posterior wall thickness of 1.0
+cm. Individual 15, a 1 0-yr-old, is asymptomatic and has a normal echocardiogram. Individuals 10 and 11 (spouses) are both
+asymptomatic and have normal echocardiograms (individual
+11 is not shown in the pedigree).
+Southern blotting analysis. In order to detect large DNA
+rearrangements in the MHC gene of individuals with FHCM
+Southern blot analysis was performed on DNA from a total of
+59 probands using the 3-myosin probe, pSC 14. This probe detects a two-allele BamHI restriction length polymorphism of
+3.3 and 1.6 kb with a frequency of 0.7 and 0.3, respectively
+( 17). Representative autoradiograms of Southern blot analysis
+
+B
+-3.5 kb
+
+2.6 kb
+1.6 kb
+
+2.6 kb 1.6 kb-
+
+1.2 kb
+
+1.2 kb -
+
+Ln
+
+CDO
+0
+v
+
+CD
+
+en
+
+_o
+
+v
+co
+
+Figure 3. Segments of the
+
+#MHC gene amplified by
+PCR and the corresponding
+
+21.2 kb -w
+5.1 kb -'
+3.5 kb --
+
+2.6 kb
+
+-
+
+-2.6 kb
+
+1.6 kb
+1.2 kb
+
+-
+
+-1.6 kb
+-1.2 kb
+
+-
+
+JD
+
+C
+of DNA isolated from FHCM probands are shown in Fig. 1. In
+addition to the expected RFLP and two constant fragments a
+novel 9.5-kb BamHI restriction fragment was detected by the
+pSC14 probe in a single proband from family 151 (Fig. JA, lane
+8). The genomic DNA from all 59 probands was also digested
+with TaqI and HindIll restriction endonucleases and probed
+with pSC 14. A novel 3.8-kb and a novel 4.3-kb restriction fragment in TaqI and HindIl digests, respectively, were detected
+(Fig. l B, lane 8 and I C, lane 8) in the digest of DNA from the
+proband of family 151. This polymorphism was not present in
+any of the other 58 probands of families with FHCM, nor was it
+present in 73 unrelated normal individuals. DNA from additional family members of pedigree 151 was digested with
+BamHI, TaqI, and HindIl and probed with pSC 14. Three additional members from two subsequent generations also had
+the identical novel restriction fragments on Southern blots, indicating the co-dominant Mendelian inheritance of this polymorphism. Pedigree 151 together with the corresponding
+Southern blots of their DNA digests with BamHI, TaqI, and
+HindIll are shown in Fig. 2.
+PCR analysis. The recognition of a unique restriction fragment by the pSCl4 probe in the proband DNA indicated the
+presence of a mutation involving the region ofthe ,BMHC gene
+detected by the pSC 14 probe (introns 29-37) or the vicinity of
+this region. Several sets of primers were designed to amplify
+I 1 kb (10,788 bp) of the ,BMHC gene in segments from 590
+to 4,785 nucleotides in length encompassing exons 29-40.
+The PCR products using DNA from the HCM pedigree 151
+proband as template were compared with the PCR product of a
+normal DNA template by gel electrophoresis and restriction
+
+pictures of the PCR products'
+gel electrophoresis. In each
+photograph, lane I represents
+a DNA size marker, lane 2
+a normal DNA template,
+lane 3 DNA template from
+the proband, and lane 4 a
+negative control. PCR products are similar in size (in
+reactions A, B, and C) except
+for the products from the 3'end of the /3MHC gene (reaction D) which shows an additional 2.3-kb product in the
+DNA template from the proband.
+
+mapping. The PCR products from the proband and the normal
+control were identical in length and restriction map in all segments (reactions A, B, and C) except for the 3'- end of the
+#MHC gene (reaction D). PCR amplification of this segment
+using primers to amplify from nucleotide 21,879 (in intron 37)
+through nucleotide 26,627 (intergenic region between [BMHC
+and aMHC genes) produced an unexpected 2.3-kb product in
+the proband DNA, in addition to the expected product of 4.7
+kb which was present from both the normal DNA and the
+proband DNA (Fig. 3). This implied a deletion, 2.4 kb in size
+(4.7 kb 2.3 kb), in one ,B-myosin allele of the proband genome. In order to further delineate the location ofthis deletion,
+the published restriction map of the ,BMHC gene sequence (12)
+and the restriction map ofthe f3/aMHC intergenic resion (C. C.
+Liew, personal communication) were reviewed, in the region of
+the 4.7-kb product which showed absence ofrestriction sites for
+BamHI, HindIll, or TaqI restriction endonucleases, but the
+presence of two restriction sites for EcoRI restriction endonuclease. Digestion of the 4.7-kb product with EcoRI restriction
+endonuclease showed three products of 3.4 kb and 844 and 507
+bp while digestion of the 2.3-kb product with the EcoRI restriction endonuclease produced three products of 1 kb, 844 bp,
+and 507 bp (Fig. 4), the last two identical to the normal map
+and the 1-kb product being a truncated product of the 3.4-kb
+product. Comparison of these products with the restriction
+map of the normal flMHC gene and the 3/a intergenic region
+(12; C. C. Liew, personal communication) identified the orientation ofthese products in the normal genomic DNA, such that
+the 507-bp fragment and the 844-bp fragment were located
+upstream to the 3.4-kb fragment and the 3.4-kb product was
+-
+
+Deletion of f-Myosin Heavy Chain Gene in Hypertrophic Cardiomyopathy
+
+2161
+
+_-
+
+M
+
+EE
+
+..
+
+-
+
+_U
+U
+3
+
+0
+
+o
+
+o
+
+c
+
+c
+
+_
+
+0.
+
+:3
+
+CA
+
+CL
+
+Z
+WL
+
+(A
+
+CL ::
+.0
+
+Cu
+E
+
+_
+
+oY~- aor"
+ui70
+1...L
+
+zr
+
+2.6 kb
+1.6 kb
+1.2 kb
+
+1.35 kb-_,
+1 .078.87
+-
+
+.60 -
+
+-
+
+-
+
+-
+
+-
+
+.310.281 -
+
+.67 kb
+.52
+.46
+.39
+.35
+
+-.2
+
+tr-
+
+N
+C'
+N
+
+N
+N
+
+844 bp 1 507 bp I
+
+3397 bp
+
+TIhI
+m
+A.I
+
+I
+
+I
+I
+I
+.0
+AImA
+
+IN
+
+N
+
+04
+
+t-
+
+N,o
+
+0N
+
+4748 bp
+
+N
+
+the amplified segment between nucleotide 23,230 of 3MHC
+and nucleotide 26,627 ofthe f3/ aMHC intergenic region. Therefore, a new set of primers were designed to flank this region and
+amplification with PCR (reaction E) produced the expected
+3.4-kb product from normal DNA template and proband
+DNA template, and an additional 1-kb product in the proband
+DNA. PCR amplification of DNA isolated from all members
+of the pedigree 151 was performed and the 1-kb product was
+found to be present in those family members with the novel
+restriction fragments on Southern blot (Fig. 5).
+Cloning and sequencing analysis. To precisely localize the
+extent of the observed deletion, PCR primers with the asymmetric internal restriction sites at the 5' ends flanking the deletion were used to amplify this region of the DNA from the
+proband. The PCR product was cloned into pGEM4Z and sequenced. The sequence analysis revealed a 2.4-kb deletion extending from nucleotide 23,793 of the J3MHC gene through
+nucleotide 26,171 of the intergenic region, between a- and
+,3MHC genes, which includes part of intron 39, and all of exon
+40 which contains the coding sequence for the 3' carboxy terminal amino acids as well as the entire 3' untranslated region (Fig.
+6). The deletion extends 1,833 nucleotides into the region 5' to
+the aMHC gene. The deleted region is flanked by a 45-bp direct
+2162
+
+Marian et al.
+
+N
+
+N
+
+sc4
+
+I
+
+2
+It
+
+C0 14
+I..
+
+Figure 4. Digestion of the 4.7- and 2.3-kb products
+(from PCR reaction D) with EcoRI restriction endonuclease. Restriction enzyme map of the I3MHC
+gene and the f3/aMHC intergenic region in the
+segment of the 4.7-kb product shows two restriction sites for EcoRI restriction enzyme at positions
+22723 and 23230. Digestion ofthe 4.7-kb product
+with EcoRI restriction endonuclease produced
+three fragments of 844 bp, 507 bp, and 3.4 kb;
+while digestion of the 2.3-kb product with EcoRI
+restriction endonuclease produced two similar
+products (844 and 507 bp) and a 1-kb product,
+indicating that the 1-kb fragment is a truncated
+form of the 3.4-kb fragment.
+
+repeat with 96% positional identity in the normal allele. The
+downstream repeated sequences are deleted in the mutant allele.
+Transcription analysis. In an attempt to determine whether
+mRNA for the mutant ,BMHC gene allele is transcribed we
+performed reverse transcription PCR (RT-PCR) on mRNA
+extracted from a biceps muscle biopsy obtained from the proband of pedigree 151. After extraction of total RNA from the
+biopsy sample, cDNA for the normal allele was made using
+reverse transcriptase with the antisense primer to exon 40 and
+subsequently amplified by PCR using an exon 38 sense primer.
+This yielded the expected product of 239 bp (Fig. 7) which was
+cloned, sequenced, and confirmed to be a transcription product of the normal allele. A potential second polyadenylation
+signal sequence is located 1.7 kb downstream from the 3'-end
+of the deletion in the f3/a myosin intragenic region (Fig. 6). We
+attempted to make first-strand cDNA from the abnormal allele
+using antisense primers to the second polyadenylation signal,
+second 3'-untranslated region, and oligonucleotide dT primer.
+Using these different primers we were consistently unsuccessful
+in obtaining any RT-PCR product.
+Screeningfor other mutations in the #MHC gene. Southern
+blot analysis showed the normal pattern of two polymorphic
+
+7-
+
+2
+
+w
+
+r_
+
+L.
+
+E-
+
+r0IO
+13~
+~
+~
+~ ~
+F-
+
+4
+
+6
+
+~
+
+~
+
+~
+
+~
+
+010
+
+A3
+
+5
+
+~
+
+~
+
+X~~~~~~~~~~~~~,
+I-
+
+_
+
+~ ~ ~~.
+
+:;z
+
+1.
+
+z
+
+,toZ
+
+- 3.5
+- 2.0
+- 1.9
+- 1.6
+- 1.4
+
+2.6 kb
+
+1.6 kb
+1.2kb
+.67 kb
+
+Figure 5. Photograph of gel electrophoresis of the PCR products of reaction E in members of family 151 and the corresponding pedigree. The
+expected product size is 3.3 kb. Notice the presence of a 1 kb product in the proband and three additional members of this family. Open circles
+and squares represent clinically unaffected female and male gender, respectively. Closed circles or squares indicate clinically affected females or
+males. Hatched circles or squares indicate "uncertain" diagnosis and slash indicates deceased individuals.
+
+bands of 3.3 and 1.6 kb, two constant fragments, and a novel
+9.5-kb restriction fragment, when probed with pSC 14. The 2.8kb novel BamHI restriction fragment indicating the presence
+of an a/f3MHC hybrid gene was not present (7).
+Electrophoretic analysis of the PCR amplified exon 13 of
+the flMHC gene showed a PCR product of 154 bp in size which,
+upon digestion, resulted in two fragments of 84 and 70 bp,
+indicating that the missense mutation was not present. Had the
+
+mutation been present, the DNA would have contained four
+fragments of 84, 70, 52, and 32 bp ( 14) owing to the presence of
+both the normal and abnormal alleles.
+Chemical cleavage of exons 7, 8, and 9 of the 3MHC gene
+showed no mismatches between the labeled normal strand and
+its complementary test strand. Because both the sense and antisense strands were labeled and analyzed separately, these results indicate the absence of the known missense mutation in
+
+c
+
+-0
+
+0
+
+w
+
+._
+
+~'cq
+
+c
+
+._
+
+cu
+
+en
+
+0D
+
+Exon 32 33
+_
+_=m
+
+383S
+
+34 3536 37
+
+40
+
+0
+
+N-
+
+,a-
+
+4-
+
+;N
+
+.1.
+;
+
+*
+
+--I
+
+i
+
+10
+
+0p
+
+w
+~
+~
+~
+rlX
+
+7
+
+c
+
+W,
+cr
+
+~
+
+~
+
+~
+
+~
+
+~
+
+Deletion
+
+~
+
+ie
+
+I
+
+XI
+
+Figlure 6. Diagram showing the location of the deletion in the fMHC gene. Deletion involves part of intron 39,
+region and the polyadenylation signal. It also extends 1.8 kb into the ,B/a intergenic region.
+
+M IIC gene
+
+I
+Pr
+
+exon
+
+40, including 3-untranslated
+
+Deletion of f3-Mvosin Heavy Chain Gene in Hipertrophic Cardiomyopathy
+
+2163
+
+0
+
+4-
+
+X
+,0
+o~~
+la
+
+0a
+C)
+
+>F
+C)
+
+.03
+
+C)
+0or
+
+0.
+lo
+
+762
+
+a
+
+c
+
+lo.
+
+bp -
+
+311 bp249 bp200 bp 101 bp-
+
+Figure 7. Transcription of the normal allele. RT-PCR using sense
+primer to exon 38 and antisense primer to exon 40 (present in the
+normal allele and absent in the mutant allele) yielded the expected
+product of 239 bp, indicating the transcription of the normal allele.
+
+exon 9 as well as showing no other mutations in the remainder
+of exon 9 or in exons 7 and 8.
+
+Discussion
+We have detected a 2.4-kb deletion in the 3'-end of the f-myosin gene in the proband of a small family with HCM. The
+deleted portion of the f3MHC gene includes a part of intron 39,
+all of exon 40 which contains coding sequences for the five
+carboxy terminal amino acids, the entire 3'-untranslated region
+and a portion of the region between the f- and aMHC genes.
+The deletion is flanked by 45-bp direct repeat sequences and
+the distal repeat sequences are deleted in the mutant allele.
+Such flanking direct repeat sequences are believed to mediate
+deletion mutations.
+The deletion mutation was inherited in a Mendelian fashion in two subsequent generations of the family. However,
+none of the three additional family members with the deletion
+2164
+
+Marian et al.
+
+could be shown to have HCM by the clinical diagnostic criteria
+used in this study. We cannot rule out the possibility that each
+of these individuals will develop the disease later in life as HCM
+is characterized by variable penetrance and variable expressivity. These results demonstrate the difficulty which may be encountered in differentiating sporadic HCM from familial
+HCM in small kindreds. Clinical criteria alone may not be
+sensitive enough to identify all affected family members and
+genetic diagnosis is not yet available for all HCM mutations. In
+two other individuals of the family, the diagnosis of HCM remains uncertain because, while they have ventricular hypertrophy they also have other potential causes for this such as
+hypertension.
+We are concerned that in none of the three offsprings is
+there evidence of HCM despite having inherited the defect. It is
+possible that the disease in the proband is due to mutations
+other than the deletion in the 3' end of the f3MHC gene described above. Based on our analysis with RFLP and that of
+PCR, we have excluded any other mutation that would have
+involved significant rearrangement in the 3MHC gene. The
+known mutations of the 3MHC gene, the af/lMHC hybrid
+gene, and the missense mutations in exons 9 and 13, were excluded (7-9). In addition, the results of chemical cleavage analysis showed no mutations in exons 7, 8, and 9. Screening of the
+whole ,3MHC gene for single nucleotide mutations by a technique such as chemical cleavage (the most sensitive) may require years of study, considering that the j3MHC gene is 24 kb
+in length. It is not possible to perform linkage analysis to confirm a chromosome 14 disease locus in this family due to its
+small size. Collection of several families may be difficult because it would appear that this deletion mutation is not a common cause of FHCM. We have examined 59 probands and
+only one proband had the deletion mutation.
+Our unsuccessful attempts to demonstrate transcription
+from the mutant allele do not exclude production of a mutant
+mRNA. Our failure to detect a transcript using RT PCR amplification may have resulted from the inability to choose the
+correct antisense primer for reverse transcription from the mutant mRNA for first-strand cDNA synthesis since all potential
+splice junctions cannot be cleaved from DNA sequence analysis. It is not evident from DNA sequence analysis where transcription of the mutant allele if it is made would terminate. We
+chose to make an antisense primer complementary to the se1.7
+quence around and including a polyadenylation signal
+kb downstream from the 3'-end of the deletion. This is the first
+polyadenylation sequence downstream from the end of the deletion. In addition, a second antisense universal oligo dT
+primer was used to prime cDNA synthesis which was also without success. The other possibility is the low abundance and/or
+instability of the mutant mRNA eluded isolation and detection
+by PCR and electrophoretic analysis.
+It is, thus, not possible given the small size ofthe family, the
+insensitivity of clinical diagnosis, and the inability to detect a
+transcript from the mutant allele to conclusively prove that the
+deletion mutation is responsible for the HCM in this family.
+Whether the deletion is responsible for the disease is further
+complicated by the observation that the proband did not develop symptoms of HCM until the age of 59, and the two offsprings are only 32 and 33 yr of age. The grandson shows no
+clinical or echocardiographic evidence of FHCM but is only 10
+yr of age. Thus, if indeed the deletion is responsible for the
+disease in the proband, given this exaggerated form of age-de-
+
+pendent penetrance, one cannot exclude the possibility that the
+offspring may, in the future, develop the disease. These observations coupled with a family whose size precludes linkage analysis prohibits a definitive interpretation as to whether this deletion is responsible for the disease in the proband.
+It is interesting to speculate how this mutation might produce HCM. Studies of the Caenorhabditis elegans unc-54 gene,
+which encodes the major body wall muscle myosin isoform
+,3MHCB, have shown that a mutation that deletes the 3'-untranslated region (18) apparently results in an unstable mRNA
+(19) that produces small quantities of protein product. Recent
+unpublished studies in C. elegans (R. H. Waterston, personal
+communication) have tested the function of a myosin construct in which an introduced ochre codon results in a truncated protein lacking the last nine residues of the carboxyl-terminal rod as well as the entire 23-residue nonhelical tailpiece.
+When this construct is introduced into C. elegans, it produces a
+dominant mild unc phenotype, apparently interfering with the
+incorporation ofnormal myosin into the sarcomere (R. H. Waterston, personal communication). The deletion mutation in
+this family also appears to produce a mild form of HCM. This
+may be because transcription from the mutant allele produces
+an unstable mRNA as a result ofthe loss of the polyadenylation
+signal sequence. This instability leads to only a small amount
+of mutant protein from the unstable message which would lack
+the five terminal amino acids and would be expected to disrupt
+sarcomere assembly or function. In that only a minute quantity
+of mutant protein may be synthesized, it is expected that only a
+subset of sarcomeric assembly and function will be disrupted
+resulting in a mild, dominant phenotype. While it is not possible given the limitations discussed above to prove that the 2.4kb deletion is the cause of HCM in this family these results
+suggest testable hypotheses for the role of the carboxyl terminus of 3-myosin in sarcomere assembly and function. It is
+intriguing that such a large deletion, involving 10% of the gene,
+is inherited in subsequent generations in which individuals
+may or may not be affected, and those that are affected, not
+until much later in life. Does this mean that only the normal
+allele is being translated? If so, why so? Expression of mutant
+3MHC gene constructs in appropriate experimental systems
+will permit us to examine the role of the 3'-untranslated sequences and polyadenylation on the stability of f-myosin
+mRNA. Expression of an in-frame deletion of the carboxyl-terminal amino acids will provide insights to the role of these
+amino acids on the assembly and function of mammalian sarcomeres. We are currently designing studies to examine these
+questions.
+
+Acknowledgments
+We would like to express our gratitude to Dr. Robert H. Waterston for
+
+critical review of the manuscript and permission to quote unpublished
+data, Dr. C. C. Liew for providing the sequence of intergenic region
+
+between d- and aMHC genes, Dr. Tony S. Ma for helpful discussions,
+Grace Czernuszewicz and Terry Tapscott for technical assistance, and
+Debora Weaver, Alexandra Pinckard, and Sherry Terry for manuscript
+and figure preparation.
+
+Deletion
+
+This work is supported in part by grants from the National Heart,
+Lung, and Blood Institute, Specialized Centers of Research (P50HL42267-01), and the American Heart Association, Bugher Foundation Center for Molecular Biology (86-2216).
+
+References
+1. Maron, B. M., S. E. Epstein, and W. C. Roberts. 1986. Causes of sudden
+death in competitive athletes. J. Am. Coll. Cardiol. 7:204-214.
+2. Sasson, A., H. Rakowski, and E. D. Wigle. 1988. Hypertrophic cardiomyopathy. Cardiol. Clin. 6:233:288.
+3. Jarcho, J. A., W. P. McKenna, J. A. Pare, S. D. Solomon, R. F. Holcombe,
+S. Dickie, T. Levi, H. Donis-Keller, J. G. Seidman, and C. E. Seidman. 1989.
+Mapping a gene for familial hypertrophic cardiomyopathy to chromosome 1 4q 1.
+N. Engl. J. Med. 321:1372-1378.
+4. Solomon, S. D., A. A. T. Geisterfer-Lowrance, H.-P. Vosberg, G. Hiller,
+J. A. Jarcho. C. C. Morton, W. 0. McBride, A. L. Mitchell, A. E. Bale, W. J.
+McKenna, et al. 1990. A locus for familial hypertrophic cardiomyopathy is
+closely linked to the cardiac myosin heavy genes, CR1-L436, and CRI-L329 on
+chromosome 14 at ql 1-912. Am. J. Hum. Genet. 47:389-394.
+5. Hejtmancik, J. F., P. A. Brink, J. Towbin, R. Hill, L. Brink, T. Tapscott, A.
+Trakhtenbroit, and R. Roberts. 199 1. Localization of gene for familial hypertrophic cardiomyopathy to chromosome 14q 1 in a diverse U.S. population. Circulation. 83:1592-1597.
+6. Solomon, S. D., J. A. Jarcho, W. McKenna, A. Geisterfer-Lawrence, R.
+Germain, R. Salerni, J. G. Seidman, and C. E. Seidman. 1990. Familial hypertrophic cardiomyopathy is a genetically heterogeneous disease. J. Clin. Invest.
+86:993-999.
+7. Tanigawa, G., J. A. Jarcho, S. Kass, S. D. Solomon, and C. E. Seidman.
+1990. A molecular basis for familial hypertrophic cardiomyopathy: an alpha/beta
+cardiac myosin heavy chain hybrid gene. Cell. 62:991-998.
+8. Geisterfer-Lawrance, A. A., S. Kass, G. Tanigawa, H.-P. Vosberg, W.
+McKenna, C. E. Seidman, and J. G. Seidman. 1990. A molecular basis for familial hypertrophic cardiomyopathy: A beta-cardiac myosin heavy chain gene missense mutation. Cell. 62:999-1006.
+9. Rosenzweig, A., H. Watkins, D. Hwang, M. Miri, W. McKenna, T. Traill,
+J. G. Seidman, and C. E. Seidman. 1991. Preclinical diagnosis of familial hypertrophic cardiomyopathy by genetic analysis of blood lymphocytes. N. Engl. J.
+Med. 325:1753-1760.
+10. Neitzel, N. 1986. A routine method for the establishment of permanent
+growing lymphoblastoic cell lines. Hum. Genet. 73:320-326.
+1 1. Feinberg, A. P., and B. A. Vogelstein. 1983. A technique for radiolabelling
+DNA restriction endonuclease fragments to high specific activity. Anal. Biochem.
+132:6- 13.
+12. Liew, C. C., M. J. Sole, K. Yamauchi-Takihara, B. Kellam, D. H. Anderson, L. Lin, and J. C. Liew. 1990. Complete sequence and organization of the
+human cardiac beta-myosin heavy chain gene. NucleicAcids Res. 18:3647-365 1.
+13. Sambrook, J., A. Fritsch, and T. Maniatis, editors. 1989. Molecular Cloning: A Laboratory Manual. Cold Spring Harbor Laboratory, Cold Spring Harbor,
+NY. 1.25-1.28.
+14. Perryman, M. B., Q.-T. Yu, A. Marian, A. Mares Jr., C. Czernuszewicz, J.
+Ifegwu, R. Hill, and R. Roberts. 1992. Expression of a missense mutation in the
+mRNA for #-myosin heavy chain in myocardial tissue. J. Clin. Invest. 90:271 277.
+15. Cotton, R. G. H., N. R. Rodriques, R. D. Campbell. 1988. Reactivity of
+cytosine and thymine in single-base-pair mismatches with hydroxylamine and
+osmium tetroxide and its application to the study of mutations. Proc. Natl. Acad.
+Sci. USA. 85:4397-4401.
+16. Kogan, S. C., M. Doherty, and J. Gitschier. 1987. An improved method
+for prenatal diagnosis of genetic diseases by analysis of amplified DNA sequences:
+application to hemophilia A. N. Engl. J. Med. 317:985-990.
+17. Cox, D. W., M. G. Bribacher, M. Siewertsen, J. C. Benger, B. F. Barker,
+and H.-P. Vosberg. 1989. Linkage relations of polymorphic markers on chromosome. Ctogenet. Cell Genet. 51 :A2695. (Abstr.)
+18. Pulak, R. A., and P. Anderson. 1988. Structures of spontaneous deletions
+in Caenorhabditis elegans. Mol. Cell. Biol. 8:3748-3754.
+19. Hodgkin, J., A. Papp, R. Pulak, V. Ambros, and P. Anderson. 1989. A
+new kind of informational suppression in the nematode Caenorhabditis elegans.
+Genetics. 123:301-313.
+
+off-Myosin Heavy Chain Gene in Hypertrophic Cardiomvopathv
+
+2165
+
+

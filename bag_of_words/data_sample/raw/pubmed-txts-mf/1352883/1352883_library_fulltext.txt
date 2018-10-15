@@ -1,0 +1,721 @@
+Proc. Nati. Acad. Sci. USA
+Vol. 89, pp. 6177-6181, July 1992
+Genetics
+
+Oncogenic point mutations in exon 20 of the RBI gene in families
+showing incomplete penetrance and mild expression of the
+retinoblastoma phenotype
+(single-strand conformation polymorphism/tumor-suppressor gene)
+
+ZERRIN ONADIM, ANNETTE HOGG, PAUL N. BAIRD, AND JOHN K. COWELL*
+Imperial Cancer Research Fund Oncology Group, Institute of Child Health, 30 Guilford Street, London WC1N 1EH
+
+Communicated by Robert A. Weinberg, March 3, 1992
+
+ABSTRACT
+The retinoblastoma-predisposition gene,
+RBI, segregates as an autosomal dominant trait with high
+(90%) penetrance. Certain families, however, show an unusual
+low-penetrance phenotype with many individuals being unaffected, unilaterally affected, or with evidence of spontaneously
+regressed tumors. We have used single-strand conformation
+polymorphism analysis and PCR sequencing to study two such
+families. Mutations were found in exon 20 of RB) in both cases.
+In one family a C -- T transition in codon 661 converts an
+arginine (CGG) to a tryptophan (TGG) codon. In this family,
+incomplete penetrance and mild phenotypic expression were
+observed in virtually ail patients, possibly indicating that single
+amino acid changes may modify protein structure/function
+such that tumorigenesis is not inevitable. In the second family
+the mutation in codon 675 is a G -* T transversion that converts
+a glutamine (GAA) to a stop (TAA) codon. However, this
+mutation also occurs near a potential cryptic splice acceptor
+site, raising the possibility of alternative splicing resulting in a
+less severely disrupted protein.
+
+Identification of unaffected mutant gene carriers has, until
+recently, required that they have affected children, but use of
+classical linkage analysis and restriction fragment length
+polymorphisms (RFLPs) from within the RBI gene (8, 9) has
+allowed unequivocal identification of cases of incomplete
+penetrance in RB families (5, 6). In addition, patients with
+typical retinal scarring and a strong family history also carry
+a mutant RBI gene (5). This heterogeneity is difficult to
+interpret in terms of the Knudson two-hit hypothesis, especially when the majority of gene carriers are only unilaterally
+affected. We suggest that there are alleles of the RB) gene
+that are only partially defective and, as a consequence, give
+rise to a mild or incompletely penetrant phenotype. With the
+cloning of RB) (10), it should now be possible to determine
+the nature of mutations in low-penetrance families to establish whether they affect the gene in a distinct way or simply
+reflect random mutation events throughout the gene.
+RBI has a complex structure with 27 exons varying in size
+from 31 to 1873 base pairs (bp) (11) and two very large
+[>33-kilobase (kb)] introns. The sequences of intron regions
+immediately adjacent to each exon have been determined
+(11), allowing amplification of individual exons by the polymerase chain reaction (PCR). This approach has already been
+used to identify mutations in RB tumors (12). Such a screening program can proceed more rapidly with analysis of each
+exon of RBI by single-strand conformation polymorphism
+(SSCP) analysis (13). This procedure depends on the sequence dependence of the migration of a single-stranded
+DNA molecule in a nondenaturing polyacrylamide gel.
+Hence, mutations affecting a DNA sequence will lead to a
+conformational change affecting mobility and produce novel
+bands on gels.
+We have used standard linkage analysis in RB families to
+identify cases of incomplete penetrance and have undertaken
+an exon-by-exon SSCP analysis combined with PCR sequencing to identify the specific mutation responsible for
+mild phenotypes in two low-penetrance families.
+
+Retinoblastoma (RB) is an intraocular eye tumor with an
+incidence of 1 in 15,000-25,000 (1). It occurs predominantly
+in children under the age of 2 years and is rare over the age
+of 5 years. Approximately 15% of all RB patients have a prior
+family history and the tumor phenotype segregates as an
+autosomal dominant trait in most cases (1). In -10%o of
+families, unaffected individuals can be identified who can
+transmit the mutant gene (1). This phenomenon is referred to
+as "incomplete penetrance."
+Knudson (2) demonstrated that, in cases of hereditary RB,
+a single, additional, random genetic event was required for
+tumor development, and he provided one explanation of the
+phenomenon of incomplete penetrance by suggesting that
+these patients formed part of a Poisson distribution where, by
+chance, the second random mutation did not occur. These
+patients, however, still carry germ-line mutations and their
+children have a 50% chance of inheriting the predisposing
+mutation. Knudson's "two-hit" hypothesis also predicted
+that mutant gene carriers would develop mostly multiple,
+bilateral tumors with an earlier age of onset when compared
+with sporadic cases, which would be mostly unilateral,
+unifocal, and present later in life. However, the distribution
+of cases of incomplete penetrance is not entirely random and
+families have been reported where the majority of gene
+carriers are either unaffected or only unilaterally affected
+(3-6). These we refer to as "low-penetrance" families.
+Another feature of RB is that it sometimes apparently regresses spontaneously, leaving characteristic scars on the
+retina (4, 5). An alternative suggestion is that these scars
+represent a more benign form of the disease, retinoma (7).
+
+MATERIALS AND METHODS
+PCR Amplification. Two primers were used to amplify a
+350-bp fragment including the entire 146 bp of exon 20 and
+flanking intron sequences. The 5' primer (no. 9438), 5'TTCTCTGGGGGAAAGAAAAGAGTGG-3', was located in
+intron 19 and the 3' primer (no. 14928), 5'-AGTTAACAAGTAAGTAGGGAGGAGA-3', was located in intron 20. For
+direct sequencing from PCR products either the biotinylated
+version of primer 9438 (no. 18322) or a biotinylated internal
+primer, 5'-CATGATTTGAAAAAAATCTACTTG-3' (no.
+Abbreviations: RB, retinoblastoma; RFLP, restriction fragment
+
+length polymorphism; SSCP, single-strand conformation polymorphism.
+*To whom reprint requests should be addressed.
+
+The publication costs of this article were defrayed in part by page charge
+payment. This article must therefore be hereby marked "advertisement"
+in accordance with 18 U.S.C. §1734 solely to indicate this fact.
+6177
+
+6178
+
+Genetics: Onadim et al.
+
+Proc. Natl. Acad. Sci. USA 89 (1992)
+
+17295), was used with primer 14928. The 17295/14928 primer
+pair amplifies a 269-bp fragment. This particular primer set
+was also used to amplify exon 20 for Msp I digestion in family
+RBF29.
+PCR was carried out essentially as described by Hogg et al.
+(14) with 30 cycles of denaturation at 940C for 20 sec,
+annealing at 600C (for the 9438/14928 primer pair) or 520C (for
+the 17295/14928 primer pair) for 20 sec, and extension at 720C
+for 60 sec.
+SSCP and Sequencing. Detailed methods for SSCP and
+direct sequencing from PCR products have been described
+(14). For SSCP, exon 20 was amplified using primers 9438 and
+14928 in a PCR mixture with 1 ACi of [a-32P]dCTP (3000
+Ci/mmol; Amersham; 1 Ci = 37 GBq) added and a nonradioactive dCTP concentration of only 0.02 mM. Denatured
+samples were electrophoresed in nondenaturing 6% (wt/vol)
+polyacrylamide/l0o (vol/vol) glycerol gels. For direct sequencing, primers 18322/14928 or 17295/14928 were used.
+Primers 18322 and 17295 were biotinylated at the 5' end to
+allow immobilization of single-stranded DNA on streptavi-
+
+din-coated magnetic Dynabeads (Dynal; Merseyside, UK),
+which were used to separate the DNA strands (14). Both
+single strands were sequenced by using a Sequenase kit
+(United States Biochemical) according to the manufacturer's
+instructions.
+
+RESULTS
+Included in our SSCP analysis of a large number of patients
+with hereditary RB were two families that showed an unusual
+pattern of inheritance in that many individuals had "mild"
+forms of the disease or were unaffected gene carriers. The
+pedigrees of these two "low-penetrance" families, RBF29
+and RBF18, are given in Fig. 1. In both cases, abnormal
+banding patterns were seen in the SSCP gel for exon 20.
+RBF29. Linkage analysis for family RBF29 (Fig. 1) was
+reported previously (5). In this family there are six affected
+individuals (1.1, 1.3, II.2, II.5, III.3, III.4), as well as four
+unaffected gene carriers (11.4, 11.7, III.1, 111.2; arrows in Fig.
+1) who were identified by using the RS2.0 polymorphism (5).
+
+RBF 18
+2
+
+3
+
+II
+
+Ili
+
+b~~~~~~
+IV
+
+RBF 29
+
+1L
+95
+
+111
+
+L
+191
+19 ~ '-95
+~ 99
+~
+
+~ 4f
+~
+
+'
+
+<i
+
+FIG. 1. Family pedigrees for RBF18 and RBF29. Arrows indicate asymptomatic gene carriers. For individuals whose DNA was available
+for analysis, the numbers below the symbols indicate the sizes (kb) of the allelic fragments (RO.6 polymorphism in family RBF18 and the RS2.0
+polymorphism in family RBF29). Individuals with regressed tumors are indicated by hatching.
+
+Proc. Natl. Acad. Sci. USA 89 (1992)
+
+Genetics: Onadim et al.
+The parents (11.3, 11.4) of the bilaterally affected twins (III.3,
+III.4) are first cousins and each has a unilaterally affected
+sister (II.2, II.5). The father ofthe twins (II.4) is an unaffected
+gene carrier as are individuals 11.7, III.1, and III.2. After the
+birth of (nonidentical) affected twins, the eyes of the grandparents, I.1 and 1.3, were examined and spontaneously
+regressed tumors were identified in both.
+Our preliminary screening program involved exon-by-exon
+analysis of the RBI gene using SSCP in conjunction with PCR
+sequencing. Extra bands were identified in exon 20 in the
+DNA of individual II.4 from RBF29 in SSCP gels (Fig. 2) and
+not in any of the other (20 out of 27) exons analyzed. In the
+SSCP gel shown in Fig. 2 the 350-bp fragment encompassing
+exon 20 amplified from II.4 exhibited an additional lower
+band when compared with samples from other patients.
+Sequence analysis of exon 20 from 11.4 in RBF29 (Fig. 3)
+revealed a heterozygous C -* T transition in the coding
+strand, 21 bases from the 5' end of exon 20. This mutation
+converts codon 661 from an arginine (CGG) to a tryptophan
+(TGG) codon. The same mutation was identified in the DNA
+of all the affected members and unaffected gene carriers in
+RBF29, but not in the unaffected members of the family. The
+mutation in RBF29 occurs within an Hpa II/Msp I restriction
+site in exon 20 (CCGG -- CTGG), so that the presence of an
+undigested 269-bp fragment indicates a mutant gene carrier
+(Fig. 4). The undigested 269-bp band was observed in the
+DNA of all affected members and unaffected gene carriers,
+whereas only the two smaller normal bands were seen in
+individuals from this family identified not to be gene carriers
+(Fig. 4). DNA from 111.5 was obtained for prenatal screening
+from chorionic villus (CV) tissue and from cord blood samples (B) taken from the same individual at birth. Exon 20 from
+II1.5 was also sequenced and found to be free of the 661
+mutation, confirming our original prediction made with linkage analysis (15). Msp I digestions of exon 20 DNAs from 34
+unrelated RB patients and 38 unrelated healthy individuals
+did not show this mutation.
+RBF18. Family RBF18, first reported by Hine (16), shows
+eight affected individuals in the family (Fig. 1), three of whom
+(I1.2, III.3, IV.1) had unilateral disease. Four generations of
+males (I.1, II.4, III.3, IV.1) have a mild form of the disease.
+Although I.1 had one eye removed for RB, the tumor in his
+other eye regressed naturally. II.4 has spontaneously regressed tumors in both eyes and III.3 and IV.1 have unilateral
+regressed tumors. II.1 and II.3, however, died at the age of
+1 year 9 months and 3.5 years, respectively, as a result of
+RBF 18
+
+RBF 29
+
+6179
+
+NORMAL
+
+G
+A
+G
+AG
+
+G
+A
+G
+G
+c
+c
+G
+
+C
+
+CG/
+G
+
+A
+
+T C
+
+G
+
+A
+
+T
+
+C
+
+FIG. 3. Sequence from the biotinylated (5') strand of exon 20
+showing the heterozygous G -* A transition in RBF29 (Left) compared with the same sequence from a normal individual (Right).
+
+orbital extension (16) of their tumors. I.1 and II.2 died of
+second tumors at the age of 61 and 40, respectively. Only
+DNA from individuals III.2, III.3, III.4, and IV.1 was available to us. The RB predisposition is linked to the 4.95-kb
+allele in the RO.6 polymorphism (6).
+SSCP analysis of DNA from III.3 from RBF18 showed an
+additional upper band (Fig. 2) when compared with other
+samples. Sequence analysis of exon 20 from 111.3 (Fig. 5)
+revealed a heterozygous G -- T transversion in the coding
+strand, 63 bases from the 5' end of exon 20. This mutation
+converts codon 675 from a glutamine (GAA) to a stop (TAA)
+codon. However, 3 bp downstream of this mutation lies a
+TAG sequence (Fig. 6), which is compatible with a consensus
+splice acceptor sequence (17). The G -- T transversion
+removes an AG dinucleotide (converting it to AT) that
+ordinarily would have prevented the downstream TAG sequence from becoming a splice acceptor site. In addition, this
+transversion increases the pyrimidine/purine ratio in the
+region immediately preceding the TAG site, thereby enhancing its potential to be a cryptic splice site (18). A branch-point
+sequence exists (Fig. 6) upstream of this cryptic site, which,
+although not as good as the real branch point in intron 19,
+would nevertheless be adequate if this site were activated. In
+this case, the reading frame would be intact but the first 23
+amino acids encoded by exon 20, codons 654-676, would be
+lost. Such a deletion would disrupt the leucine zipper motif
+in exon 20, removing 3 of the 4 leucines. The same mutation
+was identified in the DNA of III.2 and IV.1, who were known
+to carry the RB-predisposition gene. III.4, who is an unaffected normal individual, has the normal sequence. This G -+
+T mutation does not alter any known restriction enzyme site.
+
+RBF 29
+
+DISCUSSION
+There have been few reports of mutations within the RBI
+gene in patients with RB, and those mutations that have been
+M
+
+U
+
+C
+
+11.1 111.1 111.2 11.2 1.1 1.2
+
+269 bp_
+
+_
+
+177 bp
+
+_
+
+11.3 111.3 CV 8 11.4 11.5 11.7 11.8 M
+
+_
+
+92 bp
+
+FIG. 2. SSCP analysis of exon 20 from a number of RB patients
+and controls as well as members from families RBF18 and RBF29
+(lanes marked as such). DNA was amplified by using primers 9438
+and 14928. A 350-bp PCR product was generated and electrophoresed in a nondenaturing 6% polyacrylamide/10%o glycerol gel at 30
+W at room temperature for 6 hr. Lane RBF18 (individual I11.3) shows
+an additional upper band, and lane RBF29 (individual II.4) exhibits
+an additional lower band (near the bottom of the gel), compared with
+samples from other patients and from controls. An undenatured
+sample was included in the fifth lane to indicate the position of
+double-stranded DNA (*).
+
+FIG. 4. Restriction enzyme analysis of the mutation in exon 20
+from family RBF29. DNA was amplified by using primers 17295 and
+14928 to generate a 269-bp fragment. Msp I digestion of this fragment
+results in two fragments, 177 bp and 92 bp long (lanes C, II.1, 1.2,
+II.3, CV, B, and 11.8). Individuals carrying the G -) A mutation,
+which destroys the Msp I site, display the uncut 269-bp fragment
+(lanes 111.1, III.2, II.2, 1.1, 111.3, 11.4, 11.5, and 11.7). Lanes: M, 1-kb
+marker (GIBCO/BRL); U, uncut control 269-bp fragment; C, control
+sample known to be homozygous for the 177-bp and 92-bp fragments;
+CV, chorionic villus DNA from 11.3; B, cord blood DNA from III.5.
+
+Proc. Natl. Acad. Sci. USA 89 (1992)
+
+Genetics: Onadim et al.
+
+6180
+
+RBF 18
+
+NORMAL
+
+-
+
+G
+
+MI
+
+G
+G
+
+a
+
+-
+
+G
+T
+
+...-a
+
+T
+
+,5o
+
+C
+
+AC
+
+T
+
+T
+-.... m.
+
+A
+
+- ~~~~~m
+
+A
+
+G
+
+G
+
+T C
+
+A
+
+C
+
+T
+
+A
+
+FIG. 5. Sequence from the biotinylated (5') strand of exon 20
+A transversion in RBF18 (Left)
+showing the heterozygous C
+compared with the same sequence from a normal individual (Right).
+-*
+
+described seem to be randomly distributed throughout the
+(12, 19). The majority of these mutations in bilaterally,
+multifocally affected individuals cause major disruptions of
+the gene and its consequent processing, resulting in nonproduction of the RB protein (20). The exact role of RBI in
+tumorigenesis is still not fully understood, but its product,
+RB1, seems to be part of a signaling pathway controlling cell
+proliferation (21). The RB1 protein interacts with the transforming oncoproteins of DNA tumor viruses (22-24). The
+domains of RB1 that bind these proteins are encoded by
+exons 13-17 and 18-22, amino acids 393-572 and 646-772,
+respectively (25, 26). It has been suggested that, with appropriate folding of RB1, a "pocket" is created that facilitates
+binding to the viral transforming proteins and endogenous
+cellular proteins (27). The observation that RB) mutations
+exist that produce proteins which fail to bind viral proteins or
+to associate with endogenous cellular proteins has led to the
+suggestion that this pocket contributes to the growthregulatory function of RB1 (27-30).
+Recently, mutations in the promoter region of RB) were
+detected in two families with low-penetrance phenotypes
+(31). A plausible explanation for this is that promoter mutations may result in reduced levels of RB1. In many cells the
+production of sufficient RB1 protects them against tumorigenesis, but occasionally a cell produces insufficient RB1,
+thereby escaping its normal growth control. Since promoter
+mutations were not found in a large number of other families
+
+gene
+
+a
+
+Intron 19 -+- 5' aaaaatgactaatttttcttattcccacag TG TAT CGG CTA
+GCC TAT CTC CGG CTA MT ACA CTT TGT GAA CGC CTT
+
+CTG TCT GAG CAC CCA GM T
+
+AGM
+
+CAT ATC ATC TGG
+
+T
+
+ACC CTT TTC CAG CAC ACC CTG CAG AAT GAG TAT GM CTC
+ATG AGA GAC AGG CAT TTG GAC CM
+Igta 3' Intron 20
+
+b
+
+Co
+
+-)
+2
+
+-ns
+
+'
+
+N
+
+C
+
+A
+
+GI
+
+G
+
+sequmm
+_w
+
+C
+
+ReaIspijceaceptor
+Normal Cryptic
+splice
+Mutated Author
+
+C T T A T T C C C A C A GITG
+
+T T
+
+A G
+
+A
+
+AGAATTAGI
+
+f
+
+A G C A C C C A T A A T T A
+
+AA
+
+GIAA
+
+FIG. 6. Nucleotide sequence of exon 20 (uppercase) and its
+flanking intron sequences (lowercase) are shown in a. The normal
+splice acceptor in intron 19 is underlined, as is the cryptic splice site
+in the
+
+exon
+
+sequence
+
+containing
+
+the G
+
+-.
+
+T transversion.
+
+The
+
+absolutely required TAG sequence of the splice acceptor (described
+in b) is boxed. A potential branch site (TTGTGAAC) located 24 bp
+upstream of cryptic splice site is shown in italics. In c, the real splice
+acceptor site from intron 19 is compared with the cryptic splice
+acceptor with and without the G
+
+--
+
+T mutation.
+
+exhibiting a similar phenotype, one would assume that alternative possibilities exist. Subtle changes in the RB1 amino
+acid sequence, for example, may reduce only its functional
+efficiency, and only when a threshold level of activity is not
+maintained do tumors develop. The mutation in family
+RBF29 is possibly one such example with only a single amino
+acid change. Why, then, did the twins in this family develop
+multifocal disease? In 70% of tumors the initial mutation is
+duplicated (32, 33) in tumor precursor cells. Duplication of a
+"weak" mutation might still result only in a mild phenotype
+but if, as in 30% of tumors, the second mutation is more
+serious the combination could result in multifocal tumor
+formation. Such independent somatic mutations have been
+
+identified in tumors from bilaterally affected RB patients (19).
+The tumors from RBF29 family members, however, were
+successfully treated and so not available for analysis.
+Whether subtle changes anywhere in the gene would result in
+a mild phenotype or whether specific regions, such as exon
+20, are more important is not clear. The only other amino acid
+substitution reported in RB tumors was in exon 18, and that
+
+patient was bilaterally affected (12).
+It is interesting that the other family in our study showing
+a low-penetrance phenotype also has a mutation in exon 20.
+At first sight it appears that the mutation in RBF18 results in
+the generation of a stop codon, which could not be described
+as a mild mutation since the protein would be missing 254
+amino acids at the C-terminal end. However, the mutation
+also alters the DNA sequence, potentially generating a cryptic splice acceptor site in that region. Under normal circumstances, in the presence of cis competition with the normal
+site, cryptic sites are never used. A change in the local
+sequence environment, however, can change the splicing
+pattern (34). In a cis-competition assay for splice-site selection, Reed and Maniatis (34) showed that sequences located
+downstream from intron 1 in the human f-globin gene splice
+acceptor site, for example, can have a profound effect on the
+efficient use of the adjacent splice site. Moreover, they found
+that the interaction between factor(s) present in a splicing
+extract and the splice sites is affected by exon sequences,
+which may play a key role in distinguishing between normal
+splice sites and cryptic splice sites located throughout premRNAs. A mutation in the exon sequence, therefore, might
+improve the chances of recognition and/or the affinities of
+splicing components for the cryptic site, thus giving rise to a
+stronger and more stable splice complex. It is possible that
+under some circumstances, or in a specific cell type, the
+cryptic site is used either exclusively or in combination with
+the real site. However, many factors affect splicing and,
+without a functional assay, it is difficult to predict the
+outcome. For example, a G -- T transversion in exon 22 of
+the RB) gene in the small-cell lung cancer cell line NC1-H69C
+simultaneously created a stop codon and a novel splice donor
+site (20). However, the mutation must have also influenced
+the normal splice acceptor site immediately upstream of exon
+22, as it resulted in the removal of the entire exon.
+It is possible, therefore, that the RBF18 mutation could
+have similar consequences. We do not have access to RNA
+from this family to investigate this possibility. It is also
+difficult to assess functional properties of protein(s) thus
+produced. There have been reports of shorter RB proteins,
+resulting from in-frame deletions of exons 20-22, with impaired biochemical properties (27, 28, 30, 35, 36). Sheffner et
+al. (37) reported that a 4-amino acid deletion resulting from a
+splice acceptor-site mutation in exon 20 in a cervical carcinoma cell line produced defective RB1. It is not clear,
+however, what the functional consequences of such protein(s) would be in a developing retinal cell.
+The RB) gene seems to have a variety of
+
+functions,
+depending on the stage of development and cell type. The
+effect of naturally occurring RBI mutations on this expanding
+
+Genetics: Onadim et al.
+
+Proc. Natl. Acad. Sci. USA 89 (1992)
+
+6181
+
+repertoire of RB1 activities has not been investigated, but it
+is conceivable that particular mutations-for example, amino
+acid substitutions in particular regions of the gene-rather
+than abolishing the function of RB1, modify it so that it works
+less efficiently. One consequence of this modification might
+be that only occasionally is there insufficient RB1 to prevent
+tumorigenesis. Alternatively, once initiated the transformed
+phenotype might be overcome by subsequent adequate production of RB1-for example, through alternative splicing
+where stop codons are involved-resulting in regressed/
+benign tumors. To clarify this situation, more families of the
+low-penetrance phenotype need to be analyzed for their
+mutations.
+
+13. Orita, M., Suzuki, Y., Sekiya, T. & Hayashi, K. (1989) Genomics 5, 874-879.
+14. Hogg, A., Onadim, Z., Baird, P. N. & Cowell, J. K. (1992)
+Oncogene 7, 1445-1451.
+15. Onadim, Z., Hungerford, J. & Cowell, J. K. (1992) Br. J.
+Cancer 65, 711-716.
+16. Hine, M. (1937) Trans. Ophthalmol. Soc. U.K. 57, 173-181.
+17. Mount, M. S. (1982) Nucleic Acids Res. 10, 459-471.
+18. Hoshijima, J., Inoue, K., Higuchi, I., Sakamoto, H. &
+Shimura, Y. (1991) Science 252, 833-836.
+19. Dunn, J. M., Phillips, R. A., Zhu, X., Becker, A. & Gallie,
+B. L. (1989) Mol. Cell. Biol. 9, 4596-4604.
+20. Horowitz, J. M., Park, S.-H., Bogenmann, E., Cheng, J.-C.,
+Yandell, D. W., Kaye, F. J., Minna, J. D., Dryja, T. P. &
+Weinberg, R. A. (1990) Proc. Natl. Acad. Sci. USA 87, 2775-
+
+We thank Sheila Giles for typing the manuscript and preparing the
+graphics. We thank Dr. I. Goldsmith and his group at the Imperial
+Cancer Research Fund for preparing the oligonucleotides. We are
+especially grateful to Dr. Tom Maniatis for helpful discussions in our
+analysis of the cryptic splice site. Z.O. and A.H. are supported by a
+grant from the David Allen Retinoblastoma Appeal.
+
+21. Weinberg, R. A. (1991) Science 254, 1138-1146.
+22. Whyte, P., Buchkovitch, K., Horowitz, J. M., Friend, S. H.,
+Raybuck, M., Weinberg, R. A. & Harlow, E. (1988) Nature
+
+1. Vogel, W. (1979) Hum. Genet. 52, 1-54.
+2. Knudson, A. G. (1971) Proc. Natl. Acad. Sci. USA 68, 820823.
+3. Macklin, M. T. (1960) Am. J. Hum. Genet. 12, 1-43.
+4. Connolly, M. J., Payne, R. H., Johnson, G., Gallie, B. L.,
+Allerdice, P. W., Marshall, W. H. & Lawton, R. D. (1983)
+Hum. Genet. 65, 122-124.
+5. Onadim, Z., Hykin, P. G., Hungerford, J. L. & Cowell, J. K.
+(1991) Br. J. Ophthalmol. 75, 147-150.
+6. Onadim, Z., Mitchell, C. D., Rutland, P. C., Buckle, B. G.,
+Jay, M., Hungerford, J. L., Harper, K. & Cowell, J. K. (1990)
+Arch. Dis. Child. 65, 651-656.
+7. Gallie, B. L., Ellsworth, R. M., Abramson, D. H. & Phillips,
+R. A. (1982) Br. J. Cancer 45, 513-521.
+8. Wiggs, J., Nordenskjold, M., Yandell, D., Rapaport, J., Grondin, V., Janson, M., Werelius, B., Petersen, R., Craft, A.,
+Riedel, K., Lieberfarb, R., Walton, D., Wilton, W. & Dryja,
+T. P. (1988) N. Engl. J. Med. 318, 151-157.
+9. Yandell, D. W. & Dryja, T. P. (1989) Am. J. Hum. Genet. 45,
+547-555.
+10. Friend, S. H., Bernards, R., Rogeli, S., Weinberg, R. A.,
+Rapaport, J. M., Albert, D. M. & Dryja, T. P. (1986) Nature
+(London) 323, 643-646.
+11. McGee, T. L., Yandell, D. W. & Dryja, T. P. (1989) Gene 80,
+119-128.
+12. Yandell, D. W., Campbell, T. A., Dayton, S. H., Petersen, R.,
+Walton, D., Little, J. B., McConkie-Rosell, A., Buckley, E. G.
+& Dryja, T. P. (1989) N. Engl. J. Med. 321, 1689-1695.
+
+2779.
+
+(London) 334, 124-129.
+
+23. DeCaprio, J. A., Ludlow, J. W., Figge, J., Shew, J.-Y., Huang,
+C.-M., Lee, W.-H., Marsilio, E., Paucha, E. & Livingston,
+D. M. (1988) Cell 58, 1085-1095.
+24. Dyson, N., Howley, P. M., Munger, K. & Harlow, E. (1989)
+Science 243, 934-936.
+25. Hu, Q., Dyson, N. & Harlow, E. (1990) EMBOJ. 9,1147-1566.
+26. Huang, H. S., Yee, J., Shew, Y., Chen, P., Bookstein, R.,
+Friedmann, T. & Lee, E. Y. P. (1990) Science 242, 1563-1566.
+27. Kaelin, W. G., Pallas, D. C., DeCaprio, J. A., Kaye, F. J. &
+Livingston, D. M. (1991) Cell 64, 521-532.
+28. Chittenden, T., Livingston, D. M. & Kaelin, W. G. (1991) Cell
+65, 1073-1082.
+29. Horowitz, J. M., Yandell, D. W., Park, S.-H., Canning, S.,
+Whyte, P., Buchkovitch, K., Harlow, E., Weinberg, R. A. &
+Dryja, T. P. (1989) Science 243, 937-940.
+30. Shew, J.-Y., Lin, B. T.-Y., Chen, P.-L., Tseng, B. Y., YangFeng, T. L. & Lee, W.-H. (1990) Proc. Natl. Acad. Sci. USA
+87, 6-10.
+31. Sakai, T., Ohtani, N., McGee, T. L., Robbins, P. D. & Dryja,
+T. P. (1991) Nature (London) 353, 83-86.
+32. Zhu, X., Dunn, J. M., Phillips, R. A., Goddard, A. D., Paton,
+K. E., Becker, A. & Gallie, B. L. (1989) Nature (London) 340,
+312-313.
+33. Cavenee, W., Dryja, T. P., Phillips, R. A., Benedict, W. F.,
+Godbout, R., Gallie, B. L., Murphree, A. L., Strong, L. C. &
+White, R. (1983) Nature (London) 305, 779-784.
+34. Reed, R. & Maniatis, T. (1986) Cell 46, 681-690.
+35. Bookstein, R., Rio, P., Madreperla, S. A., Hong, F., Allred,
+C., Grizzle, W. E. & Lee, W.-H. (1990) Proc. Natl. Acad. Sci.
+USA 87, 7762-7766.
+36. Mittnacht, S. & Weinberg, R. A. (1991) Cell 65, 381-393.
+37. Scheffner, M., Munger, K., Byrne, J. C. & Howley, P. M.
+(1991) Proc. Natl. Acad. Sci. USA 88, 5523-5527.
+
+

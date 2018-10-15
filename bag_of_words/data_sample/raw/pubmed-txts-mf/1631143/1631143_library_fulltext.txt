@@ -1,0 +1,854 @@
+Proc. Natl. Acad. Sci. USA
+Vol. 89, pp. 6457-6461, July 1992
+
+Medical Sciences
+
+Molecular basis of AMP deaminase deficiency in skeletal muscle
+TAKAYUKI MORISAKI*t, MANFRED GROSS*tt, HIROKO MORISAKI*t, DIETER PONGRATZ§, NEPOMUK ZOLLNERt,
+AND EDWARD W. HOLMES*t¶
+*Departments of Medicine and Biochemistry, Duke University Medical Center, Durham, NC 27706; tDepartments of Medicine and Human Genetics, Seymour
+Gray Molecular Medicine Laboratory, University of Pennsylvania, Philadelphia, PA 19104-4283; tMedizinische Poliklinik der Universitat Munchen, Munich,
+Federal Republic of Germany; and §Friedrich-Baur-Institut bei der Medizinischen Klinik der Universitat Munchen, Munich, Federal Republic of Germany
+Communicated by James B. Wyngaarden, April 9, 1992
+
+inherited defect in the AMPDJ gene since the enzyme deficiency has been reported in several members of the same
+family (13, 20). However, acquired deficiency of AMPD has
+also been described (14), raising the possibility that the
+absence of AMPD activity may be secondary to other abnormalities. To determine the molecular basis for this potentially common abnormality we have studied 11 unrelated
+individuals with AMPD deficiency. All of these individuals
+are homozygous for the same mutant allele. In randomly
+selected Caucasians and African-Americans we have found
+this mutant allele in 13% of 144 alleles tested, but we have not
+found this mutant allele in 106 DNA samples from Japanese
+subjects.
+
+AMP deaminase (AMPD; EC 3.5.4.6) is enABSTRACT
+coded by a multigene family in mammals. The AMPDI gene is
+expressed at high levels in skeletal muscle, where this enzyme
+is thought to play an important role in energy metabolism.
+Deficiency of AMPD activity in skeletal muscle is associated
+with symptoms of a metabolic myopathy. Eleven unrelated
+individuals with AMPD deficiency were studied, and each was
+shown to be homozygous for a mutant allele characterized by
+a C -. T transition at nucleotide 34 (codon 12 in exon 2) and
+at nucleotide 143 (codon 48 in exon 3). The C -* T transition
+at codon 12 results in a nonsense mutation predicting a severely
+truncated AMPD peptide. Consistent with this prediction, no
+immunoreactive AMPD1 peptide is detectable in skeletal muscle of these patients. This mutant allele is found in 12% of
+Caucasians and 19% of African-Americans, whereas none of
+the 106 Japanese subjects surveyed has this mutant allele. We
+conclude from these studies that this mutant allele is present at
+a sufficiently high frequency to account for the 2% reported
+incidence of AMPD deficiency in muscle biopsies. The restricted distribution and high frequency of this doubly mutated
+allele suggest it arose in a remote ancestor of individuals of
+Western European descent.
+
+METHODS AND MATERIALS
+Patients. The index case for these studies is an 18-year-old
+German female, who first noted calf pain at 4 years of age,
+usually related to exercise. Persistence of these symptoms
+along with weakness of the upper arms eventually led to a
+muscle biopsy, which exhibited absence of AMPD activity
+with normal phosphorylase and phosphofructokinase activities. This patient's muscle biopsy, as well as DNA samples
+from other family members, was studied in detail. Muscle
+biopsies or DNA samples from 10 other unrelated individuals
+with AMPD deficiency and variable symptoms (Table 1) were
+also analyzed. All patients were identified and referred to us
+because muscle biopsies performed for the indicated symptoms (Table 1) were found to have reduced levels of AMPD
+activity. DNA samples from 59 Caucasians, 13 AfricanAmericans, and 106 Japanese were obtained from normal
+volunteers or from investigators who had no knowledge of
+the donors' medical history.
+Protein Analyses. AMPD activity was quantified either by
+a radiochemical assay or by a spectrophotometric assay (5),
+and the method employed is noted in the text or figure legend.
+Immunoblots were performed with antiserum raised to
+AMPD purified from rat skeletal muscle (5) using an enhanced chemiluminescence detection system (Amersham).
+Nucleic Acid Analyses. Northern hybridization of RNA
+extracted from skeletal muscle was performed as described
+from this laboratory (3). First-strand cDNA (22) was synthesized from patient-derived RNA samples using an oligonucleotide complementary to bases 2239-2258 (5'-TTGGTTTACTTTTTTTTATTC-3') in this 2.3-kilobase (kb) mRNA
+(the sequence of human AMPD is reported in ref. 23).
+Single-strand cDNA was amplified by the polymerase chain
+reaction (PCR) (24, 25) in two separate reactions; oligonucleotides corresponding to bases -20 to -1 (5'-AATCAAGGATCCCAGCAACA-3') and 881-900 (5'-CACCTTCCTGCAGTTATAAA-3') were used to synthesize the 5' region;
+
+AMP deaminase (AMPD; EC 3.5.4.6), an enzyme that catalyzes deamination of AMP to IMP, and the purine nucleotide cycle, of which AMPD is one component, play a central
+role in purine nucleotide interconversion in eukaryotic cells.
+As a consequence, AMPD activity can be a determinant of
+adenylate energy charge and energy metabolism in the cell (1,
+2). In mammals, AMPD is encoded by a multigene family (3),
+which accounts in part for the tissue-specific and stagespecific isoforms of AMPD that have been identified (4, 5).
+The activity of AMPD in skeletal muscle is -100 times higher
+than that of other organs, a consequence of the high level of
+expression of the AMPDJ gene in this tissue (1, 4, 5).
+Since Fishbein et al. (6) first reported 5 patients with
+AMPD deficiency, >100 patients with this enzyme defect
+have been described (7-21). Several centers have reported
+AMPD deficiency in up to 2% of randomly selected muscle
+biopsies (6, 7, 9, 12). A review of reported cases of AMPD
+deficiency noted that 88% of these individuals with AMPD
+deficiency describe exercise-related symptoms, including
+muscle aches, cramps, and early fatigue (1). Symptoms are
+variable, however, with some reports of asymptomatic individuals and descriptions of other patients who exhibit a range
+of neuromuscular disorders. In the few patients studied in
+detail (6, 17, 18), the deficiency of AMPD activity has been
+restricted to skeletal muscle, consistent with high-level expression of the AMPD1 gene being restricted to skeletal
+muscle (3, 4).
+The molecular basis for AMPD deficiency is not known,
+but in some individuals it is presumed to be the result of an
+
+Abbreviation: AMPD, AMP deaminase.
+ITo whom reprint requests should be addressed at: Department of
+Medicine, University of Pennsylvania, 100 Centrex, 3400 Spruce
+Street, Philadelphia, PA 19104-4283.
+
+The publication costs of this article were defrayed in part by page charge
+payment. This article must therefore be hereby marked "advertisement"
+in accordance with 18 U.S.C. §1734 solely to indicate this fact.
+6457
+
+6458
+
+Proc. Natl. Acad Sci. USA 89 (1992)
+
+Medical Sciences: Morisaki et al.
+
+Table 1. AMPD-deficient patients
+AMPD activity,*
+Clinical presentation
+units/g
+Patient Sex Age, years
+9
+5.4
+Calf pain and muscle weakness
+18
+lt
+Progressive weakness and cramps in legs
+9
+12.5
+2
+16
+25
+18.8
+3
+Rhabdomyolysis after viral infection
+4
+Pain in both legs after exercise
+31
+13.5
+d
+32
+8.8
+5
+Easy fatigue and pain in both legs
+d
+45
+6.2
+Pain in both arms after exercise
+6
+9
+45
+4.4
+Pain in arms and shoulders after exercise
+7
+Right shoulder pain after exercise
+51
+3.4
+8
+d
+6.6
+9
+53
+Weakness and pain in legs during exercise
+d
+Muscle pain after exercise
+8.3
+62
+d
+10
+9
+68
+0
+Pain in arms and legs aggravated by exercise
+11
+*AMPD activity normal range is 60-300 units/g of noncollagen protein.
+
+Age at onset of
+symptoms, years
+4
+11
+25
+30
+29
+41
+33
+50
+50
+55
+55
+
+tIndex case.
+
+oligonucleotides corresponding to bases 881-900 (5'TTATAACTGCAGGAAGGTG-3') and bases 2239-2258 (5'TTGGTTTACTTTTTTTTATTC-3') were used to synthesize the 3' region. This approach was selected to reduce the
+probability of errors induced by PCR of long DNA sequences
+(26) and to facilitate functional analysis of individual mutations that might be found in the 5' and 3' regions of this
+transcript. PCR products were subcloned into pBS (Stratagene) for sequencing by the dideoxynucleotide chaintermination method (27). Thirty independently isolated pBS
+subclones were pooled for initial sequencing to obviate
+PCR-induced errors. Mutations identified by this screening
+procedure were subsequently confirmed by sequencing this
+region in individual clones. The PCR products were also
+subcloned into a prokaryotic vector, pKK233-2 (Pharmacia),
+for expression in Escherichia coli. This approach permits a
+rapid functional analysis of mutations since prokaryotes do
+not exhibit AMPD activity. Genomic DNA, isolated from
+patients and volunteers by standard methods (22), was amplified by PCR with oligonucleotides corresponding to intron
+1 and intron 2 (5'-GCAATCTACATGTGTCTACC-3') and
+5'-ATAGCCATGTTTCTGAATTA-3') for evaluation of
+exon 2; oligonucleotides corresponding to intron 2 and intron
+3 (5'-AGCAGAAACTCTCAGCTGAC-3' and 5'-CTCCTTAGGTGCCAATATAC-3') were used for evaluation of
+exon 3. These PCR products were analyzed by direct sequencing (28), hybridization with allele-specific oligonucleotides (29), and/or restriction analysis as described in the
+text.
+
+RESULTS
+Evaluation of Index Family. AMPD1 transcript size is not
+detectably altered in skeletal muscle from the index patient,
+and transcript abundance is not reduced (Fig. 1). To the
+contrary, the AMPD1 transcript, when normalized to creatine kinase M abundance, is approximately three times
+greater in this patient than a normal control. Studies of a
+heterozygote for AMPD deficiency also demonstrate that the
+mutant AMPD1 transcript is present in greater abundance
+than the wild-type transcript (unpublished observations).
+Comparison ofthe cDNA sequence for the index patient to
+that for a normal control reveals only two nucleotide differences (Fig. 2). Numbering from the first in-frame AUG, the
+presumptive translation start site, nucleotide 34 is a T in the
+patient and it is a C in the control; nucleotide 143 is a T in the
+patient and it is a C in the control. The deviation in sequence
+of the patient cDNA at position 34 (exon 2) changes this
+codon from CAA to TAA-i.e., a stop codon instead of
+glutamine. The sequence difference at position 143 (exon 3)
+in the patient predicts an amino acid substitution of a leucine
+for proline.
+
+To evaluate the significance of the missense mutation at
+position 143, wild-type and mutant cDNAs were ligated into
+a prokaryotic expression vector (pKK233-2) and E. coli
+lysates were assayed for AMPD activity. The 5' terminal 133
+nucleotides of the mutant cDNA were replaced with the
+wild-type sequence to remove the nonsense mutation at
+position 34, resulting in a cDNA that had the single C -+ T
+mutation at position 143. Prokaryotes do not exhibit detectable AMPD activity and any activity in the lysate from E. coli
+transformed with the expression vector is presumably derived from the plasmid introduced into E. coli. This was
+confirmed by immunoprecipitation of the AMPD activity
+using an antiserum specific for the AMPDJ gene product (5).
+E. coli transformed with the wild-type cDNA exhibit AMPD
+activity in the range of 2-8 munits/mg of protein, and the
+AMPD activity in lysates from E. coli transformed with the
+cDNA mutated only at position 143 is not detectably different.
+
+Although the mutation at position 143 appears to have little
+effect on catalytic activity of AMPD, the nonsense mutation
+at position 34 in this patient would be expected to give rise to
+a severely truncated peptide, only 11 amino acid residues
+compared to 747 residues in the control. Muscle extract from
+this patient has no detectable immunoreactive AMPD using
+polyclonal antiserum, whereas an easily detectable 86-kDa
+band is visualized in muscle extract from the normal control
+using this antiserum (Fig. 3). Deletion and point mutation
+analyses of human AMPD1 have shown that the active site
+for catalysis in this enzyme is located 3' to nucleotide 531,
+codon 177 (unpublished observation). Thus, the nonsense
+mutation at position 34 would be expected to result in
+complete loss of AMPD activity, and the absence of immunoreactive protein can also be explained by this mutation.
+Genomic DNA from the index patient's mother, father, and
+brother, all of whom are asymptomatic, was also sequenced
+Ct Pt
+
+AMPD
+DI --m
+
+CK-M FIG. 1. AMPD1 mRNA abundance in muscle. Four micrograms
+of total RNA from control muscle (Ct) and muscle from the index
+patient (Pt) was resolved on a 1% agarose gel containing formaldehyde, transferred to Nytran paper (Schleicher & Schuell), and
+hybridized with a human AMPD1 cDNA probe (AMPD1) (23). After
+washing the filter, the same filter was used for hybridization with a
+human creatine kinase M (CK-M) cDNA probe (30).
+
+Medical Sciences: Morisaki et al.
+
+Proc. Natl. Acad. Sci. USA 89 (1992)
+
+6459
+
+B
+
+A
+
+Exon 2
+
+Exon 3
+
+Exon 2
+3,
+G
+T
+
+PATIENT
+
+CONTROL
+GATC
+
+GATC
+
+A
+G
+
+T
+
+"/
+
+A
+
+G
+
+T
+T
+A
+A Stop
+
+-A-
+
+A
+A
+
+I
+
+A
+
+34
+
+Cl
+
+A
+
+A
+
+A
+A
+A
+
+A
+
+A
+
+A
+
+IG
+T
+
+Exon 3
+PATIE N T
+
+CONTROL
+GATC
+
+\G
+
+A
+
+GATC
+
+5,
+
+.t ws'
+
+FIG. 2. Nucleotide sequence of cDNA and gene for AMPD1. (A) Sequence of AMPD1 cDNA from a control and the index patient. The left
+panel shows the mutation in exon 2 (C-. T at nucleotide 34) that results in a nonsense mutation at codon 12 (Gln
+Stop). The right panel shows
+the mutation in exon 3 (C
+T at nucleotide 143) that results in a missense mutation at codon 48 (Pro
+Leu). (B) AMPD1 sequence of
+PCR-amplified genomic DNA. The upper panel shows the base substitution (C -* T at nucleotide 34) in exon 2. The lower panel shows the base
+T at nucleotide 143) in exon
+substitution (C
+-.
+
+-*
+
+-*
+
+-.
+
+in the relevant regions of exon 2 and exon 3 (Fig. 4). The
+AMPDJ genes for all three of these individuals contain both
+cytosine and thymidine nucleotides at positions 34 and 143,
+indicating they are heterozygotes.
+Studies of Other Patients with AMPD Deficiency. Muscle
+from 1 of the 10 other unrelated individuals with AMPD
+deficiency was used to prepare cDNA as in the index case and
+this cDNA was sequenced in its entirety. Genomic DNA
+from all 11 AMPD-deficient subjects was sequenced in the
+regions of exon 2 and 3. The only deviations from the control
+sequence
+
+are
+
+C
+
+-.
+
+T transitions at
+
+positions
+
+34 and 143
+
+(Table
+
+2). The AMPD activity levels in skeletal muscle and the
+symptoms in each of these individuals are listed in Table 1.
+An immunoblot of muscle lysate from one of these individuals confirmed the absence of immunoreactive AMPD peptide in this patient.
+Muscle was also available from one heterozygous individual and cDNA was prepared by reverse transcription PCR as
+described above. Sequencing of individual subclones of the
+PCR products prepared from this individual demonstrated
+Ct Pt
+
+that the C
+
+-*
+
+T transitions at
+
+FIG. 3. Immunoreactive AMPD peptide in muscle lysate. Thirty
+micrograms of protein from muscle lysate of a control (Ct) or the
+index patient (Pt) was resolved on an 8% SDS polyacrylamide gel,
+transferred to nitrocellulose paper, and incubated with polyclonal
+antiserum raised to rat AMPD1 (5). This antiserum does not react
+with other AMPD isoforms (5). The 86-kDa AMPD1 peptide in
+control lysate is indicated.
+
+34 and 143
+
+are
+
+present
+
+--
+
+AMPD --
+
+_
+
+positions
+
+the same allele.
+Population Studies. Genomic DNA obtained from 59 Caucasians, 13 African-Americans, and 106 Japanese was analyzed by two techniques for the nonsense mutation at position 34 (Fig. 5). PCR-amplified DNA from all subjects was
+immobilized on Nytran filters and hybridized to a wild-type
+or a mutant oligonucleotide for distinguishing the two types
+of alleles (29). PCR-amplified DNA was also restricted with
+Mae II in 31 subjects. This restriction enzyme recognizes the
+sequence ACGT, found only once in this region of the normal
+AMPD1 gene. The mutation at position 34 alters the sequence
+of this restriction site, and the PCR product from the mutant
+allele (AIGT) is not a substrate for this restriction endonuclease. Both tests give identical results in all cases. Seventeen
+percent of Caucasians and 23% of African-Americans are
+heterozygous for the nonsense mutation in exon 2, whereas
+none of the Japanese examined have this mutant allele. In
+addition, two Caucasians and one African-American were
+found to be homozygous for this mutation. Each of these
+individuals with the exon 2 nonsense mutation also has a C
+T transition at position 143 of exon 3. Not one of the 34
+chromosomes analyzed with a C at position 34 has a T at
+position 143. Thus, in the 74 chromosomes examined, there
+is no evidence for disconcordance between a C at positions
+34 and 143 or a T at both of these positions.
+on
+
+DISCUSSION
+Eleven unrelated individuals with AMPD deficiency were
+evaluated in this study, and both alleles of the AMPDJ gene
+have the same two mutations in all 11 individuals-i.e., a C
+-+
+
+T transition at
+
+positions
+
+34 and 143. The C
+
+--
+
+T transition
+
+at position 34, in exon 2, results in a nonsense mutation that
+
+predicts a severely truncated peptide as the product of this
+mutant transcript. This truncated peptide terminates prior to
+the synthesis of the catalytic domain of AMPD, providing an
+explanation for the significant decrease of this enzyme activity in these individuals. Either this truncated peptide is not
+
+6460
+
+~\'l~ ~ ~I
+
+Medical Sciences: Morisaki et al.
+lF\(oll 2
+I11. 1 RU()
+i
+
+It (.
+
+Proc. Natl. Acad. Sci. USA 89 (1992)
+1
+34I
+)II
+
+d1.i)}.
+
+I I IL ()
+( ATC
+
+i
+
+t11I
+
+I I *I 4
+
+*1' 1'34 ( T3'e3 ( ('34A
+
+()1t1g I
+
+II
+
+%,
+
+I~ ~ ~ ~ ~ t
+l
+
+_
+
+\~ ~ ~ ~ ~ ~ ~.
+
+.
+.
+
+recognized by the available antiserum or it is labile, explaining the absence of a discernible AMPD signal in immunoblots
+performed with muscle extracts from these patients. Our
+immunological observations in AMPD-deficient patients are
+similar to those reported in prior studies by Fishbein (14) and
+Sabina et al. (31). The variable residual AMPD activity found
+in our patients is similar to that reported by other investigaTable 2. Population study
+
+Nucleotide 143
+Nucleotide 34
+C
+C
+T (11)
+T (11)
+C (14)
+C (47)
+C/T (4)
+C/T (10)
+T (2)
+T (1)
+C (1)
+African-American
+C (9)
+C/T (3)
+C/T (3)
+T (1)
+T (1)
+C (2)
+C (106)
+Japanese
+The AMPD-deficient patients are described in Table 1. The DNA
+samples from 59 Caucasians, 13 African-Americans, and 106 Japanese were obtained from normal volunteers or from investigators
+who had no knowledge of the donors' medical history. The number
+in parentheses is the number of individuals for whom the DNA
+sequence was determined at the indicated nucleotide on PCR samples prepared from genomic DNA as described in the legend of Fig.
+5. Every DNA sample was screened for a C or T at nucleotide 34
+through allele-specific oligonucleotide hybridization and confirmed
+by restriction digestion and/or direct sequencing. A limited number
+of DNA samples were screened for a C or T at nucleotide 143 since
+this required direct sequencing of the PCR product.
+
+Group
+
+B
+
+i om i
+oimtro
+H
+X iom
+T1.34 (:1-34 (1:434
+
+A
+
+FIG. 4. AMPD1 sequence in family members of index case.
+(Upper) The sequence of PCR-amplified genomic DNA in the region
+of exon 2 (nucleotide 34) is illustrated on the left and the sequence
+in the region of exon 3 (nucleotide 143) is illustrated on the right.
+Positions 34 and 143 both exhibit the presence of a C and T at these
+sites, confirming this individual (the index patient's mother) is a
+heterozygote. (Lower) The genotype of each family member is
+depicted in this pedigree. The index patient is shown by the alrow.
+
+Control
+AMPD deficient
+Caucasian
+
+*
+
+|t~~~~~i.
+
+k
+
+FAMILY G
+
+*
+
+*RId
+
+aw
+io'X'\
+
+F
+
+Ofigo
+
+-
+
+--
+
+198 hp
+
+1I 1)1)
+hip
+
+- 87
+
+FIG. 5. Screening method for detecting the mutation at nucleotide 34. (A) Allele-specific oligonucleotides. PCR-amplified genomic
+DNA from the region of exon 2 of AMPD1 was fixed to Nytran paper
+and hybridized to a radiolabeled wild-type oligonucleotide (Oligo 1;
+5'-ATACTCAC-jTTTCTCTTCAG-3') or a radiolabeled mutant oligonucleotide (Oligo 2; 5'-ATACTCACATTTCTCTTCAG-3'). DNA
+from an individual homozygous for a C at nucleotide 34 (Homo C/C)
+hybridizes only to oligonucleotide 1, DNA from an individual homozygous for a T at nucleotide 34 (Homo T/T) hybridizes only to
+oligonucleotide 2, and DNA from a heterozygote (Hetero C/T)
+hybridizes to both oligonucleotides. (B) Restriction endonuclease
+mapping. PCR-amplified genomic DNA from the region of exon 2
+was digested with Mae II. This enzyme recognizes the sequence
+ACGT that occurs once in the wild-type PCR fragment, but it is
+absent from the mutant PCR fragment as consequence of the C -. T
+transition in exon 2. The undigested PCR fragment is 198 nucleotides
+in length; the digested PCR fragments are 111 and 87 nucleotides in
+length. Abbreviations for homozygote and heterozygote are the same
+as in A. bp, Base pairs.
+
+tors (14, 31). We assume as they do that most of this residual
+activity reflects AMPD produced in nonmyocytes in the
+muscle tissue by one of the other AMPD genes since this
+activity is not reactive with antisera specific for the AMPD1
+gene product (14, 31). However, we cannot exclude the
+possibility that a small fraction of the residual activity is
+produced in myocytes from the mutant AMPDJ gene as a
+consequence of alternative splicing (see below).
+The C -b T transition at nucleotide 143 in the AMPD1
+transcript of these patients is apparently a silent mutation
+based on studies performed with recombinant peptides produced in a prokaryotic expression system. Although detailed
+kinetic studies have not been carried out with the wild-type
+and mutant peptides, which differ by only a proline or a
+leucine at codon 48, these two enzymes have comparable
+activity under the assay conditions employed. The apparent
+normal catalytic activity exhibited by the AMPD peptide
+harboring a mutation in codon 48 could assume clinical
+importance, if future studies demonstrate the human AMPD1
+transcript is subject to alternative splicing, which deletes
+exon 2. In rat, exon 2 is deleted from the majority of
+transcripts produced from the AMPDJ gene in embryonic
+muscle (32) and in response to changes in neural innervation
+of skeletal muscle (unpublished observations). Since the
+primary sequence of the AMPDJ gene has been highly
+conserved in man and rat (23), a similar pattern of alternative
+splicing may occur in embryonic human muscle or in response to external signals. Alternative splicing of exon 2 in
+the human AMPD1 transcript would delete the nonsense
+mutation specified by the C -* T transition at nucleotide 34.
+
+Medical Sciences: Morisaki
+
+et
+
+Proc. Natl. Acad. Sci. USA 89 (1992)
+
+al.
+
+Although we have not detected alternative splicing in adult
+human skeletal muscle (33), we cannot exclude at this time
+the possibility that it may occur at an early stage of skeletal
+muscle development, thereby ameliorating the consequences
+of the nonsense mutation in exon 2.
+The absence of a C -- T transition at nucleotide 143 in the
+34 normal chromosomes examined makes it unlikely that this
+mutation is a common polymorphism in these populations.
+This fact, coupled with the 100%6 concordance of C -- T
+transitions at nucleotides 34 and 143 in 40 chromosomes
+analyzed from AMPD-deficient subjects and heterozygotes,
+suggests one of two explanations. Either there is a significant
+rate of spontaneous and coordinated mutation at both of
+these positions or the doubly mutated allele is present at a
+relatively high frequency in some populations. The latter
+explanation seems more plausible since it is difficult to
+envision a mechanism that results in spontaneous mutations
+affecting the same two nucleotides in all of these alleles.
+Furthermore, this mechanism would have to be restricted to
+certain populations since the doubly mutated allele has not
+been observed in the Japanese population. A more plausible
+explanation in our opinion is that the doubly mutated allele
+arose at some time in the remote past, and it has become
+widely disseminated in individuals of Western European
+descent. Studies are necessary to compare the frequency of
+this mutant allele in different ethnic groups in Western
+Europe, as well as African-Americans and native Africans, to
+gain additional insight into the origin of this allele. The high
+frequency of this allele in some populations may prove useful
+in studying the relationship between different ethnic groups.
+Recognizing that the frequency of AMPD heterozygosity is
+-20% in Caucasians and African-Americans, it is not surprising that several centers have reported 1-3% of randomly
+sampled muscle biopsies are deficient in this enzyme activity
+(6, 7, 9, 12). Clearly 1-3% of individuals in these populations
+do not have symptoms that are clinically severe enough to be
+classified as a metabolic myopathy. Thus, the frequency of
+this mutant allele in these populations raises a number of
+questions about the clinical implications of this form of
+AMPD deficiency. One could conclude this mutant allele is
+a harmless polymorphism. On the other hand, this mutation
+could be compensated for in some tissues or at some stages
+of development by removal of exon 2 through alternative
+splicing. The residual AMPD activity observed in muscle
+tissue of these patients, presumably a product of another
+member of this multigene family (3, 14, 31), might also
+compensate for the mutation in the AMPDJ gene, especially
+if this activity were present in myocytes. Other interpretations include the possibility that clinically significant myopathic symptoms develop only in individuals who have
+another inherited or acquired abnormality in energy metabolism. Answers to these questions will require additional
+physiological and molecular studies in controls and individuals with this mutant allele.
+T.M., M.G., and H.M. contributed equally to this report. We
+thank Dr. Ingrid Paetzke (Klinische Chemie Stddt Krankenhaus
+Munchen-Schwabing), who kindly provided the results on AMPD
+activity of the muscle biopsies of the 11 patients included in this
+study, and Dr. Hisaichi Fujii (Tokyo Women's Medical College),
+who generously supplied the DNA samples for the Japanese subjects.
+This work was supported by grants to E.W.H. (DK-12413, National
+Institutes of Health) and M.G. (Deutsche Forschungsgemeinschaft).
+1. Sabina, R. L., Swain, J. L. & Holmes, E. W. (1989) in The
+Metabolic Basis of Inherited Disease, eds. Scriver, C. R.,
+
+2.
+3.
+
+4.
+5.
+6.
+7.
+
+8.
+9.
+10.
+11.
+
+12.
+13.
+14.
+15.
+16.
+
+17.
+18.
+19.
+
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+
+28.
+29.
+30.
+31.
+
+32.
+33.
+
+6461
+
+Beaudet, A. L., Sly, W. S. & Valle, D. (McGraw-Hill, New
+York), Vol. 2, pp. 1077-1084.
+Sabina, R. L., Swain, J. L., Olanow, C. W., Bladley, W. G.,
+Fishbein, W. N., DiMauro, S. & Holmes, E. W. (1984) J. Clin.
+Invest. 73, 720-730.
+Morisaki, T., Sabina, R. L. & Holmes, E. W. (1990) J. Biol.
+Chem. 265, 11482-11486.
+Ogasawara, N., Goto, H., Yamada, Y. & Watanabe, T. (1978)
+Eur. J. Biochem. 87, 297-304.
+Marquetant, R., Desai, N. M., Sabina, R. L. & Holmes, E. W.
+(1987) Proc. Nati. Acad. Sci. USA 84, 2345-2349.
+Fishbein, W. N., Armbrustmacher, V. W. & Griffin, J. L.
+(1978) Science 200, 545-548.
+Shumate, J. B., Katnik, R., Ruiz, M., Kaiser, K., Frieden, C.,
+Brooke, M. H. & Carroll, J. E. (1979) Muscle Nerve 2, 213216.
+Scholte, H. R., Busch, H. F. N. & Luyt-Houwen, E. M.
+(1981) J. Inher. Metab. Dis. 4, 169-170.
+Kar, N. C. & Pearson, C. M. (1981) Arch. Neurol. 38, 279-281.
+Mercelis, R., Martin, J. J., Dehaene, I., de Barsy, Th. & Van
+den Berghe, G. (1981) J. Neurol. 225, 157-166.
+Hayes, D. J., Summers, B. A. & Morgan-Hughes, J. A. (1982)
+J. Neurol. Sci. 53, 125-136.
+Kelemen, J., Rice, D. R., Bradley, W. G., Munsat, T. L.,
+DiMauro, S. & Hogan, E. L. (1982) Neurology 32, 857-863.
+Gertler, P. A. & Jacobs, R. P. (1984) Arthritis Rheum. 27,
+586-590.
+Fishbein, W. N. (1985) Biochem. Med. 33, 158-169.
+Lally, E. V., Frieden, J. H. & Kaplan, S. R. (1985) Arthritis
+Rheum. 28, 1298-1302.
+Goebel, H. H., Bardosi, A., Conrad, B., Kuhlendahl, H. D.,
+DiMauro, S. & Rumpf, K. W. (1986) Klin. Wochenschr. 64,
+342-347.
+DiMauro, S., Miranda, A. F., Hays, A. P., Franck, W. A.,
+Hoffman, G. S., Schoenfeldt, R. S. & Singh, N. (1980) J.
+Neurol. Sci. 47, 191-202.
+Fishbein, W. N., David, J. I., Nagarajan, K., Winkert, J. W. &
+Foellmer, J. W. (1980) Arch. Biochem. Biophys. 205, 360-364.
+Heller, S. L., Kaiser, K. K., Planer, G. J., Hagberg, J. M. &
+Brooke, M. H. (1987) Neurology 37, 1039-1042.
+Sinkeller, S. P. T., Joosten, E. M. G., Wevers, R. A., Oei,
+T. L., Jacobs, A. E. M., Veerkamp, J. H. & Hamel, B. C. J.
+(1988) Muscle Nerve 11, 312-317.
+Kaletha, K. & Nowak, G. (1990) Clin. Chim. Acta 190,147-156.
+Sambrook, J., Fritsch, E. F. & Maniatis, T. (1989) Molecular
+Cloning: A Laboratory Manual (Cold Spring Harbor Lab., Cold
+Spring Harbor, NY), 2nd Ed.
+Sabina, R. L., Morisaki, T., Clarke, P., Eddy, R., Shows,
+T. B., Morton, C. C. & Holmes, E. W. (1990) J. Biol. Chem.
+265, 9423-9433.
+Saiki, R. K., Scharf, S., Faloona, F., Mullis, K. B., Horn,
+G. T., Erlich, H. A. & Arnheim, N. (1985) Science 230, 487491.
+Veres, G., Gibbs, R. A., Schere, S. E. & Caskey, C. T. (1987)
+Science 237, 415-417.
+Saiki, R. K., Gelfand, D. H., Stoffel, S. J., Higuchi, R., Horn,
+G. T., Mullis, K. B. & Erlich, H. A. (1988) Science 239,
+487-491.
+Sanger, F., Coulson, A. R., Garrell, B. G., Smith, A. J. H. &
+Roe, B. A. (1980) J. Mol. Biol. 143, 161-178.
+Wong, C., Dowling, C. E., Saiki, R. K., Higuchi, R. G., Erlich, H. A. & Kazazian, H. H. Jr. (1987) Nature (London) 330,
+384-386.
+Saiki, R. K., Bugaman, T. L., Horn, G. T., Mullis, K. B. &
+Erlich, H. A. (1986) Nature (London) 324, 163-166.
+Perryman, M. B., Kerner, S. A., Bohlmeyer, T. J. & Roberts,
+R. (1986) Biochem. Biophys. Res. Commun. 140, 981-989.
+Sabina, R. L., Fishbein, W. N., Pezeshkpour, G., Clarke,
+P. R. H. & Holmes, E. W. (1992) Neurology 42, 170-179.
+Sabina, R. L., Ogasawara, N. & Holmes, E. W. (1989) Mol.
+Cell. Biol. 9, 2244-2246.
+Mineo, I., Clarke, P., Sabina, R. L. & Holmes, E. W. (1990)
+Mol. Cell. Biol. 10, 5271-5278.
+
+

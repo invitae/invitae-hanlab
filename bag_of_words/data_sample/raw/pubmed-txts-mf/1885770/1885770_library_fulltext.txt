@@ -1,0 +1,596 @@
+Niemann-Pick Type B Disease
+Identification of a Single Codon Deletion in the Acid Sphingomyelinase Gene
+and Genotype/Phenotype Correlations in Type A and B Patients
+Oma Levran, Robert J. Desnick, and Edward H. Schuchman
+Division ofMedical and Molecular Genetics, Mount Sinai School of Medicine, New York 10029
+
+Abstract
+Types A and B Niemann-Pick disease both result from the
+deficient activity of the lysosomal hydrolase, acid sphingomyelinase (E.C. 3.1.4.12). Type A Niemann-Pick disease is a severe neurodegenerative disorder of infancy which leads to death
+by three years of age, whereas Type B disease has a later age at
+onset, little or no neurologic involvement, and most patients
+survive into adulthood. To investigate the molecular basis for
+the remarkable phenotypic heterogeneity, the nature of the mutations causing Type B Niemann-Pick disease in Ashkenazi
+Jewish patients was determined. The entire acid sphingomyelinase coding region from an Ashkenazi Jewish Type B patient
+was polymerase chain reaction-amplified, subcloned, and completely sequenced. A three-base deletion was identified of nucleotides 1821-1823 in the cDNA which predicted the removal
+of an arginine residue from position 608 of the acid sphingomyelinase polypeptide (AR608). The other cDNA clones from
+this patient had the R496L mutation previously identified in
+Type A Niemann-Pick disease patients. Both Ashkenazi Jewish Type B patients were heteroallelic for the AR608 mutation,
+whereas this allele was not present in 15 unrelated non-Jewish
+Type B patients, with the notable exception of one mildly affected patient of Arabic descent who was homoallelic for the
+AR608 mutation. These results indicate that the AR608 mutation predicts the Type B Niemann-Pick disease phenotype,
+even in the presence of the R496L Type A allele, thereby providing the first genotype/phenotype correlation for this lysosomal storage disease. Although only two patients have been
+studied, it appears that the AR608 mutation occurs frequently
+in Type B Niemann-Pick disease patients of Ashkenazi Jewish
+descent. (J. Clin. Invest. 1991. 88:806-810.) Key words: lysosomal storage disease * heteroallelism- genotype/phenotype
+correlations polymerase chain reaction
+-
+
+Introduction
+Niemann-Pick disease, an inborn error of sphingomyelin catabolism, results from the deficient activity of the lysosomal hydrolase, acid sphingomyelinase (sphingomyelin phosphodiesterase; E.C.3.1.4.12) (1, 2). Two allelic forms of this autosomal
+recessive disorder have been delineated based on their distinct
+Address correspondence to Edward H. Schuchman, Ph.D., Division of
+Medical and Molecular Genetics, Mount Sinai School of Medicine,
+100th Street and Fifth Avenue, New York, NY 10029.
+Receivedfor publication 7 March 1991 and in revisedform I May
+1991.
+J. Clin. Invest.
+© The American Society for Clinical Investigation, Inc.
+
+0021-9738/91/09/0806/05 $2.00
+Volume 88, September 1991, 806-810
+806
+
+0.
+
+Levran, R. J. Desnick, and E. H. Schuchman
+
+phenotypes (2-6). Type A Niemann-Pick disease is a severe
+neurodegenerative disorder ofinfancy characterized by progressive psychomotor retardation, hepatosplenomegaly, and death
+by three years of age. In contrast, Type B Niemann-Pick disease is a nonneuronopathic disorder characterized by hepatosplenomegaly, respiratory involvement, and survival into adulthood. In addition, a third form of Niemann-Pick disease, Type
+C, has been described (5). However, since most of the patients
+with Type C Niemann-Pick disease have a defect in cholesterol
+esterification, it is unlikely that this form of the disease results
+from primary lesions in the acid sphingomyelinase gene. The
+clinical course of patients with Type A disease is quite uniform,
+whereas the severity among Type B patients is more variable.
+In fact, some mildly affected Type B patients may survive into
+the sixth decade of life (5). Both types occur more frequently
+among individuals of Ashkenazi Jewish descent (- 1/40,000)
+than in the general population (7); however, mass screening for
+carrier detection in this population has been precluded due to
+the marked overlap of acid sphingomyelinase activities in leukocytes from obligate heterozygotes and normal individuals.
+To date, biochemical investigations into the genetic heterogeneity underlying the neuronopathic Type A and nonneuronopathic Type B phenotypes have been limited since acid sphingomyelinase is difficult to purify, the commonly used enzymatic assays are insensitive and labor intensive, and
+monospecific antibodies have been difficult to produce (8-10).
+In general, Type A Niemann-Pick disease patients tend to have
+slightly lower residual activities in crude cell and tissue homogenates than Type B patients; however, the residual activities
+have not been well characterized (2, 5, 11, 12). Similarly, all of
+the Type A and B Niemann-Pick disease patients studied to
+date have had cross-reactive immunologic material in crude
+cell homogenates; however, accurate estimates of the amount
+of enzyme protein have not been determined (13, 14).
+In contrast, investigations into the molecular nature of the
+genetic heterogeneity in Niemann-Pick disease have been facilitated by the recent isolation and characterization of the fulllength cDNA encoding human acid sphingomyelinase (15, 16).
+The 2347-bp cDNA contained an open reading frame of 1890bp which encoded a 629-residue polypeptide containing six
+potential N-glycosylation sites. The availability of the cDNA
+permitted the localization of the acid sphingomyelinase gene to
+the chromosomal region 1 lpl 5.1-15.4 by the use of somatic
+cell hybrids and in situ hybridization techniques (17). Studies
+also have been undertaken to determine the nature of the genetic lesions causing Type A Niemann-Pick disease. By sequencing polymerase chain reaction (PCR)'-amplified acid
+1. Abbreviations used in this paper: ASO, allele-specific oligonucleotide; PCR, polymerase chain reaction; PSA,2-sphingomyelin, [N-12( 1pyrenesulfonoyl)amido dodecanoyl] sphingomyelin.
+
+sphingomyelinase cDNAs from a Type A patient of Ashkenazi
+Jewish descent, a single, exonic G to T transversion was identified which predicted an arginine to leucine substitution in position 496 of the acid sphingomyelinase polypeptide (designated
+R496L) (18). The R496L mutation was found in about onethird of the Ashkenazi Jewish Type A Niemann-Pick disease
+alleles studied; in contrast, only about 6.0% of the alleles from
+non-Jewish Type A patients had this mutation. Some Type A
+patients were homoallelic for the R496L mutation, while
+others were heteroallelic, indicating the occurrence of other
+acid sphingomyelinase mutations that caused the Type A phenotype. Interestingly, the R496L mutation also was detected in
+one of the two Ashkenazi Jewish Type B patients studied.
+Thus, efforts were undertaken to determine the molecular lesion in the other acid sphingomyelinase allele ofthe Ashkenazi
+Jewish Type B patient who was heteroallelic for the R496L
+mutation.
+In this communication, we report the identification of a
+three-base deletion in the acid sphingomyelinase coding region
+from this Type B Niemann-Pick disease patient (proband 2)
+that results in the deletion of codon 608, which encoded an
+arginine residue (designated AR608). Notably, both of the
+unrelated Ashkenazi Jewish Type B patients analyzed were heteroallelic for the AR608 mutation and one of the 15 unrelated
+non-Jewish Type B patients studied was homoallelic. The absence of the AR608 mutation in 67 Type A Niemann-Pick
+disease alleles suggested that the AR608 lesion resulted in the
+Type B phenotype, even when heteroallelic with the R496L
+Type A mutation, thus providing the first genotype/phenotype
+correlation for Niemann-Pick disease.
+
+Methods
+Cell lines. Primary cultures of fibroblasts and lymphoblasts were established from skin biopsies and peripheral blood samples obtained with
+informed consent from Niemann-Pick disease patients and family
+members, and from normal individuals. Niemann-Pick disease lines
+GMOO1 12A, GM00165, GM00370, GM00406, GM00559, GM02895,
+and GM03252 were obtained from the Human Genetic Mutant Cell
+Repository, Camden, NJ. Cell lines 444X.FO1, 534R.F03, 556X.FO1,
+888V.F01, 2789X.FO1, 4293Q.E02, 4774Z.F01, 5113C.L01, 5115E.F01, and 679 1M.FO1 were obtained from the Service de Biochimie,
+Hospice de Lyon, Lyon, France. Cell lines DMN 83.126, DMN 84.135,
+DMN 84.87, DMN 86.49, DMN 87.71, DMN 87.99, DMN 88.12,
+DMN 88.9, and RNS were provided by Dr. Peter Penchev, Developmental and Metabolic Neurology Branch, National Institute of Neurological and Communicative Disorders and Stroke. The cells were
+grown in RPMI 1640 media supplemented with 10% fetal bovine
+serum, 1% penicillin, and 1 mg/ml streptomycin by standard procedures (18). The diagnosis of Types A and B Niemann-Pick disease was
+based on clinical criteria (e.g., age at onset, presence of neurologic involvement, etc.) and by demonstration of markedly deficient acid
+sphingomyelinase activity in cultured cells (8). Clinical data on probands 1 and 2 have been published (3, 19), and information on proband 3 was provided by Dr. M. Vanier, Department of Biochemistry,
+Faculte de Medecine, Lyon, France.
+Enzyme and protein assays. Acid sphingomyelinase activity was
+determined in cultured fibroblasts obtained from Niemann-Pick disease patients and normal individuals using the fluorescent natural substrate, [N- 12(l -pyrenesulfonyl)amido dodecanoyl] sphingomyelin
+(PSA12-sphingomyelin) as previously described (8). 1 U of activity
+equals that amount of enzyme that hydrolyzes 1 nmol of substrate per
+h. Protein determinations were performed by a modified fluorescamine assay (20).
+
+cDNA and genomic amplification and sequencing. For acid sphingomyelinase cDNA amplification and sequencing, total RNA was isolated from cultured cells by standard procedures (21). First-strand
+cDNA was synthesized with reverse transcriptase from - 5 Ag of total
+RNA using a cDNA synthesis kit according to the manufacturer's instructions (Boehringer Mannheim Corp., Indianapolis, IN). The acid
+sphingomyelinase cDNA (- 10%l6 of the total reaction) was PCR-amplified (22) with Taq polymerase (Perkin-Elmer Cetus, Norwalk, CT)
+using the previously described oligonucleotide primers (18). PCR was
+performed for 30 cycles, each consisting of denaturation for 1 min at
+940C and annealing and extension for 4 min at 720C. After amplification, the PCR products were isolated from agarose gels and subcloned
+into either Bluescript KS (+) (Stratagene Inc., La Jolla, CA) or pGEM
+9Zf (-) (Promega Corp., Madison, WI) vectors. For each amplified
+product, from 4 to 10 independent subclones were sequenced in both
+orientations by the dideoxy method (23).
+To confirm the candidate mutation, genomic DNA was isolated
+from the proband (21) and a 567-bp genomic fragment containing
+the mutation was PCR-amplified using sense (5'-AGTAGTCGACATGGGCAGGATGTGTGG-3') and antisense (Y-AGTAGTGTCGACTTGCCTGGTTGAACCACAGC-3') primers synthesized on a
+DNA Synthesizer (model 380B; Applied Biosystems Inc., Foster City,
+CA) (24). The amplified genomic fragment was isolated, subcloned,
+and sequenced as described above for the PCR-amplified acid sphingomyelinase cDNAs.
+Dot-blot analysis ofthe mutant alleles. For detection of the AR608
+mutation in other Niemann-Pick disease patients, their parents and
+relatives, as well as normal individuals, total genomic DNA was isolated, PCR-amplified as described above, and the 567-bp acid sphingomyelinase product was analyzed by dot-blot hybridization using Zetabind nylon membranes (AMF-Cuno, Meriden, CT) and a dot-blot apparatus (Bio-Rad Laboratories, Richmond, CA). Hybridizations ofthe
+PCR product with the normal allele-specific oligonucleotide (ASO)
+(5'-CTCTGTGCCGCCACCTG-3') or with the AR608 ASO (5'GCTCTGTGCCACCTGAT-3') were performed for at least 3 h at
+39°C. 5' end-labeling of the ASOs with T4 polynucleotide kinase and
+[y-32P]ATP (> 5,000 Ci/mmol) was performed by standard procedures
+(21). After hybridization, the blots were washed at room temperature
+for 15 min in 6X SSC containing 0.1% SDS, and then for 2 h in the
+same solution at either 54°C for the normal ASO or 50°C for the
+AR608 ASO. Dot-blot analysis of the R496L mutation was performed
+as previously described (19).
+
+Results
+Identification of the AR608 mutation in an Ashkenazi Jewish
+patient with Type B Niemann-Pick disease. Previous studies of
+an Ashkenazi Jewish Type B Niemann-Pick disease patient
+(proband 2; cell line MS 1271) indicated that he had - 5-8%
+residual acid sphingomyelinase activity and that he was heteroallelic for the R496L mutation (19). To identify the molecular
+lesion in his other acid sphingomyelinase allele, total RNA
+from the proband was reverse-transcribed, the acid sphingomyelinase coding region was PCR-amplified, and the PCR
+products were subcloned into plasmid vectors for DNA sequencing. A three-base deletion (CCG) of nucleotides 18211823 in the full-length acid sphingomyelinase cDNA (16) was
+identified which predicted the removal of a single arginine residue at position 608 of the acid sphingomyelinase polypeptide
+(designated AR608). The authenticity of this deletion was determined by genomic sequencing (Fig. 1) and by dot-blot hybridization of PCR-amplified genomic DNA from proband 2
+and other family members using an ASO specific for the
+AR608 mutation (Fig. 2). In addition, dot-blot hybridizations
+confirmed the AR608/R496L genotype of proband 2, and demGenetic Heterogeneity in Types A and B Niemann-Pick Disease
+
+807
+
+Figure 1. Identification
+of a three-base deletion
+
+A.
+G
+
+AL
+
+T
+
+H~s
+CA-
+
+1:
+
+G A T C
+
+=
+<
+1utan ~
+
+AR116080C
+
+C
+
+CYS
+
+Nlrmal
+
+LeuTal
+
+y '-
+
+5'
+
+W60
+L167CA606 609 610
+
+B.
+
+L
+
+Norml: S'- CTG TGC CGC CAC
+66606
+
+5 - CTG TG
+
+CTG
+
+3'
+
+CCAC CTG 3'
+
+L
+
+LOU
+
+CY
+
+Hi
+
+606
+
+607
+
+606 609
+
+Lou
+
+in the acid sphingomyelinase
+genomic2.DNA
+(A)
+from proband
+,The
+_ methods
+.. " for PCR
+of the--d acid
+amplification
+__ -----------~sphingomyelinase genomic DNA from proband
+2, subcloning of the
+PCR products, and
+DNA sequencing are
+described in the text.
+
+A small area of the ge-
+
+Table I. Frequency of the AR608 Mutation in Ashkenazi Jewish
+and Non-Jewish Families with Types A and B Niemann-Pick
+Disease
+Source
+
+Unrelated families
+studied
+
+Mutant alleles
+studied
+
+2
+15
+
+30
+
+6.7
+
+31
+36
+
+0.0
+0.0
+
+Type B disease
+Ashkenazi Jewish
+
+Non-Jewish
+Type A disease
+Ashkenazi Jewish
+Non-Jewish
+
+% AR608
+
+50
+
+4
+
+17
+
+18
+
+nomic sequence ob-
+
+tained from a normal
+individual (left) and
+proband 2 (right) is shown. (B) A schematic representation of the
+AR608 mutation.
+
+onstrated that the AR608 and R496L mutations were transmitted from his father and mother, respectively. Proband 2's
+brother did not receive either mutant acid sphingomyelinase
+allele. The AR608 mutation was not identified in over 100 acid
+sphingomyelinase alleles from normal individuals, indicating
+that the deletion was not a polymorphism.
+Occurrence of the AR608 mutation in types A and B Niemann-Pick disease. Table I shows the occurrence ofthe AR608
+mutation in the acid sphingomyelinase alleles of other patients
+and obligate heterozygotes with Types A and B Niemann-Pick
+disease, as determined by dot-blot analysis of PCR-amplified
+genomic DNA. Interestingly, a second, unrelated Ashkenazi
+Jewish Type B Niemann-Pick disease patient was heteroallelic
+for the AR608 mutation and another, unknown mutant acid
+sphingomyelinase allele. Of the 15 non-Jewish Type B patients
+studied only one, an Arab from Algeria (proband 3; cell line
+534R.F03), was homoallelic for this mutation. This 2 1-yr old
+male has a mild Type B phenotype (Vanier, M. T., personal
+communication). Of the 67 acid sphingomyelinase alleles from
+Type A Niemann-Pick disease patients or obligate heterozygotes (26 and 19 unrelated Ashkenazi Jewish and non-Jewish
+individuals, respectively), none had the AR608 mutation.
+
+Comparison of the residual acid sphingomyelinase activities in Type A and B Niemann-Pick disease patients. Table II
+shows the acid sphingomyelinase activities in cultured fibroblasts from probands 1, 2, and 3, which were determined using
+the fluorescent natural substrate, PSA12-sphingomyelin. Normal individuals had a mean activity of46.3 nmol cleaved/h per
+mg. In contrast, Type A proband 1, who was homoallelic for
+R496L, had < 1% of normal activity. Type B proband 2, whose
+genotype was R496L/AR608, had a residual activity of 5%
+of normal, whereas proband 3 who was homoallelic for AR608
+had - 13% of normal mean acid sphingomyelinase activity,
+indicating that the AR608 allele expressed functional acid
+sphingomyelinase activity in a dosage-dependent manner.
+-
+
+Discussion
+In 1966, Brady et al. reported that the primary enzymatic defect in Type A Niemann-Pick disease was the deficient activity
+of acid sphingomyelinase (1). In the following year, Schneider
+and Kennedy demonstrated that acid sphingomyelinase activity also was markedly decreased in patients with the milder,
+visceral form of Niemann-Pick disease now known as Type B
+disease (2). Subsequent biochemical analyses of additional patients confirmed these findings (10-12) and somatic cell genetic studies demonstrated that the mutations causing Types A
+and B disease were allelic (6). These findings stimulated investigators to speculate that the remarkable clinical heterogeneity
+observed among Type A and B Niemann-Pick disease patients
+
+Table II. Genotype/Phenotype Correlations in Niemann-Pick
+Types A and B Disease
+Acid sphingomyelinase activity
+
+Normal
+_
+
+R608
+
+Genotype
+
+Phenotype
+
+,'
+
+0W--
+
+Mutant
+AR608
+
+Normal
+R496
+
+'i..
+
+Mutant
+
+R496L
+808
+
+0.
+
+'.~
+
+.
+
+% of normal mean
+
+nmol/h per mg
+
+Figure 2. Genotype
+analysis of proband 2
+and family members by
+dot-blot hybridization.
+The conditions used for
+dot-blot hybridization
+of PCR-amplified genomic DNA with the
+R496L and AR608
+ASOs are described in
+the text.
+
+Levran,
+
+mean
+(range)
+
+R. J. Desnick, and E. H. Schuchman
+
+R496L/R496L
+(proband 1)
+
+Type A
+
+R496L/AR608
+
+Type B
+
+(proband 2)
+AR608/AR608
+(proband 3)
+
+0.33
+(0.21-0.47)
+2.23
+
+0.7
+4.8
+
+(1.8-2.3)
+Type B
+
+5.95
+(5.1-6.9)
+
+12.8
+
+The mean acid sphingomyelinase activity in three normal individuals
+was 46.3 nmol/h per mg (range 37.5-61.0 nmol/h per mg).
+
+was due to different mutations in the acid sphingomyelinase
+gene which resulted in altered enzyme polypeptides that expressed varying amounts of residual activity (e.g., 13, 14). However, efforts to reliably predict either the disease subtype or the
+severity of Type B patients by the amount of residual acid
+sphingomyelinase activity have not been possible, in part due
+to the inability of assay procedures to accurately distinguish
+between patients with low levels of residual acid sphingomyelinase activity and/or the presence of the neutral sphingomyelinase activity in cell homogenates (25). In addition, the inability to reliably discriminate obligate heterozygotes for Types A
+and B Niemann-Pick disease from noncarriers by the determination of acid sphingomyelinase activity in isolated leukocytes
+has precluded carrier screening for Niemann-Pick disease.
+The recent cloning and sequencing of the acid sphingomyelinase cDNA (15, 16) has permitted identification of the first
+mutations which result in Types A and B Niemann-Pick disease. Previously, the R496L mutation, due to a single G to T
+transversion, was found in 32% of the Ashkenazi Jewish Type
+A Niemann-Pick disease alleles studied. In contrast, it was present in only 5.6% of the non-Jewish Type A alleles analyzed
+(19). In addition, proband 2, an Ashkenazi Jewish Type B Niemann-Pick disease patient was found to be heteroallelic for the
+R496L mutation. In our study, a three-base deletion (AR608)
+in the acid sphingomyelinase gene was identified as the other
+mutation in proband 2. As shown in Fig. 1 B, the three-base
+deletion, CCG, removed the last nucleotide of codon Cys-607
+(TGC) and the first two nucleotides of codon Arg-608 (CGC).
+The new codon 607 formed by this deletion, TGC, also encoded a cysteine residue. Thus, the deletion resulted in the
+elimination of a single codon, 608, which encoded an arginine
+
+residue.
+Detection of the R496L and AR608 mutations in patients
+with Types A and B Niemann-Pick disease has permitted genotype/phenotype correlations and provided insights into the
+function of the altered enzymes encoded by these mutant alleles (Table II). The homoallelic (R496L/R496L) Type A patient who expresses < 1 % of normal acid sphingomyelinase activity in cultured fibroblasts indicates that the R496L mutation
+encodes an acid sphingomyelinase polypeptide with little, if
+any, catalytic activity and/or markedly decreased stability,
+thereby resulting in the neuronopathic phenotype. In contrast,
+both heteroallelic (R496L/AR608) and homoallelic (AR608/
+AR608) Type B patients express an enzyme with sufficient residual activity to prevent neurologic manifestations. These findings suggest that the substitution of an arginine for a leucine at
+position 496 was more damaging to the enzyme's activity and/
+or stability than the deletion of an arginine residue in position
+608. It follows that Type B patients who are homoallelic for
+AR608 would have a milder disease course than Type B patients who are heteroallelic for AR608 and a Type A mutation.
+Notably, proband 3 had comparatively milder disease manifestations than proband 2 at the same age. Thus, these genotype/
+phenotype correlations indicate that the more residual acid
+sphingomyelinase activity expressed by the mutant alleles, the
+milder the disease manifestations. Ideally, in vitro expression
+would permit comparisons of the activity and stability of the
+residual enzymes expressed by each mutant acid sphingomyelinase allele. However, it is likely that the residual activities
+expressed by the mutant alleles would be too low to permit
+biochemical characterization, particularly since eukaryotic ex-
+
+pression systems (e.g., COS-l cells, CHO cells) have endogenous acid sphingomyelinase activity and prokaryotic systems
+do not perform the posttranslational modifications (e.g., N-glycosylation) required for acid sphingomyelinase activity.
+The occurrence of genetic heterogeneity resulting in dramatically different phenotypes is a hallmark of the lysosomal
+storage diseases. A notable example in which the molecular
+lesions have been correlated with distinct phenotypes is TaySachs disease (26, 27). Mutations causing the classic, infantile
+form of Tay-Sachs disease have included deletions, insertions,
+and splice site mutations in the fl-hexosaminidase A a-chain
+gene that resulted in no detectable transcripts, whereas an exonic point mutation expresses sufficient enzymatic activity to
+result in the adult or chronic type of GM2 gangliosidosis. Analo-
+
+gously, identification of the R496L and AR608 mutations has
+provided the first insights into the molecular lesions in the acid
+sphingomyelinase gene underlying the remarkable phenotypic
+heterogeneity in Niemann-Pick disease. Clearly, individuals
+who are homoallelic for the R496L mutation will have a severe
+neuronopathic phenotype and Type A Niemann-Pick disease.
+The phenotype of patients heteroallelic for R496L will depend
+on the genetic lesion present on their other acid sphingomyelinase allele. In contrast, patients who are either homo- or heteroallelic for the AR608 (e.g., probands 2 and 3) will most
+likely have Type B Niemann-Pick disease. The identification of
+additional mutations causing Types A and B Niemann-Pick
+disease should permit reliable genotype/phenotype correlations and provide further insights into the functional organization of the acid sphingomyelinase polypeptide.
+
+Acknowledgments
+The authors thank Dr. Mariko Suchi for performing the acid sphingomyelinase enzyme assays, Constantine Zamfirescu and Sofiana Katz
+for expert technical assistance, and our colleagues who provided samples from the Niemann-Pick families.
+This work was supported by a March of Dimes Basic Research
+Grant ( 1-1224) and by a grant for the General Clinical Research Center
+(RROO07 1) from the National Center for Research Resources, National Institutes of Health.
+
+References
+1. Brady, R. O., J. N. Kanfer, M. B. Mock, and D. S. Fredrickson. 1966. The
+metabolism of sphingomyelin. II. Evidence of an enzymatic deficiency in Nie-
+
+mann-Pick disease. Proc. Natl. Acad. Sci. USA. 55:366-369.
+2. Schneider, P. B., and E. P. Kennedy. 1967. Sphingomyelinase in normal
+human spleens and in spleens from subjects with Niemann-Pick disease. J. Lipid
+Res. 8:202-206.
+3. Crocker, A. C. 1961. The cerebral defect in Tay-Sachs and Niemann-Pick
+disease. J. Neurochem. 7:69-78.
+4. Fredrickson, D. S., and H. R. Sloan. 1972. Sphingomyelin lipidosis: Niemann-Pick disease. In The Metabolic Basis of Inherited Disease. J. S. Stanbury,
+J. S. Wyngaarden, and D. S. Fredrickson, editors. McGraw-Hill, Inc., New York.
+3rd ed. 783-807.
+5. Spence, M. W., and J. W. Callahan. 1989. Sphingomyelin-cholesterol lipidoses: the Niemann-Pick group of diseases. In The Metabolic Basis of Inherited
+Disease. C. R. Scriver, A. L. Beaudet, W. S. Sly, and D. Valle, editors. McGrawHill, Inc., New York. 6th ed. 1655-1676.
+6. Besley, G. T. N., A. J. M. Hoogeboom, A. Hoogeveen, W. J. Kleimjer, and
+H. Galjaard. 1980. Somatic cell hybridization studies showing different gene
+mutations in Niemann-Pick variants. Hum. Genet. 54:409-412.
+7. Goodman, R. M. 1979. Genetic disorders among the Jewish people. Johns
+Hopkins University Press, Baltimore. 96-100.
+8. Klar, R., T. Levade, and S. Gatt. 1988. Synthesis of pyrenesulfonylamidosphingomyelin and its use as substrate for determining sphingomyelinase activity
+and diagnosing Niemann-Pick disease. Clin. Chim. Acta. 176:259-268.
+
+Genetic Heterogeneity in
+
+Types A and B Niemann-Pick Disease
+
+809
+
+9. Gal, A. E., and F. J. Fash. 1976. Synthesis of 2-N4hexadecanoyl)-amino-4nitrophenyl phosphorycholine-hydroxide, a chromogenic substrate for assaying
+sphingomyelinase activity. Chem. Phys. Lipids. 16:71-79.
+10. Levade, T., R. Salvayre, and L. Douste-Blazy. 1986. Sphingomyelinases
+and Niemann-Pick disease. J. Clin. Chem. Clin. Biochem. 24:205-220.
+1 1. Poulos, A., E. Ranieri, P. Shankaran, andJ. W. Callahan. 1984. Studies on
+the activation of sphingomyelinase activity in Niemann-Pick type A, B, and C
+fibroblasts: enzymological differentiation of Types A and B. Pediatr. Res.
+18:1088-1092.
+12. Besley, G. T. N., and M. Elleder. 1986. Enzyme activities and phospholipid storage patterns in brain and spleen samples from Niemann-Pick disease
+variants: a comparison of neuronopathic and non-neuronopathic forms. J. Inherited Metab. Dis. 9:59-71.
+13. Rousson, R., M. T. Vanier, and P. Louisot. 1986. Immunologic studies on
+acidic sphingomyelinases. In Enzymes of Lipid Metabolism II. L. Freysz, H.
+Dreyfus, R. Massarelli, and S. Gatt, editors. Plenum Publishing Corporation,
+New York. 273-283.
+14. Jobb, E. 1987. Acid sphingomyelinase in normal tissues and biosynthesis
+in normal and Niemann-Pick fibroblasts. Ph.D. thesis. University of Toronto.
+15. Quintern, L., E. H. Schuchman, 0. Levran, M. Suchi, K. Sandhoff, and
+R. J. Desnick. 1989. Isolation of cDNA clones encoding human acid sphingomyelinase EMBO (Eur. Mol. Biol. Organ.) J. 8:2469-2473.
+16. Schuchman, E. H., M. Suchi, T. Takahashi, K. Sandhoff, and R. J. Desnick. 1991. Human acid sphingomyelinase: isolation, nucleotide sequence and
+expression of the full-length and alternatively spliced cDNAs. J. Biol. Chem.
+266:8531-8539.
+17. Pereira, L., R. J. Desnick, D. Adler, C. M. Disteche, and E. H. Schuchman. 1991. Regional assignment of the human acid sphingomyelinase gene
+
+810
+
+0. Levran, R. J. Desnick, and E. H. Schuchman
+
+(SMPD1 ) by PCR analysis of somatic cell hybrids and in situ hybridization to
+1 lp 15. I-p15.4. Genomics. 9:229-234.
+18. Bernstein, H. S., D. F. Bishop, K. A. Astrin, R. Kornreich, C. M. Eng, H.
+Sakuraba, and R. J. Desnick. 1989. Fabry disease: six gene rearrangements and an
+exonic point mutation in the a-galactosidase gene. J. Clin. Invest. 83:1390-1399.
+19. Levran, O., R. J. Desnick, and E. H. Schuchman. 1991. Niemann-Pick
+disease: a frequent missense mutation in the acid sphingomyelinase gene of Ashkenazi Jewish type A and B patients. Proc. Natl. Acad. Sci. USA. 88:3748-3752.
+20. Bishop, D. F., and R. J. Desnick. 1981. Affinity purification of a-galactosidase A from human spleen, placenta, and plasma with elimination of pyrogen
+contamination. Properties of the purified splenic enzyme compared to other
+forms. J. Biol. Chem. 256:1307-1316.
+21. Sambrook, J., E. F. Fritsch, and T. A. Maniatis. 1989. Molecular Cloning:
+A Laboratory Manual. Cold Spring Harbor Laboratory Press, Cold Spring Harbor, NY.
+22. Saiki, R. K., D. H. Gelfand, S. Stoffel, S. J. Scharf, R. Higuchi, G. T. Horn,
+K. B. Mullis, and H. A. Erlich. 1988. Primer directed amplification of DNA with
+a thermostable DNA polymerase. Science (Wash. DC). 239:487-491.
+23. Sanger, F., J. Nickleson, and A. R. Coulson. 1977. DNA sequencing with
+chain terminating inhibitors. Proc. Nat!. Acad. Sci. USA. 74:5463-5467.
+24. Itakura, K., J. J. Rossi, and R. B. Wallace. 1984. Synthesis and use of
+synthetic oligonucleotides. Annu. Rev. Biochem. 53:323-356.
+25. Chatterjee, S., and N. Gosh. 1989. Neutral sphingmyelinase from human
+urine. J. Biol. Chem. 264:12554-12561.
+26. Neufeld, E. F. 1989. Natural history and inherited disorders of alysosomal
+enzyme, jl-hexosaminidase. J. Biol. Chem. 264:10927-10930.
+27. Navon, R., and R. L. Proia. 1989. The mutations in Ashkenazi Jewish
+adult GM2 gangliosidosis, the adult form of Tay-Sachs disease. Science (Wash.
+
+DC). 243:1471-1474.
+
+

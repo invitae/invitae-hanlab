@@ -1,0 +1,526 @@
+Rapid Publication
+Proposed Heparin Binding Site in Antithrombin Based
+
+on
+
+Arginine 47
+
+A New Variant Rouen-II, 47 Arg to Ser
+J. Y. Borg, M. C. Owen, C. Sona, J. Sona, J. Caen, and R. W. Carrell
+Laboratoire d'Hemostase, Centre Hospitalier Universitaire Rouen 76038 Cedex, France; Molecular Pathology Laboratory, Department
+of Clinical Biochemistry, Christchurch Hospital, Christchurch, New Zealand; Unite' de Recherches de Thrombose Experimentale et
+Hemostase, Unite' 150 Institut National de la Sante et de la Recherche Medicale, H6pital Lariboisiere 75475 Paris, France; and
+Haematology Department, University of Cambridge, Cambridge CB2 2QL, United Kingdom
+
+Abstract
+Antithrombin Rouen-II, a new inherited variant of antithrombin-III, was found in two members of a family with no definite
+history of thrombosis. The subjects had normal antigenic concentrations of antithrombin and normal progressive inhibitory
+activity. However, the variant had defective heparin and heparan -sulfate cofactor activities, and was not activated by a
+synthetic pentasaccharide representing the minimum heparin
+sequence.
+
+The abnormal antithrombin was isolated using heparinSepharose chromatography, and on electrophoresis at pH 8.6
+migrated more anodally than normal. Two-dimensional peptide
+mapping of tryptic and Staphylococcus aureus V8 protease
+digests was performed and the abnormal peptide was located
+by tryptophan staining. Amino acid sequence studies demonstrated a substitution of arginine at residue 47 by a serine.
+Evidence strongly suggests that arginine 47 is a prime heparin binding site in antithrombin and that it forms part of a
+proposed positively charged linear site (to which heparin
+binds) that stretches across the surface of the molecule from
+the A to the D helix.
+
+Introduction
+Antithrombin (antithrombin-III) a member of the serpin superfamily (1), is the major inhibitor of thrombin and several
+other coagulation seine proteases. It plays an important physiological role in controlling the coagulation cascade. Inherited
+quantitative deficiencies of antithrombin result in an increased
+risk of thromboembolic disease (2).
+The formation of the inactive protease-antithrombin complexes is greatly accelerated by commercial heparins or by
+endothelial, heparin-like substances (3) which are most likely
+to be one of the heparan sulfates (4).
+The mechanism by which heparin activates the protease
+inhibitory activity of antithrombin remains puzzling, but
+Address all correspondence to Dr. J. Y. Borg, Laboratoire d'Hemostase, Hopital Charles Nicolle, 76038 Rouen, Cedex, France.
+Receivedfor publication 26 October 1987 and in revisedform 12
+January 1988.
+
+J. Clin. Invest.
+© The American Society for Clinical Investigation, Inc.
+
+0021-9738/88/04/1292/05 $2.00
+Volume 81, April 1988, 1292-1296
+1292
+
+some illuminating data have recently emerged. The antithrombin binding sequence in heparin is a unique specific
+pentasaccharide (5) bearing at least four sulfate groups that
+play an essential role in this interaction (6). On the other hand,
+the localization of the heparin binding site on antithrombin
+remains uncertain. The first clues have come either from
+chemically modified antithrombins or from molecular characterization of natural mutant inhibitors. In vitro alteration of
+the tryptophan 49 (7) or of lysine residues (8) prevent the
+heparin acceleration of the inhibitory activity without affecting the progressive protease inhibitor interaction when the
+mucopolysaccharide is absent. Only five variants of antithrombin with impaired heparin binding ability have been
+extensively studied. In four of them, arginine at residue 47 is
+replaced either by a cysteine in antithrombin Toyama (9),
+Tours (10), and Alger (11), or by a histidine in the vanant
+Rouen-I we recently reported (12). The fifth one, antithrombin Basel, has a Pro to Leu substitution at residue 41 (13).
+We describe in this paper the qualitative investigations and
+the molecular characterization of a new inherited antithrombin mutant, Rouen-II. Rouen-II has normal progressive inhibitory activity but defective heparin binding and low heparin
+and heparan sulfate cofactor activities which occur as a result
+of the replacement of arginine 47 by seine. This variant provides new evidence that arginine 47 is a prime site in antithrombin for the binding of heparin and endothelial mucopolysaccharides.
+
+Methods
+Case report. The propositus, a 40-yr-old man suffering from hypertriglyceridemia, was admitted to hospital because of a sudden myocardial infarction that lacked extensive coronary artery disease (this was
+found out through angiography). As a result of standard investigations
+
+he was found to have an abnormal antithrombin. There was no previous familial history of thrombosis, but his 13-yr-old daughter displayed the same antithrombin abnormality.
+Antithrombin measurements in plasma. Antithrombin concentration was quantified by Laurell electroimmunoassay (14). Qualitative
+determinations were carried out by amidolytic methods using synthetic chromogenic substrates ofthrombin (IIa) or Factor Xa. Progressive anti-Ila activity was assayed with S2238 from Kabi (Flow, Puteaux, France) and human Ila, as proposed by Aiach (15), progressive
+anti-Xa activity was evaluated with CBS 3139 (Serbio, Asnieres,
+France) according to Odegard (16). Antithrombin activity was evaluated in the presence of heparin using the reagent kit of Diagnostica
+Stago (Asnieres, France) on a discrete analyzer as recommended by
+Aiach (17): 5 ,ul of plasma were diluted in 500 j,l of pH 8.7, Tris buffer
+
+J. Y. Borg, M. C. Owen, C. Soria, J. Soria, J. Caen, and R. W. Carrell
+
+containing an excess of bovine thrombin and 3 IU/ml heparin. After a
+20-s incubation time, 100 l of chromo-thrombin was added and the
+increase in absorbance recorded during 40 s. Antithrombin activity
+was also measured in the presence of purified heparan sulfate (HS Ila),
+obtained from B. Casu (18), using an end-point method: 200 Al of
+plasma (diluted 1:10 in Tris-EDTA buffer, pH 8.4, containing 2.25 US
+Pharmacopeia U/ml heparan sulfate) were incubated with 200 z1 bovine thrombin during 30 s; 200 Al of CBS 3447 was added and the
+reaction was stopped after 60 s. Anti-Factor Xa activity was evaluated
+in the presence of 3 IU/ml heparin or 1 I.C. anti-Xa U/ml synthetic
+pentasaccharide (IC 851589; a gift from Institut Choay, Paris, France)
+with the same conditions as for heparan sulfate cofactor activity, but in
+the presence of bovine Factor Xa and CBS 3139 (from Stachrom
+heparin reagent kit, Diagnostica Stago). Results are expressed in percentage of control plasma, which comprised a pool of 20 normal
+plasmas.
+
+Crossed immunoelectrophoresis of antithrombin. This was
+achieved according to Sas' method (19), with or without the addition in
+the first dimension of 25 IU/ml unfractionated heparin or of 25 antiXa I.C. U/ml low molecular weight heparin (CY 222; Institut Choay,
+mean molecular weight, 2,500).
+Purification and characterization of antithrombin. Antithrombin
+was isolated on heparin-Sepharose as previously described (12). Electrophoresis on agarose and SDS polyacrylamide, '4C-carboxymethylation and proteolytic digestion with trypsin and S. aureus V8 protease,
+thin layer peptide mapping, HPLC peptide separations, and peptide
+sequencing were performed as previously described ( 12).
+Antithrombin activation studies. These were performed using purified normal and propositus antithrombins, adjusted to equal antigenic
+concentration by varying both the heparin concentration (0.1, 0.5, 5.0
+IU) and the ionic strength of the phosphate buffer, pH 7.4 (isotonic, 2x
+isotonic, 3x isotonic). 0.2 Mg of purified antithrombin was added to
+600 Al of buffer, pH 7.4, which contained heparin. Excess thrombin
+(10 Al of Parke Davis, Detroit, topical bovine thrombin diluted 15 ,l to
+1 ml) was added and, after 20 min, 25 MA of Chromozym-TH (5 mg/ml)
+was added and the increase in absorbance was monitored at 405 nm.
+
+Results
+The propositus and his daughter both demonstrated the same
+antithrombin abnormality in their plasmas (Table I). Immunoreactive levels and progressive activities of antithrombin
+were within the normal range, whereas heparin cofactor activities measured by antithrombin or anti-Factor Xa assays were
+decreased to 64-70% of the control, and heparan sulfate coTable L Antithrombin Levels* in the Propositus
+and Daughter's Plasma
+Antithrombin antigen
+Progressive anti-Ila activity
+Progressive anti-Xa activity
+Heparin cofactor activity
+
+(anti-Ila)
+
+Propositus
+
+Daughter
+
+Nornmal range
+
+102
+100
+120
+
+115
+122
+100
+
+80-120
+80-120
+78-114
+
+64
+
+65
+
+82-118
+
+60
+
+68
+
+84-120
+
+64
+
+70
+
+82-116
+
+60
+
+66
+
+84-116
+
+Heparan sulfate cofactor
+
+activity (anti-Ila)
+Heparin cofactor activity
+(anti-Xa)
+Pentasaccharide cofactor
+activity
+
+factor activity evaluated by an anti-Ila measurement was
+equally low at 60 and 68%, respectively, of the control. In the
+same way, the pentasaccharide only partially potentiated inhibition of Factor Xa in the patient's plasma.
+Normal patterns were obtained by crossed immunoelectrophoresis in the absence of heparin. But in the presence of
+unfractionated heparin or low molecular weight heparin, normal antithrombin migrated as a major, more anodal peak,
+while both abnormal plasmas displayed a double-peak pattern;
+one peak had the same fast mobility as the control, the other
+had the same slower migration as antithrombin in the absence
+of heparin (gels not shown).
+The results of heparin-Sepharose chromatography of the
+patient's plasma at pH 7.4 show heterozygosity for an antithrombin of decreased heparin binding affinity (Fig. 1). The
+variant antithrombin eluted with 0.45 mol/liter NaCl compared with the normal antithrombin which eluted at 0.95
+mol/liter. Quantitation by electroimmunoassay confirmed the
+presence of an excess of variant compared with the normal
+component (Table II). The activities of the two separate fractions were also compared (as seen on Table II) using the experimental conditions described for the plasma measurements.
+The abnormal fraction had normal progressive inhibition activity but defective heparin or pentasaccharide cofactor activities.
+The thrombin inhibitory activity of purified Rouen-II and
+normal antithrombin were compared in PBS that was two or
+three times its isotonic strength with varying amounts of heparin (Fig. 2). This showed that the variant antithrombin was
+incompletely activated in the presence of low levels of heparin
+when there was sufficient competition from the sodium and
+chloride ions for the charged groups on heparin and antithrombin. At the concentrations of heparin used in the experiment there was no significant difference between Rouen-II
+and normal antithrombin-III under isotonic conditions. However, at 2x isotonic concentration Rouen-II showed < 50%
+activity at the low heparin level. The difference in activity
+between normal antithrombin and Rouen-I1 is even more dramatic in 3X isotonic strength buffer. Here Rouen-I1 with 5.0 U
+of heparin had less activity than normal antithrombin with 0.5
+U of heparin.
+Electrophoresis in agarose at pH 8.6 showed that the abnormal antithrombin migrated faster (more anodally) than
+normal, implying that the variant had an increased negative
+charge. SDS-PAGE showed the molecular weight of normal
+and abnormal antithrombins to be identical at 56,000.
+A series of peptide maps were prepared of both the normal
+and abnormal antithrombins. These were identical apart from
+a consistent finding in both tryptic and V8 protease maps of a
+shifted tryptophan-containing peptide. Normal tryptic maps
+0*1 .-1i-5
+'
+\
+Ii
+
+-
+
+* Values expressed as a percentage of that obtained from pooled
+plasma (20 normal samples).
+
+4~~~~~~~~~~~~~~
+
+00
+
+Elution Volume
+
+SoNaCI
+- moli
+
+Figure 1. Elution profile of heparin-Sepharose chromatography
+showing the resolution
+of antithrombin Rouen-
+
+II from normal antithrombin at pH 7.4.
+The proteins were
+eluted with anf increasing linear NaCI gradient.
+
+Heparin Binding Site in Antithrombin
+
+1293
+
+Table II. Antithrombin Levels* in Antithrombin
+Rouen-II Normal and Abnormal Fractions Separated by
+Heparin-Sepharose Chromatography
+
+Antithrombin antigen
+Progressive anti-Ila activity
+Heparin cofactor activity (anti-Ila)
+Pentasaccharide cofactor activity (anti-Xa)
+
+Abnormal
+fraction
+
+Normal
+
+60
+50
+<5
+<5
+
+40
+35
+45
+35
+
+fraction
+
+Values expressed as a percentage of that obtained from pooled
+plasma (20 normal samples).
+*
+
+showed three tryptophan-staining peptides whereas Rouen-II
+had only two. This suggested that the abnormality had occurred within residues 47-53. The V8 maps gave two tryptophan peptides from both normal and abnormal antithrombins, with the peptide corresponding to residues 43-50 being
+shifted. The amino acid composition of the implicated peptides showed an arginine to be missing in the variant, but the
+identity of the new amino acid could not be unequivocally
+determined from the peptide maps. The tryptic peptide, residues 47-53, was isolated from both normal and Rouen-II digests by reversed phase HPLC using 49-mmol/liter phosphate
+buffer, pH 2.9, and an increasing concentration gradient of
+acetonitrile. The peptide was rerun on reversed phase HPLC in
+0.1% trifluoroacetic acid with increasing acetonitrile. The peptides were monitored at 215 nm, and to detect the tryptophan-peptides, also at 280 nm. Amino acid sequence studies
+were performed on these peptides. These showed that arginine,
+which was at position 1 in the normal tryptic peptide, had been
+replaced by a serine. This corresponds to position 47 in the
+intact protein.
+
+Discussion
+
+Rouen-II is a new genetic variant ofantithrombin with normal
+progressive inhibitory activity, but decreased cofactor activity,
+with both unfractionated or synthetic pentasaccharide heparins. As demonstrated by crossed immunoelectrophoresis with
+
+5'
+1j
+
+I-~~~~~~~~~~~~~~~~~~~~~-
+
+0
+Normal Rouen-ll
+
+Normal Rouen-ll
+
+ISOTONIC
+
+2X-ISOTONIC
+
+Normal Rouen-ll
+
+3X-ISOTONIC
+
+Figure 2. Antithrombin activity of purified normal antithrombin (0.2
+,ug) and Rouen-II (0.2 Mg) in isotonic, 2X isotonic, and 3x isotonic
+buffers (pH 7.4) in the presence of 0.1, 0.5, and 5.0 U of heparin.
+Results are expressed as a percentage of normal antithrombin activity in isotonic buffer with 5 U of heparin added.
+1294
+
+both types of heparin, and also by heparin-Sepharose chromatography, this dysfunction is due to impaired heparin binding
+as has been previously demonstrated in other analogous variants (9-13, 20-23). The biochemical defect in Rouen-II was
+demonstrated by repeated peptide maps of both tryptic and V8
+protease digests on thin layer plates, and by HPLC. These
+showed a single consistent difference in peptides overlapping
+residue 47. Sequence analysis showed this difference to be due
+to the replacement of the arginine normally present at position
+47 by a serine. This mutation incidentally creates an unused oligosaccharide attachment site at position 45, i.e., Asn-
+
+Arg-Ser.
+
+The identification of the mutation in antithrombin
+Rouen-II as 47 arginine to serine, is not a surprise. Among the
+seven other genetic variants so far identified (9-13, 24, 25)
+four with impaired heparin binding involve mutations of arginine 47: to cysteine in the independently observed variants
+Toyama (9), Tours (10), and Alger (11), and to histidine in
+Rouen-I (12). One reason for this recurrence of mutations at
+position 47 may be the susceptibility of the DNA codon for
+this arginine, CGT, to base substitutions; in particular, the
+replacement of arginine 47 by a cysteine is due to a thymine
+for cytosine substitution, a particularly frequent DNA mutation (26). Recurrent mutations in hemophilia A also provide
+evidence that CG dinucleotides are "hotspots" for mutations
+in man (27). However, the occurrence of three different mutations at the one site (to cysteine, to histidine, and to serine) all
+provide evidence of the critical role played by arginine 47 in
+the binding of heparin by antithrombin.
+The results shown in Fig. 2 support the deduction that
+
+heparin binds to antithrombin by ionic bonding (salt-bridges)
+between the negatively charged sulfates of the heparin and
+positively charged basic amino acids (arginines and lysines) of
+antithrombin. Increasing salt concentrations compete for
+these bonds and diminish the heparin affinity particularly in
+the absence of arginine 47 in Rouen-II.
+Several recent reports provide evidence that antithrombin
+can be activated on vascular heparin-like substances. This
+pathway could be responsible, in part, for the nonthrombogenic properties of endothelium (28). Among these substances,
+heparan sulfate proteoglycans bind with high affinity via sulfated saccharides similar to those of the unique pentasaccharide sequence of commercial heparin (29). The activation of
+Rouen-II by anticoagulantly active heparan sulfate is defective
+and from this we deduce that arginine 47 is also a prime site for
+binding to endothelial proteoglycans. As we previously noticed
+(30), the incidence of thrombosis in heterozygous antithrombin variants with defective heparin binding is very low compared with that observed in quantitative defects or other types
+of variants. In the Rouen-II family, there is no definite history
+of thrombosis; the variant antithrombin retains its progressive
+activity, and as shown in Fig. 2, also has the potential to be
+activated by heparin though less readily than normal antithrombin. The observation of a greater concentration of the
+variant vs. the normal antithrombin (Table II) suggests increased consumption of the normal component and hence
+decreased functional activity of the variant. It is possible that
+this decreased in vivo functional activity of antithrombin
+Rouen-II was a factor that contributed to the coronary thrombosis of the propositus. Indeed, the homozygous patient for
+antithrombin Alger, with complete loss of heparan sulfate
+binding, does suffer from thromboembolic disease (22).
+
+J. Y. Borg, M. C. Owen, C. Soria, J. Soria, J. Caen, and R. W. Carrell
+
+The results shown in Fig. 2 demonstrate that the defect in
+the Rouen-II variant is one of heparin (or heparan) binding
+and not of heparin activation. The identification of Rouen-II
+together with other variants of arginine 47, led us (with P. C.
+Christey and D. R. Boswell) to look at other basic residues that
+are uniquely conserved in the two heparin-activated serpins,
+antithrombin and heparin cofactor-II, and which might therefore be involved in the binding of heparin (31). Using computer alignments ofthe serpin family it is possible to determine
+homologous residues and project them (1) on the known crystallographic structure of the archetype of the family, alpha- 1antitrypsin (32). Seven such basic residues occur and five of
+them, including arginine 47, are plotted in Fig. 3 to give a
+proposed binding site for heparin. Further evidence for this
+binding site is given by the identification of asparagine 135 as
+the site of the oligosaccharide chain whose absence gives the
+increased natural affinity variant, beta-antithrombin (33), and
+also by the independent evidence of Blackburn that lysine 125
+is directly involved in heparin binding (34).
+The proposed binding site, as shown in Fig. 3, primarily
+involves the A and D helices, and is projected on the cleaved,
+postcomplex structure of alpha-l-antitrypsin (32). Reconstruction of the native structure in both antitrypsin and antithrombin involves a change in conformation but observations based on space-filling models make it unlikely that this
+transition is accompanied by gross alterations of the A and D
+helices (31).
+Altogether then there is good evidence that heparin (and
+inferentially heparan) bind to a positively charged linear site
+extending across the molecule from arginine 47, as shown in
+Fig. 3. There is as yet no direct evidence as to how the binding
+
+132Arg
+
+Figure 3. Proposed heparin binding site shown on a model of antithrombin projected on that of alpha-l-antitrypsin (from Carrell,
+Christey, and Boswell, with permission, reference 31). Positively
+charged residues uniquely conserved in antithrombin and heparin
+cofactor-II form a positive site stretching across the molecule from
+the A helix (47 Arg) to the D helix (125 Lys, 129 Arg, 132 Arg) and
+adjacent 133 Lys. Loss of the negatively charged oligosaccharide at
+position 135 gives increased heparin affinity (33). The crystallographic skeleton is that of alpha- I -antitrypsin cleaved at its active
+center. The arrows show, to the left, the position of the active center
+PI residue (Arg 393 in antithrombin) and, to the right, the Pl' residue
+(Ser 394 in antithrombin), which is bonded to the PI arginine in the
+native inhibitor.
+
+of heparin activates the inhibitory function of the molecule;
+presumably there is an accompanying conformational change.
+Evidence for the events involved in this activation will come
+from the study of variants that bind heparin but do not activate it, and ultimately from crystallographic studies of antithrombin that show its three-dimensional conformation in
+the presence of heparin.
+
+Acknowlednments
+This work was supported in part by the Medical Research Councils of
+Great Brtain and New Zealand.
+
+References
+1. Carrell, R. W., and D. R. Boswell. 1986. Serpins: the superfamily
+of plasma serine proteinase inhibitors. In Proteinase Inhibitors. A.
+Barrett, and G. Salvesen, editors. Elsevier, North Holland, Amsterdam, 403.
+2. Thaler, E., and L. Lechner. 1981. Antithrombin III deficiency
+and thromboembolism. Clin. Haematol. 10:369-390.
+3. Marcum, J. A., J. B. Mc Kenney, and R. D. Rosenberg. 1984.
+Acceleration of thrombin-antithrombin complex formation in rat
+hindquarters via heparin-like molecules bound to the endothelium. J.
+Clin. Invest. 74:341-350.
+4. Marcum, J. A., L. Fritze, G. Galli, G. Karp, and R. D. Rosenberg. 1983. Microvascular heparin species with anticoagulant activity.
+Am. J. Physiol. 245:H725-H734.
+5. Choay, J., M. Petitou, J. C. Lormeau, P. Sinay, B. Casu, and G.
+Gatti. 1983. Structure-activity relationship in heparin-A synthetic
+pentasaccharide with high affinity for antithrombin III and eliciting
+high anti-factor Xa activity. Biochem. Biophys. Res. Commun.
+116:492-499.
+6. Beetz, T., and C. A. A. Van Boeckel. 1986. Synthesis of an
+antithrombin binding heparin-like pentasacharide lacking 6.0 sulphate
+at its reducing end. Tetrahedron Lett. 27:5589-5892.
+7. Blackburn, M. N., and C. C. Sibley. 1980. The heparin binding
+site of antithrombin III. Evidence for a critical tryptophan residue. J.
+Biol. Chem. 255:824-826.
+8. Pecon, J. M., and M. N. Blackburn. 1984. Pyridoxylation of
+essential lysines in the heparin-binding site ofantithrombin III. J. Biol.
+Chem. 259:935-936.
+9. Koide, T., S. Odani, K. Tokahashi, T. Ono, and N. Sakuragawa.
+1984. Antithrombin III Toyama: replacement of arginine 47 by cysteine in hereditary abnormal antithrombin III that lacks heparin-binding ability. Proc. Natl. Acad. Sci. USA. 81:289-293.
+10. Duchange, N., J. F. Chasse, G. N. Gohen, and M. M. Zakin.
+1987. Molecular characterization of the antithrombin III Tours deficiency. Thromb. Res. 45:115-121.
+11. Brunel, F., N. Duchange, A. M., Fischer, G. N. Cohen, and
+M. M. Zakin. 1987. Antithrombin III Alger: a new case of Arg 47 Cys Mutation. Am. J. Hematol. 25:223-224.
+12. Owen, M. C., J. Y. Borg, C. Soria, J. Soria, J. Caen, and R. W.
+Carrel. 1987. Heparin binding defect in a new antithrombin III variant: Rouen, 47 Arg to His. Blood. 69:1275-1279.
+13. Chang, J. Y., and T. H. Tran. 1986. Antithrombin III Basel.
+Identification of a Pro-Leu substitution in a hereditary abnormal antithrombin with impaired heparin cofactor activity. J. Biol. Chem.
+261:1174-1176.
+14. Laurell, C. B. 1966. Quantitative estimation of proteins by
+electrophoresis in agarose-containing antibodies. Anal. Biochem.
+15:45-52.
+15. Aiach, M., M. Nora, J. N. Fiessinger, M. Roncato, D. Francois,
+and M. A. Gelas. 1985. A functional abnormal antithrombin III (AT
+III) deficiency: AT III Charleville. Thromb. Res. 39:559-570.
+16. Odegard, 0. R., and V. Abildgaard. 1976. Antifactor Xa activity measured with amidolytic methods. Haemostasis. 5:265-276.
+
+Heparin Binding Site in Antithrombin
+
+1295
+
+17. Aiach, M., M. Leon, A. Michaud, and L. Capron. 1983. Adaptation of synthetic peptide substrate-based assays on a discrete analyser. Semin. Thromb. Hemostasis. 9:206-216.
+18. Casu, B., E. A. Johnson, M. Mantovani, B. Mulloy, P. Oreste,
+R. Pescador, G. Prino, G. Torri, and G. Zoppeti. 1983. Correlation
+between structure, fat-clearing and anticoagulant properties of heparins and heparan sulphates. Drug Res. 33:135-142.
+19. Sas, G., D. S. Pepper, and J. D. Cash. 1975. Further investigations on antithrombin in the plasma of patients with the abnormality
+"antithrombin III Budapest." Thromb. Diath. Haemorrh. 38:494-503.
+20. Wolf, M., C. Boyer, J. M. Lavergne, and M. J. Larrieu. 1982. A
+new familial variant of antithrombin III. Br. J. Haematol. 51:284-295.
+21. Boyer, C., M. Wolf, J. Vedrenne, D. Meyer, and M. J. Larrieu.
+1986. Homozygous variant of antithrombin III: AT III Fontainebleau.
+Thromb. Haemostasis. 56:18-22.
+22. Fischer, A. M., S. Beguin, C. Stemnberg, and M. D. Dautzenberg. 1987. Comparative effect of heparin and heparan sulphate on
+two abnormal antithrombin-III type 3 variants. Br. J. Haematol.
+66:213-217.
+23. De Moerloose, P. A., G. Reber, Ph. Vernet, Ph. Minazio, and
+C. A. Bouvier. 1987. Antithrombin-III Geneva: a new hereditary abnormal AT-III with defective heparin cofactor activity. Thromb. Haemostasis. 57:154-157.
+24. Stephens, A. W., B. S. Thalley, and C. H. W. Hirs. 1987.
+Antithrombin-III Denver, a reactive site variant. J. Biol. Chem.
+262:1044-1048.
+25. Devraj-Kizuk, R., E. V. Prochownik, D. H. K. Chui, and M. A.
+Blajchman. 1986. Molecular pathology of a mutant antithrombin-III
+gene, AT-III Hamilton. Blood. I(Suppl.):345a.
+26. Coulondre, C., J. H. Miller, P. J. Farabaugh, and W. Gilbert.
+1978. Molecular basis ofbase substitution hotspots in Escherichia coli.
+Nature (Lond.). 274:775-780.
+
+1296
+
+27. Youssoufian, H., H. H. Kazazian, D. G. Phillips, S. Aronis, G.
+Tsiftis, V. A. Brown, and S. E. Antonarakis. 1986. Recurrent mutations in haemophilia A give evidence for CpG mutation hotspots.
+Nature (Lond.). 324:380-382.
+28. Marcum, J. A., and R. D. Rosenberg. 1985. Heparin-like molecules with anticoagulant activity are synthesized by cultured endothelial cells. Biochem. Biophys. Res. Commun. 126:365-372.
+29. Marcum, J. A., D. H. Athe, L. M. S. Fritze, P. Nawroth, D.
+Stem, and R. D. Rosenberg. 1986. Cloned bovine aortic endothelial
+cells synthesize anticoagulantly active heparin sulphate proteoglycan.
+J. Biol. Chem. 261:7507-7517.
+30. Borg, J. Y., J. Soria, C. Soria, M. Legendre, H. Piguet, M.
+Monconduit. 1985. Antithrombin-III variants Rouen with defective
+heparin-cofactor activities and low thrombotic incidence. Thromb.
+Haemostasis. 54. Proc. Xth Int. Congr. Thromb. Haemostasis. 88:517.
+31. Carrell, R. W., P. B. Christey, and D. R. Boswell. 1987. Serpins:
+antithrombin and other inhibitors of coagulation and fibrinolysis. Evidence from amino acid sequence. In Thrombosis and Haemostasis. M.
+Verstraedt, J. Vermylen, R. Lijnen, and J. Amout, editors. Leuven
+University Press, Belgium. 1- 15.
+32. Loebermann, H., R. Tokaoka, J. Diesenhofer, and R. Huber.
+1984. Human alpha-l-proteinase inhibitor: crystal structure analysis
+of two crystal modifications, molecular model and preliminary analysis of the implications for function. J. Mol. Biol. 177:531-556.
+33. Brennan, S. O., P. M. George, and R. E. Jordan. 1987. Physiological variant of antithrombin-III lacks carbohydrate sidechain at Asn
+135. FEBS (Fed. Eur. Biochem. Soc.) Lett. 219:431-436.
+34. Peterson, C. B., C. M. Noyes, J. M. Pecon, F. C. Church, and
+M. N. Blackburn. 1987. Lysine-125 is essential for heparin binding to
+antithrombin. Thromb. Haemostasis. 58(l):970.
+
+J. Y. Borg, M. C. Owen, C. Soria, J. Soria, J. Caen, and R. W. Carrell
+
+

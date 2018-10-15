@@ -1,0 +1,756 @@
+Homozygous protein C deficiency: identification of a
+novel missense mutation that causes impaired secretion
+of the mutant protein C
+KOJI YAMAMOTO, TADASHI MATSUSHITA, ISAMU SUGIURA, JUNKI TAKAMATSU, EIICHI IWASAKI,
+HIDEO WADA, KATSUMI DEGUCHI, SHIGERU SHIRAKAWA, and HIDEHIKO SAITO
+NAGOYA AND MIE, JAPAN
+
+We analyzed the promoter region and all the coding exons and exon-intron boundaries of the protein C gene in a Japanese patient with recurrent thromboembolism
+and complete protein C deficiency. By sequencing these fragments we identified a
+previously undescribed mutation. A guanine residue was replaced by an adenine
+residue converting Gly-292 (GGC) to Ser (AGC) in the last exon coding for the catalytic domain. Substitution of this key amino acid, invariably conserved in the serine
+protease superfamily to which protein C belongs, probably leads to destabilization of
+the tertiary structure. In a transient expression assay with COS 7 cells, the protein C
+level was extremely low in the culture medium of the cells transfected with the mutated protein C expression vector, as compared with the normal vector. In contrast,
+the cell extracts contained similar amounts of mutant and normal protein C, suggesting impaired secretion of the mutant protein C. Using mutagenic primers to introduce
+a new Pvull site into the mutant allele, we made a study of the family members in this
+patient's pedigree, revealing that the mutant allele had been inherited in the affected individuals in this pedigree. (J LAs CuN MED 1992;119:682-9)
+
+Abbreviation: dNTP = deoxyadenosine, deoxyguanosine, deoxycytidine, or deoxythymidine triphosphate; PCR = polymerase chain reaction
+
+rotein C, a vitamin K-dependent plasma glycoprotein of 62,000 molecular weight, is a
+zymogen of a serine protease. 1•2 Once activated, protein C plays a key role in the "protein C anticoagulation pathway" in which it is responsible for
+proteolytic inactivation of coagulation cofactors Va
+From the First Department of Internal Medicine, Nagoya University
+School of Medicine, Nagoya; the Second Department of Internal
+Medicine, Mie University School of Medicine, Mie; and the Aichi
+Blood Disease Research Foundation, Nagoya.
+Supported in part by Grant 63637003 for scientific research on priority areas from the Ministry of Education, Science and Culture and
+by grants from the Ministry of Health and Welfare of Japan.
+Submitted for publication June 5, 1991; revision submitted Sept.
+10, 1991; 1accepted Sept. 12, 1991.
+Reprint requests: Koji Yamamoto, MD, First Department of Internal Medicine, Nagoya University School of Medicine, 65 Tsurumacho, Showa-ku, Nagoya 466 Japan.
+5/1/36359
+
+682
+
+and VIIIa. 3 It also stimulates fibrinolysis by reducing
+the activity of tissue-type plasminogen activator inhibitor.4
+The physiologic importance of protein C is clear
+from the fact that congenital protein C deficiency predisposes the individual to the development of thromboembolic diseases. 5 •6 Most patients who have protein
+C deficiency have only partial deficiency and have approximately 50% of the normal level of protein C activity. 7 Clinical symptoms found in individuals with
+deficiency include deep vein thrombosis, pulmonary
+embolism, and cerebral infarction. Some individuals
+with partial deficiency have relatively infrequent
+thromboembolic episodes, which has led to the claim
+
+An e4itorial relevant to this article appears on p.
+592 of this issue of the JouRNAL.
+
+Volume 119
+Number 6
+
+Homozygous protein C deficiency
+
+· Ac
+. Ag
+
+I
+II
+III
+<5
+Fig. 1. The pedigree of protein C deficiency in the family of an individual who has complete deficiency of
+protein C. The proband is indicated by an arrow. Heterozygous individuals are indicated by a dot in the middle of the circle (females) or a dot in the middle of tile square (males). Protein C enzyme activity and antigen
+levels are indicated for each individual in the pedigree and are represented as the percentage of the amount of
+activity or antigen found in pooled plasma from 20 normal individuals. Normal protein C activity is considered to fall into the range of 78.3% to 121.7% of the protein C activity found in the pooled blood. Enzyme
+activity is written above the bar, and antigen level is shown below the bar.
+
+that partial protein C deficiency alone should not be
+characterized as an important risk factor. 8
+Individuals with complete protein C deficiency or
+those who have extremely low levels of plasma protein C are sometimes identified as having purpura fulminans as newborns. 9 •10 However, some of these imlividuals survive beyond the neonatal period into
+adulthood with or without histories of thrombosis. 11
+Thus the spectrum of clinical manifestations caused by
+protein C deficiency is rather wide. Usually protein C
+deficiency is thought to be transmitted as an autosomal
+dominant with a high degree of penetrance, but in
+families with individuals with complete deficiency,
+the mode of inheritance has been classified as an autosomal recessive.
+Since the protein C gene has been cloned, 12 it has
+become feasible to study hereditary protein C deficiency at the molecular level. It is possible that the
+phenotypic heterogeneity of this disorder may reflect
+underlying heterogeneity at the molecular level. Thus,
+studying DNA sequence abnormalities may be helpful
+in explaining the broad range of clinical severity of
+protein C deficiency. Only a handful of cases, however, have so far been analyzed at the DNA level. 13 - 16
+We sequenced the promoter region and all of the
+coding regions and splice junctions of the protein C
+gene in a young woman with complete protein C deficiency. We identified a novel point mutation located
+in exon IX that would cause substitution of a serine in
+place of a conserved glycine residue at amino acid positiqn number 292. Furthermore, we have shown that
+this point mutation was inherited by the affected individuals in this family. To elucidate the mechanism by
+which the missense mutation causes protein C deficiency, we have performed a transient expression as-
+
+say with COS 7 cells. The mutant protein C was secreted into the culture medium at a very low level,
+indicating that this mutation is the molecular basis for
+protein C deficiency in this pedigree.
+METHODS
+Description of the patient and her family. The patient is a
+31-year-old woman who reached adulthood without clinical
+evidence of thrombosis. Her first thromboembolic episode
+occurred at the age of 31 and was an infarction in the right
+lateral cerebrum. Since then she has had recunent episodes
+of venous thrombosis in both of her legs as well as mesenteric venous thrombosis. The protein C activity and antigen
+levels in this patient were undetectable (less than 5% of normal), while the activities of antithrombin III, proteinS, and
+plasminogen were within the range of nmmal. Her mother
+died at 35 years of age because of a cerebral thromboembolism, and her brother died at birth for unknown reasons.
+Fig. I is a pedigree of her family and shows that protein C
+activity levels of her father and other relatives are low. It
+also indicates that her parents were first cousins. From the
+pedigree alone it appears that the patient is homozygous and
+that her family members are heterozygous for protein C deficiency.
+Plasma and DNA samples. Blood samples were drawn
+from the patient, her family members, and normal individuals after informed consent was obtained. Nine parts of blood
+were mixed with one part of 3.8% trisodium citrate, and the
+plasma was separated by centrifugation at 34,000 g for 15
+minutes at 4~ C, then stored at -80° C until use. Genomic
+DNA was isolated from peripheral blood leukocytes by phenol extraction as previously described. 17
+Protein C and other assays. Protein C anticoagulation activity was determined by using protein C-deficient plasma
+as a substrate and Protac (Staclot Protein C; Boehringer
+Mannheim, Mannheim, Germany) as an activator of protein
+C. 18 The protein C antigen level was measured by using a
+
+684
+
+J Lab Clin Med
+June 1992
+
+Yamamoto et al.
+
+Table 1. Oligonucleotide primers and amplified protein C gene fragments
+Nucleotide positions'
+Primer
+
+A-1
+A-2
+
+B-1
+B-2
+
+C-1
+C-2
+0-1
+
+0-2
+E-1
+E-2
+
+F-1
+F-2
+G-1
+G-2
+
+H-1
+H-2
+
+5' -·------------------------3'
+AGGCA GAATTCGGCTTCGGGCAGAACAAGC
+TCATA GAATTCCCTGGAGGGGGACTCACAG
+ACCCT GAATTCCAGCTTCCGCCTGACGGCC
+ACCCA GAATTCAGAGAGATGGTGGAAGCTG
+CCTCA GAATTCCTCATGGCCCCAGCCCCTC
+CCCTG GAATTCATCCTCTGGACCCATGGTG
+T GCA G GAA TTCGA GCCT GCCCGCT CT CT CC
+AGCGT GAATTCTGGGCGATGT ATTGGGGGC
+GGGAG GAATTCCTGGCAGGCCCCTCACCAC
+AGGAT GAATTCAGTGATCCCGGACCCAGCA
+GACTG GAATTCGTCAGGAGGCAGCCCTGTG
+TGCCC GAATTCGAAGAGGGCACCAGAGAAC
+CTCAG GAATTCGCCACTGGGGAGAGGCTCC
+CCACG GAATTCTTGATGAAGTTGAGGACGA
+CTCGT GAATTCCTGGGGCT ACCACAGCAGC
+AGAACAGAATTCCGGT GTGCTTGTT ACATG
+
+PCR products (bp)
+
+(-1641 to ~1612)
+(-1449 to -1420)
+(-149 to. -110)
+(146 to 175)
+(1260 to 1289)
+(1508 to 1537)
+(2928 to 2957)
+(3462 to 3491)
+(6078 to 6107)
+(6297 to 6326)
+(7084 to 7113)
+(7457 to 7486)
+(8321 to 8350)
+(8681 to 8710)
+(8600 to 8629)
+(9032 to 9061)
+
+Region
+
+206
+
+Exon I
+
+309
+
+Exon II
+
+262
+
+Exon Ill
+
+548
+
+Exon IV, V, VI
+
+232
+
+Exon VII
+
+386
+
+Exon VIII
+
+373
+
+Exon IX
+
+445
+
+Exon IX
+
+*Primer sequences and numbers are according to the nucleotide sequence of Foster et al. 12 except for the underlined EcoRI restriction sites.
+
+polyclonal rabbit serum against human protein C (Asserachrom Protein C; Boehringer Mannheim).
+Protein C activity and antigen levels were expressed as
+percentages of those observed in pooled plasma collected
+from 20 normal individuals. The pooled plasma was arbitrarily defined as having 100% protein C activity and antigen levels. Assays for the activities of antithrombin III, protein S, and plasminogen were performed as described
+earlier. 19
+Preparation of oligonucleotide primers. We designed
+eight pairs of oligonucleotide primers for PCR (shown in
+Table I) that covered the 5' untranslated (presumed promoter) region and all nine exons and exon-intron boundaries
+of the protein C gene. These primers have an EcoRI restriction endonuclease cleavage site that is convenient for subsequent cloning and sequencing. All primers were prepared as
+described earlier. 20
+Performance of PCR. PCR was performed as previously
+described21 with the following minor modifications. 22 A 100
+j.Ll aliquot of the PCR reaction mixture contained 1 j.Lg of
+genomic DNA in 50 mmoi!L KCl, 10 mmol/L Tris-HCl (pH
+8.3), 1.5 mmoi!L MgC1 2 , 0.01% (wUvol) gelatin, 200
+[Lmol/L of each dNTP, 100 pmol of each primer, and 2.5 U
+of recombinant Taq DNA polymerase (Perkin Elmer-Cetus,
+Norwalk, Conn.). The mixture was overlaid with mineral oil
+to prevent condensation and was subjected to the following
+series of steps for a total of 35 amplification cycles. The
+samples were denatured at 94° C for 1 minute, annealed at
+60° c for 2 minutes, and heated to 72° c for 2 minutes for
+polymerization. The reactions were performed in an automatic thermal cycler (Perkin Elmer-Cetus).
+DNA sequencing. The PCR products were digested with
+restriction endonucleases, then subcloned into M13 vectors.
+These subcloned PCR products were then sequenced by the
+dideoxy chain termination method as described previously. 20,23
+
+Constructions of expression vectors. An expression vector
+for the normal protein C (pEUK-PC) was constructed by insetiing a eDNA fragment coding for protein C into the
+pEUK-C1 vector (Clontech, Palo Alto, Calif.) as follows.
+The eDNA coding for wild-type protein C was provided
+by Dr. Earl Davie, Seattle, Wash., in pUC19. Between two
+EcoRI sites, the eDNA for protein C contained 69 noncoding bases 5' of the ATG initiation site, 126 bases of leader
+sequence, 1383 bases coding for the entire protein C molecule, and 202 noncoding bases 3' of the TAG stop codon,
+this latter region including two poly A signals. This fragment was excised from the pUC19 vector by EcoRI digestion and then ligated into the multiple cloning site of the pBluescript KS II(+) vector. The insert direction was
+confirmed by digestion with Nael. For insertion into the
+mammalian cell expression vector, the eDNA was excised
+from the pBluescript KS II(+) by using an Xbal -XIwl restriction digestion and was inserted into these same restriction sites of the vector pEUK-C1, which has the SV40 late
+promoter 5' upstream of the Xbal site.
+Mutagenesis. Site-directed mutagenesis of the protein C
+coding sequences was performed by using an oligonucleotide-directed in vitro mutagenesis system (version 2.0; Amersham, Arlington, Ill.). 24 •25 We prepared the following
+mutant oligonucleotide
+
+5'-AGGGTCTCCTGGCTGGCCTGATTGAGCTCG-3'
+with a DNA synthesizer (model 391; Applied Biosystems,
+Foster City, Calif.). The mutant protein C eDNA was sequenced by dideoxy chain termination technique as described earlier, 20 with the double-strand DNA as template,
+to verify the mutation and the fidelity of the remaining sequence. The fragment containing the mutated protein C was
+inserted into the expression vector (pEUK-mPC).
+Transient expression of recombinant protein C. COS 7
+
+Volume 119
+Number 6
+
+Homozygous protein C deficiency
+
+5'
+i
+
+5'
+
+"'As{~
+
+~
+A G C T
+
+.c
+00
+'
+
+Gin
+
+291
+
+Ala
+
+'"Giy
+
+.
+
+A G C T
+
+[~
+
+[~
+
+D'.
+
+Gin
+
+"'Ala
+
+G-+@J
+G
+
+292
+
+c
+
+c
+
+"'Giu
+
+T
+
+n
+
+[~
+
+[~
+
+289Asn
+
+00
+
+[ G~
+
+'"Gin
+
+685
+
+Giy-+Ser
+
+D
+
+'"'Gin
+
+normal allele
+
+I
+3'
+
+mutant allele
+
+~] "'Giu
+3'
+
+Fig. 2. A novel missense mutation in the protein C gene isolated from an individual who has complete deficiency of protein C. The nucleotide sequence shown is from the coding strand near the 3' end of ex on IX of
+the protein C gene isolated from the patient's DNA. The nucleotide sequence is indicated, along with the
+corresponding amino acids and residue numbers. A guanine nucleotide is replaced by an adenine in amino acid
+number 292, resulting in the conversion of a glycine to a serine residue in the last exon of the mutant allele.
+
+cells were grown in Iscove' s modified Eagle medium containing 10% fetal bovine serum and 500 ng/ml vitamin K in
+35 mm wells. Cells (3 X 105 per well) were transfected with
+the pEUK-Cl vector containing either the normal or mutant
+protein C eDNA by the diethylaminoethyl-dextran technique. 26 The culture medium was removed at 48 hours after
+the transfection for protein C measurement. The cells were
+lysed with 0.1% Nonidet P-40 solution containing 10 mmol/
+L phenylmethylsulfonylfluoride after washing with phosphate-buffered saline solution, and the cell extracts were
+collected.
+
+this protein C gene. A transversion in the last exon of
+the gene from guanine to adenine (GGC to AGC) converted Gly-292 to Ser (Fig. 2). This mutation was
+confirmed by sequencing five independent clones from
+this region.
+Analysis of the family members. To determine whether
+this mutation was hereditary, we examined the DNA
+from family members of this patient by using PCR
+amplification with mutagenic primers 20 •27 •28 as follows:
+5' -CTCAGGAATTCGCCACTGGGGAGAGGCTCC-3'
+
+RESULTS
+Analysis of the protein
+
+c
+
+5' -AGCCCCAGCCCGTCACGAGGGTCTCCC* A *GC-3'
+gene. M13 phage clones,
+
+each containing one of the nine exons of the protein C
+gene ,originating from an individual who is homozygous for protein C deficiency, were sequenced by the
+standard dideoxy method. These sequences were compared with the normal protein C sequence. Only a single nucleotide change was found in all nine exons of
+
+After PCR amplification of the segment of the protein
+C genomic sequence in which this mutation occurred,
+the products were digested with Pvull (CAGCTG), as
+shown in Fig. 3. The mutant alleles contain this restriction site and their digestion yielded two fragments
+of ~71 and 29 base pair in length. The normal allele
+
+666
+
+J Lab Clin Med
+June i992
+
+Yamamoto et al.
+
+5'- .........
+
+GCCAGG
+
+·········-3'
+
+~cGJtc*cc
+
+......... -3'
+
+GGCC
+
+PCR primer
+
+mutagenic primer
+
+{30mer)
+
+(30mer)
+
+normal allele
+no Pvuii site
+
+...... CCGGCTG*GG .... ..
+...... GGCCGAC CC .... ..
+
+mutant allele
+Pvuii site
+
+······c CAGCTGGG······
+
+.. .... G GTCGAC CC ......
+
+~
+--------300bp--------
+
+-------271
+
+II
+
+bp------~++
+
+29 bp
+
+Fig, 3. Strategy for direct detection of a single nucleotide substitution when using mutagenic primers. The
+mutation, substitution of a guanine residue with an adenine residue in exon IX of the protein C gene, is indicated by white letters. We used mutagenic primers to replace a C residue (nucleotide 8592) with aT residue
+(indicated by T*) and an A residue (nucleotide 8593) with a G residue (indicated by G*). This created a new
+Pvuii site (CAGCTG) in the fragments produced by amplification of mutant alleles and yielded two fragments
+of 271 base pair (bp) and 29 base pair in length after enzyme digestion. After amplification, the normal allele
+does not have the restriction enzyme cleavage site and generates only a 300 base pair fragment after Pvuii
+digestion.
+
+did not have this restriction site, so Pvull digestion of
+that allele yielded a single 300 base pair fragment.
+Thu~ family members carrying the mutation were
+identified as those whose DNA was shown by this
+analysis to contain two restriction fragments of 271
+and 29 base pair in length.
+When the genomic DNA fragments of Japanese individuals with normal protein C activity and antigen
+levels were subjected to this analysis, Pvuii digestion
+yielded only a single 300 base pair fragment in all
+cases, indicating that these individuals are all homozygous for the normal allele. Pvull digestion of PCR
+products from the patient's family members revealed
+that only DNA isolated from her paternal grandfather
+(I-1) and paternal uncle (Il-l), who both had normal
+protein C activity and antigen levels, did not yield the
+two restriction fragments that indicate the homozygosity for the normal allele (Fig. 4). Clones obtained
+from the family members who have partial deficiency
+in protein C (II-2, II-3, II-4, and II-5) produced two
+
+bands after Pvull digestion: a 300 base pair fragment
+and a 271 base pair fragment, indicating that they
+each carry one mutant allele and one normal allele.
+(The 29 base pair fragment could not be detected in
+these gels.) DNA taken from the proband (III-1), who
+is completely deficient in protein C, had only the 271
+base pair fragment after Pvull digestion, confirming
+that she is homozygous for the mutant allele.
+Transient expression of recombinant protein C. To ensure that the missense mutation identified in this pedigree could cause the deficiency of protein C, we construct~d a protein C expression vector, pEUK-mPC,
+containing the abnormal sequence, as described in
+Methods, and trarisfected it into COS 7 cells for a
+transient expression assay. An analysis for protein C
+in the culture medium and in the cell extracts, as assayed by ELISA with a rabbit polyclonal antibody, is
+shown in Table II. About 90% of the normal recombinant protein C synthesized in the COS 7 cells was secreted into the culture medium, whereas the level of
+
+Volume 119
+Number 6
+
+Homozygous protein C deficiency
+
+687
+
+(bp)
+1
+1078
+
+300bp
+271 bp
+
+603
+310
+281
+271
+234
+194
+118
+
+Fig. 4. Analysis by PCR amplification followed by Pvuii digestion of the protein C alleles in the family members of an individual who is homozygous for protein C deficiency. A region of exon IX in the protein C gene
+was amplified by PCR with the mutagenic primers described in Fig. 3 and shown in Table I. After amplification by PCR, the exon IX fragments were digested with Pvuii and subjected to polyacrylamide gel electrophoresis in a 9% gel, then stained with ethidium bromide. We used DNA molecular weight marker 4(<l>Xl74/
+Haelll digest) from Nippon gene, Japan, as the marker on the right side. The 29 base pair (bp) fragment was
+not detected in this gel. The gel shows that Pvuii digestion of exon IX from all of the individuals in the pedigree who had partial deficiency for protein C produced bands of 271 base pair and 300 base pair in length.
+The 271 base pair fragment results from digestion of the mutant allele, and the 300 base pair band results from
+digestion of the normal allele. DNA from exon IX of protein C from the individuals in the pedigree who do
+not have deficiency of protein C by enzymatic and antigenic analysis (l-1 and Il-l) yielded only a single band
+of 300 base pair in length after Pvuii digestion.
+
+the mutant protein C secreted was only about 2% of
+that of the normal recombinant protein secreted. Their
+cellular contents of protein C, however, did not differ
+significantly, suggesting impaired secretion of the mutant protein C.
+DISCUSSION
+
+The molecular basis of hereditary protein C deficiency is almost completely unknown in the majority
+of p~tients afflicted with this problem. Romeo et al. 13
+have reported that mutation of a single nucleotide (a
+C-to-T transition) at Arg-306 in one pedigree of a heterozygous deficiency results in a nonsense mutation.
+They also described a mutation in which a G-to-C
+
+transversion caused substitution of Cys for Trp-402, a
+missense mutation. In the latter case, the disulfide
+bonds generated by the variant cystein residue are
+thought to interfere with the correct folding of the protein, resulting in destabilization of the molecule.
+. Protein C Tochigi 14 and protein C London 15 have
+also been reported to be abnormal protein C molecules. In both cases, a C-to-T transition causing replacement of Arg-169 with a tryptophan residue-at
+the site of protein C activation by the thrombin-thrombomodulin complex- is thought to be responsible for
+defective activation of the molecule and to result in
+thromboembolic disorder. More recently a preliminary
+rep?rt by Gandrille et al. 16 described the identification
+
+688
+
+J Lab Clin Med
+June 1992
+
+Yamamoto et al.
+
+Table II. Expression and secretion of normal and
+mutated recombinant protein C from COS cells
+Plasmid
+
+PC In
+media (ng)
+
+PC in cell
+extract (ng)
+
+PC secreted (%)
+
+None
+pEUK-PC
+pEUK-mPC
+
+0
+63.0
+1.18
+
+0
+6.03
+8.84
+
+0
+91
+12
+
+Culture medium samples were collected from 35 mm plates 48 hours
+after transfection with protein C expression plasmids. The cells were
+harvested with trypsin, washed twice with phosphate-buffered saline
+solution, resuspended in phosphate-buffered saline solution, and lysed by 0.1% NP-40 solution. Protein C levels in the culture medium
+and in the cell extracts were measured by enzyme-linked immunosorbent assay. The result was a mean of five separate experiments.
+PC, Protein C.
+
+of two mutations in ex on VI (conesponding to exon
+VII in the report of Plutzky et al. 29 ), which encodes
+the linker and activator portions of the protein C molecule. One of these was a C-to-T transition that created a nonsense codon at Arg-157, and the other was a
+G-to-A transition converting Arg-178 to Gln. Further
+details of the effect of these mutations on functional
+aspects of protein C have not been described.
+We have identified a novel point mutation in the
+protein C gene of an individual who has complete deficiency in protein C, which causes Gly-292 to be replaced by Ser (Fig. 2). We sequenced the entire protein C gene in this patient and found only this single
+point mutation; therefore, it is thought to underlie the
+clinical manifestations of protein C deficiency in this
+patient. To our knowledge, this is the first report describing the DNA abnormality in an individual with
+apparent homozygous protein C deficiency.
+Glycine-292 structurally conesponds to glycine-133
+in eukaryotic serine proteases and in bacterial trypsin. 30 This residue is invariably conserved in serine
+proteases that contain this biochemical domain, including bovine prothrombin, the trypsinogens, the
+chymotrypsinogens, and pig kallikrein. Computer
+simulation of the three-dimensional structure of trypsin indicates that it has one a-helix, two six-stranded
+13-sheets, and six disulfide bonds?' Glycine-133 of
+trypsin belongs to the group of residues that form
+13-sheets, and it is located at the base of the molecule. 31 It is infened that replacing a nonpolar glycine
+residue with a polar serine residue at this site in the
+protein C molecule influences the three-dimensional
+structure, leading to its destabilization or perhaps inactivation.
+I
+Our transfection experiment data appear to provide
+strong evidence for the impairment of the secretory
+process of the mutant protein C, because this mutation
+significantly reduced the amount of the mutant protein
+
+C secreted into the medium, whereas the cellular content was almost same with normal recombinant protein
+C (Table II). Much evidence has been found that abnormal secretory or plasma membrane proteins are often specifically retained within the rough endoplasmic
+reticulum and are not secreted. 32 It is conceivable that
+this missense mutation causes significant alteration of
+protein C that in turn probably causes a substantial
+change in its secondary and tertiary structure, thereby
+affecting its posttranslational transport through the intracellular secretory compartments. The in vitro study
+also suggests the instability of the mutant protein C
+within the cells, possibly because of the altered conformation, because no abnormal intracellular accumulation of protein C was observed in spite of the apparently retarded secretion.
+The analysis we describe when using PCR with mutagenic primers (Fig. 3) followed by Pvull digestion
+provides a relatively easy screening procedure for this
+protein C mutation. The variant restriction pattern we
+describe here correlates completely with protein C deficiency in this pedigree and is absent in all individuals we have examined who have normal protein C activity and antigen levels. The proband apparently
+inherited two copies of the same mutation, one from
+each of her parents, who were cousins. It also appears
+that the 50% reduction of protein C levels found in
+several individuals in this pedigree can be attributed to
+this missense mutation, because all those individuals
+are heterozygous for the mutation.
+REFERENCES
+
+1. Stenflo J. A new vitamin K-dependent protein: purification
+from bovine plasma and preliminary characterization. J Bioi
+Chern 1976;251:355-63.
+2. Kisiel W, Ericsson LH, Davie EW. Proteolytic activation of
+protein C from bovine plasma. Biochemistry 1976;15:4893900.
+3. Esmon CT. Protein C: biochemistry, physiology and clinical
+implications. Blood 1983;62: 1155-8.
+4. van Hinsbergh VWM, Bertina RM, van Wijngaarden A, van
+Tilburg NH, Emeiss JJ, Haverkate F. Activated protein C decreases plasminogen activator- inhibitor activity in endothelial
+cell-conditioned medium. Blood 1985;65:444-51.
+5. Griffin JH, Evatt B, Zimmerman TS, Kleiss AJ, Wideman C.
+Deficiency of protein C in congenital thrombotic disease. J Clin
+Invest 1981 ;68: 1370-3.
+6. Broeknians AW, Veltkamp JJ, Bertina RM. Congenital protein
+C deficiency and venous thromboembolism. A study of three
+Dutch families. N Engl.J Med 1983;309:340-4.
+7. Gladson CL, Scharrer I, Hack V, Beck KH, Griffin JH. The
+frequency of type I heterozygous protein S and protein C deficiency in 141 unrelated young patients with venous thrombosis.
+Thromb Haemost 1988;59:18-22.
+8. Miletich J, Sherman L, Braze G Jr. Absence of thrombosis in
+subjects with heterozygous protein C deficiency. N Eng! J Med
+1987;317:991-6.
+9. Branson HEI Kaze J, Marble R, Griffin JH. Inherited protein C
+
+Volume 119
+Number 6
+
+10.
+
+11.
+
+12.
+
+13.
+
+14.
+15.
+
+16.
+
+17.
+
+18.
+
+19.
+
+20.
+
+21.
+
+deficiency and coumarin responsive chronic relapsing purpura
+fulminans in a newborn infant. Lancet 1983;2: 1165-8.
+Marlar RA, Montgomery RR, Broekmans AW. Diagnosis and
+treatment of homozygous protein C deficiency. J Pediatr
+1989; 114:528-34.
+Tripodi A, Franchi F, Krachmalnicoff .A, Mannucci PM.
+Asymptomatic homozygous protein C deficiency. Acta Haematol 1990;83:152-5.
+Foster DC, Yoshitake S, Davie EW. The nucleotide sequence
+of the gene for human protein C. Proc Nat! Acad Sci USA
+1985;82:4673-7.
+Romeo G, Hassan HJ, Staempfli S, et al. Hereditary thrombophilia: identification of nonsense and missense mutations in the
+protein C gene. Proc Natl Acad Sci USA 1987;84:2829-32.
+Matsuda M, Sugo T, Sakata Y, et al. A thrombotic state due to
+an abnormal protein C. N Eng! J Med 1988;319:1265-8.
+Grundy C, Chitolie A, Talbot S, Bevan D, Kakkar V, Cooper
+DN. Protein C London 1: recurrent mutation at Arg 169 (COGTOG) in the protein C gene causing thrombosis. Nucleic Acid
+Res 1989;17: 10513.
+Gandrille S, Vidaud M, Aiach M, et al. Quantitative hereditary
+protein C deficiency: identification of two novel mutations at
+CpG sites in exon VI of the protein C gene [Abstract]. Blood
+1990;76(suppl 1):507a.
+Kojima T, Tanimoto M, Kamiya T, et al. Possible absence of
+common polymorphisms in coagulation factor IX gene in Japanese subjects. Blood 1987;69:349-52.
+Martinoli JL, Stocker K. Fast functional protein C assay using
+PROTACR, a novel protein C activator. Thromb Res
+1986;43:253-64.
+Kamiya T, Sugihara T, Ogata K, et al. Inherited deficiency of
+protein S in a Japanese family with recunent venous thrombosis: a study of three generations. Blood 1986;67:406-10.
+Yamamoto K, Tanimoto M, Matsushita T, et al. Genotype establishments for protein C deficiency by use of a DNA polymorphism in the gene. Blood 1991;77:2633-6.
+Saiki RK, Gelfand DH, Stoffel S, et al. Primer-directed enzymatic amplification of DNA with a thermostable DNA polymera•e. SciP.ncP. 19RR:?."l9:4R7-91
+
+Homozygous protein C deficiency
+
+689
+
+22. Matsushita T, Tanimoto M, Yamamoto K, et al. DNA sequence analysis of three inhibitor positive hemophilia B patients without g1'oss gene deletion: identification of four novel
+mutations in factor IX gene. J LAB CuN MED 1990; 116:492-7.
+23. Sanger F, Nicklen S, Coulson AR. DNA sequencing with
+chain-terminating inhibitors. Proc Nat! Acad Sci USA
+1977;74:5463-7 .
+. 24. Taylor JW, Ott J, Eckstein F. The rapid generation of oligonucleotide-directed mutations at high frequency using phosphorothioate-modified DNA. Nucleic Acids Res 1985;13:8765-85.
+25. Sayers JR, Schmidt W, Eckstein F. 5'-3' Exonucleases in
+phosphorothioate-based oligonucleotide-directed mutagenesis.
+Nucleic Acid Res 1988;16:791-802.
+26. Lauren MS, Kathleen JD. Efficient infection of monkey cells
+with DNA of simian virus 40. Proc Nat! Acad Sci USA
+1981 ;78:7575-8.
+27. Haliassos A, Chomel JC, Tesson L, et al. Modification of enzymatically amplified DNA for the detection of point mutations. Nucleic Acid Res 1989;17:3606.
+28. Kogan S, Gitschier J. Mutation and a polymorphism in the factor VIII gene discovered by denaturing gradient gel electrophoresis. Proc Nat! Acad Sci USA 1990;87:2092-6.
+29. Plutzky J, Hoskins JA, Long GL, Crabtree GR. Evolution and
+organization of the human protein C gene. Proc Nat! Acad Sci
+USA 1986;83:546-50.
+30. Shotton DM, Hartley BS. Amino-acid sequence of porcine pancreatic elastase and its homologies with other serine proteinuses. Nature 1970;225:802-6.
+31. Young CL, Barker WC, Tomaselli CM, Dayhoff MO. Serine
+proteases. In: Dayhoff MO, ed. Atlas of protein sequence and
+structure (vol. 5, suppl 3). Washington, DC: National Biomedical Resear.ch Foundation, 1978:73-93.
+32. Lodish HF. Transport of secretary and membrane glycoproteins
+from the rough endoplasmic reticulum to the Golgi. A rate-limiting step in protein maturation and secretion. J Bioi Chem
+1988;263:2107-10.
+
+

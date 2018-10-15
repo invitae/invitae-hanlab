@@ -1,0 +1,823 @@
+THEJOURNAL OF
+
+Vol. 267, No. 33, Issue of November 25, pp. 23707-23712,1992
+Printed in U.S.A.
+
+BIOLOGICAL CHEMISTRY
+
+Mutational Mappingof the CatalyticActivities of Human Tyrosinase*
+(Received for publication, July 28, 1992)
+
+Ram K. TripathiSQ, Vincent J. HearinglI, Kazunori UrabelI, Pilar ArocaV, and RichardA. SpritzSII
+From the $Departments of Medical Genetics and Pediatrics, Universityof Wisconsin-Madison, Wisconsin 53706 and the
+llLaboratory of Cell Biology, National Cancer Institute, National Institutesof Health, Bethesda, Maryland 20892
+
+Tyrosinase (EC 1.14.18.1) is a copper-containing 1950). Tyrosinase has also been reported to catalyze a third,
+metalloglycoprotein that catalyzes several stepsin the distal step in the melanin biosynthetic pathway, 3) the oximelanin pigment biosynthetic pathway; the hydroxyl- dation of 5,6-dihydroxyindole (DHI)’ to indole-5,6-quinone
+~-3,4-dihydroxyphenylalanine (Korner and Pawelek, 1982), although its role in this latter
+ation of tyrosineto
+(dopa) and the subsequent oxidation of dopa to dopa- reaction has never been directly confirmed. It has long been
+quinone. It has been proposed that tyrosinase is also debated whether the multiple catalytic activities of tyrosinase,
+ableto oxidize 5,6-dihydroxyindole (DHI), a later particularly tyrosine hydroxylase and dopa oxidase, might act
+product in the melanogenic pathway, to indole-5,6- via common or discrete structural elements in the tyrosinase
+quinone. Tyrosinase enzymatic activity is deficient in protein (Lerner et al., 1951; Shimao, 1962; Pomerantz, 1966;
+patients with classic type I oculocutaneous albinism
+(OCA), and more than 50 distinct mutations havenow Pomerantz and Warner,1967;Duckworth and Coleman, 1970;
+been identified in the tyrosinasegenes of such patients. Hearing and Ekel, 1976; Hearing and Jimknez, 1987).
+Tyrosinase enzymatic activity is absent or reduced in paT o determine the effects
+of the various tyrosinase
+gene
+mutations on the catalytic activitiesof the enzyme, we tients with classic type I(tyrosinase-deficient) oculocutaneous
+carried out site-directed mutagenesis of human tyro- albinism (OCA),an autosomal recessive genetic disorder charsinase cDNA, transiently expressed the mutantcDNAs acterized by greatly reduced or absentbiosynthesis of melanin
+in transfected HeLa cells, and assayed the resultant pigment in melanocytes of the skin, hair follicle, and eye
+encoded proteins for tyrosine hydroxylase, dopa, and (reviewedby Witkop et al. (1989)). We have defined the
+DHI oxidase activities, and resultingmelanin produc- structure and DNA sequence of the human tyrosinase gene
+tion. The tyrosine hydroxylase activity of normal ty- (Giebel et al., 1991b), and we and othershave identified more
+rosinase is thermostable, whereasits dopa oxidase and than 50 different mutations of the tyrosinase gene in patients
+DHI oxidase activities are temperature-sensitive. Al- with different forms of type I OCA (Tomita et al., 1989; Giebel
+though all amino acid substitutions tested generally et al., 1990, 1991a, 1991c, 19914 Kikuchi et al., 1990; Spritz
+affected thedopa oxidase and DHI oxidase activities in et al., 1990, 1991; Takeda et al., 1990; Chintamaneni et al.,
+parallel, several exerted distinctly different
+effects on 1991; King et al., 1991; Oetting et al., 1991a, 1991b; Tripathi
+the tyrosine hydroxylase activities. Together, these
+et al., 1992).’
+results confirm the DHI oxidase activity of mammalian
+Based on comparison of the amino acid sequences of mamtyrosinase and suggest that the dopa oxidase and DHI
+oxidase activities of tyrosinase share a common cata- malian tyrosinases and arthropod and molluscan hemocyalytic site, whereas the tyrosine hydroxylase catalytic nins (a copper-containing oxygen transport protein), Lerch
+poly- (1988) identified two regions of apparent homology, termed
+site is at least partially distinct in the tyrosinase
+“Cu A” and “Cu B” (Fig. 2), and suggested that these segments
+peptide.
+may be involved in binding of two copper atoms which are
+necessary for its catalytic activity. We (Tripathi et al., 1992)
+and others (Oetting et al., 1991a) have noted that natural
+Tyrosinase (monophenol, L-dopa:oxygen oxidoreductase; missense substitutions of human tyrosinase, identified in
+monophenol monooxygenase;EC 1.14.18.1) is a multifunc- patients with type I OCA, cluster in two relatively restricted
+tional copper-containing enzyme that catalyzes at least the regions of the 529-amino acid tyrosinase polypeptide (Fig. 2).
+first two reactions in melanin biosynthesis (cf. Fig. 1):1)the One mutation cluster, located near the amino terminus of
+hydroxylation of tyrosine to ~-3,4-dihydroxyphenylalaninemature tyrosinase, is clearly distinct from these putative
+(dopa) and, 2) the subsequent oxidation of the nascent dopa copper-binding domains, but thesecond, and denser mutation
+to dopaquinone (Lerner et al., 1949; Lerner and Fitzpatrick, cluster extends from codons 371 to 448, which corresponds to
+the Cu B region. This segment contains several histidine
+* This work was supported by Clinical Research Grant 6-408 from residues thought to be involved in copper binding (Martinez
+the March of Dimes Birth Defects Foundation and National Institutes et al., 1985).
+of Health Grant AR-39892 (to R. A. S.) and by the Lawrence Gelb
+In this study
+we present an analysis of the effects of specific
+Foundation (to V. J. H.). This is paper 3334 from the Laboratory of mutations of the human tyrosinase gene on the tyrosine
+Genetics, University of Wisconsin-Madison. The costs of publication
+of this article were defrayed in part by the payment of page charges. hydroxylase, dopa oxidase, and DHI oxidase catalytic activiThis article must therefore be hereby marked “aduertisement” in ties of the encoded proteins. We have introduced a number of
+mutations previously observed in patientswith various type I
+accordance with 18 U.S.C. Section 1734 solelyto indicate this fact.
+Present address: The Institute for Cancer Research, Fox Chase
+Cancer Center, 7701 Burholme Ave., Philadelphia, PA 19111-2412.
+)I To whom correspondence should be addressed 317 Laboratory
+of Genetics, Department of Medical Genetics, University of Wisconsin-Madison, 445 Henry Mall, Madison, WI 53706-1574. Tel.: 608262-2832; Fax: 608-262-2976.
+
+The abbreviations used are: DHI, 5,6-dihydroxyindole; dopa, L3,4-dihydroxyphenylalanine;OCA, oculocutaneous albinism; PCR
+polymerase chain reaction; bp, base pair; HPLC, high performance
+liquid chromatography.
+* R. K. Tripathi and R. A. Spritz, unpublished data.
+
+23707
+
+Mutational Analysisof Human Tyrosinase
+
+23708
+
+Ho
+
+DOPA
+
+Tyrosine
+
+FIG. 1. Schematic of eumelanin
+biosynthetic pathway. The reactions
+involved in the biosynthetic pathway of
+mammalian eumelanin pigment are
+shown, as originally proposed by Lerner
+et al. (1951), and later modified by Kornerand
+Pawelek (1982); cf. Hearing
+(1987) and Hearing and Tsukamoto
+(1991) for reviews and relevant references.
+
+WPAquinone
+
+I
+
+no
+H
+
+H
+
+DOPAdVWtle
+
+DHI
+Indole5,6quinone
+
+\r
+
+DOPACh-
+
+tautanecara
+
+a
+Eu-Melanin
+
+-
+
+w
+Jy
+-J;
+
+OHiCA
+H
+
+Indde-5,Squinone&xyiic
+add
+
+Mutation Cluster I
+2
+
+A19-157
+A 31 6-443
+A 316-529
+nlaZO6Thr
+Thr373Lyr
+nrp383nrn
+Arg402GIn
+Pro406Leu
+nrg422~1n
+
+1
+
+8
+
+Mutation Cluster 2
+
+9
+
+3 7 3 4 8
+
+H
+
+r
+
+T
+
+r
+
+T
+T
+
+r
+
+FIG. 2. Schematic organization of the human tyrosinase
+polypeptide. The locations of the three deletions (brackets) and 6
+amino acid substitution mutants (uertical arrows) studied are illustrated.The positions of the two clusters of missense mutations
+associated with type I OCA (Tripathi et al., 1992), the Cu A and Cu
+B regions of sequence homology with hemocyanin (Lerch, 1988), and
+segthe tyrosinase leader sequence ( L S ) and transmembrane (TM)
+ments (Giebel et al., 1991b) are indicated.
+
+OCA phenotypes into normal human tyrosinase cDNAby
+site-directed mutagenesis, transfected HeLa cells with the
+mutant cDNAs using a transient expression vector, propagated the transfected cells at 31 or 37 “C, and assayed the
+catalytic functions of the expressed proteins produced at the
+two temperatures. The structure of human tyrosinase andthe
+locations of the mutations studied here are summarized in
+Fig. 2. Our results clearly demonstrate that mammalian tyrosinase has the third catalytic function (DHI oxidase) reported earlier by Korner and Pawelek (1982). We further
+show that the dopa oxidase and DHI oxidase activities of
+normal tyrosinase are temperature-sensitive, whereas tyrosine hydroxylase activity is not. Moreover, all of the amino
+acid substitutionstested resulted in variable but parallel
+effects on the dopa oxidase and DHI oxidase activities, suggesting that these two catalytic activities probably involve a
+single catalytic site. However, several substitutions exerted
+different effects on the tyrosine hydroxylase versus the dopa/
+DHI oxidase activities. This suggests that, although some
+
+structural elements of the tyrosinase polypeptide are undoubtedly shared, the tyrosine hydroxylase and dopa/DHI oxidase
+catalytic sitesof tyrosinase are distinct.
+EXPERIMENTALPROCEDURES
+
+Site-directed in Vitro Mutagenesis
+All mutant constructions were based on the normal human tyrosinase cDNA expression plasmid, pcTYR (Bouchard et al., 1989), as
+described below. Nucleotide sequences of all constructs were verified
+by double-stranded DNA sequencing of the resultant plasmids (Zhang
+et al., 1988).
+pcTYRAl9-157”pcTYR was digested with MscI and the largest
+fragment (4.5 kilobases) was gel purified and circularized by selfligation.
+pcTYRA316-443”pcTYR was digested with PuuII plus BglII. The
+largest fragment was end repaired, gel purified, and ligated in the
+presence of a nonphosphorylated EcoRI linker (5’-GGAATTCC-3’;
+New England Biolabs) that restored the translational reading frame.
+pcTYRA316-529”This
+mutant was constructed as for
+pcTYRA316-443 except thatthe PvuII-BglII fragment was selfligated in the absence of linker, resulting in a frameshift distal to
+codon 316.
+pcTYRAla206Thr-AnM13 clone containing tyrosinase exon 1
+from a patient with type IAOCA and missense substitution codon
+Ala2“-tThr (Proband 3; Tripathi et al., 1992) was used as template
+to amplify a mutant exon 1 cDNA segment by the polymerase chain
+reaction (PCR) using the primer pair 5”TGCTCGTGGCTGTTTT
+GTAC-3’/5’-CTGCCAAGAGGAGAAGAATG-3’
+as described by
+Giebel and Spritz (1990). The 820-bp PCR product was gel purified
+and 1 pg was used as one primer for a subsequent round of PCR as
+above using 60 ng of pcTYR as template; the other primer was 5’CTGAATCTTGTAGATAGCTA-3’. The resulting 1364-bp mutant
+exon 1-exon 4 PCR product was digested with BstXI, gel purified,
+and used to replace the homologous fragment of pcTYR.
+pcTYRThr373Lys-AnM13 clone containing tyrosinase exon 3
+from a patient with type IAOCA and missense substitution codon
+ThP-Lys (Spritz et aL, 1990)was used as template to PCR amplify
+a mutant exon 3 cDNA segment as above, using the primer pair 5’-A
+
+TTGTCTGTAGCCGATTGGA-3’/5’-TCCCTGTACCTGGGACAT
+T T - 3 ’ . The 300-bp PCR product was gel purified and 400 ng was
+used as one primer for a subsequent round of PCR as above; the other
+primer was 5”CTGAATCTTGTAGATAGCTA-3’. The resulting
+547-bp mutant exon 2-exon 4 PCR product was digested with PuuII
+plus BglII, gel purified, and used to replace the homologous fragment
+of pcTYR.
+pcTYRAsp383Asn-A 328-bp mutant exon 2-exon 3 tyrosinase
+
+Mutational
+Analysis
+
+Tyrosinase
+of Human
+
+cDNA fragment was amplified by PCR using 30 ng of pcTYR as
+template and primer pair 5'-ATTGTCTGTAGCCGATTGGA-3'/5'TGAAGAAGGAAGATAGGATT-3'; thelatter primer containsa
+substitution corresponding to thatin apatient with type IA OCA and
+missense substitution codon AspW+Asn (Spritz et al., 1990). The
+rest of this construction was exactly as for pcTYRThr373Lys.
+Plasmids pcTYRArg402Gln (Tripathi et al., 1991), pcTYRPro406Leu (Giebel et al., 1991d), and pcTYRArg422Gln (Giebel
+et al., 1 9 9 1 ~ have
+)
+been described previously. These, respectively,
+contain missense substitutions, codons Arg40241n,Pro406+Leu, and
+Arg"'+Gln.
+Transient Transfection Protocols
+HeLa cells were cultured in Dulbecco's modified Eagle's medium
+containing 10% bovine calf serum (HyClone Laboratories) supplemented with 2 mM L-glutamine, 100 units/ml penicillin, and 0.1 mg/
+ml streptomycin. The normal and mutant human tyrosinase cDNA
+expression plasmids were transiently transfected into four replicate
+100-cmZplates of subconfluent HeLa cells (20 pg/plate) by the Ca2+phosphate precipitation procedure (Graham and van der Eb, 1973).
+Replicate sets of cells were cultured at 31 or 37 "C for 4 h, after which
+time themedium was replaced and thecells were propagated at 31 or
+37 "C. Cells were harvested 64 h after transfection; the monolayers
+were washed three timeswith cold phosphate-buffered saline, and the
+cells were scraped and pelleted. Triton X-100-solubilizedcell extracts
+were dialyzed and prepared as previously described (Tripathi et al.,
+1991) and stored frozen at -80 "C; protein concentrations in the cell
+extracts were determined by the microassay method of Peterson
+(1977) and/or by the method of Bramhall et al. (1969).
+Melanogenic Assays
+The various assays for melanogenic activities were performed on
+cell extracts (adjusted to 1 mg/ml protein) as previously detailed and
+referenced below.
+Tyrosine Hydroxylase Assay-Assay of tyrosine hydroxylase activity of cell extracts was performed as described by Husain et al. (1982),
+except that 4 mM ascorbic acid was included in the reaction mixture
+as reductant (Tripathi et al., 1988). The added ascorbic acid reduces
+any dopaquinone formed by tyrosinase immediately back to dopa and
+thus provides an accurate measurement of only the tyrosine hydroxylase activity. The reaction mixtures contained 100 p~ L-tyrosine, 5
+/IM L-dopa, 4 mM ascorbic acid, 40 mM Na phosphate buffer, pH 6.8,
+and 25 p1 of cell extract in a total volume of 55 pl. Incubation of the
+assays was at 37 "C for 4 h, and production of dopa was measured by
+specific fluorescence a t 360 nm excitation and 490 nm emission
+wavelengths.
+Dopa Oxidase Assay-Dopa oxidase activity was measured in two
+ways; by HPLC assay, as the disappearance of dopa and the appearance of dopachrome, as detailed previously by Tsukamotoet al.
+(1992a, 1992b), and summarized below. The reaction mixtures contained 500 p M dopa, 50 mM Na phosphate buffer, pH 6.8, and 40 p1
+of cell extract in a total volume of 50 pl. Data were converted to
+picomoles by measurement of peaks resolved by HPLC aftercomparison with known standards(Palumbo et al., 1987). Dopa oxidase
+activity was also measured using incorporation of [3-'4C]dopa (12
+mCi/mmol; Amersham Corp.) into insoluble melanin, as previously
+described (Hearing and Ekel, 1976; Hearing, 1987). Aliquots of the
+reactions performed a t 37 "C for 30 min were removed to 3MM filter
+paper discs, air dried, and measured for radioactivity ina liquid
+scintillation counter following washing as detailed by Jimenez et al.
+( 1988).
+DHI OxidaseAssay-DHI
+oxidase activity was assayed using
+HPLC as previously detailed by Tsukamoto et al. (199213). Briefly,
+the reaction mixtures contained 500 p~ DHI, 50 mM Na phosphate
+buffer, pH 6.8, and 40 pl of cell extract in a total volume of 50 pl.
+Aliquots of the reaction mixtures were removed after incubation at
+37 "C for 30 min and analyzed for DHI depletion by HPLC; all HPLC
+analyses were performed on a Beckman Model 344 instrument using
+a C18 5-pm pore column (4.6 X 250 mm). The mobile phase was
+aqueous 0.15 M NaZB407,25% (v/v) methanol, adjusted to pH 2.5
+with HCl, as described earlier (Palumbo et al., 1987). Detection of
+compounds was performed by absorbance at 280 nm and/or by liquid
+scintillation counting of eluted radioactive peaks. Measurement of
+retention times, peak areas, and radioactivity, and comparison with
+external calibration curves for DHI, DHICA, and for radioactive
+precursors allowed quantitative analysis of melanogenic indoles. Assays were routinely performed in duplicate and results are presented
+
+23709
+
+as themeans of the independent assays f S.E. DHIand DHICA used
+as standards were prepared by standard procedures (Benigni and
+Minnis, 1965), and were the generous gift of Drs. Anna Palumbo and
+Giuseppe Prota (University of Naples).
+Melanin Formation Assay-Melanin production was measured by
+radiometric assay, following the incorporation of ~-[U-"C]tyrosine
+in acid-insoluble melanin, as detailed previously by Hearing (1987).
+The reaction mixtures contained 50 p~ radiolabeled tyrosine, 5 p M
+dopa, 50 mM Na phosphate buffer, pH 6.8, and 30 pl of cell extract
+in a total volume of 50 pl. Aliquots of the reactions performed at
+37 "C for 60 min were removed to 3MM filter paper discs, air dried,
+and measured for radioactivity in a liquid scintillation counter following washing as detailed by Jim6nez et al. (1988).
+RESULTS
+
+Differential Thermostability of theCatalytic Activitiesof
+NormalHumanTyrosinase
+Expressed in HeLa Cells-As
+shown in Table I, the specific activity of tyrosine hydroxylase
+was similar in HeLa cells transiently transfected and propagated with pcTYR at 31 and 37 "C, consistent with our
+previous reports (Giebel et aL, 1991c, 1991d; Tripathi et al.,
+1991). In contrast, the specific activities of dopa oxidase
+(Table 11) and DHIoxidase (Table 111) were both significantly
+decreased (by 70 and 73%, respectively) in cells transfected
+and propagated at 37 "C compared to cells grown at 31 "C.
+The production of melanin (Table IV) by these same extracts
+was decreased by 74% following growth at 37 "C, consistent
+with the results of the dopa and DHI oxidase assays. These
+results, obtained by transfection of the wild-type tyrosinase
+gene into HeLa cells, demonstrate conclusively that all three
+enzyme activities (tyrosine hydroxylase, dopa oxidase, and
+DHI oxidase) reside on the same polypeptide. Thesedata
+further suggest that the dopa oxidase and DHI oxidase activities of normal human tyrosinase are temperature-sensitive
+in HeLa cells, whereas the tyrosine hydroxylase activity of
+tyrosinase is thermostable. (It should be noted that in early
+experiments, we determined that freeze-thawing of these samples had no demonstrable effect on their catalytic activities
+or on their stabilities.) Furthermore, the melanin production
+data suggest that, although tyrosine hydroxylase activity is
+necessary for melanin production, distal reactions in the
+pathway can be rate-limiting over relatively brief reaction
+periods.
+TABLE
+I
+Tyrosine hydroxylase activities of normal and mutant human
+tyrosinases in transfected HeLa cells
+Temperature of transfection and
+culture
+37 "C
+
+31 "C
+
+specific actiuity"
+
+1 Mock-transfected
+0.0 f 0.0 (0)
+0.0 f 0.0 ( 0 )
+9.7 f 6.5 (100) 11.6 f 1.6 (119)
+2 pcTYR
+3 pcTYRA19-157
+0.0 f 0.0 ( 0 )
+0.0 f 0.0 ( 0 )
+4 pcTYRA316-443
+0.0 f 0.0 ( 0 )
+0.0 f 0.0 ( 0 )
+5 pcTYRA316-529
+0.0 0.0 ( 0 )
+0.0 f 0.0 (0)
+6 pcTYRAla206Thr
+19.8 f 4.7 (204)
+0.0 f 0.0 (0)
+7 pcTYRThr373Lys
+0.0 f 0.0 (0)
+0.0 f 0.0 ( 0 )
+8 pcTYRAsp383Asn
+0.0 f 0.0 (0)
+0.0 0.0 (0)
+9 pcTYRArg402Gln
+10.2 7.0 (105)
+2.2 f 0.9 (23)
+10 pcTYRPro406Leu
+11.3 f 9.3 (116)
+0.3 f 0.3 (3)
+11 pcTYRArg422Gln
+10.6 f 7.2 (109)
+0.0 f 0.0 ( 0 )
+Specific activities are expressed as picomoles of dopa formed per
+pg of protein/h in the solubilized extracts of HeLa cells transfected
+with the constructs indicated, as detailed under "Experimental Procedures.'' The values shown are the average of duplicate assays
+performed in two independent experiments; similar data were obtained in three other independent experiments. % compared to positive controls (pcTYR) at 31 "C are shown in parentheses.
+
+*
+
+*
+
+*
+
+23710
+
+Analysis
+
+Mutational
+
+of Human Tyrosinase
+
+TABLEI1
+Dopa oxidase activities of normal and mutant human tyrosinases in
+transfected HeLa cells
+Temperature of transfection and
+culture
+
+31 "C
+
+37 "C
+
+specific actiuity"
+
+1 Mock-transfected
+
+TABLEIV
+Melanin production by normal and mutant human tyrosinases in
+transfected HeLa cells
+Temperature of transfection
+and culture
+
+31 "C
+
+37 "C
+
+specific actiuiw
+
+0.0 f 0.0 (0)
+1 Mock-transfected
+0.0 f 0.0 (0)
+0.0 f 0.0 (0)
+2.3 f 1.3(30)
+2 pcTYR
+f 0.7 (26)
+6.5 f 2.6(100)1.7
+3 pcTYRA19-157
+0.2 f 0.2 (3)
+0.2 f 0.1 (3)
+3 pcTYRA19-157
+0.1 f 0.1 (2)
+0.0 f 0.0 (0)
+4 pcTYRA316-443
+0.1 f 0.1 (1)
+0.0 f 0.0 (0)
+4 pcTYRA316-443
+0.1 f 0.1 (2)
+0.0 f 0.0 (0)
+5 pcTYRA316-529
+0.1 f 0.1 (1)
+0.1 f 0.0 (1)
+5 pcTYRA316-529
+0.0 f 0.0 (0)
+0.0 f 0.0 (0)
+6 pcTYRAla206Thr
+1.1 f 0.3 (15)
+0.1 f 0.0 (1)
+1.8 f 0.9 (28)
+0.0 f 0.0 (0)
+6 pcTYRAla206Thr
+7 pcTYRThr373Lys
+0.1 f 0.1 (1)
+0.1 f 0.1 (1)
+0.0 f 0.0 (0)
+0.0 f 0.0 (0)
+7 pcTYRThr373Lys
+8 pcTYRAsp383Asn
+0.0 f 0.0 (0)
+0.3 f 0.2 (4)
+0.2 f 0.1 (3)
+0.0 f 0.0 (0)
+8 pcTYRAsp383Asn
+4.0 f 0.9 (53)
+9 pcTYRArg402Gln
+0.1 f 0.1 (1)
+3.4 f 1.8 (52)
+0.1 f 0.0 (2)
+9 pcTYRArg402Gln
+10pcTYRPro406Leu
+6.9 f 2.6 (91)
+0.0 f 0.0 (0)
+4.5 f 2.4 (69)
+0.0 f 0.0 (0)
+10pcTYRPro406Leu
+11 pcTYRArg422Gln
+3.7 f 0.5 (49)
+0.1 f 0.0 (1)
+3.1 f 1.7 (48)
+0.1 f 0.0 (2)
+11 pcTYRArg422Gln
+Specific activities are expressed as picomoles
+of dopa oxidized per
+Specific activities are expressed as picomolesof melanin formed
+pg of protein/h in the solubilized extracts of HeLa cells transfected per pg of protein/h in the solubilized extracts of HeLa cells transwith the constructs indicated, as detailed under "ExperimentalPro- fected withthe constructs indicated, as detailed under "Experimental
+cedures." The values shown are the average of duplicateassays
+Procedures." The values shown are the average of triplicate assays
+performedintwo independent experiments; similar data wereobperformed in five independent experiments.% compared to positive
+tained in three other independent experiments.% compared to posi- controls (pcTYR)at 31 "C are shown in parentheses.
+2 pcTYR
+
+0.0 f 0.0 (0)
+7.6 f 1.4 (100)
+
+tive controls (pcTYR)at 31 "C are shown in parentheses.
+propagated with pcTYRAla206Thr
+at 31 "C, compared to cells
+TABLEI11
+transfectedwiththenormaltyrosinase
+plasmid, pcTYR
+DHI oxidase activitiesof normal and mutant human tyrosinases in (Table I). However, thetyrosine hydroxylase activity of
+transfected HeLa cells
+TYRAlaZo6-Thrwas very temperature-sensitive; tyrosine hyTemperature of transfection
+droxylase activity was undetectable in HeLa cells transfected
+and culture
+and propagated at 37 "C, which is consistent with the hypo31 "C
+37 ic
+pigmented phenotype observed in vivo. This contrasts with
+the effect of the codon AlaZo6+Thr substitution on the dopa
+specific actiuity"
+oxidase (Table 11) and DHI oxidase (Table 111) activities,
+1 Mock-transfected
+0.0 f 0.0 (0)
+0.0 (0)
+22.3 f 4.8 (100)
+2 pcTYR
+which were very low or absent in cells transfected and prop6.1 (27)
+3 pcTYRA19-157
+3.9 f 1.7 (18)
+1.9 (9)
+agated eitherat 31 or37 "C. The codon AlaZo6-Thr
+substitution
+1.3 k 0.7 (6)
+4 pcTYRA316-443
+0.8 (4)
+thusapparentlyexertsdifferential
+effects onthetyrosine
+5 pcTYRA316-529
+1.5 f 0.8 (7)
+2.6 (12)
+hydroxylase versus the dopa oxidase and DHI oxidase activi0.1 k 0.1 (1)
+1.4 (6)
+6 pcTYRAla206Thr
+ties of human tyrosinase.
+1.4 f 0.8 (6)
+1.6 (7)
+7 pcTYRThr373Lys
+Catalytic Activities of Tyrosinases Th?13-Lys and Asp3R32.9 f 0.4 (13)
+1.6 (7)
+8 pcTYRAsp383Asn
+9 pcTYRArg402Gln
+(40)
+0.3
+(1)
+8.8 f 5.1
+Am-The codon Thr313-Lys and A ~ p ~ ~ ~ + substitutions
+Asn
+15.8 f 8.2 (71)
+0.0 (0)
+10pcTYRPro406Leu
+were both originally observed in a compoundly heterozygous
+9.2 f 7.1 (41)
+0.8 (4)
+11 pcTYRArg422Gln
+patient with typeIA (tyrosinase-negative) OCA (Spritz etal.,
+Specific activities are expressed as picomoles
+of DHI oxidized per 1991). As shown in Fig. 2, both fall within the second of two
+pg of protein/h in the solubilized extracts of HeLa cells transfected clusters of tyrosinase substitutions associated withtype I
+with the constructs indicated, as detailed under "Experimental
+Pro- OCA, betweencodons371
+and 448 (Tripathi et al., 1992),
+cedures."Thevaluesshownare
+the average of duplicateassays
+which corresponds to the Cu B region of homology between
+performed in two independent experiments (one experiment measured only at 31 "C); similar data were obtained in three other inde- tyrosinase and hemocyanin (Lerch, 1988). As shown in Table
+pendent experiments. % compared to positive controls (pcTYR) at I, both TYRThr313-Lys and TYRAsp3"-Asn completely lack
+31 "C are shown in parentheses.
+tyrosine hydroxylase activity in HeLa cells transfected and
+cultured either a t 31 or 37 "C. Similarly, the associated dopa
+Catalytic Activities of Deletion Mutant Tyrosinases Ex- oxidase (Table 11) and DHI oxidase (Table 111) activities of
+these mutated tyrosinases were also essentially nil, as was
+pressedinHeLa
+Cells-As showninTableI,notyrosine
+hydroxylase activity was detected in HeLa cells transfected their ability to produce melanin (Table IV). Thus, these two
+and propagated with pcTYRA19-157, pcTYRA316-443, or substitutions essentially abolish all three catalytic activities
+pcTYRA316-529, a t either 31 or 37 "C. Activities of dopa of tyrosinase in HeLacells.
+Catalytic Activities of Tyrosinases Ar$02-Gln, Pro406-Leu,
+oxidase (Table 11) and DHIoxidase (Table 111) were also both
+very low, and probably not significantly different from back- and Ar$22-Gln-These three substitutions, alllocated in the
+middle of the second cluster of tyrosinase substitutions (Triground, aswere the rates of melanin formation (Table IV).
+pathi et al., 1992), are all associated with relatively moderate
+Catalytic Activities of TyrosinaseAlaZo6-Thr-Thecodon
+AlaZo6+Thr substitution was originally observed in a patient decreases of tyrosine hydroxylase activity in vitro (Giebel et
+al., 1991) and are associated with
+with typeIA (tyrosinase-negative)OCA (Tripathi etal., 1992). al., 1991c, 19914 Tripathi et
+codon Arg402-+
+This substitution falls within the Cu A region of homology relatively mild clinicalphenotypes. In fact, the
+between tyrosinase and
+hemocyanin (Lerch, 1988), but it falls Gln substitution constitutes a normal polymorphism, occurof tyrosinase alleles among
+outside of the two clusters of tyrosinase missense substitu- ringinapproximately15%
+al., 1991). As
+tions associated with typeI OCA (cf. Fig. 2). Surprisingly, the normally pigmented Caucasians (Tripathi et
+TYRArg402-Gln,TYRPro406-Leu, and
+tyrosine hydroxylase-specific activity was consistently ele- shown in TableI,
+vated (approximately 2-fold) in HeLa cells transfected and TYRArg4"-Gln are all associated with normal tyrosine hy-
+
+Mutational
+Analysis
+
+of Human Tyrosinase
+
+23711
+
+droxylase activity in HeLa cells transfected and cultured at hydroxylase catalytic site may be distinct in the tyrosinase
+31 "C. However, all three are temperature-sensitive; at 37 "C polypeptide, whichhad beenpreviously suggested basedsolely
+the tyrosine hydroxylase activity of TYRArg4OZ-Glnwas re- on kinetic evidence.
+We previously noted that most tyrosinasemissense substiduced t o 23% of normal, thatof T Y R P ~ O ~ ~was
+- L only
+~ U 3%
+I OCA fall intotwo dense clusters
+of normal, and that of TYRArg4*'-Gln was nil. These three tutions associated with type
+substitutions also resulted in modest decreases in the activi- in the tyrosinasepolypeptide (Tripathi et al., 1992). As shown
+ties of dopa oxidase and DHIoxidase, evenat 31 "C. The dopa in Fig. 2, the first mutation cluster, from codons 21 through
+oxidase activities of TYRArg4O2-Gln,T Y R P ~ o ~ ' ~ - L ~ u , a n89,
+d corresponds to the amino terminusof mature tyrosinase
+TYRArg4"-Gln were 53, 91, and 49%, respectively, of the (Wittbjer et al., 1989). The second mutation cluster, from
+Cu B region of homology
+control values at 31 "C. Not surprisingly, all three of these codons 371to 448, corresponds to the
+substitutions were associated with essentially no activity of between tyrosinase and hemocyanin, another copper-containdopa oxidase or DHIoxidase at 37 "C, most likely because the ing protein (Lerch,1988). Completedeletion of either of these
+), or deletion
+and TYRA316-443
+activity of even normal human tyrosinase is reduced at this regions of tyrosinase (TYRA19-157
+temperature. Thus, these three substitutions in the
+middle of of the entirecarboxyl two-fifths of the tyrosinasepolypeptide
+essentially abolished all three catalytic activithe Cu B region appear to exert somewhat different effects (TYRA316-529),
+on the tyrosinehydroxylase versus the dopaoxidase and DHI ties, tyrosine hydroxylase, dopa oxidase, and DHI oxidase.
+oxidase activities of human tyrosinase. Tyrosine hydroxylase Although the corresponding tyrosinase polypeptides in the
+activity of these mutant tyrosinasesis normal at 31 "C, but is extracts of the transfected cells were detectable by Western
+highly temperature-sensitive, whereas the dopa oxidase and blotting and enzyme-linked immunosorbent assay protocols
+using our tyrosinase-specific antisera (Jim6nez et al., 1991),
+DHI oxidase activities are reducedeven at 31 "C, and are
+we were unable to measure them quantitatively (data not
+abolished at 37 "C.
+shown).
+DISCUSSION
+Two amino acid substitutions within the upstream portion
+A ~ p ~ ~ ~ -also
+Asn)
+Significant reductions in tyrosinase activity result in type of the Cu B mutation cluster (Thr373-Lys and
+I (tyrosinase-deficient) OCA, an autosomal recessive disorder resultedinessentially completeloss of allthreecatalytic
+activities, even at 31 "C. Again, we were unable to determine
+of pigmentation that, because of its distinctive phenotype,
+was one of the first humangenetic disorders ever recognized. the effect of these substitutions on the steady-state amount
+As outlined in Fig. 1, tyrosinase catalyzes at least the first of tyrosinase polypeptide in the extracts of transfected cells
+two stepsof melanin pigmentbiosynthesis; the hydroxylation (data not shown). However, 4 amino acid substitutions, one
+Cu A region (Lerch, 1988) and three
+of tyrosine to dopa and the subsequent oxidationof dopa to (AlaZo6-Thr) within the
+dopaquinone. Tyrosinase has been proposed by Korner and in the middle of the Cu B region (Arg4Oz-Gln,Pro406-Leu,and
+effects
+Pawelek (1982) to catalyze a distal, but chemically similar, Arg4"-Gln) of tyrosinase, appeared to exert differential
+reaction of the melanin biosynthetic pathway, the oxidation on the tyrosine hydroxylase activity versus the dopa oxidase
+of DHI toindole-5,6-quinone. We have determined the struc- and DHI oxidase catalytic activities. The Arg4"-Gln,
+ture and DNA sequence of the human tyrosinase gene, and Leu, and Arg4"-Gln substitutions, the first associated with
+two with moderately abnormal pigmore than50 different pathologic mutations of the tyrosinase normal and the latter
+I OCA have been identified. Studies mented phenotypes in vivo, resulted in temperature-sensitive
+gene in patients with type
+tyrosine hydroxylase activity. Levels of tyrosine hydroxylase
+of the effects of a fewof these mutations on the tyrosine
+hydroxylase activity of tyrosinase have been reported (Tomitaactivity were normal when transfected cells were cultured at
+et al., 1989; Takeda et al., 1990; Giebel et al., 1991c, 1991d); 31 "C, but were reduced to virtually nil following growth of
+however, none have been tested for effects on dopa
+oxidase or transfected cells a t 37 "C. In contrast, the Arg402-Glnand
+DHI oxidase activities. Here, we present an analysis of the Arg422-Glnsubstitutions were associated with at least modest
+effects of three deletions and six natural missense substitu- areductions of the dopa oxidase and DHI oxidase activities at
+31 "C, and had essentially neither activity
+a t 37 "C. Even
+tions on the tyrosine
+hydroxylase, dopa oxidase, and DHI
+more striking, the AlaZo6-Thr substitution
+was associated with
+oxidase activities of tyrosinase, and their ability to synthesize
+very low or no activityof dopa oxidase and DHI oxidase even
+melanin. Mutations were introduced into normal human tyat 31 "C, but had significantly increased tyrosine hydroxylase
+rosinase cDNA by site-directed mutagenesis; the resultant
+mutant cDNAswere transiently transfected andexpressed in activity at 31 "C, although that activity was extremely therHeLa cells, and the associated tyrosine
+hydroxylase, dopa mosensitive and was abolished at 37 "C.
+All of the mutations we tested had a t least some effects on
+oxidase, and DHI oxidase activities were determined. HeLa
+cells were transfected and propagated at both 31 or 37 "C to all three of the catalytic activities of tyrosinase analyzed;
+permit us to assess the thermostabilityof the corresponding tyrosine hydroxylase, dopa oxidase, and DHI oxidase. This
+mutant tyrosinases.
+indicates that, not surprisingly,sequences that can influence
+We have now confirmed the DHIoxidase activity of tyro- these activities are distributed throughout the length of the
+sinase and demonstrate for the first time that these three
+tyrosinase polypeptide. However, although the various catadistinct catalytic activities reside on the same polypeptide lytic activities of tyrosinase may well share at least some
+encoded at a single genetic locus. In general, the tyrosinase structural elements of the tyrosinase polypeptide, our data
+gene mutations tended to affect the dopa oxidase and DHI strongly suggest that they also
+involve distinct sequences. The
+oxidase activities in parallel (as well as subsequent melanin dopa oxidase and DHIoxidase activities of normal tyrosinase
+Alazo6- are temperature-sensitive, and essentiallyofall
+production), whereas at least 1amino acid substitution,
+the mutations
+Thr, had distinctly different effects on tyrosine hydroxylase we tested resulted in virtually identical effects on both these
+activity. Evenfor normal tyrosinase, the tyrosine
+hydroxylase activities. These two reactions are chemically rather similar,
+activity is thermostable, whereas the dopa oxidase and DHI and it seemslikely that theyinvolve a single catalytic site. In
+oxidase activities are both temperature-sensitive, This result contrast, the tyrosinehydroxylase activity of normal tyrosinalone suggests that, whereas the dopa oxidase and DHI oxi- ase is thermostable, and a t least one of the mutations we
+dase activitiesmay share a commoncatalytic site, the tyrosinetested, AlaZo6-Thr, exerted divergent effects on the tyrosine
+
+23712
+
+Mutational
+Analysis
+
+hydroxylase versus the dopa/DHI oxidase activities. This
+suggests that thecatalytic site for tyrosine hydroxylase activity of tyrosinase may be distinct from that for the dopa/DHI
+oxidase activity. The approach of functional analyses of different mutant tyrosinases expressed in transfected cells may
+be of great utility for mapping the boundaries of catalytic
+domains of human tyrosinase.
+REFERENCES
+Benigni, J. D., and Minnis, R. L. (1965) J. Heterocyclic Chem. 2,387-392
+Bouchard, B., Fuller, B. B., Vijayasaradhi, S., and Houghton, A. N. (1989) J.
+Exp. Med. 169,2029-2042
+Bramhall, S., Noack, N., Wu, M., and Loewenberg, J. R. (1969) Anal. Biochem.
+31,146-148
+Chintamaneni C. D., Halaban, R., Kobayashi Y., Witkop C. J., Jr., and Kwon,
+B. S. (1991) Proc. Natl. Acad. Sci. U. S. A. 88,5272-5276
+Duckworth, H. W., and Coleman, J. E. (1970) J. Biol. Chem. 2 4 5 , 1613-1625
+Giebel, L. B., and Spritz, R. A. (1990) Nucleic Acids Res. 18,4947
+Giebel, L. B., Strunk, K. M., King, R.A., Hanifin, J. M., and Spritz, R. A.
+(1990) Proc. Natl. Acad. Sci. U. S. A. 87,3255-3258
+Giebel, L. B., Musarella, M. A., and Spritz, R.A. (1991a) J. Med. Genet. 2 8 ,
+464-467
+Giebel, L. B., Strunk, K. M., and Spritz, R. A. (1991b) Genornics 9,435-445
+Giebel, L. B., Tripathi, R. K., King, R.A., and Spritz, R. A. (1991~)J. Clin.
+Inuest. 87,1119-1122
+Giebel, L. B., Tripathi, R. K., Strunk, K. M., Hanifin, J. M., Jackson, C. E.,
+King, R. A., and Spritz, R. A. (1991d) Am. J. Hum. Genet. 48,1159-1167
+Graham, F.,and van der Eb, A. (1973) Virology 62,456-457
+Hearing, V. J. (1987) Methods Enzymol. 142,154-165
+Hearing, V. J., and Ekel, T. M. (1976) Biochem. J. 157,549-557
+Hearing, V. J., and Jimenez, M. (1987) Int. J. Biochem. 19,1141-1147
+Hearing, V. J., and Tsukamoto, K. (1991) FASEB J. 5,2902-2909
+Husain, I., Vijayan, E., Ramaiah, A,, Pasricha, J. S., and Madan, N. C. (1982)
+J. Inuest. Dermatol. 78, 243-252
+Jimenez, M., Kameyama, K., Maloy, W.L., Tomita, Y., and Hearing, V. J.
+(1988) Proc. Natl. Acad. Sci. U. S. A. 85,3830-3834
+Jimenez, M., Tsukamoto, K., and Hearing, V. J. (1991) J. Biol. Chem. 2 6 6 ,
+1147-1156
+Kikuchi, H., Hara, S., Ishiguro, S., Tamai, M., Watanabe, M. (1990) Hum.
+Genet. 86,123-124
+
+of
+
+Human Tyrosinase
+King, R. A., Mentink, M. M., and Oetting, W. S. (1991) Mol. Biol. Med. 8, 1994
+
+Klrier, A,, and Pawelek, J. (1982) Science 2 1 7 , 1163-1165
+Lerch, K. (1988) Adu. Pigment Cell Res. Prog. Clin. Biol. Res. 256,85-98
+Lerner, A. B., and Fitzpatrick,T. B. (1950) Physiol. Reu. 30,91-126
+Lerner, A. B., Fitzpatrick, T. B., Calkins, E., and Summerson, W. H. (1949) J.
+Biol. Chem. 178,185-195
+Lerner, A. B., Fitzpatrick, T. B. Calkins, E., and Summerson, W. H. (1951) J.
+Biol. Chem. 191,799-806
+Martinez, H. H., Solano, F., Garcia-Borron, J. C., Iborra, J. L., and Lozano, J.
+A. (1985) Biochem. Int. 11,729-738
+0etting.W. S., Handoko, H. Y., Mentink, M. M., Paller, A. S., White, J. G.,
+and y , R. A. (1991a) J. Inuest. Dermatol. 97,15-19
+Oetting, . S., Mentlnk, M.M., Summers, C. G., Lewis,R. A., White, J. G.,
+and Kin R A
+(1991b) Am. J. Hum. Genet. 4 9 , 199-206
+Palumbo, k , d'Ischia, M., Misuraca, G., and Prota,G. (1987) Biochim. Biophys.
+Acta 925,203-209
+Peterson, G. L. (1977) Anal. Biochem. 83,346-356
+Pomerantz, S. H. (1966) J. Biol. Chem. 2 4 1 , 161-168
+Pomerantz, S. H., and Warner, M. C. (1967) J. Biol. Chem. 242,5308-5314
+Shirnao, K. (1962) Biochim. Biophys. Acta 62,205-215
+Spritz, R. A,, Strunk, K. M., Giebel, L. B., and King, R. A. (1990) New Engl.
+J. Med. 3 2 2 , 1724-1728
+Spritz, R. A., Strunk, K. M., Hsieh, C.-L., Sekhon, S., and Francke, U. (1991)
+Am. J. Hum. Genet. 48,318-324
+Takeda, A., Tomita, Y., Matsunaga, J., Tagami, H., and ShibaharaS. (1990) J.
+Biol. Chern. 265,17792-17797
+Tomita, Y., Takeda, A., Okinaga, S., Tagami, H., and Shibahara, S. (1989)
+Biochem. B w p h r Res. Commun. 164,990-996
+Tripathi, R. K., C aya Dew, C., and Ramaiah, A. (1988) Biochem. J. 252,481AQ7
+
+T r i a t h i , R. K., Giehel, L. B., Strunk, K. M., and Spritz, R.A. (1991) Gene
+&pression 1 , 103-110
+Tripathi, R. K., Strunk, K. M., Giebel, L. B., Weleber, R. G., and Spritz, R. A.
+(1992) Am. J. Med. Genet. 4 3 , 8 6 5 4 7 1
+Tsukamoto, K., Jackson, I. J., Urabe, K., Montague, P. M., and Hearing, V. J.
+(1992a) EMBO J. 11,519-526
+Tsukamoto, K., Palumbo, A., d'Ischia, M., Hearing, V. J., and Prota,G. (1992b)
+Biochem. J. 286,491-495
+Wittbjer A. Dahlback B., Odh, G., Rosengren, A.-M., Rosengren, E., and
+Rorsman H . (1989) Acta Derm. Veneereol. (Stockh.) 6 9 , 125-131
+WitkopC.'J.Jr.,
+Quevedo, W. C., Jr.,Fitzpatrick, T. B., and Kin R.A.
+(1984) The 'Metabolic Basis of Inherited Dueme, pp. 2905-2947, d k r a w Hill, New York
+Zhang, H., Scholl, R., Browse, J., and Somerville, C. (1988) Nucleic Acids Res.
+16,1220
+
+

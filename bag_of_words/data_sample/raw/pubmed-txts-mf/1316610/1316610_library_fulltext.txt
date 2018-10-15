@@ -1,0 +1,977 @@
+Proc. Natl. Acad. Sci. USA
+Vol. 89, pp. 4452-4456, May 1992
+Medical Sciences
+
+Germ-line mutations of the APC gene in 53 familial adenomatous
+polyposis patients
+YASUO MIYOSHI*t, HIROSHI ANDO*, HIROKI NAGASE*, ISAMU NISHISHO*, AKIRA HORII*, YOSHIO MIKI*,
+TAKESADA MORIt, JOJI UTSUNOMIYAt, SHozo BABA§, GLORIA PETERSEN¶, STANLEY R. HAMILTON¶,
+KENNETH W. KINZLER1, BERT VOGELSTEIN¶, AND YUSUKE NAKAMURA* 11
+*Department of Biochemistry, Cancer Institute, Tokyo 170, Japan; tSecond Department of Surgery, Osaka University Medical School, Osaka 553, Japan;
+§Second Department of Surgery, Hamamatsu Medical College, Shizuoka 431-31, Japan; tSecond Department of Surgery, Hyogo Medical College,
+
+Hyogo 663, Japan; and lOncology Center and Departments of Pathology and Epidemiology, the Johns Hopkins University Hospital and Schools
+of Medicine, Hygiene, and Public Health, Baltimore, MD 21231
+
+Communicated by John W. Littlefield, January 27, 1992
+
+To answer this question, and to further investigate the
+nature of inherited APC gene mutations, we have now
+examined the entire coding region of APC in 79 unrelated
+kindreds with FAP. We were able to identify presumptive
+mutations in 53 of these kindreds, suggesting that APC is
+responsible for the great majority of FAP cases. Remarkably,
+>90% of the mutations resulted in truncations of the predicted protein product. These results have significant theoretical and practical implications for understanding etiology
+and diagnosing disease in susceptible individuals.
+
+We searched for germ-line mutations of the
+ABSTRACT
+APC gene in 79 unrelated patients with familial adenomatous
+polyposis using a ribonuclease protection analysis coupled with
+polymerase chain reaction ampliflications of genomic DNA.
+Mutations were found in 53 patients (67%); 28 of the mutations
+were small deletions and 2 were 1- to 2-base-pair insertions; 19
+were point mutations resulting in stop codons and only 4 were
+missense point mutations. Thus, 92% of the mutations were
+predicted to result in truncations of the APC protein. More
+than two-thirds (68%) of the mutations were clustered in the 5'
+halfof the last exon, and nearly two-fifths of the total mutations
+occurred at one of five positions. This information has significant implications for understanding the role of APC mutation
+in inherited forms of colorectal neoplasia and for designing
+effective methods for genetic counseling and presymptomatic
+
+MATERIAL AND METHODS
+Genomic DNA of FAP Patients. FAP patients were identified on the basis of clinical manifestation. Genomic DNAs of
+79 unrelated patients, including 55 American and 24 Japanese
+kindreds, were prepared from leukocytes as described (14).
+PCR. The coding region of the APC gene was divided into
+31 segments (see Results), and each segment was separately
+amplified using PCR (15). The primer pairs used in this study
+are listed in Table 1. PCR was performed with 38 cycles for
+0.5 min at 950C, 2 min at 510C, and 2 min at 700C as described
+by Baker et al. (16).
+RNase Protection Analysis. RNase protection assay was
+performed by the method of Winter et al. (17) as modified by
+Kinzler et al. (9). Briefly, PCR products were hybridized to
+32P-labeled RNA transcripts corresponding to normal APC
+sequences, cloned, and labeled as described by Nishisho et
+al. (11). The hybrids were digested with RNase A, which
+cleaves at mismatches within DNA-RNA hybrids. The size of
+the digestion products was analyzed by polyacrylamide gel
+electrophoresis. Two separate RNase protection analyses
+
+diagnosis.
+Familial adenomatous polyposis (FAP) is an autosomaldominant inherited disease, affecting 1 in 5000 and 1 in 17,000
+of the American and Japanese populations, respectively (1).
+FAP is characterized by the development of hundreds to
+thousands of adenomatous polyps in the colon and rectum,
+one or more of which can progress to cancer if left without
+surgical treatment. Neoplasia is not limited to the colon and
+rectum of patients with FAP, as some patients are affected
+with desmoid tumors, osteomas, fibromas, and various other
+neoplasms in addition to polyps.
+Cytogenetic and linkage studies have localized the gene
+responsible for FAP to chromosome 5q21 (2-5), a region that
+is also deleted commonly in sporadic colorectal tumors (6-8).
+Hence, it was considered likely that germ-line or somatic
+mutations of chromosome 5q21 gene(s) would lead to adenoma formation in familial and sporadic forms (6).
+Recently, several chromosome 5q21 genes were identified
+(9-13). One of them (the MCC gene) was shown to be
+somatically mutated in a subset of sporadic colorectal cancers. Another (the APC gene) was shown to undergo similar
+somatic mutations and also to be mutated in the germ-line of
+patients with FAP. APC and MCC were predicted to encode
+coiled-coil proteins that might interact in vivo with themselves or with other proteins.
+In our initial study, we examined three exons of APC in 103
+kindreds with FAP and found germ-line mutations in five of
+them (11). Groden et al. (12) examined a large portion of the
+APC gene product but found only four mutations in 61
+separate kindreds. These studies thus left open the question
+of whether other genes might be involved in a substantial
+number of kindreds.
+
+were done by using sense and antisense strands.
+Cloning and Sequence Analysis. PCR products showing
+abnormalities in RNase protection patterns were cloned into
+a plasmid vector (pBluescript SK Stratagene) as described
+(11). DNAs from a pool of at least 50 subclones were used as
+a template for each DNA sequencing reaction. DNA sequencing was carried out according to the method described
+by Nigro et al. (18). Sequencing of both strands of genomic
+DNA was performed to confirm a mutation.
+
+RESULTS
+We examined the entire coding region of the APC gene in the
+germ line of 79 unrelated FAP patients by an RNase protection assay. The coding region of the APC gene is contained
+within 15 exons (nos. 1-15) (9, 11), preceded by at least one
+5' noncoding exon (unpublished data). The coding region was
+
+The publication costs of this article were defrayed in part by page charge
+payment. This article must therefore be hereby marked "advertisement"
+in accordance with 18 U.S.C. §1734 solely to indicate this fact.
+
+Abbreviation: FAP, familial adenomatous polyposis.
+IlTo whom reprint requests should be addressed.
+
+4452
+
+Medical Sciences:
+
+Miyoshi et al.
+
+Proc. Natl. Acad. Sci. USA 89 (1992)
+
+4453
+
+Table 1. Sequences of primers used for PCR of RNase protection analyses
+Upstream primer
+Exon
+Codons
+Downstream primer
+G31
+1
+ATGGAATTCTTCTTAAACTGCTTAAGAG*
+1-45
+G18
+TTTACAAGAGGGAATACTGAAT
+G21
+CCTGAATTCAAGAAATACAGAATCACGTC*
+2
+46-74
+G22
+ATGAAGCTrGTACTTGGATCTACACACCt
+G29
+ATGGAATTCCATTAAGAATATlTlAGACTGCT*
+3
+74-141
+G28
+TTAAAGCTrAACAATAAACTGGAGTACACAt
+G27
+ATGGAATTCCAACTGATGTAAGTATTGCTC*
+4
+141-177
+G30
+ATGAAGCTTTAATGGATTACCTAGGTACTt
+G17
+CAGGAATTCTTTATTGGTTCTTATATGCT*
+5
+178-215
+G26
+CTGAAGCTTCCTAATAGCTCTTCGCTG0
+G23
+CAAGGATCCTGAGCTTTTAAGTGGTAGt
+6
+216-243
+G20
+CTGAAGCIT1TCTCAGAATAACTACCTAt
+G19
+ACTGAATTCCTTGGGCTAAGAAAGCCT*
+7
+244-278
+G24
+ATGAAGOC'rCTrAGAACCATCTTGCTTCt
+G5
+CATGATGTTATCTGTATTTACC
+8
+279-311
+G4
+CTTAGCAAAGTAGTCATGGC
+G1
+GGATATTAAAGTCGTAAT'TT-GT
+9
+312-438
+G2
+CATGCACTACGATGTACACT
+G13
+CATCATTGCTCTTCAAATAACA
+10
+438-470
+G14
+CACCAGTAATTGTCTATGTCA
+G9
+11
+TAGATGATTGTCTT1TTCCTCT
+470-516
+G10
+TCATACCTGAGCTATCTTAAG
+G7
+12
+GCTTGGCTTCAAGTTGTCTT
+517-542
+G8
+CAGAGTGAGACCCTGCCT
+Gil
+GCAACTAGTATGATT-T'ATGTATAAA
+13
+543-581
+G6
+ACATGAAATTCATATTATAGTACT
+G15
+14
+CAACTCTAATTAGATGACCCA
+582-653
+G16
+GAGAGTATGAATTCTGTACTT
+G35
+CAATCATATTATGCC-T-lGTC
+15-1
+653-751
+C22
+GATGGCAAGCTTGAGCCAG
+E9-1 CGAAGTACAAGGATGCCAAT
+15-2
+735-884
+E9-2 CAGTGGTGGAGATCTGCAA
+E9-3 AACTACCATCCAGCAACAGA
+15-3
+862-1022
+E9-4 TCTAGTTCTCCATCATTATCAT
+C23
+15-4
+TCAATACCCAGCCGACCT
+998-1141
+E9-6 GGCTTATCATCTTCATAGTCA
+E9-5 GTAAGCCAGTCT'TGTGTC
+15-5
+1125-1284
+E9-8 CAGCTGATGACAAAGATGAT
+E9-7 AGACTTATTGTGTAGAAGATAC
+15-6
+1260-1410
+E9-10 ATGGTTCACTCTGAACGGA
+E9-9 TCTGTCAGTTCACTTGATAG
+15-7
+1389-1547
+C36
+CATITGATTCTTTAGGCTGC
+E9-11 ACAGAAAGATGTGGAATTAAG
+15-8
+1516-1673
+E9-12 TTCTCCAGCAGCTAACTCAT
+E9-13 GCTACATCTCTAAGTGATCT
+15-9
+1654-1826
+E9-14 CTTATCATTGAAGTCCTTGG
+E9-15 CTCAGACAACAAAGATTCAAA
+15-10
+1805-1965 C52 GAGAAAAGCAAACTGGAGTA
+E9-17 AGTCATCCAAAGACATACCA
+15-11
+1935-2097
+E9-22 CTGAATCAGGGGATAGACC
+C35
+GATATACAGAGACCAGATTCA
+15-12
+2082-2246
+C38
+ACAGGACTTGTACTTGAGGA
+C37
+CGAGGCAGGACAATGATTC
+15-13
+2226-23% C40 GACTCACTTCTTGGAATACTA
+C39
+15-14
+CAGATGAGCCAACAGAACC
+2372-2472
+C42
+GCTGGTCTAGATGATGGAG
+E9-19 TGGAGGAATCTGCTTCATTT
+15-15
+2456-2610
+E9-16 TCCTCITIOCGGATACTOGG
+E9-21 TGAACTCTATTTCAGGAACC
+15-16
+2592-2760
+E9-18 GTACGTTCCACTATAGAACT
+E9-23 TGTCCCTGTATCAGAGACT
+15-17
+2745-2843
+E9-20 TGTCTATATAGCAGTTGTAATT
+The amplified regions are indicated by exon and codons contained within each fragment. Exon 15 is divided into 17 overlapping segments,
+each "400 bp in length. Primers are described from the 5' -- 3' direction and some of them include EcoRI (*), BamHI (t), or HindIII (f) sites
+within the primers to facilitate cloning.
+
+divided into 31 segments. The first 14 segments corresponded
+to 14 individual exons. The coding region in the last exon (no.
+15) is very large [6571 base pairs (bp)] and was divided into
+17 overlapping segments, each -=400 bp in length. These 31
+segments were individually amplified from each of the 79
+patients and subjected to RNase protection analyses as
+described in Material and Methods.
+Fig. 1 presents examples of RNase protection analyses in
+which variations were observed. PCR products in which
+variations were detected were cloned into a plasmid vector
+and sequenced (examples in Fig. 2). Patient 100 had a C -- A
+transversion at the second nucleotide of codon 932, resulting
+in a change from serine (TCA) to a stop codon (TAA) (Fig.
+2A, lane 2). Patient 16 showed a 2-bp deletion (AG) of codon
+1465 (AjT) (Fig. 2B, lane 2). A T insertion at the second
+nucleotide of codon 1211 (ATTG) was found in patient 39
+(Fig. 2C, lane 2, beginning at arrow).
+The results from the PCR-RNase protection analyses are
+summarized in Table 2. Presumptive mutations altering the
+sequence of the predicted protein product were observed in
+53 of the 79 patients studied. No patient had more than one
+of these mutations, and none of these mutations was observed in the germ-line DNA of at least 100 individuals
+without FAP studied by RNase protection assay or direct
+sequencing of PCR products.
+Nature of Mutations. As summarized in Table 3, 23 of the
+53 alterations were point mutations. Nineteen of them generated stop codons. Two of the four amino acid changes were
+nonconservative (resulting in the substitution of cysteine for
+serine or arginine), and two were functionally conservative
+(serine to threonine or leucine to phenylalanine, respectively). Twenty-one of the 23 mutations resulted in a change from
+C to some other nucleotides in which C -+ T was the most
+common (Table 4). The point mutations were scattered
+throughout the gene and no "hot spot" was detected; only
+
+the point mutations at codon 302 and 625 were observed in
+more than one kindred (Table 2).
+Thirty of the 53 mutations were associated with frameshifts
+due to deletions (28 cases) or insertions (2 cases) (Table 3).
+Deletions of 1-5 bp were observed, with 5 bp being most
+common (18 of the 28 deletion mutations involved 5 bp).
+Interestingly, a 5-bp deletion at codon 1309 was observed in
+10 separate kindreds; this was by far the most common
+genetic alteration observed among the families. All of the
+deletion and insertion mutations altered the reading frame
+and created stop codons immediately downstream.
+Distribution of Mutations. The distribution of mutations in
+the APC gene in the 53 FAP patients is shown in Fig. 3. Point
+mutations were found in exons 5, 6, 8, 9, and 12-15. However,
+all but one of the 30 cases of deletion or insertion were found
+in exon 15 (one case was at the exon-intron junction of exon
+4). Thirty-six (68%) of the total mutations (including point
+mutations and frameshifts) were clustered within the 5' half of
+exon 15 (codons 713-1597), representing less than one-third of
+the coding region. Five specific mutations were found in more
+than one unrelated kindred (Table 2 and Fig. 3).
+
+DISCUSSION
+Most of the mutations described in this study are predicted to
+have profound effects on the predicted gene products. Fortynine (92%) of the mutations led to incomplete products of the
+APC gene due to translational termination; 19 of the 23 point
+mutations were nonsense mutations and all 30 frameshift
+mutations created new stop codons immediately downstream. Missense mutations were observed in only four
+patients. In two of these four cases, the change to cysteine
+from arginine or serine is expected to have significant effects
+on the structure of the predicted protein. The other two
+changes were relatively conservative, and we cannot be sure
+
+4454
+
+Medical Sciences: Miyoshi et al.
+
+A
+
+1 2 3 4 5 6 7 8
+
+Proc. Natl. Acad. Sci. USA 89 (1992)
+
+A
+A
+
+G
+1
+
+1
+
+2
+
+C
+
+T
+2
+
+1
+
+1
+
+2
+
+-
+
+2
+
+me
+
+.
+
+B
+T
+
+A
+
+G
+2
+
+1
+
+1
+
+2
+
+B
+1 2 3 4 5 6 7 8
+
+_
+_-4
+
+1
+
+C
+2
+
+1
+
+2
+
+~~~~~~~~~~~~~
+IK
+a--
+
+~
+
+4-
+
+-I
+IF_
+
+_w -UwV
+
+C
+
+A
+
+G
+
+w_
+
+_
+
+1
+
+2
+
+1
+
+T
+
+2
+
+1
+
+C
+
+2
+
+1
+
+2
+
+4m
+
+FIG. 1. RNase protection analyses. (A) Lanes 1 and 4 show the
+same variant RNase protection patterns (arrows) in patients 5 and 10,
+respectively, using the exon 15-4 probe (Table 1). (B) Lanes 1 and 6
+
+represent different abnormal patterns (arrows) in patients 15 and 91,
+respectively, observed with the exon 15-5 probe (Table 1).
+
+that these substitutions represent true mutations rather than
+rare variations with no functional effect. However, this serine
+to threonine (patient 3) or leucine to phenylalanine (patient
+89) change was the only change detected by RNase protection analyses of the entire coding region, except one amino
+acid polymorphism of patient 3 (described below). As the
+biochemical and physiologic properties of the APC protein
+are unknown, these missense mutations might prove to be
+valuable for assessing function and to provide clues for
+localizing the critical effector domains of the very large
+protein encoded by the APC gene.
+Ninety-one percent of the 23 point mutations resulted in a
+substitution for C, most commonly with a T (Table 4). These
+occurred at seven CA sites, five CG sites, and one CT site.
+Deamination of 5-methylcytosine in the CpG dinucleotide has
+been implicated as a mechanism for point mutation from C to
+T (19). But only five of our cases involved CpG sites (Table
+2). The mechanism for CpA to TpA and CpT to TpT change
+is not known. However, as the most common DNA polymerase error is thought to be a G mispairing with T (20) with
+a lack of repair at this mismatch (21), the CpA to TpA and
+CpT to TpT mutations we observed might have been generated in this manner.
+Twenty-eight of the 30 cases with frameshifts were associated with small deletions (Table 2). It is well known that
+deletions occur at repeated bases, perhaps because of misalignment; for example, we observed a C deletion from CCC
+(at codon 1427), an A deletion from several As (codon 142),
+and an AA deletion from AAA (codon 1250). A model for
+generating misalignment within a stretch of common bases
+
+FIG. 2. Sequence analyses of PCR products from normal and
+affected individuals. Patient 100
+
+lane 2) shows
+
+a
+
+C -* A change
+
+(arrow) at the second nucleotide of codon 932 resulted in a change
+from serine (TCA) to a stop codon (TMA). Patient 16 (B, lane 2)
+shows a 2-bp (AG) deletion of codon 1465 (AQT) and patient 39 (C,
+lane 2) shows a T insertion at the second nucleotide of codon 1211
+(ATTG) beginning at the arrow. Extra bands can be seen after
+deletion or insertion in addition to normal bands. The reaction
+samples ofdifferent individuals are grouped so that mutations can be
+easily recognized.
+
+has been proposed (22, 23). Some deletions were observed at
+positions containing several copies of a direct repeat; for
+example, an AG deletion was detected at the sequence of
+AAGAGj&jAG~AGAGTG (codon 1465), an AAAGA deletion
+at ATAAAAGAAAAGATT (codon 1309), an ACAAA deletion from ATAAAACAAAGT (codon 1061), and a TGAAA
+A
+deletion from TC
+C (codon 1546). All of these
+deletions might have occurred during DNA replication as a
+result of slippage of the template strand and subsequent
+misalignment (24). After synthesis of the first copy of the
+direct repeat, the template strand could slip and misalign with
+the second copy of the repeat, resulting in deletion of the
+intervening sequences.
+All but one of the frameshift mutations due to insertions or
+deletions were detected within exon 15, but point mutations
+were scattered throughout exons 5-15. The most frequent
+mutation was observed at codon 1309. As this mutation was
+observed in Caucasian, Black, and Japanese populations, a
+founder effect is excluded.
+In the course of RNase protection analyses, we found
+several polymorphisms within the coding sequences resulted
+with and without amino acid changes. Four major polymorphisms are TAC/TAT (at codon 486), GCA/GCG (at codon
+
+Medical Scienc6s:
+
+Miyoshi et al.
+
+Proc. NatL. Acad. Sci. USA 89 (1992)
+
+Table 2. Germ-line mutations in the APC gene of 53 unrelated FAP patients
+Codon
+Nucleotide change
+Patient(s)
+142
+aatag/GTC - atag/GTC
+13
+213
+CGA IGA
+102
+CAG - lAG
+215
+11
+CGA IGA
+232
+33
+TCA TjA
+93*
+280
+CGA - IGA
+302
+24*, 34*
+414
+CGC -IGC
+21*
+CAG - lAG
+541
+7
+TTA TAA
+577
+90
+622
+TACK TAM
+86
+625
+CAG JlAG
+8, 38, 66
+713
+TCA TEA
+60*
+TCT ACT
+784
+3
+794
+AjTC - ATC
+49
+806
+84
+CAIGA CGA
+827
+AAT -*AAAIT
+80
+857
+124
+GiAAIIGG GGG
+TCA TMA
+932
+100
+1055
+62
+AIAAIAGA - AGA
+1061
+5, 10, 70, 103
+AAACAAAG AAG
+1102
+TAC TAQj
+104
+1156
+GAAGiGA-* GGA
+91
+1175
+CAG - IAG
+43
+1191
+15
+CAGQA CAA
+1211
+ATGO ATIG
+39
+1230
+CAG - AG
+1
+TGC -*TGA
+47
+1249
+1250
+51
+AAAGT - AGT
+6, 17, 20, 22, 25,
+1309
+GAAAAiAT -* GAT
+29, 46, 57, 59, 61
+1427
+CCTG CTG
+120
+1465
+16
+GAjTG - GTG
+1546
+28, 78
+AAIAAAA AAA
+79
+1567
+TCA - TQA
+1597
+85
+ACIG ACG
+2621
+TCT - TGT
+19
+18
+2644
+ATITAIC ATC
+CTT I TT
+89
+2839
+Lowercase and uppercase letters indicate intron and exon, respectively.
+*Reported previously (11).
+
+545), ACG/ACA (at codon 1493), and GGA/GGG (at codon
+1678). All of these polymorphisms have not changed coding
+amino acids-tyrosine, alanine, threonine, and glycine, respectively. The first polymorphism of the tyrosine coding
+sequences creates restriction fragment length polymorphism
+with Rsa I. This polymorphism and the last glycine coding
+polymorphism are the same as reported previously (12). The
+allelic frequencies of these polymorphisms ranged from 0.36
+to 0.64 (data not shown). Five other polymorphisms,,with
+allelic frequencies of <0.01, were also recognized. Two
+resulted in amino acid substitution-ATA (isoleucine) to
+GTA (valine) at codon 1304 of patient 6 and GGT (glycine) to
+AGT (serine) at codon 2502 of patients 3 and 70. Because nos.
+6 and 70 contained other mutations that had profound effects
+Table 3. Frequency of germ-line mutations
+Mutation
+Point
+Nonsense
+Missense
+Frameshift
+Deletion (1-5 bp)
+Insertion (1-2 bp)
+Total
+
+in the APC gene
+2
+19
+4
+28
+2
+53
+
+4455
+
+Amino acid change
+a deletion
+Arg stop
+Gin stop
+Arg stop
+Ser - stop
+Arg - stop
+Argo Cys
+Gln stop
+Leu -stop
+Tyrant stop
+Gln stop
+Ser stop
+Serb Thr
+G deletion
+AT deletion
+AT insertion
+GAATT deletion
+Ser -b stop
+TAATA deletion
+ACAAA deletion
+Tyr - stop
+AAGA deletion
+Gln -* stop
+G deletion
+T insertion
+Gln stop
+Cys - stop
+AA deletion
+AAAGA deletion
+C deletion
+AG deletion
+TGAAA deletion
+Ser -b stop
+T deletion
+Ser -b Cys
+TTAT deletion
+Leu -* Phe
+.
+
+.
+
+.
+
+.
+
+on the predicted gene products (Table 2), we think these
+amino acid changes probably do not alter the function of the
+predicted proteins. The other three rare polymorphisms were
+TTG/TTA at codon 548 of patient 90, ATA/ATT at codon
+1055 of patient 22, and CTA/TTA at codon 2401 of patient 1;
+none of these resulted in amino acid changes.
+We detected mutations in 67% of FAP patients using an
+RNase protection assay. We did not find mutations in all
+patients for the following reasons. (i) Some mismatches are
+protected from RNase digestion. In fact, the reported sensitivity of detecting mutations with RNase is only 35-50% (11,
+25, 26). We attribute our higher success rate to the fact that
+so many of the mutations in the APC gene were small
+deletions or insertions, which are usually quite susceptible to
+digestion with RNase A. (ii) The promoter region of the APC
+Table 4. Summary of point mutations in the APC gene
+Total
+T
+A
+G
+C
+From/to*
+21
+5
+3
+C
+13
+2
+2
+T
+0
+0
+0
+0
+G
+0
+0
+0
+A
+0
+0
+0
+5
+5
+23
+Total
+0
+13
+*Listed in coding strand.
+
+4456
+
+Proc. Natl. Acad Sci. USA 89 (1992)
+
+Medical Sciences: Miyoshi et al.
+I 000
+
+bp
+
+l-l
+
+6.
+TAA
+
+ATG
+
+i II I
+I1
+
+If IIlnl
+
+I,11 I III
+11 WI I
+
+a
+
+11A11
+
+7.
+
+ILi
+
+Exon -1 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+
+8.
+
+FIG. 3. Distribution of germ-line mutations in the APC gene. The
+length of the bar indicates the number of mutations at the indicated
+position. Positions of translational initiation (ATG) and termination
+(TAA) codons are marked with arrows.
+
+9.
+
+gene has not yet been examined. (iii) Nonexamined sequences within introns may have a significant influence on
+gene expression. (iv) There may be a second FAP gene. We
+think, however, that the latter possibility is now unlikely.
+
+10.
+
+The results of the studies described above provide significant insights into the nature of the mutations leading to FAP.
+They suggest that the carboxyl terminus is required for
+function, because deletions that remove this end of the
+protein (including a deletion that removes only the last 200
+amino acids of the 2843-residue protein) result in disease.
+Further studies will be required to determine whether specific
+mutations are associated with specific phenotypes (such as
+early age at onset or a high prevalence of extracolonic
+neoplasms). However, these studies already provide a basis
+for presymptomatic diagnosis. In 53 kindreds reported here,
+such diagnoses can now be made with virtually 100%o accuracy simply by testing for the relevant mutation. In kindreds
+not yet studied, it would seem advisable to begin screening
+for mutations at the five positions accounting for nearly 40%
+of the total alterations detected (Table 2). If these were
+negative, the next logical step would be to examine the 5' half
+of exon 15, which contained more than two-thirds of the
+mutations. Only if this failed would an analysis of the
+remainder of the gene be warranted. Finally, these studies
+suggest an alternative method of examination for APC mutations. Ninety-two percent of the total mutations detected
+are predicted to result in truncated protein products. Thus,
+detection of these shortened proteins using antibodies against
+the APC protein is likely to be a valuable screening method
+in a high fraction of kindreds.
+
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+16.
+17.
+18.
+
+muth, J., Wolff, E., Carlson, M., Fujimoto, E., Krapcho, K.,
+Sears, T., Woodward, S., Hughes, J., Burt, R., Gardner, E.,
+Lalouel, J.-M. & White, R. (1988) Am. J. Hum. Genet. 43,
+638-644.
+Vogelstein, B., Fearon, E. R., Hamilton, S. R., Kern, S. E.,
+Preisinger, A. C., Leppert, M., Nakamura, Y., White, R.,
+Smith, A. M. M. & Bos, J. L. (1988) N. Engl. J. Med. 319,
+525-532.
+Miki, Y., Nishisho, I., Miyoshi, Y., Horii, A., Ando, H.,
+Nakajima, T., Utsunomiya, J. & Nakamura, Y. (1991) Jpn. J.
+Cancer Res. 82, 1003-1007.
+Ashton-Rickardt, P. G., Dunlop, M. G., Nakamura, Y., Morris, R. G., Purdie, C. A., Steel, C. M., Evans, H. J., Bird,
+C. C. & Wyllie, A. H. (1989) Oncogene 4, 1169-1174.
+Kinzler, K. W., Nilbert, M. C., Vogelstein, V., Bryan, T. M.,
+Levy, D. B., Smith, K. J., Preisinger, A. C., Hamilton, S. R.,
+Hedge, P., Markham, A., Carlson, M., Joslyn, G., Groden, J.,
+White, R., Miki, Y., Miyoshi, Y., Nishisho, I. & Nakamura, Y.
+(1991) Science 251, 1366-1370.
+Kinzler, K. W., Nilbert, M. C., Su, L. K., Vogelstein, B.,
+Bryan, T. M., Levy, D. B., Smith, K. J., Preisinger, A. C.,
+Hedge, P., Mckechnie, D., Finniear, R., Markham, A., Groffen, J., Boguski, M. S., Altschul, S. F., Horii, A., Ando, H.,
+Miyoshi, Y., Miki, Y., Nishisho, I. & Nakamura, Y. (1991)
+Science 253, 661-665.
+Nishisho, I., Nakamura, Y., Miyoshi, Y., Miki, Y., Ando, H.,
+Horii, A., Koyama, K., Utsunomiya, J., Baba, S., Hedge, P.,
+Markham, A., Krush, A. J., Petersen, G., Hamilton, S. R.,
+Nilbert, M. C., Levy, D. B., Bryan, T. M., Preisinger, A. C.,
+Smith, K. J., Su, L. K., Kinzler, K. W. & Vogelstein, B. (1991)
+Science 253, 665-669.
+Groden, J., Thliveris, A., Samowitz, W., Carlson, M., Gelbert,
+L., Albertsen, H., Joslyn, G., Stevens, J., Spirio, L., Robertson, M., Sargeant, L., Krapcho, K., Wolff, E., Burt, R.,
+Hughes, J. P., Warrington, J., McPherson, J., Wasmuth, J.,
+Paslier, D. L., Abderrahim, H., Cohen, D., Leppert, M. &
+White, R. (1991) Cell 66, 589-600.
+Joslyn, G., Carlson, M., Thliveris, A., Albertsen, H., Gelbert,
+L., Samowitz, W., Groden, J., Stevens, J., Spirio, L., Robertson, M., Sargeant, L., Krapcho, K., Wolff, E., Burt, R.,
+Hughes, J. P., Warrington, J., McPherson, J., Wasmuth, J.,
+Paslier, D. L., Abderrahim, H., Cohen, D., Leppert, M. &
+White, R. (1991) Cell 66, 601-613.
+Sato, T., Tanigami, A., Yamakawa, K., Akiyama, F., Kasumi,
+F., Sakamoto, G. & Nakamura, Y. (1990) Cancer Res. 50,
+7184-7189.
+Saiki, R. K., Bugawan, T. L., Horn, G. T., Mullis, K. B. &
+Erlich, H. A. (1986) Nature (London) 324, 163-166.
+Baker, S. J., Preisinger, A. C., Jessup, J. M., Paraskeva, C.,
+Markowitz, S., Willson, J. K. V., Hamilton, S. & Vogelstein,
+B. (1990) Cancer Res. 50, 7717-7722.
+Winter, E., Yamamoto, F., Almoguera, C. & Perucho, M.
+(1985) Proc. Natl. Acad. Sci. USA 82, 7575-7579.
+Nigro, J. M., Baker, S. J., Preisinger, A. C., Jessup, J. M.,
+
+We acknowledge with thanks the technical assistance of Kumiko
+Koyama, Shigetoshi Ichii, Shuichi Nakatsuru, and Kiyoshi Noguchi
+(Cancer Institute, Tokyo). This work was supported in part by a
+Grant-in-Aid from the Ministry of Education, Culture and Science,
+Japan, and Grants from the Vehicle Racing Commemorative Foundation, the Clayton Fund, and National Cancer Institute.
+
+Hostetter, R., Cleary, K., Bigner, S. H., Davidson, N., Baylin,
+S., Devilee, P., Glover, T., Collins, F. S., Weston, A., Modali,
+R., Harris, C. C. & Vogelstein, B. (1989) Nature (London) 342,
+705-708.
+19. Coulondre, C., Miller, J. H., Farabaugh, P. J. & Gilbert, W.
+(1978) Nature (London) 274, 775-780.
+20. Kunkel, T. A. & Alexander, P. S. (1986) J. Biol. Chem. 261,
+
+1. Utsunomiya, J. & Lynch, H. T. (1990) Hereditary Colorectal
+Cancer (Springer, Berlin).
+2. Herrera, L., Kakati, S., Gibas, L., Pietrzak, E. & Sandberg,
+A. A. (1986) Am. J. Med. Genet. 25, 473-476.
+3. Bodmer, W. F., Bailey, C. J., Bodmer, J., Bussey, H. J. R.,
+Ellis, A., Gorman, P., Lucibello, F. C., Murday, V. A., Rider,
+S. H., Scambler, P., Sheer, D., Solomon, E. & Spurr, N. K.
+(1987) Nature (London) 328, 614-616.
+4. Leppert, M., Dobbs, M., Scambler, P., O'Connel, P., Nakamura, Y., Stauffer, D., Woodward, S., Burt, R., Hughes, J.,
+Gardner, E., Lathrop, M., Wasmuth, J., Lalouel, J.-M. &
+White, R. (1987) Science 238, 1411-1413.
+5. Nakamura, Y., Lathrop, M., Leppert, M., Dobbs, M., Was-
+
+160-166.
+21. Topal, M. D. & Fresco, J. R. (1976) Nature (London) 263,
+285-289.
+22. Strisinger, G., Okada, Y., Emrich, J., Newton, J., Sugita, A.,
+Terzaghi, E. & Inouye, M. (1966) Cold Spring Harbor Symp.
+Quant. Biol. 31, 77-84.
+23. Kunkel, T. A. (1986) J. Biol. Chem. 261, 13581-13587.
+24. Trinh, T. Q. & Sinder, R. R. (1991) Nature (London) 352,
+544-547.
+25. Myers, R. M., Larin, Z. & Maniatis, T. (1985) Science 230,
+1242-1246.
+26. Lopez-Galindez, C., Lopez, J. A. & Melero, J. A. (1988) Proc.
+Natl. Acad. Sci. USA 85, 3522-3526.
+
+

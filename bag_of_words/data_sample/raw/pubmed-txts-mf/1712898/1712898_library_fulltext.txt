@@ -1,0 +1,1154 @@
+Vol. 11, No. 8
+
+MOLECULAR AND CELLULAR BIOLOGY, Aug. 1991, p. 3886-3893
+0270-7306/91/083886-08$02.00/0
+Copyright X) 1991, American Society for Microbiology
+
+Maturation and Function of Cystic Fibrosis Transmembrane
+Conductance Regulator Variants Bearing Mutations in
+Putative Nucleotide-Binding Domains 1 and 2
+RICHARD J. GREGORY,'* DEVRA P. RICH,2 SENG H. CHENG,1 DAVID W. SOUZA,' SUCHARITA PAUL,'
+PARTHASARATHY MANAVALAN,1 MATTHEW P. ANDERSON,2 MICHAEL J. WELSH,2
+AND ALAN E. SMITH'
+Genzyme Corporation, One Mountain Road, Framingham, Massachusetts 01701,1 and Department of
+Internal Medicine and Physiology and Biophysics, Howard Hughes Medical Institute,
+University of Iowa College of Medicine, Iowa City, Iowa 522422
+Received 20 March 1991/Accepted 8 May 1991
+
+One feature of the mutations thus far found to be associated with the disease cystic fibrosis (CF) is that many
+of them are clustered within the first nucleotide-binding domain (NBD) of the CF transmembrane conductance
+regulator (CFTR). We sought to discover the molecular basis for this clustering by introducing into the two
+NBDs of CFTR mutations either mimicking amino acid changes associated with CF or altering residues within
+highly conserved motifs. Synthesis and maturation of the mutant CFTR were studied by transient expression
+in COS cells. The ability of the altered proteins to generate cyclic AMP-stimulated anion efflux was assessed by
+using 6-methoxy-N-(sulfopropyl) quinolinium (SPQ) fluorescence measurements in HeLa cells expressing
+mutated plasmids. The results show that (i) all CF-associated mutants, with one exception, lack functional
+activity as measured in the SPQ assay, (ii) mutations in NBD1 are more sensitive to the effects of the same amino
+acid change than are the corresponding mutations in NBD2, (iii) cells transfected with plasmids bearing
+CF-associated mutations commonly but not exclusively lack mature CFTR, (iv) NBD mutants lacking mature
+CFTR fail to activate Cl- channels, and (v) the glycosylation of CFTR, per se, is not required for CFTR
+function. We reason that the structure of NBD1 itself or of the surrounding domains renders it particularly
+sensitive to mutational changes. As a result, most NBD1 mutants, but only a few NBD2 mutants, fail to mature
+or lack functional activity. These findings are consistent with the observed uneven distribution of CFTR
+missense mutations between NBD1 and NBD2 of CF patients.
+
+Mutations in a gene encoding a protein called the cystic
+fibrosis transmembrane conductance regulator (CFTR) are
+responsible for the disease cystic fibrosis (CF) (14, 25, 26).
+This was confirmed by showing that transfected full-length
+cDNA encoding CFTR was able to complement the defect in
+Cl- channel regulation which is characteristic of epithelial
+cells from CF patients (8, 24). Although the protein product
+of the CF-associated gene has been identified, little is known
+about its biochemical function. Data obtained to date are
+consistent with the prediction that CFTR is a membraneassociated glycoprotein which can be phosphorylated in
+vitro (3, 9).
+Amino acid sequence analysis and homology with other
+proteins suggest that CFTR consists of two repeats of a unit
+containing six membrane-spanning segments and a putative
+nucleotide-binding fold (25). The two repeats are separated
+by a large polar segment called the R (regulatory)-domain
+because it contains multiple potential phosphorylation sites.
+The overall structure of CFTR, with the exception of the
+R-domain, resembles that of a number of other integral
+membrane proteins such as the human and mouse multidrug
+resistance P-glycoproteins (MDR) and the protein encoded
+by the yeast STE6 gene. Models for the structure of the
+nucleotide-binding folds have been proposed (12, 21).
+Recent studies showed that the expression of CFTR in a
+variety of heterologous cells generates cyclic AMP (cAMP)*
+
+activated Cl- currents which were not present in untransfected cells (1, 13). The simplest interpretation of these
+results is that CFTR is itself a cAMP-activated Cl- channel.
+The definitive demonstration of this will require additional
+experiments, such as the use of isolated lipid bilayers
+containing highly purified CFTR or by mutagenesis of amino
+acids potentially involved in ion selectivity.
+Studies of the biosynthesis of CFTR in transfected cells
+identified a defect associated with a number of CF mutations, including the most common, AF508 (3). Following
+synthesis, wild-type CFTR was shown to be processed by
+addition of complex carbohydrate. By contrast, several
+mutated versions of CFTR failed to yield the fully glycosylated form of the protein (referred to as band C). It was
+proposed that addition of carbohydrate to wild-type CFTR
+occurs in a two-step process: partial glycosylation in the
+endoplasmic reticulum, followed by complete glycosylation
+in the Golgi. Further, because mutations cause structural
+alterations, some forms of mutant CFTR are recognized as
+abnormal and rejected by a quality control mechanism
+located in the endoplasmic reticulum. Consequently, they
+are unable to move through the normal intracellular trafficking pathway. As a result, such mutants do not reach the
+Golgi, are not fully glycosylated, and are observed as an
+immature, partially glycosylated form called band B. This
+process of quality control is common to a number of secreted
+and transmembrane proteins, which when incorrectly folded
+or assembled fail to progress through the secretory pathway
+(11, 16, 20, 23, 27). In the case of CFTR, this interpretation
+
+Corresponding author.
+3886
+
+VOL. 11, 1991
+
+MUTATIONS IN NBD1 AND NBD2 OF CFTR
+
+3887
+
+A.
+
+NBD-1
+
+NBD-2
+
+A? 508 region
+
+Walker A
+
+Walker B
+
+466
+497
+515
+547
+575
+AVAGSTGAGKTS -- 30aa -- IMPGTIKENIIFGVSYDI KY -- 31aa -- TLSGGORARISLARAVYKDADLYLLDSPF
+N
+A&
+RD
+T
+N
+C
+I_
+
+455
+
+1241
+1252
+1295
+1313
+1345
+1373
+GLLGRTGSGKST -- 42aa -- IFSGTFRKNLDPYEQVSI D- 31aa - VLSHGHKQLCLARSVLSKAKIT-L lEPS
+N
+A
+K
+RD
+T
+N
+
+B.
+NBD-1
+
+NBD-2
+
+C.
+
+466
+497
+515
+547
+575
+AVAGSTGAGKTS -- 30aa - IMPGTIKNIIFGVSYDEBY -- 31aa -- TLSGGQRARISLARAVYKDADLYLLDSPF
+EV
+H
+R DQ
+VM
+T N
+C
+I
+
+455
+
+N
+
+1241
+1252
+1295
+1313
+1345
+1373
+GLLGRTGSGKST -- 42aa -- IFSGTFRKNLDPYEQVSIDO -- 31aa -- VLSGHKIQLMCLARSVLSKAKILLLDEPS
+K
+K
+D
+
+* ** ****
+
+*
+
+*
+
+HHDR1(N): ALVGNSGCG.STTVQLHQR
+lHDR1(C): ALVGSSGCGSTVVQlLER
+
+KKDR1(N): ALVQNSGCGZSTrVQOLQR
+
+*
+
+**
+
+*
+
+*
+
+** *** *
+
+QDIRTINVRFRIIGVVSQEPVLFATTIAWIIRYGRE
+
+KEIKRLINVQIVLRAHLGIVSOPILFDCSIAA
+
+QDIRTI NVRYLREIIGVVSQEPVLFATTIARYGRE
+
+LLGGJAIAIAALRQPHILLHTT
+Ql TATIAI AT
+_.AT
+1:;1
+QLSGGIAIIQTARALLRPKILIDEAT
+=(-T l 1 1 IIIDET
+
+KEIKQLNVQVLRAHLGIVSQEPILFDCIDN
+ALVGSSGCXastVvQLLER
+AFVGESGCGKSTIIJER
+HNLKDINLKVVRSKIGVVS4DPLLFSNSiKn NIySLY
+AIVGETGSGXSTFMNLLLR
+MCDYNLRDLUILFSLVSEPHLPNNSIY4IR
+:
+ST
+HNQTIDQKLLI iTwE CI NID
+ARAIRIPIDIWA
+FIVGRSGSGZSmSNLLLR
+TQSGGWLFNVA
+(IRTATRATRPKLLLSUT
+TDVNDWNLTSLEISVVEJPLLFNGTIRILTYGLQ
+GIIGESGTGKSTLVLLLTK
+RDAVL DNSISLA
+GIVGRSORILIQR
+TLSGGllIVAIhRAIIIPlIDEAT
+R----IISFCSQFSVIK IIGTmVS
+AVAGSTGAG TSLLtMING
+TLSGG £RARTSLARAVYKDADLYLLDSPF
+VLSH9G8KCLARSVLSKAKILLLDPS
+GLLGnTGSGSTLLSAFLR
+VSVDSITLQQVRKAFGVIPQNVFIFSGTFRKIDPYEQ
+FIG. 1. Amino acid sequence alignments of NBD1 and NBD2. (A) Amino acid sequences, shown in single-letter code. The mutants studied
+around Walker A and B and F508 are given below the wild-type sequence. Underlined amino acids are not known to be associated with CF.
+lDR1(C):
+PFNDR(N):
+PFNDR(C):
+STE6(N):
+STE6(C):
+HLYB:
+CFTR(N):
+CFTR(C):
+
+Bars above the sequences indicate the highly conserved motifs. A, deletion of an amino acid. Numbers above the amino acids refer to the
+sequence published by Riordan et al. (25). (B) Amino acid changes reported to be associated with CF (4-7, 15, 16, 22, 25, 26). The underlined
+residues are reported natural polymorphisms. Mutations thought to be splice mutations rather than missense mutations are not shown. (C)
+Alignment of putative NBD amino acid sequences from MDR species, STE6, HYLB, and CFTR showing an alternative alignment of NBD2
+of CFTR which maximizes sequence homology with other sequences shown. *, amino acid residues that are highly conserved in this family
+of proteins. H, human; M, mouse; PF, Plasmodium falciparum; HYLB, Escherichia coli hemolysin B. A consequence of this alignment is
+that F508 does not exactly correspond with F1296.
+
+would mean that most cases of CF are caused by the absence
+of mature CFTR at the correct cellular location. Although no
+accurate localization of endogenous CFTR has been reported, immunolocalization of wild-type and mutant CFTR
+in recombinant cells is consistent with this hypothesis (3),
+and functional assays strongly suggest that at least some
+CFTR is present in the plasma membrane at the apical
+surface (32).
+One interesting observation arising from studies on CFassociated mutations is the preponderance of identified
+mutations which map to nucleotide-binding domain 1
+(NBD1) as opposed to NBD2 (4-7, 15, 17, 22) (Fig. 1). In
+addition, we recently showed that mutation of a homologous
+amino acid residue within NBDs 1 and 2 of CFTR resulted in
+different effects on CFTR maturation (3). These observa-
+
+tions suggested to us that the frequency of CF-associated
+mutations within the NBDs might reflect an underlying
+sensitivity of NBD1 to functional inactivation or maturational blockage. To examine this possibility, we have studied
+not only the maturation of additional mutant CFTR molecules but also their function as measured by halide ion efflux
+in transfected cells. The studies were designed to determine
+how mutations affect function and how equivalent mutations
+in the two NBDs affect both processing and Cl- transport.
+We hoped, thereby, to learn the contributions that the two
+NBDs make to CFTR function and to determine the molecular basis of the uneven distribution of mutations associated
+with CF between the amino-terminal and carboxy-terminal
+NBDs. To this end, we have introduced paired mutations
+into a number of sites within the two NBDs of CFTR. Some
+
+3888
+
+GREGORY ET AL.
+
+mutations were introduced into residues altered in the DNA
+of CF patients, whereas others were in amino acids conserved in other NBD-containing proteins.
+MATERIALS AND METHODS
+In vitro mutagenesis procedures and plasmid constructions.
+Site-directed mutagenesis of CFTR and construction of
+expression vectors were performed as described previously
+(3), using standard methods for recombinant DNA manipulations and oligonucleotide-directed mutagenesis (18, 28).
+Briefly, pMT-CFTR, a plasmid vector for CFTR expression
+in mammalian cells, was constructed by placing CFTR
+cDNA sequences from the AvaI site at position 122 in the
+cDNA sequence to the Sacl site at position 4620 into the
+unique BglII site of the expression vector pSC-CEV1, using
+synthetic adaptor sequences (3). In pMT-CFTR, expression
+of CFTR is controlled by the flanking mouse metallothionein
+I promoter and simian virus 40 early polyadenylation signal.
+The previously described high-copy-number CFTR plasmid
+pTM-CFTR-4 was used for all site-directed mutagenesis
+procedures (3). CFTR mutations were verified by DNA
+sequencing, restriction analysis, and in vitro translation.
+Mutants constructed in the pTM-CFTR-4 background were
+directly tested for activity in the 6-methoxy-N-(sulfopropyl)
+quinolinium (SPQ) assay as described below. For expression
+in COS-7 cells, CFTR cDNA mutants were transferred to
+pMT-CFTR as described previously (3). Mutations occurring before codon 1270 of CFTR were transferred from
+pTM-CFTR-4 to pMT-CFTR on a 3.5-kb XbaI-to-BstXI
+restriction fragment, and those occurring after codon 1270
+were transferred on a 0.65-kb BstXI-to-XhoI restriction
+fragment. Transient expression of CFTR in COS-7 cells was
+performed essentially as described elsewhere (28).
+Immunoprecipitations and protein phosphorylation using
+protein kinase A. Our procedures for preparation of cell
+lysates, immunoprecipitation of CFTR, in vitro phosphorylation, and SDS (sodium dodecyl sulfate)-gel electrophoresis
+have all been described elsewhere (3, 9). For in vitro labeling
+of CFTR, immunoprecipitates were incubated with 20 ng of
+protein kinase A (Sigma) and 10 ,uCi of [y-32P]ATP in 50 ,ul
+of kinase buffer (50 mM Tris-HCl) [pH 7.5], 10 mM MgCl2,
+100 ,ug of bovine serum albumin per ml) at 30° C for 60 min.
+The reaction was stopped by the addition of 0.5 ml of RIPA
+buffer (50 mM Tris-HCl [pH 7.5], 150 mM NaCl, 1% Triton
+X-100, 1% sodium deoxycholate, 0.1% SDS). Labelled
+CFTR immunoprecipitates were analyzed by electrophoresis
+on 6% SDS-polyacrylamide gels (19).
+Assessment of anion permeability. Our procedures for
+expression of CFTR by using the vaccinia-T7 hybrid expression system and for assessment of Cl- permeability by using
+the halide-sensitive fluorophore SPQ have been described in
+detail elsewhere (1, 24). Briefly, HeLa cells were infected
+with recombinant vaccinia virus vTF7-3 (multiplicity of
+infection of 10 to 20) to produce bacteriophage T7 RNA
+polymerase. Following infection, the cells were transfected
+with plasmid (5 ,ug) containing wild-type or mutant CFTR
+coding sequences preceded by the T7 promoter. Cells were
+loaded with SPQ by including the dye in the medium and
+were studied 8 to 14 h after transfection. SPQ fluorescence
+was quenched by equilibration of the cells in Nal buffer.
+Cells were stimulated by addition of 20 ,uM forskolin and 100
+,uM isobutylmethyl xanthine to increase intracellular cAMP.
+SPQ fluorescence was measured before and following substitution of 1- for NO3 in the bathing medium. The change
+in SPQ fluorescence of wild-type CFTrR under cAMP-stim-
+
+MOL. CELL. BIOL.
+
+ulated and unstimulated conditions was included as a control
+for each mutant. Data are presented as percent fluorescence,
+which is 100 x [(F, - FO)/(F17 5- Fo)], where Fo, F175, and
+F, are fluorescence intensities at time zero, 17.5 min, and
+time t, respectively.
+In a few studies, we also measured membrane currents
+with the standard whole-cell patch clamp technique (1, 10).
+For G1349D CFTR mutants, the pipette contained 120 mM
+N-methyl-D-glucamine (NMDG), 5 mM N-2-hydroxyethylpiperazine-N'-2-ethanesulfonic acid (HEPES), 3 mM MgCl2,
+1 mM CsEGTA, and 1 mM MgATP, pH 7.2 (117.5 mM HCl).
+The external bath solution contained 140 mM NMDG, 10
+mM HEPES, 1.2 mM CaCl2, 1.2 mM MgCl2, and 10 mM
+dextrose, pH 7.2 (135 mM HCl). Membrane voltage was
+maintained at -60 mV and depolarized to +80 mV for 500
+ms every 4 s. For K1250M CFTR mutants, the pipette
+contained 120 mM NMDG, 115 mM aspartic acid, 5 mM
+HEPES, 3 mM MgCl2, 1 mM CsEGTA, and 1 mM MgATP,
+pH 7.2 (5.8 mM HCl). Membrane voltage was maintained at
+-80 mV and depolarized to +80 mV for 500 ms every 4 s.
+HeLa cells were studied 12 to 15 h after transfection. Series
+resistance and cell capacitance were compensated as described previously (1). Cells were studied at 30 to 35° C.
+RESULTS
+CFTR mutants. The mutations introduced into the NBDs
+of CFTR cDNA are shown in Fig. 1A, together with the
+CF-associated mutations that have been identified in these
+regions of the protein (Fig. 1B). The NBD mutations fall into
+three subregions: (i) those around the first Walker motif
+(Walker A) (31), characterized by several conserved glycines
+and a lysine residue; (ii) those upstream of and including the
+second Walker motif (Walker B), which consists of a short
+stretch of hydrophobic residues followed by a conserved
+aspartic acid; and (iii) the region around the most common
+CF-associated mutation (AF508). The sequences around
+residue 508 in Fig. 1A and B are arranged differently from
+the alignment proposed by Riordan et al. (25). The alignment
+used here was generated to maximize homology of NBD2,
+not only with NBD1 of CFTR but also with the NBD regions
+of other related proteins such as MDR and STE6 (Fig. 1C).
+The new alignment reveals a greater degree of conservation
+than does that published earlier.
+In the Walker A sequences, we mutated to methionine the
+conserved lysine residue at amino acid 464 in NBD1 and at
+1250 in NBD2; neither of these mutations is known to be
+associated with CF. By convention, these mutations are
+referred to as K464M and K1250M, where K and M stand for
+lysine and methionine, respectively, using the single-letter
+amino acid code. Upstream of Walker B, we made the
+mutations S549R and S5491, both of which are CF associated
+but relatively rare (5, 15). In NBD2 we made the equivalent
+S1347R mutation, which is not known to be CF associated.
+Mutations G551D and G1349D map to the equivalent conserved glycine in NBD1 and -2, respectively, and both are
+reported to be CF associated (5, 16a). A559T is CF associated (5), but its NBD2 equivalent A1357T is not reported to
+be CF associated. D572N and D1370N are not CF associated
+but alter the conserved aspartic acid in the Walker B
+sequence.
+In the 508 region we deleted phenylalanine residue 508
+(AF508) and also made A1507, a rare CF-associated mutation
+(15), F508C, which is reported to be a normal human
+polymorphism (17), and F508R, which represents a nonconservative amino acid change that is not known to be CF
+
+VOL. 11, 1991
+
+MUTATIONS IN NBD1 AND NBD2 OF CFTR
+
+200-
+
+3889
+
+|
+
+200 -~~c
+
+-
+
+BC
+
+92.592.5-
+
+M
+
+I
+
+2
+
+3 4
+
+5 6 7
+
+11 1
+
+8
+
+I
+
+9 10 11
+
+12 13 14
+
+B
+
+15 16
+
+FIG. 2. Analysis of mutant forms of CFTR. Expression vectors containing wild-type CFTR (pMT-CFTR; lane 1) and those containing
+mutants pMT-CFTR-K464M (lane 2), pMT-CFTR-K1250M (lane 3), pMT-CFTR-S549R (lane 4), pMT-CFTR-S1347R (lane 5), pMT-CFTRF508C (lane 7), pMT-CFTR-G551D (lane 8), pMT-CFTR-G1349D (lane 9), pMT-CFTR-A559T (lane 10), pMT-CFTR-A1357T (lane 11),
+pMT-CFTR-D572N (lane 12), pMT-CFTR-D1370N (lane 13), pMT-CFTR-N1303K (lane 14), pMT-CFTR-AF508 (lane 15), and pMT-CFTRAF1296 (lane 16) were transfected into COS-7 cells, and CFTR expression was analyzed by immunoprecipitation, in vitro phosphorylation,
+and gel electrophoresis as described previously (3, 9). Lane 6 contains mock-transfected COS-7 cells.
+
+associated (3). In NBD2 we made AF1296, which in the
+published amino acid alignment (25) is equivalent to the
+deletion at 508. In the same region of NBD2 we also made
+N1303K, which is CF associated (22). We also removed both
+potential glycosylation sites in CFTR to generate the mutation N894,900Q (3).
+The mutations were introduced into a full-length CFTR
+cDNA by standard methods (18). Previously described vectors were used for CFTR mutagenesis and for CFTR expression in the vaccinia virus and COS cell systems (3, 9, 24).
+Expression of mutant CFTR in COS cells. Figure 2 shows
+analysis of CFTR in COS cells 48 h after DNA transfection.
+CFTR was detected by addition of protein kinase A to
+washed immunoprecipitates made from extracts of the transfected cells, using monoclonal antibody 13.1 as described
+previously (3). The affinity of this antibody for CFTR is not
+measurably affected by either glycosylation of CFTR or the
+state of phosphorylation of the R-domain (2a, 3). Mature
+fully glycosylated CFTR is detected in this assay as a diffuse
+band (band C) migrating with an apparent molecular weight
+of 150,000 under our gel electrophoresis conditions. The
+primary translation product of CFTR, lacking any carbohydrate (band A), migrates more rapidly (apparent molecular
+weight of approximately 130,000) than band C, and partially
+glycosylated CFTR (band B) migrates with an intermediate
+mobility (apparent molecular weight of approximately
+135,000).
+Previously we reported that band C is absent from extracts
+of cells transfected with N894,900Q, the mutant lacking
+glycosylation sites (3). Instead the primary translation product, band A, is detected. Of mutations within NBD1, we
+previously showed that extracts from cells transfected with
+K464M, A1507, AF508, F508R, and S5491 lack band C but
+contain band B. We also showed that extracts from cells
+transfected with NBD1 mutant G551D contain band C (3;
+Fig. 2). Figure 2 shows that the additional NBD1 mutants
+S549R, A559T, and D572N directed synthesis of band B but
+not band C CFTR. F508C, the NBD1 polymorphism, clearly
+makes band C, though possibly at somewhat reduced
+amounts.
+
+Within NBD2, we had previously shown that cells containing mutant K1250M make band C (3; Fig. 2). Figure 2
+shows that NBD2 mutants S1347R, G1349D, A1357T, and
+
+D1370N also direct synthesis of apparently normal levels of
+band C CFTR. However, extracts of cells transfected with
+NBD2 mutant N1303K contain only band B CFTR. Although in Fig. 2 little band C is visible in cells transfected
+with the AF1296 mutant of CFTR, additional experiments
+consistently showed that cells transfected with this mutant
+make small but detectable amounts of band C.
+The expression data (summarized in Table 1) show that
+mutations in NBD1 are more sensitive to the effects of the
+same amino acid change than are mutations in NBD2, as
+TABLE 1. Properties of CFTR mutantsa
+Mutantb
+
+Wild type
+K464M
+K1250M
+A1507
+AF508
+F508C
+F508R
+AF1296
+N1303K
+
+S5491
+S549R
+
+S1347R
+G551D
+G1349D
+A559T
+A1357T
+D572N
+D1370N
+N894,900Q
+
+CF
+
+Domain
+
+N
+N
+Y
+Y
+P
+N
+N
+Y
+Y
+Y
+N
+Y
+Y
+Y
+N
+N
+N
+N
+
+NBD1
+NBD2
+NBD1
+NBD1
+NBD1
+NBD1
+NBD2
+NBD2
+NBD1
+NBD1
+NBD2
+NBD1
+NBD2
+NBD1
+NBD2
+NBD1
+NBD2
+
+ECD4d
+
+Band
+A
+
+B
+
+C
+
+-
+
++
++
++
+
+-
+
+-
+
+-
+
++
+
++
++
+
++
++
+
++
+
++
++
++
++
++
++
++
++
++
++
+
+-
+
++
++
+
+-
+
+SPQ assay
++
+
+-
+
++c
+
+-
+
++
+
++
+
++
++
++
+
+-
+
+-
+
+-
+
++
+
++
+
++
+-
+
+-
+
++
+
+-
+
++
+-
+
++
++C
+
+-
+
++
+
+a The known association with CF (Y, yes; N, no; P, polymorphism),
+domain location, presence (+) or absence (-) of CFTR bands A, B, and C,
+and presence (+) or absence (-) of function in the SPQ halide efflux assay are
+shown for each mutant CFTR species.
+b The convention for naming mutants is as follows: the amino acid normally
+found at the particular residue, the residue number (25), and the amino acid to
+which the residue was converted. The single-letter amino acid code is used.
+Thus, K464M is a mutant in which lysine 464 is converted to methionine.
+c Confirmation by whole-cell patch clamp.
+d ECD, extracellular domain.
+
+3890
+
+MOL. CELL. BIOL.
+
+GREGORY ET AL.
+
+E
+
+1001008080
+6060404020
+20o K46M
+-a-o N1303K
+0
+0'
+^^
+Kl 250M
+*~~~~
+v*- AF 296
+2 4 6 8 10 12 14 16 1
+0 2 4 6 8 10 12 14 16 18
+TIME (MIN)
+
+w
+z
+
+w
+C.)
+
+w
+
+cc
+a:
+0
+oL
+
+-J
+
+w
+z
+
+w
+
+C)
+w
+cc
+
+0
+-J
+
+U-
+
+2
+
+6 8 10 12 14 16 18
+TIME (MIN)
+
+0 2 4 6 8 10 12 14 16 18
+TIME (MIN)
+FIG. 3. Functional assay of CFTR mutants by SPQ fluorescence. The change in fluorescence of SPQ-loaded HeLa cells expressing
+wild-type or mutant CFTR is shown following substitution of N03 for l- in the bathing medium. Cells were stimulated with 20 ,M forskolin
+and 100 ,M isobutylmethyl xanthine for 7 min prior to ion substitution. Data are means standard errors of representative experiments for
+each mutant (CFTR, n = 33; AF508, n = 27; G551D, n = 40; G1349D, n = 52; K464M, n = 25; K1250M, n = 20; D572N, n = 6; D1370N,
+n = 7; N1303K, n = 40; AF1296, n = 18; where n = number of cells). Mutants were tested for function by using the SPQ assay with at least
+three different cell preparations. Values for each pair of mutants are significantly different (P < 0.001), except for the D-to-N pair of mutants,
+4
+
+±
+
+as
+
+assessed by Student's unpaired t test.
+
+measured by the appearance of band C. In addition, the data
+extends our previous observation that cells transfected with
+CF-associated mutants commonly but not exclusively lack
+mature CFTR.
+Functional assay for CFTR activity. To measure the function of the CFTR variants, we used the SPQ immunofluorescence assay in vaccinia virus-infected HeLa cells transfected with mutant plasmids (1, 24). Approximately 12 h
+after infection, SPQ-loaded cells were equilibrated in an Nal
+buffer. We then measured the increase in fluorescence of
+SPQ after the Nal buffer was replaced by NaNO3 buffer (1quenches SPQ fluorescence but N03 does not). The increase in fluorescence was measured in the presence and
+absence of cAMP. Representative data are shown in Fig. 3.
+We have previously shown that a cAMP-induced increase in
+the rate of fluorescence change results from activation of Clchannels (1, 24).
+Table 1 summarizes the results. A number of the mutations, especially those in NBD2 (F508C, N894,900Q,
+K1250M, AF1296, S1347R, G1349D, and A1357T) retain
+cAMP-activated iodide efflux. The remainder (K464M,
+A1507, AF508, F508R, S5491, S549R, G551D, A559T,
+D572N and its NBD2 equivalent D1370N, and N1303K) lack
+activity. For mutations K1250M and G1349D, the SPQ data
+were confirmed by patch clamp measurements using the
+methods previously described (1, 10) (Fig. 4). In both cases,
+addition of cAMP reversibly stimulated Cl- current.
+The functional assay data are striking for two reasons.
+First, all CF-associated mutations, with the exception of
+G1349D, are negative in the functional assay. Second, mutations in NBD1 lead to functional inactivation more often
+than do the equivalent mutations in NBD2.
+
+DISCUSSION
+
+The absence of mature CFTR correlates with failure to
+activate the chloride channel. The data in Table 1 show that
+with the exception of the synthetic glycosylation site mutant
+N894,900Q, mutants that fail to make band C also fail to
+generate cAMP-activated Cl- channels. We believe that this
+result is predictable since we earlier suggested that the
+absence of band C reflects the failure of some mutant CFTR
+species to traffic normally through the cell (3). We propose
+that such mutants are rejected in the endoplasmic reticulum
+by a cellular quality control mechanism. If this is the case, a
+mutant unable to make band C is one that is recognized by
+the quality control mechanism, and consequently cannot
+transport normally and cannot mature. Inevitably, such
+mutants will not progress to the plasma membrane and will
+lack functional activity at the cell surface.
+Although all mutants except N894,900Q which lack the
+ability to make band C also lack functional activity, the
+corollary is not true; that is, all mutants associated with CF
+do not lack band C. We previously showed that G551D and
+the transmembrane 6 mutant R334W (3) both make apparently normal amounts of band C. Here we also demonstrate
+this for G1349D. This result means that not all mutations in
+CFTR result in effects that are recognized by the cellular
+quality control mechanism. In these cases, intracellular
+trafficking and maturation proceed normally, but nevertheless the protein is defective, presumably because a residue
+crucial to protein function is altered. It is also important to
+recognize that many mutations reported to be associated
+with CF are very rare, and in some cases insufficient
+evidence exists to prove formally that a given mutation
+
+VOL. 11, 1991
+
+MUTATIONS IN NBD1 AND NBD2 OF CFTR
+C. K125iOM
+
+A. G1349D
+
+20a0]
+
+CPT-cAMP
+
+600*
+g 400.
+
+3891
+
+low
+[C..
+
+CPT-cAMP
+
+CPT-cAMP
+
+cL
+
+A..o lo
+
+e
+
+0
+A-
+
+C10)
+
+'- 200.
+
+0-
+
+0
+
+100
+
+200
+
+30
+
+Time (sec)
+
+400
+
+0
+
+500
+
+D.
+
+0
+
+500
+
+K1250M
+
+1500
+
+1000
+
+Time (sec)
+
+500
+
+pA
+250
+
+cAMP
+low [Co1
+
+Baseline
+
+mV
+-100
+
+50
+50
+
+1 00
+
+-250
+-500
+
+FIG. 4. Whole-cell Cl- currents in CFTR mutants. Expression of CFTR NBD2 mutants G1349D and K1250M produces cAMP-activated
+C1- currents in HeLa cells. (A) Time course for activation of current in the G1349D CFTR mutant. Upper bar shows the time during which
+8-(4-chlorophenylthio) (CPT)-cAMP (500 ,uM) was present. Lower bar shows the time when extracellular [Cl-] was decreased from 139.8 to
+4.8 mM (low [Cl]o). Values are currents recorded at +80 mV. (B) Current-voltage (I-V) relationship in the G1349D CFTR mutant obtained
+before (open symbols) and after (closed symbols) addition of CPT-cAMP (500 ,uM). Cell was the same as that shown in panel A. I-V
+relationships were obtained in symmetrical Cl- solutions (U) and after reduction of the extracellular Cl- concentration from 139.8 to 4.8 mM
+(@) (Cl- replaced by aspartic acid; expected reversal potential, +84.8 mV). (C) Time course for activation and reversal of currents in the
+K1250M CFTR mutant; bar shows the times during which CPT-cAMP (500 ,uM) was present. (D) Current-voltage relationship of the currents
+shown in C. The I-V relationship was obtained from a continuous voltage ramp from 100 to + 100 mV at the times indicated by the asterisk
+in panel C.
+-
+
+causes CF. G1349D is a case in point; this CFTR mutant is
+functional in our assays, suggesting the possibility that there
+are other, undiscovered mutations on the CF allele carrying
+G1349D and that these uncharacterized mutations cause CF.
+Carbohydrate addition per se is not necessary for CFTR
+function. The data presented here indicate that even though
+inactive mutants commonly lack complete glycosylation,
+carbohydrate addition is not necessary for the function of
+CFTR. N894,900Q retains anion transport function even
+though it makes no band B or band C. We interpret this
+finding to mean that this mutant is able to traffic normally
+through the cell. This emphasizes that the quality control
+mechanism that detects other mutants does not recognize
+defective glycosylation, but rather lack of complete glycosylation is a consequence of rejection. We conclude that
+glycosylation is not essential for CFTR to get to its site of
+action or to generate cAMP-activated Cl- channels. Other
+examples in which interference with the normal glycosylation of a transmembrane protein does not affect intracellular trafficking of that protein have been reported. For example, a deglycosylated version of the muscarinic acetylcholine
+receptor has been shown to be correctly localized and
+functional at the plasma membrane (30).
+Abnormal chloride channel function does not prevent glycosylation of CFTR. The results with mutants that are
+inactive yet still produce band C provide evidence that
+defective function of CFTR does not prevent its own glycosylation. G551D is a naturally occurring CF mutation, and
+expression of G551D fails to increase cAMP-dependent
+
+halide permeability yet still produces band C. Similarly,
+D1370N, which affects a highly conserved aspartic acid in
+the Walker B motif of NBD2, lacks activity in the SPQ assay
+yet produces band C. We conclude that the absence of
+complete glycosylation of certain CFTR mutants does not
+result from lack of cAMP-activated Cl- channel activity.
+NBD1 is more susceptible than NBD2 to the effects of
+mutation. In the series of mutations presented in Table 1, it
+is clear that equivalent mutations in NBD1 and NBD2 do not
+have equivalent consequences in the assays used here. Eight
+of nine mutations in NBD1 (excluding the polymorphism
+F508C) but only one of seven mutations in NBD2 fail to
+make detectable band C. Likewise, all of the mutations in
+NBD1 tested (except F508C) abolish cAMP-stimulated anion permeability, but only two of seven mutations in NBD2
+are inactive. Thus, mutations in NBD1 are at best equal to,
+but usually more severe than, the equivalent mutations in
+NBD2. Strikingly, these results reflect the observed uneven
+distribution of CF-associated mutations within CFTR. Of the
+15 missense mutations shown in Fig. 1B, only 3 are found in
+NBD2 whereas 12 are present in NBD1. Thus, the molecular
+basis for the frequency of CF-associated mutations within
+the NBDs would seem to be the increased sensitivity of
+NBD1 mutations to the quality control mechanism or functional inactivation. We suggest that this difference reflects
+either the different sequences within the NBDs themselves
+or else differences in the adjacent domains with which they
+may interact. In this regard, it is notable that the sequence
+homology between NBD1 and NBD2 in CFTR is much less
+
+3892
+
+MOL. CELL. BIOL.
+
+GREGORY ET AL.
+
+than for other proteins of similar overall structure with
+duplicate NBDs. Interestingly, the results discussed above
+contrast with those of similar studies on the NBDs of MDR,
+in which equivalent mutations in the two domains generally
+have the same effect on function (2).
+Given that mutations in the two NBDs affect maturation
+unequally, we believe that at least some of the differences in
+functional properties of mutants in the two domains are
+predictable. NBD1 mutants generally do not make band C;
+consequently, any potential partial activity of an NBD1
+mutant is masked because it does not reach the correct
+cellular destination at which activity is measurable. The
+equivalent NBD2 mutants, by contrast, generally appear to
+escape the quality control mechanism and do make band C.
+Presumably, at least some of the NBD2 mutant CFTR is
+present at the plasma membrane, and this material, even
+though mutant, may in certain cases have measurable activity. Consider, for example, the paired mutations (K464M
+and K1250M) in the conserved lysine in Walker A, where
+K464M does not make band C and is functionally inactive
+whereas K1250M does make band C and retains functional
+activity. The differences observed do not necessarily mean
+that the functions of the two domains (say, in nucleotide
+binding) are different. Rather, residual activity of K464M
+may be masked by incorrect subcellular location, whereas
+partial activity of K1250M may be magnified by the nonquantitative nature of the functional assay and expression
+system (see below). Similar arguments apply to other pairs
+of mutations.
+Another factor that might emphasize differences in activity between NBD1 and NBD2 mutants is the expression
+system and functional assay. Of the mutants that make band
+C, we show that six of eight retain measurable anion
+transport function. However, because neither the SPQ assay
+nor the measurement of Cl- currents with the patch clamp is
+completely quantitative (note our previous description of the
+heterogeneous response with use of the vaccinia virus hybrid
+expression system [1, 24]), we cannot conclude that functional mutants are completely wild type and retain 100%
+activity. Indeed, the apparent full activity of AF1296, which
+in COS-7 cells makes much less band C than does the wild
+type, and of G1349D, which is reported to be associated with
+CF, suggests that in some cases our expression system and
+functional assay may not allow discrimination of partially
+functional from fully functional mutants. It is also possible
+that the high level of expression of CFTR in the HeLa and
+COS-7 cells might influence the assays to mask some functional defects.
+What is the function of the NBDs? The results presented
+above do not allow us to unambiguously ascertain the
+biochemical properties of the NBDs. However, very recently Thomas et al. (29) showed that a synthetic peptide
+including the Walker A motif of NBD1 interacts with adenine nucleotides. Assuming, as seems probably, that both
+conserved Walker motifs are associated with nucleotide
+binding, it is important to note that two steps are likely
+involved: first, the binding or hydrolysis of nucleotide and
+second, the functional consequences that result from nucleotide binding or hydrolysis. If this reasoning is correct, even
+if NBD1 and NBD2 of CFTR both bind nucleotide, the
+functional consequences for CFTR that result from that
+binding may be different. Several arguments favor a different
+role for the two domains resulting from the different consequences of nucleotide binding. These include the clustering
+of CF-associated mutations and the differential effects reported here of seemingly equivalent mutations both on
+
+maturation of CFTR and on Cl- channel activity. However,
+the fact that certain mutations in NBD2 do affect CFTR
+maturation or Cl- channel activity suggests that the two
+NBDs may play similar roles in CFTR function and that the
+primary difference between the two NBDs is the greater
+susceptibility of NBD1 mutants to detection by the quality
+control mechanism. The resolution of these alternative possibilities requires further study.
+ACKNOWLEDGMENTS
+
+We thank Gary White for oligonucleotides, Phil Karp, Aurita
+Puga, Betsy Burton, and Rob Seiler for technical assistance, and
+Cathy Janiak for secretarial assistance. We also thank John McPherson, Kathy Klinger, and Lynda Ostedgaard for commenting on the
+manuscript and A. Beaudet, K. Kobayashi, and M. Devoto for
+permission to quote unpublished work.
+This work was supported in part by grants from the Cystic
+Fibrosis Foundation (A.E.S. and M.J.W.) and the National Heart,
+Lung, and Blood Institute (M.J.W.).
+REFERENCES
+1. Anderson, M. P., D. P. Rich, R. J. Gregory, A. E. Smith, and
+M. J. Welsh. 1991. Generation of cAMP activated chloride
+
+currents by expression of CFTR. Science 251:679-682.
+
+2. Azzaria, M., E. Schurr, and P. Gros. 1989. Discrete mutations
+introduced into the predicted nucleotide-binding site of the mdrl
+gene abolish its ability to confer multidrug resistance. Mol. Cell.
+Biol. 9:5289-5297.
+
+2a.Cheng, S. H. Unpublished data.
+3. Cheng, S. H., R. J. Gregory, J. Marshall, S. Paul, D. W. Souza,
+G. A. White, C. R. O'Riordan, and A. E. Smith. 1990. Defective
+intracellular transport and processing is the molecular basis for
+most cystic fibrosis. Cell 63:827-834.
+4. Cuppens, H., P. Maryen, C. De Boeck, and J. J. Cassiman. 1990.
+Study of the G542X and G458V mutations in a sample of Belgian
+CF patients. Pediatr. Pulm. 5(Suppl.):202.
+5. Cutting, G. R., L. M. Kasch, B. J. Rosenstein, J. Zielenski, L.-C.
+Tsui, S. E. Antonarakis, and H. H. Kazanian, Jr. 1990. A cluster
+of cystic fibrosis mutations in the first nucleotide binding fold of
+the cystic fibrosis conductance regulator protein. Nature (London) 346:366-369.
+6. Devoto, M., P. Ronchetto, P. Fanen, J. J. Telleria Orriols, G.
+Romeo, M. Goossens, M. Ferrari, C. Magnani, M. Seva, and L.
+Cremonesi. 1991. Screening for non-delta F508 mutations in five
+exons of the cystic fibrosis transmembrane conductance regulator (CFTR) gene in Italy. Am. J. Hum. Genet. 48:1127-1132.
+7. D6rk, T., U. Wulbrand, B. Wulf, N. Hoffknecht, J. Hundrieser,
+G. Maa,, and B. Tummler. 1990. Mutation identification in the
+CFTR gene of German and Turkish patients with cystic fibrosis.
+Pediatr. Pulm. 5(Suppl.):202.
+8. Drumm, M. L., H. A. Pope, W. H. Cliff, J. M. Rommens, S. A.
+Marvin, L.-C. Tsui, F. S. Collins, R. A. Frizzel, and J. M.
+Wilson. 1990. Correction of the cystic fibrosis defect in vitro by
+retrovirus-mediated gene transfer. Cell 62:1227-1233.
+9. Gregory, R. J., S. H. Cheng, D. P. Rich, J. Marshall, S. Paul, K.
+Hehir, L. Ostedgaard, K. W. Klinger, M. J. Welsh, and A. E.
+Smith. 1990. Expression and characterization of the cystic
+fibrosis transmembrane conductance regulator. Nature (London) 347:382-386.
+10. Hamill, 0. P., A. Marty, E. Neher, B. Sakmann, and F. J.
+Sigworth. 1981. Improved patch-clamp techniques for highresolution current recording from cells and cell-free membrane
+patches. Pfluegers Archiv. 391:85-100.
+11. Hurtley, S. M., and A. Helenius. 1989. Protein oligomerization in
+the endoplasmic reticulum. Annu. Rev. Cell Biol. 5:227-307.
+12. Hyde, S. C., P. Emsley, M. J. Hartshorn, M. M. Mimmack, U.
+Gileadi, S. R. Pearce, M. P. Gallagher, D. R. Gill, R. E.
+Hubbard, and C. F. Higgins. 1990. Structural model of the
+ATP-binding proteins associated with cystic fibrosis, multidrug
+resistance and bacterial transport. Nature (London) 346:362365.
+
+VOL . 1 l, 1991
+
+13. Kartner, N., J. W. Manrahan, J. J. Jensen, A. L. Naismith, S.
+Sun, C. A. Ackerley, E. F. Reyes, L. C. Tsui, J. M. Rommens,
+C. E. Bear, and J. R. Riordan. 1991. Expression of the cystic
+fibrosis gene in non-epithelial invertebrate cells produces a
+regulated anion conductance. Cell 54:681-692.
+14. Kerem, B.-S., J. M. Rommens, J. A. Buchanan, D. Markiewicz,
+T. K. Cox, A. Chakravarti, M. Buchwald, and L. C. Tsui. 1989.
+Identification of the cystic fibrosis gene: genetic analysis. Science 245:1073-1080.
+15. Kerem, B.-S., J. Zielenski, D. Markiewicz, D. Bozon, E. Gazit, J.
+Yahaf, D. Kennedy, J. R. Riordan, F. S. Collins, J. M. Rommens, and L.-C. Tsui. 1990. Identification of mutations in
+regions corresponding to the two putative nucleotide (ATP)binding folds of the cystic fibrosis gene. Proc. Natl. Acad. Sci.
+USA 87:8447-8451.
+16. Klausner, R. D., and R. Sitia. 1990. Protein degradation in the
+endoplasmic reticulum. Cell 62:611-614.
+16a.Kobayashi, K., and A. L. Beaudet. Personal communication.
+17. Kobayashi, K., M. R. Knowles, R. C. Boucher, W. E. O'Brien,
+and A. L. Beaudet. 1990. Benign missense variations in the
+cystic fibrosis gene. Am. J. Hum. Genet. 47:611-615.
+18. Kunkel, T. M. 1985. Rapid and efficient site-specific mutagenesis without phenotypic selection. Proc. Natl. Acad. Sci. USA
+82:488-492.
+19. Laemmli, U. K. 1970. Cleavage of structural proteins during
+assembly of the head of bacteriophage T4. Nature (London)
+227:680-685.
+20. Lodish, H. F. 1988. Transport of secretory and membrane
+glycoproteins from the rough endoplasmic reticulum to the
+Golgi. J. Biol. Chem. 263:2107-2110.
+21. Minura, C. S., S. R. Holbrook, and G. F.-L. Ames. 1991.
+Structural model of the nucleotide-binding conserved component of periplasmic permeases. Proc. Natl. Acad. Sci. USA
+88:84-88.
+22. Osborne, L., R. Knight, G. Santis, and M. E. Hodson. 1991. A
+non-conservative mutation in the second nucleotide binding fold
+of the cystic fibrosis transmembrane conductance regulator.
+Am. J. Hum. Genet. 48:608-612.
+
+MUTATIONS IN NBD1 AND NBD2 OF CFTR
+
+3893
+
+23. Pelham, H. R. B. 1989. Control of protein exit from the
+endoplasmic reticulum. Annu. Rev. Cell Biol. 5:1-23.
+24. Rich, D. P., M. P. Anderson, R. J. Gregory, S. H. Cheng, S.
+Paul, D. Jefferson, J. D. McCann, K. W. Klinger, A. E. Smith,
+and M. J. Welsh. 1990. Expression of the cystic fibrosis transmembrane conductance regulator corrects defective chloride
+channel regulation in cystic fibrosis airway epithelial cells.
+Nature (London) 347:358-363.
+25. Riordan, J. R., J. M. Rommens, B.-S. Kerem, B.-S., N. Alon, R.
+Rozmahel, Z. Grzelczack, J. Zielenski, S. Lok, N. Plavsic, J.-L.
+Chou, M. L. Drumm, M. C. Iannuzzi, F. S. Collins, and L.-C.
+Tsui. 1989. Identification of the cystic fibrosis gene: cloning and
+characterization of the complementary DNA. Science 245:10661073.
+26. Rommens, J. M., M. C. Iannuzi, B.-S. Kerem, M. L. Drumm,
+G. Melmer, M. Dean, R. Rozmahel, J. L. Cole, D. Kennedy, N.
+Hidaka, M. Zsiga, M. Buchwald, J. R. Riordan, L.-C. Tsui, and
+F. S. Collins. 1989. Identification of the cystic fibrosis gene:
+chromosome walking and jumping. Science 245:1059-1065.
+27. Rose, J. K., and R. W. Doms. 1988. Regulation of protein export
+from the endoplasmic reticulum. Annu. Rev. Cell Biol. 4:257258.
+28. Sambrook, J., E. F. Fritsch, and T. Maniatis. 1989. Molecular
+cloning: a laboratory manual. Cold Spring Harbor Laboratory,
+Cold Spring Harbor, N.Y.
+29. Thomas, P. J., P. Shenbagamurthi, X. Ysern, and P. L. Pedersen. 1991. Cystic fibrosis conductance regulator; nucleotide
+binding to a synthetic peptide. Science 251:555-557.
+30. Van Koppen, C. J., and N. M. Nathanson. 1990. Site-directed
+mutagenesis of the m2 muscarinic acetylcholine receptor. J.
+Biol. Chem. 265:20887-20892.
+31. Walker, J. E., M. Saraste, M. J. Runswick, and N. J. Gay. 1982.
+Distantly related sequences in the a- and P-subunits of ATP
+synthase, myosin kinases, and other ATP requiring enzymes
+and a common nucleotide binding fold. EMBO J. 8:945-951.
+32. Welsh, M. J. 1990. Abnormal regulation of ion channels in cystic
+fibrosis epithelia. FASEB J. 4:2718-2725.
+
+

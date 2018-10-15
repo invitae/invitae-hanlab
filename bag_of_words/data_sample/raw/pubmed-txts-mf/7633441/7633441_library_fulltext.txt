@@ -1,0 +1,1314 @@
+© 1995 Oxford University Press
+
+Human Molecular Genetics, 1995, Vol. 4, No. 5
+
+821-830
+
+Mutation analysis of the RET receptor
+tyrosine kinase in Hirschsprung disease
+Misha Angrist1, Stacey Bolk1, Bonnie Thiel1, Erik G.Puffenberger1, Robert M.Hofstra3,
+Charles H.C.M.Buys3, Daniel T.Cass4and Aravinda Chakravarti1-2*
+department of Genetics and 2Center for Human Genetics, Case Western Reserve University and University Hospitals of
+Cleveland, Cleveland, OH 44106-4955, USA, department of Medical Genetics, University of Groningen, 9713 AW Groningen,
+the Netherlands and 4Department of Paediatnc Surgery, Westmead Hospital, Westmead NSW 2145, Australia
+Received January 6, 1995; Revised and Accepted February 24, 1995
+
+INTRODUCTION
+Hirschsprung disease (HSCR), or congenital aganglionic megacolon, is associated with the lack of intrinsic ganglion cells in
+the myenteric and submucosal plexuses along variable lengths
+of the gastrointestinal tract (I). As enteric ganglion cells are
+derived primarily from the vagal neural crest, HSCR, like
+other disorders whose affected tissues are of neural crest
+origin, represents a typical neurocristopathy (2). With an
+incidence of approximately 1 in 5000 live births, HSCR
+represents the most common form of congenital bowel obstruction (3). Evidence for a genetic predisposition to HSCR
+has mounted in the last three decades, beginning with the
+identification of pedigrees that appear to segregate HSCR as
+an incompletely penetrant autosomal dominant trait (4,5),
+followed by formal segregation analysis yielding results consistent with single gene inheritance in at least 20% of cases
+(6). Subsequently, linkage to the pericentromeric region of
+chromosome 10 in a subset of families, and to chromosome
+13q22 in a large Mennonite kindred (7-9), has been demonstrated.
+
+•To whom correspondence should be addressed
+
+More recently, mutations in HSCR patients have been
+described in the RET receptor tyrosine kinase (10,11) and in
+the G-protein coupled endothelin-B receptor (EDNRB; 12).
+RET mutations have been described in both HSCR patients
+and in patients with the autosomal dominant neuroendocrine
+tumor phenotypes multiple endocrine neoplasia type 2A
+(MEN2A; 13-15), type 2B (MEN2B; 16-18) and isolated
+medullary thyroid carcinoma (MTC; 13,15,17,18). MEN2A
+consists of MTC, pheochromocytoma and parathyroid hyperplasia, while MEN2B includes the manifestations of MEN2A
+(except hyperparathyroidism) plus mucosal neuromas, ganglioneuromas, comeal nerve thickening and skeletal anomalies.
+Familial and sporadic cases of isolated MTC are also part of
+this spectrum of phenotypes (19-21). While the overwhelming
+majority of MEN2A and MEN2B mutations reported to date
+have been clustered in cysteine residues near the transmembrane domain of RET (MEN2A; e.g. 15) or in codon 918 in
+the tyrosine kinase domain of RET (MEN2B; e.g. 18), no
+clustering is evident among RET mutations reported in HSCR
+
+Downloaded from http://hmg.oxfordjournals.org/ at Reprints Desk on April 8, 2012
+
+Hirschsprung disease (HSCR), or congenital aganglionic megacolon, is the most common cause of congenital
+bowel obstruction with an incidence of 1 in 5000 live births. Recently, linkage of an incompletely penetrant,
+dominant form of HSCR was reported, followed by Identification of mutations In the RET receptor tyrosine
+kinase. To determine the frequency of RET mutations In HSCR and correlate genotype with phenotype, we
+have screened for mutations among 80 HSCR probands representing a wide range of phenotypes and family
+structures. Polymerase chain reaction (PCR) and single-strand conformation polymorphism (SSCP) analysis
+of RETs 20 exons for mutations among probands revealed eight putative mutations (10%). Sequence changes,
+which Included missense, frameshift and complex mutations, were detected in both familial and Isolated
+cases, among patients with both long- and short-segment HSCR and in three kindreds with other phenotypes
+(maternal deafness, talipes and malrotation of the gut, respectively). Two mutations (C609Y and C620R) we
+identified have previously been associated with multiple endocrine neoplasla type 2A (MEN2A), medullary
+thyroid carcinoma (MTC) and, on rare occasions, HSCR. Thus, while HSCR family members may be at risk
+for developing neuroendocrlne tumors, it follows that identical mutations in RET may be able to participate
+in the pathogenesis of distinct phenotypes. Our data suggest that: (i) the overall frequency of RET mutations
+in HSCR patients Is low and therefore, other genetic and/or environmental determinants contribute to the
+majority of HSCR susceptibility, and (ii) at present, there is no obvious relationship between RET genotype
+and HSCR phenotype.
+
+822
+
+Human Molecular Genetics, 1995, Vol. 4, No. 5
+
+Table 1. Characteristics of 80 HSCR probands utilized for mutation screening
+Family type
+
+Segment length
+
+1
+2
+4
+8
+9
+
+—short
+long
+—
+—
+
+10
+11
+13
+14
+15
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+
+sib pair
+single case
+single case
+single case
+multiple
+congenital anomalies
+single case
+single case
+sib pair
+single case
+sib pair
+single case
+single case
+multi case
+sib pair
+single case
+single case
+single case
+parent-offspring
+first cousins
+uncle—niece
+multicase
+single case
+single case
+multicase
+sib pair
+single case
+
+short
+—
+—
+—
+—
+—
+—
+long
+—
+—
+—
+—
+long
+short
+long
+—
+—
+—
+long
+long
+—
+
+34
+35
+36
+37
+38
+39
+41
+42
+55
+56
+57
+63
+64
+65
+67
+68
+70
+73
+75
+76
+78
+79
+81
+82
+83
+84
+88
+89
+90
+91
+92
+101
+102
+103
+
+single case
+single case
+single case
+single case
+sib pair
+single case
+multicase
+single case
+single case
+multicase
+parent—offspring
+sib pair
+parent-offspring
+multicase
+multicase
+single case
+sib pair
+single case
+sib pair
+single case
+single case
+cousins
+sib pair
+single case
+parent-offspring
+sib pair
+sib pair
+single case
+multicase
+sib pair
+multicase
+single case
+single case
+single case
+
+long
+short
+—
+—
+—
+long
+—
+short
+short
+long
+—
+—
+short
+long
+—
+short
+long
+short
+long
+short
+long
+long
+short
+long
+short
+—
+long
+long
+short
+long
+—
+long
+long
+
+114
+117
+
+single case
+single case
+
+long
+—
+
+118
+121
+
+multicase
+multicase
+
+long
+
+Comments/other phenotypes in family*
+
+epilepsy, deafness, club foot, ocular defects, mental
+retardation, 47, XX, +der(15)t(4;15)(q35.l;22.3)mat
+
+monozygotic twins discordant for HSCR
+
+epilepsy
+ocular defects (sib), nephritis (sib), esc
+white forelock, hyperpigmentation
+tca c
+
+megacornea, strabismus, nerve deafness, apnea, high palate, limb
+defect
+Down syndrome, webbed toes
+Spina bifida occulta, kidney defects (2° relatives)
+heart, lung defects (sib), diaphragmatic hernia (sib)
+malrotation of the gut
+esc
+esc
+webbed fingers and toes
+tea
+esc, asthma (sib), pyloric stenosis (sib)
+esc, diverticulitis (grandparent)
+tea, skin tags (sib), malformed ears (sib)
+clubfoot
+tea
+tea
+
+hypospadias, enlarged bladder
+zonal aganglionosis, clubfoot
+esc
+
+maternal deafness
+patent ductus arteriosus, pulmonary stenosis, agenesis of corpus
+callosum, vesicoureteral reflux, myopia, tea, limb anomalies, neuronal
+intestinal dysplasia
+mid-gut volvulus, tea
+cardiac anomaly, imperforate anus, cleft palate, congenital dislocation
+of hip, spina bifida occulta, malrotalion of intestine, congenital
+obstruction of ureter and pelvic kidney
+tea
+
+Downloaded from http://hmg.oxfordjournals.org/ at Reprints Desk on April 8, 2012
+
+Family ID
+
+Human Molecular Genetics, 1995, Vol. 4, No. 5
+127
+
+single case
+
+128
+129
+130
+131
+132
+133
+136
+137
+139
+144
+150
+153
+155
+159
+1001
+
+multicase
+multicase
+single case
+sib pair
+single case
+single case
+single case
+single case
+uncle-niece
+single case
+multicase
+single case
+single case
+single case
+single case
+
+823
+
+esc, developmental delay, undescended testes, hernia, ptosis,
+hypotonia, microcephaly, Dubowitz syndrome
+tea
+esc
+amblyopia, strabismus, hearing loss, apnea, esc, tea
+
+long
+short
+long
+long
+long
+long
+—
+long
+—
+long
+short
+—
+—
+short
+—
+
+esc, tea
+
+neuronal intestinal dysplasia, neuroblastoma (sib), tea
+esc
+
+family history of Waardenburg syndrome
+tea, esc
+tea. Down syndrome, epilepsy
+ocular defects
+diabetes mellitus (grandparent), esc, hyperparathyroidism (grandparent)
+renal anomalies
+congenital central hypoventilation syndrome
+
+Table 2. RET mutations in HSCR families
+Family
+
+Exon
+
+Mutation
+
+Amino acid
+change
+
+Paternal/maternal
+transmission of
+mutation
+phenotype
+
+Familiality of
+lengthd
+
+Segment
+
+102'
+78 b
+32
+139
+84
+
+1
+1
+2
+5
+9
+
+inherited
+inherited
+inherited
+inherited
+inherited
+
+L
+S
+TCA
+S
+
+10
+10
+13
+
+5' UTR
+Pro20Leu
+Gly93Ser
+Arg33OGln
+stop codon
+ins
+Cys6O9Tyr
+Cys620Arg
+—
+
+sporadic
+sporadic
+maternal?
+maternal
+maternal
+
+88
+30
+55C
+
+C->G (nt - 2 7 )
+C-»T
+G-»A
+G->A
+1677dup21insl6;
+1699dell5
+G->A
+T-»C
+2379delC
+
+paternal
+sporadic
+sporadic
+
+inherited
+none
+none
+
+-
+
+b
+
+s
+
+c
+
+"maternal deafness; clubfoo(; malrotation of the gut; length of aganglionic segment; L, long; S, short; TCA, total colonic aganglionosis
+
+patients. Recently, overlap between HSCR and MEN2
+mutations was reported in a small number of patients (22-25),
+although the two phenotypes have been known to co-occur
+only in rare instances (23,26). In this report, we present two
+independent cases of RET mutations that have previously
+been reported primarily in association with MEN2A alone
+(14,15,27), although one has been observed in three kindreds
+with HSCR and either MEN2A or familial MTC (FMTC; 23).
+Both missense changes affect cysteine residues in patients that,
+at present, have HSCR only and imply that determining
+genotype-phenotype correlations and penetrance for RETassociated neurocristopathies is not straightforward. We
+describe additional non-polymorphic RET sequence changes
+that were detected in six other HSCR patients and include a
+change in the 5' untranslated region (UTR), missense changes,
+a single base pair deletion and a complex rearrangement in
+exon 9.
+
+RESULTS
+We studied 80 patients with Hirschsprung disease (Table 1)
+and, of these, eight (10%) were found to harbor sequence
+changes not found in at least 96 control individuals (192
+
+chromosomes). Both the nature and location of the mutations
+varied widely, with the eight alterations distributed over six
+exons and consisting of missense, frameshift and complex
+mutations. Putative mutations are summarized in Table. 2.
+They include five transitions (1 C->T, 3 G->A, 1 T->C), 1
+transversion (C—»G), 1 single base pair deletion and an apparent
+duplication/insertion/deletion that results in a net insertion of
+22 base pairs. Mutations were observed in three short-segment
+cases, one documented long-segment case, one case of total
+colonic aganglionosis and three cases where segment length
+information was incomplete or not available. All sequence
+changes were contained within the amino acid coding region
+with the exception of that seen in family 102, in which a
+single base change in the 5' untranslated region relatively
+close to the initiator codon in exon 1 was observed. The
+locations of mutations with respect to the known functional
+domains of the RET protein are shown in Figure 1.
+Among the mutations presented in Table 2 are two sequence
+variants in exon 1. The C=>G change observed in family 102
+is a familial mutation that occurs 27 bases upstream from the
+ATG start site in the 5' untranslated region (UTR). As this
+base substitution occurs 3' to the putative promoter region but
+5' to the signal peptide (28), it is not clear if and how it might
+
+Downloaded from http://hmg.oxfordjournals.org/ at Reprints Desk on April 8, 2012
+
+'All instances of chronic severe constipation occur in family members that do not have biopsy-proven HSCR. All other phenotypes occur in the proband
+unless otherwise noted.
+b
+Chronic severe constipation.
+Total colonic aganglionosis.
+
+824
+
+Human Molecular Genetics, 1995, Vol. 4, No. 5
+RET Mutations in HSCR
+
+1
+
+NH,
+
+m
+
+signal peptlde
+
+3
+
+4
+
+NC
+
+Figure 1. RET receptor tyrosine kinase. Arrows indicate approximate locations
+of mutations in the protein as described in the text and in Table 2. Open
+boxes correspond to distinct domains of the protein: tm = transmembrane;
+tkl = tyrosine kinase domain 1; tk2 = tyrosine kinase domain 2.
+
+affect RET gene regulation and/or expression. While the
+patient's mother harboring the mutation does not have HSCR,
+she does have sensorineural deafness, a relatively common
+manifestation among neurocristopathies in general (2) and
+HSCR in particular (6,12). This change creates a Taq\ restriction
+site not present in 96 controls (data not shown). The proband
+in family 78 inherited a Pro=>Leu mutation at amino acid
+position 20 that eliminates a MspA\ I restriction site (data
+not shown).
+In the pedigree of family 32 (Fig. 2), both children have
+total colonic aganglionosis, the father is phenotypically normal
+and the mother suffers from chronic severe constipation (CSC).
+Detection of an SSCP in individual 3203 and direct sequence
+analysis of this patient revealed a G=>A transition that changes
+a glycine to a serine residue at amino acid 93 (G93S; Fig. 3);
+the mutation was found to eliminate a BsrF I restriction site.
+Subsequent restriction enzyme digests of all family members
+with BsrF I demonstrated that the mutation was of paternal
+origin and not from the mother with CSC (Fig. 2). Figure 2
+also presents SSCP patterns in the two children that are distinct
+from each of the two parents, while the parents' patterns are
+distinct from each other. Sequence analyses of all four family
+members demonstrated that while the unaffected father transmitted the mutation, the mother was found to be heterozygous
+for a silent Eagl polymorphism in the same exon, at alanine
+45 (29), which also occurred in her sons (data not shown).
+Direct sequencing results for the mutation in individual 3203
+are presented in Figure 3.
+Figure 4a presents the pedigree of family 84. Both affected
+sibs are short segment cases while the mother carrying the
+mutation has had intermittent constipation since childhood.
+The lower panel, depicting exon 9 PCR products, shows the
+doublet (162 and 184 base pair bands) present in the mother
+
+Figure 2. Pedigree of family 32 next to a normal control individual (NC;
+upper). Filled symbols = affected with HSCR; squares = males; circles =
+females; as used here and in Figures 4 and 5. The cross-hatched circle
+indicates chronic severe constipation (CSC) in the mother. SSCP analysis of
+exon 2 (center) reveals additional bands in all four family members when
+compared with most controls. The mother and her sons were found to be
+heterozygous for a silent Eagl polymorphism in this exon, described previously
+(29).The bottom panel shows BsrF] digests of exon 2 PCR products and
+demonstrates the presence of a G93S mutation in the unaffected father and
+his affected offspring, but not in the mother with CSC.
+
+NORMAL
+
+Gly
+
+MUTANT
+
+c
+G
+G/A
+C "
+
+Ser
+
+c
+A
+
+Figure 3. Cycle sequencing analysis of exon 2 in affected individual 3203
+('mutant') found to be heterozygous for a G93S mutation in RET.
+
+and her sons indicating the presence of a complex mutation
+in this exon. All controls studied exhibit only the expected
+162 base pair band. Figure 4b shows the nucleotide sequence
+corresponding to the partial duplication/insertion/deletion of
+exon 9 segregating in family 84. While 21 bases appear to be
+tandemly duplicated, this sequence is adjacent to 16 'novel'
+bases that appear to have been substituted for 15 deleted bases
+present in the wild-type sequence. This insertion is of unknown
+genomic origin and does not exactly match any known part
+of the RET coding sequence in either the sense or antisense
+orientation. However, it does contain five consecutive nucleotides (CCACT) from the adjacent 5' wild-type sequence as
+well as two triplets (CGA and CGG) from the same stretch of
+
+Downloaded from http://hmg.oxfordjournals.org/ at Reprints Desk on April 8, 2012
+
+- 93bp
+- 73bp
+
+Human Molecular Genetics, 1995, Vol. 4, No. 5 825
+
+Family 84
+
+O
+
+3
+
+4
+
+wild-type: ... .. TCCCAGCACCAAQACCTGCCC
+-CGACGGCCACTQCOATGTTGTGTGGAQACCCAmutant .._ TCCCAQCACCAAGACCTGCCC TCCCAQCACCAAQACCTGCCC
+-deleted?xggcgacccactagatTGTTGTGTGGAGACCCA-.
+duplication
+
+"novel'tequence
+
+Figure 4. (a) Pedigree of family 84 and PCR analysis of RET exon 9. The normal father and control (NC) each exhibit a single 162 base pair (bp) band while
+doublets (162 and 184 bp) in both sibs and their mother indicate heterozygosity for a complex rearrangement of exon 9. (b) Nucleotide sequence of exon 9
+from wild type and mutant as revealed by direct DNA sequencing. The mutant sequence contains an apparent duplication of 21 bases, a deletion of 15 bases
+and 16 orphan nucleotides containing an in-frame stop codon (TAG). The orphan sequence may be derived from the adjacent 'deleted' sequence (see text).
+
+sequence, suggesting that the actual insertion may be shorter
+than 16 nucleotides. A similarity search using the Geneworks
+2.3.1 software package (Intelligenetics, Inc., Mountain View,
+CA) detected no significant homology between the 16 orphan
+nucleotides and sequences in the GenBank and EMBL
+databases.
+We identified two independent cases where HSCR patients
+were found to carry exon 10 mutations that affect cysteine
+residues. Both of these mutations, C609Y and C620R, have
+previously been reported in MEN2A patients (e.g. reference
+15). The pedigree and SSCP analysis for an affected sib pair
+(family 88) are presented in Figure 5. Restriction digests with
+BspM 1 and Bstl) I (30) confirmed SSCP and direct sequencing
+results for the C609Y and C620R mutations in families 88
+and 30, respectively (data not shown). The two affected sibs
+in family 88 were found to have received the C609Y mutation
+from their father. As of March 1995, the father is 59 years old
+and has not exhibited any signs of neuroendocrine neoplasia.
+However, he has not undergone a pentagastrin test and therefore, especially as a high proportion of gene carriers are still
+asymptomatic at age 70 in the absence of biochemical screening
+(31), he must be considered to be at-risk for MEN2A/MTC.
+This family is currently being offered genetic counseling.
+Individual 3003 (family 30) is an isolated case of HSCR and
+carries a new mutation in the RET gene (C620R).
+To our knowledge, none of the non-exon 10 mutations
+in HSCR-only kindreds described here have been observed
+previously, with the exception of R33OQ (10). Additionally,
+one sequence change was found that was not reported previously (29) and is not considered to be causative of HSCR. It
+is a silent, private change (TAC=>TAT) in codon 314 (tyrosine).
+
+Family 88
+1
+
+2
+
+• •
+Figure 5. Pedigree of family 88 (upper) and SSCP analysis of an exon 10
+mutation (C609Y; lower) previously associated with neuroendocrine tumors.
+The father is phenotypically normal al age 59 while both sibs have HSCR only.
+
+Additionally, the rare polymorphism R982C (23) was observed
+in four of 80 (5%) probands and two of 90 (2.2%) controls
+(Hofstra el al, in preparation). This substitution of a neutral
+polar residue for a basic one occurred near the end of the
+second tyrosine kinase domain close to the C-terminus of the
+protein. Three of the four cases in which this change was
+found were long-segment and all four were from multiplex
+families (families 92, 130, 131 and 150; Table 1). The
+
+Downloaded from http://hmg.oxfordjournals.org/ at Reprints Desk on April 8, 2012
+
+b)
+
+826
+
+Human Molecular Genetics, 1995, Vol. 4, No. 5
+
+possibility that this change could modulate the HSCR phenotype is presented in the Discussion.
+
+DISCUSSION
+
+Failure to include families with long segment disease and/
+or multiple affected members is probably not associated with
+a low rate of mutation detection. Segregation analysis has
+established that long segment forms of HSCR are more likely
+to be explained by a locus that behaves in an autosomal
+dominant fashion (6). Of the 45 families where segment length
+information was available, 29 (64%) were considered long
+segment. Similarly, the proportion of multicase families
+included in the sample may be expected to affect the mutation
+detection rate, as such families are, presumably, more likely
+to carry germline mutations (Table 1), although not necessarily
+in RET (12). Of the 80 probands, 36 (45%) came from kindreds
+containing multiple affected members. Of the eight mutations
+detected, four came from the 36 multicase families (11%),
+while four came from the 44 single case families (9%); this
+difference is not statistically significant. Although the total
+number of mutations found is relatively small, neither phenotypic nor family categories for mutation screening appear to
+have impacted detection rates. What is more striking is that
+for all phenotypes and family types, mutation detection does
+not exceed 20%. This suggests that carrying a RET mutation
+may, in fact, bear little relationship to disease phenotype/
+family type on its own and that these and other variables (e.g.
+penetrance) are more dependent upon genotypes at other loci
+and/or environmental determinants. A recent comprehensive
+
+Spectrum of RET mutations, polymorphisms and associated
+phenotypes
+Table 1 confirms both the phenotypic and intra-allelic heterogeneity of HSCR cases that carry RET mutations. Mutations
+were found in at least one short-segment case, two longsegment cases, and one instance of total colonic aganglionosis.
+Additionally, the nature of RET mutations ranged from presumably conservative amino acid substitutions (e.g. Gly=>Ser is
+generally considered conservative as it represents the exchange
+of one neutral polar amino acid for another, although Gly is
+unique in that it is the only amino acid small enough to
+accommodate many tight turns in proteins) to complex
+rearrangements such as that observed in family 84 (Fig. 4).
+Although the R982C substitution is not thought to be causative
+of disease in and of itself, it may influence the phenotype,
+especially given the multigenic nature of HSCR (12); among
+patients in which it was found, three of the four cases
+were long-segment and all four were from multiplex families
+(families 92, 130, 131 and 150; Table 1). It has also been
+detected in four of 120 (3.3%) neuroblastomas, in at least two
+of the accompanying constitutional DNA samples and in an
+MTC-derived cell line (Hofstra et al, in preparation). A recent
+report found it in three of 142 control chromosomes (2.1%)
+and in one of five HSCR kindreds with exon 10 mutations
+(23). Thus, the possibility remains that this polymorphic allele
+increases the risk for HSCR.
+While the results presented here have several important
+implications for the genetic basis of the HSCR phenotype, its
+penetrance, and its association with neuroendocrine tumor
+syndromes, for those patients with mutations in cysteine codons
+there are potential clinical ramifications as well. Given that all
+MEN 2A mutations described to date occur in one of five
+cysteine residues in exons 10 and 11 of RET, and that mutations
+have only recently been reported in HSCR patients (23,24),
+one possibility is that these patients are at risk for MEN2. In
+light of the wide range in age-at-onset for these tumors,
+such risk cannot be discounted (31,35). Moreover, variable
+expressivity and non-penetrance on the order of 30% may
+further obscure these individuals' status vis-a-vis MEN2A
+(31). It is important to note that in both instances reported here,
+the parental generation was phenotypically normal, although
+individual 8801 (Fig. 5) also carries the mutation. Neither
+family has undergone biochemical screening for C-cell hyperplasia. Such screening may now be warranted in view of the
+presence of the MEN2A-associated mutations, however, it
+should be recognized that the calcitonin test carries a false
+positive rate of 5-10% (36). Whether mutations of cysteine
+residues in exons 10 and 11 lead to no detectable phenotype,
+HSCR, MEN2A, or a combination of MEN2A and HSCR,
+may well depend on the presence of additional genes.
+The mutation segregating in family 84 is of interest because
+it represents, to our knowledge, the first report of a complex
+rearrangement (deletions notwithstanding) of the RET gene
+associated with HSCR. Although the insertion appears to have
+
+Downloaded from http://hmg.oxfordjournals.org/ at Reprints Desk on April 8, 2012
+
+Mutation detection and frequency of RET mutations
+RET mutations were detected in eight of 80 (10%) HSCR
+probands. This frequency is somewhat lower than other reports
+of mutations ranging from approximately 25 to 38% of patients
+(10,11,24), assuming that mutations are equally likely to occur
+in all exons. There are several possible explanations for the
+relatively low rate of detection presented here. First, SSCP
+may have failed to detect a larger number of extant mutations.
+Although detection rate estimates for this technique have
+ranged from 35 to 100% (32), a recent study evaluating the
+PhastSystemTM apparatus and SSCP protocols used in this
+study estimates that it can detect >90% of mutations (33).
+Thus, we consider it unlikely that SSCP failed to detect more
+than a few mutations in the coding region. Nevertheless,
+alternative mutation detection methods are being explored in
+order to answer this question. Second, the selection of probands
+may have been a contributing factor. Probands in this study
+were chosen from a larger collection in order to represent as
+wide a range of phenotypes as is observed in HSCR patients
+(Table 1). Thus, our screening panel included 24 (30%) families
+with other anomalies (present in either the proband or firstdegree relatives) in addition to HSCR. Of the eight patients
+in whom mutations were found (Table 2), two had non-HSCRrelated phenotypes and these were either relatively minor
+(talipes) or not even present in the patient himself (maternal
+deafness). Thus, RET mutations may be restricted, in most
+cases, to patients with HSCR and/or neuroendocrine phenotypes. Additionally, one proband had surgery for a malrotation
+of the gut shortly after birth (he underwent surgery for HSCR
+a year later). The relationship of these two phenotypes is not
+understood.
+
+study (34) which employed SSCP, Southern blotting and
+fluorescence in situ hybridization analyses, still reported RET
+mutations in less than 20% of HSCR patients, thereby supporting the existence of other genetic, environmental and/or
+stochastic factors.
+
+Human Molecular Genetics, 1995, Vol. 4, No. 5 827
+
+Questions about RET's role in the pathogenesis of human
+HSCR
+Although at least one initial report of RET mutations in HSCR
+patients implied that RET was the major locus responsible for
+HSCR (11), exactly what role RET plays in the pathogenesis
+of the disease remains unclear. As the vast majority of patients
+screened thus far do not appear to carry RET mutations
+(10,11,34, present study), it is almost certain that perturbation
+of biochemical pathways upstream, downstream or unrelated
+to RET can predispose to HSCR. As we have recently demonstrated, one such pathway involves the endothelin-B receptor
+(ETB), a G-protein coupled receptor, the gene for which maps
+to human chromosome 13q22 and has been shown to be
+mutated in a large Mennonite kindred segregating HSCR
+(12,42). Efforts are underway to establish the frequency of
+mutations in this gene, its ligand (endothelin-3 or EDN3; 43),
+and their concomitant proteases, in non-Mennonite HSCR
+cases.
+The notion that RET has the capacity to cause HSCR by
+itself is further challenged by other data presented here;
+namely, the occurrence of mutations causally associated with
+
+MEN2/MTC in HSCR-only patients. The notion that MEN2A/
+MTC-associated mutations must somehow activate c-ret is
+supported by cellular transfection assays that have shown at
+least one MEN2A mutation to result in constitutive dimerization of the receptor (44). Conversely, HSCR has been said to
+arise as a result of an abrogation of c-ret protein function
+(10,35,45,46). Data derived from mice homozygous for a null
+mutation at the RET locus support this view, as they exhibit
+total intestinal aganglionosis but do not develop tumors (47).
+Moreover, multiple independent cases of HSCR heterozygous
+for deletions of proximal chromosome lOq have been reported
+(34, reviewed in 48), implying that haploinsufficiency for RET
+is critical in the development of disease. However, if, as our
+data and others' (23) suggest, the same mutation can give rise
+to non-overlapping phenotypes, it may be difficult to reconcile
+the 'activation' (MEN2/MTC) versus 'abrogation' (HSCR)
+models.
+When postulating a model for RET-Ymked HSCR, it may be
+helpful to consider recent results obtained by our group in
+identifying a second locus for HSCR (HSCR2; 9,12). Among
+the Mennonite kindred segregating HSCR, there is a strong
+positive correlation between phenotype and EDNRB genotype;
+however, the phenotype clearly deviates from simple mendelian
+expectations. This is exemplified most profoundly by the
+existence of HSCR patients who are homozygous normal at
+the EDNRB locus. Moreover, the same pedigree includes
+individuals who do not have HSCR yet are genotypically
+homozygous for the W276C mutation at the EDNRB locus
+(incomplete penetrance). Thus, although this region of chromosome 13 is linked to HSCR on the basis of strong linkage
+disequilibrium (9), the EDNRB mutation itself is neither fully
+dominant nor fully recessive, and, neither necessary nor
+sufficient to cause HSCR. In addition to a small region of
+chromosome 21 and the RET locus itself, it is expected that
+at least one other locus remains to be found that is also
+important to the expression of the HSCR phenotype (9,12).
+Analogously, the data presented here (e.g. mutations usually
+associated with another disease; phenotypic effects of conservative amino acid substitutions indistinguishable from those
+of complex rearrangements) imply that the penetrance and
+expressivity of RET mutations in HSCR (HSCR1) are attributable not only to a patient's genotype at RET, but at other loci
+as well, and perhaps to environmental determinants.
+Future analyses of novel Hirschsprung disease loci and
+continuing studies of HSCR patients should take into account
+genotypes and/or haplotypes at all other known loci/candidate
+regions, given what is now known about the genetic attributes
+of the disease, namely that: (i) HSCR is multigenic in nature;
+(ii) HSCR mutations at the RET locus exhibit allelic heterogeneity; (iii) identical mutations can exhibit pleiotropic and,
+paradoxically, sometimes non-overlapping manifestations in
+different individuals; (iv) there are clear phenotypic distinctions
+between homozygous mutant RET mice and human HSCR
+patients (47); and (v) thus far, there has been a failure to detect
+RET mutations in a majority of HSCR patients. Thus, although
+it is of great biological importance, it is difficult to conceive
+of RET as a completely necessary, let alone sufficient, determinant of susceptibility to HSCR. It is expected that future
+identification of additional mutations, interacting proteins and
+other predisposing loci will further our understanding of this
+enigmatic genetic phenomenon.
+
+Downloaded from http://hmg.oxfordjournals.org/ at Reprints Desk on April 8, 2012
+
+arisen by duplication of a short sequence (Fig. 4), this cannot
+account for the 16 orphan nucleotides that show no significant
+homology to any known sequences, other than the five consecutive nucleotides (CCACT) and two triplets (CGG and CGA)
+that correspond to bases from the adjacent wild-type sequence
+5' to the insertion. Such mutations are not unprecedented (37)
+and may be the result of illegitimate recombination or a
+replication error. The presence of an in-frame stop codon,
+assuming the size of the insertion is indeed 16 bases, may be
+important in distinguishing this HSCR-associated rearrangement from other genuine activating rearrangements of RET
+observed in neuroendocrine tumors (38-41). Interestingly, this
+rearrangement does not produce a penetrant phenotype in the
+father while the affected sons are typical short-segment cases
+(aganglionic to the proximal sigmoid colon).
+The detection of the G93S mutation in family 32 (Table 1)
+was unexpected for two reasons. First, the substitution of a
+serine for a glycine residue is normally thought of as a
+conservative one. While the possibility remains that G93S
+constitutes a rare polymorphism, it was not observed in 96
+control individuals. Second, given the presence of CSC in the
+mother (Fig. 2), it was expected a priori that she would harbor
+the mutation. Digestion with BsrFl revealed that the father
+transmitted the G93S mutation to his two sons (Fig. 2). In
+light of the fact that both children have total colonic aganglionosis, while neither parent has biopsy-proven HSCR, it may
+be that yet unknown sequence variants in each parent's
+copy of RET have acted in concert to produce total colonic
+aganglionosis in the offspring. The mother was found to be
+heterozygous for a silent Eagl polymorphism at alanine 45
+(29), which also occurred in her sons. Curiously, the same
+Eagl ' + ' allele she carries is seen in significant excess on the
+Mennonite HSCR haplotype that is transmitted to affecteds
+(59% vs. 24% on untransmitted chromosomes; x2 = 12.08),
+while it is observed in just 21% of controls (12,29). At present,
+the significance of this allele is not known. Alternatively, the
+mother's CSC and/or her genotype may be unrelated to her
+children's HSCR.
+
+828
+
+Human Molecular Genetics, 1995, Vol. 4, No. 5
+
+MATERIALS AND METHODS
+
+DNA isolation
+DNA was isolated from whole blood using either a 'salting-out' procedure
+(50) performed manually or by an automated phenol-chloroform extraction
+protocol as implemented on the Autogen 540 (Integrated Separation Systems,
+Natick, MA).
+PCR and primers
+Primer sequences necessary to amplify all 20 RET exons were obtained from
+previously published sources or designed using the Macintosh program Oligo,
+Version 4.0 (National Biosciences, Inc., Plymouth, MN) based on intronic
+nucleotide sequence (29,51-54). Numbering of RET nucleotides and amino
+acids is based on these studies. PCR analyses were canned out as previously
+described (7). All primers were synthesized by Research Genetics (Huntsville,
+Alabama). Primer sequences ajid PCR conditions for novel primers are
+available from the authors upon request.
+Single-strand conformation polymorphism analysis (SSCP)
+Given its dense, pre-cast mini-gels, programmable temperatures and runtimes, and use of silver staining as a detection method, we routinely use the
+PhastSystemS (Pharmacia Biotech, Piscalaway, NJ) as a convenient, highresolution alternative (55-57) to conventional SSCP (58,59). SSCP analyses
+were done in accordance with the manufacturer's specifications, typically 24
+samples at a time at 15°C. All exons were also run 1.5 times as long at 8°C.
+For a 225 base pair product, run times were usually on the order of 300 volthours (about 45 min) at I5°C. The manufacturer's silver staining protocol
+required roughly 45 min in order to clearly resolve electrophoretic bands.
+Direct DNA sequencing
+For each sample where mobility shifts were detected, residual single-stranded
+primers and deoxynucleotide triphosphates (dNTPs) were removed from the
+PCR product by treatment with 2—4 units/|il Exonuclease I and Shrimp
+Alkaline Phosphatase, respectively (United Slates Biochemical, Cleveland,
+OH). Cycle sequencing was then carried out on 1 uj of the PCR product
+using the dsDNA Cycle Sequencing System (Life Technologies, Inc.,
+Gaithersburg, MD), according to conditions specified by the manufacturer.
+Sequencing primers were usually identical to PCR primers, although internal
+primers were occasionally used. All products were sequenced from both
+directions.
+
+ACKNOWLEDGEMENTS
+We are extremely grateful to all of the families who have participated in our
+studies, particularly the membership of the American Pseudo-obstruction and
+Hirschsprung's Disease Society, Inc. (APHS) and patients ascertained through
+members of the American Pediatric Surgical Association (APSA), without
+whom this study would not have been possible. We also thank Dr J.Timothy
+Boyle (Rainbow Babies and Children's Hospital, Cleveland, OH) for providing
+clinical advice, and David Winkler for expert technical assistance. We are
+grateful to Dr Giovanni Romeo (Instituto G.Gaslini, Genova, Italy) for
+thoughtful discussion and to two anonymous reviewers for helpful comments
+
+ABBREVIATIONS
+EDNRB, endothelin-B receptor gene, ETB, endothelin-B receptor protein;
+EDN3, endothelin-3 gene; HSCR, Hirschsprung disease; MEN2A, multiple
+endocrine neoplasia type 2A; MEN2B, multiple endocrine neoplasia type 2B;
+MTC, medullary thyroid carcinoma, PCR, polymerase chain reaction; RET,
+c-RET receptor tyrosine kinase; SSCP, single-strand conformation polymorphism, TCA, total colonic aganglionosis.
+
+REFERENCES
+1. Holschneider, A.M. (ed.)(1982) Hirschsprung's disease. Thieme-Stratton,
+New York.
+2. Bolande, R.P. (1974) The neurocnstopalhies: A unifying concept of
+disease arising in neural crest maldevelopment. Hum. Pathol. 5, 409-429.
+3. Spouge, D and Baird, P.A. (1985) Hirschsprung disease in a large birth
+cohort. Teratology 32, 171-177.
+4. Bodian, M. and Carter, CO. (1963) A family study of Hirschsprung's
+disease. Ann. Hum. Genet. 26, 261-277.
+5. Passarge, E (19-67) The genetics of Hirschsprung's disease: evidence for
+heterogeneous etiology and a study of sixty-three families. N. Engl J
+Mcd. 276, 138-143.
+6. Badner, J.A., Sieber, W.K., Garver, K.L. and Chakravarti, A. (1990) A
+genetic study of Hirschsprung disease Am. J. Hum. Genet. 46, 568-580.
+7. Angrist, M., Kauffman, E., Slaugenhaupt, S.A., Matise, T C ,
+Puffenberger, E.G., Washington, S.S , Lipson, A., Cass, D.T., Reyna, T,
+Weeks, D E., Sieber, W. and Chakravarti, A. (1993) A gene for
+Hirschsprung disease (megacolon) in the pericentromeric region of
+chromosome 10. Nature Genet. 4, 351-356.
+8. Lyonnet, S., Bolino, A., Pelet, A., Abel, L., Nihoul-Fekete, C ,
+Bnard, M.L., Mok Siu, V., Kaanainen, H., Martucciello, G., Lerone, M.,
+Puliti, A., Luo, Y, Weissenbach, J., Devoto, M., Munnich, A. and
+Romeo, G. (1993) A gene for Hirschsprung disease maps to the proximal
+long arm of chromosome 10. Nature Genet. 4, 346-350.
+9. Puffenberger, E.G , Kauffman, E.R., Bolk, S., Matise, T.C.,
+Washington, S.S., Angrist, M., Weissenbach, J., Garver, K.L , Mascari, M.,
+Ladda, R., Slaugenhaupt, S.A. and Chakravarti, A. (1994) Identity-bydescent and association mapping of a recessive gene for Hirschsprung
+disease on human chromosome I3q22. Hum. Mol. Genet. 3, 1217-1225.
+10. Edery, P., Lyonnet, S., Mulligan, L.M., Pelet, A., Dow, E., Abel, L.,
+Holder, S., Nihoul-Fekete, C , Ponder, B.A. and Munnich, A. (1994)
+Mutations of the RET proto-oncogene in Hirschsprung's disease. Nature
+367, 378-380.
+11. Romeo, G., Ronchetto, P., Luo, Y, Barone, V., Seri, M., Ceccherini, I.,
+Pasini, B., Bocciardi, R., Lerone, M., Kaariainen, H. and Martucciello, G.
+(1994) Point mutations affecting the tyrosine kinase domain of the RET
+proto-oncogene in Hirschsprung's disease. Nature 367, 377-378.
+12. Puffenberger, E.G., Hosoda, K., Washington, S.S., Nakao, K., deWit, D.,
+Yanagisawa, M. and Chakravarti, A. (1994) A missense mutation of the
+endothelin-B receptor gene in multigenic Hirschsprung disease. Cell 79,
+1257-1266.
+13. Donis-Keller, H., Dou, S, Chi, D., Carlson, K.M., Toshima, K.,
+Lairmore, T C , Howe, J.R., Moley, J.F., Goodfellow, P. and Wells, S.A.,
+Jr. (1993) Mutations in the RET proto-oncogene are associated with
+MEN2A and FMTC Hum. Mol. Genet. 2, 851-856.
+14. Mulligan, L.M., Kwok, J.B.J., Healey, C.S., Elsdon, MJ., Eng, C ,
+Gardner, E., Love, D.R.. Mole, S.E., Moore, J.K., Papi, L., Ponder, M.A.,
+Telenius, H., Tunnacliffe, A. and Ponder, B AJ. (1993) Germline
+mutations of the RET proto-oncogene in multiple endocrine neoplasia
+type 2A. Nature 363, 458-460.
+15. Mulligan. L.M. Eng, C , Healey, C.S., Clayton, D., Kwok, J.B.J.,
+Gardner, E., Ponder, M.A., Frilling, A., Jackson, C.E., Lehnert, H.,
+Neumann. H.P.H.. Thibodeau, S.N. and Ponder, B.AJ. (1994) Specific
+mutations of the RET proto-oncogene are related to disease phenotype in
+MEN2A and FMTC. Nature Genet. 6, 70-74.
+16. Carlson, K.M., Dou, S.. Chi. D.. Scavarda. N.. Toshima, K., Jackson, C.E.,
+Wells. S.A. Jr, Goodfellow, P.J. and Donis Keller, H. (1994) Single
+missense mutation in the tyrosine kinase catalytic domain of the RET
+protooncogene is associated with multiple endocrine neoplasia type 2B.
+Proc. NatlAcad. Sa. USA 91, 1579-1583.
+
+Downloaded from http://hmg.oxfordjournals.org/ at Reprints Desk on April 8, 2012
+
+Patients and controls
+Patients were ascertained through the American Pseudo-obstruction and
+Hirschsprung's Disease Society, Inc. (APHS) and the American Pediatric
+Surgical Association (APSA), or obtained through referrals. After family
+history questionnaires and informed consent were received, venipuncture
+samples were obtained from affected family members and other relevant
+members of each kindred. All patients underwent surgery for biopsy-proven
+HSCR. Aganglionic segment length, where information was available, was
+considered 'short' if the affected portion extended from the rectum to the
+sigmoid colon and 'long' if the affected portion extended beyond the sigmoid
+colon; 'total colonic aganglionosis' was used to refer to cases where the
+aneuronal portion extended into the small bowel. If one affected family
+member was a long-segment case, then this family was classified as a longsegment family (6). Table 1 describes the 80 patients chosen for mutation
+screening. The sample of 80 probands represents the diversity of phenotypes
+seen in HSCR, but is not a random sample of the HSCR population, i.e. it
+does not consist of mostly short segment, simplex cases (6). The controls
+were at least 96 phenotypically normal members of the Centre d'Etude du
+Polymorphisme Humain (CEPH) reference families (49) or other individuals
+from studies in our laboratory unrelated to HSCR.
+
+and suggestions. This work was supported by NIH grant HD28088 to A.C.
+and by grant GUKC91-I4 from the Dutch Cancer Society to C.H.C.M.B.
+
+Human Molecular Genetics, 1995, Vol. 4, No. 5 829
+
+37.
+38.
+
+39.
+
+40.
+41.
+
+42.
+
+43.
+
+44.
+
+45.
+46
+
+47.
+48.
+
+49.
+50.
+51.
+
+52.
+53.
+
+54.
+55.
+56.
+57.
+
+positive caJcitonin test for C-cell hyperplasia in genetically unaffected
+members of an MEN2A kjndred. Am. J. Hum. Genet. 52, 335-342.
+Moskowitz, S.M., Tieu, P.T. and Neufeld, E.F. (1993) Deletion/insertion
+mutation in the IDUA gene in a Libyan Jewish patient with Hurler
+syndrome (Mucopolysaccharidosis IH). Hum. Mutat. 2, 71-73.
+Bongarzone, I., Butti, M.G., Coronelli, S., Borrello, M.G., Santoro, M.,
+Mondellini, P., Pilotti, S., Fusco, A., Delia Porta, G. and Pierotti, M.A.
+(1994) Frequent activation of ret protooncogene by fusion with a new
+activating gene in paillary thyroid carcinomas. Cancer Res. 54,2979-2985.
+Ho, T., Seyama, T, Iwamoto, K.S., Mizuno, T., Tronko, N.D.,
+Komissarenko, I.V., Cherstovoy, E.D., Satow, Y., Takeichi, N., Dohi, K.
+and Akiyama, M. (1994) Activated RET oncogene in thyroid cancers of
+children from areas contaminated by Chernobyl accident (letter). Lancet
+344, 259.
+Jhiang, S.M. and Mazzaferri, E.L. (1994) The ret/PTC oncogene in
+papillary thyroid carcinoma. J. Lab. Clin. Med 123, 331-337.
+Santoro, M., Dathan, N.A., Berlingieri, M T., Bongarzone, I., Paulin, C ,
+Grieco, M., Pierotti, M.A., Vecchio, G. and Fusco, A. (1994) Molecular
+characterization of RET/PTC3; a novel rearranged version of the RET
+proto-oncogene in a human thyroid papillary carcinoma. Oncogene 9,
+509-516
+Hosoda, K., Hammer, R.E., Richardson, J.A , Baynash, A.G., Cheung, J C ,
+Giaid, A. and Yanagisawa, M. (1994) Targeted and natural (piebaldlethal) mutations of endothelin-B receptor gene produce aganglionic
+megacolon associated with white-spotted coat color in mice.) Cell 79,
+1267-1276.
+Baynash, A.G., Hosoda, K., Giaid, A., Richardson, J.A., Emoto, N.,
+Hammer, R.E. and Yanagisawa, M. (1994) Interaction of endothelin-3
+with endothelin-B receptor is essential for development of neural crestderived melanocytes and enteric neurons: Missense mutation of
+endothelin-3 gene in lethal-spotting mice. Cell 79, 1277-1285.
+Santoro, M., Carlomagno, F, Romano, A., Bottaro, D.P., Dathan, N.A.,
+Gneco, M., Fusco, A., Vecchio, G., MatOkova, B., Kraus, M.H. and Di
+Fiore, P.P. (1995) Activation of RET as a dominant transforming gene by
+germline mutations of MEN2A and MEN2B. Science 267, 381-383.
+van Heyningen, V. (1994) One gene—four syndromes. Nature 367,
+319-320.
+Schuffenecker, I., Billaud, M., Calender, A., Chambe, B., Ginet, N.,
+Calmettes, C , Modigliani, E., Lenoir, G M. and the GETC. (1994) RET
+proto-oncogene mutations in French MEN2A and FMTC families. Hum.
+Mol. Genet. 3, 1939-1943.
+Schuchardt, A., D'Agati, V., Larsson-Blomberg, L., Costantini, F. and
+Pachnis, V (1994) Defects in the kidney and enteric nervous system of
+mice lacking the tyrosine kinase receptor Ret. Nature 367, 380-383.
+Yin, L., Ceccherini, I., Pasini, B., Matera, 1., Bicocchi, M.P., Barone, V,
+Bocciardi, R., Kaariainen, H., Weber, D., Devoto, M. and Romeo, G
+(1993) Close linkage with the RET proto-oncogene and boundaries of
+deletion mutations in autosomal dominant Hirschsprung disease. Hum.
+Mol. Genet. 2, 1803-1808.
+Dausset, J. (1986) Le Centre d'Etude du Polymorphisme Humain. Presse
+Med. 15, 1801-1802.
+Miller, S.A., Dykes, D.D. and Polesky, H.E (1988) A simple sailing out
+procedure for extracting DNA from human nucleated cells. Nucleic Acids
+Res. 16, 1215.
+Takahashi, M., Buma, Y, Iwamoto, T., Inaguma, Y, Ikeda, H. and Hiai, H.
+(1988) Cloning and expression of the ret proto-oncogene encoding a
+tyrosine kinase with two potential transmembrane domains. Oncogene 3,
+571-578.
+Takahashi, M., Buma, Y. and Hiai, H. (1989) Isolation of ret protooncogene cDNA with an amino-terminal signal sequence. Oncogene 4,
+805-806.
+Ceccherini, I., Bocciardi, R., Luo, Y, Pasini, B., Hofstra, R., Takahashi, M.
+and Romeo, G. (1993) Exon structure and flanking intronic sequences of
+the human RET proto-oncogene. Biochem. Biophys. Res. Commun. 196,
+1288-1295.
+Kwok, J.B., Gardner, E., Warner, J.P., Ponder, B.A. and Mulligan, L.M.
+(1993) Structural analysis of the human ret proto-oncogene using exon
+trapping. Oncogene 8, 2575—2582.
+Ainsworth, PJ., Rodenhiser, D.I. and Costa, M.T. (1993) Identification
+and characterization of sporadic and inherited mutations in exon 31 of
+Neurofibromalosis (NF-I) gene. Hum. Genet. 91, 151-156.
+Blanche^ H., Hager, J., Sun, F, Dausset, J., Cohen, D., Froguel, P. and
+Cohen, N. (1994) Nonradioactive screening of glucokinase mutations in
+maturity onset diabetes of the young. BioTechniques 16, 866-876.
+Wiethege, T., Voss, B. and Muller, K.M. (1993) A fast method for
+
+Downloaded from http://hmg.oxfordjournals.org/ at Reprints Desk on April 8, 2012
+
+17. Eng, C, Smith, D.P., Mulligan, L.M., Nagai, M.A., Healey, C.S.,
+Ponder, M.A., Gardner. E., Scheumann, G.F., Jackson, C.E.,
+Tunnacliffe, A. and Ponder, B.AJ. (1994) Point mutation within the
+tyrosine kinase domain of the RET proto-oncogene in multiple endocrine
+neoplasia type 2B and related sporadic tumors. Hum. Mol. Genet. 3,
+237-241.
+18. Hofstra, R.M.W., Landsvater, R M., Ceccherini, I., Stulp, R.P.,
+Stelwagen, T., Luo, Y., Pasini, B., Hoppener, J.W., van Amstel, H.K.P.,
+Romeo, G., Lips, C.J.M. and Buys, C.H.C.M. (1994) A mutation in the
+RET proto-oncogene associated with multiple endocrine neoplasia type
+2B and sporadic medullary thyroid carcinoma. Nature 367, 375-376.
+19. Anderson, R J. and Lynch, H.T. (1993) Familial risk for neuroendocnne
+tumors. Curr. Opin. Oncol. 5, 75-84.
+20. Caruso, DR., ODorisio, T.M. and Mazzaferri, E.L. (1991) Multiple
+endocrine neoplasia. Curr. Opm. Oncol. 3, 103—108.
+21. Schimke, R.N. (1990) Multiple endocrine neoplasia- How many
+syndromes? Am. J. Med. Genet. 37, 375-383.
+22. Angrist, M., Bolk, S. and Chakravarti, A. (1994) Mutation detection in
+autosomal dominant Hirschsprung disease: SSCP analysis of the RET
+proto-oncogene. Am. J. Hum. Genet. 55, A209.
+23. Mulligan, L.M., Eng, C , Attie\ T, Lyonnet, S., Marsh, DJ., Hyland, VJ.,
+Robinson, B.G., Frilling, A., Verellen-Dumoulin, C , Safar, A.,
+Venter, DJ., Munnich, A. and Ponder, B.AJ. (1994) Diverse phenotypes
+associated with exon 10 mutations of the RET proto-oncogene. Hum.
+Mol. Genet. 3,2163-2167.
+24. Lyonnet, S., Artie, T., Pelet, A., Eng, C , Edery, P., Nihoul-Fekete, C ,
+Ponder, B.AJ. and Munnich, A. (1994) Spectrum of mutations of the ret
+proto-oncogene in Hirschsprung's disease. Am. J. Hum. Genet. 55, A6.
+25 Hofstra, R M.W., Stelwagen, T., Stulp, R.P., Timmer, T., Nijveen, H.,
+Sijmons, R.H., Scheffer, H. and Buys, C.H CM. (1994) RET mutations
+in MEN2-associated diseases. Am. J. Hum. Genet. 55, A60.
+26. Verdy, M., Weber, A.M., Roy, C.C., Monn, C.L., Cadotte, M. and
+Brochu, P. (1982) Hirschsprung's disease in a family with multiple
+endocrine neoplasia type 2. J. Pedmtr. Gastroenterol. Nutr. 1, 603—607.
+27. Quadro, L , Panariello, L., Salvatore, D., Carlomagno, F., Del Prete, M.,
+Nunziata, V., Colantuoni, V., Di Giovanni, G., Brandi, M.L , Mannelli, M.,
+Gheri, R., Verga, U., Libroia, A., Berger, N., Fusco, A., Gneco, M. and
+Santoro, M. (1994) Frequent RET protooncogene mutations in multiple
+endocrine neoplasia type 2A. J. Clin. Endocrinol. Metab. 79, 590-594.
+28. Itoh, F, Ishizaka, Y., Tahira, T., Yamamoto, M., Miya, A., Imai, K.,
+Yachi, A., Takai, S., Sugimura, T. and Nagao, M. (1992) Identification
+and analysis of the ret proto-oncogene promoter region in neuroblastoma
+cell lines and medullary thyroid carcinomas from MEN2A patients.
+Oncogenel, 1201-1206.
+29. Ceccherini, I., Hofstra, R.M.W., Luo, Y, Stulp, R.P., Barone, V.,
+Stelwagen, T., Bocciardi, R., Nijveen, H., Bolino, A., Sen, M.,
+Ronchetto, P., Pasini, B., Bozzano, M., Buys, C.H.C.M. and Romeo, G.
+(1994) DNA polymorphisms and conditions for SSCP analysis of the 20
+exons of the ret proto-oncogene. Oncogene 9, 3025-3029.
+30. Marsh D.J., Robinson, B.G., Andrew, S., Richardson, A-L., Pojer, R.,
+Schnitzler, M., Mulligan, L.M. and Hyland, VJ. (1994) A rapid screening
+method for trie detection of mutations in the RET proto-oncogene in
+multiple endocrine neoplasia type 2A and familial medullary thyroid
+carcinoma families. Genomics 23, 477—479.
+31. Easton, D.F., Ponder, M.A., Cummings, T, Gagel, R.F., Hansen, H.H.,
+Reichlin, S., Tashjian, A.H., Jr., Telenius-Berg, M., Ponder, B.AJ. and
+the Cancer Research Campaign Medullary Thyroid Group (1989) The
+clinical and screening age-at-onset distribution for the MEN2 syndrome.
+Am. J. Hum Genet. 44, 208-215.
+32. Cotton, R.G.H. (1993) Current methods of mutation detection. Mutat.
+Res. 285, 125-144.
+33. Vidal-Puig, A. and Moller, D.E. (1994) Comparative sensitivity of
+alternative single-strand conformation polymorphism (SSCP) methods.
+BioTechmques 17, 490-496.
+34. Yin, L., Barone, V, Seri, M., Bolino, A., Bocciardi, R., Ceccherini, I.,
+Pasini, B., Tocco, T, Lerone, M., Cywes, S., Moore, S.,
+Vandervinden, J.M., Abramowicz, MJ., Kristoffersson, U., Larsson, L.T.,
+Hamel, B.CJ., Silengo, M., Martucciello, G. and Romeo, G. (1994)
+Heterogeneity and low detection rate of RET mutations in Hirschsprung
+disease. Eur. J. Hum. Genet. 2, 272-280.
+35. Ponder, B.AJ. (1994) The gene causing multiple endocrine neoplasia
+type 2 (MEN2). Ann. Med. 26, 199-203.
+36. Landsvater, R.M., Rombouts, A.G.M., te Meerman, GJ., Schillhornvan Veen, J.M.J., Berends, MJ.H., Geerdink, R.A., Struyvenberg, A ,
+Buys, C.H.C.M. and Lips, C J.M. (1993) The clinical implications of a
+
+830
+
+Human Molecular Genetics, 1995, Vol. 4, No. 5
+
+nonisotopic single-strand conformation polymorphism. BioTechniques 15,
+45-48.
+58. Orita, M.. Iwahana, H., Kanazawa, H., Hayashi, K. and Sekiya, T. (1989)
+Detection of polymorphisms of human DNA by gel electrophoresis as
+single-strand conformation polymorphisms. Proc. Natl Acad. Sci. USA
+86, 2766-2770.
+59. Orita, M., Suzuki, Y., Sekiya, T. and Hayashi, K. (1989) Rapid and
+sensitive detection of point mutations and DNA polymorphisms using
+the polymerase chain reaction. Genomics 5, 874-879.
+
+Downloaded from http://hmg.oxfordjournals.org/ at Reprints Desk on April 8, 2012
+
+

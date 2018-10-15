@@ -1,0 +1,453 @@
+d. Inher. Metab. Dis. 15 (1992) 171-180
+© SSIEM and KluwerAcademicPublishers. Printed in the Netherlands
+
+Molecular Basis of Inherited Medium-Chain
+Acyl-CoA Dehydrogenase Deficiency Causing
+Sudden Child Death
+D. P. KELLY1, D. E. HALE2, S. L. RUTLEDGE3, M. L. OGDEN 1,
+A. J. WHELAN 1, Z. ZHANG4 a n d A. W. STRAUSSa
+1Cardiovascular Division Box 8086, Departments of Medicine and 4Pediatrics,
+Washington University School of Medicine, 660 South Euclid Ave., St. Louis, MO
+63110, USA; 2Department of Pediatrics, Children's Hospital of Philadelphia,
+Philadelphia, PA, USA; 3Department of Pediatrics, The University of Alabama,
+Birmingham, Alabama, USA
+
+Summary: Deficiency of medium-chain acyl-CoA dehydrogenase (MCAD) is
+an important cause of sudden death in children. The majority of surviving
+individuals with MCAD deficiency studied to date are homozygous for a single
+point mutation at bp 985 of the MCAD mRNA (A985G). We have now
+identified a four-base-pair deletion in exon 11 of one allele of the MCAD gene
+in an American child who died of MCAD deficiency. The deletion mutation
+results in a frameshift and premature termination codon in the mutant MCAD
+mRNA. The second mutant allele contained the common point mutation
+A985G, and thus the proband was a compound heterozygote. Protein immunoblot analysis of the child's liver proteins revealed that the mutant MCAD
+proteins were barely detectable. Allele-specific oligonucleotide hybridization
+analysis performed on amplified exon 11 of the child's MCAD gene clearly
+identified both mutations. MCAD R F L P analysis of the patient's DNA revealed
+heterozygosity at the Taq I MCAD R F L P site, thus, the two mutations are
+associated with different haplotypes. Therefore, we have identified a new
+mutation in the MCAD gene and have developed a nucleic-acid-based screening
+approach which allows the post mortem identification of MCAD deficiency.
+
+The mitochondrial flavoenzyme medium-chain acyl-CoA dehydrogenase (MCAD;
+EC1.3.99.3) catalyses the initial reaction in fatty-acid/%oxidation. Inherited MCAD
+deficiency (McKusick 201450) was first described in 1982 and is now recognized as
+a common inborn error of metabolism (Kolvraa et al., 1982; Rhead et al., 1983). Clinical
+manifestations of MCAD deficiency include hypoglycaemia, hepatic dysfunction, and
+sudden death (Stanley et al., 1983; Duran et al., 1986). The clinical presentation is
+usually precipitated by a period of fasting during the first 2 years of life, although the
+
+MS received 5.7.91 Accepted 22.10.91
+171
+
+172
+
+Kelly et al.
+
+initial onset, severity and frequency of clinical events are variable and unpredictable.
+MCAD-deficient individuals may die suddenly or remain asymptomatic throughout
+life. This disorder is often initially diagnosed as Reye syndrome or as Sudden Infant
+Death Syndrome (SIDS) (Duran et al., 1986; Treem et al., 1986). Studies from Great
+Britain indicate that MCAD deficiency occurs at a frequency of 1/12 000 to 1/15 000
+births (Blakemore et aI., 1991a).
+As the initial step in the molecular analysis of inherited MCAD deficiency, we
+previously isolated and characterized clones encoding the human MCAD mRNA
+and gene (Kelly et al., 1987). Recently, we and others have identified a crucial single
+A--, G substitution at nucleotide position 985 (A985G) of the MCAD mRNA in
+MCAD-deficient patients in the United States and Europe (Kelly et al., 1990;
+Matsubara et al., 1990; Yokota et aI., 1990a,b; Gregersen et al., 1991). This point
+mutation results in a glu a°4 for lys3°4 substitution in the mutant MCAD protein. In
+addition, we have found that the A985G mutation is associated with an unusual
+MCAD mRNA splicing abnormality (Kelly et al., 1990). Molecular screening tests
+for the A985G mutation have been employed in both the United States and
+Europe to analyse additional MCAD-deficient patients. To date, skin fibroblasts of
+approximately 100 MCAD-deficient patients have been screened, revealing that over
+85% of these individuals are homozygous for the A985G mutation (Blakemore et al.,
+1991a; Kelly et al., 1990; Matsubara et al., 1990; Yokota et al., 1990a,b; Gregersen
+et al., 1991; and unpublished results). The remaining patients have a single A985G
+allele and may be compound heterozygotes.
+We now report the characterization of the molecular defects, mutant MCAD
+proteins, and MCAD RFLP haplotype in a child who died suddenly of MCAD
+deficiency. Analysis of both mutant MCAD alleles in the proband revealed two
+different mutations; a new deletion mutation in exon 11 and the common A985G point
+mutation. Allele-specific oligonucleotide (ASO) hybridization analyses specifically
+identified both mutations in a single amplified fragment of DNA, and RFLP analyses
+revealed that the mutations are associated with different haplotypes. This work was
+presented in part at the National Meeting of the Society of Pediatric Research, April
+1991, New Orleans, USA.
+METHODS
+
+Clinical history and diagnostic tests: The index patient, M.R., a Caucasian male,
+was born in the southern United States at term. The child developed mild transient
+respiratory distress which resolved quickly. At age 3 months, he was treated with
+antibiotics for otitis media and subsequently developed diarrhoea and vomiting.
+Progressive lethargy prompted hospital admission. Initial laboratory analysis revealed
+serum glucose of 31 mg/dl, ammonia of 145 mg/dl, elevated liver transaminases, and
+no detectable urine ketones. He was treated with intravenous fluids and dextrose
+with complete recovery. He did well, with normal growth and development, until
+age 22 months, when he presented to an outside hospital with seizures, coma,
+hypoglycaemia, and hyperammonaemia. He was treated with intravenous fluids and
+dextrose but developed progressive cerebral oedema which caused brain death.
+J. Inher. Metab. Dis. 15 (1992)
+
+Medium-chain Acyl-CoA Dehydrogenase Deficiency
+
+173
+
+Autopsy results revealed severe ischaemic encephalopathy, uncal herniation, and
+prominent hepatic steatosis with intracellular lipid droplets. Liver mitochondria were
+rounded and showed no membrane irregularities. The mitochondrial matrix was
+granular and somewhat rarified but no inclusions were noted.
+Laboratory studies during the second hospitalization revealed moderate to large
+amounts of urinary adipic, suberic and sebacic acids without ketones. Plasma amino
+acids were low, consistent with protein restriction.
+The patient's parents were healthy and had no history suggestive of a fatty-acid
+oxidation defect. The ethnic origin of the parents is unknown, both were born in the
+United States. There is no known history of consanguinity.
+Enzymatic assays of the straight-chain acyt-CoA dehydrogenases (ACD): The assays
+were performed as described previously (Frerman and Goodman, 1985) on post
+mortem liver tissue (patient) or cultured skin fibroblasts (patient's mother and normal
+controls), employing electron-transfer flavoprotein (ETF) as the electron acceptor.
+Isolation of genomic DNA, amplification and characterization of the index patient's
+MCAD gene exon 11: Genomic DNA was isolated from the post mortem liver tissue
+of patient M.R. and from the blood of normal individuals, using standard techniques
+(Sambrook et al., 1989). Genomic DNA (2 pg) served as the template for amplification
+of the entire MCAD exon 11 by employing polymerase chain reaction (PCR) primers
+designed from the MCAD gene sequences flanking intron 10 and ti as determined
+in our laboratory (Zhang et al., in press); the 5' primer contained a Barn HI site (5'gttggatccagaccagcctggcaacatagc-3') and the 3' primer contained an Eco RI site (5'ttatgaattctattctatctccttgcaaa-Y). The amplification was carried out in a Perkin-Elmer
+Cetus thermocycler for 40 cycles using Taq polymerase and previously described
+protocol (Kelly et aI., 1990). The amplified DNA was subjected to alMe-specific
+oligonucleotide (ASO) hybridization analysis and subcloned into pGEM plasmid
+vectors (Promega) via the Barn HI and Eco RI restriction sites. The ASO hybridization
+analysis was performed as described previously with oligonucleotide primers for the
+A985G mutation (Kelly et al., 1990) and for the Al100-1103 deletion (see Results).
+The plasmid subclones were subjected to DNA sequence analysis by the dideoxy
+chain-termination technique. The entire nucleotide sequence of the DNA insert within
+each subclone was determined.
+Protein immunoblot analysis of the normal and index patient's liver extract: The
+human liver extract was prepared as described previously (Kelly et al., t987). Extract
+(25/zg) from normal post mortem liver and from the index patient's liver was separated
+by 12.5% SDS-PAGE along with 10 ng of purified porcine liver MCAD. The proteins
+were transferred to nylon membranes and hybridized with anti-porcine MCAD.
+Genomic southern blotting and determination of the M CAD gene Taq I sequence: Genomic DNA isolated from the patient, a normal individual, and a known homozygous
+G 985 individual were used for genomic Southern blotting. Genomic DNA from the
+index patient and a normal individual with a known Taq I RFLP haplotype
+J, lnher. Metab. Dis, 15 (1992)
+
+174
+
+K e l l y et al.
+
+(homozygous for allele 1) served as the template for the amplification of a 180-bp
+fragment within the MCAD gene which contains the informative RFLP Taq I site.
+The amplified DNA was subcloned into pGEM plasmid vectors and subjected to
+DNA sequence analysis.
+
+RESULTS
+The index patient's clinical history and laboratory studies were consistent with the
+diagnosis of a defect in fatty-acid oxidation. All acyl-CoA dehydrogenase activities
+were low in the patient's liver; however, MCAD activity was less than half of LCAD
+activity. This is in contrast to normal liver, in which MCAD activity exceeds LCAD
+3-fold (Stanley et al., 1983). This enzyme activity profile is consistent with MCAD
+deficiency. Medium-chain dicarboxylic aciduria further supported the diagnosis. The
+diagnosis was confirmed by demonstrating that the mother was heterozygous for
+M CAD deficiency in fibroblasts (mother 2.16 nmolmin-1 (mg protein)-~; normal
+mean ( _+ SD) controls 4.17 _4_-0.37; MCAD heterozygotes 2.24 + 0.43). LCAD activity
+was normal in maternal fibroblasts.
+DNA isolated from the child's post m o r t e m liver served as template for the
+amplification of exon 11 of the MCAD gene. The amplified DNA was used in an
+allele-specific oligonucleotide (ASO) analysis with oligonucleotide probes described
+previously (Kelly et al., 1990), containing either the A 985 (normal allele) o r G 985
+(common mutant allele). A signal was present with both oligonucleotide probes,
+indicating that the child was heterozygous at the 985 locus (data not shown). To
+confirm the results of the ASO hybridization analysis and as an initial step in the
+identification of the second mutation, the amplified MCAD exon 11 DNA from the
+index patient was subcloned into ptasmid vectors and 10 subclones were subjected
+to DNA sequence analysis. Exon 11 was chosen because it contains the only other
+reported mutation in MCAD deficiency (Yokota et al., 1990a,b). Three of the 10
+subclones contained the A985G mutation. Seven of the 10 subclones contained a
+normal A at position 985 and a 4-bp deletion (5'-agtt-3') of MCAD mRNA positions
+1100-1104 (Figure 1). The three clones with the A985G mutation did not contain
+the 4-bp deletion. Thus, the patient was heterozygous for both the c o m m o n G 985
+mutation and a 4-bp deletion (All00-t 103) in exon 11 of the MCAD gene.
+To confirm the sequencing results and to develop a practical molecular screening
+approach for the 4-bp deletion, an ASO hybridization analysis was performed on the
+amplified DNA fragment of the index patient's MCAD exon 11 DNA employing 16base oligonucleotides spanning the 1100-1103 region which were specific either for
+the normal allele (5'-caaatcagttagctac-3') or for the allele containing the 4-bp deletion
+(5'-tgcaaatcagctactg-Y). The hybridization was also performed on DNA amplified
+from a normal individual (Figure 2). The deletion mutant oligonucleotide gave a
+signal only with the index patient's amplifed DNA and not with the normal amplified
+DNA, whereas the normal probe gave signals with both the normal and mutant
+amplified DNA. Therefore, the ASO hybridization also demonstrated that the patient
+is a compound heterozygote for the A985G mutation and a 1100-1103 deletion in
+J. Inher. Metab. Dis. 15 (1992)
+
+Medium-chain Ac yl-Co A Dehydrogenase Deficiency
+
+175
+
+Figure 1 DNA sequence analysis of a representative region of MCAD gene exon 11. The
+DNA sequence of one of the PCR subclones containing the All00-1103 deletion compared
+to the normal exon 11 DNA sequence. The anti-sense sequence shown encompasses MCAD
+mRNA nucleotide positions t095-1110. The box surrounds the deletion AACT (anti-sense)
+present in exon 11 of the proband's gene.
+
+Figure 2 ASO hybridization analyses for the A1100-1103 deletion. The signals shown above
+were obtained by hybridization of 3zp-tabelted oligonucteotide probes containing either the
+normal MCAD sequence or the All00-1103 deletion with amplified DNA from the index
+patient and a normal individual.
+
+J. Inher. Metab. Dis. 15 (1992)
+
+176
+
+K e l l y et al.
+
+exon 11 of the MCAD gene. Moreover, the new mutation can be detected by a PCRbased molecular screening approach with ASO analysis.
+The All00-1103 mutation predicts a frame-shifted, truncated mutant MCAD
+protein. The frame-shift begins at amino acid 369 of the mutant MCAD protein and
+truncates at amino acid position 385 (Figure 3). Therefore, the mutant protein would
+contain an altered region of 16 amino acids and would be 36 amino acids shorter
+than the normal precursor MCAD protein. Previous studies indicate that glu 376 of
+the mature MCAD protein is the a-proton-abstracting base in catalysis (Powell and
+Thorpe, 1988; Bross et al., 1990). Therefore, the truncated mutant MCAD protein
+encoded by the deletion mutant allele would lack domains involved in substrate
+binding and catalytic function.
+To determine the size and steady-state levels of the mutant proteins, we performed
+immunoblot analysis on a protein extract of the child's post mortem liver tissue. As
+shown in Figure 4, there is no detectable MCAD antigen at the expected normal
+size. A faint signal is present at a size of approximately 4000-5000 daltons smaller
+than the expected MCAD signal. The size of this faint band correlates with the
+predicted size of the mutant MCAD protein encoded by the A1100-1103 allele. As
+we have shown previously, the immunodetectable level of the glu 3°4 MCAD mutant
+protein is decreased to undetectable levels in liver tissue (Kelly et al., 1990). Therefore,
+this newly identified mutant All00-1103 MCAD gene and the A985G mutant
+MCAD gene encode proteins which are degraded in post mortem liver tissue.
+Recent studies have shown that the G 98s mutation is linked to a single R F L P
+haptotype defined by three restriction sites; Ban II (allele 1), Pst I (allele 1), and Taq
+I (allele 2) (Kiddet al., 1990; Blakemore et al., 1991; Kolvraa et al., 1991). A 5.0-kb
+Taq I (allele 2) fragment is most informative because its frequency is only 0.21 in the
+European and US populations, yet it is uniformly associated with the G 985 mutation.
+Genomic Southern blotting experiments employing a 1138-bp EcoRI-Hind III M CAD
+cDNA fragment probe containing regions encoded by exons 8-12, demonstrated that
+the index patient is homozygous for the common MCAD R F L P haplotype Ban IIallele 1/Pst I-allele 1 (data not shown). We have recently determined the location of
+the polymorphic Taq I site within the MCAD gene and developed PCR primers
+
+NORMAL
+
+** **
+1092
+ATT GCA AAT CAG TTA GCT ACT GAT . . . . . . . . . . .
+Ile Ala Ash Gln Leu Ala Thr Asp
+
+MUTANT
+
+1092
+ATT GCA AAT CAG CTA CTG ATG CTG . . . . . . .
+Ile Ala Asn Gin Leu Leu Met Leu
+
+1266
+TAA
+stop
+
+1158
+TAG
+stop
+
+Figure 3 Comparison of the Al100-1103 mutant and normal MCAD gene and predicted
+amino acid sequences. The normal and A1100-1103 mutant MCAD exon 11 DNA sequences
+within a portion of exon 11 are shown. Predicted amino acids are illustrated beneath each
+codon. The asterisks above the normal sequence denote the deleted nucleotides (AGTT) in
+the mutant. The underlined amino acids are different from the normal as a result of the
+frameshift generated by the deletion. The premature stop codon in the mutant protein is
+compared to the normal termination site.
+J. Inher. Metab. Dis. 15 (1992)
+
+Medium-chain Acyl-CoA Dehydrogenase Deficiency
+
+177
+
+.-y
+
+Figure 4 Immunoblot analysis of extracts from normal and index patient liver, Extract was
+loaded 25 #g per lane next to 10ng of purified porcine MCAD and hybridized to polyclonal
+anti-porcine MCAD antiserum. The arrow denotes the presence of a faint smaller signal in
+the lane containing the index patient's extract.
+designed to amplify across this site (unpublished data). To determine the Taq I R F L P
+haplotype of the index patient, the PCR primers were employed with genomic DNA
+isolated from the index patient and a rlormal individual known to be homozygous
+for the presence of the Taq I site by previous genomic Southern blotting studies. The
+amplifed DNA was subcloned into plasmid vectors and the DNA sequence across
+the Taq I R F L P site determined. The normal DNA contained only subclones with
+the Taq I site sequence, 5'-tcga-3'. Subclones derived from the patient contained
+either the 5'-taga-3' or 5'-tcga-3' at the polymorphic site. The remainder of the
+nucleotide sequence of the 180-bp fragment of amplified DNA derived from the index
+patient was identical to the sequence of the amplified normal DNA. These data
+demonstrate that G 985 and the A1100-1103 deletion are not linked to the same Taq
+I R F L P allele.
+
+DISCUSSION
+Inherited MCAD deficiency is one of the few known causes of sudden death in
+children. Affected children develop normally and are asymptomatic between episodes;
+however, during a fasting stress, acute decompensation may occur with disastrous
+results. Development of a practical screening approach would allow detection of
+carriers and affected persons. Preliminary studies reveal that the single mutation
+A985G may be sufficiently common for molecular screening to be useful in
+J. Inher. Metab. Dis. 15 (1992)
+
+178
+
+Kelly et al.
+
+presymptomatic recognition of MCAD deficiency (Blakemore et al., 1991b; Kelly et
+al., 1990; Matsubara et al., 1990; Yokota et al., 1990a,b; Gregersen et al., 1991).
+However, molecular screening of MCAD-deficient sudden-death victims has not been
+reported and the molecular heterogeneity of MCAD deficiency within this clinical
+subgroup is unknown. In this report we have completely characterized the molecular
+basis of MCAD deficiency in a child who died suddenly, identified a new mutation
+responsible for MCAD deficiency, and developed a post mortem nucleic-acid-based
+screening method.
+The proband was heterozygous for the common A985G mutation and a 4-bp
+deletion (A 1100-1103) within exon 11 of the MCAD gene. The Atl00-1103 deletion
+is only the second reported naturally occurring mutation in the MCAD gene, other
+than the A985G. The other previously published mutation is a 13-bp duplication at
+position 900 of the MCAD mRNA in a Spanish child (Yokota et at., 1990a, b).
+Interestingly, all three mutations are located within exon 11 of the MCAD gene. The
+similar location of the three mutations may reflect a more intense study of exon 11
+than other locations, although recent data indicate that this region of the MCAD
+gene is quite polymorphic and, thus, mutations may occur more frequently in this
+exon (Blakemore et aI., 1991b; and unpublished results).
+The At100-1103 mutation results in a flame-shifted, truncated mutant MCAD
+protein. This protein lacks the domain containing glu 3~6 which is crucial for substrate
+binding and catalytic function (Powell and Thorpe, 1988; Bross et al., 1990). In
+addition, protein immunoblot studies reveal that the level of this mutant MCAD
+protein was markedly reduced as compared to the level in non-MCAD-deficient post
+mortem liver (Figure 4). The glu 3°4 mutant protein is also barely detectable in post
+mortem liver tissue, although normal levels Of this mutant protein are observed in
+skin fibroblasts in culture (Kelly et al., 1990). Therefore, it is possible that these
+mutant proteins were degraded rapidly in MCAD-deficient livers and that the
+truncated MCAD protein would be detectable in mammalian cells in culture. We
+are currently expressing the Al100-1103 mutant protein in mammalian cells in
+culture to allow enzymological analysis of functional characteristics, such as flavin
+binding and tetramer formation.
+MCAD RFLP analysis revealed that the patient described here is heterozygous at
+the Taq I locus (allele 1/allele 2) and thus Al100-1103 is not linked to the same
+haplotype as G 985. Recent studies have shown that a single MCAD RFLP haplotype
+(Bam II-allele 1, Pst I-allele 1, Taq I-allele 2) is uniformly associated with the G 985
+allele, yet this haplotype is only present in 20% of the normal population (Kiddet
+aI., 1990; Kolvraa et al., 1991). Based on the known association of G 985 with the Taq
+I-allele 2 RFLP, it is likely that the Taq I-allele 1 is linked to ALI00-1103 in this
+patient, although familial analysis would be necessary to confirm this linkage. Our
+data also reveal that, at least in this patient, the molecular basis of the informative
+Taq I polymorphism is a single base difference as opposed to major DNA
+rearrangements in the intron.
+The molecular screening approach described here allows the post mortem identification of MCAD deficiency in sudden-death victims. Post mortem characterization
+of the DNA of additional MCAD-deficient individuals from the United States and
+J. lnher. Metab. Dis. 15 (1992)
+
+Medium-chain Acyl-CoA Dehydrogenase Deficiency
+
+179
+
+Europe will define the heterogeneity of the mutation responsible for MCAD-deficient
+patients dying suddenly, and will provide insight into the molecular genetic origins
+of this disease.
+
+Note added in proof: During preparation of this manuscript for publication, the
+11O0-1103 MCAD deletion mutation described herein was also identified in a second
+unrelated MCAD-deficient individual by Dr. Y. T. Chen and co-workers (Duke
+University) and five MCAD gene point mutations, in addition to the G 985 and 11001103 deletion mutations, were reported (Am. J. Hum. Genet. 49 (1991) 1280-1291).
+ACKNOWLEDGEMENTS
+We thank Ajay Bhala for technical assistance with the enzymatic assays, Brad Raisher
+for help in the protein immunoblotting experiments. D.P.K. is a recipient of a Lucille
+P. Markey Scholar Award and this work was funded, in part, by the Lucilte P.
+Markey Charitable Trust.
+
+REFERENCES
+Blakemore, A. I. F, Singleton, H., Pollitt, R. J., Engel, P. C., Kolvraa, S., Gregersen, N. and
+Curtis, D. Frequency of the G985 MCAD mutation in the general population. Lancet 337
+(1991a) 298-299
+Blakemore, A. I. F., Kolvraa, S., Gregersen, N., Engel, P. C. and Curtis, D. Localisation of
+RFLP's of the medium chain acyl-CoA dehydrogenase gene. Hum. Genet. 86 (199tb)
+537-538
+Bross, P., Engst, S., Strauss, A. W., Kelly, D. P., Rasched, I. and Ghisla, S. Characterization
+of wild-type and an active site mutant of human medium chain acyl-CoA dehydrogenase
+after expression in Escherichia coll. J. Biol. Chem. 265 (1990) 7116-7119
+Duran, M., Hofkamp, M., Rhead, W. J., Saudubray, J. M. and Wadman, S. K. Sudden
+child death and "healthy" affected family members with medium-chain acyl-coenzyme A
+dehydrogenase deficiency. Pediatrics 78 (1986) 1052-1057
+Frerman, F. E. and Goodman, S. I. Ftuorometric assay of acyt-CoA dehydrogenases in normal
+and mutant human fibrobtasts. Biochem. Med. 33 (1985) 38-44
+Gregersen, N., Andresen, B. S., Bross, P. et al. Molecular characterization of medium-chain
+acyl-CoA dehydrogenase (MCAD) deficiency: identification of a lys329 to glu mutation in
+the MCAD gene, and expression of inactive mutant enzyme protein in E. coli. Hum. Genet.
+86 (1991) 545--.551
+Kelly, D. P., Kim, J.-J., Billadello, J. J., Hainline, B. E., Chu, T. W. and Strauss, A. W.
+Nucleotide sequence of medium-chain acyl-CoA dehydrogenase mRNA and its expression
+in enzyme-deficient human tissue. Proc. Natl Acad. Sci. USA 84 (1987) 4068-4072
+Kelly, D. P., Whelan, A. J., Ogden, M. L., Alpers, R., Zhang, Z., Bellus, G., Gregersen, N.,
+Dorland, L. and Strauss, A. W. Molecular characterization of inherited medium-chain acylCoA dehydrogenase deficiency. Proc. NatI Acad. Sci. USA 87 (t990) 9236-9240
+Kidd, J. R., Matsubara, Y., Castigtione, C. M., Tanaka, K. and Kidd, K. K. The locus for the
+medium-chain acyl-CoA dehydrogenase gene on chromosome 1 is highly polymorphic.
+Genomics 6 (1990) 89-93
+Kolvraa, S., Gregersen, N., Blakemore, A. The most common mutation causing medium-chain
+acyl-CoA dehydrogenase (MCAD) deficiency is strongly associated with a particular
+haplotype in the region of the gene. Hum. Genet. 87 (1991) 425-428
+Kolvraa, S., Gregersen, N., Christensen, E. and Hobolth, N. In vitro fibroblast studies in a
+J. lnher. Metab. Dis. 15 (1992)
+
+180
+
+Kelly et al.
+
+patient with C6-C10-dicarboxylic aciduria: Evidence for a defect in general acyl-CoA
+dehydrogenase. Clin. Chim. Acta 126 (1982) 53-67
+Matsubara, Y., Narisawa, K, Miyabayashi, S., Tada, K., Coates, P. M., Bachmann, C., Elsas,
+II L J., Potlitt, R. J, Rhea& W. J. and Roe, C. R. Identification of a common mutation in
+patients with medium-chain acyt-CoA dehydrogenase deficiency. Biochem. Biophys. Res.
+Commun. 171 (1990) 498-505.
+Powell, P. J. and Thorpe, J. 2-Octanoyl coenzyme A is a mechanism-based inhibitor of pig
+kidney medium-chain acyl coenzyme A dehydrogenase: Isolation of the target peptide.
+Biochemistry 27 (1988) 8022-8028
+Rhead, W. J., Amendt, B. A., Fritchman, K. S. and Felts, S. J. Dicarboxylic aciduria: Deficient
+[1-14C] octanoate oxidation and medium-chain acyl-CoA dehydrogenase in fibroblasts.
+Science 221 (1983) 73-75
+Sambrook, J., Fritsch, E. F. and Maniatis, T. Isolation of DNA from mammalian cells. In
+Nolan, C. (ed.) Molecular Cloning: A Laboratory Manual, 2nd edn. Cold Spring Harbor
+Laboratory Press, 1989, 9.16-9.19
+Stanley, C. A., Hale, D. E., Coates, P. M. et al. Medium-chain acyl-CoA dehydrogenase
+deficiency in children with non-ketotic hypoglycemia and low carnitine levels. Pediatr. Res.
+17 (1983) 877-884
+Treem, W. R., Witzleben, C. A., Piccoli, D. A., Stanley, C. A., Hale, D. E., Coates, P. M. and
+Watkins, J. B. Medium-chain and long-chain acyt-CoA dehydrogenase deficiency: Clinical,
+pathologic and ultrastructural differentiation from Reye's syndrome. Hepatology 6 (1986)
+1270-1278
+Yokota, I., Indo, Y, Coates, P. M. and Tanaka, K. Molecular basis of medium chain acylcoenzyme A dehydrogenase deficiency. An A to G transition at position 985 that causes a
+lysine-3tM to glutamate substitution in the mature protein is the single prevalent mutation.
+J. Clin. Invest. 86 (1990a) 1000-1003
+Yokota, I., Tanaka, K., Coates, P. M. and Ugarte, M. Mutations in medium chain acyl-CoA
+dehydrogenase deficiency. Lancet 336 (1990b) 748
+Zhang, Z., Kelly, D. P., Kim, J.-J., Zhou, Y., Ogden, M. L., Whelan, A. J. and Strauss, A. W.
+Structural organization and regulatory regions of the human medium chain acyl-CoA
+dehydrogenase gene. Biochemistry, in press.
+
+J. Inher. Metab. Dis. 15 (1992) 180
+
+© SSIEM and Kluwer Academic Publishers. Printed in the Netherlands
+
+BOOK REVIEW
+Molecular mechanism of cellular growth. Edited by H. E. Morgan. Kluwer Academic
+Publishers, Dordrecht, 199t, ISBN 0-7923-1183-3, 238 pp., Dfl.290/US$135/£87.75
+This is reprinted from Molecular and Cellular Biochemistry 104 Nos.1 & 2 (1991) and
+is based on the proceedings of a symposium at Geisinger, PA, USA in 1990, on a
+difficult but interesting area of the biochemistry of growth and development. A series of
+North Americans review the areas of signal generation, signal transduction, modulation of gene expression by intracellular signals, ribosome biogenesis: transcription of
+rDA, ribosome biogenesis: synthesis of ribosomal proteins and ribosome formation.
+This is a useful monograph for basic scientists on relatively underdocumented
+areas. Unfortunately it lacks a subject index but the contents list is detailed enough
+for reader' guidance. There are useful summaries to each review.
+R. A. Harkness
+
+J. Inher. Metab. Dis. 15 (1992)
+
+

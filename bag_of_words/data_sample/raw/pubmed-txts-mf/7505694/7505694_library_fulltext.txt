@@ -1,0 +1,287 @@
+©1993 Oxford University Press
+
+Human Molecular Genetics, 1993, Vol. 2, No. 10
+
+1741-1742
+
+Identification of a new missense mutation
+(P205S) in the first transmembrane
+domain of the CFTR gene associated with
+a mild cystic fibrosis phenotype
+Miguel Chilldn, Teresa Casals, Virginia Nunes, Javier Gimenez, Estela Perez Ruiz1 and Xavier Estivill*
+Molecular Genetics Department Cancer Research Institute, Hospital Duran i Reynals, Autovte de Castefldefete Km. 2.7, L'Hospttalet de Uobregat, 08907 Barcelona and
+1
+Servtao de Neumotogla infantil, Hospital Matemo infants, Malaga, Spain
+
+Received June 11, "1993; Revised and Accepted July 26, 1993
+
+Since the cloning of the CFTR gene in 1989 more than 300 cystic
+fibrosis (CF) mutations have been identified (ref. 1 and CF
+Genetic Analysis Consortium). The majority of the mutations
+detected correlate with a severe clinical presentation of the
+disease, which is normally associated with pancreatic
+insufficiency and severe or moderate lung involvement. As the
+majority of CF mutations are uncommon it is difficult to obtain
+a reasonable phenotype/genotype correlation, which would serve
+to asses the severity of the different CF mutations. The complete
+identification of the CF genotypes in the different CF patients,
+in which a severe mutation is known to be present, provides an
+important resource for the characterization of the level of severity
+of the other mutation in the patient (2). In other cases,
+homozygosity for a given mutation can serve in the analysis of
+severity of CF mutations, although patients homozygous for a
+mild mutation are rare (3). We report here, a new missense
+mutation (P205S) in the first transmembrane domain of the CFTR
+gene, which is associated with a mild CF phenotype, pancreatic
+sufficiency and without gastrointestinal symptoms. Mutation
+P205S was identified, in one patient, in exon 6a, after SSCP
+analysis of 20 exons of theCT77?gene ( 1 - 7 , 10-14a, 15-16,
+and 17b-21) in a panel of 40 unrelated Spanish CF patients.
+Further association of P205S with CFTR microsatellites (4) and
+screening in a large sample of Spanish CF chromosomes were
+performed.
+Genomic DNA was isolated from peripheral blood lymphocytes
+according to standard protocols. PCR conditions were:
+denaturation at 95°C for 30 sec, annealing at 56°C for 30 sec
+and extension at 74°C for 40 sec in 35 cycles. The reaction mix
+contained 0.1 yX of [a-32P]dCTP (3000 Ci/mmol), 1 yX of PCR
+buffer (Perkin Elmer Cetus N808-0006), 60 yM of each dNTP,
+10 pmols of each primer, 100 ng of DNA and 1 unit of Taq DNA
+polymerase in a final volume of 10 yX. The primers used were
+6ai-5 and 6ai-3 (5).
+After PCR, DNA products of exon 6a were digested with
+MbdQ.. SSCP electrophoresis was run at 4°C on a 6%
+nondenaturing poly aery lamide gel without glycerol, at 30 watts
+for 5 hours. One abnormal band was detected in the samples
+analysed. The individual with the abnormal band was PCRamplified and then purified with Strategene PrimeErase Quik
+columns (#400705). Direct automatic sequencing was performed
+with 3.5 pmols of sequencing primer, and 7 yX of the purified
+PCR product, using Taq DyeDeoXy™ Terminator Cycle
+* To whom correspondence should be addressed
+
+Downloaded from https://academic.oup.com/hmg/article-abstract/2/10/1741/637846
+by Reprints Desk user
+on 23 May 2018
+
+Sequencing Kit (ABI) (#401113), according to the
+manufacturer's recommendations. Sequencing conditions were
+denaturation at 96°C for 30 sec, annealing at 50°C for 30 sec
+and extension at 60°C for 4 min for 28 cycles.
+In the analysis of exon 6a we have detected one sample
+(91-229) with an abnormal SSCP-migration pattern. Direct
+sequencing of the sample, using primers 6ai-5 and 6ai-3, showed
+a C to T substitution at nucleotide 745 that replaces serine with
+proline at codon 205 (mutation P205S) (Figure 1). This causes
+the substitution of a polar amino acid for a non-polar one, in
+a membrane spanning region of the first transmembrane domain,
+which could affect the normal folding of the CFTR protein and
+be the cause of the CF phenotype. P205S does not affect any
+restriction enzyme site and it was found associated with haplotype
+1 6 - 4 4 - 1 3 (TVS8CA-IVS17BTA-IVS17BCA) (4). For a rapid
+screening of the mutation, we designed a mutagenesis primer (6)
+E6XD1 5'-TGGCACATTTCGTGTGAATCGC-3', which
+creates a Xmnl site if the change C to T, that leads to P205S,
+is present. Screening of mutation P205S in our sample of CF
+chromosomes was partially based on its association with the
+microsatellite haplotype 16—44-13. CF patients with this
+haplotype were PCR amplified using the E6XD1 mutagenesis
+primer and primer 6ai-3 and digested with Xmnl. A total of three
+independent P205S alleles were found in the sample analysed
+(3/950) with a final estimated frequency of 0.3%.
+Clinical data (Table 1) were available for four CF patients
+carrying mutation P205S (3 were from the same family). The
+patients were between 4 and 24 years-old, 2 of which were
+diagnosed when they were 12 and 15 years of age. None of the
+patients have had gastrointestinal symptoms or pancreatic disease.
+All patients have had lung colonization with bacterial pathogens,
+but they have an excellent general status. Patient (91—394) was
+also diagnosed for congenital bilateral absence of the vas deferens,
+which has been associated with mutations in the CFTR gene (7).
+The mutations in the other chromosome of the patients, for which
+clinical data were available, were AF508 or 36O1-111G->C.
+AF508 is known to be a severe mutation and 3601-111G—C
+is also associated with a severe CF phenotype with pancreatic
+insufficiency and lung disease (M.Chilldn and X.Estivill,
+unpublished).
+Clinical presentations of patients carrying P205S suggest its
+association with a mild CF phenotype, with pancreatic suffiency
+and without gastrointestinal symptoms. The CF phenotype could
+
+1742 Human Molecular Genetics, 1993, Vol. 2, No. 10
+Table 1. Clinical and laboratory features of individuals with P205S
+
+Mutation in other
+chromosome
+Current age
+Age at diagnosis
+Sex
+Sweat chloride mEq/1.
+Meconhnn ileus
+Dehydration
+Height-cm (%ile)
+Weight-Kg (%ile)
+Chrispin—Nonnand
+Lung colonization with
+bacterial pathogens
+Pancreatic insuffiency
+Shwachman - Kulczyckr*
+FEV1—% predicted
+FVC—% predicted
+Other clinical
+features
+
+Patient1'b
+91-229
+
+91-231
+
+91-232
+
+91-394
+
+36O1-11T
+G-C
+18y. 9m.
+15y. lm.
+male
+90
+no
+no
+173(75)
+72(90)
+5
+yes
+
+3601-111
+G-C
+lly. 9m.
+8y. 4m.
+male
+110
+no
+no
+152(75)
+46(90)
+11
+yes
+
+3601-111
+G-C
+4y. llm.
+3m.
+male
+100
+no
+no
+114 (90)
+23(90)
+2
+yes
+
+AF5O8
+
+no
+90
+84
+80
+no
+
+no
+85
+58
+60
+asthma
+
+no
+85
+no
+
+no
+85
+94
+101
+CBAVD
+
+24y. 5m.
+12y. 5m.
+male
+90
+no
+no
+178 (102)
+70 (100)
+8
+yes
+
+•(91-229), (91-231) and (91-232) are members of the same family.
+Clinical data of patient 90-534 are not available.
+"Data on the 3601-111 G—C mutation are in preparation.
+"tajest radiograph score of Chrispin-Norman, 0 being the best score and 36 the worst (9).
+"Clinical score system of Shwachman-Kulczycki, of which 100 is the best clinical score (10). Forced expiratory volume in 1 sec (FEV1)% predicted; Forced vital
+Capacity (FVQ% predicted. CBAVD, congenital bilateral absence of the vas deferens.
+b
+
+possibly be explained by the substitution of a non-polar by a polar
+amino acid in a membrane spanning region of a transmembrane
+domain. The proline in codon 205 is conserved in the CFTR gene
+of Human, Mouse, Bovine, Xenopus and Dogfish (8). The change
+could alter thefoldingof the CFTR protein and so, weakly affect,
+but not completely, the correct functioning of the CFTR protein.
+Functional studies of this mutation, regarding the chloride channel
+activity of CFTR for P2O5S, should provide further insights about
+its role in the CF phenotype.
+
+Q^AAAaQAQCQAJCCACACQAAATa
+
+n n n n
+
+~•
+
+Normal
+
+ACKNOWLEDGMENTS
+We thank H.Knryer for help with the manuscript. This work was supported by
+the Fondo de Investigaciones Sanitarias de la Seguridad Social (93/0202) and
+the Institut Catala de la Salut. M.C. received a fellowship from the Spanish Ministry
+of Education and Science.
+
+*
+
+AAA
+
+QH
+
+A Q C O ^ C C A C A C Q
+
+1^11
+
+REFERENCES
+1. Tsui.L.-C. (1992) Human Mutation 1, 197-203.
+2. Tsui,L.-C. (1992) Trends Genet. 8, 392-398.
+3. Nunes.V., Chillon.M., D6rk,T., Tummler.B., Casals.T. and Estivill.X.
+(1993) Hum. MoL Genet. 2, 79-80.
+4. Morral.N., Nunes.V., Casals.T., Chillon.M., Gimenez,J., BertranpetitJ.
+and Estivill.X. (1993) Hum. MoL Genet, (in press).
+5. ZielenskyJ., Bozon.D., Kerem.B., Markiewicz.D, Rommens.J.M. and
+Tsui.L. (1991) Genomics 10, 229-235.
+6. Haliassos,A., Cbomel.G., Tesson.L., Baudis.M., KruhJ., KapUnJ.C. and
+Kitzis.A. (1989) Nudeic Adds Res. 17, 3606.
+7. Anguiano^A., Oates.R.D., Amos^.A., Dean.M., Gcrrard.B., Stewart.C,
+Maher.T.A., White.M.B. and Mflunsky.A. (1992) / Am. Med. Assoc. 267,
+1794-1797.
+8. Tucker.S.J., Tarmahill.D. and Higgins.C.F. (1992) Hum. MoL Genet.
+77-82.
+9. Crispin^A.R. and Norman.A.P. (1974) Pediatr. RadxoL 2, 101-110.
+10. Shwachman.H. and Kulczycki.L. (1958) Am. J. Dis. Child. 96, 6 - 1 5 .
+
+Downloaded from https://academic.oup.com/hmg/article-abstract/2/10/1741/637846
+by Reprints Desk user
+on 23 May 2018
+
+P2O5S
+
+Figure 1. Automatic sequencing of exon 6a of the LtlK gene using 6ai-3 primer.
+Sequence of CF patient with P2O5S mutation at nucleotide 745, (indicated by
+the arrow) with a reduced G-signal shared with the A-signal.
+
+

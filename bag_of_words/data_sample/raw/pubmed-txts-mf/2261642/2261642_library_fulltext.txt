@@ -1,0 +1,1763 @@
+Cell, Vol. 63, 1239-1246,
+
+December
+
+21, 1990, Copyright
+
+0 1990 by Cell Press
+
+Effect of Dystrophin Gene Deletions on mRNA Levels
+and Processing in Duchenne and Becker
+Muscular Dystrophies
+Jamel Chelly,’ H&ne
+Gilgenkrantz,’
+Martine Lambert:
+Ghislaine Hamard,
+Philippe Chafey,’ Dominique
+R&can:
+Pierre Katz,t Albert de la Chapelle,+
+Michel Koenig,5 leke B. Ginjaar,ll
+Michel Fardeau,# Fernando Tom&#
+Axel Kahn,’ and Jean-Claude
+Kaplan’
+* INSERM U129
+lnstitut
+Cochin de G6nBtique Mol&ulaire
+#INSERM U153
+17 rue du Fer & Moulin
+Paris, France
+t HBpital Necker-Enfants Malades
+Clinique de GBn&ique M6dicale
+Paris, France
+$ Department of Medical Genetics
+University of Helsinki
+Helsinki, Finland
+5 Dbpartement de GbnBtique Humaine
+lnstitut de Chimie Biologique
+Facultb de MBdecine II
+Strasbourg, France
+IIDepartment of Human Genetics
+Sylvius Laboratories
+Leiden. The Netherlands
+
+Muscle dystrophin
+mRNAs from Duchenne (DMD) and
+Becker (BMD) patients with internal deletion of the
+DMD gene were quantitated
+and sequenced.
+In all
+cases (eight DMD and three BMD), truncated mature
+transcripts
+were found, and their amount was correlated to the clinical phenotype
+and to the reading
+frame. We focused on four cases that were apparently
+not in agreement
+with the reading frame rule. In two
+DMD casds, slightly
+reduced amounts of in-frame
+truncated
+mRNA are present but no dystrophin
+is
+detected, suggesting
+impaired translation
+and/or instability of the protein. In two BYD patients with outof-frame deletions,
+the presence of minor in-frame
+alternatively
+spliced mRNA species Is congruent with
+the observed truncated dystrophin
+and the mild phenotype.
+Introduction
+Duchenne and Becker muscular dystrophies (DMD and
+BMD) are produced by allelic defects of the huge (>2000
+kb) dystrophin gene (reviewed by Monaco and Kunkel,
+1988; Worton and Thompson, 1988). The final product, a
+427 kd protein mainly localized in muscle sarcolemma, is
+encoded by a 14 kb mRNA. In about 60% of the cases,
+the gene defect is a deletion of variable extent and location, resulting either in the severe DMD type of disease or
+in the milder BMD type. Hoffman et al. (1988) showed that
+
+the clinical phenotype correlates with the status of muscle
+dystrophin, absent or drastically reduced (<3%) in DMD
+patients, while present but reduced in amount (>lO%)
+and/or size in BMD patients. Concomitantly, it was observed that the severe DMD phenotype is produced by deletions causing a disruption of the reading frame in the
+gene, precluding any production of functional dystrophin;
+conversely, the milder BMD phenotype is produced by deletions that do not alter the reading frame, resulting in the
+production of a truncated dystrophin (Monaco et al., 1988;
+Koenig et al., 1989).
+However, exceptions to the reading frame theory, i.e,
+DMD with in-frame deletions and BMD with out-of-frame
+deletions (Malhotra et al., 1988; Gilgenkrantz et al., 1989),
+are found in about 8% of the deletions (Koenig et al.,
+1989). In previous studies, sensitive methods, such as in
+situ RNA hybridization
+(Oronzi-Scott et al., 1988) and
+mRNA polymerase chain reaction (PCR) (Chelly et al.,
+1988; Muntoni and Strong, 1989), showed the presence of
+dystrophin transcript even in cases with internal gene deletions. In these studies, however, the amount and the sequence of resulting truncated dystrophin transcripts have
+not been investigated. Such analysis should help to check
+the actual reading frame and to understand the molecular
+basis of the cases that are in apparent contradiction with
+Monaco’s rule.
+In this study, PCR-amplified dystrophin transcripts are
+investigated in muscle specimens from eight DMD and
+three BMD patients with known internal deletions of the
+DMD gene, with special emphasis on four cases (two
+DMD and two BMD) that are apparently not in agreement
+with the reading frame rule. Using appropriate combinations of primers amplifying across the predicted junction
+point, we looked for alternative splicing patterns that might
+explain these exceptions. The results are correlated with
+the clinical phenotype, the reading frame deduced from
+the gene deletion, and the dystrophin status.
+Results
+Detection and Quantitation
+of Mature Transcripts
+of the Dystrophin Gene in Muscle from DMD
+and BMD Patients
+We screened by PCR coamplification
+three different portions of the dystrophin mRNA (see Figure la) from muscle
+biopsy specimens: a 201 nucleotide segment in the 5’ region spanning nucleotides 1015-1216 on the cDNA sequence, as established by Koenig et al. (1988); a 170
+nucleotide segment in the middle part of the transcript
+(6365-6535);
+and a 125 nucleotide segment in the 3’ region (9362-9487).
+The relative amount of dystrophin
+mRNA in each sample was determined as already described (Chelly et al., 1990). In this procedure a known
+amount of exogenous mRNA (rat L-pyruvate kinase [L-PK]),
+used as a standard, is added and coamplified along with
+the dystrophin mRNA segments.
+In 11 muscle specimens from patients with previously
+
+Cell
+1240
+
+Table 1. Dystrophin
+and BMD
+
+16 c
+
+of Three Different Segments
+from Muscle Biopsy
+
+of the Dystro-
+
+(a) Position of primers (indicated below) and their relation to the target
+gene region and size of coamplified
+cDNA fragments
+(bold line indicated above). The primers-complementary
+(c) and identical (i)-are
+chosen in different exons to distinguish
+amplification
+of mRNA fragments from amplification
+of contaminating
+DNA. The following primers
+were used: in exon 6, E6i (5”CATCAAATGCACTATTCTCAACAG-3’)
+and in exon 10, ElOc (WCTCCAlCAAlGAACTGCCAAATGA-3’)
+for segment A; in exon 43, E43i (S-CTCTTTAAGCAAGAGGAGTCT-3’)
+and in
+exon 44, E44c (5’-CCATTTCTCAACAGATCTGTC-3r)
+for segment B; in
+exon 61, E61i (5’TTTCACGTCTGTCCAGGGTCCC3’)
+and exon 62,
+E62c (r%CTGGTAGAGCTCTGTCATTTTGGGA-3’)
+for segment C.
+(b) Autoradiograms
+of Southern
+blots performed
+on cDNA PCRcoamplified products (15 cycles) of dystrophin
+(segments A, B, and C)
+transcripts,
+hybridized with dystrophin cDNA probes (9.7,44.7, and 63.1
+for segments A, B, and C, respectively).
+The dystrophin transcript
+was
+analyzed in muscle biopsy from patients 1 to 6 (Table 1) and from normal muscle (Ct). Added L-PK mRNA was used as an internal standard
+(IS) and hybridized
+with an internal oligoprobe.
+
+detected internal gene deletions (eight DMD and three
+BMD), the three dystrophin mRNA segments were found,
+except when one of the primers was in the deleted region
+(Table 1 and Figure 1). in addition, in two DMD cases without any detected gene deletion, the three segments could
+be amplified, indicating that the gene was not deleted in
+the corresponding
+region (patients 4 and 9; Table 1 and
+Figure 1). Quantitative analysis in 13 muscle samples, performed (after 15 PCR cycles) in the exponential phase of
+the amplification (prerequisite to do relative quantitation;
+Chelly et al., 1990) showed that the dystrophin transcript
+was diminished in the majority of cases, the decrease being approximately equivalent for the three segments in
+each sample (Figure lb).
+The amount of residual mRNA varied greatly, and two
+categories could be defined: one with less than 10% dystrophin mRNA (eight DMD) (see, for example, Figures lb
+and 2a, 15 cycles), the other with more than 25% dystrophin mRNA (two DMD and three BMD) (see Figures lb
+and 5a). in the first group, all cases are DMD, six of which
+with a known deletion that apparently disrupts the reading
+frame, and two in which DNA had not been investigated.
+In the second group, with significantly higher levels of dystrophin mRNA, there are two DMD cases with a known de-
+
+Analysis
+
+Patients
+
+Phenotype
+
+Deleted
+Exons
+
+Predicted
+Reading
+Frame
+
+1
+
+DMD
+DMD
+DMD
+DMD
+DMD
+DMD
+DMD
+DMD
+DMD
+BMD
+BMD
+BMD
+DMD
+
+3-34
+6-13
+12
+NA
+46-46
+44-47
+7-13
+44
+NA
+3-7
+3-7
+45-46
+50
+
+ORF
+ORF
+Frameshift
+?
+Frameshift
+Frameshift
+Frameshift
+Frameshift
+?
+Frameshift
+Frameshift
+ORF
+Frameshift
+
+2
+3
+4
+5
+6
+7
+6
+
+9
+
+Figure 1. Coamplification
+phin mRNA Originating
+
+DNA and mRNA
+
+10
+11
+12
+13
+
+in Patients
+
+with DMD
+
+mRNA
+Fragment
+Detected
+A
+
+B
+
+C
+
++
++
++
++
++
++
++
++
++
++
+
++
++
++
++
++
++
++
++
++
++
++
+
++
++
++
++
++
++
++
++
++
++
++
++
++
+
+Phenotypes
+are classified as described
+in Experimental
+Procedures.
+The predicted consequence
+of deletion on the reading frame was determined by examining the remaining two exons flanking the deletion
+(the exon borders were defined by Koenig et al., 1969). Abbreviations
+are as follows: NA, not analyzed by Southern blot; ORF, open reading
+frame; for fragments
+A, B, and C, see Figure 1.
+
+letion respecting the reading
+to 34) and two BMD cases
+7, which apparently disrupts
+BMD case with an in-frame
+(Table 1).
+
+frame (exons 6 to 13 and 3
+with a deletion of exons 3 to
+the reading frame, and one
+deletion of exons 45 to 46
+
+Analysis of Dystrophin lkanscripts
+in Cases
+in Which the Phenotype (DMD or BMD) is
+in Agreement
+with the Reading
+Frame Hypothesis
+To investigate the truncated dystrophin mRNA, we used
+primers flanking the deleted exons to amplify the transcript of muscle samples from two DMD and one BMD patient. In Figure 2, we show typical results obtained in a
+DMD case with an internal out-of-frame deletion removing
+exon 50 (patient 13; Table 1 and Figure 2). Using primers
+in exons 49 and 52, we amplified, as expected, a fragment
+of about 350 bp, which hybridized to the internal oligoprobes E52c2 and E49i2. Figure 2a shows that, after 15
+cycles, the level of truncated dystrophin transcripts is very
+reduced (<IO%); in contrast, after 30 cycles, the signal is
+equivalent in the DMD and the control muscle because
+the amplification has ceased to be exponential and the
+PCR products have reached a plateau (Chelly et al., 1990).
+As expected, this abnormal fragment was cut by Rsal
+and Ddel (data not shown). Three independent
+clones
+were sequenced, giving the expected out-of-frame sequence and showing that exons 49 and 51 were precisely
+abutted with a stop codon 30 nucleotides after the junction point (Figure 2~). In normal muscle, in addition to the
+normally spliced transcript (450 bp), we observed, after 30
+cycles only, an additional 120 bp species, corresponding
+to an in-frame alternative splicing directly abutting exons
+49 and 52 (Figure 2b). This minor species was not de-
+
+y2y;rophin
+
+mRNA
+
+a
+
+in Duchenne
+
+and Becker
+
+mRNA_PCR:E49i
+
+Dystrophies
+
+b
+
+E52c
+
+bp
+
+E49
+C
+E52
+120*
+
+LePKIIS)
+
+-67
+
+C
+GTG
+
+GAA
+
+E49l
+GAG
+
+ATT
+
+ode1
+CCA
+
+-d
+
+GCC
+
+ACEA.0
+
+TTG
+
+TCT
+
+CAC
+
+AAC
+
+CTG
+
+MA
+
+TGC
+
+CAT
+
+CTT
+
+GGG
+
+E491. 2
+CAG CAT
+
+TGG
+
+TTA
+
+Ode
+WG
+
+ACC
+
+GGG
+
+AAG
+
+TTA
+
+TAA
+
+CTT
+
+ATA
+
+TCA
+
+ACG
+
+TGG
+
+AAC
+
+AGAGGC
+
+AAT
+AGA
+
+CCT
+
+TGA
+
+GGA
+CAC
+
+CAG
+AGA
+
+GAA
+
+AAA
+
+TTA
+
+CTC
+
+TGG
+
+AM
+
+CTG
+I
+
+TGG AG’&.I&
+
+AAC lTA
+
+CCG
+
+ACT
+
+CCA
+
+TCT
+
+CTG
+
+CTC
+
+GGC
+
+I-IT
+
+CCA
+TGG
+CTC
+
+AAC
+CAG
+TGC
+
+TAG
+ATT
+TTG ATC
+
+TGA
+
+TCA
+
+TGA TGG TGG GTG ACC TTG AGG
+ExonSl
++
+Exon52
+TCA AGC AGA AG
+G CAA CAA TGC AGG
+
+GTC
+
+CCC
+
+AGT
+
+E52c
+
+Figure 2. Sequence
+trophin mRNA from
+Exon 50
+
+TGT
+
+CTG
+
+MG
+
+I
+ma
+
+TCA
+
+Rsa I
+TTGIBE
+
+Exon 49
+&
+Exon 51 Ode t
+CCA GTG AAG
+CTC CTA !ZL&2A
+
+slop
+TGA
+
+AAA
+
+GGG
+
+2
+
+TGG
+
+AAG
+
+AAC
+
+TCATTACCG
+
+CTG
+
+CCC
+
+ATT
+AA
+
+E52C
+
+Analysis of the Junction Point of Truncated DysDMD Patient with an Out-Of-Frame
+Deletion of
+
+(a) Autoradiograms
+of Southern
+blots performed
+on cDNA PCRcoamplified
+products
+(15 and 30 cycles using the primers E49i and
+E52c) of dystrophin
+transcripts
+from patient 13 (P13) and from normal
+muscle (Ct) hybridized with internal oligoprobes
+(E52c.2 and E49i.2).
+Added L-PK mRNA was used as an internal standard and hybridized
+with an internal oligoprobe. In normal muscle, the fragment comprising
+exons 49 to 52 is the 450 bp species. The additional 120 bp fragment
+corresponds
+to alternative splicing of exons 50 and 51. In the patient’s
+muscle the 350 bp fragment corresponds
+to the expected truncated
+transcript
+(exons 49-51-52).
+(b) Sequencing
+gel showing the alternative splicing of exons 49 to 52
+in normal muscle. Arrows indicate the limits of exons.
+(c)Complete
+nucleotide sequence of the abnormal 350 bp cDNA fragment with position of restriction site, primers used for PCR, and internal primers used for hybridization
+(arrows).
+
+tected in this patient (Figure 2a, 30 cycles). In this patient
+no dystrophin was detected by Western blot analysis
+using the “60 kd” antibody (see description in Experimental Procedures) (data not shown).
+The same study was performed in two other cases: in
+a DMD patient with a 7 to 13 exon deletion (case 7), we
+found, after sequencing of the junction fragment, a precise splicing between exons 6 and 14 disrupting the reading frame; in a BMD patient with a gene deletion removing
+exons 45 to 46 (case 12), the sequence of the segment of
+transcript obtained after amplification
+with primers in
+exons 44 and 50 showed precise junction betwen exons
+44 and 49 with a maintained reading frame (data not
+shown).
+
+Analysis of Dystrophin
+Transcripts in Cases
+in Which the Phenotype
+(DMD or BMD) Is
+in Contradiction
+with the Reading
+Frame Hypothesis
+We have applied the same strategy to study truncated dystrophin transcripts in four exceptions to the reading frame
+hypothesis (Monaco et al., 1966): two DMD cases and two
+BMD cases.
+Dystrophin
+mRNA in DMD Patients
+with an In-Frame Gene Deletion
+The results obtained in two DMD cases with a gene deletion that apparently respected the reading frame (patients
+1 and 2; Table 1) are shown in Figure 3. Patient 1 has a
+severe DMD phenotype, and Southern blot analysis using
+cDNA probes (9.7,30.2,30.1, and 47.4) showed a gene deletion removing unambiguously
+exons 4 to 33. However,
+owing to the presence of junction fragments detected with
+the 9.7 and 47.4 cDNA probes, it was not possible to conclude about the reading frame since exons 3 and 34 might
+be partially deleted. We therefore PCR amplified the truncated dystrophin transcript from muscle using primers located in exons 1 and 36. Two fragments hybridizing with
+internal probes were obtained (Figure 3a). The major and
+largest one, about 320 bp long, was purified and subjected to restriction by Maell and Xmnl. The resulting pattern was consistent with the presence of exon 2 (Xmnl site)
+and exon 35 (Maell site) (Figure 3b). The sequence of this
+fragment was determined after subcloning in Ml3 phage
+and showed the precise junction between exon 2 and exon
+35 (Figure 4~).
+This shows unambiguously
+that the genomic deletion in
+this patient results in a truncated but in-frame dystrophin
+mRNA, devoid of exons 3 to 34. The minor and smaller
+fragment, about 140 bp long, was purified, subcloned,
+and sequenced. The nucleotide sequence showed the
+juxtaposition of exon 2 to exon 36, indicating that an alternative splicing of exon 35 had occurred (Figure 3d), without disruption of the reading frame. As already shown in
+Figure lb, the amount of dystrophin transcript in muscle
+is only slightly diminished in this large deletion (32 exons).
+In this patient no dystrophin was detected (the expected
+size is 243 kd) by Western blot analysis of a muscle biopsy
+(Figure 4), using purified antibodies against either a proximal or a distal region of dystrophin. The 60 kd antibody
+is directed against the 60 kd peptide encoded by nucleotides 1424-2647, which are contained in the 3-34 deletion; the P20 and DlO antibodies recognize a peptide corresponding
+to nucleotides 5626-7141 and 9060-9791,
+respectively, and are distal to the deletion.
+Patient 2 (Table 1) is 11 years old and considered as
+DMD, although he is still able to walk a few steps. Upon
+Southern blot analysis of the dystrophin gene, exons 6 to
+13 were found to be deleted. Using primers in exons 3 and
+15, a single segment of dystrophin mRNA of about 300 bp
+was PCR amplified from a muscle biopsy from this patient, but not from a normal control. This segment exhibited the expected restriction map (Figure 3e). Its sequence showed the precise juxtaposition of exon 5 to exon
+14 (Figures 3f and 3g), with maintenance of the reading
+frame. The relative amount of truncated dystrophin tran-
+
+Cdl
+1242
+
+C
+
+Eli
+ElC
+Exon 1 w
+ExonP
+ATG CTT TGG TGG GAA GM GTA GAG GAC TGT T AT GAA AGA
+Xmn I
+
+-MM
+
+,320+
+200
+
+-
+
+,,,
+
+Exon 2 +
+CAATTTTCTMG
+
+-270
+
+*
+
+Xmn I
+&A&4 ACA TTC ACA AAA TGG GTA AAT GCA
+&on 35
+GCTACTCAAAAAGAGATTGAGAAACAGAAG
+
+GTGCACCTGAAGAGTATCACAGAGGTAGGAGAGGCCTTGAAAACA
+Mae II
+GTT TTG GGC AAG AAG GAG mG
+GTG GAA GAT AAA CTC AGT CTT CTG
+E351
+AAT AGT AAC TGG ATA GCT GTC ACC TCC CGA GCA GAA GAG TGG TTA
+Exon 35 w
+Exon 36
+AAT CTT TTG TTG GAA TAC CAG AAA CAC ATG GAA ACT lTT GAG
+E36C
+
+ElC
+
+d
+
+probe
+
+Eli
+Elc
+Exon 1
+ATGCTTTGGTGGGAAGAAGTAGAGGACTGTT
+
+w
+
+Exon 2
+ATGAAAGA
+
+Xmn I
+
+Xmn I
+GACA
+MA TGG GTA AAT GCA
+Exon 2 -0
+Exon36
+CAA l-IT TCT AA0 GAA TAC CAG AAA CAC ATG GAA ACT ‘ITr GAC
+
+-MM
+
+probe
+
+E35i
+
+E35i+
+
+ElC
+
+E36c
+
+f
+&
+
+E3i
+GAGAACCTC‘TTCAGTGACCTACAGGATGGGAGGCGCCTCCTAGACCTC
+Taq I
+C-A
+
+Xho II
+Exon 3 w
+Exon 4
+GGC CTG ACA GGG CAA AAA CTG CCA MA GAA AAA PGA TCC
+
+ACA AGA GlT CAT GCC CTG MC MT
+Exonl
+CAGAACAATAAT
+
+E5
+
+bp-
+
+E 14
+GhA GAC CGC TGG GlT CIl TTA CAA GAC ATC Cl-T CTC MA TGG CAA CGT
+Exon 14 a
+Exon 15
+CTT ACT GM GAA CAG-TGC CTT FIT AGT GCA TGG CTT TCA GAA
+
+I
+
+prob.:
+
+Figure
+
+GTC AAC AAG GCA CTG CGG GTr TrG
+
+Exon 5
+G’TTGATTTAGTGAATATTGGAAGTACTGACATCGTA
+
+GATGGAAATCATAAACTGACTClTGGTTTGAlTTGGAATATAATCCTC
+Exon 5 w
+Exon 14
+Cla I . Taq I
+CAC TGG CAG GTA TTG GGA GbII;GBIGG
+GCA AAC ATC TGT AGA TGG ACA
+
+c
+300
+
++
+
+3. Analysis
+
+E4C
+
+of Truncated
+
+Dystrophin
+
+Transcripts
+
+from DMD
+
+Patients
+
+with an Apparent
+
+In-Frame
+
+Deletion
+
+(a) Autoradiogram
+of Southern blot performed
+on cDNA PCR-amplified
+dystrophin
+transcripts
+from patient 1 (see Table 1).
+(b) Specific hybridization
+to oligoprobes
+of the purified large segment (about 320 bp) digested by Maell and Xmnl enzymes.
+(c and d) Complete nucleotide sequence of the two abnormal segments with position of primers used for PCR (arrows) and for probing (bold line),
+and position of restriction sites.
+(e) Specific hybridization
+before and after restriction of the abnormal dystrophin
+cDNA segment amplified from total muscle RNA of patient 2 (see
+Table 1).
+(f) Sequencing
+gel of the abnormal cDNA segment. Positions of junction point and of exon limits are indicated by arrows.
+(g) Complete nucleotide sequence
+of the abnormal segment with positions of primers and restriction
+sites.
+
+in this case is slightly diminished (Figure lb). No
+dystrophin was seen after Western blot analysis using antibodies 60 kd and 30 kd (antibody directed against the
+human 30 kd peptide that corresponds to nucleotides
+3845-4372; data not shown).
+Dystrophin
+mRNA in BMD Patients with
+an Out-Of-Frame
+Gene Deletion
+Two cases with a BMD phenotype and apparent out-offrame gene deletions were analyzed (patients 10 and 11;
+Table 1). Patient 10, 21 years old, has a dystrophin gene
+deletion removing exons 3 to 7 (Gilgenkrantz et al., 1989).
+script
+
+To explore the expected truncated transcript as well as
+other species resulting from conceivable alternative splicing, we amplified muscle RNA using two couples of
+primers, located in exons 1 and 8 and 1 and 10, respectively. The results obtained after 15 cycles are shown in
+Figure 5a. The major species (illustrated by a 155 bp fragment with the Eli-E8c primer couple, designated B in Figure 5a, and a 455 bp fragment with the Eli-ElOc primer
+couple, designated A in Figure 5a) is the expected truncated transcript in which exons 2 and 8 are juxtaposed.
+In addition, two minor species were detected: a 144 bp
+
+Dystrophin
+1243
+
+mRNA
+
+in Duchenne
+
+and Becker
+
+Dystrophies
+
+cDNA fragments obtained in patient 10 after PCR amplification of muscle dystrophin mRNA were subcloned and
+sequenced (data partially shown in Figure 5). The sequencing data showed that the different transcript species
+correspond to different splicing patterns: between exons
+2 and 8 (fragments A and B, Figure 5a), between exons
+2 and 10 (fragment C, Figures 5b and 5d), and between
+exons 1 and 8 (fragment E, Figure 5b). In each case the
+exons were precisely spliced, without any sequence abnormality, other than the random errors due to the Taq
+polymerase. Among the different splicing* patterns observed, only the juxtaposition of exon 1 with exon 8, and
+exon 2 with exon 10, restores the reading frame.
+After 30 PCR cycles (Figure 5b), the minor E and C species were clearly seen in the patient, and an additional 81
+bp segment corresponding
+to a 1 to 10 splicing (fragment
+F, Figure 5b) was detected. Interestingly, after 30 cycles,
+control muscle samples also exhibited the presence of the
+four species B, C, E, and F (Figure 5b). This suggests that
+these patterns of alternative splicing do occur even in normal muscle. After combining the results obtained after 15
+cycles and 30 cycles, we can roughly estimate the relative
+amounts of the different transcript species in patient 11:
+2-8 >> 2-10 > 1-8 > l-10 (bold type indicating the in-frame
+species). The 2-10 transcript is at least 10 times more
+abundant in the patient than in the control muscle specimen. To estimate the level of dystrophin mRNA in this
+patient, in addition to the coamplification
+of the three
+
+kD
+
+,Dystrophin,
+
+-427
+
+- 180
+cl16
+
+b
+
+a
+
+-64
+
+MyosinC
+Figure
+
+4. Western
+
+Blot Analysis
+
+of Muscle
+
+Dystrophin
+
+in Patient
+
+1
+
+Blots were probed with the following purified antibodies: 60 kd (a) and
+P20 (b). Note the absence of dystrophin
+in patient 1, especially with
+the P20 antibody, which is directed against a region not deleted in this
+patient. Staining of the myosin heavy chain band (c) on a different
+acrylamide
+gel in each lane is used as an indicator of the amount of
+muscle protein loaded.
+
+segment (C in Figure 5a) with the Eli-ElOc primer couple
+and a 93 bp segment (E, barely visible in Figure 5a) with
+the Eli-E8c primer couple.
+In normal control muscle, none of these species was observed after 15 PCR cycles. All the above mentioned
+
+Eli-EIC
+
+mRNA-PCR
+
+a
+
+bp
+455)
+
+Eli-ElOC
+
+P ct
+
+P
+
+E49i
+Et
+
+-E5OC
+
+P
+
+CL
+
+Eli-EOC
+
+b
+
+Eli-ElOC
+
+P
+
+ct
+
+P
+
+ACGTACGT
+
+ct
+
+0
+ExonlO
+Exon
+
+A
+
+Figure
+
+5. Alternative
+
+Splicing
+
+in the 5’ Coding
+
+Sequence
+
+of Muscle
+
+5
+
+2
+
+E,*E*+EO+EO+ElO
+
+8;
+
+El.EZ+E(I
+
+C=
+
+E,+E?*ElO
+
+DE
+
+E4S.ESO
+
+E=
+
+El+EB
+
+F:
+
+ElrElO
+
+Dystrophin
+
+Transcript
+
+from EMD Patient
+
+10 and in Normal
+
+Muscle
+
+(a) Autoradiograms
+of Southern blots performed
+on cDNA PCR-coamplified
+products (15 cycles) of dystrophin
+transcripts
+from patient 10 (P) with
+an apparent out-of-frame
+deletion (exons 3 to 7) and from normal muscle (Ct) hybridized
+with dystrophin
+cDNA probes (probe 9.7 for PCR products
+obtained with primer couples Eli-E6c and Eli-ElOc,
+and probe 44.1 for PCR products obtained with primer couple E49i-E50c).
+Added L-PK mRNA
+was used as an internal standard and hybridized with an internal oligoprobe. The largest fragment detected in the patient with Eli-E6c shows the
+same sequence as fragment B and corresponds
+to the amplification
+of a secondary
+structure of this latter segment.
+(b) Same analysis as in (a) performed
+after 30 cycles. Southern blots were hybridized
+with internal oligoprobes
+(Elc and E2c).
+(c) Spliced exons corresponding
+to the amplified segments
+mentioned in (a) and (b).
+(d and e) Gel sequencing
+and nucleotide sequence
+of the l-2-10 in-frame segment showing alternative splicing of exons 6 and 9 in the patient’s
+muscle and position of primers used for PCR and for hybridization
+(positon of Elc primer is indicated in Figures 3c and 3d).
+
+Cell
+1244
+
+Figure
+
+6. Western
+
+Blot Analysis
+
+of Muscle
+
+Dystrophin
+
+in BMD Patients
+
+10 and 11 and lmmunofluorescence
+
+Analysis
+
+of Patient 10 Muscle
+
+Dystrophin
+
+(a) lmmunoblots
+probed with purified 60 kd antibody showing reduced molecular weight and decreased
+amount of dystrophin
+in muscle biopsy samples of patients 10 and 11 with an out-of-frame
+deletion (exons 3 to 7) and of a BMD patient with a deletion removing exons 45 to 46 (corresponding
+to 220 amino acids; patient 12) and exons 45 to 49 (corresponding
+to 254 amino acids), respectively.
+The size of normal dystrophin
+is 421 kd.
+(b) Staining of the myosin heavy chain band (on a different acrylamide
+gel) in each lane, which is used as an indicator of the amount of muscle
+protein loaded.
+(c, d, and e) Indirect immunofluorescence
+analysis using the anti-dystrophin
+antibody 60 kd in unfixed cryostat transverse
+section of skeletal muscle
+fibers (all magnified 165x): normal fibers (c); patient 10 muscle sample (note the hypertrophy
+of fibers) (d); DMD skeletal muscle (e).
+
+fragments described in the first section, we have also amplified a segment contained between exons 49 and 5O,,distal to the breakpoint. It was found to be about 25% of the
+normal specimen (fragment D, Figure 5a).
+At the protein level, reduced amounts (about 10% of a
+normal muscle sample) of a truncated dystrophin were
+seen on Western blot analysis using 60 kd (Figure 6a),
+DlO, and P20 antibodies (data not shown). The reduction
+of size of this abnormal dystrophin (exons 3 to 7 correspond to 165 codons) is at least equal to two in-frame
+BMD deletions removing 220 and 254 codons, respectively (deletions of exons 45 to 46 and of exons 45 to 49;
+Figure Sa). However, at this level of molecular weight, it is
+difficult to conclude that the observed size of the dystrophin corresponds precisely to the translation of the 2-10
+alternatively spliced transcript (289 deleted codons). Immu-
+
+nofluorescence assay using the 60 kd antibody showed a
+reduced and patchy staining of the patient muscle sarcolemma (Figure 6d).
+Patient 11 (Gilgenkrantz et al., 1989) is another patient
+with a typical BMD phenotype and a deletion removing
+exons 3 to 7 of the dystrophin gene that disrupts the reading frame. The dystrophin transcripts were explored in
+muscle, using the same primers as in the preceding case.
+Similar results were obtained, but in this case the species
+corresponding
+to the in frame 2-10 splicing was more
+abundant than in patient 10, and the residual amount of
+mRNA, estimated by amplification of a more distal segment (as in the case described above) was only slightly diminished (data not shown). Western blot analysis of muscle extracts showed the same qualitative results as in
+patient 10 (Figure Sa).
+
+D&rophin
+
+mRNA
+
+in Duchenne
+
+and Becker
+
+Dystrophies
+
+Discussion
+Consequences
+of Genomic Deletions
+on Muscle Dystrophin
+mRNA Level
+Mature dystrophin transcripts were detected in muscle
+specimens from all the DMD patients investigated (ten individuals). This result is in agreement with previous data
+(Oronzi-Scott et al., 1988; Chelly et al., 1988; Muntoni and
+Strong, 1989). In this study, quantitative analysis shows
+that the amount of transcript may be categorized into two
+classes. In one class (eight patients), the amount of residual mRNA is drastically reduced (<lo%); in the other (two
+patients), it is only slightly diminished. Interestingly, cases
+with a frameshift deletion belong to the former group; conversely, the two DMD cases without frameshift belong to
+the latter group. This suggests that there is a possible
+impact of premature translation termination on the steadystate level of mRNA. This problem has already been considered, in particular in nonsense and frameshift mutations in the P-globin gene, where the presence of an early
+translation termination
+codon correlates unequivocally
+with a decrease in the steady-state level of mRNA (Baserga et al., 1988). Although it is usually presumed that
+premature termination of translation destabilizes the mRNA
+released by polysomes, it has also been claimed that a
+premature stop codon induces intranuclear instability of
+the transcript and impairs its transport toward the cytoplasm (Takeshita et al., 1984; Humphries et al., 1984).
+In contrast, in our three BMD patients muscle dystrophin mRNA was only slightly diminished. In one case (patient 12) the exon 45 to 48 deletion did not perturb the
+reading frame. In the two others (patients 10 and 11) with
+an out-of-frame deletion (exons 3 to 7), we found a predominant out-of-frame species (splicing between exons 2
+and 8) plus two minor alternatively spliced in-frame species (exons 2 to 10 and 1 to 8 splicing). This is in apparent
+contradiction with the above-mentioned
+results obtained
+in DMD. This finding suggests that, for the DMD gene, a
+premature stop codon may not be sufficient per se to affect drastically the nuclear or cytoplasmic stability of the
+dystrophin transcript. This is in line with the presence of
+as much as 25% of the normal level of dystrophin mRNA
+(Chamberlain et al., 1988; J. C., unpublished data) in muscle from mdx mice, which harbors a nonsense mutation
+at position 3185 in the dystrophin cDNA (Sicinski et al.,
+1989).
+Possible Explanations
+for DMD and BMD Cases
+with Deletions Transgressing
+the Reading Frame Rule
+The reading frame rule proposed by Monaco et al. (1988)
+was found applicable in 92% of the deletions investigated
+in 258 DMD and BMD cases (Koenig et al., 1989). It was
+also corroborated by studies at the protein level (Hoffman
+et al., 1988). The remaining 8% are in apparent contradiction with the reading frame theory, either because an apparent in-frame deletion results in DMD, or, conversely, because an apparent out-of-frame deletion results in BMD.
+Direct sequence analysis of and around the junction point
+of truncated dystrophin mRNA helped us not only to deter-
+
+mine the authentic reading frame, but also to look for additional alternative splicing patterns, which might explain
+the exceptions to the reading frame theory.
+We thus sequenced the dystrophin transcript across
+the junction point in seven cases with internal deletions of
+the dystrophin gene. In all cases but one, the sequence
+of the single or major transcript corresponded precisely to
+the one deduced from DNA analysis using cDNA probes.
+In the remaining deletion, a DMD patient (patient 1; see
+details in Results), the two exons corresponding
+to the
+junction fragments seen on Southern blots were absent
+from the mature transcript that was in frame. In addition
+to this case, three other cases, one DMD and two BMD,
+represented apparent exceptions to the reading frame
+rule.
+In the in-frame DMD cases the following results were
+obtained: by dystrophin cDNA probing of genomic DNA a
+single deletion could be detected, which was apparently
+in frame (cases 1 and 2); by cDNA PCR amplification
+across the deletion, the expected in-frame truncated transcript was obtained; in both cases the relative amount of
+residual transcript was almost normal; by Western blot no
+truncated dystrophin was detected with polyclonal antibodies directed against nondeleted domains of the protein. We believe that the most likely hypotheses are that
+in these cases, the truncated in-frame transcript is translated into an unstable protein (not detected by Western
+blot analysis), or is not efficiently translated. Whereas in
+one case (patient 1) the size of the deletion was very large,
+removing 43% of the protein, in the other case (patient 2)
+the deletion was much smaller, removing only 11%. This
+indicates that, whatever the mechanism and probably
+within certain limits (such as in-frame deletions 13-60 and
+lo-53 reported by Koenig et al., 1989), the absence of the
+protein is not necessarily correlated to the deletion size.
+This lack of correlation is also suggested by recent reports
+in which a deletion removing 46% (England et al., 1990)
+or 21% (Gospe et al., 1989) of the protein in the repeat region was only responsible for a very mild form of BMD or
+for myalgias, respectively.
+We have found in the literature four other DMD cases
+with an in-frame deletion in the Yregion of the gene (Koenig et al., 1989; den Dunnen et al., 1989). A comparison
+of the extent and site of the deletion present in these cases
+and in our two cases does not readily point to a specific
+common region that would be critical for the protein stability or for the mRNA efficient translation. One may anticipate that the absence of a protein segment comprising the
+distal part of the N-terminal (a-actinin-like) and the beginning of the spectrin-like domain would be critical. However, there are at least two cases reported with a deletion
+in the same region, and which yet give rise to a BMD
+phenotype (Koenig et al., 1989; den Dunnen et al., 1989).
+These differences might be explained by a different impact on the final tertiary structure of the protein, affecting
+ultimately the dimerization
+and network formation that
+have been recently suggested (Koenig and Kunkel, 1990).
+The two BMD exceptions had an out-of-frame deletion
+removing exons 3 to 7 (patients 10 and 11). This deletion
+is the most frequent one in the 5’ region of the gene giving
+
+Cell
+1246
+
+rise to BMD disease (Malhotra et al., 1988). We found in
+both patients a major out-of-frame transcript with the expected truncation, i.8, containing exons 1, 2, and 8. In addition, three minor additional transcripts, resulting from alternative splicing, were also found in the two cases: two
+of them, joining exons 2 and 10 and 1 and 8, respectively,
+restore the reading frame, the third one, less abundant,
+joins exons 1 and 10 and is still out of frame. These results
+suggest that the milder BMD phenotype may be due to
+translation of the minor in-frame transcripts, although they
+approximately represent about 10/o-2% of the major outof-frame species. Noteworthy is the fact that the mature
+dystrophin transcripts were only moderately diminished,
+which indicates that the truncated primary transcript is
+stable, thus enabling the alternatively spliced species to
+be produced at a significant level.
+This quantitative factor may be of paramount importance in the determination of the final phenotype. Indeed
+in these BMD cases, on Western blots, a reduced amount
+of a truncated dystrophin was seen, compatible with the
+size predicted from the alternative splicing pattern. The residual amount of the shortened dystrophin was about
+lo%, which classifies this patient between severe and
+moderate BMD, according to Hoffman’s classification (Hoffman and Kunkel, 1989). The apparent discrepancy between the amount of in-frame transcripts and the amount
+of truncated dystrophin could be due to the mRNA PCR
+procedure. In fact, the partially different composition of the
+two amplified sequences (155 bp corresponding
+to l-2-8
+spliced species and 144 bp correponding to l-2-10 spliced
+species) and the use of different complementary
+primers
+might have resulted in a different yield of amplification
+(Chelly et al., 1990), hampering the comparison of the amplified product amounts.
+As shown in Figure 5, the same alternative transcripts
+were also detected in normal muscle, at a much lower level
+than in muscle from BMD with the 3 to 7 genomic deletion.
+The 2-10 species, for instance, represents about 0.1% to
+0.3% of the normal dystrophin transcript in normal muscle
+(data not shown), i.e, at least 10 times less than what we
+found in the muscle of these patients. The relative increase
+of the in-frame alternatively spliced transcripts in the BMD
+cases may be due to a facilitation of the rare splicing
+events, due to the juxtaposition of exons 2 and 8 on the primary transcript. In fact, as emphasized by Malhotra et al.
+(1988) similar 3 to 7 deletions may produce a variety of
+phenotypes: DMD, BMD, or intermediate forms. We believe
+that this heterogeneity may be explained by differences in
+the amount of in-frame transcripts, due to differential impact of different intronic breakpoints on the stability of the
+primary transcript. To check this hypothesis, we looked for
+the alternatively spliced dystrophin transcript (2-10 species)
+in muscle from three DMD patients (cases 4, 5, and 6)
+whose dystrophin mRNA is normal in the region of exons
+1 to 10. In those patients, the amount of dystrophin transcript is very low (Figure l), and as expected, the minor 2-10
+alternatively spliced species are so scarce that they could
+not be detected after 30 cycles (data not shown).
+In addition, we investigated one DMD patient and one
+BMD patient carrying apparently the same deletion of exon
+
+50. In the DMD muscle sample (case 13) we found a reduced level of the expectedly spliced out&frame
+dystrophin mRNA (4951) but we failed to detect the in-frame 49-52
+minor alternatively spliced species that is found in normal
+muscle (Figure 2a, 30 cycles). In the BMD patient (Lindldf
+et al., 1989) the only material available was fibroblasts.
+Through illegitimate transcription (Chelly et al., 1989) it
+was possible to investigate dystrophin transcripts in these
+cells. Using nested PCR, we found the expected out-offrame 49-51 transcript as a major species, and a minute
+amount of the in-frame alternatively spliced 49-52 transcript (Chelly et al., unpublished data). Altogether these
+results are consistent with the hypothesis that, besides
+their qualitative effect on the reading frame, deletions exert an impact on the phenotype through differential quantitative effects on the dystrophin mRNA.
+The alternative splicing pattern does not occur at random, since in the regions explored (exons 1 to 10, and
+exons 43 to 52) we could not demonstrate any other species than the splicing between exon 2 and exon 8, exon
+2 and exon 10, exon 1 and exon 8, exon 1 and exon 10 in
+the 5’ region, and exon 49 and exon 52 in the more distal
+part of the gene. In their search for normal alternative
+splicing in the dystrophin gene, Feener et al. (1989) did not
+report the minor spliced species that we found in the 5’region. This may be due to differences in experimental
+procedures.
+To explain the out-of-frame BMD exceptions, Malhotra et
+al. (1988) suggested that molecular explanations
+other
+than alternative splicing might also be responsible for
+restoring the reading frame beyond the breakpoint: reinitiation of translation, or usage of a putative promoter
+located in the intron preceding exon 8. The latter hypotheses still remain speculative and await experimental support. The correction of the reading frame by reinitiation of
+translation in exon 8 is not sufficient by itself to explain the
+phenotypic heterogeneity observed for the 3 to 7 deletions, since the mature transcript is expected to be identical in DMD and BMD cases. Moreover, these hypotheses
+would not apply to the more distal out-of-frame milder
+forms, such as the above-mentioned
+BMD case with an
+out-of-frame deletion of exon 50. A definitive answer would
+be provided by comparing the amount of dystrophin transcripts in DMD and BMD patients with a 3 to 7 deletion,
+and also by immunological
+characterization
+of the truncated dystrophin with antibodies precisely directed against
+exon-specific peptides.
+Experimental
+Cllnlcal
+
+Procedures
+
+Classlficatlon
+
+of Patients
+
+and Deletlon
+
+Analysis
+
+The patients were classified as DMD (wheelchair bound before age 12)
+or BMD (wheelchair bound at age 16 or later). In all cases the diagnosis
+was ascertained by serum CPK activity and muscle histological pattern. Deletion breakpoints in the dystrophin gene were mapped relative
+to exons by Southern blot analysis of Hindlll digests of genomic DNA,
+using cDNA probes covering 9 kb of cDNA dystrophin
+(Koenig et al.,
+1989). In some cases, additional studies included EcoRl and Bglll
+maps and DNA amplification
+of specific exons.
+Soume of RNA and RNA Analpls
+Total RNA was extracted from the frozen muscle biopsy specimens.
+Total cellular RNA was purified by the method of Chirgwin et al. (1979)
+
+Dystrophin
+1247
+
+mRNA
+
+in Duchenne
+
+and Becker
+
+Dystrophies
+
+and was checked by agarose gel electrophoresis
+followed by ethidium
+bromide staining. The exogenous
+RNA added for coamplification
+was
+rat liver ANA. Oiigonucleotide
+primers were synthetized
+according to
+the dystrophin sequence published by Koenig et al. (1988). Nucleotide
+sequence of primers complementary(c)
+and identical (i) to mRNA sequence are indicated in figures and legends.
+Coamplification
+of several fragments
+of the dystrophin
+transcript
+was performed
+as described
+in detail in Chelly et al. (1990). To 1-5 ug
+of total RNA under investigation,
+an exogenous
+sample of reference
+RNA (0.2 ug of total rat liver RNA) was added as a source of internal
+standard mRNA (L-PK). cDNA was synthetized
+by simultaneous
+extension of different dystrophin-specific
+primers (lOc, 44c, and 62~) and
+L-PK-specific
+primers (Chelly et al.. 1989). In some cases the cDNA
+was synthesized
+by random priming using hexanucleotide
+primers as
+a template to the reverse transcriptase
+enzyme (MMLV; Bethesda Research Laboratories).
+After this first step, coamplification
+was carried
+out with three couples of primers corresponding
+to the dystrophin transcript (see Figure 1); L-PK primers were included in each vial for coamplification. After 15 cycles, half of the sample volume was removed
+from each vial and the remainder was submitted to 15 further cycles
+of amplification.
+Reaction products (after 15 cycles) were subjected to
+acrylamide
+gel electrophoresis,
+transferred
+to nylon membrane,
+and
+hybridized
+to labeled internal oligoprobes
+or cDNA probes (see
+figures). Relative quantitation
+was achieved by densitometry
+of autoradiograms
+exposed for variable times, using L-PK signal as a standard (Chelly et al., 1989).
+Truncated
+transcripts
+of the dystrophin
+gene from DMD and BMD
+patients were amplified by PCR using primers flanking the junction
+point. With muscle RNA, 30 to 35 cycles of PCR amplification
+were carried out to obtain sufficient
+material. The amplified fragments
+were
+separated
+by electrophoresis
+in a low-melting
+agarose
+gel (4%
+Nusieve, FMC) or in an acrylamide
+gel (8% [w/v]). Gels were stained
+with ethidium bromide, and the specific fragments that had been previously attested by specific hybridization
+and restriction
+map analysis
+were cut out, purified, phosphorylated,
+and ligated into Smal-digested
+Ml3 mpl0 vector. Single-strand
+Ml3 DNA from recombinant
+clones
+was sequenced
+by the P-dideoxy method using [%]dATP
+and T7
+DNA polymerase
+(Sequenase,
+US Biochemical
+Corp.). In each case,
+at least three independent
+clones were sequenced.
+Dystrophin
+Analysis
+lmmunoblot analysis of total muscle extracts was performed
+using purified antibodies as described
+by Hoffman and Kunkel (1989) raised
+in sheep against fusion proteins: the mouse 60 kd peptide corresponds
+to amino acids 407-813 (nucleotides
+1424-2647)
+(Hoffman
+et al.,
+1987); the human 30 kd peptide corresponds
+to amino acids 1181-1388
+(nucleotides
+3845-4372)
+(Hoffman et al., 1987); the human DlO peptide corresponds
+to amino acids 2897-3193
+(nucleotides
+90809791)
+(Koenig and Kunkel, 1990); the human P20 peptide corresponds
+to
+amino acids 1750-2248
+(nucleotides
+5826-7l41;
+I. B. Ginjaar et al.,
+submitted).
+Indirect immunodetection
+was performed on 5 pm transverse
+frozen
+cryostat sections
+using the 60 kd polyclonal antibodies and fluorescein-labeled
+rabbit anti-sheep
+IgG.
+Acknowledgments
+This work was supported
+in part by the Association
+Francaise contre
+les Myopathies
+(AFM). We are greatly indebted to L. Kunkel and E.
+Hoffman, who generously
+provided the anti-dystrophin
+antibodies. We
+are grateful to A. Beggs, S. Thibodeau,
+E. Bakker, and G. J. van Ommen for their effort to find a precise deletion in some BMD cases. We
+are particularly
+grateful to Dr. F. Serville and Dr. M. Legrand for facilitating access to their patients. We also thank J. P. Concordet
+for critical
+reading of the manuscript
+and F. Leturcq, N. Deburgrave,
+and H. Collin
+for their technical help.
+The costs of publication of this article were defrayed in part by the
+payment
+of page charges.
+This article must therefore
+be hereby
+marked Wvertisemenf”
+in accordance
+with 18 USC Section 1734
+solely to indicate this fact.
+Received
+
+April 30, 1990; revised
+
+July 9, 1990.
+
+References
+Baserga, S. J., and Benz, E. J. (1988). Nonsense
+mutations in the human j%globin gene affect mRNA metabolism.
+Proc. Natl. Acad. Sci.
+USA 85, 2056-2060.
+Chamberlain,
+S. C., Pearlman,
+J. A.,
+Ranier, J. E., Reeves, A. A., and Caskey,
+murine Duchenne
+muscular
+dystrophy
+Science 239, 1416-1418.
+
+Muzny, D. M., Gibbs,
+C. T. (1988). Expression
+gene in muscle and
+
+R. A.,
+of the
+brain.
+
+Chelly, J., Kaplan, J. C., Maire, P., Gautron, S., and Kahn, A. (1988).
+Transcription
+of the dystrophin gene in human muscle and non-muscle
+tissues. Nature 333, 858-860.
+Chelly, J., Concordet, J., Kaplan, J. C., and Kahn, A. (1989). Illegitimate
+transcription:
+transcription
+of any gene in any cell type. Proc. Natl.
+Acad. Sci. USA 86, 2617-2621.
+Chelly, J.. Montarras,
+D., Pinset, C., Berwald-Netter,
+Y., Kaplan, J. C.,
+and Kahn, A. (1990). Quantitative
+estimation
+of minor mRNAs by
+cDNA-polymerase
+chain reaction. Application to dystrophin
+mRNA in
+cultured myogenic and brain cells. Eur. J. Biochem. 18): 891-698.
+Chirgwin, J., Przybyla, A., MacDonald,
+R., and Rutter, W. (1979). Isolation of biologically
+active ribonucleic
+acid from sources enriched
+in
+ribonuclease.
+Biochemistry
+18, 5294-5299.
+den Dunnen, J., Grootscholten,
+P, Bakker, E., Blonden, L., Ginjaar, H.,
+Wapenaar,
+M.. Van Paassen, H.. Van Broeckhoven.
+C., Pearson, P.,
+and Van Ommen, G. J. 8. (1989). Topography of the Duchenne muscular dystrophy
+(DMD) gene: FIGE and cDNA analysis of 194 cases reveal 115 deletions
+and 13 duplications.
+Am. J. Hum. Genet. 45,
+835-847.
+England, S., Nicholson,
+L., Johnson,
+M., Forrest, S., Love, D., Zubrycka-Gaarn,
+E., Bulman, D.. Harris, J., and Davies, K. (1990). Very
+mild muscular dystrophy associated
+with the deletion of 46% of dystrophin. Nature 343, 180-182.
+Feener, C., Koenig, M., and Kunkel, L. M. (1989). Alternative splicing
+of human dystrophin
+mRNA generates isoforms at the carboxy terminus. Nature 338, 509-511.
+Gilgenkrantz.
+H., Chelly, J., Lambert, M., R&an, D., Barbot, J. C., Van
+Ommen, G. J. B., and Kaplan, J. C. (1989). Analysis of molecular deletions with cDNA probes in patients with Duchenne and Becker muscular dystrophies.
+Genomics
+5, 574-580.
+Gospe, S. J., Lazaro, R., Lava, N.. Grootscholten,
+B., Scott, M., and
+Fischbeck,
+K. (1989). Familial X-linked myalgia and cramps: a nonprogressive
+myopathy
+associated
+with a deletion in the dystrophin
+gene. Neurology 39, 1277-1280.
+Hoffman, E. P., and Kunkel,
+DuchennelBecker
+muscular
+
+L. M. (1989). Dystrophin
+abnormalities
+dystrophy.
+Neuron 2, 1019-1029.
+
+Hoffman, E. P., Brown, R. H., Jr., and Kunkel,
+the protein product of the Duchenne muscular
+919-928.
+
+in
+
+L. M. (1987). Dystrophin:
+dystrophy
+locus. Cell 51,
+
+Hoffman, E. f?. Fischbeck,
+K. H., Brown, R. H., Johnson, M., Medori,
+R., Loike, J. D., Harris, J. B, Waterston,
+R., Brooke, M., Specht, L.,
+Kupsky, W., Chamberlain,
+J., Caskey, T., Shapiro, F., and Kunkel, L. M.
+(1988). Characterization
+of dystrophin
+in muscle-biopsy
+specimens
+from patients with Duchenne’s
+or Becker’s muscular
+dystrophy.
+N.
+Engl. J. Med. 378, 1363-1368.
+Humphries,
+B.. Ley, T., Anagnou, N., Baur, A., and Nienhuis, A. (1984).
+PO-39 thalassemia gene: a premature termination codon causes &RNA
+deficiency
+without affecting cytoplasmic
+j3-mRNA stability. Blood 64,
+23-32.
+Koenig, M., and Kunkel, L. M. (1990). Detailed analysis of the repeat
+domain of dystrophin
+reveals four potential hinge segments that may
+confer flexibility. J. Biol. Chem. 265, 4560-4566.
+Koenig, M., Monaco,
+quence of dystrophin
+53. 219-228.
+
+A. P., and Kunkel, L. M. (1988). The complete sepredicts a rod-shaped
+cytoskeletal
+protein. Cell
+
+Koenig, M., Beggs, A. H., Moyer, M., Scherpf, S., Heindrichs,
+K., Bettecken, T, Meng, G., Miiller, C. R., Lindlbf, M., Kaariainen,
+H., de la
+Chapelle, A., Kiuru, A., Savontaus, M. L., Gilgenkrantz,
+H.. R&an, D..
+Chelly, J., Kaplan, J. C., Covone, A., Archidiacono,
+N., Romeo, G.,
+Liechti-Gallati,
+S., Schneider,
+V, Braga, S., Moser, H., Darras, B. T,
+
+Cell
+1248
+
+Murphy, P, Francke, U., Chen, J. D., Morgan, G., Demon, M., Greenberg, C. Ft., Wrogemann,
+K., Blonden, L. A. J., van Paassen, H. M. B.,
+van Ommen, G. J. B., and Kunkel, L. M. (1989). The molecular basis
+for Duchenne
+versus Becker muscular
+dystrophy:
+correlation
+of severity with type of deletion. Am. J. Hum. Genet. 45, 498-506.
+Lindlbf, M., Kiuru, A., K&Briainen, H., Kalimo, H., Lang, H., Pihko, H.,
+Rapola, J., Somer, H.. Somer, M., Savontaus, M., and de la Chapelle,
+A. (1989). Gene deletions in X-linked muscular dystrophy. Am. J. Hum.
+Genet. 44, 496-503.
+Malhotra, S., Hart, K., Klamut. H.. Thomas, N., Bodrug, S., Burghes,
+A., Bobrow, M., Harper, I?, Thompson,
+M., Ray, P., and Worton, R.
+(1988). Frame-shift
+deletions in patients with Duchenne
+and Becker
+muscular dystrophy.
+Science 242, 755-759.
+Monaco, A., and Kunkel,
+Becker muscular dystrophy
+
+L. M. (1988). Cloning of the Duchennelocus. Adv. Hum. Genet. 77, 61-98.
+
+Monaco, A., Bertelson, C., Liechti-Gallati,
+S. H. M.. and Kunkel, L. M.
+(1988). An explanation for the phenotypic differences
+between patients
+bearing partial deletions of the DMD locus. Genomics
+2. 90-95.
+Muntoni. F., and Strong, P. (1989). Transcription
+of the dystrophin gene
+in Duchenne
+muscular dystrophy
+muscle. FEBS Lett. 252, 95-98.
+Oronzi-Scott,
+M., Sylvester, J., Heiman-Paterson,
+T., Shi, Y., Fieles, W.,
+Stedman,
+H., Burghes,
+A., Ray, P., Worton,
+Ft., and Fischbeck.
+K.
+(1988). Duchenne muscular dystrophy gene expression
+in normal and
+diseased human muscle. Science 239, 1418-1420.
+Sicinski, f?, Geng, Y., Ryder-Cook,
+A., Barnard, E., Darlinson, M., and
+Barnard, P (1989). The molecular basis of muscular dystrophy
+in the
+mdx mouse: a point mutation. Science 244, 1578-1580.
+Takeshita,
+tranuclear
+translation
+
+K., Forget, B., Scarpa, A., and Benz, E., Jr. (1984). Indefect in 8-globin mRNA accumulation
+due to a premature
+termination
+codon. Blood 64, 13-22.
+
+Worton, R., and Thompson,
+M. (1988). Genetics
+lar dystrophy.
+Annu. Rev. Genet. 22, 601-629.
+
+of Duchenne
+
+muscu-
+
+

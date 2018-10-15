@@ -1,0 +1,1298 @@
+HUMAN MUTATlON 6104-115 (1995)
+
+RESEARCH ARTICLE
+
+Mutational Analysis of Patients With
+XILinked Adrenoleukodystrophy
+Fernando Kok, Sylvia Neumann, Claude-Olivier Sarde, Siqun Zheng, Kuei-Hua Wu, He-Ming Wei,
+James Bergin, Paul A. Watkins, Stephen Gould, George Sack, Hugo Moser, Jean-Louis Mandel, and
+Kirby D. Smith'
+Kennedy Krieger Institute and Depwtments of Pediatrics, Medmne, Neurology and Bwbgrd Chemistry, The Johns Hopkins
+University School of Medicine, Baltimore, Maryland 2 1205 (F.K., S.N.,S.Z., K.-H. W., H. -M. W., I. B., P. A. W., S.G.,
+G.S., H. M.,K. D. S.); Laborntoire de Gedtique Molecuke des Eucaryotes, Unite de I'INSERM, Facult6 de Medicine et
+CHRU, Strashurg, Cedex 67085 France (C.-0.S., J. -L.M. ); Far: 410-550-9806
+Communicated by David L Val&
+
+Adrenoleukodystrophy (ALD) is an X-linked neurodegenerative disorder characterized by elevated
+very long chain fatty acid (VLCFA) levels, reduced activity of peroxisomal VLCFA-CoA ligase, and
+variable phenotypic expression. A putative gene for ALD was recently identified and surprisingly
+encodes a protein (ALDP) that belongs to a family of transmembrane transporters regulated or activated by ATP (the ABC proteins). We have examined genomic DNA from ALD probands for mutations in the putative ALD gene. We detected large deletions of the carboxyl-terminal portion of the
+gene in 4 of 112 probands. Twenty-five of the ALD probands whose ALD genes appeared normal by
+Southern blot analysis were surveyed for mutations by Single Strand Conformation Polymorphism
+(SSCP) procedures and DNA sequence analysis. SSCP variants were detected in 22 probands and none
+in 60 X-chromosomes from normal individuals. Mutations were detected in all of the ALD probands.
+The mutations were distributed throughout the gene and did not correlate with phenotype. Approximately half were non-recurrent missense mutations of which 64% occurred in CpG dmucleotides.
+There was a cluster of frameshift mutations in a small region of exon 5 , including an identical AG
+deletion in 7 unrelated probands. These data strongly support the supposition that mutations in the
+Q 1995 Wiey-Liss. Inc.
+putative ALD gene result in ALD.
+KEY WORDS: Adrenoleukodystrophy,
+
+ALD, Mutation detection, SSSCP, lmmunofluorescence
+
+INTRODUCTION
+
+X-linked adrenoleukodystrophy (ALD) is a neurodegenerative disorder that involves mainly the
+adrenal cortex, nervous system white matter and
+testis (Moser et al., 1994). The principal biochemical abnormality is the accumulation of saturated
+very long chain fatty acids (VLCFA), particularly
+hexacosanoic acid, C26:O (Igarashi et al., 1976).
+This accumulation is primarily the result of their
+impaired degradation in peroxisomes due to reduced activity of the peroxisomal VLCFA Coenzyme A synthetase (VLCS) (Lazo et al., 1989;
+Wanders, et al., 1988). The ALD gene was
+mapped to Xq28 in 1981 (Migeon et al., 1981) and
+a candidate gene was isolated by positional cloning
+in 1993 (Mosser et al., 1993). Surprisingly, the
+deduced amino acid sequence of the protein
+(ALDP) corresponding to the ALD gene suggests
+8 1995 WILEY-USS, MC.
+
+that it is not the VLCS itself, but rather is a member of a super-family of transmembrane transporters, the ATP binding cassette ( A X ) proteins
+(Hyde et al., 1990) or traffic ATPases (Mimura et
+al., 1991).
+The ABC transporter super-family includes
+more than 30 known proteins that share significant
+sequence homology and have a similar overall
+structure (Higgins et al., 1988). All members of
+the ABC family whose function is known are
+transmembrane channel proteins that participate
+in the transport of ligands ranging from ions to
+
+Received October 7. 1994,accepted March 14, 1995.
+*To whom reprint requestdcorrespondence should be addressed.
+
+ADRENOLEUKODYSTROPHY GENE
+
+proteins. The striking sequence similarity among
+ABC proteins suggests that they are likely to have
+common mechanistic features. The best studied
+eukaryotic ABC proteins are the mammalian
+P-glycoprotein (multiple drug resistance, MDR
+(Chen e t al., 1986), the cystic fibrosis transmembrane conductance regulator (CFTR) (Riordan e t
+al., 1989), and the product of the yeast STE6 gene
+(Kuchler et al., 1989; McGrath et al., 1989).
+These molecules are comprised of two homologous
+halves, each with six predicted membrane spanning regions and a putative nucleotide binding fold
+(NBF). Two highly conserved sequences (Walker
+A and B) have been identified at the borders of
+each NBF (Walker et al., 1982). Certain ABC
+proteins, including the bacterial hemolysin transporter, HlyB (Felmlee e t al., 1985; Mackman et
+al., 1986) and the human 70Kd peroxisomal protein, PMP70, (Gartner et al., 1992) are “halftransporter” versions with a single set of six transmembrane regions and a single NBF domain. In
+other ABC transporters, including the bacterial
+nutrient permeases, the membrane spanning regions and the NBF domains are on separate polypeptides (Ames et al., 1986; Hyde et al., 1990).
+ALDP is a “half-transporter” with striking sequence similarity to PMP7O (Mosser et al., 1993).
+The gene, comprised of 10 exons, spans approximately 21 Kb of genomic sequence and encodes a
+predicted mRNA with an open reading frame of
+2,235 bases encoding a protein of 745 amino acids
+(Sarde et al., 1994). This gene was initially suggested as a candidate for ALD on the bases of its map
+position within Xq28, its sequence similarity with
+PMP70 and the occurrence of large deletions in 7%
+of the initial population of ALD patients screened
+(Mosser et al., 1993). Subsequently, mutations in
+the ALD gene have been described in individual
+ALD patients (Uchiyama et al., 1994; Cartier et
+al., 1993; Contreras et al., 1994; Fanen et al.,
+1994) and immunocytochemical analysis demonstrated that ALDP is indeed associated with the
+peroxisomal membrane (Mosser et al., 1994). In
+this paper we examine 112 unrelated ALD patients
+for large deletions and systematically determine the
+mutations in 25 unrelated ALD probands whose
+ALD genes lack gross alterations. The identification of mutations in 24 of these patients provides
+additional evidence linking this gene with ALD.
+MATERIALS AND METHODS
+Patients
+The subjects included in this study were selected
+from more than 1200 patients with X-linked ALD
+
+105
+
+who have been diagnosed at the Kennedy Krieger
+Institute as part of a national screening program.
+Diagnosis was based on clinical criteria (Moser et
+al., 1994) and the demonstration of abnormally
+increased levels of VLCFA in plasma or cultured
+skin fibroblasts (Moser et al., 1991; Moser et al.,
+1981). Patients were classified as cerebral ALD
+(CER: including childhood, adolescent and adult
+forms), adrenomyeloneuropathy (AMN: including
+cases with subsequent cerebral involvement) and
+Addison’s only (ADD) (Moser et al., 1994; Moser
+et al., 1992; Moser et al., 1989).
+We initially screened 112 unrelated patients
+and 40 normal individuals for major deletions and
+insertions in the ALD gene. Subsequently, 25 apparently intact ALD genes, as judged by Southern
+blot analysis, were subjected to detailed mutational
+analysis. Table 2 lists their age, ethnic background, phenotype, and kindred phenotypes.
+Isolation of Nucleic Acids
+Genomic DNA from whole blood, EBV transformed lymphoblasts or fibroblasts and plasmid
+DNA from recombinant clones containing partial
+cDNAs of ALDP, Ex13 and Ex3 (Mosser et al.,
+1993), and the recombinant clone for the microsatellite locus, DXS52, at Xq28 (St14) were isolated by standard procedures (Sambrook et al.,
+
+1989).
+Southern Blot Analysis
+Genomic DNA was digested with restriction enzymes EcoRI, Hind111 or BamHI according to the
+conditions described by the supplier (Gibco-BRL:
+Gaithersburg, MD) with addition of BSA and spermidine to final concentrations of 100 Fgiml and 4
+mM, respectively. The resulting DNA fragments
+were separated by agarose gel electrophoresis,
+transferred to nylon membranes (Genescreen
+Plus, DuPont: Wilmington, DE) in 0.4M NaOH
+and probed with partial cDNA clones Ex13 and
+Ex3 (Mosser et al., 1993). The probes were labeled
+by random primer extension using [321‘]-dCTP
+(Feinberg and Vogelstein, 1984) to a specific activity of 2-3 x lo8 c p d p g . Filter hybridization
+and washing followed the manufacturers’ suggestions. When necessary to reduce filter background
+or the presence of cross reacting DNA fragments
+the filters were subjected to two washes in 0.1 x
+SSC, 1% SDS at 65°C for 30 min each. The filters
+were exposed to Kodak X-Omat film with intensifying screens at -80°C for one to six days. When
+a change in a restriction fragment was observed
+indicating a deletion, additional hybridizations
+
+106
+
+KOKETAL.
+
+were performed using probes specific for each
+exon.
+PCR
+Primers used for amplifying genomic ALD sequences were designed according to the genomic
+sequence of the ALD gene (Sarde et al., 1994).
+They are listed in Table 1 together with the size of
+the amplified fragment. The regions amplified by
+this set of primers included the presumptive promoter region, extending 657 BP 5' to the ATG
+initiation codon, all 10 exons and flanking intronic sequences, including the splicing branch
+point and 100-150 BP of the untranslated 3' sequence. PCR amplifications were performed in an
+Ericomp programmable thermal cycler in a volume
+of 50 p1 using Ampliwax (Perkin-Elmer Cetus:
+Foster City, C A ) in order to achieve a hot start.
+Except where noted, 100 ng of genomic DNA was
+amplified with the concentration of each primer at
+500 nM and each deoxynucleotide at 0.5 mM.
+The promoter region and exon 1 of the ALd
+gene have a very high GC content and amplify
+poorly with Taq polymerase. T h e promoter fragments were amplified in reaction mixtures that
+consisted of 2 mM MgCl,, 0.1 mM 7deaza2'GTP,
+0.1 mM dGTP, 0.2 mM dATP, dCTP, TTP,
+0.1% gelatin, 1% DMSO, and 2.5 U of the Stoffel
+fragment of DNA polymerase (Perkin-Elmer Cetus: Foster City, CA). The PCR thermal cycle was:
+initial denaturation at 95°C for 1 min; 30 cycles of
+95°C for 30 sec, 63°C for 40 sec and 72°C for 2 min
+with a final extension at 72°C for 7 min.
+Exon 1 is approximately 1.5 kb in length and
+was amplified in 7 overlapping segments in order to
+generate fragments appropriate for mutational
+analysis. The reaction mixture was 2.5 mM
+MgCl,, 20% sucrose and 2.5 units of the Stoffel
+fragment of DNA polymerase. For thermal cycling
+the template was first denatured at 95°C fr 3 min
+followed by repeated denaturation at 94" for 1 min,
+annealing at 68" for 1 min and extension at 72" for
+2 min with a final extension at 72" for 7 min.
+To improve the yield of this amplification the initial amplification of 35 cycles was followed by a
+16 cycle second amplification with a nested
+primer.
+Exons 2 through 6 were amplified in a reaction
+mixture containing 1.25 units of recombinant Taq
+polymerase (Perkin-Elmer Cetus: Foster City, C A )
+and a final concentration of 1.5 mM MgC1,. Following an initial denaturation at 94°C for 3 min,
+thermal cycling was for 28 cycles with denaturation at 94°C for 1 min, annealing at 60°C (exons
+
+2,4,6) or 65°C (exons 3,5) for 1 min, extension at
+72" for 2 min with a final extension for 7 min.
+All primers designed for examining exons 7
+through 10, both intronic and exonic, amplified a
+set of autosomal sequences as well as those from
+the ALD gene on the X chromosome. Thus, the
+first step in the analysis of exons 7-10 was the
+generation of an X-specific 4 Kb fragment that extended from the X-specific 5' primer of exon 6 to
+a 3' primer in exon 10. This long range PCR was
+accomplished using 1 pM of each primer, 1 mM of
+each deoxynucleotide, 2.4 mM Mg(OAc),, 20
+mM Tricine (pH 8.7), 80 mM KOAc, 1% DMSO,
+10% glycerol and 2.5 units of T t h DNA polymerase (Perkin-Elmer Cetus: Foster City, CA) plus
+0.025 units of Vent polymerase (New England Biolabs: Beverly, MA). Thermal cycling was: initial
+denaturation at 94°C for 20 sec then 35 cycles of
+denaturation at 95°C for 10 sec, annealing at 63°C
+for 1 min, extension at 72°C for 5 min and a final
+extension at 72°C for 15 min. Nested PCR reactions were performed with intronic primers specific
+for each of the exons using 0.5 p1 of the initial
+PCR product and the same conditions established
+for exon 2 with the number of cycles reduced to
+
+18.
+Single-Strand Conformation Polymorphism
+(SSCP) Analysis
+This analysis was modified from the procedure
+described by Orita et al. (Orita e t al., 1989a; Orita
+e t al., 1989b). In brief, 5 to 10 p1 of alkali denatured PCR product was loaded onto a 16 x 20 cm
+gel containing 0.75 X MDE (AT Biochem: Malvern, PA) prepared in 1X TBE according to the
+manufacturers' instructions. Samples were fractionated using a vertical gel electrophoresis system
+(Gibco-BRL: Gaithersburg, MD) at both 4" and
+22°C. Gels were stained with silver nitrate (Bassam e t al., 1991) and analyzed for migrational conformers. The migration patterns obtained with patient DNA were always compared with the
+patterns achieved with DNA from normal individuals and with DNA from a somatic hybrid cell,
+AHA 1l a , in which the only human chromosome
+is the X, to confirm that the fragments were from
+the X-chromosome.
+DNA Sequence Analysis
+Variant SSCP migration confomers were sequenced in both directions using a dsDNA cycle
+sequencing system (Gibco-BRL: Gaithersburg,
+MD), with one labeled primer. The resulting sequence was compared with the sequence obtained
+
+ADRENOLEUKODYSTROPHY GENE
+
+with DNA from a normal individual and to the
+published cDNA sequence (Mosser et al., 1993).
+Possible mutations were confirmed by analysis of a
+second independent PCR reaction, either by sequence determination or by restriction endonuclease analysis when the putative mutation altered
+a restriction site. In patients where no SSCP migration variant was detected the entire gene was
+sequenced.
+
+DXS52 (St14) Genotype Analysis
+
+To establish that certain X-chromosomes with
+the same mutation had separate origins, alleles at
+the highly variable DXS52 locus were determined.
+This locus is a mini-satellite that is closely linked
+to the ALD locus and is frequently used for pedigree analysis of ALD (Aubourg e t al., 1978).
+Southern blots of genomic DNA digested with Taq
+I were hybridized with a recombinant probe, St14,
+for the locus. St14 was provided by J. Nathans.
+Hybridization was as described above.
+Antibodies
+
+A synthetic peptide was generated that corresponds to the predicted amino acid residues 728745 in ALDP. This region was chosen because it
+was predicted to have a high probability of surface
+exposure, high antigenicity (MacVector, IBI: New
+Haven, CT) and no similarity with PMP70. The
+synthetic peptide was coupled to bovine serum albumin with the bifunctional cross-linking agent
+Bis[sulfosuccinimidyl]suberate (BS3; Pierce). Antiserum was raised in rabbits at Cocalico Biologicals, Inc. (Reamstown, PA). Antiserum to this
+peptide was used in immunofluorescence experiments on human primary fibroblasts. Cells were
+fixed, permeabilized with Triton X-100 and incubated for 1 hour with the anti-peptide antiserum
+and then with FITC-conjugated anti-rabbit antibody (Jackson Immuno Research: Westgrove, PA)
+(Harlow and Lane, 1988); the cells were examined
+by Fluorescence microscopy using Leitz Aristoplan
+Microscope.
+For double-label immuno-f luorescence studies,
+anti-human catalase antibody raised in sheep (Jackson Immuno Research) was included with the antiALDP peptide antiserum and was detected with
+LRSC-conjugated anti-sheep IgG antibody (Jackson Immuno Research).
+
+RESULTS
+Southern Blot Analysis
+
+To detect major changes in the genomic structure of the ALD gene, we studied DNA from 112
+unrelated ALD patients and 60 X-chromosomes
+
+107
+
+from normal individuals. EcoRI, Hind111 and
+BamHI digests of genomic DNA were probed with
+partial ALDP cDNA clones (Ex13 and Ex3) that
+together span exons 2 through 9 (Mosser et al.,
+1993). Both of these probes detect several DNA
+fragments in each digest, only some of which are
+from the X-linked ALD locus. The cross reacting
+fragments remained after stringent washing of the
+filters. The identity of the X-chromosome fragments was determined by comparison to the pattern of hybridizing bands obtained with DNA from
+a somatic hybrid cell line (AHA1l a ) in which the
+only human chromosome is the X. N o restriction
+fragment size changes were observed in the controls. In four patients (41112 = 3.6%) deletions
+affecting the 3’ region of the gene were observed.
+The deletions are diagrammed in Fig. 1. Their
+clinical and pedigree information is included in
+Table 2. The 3’ end of the deletion was beyond the
+end of the gene in each case and was not determined. No deletions altering exons 1 or 2, that
+code for the putative transmembrane segments of
+ALDP, were detected. The presence and absence
+of the exons indicated in Figure 1 were confirmed
+by hybridization with PCR probes specific for each
+exon. The frequency and pattern of deletions in
+this population of patients are similar to those described in the initial population examined (Mosser
+et al., 1993).
+
+SSCP Analysis
+A detailed mutational analysis was undertaken
+in 25 of the 108 unrelated probands that had intact
+ALD genes by Southern blot analysis. The remaining probands from the original group of 112 have
+not yet been examined. Clinical and pedigree information on these individuals is included in Table
+2 together with results of the mutation study. One
+patient was adopted. Seven of the others were the
+only known affected individuals in their kindred.
+These included all three ALD phenotypes. Patient
+23 had a new mutation since the mutation was not
+present in his mother. The remaining patients
+were members of kindreds with multiple affected
+individuals. In three instances all had AMN but
+the other kindreds had a mixture of phenotypes
+(see Table 2). The plasma levels of VLCFA
+((2260) are not correlated with either the ALD
+phenotype or the type or position of the mutation.
+In order to minimize the amount of DNA sequencing required to identify mutations, all patient DNA was initially examined by SSCP analysis of ALD specific PCR fragments to determine
+the approximate location of possible mutations.
+
+108
+
+KOKETAL.
+ALDP DELETIONS
+
+ATG
+
+TGA
+
+The depicted deletions were determined from
+Southern blot analysis of genomic DNA from ALD patients
+probed with ALDP cDNA. The approximate position of the
+deletion within the ALD gene was based on the restriction
+
+FIGURE 1.
+
+TABLE 1. PCR
+
+Exon
+Promoter 1
+Promoter 2
+la
+1Pl
+lP2
+1Yl
+lY2
+161
+2
+
+3
+4
+5
+6
+7
+8
+9
+10A
+10b
+1oc
+
+map of Sarde et al. (1994). The 3' end of the deletion was not
+determined. In descending order, the indicated deletions are
+from patients 26,27,29 and 28 (see Table 2).
+
+Primers
+
+Forward
+
+Reverse
+
+Size (BP)
+
+TTTGTCGGGCCGGCGAGGGCC
+AGCAACCGAACTCTCCCACAG
+TGGAGGAGTCACTGTCGCTT
+TCAGAGCAACAATCCTTCCAG
+ATGGAGCCCACAAAGTCTACC
+GCCCTGCACTCGGCCGCCTTG
+AACTGGCCCTGTCGTTCCGCA
+TGACTTCCTACACCCTGCTTC
+ATCGTAACCTCTGGCTCTCG
+ATTTGCAGAAGAGCCTCGCC
+ACCCTTGCCATCCTTGCCAT
+CTGGCATGCTGCCAGGGAT
+TCAAGAATGGCCTGCGTGCTG
+GGACACTGCCTGGGAGGCGCA
+CAGACAAGGACGCAGAGGCACAG
+TGCACAGACTCTCCTCTCG
+GCAGGCGGCTGTCATCAGCAGC
+ATCACATGAAGGAGACAGCA
+ATGATTCCCTCCTCGTCAGT
+
+CGTCCGCTCCGCAGCCTGGCT
+ACGGCCGCGCGGACTAGAGAA
+CTGGGGCAGCAGTTGAGGCA
+CAGGCACTGGCGCACCAAG
+CACATACACCGACAGGAAGGT
+TAGGCGTGGGCCACCAGACG
+GCTGTGCCGGCTCCACGGGA
+TGTCCACACCTTTGGCATCA
+TCTTGGAGCCCTGGGTCTCAC
+TGCCAGTTGCAGGGAG AGAA
+GGTCAGCACCTGCAGCAGCA
+GCTTGCATATGTGCGTGGCT
+GAGGCGCACGGGCTTCCTTAC
+TGCCAGCCCCAGGCCTCCTAC
+AGCTGCTACTTCCCCTTCCA
+TGATGACAGCCGCCTGCTG
+GGGACGGTTGTGTCAGGTGGAGGC
+ATG GACCATGGGGTCTTTGA
+GCTACGAATAGGGAATCCAAT
+
+285
+278
+380
+206
+254
+229
+252
+353
+246
+314
+298
+257
+285
+248
+272
+255
+320
+293
+261
+
+PCR amplification of promoter sequences and exons 1 through 6 from genomic DNA generated
+single X-specific products. PCR amplification of
+exons 7-10 individually from genomic DNA, using
+either exonic or intronic primers, gave single
+bands of the expected sizes when assayed by agarose gel electrophoresis. However, when these PCR
+products were assayed by SSCP several bands were
+observed suggesting that both exonic and intronic
+primers were amplifying autosomal sequences in
+addition to those of the X-linked ALD gene. This
+was confirmed by SSCP analysis of exons 7
+through 10 amplified from AHAl l a where a single
+pair of bands from the X-chromosome was detected
+(Fig. 2). Thus, the apparent single PCR fragment
+generated from genomic DNA is a mixture of frag-
+
+ments from several chromosomes. There is remarkable sequence identity (>97%) among the X-chromosome and autosomal sequences (data not
+shown). In order to detect mutations in this region
+of the ALD gene, we first amplified a 4Kb X-specific PCR fragment using an X-specific primer in
+exon 6 and a reverse primer in exon 10. Nested
+primers specific for each exon were then used to
+amplify PCR fragments for SSCP analysis and subsequent DNA sequencing if appropriate. These
+nested PCR products for exons 7 through 10 were
+X-specific as judged by comparison with results obtained with DNA from AHAl la. A comparison of
+the SSCP patterns obtained by direct and nested
+PCR amplification of exon 7 is shown in Figure 2.
+No SSCP migration variants were observed with
+
+109
+
+ADRENOLEUKODYSTROPHY GENE
+TABLE 2.
+
+Pat. no.
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+
+Mutation
+
+Predicted
+Consequence
+
+310 C + T
+R104C
+A141T
+421 G -+ A
+R152C
+454C-T
+R182P
+545 G + C
+692 G -+ C
+693-4 del GG
+Frameshift at AA 231
+829 G + T
+G277W
+1166 G -+ A
+R389H
+Spl mutation at AA 408
+1224 G -+ A
+Q466 stop
+1389 C -+ T
+1411 ins A
+Frameshift at AA 470
+1412-3 del AA Frameshift at AA 470
+1415-6 del AG Frameshift at AA 472
+1415-6 del AG Frameshift at AA 472
+1415-6 del AG Frameshift at AA 472
+1415-6 del AG Frameshift at AA 472
+1415-6 del AG Frameshift at AA 472
+1415-6 del AG Frameshift at AA 472
+1415-6 del AG Frameshift at AA 472
+1534 G A
+G512S
+M566K
+1698 T -+ A
+S606L
+1817 C -+ T
+L516L
+1548 G -+ A
+R617H
+1850 G -+ A
+R660W
+1978 C + T
+Exons 3-10
+Exons 7-10
+Exons 8-10
+Exons 7-10
+
+?
+?
+
+3' deletion
+3' deletion
+3' deletion
+3' deletion
+
+ALD Mutations
+
+Onset
+Age
+
+Ethnic
+Group
+
+Phenotype
+
+33
+5
+8
+7
+
+Anglos
+Scott
+Anglos
+Anglos
+
+AMN a
+CER~
+Cer
+Add'
+
+11
+36
+51
+37
+28
+9
+23
+11
+8
+40
+22
+4
+5
+8
+31
+10
+
+Jewish
+Irish
+Italian
+Filipino
+Anglos
+Hispanic
+Anglos
+Anglos
+Anglos
+Italian
+German
+Anglos
+black
+Anglos
+Anglos
+Anglos
+
+Cer
+AMN
+AMN
+AMN
+Cer
+Cer
+Cer
+Add
+AMN
+AMN
+Cer
+Cer
+Cer
+AMN
+Add
+
+28
+22
+8
+35
+7
+28
+24
+18
+
+Anglos
+Italian
+German
+German
+Hispanic
+German
+Anglos
+Jewish
+
+AMN
+AMN
+Cer
+AMN
+Cer
+AMN
+AMN
+AMN
+
+AMN
+
+Number
+Hemi
+
+Kindred
+Phenotypes
+
+Plasma
+C26 (wg/ml)d
+
+5
+4
+1
+5
+
+Cer,AMN,Add
+Cer,AMN
+Cer
+Cer,AMN,Add
+
+1.23
+1.22
+0.86
+
+1
+4
+2
+1
+2
+2
+5
+Adopted
+5
+2
+15
+1
+13
+2
+2
+1
+
+Cer
+AMN
+AMN,Add
+AMN
+Cer,AMN
+Cer,AMN
+Cer,AMN,Add
+?
+Cer.AMN,Add
+AMN
+Cer,AMN,Add
+Cer
+Cer,AMN
+Cer,AMN
+AMN
+Add
+
+1.03
+1.83
+0.90
+1.33
+0.98
+1.24
+0.95
+1.54
+1.28
+0.73
+0.87
+0.91
+N.D.
+1.57
+1.29
+1.27
+
+1
+AMN
+1
+AMN
+4
+Cer,AMN
+2 A M N
+Cer
+1
+4
+Cer,AMN
+7
+AMN,Add
+8
+CER,AMN
+
+?
+
+1.70
+1.09
+1.29
+1.54
+1.14
+1.48
+2.57
+0.90
+
+"AMN-adrenomyeloneuropathy.
+"Cer-cerebral form of adrenoleukodystrophy.
+
+'Add-Addison.
+dNormalplasma C26
+
+=
+
+0.3 Fg/ml.
+
+PCR products from normal individuals. SSCP migrational conformers were detected in all but 3 of
+the 25 ALD patients examined, approximately
+90%. In addition a silent nucleotide change
+present in one of the patients also generated a
+SSCP variant. An example of SSCP variants obtained with exon 5 is shown in Figure 3.
+ALD Mutations
+Examples of the DNA sequence changes resulting in ALD mutations are shown in Figure 4. All of
+the ALD mutations determined in this study are
+listed in Table 2 and diagrammed in Figure 5. Mutations were found widely distributed through the
+gene but none were detected in the promoter region, in the untranslated part of the predicted
+mRNA or in exons 2, 4 and 10. Fourteen single
+nucleotide substitutions were found. One was a G
+to A change at the splice donor site of exon 3, one
+resulted in a stop codon in exon 5, one was a
+synonomous change, and the remainder were all
+missense mutations. One patient had two single bp
+
+substitutions, one producing a silent mutation and
+the other a missense mutation. Frameshift mutations were detected in 10 patients. Unexpectedly,
+seven of these were an identical AG deletion at
+nucleotide position 1415/16 in exon 5 (Figure 6).
+Five AG deletions were detected in an initial
+screen of 22 ALD patients. Subsequently, we examined another 35 of the original probands by
+SSCP for mutations in exon 5. We found two additional cases with the AG deletion and one patient with an adjacent AA deletion. Thus, 7 of 57
+patients (approximately 12%) examined in this
+study have an identical AG deletion in exon 5 and
+2 additional patients (nos. 10 and 11) also have a
+small insertion or deletion in the same region. As
+indicated in Table 2, these patients have different
+ethnic backgrounds. They also have distinguishable X-chromosomes as judged by the presence of
+different DXS52 alleles (data not shown). Interestingly, each of the three ALD phenotypes is
+present among the individuals with this dinucleotide deletion.
+
+110
+
+KOKETAL.
+
+FIGURE 3. An example of SSCP analysis from exon 5 showing
+variations used for mutation detection. Included are samples
+from a normal individual (N) and 3 ALD patients (10,8,12).
+Patient 8 has a splice site mutation in exon 3 and shows a
+normal migration pattern for exon 5. Patients 10 and 12 have
+variant SSCP conformers.
+
+ALDP Immunocytochemistry
+
+FIGURE 2. SSCP analysis of exon 7 from the ALD gene. PCR
+amplification used primers from the introns flanking exon 7.
+The left lane shows the native PCR fragment generated from
+genomic DNA assayed by agarose gel electrophoresis. Lane
+1 shows the SSCP profile of the genomic exon 7 PCR fragment. Lane 2 shows the SSCP profile of exon 7 amplified
+from a somatic cell hybrid in which the only human chromosome is the X. Lane 3 shows the SSCP profile of the
+X-specific nested PCR products amplified from the X-specific
+long-range PCR fragment. Lane 4 is a negative control without template.
+
+Three ALD patients had normal SSCP patterns
+for all regions of the gene examined. The entire
+ALD gene was sequenced in each patient, including the promoter region from -657 to the ATG
+initiation codon, each exon and 30 to 100 bp of
+their flanking intronic sequence, including each of
+the splice branch points, and 300 bp of the 3’
+untranslated portion of exon 10. In one, patient
+no. 9, a nonsense mutation was found. N o mutation was found in the other two patients.
+It should be noted that DNA sequnce analysis of
+exon 1 from an ALD gene derived from a cosmid
+clone and from normal and patient genes isolated
+from the collection at the Kennedy Krieger Institute consistently differed from the published sequence (Mosser et al., 1993). In these samples
+nucleotide 368 was a T rather than a C resulting in
+an amino acid change, A123V, that presumably is
+a normal variant.
+
+Anti-serum raised against a synthetic peptide
+predicted from the sequence of the ALD gene was
+used to examine fibroblasts from a normal individuals and 3 ALD patients for the presence and subcellular distribution of ALDP. The results are
+shown in Fig. 7. In panel A the expected punctate
+staining of peroxisomes (Gould et al., 1989) is
+seen with anti ALDP antibody. Panel B shows the
+same cells as panel A reacted simultaneously with
+anti-catalase antibody. T h e identity of punctate
+staining seen with the two antibodies confirms that
+this anti-ALDP antibody recognizes peroxisomes
+and is consistent with the localization of ALDP to
+the peroxisome. Panel C shows the reaction of
+anti-ALDP antibody with fibroblasts from a normal subject. Panel D shows a negative reaction
+obtained with fibroblasts from a patient (Table 2,
+no. 29) with a major ALD deletion. Panels E and
+F show fibroblasts from the patients without detectable ALD mutations. The patient shown in
+panel F (Table 2, no. 24) is clearly deficient for
+ALDP associated with peroxisomes while the patient in panel E (Table 2, no. 25) has a normal
+pattern of ALDP antibody staining.
+DISCUSSION
+We have undertaken a detailed mutational
+analysis of the ALD gene in 25 unrelated ALD
+patients. The most significant observation is that
+the vast majority of patients with X-linked ALD
+have mutations in the ALD gene. In a series of 112
+unrelated ALD patients we confirmed the earlier
+results of Mosser e t al. (Mosser et al., 1993) that a
+small fraction of ALD patients (3.6% in this study)
+
+ADRENOLEUKODYSTROPHY GENE
+
+Representative DNA sequences comparing normal
+and mutant ALD genes. Patient 7 has a G + A transition at
+nucleotide 1166 causing a missense mutation, R389H. Patient 8 has a G --z A transition at nucleotide 1224, changing
+the 3’ splice site of exon 3. Patient 22 has a G + A transition
+
+111
+
+at nucleotide 1850resulting in the substitution of histidine for
+a highly conserved arginine in the ATP binding domain,
+R617H. Patient 6 has a G + T transversion at nucleotide 829
+resulting in a G277W mutation.
+
+FIGURE 4.
+
+DISTRIBUTION OF MUTATIONS IN ALDPrnRNA
+
+0
+
+IP
+
+I
+
+0
+
+I 0000
+
+0
+
+MISSENSE
+NONSENSE
+
+0
+
+SPLICE DEFECT
+
+0
+
+FRAMESHIFT
+
+CERALD
+
+1
+
+=
+
+AMN
+
+MEMBRANE SPANNING REG0N.S
+ATP BINDING
+
+0 ADDIS ONLY
+
+FIGURE 5. Distribution of mutations in ALDP mRNA. The deduced ALDP mRNA is indicated by the box. The corresponding exons, listed along the top of the box, were derived from
+Sarde et al. (Sarde et al., 1994). The presumed membrane
+
+spanning regions were determined from hydropathy plots
+and the ATP binding domain, including the Walker A and B
+and the conserved sequence, by DNA sequence comparison
+with other ABC protein genes particularly PMP7O.
+
+have deletions of a significant part of the 3 ’ half of
+their gene. Each deletion was unique but all included the ATP binding domain.
+The relationship of this gene, with its presumed
+transport function, to the biochemical abnormality
+of ALD, characterized by elevated levels of VLCFA
+due to a failure of their beta-oxidation in peroxisomes, is uncertain. In principle, mutational anal-
+
+ysis of the gene could provide insights into its function.
+In this survey of 25 unrelated X-linked ALD
+patients with intact ALD genes, we identified mutations in 24. Approximately 88% (22125) were
+detected by SSCP. Two of the individuals without
+a SSCP variant did not have a mutation is the gene
+regions examined.
+
+112
+
+KOKETAL.
+
+sequence of a portion of ALD exon 5 showing
+the recurrent AG deletion. The DNA sequence from a normal
+subject is shown on the right and that from patient 12 on the
+left. The position of the dinucleotide deletion in patient 12 is
+indicated by the arrow on the left. The positions of the nucleotides deleted from normal DNA are indicated by the arrows on the right.
+
+FIGURE 6. DNA
+
+With the exception of the seven patients with
+the AG dinucleotide deletion in exon 5, each patient had a unique mutation. Thus no single recurrent mutation suggesting an important functional domain was observed. T h e identified
+mutations included one presumptive splice site
+mutation, one nonsense mutation and a silent mutation. The remainder of the mutations were either
+missense or frameshift changes. All of these mutations occurred within the coding region of the
+gene. We did not find mutations in the promoter
+region 5’ to the translation start codon, in the
+untranslated portion of the last exon or in intronic
+sequences. An intronic mutation can be inferred
+in patient no. 24 (see below) but has not yet been
+demonstrated. The frameshift mutations all result
+in premature termination and thus would lack a
+functional protein. In most instances the putative
+missense mutations have been identified solely o n
+the basis of predicted amino acid substitutions and
+need to be confirmed by functional studies. Missense mutations accounted for 44% (11/25) of the
+ALD patients examined in detail. This is comparable to the situation in the cystic fibrosis gene
+(CFTR) where missense mutations are about 50%
+of the total (Tsui, 1992). Frameshift mutations,
+which include one single nucleotide insertion and
+9 dinucleotide deletions, accounted for 40% of the
+observed ALD sequence changes in this group of
+ALD patients.
+Missense mutations should be the most informative for inferring functional domains in the protein. Five missense mutations were found in re-
+
+Analysis of ALDP in fibroblasts. Panels A and B
+show double-label indirect immunofluorescence of control
+human fibroblasts with anti-ALDPand anti-catalase antibodies. Fibroblasts were permeabilized with Triton X-100 and
+incubated with both antibodies as described in methods.
+Panel A shows detection of ALDP with FITC-conjugated antirabbit antibody and Panel B detection of catalase with
+LRSC-conjugated anti-sheep antibody. The punctate immunofluorescence patterns are identical, indicating that the
+anti-ALDP antibody recognizes a peroxisomal protein. Panel
+C and D compares the immunofluorescence patterns of fibroblasts from a normal subject (C) and a patient (29) with a
+major ALD gene deletion demonstrating the antibody is specific for ALDP. Panels E and F display the immunofluorescence patterns in fibroblasts from 2 ALD patients (25and 24,
+respectively) in which mutations were not detected.
+FIGURE 7.
+
+gions of exon 1 that code for 4 of the presumed
+transmembrane segments of this postulated transmembrane transport protein. Two of these are
+within the predicted membrane spanning segment
+(Patients 1 and 2) and one (Patient 3 ) is at the
+edge of such a segment. These mutations result in
+a change of charge and polarity (see Table 2). T h e
+transmembrane region has a role in determining
+the specificity of a transporter (Higgins, 1992) and
+thus changing the charge or polarity of the amino
+acid residue could interfere with the specificity of
+the transporter. In the CFTR gene, it was found
+that many mutations that affect the transmembrane domains and their neighboring sequences involve changes of charge or polarity (Tsui, 1992).
+Four mutations were found within the ATP bind-
+
+ADRENOLEUKODYSTROPHY GENE
+
+ing domain, one in Walker A (G512S), one in
+Walker B (R617H), one in the highly conserved
+sequence preceding Walker B (S606L), and one in
+the middle of the domain. In most instances the
+ALDP missense mutations correspond to residues
+that are conserved between ALD and human
+PMP70 (Gartner et al., 1992). The mutations in
+Walker A and B motifs and the conserved sequence affect amino acids that are invariant among
+ABC transporters and that are sites of CFTR mutations (Tsui, 1992, Cutting et al., 1990; Kerem et
+al. 1990; Ferec et al., 1992). The mutation in
+patient no. 23 involves an amino acid residue that
+is also highly conserved among ABC proteins. The
+remainder of the missense mutations were found in
+regions outside of the known conserved functional
+domains of this family of proteins. Some caution
+must be exercised in the functional interpretation
+of these mutations. First, about 64% of the missense mutations can be explained by deamination
+of methylcytosine in CpG dinucleotides even
+though CpG dinucleotides represent less than 6%
+of the nucleotides in the translated portion of the
+gene. These mutations are common and account
+for about 35% of all single bp substitutions that
+cause human genetic disease (Cooper and Youssoufian, 1988). The most frequent amino acid substitution found in this series involves arginine. Because arginine is a charged amino acid, mutations
+that result in a charge change at these positions
+could affect function and/or conformation. However, five of the six substitutions at arginine residues can be explained by C to T or G to A transitions and may be a reflection of the CpG
+mutational hot spot. In addition, many missense
+mutations in the ALD gene result in an unstable
+protein that is degraded (Watkins, manuscript submitted). Since peroxisome structure is normal in
+patients with X-linked ALD, it can be inferred
+that ALDP is not required for normal biogenesis or
+stability of peroxisomes. However, ALDP is clearly
+associated with peroxisomes, appears to be required for normal beta-oxidation of VLCFA and
+must contain residues that are important for its
+interaction with peroxisomes. Mutations that
+weaken the interaction of ALDP with peroxisomes
+might result in the degradation of the unbound
+protein. Direct functional analysis of potential
+missense mutations is required before conclusions
+about the association of specific mutations with
+function can be drawn.
+A small region of six nucleotides within exon 5
+is particularly susceptible to small deletions and
+insertions. Among the 28 mutations described in
+
+113
+
+this study, nine were frameshift changes in this
+region: 1 A insertion, 1 AA deletion and 7 identical AG deletions. The AG deletions occurred in
+kindreds with different ethnic and geographical origin and included several different DXS52 markers.
+Thus it is likely that these are recurrent mutations
+and not the result of a founder effect. Similar results have been reported by Kemp et al. (1994).
+The origin of these mutations is not clear. Sequence motifs that are typically associated with
+slipped mispairing, hairpin stem and loop formation or misalignment due to direct or inverted repeats (Krawczak and Cooper, 1991) are present in
+this region but not in configurations that can easily
+account for the observed changes. The region of
+instability in exon 5 is preceded by a sequence,
+TGGATGTGGAAC, that is similar to a motif
+known to predispose to short deletions and insertions (Krawczak and Cooper, 1991) and is flanked
+by several repeats and possible palindromic motifs
+that could lead to complicated mispairing or structural changes leading to the observed changes.
+However, none of the hypothesized structures specifically expose the insertioddeletion region in
+any obvious way.
+The preponderance of evidence indicates that
+variations in the primary molecular defect in the
+ALD gene do not explain the striking phenotypic
+variability in ALD. We reported earlier that the
+co-occurrence of widely varying phenotypes within
+the same kindred and nuclear family is common
+(Moser e t a]., 1992). Mosser et al. (1993) previously noted that the childhood cerebral and “Addison only” phenotypes occurred in two brothers
+who were shown to have the same deletion. In
+confirmation of this point, mutations associated
+with each of the 3 phenotypic categories included
+in this study are distributed throughout the gene.
+In addition all 3 phenotypes are found among the
+patients with the identical AG deletion.
+Of particular interest are the 2 patients in which
+we were unable to determine a mutation within
+the region of the ALD gene examined. Patient 24
+(Figure 7F) lacks detectable ALDP in fibroblasts
+and thus presumably has a mutation somewhere in
+his ALD gene that accounts for his lack of ALDP
+and thus his disease. The most likely explanation is
+a mutation leading to a new splice site and a down
+stream stop codon in a region of an intron that we
+did not examine. The cause of disease in the other
+patient (no. 25) is more obscure. He has elevated
+plasma levels of VLCFA (Table 2) and abnormal
+beta oxidation of VLCFA (data not shown). Yet,
+he has a normal distribution of ALDP in his fibro-
+
+114
+
+KOKETAL.
+
+blasts (Figure 7, panel E) and no discernable mutation within the open reading frame of the ALD
+gene. Thus, his biochemical abnormality and disease may not be the result of altered ALDP function. While exon shuffling that retains open reading frames and splice sites but alters the protein
+structure or subtle quantitative variation in the
+production of ALDP cannot be ruled out at this
+time, the possibility of the involvement of a second gene as the primary genetic defect in ALD
+needs to be considered.
+Finally, confirmation that the ALD gene is defective in the vast majority of ALD patients has
+important practical implications. While the demonstration of abnormally elevated VLCFA has
+proven to be a reliable assay for the identification
+of affected males (Moser et al., 1994), including
+male fetuses (Moser et al., 1982), it is not fully
+satisfactory for the identification of heterozygotes
+because of the risk of false negative results (Moser
+et al., 1983). Linkage analysis with the DXS52
+probe (ST14) can be used but only if appropriate
+family members are available and the probe is informative in the family at risk. In addition, carrier
+status cannot be predicted by linkage analysis in
+the case of a de novo mutation. The capacity for
+intragenic analysis will clearly improve the accuracy of heterozygote identification. When the kindred’s mutation is known this approach would replace the VLCFA assay as the preferred diagnostic
+tool in potential carriers of ALD.
+
+ACKNOWLEDGMENTS
+We are greateful to James Morrell for technical
+assistance and to Drs. Braiterman, McGuinness,
+and Valle for helpful discussion of this work. W e
+thank Mr. and Mrs. Wesley Richards, Mrs. Alice
+Chelouche, Mr. and Mrs. John Hirschbeck, and
+the United Leukodystrophy Foundation for their
+support. The study was also supported by grants
+HD 24061, RR00035, RR00052 and RR00722
+from the National Institutes of Health. Dr. F. Kok
+is supported by a grant from FAPESP- Fundacfio
+de Amparo 5 Pesquisa do Estado de Siio Paulo,
+Brazil.
+
+NOTE ADDED IN PROOF
+Subsequent to submission mutations were determined in patients number 24 and 25. Thus, mutations have been detected in all patients examined.
+No 24 = 1876 G + A A626T
+No 25 = 1772 G + A R591Q
+
+REFERENCES
+Ames GFL (1986) Bacterial periplasmic transport systems: structure, mechanism, and evolution. Annu Rev Biochem 55:397425.
+Aubourg P, Sack GH, Meyers DA, Lease JJ, Moser H W (1987)
+Linkage of adrenoleukodystrophy to a polymorphic DNA
+probe. Ann Neurol 21:349-352.
+Bassam BJ, Caetano-Anolles G, Gresshoff PM (1991)Fast and sensitive silver staining of DNA in polyacrylamide gels. Analyt
+Biochem 196:80-83.
+Cartier N , Sarde CO, Douar AM, Mosser J, Mandel JL, Auhourg P
+(1993) Abnormal messenger RNA expression and a missense
+mutation in patients with X-linked adrenoleukodystrophy.
+Hum Mol Genet 2:1949-1951.
+Chen CJ, Chin JE, Ueda K, Clark DP, Pastan I, Gottesman MM,
+Roninson IB (1986) Internal duplication and homology with
+bacterial transport proteins in the mdr 1 (P-glycoprotein) gene
+from mukidrug-resistant human cells. Cell 47:38 1-389.
+Contreras M, Mosser 1, Mandel JL, Auhourg P, Singh I (1994)
+The protein coded by the X-adrenoleukodystrophy gene is a
+peroxisomal integral membrane protein. FEBS Lett 344:211215.
+Cooper DN, Youssoufian H (1988) The CpG dinucleotide and
+human genetic disease. Hum Genet 78:151-155.
+Cutting GR, Kasch LM, Rosenstein BJ, Zielenski J , Tsui LC,
+Antonorakis SE, Kaiaiian HH (1990) A cluster of cystic fibrosis mutations in the first nucleotide-binding fold of the cystic
+fibrosis conductance regulator protein. Nature 346:366-369.
+Fanen P, Guidoux S, Sarde CO, Mandel JL, Goossens M, Aubourg P (1994) Identification of mutations in the putative
+ATP-binding domain of the adrenoleukodystrophy gene. J Clin
+Invest, 94:516-520.
+Feinberg AP, Vogelstein B (1984) A technique for radiolabeling
+DNA restriction endonuclease fragments to high specific activity. Anal Biochem 137:266-267.
+Felmlee T, Pellett S, Welch R (1985) Nucleotide sequence of an
+Escherichia coli chromosomal hemolysin. J Bacteriol 163:94105.
+Ferec C, Audrezet MP, Mercier B, Guillermit H , Moullier P,
+Quere I, Verlingue C (1992) Systematic screening for mutations in the cystic fibrosis gene: New implications for carrier
+detection. Nature Genet 1:188-191.
+Gartner J , Moser H, Valle D (1992) Mutations in the 70K peroxisomal membrane protein gene in Zellweger syndrome. Nature
+Genet 1:16-23.
+Gould SJ, Keller GA, Hosken N, Wilkinson J , Suhramani S
+(1989) A conserved tripeptide sorts proteins to peroxisomes. J
+Cell Biol 108:1657-1664.
+Harlow E, Lane D (1988) Antibodies: A Laboratory Manual. New
+York: Cold Spring Harbor Laboratory Press.
+Higgins CF (1992) ABC transporters: From microorganisms to
+man. Annu Rev Cell Biol 8:67-113.
+Higgins CF, Gallagher MP, Mimmack ML, Pearce SR (1988) A
+family of closely related ATP-binding subunits from prokaryotic and eukaryotic cells. Bioessays 8:111-116.
+Hyde SC, Emsley P, Hartshorn MJ, Mimmack MM, Gileadi U,
+Pearce SR, Gallagher MP, Gill DR, Huhhard RE, Higgens CF
+( 1990) Structural model of ATP-binding proteins associated
+with cystic fibrosis, multidrug resistance and bacterial transport. Nature 346:362-365.
+Igarashi M, Schaumhurg HH, Powers J, Kishimoto Y, Kolodny E,
+Suiuki K (1976) Fatty acid ahnormality in adrenoleukodystrophy. J Neurochem 26:851-860.
+Kemp S,Ligtenberg JL, van Gee1 BM, Barth PG, Wolterman RA,
+
+ADRENOLEUKODYSTROPHY GENE
+Schoute F, Sarde CO, Madel JL, van Oost BA, Bolhuis PA
+(1994) Identification of a two base pair deletion in five unrelated families with adrenoleukodystrophy: A possible hot spot
+for mutations. Biochem Biophys Res Commun 202:647-653.
+Kerem B, Zielenski J , Markiewicz D, Bozon D, Gazit E, Yahav J,
+Kennedy D, Riordan JR, Collins FS, Rommens JM, Tsui LC
+(1990) Identification of mutations in regions corresponding to
+the two putative nucleotide (ATP)-binding folds of the cystic
+fiborsis gene. Proc Natl Acad Sci USA 87:8447-8451.
+Krawczak M, Cooper DN (1991) Gene deletions causing human
+genetic disease: Mechanisms of mutagenesis and the role of the
+local DNA sequence environment. Hum Genet 86:425-441.
+Kuchler K, Sterne RE, Thorner J (1989) Saccharomyces cerevisiae
+STE6 gene product: A novel pathway for protein export in
+eukaryotic cells. EMBO 8:3973-3984.
+Lazo 0, Contreras M, Bhushan A, Stanley W, Singh I (1989)
+Adrenoleukodystrophy: Impaired oxidation of fatty acids due to
+peroxisomal lignoceroyl-CoA ligase deficiency. Arch Biochem
+Biophys 270:722-728.
+Mackman N, Nicaud JM, Gray L, Holland IB (1986) Secretion of
+haemolysin by Escherichia coli. Curr Topics Microbiol Immuno1 125:159-181.
+McGrath JP, Varshavsky A (1989) The yeast STE6 gene encodes
+a homologue of the mammalian multidrug resistance P-glycoprotein. Nature 340:400-404.
+Migeon BR, Moser HW, Moser AB, Axelman J , Sillence D, Norum RA (1981) Adrenoleukodystrophy: Evidence for X-linkage, inactivation and selection favoring the mutant allele in
+heterozygous cells. Proc Natl Acad Sci USA 78:5066-5070.
+Mimura CS, Holbrook SR, Ames GFL (1991) Structural model of
+the nucleotide-binding conserved component of periplasmic
+permeases. Proc Natl Acad Sci 88:84-88.
+Moser HW, Moser AB, Frayer KK, Chen WW, Schulman JD,
+ONeill BP, Kishimoto Y ( 1981) Adrenoleukodystrophy: Increased plasma content of saturated very long chain fatty acids.
+Neurology 31: 1241-1249.
+Moser HW, Moser AB, Smith KD, Bergin A, Bore1 J , Shankroff J,
+Stine OC et al (1992) Adrenoleukodystrophy: Phenotypic
+variability: Implications for therapy. J Inher Metab Dis 15:
+645-664.
+Moser HW, Moser AB, Trojak JE, Supplee SW (1983) The identification of female carriers for adrenoleukodystrophy. J Pediatr
+103:54-59.
+Moser HW, Moser AB (1991) Measurements of Saturated Very
+Long Chain Fatty Acids in Plasma. In Hommes F (ed): Techniques in Diagnostic Human Biochemical Genetics. New York:
+Wiley-Liss, Inc., Chapter 12, 177-191.
+Moser HW, Moser AB, Powers JM, Nitowsky HM, Schaumburg
+HH, Norum RA, Migeon BR (1982) The prenatal diagnosis of
+adrenoleukodystrophy. Demonstration of increased hexa-
+
+115
+
+cosanoic acid in cultured amniocytes and fetal adrenal gland.
+Pediatr Res 16:17-175.
+Moser HW, Moser AB (1989) X-Linked adrenoleukodystrophy. In
+Scriver CR, Beaudet AL, Sly WS et a1 (eds): The Metabolic
+Basis of Inherited Disease, Sixth Edition. New York: McGraw
+Hill, 1511-1532.
+Moser HW, Smith KD, Moser AB (1994) X-linked Adrenoleukodystrophy. Scriver CR, Beaudet AL, Sly WS (eds) The Metabolic Basis of Inherited Disease, Seventh Edition. New York:
+McGraw Hill, in Press.
+Mosser J, Douar AM, Sarde CO, Kioschis P, Feil R, Moser H ,
+Poustka AM, Mandel JM, Aubourg P (1993) Putative X-linked
+adrenoleukodystrophy gene shares unexpected homology with
+ABC transporters. Nature 361:726-730.
+Mosser J, Lutz Y, Stoeckel ME, Sarde CO, Kretz C , Douar AM,
+Lopez J, Aubourg P, Mandel JL (1994) The gene responsible
+for adrenoleukodystrophy encodes a peroxismal membrane protein. Hum Mol Genet 3:265-271.
+Orita M, Iwehana H , Kanazawa H, Hayashi K, Sekiya T (1989a)
+Detection of polymorphism of human DNA by gel electrophoresis as single strand conformation polymorphism. Proc
+Natl Acad Sci USA 86:2766-2770.
+Orita M, Suzuki Y, Sekiya T, Hayashi K (1989b) Rapid and sensitive detection of point mutations and DNA polymorphisms
+using the polymerase chain reaction. Genomics 8:874-879.
+Riordan JR, Rommens JM, Kerem BS, Alon N, Rozmahel R,
+Grzelczak 2, Zielenski 1, Lok S,Plavsic N , Chou ]I, Drumm
+ML, Iannuzzi MC, Collins FS, Tsui L.-C. (1989) Identification of the cystic fibrosis gene: Cloning and characterization of
+complementary DNA. Science 245: 1066-1073.
+Sambrook J, Fritsch EF, Maniatis T (1989) Molecular cloning: A
+laboratory manual. Second Edition. New York: Cold Spring
+Harbor Laboratory Press.
+Sarde CO, Mosser J, Kioschis P, Kretz C, Vicaire S,Aubourg P,
+Poustka A (1994) Genomic organization of the adrenoleukodystrophy gene. Genomics 22:13-20.
+Tsui LC (1992) The spectrum of cystic fibrosis mutations. Trends
+in Genetics 8:392-398.
+Uchiyama A, Suzuki Y, Song XQ, Fukao T, Imarnura A, Tomatsu
+S, Shimozawa N (1994) Identification of a nonsense mutation
+in ALD protein cDNA from a patient with adrenoleukodystrophy. Biochem Biophys Res Commun 198:632-636.
+Walker JE, Saraste M, Runswick MJ, Gay NJ (1982) Distantly
+related sequences in che alpha- and beta-subunits of ATP nucleotide binding fold. EMBO J 1:945-951.
+Wanders RJA, van Roermund CWT, van Wijland MJA, Schutgens RBH, van deb Bosch H, Schram AW, Tager JM (1988)
+Direct evidence that the deficient oxidation of very long chain
+fatty acids in X-linked adrenoleukodystrophy is due to an impaired ability of peroxisomes to activate very long chain fatty
+acids. Biochem Biophys Res Commun 153:618-624.
+
+

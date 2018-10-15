@@ -1,0 +1,757 @@
+BiochimicaL
+et Biophvsica Acta
+
+ELSEVIER
+
+Biochimica
+
+et Biophysics
+
+Acta 1270 (1995) 44-51
+
+Tay-Sachs disease: intron 7 splice junction mutation in two Portuguese
+patients
+Maria G. Ribeiro a~*, Rui Pinto a, Maria C. Sa Miranda a, Kunihiko Suzuki b
+a Institute de Genktica Mkdica Jacinto de Magalhtes, PC. Pedro Nunes, 74, 4000 Porto, Portugal
+b Brain and Development Research Center, CB#7250, Departments of Neurology and Psychiatry, University of North Carolina School of Medicine,
+Chapel Hill, NC 27.599-7250, USA
+Received 31 March 1994; revised 2 August 1994; accepted 6 October 1994
+
+Abstract
+A single nucleotide transversion (G + C) in the 5’ donor site of intron 7 of the P-hexosaminidase a-chain gene was identified in two
+Portuguese patients with infantile Tay-Sachs disease. One patient was found to be homozygous and the other a compound heterozygote
+with the four-base insertion in exon 11 on the other allele. In fibroblasts from the homozygous patient the /3-hexosaminidase (Y mRNA
+was observed as a nearly undetectable fast migrating band. Through cDNA-PCR amplification and hybridization with full length (Y
+cDNA several fragments of smaller size than the normal transcript were detected, most of them lacking exon 7. We propose that this point
+mutation in the 5’ donor site of intron 7 of the P-hexosaminidase a-chain gene is responsible for an inefficient and abnormal processing
+of the mutant transcript, resulting in functional abnormality.
+Keywords: Tay-Sachs
+
+disease;
+
+P-Hexosaminidase
+
+A, P-Hexosaminidase
+
+1. Introduction
+GM2-Gangliosidosis
+is a group of recessively inherited
+neurodegenerative
+disorders, characterized
+by lysosomal
+accumulation of GM2 ganglioside. Three glycoproteins are
+essential for in vivo degradation of GM2 ganglioside P-N-acetyl-D-hexosaminidase
+(EC 3.2.1.52) (Y and P-sub-
+
+units and the GM2 activator protein - each encoded by a
+distinct gene. Abnormalities in these genes lead respectively to variant B, variant 0 and variant AB. Genetic
+defects in the a-subunit result in loss of P-hexosaminidase
+A ((Y/I heterodimer) activity, and that of P-subunit abolishes activities both isoenzymes, &hexosaminidase A and
+B (homodimer /3p) [l]. The classic infantile form of the
+genetic @hexosaminidase (Y chain defects is Tay-Sachs
+disease that occurs at a high frequency among Ashkenazi
+Jews. This disease is rapidly progressive and fatal. Two
+mutations, a splicing defect at the 5’ donor site of intron 12
+and a 4-base insertion within exon 11, account for almost
+all cases of classic infantile Ashkenazi Tay-Sachs disease
+
+* Corresponding
+
+author. Fax: + 351 2 6005658.
+
+0925-4439/95/$09.50
+0 1995 Elsevier Science B.V. All rights reserved
+SSDI 0925-4439(94)00070-O
+
+(Y chain mutation
+
+[2-61. A clinically typical but genetically distinct infantile
+form of (Y subunit defect, occurring among FrenchCanadian population, was found to be due to a major
+deletion at the 5’ end of the P-hexosaminidase (Y chain
+gene [7,8]. In both the infantile Ashkenazi Jewish and the
+French Canadian forms, no or little detectable mRNA or
+enzyme protein is produced. Besides these ethnically restricted forms, many distinct abnormalities underlaying
+defective a-subunit have been described but they occur
+panethnically at lower frequencies. In some forms of the
+disease such as the enzymologically unique Bl variant, an
+immunologically detectable but catalytically defective enzyme protein is produced. The first and more frequent
+mutation in the a-subunit associated to Bl variant phenotype was the G-533 --, A transition in exon 5 (DN-allele),
+translating into arginine-histidine substitution at residue
+178 [9]. Three other point mutations causing the Bl phenotype have been reported, C-532 -+ T in exon 5 [lo], G-772
+-+ C in exon 7 [ll] and G-574 + C in exon 6 [12]. This
+rare disorder, with a wide ethnic and geographic distribution, is the most frequent form of GM2 Gangliosidosis in
+Portugal [13]. Among Portuguese patients with genetic
+defects in the a-subunit, the ‘DN-allele’ represents 77% of
+the mutant alleles.
+
+M.G. Ribeiro et al. /Biochimica et BiophysicsActa 1270 (1995) 44-51
+
+In the present study we report the presence of a mutation at + 1 position of intron 7 splice site of P-hexosaminidase a chain gene in two Portuguese unrelated patients with the infantile phenotype of Tay-Sachs disease.
+Its implication on transcription and translation is further
+evaluated.
+
+2. Materials and methods
+2.1. Clinical description
+
+We studied two unrelated patients. Both had the onset
+of the disease around 6 months of age. Patient 1, when
+examined at 13 months of age, was a floppy baby and in
+spite of a marked hypotonia, her upper limbs were in a
+pronation position and pyramidal signs were present. There
+was a marked startle reaction to various stimuli. Cherry red
+spot was seen in fundi. Her parents are related as third
+cousins. Patient 2, when seen at 14 months of age, was
+unable to sit and to control her head. Acoustic startle was
+prominent even with minimal stimuli. She was a very
+hypotonic child with brisk reflexes and bilateral Babinski
+sign. Generalised tonic-clonic seizure was also observed.
+Optic fundi showed bilateral cherry red spot.
+2.2. Commercial
+
+materials
+
+4-Methylumbelliferyl-N-acetylglucosamine
+(4-MUGlcNAc) was purchased from Sigma and its sulfated
+derivative (4-MU-GlcNAc-6-S) from Moscerdam (The
+Netherlands). The commercial preparation of the sulfated
+substrate was purified by chromatographic procedures as
+described by Beccari et al. [14]. DE-52 cellulose was
+obtained from Whatman Biosystems, Cellogel strips from
+Chemetron and bovine serum albumin (BSA) from Sigma.
+[-y-3’P]dATP ( > 5000 Ci/mmol), [ (Y-~~P]~ATP( > 1000
+Ci/mmol) and [ a-32P]dCTP ( > 3000 Ci/mmol) were
+purchased from Amersham. T4 polynucleotide kinase was
+purchased from New England Biolabs. Sources for nonstandard materials will be indicated below as appropriate.
+2.3. Biological
+
+2.4. Enzymatic
+
+45
+
+assays
+
+The /?-hexosaminidase activity was determined against
+the synthetic neutral (4-MU-GlcNAc) and sulfated (4MU-GlcNAc-6-S) substrates, based on the assay conditions previously described [16,17]. Total extracts were
+incubated with 4-MU-GlcNAc (1.7 mM final concentration) in 0.1 M citrate phosphate buffer pH 4.4 at 37°C for
+15 min or with 4-MU-GlcNAc-6-S (1.0 mM final concentration) in 0.2 M citrate phosphate buffer pH 4.0 at 37°C
+for 1 h. The reactions were stopped by the addition of 1.0
+ml of 1 M of glycine-NaOH pH 10.0 and the fluorescence
+measured on a Aminco SPR spectrofluorometer with an
+excitation and emission wavelengths of 366 and 446 nm,
+respectively. Protein was determined according to Lowry
+et al. [18] using BSA as standard.
+2.5. Cellulose acetate gel electrophoresis
+Cellulose acetate gel electrophoresis of P-hexosaminidase was performed on Cellogel strips (5.7 cm X 14.0 cm)
+as previously described [19]. After electrophoresis phexosaminidase activity was detected by incubation at
+37°C with 4-MU-GlcNAc, 2.0 mM in 0.1 M citrate phosphate buffer pH 4.75 for 10 min or with 4-MU-GlcNAc-6S, 2.0 mM in 0.1 M citrate phosphate buffer pH 4.0 for 45
+min. The fluorescence was developed with 1 M glycineNaOH, pH 10.0, visualized at 366 nm and photographed
+with type 667 Polaroid film.
+2.6. DEAE-cellulose
+
+chromatography
+
+Sonicated extracts containing equal amounts of protein
+were applied to 1 ml DE-52 column equilibrated with 10
+mM sodium phosphate buffer and 0.6 ml fractions were
+collected. After unretained P-hexosaminidase B has been
+eluted, the remaining isoenzymes were separated using a
+linear NaCl gradient (0 to 0.35 M in 15 ml of the column
+buffer). The enzymatic activities of eluted fractions were
+determined against 4-MU-GlcNAc and 4-MU-GlcNAc-6-S.
+
+materials
+
+2.7. PCR amplification
+Leucocytes were isolated from peripheral blood. Leucocyte-pellets were extracted by brief sonication in 0.1%
+(v/v> Triton X-100. After centrifugation for 30 min at
+15 000 X g the supematant (reffered to as extract) was
+assayed for enzyme activities. Epstein-Barr Virus (EBV)transformed lymphoblast cell lines were established as
+described [15]. Skin fibroblasts were grown and propagated in RPM1 medium supplemented with antibiotics and
+5% FCS at 37°C in 5% CO,. From patient 2 no biological
+material was available and therefore only her parents could
+be studied.
+
+of genomic DNA
+
+DNA was isolated from lymphoblasts according to the
+standard procedure [20]. Exon 7 and flanking intron sequences of the a-subunit gene were amplified by PCR.
+One primer was within intron 6,48 bases upstream of exon
+7 (5’-GCTAGCTITCAGGAAGTGTGAACC-3’ ) and the
+other was within intron 7, 40 bases downstream of exon 7
+(5’-TAACAAGCAGAGTCCCTCTGGT-3’). Initial denaturation was at 94°C for 5 min, followed by 30 cycles of
+denaturation at 94°C for 30 s, annealing at 55°C for 30 s
+and extension at 72°C for 1.5 min.
+
+46
+
+M.G. Ribeiro et al. /Biochimica
+
+I
+
+@C
+
+et Biophysics Acta 1270 (1995) 44-51
+
+2.9. Restriction enzyme analysis
+P
+
+About 100-200 ng of the amplified PCR fragment was
+digested overnight at 37°C with 10 units of AluI restriction enzyme. The restriction fragments were analyzed by
+electrophoresis on a 10% nondenaturing polyacrylamide
+gel. The DNA bands were visualized by staining with
+ethidium bromide.
+2.10. RNA preparation, northern blot analysis and cDNAPCR amplification
+
+5
+
+0
+
+10
+
+20
+
+15
+
+30
+
+25
+
+:
+
+fraction n
+
++
+
+Control
+
+-m-
+
+Patient
+
++
+
+Control
+
++
+
+Patient
+
+Fig. 1. (A) Cellulose acetate gel electrophoretic
+profile of P-hexosaminidase in leucocyte extracts. After electrophoresis
+Phexosaminidase
+activity was stained with 4-MU-GlcNAc (I) and 4-MU-GlcNAc-6-S
+(II).
+P, patient 1; C, control; B, Bhexosaminidase
+B; A, Phexosaminidase
+A.
+(B) Ion-exchange chromatographic
+profile of /3-hexosaminidase
+present
+in leucocytes. The enzymatic activities were determined against 4-MU* , control, 4-MU-GlcNAc;
+W, patient
+GlcNAc and 4-MU-GlcNAc-6-S.
+1, 4-MU-GlcNAc;
++ , control, 4-MU-GlcNAc-6-S;
+0, patient 1, 4-MUGlcNAc-6-S.
+
+2.8. Direct sequencing of PCR products
+A portion from the first amplification reaction was
+subjected to assymmetric amplification using only the
+antisense primer. The assymmetric PCR products were
+freed from primers, nucleotides and salts using QIAGEN
+kit (Diisseldorf, Germany) according to the manufacturer’s
+procedure. Sequencing of the sense strand was performed
+using Sequenase (version 2.0) kit (US Biochemical) according to the procedure recommended by the mamtfacturer.
+
+Total RNA was isolated from fibroblast cell lines of
+patient 1 and a control according to the procedure described by Chomczynski and Sacchi [21]. Integrity of total
+RNA was checked by electrophoresis, through the estimation of 28S/18S ratio. About 25 pg of total RNA were
+electrophoresed in a 1% agarose/formaldehyde denaturing
+gel and transferred to GeneScreen Plus nylon membrane
+(NEN Research Products). Hybridization with the fulllength normal P-hexosaminidase a-subunit cDNA [22]
+labelled with [ CF~‘P]~CTP were performed using the
+Megaprime’” DNA Labeling System (Amersham) according to the instructions of manufacturer. Blots were exposed
+to Kodak X-ray film at -70°C using DuPont Cronex
+lightning Plus intensifying screen. The Phexosaminidase
+P-subunit cDNA was used as control probe.
+Total RNA was reverse-transcribed into cDNA using
+GeneAmp RNA PCR Kit (Perkin Elmer C&us), according
+to the manufacturer’s procedure with 2 pg of total fibroblast RNA, oligo d(Tj16 as primer and 1.5 h incubation at
+42°C. The amplification of the segment corresponding to
+the entire coding sequence was performed using 40 pmol
+of each forward (S-TCCGAGAGGGGAGACCAGCGG-3' ,
+located 24 bp upstream of the A of the initiation codon)
+and reverse (S-TCACCTACAGCCAGCACCCTC-J,
+lo-
+
+Table 1
+P-Hexosaminidase
+
+activities determined
+
+extracts
+
+4-MU-GlcNAc-6S
+
+4-MU-GlcNAc
+
+Pl
+Mother (Pl)
+Father (Pl)
+Mother (P2)
+Father (P21
+Controls
+mean
+range
+Il=
+
+in leucocyte
+
+total Hex
+
+%HexA
+
+Hex A
+
+1200
+1070
+1090
+1712
+1714
+
+0
+59.5
+65.0
+47.8
+55.6
+
+3.49
+122
+140
+155
+143
+
+1520
+967-2294
+50
+
+87.1
+81.0-91.4
+10
+
+255
+109-380
+50
+
+Total Hex, Phexosaminidase
+activity (nmol/h
+per mg protein) determined against the neutral synthetic substrate; % Hex A, /3-hexosaminidase A activity as % of total &hexosaminidase
+recovered after DEAlScellulose chromatography;
+Hex A, fi-hexosaminidase
+A activity (nmol/h
+per mg protein) determined against the sulfated substrate; Mother and
+Father (Pl), parents of patient 1; Mother and Father (P21, parents of
+patient 2. For details see Materials and methods.
+
+M.G. Ribeiro et al. /Biochimica
+
+et Biophysics Acta 1270 (1995) 44-51
+
+cated 36 bp downstream of the stop codon) primers and
+the following amplification profile: initial denaturation at
+94°C for 5 min followed by 35 cycles of denaturation at
+94°C for 1 min and annealing/extension
+at 68°C for 5
+min.
+
+c
+
+@
+
+p
+
+2.11. Southern analysis
+The cDNA amplified fragments were electrophoresed in
+1.2% agarose gel DNA and transfered to GeneScreen Plus
+nylon membrane (NEN Research Products). Hybridizations
+with full-length
+normal
+P-hexosaminidase
+a-subunit
+cDNA 1221 or normal exon 7 probe (synthesized by PCR
+using oligonucleotides
+that exactly matched the ends of the
+exon) labelled with [ a-32P]dCTP were performed using
+the Megaprime’” DNA Labeling System (Amersham) according to the instructions
+of manufacturer.
+Blots were
+exposed to Kodak X-ray film at -70°C
+using DuPont
+Cronex lightning Plus intensifying screen.
+2.12. Screening for the infantile Ashkenazi Jewish alleles
+The exon 11 4-bp insertion and intron 12 splicing
+mutation were screened by PCR and allele-specific probes
+under the conditions previously described [lo].
+
+C
+CTA
+
+A
+@CP
+
+B
+CP
+
+B~I
+PC
+
+P
+GCTAG
+
+4C
+Fig. 3. (A) Northern blot analysis of P-hexosaminidase
+(Y chain mRNA.
+The Blot was hybridized with full lenght a-subunit cDNA. Lane C,
+Control fibroblasts, 25 pg of total RNA, lane P, patient 1 fibroblasts, 25
+pg of total RNA. (B) Analysis of the cDNA amplified fragments. l/50
+of each PCR reaction was loaded on a 1.2% agarose gel, transferred to
+GeneScreen Plus nylon membrane and hybridized with full-lenght cDNA
+(A) or exon 7 probe (B). The film was deliberately over-exposed (0) in
+order to show the cDNA amplified fragments of abnormal sizes in the
+patient’s sample. They were undetectable when the film was properly
+exposed for the normal sample. The fragment lenght is indicated in base
+pairs. P, patient 1; C, control.
+
+Fig. 2. Sequence analysis of the exon 7/intron
+7 boundary region of
+patient 1 (P) and control (0. Sequencing reactions were performed
+products as described in Materials and
+directly on PCR amplification
+s. The relevant portion of the sequencing gel is shown. The C
+(indicat ed by an arrow) in this patient should be G in normal individuals.
+
+2.13. Cell labeling, immunoprecipitation
+amide gel electrophoresis
+
+and polyacryl-
+
+Fibroblasts were cultured in 75-cm2 flask and labelled
+with 0.375 mCi [4,5-3H]leucine (65 Ci/mmol).
+Cells were
+
+48
+
+M.G. Ribeiro et al. / Biochimica et Biophysics Acta 1270 (1995) 44-51
+
+harvested after 22 h pulse. Subsequent extraction of cellular protein, immunoprecipitation with anti-hexosaminidase
+A antiserum, the polyacrylamide gel electrophoresis and
+autoradiography were essentially as described previously
+[231.
+
+3. Results
+3.1. Biochemical
+
+study
+
+In leucocytes, the residual /3-hexosaminidase A activity
+(4-MU-GlcNAc-6-S) was less than 1.5% in patient 1 and
+about 50-60% of control mean in obligate carriers (Table
+1). Fig. 1A and B show the separation of P-hexosaminidase isoenzymes present in leucocytes from the patient 1
+and a control, respectively by cellulose acetate gel electrophoresis and ion-exchange chromatography. As can be
+observed, no activity of /3-hexosaminidase A against 4MU-GlcNAc and 4-MU-GlcNAc-6-S was detected in patient 1.
+3.2. Molecular study
+Direct sequencing of the PCR-amplified genomic DNA
+from patient 1 showed the G --) C transversion at + 1
+position of intron 7 (Fig. 2). Nucleotide sequence of DNA
+from the parents of patient 2 showed that both the mutant
+cytosine and the normal guanosine were present in the
+
+latwe
+
+Fig. 4. Synthesis of &hexosaminidase
+in fibroblasts. Cells were labeled
+with [3H]leucine for 22 h. Antibody to P-hexosaminidase
+A was used to
+immunoprecipitate
+the cell extracts. P, patient 1; C, control.
+
+mother whereas the father presented the normal sequence
+around the junction of exon 7 and intron 7 (data not
+shown). Thus, the patient 1 was homozygous for the
+G -+ C transversion at position + 1 of intron 7 and the
+patient 2 was concluded to be a compound heterozygote
+with only one allele carrying this mutation.
+The effect of the G + C transversion in 5’ donor site of
+intron 7 on (Y mRNA was firstly analyzed by Northern
+blot of total RNA (Fig. 3A). In contrast to a band of
+expected size observed in control fibroblasts, a nearly
+undetectable band of a smaller size than the normal was
+observed in the patient. Using the appropriate oligonucleotides the entire coding sequence was reverse transcribed
+and the Q chain cDNA amplified by polymerase chain
+reaction. The length of the amplified product obtained for
+patient 1 was compared with that of the control after
+agarose gel electrophoresis, blotting and hybridization using either full-length (Y chain cDNA or exon 7 as probe
+(Fig. 3B). Using the full-length cDNA as the probe, only
+the expected band of 1650 bp was seen in the normal
+control, while multiple bands of varying sizes, mostly
+smaller than the normal 1650 bp, were present in patient 1.
+When exon 7 was the probe, none of the multiple bands in
+the patient’s fibroblasts were detectable when the film was
+exposed for the normal length of time. When over-exposed, a faint signal was detected for the major, fastmigrating band. Thus, most of the amplified fragments
+from patient 1 fibroblasts lack exon 7. The faster-migrating
+band detectable in the Northern blotting (Fig. 3A) can be
+interpreted from its size and lack exon 7 as an (Y subunit
+mRNA lacking exon 7 but otherwise normal (1517 bp).
+When cultured firoblasts were labeled with tritiated
+leucine for 22 h, the mature (Y subunit form were not
+detected (Fig. 4).
+The G + C transversion in the 5’ end splicing site of
+intron 7 creates an AZuI (5’-AGCT-3’) restriction site as
+well as it abolishes the restriction sites for EcoRII and
+ScrFI. Since the last two restriction enzymes are used in
+the diagnosis of Gly-269 mutation, the detection of this
+splicing mutation can be carried out through the amplification of the exon 7/intron 7 boundary region of genomic
+DNA followed by the digestion of the resulting fragment
+with AluI. The products of the digestion can be examined
+by electrophoresis on a polyacrylamide gel. The principle
+of this assay is shown schematically in Fig. 5 (bottom).
+The digestion yelds a 216 bp from the normal allele or 176
+bp and 40 bp fragments from the mutant allele. The
+enzyme also produces an undetectable 5 bp fragment from
+both alleles. As it can be observed in the Fig. 5 (top), the
+restriction enzyme assay showed in patient 1 both 176 bp
+and 40 bp fragments and in her parents the three fragments
+of 216 bp, 176 bp and 40 bp, as expected for heterozygotes. In the mother of patient 2 the three fragments
+were also present, whereas in her father only the 216 bp
+fragment was detected. These results corroborated the
+sequencing data.
+
+M.G. Ribeiro et al. /Biochimica
+
+49
+
+et Biophysics Acta 1270 (1995) 44-51
+
+3’
+221 bp
+
+4 oigstiort Alu
+-
+
+I
+
++
++
+
+NORMAL
+
+216.5 bp
+176.40.5 bp
+
+MUTANT
+
+123456M
+
+Fig. 5. (Top) Diagram showing the strategy for screening the mutant allele. (Bottom) Detection of G + C transversion at the position + 1 of intron 7 of
+P-hexosaminidase
+a-subunit gene. The PCR-amplified
+fragment was digested with Alu I restriction enzyme and the samples electrophoresed
+on 10%
+polyacrylamide
+gel. Lane M, molecular weight markers (pBr 322 DNA/MspI
+digest); lane 1, normal control; lane 2, patient 1; lane 3, patient l’s father;
+lane 4, patient l’s mother; lane 5, patient 2’s father; lane 6, patient 2’s mother.
+
+The DNA from both parents of patient 2 was tested for
+the presence of exon 11 4 bp insertion and the exon 12
+G + C splice site mutation by hybridization with allele
+specific oligonucleotides (Fig. 6). A positive signal was
+obtained for the insertion mutation probe in the amplified
+DNA from the father.
+
+4. Discussion
+The G + C mutation in the 5’ splice site of intron 7 of
+P-hexosaminidase a-subunit gene was identified in two
+unrelated Portuguese patients, one being homozygous and
+the other a compound heterozygote with the 4 bp insertion
+within exon 11. Since the first GT at the 5’ donor site of
+
+introns are known to be obligatory [24], the transversion is
+expected to result in splicing failure at the junction due to
+the decrease of the donor site efficiency. Our data indicate
+that the junctional mutation indeed results in defective
+splicing of the transcripts. By Northern analysis of total
+RNA present in fibroblasts from the homozygous patient,
+the Phexosaminidase (Y mRNA was observed as a nearly
+undetectable fast migrating band. Through amplification of
+(Y chain transcripts by RT-PCR several fragments of
+smaller size than the normal transcipt hybridized with
+full-length (Y cDNA. The high percentage of abnormal
+spliced molecules might result from an altered balance
+between normal spliced molecules and those resulting
+from alternative splicing. Moreover, the smaller fragments
+are expected to be over-represented after amplification,
+
+50
+
+M.G. Ribeiro et al. /Biochimica et Biophysics Acta 1270 (1995) 44-51
+
+Fig. 6. Analysis of the two infantile Ashkenazi Jewish Tay-Sachs alleles.
+The region of genomic DNA encompassing both exon 11 4-bp insertion
+and intron 12 splice site was amplified by PCR and the products blotted
+onto duplicate in hybridization membranes. The samples were hybridized
+with allele-specific oligonucleotides
+probes to detect either the mutated or
+the corresponding
+normal sequences. A, 4-base insertion; B, splicing
+defect; N, normal probe; M, mutant probe; lane 1, control; lane 2, patient
+2’s father; lane 3, patient 2’s mother.
+
+with respect to longer fragments. The mRNA quantification by cDNA-PCR is only possible in the exponential
+phase of amplification, generally before the 20ti cycle of
+amplification, and at 35”’ cycle the amount of amplified
+material should depend poorly on the initial amount of
+material to be amplified. Therefore, the data should only
+be considered as qualitative and not quantitative. The
+longest fragment observed in homozygous patient fibroblasts was identified as corresponding to (YmRNA lacking
+exon 7. The skip of the exon immediately preceding a
+mutation at the 5’ donor site has been reported in the
+Ashkenazi intron 12 splicing mutation [5]. Further studies
+will be needed to evaluate if the transcripts lacking other
+segments beside exon 7 might result from the presence of
+another Tay-Sachs disease mutation or from normally occurring miss-splicing [5], although they were not detected
+in control normal fibroblasts studied.
+The sequence of mRNAs lacking just exon 7 is in frame
+and it would encode a protein shortened of 43 amino acids
+(those encoded by exon 7). However, the labeled mutated
+(Y subunit was undetectable in fibroblasts from homozygous patient. We do know from the Northern blotting
+result that the (Y subunit mRNA is nearly undetectable.
+The lack of immunological detectable (Y subunit, therefore, is most likely due to instability of the abnormally
+spliced mRNA and not due to a mutant protein immunologically unrecognizable by the antiserum raised against
+the normal enzyme protein. The presence of the mutation
+G --) C in 5’ splice site of intron 7 in heterozygosity with
+the exon 11 4-bp insertion (mRNA negative) is also expected to result in a functional abnormality.
+
+Another mutation at + 1 position of intron 7, the G -+ A
+transition, has been previously reported [25] in three unrelated families of French-Canadian origin. The patients
+were heterozygous for this mutation, carrying in the other
+allele the 7.6 kb deletion at 5’ end of (Y chain gene. The
+effect of G + A mutation on mRNA expression was evaluated by RT-PCR. In contrast to G + C transversion, this
+mutation appears to result in the absence of LYmRNA
+since the RT-PCR procedure should have yielded reasonable quantities of an amplified segment even when the
+mRNA is unstable and rapidly degraded.
+Both mutations at + 1 position of intron 7 abolishe the
+restriction sites for the enzymes EcoRII and Scr FI, usually used in the diagnosis of adult Tay-Sachs disease
+mutation. However the G + C transversion crates an AluI
+restriction site which specifically allows the detection of
+this mutation. Therefore, the G + C transversion can be
+easily and quickly screened with a restriction assay with
+AluI endonuclease, whereas unambiguous diagnosis of
+G -+ A transition requires allele-specific oligonucleotide
+hybridization.
+The absence of G -+ C mutation at + 1 position of
+intron 7 and the infantile Ashkenazi Jewish alleles in other
+two patients with Tay-Sachs disease indicates that other
+disease causing mutation(s) are present in Portuguese population (data not shown). Interesting is the abstract of
+another group [26] which reported the presence of the
+intron 7 splicing mutation in heterozygosity with the
+Ashkenazi 4 bp insertion in a patient of Portuguese origin.
+Anyway, the frequency of any of these mutations in Portugese population must be quite low, as the occurrence of
+Tay-Sachs disease is rare. However, it is useful1 to know
+the molecular defect underlaying the Tay-Sachs disease in
+the families at risk since the use of the DNA-based test in
+addition to the diagnostic tests currently used to detect the
+carriers allow a more accurately definition of the carrier
+state.
+
+Acknowledgements
+The authors thank Lurdes Lopes for her excellent technical assistance in the imortalization of lymphocytes and
+management of cell lines. The authors are grateful to Dr.
+M. Maia and Dr. D. Alves from Hospital Maria Pia, Porto,
+for reffering the patients to Instituto de Genetica Medica.
+This work was supported by the grants BD/627/90-ID
+and PMCT/C/SAU/784/90
+from Junta National de Investigac;ao Cientifica e Tecnologica.
+
+References
+[l] Sandhoff, K., Conxelmann, E., Neufeld, E.F., Kaback, M.M. and
+Suzuki, K. (1989) in The metabolic basis of inherited disease
+
+M.G. Ribeiro et al. /Biochimica et Biophysics Acta 1270 (199.5)44-51
+
+[2]
+
+[3]
+[4]
+[5]
+[6]
+[7]
+[8]
+[9]
+[lo]
+[ll]
+
+[12]
+[13]
+
+&river,
+CR., Beaudet, A.L., Sly, W.S. and Valle, D., eds.), pp.
+1807-1838, McGraw-Hill, New York.
+Arpaia, E., Dumbrille-Ross,
+A., Maler, T., Neote, K., Tropack, M.,
+Troxei, C., Stirling, J.L., Pitts, J.S., Bapat, B., Lamhonwah, A.M.,
+Mahuran, D.J., Schuster, S.M., Clarke, J.T.R., Lowden, J.A. and
+Gravel, R.A. (1988) Nature 333, 85-86.
+Myerowitz, R. (1988) Proc. Natl. Acad. Sci. USA 85, 1955-1959.
+Ohno, K. and Suzuki, K. (1988) Biochem. Biophys. Res. Commun.
+153, 463-469.
+Ohno, K. and Suzuki, K. (1988) J. Biol. Chem. 263, 34, 1856318567.
+Myerowitz,
+R. and Costigan, F.C. (1988) J. Biol. Chem. 263,
+18587-18589.
+Myerowitz, R. and Hogikyan, N.D. (1986) Science 232, 1646-1648.
+Myerowitz, R. and Hogikyan, N.D. (1987) J. Biol. Chem. 262,
+5677-5681.
+Ohno, K. and Suzuki, K. (1988) J. Neurochem. 50, 1, 316-318.
+Tanaka, A., Ohno, K., Sandhoff, K., Maire, I., Kolodny, E.H.,
+Brown, A. and Suzuki, K. (1990) Am. J. Hum. Genet. 46,329-339.
+Fernandes, M., Kaplan, F., Natowicz, M., Prence, E., Kolodny, E.,
+Kaback, M. and Hechtman, P. (1992) Hum. Mol. Genet. 1, 9,
+759-761.
+Ainsworth, P.J. and Coulter-Mackie,
+M.B. (1992) Am. J. Hum.
+Genet. 51, 802-809.
+DOS Santos, M.R., Tanaka, A., Sa Miranda, M.C., Ribeiro, M.G.,
+Maia, M. and Suzuki, K. (1991) Am. J. Hum. Genet. 49, 886-890.
+
+51
+
+[14] Beccari, T., Emiliani, C., Hosseini, R., Orlachio, A. and Stirling,
+J.L. (1987) Biochem. I. 244, 801-804.
+[15] Neitzel, H. (1986) Hum. Genet. 73, 320-326.
+[16] Stirling, J.L. (1984) in Methods of enzymatic analysis (Bergmeyer,
+eds.), Vol. IV, Verlag Chemie, Weinheim.
+[17] Inui, K. and Wenger, D. (1984) Clin. Genet. 26, 318-321.
+[18] Lowry, O.H., Rosebrough, N.J., Farr, A.L. and Randall, R.J. (1951)
+J. Biol. Chem. 193, 265-275.
+[19] Maia, M., AIves, D., Ribeiro, G., Pinto, R. and Sa Miranda, M.C.
+(1990) Neuropediatrics 21, 18-23.
+[20] Maniatis, T., Fritsch, E.F. and Sambrook, J. (1982) Molecular
+Cloning, A Laboratory
+Manual, Cold Spring Harbor Laboratory
+Press, Cold Spring Harbor.
+[21] Chomczynski, P. and Sacchi, N. (1987) Anal. Biochem. 162, 156159.
+[22] Myerowitz, R., Piekarz, R., Neufeld, E.F., Shows, T.B. and Suzuki,
+K. (1985) Proc. Natl. Acad. Sci. USA 82, 7830-7834.
+[23] Hasilik, A. and Neufeld, E.F. (1980) J. Biol. Chem. 2554937-4945.
+[24] Shapiro, M.B. and Senapathy, P. (1987) Nucleic Acids Res 15,
+7155-7174.
+[25] Hechtman, P., Boulay, B., De Braekeleer, M., Andermann,
+E.,
+Melaqon,
+S., Larochelle, J., Prevost, C. and Kaplan, F. (1992)
+Hum. Genet. 90, 402-406.
+[26] Fernandes, M., Boulay, B., Hechtman, P., Kaplan, F. and Strasberg,
+P. (1992) Am. J. Hum. Gene& 51, 2, A167.
+
+

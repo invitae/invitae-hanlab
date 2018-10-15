@@ -1,0 +1,777 @@
+Proc. Natl. Acad. Sci. USA
+Vol. 86, pp. 41664170, June 1989
+Genetics
+
+Identification of a point mutation in growth factor repeat C of the
+low density lipoprotein-receptor gene in a patient with homozygous
+familial hypercholesterolemia that affects ligand binding and
+intracellular movement of receptors
+(gene amplification/epidermal growth factor precursor domain)
+
+ANNE K. SOUTAR*, B. L. KNIGHT, AND D. D. PATEL
+Medical Research Council Lipoprotein Team, Hammersmith Hospital, London W12 OHS, United Kingdom
+
+Communicated by George R. Stark, February 27, 1989
+
+ABSTRACT
+The coding region of the low density lipoprotein (LDL)-receptor gene from a patient (MM) with homozygous familial hypercholesterolemia (FH) has been sequenced
+from six overlapping 500-base-pair amplified fragments of the
+cDNA from cultured skin fibroblasts. Two separate single
+nucleotide base changes from the normal sequence were detected. The first involved substitution of guanine for adenine in
+the third position of the codon for amino acid residue Cys-27
+and did not affect the protein sequence. The second mutation
+was substitution of thymine for cytosine in the DNA for the
+codon for amino acid residue 664, changing the codon from
+CCG (proline) to CTG (leucine) and introducing a new site for
+the restriction enzyme Pst I. MM is a true homozygote with two
+identical genes, and the mutation cosegregated with clinically
+diagnosed FH in his family in which rwst cousin marriages
+occurred frequently. The amino acid change occurs in the
+center of growth factor repeat C in the epidermal growth factor
+precursor-homology domain of the protein, a region of highly
+conserved sequence between bovine and human LDL receptors, and results in slowed, but complete, maturation of the
+precursor to the mature form of the receptor and, despite its
+remoteness from the ligand-binding domain, in impaired binding of LDL. LDL receptors in MM's skin fibroblasts bind less
+LDL than normal and with reduced affinity. Thus this naturally occurring single point mutation affects both intracellular
+transport of the protein and ligand binding and occurs in
+growth factor-like repeat C, a region that has not previously
+been found to influence LDL binding.
+
+cholesterolemia (FH) and of constructed mutations has shed
+some light on the function of these different domains in the
+process of receptor-mediated endocytosis. The first NH2terminal 292 residues of the LDL receptor comprise the
+ligand-binding domain, containing seven cysteine-rich 40amino acid repeats. Mutations in this domain can affect
+intracellular transport (5, 6) as well as ligand binding (7-9).
+The next adjacent domain comprises 400 amino acid residues
+with 35% homology with the epidermal growth factor (EGF)
+precursor (10). Within this domain are three cysteine-rich
+repetitive elements (A, B, and C) termed "growth factor-like
+repeats" (11), which are found in many cell-surface and
+secreted proteins. Mutational analysis has shown that repeat
+A, but not B, is required for binding of LDL (9), whereas
+other mutations in repeats A and B affect recycling of
+receptors (12). Deletion of the entire domain affects the
+ability of the receptor protein on the cell surface to bind LDL
+but has no effect on binding ofligands by the purified receptor
+on a nitrocellulose blot (12). Mutations in the EGF-precursor
+homology domain have also been found to prevent the
+maturation of the precursor protein (9), which is rapidly
+degraded and fails to reach the cell surface.
+We have recently described the properties of the LDLreceptor protein in cultured skin fibroblasts from a FH
+subject (MM) in whom there is both impaired transport of the
+newly synthesized protein to the cell surface and impaired
+binding of LDL (13). In this paper, we have determined the
+sequence of the coding region of the LDL-receptor gene in
+MM, who is a true homozygote with identical defective
+genes, and show that the malfunctions are due to a single
+point mutation that changes proline 664 in growth factor-like
+repeat C to leucine.
+
+The low density lipoprotein (LDL) receptor is a cell-surface
+protein that mediates the specific recognition, uptake, and
+degradation of plasma LDL. During receptor-mediated endocytosis, LDL receptors on the cell surface cluster into
+coated pits that internalize to form endocytic vesicles from
+which the receptor recycles to the cell surface, while the
+ligand is degraded in lysosomes (1). The LDL receptor is
+synthesized as a precursor protein, of apparent molecular
+weight 120,000 by gel electrophoresis, and undergoes considerable posttranslational modification by the addition and
+remodeling of both 0-linked and N-linked carbohydrate
+chains before it reaches the cell surface as a mature protein
+of apparent molecular weight 160,000 (2).
+From cDNA cloning of LDL-receptor mRNA (3) and from
+the intron-exon structure of the gene (4) it has been predicted
+that the LDL receptor is an integral membrane protein of 839
+amino acid residues that comprises a mosaic of several
+different domains. Analysis of naturally occurring mutations
+in the LDL receptor gene in patients with familial hyper-
+
+SUBJECTS
+Subject MM is a male Zambian of Asian-Indian origin whose
+parents are first cousins. His eldest brother died of coronary
+disease (age, 23) and, as described elsewhere, MM exhibits
+the clinical features of homozygous FH type IIB (14). Homozygous and heterozygous FH were diagnosed in MM's
+family on the basis of their plasma cholesterol concentration.
+
+METHODS
+Cultured Cells. Skin fibroblasts were maintained in culture
+as described (15). Total cytoplasmic RNA was isolated from
+cultured skin fibroblasts that had been preincubated for 48 hr
+Abbreviations: FH, familial hypercholesterolemia; LDL, low density lipoprotein; EGF, epidermal growth factor.
+*To whom reprint requests should be addressed at: Medical Research Council Lipoprotein Team, Hammersmith Hospital, Ducane
+Road, London W12 OHS, U.K.
+
+The publication costs of this article were defrayed in part by page charge
+payment. This article must therefore be hereby marked "advertisement"
+in accordance with 18 U.S.C. §1734 solely to indicate this fact.
+
+4166
+
+Genetics: Soutar et al.
+
+Proc. Natl. Acad. Sci. USA 86 (1989)
+
+in medium containing 10% (vol/vol) lipoprotein-deficient
+serum as described (16).
+Gene Amplification. Double-stranded cDNA for the LDLreceptor mRNA was synthesized with a "cDNA synthesis
+system plus" kit (Amersham), using the protocol described in
+the kit for 1 gg of poly(A)-rich RNA, with the exceptions that
+5-10 Ag of total cytoplasmic RNA was substituted for
+poly(A)-rich RNA, and a 21-nucleotide oligomer complementary to bases 2609-2577 of the LDL-receptor mRNA was
+substituted for the primer(s) in the kit, to give a concentration
+of 50 Ag/ml in the first-strand reaction. Based on the incorporation of dCT32P, the yield of cDNA was :20 ng. For
+amplification (17), a Gene Amp DNA amplification kit was
+used (Perkin-Elmer/Cetus). The reaction mix (final volume,
+100 ul) contained -2 ng of cDNA and two 21-nucleotide
+oligomers that delineated 0.5-kilobase (kb) fragments of the
+coding region (3, 4), to give a final concentration of 5 Ag/ml
+each. The 5' ends of the oligomers were phosphorylated prior
+to the amplification reaction using a standard protocol (18).
+The amplification comprised incubation of the reaction mix at
+94TC for 2 min before addition of enzyme; this was followed
+by 30 cycles of 2 min each at 92TC, 480C, and 720C in turn,
+using an automated device (19). At the end of the 30th cycle,
+the samples were incubated for 15 min at 72°C to complete
+any partial strands. Amplified fragments were analyzed by
+agarose gel electrophoresis, with or without restriction enzyme digestion, using standard methods (18) and blotted with
+specific probes for the LDL-receptor cDNA as described
+(16). Probes specific for each segment were prepared by
+random primed synthesis labeling with dCT32P (20) of the
+equivalent amplified fragments of plasmid pLDLR3 (a fulllength cDNA clone for the human LDL receptor, kindly
+provided by D. Russell, Dallas). Amplified fragments were
+excised from low-melting-point agarose gels (Sigma) and
+cloned into the Sma I site of M13mpl8 (21), and their
+nucleotide sequence was determined using a Sequenase kit
+(Cambridge Bioscience, Cambridge, U.K.). For each fragment, at least one clone with an insert in each orientation was
+sequenced; where differences were found at least two of each
+orientation were sequenced or the amplified fragment was
+analyzed by restriction enzyme digestion.
+Genomic DNA was isolated from whole blood or from the
+nuclear pellets of cultured skin fibroblasts and cultured
+lymphoblasts (16) essentially as described by Kunkel et al.
+(22). Genomic DNA was amplified with two 21-nucleotide
+oligomers that encompassed exons 13 and 14 of the LDLreceptor gene as described above. The reaction mix (100 ,ul)
+contained 1 ,ug of genomic DNA and 0.5 ,tg each of oligomers
+M and N (see Fig. 3), and the amplification protocol included
+
+incubation for 20 min at 94°C and 5 min at 650C before the
+addition of enzyme; this was followed by 30 cycles of
+alternately 1 min at 910C and 5 min at 65°C, using a Techne
+programable DW-Block (GRI, Essex, U.K.).
+RESULTS
+To determine the structural basis for defects in LDL-receptor
+function in MM's fibroblasts (13), the sequence of the coding
+region of the mRNA for the LDL receptor was determined
+from six overlapping amplified fragments of =0.5 kb each.
+With each pair of oligomers, when the amplified material was
+fractionated on an agarose gel and blotted with a series of
+32P-labeled probes corresponding to the coding region of the
+receptor, a single band of expected molecular weight was
+detected. In each case the MM fragment was indistinguishable in size from a normal fragment.
+When each amplified fragment from MM was sequenced,
+two consistent differences were found between the wild-type
+sequence (3) and the sequence of the cDNA in MM. In
+fragment AB comprising nucleotides -25 to 470 ofthe coding
+region, there was a single base change such that the codon for
+amino acid residue 27 was changed from UGU in the wild
+type to UGC in MM; this base change does not affect the
+cysteine residue at this position. This single base change was
+detected in five of five M13 clones of fragment AB and was
+found in inserts in both orientations. Other changes were also
+detected in fragment AB, but each was present in only one of
+five clones and probably represents errors in the amplifications.
+The second difference, shown in Fig. 1, occurred in
+fragment IJ of MM's cDNA where there was a single base
+change such that the codon for amino acid residue 664 was
+changed from CCG in the wild type to CUG in MM, substituting leucine for proline at this position. This mutation
+introduces a new site for the restriction enzyme Pst I in MM's
+cDNA, as shown in Fig. 2. To confirm that this base change
+was not an error introduced into the single M13 clone as an
+artefact of the amplification reaction, and to determine
+whether MM was homozygous or heterozygous for this
+mutation, the whole amplified fragment IJ was digested with
+Pst I. When the digested fragments were analyzed by blotting
+with a labeled probe specific for fragment IJ, a band of 0.43
+kb was detected in normal cDNA, whereas a band of 0.34 kb
+was detected in MM's cDNA. No fragment of 0.43 kb could
+be detected in the Pst I-digested amplified fragment IJ from
+two separate preparations of cytoplasmic RNA from MM's
+fibroblasts (Fig. 2).
+
+MM
+
+G
+660
+
+670
+
+cys
+leu
+pro
+ala
+leu
+gin
+ile
+asn
+pro
+his
+ser
+
+A C G
+GA G
+GGA
+CGG
+GAC
+GT C
+T A G
+T T G
+GG G
+
+G TG
+AGC
+
+A
+
+T
+
+C
+
+4167
+
+G
+
+A
+
+T
+
+Nor
+C
+..,
+
+.. "I
+
+G
+
+C G cys 660
+
+GA
+
+G
+
+...
+
+C
+
+GTC
+TAC
+T T C
+G GG
+A GT
+GG
+C
+
+leu
+pro
+ala
+pro
+gin
+ile
+asn
+pro
+his
+ser 670
+
+FIG. 1. Partial sequence of fragment IJ of the LDL-receptor cDNA. Part of a sequencing gel of single M13 clones of amplified fragment IJ
+of normal (Nor) cDNA and MM's cDNA is shown; the sequence shown is the noncoding strand and therefore the codons appear as anticodons
+for the amino acid residues shown. Nucleotide number 2054 (where 1 is the adenine of the AUG initiator codon), indicated by an arrow, is changed
+from guanine in the normal fragment to adenine in MM, so that amino acid residue 664 is changed from proline in the normal protein to leucine
+in MM.
+
+Proc. Natl. Acad. Sci. USA 86 (1989)
+
+Genetics: Soutar et al.
+
+4168
+Nor
+
+434bp
+
+IF 94bp 7
+
+MM [
+
+337bp
+
+I--9 7bP- IF 94bP7
+Pst 1
+
+Pst 1
+
+5'
+
+3'
+1722
+
+2249
+
+1
+
+JI
+
+528bp
+
+1
+
+2
+
+3
+
+4
+
+5
+
+434
+
+46014M
+
+337
+
+FIG. 2. Sites for the restriction enzyme Pst I in normal (Nor)
+fragment IJ and MM's fragment IJ of the LDL-receptor cDNA.
+(Upper) Diagram of the 528-base-pair (bp) region of the LDLreceptor cDNA delineated by oligonucleotides I and J (represented
+by horizontal arrows). The positions of the Pst I restriction enzyme
+site at position 2155 in the normal cDNA and of the new Pst I site at
+position 2058 in MM's cDNA are indicated by vertical arrows; also
+shown is the expected size of fragments obtained after Pst I digestion
+
+of amplified fragments IJ. (Lower) Blot of an agarose gel of Pst
+I-digested fragment IJ from two preparations of normal fibroblast
+cDNA (lanes 1 and 2) and two separate preparations of MM's
+fibroblast cDNA (lanes 3 and 4), each prepared from different
+preparations of cytoplasmic RNA.
+
+Also shown (lane
+
+5) is the Pst
+
+digest of amplified fragment from plasmid pLDLR3.
+hybridized with a 32P-labeled probe specific for the IJ
+IJ
+
+I
+
+The blot was
+
+region of the
+
+LDL-receptor cDNA.
+
+The
+
+of the
+
+Pst I site made
+
+it possible to
+the proband's
+gene contains
+numerous Pst I sites, it was necessary to amplify a short
+region of the gene, encompassing exons 13 and 14, to detect
+the mutation reliably in genomic DNA. Fig. 3 shows the
+presence
+
+new
+
+examine the inheritance of the mutation in
+family. However, since the LDL-receptor
+
+results obtained when the amplified fragment MN of the
+LDL-receptor gene from several members of MM's family, in
+which there are several first cousin marriages (Fig. 4), was
+cut with Pst I and the fragments were analyzed by blotting
+with a probe specific for fragment IJ of the LDL-receptor
+cDNA. Members of the family who were diagnosed as
+homozygous had two copies of the mutant gene, whereas
+heterozygotes had one normal gene and one mutant gene.
+
+DISCUSSION
+We have described the defective function of LDL receptors
+in cultured skin fibroblasts from homozygous FH subject
+MM in detail elsewhere (13, 16). The LDL-receptor mRNA
+in MM is 5.3 kb and is synthesized at an apparently normal
+rate; it is also subject to regulation by sterols in the
+
+same way
+
+in normal cells (16). A precursor protein of normal mobility
+on SDS gels is synthesized at approximately the same rate as
+in normal cells, but its rate of maturation in MM's cells is
+delayed so that it has an abnormally long half-life (3 hr rather
+than 0.5 hr). However, all of the precursor protein eventually
+reaches the cell surface where it recycles normally, although
+its half-life is 6 hr rather than 10 hr as in normal cells (13). In
+fibroblasts cultured in the absence of sterols there is approximately the same amount of LDL-receptor protein as in
+as
+
+normal cells, but, whereas almost all of the receptors in
+normal cells are in the mature recycling form, in MM's cells
+nearly half of the receptor protein is in the precursor form
+unable to participate in uptake of LDL (13).
+As well as this defect in intracellular transport of the
+receptor protein, LDL receptors on the surface of MM
+fibroblasts show a reduced affinity for both '25I-labeled-LDL
+and very low density lipoprotein with P-mobility. Furthermore, taking into account the reduced number of recycling
+receptors in MM's cells compared to normal, LDL receptors
+in MM's cells bind less ligand per mole of protein than in
+normal cells. Once bound, the ligand is internalized and
+degraded normally. These functional differences, together
+with the observation that MM's cells also bind less of a
+monoclonal antibody to the bovine LDL receptor (23) per
+mole of LDL-receptor protein on the cell surface than do
+normal cells (13), show that there is a major structural defect
+in the LDL-receptor protein in MM's cells that is different
+from those described previously (2).
+Of the two single base changes found consistently in the
+amplified fragments of the LDL-receptor cDNA from MM's
+cells only one involved a change in the amino acid sequence
+of the protein, that of proline 664 to leucine. This mutation
+introduced a new restriction enzyme site that was present in
+both copies of MM's LDL-receptor gene, confirming that he
+was a true homozygote with two functionally identical genes.
+The mutation also cosegregated with clinically diagnosed FH
+in MM's large family, which contained two more homozygotes and numerous heterozygotes. Thus it is likely that all of
+the defective functions of the LDL receptor in MM skin
+fibroblasts can be ascribed to this single amino acid change.
+Proline 664 occurs in growth factor-like repeat C, a disulfide- and proline-rich region of the EGF-precursor homology
+domain of the LDL-receptor protein. This sequence is highly
+conserved between bovine and human LDL-receptor genes
+(2), suggesting that it has an important functional role.
+Because of the large number of proline residues it is likely
+that this region is of irregular structure, and the difference in
+amino acid sequence between it and the other two growth
+factor-like repeats A and B, which resemble more closely the
+sequence found in the EGF precursor itself, suggests that it
+is folded differently from them (4). The mutation of proline to
+leucine might be expected to have a marked effect on the
+folding of the protein, as it would release the constraint on the
+flexibility of the chain caused by the rigidity of peptide bonds
+adjacent to proline (24). Mutations of proline to leucine in
+other proteins have been found both to markedly stabilize the
+protein, as in the case of the tryptophan synthase a-subunit
+(25) and the A repressor protein (26), and to slightly destabilize it, as in the case of T4 lysozyme (27). Experiments to
+compare the stability of the LDL-receptor protein in MM
+cells and normal cells are necessary.
+Previously described mutations in the LDL-receptor gene
+that affect ligand binding have all been localized to the
+ligand-binding domain (7-9) or to growth factor repeat A,
+which is adjacent to the ligand-binding domain (9). Thus it is
+of considerable interest that LDL binding is also affected by
+a mutation in growth factor-like repeat C, which is separated
+from this previously identified binding region by at least 300
+amino acid residues in the primary structure of the protein
+(4). These observations suggest that the receptor protein
+could be folded so that growth factor-like repeat C is normally
+in contact with the ligand-binding region or that the change in
+folding of this region is sufficient to disrupt the normal folding
+of the binding domain. A third possibility is that the change
+in structure may disrupt some interaction between receptor
+protein molecules on the cell surface that is essential for
+optimum ligand binding. Our observations on the effect of
+monoclonal antibody 10A2 on the binding of LDL by MM's
+receptors and normal LDL receptors in skin fibroblasts
+
+Genetics: Soutar et al.
+
+5'
+
+Proc. Natl. Acad. Sci. USA 86 (1989)
+
+1i
+
+2
+
+3
+
+4 56
+
+78 910 1112 1314 15
+
+161718
+
+11I111 li11 11.11.1
+
+4169
+
+3'
+
+11.
+
+11-1
+
+exon 13
+
+142bp
+
+153bp
+
+exon 14
+
+intron 134bp
+
+oligo M
+
+oligoN
+
+Pst1
+449bp
+357bp
+
+449bp _
+
+--___
+__~~~~~~~
+~
+me
+-.
+4w_
+
+_
+
+Subject
+
+1
+
+|
+
+Pstl
+
++
+
+I
+
+2
+
+6
+| 3 | 4
+| 5
+unrelated normoliipemic controls
+
++
+
+I-
+
++
+
+-
+
++
+
+I-
+
+40
+
+loomr-Mm
+
+357bp -_w-
+
+Diagnosis
+
+D-92bp -_
+
++
+
+I
+
+MM
+hmz
+
+| 7
++
+
+I
+
++
+
+440
+
+_
+U,
+a..
+~~~~~~~
+_
+_w11
+
+-
+
++
+
+YR
+htz
+
+I
+
+-
+
++
+
+ZR
+hmz
+-
+
++
+
+MuR
+htz
+-
+
++
+
+MaR
+htz
+-
+
++
+
+MeR |HR
+htz
+hmz
+-
+
++
+
+-
+
++
+
+FIG. 3. (Upper) Diagram of the LDL-receptor gene with the exons (1-18) marked in black. The expanded region shows exons 13 and 14,
+and the two 21-nucleotide oligomers M and N that were used to prime the amplification of this region of the genomic DNA. Oligomer M was
+complementary to the noncoding strand and overlapped the intron-exon junction at the start of exon 13; oligomer N was complementary to the
+coding strand and overlapped the intron-exon junction at the end of exon 14 (4). The position of the new Pst I site in MM's genomic DNA is
+indicated by an arrow; the expected size of the fragments obtained after Pst I digestion of fragment MN is also shown. (Lower) Results obtained
+when genomic DNA from members of MM's family (Fig. 4) and from control subjects was amplified with oligomers M and N as primers, and
+the amplified DNA then was digested with Pst I, analyzed by agarose gel electrophoresis, and blotted with a 32P-labeled probe specific for
+fragment IJ of the LDL-receptor cDNA (see Fig. 2). Fragment MN from normal subjects was unaffected by Pst I; that from homozygotes (hmz)
+was completely digested, whereas that from heterozygotes (htz) was partially digested.
+
+would lend some support to this (13). In this context it is also
+of interest that a constructed mutant LDL-receptor protein in
+which the entire EGF-precursor homology domain was de-
+
+7.4 8.5 6.8
+
+1Z7R6
+17.6
+
+d12 d 52
+
+leted was unable to bind the ligand when on the cell surface
+in intact cells but was able to bind apparently normally when
+isolated on a nitrocellulose blot (12).
+
+8.6 19.0
+
+16.2105HR
+10.5
+
+16.2
+
+FIG. 4. Inheritance of the mutation at proline 664 in MM's family. The index patient MM is indicated by an arrow. Those members of the
+family with clinically diagnosed FH are indicated by filled symbols (homozygotes) and stippled symbols (heterozygotes), with their plasma
+cholesterol values (mmol/liter) shown below. Obligate heterozygotes not examined are indicated by hatched symbols. MM's brother (YM) and
+mother (BM) both died of coronary heart disease. Those members of the family whose genomic DNA was analyzed are underlined.
+
+4170
+
+Genetics: Soutar et al.
+
+Several different mutations in the LDL-receptor gene that
+affect transport of the newly synthesized protein to the cell
+surface have been described (28). One of these, the Lebanese
+mutation, is also located in growth factor-like repeat C,
+where the codon for Cys-660 is changed to a stop codon. The
+truncated protein produced is not processed and becomes
+rapidly degraded (29). Of more interest in relation to the
+mutation in MM's gene is that of FH 429 (28) in which the
+glycine at 544 is changed to valine. In FH 429 cells, the
+receptor is not processed to the mature form and is again
+more rapidly degraded than normal; thus the effect of this
+mutation on processing and transport is different from that of
+the proline -* leucine at 664 in the LDL receptor in MM's
+cells.
+We are indebted to Dr. G. R. Thompson for providing access to his
+FH patients, to Mrs. S. Nithythyananthan for maintenance of
+cultured skin fibroblasts, and to Mrs. E. Manson for typing the
+manuscript. We thank Dr. D. Russell (Dallas, TX) for providing
+plasmid pLDLR3, Dr. N. Cross (Department of Haematology, Royal
+Postgraduate Medical School, London) for use of the gene amplification thermal cycling apparatus, Dr. A. Zumla (Department of
+Immunology, Royal Postgraduate Medical School, London) for
+advice about MM's family tree, and Dr. T. E. Creighton (Medical
+Research Council Molecular Biology Laboratory, Cambridge) for
+helpful discussions about protein structure. A.K.S. is grateful to Dr.
+M. G. Parker and the members of his laboratory (Imperial Cancer
+Research Fund, London) for advice and encouragement throughout.
+1. Brown, M. S. & Goldstein, J. L. (1986) Science 232, 34-47.
+2. Goldstein, J. L., Brown, M. S., Anderson, R. G. W., Russell,
+D. W. & Schneider, W. J. (1985) Annu. Rev. Cell Biol. 1, 1-39.
+3. Yamamoto, T., Davis, C., Brown, M. S., Schneider, W. J.,
+Casey, M. L., Goldstein, J. L. & Russell, D. W. (1984) Cell 39,
+27-38.
+4. Sudhof, T. C., Goldstein, J. L., Brown, M. S. & Russell,
+D. W. (1985) Science 228, 815-822.
+5. Yamamoto, T., Bishop, R. W., Brown, M. S., Goldstein, J. L.
+& Russell, D. W. (1986) Science 232, 1230-1237.
+6. Russell, D. W., Esser, V. & Hobbs, H. (1989) Arteriosclerosis
+9, Suppl., 8-13.
+7. Hobbs, H., Brown, M. S., Goldstein, J. L. & Russell, D. W.
+(1986) J. Biol. Chem. 261, 13114-13120.
+8. van Driel, I. R., Goldstein, J. L., Sudhof, T. C. & Brown,
+M. S. (1987) J. Biol. Chem. 262, 17443-17449.
+
+Proc. Natl. Acad. Sci. USA 86 (1989)
+9. Esser, V., Limbird, L. E., Brown, M. S., Goldstein, J. L. &
+Russell, D. W. (1988) J. Biol. Chem. 263, 13282-13290.
+10. Russell, D. W., Schneider, W. J., Yamamoto, T., Luskey,
+K. L., Brown, M. S. & Goldstein, J. L. (1984) Cell 37, 577-585.
+11. Doolittle, R. F., Teng, D. F. & Johnson, M. S. (1984) Nature
+(London) 307, 558-560.
+12. Davis, C. G., Goldstein, J. L., Sudhof, T. C., Anderson,
+R. G. W., Russell, D. W. & Brown, M. S. (1987) Nature
+(London) 326, 760-765.
+13. Knight, B. L., Gavigan, S. J. P., Soutar, A. K. & Patel, D. D.
+(1989) Eur. J. Biochem. 179, 693-698.
+14. Allen, J. M., Thompson, G. R., Myant, N. B., Steiner, R. &
+Oakley, C. M. (1980) Br. Heart J. 44, 361-368.
+15. Knight, B. L. & Soutar, A. K. (1982) Biochem. J. 202,145-152.
+16. Knight, B. L., Patel, D. D., Gavigan, S. J. P. & Soutar, A. K.
+(1988) Eur. J. Biochem. 178, 555-561.
+17. Saiki, R. K., Gelfand, D. H., Stoffel, S., Scharf, S. J., Higuchi,
+R., Horn, G. T., Mullis, K. B. & Ehrlich, H. (1988) Science
+239, 487494.
+18. Maniatis, T., Fritsch, E. F. & Sambrook, J. (1982) Molecular
+Cloning: A Laboratory Manual (Cold Spring Harbor Lab., Cold
+Spring Harbor, NY).
+19. Foulkes, N. S., Pandolfi de Rinaldis, P. P., Macdonnell, J.,
+Cross, N. C. P. & Luzzatto, L. (1988) Nucleic Acids Res. 16,
+5687-5688.
+20. Feinberg, A. P. & Vogelstein, B. (1984) Anal. Biochem. 137,
+266-267.
+21. Perbal, B. (1988) A Practical Guide to Molecular Cloning
+(Wiley Interscience, New York), 2nd Ed.
+22. Kunkel, L. M., Smith, K. D., Boyer, S. H., Borganonkar,
+D. S., Wachtel, S. S., Miller, 0. J., Breg, W. R., Jones, W.,
+Jr., & Rary, J. M. (1977) Proc. Natl. Acad. Sci. USA 74, 12451249.
+23. Gavigan, S. J. P., Patel, D. D., Soutar, A. K. & Knight, B. L.
+(1988) Eur. J. Biochem. 171, 355-361.
+24. Matthews, B. W., Nicholson, H. & Becktel, W. J. (1987) Proc.
+Natl. Acad. Sci. USA 84, 6663-6667.
+25. Yutani, K., Ogasahava, K., Tsujita, T., & Sugino, Y. (1987)
+Proc. Natl. Acad. Sci. USA 84, 4441 4444.
+26. Hecht, M. H., Sturtevant, J. M. & Sauer, R. T. (1984) Proc.
+Natl. Acad. Sci. USA 81, 5685-5689.
+27. Alber, T., Bell, J. A., Dao-Pin, S., Nicholson, H., Wozniak, J.,
+Cork, S. & Matthews, B. W. (1988) Science 239, 631-635.
+28. Esser, V. & Russell, D. W. (1988) J. Biol. Chem. 263, 1327613281.
+29. Lehrman, M. A., Schneider, W. J., Brown, M. S., Davis,
+C. G., Elhammer, A., Russell, D. W. & Goldstein, J. L. (1987)
+J. Biol. Chem. 262, 401410.
+
+

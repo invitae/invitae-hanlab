@@ -1,0 +1,793 @@
+American Journal of Medical Genetics 42:201-207 (1992)
+
+~~~
+
+Five Missense Mutations at the Adenosine
+Deaminase Locus (ADA) Detected by Altered
+Restriction Fragments and Their Frequency in
+ADA - Patients With Severe Combined
+Immunodeficiency (ADA - SCID)
+Rochelle Hirschhorn, Amy Ellenbogen, and Stephanie Tzall
+New York University Medical Center, Department of Medicine, Division of Medical Genetics, New York, New York
+
+Severe combined immunodeficiency (SCID)is
+a heterogeneous syndrome, due to X-linked
+and autosomal recessive defects. A significant proportion of the autosomal recessive
+forms of SCID are due to mutations at the
+adenosine deaminase (ADA) locus. Nine different mutations at the ADA locus, including 7
+missense point mutations, have been reported
+in children with ADA - SCID. We couId detect
+5 of the 7 missense mutations associated with
+ADA - SCIDby alterationsin restriction fragments utilizing standard restriction digestion
+of genomic DNA and hybridization of radiolabelled ADA genomic probes to Southern
+transfers. We additionally developed more
+rapid nonradioactive methods employing digestion of genomic DNA amplified by PCR
+that also detected all 5 mutations. Using these
+methods, we have examined a sample of 45
+ADA- SCID chromosomes and report that
+these 5 missense mutations account for one
+third of the ADA- chromosomes studied,
+with 2 mutations being relatively common.
+
+KEY WORDS: Adenosine deaminase, severe
+combined immunodeficiency,
+mutations, polymerase chain
+reaction, restriction fragments
+INTRODUCTION
+The syndrome of severe combined immunodeficiency
+(SCID) reflects profound defects in both cellular and
+humoral immunity. As a result, infants suffer from fatal
+Received for publication April 2,1991; revision received July 2,
+1991.
+Address reprint request to Rochelle Hirschhorn M.D., New York
+University Medical School, Department of Medicine, Division of
+Medical Genetics, 550 First Avenue, New York, NY 10016.
+
+0 1992 Wiley-Liss, Inc.
+
+infections with pathogenic and nonpathogenic fungal,
+viral, and bacterial microorganisms. The syndrome of
+SCID is heterogeneous, with approximately half due to
+an X-linked defect and the remainder to autosomal recessive defects [reviewed in Hirschhorn and Hirschhorn,
+19901. A significant proportion of the autosomal recessive forms of SCID are due to mutations at the adenosine
+deaminase (ADA)locus [Hirschhorn et al., 19791.Mutations at the ADA locus can result in a spectrum of phenotypes: from the rapidly fatal early onset of classical
+ADA- SCID to the apparently normal immune function of “partial” ADA deficiency [Giblett et al., 1972;
+reviewed in Kredich and Hershfield, 1989; Hirschhorn,
+19901. The nucleotide sequence of both the mRNA and
+the structural gene for ADA have been determined
+[Daddona et al., 1984;Valerio et al., 1984a, 1985;Wiginton et al., 1984,19861.Nine different mutations, including 7 missense point mutations, a point mutation resulting in abnormal splicing of mRNA, and a deletion, have
+been reported in children with ADA- SCID (Table I)
+[Bonthronet al., 1985;Valerio et al., 1986;Akesonet al.,
+1987, 1988; Markert et al., 1988, 1989; Hirschhorn et
+al., 1990, 1991; Berkvens et al., 19901. We have also
+identified 6 additional missense mutations at the ADA
+locus that result in “partial” ADA deficiency (absence of
+ADA in erythrocytes but retention of variable residual
+enzyme activity in other cell types) [Hirschhorn et al.,
+1989,19901.These latter mutations appear to be associated with normal immune function, and several can be
+identified by detection of abnormal DNA restriction
+fragments.
+Computer analysis of restriction maps of the ADA
+gene [Wiginton et al., 19861 indicated that 5 of the 7
+missense mutations associated with ADA - SCID
+should be detectable by alterations in restriction fragments. To demonstrate that all 5 mutations could be
+identified by altered restriction fragments, we initially
+utilized standard hybridization of radiolabelled ADA
+genomic probes to Southern transfers of restriction-digested genomic DNA and then developed more rapid
+nonradioactive methods employing digestion of genomic
+
+202
+
+Hirschhorn et al.
+TABLE I. Mutations In ADA - SCID and Alterations in Restriction Enzyme Sites
+bp#
+bP
+Amino acid
+Enzyme
+Reference
+Exon #
+Exon 1
+Deletion
+1
+Exon 4
+IVS 3
+AG-SG
+Exon 4 spliced out
+2
+(3' splice)
+301
+GGG-TGG
+Argl0'-Trp
+2
+3
+302
+CGG-CAG
+Arg'Ol-Gln
+320
+CTG-CGG
+Leu'07-Pro
+(-1 BaZU
+4
+( + ) MSPI
+Exon 7
+632
+CGT-CAT
+Arg'l-His
+( - ) RsaI
+5
+646
+(CIGGG-AGG
+Gly216-Arg
+( + I BstXI
+6
+Exon 10
+911
+CTG-CGG
+Leu304-Arg
+( + ) MspIl
+7
+( + ) XmaI
+Exon 11
+986
+GCG-GTG
+Ala3""-Val
+( + ) BaZI
+5
+1 = Markert et al., 1988; Berkvens et al., 1990; 2 = Akeson et a]., 1988; 3 = Bonthron et al., 1985; 4 =
+Hirschhorn et al., 1990; 5 = Akeson et al., 1987; 6 = Hirschhorn et al., 1991; 7 = Valerio et al., 1986.
++ indicates gain of the restriction site; - indicates loss.
+
+DNA amplified by PCR. Using these methods, we have
+tested a sample of 45 ADA - chromosomes for the presence of these 5 missense mutations and report that the 5
+mutations account for one third of the ADA - chromosomes studied, with 2 mutations being relatively common.
+
+METHODS AND PATIENTS
+General Methods
+DNA was isolated, digested with restriction endonucleases, electrophoresed in 0.8% agarose gels, and
+transferred to nitrocellulose and filters hybridized with
+32P randomly labelled DNA probes by standard
+methods, as previously described [Maniatis et al., 1982;
+Southern, 1975; Feinberg and Vogelstein, 1984; Tzall et
+al., 19891. Isolation of the genomic DNA probes and
+determination of RFLPs was performed as previously
+described [Tzall e t al., 19891.All base pair (bp) numbers
+of genomic DNA refer to numbering in Wiginton et al.
+(1986). Numbering of the cDNA begins with 1 = A of the
+initiation ATG.
+Amplification of Genomic DNA by Polymerase
+Chain Reaction
+Genomic DNA (0.5 kg) was amplified by Taq polymerase in a total volume of 50 kl, essentially as described by Saiki et al. (1988). The reaction mixture was
+heated at 94°C for 4 min prior to the addition of 0.5 p1 of
+Taq polymerase (Cetus-Perkin Elmer) and overlaying
+with mineral oil. The DNA was amplified in a thermocycler for 30 cycles of 72°C for 5 min and 94°C for 1min
+20 sec with a final extension of 10 min a t 72°C. Three
+sets of primers were used to amplify, respectively, exon
+4, exons 7-9, or exons 10 and 11. These were a sense
+primer in IVS 3 extending from bp 24870 to 24904 and
+a n antisense primer in IVS 4 extending from bp 25595 to
+25624 (5' ATGAAGTGGGTTTAATCTGCCAAGGGTTGGGGATG and 5' TGCTAAGCTTGGGCCTGCCATGATGTTCAC); a sense primer in IVS 6 extending
+from bp 28376 to 28405 and a n antisense primer in IVS 9
+extending from bp 29086 to 29115 (5' ATGCTGTTGAAGCAGGCAGCATGACTAGGA and 5' TGCCTGCTTCCCAGGGTGTCGAAGAGATTT); a sense
+primer in IVS 9 extending from bp 30319 to 30348 and
+
+a n antisense primer in IVS 11extending from bp 31311
+to 31340 (5' AGGCTGCTGTGAGGATCAAAGGCGGGTGAA and 5' TGCTAGAAGTCCCACAGAAAGCCACACTGG). Ten microliters of the reaction product
+were incubated with the appropriate restriction enzyme
+(usually overnight) according to the manufacturer's instructions in a total volume of 25 k1, electrophoresed in
+1.2% or 2.0% agarose gels containing ethidium bromide,
+and the bands were visualized under UV light.
+
+Individuals Studied
+EBV immortalized lymphoid line cells and/or
+fibroblast cell lines from 22 unrelated ADA - deficient
+SCIDs and a mother of a n additional proband were studied. From the NIGMS Human Genetic Cell Mutant Repository (Camden NJ), GM 0469, 1390, 1715, 2436,
+2471,2578,2606,2756,2825A3,
+3136,3137,4258A, and
+11411 were studied. From the Repository for Mutant
+Human Cell Strains, Quebec, Canada, WG 548 and 290
+were studied. CR, DM, TM, CJ, Mother RQ, Te, Fx, and
+Fa were, respectively, patients of Dr. W. Borkowsky and
+R. Hirschhorn (CR), Dr. D. Kirkpatrick (DM), Dr. F. S.
+%sen (TM), Dr. M. Ballow (CJ and Ro), Dr. A. Heywood
+(TE), Drs A. Martin and R. Hong (FX), and Dr. J . Jung
+(FA). There was no known consanguinity in any of the
+families studied and therefore potentially 45 independent chromosomes were studied. However, 2 patients
+(DM and GM 114111) came from population isolates and
+were each homozygous €or a mutation (see results).
+RESULTS
+An Abnormal RsaI Restriction Fragment Detects
+the GS3' to A Mutation (Arg'll-His) in 2/45 ADA Chromosomes
+A G-to-A transition a t base pair (bp) 632 of the cDNA,
+resulting in replacement of arginine by a histidine residue at codon 211, has been reported by Wkeson et al.
+[1987,19881 in 2 ADA - SCIDs: GM 2756 [Rubinstein et
+al., 1979; Hirschhorn et al., 1980bl and GM 2606 [Cohen
+et al., 1976; Hopp et al., 1985; Hershfield et al., 19871
+(Table I). The nucleotide substitution predicts the loss of
+a site for the restriction enzyme RsaI in exon 7 of genomic DNA and the appearance of a larger than normal
+fragment (Table I and Fig. 1). When we digested DNA
+
+ADA- SCID Mutations
+
+203
+
+Kb
+
+Kb
+
+- 4.394
+- 3.154
+
+1
+
+2
+
+3
+
+4
+
+- 2.304
+- 1 .a34
+
+5
+
+- 0.697
+
+- 0.470
+- 0.340
+
+1
+Normal
+Probe
+Bal I I B g l l l
+Fig. 1. The Arg'l-to-His mutation in exon 7 can be detected as the
+loss of a site for RsaI. DNA was digested with RsaI, electrophoresed,
+transferred to nitrocellulose, and hybridized with a radiolabeled
+BalIIBglII genomic probe extending from IVS 7 (28579) to IVS 8
+(28915).The normalRsa1 sites are at bp 27277 in exon 6,28517 in exon
+7, and 31771 in IVS 11, predicting a 3.154-kbband that hybridizes with
+the probe (and a 1.240-kbband not detected by the probe used). Loss of
+the site in exon 7 predicts a larger than normal 4.394-kb band. Two
+patients are heterozygous for the mutation (lanes 2 and 4) Lane 1 = GM
+2471; lane 2 = GM 2756; lane 3 = GM 1715; lane 4 = GM 2606; lane 5
+= GM4258.
+
+representing 45 ADA - chromosomes (22 patients and a
+parent of an additional patient), only the 2 previously
+reported patients carried this mutation on one of their
+chromosomes.
+We could also identify the mutation in the 2 ADA chromosomes by amplifying exons 7-9 from genomic
+DNA, using PCR- and ADA-specific primers, digesting
+the DNA with R s d followed by electrophoresis in
+agarose, and visualization of the bands by staining with
+ethidium bromide (see Fig. 4C).
+An Abnormal MspI or XmaI Restriction
+Fragment Identifies the Ts" to G Mutation
+(Leu'"-Arg) in 1/45 ADA - Chromosomes
+A Tgll-to-G transversion, predicting a leucine304to
+arginine substitution, has been reported by Valerio et al.
+119861 in an ADA- SCID, GM 2471 [Hirschhorn et al.,
+1975, Polmar et al., 19761. The nucleotide substitution
+generates a new site for MspI in exon 10of genomic DNA
+and the appearance of a smaller than normal fragment
+(Fig. 2). Since the next 3' site for MspI in IVS 10 of
+genomic DNA is polymorphic [Tzall et al., 19891, the
+mutant MspI site could either cut a normal 0.47-kb
+fragment to 0.34 kb, ifthe mutation occurs on a chromosomes with the most common RFLP (0.47 + 1.8kb) (Fig.
+21, or a normal 2.30-kb fragment to 1.96 kb, if the mutation occurs on a chromosome bearing the rarer RFLP
+
+Mutant
+
+{
+
+2
+
+3
+
+7
+
+[.6g7
+
+I
+
+470-
+
+2.304
+1.834
+
+3:
+
+' HinclI '
+Fig. 2. The Le~~~*-to-Argmutation
+in exon 10 can be detected by the
+gain of a site for MspI. DNA was digested with MspI, electrophoresed,
+transferred to nitrocellulose, and hybridized with a radiolabelled
+Hind1 ADA genomic probe containing exon 10 (bp 29910-30713). In
+normals, the probe detects an invariant 0.697-kb fragment and, as a
+result of apolymorphicMsp1 site in IVS 10 (bp 306141, either 0.470- and
+1.834-kb fragments (common homozygote), a 2.304-kb fragment (rare
+homozygote), or all three bands (heterozygote). The mutation introduces a new MspI site in exon 10 (bp 30484 ofgenomic DNA). Lane 1 =:
+GM 2471. This patient, in addition to bearing the Leu304-to-Argmutation, which creates a new site for MspI in exon 10 (bp 30484 of genomic
+DNA), is heterozygous for the RFLP at the MspI site in IVS 10 (2.3D.H
++ 0.47 kb fragments). The mutation occurred on the chromosome
+bearing the 1.8 + 0.47 RFLP, and therefore the 0.47-kb fragment is
+replaced by a 0.34 kb band. Lane 2 = normal homozygous for the
+commonMspIRFLP inIVS 10 (1.8 + 0.47/1.8 + 0.47); lane3 = normal
+heterozygous for the RFLP (2.3/1.8 + 0.47).
+
+(2.3 kb; not seen). An abnormal 0.34-kb fragment was
+seen in GM 2471 (Fig. 21, but no other child exhibited
+either of these changes.
+This mutation also generates a new site for XmaI in
+exon 10 of genomic DNA and could therefore be identified more simply by digestion of PCR-amplified genomic
+DNA with XmaI. There are no normal sites for XmaI in
+the 1.021-kb fragment amplified (exons 10 and l l ) , and
+the mutation could be easily detected by the appearance
+of 165- and 856-bp fragments (Fig. 4E).
+An Abnormal Ban Restriction Fhgrnent
+Identifies the CSeato T Mutation (Ala -Val) in
+6/45 ADA - Chromosomes
+A CgE6-to-T
+transition, predicting an alanine3" to valine substitution [Akeson et al., 19871, was initially reported in 2 ADA- SCIDS, GM 2756 and GM 2825
+
+204
+
+Hirschhorn et al.
+
+[Rubenstein et al., 1979; Hirschhorn et al., 19801. The
+mutation creates a new site for the restriction enzyme
+BaZI in exon 11of genomic DNA and therefore the appearance of a smaller than normal restriction fragment
+(Fig. 3). Digestion patients' DNA with BaZI and hybridization with a genomic probe revealed that one additional patient (DM)was homozygous,and two additional
+patients, GM 4258 [Dyminski et al., 19791and Te, were
+heterozygous for the mutation (Fig. 3). Thus this mutation was found in 6/45 chromosomes from 5 of the patients studied (Table 11).
+The Ala329-to-Valmutation was easily identifiable by
+PCR amplification of exons 10 and 11, and digestion
+with BaZI, since there are no normal sites for BaZI in the
+amplified region. We could confirm the presence of the
+mutation on all 6 ADA- chromosomes (Fig. 4F).
+
+Identification of Two Additional Missense
+Mutations (Leul"-Pro and Gly216-Arg)by
+Amplification of Genomic DNA, Restriction
+Enzyme Digestion and Electrophoresis in
+Agarose Gels
+We also developed nonradioactive methods for the detection of 2 additional missense mutations we have previously identified and shown to be detectable by abnormal restriction fragments using conventional Southern
+blots and hybridization with radiolabelled probes. These
+latter 2 mutations are a Ledo7-Promutation in exon 4,
+detected by the simultaneous gain of a site for MspI and
+the loss of a site for BaZI [Hirschhorn et al., 19901and a
+Gly216-Argmutation in exon 7, detected by gain of a site
+for BstXI (Table I) [Hirschhorn et al., 19911. We could
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+n
+Probe
+
+t
+
+t
+HinclI
+
+Fig. 3. The Ala3''-Val mutation in exon 11 can be detected as the
+gain of a site for BaZI. DNA was digested with BalI, electrophoresed,
+transferred to nitrocellulose, and hybridized with a radiolabeledHincI1
+ADA genomic probe extending from bp 29910 to 30713 and containing
+exon 10 (see Methods). The normal BalI sites are at bp 29324 in IVS 9
+and 31928 in exon 12, predicting a normal 2.604-kb fragment. The
+mutation generates a new BalI site at bp 31177 of genomic DNA,
+predicting a smaller than normal 1.853-kb band. One patient is homozygous for the mutation (lane 91, while 4 patients are heterozygous
+(lanes 1 , 5 , 6 , and Te, not shown). Lane 1 = GM 4258A; lane 2 = CR;
+lane 3 = GM 2606; lane 4 = GM 1715; lane 5 = GM 2756; lane 6 = GM
+2825A; lane 7 = GM 2578; lane 8 = TM; lane 9 = DM.
+
+TABLE 11. Freauencv of Five Missense Mutations in 45 ADA - Chromosomes
+Mutation
+LeulO7-Pro
+Arg2ll-His
+Gly216-Arg
+Leu304-Arg
+Ala329-Val
+Total
+
+No. of chromosomes
+2
+2
+4*
+1
+
+6*
+15/45
+
+ADA- SCIDS
+GM 3136; Fa
+GM 2756; Gm2606
+GM 1390; GM2436; GM 11411*
+GM 2471
+GM 2756; GM2825; GM 4258; DM*; Te
+
+*Indicates patients who are homozygous for the mutation. All other patients were heterozygous for
+mutations.
+
+Fig. 4. Detection of five missense mutations by restriction digestion of PCR-amplified genomic DNA. Oligonucleotide primers (see Methods)
+were used to amplify the area of genomic DNA containing the mutation (exon 4, exons 7-9, or exons 10 and 11).Amplified DNA was digested with
+the indicated restriction enzyme and electrophoresed in 1.2-2.0% agarose gels containing ethidium bromide, as described in Methods. Figures are
+arranged in the order of exons involved. Mutant bands are indicated by *. Numbers refer to the base pair of genomic DNA according to Wiginton et
+al. [1986].A, B: Detection ofthe exon 4 Le~'~'-Promutation by gain of a site for MspI and simultaneous loss of a site forBal1 The primers amplify a
+754-bpfragment extending from IVS 3 (bp 24870) to IVS 4 (bp 25624). A: Gain of a site for MspI: There is one normal site for MspI (bp 24973 in exon
+4) in the 754-bp amplified fragment, predicting 110-and 645-bp fragments. The mutation generates a new MspI site at bp 25074 in the 645-bp
+fragment, predicting the appearance of 550- and 95-bp fragments (the 95-bp fragment comigrates with the normal 110-bp fragment). The MspI
+digestion also detects a n Arg76-Trpmutation due to a CZZ6-to-T
+transition, seen only in partially ADA-deficient children [Hirschhorn et al., 19901.
+The Arg76-Trpmutation abolishes the normal site for MspI (bp 24973 of genomic DNA). The child in lane 4 carries this mutation on the second
+chromosome and therefore exhibits a n intact 754-bp fragment in addition to the 550-, 110-, and 95-bp fragments of the Leulo7-Promutation.
+B: Loss of a site for BalI: There are two normal sites for BalI in the amplified region, at bp 25077 in exon 4 and 25356 in IVS 4, predicting 207- and
+comigrating 279- and 268-bp fragments. The mutation abolishes the site a t bp 25077 in exon 4, generating a 586-bp fragment from the 207- and
+279-bp fragments. Lane 1,Fa (SCID);lane 2, GM 3136 (SCID);lane 3, GM 4396 (partially deficient); lane 4, GM 7103 (partially deficient); lane 5,
+GM 7104, mother of 7103; lane 6, normal; lane 7, normal, undigested. All patients are heterozygous for the mutation. C: Detection of the exon 7
+Ar$ll-His mutation by loss of a site for RsaI: The primers amplify a 739-bp fragment extending from IVS6 (bp28376) to IVS 9 (bp 29115). There is
+only one site for RsaI in the area amplified at bp 28517 in exon 7, predicting 141- and 598-bp fragments. The Arg'l-His mutation destroys the
+normal site, resulting in the intact 739 bp fragment. Lane 1, GM 2608, mother of GM2606; lane 2, GM 2610, father of GM 2606; lane 3, GM 2606
+(SCID);lane 4, GM 2756 (SCID); lane 5, normal; lane 6, normal, undigested. D. Detection of the exon 7 G1p6-Argmutation by gain of a site for
+BstXI: The primers used were as in C, amplifyinga 739-bp fragment. There are no sites forBstX1 in the normal. The mutation generates a new site
+in exon 7 at bp 28529 of genomic DNA and predicts the generation of 586- and 153-bp fragments. Lane 1, GM 11413, father ofGM 11411:lane 2, GM
+
+ADA- SCID Mutations
+A . M S ~ I : ~ e u 1 0 7- P r o
+
+B. BalI: Leu107
+
+- Pro
+
+754
+645
+550*
+
+754
+5a6*
+279/268
+2 07
+
+110/95*
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+-
+
+His
+
+C . RsaI:
+
+205
+
+1
+
+2
+
+3
+
+4
+
+5
+
+D. BstXI: G l y 2 1 6
+
+6
+
+7
+
+-
+
+Arg
+
+739*
+598
+14 1
+
+1
+
+2
+
+3
+
+4
+
+5
+
+E. XmaI: Leu304
+
+-
+
+6
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+Arg
+
+F. BalI: ~ 1 ~ 3 2 9Val
+
+-
+
+1,021
+856*
+
+1,021
+856*
+
+165*
+
+165*
+1
+
+2
+
+3
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+11412, mother of GM 11411; lane 3, GM 11411 (SCID); lane 4, GM 1390 (SCID); lane 5, GM 2436 (SCID); lane 6, normal; lane 7, normal,
+undigested. The patient in lane 3 is homozygousfor the mutation, while the parents and the other two patients shown are heterozygous. (The faint
+band at the position of the normal fragment in lane 3 reflects contamination of the DNA sample, since analysis of a different DNA sample did not
+show this band, nor did analysis by Southern blotting and hydridization [Hirschhorn et al., 19911.E: Detection ofthe exon 10 Leu304-Argmutation
+by gain of a site for XmaI: There are no sites for X m I in the 1.021-kb fragment amplified (from bp 30319 in IVS 9 to bp 31340 in IVS 11).The
+mutation introduces an XmaI site (bp 30484), resulting in the appearance of 165- and 856-bp fragments. Lane 1,normal, undigested; lane 2,
+normal; lane 3, GM 2471. F: Detection of the exon 11Ala329-Valmutation by gain of a site for Baa: The amplified fragment is a s in E. There are no
+normal sites for BalI in this area. The mutation introduces aBaD site at bp 31175, cutting a 1.021-kbfragment to 856-and 165-bpfragments. (The
+fragment sizes are coincidentally identical to those observed in 4E,although the altered restriction sites are at opposite ends of the amplified
+fragment.) Lane 1,GM 2825; lane 2, GM2756; lane 3, GM 4258; lane 4, DIM; lane 5, normal; lane 6, normal; lane 7, normal, undigested. (Te not
+shown.)The patient in lane 4 is homozygous for the mutation, while the 3 other patients shown are heterozygous. The band in the homozygous
+patient is lighter in this gel but was of the expected intensity on repeat PCR.
+
+206
+
+Hirschhorn et al.
+
+confirm that the L e ~ “ ~ - P mutation
+ro
+occurs on 2 of the
+45 ADA - SCID chromosomes (GM 3136 and Fa (as well
+as on two partially ADA - deficient chromosomes, GM
+7103 and GM 4396). The mutation could be detected by
+this method, both by loss of a site for Ban and gain of a
+site for MspI (Figs. 4A and 4B, Table 11)[Hirschhorn et
+al., 19901. Similarly, the G13l6-to-Argmutation could
+be detected as the gain of a site for BstXI (Fig. 4D, Table
+11). The results confirmed that one patient was homozygous and two patients (GM 1390 and 2436) were heterozygous for the mutation (4145ADA - chromosomes)
+[Hirschhorn et al., 19911.
+
+pendently a t least twice, since the mutation was found
+on different chromosomal backgrounds in the 2 children
+initially reported (GM 2756 and 28251, as evidenced by
+silent base pair differences in the cDNAs [Akeson et al.,
+19871, as well as differences in haplotypes defined by
+intragenic RFLPs at the ADA locus [Tzall et al., 19891.
+Two of the patients reported here as carrying the mutation and one of the originally reported patients (GM
+2756) could all carry the mutation on the same rare
+haplotype (IX). Thus DM is homozygous for haplotype
+IX and for the mutation GM 4258 is heterozygous IX/II
+and carries the mutation on the IX haplotype [unpublished data and Tzall et al., 19891, while the RFLPs
+in GM 2756 are compatible with IWI haplotypes, with
+the mutation on the IX haplotype. These 3 patients are
+also all of Afro-American background, consistent with
+the mutation having derived in these patients from a
+common progenitor and suggesting that the mutation
+may be more frequent in patients of Afro-American
+background. The third patient newly identified as carrying the mutation (TE),like GM 2825, carries the mutation on a different chromosomal background, since he
+is homozygous for the common PstI RFLP [unpublished
+data] and therefore cannot carry a IX haplotype [Tzall et
+al., 19891.It is not surprising that the mutation has been
+recurrent, since it is a G-to-A transition a t a CG dinucleotide. In human DNA, cytosine is methylated
+when followed by a guanosine (CG dinucleotide). Methylated cytosine can spontaneously deaminate to thymine, resulting in a C-to-T transition if the deamination
+occurred initially on the coding strand and a G-to-A
+transition if the mutation originally occurred on the
+antisense noncoding strand. Therefore, CG dinucleotides represent so-called mutational hot spots [reviewed in Cooper and Krawczak, 19901.
+Two mutations, in addition to the Ala329-to-Valmutation, were found to occur in more than one unrelated
+patient, and both are also C-to-Tor G-to-Amutations at
+CG dinucleotides (Arg211to His and Gly’” to Arg, Table
+I). However, since both ofthese latter mutations occur in
+individuals homozygous or heterozygous for the most
+common haplotypes, we cannot definitively determine if
+they represent descent from a common progenitor or,
+like the Ala329-to-Valmutation, are independently recurrent.
+Study of additional ADA- SCID patients for these
+mutations using the simple methodology described here
+should more definitively define the frequency of these
+mutations.
+
+DISCUSSION
+We have determined that 5 missense mutations a t the
+ADA locus can be detected by alterations in restriction
+fragments and have now also developed PCR based nonradioactive rapid methods for their identification. As
+with all PCR-based detection of mutations, the methodology can give both “false positives and negatives.”
+Thus, polymorphism a t the site of the amplifying
+primers can lead to amplification of only one allele (or
+neither) and therefore potentially false negatives. However, such considerations do not apply to this study, since
+all mutations were also identified by standard Southern
+blotting and hybridization. Conversely, false positives
+could theoretically occur because of the generation of a
+new site for the same restriction enzyme, but at a site
+other than the one described here. However, to result in
+a “false positive,” the alteration would also have to generate the same size fragments. Therefore, DNA from a
+cell line carrying each of the mutations (available from
+the NIH Mutant Repository) should be used as a reference on the same gel. In addition, loss of the same restriction site could occur because of a change at a different base pair that could be a silent, rare normal
+polymorphism. However, 4 of the 5 mutations generate
+abnormal restriction fragments by the creation of a new
+restriction enzyme site, therefore defining the single
+base pair change.
+We have further determined the frequency of these 5
+mutations in a sample of 45 ADA - SCID chromosomes
+and found that they account for one third of the chromosomes. All but one of the mutations was found in more
+than one unrelated patient, and the 5 mutations together account for one third of the alleles. Two of the
+mutations (Leu3O4-Proand Ala3”-Val) were the most
+common and accounted for 25 percent of the chromosomes (10145).The Ala3”-Val mutation, found here on
+13% of chromosomes (61451, has previously been reACKNOWLEDGMENTS
+ported to occur with an even higher frequency of 31%
+6/16] of chromosomes examined (disregarding known
+This investigation was supported by grants from the
+consanguinity and including only patients uniquely NIH (A1R3710353)and the National Foundation March
+studied by Market et al. [19891. However, the 2 frequen- of Dimes. Computing was supported by NSF under
+cies overlap considerably in their 95% probability DIR-8908095.
+limits. In addition, if one assumes that homozygosity for
+a mutation indicates consanguinity, then the comparaREFERENCES
+tive frequencies are 12% vs. 21% (5143 vs. 3/14). The
+Al, Wiginton DA, States JC, Perme CM, Dusing MR, Hutton JJ
+combined frequency of 8/57 has 99% confidence limits of Akeson
+(1987): Mutations in the human adenosine deaminase gene that
+approximately 5-30%. Nonetheless, the frequency of
+affect protein structure and RNA splicing. Proc Natl Acad Sci USA
+84:5947-5951.
+the Ala3”-Val mutation may vary in different populations. The Ala3” mutation has clearly originated inde- Akeson AL, Wiginton DA, Dusing MR, States JC, Hutton JJ (1988):
+
+ADA- SCID Mutations
+
+207
+
+Mutant human adenosine deaminase alleles and their expression Hopp RJ,Kobayashi RH, Antonson DL (1985):Iron overload as a result
+by transfection into fibroblasts. J Biol Chem 263:16291-16296.
+of transfusion therapy in a patient with adenosine deaminase deficiency. Nebr Med J 70:95-97.
+Berkvens TM, van Ormondt H, Gerritsen EJA, Meera Khan P, van der
+Eb AJ (1990):Identical 3250-bp deletion between two AluI repeats
+Kredich NM, Hershfield MS (1989):Immunodeficiency disease associin the ADA genes of unrelated ADA - SCID patients. Genomics
+ated with adenosine deaminase deficiency and purine nucleoside
+7:486-490.
+phosphorylase deficiency In Scriver CM, Beaudet AL, Sly W, Valle
+D (eds): “The Metabolic Basis of Inherited Disease,” 5th ed. New
+Bonthron DT, Markham AF, Ginsburg D, Orkin SH (1985):IdentificaYork McGraw Hill, pp 1045-1076.
+tion of a point mutation in the adenosine deaminase gene responsible for immunodeficiency. J Clin Invest 76:894-897.
+Maniatis T, Fritsch EF, Sambrook J (1982): “MoIecuIar Cloning: A
+Laboratory Manual.” Cold Spring Harbor, NY: Cold Spring Harbor
+Cohen A, Hirschhorn R, Horowitz SD, Rubinstein A, Polmar SH, Hong
+Laboratory.
+R, Martin DW Jr. (1978): Deoxyadenosine triphospate as a potentially toxic metabolite in adenosine deaminase deficiency.Proc Natl
+Markert ML, Hutton J J , Wiginton DA, States JC, KaufmanRE (1988):
+Acad Sci USA 75472-476.
+Adenosine deaminase deficiency (ADA) due to deletion of the ADA
+gene promoter and first exon by homologous recombination beCooper DN, Krawczak D (1990): The mutational spectrum of single
+tween two alu elements. J Clin Invest 81:1323-1327.
+base-pair substitutions causing human genetic disease: Patterns
+and predictions. Hum Genet 8555-74.
+Markert ML, Norby-Slycord C, Ward FE (1989): A high proportion of
+ADA point mutations associated with a specific alanine-to-valine
+Daddona PE, Shewach DS, Kelley WN, Argos P, Markham AF, Orkin
+substitution. Am J Hum Genet 45:354-361.
+SH (1984): Human adenosine deaminase cDNA and complete primary amino acid sequence. J Biol Chem 25912101-12106.
+Polmar SH, Stern RC, Schwartz AL, Wetzler EM, Chase PA,
+Hirschhorn R (1976): Enzyme replacement therapy for adenosine
+Dyminski JW, Daoud A, Lampkin BC, Limouze S, Donofrio J , Coleman
+deaminase deficiency and severe combined immunodeficiency.
+MS, Hutton, JJ (1979):Immunological and biochemical profiles in
+N Engl J Med 295:1337-1343.
+response to transfusion therapy in an adenosine deaminase deficient patient with severe combined immunodeficiencydisease. Clin
+Rubinstein A, Hirschhorn R, Sicklick M, Murphy RA (1979):In vzuo
+Immunol Immunopathol 14:307-326.
+and in uitro effects of thymosin and adenosine deaminase on adenosine-deaminase-deficientlymphocytes. N Engl J Med 300387-392.
+Feinberg AP, Vogelstein B (1984): Addendum: A technique for radiolabelling DNA restriction enzyme fragments to high specific activSaiki RK, Gelfand DH, Stoffel S, Scharf SJ,Higuchi R, Horn GT,
+ity. Anal Biochem 137:266-267.
+Mullis KB, Erlich HA (1988):Primer-directed enzymatic amplification of DNA with a thermostable DNA polymerase. Science
+Giblett ER, Anderson JE, Cohen F, Pollara B, Meuwissen HJ (1972):
+239:487-491.
+Adenosine deaminase deficiency in two patients with severely impaired cellular immunity. Lancet 2:1067- 1069.
+Schrader WP, Pollara B, Meuwissen HJ (1978): Characterization of the
+residual adenosine deaminating activity in the spleen of a patient
+Hershfield MS, Buckley RH, Greenberg ML, Melton AL, Schiff R,
+with combined immunodeficiency disease and adenosine deamiHatem C, Kurtzberg J , Markert ML, Kobayashi RH, Kobayashi AL,
+nase deficiency. Proc Natl Acad Sci USA 75446-450.
+Abuchowski A (1987): Treatment of adenosine deaminase deficiency with polyethylene glycol-modified adenosine deaminase. Southern EM (1975):Detection of specific sequences among DNA fragN Eng J Med 316589-596.
+ments separated by gel electrophoresis. J Mol Biol 98503417.
+Hirschhorn R (1990): Adenosine deaminase deficiency. In %sen F S, Tzall S, Ellenbogen A, Eng F, Hirschhorn R (1989): Identification and
+Seligmann M (eds): “Immunodeficiency Reviews,” Vol. #2, United
+characterization of nine RFLPs at the adenosine deaminase (ADA)
+Kingdom: Harwood Academic Publishers, pp 175-198.
+locus. Am J Hum Genet 44:864-875.
+Hirschhorn R, Hirschhorn K (1990): Immunodeficiency disorders. In Uberti J , Peterson WD, Lightbody JJ Jr., Johnson RM (1983): A pheEmery AEH, Rimoin DL (eds): “The Principles and Practice of
+notypically normal revertant of an adenosine deaminase-deficient
+Medical Genetics.” Edinburgh: Churchill Livingstone, pp 1411lymphoblast cell line. J Immunol 1302866-70.
+1430.
+Valerio D, McIvor RS, Williams SR, Duyvesteyn MGC, van Ormondt H,
+Hirschhorn R, Beratis N, Rosen FS, Parkman R, Stern R, Polmar S
+van der Eb AJ, Martin DW Jr. (1984): Cloning of human adenosine
+(1975): Adenosine-deaminase deficiency in a child diagnosed predeaminase cDNA and expression in mouse cells. Gene 31:147-153.
+natally. Lancet 1:73-75.
+Valerio D, Duyvesteyn MGC, van Ormondt H, Meera Khan P, van der
+Hirschhorn R, Vawter GF, Kirkpatrick JA Jr., Rosen FA (1979):AdenoEb AJ (1984): Adenosine deaminase (ADA) deficiency in cells desine deaminase deficiency: Frequency and comparative pathology
+rived from humans with severe combined immunodeficiencyis due
+in autosomally recessive severe combined immunodeficiency. Clin
+to an aberration of the ADA protein. Nucleic Acids Res 121015Immunol Immunopathol 14107-120.
+1024.
+Hirschhorn R, Papageorgiou P, Kesarwala H, Taft LT (1980a):Amelio- Valerio D, Duyvesteyn MGC, Dekker BMM, Weeda G, Berkvens TM,
+ration of neurologic abnormalities after “enzyme replacement” in
+van der Voorn L, van Ormondt H, van der Eb AJ (1985):Adenosine
+adenosine deaminase deficiency. N Engl J Med 303:377-380.
+deaminase: Characterization and expression of a gene with a remarkable promoter. EMBO J 4:437-443.
+Hirschhorn R, Roegner V, Rubinstein A, Papageorgiou P (1980b):
+Plasma deoxyadenosine, adenosine and erythrocyte deoxyATP are Valerio D, Dekker BMM, Duyvesteyn MGC, vander Voorn L, Berkvens
+elevated at birth in an adenosine deaminase-deficient child. J Clin
+TM, van Ormondt H, van der Eb AJ (1986): One adenosine deamiInvest 65768-771.
+nase allele in a patient with severe combined immunodeficiency
+contains a point mutation abolishing enzyme activity. EMBO
+Hirschhorn R, Tzall S, Ellenbogen A, Orkin SH (1989):Identification of
+J 5:113-119.
+a point mutation resulting in a heat-labile adenosine deaminase
+(ADA) in two unrelated children with partial ADA deficiency. Wiginton DA, Adrian GS, Hutton JJ (1984):Sequence ofhuman adenoJ Clin Invest 83:497-501.
+sine deaminase cDNA including the coding region and a small
+intron. Nucleic Acids Res 12:2439-2446.
+Hirschhorn R, Tzall S, Ellenbogen A, Eng F (1990): “Hot spot” mutations in adenosine deaminase (ADA)deficiency. Proc Natl Acad Sci Wiginton DA, Kaplan DJ,States JC, Akeson AL, Perme CM, Bilyk IJ,
+USA 87:6171-6175.
+Vaughn AJ, Lattier DL, Hutton JJ (1986): Complete sequence and
+structure of the gene for human adenosine deaminase. BiochemisHirschhorn R, Chakravarti V, Puck J , Douglas SD (1991): Homotry 25:8234-8244.
+zygosity for a newly identified missense mutation in a patient with
+very severe combined immunodeficiency disease due to adenosine
+deaminase deficiency. Am J Hum Genet, 49:878-885.
+
+

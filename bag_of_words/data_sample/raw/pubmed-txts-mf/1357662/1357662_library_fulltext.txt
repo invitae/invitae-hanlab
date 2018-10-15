@@ -1,0 +1,981 @@
+Proc. Nati. Acad. Sci. USA
+Vol. 89, pp. 9297-9301, October 1992
+Genetics
+
+Point mutations in the tyrosine aminotransferase gene in
+tyrosinemia type II
+(Richner-Hanhart syndrome/inborn error of metabolism/complex aflele/splice mutation)
+
+ERNST NATT*t, KAICHI KIDA*, MICHELE ODIEVRE§, MAJA Di Rocco¶, AND GERD SCHERER*II
+*Institute of Human Genetics, University of Freiburg, Breisacher Str. 33, D-7800 Freiburg, Federal Republic of Germany; tDepartment of Pediatrics, Ehime
+University School of Medicine, Ehime 791-02, Japan; §Hopital A. B&cltre, Service de Pediatrie, F-92141 Clamart, France; and ¶2A Divisione Medicina
+Pediatria, Istituto Gaslini, I-16148 Genova, Italy
+
+Communicated by Susumu Ohno, June 5, 1992
+
+(11). Moreover, there is evidence for a Tse-1-like factor on
+human chromosome 17 (9).
+The human TAT gene extends over 10.9 kilobases (kb)
+containing 12 exons, and its 3.0-kb mRNA codes for a
+454-amino acid protein of 50.4 kDa (12). We previously
+described an RHS patient with an inherited and a de novo
+deletion of the TAT locus at chromosome 16q22 (13). We now
+report the molecular defects underlying the RHS phenotypes
+in three nondeletion tyrosinemia type II patients.
+
+Tyrosinemia type II (Richner-Hanhart synABSTRACT
+drome, RHS) is a disease of autosomal recessive inheritance
+characterized by keratitis, palmoplantar hyperkeratosis, mental retardation, and elevated blood tyrosine levels. The disease
+results from deficiency in hepatic tyrosine aminotransferase
+(TAT; L-tyrosine:2-oxoglutarate aminotransferase, EC
+2.6.1.5), a 454-amino acid protein encoded by a gene with 12
+exons. To identify the causative mutations in five TAT alleles
+cloned from three RHS patients, chimeric genes constructed
+from normal and mutant TAT alleles were tested in directing
+TAT activity in a transient expression assay. DNA sequence
+analysis of the regions identified as nonfunctional revealed six
+different point mutations. Three RHS alleles have nonsense
+mutations at codons 57, 223, and 417, respectively. One
+"complex" RHS allele carries a GI
+GG splice donor
+mutation in intron 8 together with a Gly Val substitution at
+amino acid 362. A new splice acceptor site in intron 2 ofthe fifth
+RHS allele leads to a shift in reading frame.
+
+MATERIALS AND METHODS
+Patients. RHS patients studied are TI from Japan (14), MT
+from France (15), and MB from Italy. Age at onset of eye and
+skin lesions was 3-4 years for MB, and about 10 and 15 years,
+respectively, for her tyrosinemic brother. Untreated plasma
+tyrosine levels were 1.21 mM for MB and 1.05 mM for her
+brother, diagnosed at the age of 23 years and 27 years,
+respectively. Psychomotor development was normal in both
+sibs.
+DNA Cloning and Sequence Analysis. To isolate 13-kb Spe
+I fragments harboring the complete 10.9-kb human TAT gene
+(12), 100 i&g of genomic DNA was digested with Spe I and
+fractionated by electrophoresis in 0.7% agarose, and fragments of 11-15 kb were isolated and cloned into the Xba I site
+of EMBL12 (16) by standard techniques (17). Positive recombinants were identified by plaque hybridization of the
+resulting libraries (2.5 x 105 to 1.1 x 106 recombinants) with
+TAT cDNA clone phcTAT2-16 (12). Complete inserts were
+transferred as Sal I fragments into pSPSV, a derivative of
+pSP65 with the 180-base-pair (bp) HindIII-Pvu II fragment
+adjacent to the polylinker segment replaced by a 323-bp
+HindIII-Pvu II fragment from pSV2cat (18) carrying the
+simian virus 40 enhancer region. Subfragments cloned into
+M13 were sequenced (19) using Sequenase (United States
+
+Tyrosinemia type II, also known as Richner-Hanhart syndrome (RHS), is an inborn error of metabolism due to a block
+in the transamination reaction converting tyrosine to p-hydroxyphenylpyruvate, a step catalyzed by the hepatic cytosolic enzyme tyrosine aminotransferase (TAT; L-tyrosine:2oxoglutarate aminotransferase, EC 2.6.1.5). RHS patients
+suffer from keratitis, palmar and plantar hyperkeratosis, and
+sometimes mental retardation, accompanied by highly elevated serum and urine levels of tyrosine and its metabolites.
+The condition improves rapidly on a tyrosine- and phenylalanine-restricted diet (for reviews see refs. 1 and 2).
+TAT has been extensively studied in rat and mouse,
+revealing a complex pattern of regulation. Enzyme activity is
+virtually absent in fetal rat liver and becomes detectable just
+after birth (3). The TAT gene is under hormonal control by
+glucocorticoids and cAMP, which increase the basal transcription rate 5- to 10-fold (4, 5), acting via different response
+elements in the 5' flanking region of the gene (6, 7). Furthermore, the rodent TAT genes are subject to two trans-acting
+regulators. Basal expression and hormone inducibility of the
+Tat gene on mouse chromosome 8 are controlled by a positive
+trans-acting factor, alf, encoded on mouse chromosome 7 (8).
+Conversely, the tissue-specific extinguisher locus Tse-J on
+mouse chromosome 11 encodes a product that represses Tat
+gene transcription in nonliver cells (9).
+Little is known about the regulation of the human TAT
+gene. As in rodents, hepatic TAT activity reaches significant
+levels shortly after birth, although some activity is present in
+the fetus (10). Induction of human TAT by glucocorticoids
+and cAMP has been demonstrated in fetal liver organ cultures
+
+Biochemical).
+
+Construction of Chimeric TAT Genes. For constructs BII-1
+and BII-2 (Fig. 1), 5.0-kb Bgl II fragments were removed from
+each pSPSV clone to generate deletion clones (designated
+pSPSVdB), purified by cloning into pUC vectors, and reinserted into the deletion clones in the appropriate combinations. Constructs X-1 and X-2 were obtained accordingly,
+making use of an Xba I site in the polylinker. For constructs
+H-1 and BII-1/H, the 5.0-kb Bgl II fragments of the normal
+TAT allele and of allele RHS2B were cloned into a pUC
+derivative lacking a HindIII site. These subclones were used
+to exchange the 2.7-kb HindIII fragment in the manner
+described, and the resulting chimeric Bgl II fragments were
+Abbreviations: TAT, tyrosine aminotransferase; RHS, RichnerHanhart syndrome.
+tPresent address: Institut National Polytechnique, ENSAT, 145
+Avenue de Muret, F-31076 Toulouse, France.
+'To whom reprint requests should be addressed.
+
+The publication costs of this article were defrayed in part by page charge
+payment. This article must therefore be hereby marked "advertisement"
+in accordance with 18 U.S.C. §1734 solely to indicate this fact.
+
+9297
+
+9298
+
+Genetics: Natt et al.
+
+Proc. Natl. Acad. Sci. USA 89 (1992)
+_
+F 'L
+I..
+G
+
+-2
+
+Construct
+
+A 3C
+
+ki'
+
+I-'...
+3-
+
+.S
+.i
+B
+
+-.
+
+_ _ --:i
+
+....-
+
+Relat ive
+
+~~~A Actuivii-
+
+!-
+
+E .,
+
+r r
+
+..
+
+-A L'.
+
+BIDi.
+
+_._.____.___.__.._._
+__..._
+......
+___
+_
+_
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+B
+
+1H
+--2
+
+B
+~~ ~~
+~ ~ ~
+3.~
+~~ ~~ ~ ~~~
+
+H2-iS2P
+
+)
+
+X-1 _._____..
+3!o.
+___._...______...__-_--__-__:_::
+'3-
+
+FIG. 1. Functional transfection assays of chimeric TAT genes identify regions harboring inactivating mutations. Chimeric TAT genes were
+constructed by combining fragments from mutant alleles (black segments) with those from the wild-type allele (open segments) in plasmid vector
+pSP65 carrying the simian virus 40) enhancer. Plasmid constructs were cotransfected with RSVlacZ plasmid as internal standard into mouse Ltkfibroblasts. Enzyme activity of cell extracts prepared after transient expression for 45-53 hr is given as relative TAT activity (TAT specific
+activity x 1000/f3-galactosidase specific activity). Exons A-L of the TAT gene (12) are indicated at the top, with coding sequences indicated
+by black boxes, and 5' and 3' untranslated regions by white boxes. Vector segments are shaded, and the simian virus 40 enhancer fragment is
+hatched. Relevant restriction sites: BI, Bgl I; BiI, Bgl II; H, HindIII; S, Sal I; X, Xba I. Regions containing inactivating mutations as defined
+by relative TAT activities below 100 are indicated by M. Note that allele RHS2B carries two mutations, Ml and M2.
+
+reinserted into the wild-type pSPSVdB clone. Generation of
+constructs BI-1 and BI-2 was more complex (20).
+Transient Transfection Assay. One day before transfection,
+2 x 106 mouse Ltk- cells (thymidine kinase-deficient fibroblast line) were seeded in 10-cm dishes and grown in Dulbecco's modified Eagle's medium (DMEM) containing 10%o
+fetal bovine serum. Plasmid DNA [9 ug of test plasmid plus
+1 ,ug of RSVlacZ plasmid (gift of W. Ankenbauer, German
+Cancer Research Center, Heidelberg), a derivative of
+pCH110 (36) containing the Rous sarcoma virus long terminal
+repeat promoter/enhancer] was then added in 3 ml of transfection solution consisting ofDMEM, 20 mM Hepes (pH 7.4),
+0.1 mM chloroquine diphosphate, and 0.2 mg of DEAEdextran per ml. Transfection solution was removed after 5 hr,
+and cells were incubated for 40-48 hr in normal medium.
+Cells from one dish were harvested in 250 ,ul of TAT buffer
+(21) and sonified, and extracts were cleared by centrifugation
+at 10,000 x g. TAT assays (21) were performed with 60 M1 of
+extract, after a preincubation step at 750C for 2 min to
+inactivate nonspecific transaminases. The (3-galactosidase
+assay (22) was carried out with 40 ul of extract.
+Nuclease Si Mapping. A 600-bp genomic fragment of
+RHS1A, extending from a HindIII site in intron 2 to an Ava
+I site 75 bp into exon C, was cloned, after fill-in of the
+restriction sites, into Sma I-cut M13mpl9, regenerating an
+Ava I site close to the universal sequencing primer. Dideoxysequencing products obtained from this clone, designated
+19HA3, were cut with Ava I, resulting in a sequence ladder
+directly aligning with the nuclease Sl-resistant products. To
+generate the nuclease S1 probe fragment, clone 19HA3 was
+cut with Ava I, 5' end-labeled, and cut with Dde I, and a
+135-bp Dde I-Ava I fragment labeled at the Ava I site in exon
+C was isolated. This probe fragment (0.04 pmol) was mixed
+in 10 ul of hybridization solution with total RNA isolated
+from mouse Ltk- cells 21 hr after transfection with mutant
+
+allele RHS1A (40 Mg of RNA) or normal TAT allele (20 Mg of
+RNA) or from untransfected cells (20 Mg of RNA). Hybridization and nuclease S1 digestion were essentially as described (23), except that RNADNA hybrids were allowed to
+form at 520C for 8 hr, then at 500C for 4 hr, and finally at 480C
+for 4 hr.
+
+RESULTS
+Cloning and Differentiation of TAT Aflales. When this analysis was started, the DNA sequence of the exons and their
+flanking intron borders in the human TAT gene had not yet
+been determined (12), precluding a PCR-based approach. We
+therefore cloned normal and mutant TAT alleles on 13-kb
+restriction fragments containing the complete 10.9-kb TAT
+gene into plasmid vectors. The normal TAT allele is derived
+from clone AhTAT1 (12), whereas the mutant TAT alleles are
+from three RHS patients (TI, MT, and MB). Eight independent
+clones each were isolated from TI and MT, and six from MB.
+Results of allele differentiation by restriction pattern analysis are presented in Table 1. Alleles RHS1A and RHS1B,
+represented by five and three clones, respectively, differ only
+in their Hph I pattern. Alleles RHS2A and RHS2B, also
+represented by five and three clones, respectively, can be
+differentiated by eight enzymes. No differences were found
+among the six independent clones from patient MB. The
+differences observed with BamHI and Hae III are true
+restriction fragment length polymorphisms (24, 25) and have
+allowed us to identify, by pedigree analysis, RHS2A as the
+maternal allele and RHS2B as the paternal allele (24).
+Functional Transfection Assay of Chimeric TAT Genes. To
+narrow down the region(s) harboring the mutant site(s) in
+each RHS allele, a series of chimeric TAT clones was
+constructed by exchanging restriction fragments between
+normal and mutant TAT alleles (Fig. 1). For every mutant
+
+.^_~ _5
+
+Genetics: Natt et al.
+
+Table 1. Comparison of restriction enzyme cleavage patterns of
+cloned RHS alleles with those of the normal TAT allele
+Patient MT
+
+Patient
+MB,
+RHS3
+RHS1A RHS1B RHS2A RHS2B
+Enzyme (5 clones) (3 clones) (5 clones) (3 clones) (6 clones)
++
+Alu I
++
++
++
++
++
+BamHI
++
++
++
+Bst NI
++
++
++
++
++
++
+Dde I
++
++
+Hae III
++
++
++
+Hinfl
++
++
++
++
+Hph I
+Jr
++
++
+Rsa I
++
++
++
++
+Plasmid pUC18 subclones containing TAT alleles on 13-kb genomic Spe I (Sal I) fragments, cloned in the same orientation, were
+digested with 10 frequently cutting restriction enzymes and with
+BamHI. Resulting fragments from normal and mutant TAT alleles
+were separated in 2% agarose gels side by side. +/-, identical
+to/different from normal TAT allele. No differences were observed
+with Hha I, Hpa II, and Sau3AL.
+Patient TI
+
+allele, a 5.0-kb BgI II fragment was exchanged, allowing a
+differentiation of the 5' and 3' halves of the gene. Further
+exchanges took place at the Bgl I site between exons C and D
+(for RHS1A, RHS1B, and RHS3) and at the Xba I site between
+exons K and L (for RHS2A and RHS2B). Finally, for RHS2B
+only, a 2.7-kb HindIII fragment from the 3' end ofthe gene was
+exchanged. Resulting plasmids were tested for directing TAT
+activity in mouse Ltk- fibroblasts after cotransfection with
+plasmid RSVlacZ, using B-galactosidase activity as internal
+standard to compensate for variable transfection efficiencies.
+RHS1A
+G A T C
+
+3
+A
+
+'
+
+.=
+
+\
+
+__
+
+a
+
+:G
+wG
+
+No rmal1
+G A T C
+
+S3
+_
+
+a
+
+a
+
+t
+
+a
+
+5'
+
+D
+
+I
+
+Constructs giving relative TAT activities below 100 were
+scored as carrying inactivating mutations, which could be
+narrowed down to the regions marked by brackets (M) in Fig.
+1. Interestingly, RHS2B carries two mutations, Ml and M2,
+each being sufficient for complete inactivation.
+Identification of the TAT Mutations by DNA Sequence
+Analysis. All exons and exon/intron boundaries, as well as
+the first 200 bp of the 5' flanking region, within the relevant
+regions thus identified were subjected to DNA sequence
+analysis on appropriate M13 subclones. The autoradiographs
+in Fig. 2 display the mutations identified, which are summarized in Fig. 3.
+Each mutation turned out to be a single base substitution,
+except for the deletion of a CT dinucleotide at positions -8
+and -7 in the promoter region of RHS3 (data not shown).
+Three mutations generate stop codons in exons F, L, and B
+of alleles RHS1B (Fig. 2B), RHS2A (Fig. 2C), and RHS3
+(Fig. 2F), respectively. One mutation leads to an exchange
+from Gly to Val in codon 362 within exon J of RHS2B (Fig.
+2E; region M2 in Fig. 1). This mutation, a G-- T transversion,
+occurs within the sequence CCT-G(G/T)A-CTC (codons
+361-363), thus destroying restriction sites for BstNI
+(CCTGG) and Hinfl (GACTC) and generating a new Rsa I
+site (GTAC) (compare Table 1).
+Finally, two mutations occur at splicejunctions. The second
+inactivating mutation of RHS2B (Fig. 2D; region Ml in Fig. 1)
+changes the conserved GI splice donor sequence at the exon
+H/intron 8 boundary to GQj. The second splice mutation, an
+A-- G transition in intron 2 of RHS1A (Fig. 2A), creates a new
+splice acceptor site (see below). Due to the new splice occurring four nucleotides 5' to the normal splice position, a new
+reading frame results, terminating at codon 91/92 in exon C.
+RHS1B
+
+Normal
+
+C
+
+C T A G C T A G
+
+r G \
+
+vw
+
+_I..
+,MO
+
+AT
+
+go~
+
+~
+
+RHS2A
+
+G A T C G A T C
+
+/G
+J~~~~~M
+T
+
+__-G
+
+G
+
+3'
+
+G
+
+.
+
+_
+_~~~~~~~~
+
+G
+
+A
+
+A
+
+5' /
+
+--.
+
+_
+A
+|
+
+_-
+
+t
+
+_
+
+5'
+XA
+
+A
+
+_~~~
+
+,jb,,,ji
+
+--w
+
+5'
+
+0
+
+Normal
+
+;
+
+G~~~~
+
+0
+
+-10.
+
+a
+
+9299
+
+40-
+
+a~ "I___
+
+G
+
+Normal
+
+'R
+
+Proc. Natl. Acad. Sci. USA 89 (1992)
+
+RHS2B
+
+Normal
+
+E
+
+G A T C G A T C
+
+LC
+
+Ffist
+
+a
+X
+A -/
+_
+aG /
+>~
+_
+>*
+
+RHS2B
+
+3 ^,
+
+_
+
+,
+
+19
+
+c
+
+a
+A
+aG
+
+T_
+
+_~~~_
+_ ~~~~~~~
+
+Normal
+
+F
+
+G A T C G A T C
+
+RHS3
+
+G A T C G A T C
+
+at
+_
+
+C
+
+-
+
+We"~~~~~~~
+
+3~~~
+
+_/
+T_
+
+T
+
+LAA
+
+5'
+
+__
+.
+
+5
+
+FIG. 2. RHS alleles from patients TI, MT, and MB carry different point mutations. Autoradiographs are from 6% polyacrylamide sequencing
+gels, with 35S-labeled sequencing products obtained from M13 subclones of mutant and normal TAT alleles run side by side. Relevant segments
+shown are from intron 2/exon C (A), exon F (B), exon L (C), exon H/intron 8 (D), exon J (E), and exon B (F). The sequence read from the
+autoradiographs is of RNA-like polarity except for B, where labeling of sequence lanes has been transposed. The slight shift in the sequencing
+ladder of RHS2B in E is due to a deletion in the M13 polylinker that occurred during subcloning. Exon sequences are in uppercase, intron
+sequences in lowercase. The reading frame is indicated by brackets, and nucleotides affected by mutations are boxed. The consequences of the
+observed mutations are summarized in Fig. 3.
+
+Proc. Natl. Acad. Sci. USA 89 (1992)
+
+Genetics: Natt et al.
+
+9300
+
+a;a
+
+aa
+
+AA A.-"
+
+RHS2B
+
+RHS1A
+
+D
+
+B C
+
+A
+
+I
+
+I
+
+E F
+
+G
+
+* *
+
+I
+
+sr- a
+
+1
+
+-5--I
+
+ElJI
+
+RHS
+
+RHS lB
+
+RHS 3
+'}i)
+
+I~
+
+u
+
+:..
+:
+
+....irK
+
+RH S 2E
+
+Nuclease Si Analysis of the RHS1A Splice Acceptor Mutation in Intron 2. A 135-bp Dde I-Ava I fragment, 5'-endlabeled in the coding strand of the TAT gene at an Ava I site
+in exon C, was used as probe in nuclease S1 analysis.
+Hybridization to total RNA from Ltk- cells transiently
+transfected with the normal or RHS1A mutant TAT allele
+yields protected DNA fragments of larger size under less
+stringent nuclease S1 conditions (Fig. 4, lanes 1, 2, 4, and 5),
+while more stringent conditions lead to prominent fragments
+of the expected size for the mutant (lane 3) and normal (lane
+6) TAT allele that are exactly four nucleotides apart. (Note
+that because the G ribonucleotide residue at the 3' end of
+exon B can base pair with the C deoxyribonucleotide residue
+at the 3' end of intron 2 of both the normal and mutant TAT
+allele, the S1 analysis can at best identify the nucleotide
+preceding the start of the normal and mutant exon C, as
+indicated at left in Fig. 4.) Because virtually no wild-type
+signal appears in Fig. 4, lane 3, the mutant splice acceptor site
+of RHS1A is used preferentially, if not exclusively.
+
+DISCUSSION
+We have identified six point mutations in five mutant TAT
+alleles cloned from three RHS patients from three countries.
+
+A
+
+a
+
+A'h
+
+FIG. 3. Summary of point mutations
+and of their consequences in the five RHS
+alleles analyzed. The positions of the six
+point mutations identified (Fig. 2) are given
+with respect to the exon/intron map of the
+TAT gene. Exon sequences are in uppercase, intron sequences in lowercase. Relevant codons are numbered, and mutant
+nucleotides are marked by an asterisk. The
+RHS1A mutation generates a novel splice
+acceptor site that is efficiently used (Fig.
+4). Ter, termination.
+
+All mutations are different, scattered over the whole 12-exon
+human TATgene. Two stop codon mutations, in exons B and
+L, result from C -- T transitions in CGA (Arg) codons (Fig.
+2 C and Fand Fig. 3), the CG dinucleotide being a well-known
+mutational hotspot (26). In accordance with the absence of
+TAT activity in liver biopsy samples of patients TI and MT
+(14, 15), their RHS alleles carry strong inactivating mutations: a splice mutation in one allele (RHS1A for TI, RHS2B
+for MT) and a nonsense mutation in the second allele (RHS1B
+for TI, RHS2A for MT) (Figs. 2 and 3).
+We have demonstrated experimentally for allele RHS1A
+that the new splice acceptor site in intron 2 is used in high
+preference over the wild-type splice site (Fig. 4), resulting in
+a shift of reading frame and premature termination of translation at codons 91/92 in the mutant TAT mRNA. For allele
+RHS2B, the molecular consequences of the GI-+ Gi splice
+donor mutation in intron 8 have not been investigated.
+Identical GI -- GGi splice donor mutations in the (3-globin
+gene and in the factor IX gene lead to 3O-thalassemia (27) and
+to severe hemophilia B (28), respectively. It is therefore
+highly likely that the RHS2B splice mutation is a similarly
+strong loss-of-function mutation.
+The nonsense mutation in allele RHS3 of patient MB, at
+codon 57 in exon B, is also a completely inactivating mutation
+
+4
+
+l
+
+_ .
+
+4_
+RE-iS) 1iA
+IT
+
+__
+
+re
+1R NA
+-''DNA
+
+C
+
+9.
+a
+
+_ A<b
+
+\
+
+\\
+
+.\
+
+1\
+
+T
+rTI
+
+T
+-f-.
+
+.1
+
+iri
+I.,.
+
+1k:
+
+Jim-
+
+.44..
+lu
+
+-.--z...
+
+v4i
+
+;
+
+FIG. 4. The new intron 2 splice acceptor site
+of allele RHS1A is efficiently used. Lanes G, A,
+T, and C show the dideoxy sequencing ladder
+obtained from a 600-bp HindIII-Ava I fragment of
+RHS1A, starting at an Ava I site in exon C and
+extending into intron 2. Nuclease S1-resistant
+products obtained by digesting hybrids between a
+135-bp Dde I-Ava I fragment, 5'-end-labeled at
+the Ava I site in exon C, and total RNA isolated
+from mouse Ltk- cells transiently transfected
+with mutant allele RHS1A (lanes 1-3), normal
+TAT allele (lanes 4-6), or untransfected (lane 7),
+are shown. Lanes 1, 4, and 7, 200 units of nuclease
+S1 per ml, 1 hr, 250C; lanes 2 and 5, 1000 units of
+nuclease S1 per ml, 1 hr, 25C; lanes 3 and 6, 1000
+units of nuclease S1 per ml, 30 min, 37C; lane 8,
+untreated 135-bp Dde I-Ava I fragment. Most
+prominent nuclease S1-resistant fragments of mutant and normal TAT alleles are marked by the
+small and large arrowheads in lanes 3 and 6,
+respectively. The corresponding positions in the
+sequences shown at left are marked accordingly.
+The reading frame in the mRNA sequence is
+indicated by brackets; the nucleotide affected by
+the mutation is boxed.
+
+Genetics: Natt et al.
+(Figs. 2F and 3). The second mutation observed in this allele,
+the deletion of a CT dinucleotide at positions -8 and -7 in
+the TAT promoter region (data not shown), which changes
+the distance between the TATA box and the start site of
+transcription from 27 to 25 bp, probably has no severe
+consequences. The corresponding distance within the herpes
+simplex thymidine kinase promoter region could be changed
+over a much wider range, for example, before a reduction in
+transcription rate was observed (29).
+It is possible that patient MB is homozygous for the RHS3
+allele. First, all six independent clones analyzed gave the
+same restriction patterns (Table 1), and all six had the same
+CT dinucleotide deletion in the TAT promoter region (data
+not shown). Second, restriction fragment length polymorphism analysis for TAT and the flanking loci haptoglobin and
+chymotrypsinogen B on chromosome 16q (30), for which the
+parents are informative, shows that MB and her tyrosinemic
+brother are both homozygous at all three loci (unpublished
+data). Although consanguinity is not reported in this family,
+the parents could be related, both coming from a small village
+of about 1500 inhabitants in Lombardy.
+A surprising observation is the presence of two inactivating
+mutations in allele RHS2B (Fig. 2 D and E and Fig. 3). While
+the nature of the intron 8 splice donor mutation clearly
+indicates a severe functional defect as discussed, the Gly -3
+Val exchange at residue 362 encoded in exon J seems less
+dramatic. However, the functional test provided by the transfection assay demonstrates that the region designated M2 in
+Fig. 1 between the HindIII andXba I sites flanking exons J and
+K, respectively, indeed carries a strong loss-of-function mutation. While the existence of a new splice signal in the 1.1-kb
+intron between exons J and K has not been ruled out, the
+substitution at position 362 of valine for glycine, a residue
+conserved in rat TAT (12), is not a trivial polymorphism, as
+demonstrated by absence of the Rsa I site diagnostic for this
+substitution in PCR fragments from the exon J region of 50
+unrelated individuals (data not shown). Presence of the more
+bulky side chain of valine in place of the hydrogen atom
+contributed by glycine could possibly interfere with proper
+folding or dimerization of the TAT protein, whose enzymatically active form is a homodimer (31). For example, a Gly -+
+Val exchange at a site of close contact between a-helices B and
+E in ,B-globin of hemoglobin Savannah leads to destabilization
+and complete inactivation of the protein (32). Alleles like
+RHS3 containing more than one mutation, designated "complex" alleles, although rare, have been observed in other
+autosomal recessive disorders (33, 34).
+The RHS2A nonsense mutation at codon 417 indicates that
+the carboxyl-terminal 38 amino acid residues are essential for
+TAT enzyme function (Figs. 2C and 3). This contrasts with
+the amino terminus, where the first 64 amino acid residues
+can be removed from rat TAT without any loss of enzyme
+activity (35). Correspondingly, the amino-terminal 64 residues in the human and rat TAT protein differ at 18 positions,
+whereas the carboxyl-terminal 38 residues are identical (12).
+Analysis of further cases of RHS, in addition to providing
+insight into the molecular heterogeneity of tyrosinemia type
+II, may identify other residues critical for TAT enzyme
+activity.
+We thank W. Ankenbauer for plasmid RSVlacZ, R. J. Jager and
+T. F. Wienker for comments on the manuscript, and C. Sehabiague
+and E. Kunstmann for typing. This work was supported by a grant
+from the Deutsche Forschungsgemeinschaft (Sche 194/4).
+1. Buist, N. R. M., Kennaway, N. G. & Fellmann, J. H. (1985) in
+Inherited Diseases of Amino Acid Metabolism, eds. Bickel, H.
+& Wachtel, U. (Thieme, Stuttgart), pp. 203-235.
+
+Proc. Natl. Acad. Sci. USA 89 (1992)
+
+9301
+
+2. Goldsmith, L. A. & Laberge, C. (1989) in The Metabolic Basis
+of Inherited Disease, eds. Scriver, C. R., Beaudet, A. L., Sly,
+W. S. & Valle, U. (McGraw-Hill, New York), pp. 547-562.
+3. Greengard, 0. (1970) in Biochemical Actions of Hormones, ed.
+Litwack, G. (Academic, New York), Vol. 1, pp. 53-87.
+4. Hashimoto, S., Schmid, W. & Schutz, G. (1984) Proc. Natl.
+Acad. Sci. USA 81, 6637-6641.
+5. Schmid, E., Schmid, W., Jantzen, M., Mayer, D., Jastorff, B.
+& Schutz, G. (1987) Eur. J. Biochem. 165, 499-506.
+6. Jantzen, H.-M., Strihle, U., Gloss, B., Stewart, F., Schmid, W.,
+Boshart, M., Miksicek, R. & Schutz, G. (1987) Cell 49, 29-38.
+7. Boshart, M., Weih, F., Schmidt, A., Fournier, R. E. K. &
+Schfitz, G. (1990) Cell 61, 905-916.
+8. Ruppert, S., Boshart, M., Bosch, F. X., Schmid, W., Fournier,
+R. E. K. & Schutz, G. (1990) Cell 61, 895-904.
+9. Killary, A. M. & Fournier, R. E. K. (1984) Cell 38, 523-534.
+10. Andersson, S. M., Raiha, N. C. R. & Ohisalo, J. J. (1980) J.
+Dev. Physiol. 2, 17-27.
+11. Andersson, S. M. (1981) Early Hum. Dev. 6, 165-169.
+12. Rettenmeier, R., Natt, E., Zentgraf, H. & Scherer, G. (1990)
+Nucleic Acids Res. 18, 3853-3861.
+13. Natt, E., Westphal, E.-M., Toth-Fejel, S. E., Magenis, R. E.,
+Buist, N. R. M., Rettenmeier, R. & Scherer, G. (1987) Hum.
+Genet. 77, 352-358.
+14. Kida, K., Takahashi, M., Fujisawa, Y., Matsuda, H., Machino,
+H. & Miki, Y. (1982) J. Inherited Metab. Dis. 5, 229-230.
+15. Lemonnier, F., Charpentier, C., Odievre, M., Larregue, M. &
+Lemonnier, A. (1979) J. Pediatr. 94, 931-932.
+16. Natt, E. & Scherer, G. (1986) Nucleic Acids Res. 14, 7128.
+17. Sambrook, J., Fritsch, E. F. & Maniatis, T. (1989) Molecular
+Cloning:A Laboratory Manual (Cold Spring Harbor Lab., Cold
+
+Spring Harbor, NY).
+
+18. Gorman, C. M., Moffat, L. F. & Howard, B. H. (1982) Mol.
+Cell. Biol. 2, 1044-1051.
+19. Sanger, F., Nicklen, S. & Coulson, A. R. (1977) Proc. Natl.
+Acad. Sci. USA 74, 5463-5467.
+20. Natt, E. (1988) Ph.D. thesis (Albert-Ludwigs-UniversitAt,
+Freiburg, Federal Republic of Germany).
+21. Diamondstone, T. I. (1966) Anal. Biochem. 16, 395-401.
+22. Platt, T., Muller-Hill, B. & Miller, J. H. (1972) in Experiments
+in Molecular Genetics, ed. Miller, J. H. (Cold Spring Harbor
+Lab., Cold Spring Harbor, NY), pp. 352-355.
+23. Schmid, W., Scherer, G., Danesch, U., Zentgraf, H., Matthias,
+P., Strange, C. M., Rbwekamp, W. & Schutz, G. (1982) EMBO
+J. 1, 1287-1293.
+24. Westphal, E.-M., Natt, E., Grimm, T., Odievre, M. & Scherer,
+G. (1988) Hum. Genet. 79, 260-264.
+25. Wullich, B., Natt, E., Wienker, T. F. & Scherer, G. (1989)
+Nucleic Acids Res. 17, 3331.
+26. Green, P. M., Montandon, A. J., Bentley, D. R., Ljung, R.,
+Nilsson, I. M. & Gianelli, F. (1990) Nucleic Acids Res. 18,
+3227-3231.
+27. Chibani, J., Vidaud, M., Duquesnoy, P., Bergd-Lefranc, J. L.,
+Pirastu, M., Ellouze, F., Rosa, J. & Goossens, M. (1988) Hum.
+Genet. 78, 190-192.
+28. Brownlee, G. G. (1988) Recent Adv. Haematol. 5, 251-265.
+29. McKnight, S. L., Gavis, E. R., Kingsbury, R. & Axel, R.
+(1981) Cell 25, 385-398.
+30. Westphal, E.-M., Burmeister, M., Wienker, T. F., Lehrach,
+H., Bender, K. & Scherer, G. (1987) Genomics 1, 313-319.
+31. Andersson, S. M. & Pispa, J. P. (1982) Clin. Chim. Acta 125,
+117-123.
+32. Huisman, T. H. J., Brown, A. K., Efremov, G. D., Wilson,
+J. B., Reynolds, C. A., Uy, R. & Smith, L. L. (1971) J. Clin.
+Invest. 50, 650-659.
+33. Latham, T., Grabowski, G. A., Theophilus, B. D. M. & Smith,
+F. I. (1990) Am. J. Hum. Genet. 47, 79-86.
+34. D6rk, T., Wulbrand, U., Richter, T., Neumann, T., Wolfes, H.,
+Wulf, B., Maass, G. & Tummier, B. (1991) Hum. Genet. 87,
+441 446.
+35. Hargrove, J. L., Scoble, H. A., Mathews, W. R., Baumstark,
+B. R. & Biemann, K. (1989) J. Biol. Chem. 264, 45-53.
+36. Hall, C., Jacob, E., Ringold, G. & Lee, F. (1983) J. Mol. Appl.
+Genet. 2, 101-109.
+
+

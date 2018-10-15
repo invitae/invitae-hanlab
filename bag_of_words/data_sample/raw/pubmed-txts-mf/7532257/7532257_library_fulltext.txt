@@ -1,0 +1,916 @@
+CHAPTER 7
+
+Flow Cytometry Crossmatching for
+Solid Organ Transplantation
+Robert A. Bray
+Department of Pathology
+Emory University Hospital
+Atlanta, Georgia 30322
+
+I. Introduction
+
+11. Applications
+111. Materials
+
+IV.
+V.
+VI.
+VII.
+
+VIII.
+
+A. Reagents
+B. Miscellaneous Supplies
+Cell Preparation and Staining
+A. Cell Preparation
+B. Staining Procedure
+Critical Aspects of the Procedure
+Standards
+Instruments
+Results and Discussion
+References
+
+I. Introduction
+Independent of the level of human leukocyte antigen (HLA) matching, the
+single most important test employed in solid organ allocation is the lymphocyte
+crossmatch. This test assesses the level of circulating antibodies in the potential
+recipient that are directed against the HLA Class I and/or Class I1 molecules of
+the donor. Traditionally, the complement-dependent lymphocytotoxicity (CDC)
+crossmatch has been the method employed for assessing circulating alloantibody. However, because of its increased sensitivity, flow cytometry is now
+being utilized as an alternative methodology. The flow cytometric crossmatch
+(FCXM) uses indirect immunofluorescence to detect human alloantibody that
+METHODS IN CELL BIOLOGY, VOL. 41
+Copynght 0 1994 by Academic Press. Inc.. All nghts of reproduction in any form reserved
+
+103
+
+104
+
+Robert A. Bray
+
+has bound to target lymphocytes. Although IgG class antibodies appear to be
+most associated with early rejection and accelerated graft loss, the detection
+of other immunoglobulin isotypes may also be informative. In contrast to the
+CDC, the FCXM can easily discriminate between the isotypes and subclasses
+of immunoglobulins. Additionally, due to the differential expression and distribution of HLA molecules, it is beneficial to discriminate between T cell and B
+cell reactivities. T cells bear predominantly HLA Class I molecules while B
+cells express Class I1 molecules and possess a higher density of Class I molecule
+expression.
+In the FCXM, individual cell populations are discriminated by multicolor
+staining using directly conjugated monoclonal antibodies directed against T
+cells (CD3) and/or B cells (CD20 or CDI9). Since most newer cytometers have
+the capability of simultaneously evaluating three distinct fluorochromes, a threecolor crossmatch can routinely be performed. One fluorescence parameter is
+used to assess alloantibody binding via indirect immunofluorescence while the
+other two fluorescent parameters are used to delineate desired cell populations
+(e.g., identify T cells from B cells). Appropriate postacquisition analyses then
+allow for the independent evaluation of the reactivity of a given cell population.
+This capability is in direct contrast to the standard CDC crossmatch which
+requires the physical separation and purification of a given cell population (e.g.,
+T and B lymphocytes) or requires the use of fluorescence microscopy and
+selective cell tagging to discriminate between cell populations. Interpretation
+of the FCXM is done by directly comparing the fluorescence intensity of the
+test cell population (e.g., potential donor cells) treated with the patient’s serum
+to the fluorescence intensity of the same cell population treated with a known
+negative control serum (i.e., a serum which lacks HLA antibodies). This interpretation is in direct contrast to the subjective visual assessment used in the
+CDC technique. Hence, the FCXM is more objective and has the additional
+potential to quantitatively assess bound alloantibody.
+
+11. Applications
+Currently, the complement-dependent lymphocytotoxicity crossmatch
+(CDC) test is the standard methodology employed in a majority of transplant
+laboratories. In this test, donor lymphocytes are mixed with serum from potential recipient(s). This primary incubation is followed by the addition of complement, a second incubation period, and the addition of a vital dye to assess cell
+death. Significant cell death above background is interpreted as a positive
+crossmatch and, in most instances, is a contraindication to transplantation.
+Although the CDC assay is the standard method used, numerous adaptations
+of the test exist. These variations employ combinations of multiple cell washes,
+alterations in the incubation times, the use of anti-human globulin (AHG), and
+
+7. Flow Cytometry Crossmatching
+
+105
+
+reducing agents such as DDT/DTE and/or 2-mercaptoethanol. The ultimate
+goals of these variations are to impart increased sensitivity and to discriminate
+IgG from IgM antibodies. A negative crossmatch is an indication that the
+recipient does not possess antibodies that will result in an immediate or “hyperacute” allograft rejection. Despite its many permutations, pitfalls, and subjective nature, the CDC crossmatch remains a mainstay of transplant laboratories
+and has virtually eliminated hyperacute rejection.
+Although hyperacute rejections are rare, studies have demonstrated that
+some patients with a negative CDC test experienced early graft loss consistent
+with humoral rejection. These findings indicated that low levels of alloantibody ,
+undetectable by the CDC assay, were present in the recipient at the time of
+transplantation. Within the past few years, several reports have shown that
+these low levels of alloantibody could be detected by flow cytometry (Garovoy
+et al., 1983; Chapman et a / . , 1985; Bray et af., 1989). More importantly, renal
+transplant recipients exhibiting a negative CDC assay but a positive FCXM
+were more likely to experience early accelerated rejection episodes and graft
+loss (Cook et al., 1987; Lazda et al., 1988; Talbot er al., 1989; Mahoney et al.,
+1990; Karuppan er al., 1992). The patient groups most likely to experience this
+type of rejection were those individuals who were previously alloimmunized
+from a rejected transplant, multiple pregnancies, or multiple blood transfusions.
+Hence, the use of the FCXM for the semi-quantitative assessment of alloantibody in these potentially high-risk renal and heart patients is quickly replacing
+the CDC assay as the standard pretransplant crossmatch.
+The FCXM offers additional advantages over the CDC as well. For example,
+the FCXM takes less time to perform than the CDC. This is an important
+difference since time is a most critical factor when allocating cadaveric organs.
+Also, since IgG class antibody is the predominant immunoglobulin responsible
+for the observed early graft loss, the FCXM can specifically identify IgG antibodies without the additional manipulations of patient’s serum (e.g., DTT treatment)
+needed for the CDC. This factor also can reduce the time involved in resulting
+out the crossmatch. Since CDC crossmatches use cell death as the assay end
+point, they require that the initial cell viability be at least >85%. Some cell
+preparations, such as those derived from cadaveric blood, spleen, or lymph
+nodes, may have low initial viability which requires additional manipulations.
+Additionally, even though initial viability may be acceptable, due to the fragile
+nature of these cell preparations, significant cell death may occur during the
+CDC assay making reading and interpretation quite difficult. In contrast, the
+FCXM can take advantage of light scatter andlor viability stains to select
+the appropriate cell population for analysis. FCXMs have been successfully
+performed with cell viabilities 4 0 % . Lastly, since the FCXM directly measures
+alloantibody bound to cells, interpretation of the FCXM tends to be more
+objective than the CDC. CDC assays rely on visual scoring of stained cells and
+the results can be influenced to a significant degree by reader bias.
+
+106
+
+Robert A. Bray
+
+111. Materials
+A. Reagents
+
+1. Secondary Antibody
+The most critical reagent for the FCXM is the secondary antibody. This
+reagent is used to identify the human immunoglobulin that is specifically bound
+to the target cell. As such, this reagent should be selected to provide optimum
+specificity with minimum background staining. Antibodies can be selected that
+are specific for the various isotypes; however, each lot must be verified to
+confirm specificity. A preferred secondary antibody would possess the following
+properties: (a) well-defined specificity (e.g., Fc specific); (b) a F(ab'), or Fab
+fragment to reduce background staining; and (c) no cross-reactivity with mouse
+or horse immunoglobulins. Currently, the secondary reagents utilized in our
+laboratory are FITC anti-IgG, Fc specific ( Jackson ImmunoResearch, West
+Grove, PA; Cat. No. 109-016-098) and anti-IgM, FcsP (Jackson ImmunoResearch, Cat. No. 109-16-043). Most importantly, each lot of secondary antibody
+should be titered to determine the optimum working dilution. A sample titration
+is shown in Table I. In this titration, the FITC secondary reagent is titered
+from 1 :4 through 1 :20. Dilutions of the FITC reagent are tested against a
+lymphocyte cell population that has been preincubated with various dilutions
+of a known positive control serum. From the resulting chessboard titration one
+can identify the appropriate dilution of the secondary reagent. In this example,
+it appears that FITC dilutions of between 1 : 8 and 1 : 10 would be appropriate
+(shaded area). The actual working dilution for this lot was 1 :8. Although higher
+channel displacements are seen with lower (more concentrated) dilutions of
+the secondary reagent, higher channel displacements are observed at greater
+dilutions of the pooled positive serum (PPS) when higher dilutions of the
+FITC are employed. Primarily, this is a result of reducing the background
+noise as can be observed in the top line of the table which lists the actual
+median channel value for each dilution of the secondary reagent tested with
+normal human serum (NHS). After determining the appropriate working dilution
+of the reagent, testing against mouse and horse immunoglobulins may be performed.
+
+2. Monoclonal Antibodies
+Depending upon the cell population to be evaluated, any number of monoclonal antibodies that react with the desired cluster antigen are acceptable.
+However, for most solid organ-related crossmatches, CD3, for identifying T
+cells, and CD19 or CD20, for identifying B cells, are the principal choices.
+Antibodies such as CD4 or CD8 should be avoided since these molecules may
+associate with HLA molecules on the cell surface and one runs the risk of
+stearic hinderance in antibody binding. The choice of fluorochrome for the
+
+107
+
+7. Flow Cytometry Crossmatching
+
+Table I
+Example of an IgG Titration
+IgG dilutions’
+
+Sera“
+~
+
+NHS
+PPS
+1: 5
+1 : 10
+1 :20
+1 :40
+I :80
+
+-
+
+1:4
+
+1.6
+
+1:8
+
+1:lO
+
+1:20
+
+247‘
+
+241
+
+186
+
+175
+
+150
+
+283d
+152
+113
+80
+80
+
+273
+155
+108
+87
+78
+
+260
+188
+147
+
+251
+
+175
+140
+105
+90
+48
+
+~~
+
+~~
+
+190
+
+133
+
+Note. The highlighted box indicates the region
+where dilutions in the FITC and PPS were informative for determining the appropriate dilution of the
+FITC reagent. The actual working dilution for this
+lot of FITC was 1 :8.
+NHS, normal human serum control; PPS,
+pooled positive serum control.
+* FITC-conjugated. anti-human IgG, Fc specific
+(Jackson ImmunoResearch, West Grove, PA). Reagent was reconstituted from lyophilized form with
+distilled water and dilutions were made with “wash
+buffer”.
+Values in this line are the actual median channel values for the IgG reagent when incubated with
+NHS.
+Values in this section are channel displacements, calculated by subtracting the actual median
+channel value of the PPS dilution from the median
+channel value of the NHS for the given dilution of
+IgG.
+
+secondary antibody will determine the fluorochromes for the monoclonal antibodies. At present, most laboratories utilize a fluorescein-conjugated secondary
+antibody thus relegating phycoerythrin or other longer wavelength emitters
+such as PerCP for identifying cell populations.
+
+3. Control Sera
+The FCXM requires both a positive and a negative control serum. The positive
+control serum usually consists of pooled sera from patients with very high
+levels of anti-HLA antibodies. The PPS should be diluted such that a reasonable
+shift in fluorescence is seen. Using PPS undiluted will produce very strong
+positive results; however, most actual crossmatches do not exhibit strong reactions. Hence, using a positive control serum that exhibits a moderate positive
+
+108
+
+Robert A. Bray
+
+reaction can help in assessing the performance of the test. For example, if the
+laboratory’s positive control regularly exhibits a shift in fluorescence of 100
+channels over the negative control serum, then a test sample where the positive
+control only exhibits a 40- or 50-channel shift may be an indication of an invalid
+test.
+The negative control serum is, by far, the most important control element
+in the FCXM. This reagent can be either a pooled or a single-donor serum.
+However, this serum must be tested thoroughly with several (>10) normal cell
+donors to ensure that the reagent has no reactivity with human lymphocytes.
+This exercise will not only ensure that the negative control serum is appropriate
+but will also provide the information needed for proper interpretation of the
+FCXM.
+
+4. Wash Buffer
+The standard wash buffer used throughout the crossmatch consists of
+phosphate-buffered saline (PBS) containing 2% fetal bovine serum (FBS)
+and 0.1% sodium azide (NaN,). Wash buffer should be stored at 4°C and
+appropriate precautions should be taken for disposal of NaN, containing
+solutions.
+
+5. Paraformaldehyde
+A standard 2% paraformaldehyde solution in PBS (final pH 7.2 k 0.2) is used
+as the final fixative. Paraformaldehyde should be prepared in a fume hood with
+proper ventilation. Paraformaldehyde solution should be stored at 4°C and
+protected from exposure to light. Shelf life is approximately 2 weeks.
+B. Miscellaneous Supplies
+
+The following is a list (by no means inclusive) of additional supplies that will
+be needed to perform the FCXM.
+Eppendorf pipettor (or similar pipetting device) capable of delivering volumes from 10 to 100 pl.
+Small volume test tubes. Our laboratory utilizes plastic and glass, 6 x 50mm tubes for the FCXM (glass, Baxter Scientific Products, Stone Mountain,
+GA., product T12901-1; polypropylene, Evergreen Scientific, Los Angeles,
+CA., product 2142301-030). These types of tubes hold a total volume of 450 pl
+and permit the use of small numbers of cells while minimizing cell loss.
+Table top centrifuge.
+Airfuge (Beckman Instruments, Inc.).
+Vacuum aspiration system.
+
+7. Flow Cytometry Crossmatching
+
+109
+
+IV. Cell Preparation and Staining
+A. Cell Preparation
+
+Several cell types can be used in the FCXM. Essentially, any single-cell
+suspension can serve as a target cell in the FCXM. However, the most common
+sources of targets are mononuclear cells derived from peripheral blood, lymph
+nodes, or spleen. Detailed procedures for preparing cell populations can be
+found in a number of other references (Zachari and Teresi, 1990).
+Once an adequate cell preparation is obtained, only small numbers of cells
+are needed for the crossmatch. The cells should be resuspended in the “wash
+buffer” and held at 4°C until ready to stain. The actual cell concentration of
+the preparation is not critical; however, the actual number of cells used per
+tube is extremely critical. In general, the cell number need not exceed 2.5 x lo5
+cells per tube. By far the most important variable is the ratio of cells to volume
+of serum used in the FCXM. By utilizing the small-volume test tubes, cell
+numbers as low as 105/tube can be easily used. Since patient serum is usually
+limiting, volumes between 20 and 50 pl/tube are recommended. Increasing the
+volume of patient serum used per tube or decreasing the number of cells per
+tube will increase the sensitivity of the FCXM. Conversely, using less serum or,
+more importantly, increasing the number of cells used per test can significantly
+decrease the sensitivity. Hence, it is important that the laboratory establish its
+staining protocol and insist that accuracy and consistency of cell concentrations
+and serum volumes used be strictly adhered to.
+B. Staining Procedure
+(See Fig. I for procedure flow chart and Table 11 for tube layout.)
+1. Place appropriate quantity of cells in 6 x 50-mm tubes (or other small
+volume tube) and centrifuge to pellet (700g for 5 min).
+2. Aspirate supernatant, being cautious not to aspirate the cell pellet.
+3. Add the appropriate patient or control serum (25-50 ~ lto)the corresponding labeled tubes (see Table 11). Vortex to ensure proper mixing of serum
+and cells.
+4. Incubate for 30 min at 4°C.
+5. Wash cells with 400 pl of COLD wash buffer. (Note: add 200 pl, vortex,
+and then add the additional 200 pl.) Centrifuge at 7008 for 5 min.
+6. Aspirate the supernatant and repeat step 5 .
+NOTE: BE CAREFUL WHEN ASPIRATING SAMPLES TO PREVENT CROSSCONTAMINATION.
+
+7. Following the second wash step and aspiration, add 20 pl of pretitered
+secondary antibody and the appropriate quantity of directly conjugated
+CD3, CD20, or other commercial monoclonal antibody directly to the
+dry cell pellet.
+
+110
+
+Robert A. Bray
+Cells
+
+/serum
+Incubate
+4Oor 25OC, 30 min
+
+1
+
+Wash 3X
+
+4
+
+Add Anti-lgG FITC
+and CD3 PerCP & CD2O PE
+Incubate 20 mln at Room Temp
+
+1
+
+Wash 2-3X
+
+1
+
+Fix in 1% Paraformaldehyde
+
+Analyze on Flow Cytometer
+
+Fig. 1 Flow chart illustrating a three-color flow cytometric crossmatch.
+
+Table I1
+Suggested Setup for Performing Three-Color Flow
+Cytometric Crossmatch
+Tube no.
+1
+
+2
+3
+4
+5-n
+
+Primary antibody/serum
+
+Secondary antibody(s)
+
+NHS or autologous'
+
+FITC a-IgG
+CD3 PerCP and CD20 PEh
+Pooled positive serum
+FITC a-IgG
+CD3 PerCP and CD20 PE
+Patient sample 1
+FITC a-IgG
+CD3 PerCP and CD20 PE
+Patient sample 2
+FITC a-IgG
+CD3 PerCP and CD20 PE
+Repeat setup as in tubes 3 or 4 for each additional serum
+
+NHS, normal human serum; autologous, patient's own serum
+may be used to identify self-reactive antibodies.
+For performing a two-color crossmatch, individual tubes must
+be set up for CD3 and CD20. In this instance, phycoerythrin would
+be the conjugate for both CD3 and CD20. In addition, the total
+volume of each serum used and number of cells required will have
+to be doubled.
+
+7. Flow Cytometry Crossmatching
+
+111
+
+NOTE: USE THE MANUFACTURER’S RECOMMENDED CONCENTRATION FOR ALL
+MONOCLONAL ANTIBODIES UNLESS OTHERWISE TESTED.
+
+8. Incubate antibodies for 20 min at 4°C and protect from light.
+9. Following incubation, wash cells twice with 400-pl volumes of COLD
+wash buffer. Follow wash procedure as indicated in steps 5 and 6.
+10. After final wash and aspiration, resuspend cells in 100 pl of COLD wash
+buffer.
+11. While vortexing, add 100 pI of COLD 2% paraformaldehyde solution to
+each tube. Fixed cells can be held at 4°C in the dark, for up to 7 days.
+
+V. Critical Aspects of the Procedure
+Although the FCXM is a relatively straightforward technique, there are several critical aspects that can significantly effect the results and performance.
+The first and most critical aspect of the crossmatch is that a multicolor method
+be used. Figure 2 clearly demonstrates the drawbacks of evaluating an ungated
+FCXM. The presence of natural killer (NK) cells in peripheral blood contribute
+to a high background fluorescence. NK cells bear the CD16 molecule which is
+the Fc receptor for IgG. Unfortunately, no secondary anti-IgG reagent can
+discriminate specifically bound IgG from cytophilic IgG. As illustrated in Fig.
+2, cytophilic IgG bound to NK cells can generate a significant signal. Hence,
+the need for a multicolor technique to identify only the cell populations of
+interest. Additionally, and depending upon the cell preparation, other cell populations can contaminate the lymphocyte gate.
+A second important aspect of the FCXM is the ratio of serum volume to
+number of cells. The lymphocytes are, in fact, small antigen bearing particles
+that are used to assess the levels of alloantibody. The ability to detect alloantibody in a patient’s serum sample is dependent upon the level of antibody and
+the number of cells tested. Thus, it would seem prudent to use as much serum
+as possible with as few cells as possible to obtain maximum sensitivity. This,
+however, is not feasible and most laboratories use between 20 and 100 p1 of
+serum and 0.25 to 1 x lo6 cells per tube. The important point here is that
+fluctuations in the serum-cell ratio can significantly alter the crossmatch results
+essentially producing false-negative results if too many cells are used. (Fig. 3).
+For flow cytometric crossmatching, no more than 0.5 x lo6 are needed per
+tube. Utilizing the small 6 x 50 polypropylene tubes, as few as lo5 cells can
+be easily stained with only minimal cell loss. Thus, one cannot overemphasize
+the importance of strict adherence to the laboratory’s established procedure
+specifying the numbers of cells and volume of serum used.
+A third critical aspect relates to the number of wash steps that are used
+following the primary incubation. Within a patient’s serum, only a small portion
+of the total immunoglobulin will constitute the anti-HLA antibody. This is true
+
+112
+
+Robert A. Bray
+
+104
+
+- 100
+
+V3:TITEROOl
+
+6
+
+0
+100
+101
+102
+103
+FWFluorescence 2
+
+104
+
+50 i
+
+n
+-
+
+100
+
+20 1
+
+100
+
+10'
+102
+103
+V3:TITEROO1/FLl/FIuorescence 1
+
+104
+
+C
+
+10'
+10'
+103
+V3:TITEROOl /FL1/Fluorescence 1
+
+104
+
+D
+
+10'
+102
+103
+V3:TITEROOl /FLl /Fluorescence 1
+
+104
+
+Fig. 2 Cytophilic immunoglobulin binding to N K cells. Peripheral blood lymphcytes were preincubated with normal
+human serum that was devoid of HLA antibodies. Cells were subsequently stained with FITC anti-human IgG.
+phycoerythrin (PE)-conjugated CD20 and PerCP CD3. (A) Dual-parameter dot plot of PE CD20 (x-axis; R2) versus
+PerCP CD3 (y-axis; R1). (B) FITC anti-immunoglobulin staining pattern of the total mononuclear cell population
+(ungated). (C and D) FITC antiimmunoglobulin staining of selected T cells (R1)and B cells (R2), respectively.
+
+113
+
+7. Flow Cytometry Crossmatching
+
+2oo
+150
+
+loo
+50
+
+I
+
+I
+I
+
+172
+
+i
+
+0
+0
+
+-ff 1:4 Dil
+
+* 1:8 Dil -+ 1:16 D i l
+
+I
+
+1
+
+I
+
+I
+
+I
+
+20
+
+40
+
+60
+
+80
+
+100
+
+~~
+
+.J
+
+120
+
+Microliters of Serum
+Fig. 3 Effects of alterations in serum : cell ratio on the sensitivity of the FCXM. Three dilutions
+of a known positive control serium were tested against a fixed number of cells ( 5 x 10S/tube).
+Each dilution of serum was then evaluated by increasing the volume added per tube while holding
+the cell number constant. Thus, each line represents an experiment wherein four individual tubes
+were incubated with increasing volumes of the indicated serum dilution. As the results show, as
+one increases the volume of serum (antibody), there is a corresponding increase in the channel
+displacement. MDCF indicates channel displacement as calculated from the median channel fluorescence value ofeach tube. The numbers listed are the actual channel displacement values. Results
+reported are for CD3-gated T lymphocytes.
+
+even in patients with high-titer anti-HLA antibodies. Thus, it is important to
+use a sufficient wash protocol following the primary incubation in order to
+ensure that residual immunoglobulin is removed prior to the addition of the
+secondary antibody. Insufficient washes may result in a false-negative FCXM.
+A fourth critical aspect of the procedure deals with the nature of the secondary
+antibody used. Since the goal of the FCXM is the detection of specifically
+bound antibody of a defined subclass, it is important to use a secondary antibody
+with a very narrow specificity. For example, a conjugated anti-human IgG that
+is Fc specific and preabsorbed against mouse and horse serum proteins is
+desirable for the antibody. Additionally, if the immunoglobulin is an F(ab’), or
+Fab fragment, nonspecific background staining can be reduced. If the secondary
+antibody is a mouse monoclonal, then demonstrating lack of cross-reactivity
+with horse immunoglobulins would be important. These cross-reactivities are
+notable since the directly conjugated monoclonal antibodies are of mouse origin
+and cross-reactivity with these immunoglobulins will render the crossmatch
+uninterpretable. Additionally, many HLA laboratories are now engaging in
+post-transplant monitoring in an attempt to quantify anti-donor antibodies. In
+
+114
+
+Robert A. Bray
+
+many instances these patients are receiving some form of anti-rejection therapy
+which may include OKT3 (mouse) or ALG (anti-lymphocyte globulin; horse).
+In these instances, cytotoxicity assays are of no value since both OKT3 and
+ALG are lymphocytotoxic in the CDC assay. However, if one has chosen
+the secondary antibody appropriately, screening for the presence of anti-HLA
+antibodies can easily be performed on these individuals. Again, cross-reactivity
+with mouse or horse immunoglobulins would render the FCXM uninterpretable.
+A final critical aspect of this procedure deals with the preparation of patient
+and control sera. In our laboratory we have found it most useful to airfuge
+(100,000g for 15 min) all sera prior to testing. Most of the sera used in crossmatching have undergone at least one freeze-thaw cycle. Ultracentrifugation
+helps remove immunoglobulin aggregates that may produce nonspecific background staining, particularly on B cells. This background is most likely a result
+of immune aggregates binding to Fc receptors (e.g., CD32).
+
+VI. Standards
+Unfortunately, there are no commercial standards available for the flow
+cytometric crossmatch. Hence, each laboratory must establish its own set of
+controls and standards. By far the most important control/standard is the normal
+human serum that is used as the negative control. For the FCXM either pooled
+male serum or single-donor, preferably male, serum is recommended. Serum
+from females may be used provided the individual has not been pregnant. During
+pregnancy, the female is exposed to paternal HLA antigens and has the potential
+to produce anti-HLA antibodies. Although the frequency of this sensitization
+is only about 1/20, care must be taken to ensure that the chosen normal human
+serum does not contain anti-HLA antibodies. Screening of a potential negative
+control serum should be accomplished by performing a FCXM using cells from
+a panel ( N 2 10) of individuals whose HLA types are known and which cover
+the majority of the HLA specificities. This testing should be done on the same
+day. A record of the actual median channel value for each individual’s T cell
+and B cell populations should be made without changing any machine settings.
+Calculate the average channel value and the standard deviation for both T and
+B cell populations. Using a two standard deviation (2 SD) cutoff, one can then
+define a channel value which can be used as a discriminator for positivity. That
+is, within a certain degree of statistical confidence, a channel displacement in
+a patient’s sample that is greater than the 2 SD cut point may be interpreted
+as positive. This, however, is not absolute and should be determined by each
+laboratory and reconfirmed with each now lot of normal human serum.
+As an alternative to median channel values, one can also utilize a semiquantitative method for determining relative immunofluorescence. This involves the use of fluorescent microbeads that have a defined number of fluorochrome molecules attached (Schwartz and Fernandez-Repollet, 1993). By
+
+7. Flow Cytometry Crossmatching
+
+115
+
+running a mixture containing beads, each with a different level of fluorescence, one can perform a relative calibration of the flow cytometer. Subsequent
+channel values can be converted to the number of molecules of equivalent
+soluble fluorochrome (MESFs). Results are then reported in MESF units and
+the determination of a positive result is made by indicating a minimum MESF
+value above which a crossmatch is considered positive.
+In contrast to the negative control serum, the positive control standard is
+simpler to obtain. One possible approach for obtaining a good positive control
+is to pool sera from patients that have high levels of cytotoxic anti-HLA antibodies. Such a pool can then be diluted several fold and used as the positive control
+for the FCXM. In determining an appropriate working dilution, it is beneficial
+to utilize this control at a dilution which yields a reasonable shift in fluorescence
+but not necessarily a maximum shift (saturating). It is important to remember
+that the FCXM should be optimized for the detection of low levels of circulating
+alloantibody. Thus, using a positive control that produces a 1000-channel displacement, when the 2 SD cutoff for determining a positive result is 40 channels,
+does not add any useful information to the assay. Significant errors could be
+made that would not necessarily result in a significant alteration in the channel
+displacement of the positive control. Additionally, using such a strong positive
+control increases the possibility that a minute amount of carryover contamination may produce a false-positive result.
+Therefore, an appropriate working dilution of the positive control would be
+more sensitive to deviations in the system and less likely to contribute to
+a false-positive result. Diluting the positive control to yield a reproducible
+displacement of between 100 and 200 channels (i.e., well below the level of
+saturation) can be helpful in detecting errors in the numbers of cells added
+(Fig. 4). For example, in an actual crossmatch if the positive control serum
+only demonstrated a displacement of 50 channels, the crossmatch may be judged
+as uninterpretable or may require repeating.
+Lastly, accreditation for flow cytometry crossmatching is available through
+the American Society for Histocompatibility and Immunogenetics (ASHI).
+ASHI has published standards for the performance of flow cytometric crossmatching for transplantation. These standards are available from the ASHI
+office in Lenexa, Kansas, and a copy may be obtained by calling (913) 541-0009.
+
+VII. Instruments
+At present, all manufacturers’ instruments are suitable for performing the
+FCXM. The only restriction might be that some of the older instruments may
+not be fitted with a third photomultiplier tube for evaluating the long wavelength
+emitting fluorochromes and thus may be unable to perform a three-color crossmatch. In this instance, performing two separate dual-color crossmatches (e.g.,
+CD3 and CD20) would be appropriate and would yield the same information
+
+3 16
+
+Robert A. Bray
+
+0
+
+200
+
+400
+
+600
+
+800
+
+1000
+
+0
+
+200
+400
+600
+800
+3:TITEROOWFLl/Fluorescence 1
+
+1000
+
+0
+
+200
+400
+600
+800
+3:TITER002/FL1/Fluorescence 1
+
+3:TITEROOl /FL1/Fluorescence 1
+
+0
+
+200
+
+400
+
+600
+
+800
+
+3:TITER003/FLl/Fluorescence 1
+
+1000
+
+1000
+
+Fig. 4 Channel displacements observed by titration of a positive crossmatch serum. (A) Negative
+control, normal human serum (NHS). (B, C, D) Positive serum titration demonstrating a channel
+displacements (CD) of 40, 160, and 337 channels, respectively. Histogram C represents a recommended dilution for the positive control. (FACScan cytometer; 4-decade log scale: 1024-channel
+resolution; LYSYS I1 analysis.)
+
+although the requirement for total numbers of cells and volume of serum would
+be doubled. Nonetheless, virtually all manufactures’ instruments and their associated software are capable of producing acceptable and reproducible FCXM
+results. By far the greatest variable is the setup of the crossmatch.
+
+VIII. Results and Discussion
+Analysis of the FCXM is also quite straightforward. During data acquisition,
+samples may be collected either ungated or with gates set around the cell
+population of interest (e.g., monocytes or lymphocytes). The majority of
+FCXMs will benefit from acquiring lymphocyte-gated data. Postacquisition
+analysis is then performed by gating on a selected cell population based
+on fluorescence and then displaying the fluorescence histogram of the antiimmunoglobulin reagent. For example, in a standard three-color crossmatch,
+FITC is used as the conjugate for the anti-IgG reagent in conjunction with
+phycoerythrin-conjugated CD20 and PerCP-conjugated CD3. Following acquisi-
+
+117
+
+7. Flow Cytometry Crossmatching
+
+tion of lymphocyte-gated data, individual regions are set around CD3- and
+CD20-positive cells. This is performed by displaying a dot (or contour) plot of
+CD3 vs CD20 (Fig. 5). Subsequently, analysis of the FITC staining can be
+made by displaying a single-parameter histogram from the CD3 region (Region
+1, Fig. 5 ) and/or from the CD20 region (Region 2, Fig. 5 ) . This display format
+is employed for each tube of the FCXM. Following completion, the median
+channel value for each cell population is recorded. Median channel provides
+the best assessment of the distribution of the total population of cells. If a
+particular instrument cannot generate a medium channel value, then placing
+analysis cursors tightly around the peak distribution will produce a mean channel
+value that will approximate the median. Since HLA molecules are equally
+distributed on the appropriate cell populations, if an HLA antibody is present,
+all cells should be displaced on the histogram. A displacement in 10% of the
+
+IB
+1000
+
+2:TITEROOl
+
+1
+
+Boo]
+
+..
+
+Tcells
+
+600
+400
+
+200
+2:TITEROOl/FL1/Fluorescence 1
+0. .
+0
+
+200
+
+400
+
+600
+
+800 1000 2 0 1
+
+n
+
+0
+
+c
+
+200
+
+400
+
+600
+
+800
+
+1000
+
+2:TITEROOi /FL1/Fluorescence 1
+
+Fig. 5 Three-color flow cytometric crossmatch. (A) Dot plot displaying CD20 PE staining of B cells (x-axis) versus
+CD3 PerCP staining of T cells (y-axis). (B) Single-parameter histogram of T cells (RI). NHS, staining fluorescence
+with the normal human serum control; PPS, staining fluorescence observed with a positive serum sample. CD. channel
+displacement, is the distance between the median channel values of the two peaks (line). (C) Single-parameter histogram
+of B cells (R2). (FACScan cytometer; 4-decade log scale; 1024-channel resolution: LYSIS 11 analysis.)
+
+118
+
+Robert A. Bray
+
+total cells, for example, would not be consistent with an HLA antibody and
+hence would not be considered significant. The actual calculation of results is
+performed by subtracting the median channel value of the negative control
+serum from the value of the positive control and all the evaluated patient’s
+serum samples. This difference in channel displacement (CD) is used as the
+criteria for determining whether a crossmatch is positive. As detailed above,
+the laboratory must establish its own cutoff for determining how great a channel
+displacement is considered a positive result.
+While technically simple to evaluate, the actual clinical interpretation of the
+FCXM is quite a bit more complex. A complete discussion of the clinical
+implications of a positive flow crossmatch is beyond the scope of this chapter
+and the reader is referred to the literature for more information (Cook et al.,
+1987; Lazda et al., 1988; Talbot et al., 1989, 1992; Mahoney et al., 1990;
+Karuppan et al., 1992;Bray, 1993;Ogura, 1993).However, the clinical history of
+each patient needs to be taken into consideration when the FCXM is interpreted.
+More importantly, since there are no methods for confirming that the detected
+antibody is directed against a Class I and/or a Class I1 HLA antigen, knowledge
+of the patient’s clinical history is most important. Thus, a positive FCXM will
+not always constitute a contraindication to transplantation.
+Lastly, the utility of this method is not limited to the final crossmatch prior to
+transplantation. Several laboratories have begun to use this method to routinely
+screen serum from patients on transplant waiting lists. As part of the laboratory’s
+ongoing monitoring of patients awaiting organ transplantation, periodic reevaluation of a patient’s level of alloantibody is performed. A PRA (panel reactive
+antibody) value is obtained by screening patients against a panel of cells whose
+HLA type is known. From such a panel, the laboratory not only can assess
+the quantity of alloantibody (i.e., how many of the panel cells are reactive with
+the serum), but also may be able to identify the actual specificity (i.e., determine
+which HLA antigen the antibody is directed against). Our laboratory and others
+have reported significant levels of anti-HLA antibody in patients whose cytotoxic PRA was 0% (i.e., no reactivity with panel donors in the standard CDC
+assay) (Shroyer et al., 1991; Bray, 1993). Obviously, if antibodies can be detected and a specificity identified prior to crossmatching, a significant amount
+of time and resources may saved by initially selecting individuals who show
+no evidence of anti-HLA antibodies that are directed against the HLA antigens
+of the organ donor. Thus, performing flow cytometric PRAs of selected patients
+can aid in the proper allocation of donor organs which, in turn, saves time and
+resources and helps increase the chances for long-term graft survival.
+References
+Bray, R. A. (1993). Ann. N . Y . Acad. Sci. 677, 138-151.
+Bray, R. A., Lebeck, L. L., and Gebel, H. M. (1989). Transplantation 48, 834-840.
+Chapman, J. R., Deierhoi, M. H., Carter, N. P., Ting, A., and Morris, P. J. (1985). Transplant.
+Proc. 17, 2480-2482.
+
+7. Flow Cytometry Crossmatching
+
+119
+
+Cook, D. J., Terasaki, P. I., Iwaki, Y., Terashita. G. Y.. and Lau, M. (1987). Clin. Transplant.
+1, 253.
+Garovoy, M. R., Rheinschrnilt, M. A., Bigos, M., Perkins. H., Colombe, B . , Feduska, N.. and
+Salvatierra, 0. (1983). Transplant. Proc. 15, 1939-1942.
+Karuppan, S. S., Lindholm, A., and Moiler, E. (1992). Transplantation 53(3), 666-673.
+Lazd,a, V. A., Pollak, R., Mozes, M. F., and Jonasson, 0. (1988). Transplantation 45, 562.
+Mahoney, R. J., Ault, K. A., Given, S. R., Adams, R. J., Breggia, A. C., Paris, P. A,, Palomaki.
+G. E., Hitchcox, S. A., White, B. W., Hirnrnelfarb, J., and Leeber, D. A. (1990). Transplantation
+49(3), 527-535.
+Ogura, K., Terasaki, P. I., Johnson, C., Mendez, R., Rosenthal, J. T., Ettenger, R.. Martin,
+D. C., Dainko, E., Cohen, L., Mackett, T., Berne, T., Barba, L., and Lieberman (1993).
+Transplantation 56, 294-298.
+Schwartz, A., and Fernandez-Repollet, E. (1993). Ann. N . Y . A c a d . Sci. 677, 28-39.
+Shroyer, T. W., Diethelm, A. G., Burgarny, M. A., Harvey, L. R., Hudson, S. L., and Barger.
+B. (1991). Hum. Immunol. 32, Suppl. I , 100.
+Talbot, D., Givan, A. L., Shenton, B . K., Stratton, A., Proud, G., and Taylor, R. M. (1989).
+Transplantation 47(3), 552-555.
+Talbot, D., Cavanaugh, G., Coates, E., Givan, A. L., Shenton, B. K., Lennard, T. W., Proud,
+G., and Taylor, R. M. (1992). Transplantation 53(4), 925-928.
+Zachari, A., and Teresi, G . , eds. (1990). “ASH1 Laboratory Manual,” 2nd ed. American Society
+for Histocompatibility, Kansas City.
+
+

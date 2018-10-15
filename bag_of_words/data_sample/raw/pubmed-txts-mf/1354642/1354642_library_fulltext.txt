@@ -1,0 +1,2577 @@
+GENOMICS
+
+13,
+
+1247-1254
+
+(1992)
+
+Polymorphisms and Deduced Amino Acid Substitutions in the
+Coding Sequence of the Ryanodine Receptor (RYRI) Gene in
+Individuals with Malignant Hyperthermia
+ELIZABETH F. GILLARD,“,’ KINYA OTSu, ts2 JUNICHI FuJII, ts3 CATHERINE DUFF, * STELLA DE LEON, t
+V. K. KHANNA,t BEVERLEYA. BRITT,* RONALD G. WORTON,* AND DAVID H. MACLENNANt’4
+*Department of Genetics, Hospital for Sick Children and Department of Molecular and Medical Genetics, University of Toronto, 555
+University Avenue, Toronto, Ontario, Canada M5G 1X8; tBanting and Best Department of Medical Research, Charles H. Best Institute,
+University of Toronto, 172 College Street, Toronto, Ontario, Canada M5G 1L6; and *Departments of Anaesthesia and Pharmacology,
+University of Toronto, CCRW-2-834, Toronto General Hospital, 200 Elizabeth Street, Toronto, Ontario, Canada M5G 2C4
+Received
+
+December
+
+10, 1991;
+
+Twenty-one
+polymorphic
+sequence
+variants
+of the
+RYRl
+gene, including
+13 restriction
+fragment
+length
+polymorphisms
+(RFLPs),
+were identified
+by sequence
+analysis
+of human
+ryanodine
+receptor
+(RYRl)
+cDNAs
+from three individuals
+predisposed
+to malignant
+hyperthermia
+(MH). All RFLPs
+were detectable
+in PCR-amplified
+products,
+and their segregation
+was consistent
+with our initial
+finding
+of linkage
+to MH in the nine
+families
+previously
+informative
+for one or more intragenie
+markers
+(MacLennan
+et al.,
+1990,
+Nature
+343:559-561).
+Four
+amino
+acid substitutions
+were
+identified
+in the study: Arg for G~Y~~*, Cys for Arg470,
+Leu for Pro17*6, and Cys for G1y206’. Of 45 families
+tested, a single family presented
+the Arg for Glyz4’ substitution
+where it segregated
+with malignant
+hyperthermia, making
+it a candidate
+mutation
+for predisposition
+to MH in man. The other three polymorphic
+substitutions failed to segregate
+with malignant
+hyperthermia
+in those families
+in which they occurred,
+implying
+that
+they represent
+polymorphisms
+with little or no effect
+on the function
+of the RYRl
+gene.
+o ISW Academic
+press, I~C.
+
+INTRODUCTION
+
+Malignant
+hyperthermia
+(MH) is a dominantly
+inherited predisposition
+to uncontrolled
+muscle contracture and accompanying
+hypercatabolic
+reactions, triggered in man by inhalational
+anesthetics such as haiothane and muscle relaxants such as succinylcholine.
+Halothane
+sensitivity commonly occurs in swine, al-
+
+’ Present
+address:
+Somatic
+Cell Genetics
+Laboratory,
+Imperial
+Cancer
+Research
+Fund, Lincoln’s
+Inn Fields, London
+WC2 3PX, UK.
+’ Present
+address: Department
+of Pathophysiology,
+Biomedical
+Research
+Center,
+Osaka
+University
+Medical
+School,
+2-2 Yamadaoka
+Suita, Osaka 565, Japan.
+3Present address: Department
+of Biochemistry,
+Osaka University
+Medical
+School,
+2-2 Yamadaoka
+Suita, Osaka 565, Japan.
+4 To whom correspondence
+should be addressed.
+1247
+
+revised
+
+Aph
+
+13, 1992
+
+though the condition in homozygously affected pigs may
+be triggered by stress as well as by anesthesia (Britt,
+1991; O’Brien, 1987; Nelson, 1988; Harrison, 1988). A
+malignant hyperthermia
+crisis is potentially
+fatal, with
+multiple complications.
+The fact that Ca”+ plays an essential role in muscle
+contraction
+would associate defective Cazf release or
+Ca2+ reuptake with muscle contracture, as well as with
+the hypermetabolic
+activities of the contracted muscle
+(Brostrom et al., 1971). No evidence for a defect in the
+Ca2+ pump, which removes Ca2+ from muscle, has yet
+been obtained (Nelson, 1988). MH episodes may be
+averted by early intervention
+with the drug dantrolene
+(Steward and O’Connor, 1987), known to prevent calcium release into the muscle, either directly or by dissociating early steps in the excitation-contraction
+coupling process (Harrison,
+1988). These observations
+point to the calcium release channel of skeletal muscle,
+spanning the gap between the functional face of the sarcoplasmic reticulum and the transverse tubules (Lai and
+Meissner, 1989), as a potential site for defects causative
+of MH. Because this channel binds and is modulated by
+the plant alkaloid ryanodine, it is also referred to as the
+ryanodine receptor.
+Further evidence associating defects in the skeletal
+muscle ryanodine receptor (RYRl) gene with MH susceptibility includes tissue-specific expression of the gene
+in fast- and slow-twitch
+skeletal muscle (Otsu et al.,
+1990), the tissue most affected by the MH reaction. In
+swine the MH phenotype is accompanied by alterations
+in the tryptic digestion pattern of the ryanodine receptor
+(Knudson et al., 1990), alterations in the Ca2+ dependence of ryanodine binding (Mickelson et al., 1988), and
+facilitation of channel opening and inhibition of channel
+closing (Ohnishi et al., 1983; Fill et al., 1990).
+Genetic studies also support RYRl as a candidate
+gene for MH in both humans and pigs. In humans the
+RYRl gene is localized to chromosome 19q13.1 (MacKenzie et al., 1990), while in pigs it is localized to a ho0888-7543/92
+
+$5.00
+
+Copyright
+0 1992 by Academic Press, Inc.
+All rights of reproduction
+in any form reserved.
+
+1248
+
+GILLARD
+
+mologous region on chromosome 6 (Harbitz et al., 1990).
+In both swine (Archibald and Imlah, 1985) and humans
+(McCarthy
+et aZ., 1990) genetic markers close to the
+RYRl gene were found to segregate with the MH phenotype. In studies of the RYRl gene itself (MacLennan
+et
+al., 1990), cosegregation of intragenic polymorphisms
+with the MH phenotype was found in nine human families.
+In studies of the pig, we discovered that the alteration
+of c1843to T in the porcine RYRl gene, leading to substitution of Cys for Arg615, segregated with the MH phenotype in over 450 animals, including 338 informative
+meioses, strongly implicating this genetic alteration as
+causative of halothane sensitivity (Fujii et al., 1991; Otsu
+et al., 1991). We also found that the corresponding mutation occurs across a species barrier in humans where it
+was linked to MH in a single family (Gillard et al., 1991).
+Despite this powerful evidence for a causative role for
+the RYRl gene in porcine and human MH, there is evidence for genetic heterogeneity, since lack of linkage between RYRl polymorphisms
+and MH has now been observed in a number of families (Levitt et al., 1991; Deufel
+et al., 1992).
+To define additional candidate MH mutations in the
+RYRl gene and to detect additional polymorphisms
+that
+will be useful for further linkage studies, we undertook
+systematic sequencing of RYRl cDNA obtained from
+muscle mRNA from three individuals predisposed to
+MH. We identified 21 sequence variations in the three
+patients, 13 of which resulted in loss or gain of a useful
+restriction
+enzyme site. These restriction
+fragment
+length polymorphisms
+(RFLPs) were then utilized for
+linkage analysis in our MH families. Four of the 21 sequence variants observed resulted in amino acid substitutions. One of these, an Arg for G1yz4’ substitution,
+segregated with MH, making it a candidate mutation potentially causative of MH.
+MATERIALS
+
+Amplification
+
+AND
+
+of Genomic DNA
+
+METHODS
+
+and cDNA
+
+Genomic
+DNA was isolated
+from blood of MH-sensitive
+(MHS)
+and
+normal
+(MHN)
+individuals
+(Miller
+et al., 1988). RNA was prepared
+(Chomczynski
+and Sacchi,
+1987) from muscle biopsy samples
+of three
+MHS individuals,
+HJ, TJ, and BT, and subsequent
+cDNA
+preparation
+used random
+hexamers
+in a modification
+of the method
+of Wang et al.
+(1989),
+as described
+in Bulman
+et al. (1991).
+Amplification
+of the
+cDNA
+(2-3 ~1) from approximately
+0.5 mg total mRNA
+by the polymerase chain reaction
+(Saiki et al., 1988) was followed
+either by direct
+sequencing
+or by subcloning
+and sequencing.
+Amplification
+for restriction endonuclease
+analysis
+utilized
+200-500
+ng of genomic
+DNA. Each
+reaction
+was performed
+with 100 ng of each primer
+and 1.5 units of
+7’uq polymerase
+in a DNA thermal
+cycler (Perkin-Elmer/Cetus)
+using
+the buffer described
+by Kogan et al. (1987). Conditions
+for amplification of either
+first-strand
+cDNA
+or genomic
+DNA
+for most of the
+primer pairs involved
+denaturation
+at 94°C for 30 s, annealing
+at 58°C
+for 90 s, extension
+at 72’C for 150 s, for 35 cycles (with ramp times of
+30 s), and then a ‘I-min extension
+at 72°C before returning
+the sample
+to 4°C. Conditions
+for amplification
+of primer
+pairs PI/P2,
+P3/P4,
+and P7/P8 involved
+denaturation
+at 94°C for 30 s, annealing
+at 55’C
+for 30 s, extension
+at 72°C for 60 s, for 35 cycles (with ramp times of
+
+ET
+
+AL.
+
+15s), and then
+to 4°C.
+
+a 7-min
+
+extension
+
+at 72°C
+
+before
+
+returning
+
+agarose
+
+according
+
+the sample
+
+Sequencing of PCR Products
+The
+
+PCR
+
+to Heery et
+HJ and BT as
+described
+by Winship
+(1989),
+and cloning
+of the PCR product
+and
+sequencing
+of multiple
+clones were carried
+out for patient
+TJ. The
+detection
+efficiency
+for the mutant
+allele should be close to 100% for
+either strategy
+as long as the transcript
+from the mutant
+allele is represented equally with that from the normal
+allele in the total mRNA
+of
+the patient
+muscle.
+For direct
+sequencing
+of PCR products,
+PCR primers
+were chosen
+at intervals
+of approximately
+550 bp along the cDNA
+to give 28 overlapping
+segments
+with about 50 bp of overlap
+at each end. In practice,
+for the direct
+sequencing
+approach,
+it was found that sequence
+near
+the primers
+was difficult
+to obtain so that gaps in the data remain
+at
+several
+of the overlap
+regions.
+The sequence
+is 90% complete
+for BT
+and 93% complete
+for HJ.
+For cloning
+and sequencing
+of DNA from patient
+TJ, PCR products
+were purified
+from polyacrylamide
+gels, and the DNA was then endfilled using the Klenow
+fragment,
+digested
+with XbaI, and cloned into
+the XbaI site of the Bluescript
+vector
+(Stratagene).
+Sequence
+analysis
+(Sanger
+et al., 1977) utilized
+the T7 sequencing
+kit (Pharmacia).
+Whenever
+possible,
+eight clones were sequenced,
+since this number
+gives a 99.6% probability
+that the mutant
+allele will be present
+in at
+least one clone and a 96% probability
+of being represented
+more than
+once. For 15% of the PCR products,
+only five to seven clones were
+available
+for analysis
+(detection
+probability
+of 81-94%)
+such that the
+overall
+detection
+efhciency
+is estimated
+to be 95%. Sequence
+variations were considered
+significant
+only if present
+in more than one
+clone, since PCR artifacts
+are only rarely repeated
+in multiple
+clones.
+
+al. (1990),
+
+products
+
+were purified
+
+from
+
+direct sequencingwas performed on patients
+
+Restriction
+
+Fragment
+
+Length Polymorphism
+
+Analysis
+
+PCR primers
+that amplified
+each of the 13 RFLPs
+identified
+in the
+sequence
+analysis
+were chosen.
+The amplified
+products
+were restriction endonuclease
+digested
+and separated
+on 8-20%
+polyacrylamide
+gels. The primer
+names are indicated
+by a number
+followed
+by F for a
+forward
+(coding
+strand)
+primer,
+R for a reverse
+(antisense)
+primer,
+e
+for an exon-specific
+primer,
+and i for an intron-specific
+primer.
+“Ex”
+primers
+are derived
+from the tentative
+number
+assigned
+to the exon
+immediately
+following.
+The sequence
+of the primer
+pairs used to amplify genomic
+DNA for restriction
+endonuclease
+analysis,
+ordered
+5’to
+3’ in the RYRl
+gene, is as follows:
+1Fi 5’.C AAT CGT CTC TGA CTG CCG CA, 2Re 5’CTC
+TTC GCA
+GCG GGA GCA GAT, 15Fe 5’-TGA
+GAT CAG TAC GGG GAG TCA,
+16Re 5’.CTT
+CTT GAG CAC GCC GAGA
+CCG, HMHlFe
+5’-ACT
+TCT AGA AGC CTG GAC AGC TTC AGC (+9 bp 5’Xbal
+site), 80Re
+5’.ACT
+TCT AGA CTC CTC CTG GAA GAG GCT CTG (+9 bp 5
+Xbal site), Ex8Fe T-ACT
+TCT AGA TGC TGA CAG TGA TGA CCA
+GCG CAG (+9 bp 5’ XbaI site), Ex9Re 5’.ACT
+TCT AGA CTG ATT
+CTC AGT
+GGC TCC AGC CTC
+(+9 bp 5’ Xbcd site), 27Fe 5’-ACT
+TCT AGA AAC TTG GAC TGG CTG GTC AGC AAG, 63Re 5’-GCG
+AGG CAG CAA GTT CTC AGT AAT, 93Fe 5’.CAG
+CGC TGG CAC
+TTG GGC AGT,
+32Re 5’-ATC
+TCT AGA GAG GAC CTC GCC ATT
+GAG GGT GAA (+9 bp 5’ XbuI site), 39Fe Z-ACT
+TCT AGA ATC
+AGC ATC CAC CTC (+9 bp 5’ XbuI site), Ex33Re
+5’.AGG
+CAC AAA
+CTG GAA CTC CAC GGA, 7Fi 5’.GGG
+ATC TCA GAC CCT CAT
+TC, 8Re 5’-AC AGT GTG CCA GCA GGT CTT,
+76Fe S-ACT
+TCT
+AGA TTC AGC TAG ATG GAG AGG AGG (+9 bp 5’ XbaI site), 77Re
+5’-ACT
+TCT AGA GGT TTG
+CTC TCC TCT GCT GAC (+9 bp 5’
+XbaI site), 98Fe 5’-ATG
+GGG CTC TGG TGC AGC CAA, 99Re 5’CAC GTC CAG CAC GTG CAG CAA, 3Fe 5’-TCC
+TCA CCA ACC
+ACT ATG AGC, 4Re 5’-TG GGC CAG AGA GTC AAA GATG,
+9Fe
+5’.AAA
+TAC GAC CCG GAG CTG TAC,
+1ORi 5’-CAG
+GGT CAG
+CAG ATG TTG GAG, 50Re 5’.ATC
+TCT AGA TTC TGC CAG TTG
+TTC TGC CAT GGC (+9 bp 5’ Xbul site), 51Fe 5’-ATC
+TCT AGA
+GAT CCT CGA GAA GGC TAC AAC CCT (+9 bp 5’ XbuI site). 5Fi
+
+RYRl
+
+IN
+
+INDIVIDUALS
+
+WITH
+
+!Y-ATG GTG TCT GAT GTA TTG CGG, 6Re 5'-AGC GTG ATC
+TCG ATG ACA TGC.
+
+Certainprimershave9-bp XbaI sites at their 5’ ends that are not
+complementary
+to the RYRl cDNA, but were added to facilitate cloning. They are not essential
+for RFLP
+analysis
+by PCR amplification
+and restriction
+endonuclease
+digestion.
+The sequences
+of PCR primers
+used in sequencing
+of the cDNA may
+be obtained
+from the corresponding
+author.
+
+Patient
+
+MALIGNANT
+
+listed. Four of the 21 observedchangesresulted in amino
+acid substitutions in the protein. Fourteen of the ob-
+
+servedchangesresultedin the lossor gainof a restriction endonuclease site and all but one of these had fragment sizes that were easily detectable and therefore useful for linkage studies.
+Analysis of Four Anino
+
+Characterization
+
+The three individuals
+chosen for this study had been referred
+to the
+Malignant
+Hyperthermia
+Unit of the Toronto
+General
+Hospital
+for
+assessment
+of MH susceptibility.
+Halothane,
+caffeine,
+and halothane
+plus caffeine
+contracture
+tests were carried
+out on muscle biopsies
+of
+these individuals
+and some family
+members.
+Contractures
+resulting
+in
+less than 0.3 g tension
+in 1% halothane
+indicate
+normality
+(N) and
+those greater than 0.3 g tension
+indicate
+susceptibility
+(H). Recorded
+doses of caffeine
+(CSC) are those required
+to raise the resting
+muscle
+tension
+by 1 g. Doses of greater
+than 4 mM indicate
+normality,
+while
+doses lower than 4 mM indicate
+susceptibility
+(C). In the presence
+of
+1% halothane
+doses of caffeine
+(HCSC)
+greater
+than 0.5 mM indicate
+normality,
+doses of less than 0.35 mA4 indicate
+susceptibility
+(K), and
+those between
+0.35 and 0.5 mMcaffeine
+are considered
+indeterminate.
+BT case history.
+BT was an 18-year-old
+male of mixed German
+and Phillipino
+(Chinese)
+parentage,
+who at the age of 18 underwent
+extraction
+of wisdom
+teeth under succinylcholine
+and halothane.
+The
+halothane
+was switched
+to enflurane
+part way through
+the procedure.
+He developed
+generalized
+muscle rigidity
+and arrhythmia.
+Postoperatively, he complained
+of severe bilateral
+chest pain that radiated
+to the
+back of his neck. His creatine
+kinase
+rose to 5500 IU. A junctional
+rhythm
+appeared
+on the EKG.
+A skeletal
+muscle
+biopsy
+was performed
+subsequently,
+the results
+of which
+are listed in Table 2. No
+family
+members
+have had reactions.
+HJ case history.
+HJ fractured
+his left femur in a car accident
+and
+during
+the resulting
+surgery
+succinylcholine
+and halothane
+were administered.
+This
+resulted
+in premature
+ventricular
+contraction,
+sweating,
+and a fever of 38.5”C.
+Blood gas levels were measured
+at P,
+0, of 70 mm Hg and Pa CO* of 72 mm Hg. The pH was 7.145 and the
+base deficit
+was -7.5 meq/liter.
+These signs were reversed
+with dantrolene,
+sodium
+bicarbonate,
+propranolol,
+and cooling.
+The creatine
+kinase
+level measured
+in postoperative
+intensive
+care was 4410 IU.
+Skeletal
+muscle biopsy
+results are listed in Table 2.
+
+TJ case history.
+While undergoing
+a tonsillectomy,
+patient
+TJ was
+administered
+succinylcholine
+and halothane.
+Muscle
+rigidity,
+increased
+respiratory
+and heart rates, and a fever of 37.8”C
+resulted.
+Blood gas levels with hyperventilation
+were measured
+at Pa 0, of 65.6
+mm Hg and Pa CO, of 53.2 mm Hg. The pH was 7.23 and the base
+deficit was -6.4 meq/liter.
+Successful
+treatment
+included
+40 mg dantrolene
+and cooling.
+The creatine
+kinase level was measured
+at 712 IU.
+Skeletal
+muscle
+biopsy
+results
+are listed in Table 2. The patient
+was
+known
+to suffer from muscle
+cramps.
+
+RESULTS
+PCR Sequence Analysis of cDNA
+To obtain the 15.3-kb RYRl gene coding sequence
+from three MHS individuals, mRNA was isolated from
+muscle from each patient and first-strand
+cDNA was
+subjected to PCR amplification.
+The overall probability
+of detecting any sequence variant present in 50% of the
+mRNA was estimated to be >95%, as discussed under
+Materials and Methods. Twenty-one
+sequence variations identified in the course of this study are presented
+in Table 1. To eliminate PCR artifacts, only those variants detected or confirmed by direct sequencing are
+
+1249
+
+HYPERTHERMIA
+
+Acid Substitutions
+
+The four amino acid substitutions were all observed in
+TJ. To determine the significance of these alterations in
+relation to MH, DNA from MH family members was
+studied for the presence or absence of the putative mutations. For three substitutions,
+DNA was analyzed by
+PCR amplification
+followed by restriction endonuclease
+digestion and polyacrylamide
+gel electrophoresis,
+since
+in all three cases a restriction site had been lost or gained
+(Table 1). In the case of the Arg for G1y248substitution,
+for which there was no altered restriction site, all DNA
+samples were examined by PCR amplification,
+followed
+by direct sequencing.
+The substitution of Arg for G1y248was observed in only
+one of the the 45 families tested-family
+39 (Fig. 1). The
+substitution
+was observed in the proband,
+TJ, her
+brother, SJ, and her mother, CJ. TJ and SJ are both
+considered to be MHS on the basis of halothane and
+caffeine contracture tests (Table 2). They share a maternal, but not a paternal, haplotype based on other informative RYRl RFLPs (Fig. 2). Unfortunately,
+because
+the mother of TJ and SJ has not been biopsied and repeated efforts to obtain a biopsy from her have failed,
+her MH status is unknown. These results would be consistent with inheritance of R YRl as an MHS gene from
+the mother, since she has the amino acid substitution
+associated with MH in her two children. The corresponding nucleotide substitution
+is, therefore, a candidate mutation for predisposition
+to MH.
+The substitution of Cys for Arg470 results in the loss of
+a HinPI (or HhaI) site. This substitution
+was observed
+only in family 39, the family of TJ (lanes 7-11, Fig. 2).
+The Cys for Arg470 substitution
+was seen in TJ and her
+father but was not observed in her brother or mother. Its
+segregation is thus consistent with an amino acid polymorphism rather than a candidate mutation.
+The substitution of Leu for Pro’785 is associated with
+the loss of a PuuII site. Leu for Pro’785 also failed to
+segregate with MH in the family of TJ, since it was inherited from her father and was not observed in her
+brother (Fig. 3). This substitution was also observed in
+family 10, where it was present only in the normal parent and was not seen in a child whose identical twin died
+from an MH reaction, nor was it found in his MHS father. Thus, this substitution is consistent with an amino
+acid polymorphism
+rather than a candidate mutation.
+The Cys for G1y205gsubstitution is associated with the
+gain of a DraIII site (Fig. 4). Patient TJ is homozygous
+for this substitution
+and the same substitution was also
+observed in two other families. In none of these families
+was it associated with predisposition
+to MH. This sub-
+
+1250
+
+GILLARD
+
+TABLE
+
+ET
+
+AL.
+
+1
+
+RYRZ cDNA SEQUENCESUBSTITUTIONS'
+Amino
+
+acid
+
+Substitution
+
+AA change’
+
+RE change
+
+Primers
+
+CTG
+
+> CTA
+
+None
+
+AlwNI
+
+GGG
+
+> AGG
+
+Gly > Arg
+
+None
+
+GCC
+
+> GCT
+
+None
+
+AciI
+
+CGC
+
+> TGC
+
+Arg
+
+TCA
+
+> TCG
+
+None
+
+None
+
+ACA
+ATC
+
+> ACG
+> ATT
+
+None
+None
+
+None
+TuqI Loss
+
+CCA
+
+> CTA
+
+Pro
+
+AAA
+
+> AAG
+
+None
+
+GGC
+
+> TGC
+
+Gly
+
+GCG
+
+> GCA
+
+None
+
+D&II
+gain
+FokI loss
+
+GTG
+
+> GTA
+
+None
+
+None
+
+CAC
+
+> CAT
+
+None
+
+Not
+
+CGC
+
+> CGT
+
+None
+
+HinpI
+
+loss
+
+ACG
+
+> ACA
+
+None
+
+BsuJI
+
+loss
+
+ATT
+
+> ATC
+
+None
+
+None
+
+GAT
+
+> GAC
+
+None
+
+FokI
+
+1Fi
+2Re
+Ex8Fe
+Ex9Re
+15Fe
+16Re
+HMHl
+80Re
+27Fe
+63Re
+None
+93Fe
+32Re
+39Fe
+Ex33R
+7Fi
+8Re
+76Fe
+77Re
+98Fe
+99Re
+98Fe
+99Re
+94Fe
+4Re
+94Fe
+4Re
+3Fe
+4Re
+9Fe
+1ORi
+9Fe
+1ORi
+
+GAG
+AGT
+
+> GAA
+> AGC
+
+None
+None
+
+None
+HinPI
+
+CCA
+
+> CCG
+
+None
+
+CTG
+
+> CTA
+
+PUUII loss,
+MspI gain
+Sty1 gain
+
+> Cys
+
+> Leu
+
+HinPI
+
+PUUII
+FokI
+
+> Cys
+
+loss
+
+loss
+loss
+
+loss
+gain
+
+useful
+
+loss
+
+gain
+
+None
+51Fe
+50Re
+None
+None
+5Fi
+6Re
+
+Fragment
+51+39/90,37
+
+sizes
+
+(bp)
+
+common
+
+91f18/110
+154/110+44,60
+
+common
+
+72+48/120
+226+169/395
+156/77+69
+160/52+105
+33+27+50/33+77
+
+37+25/62
+46+86/136
+
+Allele
+
+het.
+
+0.65/0.35,
+n = 92”
+Observed
+family
+0.91, 0.09,
+n= 116
+Observed
+family
+
+freq.
+0.52
+in one
+only
+0.14
+in one
+only
+
+0.55/0.45,
+0.52
+n = 42
+0.96, 0.04, 0.08
+rz = 50
+0.92/0.08,
+0.15
+n = 90
+0.90/0.10,
+0.12
+n = 66
+Not done
+
+0.86/0.14,
+0.19
+n = 42
+0.73, 0.27, 0.21
+n = 108
+
+38+106/149,
+91 common
+(double
+digest with
+Ban11 to give 56+31 bp
+fragments)
+
+0.75/0.25,
+n = 92
+
+0.2
+
+205/50+153
+
+0.74/0.26,
+n = 102
+
+0.37
+
+223/130+89
+
+0.89/0.11,
+n = 94
+
+0.21
+
+n Only variants
+confirmed
+by direct
+sequencing
+are listed. In addition,
+constant
+differences
+were observed
+within
+four codons
+in all three
+patients
+and also in a normal
+control
+and are thus assumed
+to represent
+errors in the sequence
+originally
+reported
+by Zorzato
+et al. (1990). They
+are now corrected
+as follows:
+LeuTgl CTG + CTT; Lys + Asn23*3 AAG + AAC; Ala + Argzs8 GCG + CGG; and Ala + Arg13’9 GCC + CGC.
+b AA, amino acid; RE, restriction
+endonuclease
+site; allele het freq., allele and heterozygote
+frequencies.
+The frequency
+of the more common
+allele is listed first, corresponding
+to the more common
+allele listed first under
+“fragment
+sizes.”
+Allele and heterozygote
+frequencies
+were
+determined
+using samples
+from unrelated,
+mostly
+Caucasian
+individuals,
+selected
+from families
+including
+individuals
+predisposed
+to malignant
+hyperthermia.
+’ Number
+of chromosomes
+analyzed.
+
+stitution must also be presumed to be a polymorphism
+rather than a candidate mutation, but occurs more frequently than the other amino acid substitutions
+described above.
+Analysis of Restriction
+RYRl Gene
+
+Site Polymorphisms
+
+in the
+
+The 14 single base changes that result in the loss or
+gain of a restriction endonuclease site are listed in Table
+1. To evaluate these RFLPs for family studies, oligonu-
+
+cleotide primers were designed for PCR amplification
+of
+the region surrounding
+each sequence variant. The
+primer names are listed in Table 1 and their full sequences are provided under Materials and Methods.
+Primers were not designed for the Pro3”j” sequence
+change since this PuuII polymorphism
+had already been
+detected by conventional
+Southern blot analysis and
+used in MH family linkage studies (MacLennan
+et al.,
+1990). The His262o substitution resulted in an altered restriction site for several frequently cutting endonucleases but the cleaved fragments were too small and too
+
+RYRI
+
+IN
+
+INDIVIDUALS
+
+WITH
+
+MALIGNANT
+
+TABLE
+Caffeine
+Relationship
+
+Individual
+HJ
+BT
+TJ
+SJ
+Family
+I-l
+I-2
+II-1
+II-2
+Family
+I-l
+I-2
+11-l
+II-2
+
+Patient
+Patient
+Patient
+Brother
+
+Halothane
+
+2
+
+Contracture
+CSC
+
+1% H k)
+
+of TJ
+
+1251
+
+HYPERTHERMIA
+
+Test
+
+Results
+HCSC
+
+(mM)
+
+Diagnosis”
+
+(m&f)
+
+1.25
+0.4
+3.5
+1.1
+
+1.12
+3.9
+1.15
+2.4
+
+0.05
+0.24
+0.06
+0.15
+
+RHCK
+RHCK
+RHCK
+HCK
+
+10
+Father
+Mother
+Brother
+Patient
+
+of II-2
+of II-2
+of II-2
+
+0
+0
+0
+
+3.05
+7.75
+7
+
+0.47
+0.57
+0.1
+
+CK
+N
+K
+R
+
+Father
+Mother
+Patient
+Brother
+
+of II-1
+of II-1
+
+0.65
+0
+0
+0.2
+
+3.3
+8.6
+2.5
+2.9
+
+0.14
+0.48
+0.29
+0.3
+
+HCK
+
+2
+
+’ In this column:
+all three tests.
+
+R, MH
+
+of II-l
+
+reaction;
+
+H, positive
+
+halothane
+
+test;
+
+C, positive
+
+similar in size to be useful for genetic testing. The remaining 12 RFLPs were tested to determine allele frequencies and segregation patterns in MH families (Table 1). Allele and heterozygote frequencies were determined using samples from unrelated, mostly Caucasian
+individuals selected from MH families. The three most
+useful RFLPs are the AZwNI polymorphism
+at Let?,
+the TuqI polymorphism
+at Ile1151, and the HinPI polymorphism at Serzs6’, with heterozygote frequencies of
+0.4-0.5.
+Our earlier linkage study of RYRl gene polymorphisms in MH families identified nine informative families (MacLennan
+et al., 1990). One or more of the new
+
+caffeine
+
+test;
+
+K, positive
+
+halothane
+
+N
+RCK
+CK
+
++ caffeine
+
+test;
+
+and N, normal
+
+for
+
+polymorphisms
+were informative
+in each of these families and, as expected, the new markers segregated with
+the previously identified RFLPs and with the MH gene.
+DISCUSSION
+Malignant
+hyperthermia
+is a complex phenotype expressed in humans in response to a challenge with certain anesthetics. Once an individual has been labeled
+MH-sensitive by virtue of an MH reaction, other family
+members are often tested for susceptibility to halothaneor caffeine- induced contractures
+in muscle biopsies.
+These invasive tests are known for their difficulty in
+
+Glycine to Arginine 248
+Family 39
+I
+
+HCK
+
+HCK
+
+AC
+
+G T
+
+A
+
+CG
+
+T
+
+A
+
+C
+
+G
+
+T
+
+ACGT
+
+ACGT
+3’
+C
+T
+C
+-T/C
+
+5
+G
+A
+G
+G/A
+G
+
+1
+E
+z
+C
+
+c
+
+G
+
+T
+C
+G
+5’
+
+A
+G
+C
+3
+
+FIG.
+1.
+Direct
+sequencing
+of amplified
+cDNA
+from the region containing
+the Arg for Gly’@ substitution
+using reverse primer
+80Re. The C
+to T substitution
+(G to A in the coding strand)
+is indicated
+by an arrow and is present
+in approximately
+half of the mRNA
+of the proband
+(TJ),
+her brother,
+and her mother.
+H, positive
+halothane
+test; C, positive
+caffeine
+test; K, positive
+halothane
++ caffeine
+test. Filled symbols
+indicate
+MH susceptibility:
+open symbols
+indicate
+no diagnosis.
+
+1252
+
+GILLARD
+
+Ser 2962
+Hinpl RFLP
+
+Arg 470
+Hinpl RFLP
+
+FIG. 2.
+Polyacrylamide
+gel of HinPI
+restriction
+endonuclease-digested
+PCR products
+from
+family
+39. The C to T substitution
+at
+SerZ8s2 results
+in a HinPI
+gain (lanes 1 through
+5). TJ’s father
+and
+brother
+are heterozygous
+for the Serz8@ polymorphism
+while the rest
+of the family are homozygous
+for the new allele (153-bp
+band), demonstrating
+that TJ and her brother
+have inherited
+different
+paternal
+alleles. The substitution
+of Cys for Arg470 results in the loss of a HinPI
+site (lanes 7 through
+11). TJ and her father are heterozygous
+for the
+Arg470 polymorphism
+while her mother
+and brother
+are homozygous
+for the wildtype
+llO-bp
+allele, indicating
+that this sequence
+substitution is not segregating
+with MH.
+
+both execution and interpretation,
+undoubtedly
+resulting in some cases of misdiagnosis.
+The development of genetic tests for MH requires that
+the gene and the mutations causing MH be identified
+unequivocally.
+The identification
+of the ryanodine receptor gene and its linkage to the MH phenotype in family studies (MacLennan
+et al., 1990) supported, but did
+not prove, that the RYRl gene is mutated to cause MH
+in humans. The recent reports of families in which MH
+(Levitt et
+fails to segregate with RYRl polymorphisms
+al., 1991; Deufel et al., 1992) suggest additional caution
+in the interpretation
+of the earlier studies and, at the
+very least, point to genetic heterogeneity
+among MH
+families.
+Many of the data implicating the RYRl gene in defects leading to MH sensitivity come from studies in the
+pig. We recently identified a candidate mutation, substitution of Cys for Arg615 in the pig genome, and showed
+that this genetic alteration segregated consistently with
+Pro 1795
+Pvull RFLP
+Family 39
+
+Family 10
+
+FIG. 3.
+Polyacrylamide
+gel of PuuII restriction
+endonuclease-digested PCR products
+from families
+10 and 39 showing
+the loss of a
+PuuII
+site associated
+with the substitution
+of Leu for Prolrffl.
+Leu”85
+(represented
+by the 395bp
+band) is not associated
+with predisposition
+to MH in either family.
+
+ET
+
+AL.
+
+Family 10
+
+Family 2
+
+FIG. 4.
+Polyacrylamide
+gel of &a111 restriction
+endonuclease-digested PCR products
+of the region
+surrounding
+the Cys for Gly2”9
+substitution.
+Patient
+TJ (lane 11 was homozygous
+for the substitution
+associated
+with the gain of a D&II
+restriction
+site (bands
+at 112 and
+48 bp). In families
+2 and 10 this substitution
+fails to segregate
+with
+predisposition
+to MH. In family
+10 individual
+II-2 and his identical
+twin both experienced
+MH reactions;
+individual
+II-1 gave conflicting
+results on his biopsy test (Table 2) and is shaded to indicate
+his uncertain status.
+In family
+2 individual
+II-1 experienced
+an MH reaction.
+The MH status of other family
+members
+was determined
+by caffeine
+halothane
+muscle biopsy
+contracture
+tests (Table
+2).
+
+the MH phenotype in over 450 animals examined, including 338 meioses. The corresponding mutation in humans, Cys for Arg614, has also been found in one MH
+family, where it segregates with the phenotype in three
+meioses, giving support to the hypothesis that certain
+mutations in RYRl are causative of MH (Gillard et al.,
+1991).
+In the present study, we report the identification
+of
+several new polymorphisms
+that can be applied to linkage studies in MH families and we report a second candidate mutation, adding to the evidence implicating the
+RYRl gene in MH.
+The RFLPs from the coding region of the RYRl gene,
+described in this paper, have proven to be informative in
+most of our MH families, including all of those informative for the earlier markers. Use of these markers was
+rapid and simple, confirming our earlier findings of linkage between MH and RYRl genes. The eight substitutions that failed to alter a restriction endonuclease site
+might also be applied to linkage studies and family analysis by means of single strand conformation
+polymorphisms or SSCPs (Orita et al., 1989). The availability of
+some 32 polymorphisms
+in the RYRl gene, 24 of which
+are detected as RFLPs, will make analysis of inheritance
+of specific RYRl haplotypes informative
+in most MH
+families.
+Our results exclude three of the four amino acid substitutions that we observed as candidate mutations for
+predisposition
+to MH and suggest that the fourth, Arg
+for G~Y’~~,may predispose to MH in the single family in
+which it has been observed. This candidate mutation
+was observed in only the family of TJ, consistent with
+the RYRl haplotype analysis (Table 3), which demonstrated that TJ did not have the relatively common MH
+haplotype shared by the majority of our MH patients,
+including BT. The MH haplotype in TJ’s family closely
+
+RYRZ
+
+TABLE
+RYRl
+
+Haplotype
+
+IN
+
+INDIVIDUALS
+
+Leuig7
+Gl 248
+A&
+Arg470
+Ilen5i
+Pro’785
+LYs”“‘z
+G1yzo5’
+Asp=
+Ser286*
+Leu3”’
+
+Site/AA
+change
+
+REFERENCES
+
+of Probands
+
+Allele
+
+AlwNI
+Gly > Arg
+AciI
+Arg > Cys
+TaqI
+Pro > Leu
+FokI
+Gly > Cys
+FokI + Ban11
+HinPI
+Sty1
+
+39=1
+Gly=l
+91=1
+Arg=l
+
+72=1
+Pro=1
+156=1
+Gly=l
+105=1
+205=1
+223=1
+
+1253
+
+HYPERTHERMIA
+
+3
+BT, HJ, and TJ
+
+BT
+Amino
+acid
+
+MALIGNANT
+
+WITH
+
+HJ
+
+Archibald,
+A. L., and Imlah, P. (1985).
+and its linkage
+relationships.
+Anim.
+
+TJ
+
+N
+
+M
+
+N
+
+M
+
+N
+
+0
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
+
+0
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
+
+0
+1
+2
+1
+1
+1
+2
+1
+2
+2
+2
+
+0
+1
+2
+1
+1
+1
+2
+1
+2
+2
+2
+
+2
+
+1
+1
+1
+2
+2
+2
+2
+2
+1
+2
+1
+
+Note. Partial
+RYRl
+haplotypes
+for each individual
+sequenced.
+The
+more common
+allele for each polymorphism
+is represented
+as a 1, the
+less common
+allele as a 2, and the loci heterozygous
+in a given individual for which phase could not be determined
+are represented
+by a 0.
+Family
+members
+of HJ were not available
+for analysis
+of phase.
+
+resembles that of the normal maternal chromosome in
+family 1, differing only at the G1y248locus. HJ, for whom
+family members are unavailable, has a unique genotype
+among our MH family members. The association of the
+Arg248 mutation with MH will require linkage analysis in
+larger families or direct biochemical
+or physiological
+demonstration
+that this mutation appropriately
+alters
+Ca2+-release channel function.
+Amino acid substitutions
+have not yet been observed
+in either HJ or BT. Approximately
+10% of the RYRl
+coding sequence of patients HJ and BT, mostly within
+20 bp adjacent to each of the primers used in direct sequencing, remains to be sequenced. Candidate mutations causative for MH in these patients may lie within
+these regions. The R YRl coding sequence of patient TJ
+has been completely analyzed by cloning and sequencing
+with a minimum of five clones covering each region analyzed. This technique avoided the gaps left in the direct
+sequencing method, but introduced
+the potential
+for
+error due to PCR artifacts or to the lack of amplification
+of the mutant haplotype in the clones that were analyzed. Thus, there is a slight chance (~4%) that a candidate mutation may have been overlooked by this technique. Accordingly, we cannot state categorically that
+Arg for G1y248 is the sole candidate mutation
+in the
+RYRl gene for predisposition to MH in the family of TJ.
+Confirmation
+of Arg for G1yz4* as a mutation causative
+for predisposition to MH will await its identification
+and
+correct segregation in additional families or functional
+studies on the resultant ryanodine receptor.
+ACKNOWLEDGMENTS
+This research
+was supported
+by grants to D.H.M.
+and R.G.W.
+from
+the Muscular
+Dystrophy
+Association
+of Canada
+(MDAC)
+and by
+Grant
+MT-3399
+from the Medical
+Research
+Council
+of Canada
+to
+D.H.M.
+J.F. was a fellow of the MDAC.
+
+sensitivity
+Biochem.
+
+locus
+Genet.
+
+16:253-263.
+
+M
+
+2
+2
+1
+2
+1
+2
+2
+1
+2
+1
+
+The halothane
+Blood Groups
+
+Britt,
+B. A. (1989).
+The North
+American
+caffeine
+ture test. In “Malignant
+Hyperthermia:
+Current
+Nalda Felipe, S. Gottmann,
+and H. J. Khambatta,
+Normed
+Verlag,
+Madrid.
+
+halothane
+contracConcepts”
+(M. A.
+Eds.), pp. 53-69,
+
+Britt, B. A. (1991). Malignant
+hyperthermia:
+A review. In “Thermoregulation:
+Pathology,
+Pharmacology
+and Therapy”
+(E. Schonbaum,
+and P. Lomax,
+Eds.) pp. 179-292,
+Pergamon,
+New York.
+Brostrom,
+C. O., Hunkeler,
+tion of skeletal
+muscle
+246: 1961-1967.
+
+F. L., and Krebs, E. G. (1971). The regulaphosphorylase
+kinase
+by Ca2+. Biol. Chem.
+
+Bulman,
+D. E., Gangopadhyay,
+S. B., Bebchuck,
+K. G., Worton,
+R. G.,
+and Ray, P. N. (1991).
+Point mutations
+in the human
+dystrophin
+gene: Identification
+through
+Western
+blot analysis.
+Genomics
+10:
+
+457-460.
+Chomczynski,
+isolation
+traction.
+Deufel,
+T.,
+hauer, D.,
+K. J., and
+neity
+of
+Genet., in
+
+P., and Sacchi,
+N. (1987). Single-step
+method
+by acid guanidinium
+thiocyanate-phenol-chloroform
+Anal. Biochem.
+162: 156-159.
+Golla, A., Iles, D., Meindl,
+A., Meitinger,
+T.,
+DeVries,
+A., Pongratz,
+D., MacLennan,
+D. H.,
+Lehmann-Horn,
+F. (1992). Evidence
+for genetic
+malignant
+hyperthermia
+susceptibility.
+Am.
+press.
+
+Fill, M., Coronado,
+B. A., and Louis,
+nels in malignant
+
+R., Mickelson,
+C. F. (1990).
+hyperthermia.
+
+of RNA
+exSchindelJohnson,
+heterogeJ. Hum.
+
+J. R., Vilven,
+J., Ma, J., Jacobson,
+Abnormal
+ryanodine
+receptor
+chanBiophys.
+J. 50: 471-475.
+
+Fujii, J., Otsu, K., Zorzato,
+F., De Leon, S., Khanna,
+V. K. Weiler,
+J.,
+O’Brien,
+P. J., and MacLennan,
+D. H. (1991).
+Identification
+of a
+mutation
+in porcine
+ryanodine
+receptor
+associated
+with malignant
+hyperthermia.
+Science 253: 448-451.
+Gillard,
+mezi,
+D. H.
+odine
+thermia.
+
+E. F., Otsu, K., Fujii, J., Khanna,
+V. K., De Leon, S., DerdeJ., Britt,
+B. A., Duff, C. L., Worton,
+R. G., and MacLennan,
+(1991). A substitution
+of cysteine
+for arginine
+614 in the ryanreceptor
+is potentially
+causative
+of human
+malignant
+hyperGenomics.
+11: 751-755.
+
+Harbitz,
+I., Chowdhary,
+B., Thomsen,
+P., Davies,
+W., Kaufman,
+U.,
+Kran, S., Gustavsson,
+I., Christensen,
+K., and Hauge, J. (1990). Assignment
+of the porcine
+calcium
+release channel
+gene, a candidate
+for the malignant
+hyperthermia
+locus, to the 6pll-q21
+segment
+of
+chromosome
+6. Genomics
+8: 243-248.
+Harrison,
+G. G. (1987).
+Porcine
+of the hot pig. In “Malignant
+103-136,
+Nijhoff,
+Boston.
+Harrison,
+aesth.
+
+G. G. (1988).
+60: 279-286.
+
+malignant
+Hyperthermia”
+
+Dantrolene-dynamics
+
+hyperthermia-The
+(B. A. Britt,
+and kinetics.
+
+Ed.),
+
+saga
+pp.
+
+Br. J. An-
+
+Heery, D. M., Gannon,
+F., and Powell, R. (1990). A simple method
+for
+subcloning
+DNA fragments
+from gel slices. Trends Genet. 6: 173.
+Knudson,
+C. M., Mickelson,
+J. R., Louis,
+C. F., and Campbell,
+K. P.
+(1990).
+Distinct
+immunopeptide
+maps of the sarcoplasmic
+reticulum Ca2+ release channel
+in malignant
+hyperthermia.
+J. Biol. Chem.
+
+265:2421-2424.
+Kogan,
+S. C., Doherty,
+M., and Gitschier,
+J. (1987).
+An improved
+method
+for prenatal
+diagnosis
+of genetic diseases by analysis
+of amplified DNA sequences.
+N. Engl. J. Med. 317: 985-990.
+Lai, F. A., and Meissner,
+G. (1989). The muscle
+ryanodine
+receptor
+and its intrinsic
+Ca’+ activity.
+J. Bioenerg.
+Biomembr.
+2 1: 227-246.
+Levitt,
+R. C., Nouri,
+N., Jedlicka,
+A. E., McKusick,
+V. A., Marks,
+A. R., Shutack,
+J. G., Fletcher,
+J. E., Rosenberg,
+H., and Meyers,
+D. A. (1991). Evidence
+for genetic heterogeneity
+in malignant
+hyperthermia
+susceptibility.
+Genomics
+11: 543-547.
+MacKenzie,
+A. E., Korneluk,
+R. G., Zorzato,
+F., Fujii, J., Phillips,
+M.,
+Iles, D., Wieringa,
+B., Le Blond,
+S., Bailly,
+J., Willard,
+H. F., Duff,
+C., Worton,
+R. G., and MacLennan,
+D. H. (1990). The human ryan-
+
+1254
+
+GILLARD
+
+odine receptor
+gene, its mapping
+to 19q13.1, placement
+in a chromosome 19 linkage
+group, and exclusion
+as the gene causing
+myotonic
+dystrophy.
+Am. J. Hum. Genet. 46: 1082-1089.
+MacLennan,
+D. H., Duff,
+luk, R. G., Frodis,
+W.,
+odine receptor
+gene is
+hyperthermia.
+Nature
+
+C., Zorzato,
+F., Fujii, J., Phillips,
+M., KorneBritt, B. A., and Worton,
+R. G. (1990). Ryana candidate
+for predisposition
+to malignant
+343: 559-561.
+
+McCarthy,
+T. V., Healy, J. M. S., Heffron,
+J. J. A., Lehane,
+M., Deufel,
+T., Lehmann-Horn,
+F., Farrall,
+M., and Johnson,
+K. (1990). Localization
+of the malignant
+hyperthermia
+susceptibility
+locus to human chromosome
+19q12-13.2
+Nature
+343: 559-561.
+Mickelson,
+J. R., Gallant,
+pel, W. E., and Louis,
+lum ryanodine
+receptor
+263: 9310-9315.
+
+E. M., Litterer,
+L. A., Johnson,
+K. M., RemC. F. (1988). Abnormal
+sarcoplasmic
+reticuin malignant
+hyperthermia.
+J. Biol. Chem.
+
+Miller,
+S. A., Dykes, D. D., and Polesky,
+H. F., (1988). A simple salting
+out procedure
+for extracting
+DNA from human
+nucleated
+cells. Nucleic Acids Res. 16: 1215.
+Nelson,
+T. E. (1988).
+Calcium
+9: 257-265.
+O’Brien,
+P. d. (1987).
+mia: Hypersensitive
+coplamic
+reticulum.
+
+SR
+
+function
+
+in malignant
+
+hyperthermia.
+
+Etiopathogenetic
+defect of malignant
+calcium
+release channel
+of skeletal
+Vet. Res. Commun.
+11: 527-559.
+
+Cell
+
+hyperthermuscle sar-
+
+Ohnishi,
+S. T., Taylor,
+S., and Gronert,
+G. A. (1983). Calcium-induced
+Ca*+ release from sarcoplasmic
+reticulum
+of pigs susceptible
+to malignant
+hyperthermia.
+FEBS I&t.
+161: 1033107.
+Orita,
+M., Suzuki,
+Y., Sekiya,
+T., and Hayashi,
+K. (1989). Rapid
+sensitive
+detection
+of point
+mutations
+and DNA
+polymorphisms
+using the polymerase
+chain reaction.
+Genomics
+5: 875-879.
+Otsu, K., Willard,
+H. F., Khanna,
+V. K., Zorzato,
+MacLennan,
+D. H. (1990). Molecular
+cloning
+
+and
+
+F., Green, N. M., and
+of cDNA
+encoding
+the
+
+ET
+
+AL.
+
+Ca2+ release
+sarcoplasmic
+
+channel
+(ryanodine
+reticulum.
+J. Biol.
+
+receptor)
+of rabbit
+cardiac
+Chem. 265:
+13,472-13,483.
+
+Otsu, K., Khanna,
+V. K., Archibald,
+A. L., and MacLennan,
+(1991).
+Cosegregation
+of porcine
+malignant
+hyperthermia
+probable
+causal mutation
+in the skeletal
+muscle ryanodine
+gene, in backcross
+families.
+Genomics
+11: 744-750.
+
+muscle
+D. H.
+and a
+receptor
+
+Saiki, R. K., Gelfand,
+D. H., Stoffel,
+S., Scharf,
+S. J., Higuchi,
+R.,
+Horn, G. T., Mullis,
+K. B., and Erlich,
+H. A. (1988). Primer-directed
+enzymatic
+amplification
+of DNA with a thermostable
+DNA polymerase. Science 239: 487-494.
+Sanger,
+F., Nicklen,
+with chain-terminating
+5463-5467.
+
+S., and Coulson,
+inhibitors.
+
+A. R. (1977). DNA
+sequencing
+Proc. N&l. Acad. Sci. USA 74:
+
+Schonk,
+D., Coerwinkel-Dreisen,
+M., Van Dalen,
+I., Oerlemans,
+F.,
+Smeets,
+B., Schepens,
+d., Hulsebos,
+T., Cockburn,
+D., Boyd, Y.,
+Davis,
+M., Rettig,
+W., Shaw, D., Roses, A., Ropers,
+H., and Wieringa, B. (1989). Definition
+of subchromosomal
+intervals
+around the
+myotonic
+dystrophy
+gene region at 19q. Genomics
+4: 384-396.
+Steward,
+D. J., and O’Connor,
+G. A. R. (1987). Malignant
+hyperthermia-The
+acute crisis. In “Malignant
+Hyperthermia”
+(B. A. Britt,
+Ed.), pp. l-9, Nijhoff,
+Boston.
+Wang,
+A. M., Doyle,
+M. V., and Mark,
+D. F. (1989).
+Quantitation
+of
+mRNA
+by the polymerase
+chain
+reaction.
+Proc. Natl. Acad. Sci.
+USA 86: 9719-9721.
+Winship,
+P. R. (1989). An improved
+method
+for directly
+sequencing
+PCR amplified
+material
+using dimethyl
+sulphoxide.
+Nucleic
+Acids
+Res. 17: 1266.
+Zorzato,
+F., Fujii, J., Otsu, K., Phillips,
+M., Green,
+N. M., Lai, F. A.,
+Meissner,
+G., and MacLennan,
+D. H. (1990).
+Molecular
+cloning
+of
+cDNA
+encoding
+human
+and rabbit
+forms of the Ca2+ release channel (ryanodine
+receptor)
+of skeletal
+muscle sarcoplasmic
+reticulum.
+J. Biol. Chem. 265: 2244-2256.
+
+

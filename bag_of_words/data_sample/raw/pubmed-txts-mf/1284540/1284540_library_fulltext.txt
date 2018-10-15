@@ -1,0 +1,508 @@
+HUMAN MUTATION 1:380-387 (1992)
+
+RESEARCH ARTICLE
+
+Characterization of an Intron 12 Splice Donor
+tation in the Cystic Fibrosis Transmembrane
+Conductance guPator (CF
+Theresa V. Strong,* Lisa S . Smit, Samya Nasr, Deborah L. Wood, Jeffrey L. Cole,
+Michael C. Iannuzzi, Robert C. Stern, and Francis S. Collins
+Departments of Human Genetics (T.V.S., L.S.S., D.L. W., F.S.C.) , Pediatrics (S.N.), lnternal Medicine (F.S.C.), and The
+Howard Hughes Medical Institute (J.L.C., F.S.C.), University of Michigan, Ann Arbor, Michigan 48109-0650; The Henry
+Ford Hospital, Detroit, Michigan (M.C.1,); and Rainbow Babies and Childrens Hospital, Cleveland, Ohio (R.C.S.)
+Communicated by Dawid Ginsburg
+
+Cystic fibrosis, the most common lethal genetic disease in the white population, is caused by mutations
+in the cystic fibrosis transmembrane conductance regulator (CFTR) gene. Analysis of DNA from a
+pancreatic insuffkient patient by chemical mismatch cleavage and subsequent DNA sequencing led to
+the identification of a potential splice mutation in the CFTR gene. A transition of the invariant
+guanosine to adenosine (1898 l G > A ) was found at the splice donor site of intron 12. To determine
+the effect of this mutation on the patient’s CFTR transcripts, RNA from the nasal epithelium was
+reverse transcribed and amplified by the polymerase chain reaction (RT-PCR). Direct sequencing of
+the PCR products revealed that the transcript from the chromosome with the 1898+ 1G>A mutation
+had skipped exon 12 entirely, resulting in a joining of exons 11 and 13. Deletion of exon 12 results in
+the removal of a highly conserved region which encodes the Walker B consensus sequence of the first
+nucleotide-binding fold of CFTR. o 1992 Wiley-Liss, I ~ C .
+
++
+
+W Y WORDS: Cystic fibrosis transmembrane conductance regulator, Mutation, RNA splicing
+
+INTRODUCTION
+
+Cystic fibrosis (CF) is the most common lethal
+autosomal recessive disorder in the white population, affecting approximately 1 in 2,500 live births
+(Boat et al., 1989). T h e disease is characterized by
+abnormalities in electrolyte transport including defective CAMP regulation of chloride channels in
+epithelial cells (Quinton, 1990; Welsh, 1990).
+The gene implicated in CF, the cystic fibrosis
+transmembrane conductance regulator (CFTR)
+gene, has been cloned (Rommens et al., 1989;
+Riordan et al., 1989; Kerem et al., 1989) and the
+predicted protein product is similar to the family of
+ATP-binding transport proteins (Ames et al.,
+1990; Hyde et al., 1990). The structure consists of
+a repeated motif of six putative membrane spanning segments followed by a nucleotide binding
+fold (NBF) . Separating the two halves of the molecule is a highly charged regulatory (R) domain
+with multiple phosphorylation sites (Cheng et al.,
+1991).
+Expression of CFTR in CF epithelial cells cor0 1992 WILEY-LISS,INC.
+
+rects the chloride transport defect (Drumm et al.,
+1990; Rich et al., 1990), and expression of CFTR
+in a variety of heterologous cells is associated with
+the appearance of CAMP-regulated chloride con.
+ductance (reviewed by Collins, 1992). Purified
+CFTR protein reconstituted in lipid bilayers also
+forms chloride channels (Bear et al., 1992). These
+data suggest that CFTR itself is able to function as
+a CAMP-regulated chloride channel.
+The most common mutation responsible for CF
+is a deletion of the phenylalanine at position 508
+of CFTR (AF508). This mutation accounts for approximately 70% of CF chromosomes worldwide
+(Cystic Fibrosis Genetic Analysis Consortium,
+1990). In the remaining 30% of CF chromosomes,
+over 170 putative mutations have been identified,
+including missense mutations, nonsense muta.
+tions, deletions, insertions as well as potential
+Received July 22, 1992; accepted August 24, 1992.
+*To whom reprint requestdcorrespondence should be addressed.
+
+CFM3 SPLICE MUTATION
+
+splice mutations (Tsui et al., 1992). Identification
+and characterization of putative mutations provide
+insight into the function of CFTR. We have used
+chemical mismatch cleavage and subsequent DNA
+sequencing to identify a splice mutation at the 5’
+end of the intron following CFTR exon 12. CFTR
+mRNA transcribed from this allele was found to
+skip exon 12 entirely.
+MATERIALS AND METHODS
+Patient Description
+
+Two unrelated CF patients were identified as
+having AF508/1898 1 G > A mutations from
+DNA analysis, as discussed below. Both patients
+were previously diagnosed as having CF on the
+basis of clinical findings of typical pulmonary and
+gastrointestinal disease, together with abnormal
+values of sweat chlorideisodium test.
+Patient “A” was a 39-year-old white male. His
+height was 169 cm (10% for age) and weight was
+5 1 mg ( < 5% for age). Tests of pulmonary function
+revealed FVC of 2.55 L (59% of predicted) and
+FEVl of 1.29 L (36%). He was pancreatic insufficient. He had a history of liver disease and required
+splenorenal shunt for portal hypertension at age 14
+years.
+Patient “B)was a 9-year-old white female. Her
+height was 124 cm (10-25% for age), and weight
+was 26.4 kg (25-50% for age). Tests of pulmonary
+function revealed FVC of 1.23 L (93%) and FEVl
+of 1.04 L (86%). She was pancreatic insufficient.
+
++
+
+Detection of Mutation by Chemical Mismatch
+Cleavage and DNA Sequencing
+
+CFTR exon 12, including more than 100 bp of
+each flanking intron sequence, was amplified from
+patient DNA by standard methods (Sambrook et
+al., 1989). The primers and conditions used were
+those of Zielinski (1991), except that the primers
+were modified by the addition of a BamHI restriction site as follows: 5’-ATACGGATCCGTGAATCGATGTGGTGACCA-3 ’ and 5 ATAC’e
+
+GGATCCCTGGTTTAGCATGAGGCGGT-3’ .
+
+Chemical mismatch cleavage was performed as
+described (Strong et al., 1991) based on published
+methods (Cotton et at., 1988; Grompe et al.,
+1989). Heteroduplexes were formed between patient and radioactively labeled wild-type DNA by
+heating the mixture to boiling and slowly cooling
+to room temperature. Treatment with hydroxylamine and osmium tetroxide modified mismatched nucleotides in the heteroduplexes, which
+were then cleaved with piperidine. The cleavage
+
+381
+
+products were resolved by electrophoresis on a 6%
+acrylamide gel and visualized by autoradiography.
+DNA determined to contain a mutation based
+on the chemical mismatch cleavage studies was
+amplified by PCR, gel purified, digested with
+BamHI, and subcloned into M13mp18 DNA. Single-stranded DNA was isolated and sequenced by
+the dideoxy chain termination method using a Sequenase Kit (U.S. Biochemical Corp.)
+Allele Specific Oligonucleotide Screening
+Oligonucleotides were generated corresponding
+to the normal (5‘ -TTTGAAAGGTATGTTCT.
+3’) and mutant (5’-TTTGAAAGATATGTTCT3‘) sequences. Amplified exon 12 DNA from CF
+patients and normal individuals was transferred to
+nylon membranes and hybridized to kinased olig.
+onucleotides as described (Strong et al., 1991),
+except that the hybridization and washes were
+done at 39°C.
+Analysis of CFTR mRNA from Nasal Epithelium
+Nasal tissue was obtained from the patient by
+nasal scrape using a Rhino-Probe (Synbiotics
+Corp, San Diego, CA). The sample was placed in
+phosphate buffered saline and total RNA was isolated by the RNazol B method (Cinna/Biotecs Laboratories, Friendswood, TX) . Approximately 1 p g
+of RNA was reverse transcribed using 1 p g of random hexamers as reverse transcription primers in a
+50 p,l reaction which contained 500 p M dNTPs,
+50 units of RNasin (Promega), 200 units of
+MMLV-RT (BRL), and a buffer of 50 mM Tris
+(pH 8.3), 50 mM KC1, 8 mM MgCl,, and lOmM
+DTT. One-fifth of the reverse transcription reaction was used in a 50 r~.lPCR reaction and the
+buffer and dNTPs concentrations were adjusted to
+that of a standard PCR reaction (Sambrook et al.,
+1989); 250 ng of each primer was included in the
+reaction. The 5’ primer (5‘-CACGGATCCAACCACCATCTC ATTCTGCATTGTTCTG-3 ‘)
+was located in exon 7, and the 3‘ primer (5’-CACCTGCAGGTTCAGGA G ACAGG AGCATCT)
+CCTTCTAATG-3’) was in exon 13. Reaction
+conditions were 35 cycles of 1 min at 94°C and 2
+min at 72°C; followed by an extension step of 10
+min at 72°C. One microliter of this reaction underwent a second round of amplification with a
+nested 5’ primer (5’-ATACCTCGAGGACTTCA C T C T A A T G A T G A T T A T G G G - 3 ’) in exon
+10 and the same 3’ primer. The product was visualized on a 1% agarose, 1.5% NuSieve gel. Nega.
+tive controls included a water control as well as a
+control which contained patient RNA but no reverse transcriptase.
+
+382
+
+STRONG ET AL.
+
++ 1G>A mutation by chemical
+mismatch cleavage and DNA sequence analysis. (a) Heteroduplexes between radiolabeled wild-type probe and amplified
+DNA born 4 patients were modified with hydroxylamine and
+cleaved by piperidine. Lanes l , 3, and 4 show DNA from CF
+patients with no detectable mutation in the region of exon 12,
+and lane 2 shows 220 bp cleavage product from patient “A,”
+
+which indicates the presence of a mutation. DNA markers
+and their size in base pairs is shown at the left. (b)The partial
+nucleotide sequence at the exon 12hntron 12 border of an
+M13 clone from a normal individual (N) on the left, and patient “A” (M) on the right, with the G-to-A transition at basepair 1898 + 1 indicated by the arrow.
+
+For amplification of RNA containing exon 12,
+the first round PCR was performed as above with
+primers in exons 7 and 13. The nested PCR primers consisted of the 5’ nested primer above, and a
+3‘ primer complementary to sequences in exon 12
+
+RESULTS
+
+FIGURE 1. Detection of 1898
+
+(5’-CACCTGCAGGTTCAAGGAGAGTCTA-
+
+ATAAATACAAATCAGC-3 ’) . Reaction conditions were 35 cycles of 1 min at 94“C, 1 min annealing at 60”C, and 2 min extension at 72”C,
+followed by an extension step of 10 min at 72°C.
+Direct Sequencing of PCR Products
+
+Direct sequencing of PCR products was based
+on the method of Kretz et al. (1989) using a
+Sequenase Kit. Briefly, PCR products were
+visualized on a 1% NuSieve GTG gel by long
+wave ultraviolet light and the bands were excised.
+The agarose was melted and a 1O-Fi aliquot was
+annealed with 50 ng of the 5’ PCR primer, which
+acted as a sequencing primer. To each DNA:
+primer tube, diluted dGTP labeling mix, DTT,
+[35S]dATP,and Sequenase was added according to
+manufacturer’s directions. The reaction was held
+at 37°C for 4 min, and then 4 pl of the reaction
+was added to the dideoxy nucleotides. After
+incubation for 5 min, the reaction was stopped by
+drying followed by the addition of 6 pl of stop
+solution, and the samples were electrophoresed on
+a 6% denaturing gel.
+
+DNA Analysis
+
+CFTR exon 12 from a patient heterozygous for
+AF508 (patient “A”) was amplified by PCR and
+analyzed by chemical mismatch cleavage. A mismatch between the patient’s DNA and normal
+DNA was detected by modification with hydroxylamine and subsequent cleavage with piperidine.
+The abnormal cleavage product is shown in Figure
+1A and indicates the presence of a mutation in the
+region of exon 12. The 426-bp fragment including
+exon 12 and the flanking intron DNA was subcloned into M13 and 6 independent clones were
+sequenced. In three clones, a mutation at the
+splice donor site immediately following exon 12
+was identified; the G of the splice donor site was
+changed to an A (1898 1 G > A ) (Fig. 1B). This
+G is part of the highry conserved GT dinucleotide
+of splice donor sites. The sequence of the other
+three clones was normal for exon 12 and the surrounding intron sequences.
+To determine if this potential splice mutation
+was found in any additional patients in our population, DNA from our panel of CF patients was
+amplified and analyzed by hybridization with an
+oligonucleotide specific for the mutation. Of 110
+non-AF CF chromosomes screened, one additional
+unrelated patient (patient “B”) was identified as
+having the mutation. Sequencing of this patient’s
+
++
+
+CFTR SPLICE MUTATION
+
+FIGURE 2. Analysis of CFTR mRNA by RT-PCR and direct
+sequence analysis of the amplification product. (a) RT-PCR
+analysis. M, DNA marker 4x174 cut with Haelll. Lane 1.
+Amplification product from patient “A” nasal epithelium
+RNA using primers in exons 10 and 13. The abnormal 577 bp
+band is indicated by the arrow. Lane 2. Negative control in
+which no reverse transcriptase was added. Lane 3. Amplifi-
+
+383
+
+cation product from a control trachea RNA sample. Lane 4.
+Amplification product from CFTR cDNA. Lane 5. Negative
+H20 control. (b) Nucleotide sequence of the 577 bp band
+demonstrating the junction of exons 11 and 13. ( c ) Nucleotide sequence of the 577 bp band in the exon 10 region,
+demonstrating t h e presence of Phe 508 in the CFTRAlZ transcript.
+
+384
+
+STRONG ET AL.
+
+FIGURE 3. Analysis of CFTR mRNA from patient “ A ’ by RT-
+
+PCR using a PCR primer complementaly to exon 12. (a) M,
+DNA marker. Lane 1. Amplification product from patient
+“ A ’ RNA. Lane 2. No reverse transcriptase control. Lane 3.
+Amplification product from a control trachea RNA sample.
+Lane 4. Amplification product from CFTR cDNA. Lane 5.
+
+DNA confirmed the presence of the 1898
++ 1G> A change (not shown). This individual
+was also heterozygous for the AF508 allele. Seventy-five normal chromosomes were screened with
+the ASOs and none were found to have the
+1898+ 1G>A mutation.
+
+RNA Analysis
+Since the G of the splice donor site is highly
+conserved, it seemed likely that a mutation at this
+
+Negative H,O control. (b)Nucleotide sequence of the exon
+12 containing amplification product from patient “A” RNA
+in the region of exon 10. Direct sequencing of the amplification product indicates that no detectable exon 12 containing
+RNA is transcribed from the 1898+ 1G>A allele, which is
+wild type at Phe-508.
+
+site would disrupt normal mRNA processing. To
+determine the effect of this mutation on the patient’s CFTR transcripts, RNA from the nasal epithelium was reverse transcribed and amplified by
+PCR (RT-PCR) using primers in exons 10 and 13.
+As shown in Figure 2A, CFTR mRNA from this
+patient is of two sizes. The relative intensity of the
+two bands was somewhat variable between experiments, but was approximately equal. Direct sequencing of the smaller RT-PCR product demon-
+
+CFTR SPLICE MUTATION
+
+385
+
+FIGURE 4. Schematic the CF gene and the predicted protein structure. The location of the
+
+1898 + 1G>A transition at intron 12 and the mRNA generated as a result of this mutation are shown.
+The region of CFTR encoded by exon 12 is indicated by the shaded area in the first NBF.
+
+strated that it represents a transcript that has
+skipped exon 12, resulting in the joining of exons
+11 and 13 (Fig. 2b). This RT-PCR product
+(CFTRAl2) was wild type at F508, indicating the
+aberrantly spliced transcript originated from the
+chromosome bearing the 1898 1 G > A mutation
+(Fig. 2c). The larger RT-PCR product was also
+analyzed by direct sequencing (not shown) and predominantly represents the full length message, transcribed from the AF508 chromosome. However,
+this product could not be completely purified by
+agarose gel electrophoresis and contained a small
+amount of the 1898+ 1 G > A product, which was
+wild type at F508 and had exons 11 and 13 spliced
+together. To confirm that no full length mRNA was
+transcribed from the chromosome with the
+1898 1 G > A mutation, PCR was performed on
+the reverse transcribed RNA using a primer in exon
+12. A single band was amplified which originated
+solely from the AF508 chromosome when analyzed
+by direct sequencing (Fig. 3 ) . A diagram of the
+location of the 1 8 9 8 + 1 G > A mutation and its
+effect on CFTR RNA splicing is shown in Figure 4.
+
++
+
++
+
+DISCUSSION
+
+Chemical mismatch cleavage and DNA sequencing of CF patient DNA led to the identification of a potential splicing mutation following
+exon 12 (1898 + l G > A ) . This mutation was
+found in two of 111 non-AF CF chromosomes in
+
+our generally North American white CF population. The nucleotide altered in this patient is part
+of the highly conserved G T dinucleotide found at
+the splice donor junction sequence. This guanosine is conserved in more than 99.8% of splice sites
+(Senapathy et al., 1990), indicating a crucial role
+in mRNA splicing. Mutations in other genes at the
+critical + 1 G nucleotide of the splice donor site
+have been found to cause disease by at least two
+different mechanisms. As in the case of the pglobin gene, mutation at this site may result in the
+activation of a cryptic splice donor site (Treisman
+et al., 1982). Usually the cryptic splice donor site
+is located near the splice donor site. A survey of
+the sequence near the 1898 1G > A mutation revealed the presence of one GT dinucleotide within
+exon 12 and three within the first 100 bp of the
+intron that could potentially act as splice donor
+sites. However, PCR amplification of the transcript indicated that none of these sites was utilized
+to a detectable degree.
+The second, more typical consequence of a 5’
+splice mutation is a complete skipping of the exon
+preceding the mutation, as is seen in this case.
+This mechanism of exon skipping suggests that
+both the splice acceptor site immediately preceding an exon and the splice donor site immediately
+following the exon must be recognized before that
+exon will be spliced into the mature message
+(Talerico and Berget, 1990).
+
++
+
+386
+
+STRONG ET AL.
+
+Reverse transcription and PCR analysis revealed
+that the effect of the 1898 1 G > A mutation is
+skipping of exon 12, with a precise joining of exons
+11 and 13. As assessed by direct sequencing, the
+full length PCR product originated solely from the
+AF508 chromosome and the CFTRA12 product
+originated from the 1898 1G > A chromosome.
+The approximately equal quantities of the two
+messages indicated that the CFTRA12 transcript is
+stable. The stability of this message may be due to
+the fact that exon 12 consists of 87 bp and its
+deletion does not result in a shift of reading frame.
+Therefore, stop mutations, which are associated
+with unstable transcripts in other CFTR mutants
+(Hamosh et al., 1991), have not been introduced
+into the coding region.
+Translation of the CFTRAl2 message would result in the synthesis of a protein which is missing
+29 amino acids in the first nucleotide binding fold
+(Fig. 4). This is a highly conserved region in the
+family of ATP-binding transport proteins of which
+CFTR is a member. The region deleted would include the Walker B consensus sequence (Walker et
+al., 1982), a critical region that is thought to interact with the Mg2+ of the MgATP complex (Pai
+et al., 1990). The resulting protein would be expected to be defective in the binding and hydrolysis of ATP. As hydrolyzable ATP is necessary for
+CFTR to function as a chloride channel
+(Anderson et al., 1991), it is unlikely that such a
+protein, if stable, would be functional. It is interesting to note that we have observed alternative
+splicing of exon 12 in several tissues from normal
+individuals (Strong and Collins, in preparation).
+The finding of this allele which results in the deletion of exon 12 in the mRNA and is associated
+with disease suggests that the CFTRA12 protein, if
+produced, is not able to carry out all of the normal
+functions of the full length product.
+
++
+
++
+
+ACKNOWLEDGMENTS
+
+We wish to thank Lap-Chee Tsui for the gift of
+normal DNAs. Supported by a Cystic Fibrosis
+Foundation Research Development Center grant
+and NIH Grants DK42718 and DK39690 to
+F.S.C., and DK 27651 to R.C.S. T.V.S. is a Cyse
+tic Fibrosis Foundation Postdoctoral Fellow,
+L.S.S. is a Howard Hughes Predoctoral Fellow,
+and F.S.C. is a Howard Hughes Investigator.
+REFERENCES
+Anderson MI', Berger HA, Rich DP, Gregory RJ, Smith AE,
+Welsh MJ (1991) Nucleoside triphosphates are required to
+open the CFTR chloride channel. Cell 67:775-784.
+Ames GF, Mimura CS, Shyamala V (1990) Bacterial periplasmic
+
+permeases belong to a family of transport proteins operating
+from Escherichia coli to human: Traffic ATPases. FEMS Microbiol Rev 6:429-446.
+Bear CE, Canhui L, Kartner N , Bridges RJ, Jense TJ, Ramjessingh
+M, Riordan JR (1992) Purification and functional reconstitution of the cystic fibrosis transmembrane conductance regulator
+(CFTR). Cell 68309-818.
+Boat TF, Welsh MJ, Beaudet AL (1989) Cystic fibrosis. In Scriver
+CL, Beaudet AL, Sly WS, Valle D (eds): The Metabolic Basis
+of Inherited Disease, 6th ed. New York: McGraw-Hill, pp
+2649-2680.
+Cheng SH, Rich DP, Marshall J , Gregory RJ, Welsh MI, Smith
+AE (1991) Phosphorylation of the R domain by CAMP-dependent protein kinase regulates the CFTR channel. Cell
+66,1027-1036.
+Collins FS (1992) Cystic Fibrosis: Molecular biology and therapeutic implications. Science 256:774-779.
+Cotton RGH, Rodrigues NR, Campbell RD (1988) Reactivity of
+cytosine and thymine in single base pair mismatches with hydroxylamine and osmium tetroxide and its application to the
+study of mutations. Proc Natl Acad Sci USA 854397-4401.
+Cystic Fibrosis Genetic Analysis Consortium Worldwide survey of
+the AF508 mutation - report from the Cystic Fibrosis Genetic
+Analysis Consortium. Am J Hum Genet 47354-359.
+Drumm ML, Pope HA, Cliff WH, Rommens JM, Marvin SA, Tsui
+L-C, Collins FC, et al (1990) Correction of the cystic fibrosis
+defect in vitro by retrovirus-mediated gene transfer. Cell 62:
+1227-1233.
+Grompe M, Muzny DM, Caskey C T (1989) Scanning detection of
+mutations in human ornithine transcarbamylase by chemical
+mismatch cleavage. Proc Natl Acad Sci USA 865888-5892.
+Hamosh A , Trapnell BC, Zeitlin PL, Montrose-Rafizadeh C ,
+Rosenstein BJ, Crystal RG, Cutting GR (1991) Severe deficiency of cystic fibrosis transmembrane conductance regulator
+messenger RNA carrying nonsense mutations R553X and
+W1316X in respiratory epithelial cells of patients with cystic
+fibrosis. J Clin Invest 88:1880-1885.
+Hyde SC, Emsley P, Hartshorn MI, Mimmack MM, Giledi U,
+Pearce SR, Gallagher MP, et al. (1990) Structural model of
+ATP-binding proteins associated with cystic fibrosis, multidrug
+resistance and bacterial transport. Nature (London) 364362365.
+Kerem B 3 , Rommens JM, Buchanan JA, Markiewicz D, Cox TK,
+Chakravarti A, Buchwald M, Tsui L-C (1989) Identification of
+the cystic fibrosis gene: Genetic analysis. Science 245: 10731080.
+Kretz KA, Carson GS, O'Brien JS. (1989) Direct sequencing from
+low-melt agarose with Sequenase. Nucl Acids Res 17586-58.
+Pai EF, Krengel U, Petsko A, Goody RS, Kabsch W, Wittinghofer
+A (1990) Refined crystal structure of the triphosphate conformation of H-rasp21 at 1.35 A resolution: implications for the
+mechanism of GTP hydrolysis. EMBO J 9:2351-2359.
+Quinton PM (1990) Cystic fibrosis: A disease in electrolyte transport. FASEB J 4:2709-2717.
+Rich DP, Anderson MP, Gregory RJ, Cheng SH, Paul S, Jefferson
+DM, McCann JD, et al. (1990) Expression of cystic fibrosis
+transmembrane conductance regulator corrects defective chloride channel regulation in cystic fibrosis airway epithelial cells.
+Nature (London) 347:358-363.
+Riordan JR, Rommens JM, Kerem B, Alon N, Rozmahel R,
+Grzelczak Z, Zielenski J, et al (1989) Identification of the
+cystic fibrosis gene: cloning and characterization of the complementary DNA. Science 245: 1066-1073.
+Rommens JM, Iannuzzi MC, Kerem 8 , Drumm ML, Melmer G ,
+Dean M, Rozmahel R, et al. (1989) Identification of the cystic
+fibrosis gene: chromosome walking and jumping. Science 245:
+1059-1 065.
+
+CFfR SPLICE MUTATION
+Sambrook J , Fritsch EF, Manniatis T (eds) (1989) Molecular
+Cloning: A Laboratory Manual, 2nd ed. Cold Spring Harbor,
+NY: Cold Spring Harbor Laboratory Press, pp 14.14-14.20.
+Senapathy P, Sharpiro MB, Harris NL (1990) Splice junctions,
+branch point sites and exons: Sequence statistics, identification and applications to genome project. Methods Enzymol.
+183:252-278.
+Strong TV, Smit LS, Turpin SV, Cole JL, Tom Hon C, Markiewicz D, Petty TL, et al (1991) Cystic fibrosis gene mutation
+in two sisters with mild disease and normal sweat electrolyte
+levels. N Engl J Med 325:1630-1634.
+Talerico M, Berget SM (1990) Effect of 5' splice site mutations on
+splicing of the preceding intron. Mol Cell Biol 10:6299-6305.
+Treisman R, Proudfoot NJ, Shander M, Maniatis T (1982) A
+single base change at a splice in a Po thalassemic gene causes
+abnormal RNA splicing. Cell 29:903-911.
+
+387
+
+Tsui L-C (1992) Mutations and sequence variations detected in
+the cystic fibrosis transmembrane conductance regulator
+(CFTR) gene: A report from the cystic fibrosis genetic analysis
+consortium. Hum Mut 1:197-203.
+Walker JE, Saraste M, Runswick MJ, Gay NJ (1982) Distantly
+related sequences in the a-and p,subunits of ATP synthase,
+myosin, kinases and other ATP-requiring enzymes and a common nucleotide binding fold. EMBO J 1:945-951.
+Welsh MJ (1990) Abnormal regulation of ion channels in cystic
+fibrosis epithelia. FASEB J 42718-2725.
+Zielenski J, Rozmahel R, Bozon D, Kerem B-S, Grzelczak 2, Riordan JR, Rommens J, Tsui L C . (1991) Genomic DNA sequence of the cystic fibrosis transmembrane conductance regulator (CFTR) gene. Genomics 10:214-228.
+
+

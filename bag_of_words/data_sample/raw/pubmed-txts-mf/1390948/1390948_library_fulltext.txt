@@ -1,0 +1,730 @@
+Biochimica et Biophysica Acta, 1180 (1992) 91-98
+© 1992 Elsevier Science Publishers B.V. All rights reserved 0925-4439/92/$05.00
+
+91
+
+BBADIS 61194
+
+Characterization of two H E X B gene mutations in Argentinean
+patients with Sandhoff disease
+C h a r l o t t e A. B r o w n
+
+a,b
+
+B e t h M c I n n e s a, R a q u e l D o d e l s o n de K r e m e r c
+and D o n J. M a h u r a n a,b
+
+Research Institute, Hospital for Sick Children, Toronto, Ontario (Canada), b Department of Clinical Biochemistry,
+Unicersity of Toronto, Toronto, Ontario (Canada) and c Unicersidad Nacional de C6rdoba, C6tedra de Pediatria y Neonatologia,
+Hospital de Ninos, C6rdoba (Argentina)
+
+(Received 24 February 1992)
+
+Key words: Argentinean deme; Hexosaminidase; Lysosomal storage disease; GM2 gangliosidosis
+
+fl-hexosaminidase A (fl-N-acetyl-D-hexosaminidase, EC 3.2.1.52) is a lysosomai hydrolase composed of an a- and a/3-subunit. It
+is responsible for the degradation of GM2 ganglioside. Mutations in the HEXB gene encoded fl-subunit cause a form of GM2
+gangliosidosis known as Sandhoff disease. Although this is a rare disease in the general population, several geographically
+isolated groups have a high carrier frequency. Most notably, a 1 in 16-29 carrier frequency has been reported for an Argentinean
+population living in an area contained within a 375-km radius from C6rdoba. Analysis of the genomic DNA of two patients from
+this region revealed that one was homozygous for a G to A substitution at the 5' donor splice site of intron 2. This mutation
+completely abolishes normal mRNA splicing. The other patient was a compound of the intron 2 G -~ A substitution and a second
+allele due to a 4-bp deletion in exon 7. The fl-subunit mRNA of this allele is unstable, presumably as a result of an early stop
+codon introduced by the deletion. Two novel PCR-based assays were developed to detect these mutations. We suggest that one
+of these assays could be modified and used as a rapid screening procedure for 5' donor splice site defects in other genes. These
+results provide a further example of the genetic heterogeneity that can exist even in a small geographically isolated population.
+
+Introduction
+There are two major isoenzymes of hexosaminidase
+found in normal human tissue, fl-hexosaminidase A
+(aF3) and fl-hexosaminidase B (fl/3). The a- and flsubunits are encoded by the evolutionarily related
+HEXA and H E X B genes located on chromosome 15
+and 5, respectively (reviewed in Ref. 1). Although the
+biochemical characteristics of the two major isozymes
+are similar, only the hexosaminidase A heterodimer is
+capable of binding the GM2 activator/GM2 ganglioside
+complex and hydrolyzing GM2 to GM3 ganglioside. Mutations that prevent the formation of functional hexosaminidase A or the GM2 activator protein cause the
+lysosomal storage of GM2 ganglioside and the neurodegenerative disorders collectively known as the GM2
+gangliosidoses (reviewed in Ref. 2). Thus, the three
+forms of GM2 gangliosidosis are Tay-Sachs disease
+(genetic deficiency of the a-subunit), Sandhoff disease
+
+Correspondence to: D.J. Mahuran, Research Institute, The Hospital
+For Sick Children, 555 University Avenue, Toronto, Ontario, Canada,
+M5G 1X8.
+
+(defect in the common/3-subunit) and AB-variant form
+of GM2 gangliosidosis (activator gene mutations).
+Patients with Sandhoff disease display a wide spectrum of clinical severity. The severity of the phenotype
+may relate to the amount of residual hexosaminidase A
+activity present in patient samples [3]. The most severe
+infantile form ( < 0.5% residual hexosaminidase A activity), is a rapidly fatal and predominantly neurological
+disorder of infants. The later onset forms (0.5-10%
+residual hexosaminidase A activity) are less severe,
+with the affected patients showing the first signs of the
+disease later in life (reviewed in Ref. 2).
+To date, whereas a large number of H E X A gene
+mutations have been identified (reviewed in Ref. 4),
+only a few H E X B mutations have been described. A
+common mutation in the H E X B gene, accounting for
+27% of known Sandhoff alleles, is a deletion of exons
+1-5 by recombination at flanking Alu sequences [5].
+This mutation is probably the same as that described
+by Bikker et al. using pluse-field gel electrophoresis [6].
+In another report we demonstrated that an infantileonset patient possesses two rare mutant alleles containing either a 1 or 2-bp deletion [7]. Two other rare
+mutations have been identified that create new splice
+
+sites in the gene. These give rise to different levels of
+residual hexosaminidasc A activity produced from low
+levels of properly spliced /3-subunit-mRNA. One, a
+G ~ A transition in intron 12 ( 3 - 6 % residual activity),
+was associated with the milder juvenile onset Sandhoff
+disease, while the other, an 18-bp duplication at the
+intron 13/exon 14 junction (9-10% residual activity),
+resulted in an asymptomatic state [8-10].
+Recently, a Japanese patient with juvenile Sandhoff
+phenotype was shown to be homozygous for a C--+ T
+transition located 8 nucleotides downstream from the
+intron 10/exon 11 junction. Surprisingly, the effect of
+this mutation is to inhibit p r o p e r / 3 - m R N A splicing. A
+small amount of normally spliced /3-mRNA accounting
+for the residual hexosaminidase A activity (8%), was
+detected in the patient's ceils [11]. We have also described a 57-year-old patient with a very mild phenotype, not usually associated with Sandhoff disease [12].
+Interestingly, we found that this individual is a genetic
+compound of the infantile 5' deletion mutation [5] and
+the juvenile intron 10/exon 11 C - + T mutation [11].
+The variable phenotype associated with the intron
+10/exon 11 C---,T transition indicates that other
+unidentified factors determine the pathological outcome of this mutation. We speculated that the severity
+of the effect of the mutation on the levels of properly
+spliced /3-mRNA may be determined by individual
+variations in the RNA splicing machinery [ 12].
+Unlike infantile Tay-Sachs disease, which has a high
+carrier frequency in the Ashkenazi Jewish and French
+Canadian populations, Sandhoff disease is not enriched in any ethnic group. However, several geographic isolates or demes have been identified with
+high incidence of this disease, including an inbred
+community of Metis Indians (a mixture of French
+and North American Indian heritage) in northern
+Saskatchewan {13]. Most notably, 53 cases of Sandhoff
+disease were diagnosed in 32 Argentinean families over
+a 14-year period. Most of these families traced their
+ancestry to a geographically isolated area encompassing the northwestern region of the province of C6rdoba
+and the central southern region of the province of La
+
+Roija in Argentina [14]. The carrier frequency m this
+region has been calculated to be 1 in every. 16 2~;
+inhabitants [15], making Sandhoff disease a significam
+genetic disorder in this deme. Since the expected occurrence of the disease in the general population is
+1:300000 births [2], the presence of a high frequency
+of H E X B gene mutation(s) would be expected in this
+population.
+The clinical features in all of the Argentinean Sandhoff patients are consistent with the severe infantile
+phenotype, with diagnosis made by 6 months and death
+occurring by 2 years of age. Serum enzymatic studies
+using fluorogenic and chromogenic derivatives failed to
+detect any residual hexosaminidase A or B activity in
+these patients [14]. The identification of t f E X B genc
+mutations responsible for infantile Sandhoff disease in
+this Argentinean deme, which we describe in this report, is a prerequisite for the future development of
+DNA-based carrier screening procedures and prenatal
+diagnosis.
+Materials and Methods
+
+Fibroblast cell lines 1954, 2182 and 2187 were established from skin biopsies obtained from two unrelated
+Argentinean patients and one obligate carrier, respectively. There have been no consanguineous marriages
+within either patient's family for at least three generations. Cell line GM203 was obtained from the Human
+Genetic Mutant Cell Line Repository, Camden, NJ.
+Lines 2010 and 2012 were supplied by M. Kaback,
+U.C.L.A. Line WG534 was from the Cell Repository of
+Neuromuscular Disease, McGill University, Montreal.
+Canada and lines 322, 1146, 1279 and 1303 were established in our laboratory from patients diagnosed with
+Sandhoff disease by standard hexosaminidase assays of
+serum and leukocytes. The cell lines were maintained
+and propagated in a - M E M media supplemented with
+100 Izg each streptomycin and penicillin and 10% fetal
+bovine serum at 37°C in 5% CO 2. Genomic DNA was
+isolated as described previously [16].
+
+TABLE l
+
+Oligonucleotides used for DNA amplification and sequencing
+
+A
+B
+C
+D
+E
+F
+G
+
+Oligonucleotide sequence
+
+Location of
+o l i g o n u c l e o t i d e in
+HEXB s e q u e n c e
+
+Strand
+complementarity
+
+5'-GAGTTAACTACAATGTTACTAG-3 '
+5'-AATAGGAATCATAAACTC-3 '
+5'-ATAATACACTCACATTGCATAGGTAGTrA-3
+5'-ATCAAATGCAAGCACAATTGT-3 '
+5 '-GTGACAGAACAAGACTCCA-3 '
+5 '-TTTCTTAAAATCTGTGCCA-3 '
+
+intron 1
+intron 2
+intron 2
+intron 6
+intron 7
+exon 9
+exon 2
+
+anti-sense
+sense
+sense
+anti-sense
+sense
+sense
+anti-sense
+
+5 '-GGTTTCTACAAGTGGCATCA-3'
+
+'
+
+93
+
+RNA purification. Total-RNA was isolated from fibroblast cultures by the guanidinium-isothiocyanate
+method followed by CsCI centrifugation [17]. Integrity
+and abundance of the isolated total-RNA were checked
+by electrophoresis and by determination of the 260/280
+absorbance ratio.
+Northern blot analysis. Northern blot analysis was
+performed as previously described [18]. The probe utilized to visualize the hexosaminidase B transcript was a
+500-bp segment from pHexB43 [19] containing exons
+2-7 randomly primed with 50 /zCi [a-32p]dCTP. Hybridization was performed for 24 h at 42°C with 50/zl
+of a 6" 108 cpm/ml labelled probe. The filter was
+washed in 2 x SSC/0.1% SDS at 37°C for 30 min and
+then incubated at 65°C for 10 min in the same solution
+followed by exposure to XAR-5 Kodak film at -70°C.
+The mRNA lengths were estimated by comparison
+with migration standards (0.16-1.77 kb RNA ladder
+and 0.24-9.5 kb RNA ladder, Bethesda Research Laboratories).
+DNA amplification. The mutant alleles in Sandhoff
+cell lines were examined by the polymerase chain reaction (PCR) procedure. Table I summarizes the oligonucleotides utilized for DNA amplification and sequencing in this study. Sheared genomic DNA isolated
+from the cultured fibroblasts was used as the initial
+template. The PCR fragment whose sequence included
+the intron-2 splice-junction mutation was detected using primer A in intron 1 and primer B in intron 2
+(Table I). The amplifications were done in 100 /J,l
+reactions containing 0.5/xg sheared genomic DNA, 10
+mM Tris-HCl (pH 8.4), 50 mM KCI, 1.5 mM MgCI 2, 1
+mM of each dNTP, 0.01% gelatin, 0.8 /zM of each
+primer and 1.5 U of Taq polymerase (Cetus/PerkinElmer, Norwalk, CT). The reactions were run in a
+Cetus/Perkin-Elmer DNA thermal cycler for 30 cycles,
+each consisting of denaturation at 94°C for 0.5 min,
+annealing at 55°C for 0.5 min and extension at 72°C for
+1.5 min. Following amplification, 1/10 of each sample
+was electrophoresed in a 0.7% agarose gel and stained
+with ethidium bromide to assay for reaction specificity
+and yield. The PCR fragment containing the exon-7
+deletion mutation was produced using primer D and
+primer E (Table I). The reaction conditions utilized
+were as described above with the addition of 1 U
+Perfect Match (Stratagene) to each amplification reaction mixture.
+cDNA synthesis and amplification. Primer F (0.5/zg,
+Table I) complementary to hexosaminidase B mRNA,
+was annealed to 15/xg total fibroblast RNA from cell
+lines 1954 and 2182 for 1 h at 42°C in 30 /zl buffer
+containing 25/zl 1 × reverse transcriptase buffer [18], 2
+/zl (70U) RNAguard (Pharmacia LKB Biotechnology)
+and 3 t~l (7.5 U) of AMV reverse transcriptase (Bethesda Research Laboratories). Half of the cDNA
+product was subjected to PCR, for second strand syn-
+
+thesis and amplification/using the conditions described
+above, utilizing 0.5/zg of exon 2 (forward) and exon 9
+(reverse)-specific primers (Table I). The amplified
+products were analyzed on a 0.7% agarose gel.
+DNA Sequencing. Agarose-gel purified DNA
+amplification products were sequenced directly utilizing a modified version of the Sanger dideoxy chaintermination method [20,21].
+Assay for the splice-junction defect allele. Sheared
+genomic DNA derived from cultured fibroblasts was
+used as the initial template in the polymerase chain
+reaction to amplify the region containing the mutation
+at the 5' donor splice site of intron 2. The reaction was
+carried out in 30 cycles, as described above, using
+primers A in intron 1 and C in intron 2. Primer C
+containing a mismatch (underlined in Table 1) creates
+a MaelII site in DNA amplified from normal alleles.
+The amplified DNA from alleles containing the G ~ A
+splice-junction mutation, however, do not create this
+additional MaelII site. The PCR products were digested with 2 U of MaelII at 55°C for 90 min and
+analyzed by electrophoresis in an agarose (3% NuSieve,
+FMC) minigel.
+Assay for the exon-7 deletion allele. Sheared genomic
+DNA (0.5 /~g) from cultured fibroblasts was used as
+the initial template to amplify the segment of exon 7
+containing the 4-bp deletion. The reaction was carried
+out using the primers and conditions described above
+and the amplification products electrophoresed on an
+8% polyacrylamide gel (Bio-Rad Mini Gel system,
+l-ram thickness) to detect heteroduplex formation. The
+gel was soaked in an ethidium bromide solution (1
+/zg/ml) to visualize the DNA. Alternatively, the amplified DNA was digested with 2/zl (12 U) of XmnI (New
+England Biolabs) for 2 h at 37°C prior to 8% polyacrylamide gel electrophoresis.
+Results
+
+The genomic DNA from Argentinean infantile
+Sandhoff cell lines 1954 and 2182 have both been
+shown previously to have no major HEXB gene deletions or rearrangements by Southern analysis [22].
+Northern blot analysis was used to assess the effect of
+the mutation(s) on the /3-subunit-mRNA produced by
+these cell lines. In addition, the/3-subunit-mRNA from
+obligate carrier cell line, 2187 (mother of 2182) was
+examined. As shown in Fig. 1, /3-subunit-mRNA of
+apparently normal size, 2.2 kb, and amount was clearly
+detectable in both the normal fibroblasts and in the
+carrier cell line 2187. However, both infantile Sandhoff
+lines contained undetectable steady-state levels of /3subunit-mRNA. Due to the apparent instability of the
+mRNA obtained from the two patient cell lines, we
+hypothesized that a subtle defect would be found at a
+
+94
+
+kb
+
+2.2
+
+Fig. 1. Northern blot analysis of/3-subunit m R N A from normal and
+Sandhoff fibroblasts. 20 # g of total R N A from normal fibroblasts
+and from Sandhoff fibroblast lines 1954, 2182, and 2187 was analyzed. The blot was hybridized with hexosaminidase /~-cDNA probe
+spanning exon 2 to 9.
+
+splice junction or in an exon, producing an early stop
+codon.
+A point mutation was identified by comparing the
+nucleotide sequence of the entire coding sequence and
+all i n t r o n / e x o n junctions from the H E X B gene of
+fibroblasts from the three Sandhoff patients with that
+from a normal control. The H E X B gene sequence
+obtained from the Argentinean patients (lines 1954
+and 2182) and the obligate carrier (line 2187) contained a G ~ A substitution at the 5' donor splice site
+of intron 2 (Fig. 2). Patient 1954 was found to be
+
+homozygous for the splice-junction defect, while 2182
+and 2187 were found to be heterozygous for this mut~ltion.
+To determine if a small amount of properly spliced
+/3-subunit m R N A (undetectable by Northern blot analysis) was present in cell line 1954, m R N A was isolated,
+reverse transcribed and exons 2 - 9 amplified by the
+PCR. Whereas the expected length of the e D N A is 825
+bp, e D N A products of a variety of sizes were produced
+by cell line 1954, the largest band of which was approx.
+600 bp (data not shown). Attempts to sequence any of
+these c D N A products indicated each apparent band
+contained a heterogeneous population of DNA fragments. Thus, as would be expected from the patient's
+infantile phenotype, this splice-junction mutation precludes the formation of any normal /3-subunit m R N A
+which in turn results in the absence of residual hexosaminidase A (or B) activity.
+The heterozygosity of the D N A from cell line 2182
+indicates that more than one mutant H E X B allele is
+present in this small Argentinean population. Further
+sequence analysis of genomic D N A from patient 2182
+revealed a 4-bp deletion (5'-CTTT-3', nucleotides 784787) in exon 7 of the second allele (Fig. 3). This
+mutation causes a shift in the reading frame which
+results in a stop codon being generated 35 bp from the
+deletion.
+We next developed simple, nonradioactive assays to
+screen for each of the two mutations identified above.
+The G ~ A substitution at the donor splice site of
+intron 2 did not create or abolish a restriction site.
+Therefore, we designed an oligonucleotide primer that
+contained a single bp mismatch to create a Maelll site
+in the PCR product from normal alleles. This strategy
+is schematically represented in Fig. 4. After MaeIll
+digestion the normal allele produced a 212-bp fragment; however, due to the G--* A transition in the
+mutant allele the additional MaeIII site is not formed,
+
+T
+
+G
+
+A
+G
+T
+
+c
+
+T
+T
+
+®
+t
+
+a
+a
+
+g
+t
+
+a
+
+c
+c
+
+2182
+normal
+
+allele
+
+mutant
+allele
+
+Fig. 2. Nucleotide sequence of normal and mutant genomic D N A obtained from Argentinean Sandhoff patients at the donor splice junction of
+intron 2. The mutant and normal gene segment surrounding the exon 2 / i n t r o n 2 junction was amplified and sequenced directly. The mutation, a
+'g' to 'a' transversion (circled), is located in the donor splice site consensus, sequence at the first nucleotide of intron 2. The nucleotide sequence
+determined from the films is listed beside the autoradiograms. Sequencing lanes in each panel are from left to right A, C, G and T.
+
+95
+
+A
+
+c
+
+•
+
+A
+T
+A
+T
+T
+T
+G
+T
+A
+C
+
+T
+T
+G
+T
+A
+C
+T
+C
+T
+G
+
+T
+T
+A
+T
+C
+G
+A
+A
+
+T
+T
+C
+T
+T
+A
+T
+C
+G
+A
+A
+
+G
+normal
+allele
+
+mutant
+allele
+
+NORMAL
+
+Fig. 3. Nucleotide sequence of normal and mutant genomic DNA in the region of exon 7 containing the 4-bp deletion. The mutant and normal
+gene segment containing exon 7 was amplified and sequenced directly. The right panel is the sequence of an area of exon 7 found in the
+/3-subunit of a normal individual. The left panel is that of patient 2182 in which a 4-bp deletion of 5'-CTTT-Y (exon 7 nucleotides 11-14) was
+present in one of two alleles. The location of the deletion is indicated by the black lines between the normal and mutant allele sequences. The
+nucleotide sequence determined from normal DNA and from the normal and mutant alleles of patient 2182 are listed beside the autoradiograms.
+Sequencing lanes in each panel are from left to right A, C, G and T.
+
+p r o d u c i n g a l a r g e r 2 4 3 - b p f r a g m e n t . T h u s , by r e s t r i c t i o n d i g e s t i o n , cell l i n e 1954 is c o n f i r m e d h o m o z y g o u s
+
+¢ ~
+
+f o r t h e s p l i c e - j u n c t i o n d e f e c t , w h i l e l i n e s 2182 a n d 2187
+a r e c o n f i r m e d as b e i n g h e t e r o z y g o u s ( F i g . 5).
+Analysis of our collection of nine additional infantile a n d j u v e n i l e S a n d h o f f l i n e s [22] f a i l e d t o u n c o v e r
+another HEXB
+
+a l l e l e c o n t a i n i n g t h e G -~ A t r a n s i t i o n ,
+
+d e m o n s t r a t i n g t h a t t h i s m u t a t i o n is c o n c e n t r a t e d in t h e
+
+A
+
+C
+A=
+
+5 ' -GAGTTAACTACAATGTTACTAG-3
+
+C=
+
+5 ' -ATAATACACTCACATTGCATAGGTAGTTA-3
+
+'
+'
+
+Fig. 4. Schematic diagram of the amplified sequence surrounding the
+intron-2 donor splice-site mutation• The oligonucleotide primers
+used for DNA amplification are shown as horizontal arrows labelled
+A and C with the nucleotide sequences as shown (mismatch in oligo
+C is underlined). The X represents the location of the mismatch in
+oligonucleotide C which creates the additional MaeIII site in amplified normal DNA. Positions of MaeIIl sites are indicated by the
+vertical arrows, with the newly generated MaeIII site arrow in
+parentheses. The numbers above the solid line are the fragment sizes
+(bp) generated by MaeIlI cleavage.
+
+Fig. 5. Agarose gel electrophoresis of amplified DNA surrounding
+the mutation site in intron 2. Genomic DNA (0.5 ~g) was amplified
+in the region surrounding the exon 2/intron 2 splice junction. The
+amplification products were digested with MaeIII and subjected to
+electrophoresis on a 3% NuSieve agarose gel. Cell lines are identified with numbers at the top of each lane. Markers shown are the
+H a e l l l ~b174 ladder from BRL. Argentinean cell line 1954 is homozygous for the G ~ A splice-junction mutation, while lines 2182
+and 2187 are heterozygous for the mutation. Cell line 2012, obtained
+from a Sandhoff patient of European origin, was identified as a
+splice-junction mutation heterozygote by MaelIl digestion analysis.
+Sequence analysis revealed a G ~ C mutation at the donor splice-site.
+2010 is a typical example of a cell line that was found not to contain
+the intron 2 splice-junction mutation. The uppermost band visible in
+most sample lanes is undigested DNA.
+
+9~
+bp (Fig. 6). The DNA fragment amplified from line
+2182, which is hetcrozygous for this mutation also gives
+these two bands (produced by digestion o1' the normal
+allele), but in addition produces a band al 276 bp.
+representing the mutant allele withoul lhc digeslion
+site. The presence of one mutant allele which is nol
+digested by the X m n l , also allows the retention of the
+diagnostic heteroduplex bands (Fig. 6).
+
+XmnI
+I
+
+I
+
+'03
+10
+,71
+34
+94
+18
+72
+Fig. 6. Polyacrylamidegel electrophoresis of amplified genomic DNA
+surrounding the 4-bp deletion site in exon 7. Genomic DNA (0.5 p~g)
+was amplified in the region surrounding exon 7 and subjected to
+electrophoresis either prior to, or after digestion with Xmnl, as
+indicated. Sandhoff cell line 2182 was shown to be heterozygous for
+the 4-bp deletion mutation, both by the digestion pattern with Xmnl
+and by the formation of the two upper diagnostic heteroduplex bands
+in the undigested DNA. The normal DNA and Sandhoff lines WG
+534 and 322 are examples of cell lines found not to contain the
+deletion allele.
+
+Argentinean population. Interestingly, an additional
+mutant allele was detected by MaeIII digestion in cell
+line 2012, established from an infantile Sandhoff patient of E u r o p e a n origin (Fig. 5). However, sequence
+analysis revealed that this patient was heterozygous for
+a G ~ C rather than the Argentinean G --* A transition
+at the intron 2 donor splice site (data not shown).
+In order to develop a simple diagnostic test for
+carriers of the 4-bp deletion in exon 7, we assayed for
+the anomalous migration of heteroduplexes formed
+between two homologous P C R fragments, one of which
+contains a small insertion or deletion [23]. D N A from
+our collection of Sandhoff cell lines was isolated, the
+region of exon 7 containing the 4-bp deletion amplified
+and the P C R fragments analyzed on a 8% polyacrylamide gel. The normal control D N A contains one band
+at 280 bp, the expected size of the amplification product. T h e D N A from line 2182 also contained this band
+and presumably also an indistinguishable band at 276
+bp due to the 4-bp deletion. However, the presence of
+the small deletion in one strand of a heteroduplex was
+detectable by the appearance of two higher molecular
+weight bands in the patient's D N A (Fig. 6).
+Additionally, the 4-bp deletion in exon 7 destroys an
+X m n I restriction site. Digestion of amplified normal
+D N A with this enzyme gives two bands of 90 and 190
+
+Discussion
+In this study, we have identified two mutations
+responsible for Sandhoff disease in two unrelated Argentinean patients, neither of which are reported to be
+the offspring of consanguineous marriages. The first
+mutation is a G ~ A substitution at the 5' donor splice
+site of intron 2. While no c D N A fragment containing
+the exon 2 / i n t r o n 2 junction of normal size could be
+amplified by PCR from this mutant allele, a number of
+smaller fragments were observed. These data indicate
+that this donor splice junction is completely inactivated
+by this 5' donor splice site mutation, which results in
+the production of unstable aberrant m R N A species.
+This splice-site mutation could be expected to result in
+the accumulation of a transcript retaining all of intron
+2, or a portion thereof, due to the presence of a cryptic
+splice site within the intronic sequence. However, perhaps due to the large size of intron 2 (4.1 kb) these
+products were not detected by the PCR protocol utilized. Thus, the c D N A products observed may represent only a small fraction of the misspliced products
+resulting from this splice-junction defect.
+The 5' donor site is generally of the form (C or
+A ) A G / g t ( g or a)act (where G / g are the - 1 / + 1
+positions) and the acceptor site is preceded by a stretch
+of pyrimidines, having the form (Py)~xca_gg/G(G or T)
+[24, 25]. Fortuitously, the recognition site of the restriction enzyme MaeIII ( G T N A C ) closely resembles the 5'
+donor site consensus sequence, positions ~ 1 to ~ 5,
+i.e., g-t-(g or a)-a-c. Thus, amplification of a D N A
+segment containing a donor splice junction, followed
+by MaeII1 digestion, should recognize any mutations in
+this conserved region. However, in the case of the
+H E X B gene 12 out of 13 donor splice sites possess a G
+rather than a C in position + 5 of the consensus site
+[26,27]. This problem can be overcome by amplifying
+the donor splice region with an oligonucleotide containing the needed C at position + 5, thus, converting
+this region in the amplification products to the Maelll
+recognition site. This technique detected an unrelated
+G ~ C transition at the intron 2 donor splice junction
+in cell line 2012, raising the possibility of utilizing it to
+screen for mutations at other 5' donor splice junctions
+in the H E X B gene. Due to the conserved nature of 5'
+donor sites among all eukaryotic genes, modifications
+of this technique could make it applicable for the rapid
+
+97
+screening of other genes for similar splice junction
+defects.
+The second mutation we identified in this Argentinean deme, a 4-bp deletion in exon 7, creates a
+premature stop codon 35 nucleotides from the deletion
+site, resulting in the synthesis of an unstable mRNA.
+Mutations which prematurely terminate translation are
+known to affect m R N A metabolism. The two small
+deletion mutations, in exon 7 or 11 of the mutant
+H E X B alleles of an infantile-onset Sandhoff patient,
+also create premature stop codons shortly after their
+occurrence [7]. Levels of /3-mRNA were similarly undetectable by Northern blot analysis in ceils from this
+patient [7]. Two frame-shift mutations resulting in premature stop codons have been identified in the H E X A
+gene. One, a 4-bp insertion in exon 11 [28] results in
+undetectable levels of a-chain mRNA, while the other,
+a 1-bp deletion in exon 13 [29], does not [30]. These
+data support the hypothesis that the instability of aand /3- m R N A containing premature stop codons is
+caused by the loss of protection by ribosomes at their
+3' ends, thereby increasing the mRNA's susceptibility
+to endogenous RNase digestion, i.e., the length of their
+3' untranslated end is inversely proportional to mRNA
+stability.
+The identification of two mutations in the Argentinean deme correlates with previous RFLP analysis of
+the H E X B gene [31], which revealed a Pst I polymorphism that detects a simple two-allele polymorphism
+with a band at either 1.6 or 1.0 kb. The scoring of 216
+Caucasian individuals revealed the frequency of these
+alleles to be 0.12 and 0.88, respectively. Patient 1954,
+found to be homozygous for the G ~ A splicing defect,
+is also homozygous for the minor 1.6-kb allele, while
+2182, the compound heterozygote, was heterozygous
+for the Pst polymorphism. These preliminary data suggest that this splice-junction defect is probably found in
+association with the 1.6-kb minor allele in the Argentinean population.
+Although our analyses were limited to four mutant
+alleles, our data indicate that at least one of them, the
+splice-junction mutation (3 out of 4 alleles), is at a high
+frequency in the Argentinean population. Further mutant alleles must be examined in order to assess the
+frequency of the 4-bp deletion. These data linking
+m o r e than one mutant H E X B gene allele to Sandhoff
+disease in this small Argentinean deme, may provide a
+further example of a disease with a high carrier frequency in a particular ethnic group or geographic isolate, that is associated with more than one allele. This
+situation is similar to the identification of two mutant
+H E X A alleles responsible for Tay-Sachs disease among
+Ashkenazi Jews [28,32]. Two theories have been proposed to explain the high frequency of Tay-Sachs disease among Ashkenazim, which could also be applied
+to Sandhoff disease in this Argentinean population:
+
+(1), The founder effect, followed by genetic drift [33]
+and (2), selection in the form of heterozygote advantage [34]. The identification of two mutations in these
+populations may suggest the latter.
+
+Acknowledgements
+The authors thank Dr. Barbara Triggs-Raine for
+suggesting the assay procedure we adopted for the
+splice-junction mutation. This work was supported
+through a grant (MA-10435) from the Medical Research Council of Canada.
+
+References
+1 Mahuran, D.J. (1991) Biochim. Biophys. Acta 1096, 87-94.
+2 Sandhoff, K., Conzelmann, E., Neufeld, E.F., Kaback, M.M. and
+Suzuki, K. (1989) in The Metabolic Basis of Inherited Disease
+(Scriver, C.V., Beaudet, A.L., Sly, W.S. and Valle, D., eds.), pp.
+1807-1839, McGraw-Hill, New York.
+3 Conzelmann, E. and Sandhoff, K. (1984) Dev. Neurosci. 6, 58-71.
+4 Gravel, R.A., Triggs-Raine, B.L and Mahuran, D.J. (1991) Can.
+J. Neurol. Sci. 18, 419-423.
+5 Neote, K., Mclnnes, B., Mahuran, D.J. and Gravel, R.A. (1990)J.
+Clin. Invest. 86, 1524-1531.
+6 Bikker, 1-t., Van den Berg, F.M., Wolterman, R.A., Kleijer, W.J.,
+De Vijlder, J.J.M. and Bolhuis, P.A. (1990) Hum. Genet. 85,
+327-329.
+7 Mclnnes, B., Brown, C.A. and Mahuran, D.J. (1992) Biochim.
+Biophys. Acta 1138, 315-317.
+8 Nakano, T. and Suzuki, K. (1989)J. Biol. Chem. 264, 5155-5158.
+9 Dlott, B., D'Azzo, A., Quon, D.V.K. and Neufeld, E.F. (1990) J.
+Biol. Chem. 265, 17921-17927.
+10 Mitsuo, K., Nakano, T., Goto, I., Taniike, M. and Suzuki, K.
+(1990) J. Neuro. Sci. 98, 277-286.
+11 Wakamatsu, N., Kobayashi, H., Miyatake, T. and Tsuji, S. (1992)
+J. Biol. Chem. 267, 2406-2413.
+12 Mclnnes, B., Potier, M., Wakamatsu, N., Melancon, S.B., Klavins,
+M.H., Tsuji, S. and Mahuran, D.J. (1992) J. Clin. Invest. 90, in
+press.
+13 Lowden, J.A., lves, E.J., Keene, D.L., Burton, A.L., Skomorowski, M.A. and Howard, F. (1978) Am. J. Hum. Genet. 30,
+38-45.
+14 Kremer, R.D. and Levstein, M.I. (1980) Medicina 40, 55-73.
+15 Kremer, R.D., Boldini, C.D., Capra, A.P., Verifier, P.P., Goldenhersch, H., Corbella, L., Sembaj, A., Martin, S., Kremer, 1., Mass,
+L. and Boscoboinik, J. (1987) Medicina 47, 455-463.
+16 Willard, H.F., Smith, K.D. and Sutherland, J. (1983) Nucleic
+Acids Res. 1 I, 2017-2038.
+17 Chirgwin, J.M., Przybyla, A.E., MacDonald, R.J. and Rutter,
+W.J. (1979) Biochemistry. 18, 5294-5299.
+18 Sambrook, J., Fritsch, E.F. and Maniatis, T. (1989) in Molecular
+Cloning: A Laboratory Manual (Ford, N., Nolan, C. and Ferguson, M., eds.) Vol. I 3, Cold Spring Harbor Laboratory Press,
+Cold Spring Harbor, NY.
+19 Korneluk, R.G., Mahuran, D.J., Neote, K., Klavins, M.H.,
+O'Dowd, B.F., Tropak, M., Willard, H.F., Anderson, M.-J., Lowden, J.A. and Gravel, R.A. (1986) J. Biol. Chem. 261, 8407-8413.
+20 Sanger, F., Nicklen, S. and Coulson, A.R. (1977) Proc. Natl.
+Acad. Sci. USA 74, 5463-5467.
+21 Winship, P.R. (1989) Nucleic Acids Res. 17, 1266-1266.
+22 O'Dowd, B.F., Klavins, M.H., Willard, H.F., Gravel, R., Lowden,
+J.A. and Mahuran, D.J. (1986) J. Biol. Chem. 261, 12680-12685.
+23 Triggs-Raine, B.L. and Gravel, R.A. (1990) Am. J. Hum. Genet.
+46, 183-184.
+
+98
+24 Breathnach, R. and Chambon, P. (1981)Annu. Rev. Biochem. 50,
+349-383.
+25 Mounl, S.M. (1982) Nucleic Acids Res. 10, 459-472.
+26 Neote, K., Bapat, B., Dumbrille-Ross, A., Troxel, C., Schuster,
+S.M., Mahuran, D.J. and (}ravel, R.A. (1988) Genomics 3, 279286.
+27 Proia, R.L. (1988) Proc. Natl. Acad. Sci. USA 85, 1883-1887.
+28 Myerowitz, R. and Costigan, F.C. (1988) J. Biol. Chem. 263,
+18587 - 18589.
+29 Lau, M.M.H. and Neufeld, E.F. (1989) J. Biol. Chem. 264,
+21376-21380.
+30 Zokaeem, G., Bayleran, J., Kaplan, P., Hechtman, P. and Neufeld,
+E.F. (1987) Am. J. Hum. Genet. 40, 537-547.
+
+31 O'Dowd, B.F., Neote, K., Munre, D.L.G., (hav¢l, R.A., Mahuran, D. and Willard, tt.F. (1¢)87) Nucleic Acids Res~ I'~. 31~)4
+3194.
+32 Arpaia, E., Dumbrille-Ross, A., Maler, T., Neolc, K., Tropak,
+M., Troxel, C., Stirling, J.L., Pitts, J.S., Bapat, B., Lamhonw~Jh,
+A.-M.. Mahuran, D.J., Schuster, S.M., Clarke. J.T.R,, h~wden.
+J.A. and Gravel, R.A. (1988) Nature 333, 85 8e~.
+33 Chase, G.A. and McKusick, V.A. (1972) Am. ,I. llum. Genet. 24,
+339-340.
+34 Myrianthopoulos, N.C. and Aronson, S.M. (It,~66) Am. J. Hum.
+Genet. 18, 313-327.
+
+

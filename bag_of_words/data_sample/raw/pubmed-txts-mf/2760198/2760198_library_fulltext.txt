@@ -1,0 +1,1071 @@
+Finnish Type of Low Density Lipoprotein Receptor Gene Mutation (FH-Helsinki)
+Deletes Exons Encoding the Carboxy-terminal Part
+of the Receptor and Creates an Internalization-defective Phenotype
+Katriina Aalto-Setial,* Eero Helve,* Petri T. Kovanen,* and Kimmo Kontula**
+*Recombinant DNA Laboratory and tThird Department ofMedicine, University of Helsinki, and
+§Wihuri Research Institute, Helsinki, Finland
+
+Abstract
+A specific type of gene mutation affecting the LDL receptor
+has been found in many Finnish patients with familial hypercholesterolemia (FH). The mutant allele is characterized by a
+9.5-kb deletion extending from intron 15 to exon 18. Molecular
+cloning and sequencing of a cDNA segment corresponding to
+the deleted allele indicated that the mutant receptor differs
+radically from the normal one because of loss of the domains
+encoded by exons 16, 17, and 18. The carboxy-terminal portion
+of the normal receptor, comprising the amino acids 750-839,
+has been replaced by an unrelated stretch of 55 amino acids.
+The mutant allele was found to occur in 23 (50%) of 46 unrelated FH patients with an established functional defect in the
+LDL receptor. In cultured fibroblasts from the FH patients
+with the 9.5-kb deletion, both receptor-mediated binding and
+internalization of 'l25-LDL were lower than normal, the
+former, on average, by 25%, and the latter, on average, by 50%.
+This combined functional defect probably results from both
+impaired attachment and impaired internalization of the mutated receptor. It remains to be investigated whether this Finnish type of LDL receptor gene mutation, here designated
+FH-Helsinki, occurs in other ethnic groups.
+
+Introduction
+The pathogenesis of familial hypercholesterolemia (FH)' was
+shown by Brown and Goldstein (1) to be the genetically determined lack of functional LDL receptors. As the function of
+LDL receptors is to carry plasma LDL particles to their intracellular sites of catabolism, any mutation resulting in defective
+function of LDL receptors must impair clearance of plasma
+LDL. Such receptor-mediated impairment results in accumulation of LDL in the circulation and produces the clinical
+picture of FH. This leads to the clinical sequelae of FH, such as
+premature coronary heart disease (2).
+
+Portions of this work were presented at the 8th International Symposium on Atherosclerosis, 9-13 October 1988, Rome, Italy.
+Address reprint requests to Dr. Katriina Aalto-Setila, Recombinant DNA Laboratory, Valimotie 7, 00380 Helsinki, Finland.
+Receivedfor publication 19 December 1988 and in revisedform 13
+March 1989.
+1. Abbreviations used in this paper: FH, familial hypercholesterolemia;
+LPDS, lipoprotein-deficient serum.
+
+J. Clin. Invest.
+©) The American Society for Clinical Investigation, Inc.
+
+0021-9738/89/08/0499/07 $2.00
+Volume 84, August 1989, 499-505
+
+Studies on functional defects in LDL receptors have defined four different pathogenic entities leading to defective
+clearance of plasma LDL: (a) defective synthesis ofthe mRNA
+for the receptor, (b) defective transport of the receptor precursors from the endoplasmic reticulum to the Golgi complex, (c)
+defective binding of LDL to the receptor, and (d) failure ofthe
+cells to internalize the receptor-bound LDL (1). At the level of
+DNA structure, the cause of the disease has been found to be
+more heterogeneous than would be expected from the functional classification alone (1, 3-16). The numerous mutations
+at the DNA level provide a spectrum of tools for learning more
+about the normal functioning of the receptor, but such diversity hampers attempts to develop diagnostic aids based on recombinant DNA techniques. This applies especially to genetically heterogeneous populations, which are likely to contain
+many different mutations of the LDL receptor gene. In genetically homogeneous populations, in contrast, the LDL receptor
+gene is likely to be affected by fewer mutations; hence, there is
+a higher probability that among the FH patients in such populations one specific type of LDL receptor mutation will be
+especially frequent (9, 12, 17).
+In genetic terms, the Finnish population forms a relative
+isolate and has its own panel of inherited diseases ( 18). In this
+population a specific type of LDL receptor mutation has been
+found to occur in at least one-third of unrelated patients heterozygous for FH (19). Restriction enzyme mapping of the
+mutant allele (19) and sequencing of a genomic DNA fragment containing the mutation point (15) suggest that this Finnish type of mutation is due to a deletion of - 9 kb extending
+from intron 15 to exon 18. However, these studies did not
+permit an analysis of the exact structure of the carboxy-terminal portion of the mutated receptor protein, since it was not
+possible to determine whether intron 15 and part of exon 18
+are cleaved off from the mature mRNA or preserved.
+In this paper we report the detailed structure of the Finnish
+type of mutated LDL receptor. The functional characteristics
+of the altered receptor were also investigated. The mutation
+was found to alter the carboxy-terminal end of the receptor
+and to produce a phenotype in which internalization of LDL is
+defective.
+Methods
+Patients. In our search for heterozygotes for FH, we initially identified
+a total of 600 patients from the records of the Lipid Outpatient Clinic
+of the University Hospital of Helsinki, all having fasting serum total
+cholesterol levels 2 9.5 mmol/liter (2 370 mg/dl). For the study, we
+selected 46 patients using the following additional criteria: presence of
+primary hyperlipidemia; presence of tendon xanthomas; a hypercholesterolemic first-degree family member; and a positive history of premature coronary heart disease in the family. The study group consisted
+of 21 males and 25 females aged 46±12 yr (range 28-80 yr), and having
+
+Finnish Type of Low Density Lipoprotein Receptor Mutation, FH-Helsinki
+
+499
+
+relative body weights of 1 16±17% (according to the Metropolitan Life
+Insurance Tables). 12 patients had a history of myocardial infarction
+and 27 had overt signs ofcoronary heart disease. Four normolipidemic
+patients undergoing minor surgery for nonmalignant diseases served as
+controls. All patients and controls were of Finnish origin and unrelated.
+Southern blot analysis ofDNA. DNA was prepared from leukocytes
+obtained from 20 ml of venous blood (20). DNA (5-10 pg) was digested with Bam HI and Pvu II under the conditions recommended by
+the manufacturer, fractionated by gel electrophoresis on 0.6% agarose,
+and transferred to nitrocellulose filters. The filters were hybridized in a
+medium containing 6X standard saline citrate (SSC) ( I X SSC denotes
+0.15 M NaCl and 0.0 15 M trisodium citrate), 5X Denhardt's solution,
+50% deionized formamide, 0.25% SDS, 100 Mg/ml salmon sperm
+DNA, and a 1-2 X 106 cpm/ml 32P-labeled 0.95-kb LDL receptor
+cDNA probe covering exons 1 1-17 (19). The probe was labeled by a
+random oligonucleotide priming technique, using a commercial kit
+(Amersham International, Amersham, UK) (21). After hybridization
+for 16-20 h at 42°C, the filters were washed in 2X SSC, 0.1% SDS at
+room temperature and in 0.2X SSC, 0.1% SDS at 42°C. Autoradiography of the dried filters was conducted by exposing them to Kodak
+XAR films (Eastman Kodak Co., Rochester, NY) for 2-3 d at -70°C.
+cDNA cloning. To clone a cDNA molecule corresponding to the
+mutant LDL receptor commonly occurring in Finland, fibroblasts
+were first cultured (for details, see below) from a patient (FH 10)
+known to carry the deleted gene. Total RNA from 1-2 X 108 cells
+was isolated using the LiCl-urea method (22) and enriched for
+poly(A)-containing RNA by oligo(dT)-cellulose affinity chromatography (23). For the synthesis of cDNA, 2Mg of the mRNA was used (24).
+The cDNAs were methylated and ligated to Eco RI linkers. After
+cleavage with Eco RI, the linker-containing cDNAs were ligated to Eco
+RI-cleaved, alkaline phosphatase-treated Xgtl I arms (Amersham International). The DNA was packaged in vitro and amplified in Escherichia coli Y1090 cells. About 1 X I05 phage plaques were plated out,
+transferred to nitrocellulose filters, and hybridized with a 32P-labeled
+LDL receptor probe extending from exon 11 to exon 17 (19). One
+positive clone with an insert 2.4 kb in size was selected; this hybridized
+with an exon 15-specific oligonucleotide probe, but not with an exon
+16-specific probe (15). The insert was cleaved by Eco RI digestion and
+subcloned into the pGEM-4 vector for sequencing.
+Polymerase chain reaction. For unequivocal determination of the
+cDNA sequence around the putative deletion point (15), another strategy was used involving the DNA amplification technique with the aid
+of the thermoresistant polymerase enzyme (New England Biolabs,
+Beverly, MA). First, 2 MAg of poly(A)-containing RNA from patient FH
+10 was used for synthesizing the first cDNA strand directed by an exon
+18-specific primer (complementary to nucleotides from 3,604 to
+3,621, 5'GGAAGCACTAGGTGGGCG3'; see references 25 and 26).
+Second, the amplification reaction for these RNA-DNA hybrids was
+carried out using methods described by Saiki et al. (27). One of the
+nucleotide primers (5CAGCTCCACAGCCGTAAGG3') extended
+from nucleotide 2,193 to nucleotide 2,211 of exon 15 (25, 26) and the
+other was the exon 18-specific primer used for the synthesis of the first
+cDNA strand (see above). 25 amplifying cycles were performed. Onethird of the amplified material was fractionated by electrophoresis on
+1.2% agarose, and the amplified cDNA fragment (- 600 bp in size)
+was eluted from the gel with a commercial kit (Geneclean, Bio 101
+Inc., La Jolla, CA) and sequenced directly without further subcloning.
+Sequencing. Sequencing of double-stranded DNA was performed
+by the dideoxynucleotide chain-termination method (28), using the
+enzyme Sequenase (United States Biochemical Corp., Cleveland, OH).
+The first sequencing primer was selected from exon 15 (5'CAGCTCCACAGCCGTAAGG3'; see above) and the second primer according
+to a stretch at the 3' end of the sequence that had been determined with
+the first primer (5ACCTTCTCTCACTTGGG3'). A hydropathicity
+plot of the amino acid sequence deduced from the cDNA was constructed with the algorithm described by Kyte and Doolittle (29), using
+a window of nine amino acids.
+-
+
+500
+
+K. Aalto-Setdla, E. Helve, P. T. Kovanen, and K. Kontula
+
+Isolation ofplasma lipoproteins and lipid assays. Any lipid-lowering drugs were withdrawn at least 4 wk before the blood samples were
+taken, and the patients were advised to continue their cholesterol-lowering diet. After an overnight fast, blood samples were collected in
+0.1% EDTA, and plasma, the LDL fraction (d = 1.006-1.063 g/ml),
+and the HDL fraction (d = 1.063-1.215 g/ml) were isolated by sequential ultracentrifugation at 4°C (30). Plasma total cholesterol, total
+triglycerides, and the cholesterol contents of isolated lipoprotein fractions were measured by colorimetric enzymatic methods (Boehringer
+Mannheim Biochemicals, Mannheim, FRG).
+Preparative isolation and radioactive labeling ofLDL. Blood from
+healthy normolipidemic donors was collected in 0.1% EDTA, and the
+LDL fraction (d = 1.020-1.050 g/ml) and lipoprotein-deficient serum
+(LPDS; d > 1.21 g/ml) were prepared by sequential ultracentrifugation
+at 4°C (30). LDL was radiolabeled with 1251I using the iodine monochloride method as modified for lipoproteins (31). The specific activities
+of different preparations ranged from 32 to 168 cpm/ng protein.
+
+Fibroblast cultures. Skin biopsies were taken from controls from
+the inguinal region, and from patients from the antecubital region.
+Fibroblasts were grown in monolayer and maintained in a humidified
+atmosphere (5% C02) at 37°C in 75-cm2 stock flasks containing 10 ml
+of standard growth medium. This medium consisted of Eagle's MEM
+supplemented with penicillin (100 U/ml), streptomycin (100 ,g/ml), 2
+mM glutamine, and 10% (vol/vol) FCS (Gibco, Paisley, Scotland). The
+studies were undertaken between the 5th and 16th passages of the
+cultures.
+Binding, internalization, and degradation of labeled LDL. All experiments were performed according to a standard format. Confluent
+monolayers of fibroblasts from stock flasks were dissociated with a
+solution containing 0.05% trypsin and 0.02% EDTA, and seeded at a
+concentration of 1 X I05 cells/dish into 60 X 15-mm dishes containing
+2 ml of standard growth medium (day 0). On day 3, when the cells were
+in early logarithmic growth, they were washed with Dulbecco's PBS,
+after which 2 ml of fresh medium containing 10% (vol/vol) human
+LPDS was added (final protein concentration, 5 mg/ml). The experiments were performed on day 5 when the cells had been incubated
+with LPDS for 48 h and were still preconfluent and actively dividing, as
+documented with [3H]thymidine. At this stage of cell growth no correlation was found between the number of cells per dish and the activity
+of the LDL receptors. The experiments were started by replacing the
+medium with fresh medium containing LPDS and '25I-labeled LDL
+(16 Mg protein/ml) in the absence or presence of a 20-fold excess of
+unlabeled LDL. The monolayers were incubated for 5 h at 37°C, after
+which the medium was removed and precipitated with TCA. The
+acid-soluble fraction was treated with hydrogen peroxide, extracted
+with chloroform to remove free iodine, and counted to determine the
+amount of '251-labeled acid-soluble material formed by the cells and
+released into the medium (degraded '251-LDL) (32). The monolayers
+were then treated with heparin and the amount of '25I-labeled LDL
+released by the heparin was counted to determine how much had been
+bound to the LDL receptors present on the cell surface (bound 1251I
+LDL) (33). After heparin treatment, the monolayers were dissolved in
+0.2 N NaOH and an aliquot was counted to determine the amount of
+'251-LDL present inside the cells at a steady state (internalized 12511
+LDL). The quantities of LDL receptor-mediated binding, internalization, and degradation of '251I-LDL were calculated by subtracting the
+values for binding, internalization, and degradation in the presence of
+excess unlabeled LDL from the corresponding values obtained in the
+absence of excess LDL. The results were correlated with the total
+protein content of the cells, as measured by the method of Lowry et al.
+(34), using BSA as standard. As an index of the rate of internalization
+relative to receptor binding, the amount of '251-LDL present within the
+cells at 5 h and the amount of '251-LDL degraded by the cells during the
+5-h incubation period were added together and divided by the amount
+of receptor binding at S h (internalization index) (35). In each assay,
+two of the four control cell lines were analyzed in parallel with three to
+seven FH cell lines. All determinations were done in duplicate; the
+results of each pair did not differ by more than 3%.
+
+1 2 3 4
+
+5 6 7
+
+PvullII*
+
+8 9 10
+
+kb
+
+w
+
+II.
+
+11
+
+Bam HI
+
+17.5
+
+6
+
+!~
+
+-
+
+t
+
+Figure 1. Detection of the Finnish type of mutation at the 3' end of
+the LDL receptor gene. Lanes 1-3, controls; lanes 4-10, FH patients;
+lanes 7-10, FH patients with the Finnish mutation. For experimental
+details, see Methods.
+
+Results
+Molecular characterization of the mutant mRNA and the corresponding receptor protein. Hybridization of DNA samples of
+FH patients with the LDL receptor 3' probe revealed that 23 of
+the 46 FH patients (50%) displayed only the normal 17.5-kb
+fragment when Bam HI was used for digestion and the normally occurring polymorphism (14- and/or 16-kb fragments)
+when DNA was cleaved with Pvu II (Fig. 1). The remaining 23
+patients (50%) showed an additional hybridizable fragment
+
+with both enzymes (an 8-kb fragment with Bam HI and an
+11-kb fragment with Pvu II), indicating that they carried the
+LDL receptor gene deletion which is prevalent in Finland (Fig.
+1; see references 15 and 19).
+To ascertain the structure of the mutated protein corresponding to the deleted gene, a fibroblast cDNA library of a
+heterozygous FH patient (FH 10) was first constructed. Genomic cloning and partial sequencing of this mutant allele had
+earlier demonstrated that a DNA segment extending from intron 15 to exon 18 in the 3' region of the LDL receptor gene is
+deleted. In light of this information it was reasoned that the
+normal and mutant alleles could be separately identified from
+the cDNA library: cDNA clones containing the normal allele
+would hybridize with both exon 15- and exon 16-specific
+probes, while cDNA clones containing the mutant allele would
+only hybridize with an exon 15-specific probe. With this strategy, one positive clone containing a 2.4-kb cDNA insert corresponding to the mutant allele was identified.
+DNA sequencing over the mutation site and the areas
+flanking this, whether performed with the cDNA clone (see
+above) or the amplified cDNA sequence (see Methods) as
+template, gave identical information (Fig. 2). From its 5' end
+on, the nucleotide sequence of the mutant allele is identical
+with that of the normal one up to the last nucleotide of exon
+15. After a stretch of 245 nucleotides, the sequence of the
+mutant cDNA returns to the normal receptor cDNA sequence
+from nucleotide 3,391 of exon 18 onwards. The bridging
+stretch of 245 nucleotides between the exon sequences mentioned above is identical to that obtained by sequencing the
+corresponding DNA area of a genomic clone from the same
+
+Normal
+
+2350
+2300
+ACAATGTCTCACCAAGCTCTGGGCGACGTTGCTGGCAGAGGAAATGAGAAGAAGCCCAGTAGCGTG
+
+FH 10
+
+2350
+2300
+ACAATGTCTCACCAAGGTAAAGACTGGGCCCTCCCTAGGCCCCTCTTCACCCAGAGACGGGTCCCT
+
+745ThrMetSerHi3GlnGlyLysAspTrpAlaLeuProArgProLeuPheThrGlnArgArgValPro
+2400
+Normal
+
+AGGGCTCTGTCCATTGTCCTCCCCATCGTGCTCCTCGTCTTCCTTTGCCTGGGGGTCTTCCTTCTA
+
+767ArgAlaLeuSerIleValLeuProlleValLeuLeuValPheLeuCysLeuGlyValPheLeuLeu
+FH 10
+
+Normal
+
+2400
+TCAGTGGCCACGAACATTTTGGTCACGAGATGGAGTCCAGGTGTCGTCCTCACTCCCTTGCTGACC
+767SerValAla ThrAsnIleLuVal hrArgTzpSerProGlyValValLeurhrProl;uLou hr
+2450
+TGGAAGAACTGGCGGCTTAAGAACATCAACAGCATCAACTTTGACAACCCCGTCTATCAGAAGACC
+
+789TrpLy9AxnTrpArgLeuLysA3nIleAsnSerIleAsnPheAspAsnProValTyrGlnLysThr
+FH 10
+
+2450
+@00
+TTCTCTCACTTGGGCCGTGTGTCTCTGGGCCCTCAGTTTCCCTATCTGTAAAGTGGGTCTAATAAC
+
+789PheSerlisLeuGlyArgValSerLeuGlyProGlnPheProTyrLeu8O4
+2500
+Normal
+
+2550
+
+8 CAGAGGATGAGuiTCCACATTTGCCACAACCAGGACGGCTACAGCTACCCCTCGAGACAGATGGTC
+
+81,ThrGluAspGluValHisIleCy3Hi3A3nGlnA3pGlyTyrSerTyrProSerArgGlnMetVal
+FH 10
+
+2500
+2550
+AGTTCTTGCCCTCTTTGCAAGGATTAAATGGGCCAAATCATATGAGGGGCCAGGTCCTIrCAGGCTC
+
+Normal
+
+AGTCTGGAGGATGACGTGGCGTGAACATCTGCCTGG... GGTCTCCTTGCACTTTCTCJ
+
+*'O'*
+
+,- -..
+
+FH 10
+
+.
+
+%
+
+--
+
+1
+
+_
+
+_ s l
+
+-_
+
+2577
+CTTGCACTTTCTCAGTTC...
+
+2595
+
+3411
+
+3391
+
+TTC. ...
+
+Figure 2. The cDNA and the amino acid sequences deduced for portions of the normal and mutated (FH 10)
+LDL receptors. Matching sequences in exons 15 and
+18 are indicated by thin and thick lines, respectively.
+Numbers above the sequence indicate nucleotides.
+Stop codons are indicated by dots above the sequence.
+The altered amino acid sequence is presented in italics.
+
+Finnish Type of Low Density Lipoprotein Receptor Mutation, FH-Helsinki
+
+501
+
+10
+
+1112
+
+1314
+
+15
+
+16
+
+17
+
+i
+
+Ii
+
+ii
+
+I
+
+I
+
+I
+
+,m
+
+,;
+
+I
+
+,,
+
+18
+
+NORMAL
+
+GENE
+,7
+
+mRNA 5.3kb
+
+I\/\AJGA
+10
+
+1112
+
+IsA
+
+~ P,f."4
+.PI
+1,
+
+I
+I
+
+"
+
+1"
+
+15 18
+
+1314
+
+I
+
+"
+
+"
+
+FH 10
+GENE
+
+mRNA 4.5 kb
+
+,1
+
+1'II'.''
+
+Figure 3. Structures of the 3' ends of the normal LDL receptor gene
+and the deleted gene commonly found in Finland (FH 10). Exons
+are represented by bars and introns by a solid line. The portions of
+the genes that are retained in the mature mRNA after splicing are indicated by solid segments connected by dashed lines. The lengths of
+the corresponding mRNAs are also shown.
+
+patient (15, and unpublished data), showing that this 5' portion
+of intron 15 is present in the mature mRNA. The translational
+reading frame of exon 15 continues along this DNA stretch for
+164 bp before a stop codon is reached. This sequence is expected to encode the carboxy-terminal end of the mutant protein (Fig. 2). The resulting mutated protein is deduced to be
+identical with the normal protein in amino acids 1-749 and
+totally different beyond that (Fig. 2). The mutated LDL receptor protein contains 804 amino acids as compared with the
+839 normally found in the LDL receptor (25).
+The 3' ends of the mutant LDL receptor gene and its normal counterpart, as well as the postulated splicing mechanisms
+of the mutant mRNA, are illustrated schematically in Fig. 3.
+According to the present and published data (25, 26), the size
+of the deletion is 9,500 bp. The mutant allele should direct
+the synthesis of a 4.5-kb mRNA species, i.e., one of a length
+not significantly different from that (4.2 kb) previously estimated on RNA hybridization blots (15).
+The hydropathicity profiles of the carboxy-terminal ends
+of the normal (amino acid sequence data from reference 25)
+and the mutant LDL receptor are illustrated in Fig. 4. This
+part of the normal receptor is characterized by a strongly hydrophobic region of 22 amino acids that traverses the membrane and so anchors the receptor to the cell (25). In the mutated receptor, in contrast, this part is replaced by a weakly
+hydrophobic region comprising two short stretches of 7 and 16
+amino acids with mean hydropathicity indexes of 0.8 and 0.9,
+respectively (Figs. 2 and 4).
+-
+
+Functional properties of the mutated receptor. To investigate the functional properties of the mutated LDL receptors,
+fibroblasts from skin biopsies were cultured and their abilities
+to bind, internalize, and degrade '25I-LDL were then investigated. In four control cell lines the mean amount of receptor
+binding after standard incubation for 5 h at 37°C was 178±52
+ng (mean±SD) 251I-LDL/mg cellular protein. At this time the
+cells contained 1,064±229 ng '25l-LDL/mg cellular protein,
+and a total of 3,155±1,044 ng of the labeled apoprotein had
+been degraded by the fibroblasts. Relative values for binding,
+internalization, and degradation were estimated by setting the
+average of the respective values for control cell lines in each
+assay at 100% and calculating the percentage values for the FH
+heterozygote cell lines.
+The fibroblasts from the 23 heterozygous patients with FH
+who had the 9.5-kb deletion (Figs. 5 and 6, open circles), as
+compared with normal subjects, bound slightly smaller
+amounts of 'l25-LDL (mean, 75% of normal), but both internalization and degradation of the labeled LDL were more
+markedly impaired. The respective mean values for internalization and degradation were only 49 and 48% of normal (Fig.
+5). The values of the relative internalization index (normal
+value = 2; 100% [internalization] + 100% [degradation]/100%
+[binding]; see Methods) were calculated for each individual
+cell line. Those with the Finnish type of LDL receptor gene
+deletion showed poorer ability to internalize LDL in relation
+to binding of LDL (mean 1.28; range, 0.76-1.88) (Fig. 6).
+In the fibroblasts from the 23 patients with the heterozygous form of FH without the 9.5-kb deletion (Figs. 5 and 6,
+closed circles), the binding of I251-LDL was, on average, only
+about half of normal (Fig. 5). Internalization (mean value,
+48%) and degradation (mean value, 49%) of '25I-LDL were
+impaired approximately in proportion to the defect in binding.
+However, in terms of internalization efficiency, these FH heterozygotes were heterogeneous. Thus, some of the patients had
+a near-normal internalization index and could be categorized
+as "binding defective" (33), and some had a clearly low internalization index, and so could be designated as "internalization defective" (35).
+Plasma lipids and lipoproteins. Determination ofthe levels
+of plasma total cholesterol, plasma total triglycerides, LDL
+
+4
+
+10
+co
+I-z
+
+I
+
+x
+
+w
+
+2
+
+0
+z
+
+0~~~
+
+I
+
+w
+
+, IA
+
+IIIU.
+
+0
+
+I
+I
+
+w0U
+
+0.0
+
+000
+
+tB ::i 0
+o
+
+oo 000
+
+0
+
+goI
+0
+00
+0o
+
+000
+
+*0
+
+a
+I
+
+0
+
+3_
+
+-43
+
+5
+
+755
+
+765
+
+775
+
+785 795 805
+RESIDUE NUMBER
+
+815
+
+825
+
+835
+
+Figure 4. Hydropathicity plots of the normal (dashed line) and mutated (solid line) carboxy-terminal ends of the LDL receptor.
+502
+
+K Aalto-Setdld, E. Helve, P. T. Kovanen, and K Kontula
+
+0
+
+00
+
+*00--
+
+I 5,
+
+00
+
+--
+
+I
+
+00i0oo
+0^ n0
+Soo *
+
+-0
+
+25
+
+50
+
+75
+
+100
+
+PERCENT OF CONTROL
+
+125
+
+Figure 5. Relative
+values (in percent) for
+high affinity binding,
+internalization and degradation of '25l-LDL in
+fibroblasts from subjects with the clinical
+phenotype of heterozygous FH. Open circles,
+FH patients with the
+9.5-kb gene deletion;
+closed circles, FH patients with other, unidentified molecular defects of the LDL receptor gene. The normal
+values for binding (A),
+internalization (B), and
+degradation (C) are depicted as dashed vertical
+lines.
+
+10
+
+6. Relative interFigure
+nalization
+
+A
+
+index values
+,for
+the
+1_
+fibroblast
+strains
+Z 5r
+Iotie
+00
+Wi
+000
+obtained from subjects
+00 00 0
+, ,ooggg
+o o
+with the clinical phenoL
+lr 10 8type of heterozygous
+011
+FH. The values are de*
+5
+Irived from the data
+shown in Fig. 5. Nor5 :::-lmal value = 1100% (in,5 10 ..5
+00 0.5 1.0 1.5 2.0 2.5
+ternalization) + 100%
+
+(degradation)]/ 100%
+
+RELATIVE INTERNALIZATION INDEX
+
+(binding) = 2. Open circles, FH patients with the 9.5-kb gene deletion (A); closed circles, FH patients with other, unidentified molecular defects of the LDL receptor gene (B).
+
+cholesterol, and HDL cholesterol failed to disclose any differences between the groups of FH heterozygotes with and without the 9.5-kb deletion (Table I). In both groups of patients
+hyperlipidemia was due to accumulation of extra cholesterol
+in the lipoprotein fraction of density 1.006-1.063 g/ml, i.e.,
+the LDL fraction.
+Discussion
+We found previously that about one-third of patients with FF1
+in Finland have a common LDL receptor gene mutation due
+to a large deletion at the 3' coding region of the gene (19). The
+present investigation precisely defines the structural and functional characteristics of the receptor protein encoded by the
+mutant allele. The mutation is here designated as FH-Helsinki, according to the residence of the first proband identified.
+The work of Brown, Goldstein, and co-workers has demonstrated that exon 16 and the 5' part of exon 17 of the LDL
+receptor gene encode the membrane-spanning region of the
+receptor, while the 3' part of exon 17 and a small portion of
+exon 18 encode its cytoplasmic domain (26). Both these domains are essential for the proper functioning of the receptor.
+The present study shows that the FH-Helsinki allele lacks
+exons 16 and 17, and about one-third of exon 18. The splicing
+acceptor site in exon 18 has also been deleted, and in accordance with this a copy of a portion of intron 15 is included in
+
+the mature LDL receptor mRNA. The receptor protein encoded by the mutant allele is deduced to be 35 amino acids
+shorter than its normal counterpart, with a carboxy-terminal
+part beyond residue 749 bearing no resemblance to that of the
+latter (Fig. 2).
+Many of the large rearrangements within the LDL receptor
+gene so far described involve Alu sequences at either one or
+both ends of the deletion (3, 6-8, 10, 1 1). Two patients with
+FH had a large deletion in the 3' coding region of the LDL
+receptor gene, ranging from 5 (FH 274; see reference 3) to 7.8
+kb (FH 781; see reference 10) in size. Both deletions extend
+from an Alu sequence in intron 15 to an Alu sequence in exon
+18, but the Alu sequences involved are different (Fig. 7). The
+mature mRNAs corresponding to these two alleles differ in
+length (10). The location of these deletions is similar, but not
+identical, to that present in the FH-Helsinki allele. The FHHelsinki allele does not involve Alu sequences at either end of
+the deletion and it encodes a mRNA molecule that is shorter
+than those corresponding to the mutant genes in patients FH
+274 and FH 781 (Fig. 7). But although the three mutations
+differ at the DNA and RNA levels, the corresponding proteins
+are likely to be identical. In each case the splicing acceptor site
+in exon 18 has been deleted. Accordingly, the mature mRNA
+always includes a copy of the 5' part of intron 15, which in all
+three cases contains an identical stretch of 164 nucleotides
+continuing the reading frame of exon 15 before a termination
+codon (UAA) is reached (Fig. 7).
+In both of the patients studied by the Dallas group, fibroblast culture assay revealed defective internalization of LDL
+particles (3, 10). We found that in the fibroblasts from patients
+with one FH-Helsinki allele internalization of '251I-LDL was
+likewise impaired, giving rise to an internalization-defective
+phenotype. This was as expected, since an intact cytoplasmic
+domain is known to be essential for internalization of LDL
+particles (5, 36). Furthermore, fibroblasts of some of the pa1112
+*a
+o
+
+m
+
+*
+
+1314
+s
+
+*
+
+i
+
+15
+
+16
+
+min
+
+m
+
+an
+
+E3 Z%XM
+PM m
+
+u
+
+LIjai
+
+17m
+
+N
+
+18
+-100Irim-
+
+NORMAL
+
+UGA
+I
+
+II
+
+II
+
+.
+
+l.
+
+III
+
+D
+
+-
+
+FH 274
+
+UAA
+
+Table I. Plasma Lipoprotein Levels in FH Patients
+with the 9.5-kb Deletion and in Those with As Yet
+Unidentified Defects of the LDL Receptor Gene
+
+.
+
+..A,
+
+Lipid fraction
+
+Triglycerides
+
+10.9±1.9*
+9.1±1.4
+1.4±0.5
+1.4±1.0
+
+.,
+
+*
+
+ts
+
+.
+
+*
+U
+
+L
+
+v
+
+FH 781
+-
+
+UAA
+* A
+
+*_vaL-
+
+FH-HELSINKI
+
+Other defects of the
+LDL receptor gene
+(n = 23)
+
+mmol/liter
+
+Total cholesterol
+LDL cholesterol
+HDL cholesterol
+
+U
+
+* A
+
+Category of FH patients
+9.5-kb gene
+deletion present
+(n = 23)
+
+a
+
+10.8±1.9
+
+9.1±1.9
+1.3±0.5
+1.6±1.0
+
+The values for the different lipid fractions do not differ significantly
+between the two categories.
+* Mean±SD.
+
+UAA
+
+Figure 7. Normal LDL receptor gene and mutations FH 274, FH
+781, and FH-Helsinki: structural comparison of the 3' ends of the
+normal and mutant alleles and their corresponding mRNAs. Exons,
+introns, and Alu sequences are indicated by closed bars, solid lines
+and striped bars, respectively. Exon numbers are indicated above the
+normal gene. Note that the mutations in FH 274 and FH 781 involve Alu-Alu recombinations, whereas no Alu sequences are involved at either end of the deletion in FH-Helsinki. The corresponding regions of the mature mRNAs are depicted below each gene with
+solid segments joined by dashed lines. All three mutant mRNAs are
+expected to encode an identical receptor protein. The mutations FH
+274 and FH 781 are described in references 3 and 10.
+
+Finnish Type of Low Density Lipoprotein Receptor Mutation, FH-Helsinki
+
+503
+
+NORMAL
+
+FH-HELSINKI
+
+NORMAL
+10
+
+1112
+
+1314
+
+16 17
+
+15
+
+I~~~
+I,_-~
+10
+
+1112
+
+1314
+
+15
+
+Lie-
+
+FH-HELSINKI
+
+tients with the FH-Helsinki allele also showed defective binding of '25l-LDL. This suggests that the deletion has not only
+brought about loss of structures essential for clustering of receptors into coated pits and their subsequent internalization,
+but has also caused impairment of the attachment of the receptor to the cell membrane (Fig. 8). Indeed, the carboxy-terminal domain of the mutant receptor has a relatively low hydropathicity index value, averaging < 1 (Fig. 4), which does
+not fulfill the requirements for a membrane-spanning region
+(29). It remains to be investigated whether the mutant receptors encoded by the FH-Helsinki allele are secreted into the
+culture medium and, if so, whether secretion of the mutant
+receptors takes place in vivo.
+The present study adds a third example to the category of
+LDL receptor gene mutations that are prevalent in a particular
+population and have been characterized in detail at the DNA
+level. In the majority of French Canadians with FH, the disease is due to a large deletion eliminating the promotor region
+and the first exon ofthe LDL receptor gene (12). The Lebanese
+mutation created a premature termination codon at amino
+acid 660, which results in the synthesis of a truncated receptor
+protein (9). In all three cases the enrichment of a specific mutant allele can easily be explained as a "founder gene" effect.
+The same explanation may apply to the high prevalence of a
+specific LDL receptor gene mutation in South Africa, as
+judged by haplotype analysis with restriction enzymes (17); the
+exact molecular defect in this allele has not yet been reported,
+however. In Lebanon and South Africa the prevalence of FH is
+considered to be exceptionally high, with an estimated frequency of 1 in 100 (2, 9). Whether the prevalence of FH in
+Finland is also exceptionally high remains to be determined.
+The possible occurrence of the FH-Helsinki allele in other
+populations likewise remains to be studied.
+
+Acknowledaments
+We thank Drs. D. W. Russell, M. S. Brown, and J. L. Goldstein for the
+generous gift of the LDL receptor cDNA and for helpful suggestions.
+We gratefully acknowledge the excellent technical assistance of Mrs.
+Soile Sinisalo, Mrs. Meeri Lappalainen, and Mrs. Kaija Kettunen.
+This work was supported by grants from the Finnish Academy of
+Sciences, the University of Helsinki, the Finnish Heart Foundation,
+and the Paavo Nurmi Foundation.
+504
+
+K
+
+Aalto-Setala, E. Helve, P. T. Kovanen, and K. Kontula
+
+18
+
+Figure 8. Schematic picture of the
+normal LDL receptor and its mutated FH-Helsinki counterpart. The
+carboxy-terminal end of the mutated receptor is truncated and
+differs from the normal one. Hydropathicity index values and LDL
+binding data suggest that the attachment of the mutant receptor to the
+cell membrane is unstable, resulting
+in partially defective binding and
+markedly impaired internalization
+of LDL particles.
+
+References
+1. Brown, M. S., and J. L. Goldstein. 1986. A receptor-mediated
+pathway for cholesterol homeostasis. Science (Wash. DC). 232:34-47.
+2. Goldstein, J. L., and M. S. Brown. 1983. Familial hypercholesterolemia. In The Metabolic Basis of Inherited Disease. J. B. Stanbury,
+J. B. Wyngaarden, D. S. Fredrickson, J. L. Goldstein, and M. S.
+Brown, editors. 5th ed. McGraw-Hill Inc., New York. 672-712.
+3. Lehrman, M. A., W. J. Schneider, T. J. Sudhof, M. S. Brown,
+J. L. Goldstein, and D. W. Russell. 1985. Mutation in LDL receptor:
+alu-alu recombination deletes exons encoding transmembrane and cytoplasmic domains. Science (Wash. DC). 227:140-146.
+4. Lehrman, M. A., J. L. Goldstein, M. S. Brown, D. W. Russell,
+and W. J. Schneider. 1985. Internalization defective LDL receptors
+produced by gene nonsense and frameshift mutations that truncate the
+cytoplasmic domain. Cell. 41:735-743.
+5. Davis, C. G., M. A. Lehrman, D. W. Russell, R. G. W. Anderson, M. S. Brown, and J. L. Goldstein. 1986. The J. D. mutation in
+familial hypercholesterolemia: amino acid substitution in cytoplasmic
+domain impedes internalization of LDL receptors. Cell. 45:15-24.
+6. Lehrman, M. A., D. W. Russell, J. L. Goldstein, and M. S.
+Brown. 1986. Exon-alu recombination deletes 5 kilobases from the low
+density lipoprotein receptor gene, producing a null phenotype in familial hypercholesterolemia. Proc. Natl. Acad. Sci. USA. 83:3679-3683.
+7. Hobbs, H. H., M. S. Brown, J. L. Goldstein, and D. W. Russell.
+1986. Deletion of exon encoding cysteine-rich repeat of low density
+lipoprotein receptor alters its binding specificity in a subject with familial hypercholesterolemia. J. Biol. Chem. 261:13114-13120.
+8. Horsthemke, B., U. Beisiegel, A. Dunning, J. R. Havinga, R.
+Williamson, and S. Humphries. 1987. Unequal crossing-over between
+two alu-repetitive DNA sequences in the low-density-lipoprotein-receptor gene. Eur. J. Biochem. 164:77-81.
+9. Lehrman, M. A., W. J. Schneider, M. S. Brown, C. G. Davis, A.
+Elhammer, D. W. Russell, and J. L. Goldstein. 1987. The Lebanese
+allele at the low density lipoprotein receptor locus: nonsense mutation
+produces truncated receptor that is retained in endoplasmic reticulum.
+J. Biol. Chem. 262:401-410.
+10. Lehrman, M. A., D. W. Russell, J. L. Goldstein, and M. S.
+Brown. 1987. Alu-alu recombination deletes splice acceptor sites and
+produces secreted low density lipoprotein receptor in a subject with
+familial hypercholesterolemia. J. Biol. Chem. 262:3354-3361.
+11. Lehrman, M. A., J. L. Goldstein, D. W. Russell, and M. S.
+Brown. 1987. Duplication of seven exons in LDL receptor gene caused
+by alu-alu recombination in a subject with familial hypercholesterolemia. Cell. 48:827-835.
+
+12. Hobbs, H. H., M. S. Brown, D. W. Russell, J. Davignon, and
+J. L. Goldstein. 1987. Deletion in the gene for the low-density-lipoprotein receptor in a majority of French Canadians with familial hypercholesterolemia. N. Engi. J. Med. 317:734-737.
+13. Horsthemke, B., A. Dunning, and S. E. Humphries. 1987.
+Identification of deletions in the human low density lipoprotein receptor gene. J. Med. Genet. 24:144-147.
+14. Kajinami, K., H. Mabuchi, H. Itoh, I. Michishita, M. Takeda,
+T. Wagasugi, J. Koizumi, and R. Takeda. 1988. New variant of low
+density lipoprotein receptor gene: FH-Tonami. Arteriosclerosis.
+8: 187-192.
+15. Aalto-Setala, K. 1988. The Finnish type of LDL receptor gene
+mutation: molecular characterization of the deleted gene and the corresponding mRNA. FEBS (Fed. Eur. Biochem. Soc.) Lett. 234:411416.
+16. Langlois, S., J. J. P. Kastelein, and M. R. Hayden. 1988. Characterization of six deletions in the low-density-lipoprotein (LDL) receptor gene causing familial hypercholesterolemia (FH). Am. J. Hum.
+Genet. 43:60-68.
+17. Brink, P. A., L. T. Steyn, G. A. Coetzee, and D. R. Van der
+Westhuyzen. 1987. Familial hypercholesterolemia in South African
+Afrikaners: Pvu II and Stu I DNA polymorphisms in the LDL-receptor
+gene consistent with a predominating founder gene effect. Hum.
+Genet. 77:32-35.
+18. Norio, R., H. R. Nevanlinna, and J. Perheentupa. 1973. Hereditary diseases in Finland: rare flora in rare soil. Ann. Clin. Res. 5:109141.
+19. Aalto-Setla, K., H. Gylling, T. Miettinen, and K. Kontula.
+1988. Identification of a deletion in the LDL receptor gene: a Finnish
+type of mutation. FEBS (Fed. Eur. Biochem. Soc.) Lett. 230:31-34.
+20. Bell, G. I., J. H. Karam, and W. J. Rutter. 1981. Polymorphic
+DNA region adjacent to the 5' end of the human insulin gene. Proc.
+NatL Acad. Sci. USA. 78:5759-5783.
+21. Feinberg, A. P., and B. Vogelstein. 1983. A technique for labelling DNA restriction endonuclease fragments to high specific activity. Anal. Biochem. 132:6-13.
+22. Auffray, C., and F. Rougeon. 1980. Purification of mouse immunoglobulin heavy-chain mRNAs from total myeloma tumour
+RNA. Eur. J. Biochem. 107:303-314.
+23. Slater, R. J. 1984. The purification of poly(A)-containing RNA
+by affinity chromatography. Methods Mol. Biol. 2:117-120.
+24. Gubler, U., and B. J. Hoffman. 1983. A simple and very effi-
+
+cient method for generating cDNA libraries. Gene (Amst.). 25:263269.
+25. Yamamoto, T., C. G. Davis, M. S. Brown, W. J. Schneider,
+M. L. Casey, J. L. Goldstein, and D. W. Russell. 1984. The human
+LDL receptor: a cysteine-rich protein with multiple alu sequences in its
+mRNA. Cell. 39:27-38.
+26. Sudhof, T. C., J. L. Goldstein, M. S. Brown, and D. W. Russell.
+1985. The LDL receptor gene: a mosaic of exons shared with different
+proteins. Science (Wash. DC). 228:815-822.
+27. Saiki, R. K., S. Schart, F. Faloona, K. B. Mullis, G. T. Horn,
+H. A. Erlich, and N. Arnheim. 1985. Enzymatic amplification of ,globin genomic sequences and restriction site analysis for diagnosis of
+sickle cell anemia. Science (Wash. DC). 230:1350-1354.
+28. Sanger, F., S. Nicklen, and A. R. Coulson. 1977. DNA sequencing with chain-terminating inhibitors. Proc. Natl. Acad. Sci.
+USA. 74:5463-5467.
+29. Kyte, J., and R. F. Doolittle. 1982. A simple method for displaying the hydropathic character of a protein. J. Mol. Biol. 157:103132.
+30. Havel, R. J., H. A. Eder, and J. H. Bragdon. 1955. The distribution and chemical composition of ultracentrifugally separated lipoproteins in human serum. J. Clin. Invest. 34:1345-1353.
+31. Bilheimer, D. W., S. Eisenberg, and R. I. Levy. 1972. The
+metabolism of very low density lipoprotein receptors. I. Preliminary in
+vitro and in vivo observations. Biochim. Biophys. Acta. 260:212-221.
+32. Goldstein, J. L., and M. S. Brown. 1974. Binding and degradation oflow density lipoprotein by cultured human fibroblasts: comparison of cells from a normal subject and from a patient with homozygous familial hypercholesterolemia. J. Biol. Chem. 249:5153-5162.
+33. Goldstein, J. L., S. K. Basu, G. Y. Brunschede, and M. S.
+Brown. 1976. Release of low density lipoprotein from its cell surface
+receptor by sulfated glycosaminoglycans. Cell. 7:85-95.
+34. Lowry, 0. H., N. J. Rosebrough, A. L. Farr, and R. J. Randall.
+1951. Protein measurement with the folin phenol reagent. J. Biol.
+Chem. 193:265-275.
+35. Goldstein, J. L., M. S. Brown, and N. J. Stone. 1977. Genetics
+ofthe LDL receptor: evidence that the mutations affecting binding and
+internalization are allelic. Cell. 12:629-641.
+36. Davis, C. G., I. R. van Driel, D. W. Russell, M. S. Brown, and
+J. L. Goldstein. 1987. The low density lipoprotein receptor: identification of amino acids in cytoplasmic domain required for rapid endocytosis. J. Biol. Chem. 262:4075-4082.
+
+Finnish Type of Low Density Lipoprotein Receptor Mutation, FH-Helsinki
+
+505
+
+

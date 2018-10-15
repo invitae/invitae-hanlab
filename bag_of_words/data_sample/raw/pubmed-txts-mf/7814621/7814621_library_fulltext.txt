@@ -1,0 +1,1345 @@
+Mutations in the Glucose-6-Phosphatase Gene Are Associated with Glycogen
+Storage Disease Types Ia and IaSP but Not lb and Ic
+Ke-Jian Lei,* Leslie L Shelly,* Baochuan Lin,* James B. Sidbury,* Yuan-Tsong Chen,* Robert C. Nordlie,.
+and Janice Yang Chou*
+*Human Genetics Branch, National Institute of Child Health and Human Development, National Institutes of Health, Bethesda,
+Maryland 20892; *Department of Pediatrics, Duke University Medical Center, Durham, North Carolina 27710; and *Department of
+Biochemistry and Molecular Biology, University of North Dakota School of Medicine, Grand Forks, North Dakota 58202
+
+Abstract
+Glycogen storage disease (GSD) type 1, which is caused by
+the deficiency of glucose-6-phosphatase (G6Pase), is an autosomal recessive disease with heterogenous symptoms. Two
+models of G6Pase catalysis have been proposed to explain
+the observed heterogeneities. The translocase-catalytic unit
+model proposes that five GSD type 1 subgroups exist which
+correspond to defects in the G6Pase catalytic unit (la), a
+stabilizing protein (laSP), the glucose-6-P (lb), phosphate/
+pyrophosphate (ic), and glucose (id) translocases. Conversely, the conformation-substrate-transport model suggests that G6Pase is a single multifunctional membrane
+channel protein possessing both catalytic and substrate (or
+product) transport activities. We have recently demonstrated that mutations in the G6Pase catalytic unit cause
+GSD type la. To elucidate whether mutations in the G6Pase
+gene are responsible for other GSD type 1 subgroups, we
+characterized the G6Pase gene of GSD type lb, ic, and laSP
+patients. Our results show that the G6Pase gene of GSD type
+lb and lc patients is normal, consistent with the translocasecatalytic unit model of G6Pase catalysis. However, a mutation in exon 2 that converts an Arg at codon 83 to a Cys
+(R83C) was identified in both G6Pase alleles of the type
+laSP patient. The R83C mutation was also demonstrated in
+one homozygous and five heterogenous GSD type la patients, indicating that type laSP is a misclassification of GSD
+type la. We have also analyzed the G6Pase gene of seven
+additional type la patients and uncovered two new mutations that cause GSD type la. (J. Clin. Invest 1995. 95:234240.) Key words: type 1 glycogen storage disease * glucose-6phosphatase genetic mutation * models of G6Pase catalysis
+-
+
+Introduction
+Glycogen storage disease (GSD)' type 1 is an inborn error of
+metabolism caused by the deficiency of glucose-6-phosphatase
+(G6Pase), the key enzyme in the homeostatic regulation of
+Address correspondence to Janice Yang Chou, Building 10, Room
+9S242, NIH, Bethesda, MD 20892. Phone: 301-496-1094; FAX: 301402-0234.
+Received for publication 27 June 1994 and in revised form 15 September 1994.
+1. Abbreviations used in this paper: GSD, glycogen storage disease;
+G6Pase, glucose-6-phosphatase.
+
+The Journal of Clinical Investigation, Inc.
+Volume 95, January 1995, 234-240
+
+234
+
+Lei et al.
+
+blood glucose concentrations (1-4). It is an autosomal recessive
+disorder with an incidence of - 1 in 100,000. The disease presents with clinical manifestations of severe hypoglycemia, hepatomegaly, growth retardation, lactic acidemia, hyperlipidemia,
+and hyperuricemia (1, 2). GSD type 1 has been classified into
+five subgroups, la, 1aSP, lb, ic, and Id based upon observed
+biochemical and clinical heterogeneities (1, 2, 5-9). GSD type
+LaSP is clinically indistinguishable from type la and was proposed to be caused by a defect in a 21-kD stabilizing protein,
+SP, purified on the basis of its ability to stabilize the G6Pase
+catalytic unit in vitro (5, 10). Only one patient has been diagnosed with the type 1aSP disorder (5). G6Pase activity is very
+low or non-detectable in liver biopsy samples from GSD type
+la and 1aSP patients, regardless of the assay conditions. GSD
+type lb patients suffer, in addition to the clinical symptoms
+observed in type la, neutropenia, neutrophil dysfunction, and
+recurrent bacterial infections (11, 12). Only a few cases of GSD
+type lc have been reported and there is insufficient information
+for a general description of its clinical symptoms. Glucose-6-P
+or pyrophosphate hydrolytic activity in GSD type lb and lc
+patients, respectively, is totally or partially inactive in fresh
+liver biopsy specimens but becomes active after freezing and
+thawing or upon detergent treatment of the biopsy samples
+
+(6, 8).
+To explain the heterogeneities observed among GSD type
+1 patients, two models of G6Pase catalysis have been proposed.
+The multi-component translocase-catalytic unit model proposes
+that the five GSD subgroups correspond to defects in the G6Pase
+catalytic unit (la), the putative SP (laSP), the glucose-6-P (lb),
+phosphate/pyrophosphate (lc), and glucose (Id) translocases
+(5-9). This model also suggests that the G6Pase catalytic unit,
+situated on the lumen of the endoplasmic reticulum (ER), gains
+access to substrates in the cytosol by means of the associated
+translocases. The ability to restore enzyme activity in liver biopsy samples of type lb and ic patients upon disruption of
+microsomes is consistent with the abolition of the translocation
+requirement. However, it is equally possible that activation of
+the enzyme after microsomal disruption could be caused by a
+conformational alteration of membrane-bound G6Pase, as proposed by the conformation-substrate-transport model (13). The
+latter suggests that G6Pase is a single multifunctional membrane
+channel protein possessing both catalytic and substrate (or product) transport activities.
+Our laboratory has recently characterized the cDNA and
+gene encoding the catalytic unit of human G6Pase and identified, for the first time, several mutations in the G6Pase gene of
+GSD type la patients (14). Site-directed mutagenesis and transient expression assays demonstrated that these mutations abolish G6Pase activity, establishing the molecular basis of pathogenesis in GSD type la. In the present study, we characterized
+
+the G6Pase gene of GSD type lb, ic, and laSP patients in
+order to elucidate whether mutations in the G6Pase gene are
+responsible for other GSD type 1 subgroups. We also report
+additional mutations in the G6Pase gene of type la patients and
+the three most prevalent mutations that cause GSD type la.
+
+Methods
+Patients. We have analyzed the G6Pase gene of three GSD type lb,
+ic, the single type laSP, and seven type la patients. All
+patients present with clinical manifestations of hypoglycemia, hepatomegaly, and growth retardation. Three patients, MB, KF, and KZ, also
+have neutropenia and recurrent bacterial infections, and were positively
+diagnosed as GSD type lb by analyzing the glucose-6-P hydrolytic
+activity in liver biopsy samples. The activity was absent or partially
+present in fresh liver biopsy specimens but became active after freezing
+and thawing or upon detergent treatment of the biopsy samples. The
+defect in type lb patient MB has been extensively characterized (6, 11).
+The type lc patient JJ, whose liver biopsy sample exhibited normal
+pyrophosphate hydrolytic activity upon detergent treatment, was reported by Nordlie et al. (8). The single type laSP patient, RP, was
+diagnosed and reported by Burchell and Waddell (5). The type laSP
+and the seven type la patients were diagnosed by the lack of G6Pase
+activity in liver biopsy samples, regardless of assay conditions.
+Genomic DNA preparations from type la patient ML (GM00574)
+(submitted by Dr. R. Stevenson, Greenwood Genetic Center, Greenwood, NC), type lb patient MB (GM03719) (submitted by Dr. A.
+Beaudet, Baylor College of Medicine, Houston, TX) were isolated from
+lymphoblasts obtained from National Institute of General Medical Sciences (NIGMS) Human Genetic Mutant Cell Repository (Camden, NJ).
+Genomic DNA preparations from the other GSD type 1 patients and
+available family members were extracted from blood samples. Genomic
+DNA was isolated using a Nucleon [I kit obtained from Scotlab (Strathclyde, Scotland). Peripheral-blood samples were obtained with the informed consent of the patients.
+Analysis of the G6Pase gene by polymerase chain reaction and DNA
+sequencing. The G6Pase gene of all GSD type 1 patients and available
+family members was characterized by amplifying the coding regions of
+each of the 5 exons and the corresponding intron-exon junctions by
+polymerase chain reaction (PCR) using five pairs of oligonucleotide
+primers containing intronic, 5'-untranslated, or 3'-untranslated sequences of the human G6Pase gene (14). The amplified fragments, I
+(306 bp), 11 (191 bp), HI (209 bp), IV (259 bp), and V (646 bp), were
+subcloned using a TA cloning kit obtained from Invitrogen (San Diego,
+CA) and five or more subclones of each exon were sequenced and
+compared to a normal G6Pase gene to identify any mutations.
+Construction of G6Pase mutants. The phG6Pase-1 cDNA (G6PaseWT) containing nucleotides 77 to 1156 of the entire coding region
+of the human G6Pase cDNA (14) was used as a template for mutant
+construction by PCR. The outside primers used in all constructs were
+nucleotides 77 to 96 (5'-AGGATGGAGGAAGGAATGAA-3', sense)
+and nucleotides 1153 to 1130 (5'-TTACAACGACTfCTTGTGCGGCTG-3', antisense). The two inside primers (nucleotides 1048 to 1074)
+for the AF327 mutant are 5'-CGTCTI'GTCCTGCAAGAGTGCGGT(sense) and 5'-ACCGCACTCTTGCAGGACAAGACG (antisense) and
+the two inside primers (nucleotides 731 to 754) for mutant G222R are
+5'-AGCTTCGCCATCCGA1TITATCTG-3' (sense) and 5'-CAGATAAAATCGGATGGCGAAGCT-3' (antisense). The outside primers contain an additional XhoI or XbaI linker. The amplified fragments were
+digested with XhoI and XbaI and ligated into a pSVL vector (Pharmacia
+Fine Chemicals, Piscataway, NJ). The sequence of all constructs was
+confirmed by DNA sequencing.
+Expression in COS-I cells and Northern-blot hybridization analysis.
+COS-1 cells were grown at 37°C in Hepes-buffered Dulbecco's minimal
+essential medium supplemented with streptomycin, penicillin, and 4%
+fetal bovine serum. The WT or mutant G6Pase cDNA in a pSVL vector
+was transfected into COS-1 cells by the DEAE-dextran/chloroquine
+one type
+
+method (16). Mock transfections of COS-I cells with the pSVL vector
+alone were used as controls. After incubation at 370C for 3 d, the
+transfected cultures were harvested for G6Pase assays or lysed for RNA
+isolation.
+RNA was isolated by the guanidinium thiocyanate/CsCl method
+(17), separated by electrophoresis in 1.2% agarose gels containing 2.2
+M formaldehyde, and transferred to Nytran membranes. The filters were
+hybridized at 420C in the presence of the phG6Pase-l probe as previously described (14).
+Phosphohydrolase assay. Phosphohydrolase activity was determined
+essentially as described by Burchell et al. (18). Reaction mixtures (100
+Ml) contained 50 mM cacodylate buffer, pH 6.5, 10 mM glucose-6-P,
+2 mM EDTA, and appropriate amounts of cell homogenates and were
+incubated at 30'C for 10 min. Absorbance of each sample was determined at 820 nm and is related to the amount of phosphate released
+using a standard curve constructed by a stock of inorganic phosphate
+solution. Results are present as the mean±SD.
+
+Results
+The deduced amino acid sequence of the G6Pase catalytic unit
+of GSD type lb and Ic patients is normal. To test the two
+proposed models of G6Pase catalysis, we have undertaken studies to invoke or eliminate for consideration defects in the
+G6Pase gene as a factor in GSD type lb, ic, or 1aSP. Biochemically, the glucose-6-P or pyrophosphate hydrolytic activity in
+
+GSD Type 1 aSP
+
+Normal
+G A TC
+
+GATC
+
+TVal 88
+~G-
+
+j
+
+:
+
+G
+Trp 87
+Trp 86
+
+TI
+
+_aemma
+
+Trp 86
+
+G
+
+1
+
+T_
+
+ci
+
+Tyr 85 [A
+
+A Tyr 85
+TI
+
+am
+
+A
+
+_OO
+
+U
+
+Pro 84
+
+~
+
+C Pro 84
+
+-T-
+
+-..
+
+Cys83
+
+G
+___
+
+Arg 83[G
+
+m
+
+___
+_
+
+__
+
+Gin 82 A
+
+G
+A Gln 82
+
+Giy81
+
+G
+
+U
+
+Gly 8i
+
+ftw
+
+= ]iG
+
+=
+Phe80 [T
+
+T
+
+Phe 80
+
+IT
+
+Leu 79
+
+TI
+
+lie 78
+
+_-
+
+Exofna2*,
+
+Exn
+
+Leu 79
+
+Trp 87
+
+T
+
+ile 78 [1
+
+Exon 2
+R
+
+Normal
+
+C
+
+1
+
+GSD Type 1 aSP
+
+Figure 1. Autoradiograms of Sanger nucleotide sequencing reactions of
+the G6Pase gene from normal and the GSD type laSP patient. This
+type laSP patient (RP) contains a C to T mutation (boxed) at nucleotide
+326 (exon 2) converting an Arg at codon 83 to a Cys (R83C) in both
+G6Pase alleles.
+
+G6Pase Gene Mutations in GSD Type I Subgroups
+
+235
+
+Table I. Mutations in the G6Pase Genes of GSD type la Patients
+GSD Type la
+
+Mutation 1
+
+Mutation 2
+
+Genotype
+
+nucleotide/amino acid
+
+AN
+AN, father
+AN, mother
+LT
+LT, mother
+CA
+CA, mother
+JD
+JD, father
+JD, mother
+PG
+PG, father
+PG, mother
+RH
+RH, mother
+ML
+
+C326T/R83C (5/5)
+C326T/R83C (2/8)
+C326T/R83C (2/6)
+ClIl8T/Q347X (5/5)
+C II18T/Q347X (5/)
+C326T/R83C (4/9)
+C326T/R83C (2/6)
+C326T/R83C (2/5)
+C326T/R83C (3/5)
+C326T/R83C (2/6)
+C326T/R83C (4/6)
+
+459insTA/130X (4/6)
+459insTA/130X (7/9)
+G743C/G222R 3/6)
+
+Homozygote
+
+Homozygote
+
+1057delTTC/AF327 (5/)
+
+Heterozygote
+
+C II18T/Q347X (4/6)
+
+Heterozygote
+
+C118T/Q347X (2/5)
+459insTA/130X (4/6)
+
+Heterozygote
+
+459insTA/130X (2/5)
+C11 18T/Q347X (4/7)
+
+Heterozygote
+
+C I118T/Q347X (3/6)
+
+Heterozygote
+
+The liver biopsy specimens of these patients exhibited very low or nondetectable G6Pase activity, regardless of assay conditions. Numbers in
+parentheses are numbers of subclones that contained the mutation versus the numbers of subclones analyzed.
+
+type lb and lc patients becomes active in detergent-treated liver
+biopsy samples (6, 8). To determine the status of the G6Pase
+gene in type lb and ic patients, we amplified and sequenced
+the coding regions of each of the 5 exons and all intron-exon
+junctions of this gene. Sequencing data were compared with
+those of a normal G6Pase gene to identify mutations.
+The G6Pase gene of three type lb patients of diverse ethnic
+backgrounds was characterized: a Panamanian (MB), one of the
+original patients diagnosed as GSD type lb (6, 11), a Native
+American (KF), and a Caucasian (KZ). Sequencing of five to
+seven subclones of each exon from the G6Pase gene of all three
+type lb patients found no mutations in coding regions and splice
+junctions (data not shown), indicating that the encoded G6Pase
+catalytic unit is normal (wild type) in each case. These findings
+are consistent with the observations that normal levels of
+G6Pase activity is found in detergent-treated liver biopsy samples of type lb patients. Therefore, the genetic defect in GSD
+type lb patients is not in the gene encoding the G6Pase catalytic
+unit.
+We also analyzed the G6Pase gene of the type lc patient,
+JJ, reported by Nordlie et al. (8), and again, the coding and
+intron/exon junction regions of the G6Pase gene of this patient
+were normal (data not shown). The findings demonstrate that
+the encoded G6Pase enzyme contains no mutations. Our results
+strongly support the translocase-catalytic unit model of G6Pase
+catalysis (6-9), which suggests that the genetic defect in GSD
+type lb or lc patients is in the associated glucose-6-P or phosphate/pyrophosphate translocase gene.
+Identification of a mutation in the G6Pase gene of the single
+GSD type JaSP patient. To access whether GSD type laSP is
+caused by a deficiency of a 21-kD SP essential for G6Pase
+activity but otherwise normal G6Pase (5, 9, 10), we examined
+the G6Pase gene from the single known patient, RP. It has been
+shown that type laSP is clinically indistinguishable from type
+la, suggesting that the symptoms observed in this type laSP
+patient could be caused by mutations in the G6Pase gene, simi236
+
+Lei et al.
+
+lar to type la patients. Sequence analysis indicated that the
+sequences of exons 1, 3, 4, and 5 and all intron/exon junctions
+in the G6Pase gene of the type laSP patient were normal. However, exon 2 contained a C to T transition at nucleotide 326
+converting an Arg at codon 83 to a Cys (R83C) (Fig. 1). All
+five subclones contained this mutation, indicating that RP is
+homozygous for the R83C mutation. As GSD type 1 is an
+autosomal recessive disorder, it is predicted that both parents
+would be heterozygous for the mutation. This was confirmed
+by sequencing the G6Pase gene of both parents. As expected,
+three of the six exon 2 subclones of the G6Pase gene of the
+mother and two of the six exon 2 subclones of the G6Pase gene
+of the father had the C to T mutation at nucleotide 326 converting an Arg-83 to a Cys (data not shown). The sister of
+patient RP, clinically normal, contained two normal G6Pase
+alleles (data not shown).
+Identification of the R83C mutation in the G6Pase gene of
+a homozygous GSD type la patient. The R83C mutation has
+been previously identified in two GSD type la patients; both
+were compound heterozygotes (14, 15). To determine if the
+type laSP phenotype corresponds to patients homozygous for
+the R83C mutation, we screened additional type la patients for
+this mutation. Sequence analysis indicated that a type la patient,
+AN, also carried the R83C mutation in exon 2 of both G6Pase
+alleles (Table I). The sequences of exons 1, 3, 4, and 5 of the
+gene of patient AN were normal. Moreover, both parents of
+AN were heterozygous for the R83C mutation (Table I).
+Identification of mutations in the G6Pase gene of six additional GSD type la patients. To understand further the molecular basis of the GSD type la disorder, we characterized, in
+addition to patient AN, the G6Pase gene of six additional GSD
+type la patients. Among one homozygous and five heterozygous
+type la patients, five different mutations at the G6Pase locus
+have been identified (Table I). Three of the mutations, R83C,
+459insTA (insertion of TA after nucleotide 459 that yields a
+truncated G6Pase of 129 residues), and Q347X (a C to T transi-
+
+_Ad
+
+Normal GSD Type 1 a
+
+(CA)
+
+G ATC
+
+fT
+
+Val 88LT
+
+GATC
+
+Trp 87 G
+
+-~
+
+G0
+
+Trp 86
+
+Tyr 85
+
+A A
+T~rA5=A
+-T
+
+Pro 84
+
+__
+
+;;ln 82 tAA
+Gly 81
+
+j -
+
+Phe880 T | Leu 79
+
+T
+
+C0
+Exon 2
+
+.*.W
+
+"m
+
+0-
+
+go
+
+1G
+T
+
+G jSer330
+
+_
+
+a*
+
+__-
+
+Exo2
+
+Phe 327
+
+T
+
+__
+
+T
+
+_
+
+Ser326
+_ Gin 82
+
+1 TT
+
+_
+
+_
+
+Phe 80
+
+T_
+
+_IT
+
+T
+
+CyS 83
+
+Leu 79
+
+T
+A
+
+lioe78
+
+A
+T
+
+-p
+
+-p
+
+C
+T
+
+Leu 325[T
+T
+Val 324 5
+G
+
+A
+
+I-p
+
+O-
+
+A
+
+AGI
+
+Lys 329
+
+G
+
+Cys 328
+
+TIL
+
+C] Ser 326
+
+TIn
+
+ANWf
+
+rG-
+
+Tyr 323
+
+Ala 331
+
+C
+
+L
+
+LG
+
+Exon 2
+
+-no
+
+A
+
+Phe 322
+
+lie 78 [T
+
+-
+
+Lys 329
+
+_
+A
+-=
+G Gly 81
+_ AGL
+
+G
+-G
+
+G
+A
+
+G A TC
+
+.
+
+Ser 330
+
+Trp 86
+
+~~~T
+
+_
+
+-
+
+CT -~~~Pro 84
+
+_
+
+Ar 83 [G
+
+] Trp 87
+
+C
+G
+
+C]ProL
+
+__
+-
+
+Ala 331
+
+]
+
+}
+
+__
+
+-
+
+C
+
+G A T C
+
+T-,]TV VOa 88
+
+mrG
+
+GSD Type la
+(CA)
+
+Normal
+
+G
+
+_
+
+-p
+
+-
+
+-p
+
+<
+
+T] Leu 325
+
+TIJ
+
+-on5
+
+324
+TI|al
+G
+
+Wm
+
+AJ Tyr 323
+
+_xo
+
+_
+
+T
+T
+
+_
+
+T
+
+P
+
+T ]Phe 322
+
+T
+
+Exon 5
+
+R
+
+F
+
+C
+
+F
+
+R
+
+AF
+
+Normal
+GSD Type 1a
+
+(CA)
+
+Figure 2. Autoradiograms of Sanger nucleotide sequencing reactions of the G6Pase gene from normal and GSD type la patient CA. Patient CA
+contains a C to T (boxed) mutation at nucleotide 326 in exon 2 that converts Arg-83 to a Cys (R83C) and a codon (ITC, nucleotides 1058 to
+1060) deletion for Phe-327 (AF327) in exon 5.
+
+tion at nucleotide 1118 that converts Gln-347 to a stop codon)
+have been previously described (14, 15). Two new mutations,
+A\F327 and G222R, were identified in patients CA and ML,
+respectively. The genetic heritage of the patients was identified
+by the ratio of mutation-containing exon subclones to total subclones analyzed. A ratio of one indicates the patient is homozygous. This was further confirmed by sequence analysis of the
+G6Pase gene of the available family members (Table I).
+Patient CA is a compound heterozygote; two different mutations were detected in the G6Pase gene of this patient (Fig. 2).
+The mutations are R83C and a codon (TTC) deletion for Phe327 (nucleotides 1058 to 1060) in exon 5 (Fig. 2). Patient ML
+is also a compound heterozygote containing two different mutations in exon 5 at the G6Pase locus: a G to C transversion at
+nucleotide 743 that converts a Gly at codon 222 to an Arg
+(G222R) and a C to T transition at nucleotide 1118 that converts
+a Gln at codon 347 to a stop codon (Q347X) (Fig. 3).
+We have previously characterized the G6Pase gene of four
+unrelated GSD type la patients and uncovered four different
+mutations, R83C, Q347X, 459insTA, and R295C (a C to T
+mutation at nucleotide 962 that converts Arg-295 to a Cys) (14,
+15). In summary, we have analyzed the G6Pase gene of one
+type 1aSP and eleven unrelated type la patients and uncovered
+six different mutations. The relative incidence of the mutations
+in the G6Pase alleles are shown in Fig. 4. R83C, Q347X, and
+459insTA, which constitute 87% of the observed mutations,
+may represent the most prevalent mutations found in GSD
+type
+
+la.
+
+Characterization of G6Pase-AF327 and G6Pase-G222R
+
+mutants. The liver biopsy specimens of patients RP, AN, LT,
+CA, JD, PG, RH, and ML had very low or undetectable phosphohydrolase activity, suggesting that mutations identified in
+the G6Pase gene of these patients inactivated the G6Pase enzyme. In earlier studies, we showed that the R83C, R295C, or
+Q347X mutant G6Pase had no detectable phosphohydrolase
+activity (14, 15). To investigate the importance of amino acid
+residue F327 and G222, we constructed mutants that eliminated
+Phe-327 (G6Pase-AF327) or that changed Gly-222 to Arg
+(G6Pase-G222R) and analyzed phosphohydrolase activities
+
+after transient expression of WT or mutant G6Pase cDNA into
+COS-1 cells (Fig. 5 A). The G6Pase-AF327 mutant generated
+no enzyme activity. On the other hand, the G6Pase-G222R
+mutant G6Pase had a reproducibly low level of phosphohydrolase activity.
+Northern-blot hybridization analysis of G6Pase transcripts
+from transfected cells showed that WT as well as AF327 and
+G222R mutant G6Pase mRNAs were expressed at similar levels
+(Fig. 5 B), indicating that the reduction in enzyme activity was
+due to the defect in the G6Pase protein and not due to a decrease
+in transfection efficiency.
+
+Discussion
+In the present report, we have examined the G6Pase gene of
+GSD type lb and Ic patients and demonstrated that the coding
+regions and intron/exon junctions are all normal. This is consistent with the observations that, in contrast to the type la disorder, both type lb and lc patients have normal G6Pase activity
+G6Pase Gene Mutations in GSD Type I Subgroups
+
+237
+
+Normal
+
+Leu 227
+
+1 T.
+
+_*.~ T .
+
+GSD Type la
+(ML)
+G A T C
+
+_m
+
+IT
+Leu 2251 T
+Leu226
+
+~-
+
+-m
+
+Tyr 224 [ A
+
+lie 221
+
+E-o..
+
+T
+
+Phe 219
+Ser 218
+
+a._
+
+Em
+
+C
+
+Leu 225
+Leu 225
+
+AL-A
+Ile 341 T
+C
+Pro 342 [c
+
+-T
+Tyr 343 A
+
+I-C
+
+A~~
+
+]A Tyr 224
+
+-
+
+....*
+
+T
+
+Phe 223
+
+_.G
+
+rc
+
+Leu 345
+
+Ile 221
+
+,
+
+|
+
+c, Ala 220
+
+Cc
+
+5
+Exon
+
+T
+
+G2
+
+_
+
+Pro
+
+3461 C
+
+U
+
+Val 348
+
+T
+
+Phe 219
+
+Leu 349
+
+G
+
+Ser 21 8
+
+Gly 350
+
+-
+
+_
+
+__a
+
+-a.
+
+Exo 5
+
+xo
+
+IG
+
+Exon 5
+
+T
+
+-T
+
+I
+
+Phe 217
+
+G
+
+Gin 351
+
+Tyr 343
+
+TV
+G
+
+Cy
+
+T
+
+Leu 345
+
+344
+
+_a
+
+C j Ala 346
+
+stop
+
+G
+
+u_|_
+
+_G
+T
+
+C
+C
+T
+
+G
+G
+
+-G
+G
+
+G
+
+C
+C
+
+C
+
+Phe 2171 T
+
+Pro 342
+
+T
+A
+
+LT
+
+T
+
+T
+
+C
+
+G7
+
+Gin 347[ A
+
+-G
+-G
+
+]ie 341
+
+-a.-]_
+
+_G
+
+-C
+
+G
+
+_-U
+
+T
+
+-
+
+]Arg 222
+
+..
+
+Cys 344[G
+
+_
+
+T
+
+T
+
+T
+
+..T -
+
+IA
+-c
+
+Ala 220
+
+i
+
+T
+
+-
+
+Phe223[ T
+
+Gly222 [
+
+Leu 227
+
+?
+
+_
+
+G A TC
+
+G A TC
+
+T
+
+_-
+
+Type 1 a
+(ML)
+
+GSD
+
+Normal
+
+A
+G
+
+A
+
+I G-
+
+G
+
+a
+
+RI
+
+aI
+
+Normal
+
+GSD Type la
+
+(ML)
+
+G
+Figure 3. Autoradiograms of Sanger nucleotide sequencing reactions of the G6Pase gene from normal and GSD type la patient ML. Patient ML
+contains a G to C (boxed) mutation at nucleotide 743 in exon 5 that converts Gly-222 to an Arg (G222R) and a C to T transition at nucleotide
+1118 in exon 5 that converts Gln-347 to a stop codon (Q347X).
+
+the liver biopsy specimens are treated with detergent surmounting an apparent abnormal latency of an otherwise functional G6Pase enzyme in the type lb and Ic patients (6, 8).
+Therefore, a search for a mutation outside the coding region of
+the G6Pase gene is now unwarranted. Both the clinical and
+biochemical heterogeneities observed in the GSD type 1 disorder support the multi-component nature of the G6Pase system
+as proposed by the translocase-catalytic unit model of G6Pase
+catalysis (6-9). It is now established that at least two or more
+loci control the activity of glucose-6-P hydrolysis. The genetic
+defect(s) in type lb and Ic patients, also phenotypically deficient in G6Pase activity, remains to be elucidated. Biochemical
+analysis of G6Pase activity in liver biopsy samples of type
+lb and lc patients has attributed the defects to the putative
+translocases essential for G6Pase activity in the in vivo conditions (6, 8). The clinical manifestations of type lb and lc patients appear to be as severe as that of the la patients, arguing
+that some other component of the G6Pase complex is equally
+important to the hydrolysis of glucose-6-P.
+G6Pase is known to be an extremely unstable protein losing
+enzyme activity during conventional purification procedures (3,
+4). A 21-kD polypeptide has been isolated by Burchell et al.
+(10) that is reported to be closely associated with the G6Pase
+catalytic unit and responsible for stabilization of the enzyme.
+Screening of > 400 human liver biopsy samples, including
+those from GSD type 1 patients, with monospecific antibody to
+SP detected one specimen from patient RP that lacked SP (5,
+9). On this basis, a new subgroup, designated GSD type laSP,
+was established. In this report, we demonstrate that the type
+once
+
+238
+
+Lei et
+
+al.
+
+laSP patient, RP, is homozygous for R83C mutation in the
+G6Pase enzyme. The same mutation has been detected in one
+other homozygous and five compound heterozygous type la
+patients, demonstrating that the homozygous R83C mutation is
+not unique to the type "laSP" phenotype.
+Several lines of evidence indicate that the G6Pase catalytic
+unit is enzymatically active in the absence of the putative SP
+and that GSD type laSP, like type la, is caused exclusively by
+mutations that inactivate the human G6Pase. First, the ability
+of the SP to stabilize G6Pase was not unequivocally demonstrated and the SP may in fact be a ferritin subunit (19). The
+diagnosis of the type laSP phenotype was based solely on immunoblots which showed that the liver biopsy sample of patient
+RP did not react with an antiserum raised against the putative
+SP (5, 9). This patient lacked an SP which has not been demonstrated to be required for G6Pase activity. Second, rat G6Pase
+was recently purified to near homogeneity and demonstrated to
+be a single polypeptide of 35 kD (20). The purified G6Pase is
+enzymatically active in the absence of any associated SP. Third,
+the loss of hepatic G6Pase activity of this patient has been
+unequivocally demonstrated in the present study to be the result
+of a mutation (R83C) in the G6Pase gene. Genetic analysis of
+DNA isolated from the parents of RP indicated that the R83C
+mutation was inherited in an autosomal recessive manner. The
+C to T transition in exon 2 (CGT to TGT) in the G6Pase gene
+occurs in a CpG doublet, a known hotspot for mutation due to
+potential methylation of the doublet (21).
+Analysis of the G6Pase gene in eleven unrelated patients
+diagnosed as GSD type la and a single patient diagnosed as
+
+Mutations:
+
+R83C > Q347X 9a 459insTA > R295C = G222R = AF327
+
+Alleles (#):
+
+9/24
+
+8/24
+
+4/24
+
+1/24
+
+1/24
+
+1/24
+
+Incidence:
+
+37.5%
+
+33.3%
+
+16.6%
+
+4.2%
+
+4.2%
+
+4.2%
+
+Figure 4. Location of mutations in G6Pase alleles. Transmembrane spanning domains were identified by the method of Klein et al. (22) using the
+PC/Gene Program. The predicted secondary structure of human G6Pase is depicted and the six mutations identified thus far are denoted by arrows.
+The incidence of mutant alleles in GSD type la patients characterized to date are listed below the diagram.
+
+type "IaSP" have uncovered six independent mutations. The
+R83C (14), 459insTA (14), R295C (14), AF327, and Q347X
+(15) mutations abolished G6Pase catalytic activity completely
+whereas the G222R mutation greatly reduced it. The loss of
+enzyme activity in G6Pase lacking Phe-327, located in the sixth
+putative transmembrane segment of human G6Pase (Fig. 4),
+suggests that structural integrity of the membrane-spanning seg-
+
+Phosphohydrolase Activity
+
+A
+
+Mock
+WT
+AF327
+G222R
+
+11.7 ± 2.4
+
+G6Pase phosphohydrolase activity and (B)
+
+transient expression of
+
+15.9± 3.6
+
+cDNAs in COS-l cells.
+
+cm
+
+0
+
+a OE 3
+
+18S-
+
+WT and mutant G6Pase
+
+Phosphohydrolase activity in whole homogenates was assayed in reactions containing 10
+mM glucose-6-P using
+two independent isolates
+of each
+
+construct
+
+separate
+
+in three
+
+transfections.
+
+The activity is expressed
+as nmol/min per mg protein and data are presented as the mean±SD. After subtracting the background activity
+(mock), the AF327 mutant exhibited no detectable activity whereas the
+G222R mutant retained
+
+4% of WT
+
+catalysis after simplifying the model by discarding one component, SP. In addition, these studies provide important information concerning the critical amino acids in G6Pase catalysis.
+
+Acknowledgments
+We thank Kerri Lamance, Dr. Arthur L Beaudet, and the other metabolic
+physicians at Baylor College of Medicine for providing patient samples,
+Ms. C.-J. Pan and J.-L. Liu for technical assistance, and Drs. Margaret
+Chamberlin, Ida Owens, Lawrence Charnas, and Anil Mukhesjee for
+critical reading of the manuscript.
+
+expression
+
+115.8+± 4.5
+10.4 1.4
+
+B
+LL
+
+Figure 5. (A) Analysis of
+
+ment is important for G6Pase catalysis. In summary, our studies
+strongly support the translocase-catalytic unit model of G6Pase
+
+activity.
+
+References
+1. Hers, H.-G., F. Van Hoof, and T. de Barsy. 1989. Glycogen storage diseases.
+In The Metabolic Basis of Inherited Disease. C. R. Scriver, A. L. Beaudet, R.
+Charles, W. S. Sly, and D. Valle, editors. McGraw-Hill Inc., New York. 425452.
+2. Beaudet, A. L. 1991. Harrison's Principles of Internal Medicine. 12th
+edition. J. D. Wilson, E. Braunwald, K. J. Isselbacher, R. G. Petersdorf, J. B.,
+Martin, A. S., Fauci, and R. K. Root, editors. McGraw-Hill Inc., New York.
+1854-1860.
+3. Nordlie, R. C., and K. A. Sukalski. 1985. Multifunctional glucose-6-phosphatase: a critical review. In The Enzymes of Biological Membranes. 2nd edition.
+A. N. Martonosi, editor. Plenum Press, New York. 349-398.
+4. Sukalski, K. A., and R. C. Nordlie. 1989. Glucose-6-phosphatase: two
+concepts of membrane-function relationship. Adv. Enzymol. 62:93-117.
+5. Burchell A., and I. D. Waddell. 1990. Diagnosis of a novel glycogen storage
+disease: type laSP. J. Inherited Metab. Dis. 13:247-249.
+6. Lange, A. J., W. J. Arion, and A. L. Beaudet. 1980. Type lb glycogen
+
+G6Pase Gene Mutations in GSD Type
+
+1
+
+Subgroups
+
+239
+
+storage disease is caused by a defect in the glucose-6-phosphate translocase of
+the microsomal glucose-6-phosphatase system. J. Biol. Chem. 255:8381-8384.
+7. Arion, W. J., A. J. Lange, H. E. Walls, and L. M. Ballas. 1980. Evidence
+of the participation of independent translocases for phosphate and glucose-6phosphate in the microsomal glucose-6-phosphatase system. J. Biol. Chem.
+255:10396-10406.
+8. Nordlie, R. C., K. A. Sukalski, J. M. Munoz, and J. J. Baldwin. 1983. Type
+Ic, a novel glycogenosis. J. Biol. Chem. 258:9739-9744.
+9. Burchell, A. 1990. Molecular pathology of glucose-6-phosphatase. FASEB
+(Fed. Am. Soc. Exp. Biol.) J. 4:2978-88.
+10. Burchell, A., B. Burchell, M. Monaco, H. E. Walls, and W. J. Arion.
+1985. Stabilization of glucose-6-phosphatase activity by a 21000-dalton hepatic
+microsomal protein. Biochem. J. 230:489-495.
+11. Beaudet, A. L., D. C. Anderson, V. V. Michels, W. J. Arion, and A. J.
+Lange. 1980. Neutropenia and impaired neutrophil migration in type lB glycogen
+storage disease. J. Pediatr. 97:906-910.
+12. Gitzemann, R., and N. U. Bosshard. 1993. Defective neutrophil and monocyte functions in glycogen storage disease type lb: a literature review. Eur. J.
+Pediatr. 152(Suppl 1):S33-S38.
+13. Schulze, H. U., B. Nolte, and R. Kannler. 1986. Evidence for changes in
+the conformational status of rat liver microsomal glucose-6-phosphate: phosphohydrolase during detergent-dependent membrane modification. J. Biol. Chem.
+261:16571-16578.
+14. Lei, K.-J., L. L. Shelly, C.-J. Pan, J. B. Sidbury, and J. Y. Chou. 1993.
+
+240
+
+Lei et al.
+
+Mutations in the glucose-6-phosphatase gene that cause glycogen storage disease
+type la. Science (Wash. DC). 262:580-583.
+15. Lei, K.-J., C.-J. Pan, L. L. Shelly, J.-L. Liu, and J. Y. Chou. 1994.
+Identification of mutations in the gene for glucose-6-phosphatase, the enzyme
+deficient in glycogen storage disease type la. J. Clin. Invest. 93:1994-1999.
+16. Ausubel, F. M., R. Brent, R. E. Kingston, D. D. Moore, J. G. Seidman,
+J. A., Smith, and K. Struhl. 1992. Current Protocols in Molecular Biology. Greene
+Publishing and Wiley-Interscience, New York. 9.2.1-9.2.6.
+17. Chirgwin, J. M., A. E. Przybyla, R. J. MacDonald, and W. J. Rutter.
+1979. Isolation of biologically active ribonucleic acid from sources enriched in
+ribonuclease. Biochemistry. 18:5294-5299.
+18. Burchell, A., R. Hume, and B. Burchell. 1988. A new microtechnique for
+the analysis of the human hepatic microsomal glucose-6-phosphatase system.
+Clim. Chim. Acta. 173:183-192.
+19. Canfield, W. K., and W. J. Arion. 1990. Stability of glucose-6-phosphatase:
+possible roles for a ferritin subunit and molybdenum. FASEB (Fed. Am. Soc. Exp.
+Biol.) J. 4:2121a. (Abstr.)
+20. Speth, M., and H.-U. Schulze. 1992. The purification of a detergent-soluble
+glucose-6-phosphatase from rat liver. Eur. J. Biochem. 208:643-650.
+21. Tasheva, E. S., and D. J. Roufa. 1993. Deoxycytidine methylation and the
+origin of spontaneous transition mutations in mammalian cells. Somatic Cell Mol.
+Genet. 19:275-283.
+22. Klein, P., M. Kanehisa, and C. DeLisa. 1985. The detection and classification of membrane-spanning proteins. Biochim. Biophys. Acta. 815:468-476.
+
+

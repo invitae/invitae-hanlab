@@ -1,0 +1,1027 @@
+© 1992 Oxford University Press
+
+Human Molecular Genetics, Vol. 1, No. 7
+
+497-503
+
+Androgen receptor gene mutations identified by SSCP in
+fourteen subjects with androgen insensitivity syndrome
+J.A.Batch+, D.M.Williams, H.R.Davies, B.D.Brown, B.A.J.Evans1, I.A.Hughes and
+M.N.Patterson*
+Department of Paediatrics, University of Cambridge, Addenbrooke's Hospital, Hills Road, Cambridge CB2 2QQ and
+1
+Department of Child Health, University of Wales College of Medicine, Heath Park, Cardiff CF4 4XN, UK
+Received July 9, 1992; Revised and Accepted August 17, 1992
+
+ABSTRACT
+
+INTRODUCTION
+Androgens are responsible for many aspects of male sexual
+development, in foetal life and later at puberty (1). The two
+principal androgens are testosterone and its reduced derivative,
+5a-dihydrotestosterone (DHT). These hormones have distinct
+roles in sexual development, although their effects are mediated
+by a single androgen receptor, a member of the steroid/thyroid
+receptor superfamily (2). The androgen receptor combines with
+androgen within the cell and is activated, a process involving
+the dissociation of the receptor from a large multiprotein complex.
+The activated receptor then binds to specific chromosomal DNA
+target sites designated androgen response elements, leading to
+modulation of transcription of adjacent genes (3).
+Like other members of the receptor superfamily, the androgen
+receptor protein (919 amino acids) is divided into three distinct
+functional domains: the C-terminal 250 amino acids are
+responsible for androgen binding, the central domain consists of
+two zinc finger-like elements responsible for DNA binding, and
+die less well characterised N-terminal domain has a role in
+
+transcriptional activation by the receptor (4, 5). A recently defined
+domain adjacent to the DNA binding domain is responsible for
+nuclear localisation of the androgen receptor (4, 5). Based on
+sequence homology with the oestrogen receptor, a subdomain
+within the Iigand binding domain of the androgen receptor has
+been proposed to be involved in receptor dimerisation (6).
+The androgen insensitivity syndrome (AIS) results from a
+defective cellular response to androgen, and has an X-linked
+recessive mode of inheritance (7,8). Affected males have a 46XY
+karyotype and are able to synthesise and metabolise androgen
+normally. A wide range of phenotypes is associated with AIS.
+The most severe form, the complete androgen insensitivity
+syndrome (CAIS), results in a total lack of virilisation, and thus
+a normal female appearance at birth. If the condition is not
+diagnosed at birth or in infancy, individuals may present at
+puberty or in later life with primary amenorrhcea. Often however,
+the insensitivity is incomplete and results in the partial androgen
+insensitivity syndrome (PAIS). PAIS usually presents at birth
+when an infant is born with ambiguous genitalia. The genital ia
+may appear male but with abnormalities such as cryptorchidism,
+micropenis and hypospadias. Alternatively, the appearance may
+be essentially female, but with evidence of virilisation such as
+clitoromegaly and labial fusion. It has been suggested diat
+unexplained infertility in an otherwise phenotypically normal male
+may also represent a mild manifestation of PAIS (9-11).
+The first indication that the androgen receptor itself is defective
+in androgen insensitivity came from androgen' binding studies
+on genital skin fibroblast cell lines from AIS subjects (12, 13).
+Absent or profoundly defective androgen binding is observed in
+the majority of CAIS cases, suggesting a severe deficit in
+androgen receptor function. Since the isolation of the androgen
+receptor gene (14, 15), a variety of mutations have been identified
+in such cases which disrupt the receptor Iigand binding domain
+(16). Occasionally, CAIS subjects are found who have normal
+androgen binding and, in these cases androgen receptor gene
+mutations have been identified in the DNA binding domain (17,
+18). Collectively, the data at present suggest that mutations in
+the androgen receptor gene are the only cause of CAIS.
+By contrast, in PAIS cases, less profound qualitative androgen
+binding defects such as reduced binding affinity and
+thermolability, or a quantitative reduction in androgen binding
+may be found (16, 19). These less pronounced binding defects
+
+* To whom correspondence should be addressed
++
+Present address: Department of Paediatrics, University of Melbourne, Royal Children's Hospital, Remington Road, Parkville, Melbourne 3052, Australia
+
+Downloaded from http://hmg.oxfordjournals.org/ at Reprints Desk on November 17, 2016
+
+The androgen insensitivity syndrome (AIS) is a disorder of
+male sexual development resulting in a wide range of clinical
+phenotypes. AIS is classified into two phenotypic forms:
+complete (CMS) and partial (PAIS). To determine the
+molecular basis of the phenotypic diversity in AIS, we have
+studied 27 subjects (13 CAIS, 14 PAIS), spanning the full
+range of AIS phenotypes. We report the results of a mutation
+screen of the androgen receptor gene. The coding regions of
+the gene were amplified by the polymerase chain reaction and
+screened for single strand conformation polymorphisms to
+identify mutations. This was followed by DNA sequencing of
+putative mutant segments. Androgen receptor gene mutations
+were identified hi nine CAIS and five PAIS subjects. Two
+of the CAIS mutations in exon A resulted in frameshlfts. A
+third CAIS mutation resulted in the deletion of a single amino
+add from the Iigand binding domain of the receptor. All other
+mutations caused single amino add substitutions in the Iigand
+binding domain. These results suggest that mutations affecting
+the Iigand binding domain of the androgen receptor are the
+most frequent cause of AIS, although some cases of PAIS may
+be the result of other, as yet undefined, genetic lesions.
+
+498 Human Molecular Genetics, Vol. 1, No. 7
+
+724
+
+772
+
+816
+
+867 868 919
+
+Transcriptional activation
+DNA binding
+Androgen binding
+
+are consistent with the less severe undervirilisation in PAIS
+compared to CAIS. Androgen receptor gene mutations have also
+been identified in PAIS (8, 16). However, a large number of
+PAIS cases show normal androgen binding. In some instances
+DNA binding defects in the androgen receptor may be the cause
+of the phenotype (20). It is also possible that androgen binding
+defects may be present, but are too subtle to be detected by
+binding assays. This explanation could be tested by direct
+screening of such cases for androgen receptor gene mutations.
+We report here a study of 27 AIS subjects (13 CAIS, 14 PAIS).
+The aims of the study were to determine whether androgen
+receptor defects are the sole determinants of the AIS phenotype,
+and to investigate the molecular basis for the phenotypic diversity
+encountered in AIS. The androgen receptor gene was screened
+for mutations using single strand conformation polymorphism
+analysis (SSCP) (21). In this way mutations have been identified
+in fourteen of the subjects. Nine of the mutations were found
+in CAIS and five in PAIS subjects.
+RESULTS
+Androgen binding studies
+Androgen binding activity was measured using a whole cell
+binding assay, which provides both a quantitative measure
+(Bmax) ar| d qualitative measures (Kj and thermolability) of
+androgen binding (22). The majority (n=9) of the CAIS subjects
+had no detectable binding, one had a qualitative binding
+abnormality (high K<j and thermolability) and one had a
+quantitative reduction (i.e. low Bm^). Two further CAIS
+subjects were not assayed since only blood samples were available
+from these cases. The PAIS group showed both qualitative (n=6)
+and quantitative (n=2) abnormalities with a significant number
+(n=6) showing no binding defect. The observation that apparently
+normal androgen binding is associated with larger numbers of
+PAIS compared to CAIS subjects is consistent with previous
+studies (16, 19).
+PCR-SSCP analysis of the androgen receptor gene
+Oligonucleotides were designed as primers for the PCR
+amplification of the coding regions of the androgen receptor gene.
+The locations of the primers are shown schematically in Figure 1,
+
+4°C
+No Glycerol
+
+Room Temperature
+10% Glvcerol
+
+a)
+
+b)
+
+c)
+
+1 2
+
+8
+
+3
+
+9
+
+4
+
+5
+
+6
+
+7
+
+10 11 12 13 14
+
+15 16 17 18 19 20 21
+
+1 2
+
+8
+
+3
+
+9
+
+4
+
+5
+
+6
+
+7
+
+10 11 12 13 14
+
+15 16 17 18 19 20 21
+
+Figure 2. SSCP analysis of androgen receptor gene. Each set of seven samples
+was run on gels using two types of conditions as indicated. Part (a) shows two
+band-shifts (exon F) in lanes 3 and 6 that were only detected on the 4°C gel.
+Part (b) shows band-shifts (exon E) in lanes 9, 10 and 13 that were only detected
+on the room temperature gel. Part (c) shows band-shifts (exon G) in lanes 16,
+18 and 19 that were detected using both sets of conditions.
+
+Downloaded from http://hmg.oxfordjournals.org/ at Reprints Desk on November 17, 2016
+
+Figure 1. PCR amplification of androgen receptor gene protein coding sequences. The boxes labelled A to H, represent the eight exons of the androgen receptor
+gene. Untranslated regions in exons A and H are not shown. The dotted lines indicate the PCR fragments amplified using the oligonucleotide primers labelled at
+the ends of each line. The exons are shaded according to the receptor domains they encode. The numbers above the ends of the exon indicate the amino acid encoded
+at the boundaries of the exons (24). The Q and G above exon A refer to the polyglutamine and polyglycine regions respectively. The Tthl 1II site used to cleave
+the exon D fragment is also indicated.
+
+Human Molecular Genetics, VoL 1, No. 7 499
+Table 1. OUgonucleotide primers used for PCR amplification of the androgen receptor gene
+Sense Oligo
+
+Position
+
+Antisense Oligo
+
+Position
+
+Fragment size (bp)
+
+Temp°C
+
+Al
+A3
+A5
+A7
+A9
+All
+A13
+Bl
+Cl
+Dl
+El
+Fl
+Gl
+HI
+
+50-74
+317-330
+548-572
+788-812
+968-992
+1150-1180
+1381-1404
+1801-1826
+2227-2251
+2617-2642
+3002-3027
+3287-3310
+3726-3749
+3997-4020
+
+A2
+A4
+A6
+A8
+A10
+A12
+A14
+B2
+C2
+D2
+E2
+F2
+G2
+H2
+
+356-379
+585-607
+823-847
+1023-1047
+1222-1246
+1404-1428
+1706-1728
+2041 -2066
+2444-2469
+2979-3001
+3261-3286
+3558-3580
+3973-3996
+4276-4300
+
+330
+291
+300
+260
+279
+273
+348
+266
+243
+385
+285
+294
+271
+304
+
+55
+62
+62
+62
+62
+55
+60
+60
+60
+60
+57
+60
+57
+
+Location numbering is according to reference (24). Temp refers to the annealing temperature used in the PCR reactions. No temperature is given for A13—A14
+because this region was not successfully amplified.
+
+DNA sequencing of androgen receptor gene mutations
+Having identified band-shifts in SSCP gels, putative mutant
+segments of the androgen receptor gene were sequenced. PCR
+fragments were gel-purified and sequenced directly, either after
+an asymmetric PCR reaction to generate a single stranded
+template or by double stranded sequencing. Figure 3 shows two
+deletions and one insertion that were detected in CAIS subjects.
+Two of the mutations occurred in exon A and caused frameshifts,
+which would be expected to lead to highly truncated versions
+
+Downloaded from http://hmg.oxfordjournals.org/ at Reprints Desk on November 17, 2016
+
+and are listed in Table 1, with PCR fragment sizes. In general,
+primers were designed to produce PCR fragments less than
+350bp, since SSCP is more sensitive for smaller fragments (21,
+23). The only exception is the exon D fragment at 385bp. This
+fragment was cleaved with Tthl111 prior to electrophoresis which
+generated fragments of 155 and 230bp.
+The exon A coding sequence was subdivided into seven
+overlapping fragments because of its large size (1613bp). The
+A1/A2 segment contains the highly polymorphic polyglutamine
+region of the androgen receptor (Figure 1) (25—27). Since the
+repeat polymorphism would mask the effect of other mutations
+within the A1/A2 segment on SSCP gels, we directly sequenced
+this interval in the 27 AIS subjects. No point mutations were
+found in this survey, and the length of the polyglutamine repeat
+varied between 16-29 residues with a mean of 23. These results
+are within the range found in the normal population (26). The
+A13/A14 segment in exon A encodes the polyglycine stretch of
+the androgen receptor. Accurate PCR amplification of this highly
+GC-rich segment has not been reported, but has been shown to
+lead to artificial shortening of the repeat (28). We have
+encountered similar difficulties, and this region has therefore not
+been analysed in our study so far.
+For SSCP, denatured PCR fragments were run on
+nondenaturing polyacrylamide gels either at room temperature
+in the presence of 10% glycerol, or at 4°C in the absence of
+glycerol (21). Some examples of the band-shifts detected by SSCP
+are shown in Figure 2. In general, 4°C gels were most sensitive
+(Figure 2a) although a few mutations were visualised more clearly
+on the room temperature gels (Figure 2b). In other cases
+mutations were detected easily using both sets of conditions
+(Figure 2c). Overall, we detected changes in ten of thirteen CAIS
+and six of fourteen PAIS subjects. In one CAIS and one PAIS
+case these changes corresponded to silent mutations (see below).
+
+3' SENSE
+
+a)
+
+5' SENSE
+
+b)
+CONTROL
+
+A C GT
+
+5' ANTISENSE
+
+C)
+
+V ANTISENSE
+
+MUTANT
+A C G T
+
+5' ANTISENSE
+
+Figure 3. An insertion and two deletions in the androgen receptor gene detected
+in CAIS subjects. Portions of sequencing gels with a normal control on the left
+and the mutant on the right are shown. Sequences for the part of each gel containing
+the mutation are indicated. The first amino acid affected by the mutation is indicated
+in the control sequence. In part (a) the four nucleotide insertion is boxed. In parts
+(b) and (c) the deleted nucleotides are highlighted in black.
+
+500 Human Molecular Genetics, Vol. 1, No. 7
+CONTROL
+
+31 SENSE
+
+A C G
+
+5' SENSE
+
+CONTROL
+
+b)
+
+A C G T
+
+5' SENSE
+
+3' ANTISENSE
+LEU
+
+ANTISENSE
+
+Figure 4. Point mutations in the androgen receptor gene detected in AIS subjects.
+The altered nucleotide is indicated by an asterisk. The resultant change in amino
+acid U also shown.
+
+of the androgen receptor in these subjects. In particular, the single
+nucleotide deletion (Figure 3 a) would lead to termination of
+translation due to the stop codon at nucleotide position 877 - 879
+(29). Similarly, there is a stop codon at position 1055-1057
+downstream of the four nucleotide insertion (Figure 3b). The
+third mutation (Figure 3c) was a three nucleotide deletion leading
+to the deletion of a single asparagine residue at position 692 in
+the ligand binding domain of the receptor. The subject had a
+profound qualitative abnormality in androgen binding (Table 2).
+The other mutations detected were all point mutations. Two
+of these were silent mutations. A guanine to adenine mutation
+at position 995 was found in two cases. In one of these cases,
+an additional silent mutation from cytosine to thymine at position
+2762 was found. The position 995 mutation abolishes a StuI site,
+and was detected in the normal population with a frequency of
+8% (4 of 52 X chromosomes screened, results not shown). This
+mutation is therefore likely to represent a neutral polymorphism,
+having no effect on androgen receptor gene expression. The
+significance of the position 2762 mutation is currently not known.
+The remainder of the point mutations were predicted to cause
+amino acid substitutions in the androgen receptor ligand binding
+domain. Three examples are shown in Figure 4. These were
+identified in a CAIS subject with negative binding (Figure 4a),
+
+DISCUSSION
+In this survey of 27 AIS subjects SSCP analysis led to the
+identification of androgen receptor gene mutations resulting in
+protein coding changes in fourteen cases. Mutations were found
+in nine of thirteen CAIS and five of fourteen PAIS cases. The
+four CAIS cases in which mutations were not identified included
+three with negative androgen binding and one for whom binding
+data were not available. It is therefore likely that androgen
+receptor defects account for most, if not all cases of CAIS in
+our study, although four androgen receptor gene mutations have
+not been detected by SSCP. From this study we would therefore
+estimate the detection rate for SSCP to be approximately 70%.
+However, this may be an underestimate if the undetected
+mutations exist within androgen receptor gene regions not yet
+studied, such as the exon A polyglycine region or the androgen
+receptor gene promoter. Nevertheless, 70% is comparable with
+other estimates of SSCP sensitivity in analysing fragments of
+approximately 35Obp (23, 30).
+In contrast to the CAIS group, androgen receptor gene
+mutations were only identified in 37% of the PAIS cases. Four
+of the five mutations were in cases with a clear qualitative
+abnormality of androgen binding, consistent with the position of
+the mutation within the androgen binding domain of the receptor.
+However, only one of the six PAIS cases with normal androgen
+binding was shown to possess a mutation. From these results we
+conclude that a qualitative abnormality in androgen binding is
+a good indication that the androgen receptor is defective. When
+no such binding abnormality is observed, it is possible that the
+androgen receptor may not be defective. Strong candidate genes
+in these cases of unexplained PAIS would be those genes whose
+expression is controlled by the androgen receptor during genital
+development. These target genes remain to be identified.
+The identification of exon A frameshift mutations in CAIS is
+a novel finding, and predicts the synthesis of a truncated Nterminal fragment of the androgen receptor. The testicular
+feminized (tfiri) mouse, a model for CAIS, also carries an exon
+A frameshift mutation in the androgen receptor gene (31 -33).
+It has been shown that reinitiation of translation occurs at
+methionine residues, downstream of the frameshift mutation (32).
+Reinitiation is inefficient, but leads to the synthesis of low levels
+of a receptor comprising the DNA and androgen binding
+domains. This explains why a small amount of DNA and
+
+Downloaded from http://hmg.oxfordjournals.org/ at Reprints Desk on November 17, 2016
+
+31 SENSE
+'G~
+G
+GLY
+G_
+*G" MET ILE
+T
+742
+A_
+G"
+G
+TRP
+\T_
+
+a PAIS subject with a qualitative binding abnormality (Figure 4b)
+and a PAIS subject with normal binding (Figure 4c). The normal
+androgen binding in the latter subject is surprising in view of
+the location of the mutation in the ligand binding domain. This
+may be explained if the mutation leads to a defect in binding
+which affects binding parameters not measured in our standard
+assay.
+The locations of all the mutations identified in this survey are
+shown in Figure 5. Table 2 includes brief descriptions of the
+patient phenotypes and their androgen binding data. Two CAIS
+subjects were found to carry the same mutation affecting amino
+acid position 750. However, the polyglutamine repeats were of
+different lengths (23 and 25 residues) in the two subjects. This
+indicates that the same mutation was not identified as the result
+of a sample mix-up, or an unexpected familial relationship
+between these subjects. In all other cases the mutations were
+unique to each subject.
+
+Human Molecular Genetics, Vol. 1, No. 7 501
+
+CAIS
+
+864
+
+724
+
+772
+
+816
+
+867 868
+
+919
+
+Transcriptional activation
+DNA binding
+Androgen binding
+
+742
+
+798
+
+855
+
+869
+
+Figure 5. Summary of androgen receptor gene mutations identified in AIS subjects. Shading indicates the major functional domains of the androgen receptor. The
+portions of the receptor encoded by each of the exons are boxed, and the amino acids encoded at the boundaries of each exon are numbered as in Figure 1. Mutations
+identified in CAIS subjects are shown above rhe receptor, and those found in PAIS are shown below the receptor. Deletion mutations are indicated by a minus
+(—) and the insertion mutation by a plus (+). In each case the number of nucleotides added or deleted is indicated in brackets after the symbol. The amino acid
+positions affected by the mutations are numbered according to reference (24).
+
+Table 2. Mutations, androgen binding and clinical phenotypes in androgen insensitive subjects
+Exon
+
+Mutation
+Type
+
+cDNA
+
+Change
+
+Amino Acid
+
+Change
+
+a) CAIS Subjects
+Deletion
+A
+A
+Insertion
+Deletion
+D
+Point
+E
+Point
+E
+Point
+E
+E
+Point
+F
+Point
+G
+Point
+
+743
+966
+2436-8
+2611
+2611
+2646
+2655
+2683
+2952
+
+-A
+
++ATCC
+-AAC
+G-A
+G-A
+C-T
+G-A
+G-A
+G-A
+
+127
+202
+692
+750
+750
+762
+765
+774
+864
+
+Frameshift
+Frameshift
+Asn del
+Gly —Asp
+Gly-Asp
+Leu-Phe
+Ala-Thr
+Arg-His
+Asp—Asn
+
+0"
+0^
+15.7"
+nd
+
+0b
+0b
+
+0b
+0b
+
+1407'
+nd
+
+43%"
+nd
+
+Ob
+
+Ob
+
+0b
+
+0«
+&
+1.0*
+
+0«
+0229*
+
+00»
+32%'
+
+0b
+
+0b
+
+Ob
+
+b) PAIS Subjects
+Point
+E
+F
+Point
+F
+Point
+G
+Point
+H
+Point
+
+2588
+2702
+2754
+2926
+2969
+
+G-A
+G-A
+C-G
+G-A
+T-G
+
+742
+780
+798
+855
+869
+
+Met-lie
+Met-De
+Gln-Glu
+Arg —His
+De-Met
+
+5.4'
+6.2"
+1.4*
+
+I960727b
+1756*
+628b
+977b
+
+49%'
+45 %b
+1%'
+30%b
+
+Thermo
+lability
+
+4.3b
+3.1b
+
+57%b
+
+Sex
+
+Phenotype
+
+F
+F
+F
+M
+M
+
+CM, LF
+CM, LF
+CM, LF
+PH, M, CO
+PH
+
+Mutation locations in the cDNA or amino acid sequence are given according to the sequence in reference (29). The amino acid locations for the frameshifts mutations
+indicate the first amino acid codon affected by the frameshift. Units for the binding data are lO" 1 0 M (Kj) and 10" l 8 moles//ig DNA ( B ^ . Superscripts on the
+androgen binding data indicate values that were obtained in this study (a) or as part of a previously published study (b) (19. The normal ranges for binding data
+(a) were: B ^ , , 1 3 2 9 ± 4 3 9 x l 0 - ' 8 moles/,ig DNA; Kj, 1.07±0.26xl0- 1 0 M; thermolability, 17±7.5% reduction at 40°C. For binding data (b): B ^ , ,
+814±168xlO- | 8 moles//igDNA; Kd, 0.91 ±0.26x10"'O M; thermolability = 6 ± 5 % . All ranges are expressed as the mean ± standard deviation. Binding data
+is entered as 0 when negligible specific binding was detected. Sex refers to the sex of rearing and is indicated as M (male) or F (female). Phenotypes for PAIS
+subjects are abbreviated as follows: CM, clitoromegary; LF, labial fusion; PH, perineoscrota! hypospadias; M, micTOpenis; CO, cryptorchidism.
+
+androgen binding activity is detected in tfin mice (34). A similar
+observation has been made in a CAIS subject, carrying a nonsense
+mutation in exon A (35). Reinitiation of translation downstream
+of the stop codon leads to the production of low levels of Nterminally truncated androgen receptor with androgen binding
+activity. It is possible that reinitiation of translation also occurs
+in the frameshift mutants we have identified. In the single
+nucleotide deletion mutant this could occur at methionine 229,
+and in the four nucleotide insertion, at methionine 285 . However,
+
+since even low levels of androgen binding were not detected in
+these cases, reinitiation, if present, is likely to be very inefficient.
+All other mutations identified in this study affect the ligand
+binding domain of the androgen receptor, and provide valuable
+information for the further characterisation of structural and
+functional relationships in that domain. One mutation has been
+reported previously in a PAIS subject in an independent study
+(20). This is the mutation which changes arginine 855 to hisu'dine.
+Two further mutations altering arginine 855 to cysteine have also
+
+Downloaded from http://hmg.oxfordjournals.org/ at Reprints Desk on November 17, 2016
+
+PAIS
+
+502 Human Molecular Genetics, Vol. 1, No. 7
+
+We have identified androgen receptor gene mutations in AIS
+subjects with phenotypes ranging from complete to minimal
+androgen insensitivity. The exon A frameshift mutations would
+be predicted to have a dramatic effect on receptor expression,
+and are therefore associated with severe clinical androgen
+resistance. Apart from these, there is no clear correlation between
+the position or nature of the androgen receptor gene mutation
+and the severity of the clinical phenotype. However, it will now
+be possible to express the mutant receptors and test whether the
+phenotypic diversity in AIS is explained by the degree of receptor
+dysfunction caused by the mutation.
+MATERIALS AND METHODS
+Clinical subjects
+All subjects studied had a normal 46XY karyotype and the gonads were testes.
+The thirteen CAIS subjects had completely normal external female genitalia. The
+fourteen PAIS subjects had a variety of genital phenotypes ranging from
+undervirilised male with hypospadias, cryptorchidism and micropenis to virilised
+female with clitoromegaly and labial fusion. Nine of the PAIS subjects had no
+evidence of an androgen biosynthetic defect. This was demonstrated by normal
+or high levels of circulating testosterone (n=2) or a normal testosterone response
+to a human chorionic gonadotrophin (hCG) stimulation test (n=7) (42). Similar
+biochemical data were not available for the remaining five PAIS subjects, but
+they all had a clear qualitative or quantitative defect in androgen binding, and
+were therefore included in the study.
+Tissue culture
+Fibroblast cell lines were established from genital skin biopsies obtained at surgery,
+by primary explanation in E199 medium containing 20% foetal calf serum and
+supplemented with penicillin, streptomycin and glutamine . The seium was reduced
+to 10% after the second passage and maintained at that level thereafter. Cells
+were grown at 37°C in 5% COj.
+
+Androgen binding assay
+Androgen binding was measured in genital skin fibroblasts using a whole cell
+binding assay (22). Briefly, between 5 x 10s and 1 x 106 cells were incubated at
+37 °C with pH]-DHT at concentrations ranging from 0.06nM to lnM.
+Incubations were carried out in the absence or presence of a 200-fold excess of
+unlabeUed DHT, to measure nonspecific binding. Parallel incubations were also
+carried out at 40°C with lnM pH]-DHT in the absence or presence of unlabeUed
+DHT to measure the thermolability of binding. All assay points were performed
+in duplicate, except the 40°C points which were done in triplicate. Scatchard
+analysis was carried out using the Combicept 2000 Steroid Receptor Assay software
+and a 2500 TR Packard liquid scintillation counter. This provided measures of
+both receptor amounts (B,^) expressed as moles per n% DNA, and dissociation
+constant (Kj). DNA concentration was estimated using the Burton assay (43).
+A normal range was calculated for the binding parameters from nine genital
+skin fibroblast cell lines from normal individuals. The values are given in the
+legend to TaWe 2. Binding parameters were classified as abnormal when the values
+fell greater than two standard deviations away from the mean.
+PCR-SSCP analysis of the androgen receptor gene
+Genomk DNA was prepared from genital skin fibroblasts or from whole blood
+by standard methods. Fourteen pairs of oligonucleotide primers were used to
+amplify the coding regions of the androgen receptor gene. The positions of the
+primers and amplified segments are given in Table 1. Primers were synrhesised
+using a Pharmacia LKB Gene Assembler Plus. A 10/d PCR reaction was used
+for SSCP and contained the following components: lOOng genomic DNA, 50/tM
+dNTPs, 2.5^Ci [a-32P]-dATP, 0.2units Taq polymerase (Cambio Ltd), 1/J Panbuffer (Cambio Ltd), 2pmol each primer. PCR using primers All and A12 was
+inefficient at these conditions and the Parr buffer was replaced with lOmM Tris
+(pH8.8), 50mM KC1, lmM MgCl2, 0.001% gelatin, 0.5% Tween 20, 0.1%
+Triton X-100. Reactions were denatured at 95°C for 2 minutes and subjected
+to 30 cycles of amplification at 95°C for 30 seconds, annealing at 55-62°C (see
+Table) for 1 minute, and extension at 72°C for 1 minute. This was followed by
+a final 5 minute extension at 72°C. Stop buffer (10/J) containing 95% formamide,
+20mM EDTA, 0.05% bromophenol blue and 0.05% xylene cyanol FF was added
+to the reactions. They were then denatured at 95°C for 5 minutes and stored
+on ice before loading. The interval Al - A 2 was not analysed by SSCP since
+this region is highly polymorphic. This region was analysed only by direct
+sequencing of PCR products. The interval A13-A14 contains a highly GC-rich
+sequence which we were not able to amplify successfully. This region has therefore
+not been analysed.
+Analysis of exon D incorporated an additional digestion step prior to the
+denaturation. This was done because the fragment size wasrelativelylarge (385bp),
+and would have reduced the sensitivity of the SSCP screening. After the PCR,
+2pX of the exon D reactions were digested with Tthl 111, in a volume of 10/d.
+This produced two fragments of sizes 155 bp and 230bp. These products were
+mixed with stop buffer and denatured before loading as above.
+A 40cmx20cm vertical gel apparatus incorporating fan cooling was used for
+SSCP gels (Cambridge Hectrophoresis Ltd). Analysis was carried out using two
+sets of conditions for every PCR fragment. Gels containing 6% acrylamide,
+1 xTBE (90mM Tris-borate pH8.2, 2.5mM EDTA) were run at 4°C in the cold
+room. Gels containing 10% glycerol, 6% acrylamide, 1 XTBE were run at room
+temperature. All gels were run at 12-25Watts in 1 xTBE buffer. The bromophenol
+blue dye was run to the end of the gel and the gel was then dried prior to
+autoradiography.
+DNA sequencing of PCR products
+Preparative PCR reactions were carried out in a total volume of 100/tl. These
+were scaled up versions of the reactions described. After PCR, mineral oil was
+removed and the reactions were extracted once with 200jd chloroform. The
+volumes were then reduced to approximately 20/J under vacuum prior to loading
+on a 1% low melting point agarose gel. The excised gel bands were purified
+using a Magic PCR Preps™ DNA purification lot (Promega). Subsequently, the
+sequencing reactions were carried out with the ./mo/™ DNA sequencing system
+(Promega), using the same primers as for PCR. The primers were labelled with
+[-yJ2P]-ATP. Standard conditions were used for sequencing gel electrophoresis.
+In all cases mutations were sequenced on both DNA strands.
+Although most of the mutations were sequenced as described the mutations
+in the CAIS subject at position 864 and those in PAIS subjects at positions 855
+and 869 were sequenced after an asymmetric PCR (44). A 20:1 ratio of primers
+was used, and the single stranded products were purified by phenol and chloroform
+extractions, and isopropanol precipitation. Subsequently, the products were
+sequenced using the sequenase® sequencing kit.
+
+Downloaded from http://hmg.oxfordjournals.org/ at Reprints Desk on November 17, 2016
+
+been reported in CAIS subjects (36, 37). The less conservative
+amino acid change in the latter subjects presumably accounts for
+their lack of androgen binding, and complete phenotype. Two
+of the other point mutations we have identified are particularly
+interesting. The mutation which alters arginine 774 to histidine
+was found in a CAIS patient with reduced levels but qualitatively
+normal androgen binding. There are three independent reports
+of a mutation altering arginine 774 to cysteine also in CAIS
+subjects, but androgen binding in these cases was reported as
+negative (38-40). The mutation that we identified is more
+conservative, which could explain the less profound androgen
+binding abnormality. This abnormality is sufficient however to
+lead to complete androgen insensitivity. Comparative functional
+studies of these receptor mutants will allow investigation of their
+abilities to activate transcription, and may explain why the
+mutations at arginine 774 produce different defects in androgen
+binding, but a CAIS phenotype. The mutation affecting glutamine
+798 is also noteworthy, since no androgen binding defect was
+found in this patient, although clinically the androgen insensitivity
+is severe (Table 2). If the mutation is responsible for the clinical
+phenotype, it is possible that there is a defect in androgen binding,
+which was not detected in our binding assay. This could be
+revealed by the measurement of other binding parameters such
+as dissociation rate constant. Alternatively, the mutation may
+point to a role for this region of the androgen binding domain
+in transcriptional regulation. Such subdomains are proposed to
+exist within the ligand binding domains of members of the steroid
+receptor superfamily (2, 41). Functional studies of these types
+of mutant receptors will help to define the extent and the
+physiological significance of these domains.
+
+Human Molecular Genetics, Vol. 1, No. 7 503
+ACKNOWLEDGEMENTS
+We are grateful to Mr. Paul Clarkson, Dr. Ian Birch-Machin and Dr. Alec Tait
+for helpful discussion, and Dr. Sue Kenwrick for critical reading of the manuscript.
+We thank Mr. Michael Weldon for oligonucleotide synthesis. We are indebted
+to all the clinicians who kindly referred samples from their patients for this study.
+We are also grateful to Mr. David Patterson and for donations from Merrill Lynch,
+County NatWest, Nomura International, and New Japan Securities. The work
+was supported by the Wellcome Trust and the Medical Research Council. JB
+was supported by grants from the Smith and Nephew Foundation, the University
+of Melbourne, Australia (The Henry and Rachael Ackman Travelling Scholarship
+in Medicine), the Royal Australasian College of Physicians (CRB Blackburn
+Scholarship) and the Royal Children's Hospital, Melbourne (Uncle Bob's
+Scholarship).
+
+REFERENCES
+
+Downloaded from http://hmg.oxfordjournals.org/ at Reprints Desk on November 17, 2016
+
+1. Wilson, J., Griffin, J., George, F., and Leshin, M. (1981) Rec Prog Horm
+Res, 37, 1 - 3 9 .
+2. Carson-Jurica, M., Schroder, W., and O'Malley, B. (1990) Endocrine Rev,
+11,201-220.
+3. Beato, M. (1989) Cell, 56, 3 3 5 - 3 4 4 .
+4. Simental, J., Sar, M., Lane, M., French, F., and Wilson, E. (1991) J Biol
+Chem, 266, 510-518.
+5. Jenster, G., van der Korput, H., van Vroonhoven, C , van der Kwast, T.,
+Trapman, J., and Brinkmann, A. (1991) Mol Endocrinol, 5, 1396-1404.
+6. Fawell, S., Lees, J., White, R., and Parker, M. (1990) Cell, 60, 9 5 3 - 9 6 2 .
+7. French, F., Lubahn, D., Brown, T., Simental, J., Quigley, C , Yarbrough,
+W., Tan, J.-A., Sar, M., Joseph, D., Evans, B., Hughes, I., Migeon, C ,
+and Wilson, E. (1991) Rec Prog Horm Res, 46, 1 - 4 2 .
+8. Batch, J., Patterson, M., and Hughes, I. (1992) Reprod Med Rev, In press.
+9. Cundy, T., Rees, M., Evans, B., Hughes, I., Butler, M., and Wheeler,
+M. (1986) Fertil Steril, 46, 7 2 1 - 7 2 3 .
+10. Aiman, J. and Griffin, J. (1982) J Clin Endocrinol Metab, 54, 7 2 5 - 7 3 2 .
+11. Bouchard, P., Wright, F., Portois, M., Couzinet, B., Schaison, G., and
+Mowszowicz, I. (1986) J Clin Endocrinol Metab, 63, 1241-1246.
+12. Keenan, B., Meyer, W.I., Hadjian, A., Jones, H., and Midgeon, C. (1974)
+Clin Endocrinol Metab, 38, 1143-1146.
+13. Hughes, I. and Evans, B. (1988) Clin Endocrinol, 28, 565-579.
+14. Lubahn, D., Joseph, D., Sullivan, P., Willard, H., French, F., and Wilson,
+E. (1988) Science, 240, 3 2 7 - 3 3 0 .
+15. Chang, C , Kokontis, J., and Liao, S. (1988) Science, 240, 324-326.
+16. McPhaul, M., Marcelli, M., Tilley, W., Griffin, J., and Wilson, J. (1991)
+FASEB J, 5, 2910-2915.
+17. Hughes, I. and Evans, B. (1986) J Clin Endocrinol Metab, 63, 309-315.
+18. Quigley, C , Simental, J., Evans, B., Lubahn, D., Hughes, I., and French,
+F. (1990) 72nd Annual Meeting of The Endocrine Society. Atlanta, GA:
+223 abstract 793.
+19. Hughes, I. and Evans, B. (1987) Horm Res, 28, 2 5 - 2 9 .
+20. Chang, Y., Migeon, C , and Brown, T. (1991) 73rd Annual Meeting of
+The Endocrine Society. Washington DC: 37 abstract 28.
+21. Orita, M., Suzuki, Y., Sekiya, T., and Hayashi, K. (1989) Genomics, 5,
+874-879.
+22. Evans, B., Jones, T., and Hughes, I. (1984) Clin Endocrinol, 20, 9 3 - 1 0 5 .
+23. Orita, M., Sekiya, T., and Hayashi, K. (1990) Genomics, 8, 271-278.
+24. Lubahn, D., Brown, T., Simental, J., Higgs, H., Migeon, C , Wilson, E.,
+and French, F. (1989) Proc Natl Acad Sci USA, 86, 9534-9538.
+25. McPhaul, M., MarceUi, M., Tilley, W., Griffin, J., Isidro-Gutierrez, R.,
+and Wilson, J. (1991) J Clin Invest, 87, 1413-1421.
+26. Edwards, A., Hammond, H., Jin, L., Caskey, T., andChakraborty, R. (1992)
+Genomics, 12, 2 4 1 - 2 5 3 .
+27. Sleddens, H., Oostra, B., Brinkmann, A., and Trapman, J. (1992) Nucleic
+Acids Res, 20, 1427.
+28. Marcelli, M., Tilley, W., Wilson, C , Griffin, J., Wilson, J., and McPhaul,
+M. (1990) Mol Endocrinol, 4, 1105-1116.
+29. Lubahn, D., Joseph, D., Sar, M., Tan, J., Higgs, H., Larson, R., French,
+F., and Wilson, E. (1988) Mol Endocrinol, 2, 1265-1275.
+30. Sarkar, G., Yoon, H.-S., and Sommer, S. (1992) Nucleic Acids Res, 20,
+871-878.
+31. Charest, N., Zhou, Z.-X., Lubahn, D., Olsen, K., Wilson, E., and French,
+F. (1991) Mol Endocrinol, 5, 5 7 3 - 5 8 1 .
+32. Gaspar, M.-L., Meo, T., Bourgarel, P., Guenet, J.-L., and Tosi, M. (1991)
+Proc Natl Acad Sci USA, 88, 8606-8610.
+
+33. He, W., Kumar, M., and Tindall, D. (1991) Nucleic Acids Res, 19,
+2373-2378.
+34. Young, Y., Johnson, M., Prescott,J., and Tindall, D. (1989) Endocrinology,
+124, 771-775.
+35. Zoppi, S., Marcelli, M., Harbison, M., Wilson, C , Griffin, J., Wilson,
+J., and McPhaul, M. (1992) J Cell Biochem, Suppl 16C, 32.
+36. de Bdlis, A., Quigley, C , Cariello, N., Ho, K., and French, F. (1991)
+73rd Annual Meeting of The Endocrine Society. Washington DC: 316 abstract
+1141.
+37. TinceDo, D., Hargreave, T., Wu, F., Padayachi, T , andSaunders, P. (1992)
+J Endocrinol, 132 Suppl, Abstract 87.
+38. Trifiro, M., Prior, L., Pinsky, L., Kaufman, M., Chang, C , Trapman,
+J., Brinkmann, A., Kuiper, G., and Ris, C. (1989) Am J Hum Genet, 45
+(suppl), A225.
+39. Brown, T., Lubahn, D., Wilson, E., French, F., Migeon, C , and Corden,
+J. (1990) Mol Endocrinol, 4, 1759-1772.
+40. Marcelli, M., Tilley, W., Zoppi, S., Griffin, J., Wilson, J., and McPhaul,
+M. (1991) J Clin Endocrinol Metab, 73, 318-325.
+41. Danielian, P., White, R., Lees, J., and Parker, M. (1992) Embo J, 11,
+1025-1033.
+42. Hughes, I. (1989) Handbook of Endocrine Investigations in Children.
+Butterworth and Co. 111-112.
+43. Burton, K. (1956) Biochem J, 62, 3 1 5 - 3 2 3 .
+44. McCabe, P. (1990) In M. Innis, D. Gelfand, J. Sninsky and T. White (eds.)
+PCR Protocols. San Diego, Academic Press. 7 6 - 8 3 .
+
+

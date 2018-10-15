@@ -1,0 +1,753 @@
+Human Molecular Genetics, Vol. 1, No. 5
+
+335-339
+
+Mutation analysis of the iduronate-2-sulfatase gene in
+patients with mucopolysaccharidosis type II (Hunter
+syndrome)
+Susanna Bunge*, Cordula Steglich, Michael Beck1, Walter Rosenkranz2, Eberhard Schwinger,
+John J.Hopwood3 and Andreas Gal
+Institut fur Humangenetik, Medizinische University, Ratzeburger Allee 160, D-W2400 Lubeck 1, 1 Kinderklinik der
+Universrtat, Mainz, Germany, 2lnstitut fur medizinische Biologie und Humangenetik der Universitat, Graz, Austria and
+3
+Lysosomal Diseases Research Unit, Department of Chemical Pathology, Adelaide Children's Hospital, North Adelaide,
+Australia
+Received May 8, 1992; Revised and Accepted July 6, 1992
+
+ABSTRACT
+Iduronate-2-sulfatase (IDS) cDNA from fibroblasts of nine
+patients with Hunter syndrome (mucopolysaccharidosis type
+II) was screened for mutations using single strand
+conformation polymorphism analysis. Direct sequencing
+revealed a number of different mutations including missense
+or nonsense point mutations, deletions of one, two, or 60 base
+pairs, and a 22 base pair-insertion. Mutations of these types
+probably account for most IDS gene defects as only about
+20% of Hunter patients have a complete deletion or gross
+structural alteration of their IDS gene. Thus the broad clinical
+variability amongst the Hunter patients may be due to the
+extensive genetic heterogeneity seen. Tbe relationship between
+genotype and clinical phenotype is analysed in 12 Hunter
+patients.
+INTRODUCTION
+Iduronate-2-sulfatase (IDS, EC 3.1.6.13.) is a lysosomal enzyme
+involved in glycosaminoglycan degradation. IDS hydrolyses
+terminal iduronate-2-sulfate esters in heparan and dermatan
+sulfate. IDS deficiency (mucopolysaccharidosis type II, Hunter
+syndrome), an X-chromosomal recessive disorder, results in
+accumulation of heparan and dermatan sulfate in various tissues.
+Among the patients with Hunter syndrome, there is a broad
+spectrum of clinical phenotypes1. In the mildest form, patients
+are mentally normal and show only minimal symptoms of the
+disease. Whereas, severely affected children present with typical
+clinical features including skeletal dysmorphisms, stiff joints,
+hepatosplenomegaly, cardiovascular insuffiency, and mental
+retardation. It has been suggested that the different clinical
+phenotypes are due to different mutations of the IDS gene2.
+IDS has been purified from human tissues to homogeneity3
+and a cDN A clone containing the entire coding region of the IDS
+gene has been isolated2. Using this cDNA as a molecular probe,
+genomic DNA of a total of 109 patients with Hunter syndrome
+has been investigated so far2-4"11. About 8% of the patients
+show a complete deletion and about 12% reveal gross structural
+aberrations of the gene. Thus, the majority of patients with Hunter
+disease has no apparent alteration in the IDS restriction pattern
+* To whom correspondence should be addressed
+
+Downloaded from https://academic.oup.com/hmg/article-abstract/1/5/335/616498
+by Reprints Desk user
+on 17 August 2018
+
+in routine Southern analysis of genomic DNA suggesting the
+existence of smaller rearrangements. The nature and regional
+distribution of these mutations have yet to be determined. Such
+an analysis is of primary importance for studying the correlation
+between genotype and phenotype. Here we report the spectrum
+of mutations in the IDS gene of 12 patients with Hunter
+syndrome.
+RESULTS
+We performed molecular studies to identify the primary genetic
+defect on a total of 28 patients with Hunter syndrome. As a first
+screening, Southern hybridization was carried out using the IDS
+cDNA probe and genomic DNA of the patients digested by
+HindHJ, StuI, TaqI, or Pstl. In three cases a complete deletion
+of the IDS gene was suggested by the absence of any hybridizing
+fragments (see Table I and ref. 6). In all patients with a complete
+deletion of the IDS gene, the locus DXS466 was also absent (data
+not shown) providing indirect support to our assumption that
+DXS466 maps within an intron of the IDS gene (manuscript in
+preparation and ref. 8).
+In five other patients an altered pattern was seen after Southern
+hybridization with one or more of the regular bands being absent
+and/or replaced by one or more fragments of differing size that
+were not observed in controls (in part unpublished)12. These
+changes in the restriction pattern could only be demonstrated
+following digestion of the genomic DNA with one (HindHI and
+TaqI in one and three cases, respectively) of the four enzymes
+used, and therefore these findings suggest that the rearrangements
+of the IDS gene must be relatively small or just affect a single
+restriction site.
+Under the experimental conditions used, in the remaining 20
+cases, the Southern pattern was similar to that seen for controls.
+Of these 20, eight were chosen for a subsequent thorough
+molecular analysis. In addition, patient H20, who presented with
+an altered TaqI Southern-pattern (Fig. 1. and see below for more
+detail), was also included in this study.
+In all nine patients investigated here, three overlapping
+fragments (Nos. 1, 2, and 3) containing the entire coding
+
+336 Human Molecular Genetics, Vol. 1, No. 5
+Table I. List of patients, the mutations found, and the predicted protein alterations
+Patient
+
+Age
+
+Codon/Mutation
+
+Protein alteration
+
+Clinical phenotype/Intelligence
+
+H21
+H12
+H10
+H8
+
+8 years
+11 years
+7 years
+5 years
+3 years
+20 years
+8 years
+
+Cys-Gly
+loss of 20 aa
+loss of 20 aa
+Lys—Arg
+silent
+chain termination
+chain termination
+frame shift, 27 altered
+aa, chain termination
+frame shift, one altered
+aa, chain termination
+silent
+frame shift, 12 altered
+aa, chain termination
+no protein
+
+very mild form,
+typical features,
+typical features,
+typical features,
+
+H20
+H17
+H13
+
+422 TGC - GGC
+375-394 del
+375-394 del
+135 AAA - AGA
+146 ACC - ACT
+443 CGA - TGA
+475 TGG - TGA
+170 ACA - A - -
+
+H15
+
+H18
+
+482 CTT
+
+C.S.
+
+8 years
+(deceased)
+15 years
+(deceased)
+10 years
+
+B.R.
+
+9 vears
+
+A.H.
+
+TT
+
+146 ACC - ACT
+btw 335/336
+22 bp-insertion
+IDS del
+IDS and
+DXS304 del
+IDS del
+
+normal intelligence
+mentally normal
+delayed speech development
+decline in ability to speak
+
+skeletal deformities, psychomotoric development normal
+typical features, still able to talk
+typical features, able to talk, visits a special school
+no data
+severely affected, mental retardation
+severely affected, mental retardation
+
+no protein
+
+severely affected, severe mental retardation
+
+no protein
+
+severely affected, retarded, severe heart involvement
+
+Patients are ordered from mild (top) to severe (bottom) clinical phenotype with the first patient having a very mild, the second and third a mild, the next four an
+intermediate, and the last four a severe form. As clinical data were unavailable on patient H15, his position in the Table has been chosen solely according to the
+expected alteration of the protein. Molecular and clinical data of patient C.S. have already been reported.8
+
+sequence of IDS (Fig. 2) could be amplified by PCR after reverse
+transcription of RNA isolated from skin fibroblasts. In six cases,
+the size of these fragments was indistinguishable from that of
+controls. However, in two patients (H10 and H12) both fragments
+2 and 3 were smaller and in a third one (HI8) they were larger
+than expected (not shown) suggesting, respectively, deletions and
+an insertion in the overlapping region of fragments 2 and 3. Direct
+sequencing of PCR products revealed the absence of the same
+60 base pairs (bp) in the IDS cDNA from both patients H10 and
+H12, not related to each other by the best of our knowledge,
+leading to an in frame-loss of codons 375-to-394 (Fig. 4G).
+Patient H18 presents with a 22 base pair-insertion between codons
+335 and 336 (Fig. 4H) resulting in a reading frame shift and the
+incorporation of 12 altered amino acids before a frame-stop
+codon. The origin of the inserted sequence is not yet known.
+For the six patients with PCR fragments of apparently identical
+size as the ones from controls, single strand conformation
+polymorphism (SSCP) analysis was performed. The single strand
+pattern of fragment 1.2 in patient H8 shows clear mobility shifts
+(Fig. 3A, lane 2) when compared to controls. Direct sequencing
+revealed a missense mutation in codon 135 (Fig. 4A), and,
+additionally, a silent point mutation at codon 146 (ACC-ACT,
+not shown). The same silent mutation was found in patient H15
+(sequencing data not shown). In addition, patient H15 also had
+a one base pair-deletion in codon 438 (lane l j n Fig. 3B, and
+Fig. 4E). In patient H21, prominent band shifts were seen (Figs.
+3B and C) both for fragments 3.1 and 2 (PvuII 3'-subfragment).
+Direct sequencing identified a missense mutation in codon 422
+(Fig. 4B). Patient H13 showed a shift for fragment 1.2 (Fig. 3A,
+lane 4) due to a two bp-deletion in codon 170 (Fig. 4F). Altered
+SSCP bands were observed for fragment 3.1 in both H17 and
+H20 (lanes 2 and 4 in Fig. 3B) due to point mutations in codons
+475 and 443 (Figs. 4D and C), respectively.
+In most of the nine patients reported, the mutations described
+were predicted to result in gains or losses of restriction enzyme
+recognition sites in PCR products. For example, in patients H8
+and H21 restriction sites for Hinfl and Haein, respectively, were
+formed (data not shown). As the restriction map of the IDS gene
+
+Downloaded from https://academic.oup.com/hmg/article-abstract/1/5/335/616498
+by Reprints Desk user
+on 17 August 2018
+
+1 2
+•
+
+5.1
+
+as- — —
+
+20-
+
+m
+
+1.7-
+
+•
+
+1.3-
+
+•
+
+1.1-
+
+-
+
+Fig. 1. Southern hybridization pattern of TaqI digested genomic DNA with the
+human IDS cDNA probe. Lane 1: control, lane 2: patient H20.
+
+is not yet known, no information is available on the changes of
+the restriction pattern of the genomic DNA introduced by the
+mutations. Nevertheless, the point mutations in patients H13 and
+H17, that led to the loss of an Nspl and EcoRI restriction site,
+respectively, could be detected in genomic Southern blots (not
+shown). Also the point mutation in patient H20, that destroyed
+a TaqI cutting site, altered grossly the hybridization pattern of
+the TaqI digested genomic DNA (Fig. 1). In patients H10 and
+H12, several restriction sites (e.g. Hindin, Bgll, or TaqI) were
+removed from the cDNA by the absence of 60 bp. However,
+no alterations were seen in the Southern pattern of these two
+patients after digestion of genomic DNA by the respective
+enzymes (results not shown). This observation suggested that
+different molecular mechanisms than 'simple' deletions could be
+the primary cause of the disease in these probands (see also
+Discussion).
+
+Human Molecular Genetics, Vol. 1, No. 5 337
+100 bp
+
+o
+
+*0
+
+A
+
+1
+
+0
+
+H
+ATG
+—I—I-
+
+-t-H
+HQ
+
+B
+
+-•
+I
+-•
+I
+
+1.1
+
+1.2
+
+I
+
+B E
+
+TQA
+—I
+
+H3'
+
+^ 1
+
+-*1
+-•
+
+3.1
+
+Fig. 2. Mutation spectrum of the IDS gene in 9 patients with Hunter syndrome. The middle line represents the restriction map (B: BamHI, R: EcoRV, P: Pvull,
+H: HindlH, G: Bgll, E: EcoRI) of the IDS cDNA (according to ref. 2). Below this line are the different cDNA fragments amplified by PCR are shown (arrows
+mark primer positions and orientations). The top line gives a summary of the mutations identified ( • missense mutation, M nonsense mutation, —X— deletion,
+• insertion, O silent mutation).
+
+All mutations described above are placed on the cDNA in
+Fig. 2, while Table I gives an overview on the IDS mutations
+and the associated clinical phenotypes of a total of 12 patients
+(9 patients presented in this communication and 3 with complete
+gene deletions detected in our laboratory).
+
+DISCUSSION
+We studied a total of 28 Hunter syndrome patients. Five patients
+had greatly differing Southern blot hybridization patterns with
+the IDS cDNA indicating gross structural rearrangements of the
+gene. This figure is similar to the frequency found by
+others2-4-5'79"". 20 patients had similar genomic IDS fragments
+to the control pattern suggestive of smaller rearrangements.
+Cultured fibroblasts, from which RNA could easily be isolated
+and IDS cDNA amplified for further molecular studies, were
+available from nine of these patients. Direct sequencing of these
+PCR products revealed a wide spectrum of mutations including
+missense and nonsense point mutations, minor deletions, and a
+22 bp-insertion of unknown origin. As cell lines were not
+available from 15 patients and as the DNA sequence of the IDS
+gene is not yet known, the molecular nature of these mutations
+could not be determined. A C-to-T transition of the third
+nucleotide in codon 146, that does not change the amino acid
+sequence, was identified in two patients. The same sequence
+alteration has also been found by a British group" suggesting
+that it represents a common polymorphism.
+It seems that mutations are more frequent in a 500 bp-region
+of the 3'-half and in the 5'-one third of the cDNA. Nevertheless,
+further studies and the identification of additional mutations are
+necessary to decide whether or not these parts of the IDS gene
+represent real mutation 'hot spots' as it has been shown for some
+X-chromosomal genes (for review see ref. 13).
+Consistent with the wide spectrum of mutations, a broad
+variation in clinical phenotypes was reported. Although being
+
+Downloaded from https://academic.oup.com/hmg/article-abstract/1/5/335/616498
+by Reprints Desk user
+on 17 August 2018
+
+1 2
+
+1 2
+
+3
+
+3
+
+4
+
+4
+
+5
+
+6
+
+5
+
+Fig. 3. Detection of mobility shifts of single stranded PCR products. A: Fragment
+1.2; lanes I, 3 and 5 - 6 : controls, 2: H8, 4: H13; B: Fragment 3.1; 1: H15,
+2: H17, 3 and 5: controls, 4: H20, 6: H21.; C: Fragment 2, PvuII3'-subfragment;
+1 - 4 : controls, 5: H21. Bands with altered electrophoretic mobility are indicated
+by arrowheads.
+
+aware of the difficulties in comparing the clinical course of the
+disease in patients of different ages, 12 patients are tentatively
+ordered in Table I according to increasing severity of their clinical
+features. By correlating the position and the nature of the
+
+338 Human Molecular Genetics, Vol. 1, No. 5
+
+A
+
+B
+A C G T
+A C G T
+
+3'
+/A
+
+Lys135 A
+
+Cys422
+Arg135
+
+W
+
+TA\
+
+1
+
+~ _ —
+
+•
+
+/CG
+CG Gly422
+
+GC — 3 ~ "
+CG
+/
+=
+3'
+
+V
+5'
+
+A C G T
+
+A C G T
+
+~—~~
+
+H8
+
+H21
+
+W
+
+D
+A C G T
+A C G T
+
+A C G T
+
+l4
+
+CG\
+
+Arg443 GC
+AT/
+3' /
+W
+
+5'
+A
+Asn437 AT
+CG
+CG
+Lys438 TA
+TA
+CG
+Lys439 TA
+GC
+AT
+3'
+
+51
+
+A C G T
+
+Stop
+
+—
+
+»
+
+^H»
+
+W
+
+5'
+/TA
+/ T A Asn437
+GC
+AT Phe438
+GC
+AT
+\ C G Stop
+TA
+3'
+
+r
+H15
+
+_
+—
+
+"«—
+
+H20
+
+A C G T
+
+—
+—
+
+Trp475
+
+A"f
+
+w
+
+—
+
+A C G T
+
+/ 51
+—/A T
+C G Stop
+3
+
+H17
+
+A C G T
+
+A C G T
+5' '
+AT
+Lys169 AT
+
+•?•/-•
+
+5'
+TA
+TA Lys169
+CG
+TA
+Met 170
+
+ar
+
+Thr170
+
+\CG
+H13
+
+* 26 altered
+amino acids
+
+H
+A C G T
+
+T
+
+A C G T
+T
+T
+
+3'
+
+A
+c
+H12
+
+G
+51
+
+Arg395
+
+Gly 374
+
+H18
+
+-T1129JA
+A
+C
+5'
+
+Pig. 4. DNA sequences from patients with the mutations discussed. The numbers of codons and nucleotides refer to ref. 2. W: wildtype.
+
+mutations found with the clinical phenotypes, it may be possible
+to pinpoint regions of the protein that are important for its
+function. Indeed, there is a striking difference between the
+phenotype of patients H21 (Cys^22-Gly) and H8 (Lys-135-Arg),
+
+Downloaded from https://academic.oup.com/hmg/article-abstract/1/5/335/616498
+by Reprints Desk user
+on 17 August 2018
+
+each with a single altered amino acid in the otherwise complete
+IDS. Patient H21 is very mildly affected with normal intelligence.
+Whereas patient H8 presents with the classical Hunter syndrome
+phenotype including mental retardation. To speculate, it would
+
+Human Molecular Genetics, Vol. 1, No. 5 339
+appear that 422-Cys is functionally less essential than 135-Lys.
+Indeed, lysine at position 135 is completely conserved among
+the seven different sulfatases analysed until now although they
+share only about 30% of overall homology2-14. Nevertheless, it
+can not be completely ruled out that patient H8 also has a second
+IDS mutation somewhere else that has been missed by SSCP and
+that is responsible for or contributing to the severe phenotype
+observed. Also the two unrelated patients with an identical 60
+bp-deletion are only mildly affected suggesting that the stability
+and function of the truncated protein is less disturbed than in
+patients with frame shifts or nonsense mutations which lead to
+premature chain termination. The molecular nature of the
+mutation leading to the absence of 60 bp in the mRNA of patients
+H10 and H12 is not yet known. Flomen et al. described a patient
+with loss of the same 60 bp". That patient showed a point
+mutation in the IDS coding sequence creating a novel donor splice
+site that was preferentially utilized and resulted in loss of a part
+of one exon in the mRNA. Most likely, patients H10 and H12
+have similar splice mutations, too. Also the 22 bp-insertion seen
+in patient HI8 could result from aberrant splicing.
+Obviously, as it was possible to specifically amplify the IDS
+coding sequence from RNA, the IDS gene was transcribed in
+the nine patients reported. Whether or not the RNA is translated
+in vivo and the resulting protein is stable, remains to be
+investigated. In standard diagnostic assays all of these patients
+had no detectable IDS enzyme activity. However, in the light
+of the great differences in the clinical course of the disease, a
+considerable variation may exist in the in vivo activity and/or
+stability of the enzyme. Therefore, careful additional
+investigations of mutant enzyme function are necessary to get
+a better understanding of the genotype-phenotype correlation in
+this disease.
+In conclusion, our results indicate that differences in the clinical
+phenotypes of patients with IDS defect may be explained by
+different mutations.
+MATERIALS AND METHODS
+RNA preparation
+Total RNA from cultured skin fibroblasts was prepared essentially as described14.
+Cells were lysed directly in the tissue culture flasks (28 cm2) by adding 0.7 ml
+of 4 M guanidinium thiocyanate, 25 mM sodium citrate pH 7, 0.5% sarcosyl,
+and 0.1 M 2-mercaptoethanol The lysate was pressed twice through a 25G needle
+to homogenize it. Following phenol/chloroform extraction and addition of 10%
+(v/v) 2 M sodium acetate pH 4, the supernatant was precipitated with isopropanol
+and the RNA dissolved in water.
+Reverse transcription of RNA
+About 5 fig of total RNA was transcribed into the first strand of cDNA in 100
+fi\ reaction volume containing PCR buffer (see below), 100 jtM dNTPs, 5 /ig
+random hexamers, 80 U human placenta ribonuclease inhibitor, and 200 U
+Superscript Reverse transcriptase (Life Technologies) for 60 min at 37 °C. In
+addition, for each fragment of interest (see Results), first strand cDNA synthesis
+and PCR amplification were carted out by using 0 08 pM of the respective specific
+IDS primers (see below).
+Amplification of IDS coding sequences
+The total coding sequence of IDS cDNA was amplified with three sets of primers
+resulting in overlapping fragments Nos. 1-3 (Fig. 2). For SSCP, fragment 1
+wassubdived into two fragments (1.1 and 1.2). Fragment 3.1 represents the 5'-two
+third of fragment 3. Primer sequences were as follows: Fragment 1: TAACTGCGCCACCTGCTGCA (5') and CCAGGAAGAAAGGACTGGCTGAC
+(3'), fragment 1.1: GGTCACATAGCCATTCTCCTTGAA (3'), fragment 1.2:
+GCCTCCTCTTCCAGAATGCCTTTG (5'); Fragment 2: GAACTCCATGCCAACCTGC (5') and GAAATGAAGGAACGGGGC (3'); Fragment 3: GGCCAACAGCACCATCAT (5') and GAGCACATCACATTTGCC (3'), fragment
+3.1: CCTATAGTCTATGGTGCGTATGGA (3').
+
+Downloaded from https://academic.oup.com/hmg/article-abstract/1/5/335/616498
+by Reprints Desk user
+on 17 August 2018
+
+PCR reactions were carried out in 10 mM Tris-HCl pH 8.3, 1,5 mM MgCl2,
+50 mM KC1, 0,001 % gelatine, 0,2 mM dNTPs, and 0,4 pM of each primer.
+About 10% of the reverse transcription reaction and 1 U Taq Polymerase (Life
+Technologies) were used for a 100 /jl PCR. For the amplification of fragment
+1, 10% DMSO was included in the reaction mixture. 35 cycles (45 sec 94°C,
+45 sec at 58°C, and 2 min at 72°C) were carried out for fragment 1, and 30
+cycles (45 sec at 94°C, 45 sec at 53°C, and 2 min at 72°Q for fragments 2 and 3.
+SSCP analysis
+About 5 fi\ PCR product was mixed with formamide dye (95% formamide, 20
+mM EDTA, 0.05% Bromphenol blue, and 0.05% xylene cyanol FF), heated
+to 94°C for 4 min, quickly cooled on ice and immediately loaded onto 6%
+acrylamide gels containing 1 xTBE and 10% glycerol. Fragments 1.1, 1.2, and
+3.1 were directly analysed, while fragment 2 was cut with PvuII, and fragment
+3 with BamHI before denaturation. Gels were run overnight at 30 W and DNA
+fragments were detected after silver staining (by a Bio-Rad kit).
+Direct sequencing of PCR products
+Double stranded PCR products were separated on agarose gels and eluted. Using
+an aliquot, a second asymmetric PCR was performed essentially using the same
+conditions as the first PCR except that the annealing temperature was 2°C higher,
+the cycle number was increased to 40, and one of the primers was diluted to
+150. Usually, this primer was taken for the sequencing reaction, although in
+some instances internal pnmers were used. Single stranded PCR products were
+cleaned with centncon 100 microconcentrators (Amicon). About 20 p.\ from the
+asymmetric PCR reaction mixture was used for a sequencing reaction performed
+by the chain termination method (Sequenase 2.0, USB) after ^S-dATP labelling.
+
+ACKNOWLEDGEMENTS
+We thank the German MPS Society and the patients families for their help and
+cooperation. This study was financially supported by the Deutsche
+Forschungsgemeinschaft (Ga 210/2-4).
+
+REFERENCES
+1. Hopwood, J.J. and Morris, C. (1990) Mol. Biol. Med., 7, 381-404.
+2. Wilson, P.J., Morris, C.P., Anson, D.S., Occhiodoro, T., Bielicki, J.,
+Clements, P.R. and Hopwood, J.J. (1990) Proc. Natl. Acad. Sci. USA 87,
+8531-8535.
+3. Bielicki, J., Freeman, C , Clements, P.R. and Hopwood, J.J. (1990) Biochem.
+J., 271, 75-86.
+4. Wilson, PJ , Suthers, G.K., Callen, D.F., Baker, E,, Nelson, P.V., Cooper,
+A., Wraith, J.E., Sutherland, G.R., Morris, C.P. and Hopwood, J.J. (1991)
+Hum. Genet. 86, 505-508.
+5. Bakker, E., Kneppers, A.L.J., Deutz-Terlouw, P.P., van Goor, J., Poorthuis,
+B J.H.M., Kleyer, W., Niermeijer, M.F., van de Kamp, J.J.P., Hopwood,
+J.J. and van Ommen, GJ.B. (1991) Cytogenet. Cell Genet., 58, 2055 (only).
+6. Gal, A., Steglich, C , Beck, M., Morris, C.P., Schwinger, E. and Hopwood,
+J.J. (1991) Cytogenet. Cell Genet., 58, 2064 (only).
+7. Herrmann, F.H., Hopwood, J J., Schroder, W. and Wehnert, M. (1991)
+Cytogenet. Cell Genet., 58, 2066 (only).
+8. Beck, M., Steglich, C , Zabel, B., Dahl, N., Schwinger, E., Hopwood,
+J.J. and Gal, A. (1992) Am. J. Med. Genet., In press.
+9. Palmieri, G., Capra, V., Romano, G., D'Urso, M., Johnson, S.,
+Schlessinger, D., Morris, P., Hopwood, J., Di Natale, P., Gatti, R. and
+Ballabio, A. (1992) Genomics, 12, 52-57.
+10. Muenzer, J. and Tutera, A.M. (1992) Pediatric Res., 31, 134A.
+11. Flomen, R.H., Green, P.M., Bentley, D.R., Gianelli, F. and Green, E.P.
+(1992) Genomics, 13, 543-550.
+12. Gal, A., Beck, M., Sewell, A.C., Morris, C.P., Schwinger, E. and Hopwood,
+J.J. (1992) J. Inner. Metab. Dis., In press.
+13. Krawczak, M. and Cooper, D.N. (1991) Hum. Genet. 86, 425-441.
+14. Tomatsu, S., Fukuda, S., Masue, M., Sukegawa, K., Fukao, T., Yamagishi,
+A. and Hori, T. (1991) Biochem. Biophys. Res. Commun., 181, 677-683.
+15. Chomczynski, P. and Sacchi, N. (1987) Anal. Biochem., 162, 156-159.
+
+

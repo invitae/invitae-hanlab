@@ -1,0 +1,3414 @@
+THE JOURNAL OF BIOLOGICAL CHEMISTRY
+Vol. 251,No.10,IssueofMay25,pp.2993-3002,1976
+Printed
+
+in U.S.A.
+
+Genetic Variants
+Dehydrogenase
+KINETIC
+AND
+QUATERNARY
+
+of Human
+
+THERMODYNAMIC
+STRUCTURE*
+
+Erythrocyte
+
+PARAMETERS
+
+OF VARIANTS
+
+(Received
+
+A. OLANIYI
+From
+
+G. BABALOLA,~
+
+the Department
+
+of
+
+JOHN
+
+Chemistry
+
+Glucose-6-phosphate
+
+for publication,
+
+G. BEETLESTONE,
+
+AND
+
+and the Department
+
+A, B, AND
+
+July
+
+A-
+
+IN RELATION
+
+19, 1974 and in revised
+
+form
+
+October
+
+TO
+
+24, 1975)
+
+LUCIO LUZZATTO§
+of
+
+Haematology,
+
+University
+
+of
+
+Ibadan,
+
+Nigeria
+
+For
+several
+decades
+the investigation
+of the functional
+properties
+of enzymes
+relied
+primarily
+on kinetic
+studies,
+but
+more recently
+the primary
+structure
+of the protein
+has been
+elucidated
+in many cases, and for a few, considerable
+amounts
+of information
+on the three-dimensional
+structure
+is also
+available.
+In some instances,
+perhaps
+best typified
+by lysozyme,
+knowledge
+of the structure
+has yielded
+almost
+immediate insight
+into the mechanism
+of substrate
+binding
+and
+* This work received financial
+support from the Rockefeller
+Foundation, the United States Public Health Service (Grant GM 17261), and
+from the World Health Organization.
+This is Paper V of a series. Paper
+IV in this series is entitled “Discrete
+Conformational
+States Stabilized
+by NADP+ and NADPH”
+(1). A preliminary
+communication
+on some
+of the results reported in this paper was presented at the International
+Conference
+on Haematological
+Research in Africa, Ibadan, August 13
+to 15, 1972.
+$A. 0. G. Babalola
+lost his life in a boat accident just after the
+experiments
+here reported were completed.
+The other two authors wish
+to dedicate their own part of’the work to his memory.
+5 Present address, International
+Institute
+of Genetics and Biophysics, Consiglio Nazionale delle Ricerche, Naples, Italy.
+
+therefore
+of enzyme
+action
+(2). In other cases, such as that of
+the quasi-enzyme,
+hemoglobin,
+a combination
+of structural,
+chemical
+and functional
+data is leading
+to an understanding
+of
+important
+properties
+of the molecule,
+such as cooperativity
+and
+the Bohr
+effect
+(3, 4). Further,
+a comparative
+analysis
+of
+various
+homologous
+molecular
+species
+which
+differ
+in very
+limited
+portions
+of the protein
+has shown that it is possible
+to
+attribute
+specific
+functional
+and reactivity
+differences
+to
+known
+structural
+differences
+(5, 6). While
+this approach
+has
+been very
+fruitful
+with
+hemoglobins,
+whether
+from
+different
+animal
+species
+or from
+mutant
+subjects
+within
+the same
+species,
+it has been hardly
+explored
+in the case of an enzyme.
+In view
+of previous
+data,
+which
+indicate
+that
+genetically
+different
+types
+of glucose-6-phosphate
+dehydrogenase
+from
+human
+erythrocytes
+confer
+different
+metabolic
+properties
+on
+the red cell (7-lo),
+we have
+decided
+to investigate
+further
+whether
+a comparative
+analysis
+of kinetic
+and thermodynamic
+parameters
+of these variants
+will help to elucidate
+the catalytic
+function
+of the enzyme.
+In this paper we present
+data on the
+
+2993
+
+Downloaded from http://www.jbc.org/ by guest on October 6, 2016
+
+The values
+of V,,,,, and K, for the three genetic
+variants
+A, B, and A- of erythrocyte
+glucose-&phosphate dehydrogenase
+have been determined
+at 10 different
+pH values in the range from 5.5 to 9.5, and at
+four different
+temperatures
+in the range from 18.5-40.0”.
+The log V,,,,, versus pH curve for each of the
+enzymes
+shows a monotonic
+increase
+between
+pH 5.5 and 7, and a plateau
+from pH 7.5 upwards.
+These
+curves,
+and their temperature
+dependence,
+are compatible
+with the presence
+of a single ionizable
+group
+which,
+in its conjugate
+acid form, renders
+the enzyme’substrate
+complex
+inactive.
+The pK of this group is
+6.94 at 18.5”, and its enthalpy
+of ionization
+is 7.0 kcal mol-‘.
+The log K, IJ~~SZLS pH curves show a broad
+plateau
+between
+pH 6.2 and 8.2, interrupted
+by a sharp minimum
+at pH 7.2 for variant
+B, while variants
+A and A- show sharp maxima
+at pH 7.2 and 7.45, respectively.
+It is proposed
+that this unusual
+behavior
+depends
+on the dissociation
+of the tetrameric
+enzyme
+to dimers
+in this pH region.
+Specifically,
+it is shown
+that a sharp maximum
+or minimum
+of K, can arise if cooperative
+uptake
+or release of protons
+is linked to
+dimer
+formation,
+and if the degree
+of cooperativity
+is different
+for the free enzyme
+compared
+to the
+enzyme.substrate
+complex.
+The pH dependence
+of the equilibrium
+between
+the tetrameric
+and the
+dimeric
+form of the enzyme
+has been determined
+by gel filtration
+for the same three genetic variants
+B, A,
+and A-. In agreement
+with previous
+ultracentrifugal
+data, the enzyme
+is a tetramer
+in acid solution
+and a
+dimer in alkaline
+solution.
+The pH at which half of the enzyme
+is in dimeric
+form, under our experimental
+conditions,
+is 7.15 * 0.05 for variants
+A and B, and 7.35 i 0.05 for variant
+A-. These
+pH values
+correspond
+closely,
+for all three variants,
+to the sharp extrema
+in the pH dependence
+of their K, values
+for glucose
+6-phosphate.
+From
+the measured
+dissociation
+equilibria,
+it can be inferred
+that
+the
+tetramer-dimer
+transition
+entails
+cooperative
+release
+of protons.
+The degree of cooperativity
+estimated
+from these data agrees closely with the independent
+estimate
+based on the pH dependence
+of K,.
+
+Kinetics
+
+2994
+
+of
+
+Glucose&phosphate
+
+binding
+of’ the substrate,
+glucose
+6-phosphate,
+by three variants
+of’ glucose-6-phosphate
+dehydrogenase
+commonly
+regarded
+as having
+normal
+activity,
+namely
+the normal
+type B, ’
+the type
+A which
+is commonly
+found
+in Nigeria,
+and the
+variant
+A-, one of those associated
+with the so-called
+deficiency of glucose-6.phosphate
+dehydrogenase.
+We have found
+that while the general
+pattern
+of enzyme-substrate
+interaction
+is very
+similar
+for the three
+types,
+significant
+and specific
+differences
+can be detected
+in the pH region
+close to the
+intracellular
+pH of’ the erythrocyte.
+In that region,
+each of the
+variants
+exhibits
+a very sharp minimum
+or maximum
+of K,,
+which
+is characteristically
+different
+in each variant.
+We show
+that this peculiar
+pH dependence
+might
+be due to cooperativity of proton
+binding
+coupled
+to the transition
+of the enzyme
+from a tetrameric
+to a dimeric
+form.
+We thus provide
+evidence
+that point mutations
+can affect the state of aggregation
+of the
+enzyme
+molecule.
+MATERIALS
+
+AND
+
+METHODS
+
+’ For nomenclature
+of variants
+see Ref. 11.
+*The abbreviations
+used are: ADA, N-(2.Acetamido).iminodiacetic
+acid; bis-Tris, bis(2-hydroxyethyl)-imino-tris(hydroxymethyl)methane;
+Glc-6-P, glucose 6-phosphate.
+
+Variants
+TABLE
+
+Composition
+Molaritv
+horlc
+
+of buffers
+of
+
+&id
+
+0.90
+0.79
+
+0.59
+0.53
+0.49
+0.43
+0.42
+0.36
+0.24
+0.094
+0.037
+
+I
+
+used for kinetic
+
+Molarity
+‘l‘ris
+
+of
+
+determinations
+
+Molarity
+CCH,),N
+
+of
+
+(I = 0.01)
+Approximate
+PH
+
+0.0’28
+
+5.50
+
+0.033
+0.05%5
+0.062
+0.073
+0.073
+0.096
+0.107
+0.139
+0.164
+
+5.85
+6.50
+6.75
+7.00
+7.10
+7.30
+7.50
+8.00
+8.50
+9.00
+
+0.018
+
+0.018
+
+0.020
+
+0.019
+
+0.043
+
+9.50
+
+10.0
+
+ml of enzyme
+solution
+preincubated
+at the same temperature.
+All
+volumes were measured with an Agla micrometer
+syringe. The concentration of the stock enzyme solution was always adjusted by dilution
+with 0.05 M Tris-borate
+buffer,
+pH 8.0, so as to give a V,,, of
+approximately
+0.06 4AA,,, min’
+at the particular
+pH and temperature
+being used. For the determination
+of V,,, the reaction mixture
+was:
+buffer, 0.2 ml; 5 rnM NADP+,
+0.03 ml; 0.05 M Glc-6-P,
+0.06 ml; and
+enzyme solution, 0.01 ml. pH values were measured with a Radiometer
+model 4 pH-meter
+at the appropriate
+temperature
+on separate solutions of identical
+composition.
+The pH values thus obtained,
+and not
+the nominal
+pH of the buffer, were used in recording
+results. After
+allowing the reaction to proceed for 5 min (more than the time required
+to determine
+reaction velocity)
+the pH was rechecked.
+It was found
+that it decreased from the initial value by less than 0.02 in the pH
+range from 5.9 to 8.6, and by less than 0.05 above pH 8.6.
+Gel Filtration
+Experiments-These
+were performed
+in Sephadex
+G-200, previously
+equilibrated
+with Tris-borate
+buffer (I = 0.01) of the
+desired pH and carefully
+packed by gravity,
+under a hydrostatic
+pressure of 20 cm of H,O, in a column (60 x 1.7 cm) having a volume of
+87 ml. The void volume was 32.5 ml. Units of enzyme solution (1 ‘1~ to
+2) were applied to the column in a volume of 1.0 ml, to which human
+hemoglobin
+had been added, and elution was carried out at 4’ with the
+same buffer in which the column was packed, with a flow rate of 4 to 5
+ml/hour.
+Fractions
+(1 ml) were collected,
+and tested for enzyme
+activity
+and optical density at 415 nm. All chromatographic
+runs were
+carried
+out using the same column.
+The elution
+volume
+of the
+hemoglobin
+marker was 63 * 1.5 ml in a series of 20 runs, and it did not
+vary systematically
+with pH. All elution profiles were aligned according to the positions of the hemoglobin
+peak, and the elution volume of
+glucose-6.phosphate
+dehydrogenase,
+V,, was read off the individual
+graphs (see Fig. 8).
+Reagents-All
+reagents were of analytical
+grade. Enzyme substrates
+were from Sigma Chemical Co., St. Louis, MO; ammonium
+sulfate was
+from Schwa&Mann,
+Orangeburg,
+N. Y.
+RESULTS
+
+Dependence of If,,,,., on pH and Temperature-Fig.
+1 shows
+the variation of log V,,,,, with pH for the three variants
+at four
+temperatures. From repeat experiments under identical conditions the standard deviation of any value of log V,,,,, was
+estimated to be +0.02. For each of the variants most measurements
+period
+
+were carried
+out on the
+of about 8 hours, during
+
+same sample
+which time
+
+of enzyme
+the activity
+
+over a
+of the
+
+stock enzyme solution was shown to be unchanged.
+The
+measurements at the two lowest pH values were carried out on
+different enzyme preparations, and the values of log V,,,,, were
+normalized to those obtained in the first set of experiments. An
+average normalization
+factor with a standard deviation of 1%
+was calculated by determining
+V,,,,, under 10 corresponding
+reaction conditions.
+In the pH range 5.9 to 8.5 the form of the pH variation of log
+
+Downloaded from http://www.jbc.org/ by guest on October 6, 2016
+
+Enzyme
+Preparations-Glucose-6-phosphate
+dehydrogenase
+was
+obtained
+from human erythrocytes
+in a highly purified form according
+to techniques
+previously
+described (12-~15). The final specific activities
+of the preparations
+used for kinetic experiments
+were greater than 120
+i.u./mg of protein.
+All preparations
+were dialyzed
+before use against
+0.05 M Tris-borate
+buffer, pH 8.0, containing
+0.1 rnM EDTA and 10 PM
+NADP.
+pH and Ionic Stren@h-Data
+from a previous
+study (16) indicate
+that most of the buffers commonly
+used in the study of glucose-6-phosphate dehydrogenase
+do not have sufficient
+buffering
+capacity throughout the pH region of interest, or that they affect the enzyme reaction
+by the nature of the ions present, or both. However,
+it was established
+that citrate, borate, Tris, and triethylamine
+had no effect on V,,,,,, and
+these compounds
+were therefore used to prepare all buffers from pH 5.0
+to 9.5. By a procedure
+similar to that previously
+described (16) we have
+now found that the last three substances are also without effect on K,,
+while citrate increases K, and was therefore omitted. Two other anions
+tested, ADA* and bis-Tris,
+were rejected for the same reason. We
+therefore
+limited
+experiments
+in the acid range to pH 5.9, where
+Tris-borate
+buffer can still be used. Regarding
+ionic strength,
+there is
+evidence from other investigators
+(13) that this can affect substrate
+binding. Furthermore,
+it is known that the molecular aggregation
+state
+of glucose-6.phosphate
+dehydrogenase
+is affected by ionic strength (13,
+17). It was therefore necessary to ensure that rate determinations
+at all
+pH values were carried out at the same ionic strength,
+which was
+chosen to be 0.01 M.
+It is not possible to calculate
+the amounts
+of boric acid and Tris
+required to produce a given pH and ionic strength because Tris, acting
+as a polyalcohol,
+forms, to an unknown
+extent, a complex with boric
+acid. Consequently
+the following
+procedure
+was adopted.
+The ionic
+mobilities
+of the borate and Tris ions were calculated
+from conductivity measurements.
+These values were used to calculate
+the specific
+conductivity
+of a solution
+of 2 - 0.01 M containing
+Tris H- and
+ions. Buffers were then prepared
+by mixing suitable amounts
+WOW,
+of stock solutions of boric acid and Tris to give the required pH values
+and a conductivity
+corresponding
+to I = 0.01 M.
+Boric acid-triethylamine
+buffers were similarly
+prepared.
+Table I
+shows the composition
+and approximate
+pH of the buffers used. The
+precise pH depended
+on temperature
+and is recorded in the graphical
+presentation
+of the experimental
+data. The small changes of ionic
+strength with temperature
+were neglected.
+Kinetic
+Determinations-All
+reaction velocity
+measurements
+were
+carried out with a Gilford
+recording
+spectrophotometer,
+model 2000,
+equipped
+with thermostatic
+plates. For the determination
+of K, the
+composition
+of the reaction
+mixture
+was as follows: Buffer (see “pH
+and Ionic Strength”),
+0.2 ml; 5 mM NADP+,
+0.02 ml; Glc-6-P,
+0.01 to
+0.02 ml of 4 x lo-‘to
+5 x lo-’ M; and water 0.05 to 0.06 ml to a total of
+0.3 ml. The reaction was started by the addition
+on a glass rod of 0.01
+
+Dehydrogenase
+
+Kinetics
+
+of
+
+Glucose-6-phosphate
+
+FIG. 1. Dependence
+of V,,,,, of glucose-6-phosphate
+dehydrogenase
+experimental
+points; -,
+the nH dependence
+expected from Eauation
+Fig. 11. a, variant A; b, variant
+B; c,-variant
+A-.-
+
+Dehydrogenase
+
+Variants
+
+on pH and temperature.
+V,,,,, is expressed as AA,,,/min.
+0, 0, 0, the
+from plots like those shown in
+2 using values of pK, and V,,, calculated
+
+V max is the same for each of the enzyme types. Above this pH
+the values of log V,,,,, for types B and A- show a shallow
+minimum,
+
+the position
+
+of which
+
+varies
+
+between
+
+pH 8.8 and 9.2,
+
+minimum
+
+to appear
+
+at exactly
+
+the same pH of 7.2. By contrast,
+
+variant A- (Fig. 5c) shows a sharp maximum at a different pH,
+7.45. The differences between log K, for the three variants are
+significant only in the narrow pH interval of 6.9 to 7.6 (Fig. 5),
+difference
+is 10 times
+greater
+than the
+where the maximum
+standard
+error of log K,. The determinations
+of log K, in this
+region were repeated three times and were highly reproducible.
+If K, can be interpreted as the dissociation constant for the
+complex of the enzyme with Glc-6-P, the enthalpy change for
+the dissociation of this complex, AH’, can be calculated from
+the temperature dependence of K,. Plots of log K, at constant
+pH (obtained by linear interpolation
+between adjacent experimental points) against l/T (Fig. 6) are linear, indicating that
+within
+
+experimental
+
+error
+
+we may
+
+assume
+
+that
+
+AC,
+
+= 0 and
+
+hence that we can calculate AH0 from the slopes of these plots.
+
+3.2
+
+FIG. 2. Arrhenius
+has been subtracted
+
+3.3
+
+31
+
+plots for variant B. For convenience
+of plotting 0.1
+from the observed values of log V,,,,, at pH 7.6.
+
+I ,
+60
+
+70
+
+80
+
+90
+
+PH
+
+FIG. 3. Dependence
+on pH of the activation
+energy of the glucose6-phosphate
+dehydrogenase
+reaction,
+under conditions
+of saturation
+for both substrates. a, E versus pH. Experimental
+points are enzyme
+type B(0);
+type A(O);
+type A-(+).
+The solid line was drawn as
+explained
+in the discussion.
+b, a similar plot, but the values of E,,, on
+the ordinate,
+defined in Equation
+2, were obtained from values of V,,,,,
+corrected
+according
+to Equation
+3 for the presence of an inactive
+conjugate acid form of the enzyme.substrate
+complex.
+
+Plots of AH’ against pH for the three variants are shown in Fig.
+7. The standard error of AH” is +200 to 500 cal mol-‘, and
+within
+
+these
+
+limits
+
+of error
+
+the A and B variants
+
+show
+
+identical
+
+behavior. The variation may be best described as two Ushaped curves intersecting at pH 7.2, the same pH at which the
+maximum
+difference
+between
+the K, values
+occurs.
+Differences between variant A- and variants A and B are within
+experimental error over most of the pH range, but the point at
+
+Downloaded from http://www.jbc.org/ by guest on October 6, 2016
+
+depending upon the temperature. For variant A this minimum
+is not apparent from the experimental points available. Activation energies, E, were calculated from Arrhenius plots of values
+of log vrnax at constant pH obtained by linear interpolation
+between adjacent experimental
+points (Fig. 2). The three
+enzyme types show very similar dependences of E on pH, there
+being a gradual fall of the activation energy from about 15 kcal
+mol-’ to about 10 kcal mall’ in the pH region 6.0 to 8.5 (Fig.
+3a).
+on pH and
+Dependence of K, for Glucose &Phosphate
+Temperature-Values
+of K,, the Michaelis
+constant for
+Glc-6-P, were determined by standard double reciprocal plots
+of l/v against l/[Glc-6-P] (see Fig. 4 for typical plots). The best
+fit line and hence the value and standard error of K, was in
+every case calculated using a least squares procedure. The
+linearity of these plots demonstrates the absence of cooperativity in the binding of Glc-6-P to the enzyme. The standard error
+was ~0.01 to 0.02 in log K,. The degree of reproducibility
+of
+the enzyme preparations
+and the precision of the measurements is indicated in Table II, which lists values of log K, for
+two different preparations of variant A.
+In contrast to the behavior of log V,,,, the variation of K,
+with pH is quite complex (Fig. 5). For each variant there is a
+sharp increase of K, with pH between 5.8 and 6.2, and again
+from 8.2 upwards. Between pH 6.2 and 8.2 there is a broad
+plateau, which in type B (Fig. 56) is interrupted by a “valley”
+with a sharp minimum at pH 7.2. In variant A (Fig. 5a) the
+valley is remarkably and abruptly interrupted
+by a further
+change which causes a very sharp maximum instead of a
+
+Kinetics
+
+2996
+
+of
+
+Glucose-6-phosphate
+
+pH 7.5 and the general trend of the values suggest that the
+maximum occurs at 0.2 to 0.3 pH unit higher than for variants
+A and B.
+Dependence
+of State of Aggregation
+on pH-In
+order to
+estimate the proportions of the tetrameric and dimeric forms of
+the enzyme under the conditions used in our kinetic experiments, we carried out gel filtration
+experiments at several
+different pH values. The difference in elution volume between
+tetramer and dimer was clearly demonstrated
+at acid. and
+alkaline pH (Fig. 8). Between the two extremes, the enzyme
+activity peaked at intermediate
+elution volumes, as expected
+for mixtures of tetramer and dimer in a dissociation equilibrium which is rapid compared to the time required for the
+chromatographic
+run.
+
+DISCUSSION
+
+A variety of buffers have been
+pH Dependence
+of V,,,,,-employed over the years in the characterization
+of glucose6-phosphate dehydrogenase variants. While many buffers may
+be suitable for the purpose of detecting differences between
+variants, the choice can no longer be arbitrary when we aim to
+pinpoint the role of certain ionizable groups in the mechanism
+of action of the enzyme. For this purpose it becomes essential
+to eliminate any possible pH-unrelated
+buffer effects. Glc-6-P
+dehydrogenase is exquisitely sensitive to a large number of
+anions and cations (18), as well as to the overall salt concentration. By comparing results on the pH dependence of V,,,,, in
+buffers commonly used for characterization
+of variants (ll), in
+buffers tested for lack of ion-specific effects on V,,,,, (16), and
+in the same buffers but with equalized ionic strength (Fig. lo),
+it is clear that the pH dependence of V,,,,, becomes progressively simpler, the more the experimental
+conditions are
+controlled. The hypothesis which can best explain the progressively steep decrease of log V,,,,, as the pH is decreased by 2 pH
+units (Fig. 1) is that there is an ionizable group which, in its
+conjugate acid form, renders the enzyme.substrate
+complex
+inactive. This leads to the following equation:
+
+,
+
+0123m
+&d
+
+I
+
+mole-'
+
+1
+-=-+V nmx
+
+Determination of K, for Glc-6-P. Examples of reciprocal
+plots: 04,
+variant A at pH 7.21 and 18.5”; O-0,
+variant B at
+pH 8.29 and 34.4”.
+FIG. 4.
+
+Reproducibility
+
+TABLE II
+of K, determinations
+
+Preparation
+
+6.879
+
+Preparation
+
+x
+"7
+
+2
+
+0.77
+
+0.89
+
+0.91
+0.81
+
+0.81
+0.82
+0.83
+0.85
+
+Variant
+
+(1)
+
+0.81
+
+0.82
+0.75
+
+7.020
+7.203
+7.300
+7.455
+7.640
+8.42
+
+la)
+
+1
+
+W+l
+Va,&
+
+09
+
+Values shown are log KmC’c-B+’ (+5.00) at 26.5” for two preparations
+of variant A.
+logK,~‘e6p(+5)
+PH
+
+1
+V a,!i
+
+3.2
+
+0.84
+0.82
+0.81
+
+3-3
+
+3.4
+
+FIG. 6. Dependence of K, on temperature. Typical plots of log K,
+against
+plotting
+
+A
+
+(b)
+
+Variant
+
+l/T for variant
+A at three pH values. For convenience
+of
+0.2 has been subtracted
+from each value of log K, at pH 8.0.
+
+8
+
+/ 40
+
+1.2-
+
+00
+
+0.6
+I,
+7'0
+
+8'0
+
+9'0
+
+PH
+
+FIG. 5. Dependence
+
+on pH and temperature
+
+6'0
+
+7'0
+
+SO
+
+90
+
+PH
+
+of K, clc-s-Pof glucose-6-phosphate
+
+dehydrogenase.
+
+(a), variant
+
+A; (b), variant
+
+B; (c), variant
+
+A-.
+
+Downloaded from http://www.jbc.org/ by guest on October 6, 2016
+
+I
+
+Variants
+
+Within the experimental
+error, the dependence of elution
+volume on pH is identical for type B and type A of the enzyme;
+it is clearly shifted towards a more alkaline pH in the case of
+the variant A- (Fig. 9). If we assume that the lowest and
+highest value of V, correspond to pure tetramer and pure dimer
+respectively, 50% of the enzyme is present as dimer at pH 7.15
+f 0.05 for variants A and B, and at pH 7.35 f 0.05 for variant
+A-.
+
+o.s-
+
+I
+
+Dehydrogenase
+
+Kinetics
+
+of Glucose-6-phosphate
+
+Dehydrogenase
+
+Variants
+
+35
+
+3-I
+
+to
+/
+
+60
+
+I
+70
+
+80
+
+PH
+
+GBPD
+
+20.
+04
+
+Hb
+
+03
+02
+01
+3
+
+'0
+-f
+0
+a
+
+04
+03
+02
+01
+0
+ELUTION
+
+VOLUME,
+
+ml
+
+FIG. 8. The aggregation
+state of glucose-6-phosphate
+ase assessed by gel filtration.
+Elution profiles of the enzyme
+alkaline (top) and acid (bottom)
+solution from a column
+G-100. The position of the hemoglobin
+marker
+(Hb) is not
+affected. 0-O:
+enzyme activity;
+x---x;
+absorbance
+
+dehydrogen(GGPD) in
+of Sephadex
+appreciably
+at 415 nm.
+
+where
+K, is the ionization
+constant
+of the group
+on the enzyme.substrate
+complex
+and V,,, is the value of V,,, in alkaline solution,
+that is when the ionizable
+group
+is in its conjugate base form. According
+to Equation
+1 a plot of l/V,,,
+against
+[H+]
+should
+be a straight
+line if the hypothesis
+is correct.
+This has been verified
+for all three variants
+(Fig. 11). The pK
+of the ionizable
+group
+determined
+from the ratio of the intercept to the slope of these plots (Equation
+1) is 6.66 * 0.03,
+6.65 & 0.03, and 6.64 + 0.03 at 34.0” for variants
+A, B, and A-,
+respectively.
+Values
+of the pK,
+at various
+temperatures
+for
+both variants
+are plotted
+against
+l/T in Fig. 12. Within
+experimental
+error the pK has the same temperature
+dependence
+for all variants
+and the enthalpy
+of ionization
+calculated
+from
+the slope of the best line through
+the points
+is 7.1 + 0.7 kcal
+mol-‘.
+Thus, the ionization
+constant
+and the enthalpy
+of ionization of the group is unaffected
+by the amino acid substitution
+which distinguishes
+these variants.
+
+FIG. 9. Dissociation
+equilibrium
+of glucose-6.phosphate
+dehydrogenase as a function
+of pH. The values of the elution volume
+V,,
+determined
+from elution profiles such as those in Fig. 8, are plotted
+against the pH of the buffer used for the elution.
+It is assumed
+(right-hand
+ordinate)
+that the plateau in the acid region corresponds
+to
+tetrameric
+enzyme, and the plateau in the alkaline region corresponds
+to complete dimerization.
+If the ionization
+of the group responsible
+for the activation
+of
+the enzyme
+is not accompanied
+by a configurational
+change in
+the protein,
+these values
+for the pK, and for the enthalpy
+of
+ionization
+suggest
+that the group
+is not the secondary
+phosphate
+group
+of either
+substrate,
+since AH’
+values
+for the
+secondary
+ionization
+of sugar phosphates
+are close to zero. (The
+pK, of the secondary
+phosphate
+ionization
+of Glc-6-P
+is 6.565
+at 20” and the standard
+enthalpy
+of ionization
+is - 0.88 kcal
+mo11’.)3
+Both the pK and enthalpy
+of ionization
+are lower than
+the typical
+values
+of 7.6 to 8.4, and 10 to 13 kcal mol 1
+respectively
+for a terminal
+amino group.
+Thus, the most likely
+groups
+would seem to be sulfhydryl,
+for which pK, values and
+enthalpies
+of ionization
+in proteins
+have been found
+in the
+range
+6.7 to 8.4 and 6.2 to 8.4 kcal mall’,
+respectively,
+or
+imidazole
+(as already
+suggested
+by Soldin
+and Balinsky,
+(al),
+for which
+the ranges
+are 6 to 7 and 7 to 8 kcal mol-’
+(22).
+However,
+this inference
+must be regarded
+as tentative
+only,
+because,
+as studies
+on the alkaline
+form
+of methemoglobin
+have shown,
+the enthalpies
+of ionization
+may vary
+by many
+kcal mall’
+from
+one methemoglobin
+to another
+(23), if the
+ionizable
+group
+is situated
+in an atypical
+environment.
+The variation
+of the activation
+energy
+with pH can be readily
+accounted
+for in terms
+of the enthalpy
+of ionization
+of the
+group
+responsible
+for activation
+of the enzyme.
+It may be
+shown that, since [H+]/(K,
++ [H+]) is the fraction
+of the group
+that is dissociated
+at any given pH value,
+E = E,,, +
+
+AHO
+7 W’l
+K, + @+I
+=
+
+(2)
+
+where R, is the average
+ionization
+constant
+over the temperature range used in the measurement
+of the activation
+energy;
+AHo, is the enthalpy
+of ionization,
+and E,,, is the activation
+energy
+when all the enzyme
+is in the conjugate
+base form.
+A
+best estimate
+of E,,, was obtained
+in the following
+way.
+We define
+V’,,,
+by
+
+v ma?.
+L Ka+ [H+l v
+K,
+
+_a’
+
+(3)
+
+V max is the maximum
+velocity
+that would
+be obtained
+if all
+the enzyme
+remained
+in the conjugate
+base form throughout
+the pH region.
+Because
+we have shown
+that the variation
+of
+to a single ionizable
+group,
+1% vnm with pH can be ascribed
+be pH-invariant
+at all temperatures.
+Apart
+1% v’rnax should
+3P. George,
+
+private
+
+communication
+
+Downloaded from http://www.jbc.org/ by guest on October 6, 2016
+
+7. The dependence
+on pH of the enthalpy
+change for the
+dissociation
+of the enzyme.substrate
+complex
+with glucose 6.phosphate for variants A, B, and A-. Each value of AH’was
+obtained from
+the slope of a plot similar to one of those shown in Fig. 6. From the
+scatter of the points on these plots the standard
+error in AH0 is
+estimated
+to be ~200 to 700 kcal mol-’
+Variants
+A and B show
+identical
+behavior
+and the solid line is a smooth curve drawn through
+the points for these variants.
+Variant A- shows significantly
+different
+behavior
+and the dashed line is a smooth curve drawn through
+the
+points for this variant.
+FIG.
+
+3 o-
+
+!
+
+2997
+
+Kinetics
+
+2998
+
+of
+
+Glucose-6-phosphate
+
+Dehydrogenase
+
+Variants
+
+b
+150 1
+
+a
+
+100
+>
+t3
+c
+
+2
+
+50
+
+I
+
+0’ 6
+
+7
+
+8
+PH
+
+9
+
+10
+composed
+of Tris, borate,
+citrate,
+and triethylamine
+(see “Materials
+and Methods”
+and Ref. 16, where
+the five variants
+to which
+the five
+curves
+correspond
+are listed).
+c, in the same buffers
+as b, but with
+constant
+ionic strength;
+see Fig. 1.
+
+I
+
+I
+
+3.2
+
+1
+
+34
+
+3-3
+f x 103
+
+FIG. 11.
+40”; +-+,
+
+Typical
+plots of l/V,,,,,
+against
+variant
+A- at 34”; and O-O,
+
+(H*).
+
+G-O,
+variant
+variant
+B at 26.5”.
+
+A at
+
+from small
+systematic
+variations
+corresponding
+to the minimum noted for variants
+B and A- this is found to be the case.
+For each variant
+we take the average
+of these values as the best
+value
+of V,,,. Values
+of E,,, calculated
+from these values
+of
+v max are also pH-invariant
+within
+experimental
+error.
+The
+solid
+line in Fig. 3a was calculated
+from
+Equation
+2 using
+E,,, = 11.1 kcal mol-‘and
+AH’,
+= 7.1 kcal molI’.
+pH Dependence ofK,-The
+variation
+of K, with pH is much
+more complex
+than the variation
+of V,,,,,. Inspection
+of Fig. 5
+shows that the behavior
+of the three variants
+is essentially
+the
+same, except over the narrow
+pH interval
+6.9 to 7.6, where K,
+for variant
+B shows a sharp minimum
+at pH 7.2, K, for variant
+A shows a sharp maximum
+at pH 7.2, and K, for variant
+Ashows a sharp maximum
+at pH 7.45.
+Any interpretation
+of the variation
+of log K, with pH will
+depend
+on whether
+K, is the dissociation
+constant
+of the
+enzyme.substrate
+complex
+or whether
+it is a ratio of velocity
+constants.
+There is evidence
+that K, for the binding
+of NADP+
+can be identified
+with a dissociation
+constant
+(24-26).
+In the
+discussion
+that follows
+we shall assume
+that the same applies
+to Glc-6-P
+(for an NADP+-saturated
+enzyme).
+We consider
+first those pH regions
+where the three variants
+show the same behavior.
+In the acid region
+(pH 5.8 to 6.9),
+
+FIG. 12. Values
+of pK, as a function
+of temperature.
+The values
+of
+pK, at each temperature
+were calculated
+from plots
+such as those of
+Fig. 11 according
+to Equation
+2. The line shown
+corresponds
+to an
+enthalpy
+of ionization
+of 7.1 * 0.7 kcal mol
+‘.
+
+since there
+is no significant
+gradual
+change
+of log K,,
+it
+appears
+that the pK of the secondary
+phosphate
+ionization
+on
+the substrate
+is not changed
+upon
+binding
+to the enzyme.
+Alternatively,
+it is possible
+that the pK of an ionizable
+group
+on the enzyme
+changes
+upon the binding
+of Glc-6-P
+in a way
+that exactly
+compensates
+the change
+in the pK of Glc-6-P,
+so
+that there
+is no net release
+or uptake
+of hydrogen
+ion upon
+binding
+of the substrate.
+In the alkaline
+region,
+Glc-6-P
+carries
+on the phosphate
+moiety
+two negative
+charges,
+which
+are
+probably
+essential
+for binding
+to the enzyme.4
+It is therefore
+likely that a positively
+charged
+group on the enzyme
+is involved
+in binding
+Glc-6-P,
+and the gradual
+increase
+in K, between
+pH
+8.2 and 9.4 is indeed
+consistent
+with the ionization
+of a lysine
+residue.
+Above
+pH 9.4 there is a dramatic
+increase
+in K, and
+the values
+are not reproducible,
+suggesting
+irreversible
+inactivation
+of the enzyme.
+The abrupt
+variations
+observed
+for each
+‘Glucose,
+when tested
+at concentrations
+failed
+to inhibit
+erythrocyte
+glucose&phosphate
+G. Babalola,
+unpublished
+experiments).
+it does not bind to the enzyme.
+
+We
+
+between
+0.01 and 1 mM,
+dehydrogenase
+(A. 0.
+presume
+this means
+that
+
+Downloaded from http://www.jbc.org/ by guest on October 6, 2016
+
+FIG. 10. (Reproduced
+from Ref. 20 with permission.)
+Patterns
+of pH
+dependence
+of Glc-6-P
+dehydrogenase
+activity
+under
+different
+experimental
+conditions.
+a, in “triple
+buffer”,
+consisting
+of Tris, glycine,
+and
+phosphate,
+adjusted
+to the desired
+pH by the addition
+of HCl or NaOH
+on the acid and the alkaline
+side,
+respectively
+(19).
+b, in buffers
+
+Kinetics
+
+of
+
+Glucose-Cphosphate
+
+log K,
+
+= log K,”
+
++
+
+n log (KE + [H+l? - $ log (K,, + [H’l”)
+(4)
+5
+is the value
+of log K, at large (H+),
+n is the
+
+where
+log K,”
+number
+of ionizing
+groups,
+and p and g are “Hill
+constants”
+for
+the ionizable
+groups
+on the enzyme
+and on the enzyme.substrate
+complex,
+respectively.5
+Log K,” is known
+(from
+the
+plateau
+value of K, on the acid side of the extremum,
+see Fig.
+5) and it can be shown
+that the values
+of K, and KES are
+determined
+by the pH of the extremum
+and by the fact that the
+value of log K, on either
+side of the extremum
+is the same.
+Only two of the three parameters
+n, p, and q are independent:
+hence,
+we are left with
+two arbitrarily
+variable
+parameters
+required
+to describe
+the sharp extremum
+in log K,.
+Values
+of log K, as a function
+of pH were calculated
+using
+the known
+values of (HA,,),
+log K,“‘“,
+and log K,” for various
+choices of n and p. Fig. 13 shows the curve for n = 8 and p =
+6.5, superimposed
+on the data for variant
+B at 26.5”.
+The
+calculated
+value
+of q is 4.14. In molecular
+terms,
+this means
+that there
+are eight ionizable
+groups,
+which
+ionize
+cooperatively
+with a Hill constant
+of 6.5 in the enzyme
+and 4.14 in the
+‘The full derivation
+cannot be given here due to shortage of space. It
+is available
+to interested
+readers upon request to the authors.
+
+2999
+
+Variants
+
+i4L3
+c
+FIG. 13. The variation
+of log K, with pH using n = 8, p = 6.5, and 9
+= 4.14 (-);
+and using n = 6, p = 5.9 and 4 = 3.49 (---);
+see
+Equation
+4. The experimental
+points are for variant
+B at 26.5”.
+
+enzyme.substrate
+complex.
+are not the only values that
+of n would
+lead to an equally
+line for n = 6, p = 5.9, and
+but the very high degree
+of
+small
+difference
+between
+n
+experimental
+data
+fit the
+postulates
+a set of ionizable
+substrate
+binding.
+
+It must be emphasized
+that these
+fit the data. Clearly,
+larger values
+good fit. Fig. 13 also shows the
+q = 3.49. The fit is almost as good
+cooperativity,
+as indicated
+by the
+and p, seems unlikely.
+Thus,
+the
+second
+model
+proposed,
+which
+groups
+cooperatively
+affected
+by
+
+pH Dependence of Quaternary Structure-Because
+dissociation of the enzyme
+tetramer
+into dimers
+takes place in just the
+pH range where the sharp minimum
+in log K, occurs (13), it
+seemed reasonable
+to surmise
+that this pH-linked
+dissociation
+itself could be the major configurational
+change giving
+rise to a
+large
+positive
+interaction
+between
+ionizable
+groups.
+This
+supposition
+could
+be critically
+tested
+by a comparison
+of
+several genetic
+variants.
+If it is correct,
+there should be a direct
+correlation
+between
+the pH at which
+50% of the enzyme
+is
+dissociated
+and the pH of the extremum
+in the plot of log K,
+uersus pH. Indeed we found (compare
+Figs. 5 and 9) that while
+variants
+A and B coincide
+in pH dependence
+of dissociation
+and have their pH extremum
+at 7.2, variant
+A- was shifted
+by
+the same extent
+of about 0.25 pH units in both dissociation
+and
+log K, behavior.
+Further,
+as the following
+analysis
+shows,
+there
+is good
+agreement
+between
+the degree
+of cooperativity
+of the ionizations
+which
+accompany
+dissociation
+as calculated
+from the
+chromatographic
+data and that estimated
+above on the basis of
+kinetic
+data alone.
+If the dissociation
+into dimers
+is accompanied
+by the cooperative
+ionization
+of n’ ionizable
+groups’
+a rigorous
+description
+of the ionization
+process
+would
+involve
+the adoption
+of some model
+for the relationship
+between
+the
+dissociation
+and the ionization
+of the groups
+involved.
+However,
+a satisfactory
+empirical
+description
+of the degree
+of
+cooperativity
+among
+the ionizing
+groups
+can be obtained
+by
+describing
+the dependence
+of the dissocia,tion
+equilibrium
+by
+an equation
+analogous
+to the Hill
+equation
+which
+has been
+used for many
+years
+to describe
+empirically
+the binding
+of
+oxygen
+to hemoglobin
+(27), namely
+log fl=
+
+constant
+
++ P’
+
+PH
+
+(fl
+
+where
+
+(D) and (I? are the concentrations
+
+of dimer
+
+and tetramer
+
+GThe symbol n’ designates the number of groups that ionize in the
+course of the tetramer
++ dimer transition,
+and it is thus distinct,
+in its
+definition,
+from the symbol n used in Equation
+4 for the number of
+groups whose ionization
+is coupled with substrate binding
+
+Downloaded from http://www.jbc.org/ by guest on October 6, 2016
+
+of the variants
+in the pH range
+6.9 to 7.6 require
+a more
+complex
+explanation.
+In general,
+K, will show a pH dependence
+if there
+are
+ionizable
+groups,
+the pK values of which
+are different
+on the
+enzyme
+and on the enzyme.substrate
+complex.
+The observed
+minimum
+or maximum
+implies
+that more than one ionizable
+group
+is involved,
+and the fact that the plateau
+values
+of log
+K, in acid and alkaline
+solution
+are approximately
+the same
+implies
+that the net uptake
+of protons
+integrated
+across the pH
+range where the extremum
+occurs must be zero. However,
+the
+range of pH over which log K, varies is so narrow
+that it cannot
+be accounted
+for by any number
+of independent
+ionizable
+groups;
+cooperativity
+between
+the ionizable
+groups
+must
+be
+postulated.
+There are then two essentially
+different
+situations
+in which the observed
+variation
+of log K, could arise.
+1. If there are two sets of cooperatively
+ionizing
+groups
+G,
+and G, (the groups
+in each set having
+the same intrinsic
+pK),
+and if upon binding
+of substrate
+the intrinsic
+pK values of the
+groups
+in set G, shift
+in the opposite
+sense but by an equal
+amount
+to those in set G,, then log K, will show a sharp
+extremum
+with pH.
+2. If there
+is a set of cooperatively
+ionizing
+groups
+on the
+enzyme,
+and if upon binding
+of the substrate
+the degree
+of
+cooperativity
+changes,
+log K, will show an extremum
+with pH,
+the sharpness
+of which
+will still depend
+on the number
+of
+groups and on the degree of cooperativity.
+The pH at which the
+extremum
+occurs
+will
+depend
+on the intrinsic
+pK of the
+ionizing
+groups.
+If the cooperativity
+decreases
+upon binding
+of
+substrate,
+log K, will show a minimum
+with pH; if cooperativity increases
+upon binding
+of substrate,
+then log K, will show a
+maximum
+with pH.
+The latter
+hypothesis
+involves
+fewer
+assumptions,
+and a
+physical
+basis for it can be visualized
+(see below).
+We are
+therefore
+using it here in attempting
+to account
+quantitatively
+for the observed
+variation
+of log K,.
+If we describe
+the
+cooperative
+ionization
+of the linked
+ionizable
+groups
+by an
+empirical
+equation
+analogous
+to the Hill
+equation
+used to
+describe
+the cooperative
+binding
+of oxygen
+to hemoglobin
+(27),
+we obtain:
+
+Dehydrogenase
+
+Kinetics
+
+3000
+
+of Glucose-&phosphate
+
+at any pH. p’ is analogous
+to the Hill
+constant
+and may be
+used as a measure
+of the degree of cooperativity
+between
+the
+ionizations
+that accompany
+the dissociation.
+If (Y is the degree
+of dissociation
+of the tetramer
+into dimers
+and (?“jT is the total
+concentration
+of enzyme
+expressed
+as tetramers,
+then
+
+Lyz
+log ~
+(1 - a)
+
+= log K,
+
+log 4(r),
+
+On the assumption
+that elution
+cally to weight
+average
+molecular
+at each pH from the equation
+log (2-a)
+
+= ~
+
++ p’ pH
+
+volume
+weight,
+
+is related
+logarithmiN can be calculated
+
+(VVd
+(V* ~ Vt)
+
+2
+
+(5)
+
+log 2
+
+I
+
+I
+
+I
+
+I
+
+I
+J
+
+FIG. 14. Cooperativity
+of ionizable
+groups coupled to enzyme dissociation.
+The tetramer/dimer
+ratio, expressed by means of the degree
+of dissociation
+N, is plotted
+against pH according
+to Equation
+5. 0,
+experimental
+points for variant
+B; 0, experimental
+points for variant
+A-. The slope of the straight line obtained yields a value of n’ = 4.1.
+
+Variants
+
+aggregation
+of an enzyme
+is reminiscent
+of a number
+of
+previous
+examples
+(28, 29). In this case, the phenomenon
+is
+apparently
+related
+to the ability
+of glucose
+6-phosphate
+to
+affect
+the cooperative
+binding
+(or release)
+of a number
+of
+protons
+in the critical
+pH region.
+By contrast,
+no break-point
+was observed
+in the pH dependence
+of V,,,,, for any of the three
+variants
+studied,
+in the pH region in which
+the dissociation
+of
+the tetramer
+takes place.
+To summarize,
+the observed
+pH variation
+of log K, for
+variant
+B can be explained
+as follows.
+1. At an ionic strength
+of 0.01 the tetramers
+of variant
+B of
+erythrocyte
+glucose-6-phosphate
+dehydrogenase
+saturated
+with
+NADP+
+but not with Glc-6-P
+dissociate
+into dimers
+in the pH
+range 6.9 to 7.4.
+2. This
+dissociation
+is accompanied
+by the cooperative
+ionization
+of at least six to eight groups
+such that 50% of the
+groups
+are ionized
+at pH 7.2 and the Hill constant
+is approximately
+6.
+3. The enzyme
+completely
+saturated
+with both NADP+
+and
+Glc-6-P
+also dissociates,
+so that 50% of the dissociation-linked
+ionizable
+groups
+are ionized
+at pH 7.2, but the Hill constant
+is
+less than that for the enzyme
+without
+Glc-6-P
+bound.
+4. This model
+implies
+that
+variant
+A should
+also behave
+similarly,
+so that
+50% of the dissociation-linked
+groups
+are
+ionized
+at pH 7.2. However,
+the minimum
+in the log K, versus
+pH curve
+implies
+that the Hill constant
+for the dissociationlinked
+ionizable
+groups
+increases
+when Glc-6-P
+is bound to the
+enzyme.
+For variant
+A- the pH of 50% dissociation
+is 7.45 but, as with
+variant
+B, the Hill constant
+for the dissociation-linked
+ionizable groups decreases
+when Glc-6-P
+is bound
+to the enzyme.
+Differences among Variants-The
+data
+presented
+in this
+paper
+indicate
+that a single
+amino
+acid replacement
+entails
+detectable
+differences
+in the thermodynamics
+of substrate
+binding.
+There is no reason to believe
+that the replaced
+amino
+acid is physically
+a part of the binding
+site; if it were, we would
+expect
+differences
+in K,
+and AH over
+a wide
+pH range.
+Instead,
+we presume
+that a replacement
+even in a distant
+part
+of the molecule
+can affect substrate
+binding
+indirectly,
+under
+appropriate
+conditions,
+because
+of the cooperative
+nature
+of
+the entire
+protein
+molecule.
+In the case of methemoglobins,
+it
+has been demonstrated
+that
+amino
+acid replacements
+quite
+remote
+from the heme group can alter the binding
+of azide and
+other ligands
+(30). Thus, it is now apparent
+thqt the differences
+between
+the B and A variants
+of glucose-6-phosphate
+dehydrogenase
+are not limited
+to electrophoretic
+mobility,
+but they
+include
+a number
+of enzymic
+properties
+(Table
+III). All three
+variants,
+A, B, and A-,
+are regularly
+described
+as being
+indistinguishable
+with respect to their affinity
+for Glc-6-P
+(33):
+not surprisingly,
+since measurements
+are routinely
+carried
+out
+at pH 7.8 to 8.0, where enzyme
+activity
+is somewhat
+higher.
+On
+the other hand,
+differences
+in K, for glucose 6.phosphate
+can
+be detected
+at pH 7.2, a fact which
+may be of considerable
+physiological
+relevance,
+since this is the intracellular
+pH of the
+erythrocyte
+(34). As far as the tetramer-dimer
+equilibrium
+is
+concerned,
+it is impossible
+to know
+whether,
+within
+the
+erythrocyte,
+the transition
+occurs at exactly
+the pH observed
+in
+Fig. 9. However,
+it appears
+likely that, whatever
+the displacement in the curve due to the numerous
+differences
+between
+in
+uiuo and in vitro conditions,
+it will be comparable
+for the three
+variants
+we have investigated.
+Thus, other things being equal,
+A- is likely to have a greater
+proportion
+of tetramers
+than A or
+B: an example
+of how mutation,
+by affecting
+the primary
+
+Downloaded from http://www.jbc.org/ by guest on October 6, 2016
+
+where
+V,, V,, and V are, respectively,
+the elution
+volumes
+for
+the tetramer,
+the dimer,
+and the mixture
+of tetramers
+and
+dimers
+at any particular
+pH. From
+inspection
+of Fig. 9, we
+obtain
+values of 36.0 and 47.0 for V, and V,, respectively.
+A plot
+of log a2/(L
+(u) against
+pH (Fig.
+14) yields
+a slope of 4.1.
+According
+to Equation
+5, this is the Hill
+constant
+for the
+cooperativity
+of proton
+release
+in the course of the tetramerdimer
+transition.
+The uncertainties
+in the values of V, and V,
+are approximately
+0.05. An estimate
+of the precision
+in the
+value of p’ may be made by choosing
+values of 36.5 and 46.5 for
+V, and V,, respectively.
+These values
+give p’ = 5.3. The few
+points available
+for variant
+A- (Fig. 14) suggest that p’ for this
+variant
+is the same as for variants
+A and B. These values of p’
+are to be compared
+with the values
+of 6.5 and 5.9 obtained
+above independently
+for p from the data on the dependence
+of
+log K, on pH.
+Given the limited
+precision
+of the chromatographic
+data and
+given the assumptions
+implicit
+in each method
+of determining
+n’, or p, it is not to be expected
+that the agreement
+between
+the
+values
+obtained
+from
+the two types
+of experiments
+could
+be
+better
+than this. Indeed,
+the agreement
+is sufficient
+to confirm
+that the dissociation
+of the enzyme
+into dimers is accompanied
+by the ionization
+of a number
+of groups showing
+a high degree
+of cooperativity.
+The fact that binding
+of substrate
+is affected
+by the state of
+
+Dehydrogenase
+
+Kinetics
+
+of
+
+Glucose-6-phosphate
+
+Dehydrogenase
+
+TABLE
+Differences
+
+in structural
+
+and
+
+enzymic
+
+properties
+
+between
+
+A and
+
+3001
+
+Variants
+
+III
+
+B types
+
+of human
+
+erythrocyte
+
+glucose-6.phosphate
+
+dehydrogenase
+
+H
+
+Activity
+
+in red cells (%)
+
+Amino
+
+acid replacement
+
+Transition
+
+temperature
+
+Binding of NADP
+K, (/.d
+K,
+
+100
+Asparagine
+at [NADP]
+
+= 0.1 FM
+
+Aspartic
+
+Nance
+
+acid
+
+(31)
+
+Yoshida
+
+(32)
+
+44”
+
+51”
+
+Luzzatto
+
+& Afolayan
+
+(16)
+
+45
+13
+
+21
+12
+
+Luzzatto
+Afolayan
+
+(24)
+& Luzzatto
+
+(26)
+
+16
+
+30
+
+Afolayan
+
+& Luzzatto
+
+(26)
+
+63
+
+89
+
+This report
+
++:
+
+(Md
+
+Binding of NADPH:
+K (PM)
+Binding of Glc-6-P
+Km (PM)
+
+85
+
+(at 26”, pH 7.2):
+
+We now know that variant
+A- differs kinetically
+from variant
+B
+in at least two ways:
+(a) the pH extremum
+in K, is changed
+from
+a minimum
+to a maximum
+and (b) the pH of the
+extremum
+is changed.
+It is conceivable
+that, by subtle effects,
+one type of amino acid substitution
+(B - A) affects
+only q for
+the enzyme
+substrate
+complex,
+while
+another
+type of amino
+acid substitution
+(B - A-)
+affects
+both
+q and the pH of
+dissociation.
+However,
+a far simpler
+explanation
+is that variant
+B differs from variant
+A by a change
+in an amino
+acid residue
+which affects the relative
+vaiue of p for the enzyme
+and q for the
+enzyme.substrate
+complex,
+but which
+does not affect the pH
+at which the enzyme
+dissociates
+into dimers;
+while variant
+Adiffers
+from variant
+A by a change
+in an amino
+acid residue
+which
+affects
+the pH at which
+the enzyme
+dissociates
+into
+dimers,
+but which does not affect the relative
+values of p for the
+enzyme
+and q for the enzyme.
+substrate
+complex.
+This would
+imply
+two amino
+acid substitutions
+from B to Am, suggesting
+a
+possible
+pathway:
+B-A-AIt is noteworthy
+that, in an extensive
+review
+of the distribution
+of these variants
+in Africa
+(36), one finds
+numerous
+populations
+where
+both
+A and A- are common,
+a few populations
+where A is common
+and A- is rare, but no population
+where Ais common
+and A is rare. Thus,
+genetic
+data would
+also be
+consistent
+with the notion
+of two successive
+mutations
+having
+taken
+place
+in the evolution
+of the gene for A- from
+the
+
+wild-type
+gene for B. The
+validity
+of this notion
+will
+be
+eventually
+settled
+when
+data on primary
+structure
+become
+available.
+Meanwhile,
+it could also be tested experimentally
+by
+carrying
+out similar
+studies
+on other available
+genetic variants,
+especially
+those which are polymorphic
+in various
+populations
+and which
+are associated
+with enzyme
+deficiency
+(33).
+
+Achnowledgments-We
+would
+like to thank
+Mr.
+A. Afuwape,
+Mr.
+F. A. Fasuan,
+Mr.
+V. C. N. Okoye,
+and Dr. R.
+Cancedda
+for their invaluable
+assistance
+in the preparation
+of
+the enzyme
+samples;
+and Mr. C. 0. Thomas
+and all staff of the
+Blood
+Bank,
+University
+College
+Hospital
+for the supply
+of
+blood samples.
+We should
+also like to express
+our appreciation
+of the
+continued
+interest
+in the project
+shown by Dr. Gabriel
+Ogunmola.
+REFERENCES
+1
+2
+3.
+4.
+5.
+6.
+7.
+
+Cancedda,
+
+R., Ogunmola,
+G. B., and Luzzatto,
+L. (1973) Eur. J.
+Biochem.
+34, 199-204
+Johnson, L. N., and Phillips,
+D. C. (1965) Nature
+206, 761-763
+Antonini,
+E., and Brunori,
+M. (1971) Hemoglobin
+and Myoglobin
+in their
+Reactions
+with Ligands,
+North Holland,
+Amsterdam
+Perutz, M. F. (1970) Nature
+228,726-734
+Perutz, M. F., and Lehmann,
+H. (1968) Nature
+219,902-909
+Bailey, J. E., Beetlestone,
+J. G., Irvine, D. H., and Ogunmola,
+G.
+B. (1970) J. Chem. Sot. 749-756
+Kirkman,
+H. N., Riley, H. D., and Gowell, B. B. (1960) Proc. Natl.
+
+Acad.
+Sci. Ii. S. A. 46, 938-944
+8. Luzzatto,
+L., and Afolayan,
+A. (1971) Biochemistry
+10, 420-423
+9. Rattazzi,
+M. C., Corash,
+L. U., Van Zanen,
+G. F., Jaffe,
+F. R., and
+Piomelli,
+S. (1971)
+Blood
+38, 205-218
+10. Yoshida,
+A. (1973) Science
+179,532-537
+11. World
+Health
+Organization
+(1967)
+Technical
+Report
+Series
+No.
+366, Geneva
+12. Chung,
+A. E., and Langdon,
+R. G. (1963)
+J. Biol.
+Chem.
+238,
+2309-2316
+13. Cohen,
+P., and Roesemeyer,
+M. A. (1969)
+Eur J. Biochem.
+8, l-7
+14. Rattazzi,
+M. C. (1969)
+Biochim.
+Biophys.
+Acta
+181, l-11
+15. Bonsignore,
+A., Lorenzoni,
+I., Cancedda,
+R., Nicolini,
+A., Damiani, G., and De Flora,
+A. (1970) Ital. J. Biochem.
+19, 165-177
+16. Luzzatto,
+L., and Afolayan,
+A. (1968) J. Clin. Inuest.
+47,1833-1842
+17. Bonsignore,
+A., Lorenzoni,
+I., Cancedda,
+R., Consulich,
+M. E., De
+Flora,
+A. (1971) Biochem.
+Biophys.
+Res. Commun.
+42,159-165
+18. Bonsignore,
+A., and De Flora,
+A. (1972)
+In Current
+Topics
+in
+Cellular
+Regulation
+(Horecker,
+B. L., and Stedstsman,
+E. R.,
+eds) Vol. 6, p. 21, Academic
+Press,
+New York
+19. McCurdy,
+P. R,, Kirkman,
+H. N., Naiman,
+J. L., Jim, R. T. S., and
+Pickard,
+B. M. (1966) J. Lab. Clin. Med. 67,374-385
+
+Downloaded from http://www.jbc.org/ by guest on October 6, 2016
+
+structure
+of a protein,
+can also affect the quaternary
+structure.
+It is possible
+that
+this unique
+property
+of A-, one of the
+commonest
+“deficient”
+types of glucose-6-phosphate
+dehydrogenase, also relates
+to its faster rate of inactivation,
+for which
+we have proposed
+a specific
+model
+(35).
+At the present
+time, because
+the primary
+structure
+of A- is
+not known,
+it is relevant
+to ask what suggestions
+can be derived
+from
+the findings
+in this paper
+regarding
+the relationships
+among
+the three variants
+studied.
+As mentioned
+earlier,
+it is
+usually
+assumed
+that
+variant
+B is the normal
+wild-type
+enzyme,
+and that variants
+A and A- arose from
+it by single
+amino
+acid substitutions
+based on point mutations,
+i.e.
+
+3002
+
+Kinetics
+
+of
+
+Glucose-&phosphate
+
+20. Luzzatto,
+L. (1973) IsraelJ. Med. Sci. 9, 1484-1498
+21. Soldin, S. J., and Balinsky,
+D. (1968) Biochemistry
+7, 1077-1082
+22. Cohn, E. J., and Edsall, J. T. (1943) Proteins, Amino Acids and
+Peptides Chapt. 4, Reinhold,
+New York
+23. Beetlestone,
+J., and Irvine, D. H. (1965) J. Chem. Sot. 3271-3275
+24. Luzzatto,
+L. (1967) Biochim.
+Biophys. Acta 146, 18-25
+25. Bonsignore,
+A., Lorenzoni,
+I., Cancedda,
+R., and De Flora, A.
+(1970) Biochem. Biophys. Res. Commun.
+39,142-148
+26. Afolayan,
+A., Luzzatto,
+L. (1971) Biochemistry
+10, 415-419
+27. Wyman,
+J. (1964) Adu. Protein Chem. 19, 223-286
+28. Fisher, H. F. (1973) Adu. Enzymol.
+39, 369-417
+29. Klotz, I. M., Langerman,
+N. R., and Darnall,
+D. W. (1970) Annu.
+
+Dehydrogenase
+
+Variants
+
+Rev. Biochem.
+39, 25-62
+30. Bailey, J. E., Beetlestone,
+J. G., Irvine, D. H., and Ogunmola,
+G.
+B. (1970) J. Chem. Sot. 749-756
+31. Nance, W. E. (1968) Clin. Res. 15, 66
+32. Yoshida, A. (1967) Proc. N&l. Acad. Sci. U. S. A. 57, 835-840
+33. Yoshida, A., Beutler, F., and Motulsky,
+A. G. (1971) Bull. World
+Health
+Organization
+45, 243-253
+34. Whittarn,
+R. (1964) Transport
+and Diffusion
+in Red Blood Cells,
+Arnold,
+London
+35. Babalola,
+A. 0. G., Cancedda,
+R., and Luzzatto,
+L. (1972) Proc.
+Natl. Acad. Sci. U. S. A. 69, 946-950
+36. Luzzatto,
+L. (1973) Israel J. Med. Sci. 9, 1181-1194
+
+Downloaded from http://www.jbc.org/ by guest on October 6, 2016
+
+Genetic variants of human erythrocyte glucose-6-phosphate dehydrogenase.
+Kinetic and thermodynamic parameters of variants A, B, and A- in relation to
+quaternary structure.
+A O Babalola, J G Beetlestone and L Luzzatto
+J. Biol. Chem. 1976, 251:2993-3002.
+
+Access the most updated version of this article at http://www.jbc.org/content/251/10/2993
+Alerts:
+• When this article is cited
+• When a correction for this article is posted
+Click here to choose from all of JBC's e-mail alerts
+Downloaded from http://www.jbc.org/ by guest on October 6, 2016
+
+This article cites 0 references, 0 of which can be accessed free at
+http://www.jbc.org/content/251/10/2993.full.html#ref-list-1
+
+

@@ -1,0 +1,1205 @@
+Am. J. Hum. Genet. 57:789-797, 1995
+
+Molecular Characterization of Minor Gene Rearrangements in
+Finnish Patients with Heterozygous Familial
+Hypercholesterolemia: Identification of Two Common Missense
+Mutations (Gly823-+Asp and Leu380-+His) and Eight Rare
+Mutations of the LDL Receptor Gene
+Ulla-Maija Koivisto,' Jorma S. Viikari, and Kimmo Kontula2
+Institute of Biotechnology and 2Department of Medicine, University of Helsinki; and 3Department of Internal Medicine, University of Turku, Turku
+
+Summary
+
+Introduction
+
+Two deletions of the low-density lipoprotein (LDL) receptor gene were previously shown to account for about
+two thirds of all mutations causing familial hypercholesterolemia (FH) in Finland. We screened the DNA samples from a cohort representing the remaining 30% of
+Finnish heterozygous FH patients by amplifying all the
+18 exons of the receptor gene by PCR and searching for
+DNA variations with the SSCP technique. Ten novel
+mutations were identified, comprising two nonsense and
+seven missense mutations as well as one frameshift mutation caused by a 13-bp deletion. A single nucleotide
+change, substituting adenine for guanidine at position
+2533 and resulting in an amino acid change of glycine
+to aspartic acid at codon 823, was found in DNA samples from 14 unrelated FH probands. This mutation
+(FH-Turku) affects the sequence encoding the putative
+basolateral sorting signal of the LDL receptor protein;
+however, the exact functional consequences of this mutation are yet to be examined. The FH-Turku gene and
+another point mutation (Leu380-+His or FH-Pori) together account for -8% of the FH-causing genes in
+Finland and are particularly common among FH patients from the southwestern part of the country (combined, 30%). Primer-introduced restriction analysis was
+applied for convenient assay of the FH-Turku and FHPori point mutations. In conclusion, this paper demonstrates the unique genetic background of FH in Finland
+and describes a commonly occurring FH gene with a
+missense mutation closest to the C terminus thus far
+reported.
+
+Familial hypercholesterolemia (FH) is among the
+world's most common single-gene inherited diseases.
+The very rare homozygous patients may succumb to
+myocardial infarction in their childhoods, while the heterozygous ones, with a prevalence of 1 in 500 in the
+population, develop clinical symptoms of premature
+coronary heart disease in their 40s or 50s, if untreated
+(Goldstein and Brown 1989). By 1992, >150 mutations
+of the low-density lipoprotein (LDL) receptor gene causing FH were reported (Hobbs et al. 1992), and additional mutant genes are continuously characterized. The
+Finns are among the few populations in which one or
+two major mutations explain the majority of FH cases
+(Kontula et al. 1992).
+We have elsewhere identified two deletions, designated as FH-Helsinki and FH-North Karelia, that together account for the mutations present in 60% 70% of all heterozygous FH probands examined (AaltoSetala et al. 1989; Koivisto et al. 1992). The FH-Helsinki
+gene is characterized by a 9,500-bp deletion extending
+from intron 15 to exon 18 and is associated with an
+internalization-defective phenotype of FH, while in the
+FH-North Karelia gene 7 nt from exon 6 are deleted,
+resulting in a frameshift of translation and a null-allele
+phenotype of FH. In addition, in single Finnish kindreds
+we have identified two large deletions, eliminating exons
+7-10 and 11-16, respectively (Aalto-Setala et al. 1992),
+and a point mutation in the proximal promoter area of
+the LDL receptor gene (Koivisto et al. 1994). Another
+rare large gene rearrangement deleting exon 15 (FHEspoo) was found to be associated with a relatively mild
+form of FH (P. V. I. Koivisto et al. 1993).
+The remaining LDL receptor gene mutations in Finnish FH patients were unknown in nature, until now.
+Finns form a genetic isolate, with its typical panel of
+inherited diseases and a high prevalence of hypercholesterolemia and coronary heart disease. In a search for
+possible other prevalent LDL receptor gene genes, we
+identified a collection of previously unreported minor
+
+Received May 5, 1995; accepted for publication July 14, 1995.
+Address for correspondence and reprints: Dr. Ulla-Maija Koivisto,
+Institute of Biotechnology, P.O. Box 45, FIN-00014 University of
+Helsinki, Helsinki, Finland. E-mail: umk@cc.oulu.fi
+X 1995 by The American Society of Human Genetics. All rights reserved.
+
+0002-9297/95/5704-0007$02.00
+
+-
+
+789
+
+790
+
+mutations as well as two that are relatively common in
+the Finnish population.
+Subjects and Methods
+Patients
+
+During our earlier study, blood samples were collected from 201 unrelated heterozygous FH probands
+from five different regions of Finland. Details on diagnostic criteria, preparation of samples, and lipid analyses are given in the previous publication (Koivisto et
+al. 1992). During the previous study, we identified 66
+patients with the FH-Helsinki gene and 69 patients with
+the FH-North Karelia gene (Koivisto et al. 1992). Of
+the remaining 66 FH patients, we were later able to
+reveal two additional patients with the FH-Helsinki gene
+and one patient with the FH-North Karelia gene. In
+addition, one patient was demonstrated to have a singlepoint mutation in the proximal promoter of the LDL
+receptor gene (Koivisto et al. 1994), another proband
+had a complex deletion/insertion rearrangement of the
+LDL receptor gene (U.-M. Koivisto and K. Kontula, unpublished data), and we had to exclude 15 patients because of a questionable diagnosis and/or incomplete
+clinical data or kinship to another proband. The remaining 46 patients were accepted for the present search
+for novel mutations.
+In addition, in order to conduct a search for the newly
+discovered missense mutations in exons 9 and 17 among
+southwestern Finns, we collected additional samples
+from unrelated FH probands living in the Turku area
+to expand this cohort up to 39 patients and the whole
+FH panel up to a total of 213 patients. The present study
+was approved by the ethical review committee of the
+Department of Medicine, University of Helsinki.
+DNA Analysis
+
+All 18 exons of the LDL receptor gene were individually amplified from genomic DNA by PCR using AmpliTaq DNA polymerase (Perkin-Elmer Cetus). The primers were designed according to the sequences published
+by Leitersdorf et al. (1990). SSCP analysis was carried
+out essentially according to the method described by
+Orita et al. (1989) on 5% nondenaturing polyacrylamide gels containing 10% glycerol. Exons displaying
+aberrant migration patterns on SSCP gels were amplified
+without labeled dCTP, and double-stranded amplification products were purified by the Magic PCR preps®
+procedure (Promega). An aliquot was directly sequenced
+according to a modification of the dideoxy chain termination method (Casanova et al. 1990) or subcloned into
+the pSP73 vector, followed by sequencing of several independent clones. The direct solid-phase DNA sequencing was performed essentially as described by Koivisto
+et al. (1994). Sequencing data were compared to the
+
+Am. J. Hum. Genet. 57:789-797, 1995
+
+normal LDL receptor cDNA sequence published by Yamamoto et al. (1984).
+Assays for Specific Mutations
+For convenient assay of the two common mutations
+FH-Turku (G2533-+A) and FH-Pori (T1202-+A), as well
+as the missense mutations FH-Fin-3 and FH-Fin-4 in exon
+4 (G661-+T and G665-+A), the PCR-PIRA ("PCRprimer-introduced restriction analysis") (Jacobson and
+Moskovits 1991) technique was applied. For the FHTurku mutation (G2533-- A), a new downstream primer
+spanning the 3' end of exon 17 and 4 bases of the intron
+17 sequence was synthesized with a deliberate A-+G mismatch located 2 nt in from the 3' terminus 3273 (5'TCACCGAGGGGTAGCTGTGG-3'). Upstream primer
+was 9035 (5'TGACAGAGCGTGCCTCTCCCTACAG3'). Gene amplification by PCR introduced an artificial
+HaeIII site in the PCR product only for the normal allele.
+PCR was performed in a volume of 50 gI containing 50
+ng DNA, 160 gM of each dNTP, 50 ng each of the
+primers 9035 and 3273, and 0.5 U Dynazyme DNA polymerase in the buffer supplied by the manufacturer (Finnzymes, Helsinki) for 32 cycles at 95 °C, 52 °C, and 72
+°C for one minute each. A 20 ,ud aliquot of the PCR
+product was digested at 37 °C with 4 U HaeIII, and then
+analyzed by electrophoresis on a 12% polyacrylamide
+gel. Digestion of the PCR products with HaeIII-generated
+fragments of lengths 167 and 20 bp in size for the normal
+allele, whereas the mutant allele remained undigested.
+Primers for the detection of the FH-Pori (T1202-+A) were
+4497 (5'-CCCAGGCTCCATCGCCTAGC) and 2560
+(5'-GACCACGTTCCTCAGGTTGG-3'). PCR was performed as for the FH-Turku mutation with the temperature profile of 95°C, 55°C, and 72°C for 1 min each. The
+normal allele was digested by the restriction enzyme AluI,
+while the mutant remained undigested when analyzed by
+12% PAGE. For the missense mutations in exon 4, the
+same upstream primer 4737 (5'-TGGTCTCGGCCATCCATCCC-3') was used. The downstream primer 4790
+(5'-GTCAGAlFflGTCCTTGGAGT-3') introduced an
+artificial Hinfl site in the PCR product only for the normal allele, while the Hinfl site was absent in the FH-Fin3 (G661-.T) gene. For the assay of the FH-Fin-4 mutation
+(G665-+A), an artificial PstI site was introduced to the
+normal allele by PCR with the primer 4694 (5'-CCTCGTCAGAFITGTCCCTG-3'). The conditions for PCR
+and electrophoresis were the same as those for the FHPori mutation. Presence of the FH-Helsinki and FHNorth Karelia mutations of the LDL receptor was assayed
+using the multiplex PCR method described elsewhere
+(U.-M. Koivisto et al. 1993).
+Results
+Preliminary Screening of Mutations
+During an earlier study, a cohort of 201 heterozygous
+FH patients from five different regions of Finland was
+
+791
+
+Koivisto et al.: Genes in Familial Hypercholesterolemia
+
+A.
+
+1 2345678910
+
+ACGT
+
+3'
+C
+
+IA
+
+T
+C
+Gly823
+G/A X Asp
+G
+C
+
+G
+
+the patient's sequence with an equal intensity to the
+corresponding G band in the normal allele at nucleotide
+position 2533, indicating that one of the two alleles in
+the patient has a adenine-for-guanine substitution (fig.
+1B). This nucleotide substitution is predicted to result
+in a change from an uncharged glycine to a negatively
+charged aspartic acid at residue 823 of the LDL receptor
+protein. The mean (± SD) serum total, LDL, and HDL
+cholesterol, as well as triglyceride concentrations, in the
+eight probands were 12.4 ± 1.5, 10.4 + 1.4, 1.4
++ 04, and 1.5 ± 0.7 mmol/liter, respectively, which
+were not significantly different from those in heterozygous FH patients with the FH-Helsinki or North Karelia
+genes (Koivisto et al. 1992). The exon 17 mutation was
+subsequently designated as FH-Turku (see below).
+
+5,
+
+Analysis of exon 17 of the LDL receptor gene. A,
+Figure I
+SSCP analysis of exon 17. Lanes 1, 3, 5, and 8, Patients heterozygous
+for a mutation in the PCR fragment covering exon 17. Lanes 2, 4, 6,
+7, 9, and 10, Different heterozygous FH patients with no detectable
+variant in exon 17. B, Partial genomic nucleotide sequence of exon
+17 from a patient with a variant exon 17 allele. The affected patient
+is heterozygous for a G-A transition at nt position 2533, encoding
+aspartic acid for glycine mutation at codon 823.
+
+screened for the presence of FH-Helsinki and FH-North
+Karelia mutations (Koivisto et al. 1992). In contrast to
+the other parts of Finland, prevalence of these two mutations in the southwestern area of Finland was significantly less than the average of 67%, suggesting the enrichment of another type of LDL receptor gene
+mutations in this region. Our current study was undertaken to identify any additional Finnish type FH-mutations from the remaining unrelated Finnish families with
+an unidentified LDL receptor gene mutation and to investigate if any of these would be preferentially enriched
+among southwestern Finns.
+The genomic DNA of the 46 probands was initially
+analyzed by Southern blot technique with three restriction endonucleases and two cDNA fragments as probes
+(Aalto-Setala et al. 1992), to exclude the possibility of
+any major gene rearrangements. In the SSCP analysis,
+we identified aberrant migration of the labeled DNA
+strands in the samples of 18 patients. In each case, only
+1 of the 18 exons revealed a characteristic mobility shift.
+The aberrantly migrating PCR fragments were sequenced, and sequence alterations were identified.
+Identification of the Exon 17 Mutation
+
+SSCP analysis disclosed eight families with an identical aberrant band shift in exon 17 (fig. 1A). The exon
+17-containing region was amplified from all eight FH
+patients with the abnormal SSCP pattern in exon 17 and
+directly sequenced. In each case, an extra A appeared in
+
+Identification of Other Mutations
+
+In addition to the exon 17 mutation, nine other LDL
+receptor mutations were identified, including two nonsense mutations, six missense mutations, and a single
+13-bp deletion (table 1). Both nonsense mutations were
+found in the ligand binding area of the gene: a thymidine-for-guanine substitution converts codon 80 to a
+stop codon in exon 3 (fig. 2A), while in exon 6 a adenine-for-guanine substitution results in a stop codon at
+position 284 (fig. 3). Missense mutations in the ligand
+binding area of the gene included two base substitutions in exon 4: a guanine-to-thymidine transition causing a negatively charged aspartic acid to be replaced
+by an uncharged tyrosine at codon 200 (fig. 2C), and
+a guanine-to-adenine transition changing a sulfhydrylcontaining cysteine to a hydroxyl-containing tyrosine
+at codon 201 (fig. 2D). In the epidermal growth factor
+homology domain, one patient displayed a guanine-toadenine transition resulting in the substitution of serine
+for glycine at codon 375 in the exon 8 (fig. 2E). An
+adenine-for-thymidine substitution causing a nonpolar
+leucine to be replaced by a positively charged histidine
+in codon 380 in exon 9 was detected in two unrelated
+FH patients (fig. 2F) and designated as FH-Pori, while
+an adenine-for-cytosine substitution changing aspartic
+acid to glutamine in codon 424 was detected in one
+patient (fig. 2G). In exon 10, an adenine-for-guanine
+substitution converting an uncharged glycine to a positively charged arginine was detected in one patient
+(fig. 2H).
+The only deletion detected was found in a patient
+who displayed a mobility shift, as well as a heteroduplex, on an SSCP gel in exon 4. The subcloned mutant allele displayed a 13-bp deletion extending from
+nt 1325 to nt 1337 (fig. 2B). This deletion is predicted
+to result in a translational frameshift after threonine
+87 and introduces a premature stop codon at amino
+acid 179.
+
+792
+
+Am. J. Hum. Genet. 57:789-797, 1995
+
+Table I
+Summary of Characteristics of I0 Novel LDL Receptor Gene Mutations in Finnish Patients
+with Heterozygous Familial Hypercholesterolemia
+
+Nucleotide
+
+Allele Designation
+
+Exon
+
+Change
+
+FH-Fin-1 .....................
+FH-Fin-2 .....................
+FH-Fin-3 .....................
+FH-Fin-4 .....................
+FH-Fin-5 .....................
+FH-Fin-6 .....................
+FH-Fin-7 (FH-Pori) ...............
+FH-Fin-8 .....................
+FH-Fin-9 .....................
+FH-Fin-10 (FH-Turku) .........
+
+3
+4
+4
+4
+6
+8
+9
+9
+10
+17
+
+G301-T
+del325-337
+G661-'T
+G665-+A
+G915--A
+G1186-+A
+T1202-A
+C1335-A
+G1432-A
+G2533-+A
+
+Codon
+Change
+
+Proband Age
+(years)
+
+Glu8O-Stop
+Frameshift 38
+
+38
+
+Asp200-Tyr
+
+25
+50
+37
+62
+43
+51
+45
+43
+
+Cys201-Tyr
+Trp284-Stop
+Gly375-Ser
+Leu380-His
+
+Asp424-Glu
+
+Gly457-+Arg
+Gly823-Asp
+
+Tendon
+Xanthomasa
+
+Serum
+LDL-Cholesterol
+
+11.1
++9.9
+7.4
+8.6
+10.7
+9.9
+9.2
+15.9
+8.5
+9.2
+
++
+
++
++
++
++
++
+
++
+
+a A plus sign (+) indicates positive status. A minus sign (-) indicates negative status.
+
+not be conveniently assayed by restriction-enzyme digestion
+because of the presence of another MboH site immediately
+adjacent to the mutated site. None of the other mutations
+created new or abolished existing restriction sites in any of
+the 18 exons of the LDL receptor gene. Therefore, family
+studies were carried out either by using direct sequencing
+(fig. 3) or by introducing artificial restriction-enzyme recognition site in the PCR product of a given exon that was
+
+Cosegregation of the Mutations with Familial
+Hypercholesterolemia in the Pedigrees
+
+Only the thymidine-for-guanine substitution at nt 301 in
+exon 3 (FH-Fin-1) created a new restriction site and allowed
+family analysis by MaeI digestion of the exon 3-containing
+PCR fragment. The only mutation abolishing an existing
+restriction site was the FH-Pori mutation, which destroyed
+a restriction site for MboH. This mutation, however, could
+
+A. FH-Fin-1
+
+B.
+
+ACGT
+
+ACGT
+
+A
+
+Glu8O
+Stop
+
+G
+
+A
+
+M
+
+G/T
+
+C. FH-Fln-3
+
+FH-Fln-2
+
+TGCA
+
+Y
+T (C)
+
+T
+Cys2Ol
+A (G) = Tyr
+
+) Asp200
+
+I*
+
+~c
+
+iA
+
+T
+
+A
+
+G
+
+-\C
+
+E. FH-Fin-6
+
+5t
+
+G. FH-Fln-8
+
+F. FH-Fin-7
+
+ACGT
+
+G
+3'
+
+A
+
+5,
+
+3'
+a
+
+TGCA
+
+5'
+G
+
+-13 nt
+
+G
+
+TGCA
+
+5'
+
+_iE
+
+IG(G)
+
+A (T)
+
+_
+
+D. FH-Fln-4
+
+H.
+
+TGCA
+
+5'
+
+T
+
+FH-Fin-9
+
+ACGT
+
+5
+
+3'
+G
+
+~T
+
+C
+
+t
+
+g
+
+G/A Gly375
+=* Ser
+\G
+
+c
+,A
+(T) =His
+
+CLeu380
+
+T
+G
+
+A
+
+C/A
+
+T
+G
+
+C
+
+Asp424
+X Glu
+
+G
+
+_
+
+~~G
+
+Gly457
+=* Arg
+
+G/A
+
+C
+
+T
+
+S5
+
+G
+
+3'
+
+3,
+
+59
+
+Partial genomic nucleotide sequences of the mutations in Finnish heterozygous FH-patients. Panels A, E, G, and H depict
+Figure 2
+direct sequence analysis from PCR amplified genomic DNA. Panels B, C, D, and F depict sequence analysis from cloned DNA. The affected
+allele is presented.
+
+793
+
+Koivisto et al.: Genes in Familial Hypercholesterolemia
+
+of DNA samples from 50 normolipidemic control sub-
+
+FH-Fln-5
+(Trp284
+
+->
+
+Stop)
+
+jects.
+Prevalence of the FH-Turku and FH-Pori Genes in
+Southwestern Finland and in the Whole Country
+From the 10 mutations identified, only 2 were found
+
+FH-Fin-5 mutation, partial DNA analysis of exon 6
+Figure 3
+by the direct solid phase sequencing. Primers for the amplification of
+genomic DNA by PCR were 4743 (5'-TCCTTCCTCTCTCTGGCTCT-3') and 4659 (5'-biotin-CAAGCCGCCTGCACCGAGAC3'). DNA sequencing was performed with the fluorescent end-labeled
+primer E6F (5'-TGACACTCTGCGAGG-3') and using the automated
+laser fluorescent (A.L.F.) DNA sequencer (Pharmacia LKB). The
+arrows point to the G915-+A substitution present in three heterozygous FH patients of a single family.
+
+in more than one family. All of the eight probands with
+the FH-Turku gene were from the Helsinki or southwestern regions of Finland. There were two probands
+with the FH-Pori mutation, one coming from the city
+of Pori, in southwestern Finland, and the other from the
+Helsinki area. Because our previous study was compatible with the assumption that one mutation type other
+than the FH-Helsinki or FH-North Karelia gene may be
+enriched in the southwestern Finland (Koivisto et al.
+1992), we expanded the cohort of clinically unequivocal
+cases of unrelated FH probands from this geographical
+origin to 39 patients. Most of these patients lived in the
+city of Turku on the southwestern coast of Finland. In
+this group as a whole, we identified nine (23%) probands with the FH-Helsinki gene, eight (21%) probands
+with the FH-Turku gene, four (10%) probands with the
+FH-North Karelia gene, and three (8%) probands with
+the FH-Pori gene.
+Table 2 summarizes the prevalences of the common
+and rare mutations of the LDL receptor gene in the
+whole of Finland. The newly described FH-Turku gene
+was most prevalent among the FH patients from the
+southwestern part of Finland (see above) and was present in 6% of patients from the Helsinki region. Neither
+of the two common point mutations, FH-Turku or FHPori, were found in any patient living in the northern
+and eastern parts of Finland. Altogether, the four common Finnish-type FH genes (FH-Helsinki, FH-North
+Karelia, FH-Turku, and FH-Pori) account for -75% of
+the LDL receptor gene mutation spectrum in Finland.
+This should be considered a minimum estimate because
+some of the 38 patients with the yet unknown class of
+mutations (table 2) may in fact have a disease other
+than familial hypercholesterolemia. There are marked
+geographical differences in the frequency of the four
+common FH genes among patients from various parts
+of the country (fig. 5).
+Discussion
+
+absent in the mutated gene (see Subjects and Methods). The
+principle of the PCR-PIRA assay of the FRH-Turku mutation
+is illustrated in figure 4.
+Family studies were carried out with all the mutations
+listed in table 1, with the exception of the FRH-Fin-8
+mutation, in which case family members were not available for examination. In every case, cosegregation of the
+mutant allele with hypercholesterolemia was demonstrated. None of the mutations were detected in a panel
+
+This paper describes 10 previously unreported mutations of the LDL receptor gene that all were associated
+with a typical clinical phenotype of heterozygous familial hypercholesterolemia. Although an unequivocal demonstration of a causal role for the seven missense mutations (table 1) would require expression of the mutant
+genes in mammalian cells followed by functional studies
+of the encoded receptors, several arguments favor their
+pathogenetic significance. First, six of the seven missense
+
+794
+
+Am. J. Hum. Genet.
+
+57:789-797, 1995
+
+A.
+4
+4
+
+187 bp
+
+.
+
+..
+
+~~~ ~167
+IB.,bp
+
+20 bp
+
+9035*
+I
+
+I
+
+I
+
+Is
+1
+
+3.
+
+-3273
+
+5'-tgacagagcgtgcctctccctacag-3'
+
+C C T C GG T G A-3' normal
+s' -... AC GG C TAC AG C T ACC
+GGTG TCGATGGGG AG C CA C T-S' prmer
+Haoil
+5'-.... ACGGCCACAGCTACCC....-3' amplified normal
+
+ACGACCACAGCTACCC...-3' amplified mutant
+
+C.
+
+l
+
+D.
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+76
+
+7
+
+10.9
+
+_-187 bp
+ii- 167 bp
+
+1.0
+
+X+
+
+i8
+5.9
+.-
+
+15
+
+9.8
+
+46
+
+44
+
+6.0
+X-
+
+9.8+
+
+i_
+
+Figure 4
+Assay for the FH-Turku mutation. A and B, Partial sequences of the amplified normal DNA and the mutant DNA. Gene
+amplification by mismatch PCR introduces an artificial HaeIII site only to the normal allele. C, HaeIII digests of PCR-PIRA-amplified genomic
+DNA in an affected family. Lanes 1, 2, 5, and 7, Individuals heterozygous for the FH-Turku mutation. Lanes 3, 4, and 6, Healthy family
+members. Undigested control DNA is shown (left). D, Pedigree analysis of the family in C. Age (top), serum total cholesterol (mmol/liter;
+bottom) and the presence (X+) or absence (X-) of tendon xanthomas are indicated.
+
+Table 2
+Common and Rare Mutations of the LDL Receptor Gene
+in Finland
+
+Type of Mutation
+
+FH-Helsinki
+FH-North Karelia
+FH-Fin-10 (FH-Turku)
+
+No. of Probands (%)
+
+.........
+
+FH-Fin-7 (FH-Pori) ...............
+Rare defined mutations:
+Present studya ....................
+Previous studiesb ................
+
+Uncharacterized
+All
+
+72 (33.8)
+73 (34.3)
+14 (6.6)
+4 (1.9)
+8 (3.8)
+4 (1.9)
+
+38 (17.8)
+213 (100.0)
+
+NoTE.-Percentages sum to slightly more than 100% (100.1%)
+because of rounding error.
+See Table 1.
+b Two large deletions (Aalto-Setala et al. 1992), the FH-Espoo mutation (P. Koivisto et al. 1993), and the point mutation in the promoter
+region (Koivisto et al. 1994).
+a
+
+mutations will result in charge alterations of the amino
+acid residue involved (table 1). The only exception is
+the FH-Fin-6 mutation replacing the uncharged glycine
+with another uncharged residue, serine. Second, cosegregation of the mutant allele with the clinical phenotype of familial hypercholesterolemia was demonstrated
+in all but one families investigated. Third, none of the
+ten mutations was identified when their occurrence was
+tested among a collection of 100 LDL receptor alleles
+from the normal Finnish population.
+The present study indicates the feasibility of the SSCP
+technique (Orita et al. 1989) in mutation scanning. Of
+the 10 mutations detected, 9 were single-nucleotide alterations. Our inability to find distinct SSCP signals in
+many samples may reflect the inherent limitations of the
+SSCP analysis. It is also possible that we have missed
+mutations that are located close to the intron-exon
+boundaries of LDL receptor gene, because PCR primers
+were derived from the exon-flanking sequences of the
+17 introns (Leitersdorf et al. 1990). Alternatively, some
+of the unknown type of mutations may affect the structure of the introns themselves. Finally, although the pres-
+
+795
+
+Koivisto et al.: Genes in Familial Hypercholesterolemia
+
+FINLAND
+
+(',
+
+-e_
+
+NORTHERN FINLAND
+60 %
+FH-HebsinkI
+
+-
+
+FH-North Karelia 10 %
+
+EASTERN FINLAND
+FH-North Karlia 90 %
+
+SOUTHWESTERN FINLAND
+
+FH-HeTndw
+
+250%
+
+FH-North Karelia 10 %
+FHPod10%
+-
+
+FHTd
+
+_~~~~~~
+
+5%
+
+HELSINKI REGION
+FH-He~snki
+45 %
+FH-North Karella 20 %
+
+Figure
+
+5
+
+Approximate prevalences of the four Finnish-type
+
+LDL receptor gene mutations among unrelated
+
+heterozygous FH propartly based
+
+bands from different parts of the country. The map is
+data
+
+on
+
+ence
+
+published
+
+elsewhere (Koivisto
+
+of familial defective
+
+these probands
+
+was
+
+et
+
+al. 1992).
+
+apolipoprotein B (FDB) in
+during a previous study
+
+excluded
+
+(Hamalainen et al. 1990), it is quite possible that
+
+some
+
+of the patients may in fact
+
+some
+
+other type of
+
+not
+
+have FR
+
+at
+
+all but
+
+hypercholesterolemia clustering
+
+in families.
+
+The FR-Turku mutation appears to be located closest
+to
+
+the C terminus of all missense mutations described
+
+thus far in the LDL receptor gene. It also appears
+the first natural point mutation
+basolateral
+to
+
+so
+
+far
+
+affecting
+
+to
+
+be
+
+the distal
+
+sorting signal that directs the LDL receptor
+polarized epithelia (Yo-
+
+the basolateral surface of the
+
+doke
+is
+
+et al. 1992). The distal basolateral sorting signal
+different from the proximal signal that appears to
+
+mediate both
+
+endocytosis (internalization) and basolattargeting of LDL particles (Matter et al. 1992). The
+distal basolateral sorting signal contains two tyrosine
+residues at positions 824 and 826, and its activity is
+particularly dependent on tyrosine 824 (Matter et al.
+eral
+
+1992).
+
+The FH-Turku mutation
+
+glycine
+
+823
+
+this indeed
+
+to
+
+converts
+
+the
+
+uncharged
+
+negatively charged aspartic acid. Whether
+
+affects the critical function of its neighboring
+
+residue
+
+(tyrosine 824) is yet to be examined by overexpression of the mutant receptor in polarized epithelial
+cells. During our previously published study, in which
+we
+
+examined LDL
+
+binding and internalization of fibropatients with and without the
+
+blasts from Finnish FR
+
+FR-Helsinki gene (Aalto-Setala et al. 1989), three heterozygous patients with the FH-Turku gene were in-
+
+cluded
+
+in the
+
+ternalization,
+
+analyses; the mean values for binding, inand degradation of radiolabeled LDL
+
+particles were 62 ± 12%, 49 ± 13%, and 49 ± 10
+%, respectively, of those measured for fibroblasts from
+
+normal controls. If the FH-Turku mutation would affect
+the basolateral sorting process only, it should not significantly impair the binding of LDL particles by nonpolarized cells such as fibroblasts. It is thus possible that the
+FH-Turku mutation could result in defective receptor
+function by other mechanisms, such as by alterations in
+mRNA stability, rate of receptor degradation, or improper dimerization of the receptors.
+The FH-Pori mutation substitutes a positively charged
+histidine for a neutral leucine at position 380 located in
+aminoterminal portion of the epidermal growth-factor
+homology region of the LDL receptor gene. Missense
+mutations of the exon 9 have been reported to result
+almost invariably in recycling-defective (class 5) receptor
+molecules (Hobbs et al. 1992). The detailed functional
+consequences of the FH-Pori mutation are yet to be explored.
+By an apparent founder gene effect, particular mutations of the LDL receptor gene have been enriched in
+several non-European populations including the French
+Canadians (Hobbs et al. 1987; Leitersdorf et al. 1990),
+South African Afrikaners (Leitersdorf et al. 1989), and
+a number of Christian, Jewish, and Arab sects living in
+the Middle East (Lehrman et al. 1987; Meiner et al.
+1991; Landsberger et al. 1992; Leitersdorf et al. 1993).
+The spectrum of mutations is much more variable in
+most European countries (Schuster and Humphries
+1994). Although four different rearrangements of the
+LDL receptor gene account for 17% of the mutations
+in the Dutch FH patients (Top et al. 1990) and a group
+of different large rearrangements or small DNA alterations collectively reach up to 20% of the mutations
+among FH patients in United Kingdom (Gudnason et al.
+1993), the remainder may mostly represent rare alleles
+varying from family to family. A specific point mutation
+Pro664-Leu was present in many FH probands from
+both the United Kingdom (King-Underwood et al. 1991)
+and The Netherlands (Defesche et al. 1992), but its coverage in the total material did not exceed 1%-2% in
+either case. As to the Nordic countries, two apparent
+founder mutations, together accounting for -33% of
+FH cases in Norway, were recently identified (Leren et
+al. 1994), whereas no commonly occurring mutant LDL
+receptor genes have been reported in Sweden or Denmark, to date.
+The molecular genetic background of FH in Finland
+is peculiar, a fact apparently reflecting anthropological,
+cultural, and linguistic separation from other European
+populations. The exact root of the present-day Finns is
+a matter of debate (Huurre 1990). Two facts have been
+established with certainty: first, Finland had inhabitants
+during the stone and bronze age, even thousands of years
+before the Christian era; and second, an important wave
+of settlement originating from the present Baltic area
+took place during the first centuries C.E. According to
+
+796
+
+Am. J. Hum. Genet. 57:789-797, 1995
+
+(FH-Helsinki) deletes exons encoding the carboxy-terminal
+the "continuity theory," the impact of the former popupart of the receptor and creates an internalization-defective
+lation to the development of the Finnish population is
+phenotype. J Clin Invest 84:499-505
+dominating, while the "settlement theory" maintains
+K, Koivisto U-M, Miettinen TA, Gylling H, KesaAalto-Setala
+that the latter is more important (Huurre 1990). WhatM, Pyorala K, et al (1992) Prevalence
+Savolainen
+A,
+niemi
+ever the extent of either influence, the Finns appear to
+of major LDL receptor gene
+distribution
+geographical
+and
+be unrelated to other European populations, with the
+rearrangements in Finland. J Intern Med 231:227-234
+possible exception of the Estonians. The originality of Casanova J-L, Pannetier C, Jaulin C, Kourilsky P (1990) Optithe Finnish language has effectively contributed to the
+mal conditions for directly sequencing double-stranded PCR
+racial isolation of the Finns from its neighboring populaproducts with Sequenase. Nucleic Acids Res 18:4028
+tions during their entire history. It may thus be no won- Defesche JC, van de Ree MA, Kastelein JJP, van Diermen
+der that all but one of the LDL receptor gene mutations
+DE, Janssens NWE, van Doormaal JJ, Hayden MR (1992)
+Detection of the Pro664-Leu mutation in the low-density
+that we have identified in the present and previous studlipoprotein receptor and its relation to lipoprotein(a) levels
+et
+al.
+Koivisto
+U.-M.
+1989,
+1992;
+et
+al.
+ies (Aalto-Setala
+in patients with familial hypercholesterolemia of Dutch an1992, 1993, 1994) seem to be unique to Finland. The
+cestry from The Netherlands and Canada. Clin Genet
+FH-Fin-9 mutation appears to be the same as the FH42:273-280
+New York 2 mutation previously reported by Hobbs et
+JL, Brown MS (1989) Familial hypercholesterolGoldstein
+al. (1992), but this finding alone does not strongly supemia.
+In:
+Scriver CR, Sly WS, Valle D (eds) The metabolic
+port their common origin. The occurrence of the FHdisease. 5th ed. McGraw-Hill, New York,
+of
+inherited
+basis
+Helsinki gene was recently reported in a few heterozy1215-1250
+gous FH probands from Norway (R0dningen et al. Gudnason V, King-Underwood L, Seed M, Sun X-M, Soutar
+1992) that most likely can be explained by immigration
+AK, Humphries SE (1993) Identification of recurrent and
+of Finnish FH patients. On the other hand, none of the
+novel mutations in exon 4 of the LDL receptor gene in
+FH genes originally identified in North America (except
+patients with familial hypercholesterolemia in the United
+FH-New York 2) or elsewhere in Europe (Hobbs et al.
+Kingdom. Arterioscler Thromb 13:56-63
+1992; Schuster and Humphries 1994) have been found Hamalainen T, Palotie A, Aalto-Setala K, Kontula K, Tikkanen
+MJ (1990) Absence of familial defective apolipoprotein Bin Finland, and the mutation causing the syndrome of
+100 in Finnish patients with elevated serum cholesterol. Athfamilial defective apolipoprotein B seems to absent in
+erosclerosis 82:177-183
+this country (Hamalainen et al. 1990). With this background, it is though of interest that the four common Hobbs HH, Brown MS, Goldstein JL (1992) Molecular genetics of the LDL receptor gene in familial hypercholesterolFinnish-type mutations are highly unevenly distributed
+emia. Hum Mutat 1:445-466
+within the population (fig. 5). Agriculture, late industri- Hobbs
+HH, Brown MS, Russell DW, Davignon J, Goldstein
+alization, and relatively late settlement of the northern
+JL (1987) Deletion in the LDL receptor gene occurs in maand eastern parts of the country by few immigrants (Nojority of French Canadians with familial hypercholesterolrio et al. 1973) are likely explanations for this lack of
+emia. N Engl J Med 317:734-737
+homogeneity.
+Huurre M (1990) 9000 vuotta Suomen esihistoriaa, 4th ed.
+In summary, four common mutations of the LDL reOtava, Keuruu
+ceptor gene account for 75% of all mutations causing Jacobson DR, Moskovits T (1991) Rapid, non-radioactive
+FH in Finland. A simple test combining the PCR techscreening for activating ras-oncogene mutations using PCRprimer introduced restriction analysis (PCR-PIRA). PCR
+niques described elsewhere (Koivisto et al. 1993) and in
+Methods Appl 1:146-148
+the present study would thus constitute a most useful
+tool to improve the diagnosis of heterozygous FH and King-Underwood L, Gudnason V, Humphries S. Seed M, Patel
+D, Knight B, Soutar A (1991) Identification of the 664 proto determine the prevalence of FH in the general populaline to leucine mutation in the low density lipoprotein reception and its subgroups.
+tor in four unrelated patients with familial hypercholestero-
+
+Acknowledgments
+We thank Dr. Paavo Paakkonen, Central Hospital of Satakunta, for providing us a blood sample and family data of
+one of the probands with the FH-Pori gene. This study was
+supported by grants from The Finnish Cultural Foundation,
+The Medical Council of the Finnish Academy, The Sigrid Juselius Foundation, The Paulo Foundation, The University of Helsinki, and The Paavo Nurmi Foundation.
+
+References
+Aalto-Setala K, Helve E, Kovanen PT, Kontula K (1989) Finnish type of low density lipoprotein receptor gene mutation
+
+laemia in the UK. Clin Genet 40:17-28
+Koivisto PVI, Koivisto U-M, Kovanen PT, Gylling H, Miettinen H. Kontula K (1993) Deletion of exon 15 of the LDL
+receptor gene is associated with a mild form of familial
+hypercholesterolemia: FH-Espoo. Arterioscler Thromb
+13:1680-1688
+Koivisto U-M, Hamalainen L, Taskinen M-R, Kettunen K,
+Kontula K (1993) Prevalence of familial hypercholesterolemia among young North Karelian patients with coronary
+
+heart disease: a study based on diagnosis by polymerase
+chain reaction. J Lipid Res 34:269-277
+Koivisto U-M, Palvimo JJ, Janne OA, Kontula K (1994) A
+single-base substitution in the proximal Spl site of the hu-
+
+Koivisto et al.: Genes in Familial Hypercholesterolemia
+
+man low density lipoprotein receptor promoter as a cause
+of heterozygous familial hypercholesterolemia. Proc Natl
+Acad Sci USA 91:10526-10530
+Koivisto U-M, Turtola H. Aalto-Setala K, Top B, Frants RR,
+Kovanen PT, Syvanen A-C, Kontula K (1992) The familial
+hypercholesterolemia (FH)-North Karelia mutation of the
+low density lipoprotein receptor gene deletes seven nucleotides of exon 6 and is a common cause of FH in Finland. J
+Clin Invest 90:219-228
+Kontula K, Koivisto U-M, Koivisto P, Turtola H (1992) Molecular genetics of familial hypercholesterolemia: common
+and rare mutations of the low density lipoprotein receptor
+gene. Ann Med 24:363-367
+Landsberger D, Meiner V, Reshef A, Levy Y, van der Westhuyzen DR, Coetzee GA, Leitersdorf E (1992) A nonsense mutation in the LDL receptor gene leads to familial hypercholesterolemia in the Druze sect. Am J Hum Genet 50:427-433
+Lehrman MA, Schneider WJ, Brown MS, Davis CG, Elhammer
+A, Russell DW, Goldstein JL (1987) The Lebanese allele at
+the LDL receptor gene locus: nonsense mutation produces
+truncated receptor that is retained in the endoplastic reticulum. J Biol Chem 262:401-410
+Leitersdorf E, Reshef A, Meiner V, Dann EJ, Beigel Y, Graadt
+van Roggen F, van der Westhuyzen DR, et al (1993) A
+missense mutation in the low density lipoprotein receptor
+gene causes familial hypercholesterolemia in Sephardic Jews.
+Hum Genet 91:141-147
+Leitersdorf E, Tobin EJ, Davignon J, Hobbs HH (1990) Common low-density lipoprotein receptor mutations in the
+French Canadian Population. J Clin Invest 85:1014-1023
+Leitersdorf E, van der Westhuyzen DR, Coetzee GA, Hobbs
+HH (1989) Two common low density lipoprotein receptor
+mutations cause familial hypercholesterolemia in Afrikaners. J Clin Invest 84:954-961
+Leren TP, Solberg K, R0dningen OK, Tonstad S, Ose L (1994)
+Two founder mutations in the LDL receptor gene in Norwe-
+
+797
+
+gian familial hypercholesterolemia subjects. Atherosclerosis
+111:175-182
+Matter K, Hunziker W. Mellman I (1992) Basolateral sorting
+of LDL receptor in MDCK cells: the cytoplasmic domain
+contains two tyrosine-dependent targeting determinants.
+Cell 71:741-753
+Meiner V, Landsberger D, Berkman N., Reshef A, Segal P.
+Seftel HC, van der Westhuyzen DR, et al (1991) A common
+Lithuanian mutation causing familial hypercholesterolemia
+in Ashkenazi Jews. Am J Hum Genet 49:443-449
+Norio R. Nevanlinna HR, Perheentupa J (1973) Hereditary
+diseases in Finland; rare flora in rare soil. Ann Clin Res
+5:109-141
+Orita M, Suzuki Y. Sekiya T, Hayashi K (1989) Rapid and
+sensitive detection of point mutations and DNA polymorphisms using the polymerase chain reaction. Genomics
+5:874-879
+R0dningen OK, R0sby 0, Tonstad S. Ose L, Berg K, Leren TP
+(1992) A 9.6 kilobase deletion in the low density lipoprotein
+receptor gene in Norwegian familial hypercholesterolemia
+subjects. Clin Genet 42:288-295
+Schuster H, Humphries S (1994) European Workshop on LDL
+receptor defects. Clin Investig 72:898-907
+Top B, Koeleman BPC, Gevers Leuven JA, Havekes LM,
+Frants RR (1990) Rearrangements in the LDL receptor gene
+in Dutch familial hypercholesterolemic patients and the
+presence of a common 4 kb deletion. Atherosclerosis
+83:127-136
+Yamamoto T. Davis CG, Brown MS, Schneider WJ, Casey
+ML, Goldstein JL, Russell DW (1984) The human LDL
+receptor: a cysteine-rich protein with multiple Alu sequences
+in its mRNA. Cell 39:27-38
+Yokode M, Pathak RK, Hammer RE, Brown MS, Goldstein
+JL, Anderson RGW (1992) Cytoplasmic sequence required
+for basolateral targeting of LDL receptor in livers of
+transgenic mice. J Cell Biol 117:39-46
+
+

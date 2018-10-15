@@ -1,0 +1,926 @@
+THEJOURNAL OF BIOLOGICAL
+CHEMISTRY
+Q 1992 by The American Society for Biochemistry and Molecular Biology, Inc.
+
+Vol. 267, No. 36,Ieaue of December 25, pp. 26078-26064.1992
+Printed in U.S.A.
+
+Influence of Specific y-Carboxyglutamic Acid Residues on
+the
+Integrity of the Calcium-dependent Conformation
+of Human Protein C*
+(Received for publication, July 10, 1992)
+
+Li Zhang and FrancisJ. CastellinoS
+From the Department of Chemistry and Biochemistry, University of Notre Dame, Notre Dame, Indiana 46556
+
+The concentration of Ca2+that produced 50%of the ordination of a surface-exposed Ca2+that is present at
+saturable intrinsic fluorescence change (Ca0)of wild- the endof the Ca2+-ionchannel.
+type (wt) recombinant (r) human protein C (PC) was
+0.40 mM. The Cao for Caz+increased <2.5-fold for the
+following r-PC variants (Gla is y-carboxyglutamic
+acid): [Gla' + Asplr-PC, [Gla' + Asplr-PC, [GlaI4 +
+Activated protein C(APC)' is a serine protease with narrow
+Asplr-PC, [Gla" + Asplr-PC, or [Gla2" + Asplr-PC, proteolytic specificity that functions to maintain the fluid
+and approximately 4-6-fold for [Gla20+Asplr-PC and state of blood. This enzyme possesses overall anticoagulation
+[Glaze+ Asplr-PC. Much more dramatic increases in activity in that it catalyzes specific limited proteolytic reacthe Cao for Ca2+were observed for [Gla" + Asplr-PC tions that lead to inactivation of blood coagulation cofactors,
+(>75-fold) and [Gla2' + Asplr-PC (cu. 30-fold). A suband factor Va (fVa) (I),as well as factor VI11
+stantially larger maximum fluorescence change (>3- factor V (fV),
+(fVIII)
+and
+factor
+VIIIa (fVIIIa) (2). This results in inhibition
+fold) as compared to that for wtr-PC, wasalso found
+in the case of the Ca2+/[G1a1' + Asplr-PC complex, of the production of both thrombin and factor Xa, and thus
+suggesting that the final Ca2+-inducedconformation delays fibrin formation. These physiologically relevant activities of APC are stimulated by Ca2+and phospholipid (l),and
+for this variant dissimilar
+is
+to that for wtr-PC and the
+above mutants. When a mutation was constructed at a cofactor, PS (3, 4). APC, in combination with PS (5), also
+Arg" ([Arg" + Leulr-PC), a residue conserved in all functionsasa fibrinolytic agent via mechanisms that are
+Gla-containing coagulation proteins, no fluorescence currently not well understood. In this regard, APC stimulates
+release into blood of plasminogen activators from vascular
+alteration occurredupon addition of Ca2+.
+The CEOfor Ca2+for promotion of the bindingof the endothelial cells (6), and in this manner directly provokes a
+Ca2+-dependent,Gla-domain-directed, conformational fibrinolytic response. APC also has been shown to interact
+monoclonal antibodies, JTC-1 and JTC-3, to wtr-PC with an inhibitor of plasminogen activators (plasminogen
+was 3.0 and 4.0 mM, respectively. A similar Cao value activator inhibitor l ) , thereby inactivating this inhibitor and
+was found for [Gla" + Asplr-PC. In the case of each precluding its involvement as an antifibrinolytic agent (7).
+antibody, approximately 4-6-fold higher Cao values Complexes of plasminogen activatorinhibitor-1and APC
+for Ca2+were found for the mutants; [GlaI4-+ Asplr- have been demonstrated (8),buttheir functional roles in
+PC, [Gla" + Asplr-PC, and [Glaze+ Asplr-PC. Ca2+ fibrinolysis have been questioned (9). It has also been shown
+did not promote binding of either of these antibodies to that APC inhibits an antifibrinolytic component released as
+the following variants; [Gla' + Asplr-PC, [Gla' + Asp] a consequence of prothrombin activation and in this manner
+r-PC, [Arg" + Leulr-PC, [Gla" + Asplr-PC, [Gla20+ provides a fibrinolytic potential (10, 11).PS also appears to
+Asplr-PC, and [Gla" + Asplr-PC.
+be a cofactor for the fibrinolytic activity of PC (5).
+The resultsof this studysuggest that adoption of the
+APC exists in plasma as an inactive two-chain, disulfideCa2+-dependentconformation of PC is greatlydependent upon the presence of specific essential Gla residues, linked zymogen, PC, a member of the class of vitamin Kparticularly those, namely Gla" and G1a2', shown in dependent coagulation factors. Activation of human PC,with
+the crystal structure of the prothrombin Gla domain/ concomitant release of a dodecapeptide, takes place at the
+Ca2+complex to be involved with coordination of Ca2+ endothelial cell surface as a consequence of thrombin/Ca2+ions not exposed to the surface.Of similar importance catalyzed cleavage at a single peptide bond, Argl'Leu, of the
+is Arg". On the other hand, Gla residues at positions PC heavy chain. The membrane cofactor, thrombomodulin,
+is a cofactor for this activation reaction (12). Slower activation
+14 and 19 are much less important in directing this
+same conformation. This finding is readilyreconciled of PC is catalyzed by thrombin alone, in a reaction inhibited
+with the above crystal structure, which shows that byCa'+ (13). Ca'+ (13) and Mn2+ (14) interact with PC via
+these latter 2 residues are mainly responsible for co- the Gla domain, and these sites are important to the anticoagulant activity of APC (15). Another high affinity site for
+* This study was supported by Grant HL-19982 from the National Ca'+ (16) and Mn2+ (14) exists outside of the Gla domain,
+Institutes of Health and theKleiderer-Pezold endowed professorship which is responsible for the stimulation of the activation of
+(to F. J. C.). The costs of publication of this article were defrayed in PC by thrombin/thrombomodulin, and for the inhibition of
+part by the payment of page charges. This article must therefore be this same activation by thrombin (15). This latter site was
+hereby marked "advertisement" in accordance with 18U.S.C.Section
+initially believed to reside in the first growth factor domain
+1734 solely to indicate this fact.
+more recent evidence suggests that thisbinding
+The atomic coordinates and structure factors (code lPF2) have been of PC (17), but
+deposited in the Protein Data Bank, Brookhaven National Laboratory,
+Upton, N Y .
+$ To whom correspondence should be addressed.
+
+The abbreviations used are: APC, activatedprotein C; PC, protein
+C; Gla, y-carboxyglutamic acid; PS, protein S.
+
+26078
+
+Determinants of the Calcium-dependent ConformationProtein
+of
+site is located outside of this region (18).
+The human PC gene (19) and its cDNA (20) have been
+cloned and sequenced. Eight exons constitute the entire coding region of a single-chain form of PC, which contain all of
+its functional domains (19). The second exon, which begins
+at residue -19 of the signal sequence and terminatesat amino
+acid residues 37/38 of the mature protein, contains all nine
+Gla residues of human PC. Exon 3 terminates at residue 46,
+and encodes a short helical area of the protein that has been
+implicated in stabilization of a proper Ca2+-inducedconformation in prothrombin (21). Active site residue H i P 1 is
+present in exon 7, and exon 8 contains the othertwo residues,
+Aspzss and Ser3@,of the catalytic triad of APC. Processing
+events that generate mature plasma PC include cleavage of
+the leader polypeptide (19); y-carboxylation of the 9 Glaprecursor E residues, present at amino acid sequence positions
+6, 7,14,16,
+19, 20, 25, 26, and 29 of human PC (22); 8hydroxylation ofAsp71 (23); removal of the LyP6 Argls7
+dipeptide from the single-chain form of PC, areaction that is
+essential to generate the two-chain form of PC (20, 22); and
+glycosylation of Ame7,A d a 8 , Asn313,and Asn3" (24).
+The post-translational processing of appropriate precursor
+E residues to Gla residues allows vitamin K-dependent blood
+coagulation proteins to bind to Ca2+and PL,interactions that
+are essential to their proper functioning (for a review, see Ref.
+25). With regard to PC, it has been demonstrated that incomplete y-carboxylation of random Gla-precursor E residues
+(26), as well as proteolytic removal of the entire Gla domain
+of plasma PC (15), leads to a substantial decrease of the
+anticoagulant activities of the respective APCs. This laboratory is interested in definition of the roles of specific Gla
+residues in the various structural andfunctional properties of
+this protein. To date, employing site-directed mutagenesis of
+PC, we have demonstrated that double mutations that prevent
+y-carboxylation at the Epairspresent
+at r-PC sequence
+positions 6 and 7 (27), and 19 and 20 (28), residues conserved
+in all vitamin K-dependent coagulation proteins, greatly reduce the anticoagulant properties of the resulting variant rAPC molecules. We have also constructed, expressed, and
+purified r-PC molecules containing individual mutations at
+all Gla-precursor E residues, and showed that only Gla residues 6,14, and 19 are dispensable to theanticoagulant activity
+of APC (29). In the currentcommunication, we report results
+obtained from an investigation of the specific Gla residues
+necessary for adoption of the proper Ca2+-inducedconformation of PC. Such an investigation is of fundamental importance tounderstanding the roles of individual Gla residues as
+determinants of the structureof functional PC andAPC.
+
+C
+
+26079
+
+in the same manner as above. The characteristics antibody C3 have
+been described (30).
+Fluorescence-Fluorescence measurements were conducted at
+20 "C with use of an SLM-Aminco 8000 (SLM-Aminco Instruments,
+Urbana, IL) recording spectrofluorometer. The excitation and emission wavelengths were 283 and 340 nm, respectively. The relevant rPC (absorbance a t 280 nm = 0.1) in a solution of20mM Tris-HC1,
+100 mM NaC1, pH 7.4, was partly degassed under gentle vacuum and
+subjected to centrifugation at 10,000 rpm for 10 min. This solution
+was adjusted to a volume of 1 ml with this same buffer, and the
+absorbance a t 280 nm was measured. After equilibration at 20 "C for
+10 min, at which time a stable fluorescence base line was achieved
+( F J , the fluorescence intensity ( F ) was measured following each
+addition (2 pl) of a stock solution (2-2500 mM, depending upon the
+particular variant used) of CaClz (the total volume of Ca2+added in
+the titrationswas <3.5% of the original solution volume in all cases).
+The concentration of Ca2+that resulted in 50% of the total fluorescence change (C6,,), as well as the fluorescence change that would
+was calculated from regression analysis
+occur at saturation (Urnax),
+of nonlinear least squares fits of the fluorescence data.
+The Interaction of r-PC Variants with Gla Domain-directed Conformation-dependent Monoclonal Antibodies-The interactions of rPC variants with the conformation-specific monoclonal antibodies
+JTC-1 and JTC-3were measured using operational modifications of
+the method previously described (31). Plasma PC (5 pglml), in a
+buffer composed of 20 mM Tris-HC1, 150 mM NaCl, pH 7.4 (TBS),
+was used to coat the wells of a 96-well microtiter plate at 4 "C
+overnight. Unoccupied sites in the wells were blocked by incubation
+of the plates for 2 h at 37 "C with a solution (200 pl) of 1%(w/v)
+gelatin in TBS. A total of 150 pl of a solution of '=I-JTC-l or '"1JTC-3 (cu. 14,000 cpm/well), 1%(w/v) gelatin in TBS, containing
+different concentrations of CaC12 (0-40 mM), was added to each well
+and allowed to incubate for 3 h a t 37 "C. After washing the wells 3 X
+with TBS containing the same Ca2+concentration, individual wells
+were cut from the plate and the amount of radioactivity present was
+measured with a y-counter (Beckman Gamma 4000).
+The maximum amount of antibody bound to any of the r-PC
+variants ([Ab],,) was determined from the Ca2+titration data. The
+radioactivity bound to each variant at each Ca2+concentration/([Ab]
+,-I) X 100 was taken as thepercent of antibody bound at these same
+Caz+concentrations. The concentration of Ca2+required for binding
+of antibody to 50% of the PC molecules, as estimated directly from
+the graphs, is defined as theCWvalue. For all experiments performed,
+standardizations of the amounts of r-PC variants adsorbed to the
+plate were achieved by performing parallel experiments with another
+monoclonal antibody, 12'I-C3, the binding of which is independent of
+Ca2+,and of the Gla domain (30).
+RESULTS
+
+In a previous investigation (29), we have provided details
+on the construction, expression, purification, and characterization of all maximally y-carboxylated single Gla to D mutants of r-PC. In summary, the purified proteins showed no
+apparent inhomogeneity, were maximally y-carboxylated (except for the sites where the mutations were inserted), and
+amino acid sequence analyses of the entire Gla domain diEXPERIMENTALPROCEDURES
+rectly demonstrated that themutations were present in their
+Proteins-The methods for construction of all variant r-PC moleanticipated locations. In that same investigation, we also
+cules, as well as their expression in human 293 cells and purification
+of variant r-PC subpopulations containing maximally y-carboxylated examined the general anticoagulation activity of each of these
+material, have been described in detail (29). The PC solutions were variants and showed that Gla6, Gla14, and Gla" were unnecdialyzed against the buffer of choice, containing Chelex-100,prior to essary for APC anticoagulation activity, and that GlaZ5only
+use in the experiments.
+partly influenced APC activity. Gla residues at sequence
+The Ca2+-dependentmonoclonal antibodies to plasma PC, JTC-1, positions 7, 16, 20, 26, and 29, as well as a Arg"
+Leu
+and JTC-3,were provided by Dr. Nobuo Aoki (Tokyo, Japan). Each
+variant,
+were
+found
+to
+be
+essential
+for
+Ca2+-dependent
+antiprotein was radiolabeled using the IODO-BEAD (Pierce Chemical
+Company) procedure. To 1 ml of protein (1mg/ml) in 50 mM sodium coagulation activity. The present study centers upon examiphosphate, 150 mM NaCl, pH 7.4, three IODO-BEADSwere added nation of the influence of individual Gla residues of PC and
+and mixed with 5 pl of Na[lZ6I](0.5 mCi). The reaction was allowed APC on the production of the important Ca2+-directedcont o proceed for 15 min at room temperature. Nonbound '1 was formational change necessary for phospholipid binding and
+removed by gel filtration over Econo-columns packed with Sephadex anticoagulation activity of these proteins.
+G-25. Finally, the protein solution was dialyzed against 20 mM TrisIt has been previously shown that a fluorescence quenching
+HCl, 150 mM NaCl, pH 7.4. The final specific activity was approxiaccompanies the interaction of PC with Ca2+.From these
+mately 30,000 cpm/pg of protein.
+The Ca2+-independentmonoclonal antibody, C3, was provided by experiments, at least two Ca2+-bindingevents have been
+Dr. John Griffin (LaJolla, CA). This antibody was labeled with lZ5I distinguished, one with a CS0 valueof 43 p~ and a A
+&
+'
+,
+.
+,of
+
+-
+
+Determinants of the Calcium-depcmdent Conformationof Protein C
+
+26080
+
+approximately 14% (16) or 6% (18),and another characterized for this work. Representative data for two mutants, namely
+by a c.50 of 218 p M and a
+of approximately 4% (16). [Gla14+Asplr-PC and[Arg" +Leulr-PC, arealso illustrated
+T h e tight binding site exists in a region outside of the Gla in Fig. 1. A summary of the
+and c50 values obtained for
+domain (16,18), and the
+weaker binding site(s) are dependent each variant is provided in Table I. In all cases, C50 values
+upon thepresence of the Gla domain (16).
+A similar situation were higher for the mutants than for wtr-PC. The increases
+were not more than 2.5-fold for the following mutants: [Gla6
+exists in the case of bovine coagulation factor IXap'/Ca2+
+binding. In that case, a Gla domain-independent initial fluo- + Asplr-PC, [Gla7 + Asplr-PC, [Gla14"-* Asplr-PC, [Gla"
+of 5%) originatedfrom aCa2+ "-* Asplr-PC, and [GlaZ5+ Asplr-PC. Somewhat higher C50
+rescence quenching (Urnax
+[GlaZ9
+site(s) with a c.50of 25 p ~ A. second Gla domain-dependent values (4-6-fold) were found for [GlaZ0+ Asplr-PC and
+of 15%, was characterized by a C50 + Asplr-PC, as well as for a variant in which an E residue
+quenching, with a
+of approximately 1 mM (32). Prothrombin undergoes a Ca2+- was placed a t sequence position 32, a site containing a Gla
+coagulation
+dependent fluorescence of A
+F
+,
+.
+, 6%, and the isolated frag- residue in several othervitaminK-dependent
+ment 1 region of prothrombin (residues 1-156, contain the proteins, e.g. factor IX and prothrombin. This latter newly
+Gla domain and the first kringle of prothrombin) undergoes inserted E residue did become y-carboxylated duringprocessa Ca2+-dependentmaximal fluorescence quenching of approx- ing (29). The most dramatic increases in the c.50 values for
+imately 40%, with a Cw for Ca2+of 0.4 mM (33). Similar Ca2+- Ca2+ were found for the mutants [Gla16 "-* Asplr-PC and
+induced Gla domain-dependent fluorescence alterations also [GlaZ6-+ Asplr-PC which were >75- and 30-fold increased
+over the sameC50values forwtr-PC. With oneof the variants,
+occur with bovine factor X (34).
+In the current investigation, titration
+of both human plasma [Gla16 + Asplr-PC, the fluorescence titrations were greatly
+protein C and human kidney 293 cell-expressed human wtr- dissimilar to those for all other mutants (Fig. 2). Here, two
+P C resulted in total intrinsic fluorescence quenching values separate classes of binding sites were distinguished with Kd
+in separate
+of approximately 15.0 and 19.0%, with nearly identical c.50 values of 0.1 mM and >30 mM (30 m"70mM
+experiments).
+Additionally,
+the
+total
+A
+F
+,
+,
+,
+was
+>3-fold
+higher
+values for Ca2+ of 0.41 and 0.40 mM, respectively. A reprethan
+for
+the
+other
+variants,
+suggesting
+that
+the
+entire
+conforsentative titration curve of the dependency on Ca2+ of the
+intrinsic fluorescence quenching of wtr-PC as is presented in
+TABLEI
+Fig. 1. As a result of titrations with NaCl, up to 300 mM, no
+CW and AF,,, values for the interaction of Ca2+with human plasma
+measurable ( ~ 2 % fluorescence
+)
+changes were observed with
+PC. wtr-PC. and variant r-PC molecules
+these proteins, demonstrating that the quenching
+observed is
+Protein
+C,, for CaZ+
+Lw".
+not a general ionicstrength effect. At low Ca2+concentrations
+mM
+%
+we did observe a verysmall fluorescence change ( a F m a . ~ 2 % )
+0.41
+Plasma PC 14.1
+in the intact protein that titrated with
+a very tight Kd (esti0.40
+19.0
+Wild-type r-PC
+mated <1 PM), but the fluorescence changes were so small
+0.66
+17.6
+[Gla6+ Asplr-PC"
+t h a t Kd values could not be accurately obtained. This aspect
+0.83
+18.0
+[Gla7+ Asplr-PC
+0.91
+16.8
+of the titrationsis not visible in Fig. 1. Similar titrationswere
+[GlaI4+ Asplr-PC
+No fluorescence change
+[ArgI5+ Leulr-PC
+conduced for all of the variant r-PC preparations constructed
+
+AF,,.
+
+AF,,,,.
+
+AF,.,
+
+I
+
+I
+
+I
+
+I
+
+I
+
+5.0, >40
+14.2
+15.0
+16.7
+22.5
+14.0
+22.4
+
+0.1, >30
+0.93
+1.52
+0.45
+12.0
+2.3
+1.48
+
+[GlaI6-+ Asplr-PCb
+[GlaI9-+ Asplr-PC
+[GlaZ0-+ Asplr-PC
+[Gla" -+ Asplr-PC
+[GlaZ6-+ Asplr-PC
+Asplr-PC
+[Gla"
+[Gln3' + Gla]
+
+I
+
+"-f
+
+Identity of the normal animo acid in PC, its sequence position,
+and the replacement amino acid.
+*At least two classes of sites are observed, with the estimated
+binding parameters.
+25
+
+I
+
+I
+
+I
+
+I
+
+4
+
+I
+
+20
+
+fL"
+r
+
+A-
+
+1
+
+I
+
+I
+
+I
+
+2
+3
+4
+Calcium ( mM 1
+
+I
+
+I
+
+I
+
+I
+
+5
+
+r - u16D
+FIG. 1. Dependence of the intrinsic fluorescence of r-PC on
+the concentration of Ca2+.wtr-PC (0),[Gla(y)l4+ Asplr-PC (m),
+and [Arg" + Leulr-PC (A) were titrated with sequential additions of
+Ca2+, andthe fluorescence intensity was measured. The initial (in the
+absence of Ca") fluorescence (F,) of the relevant r-PC was arbitrarily
+set at 1.0, and the fluorescence at any Ca2+concentration ( F ) was
+obtained from the titration. The percent fluorescence change
+I
+I
+I
+I
+a
+I
+(quenching) was calculated as [(F., - F ) / F , X 1001 and plotted as a
+0
+0
+5
+10
+15
+20
+25
+30
+35
+function of the total Ca2+ concentration. The C60 (the total Ca2+
+concentration at which 50% of the r-PC molecules underwent the
+Calcium ( mM )
+conformational change) and the A F m a x (the totalfluorescence change
+FIG. 2. Dependence of the intrinsic fluorescence of r-PC on
+a t saturation with Caz+)were calculated by nonlinear least squares
+fittings of a regression analysis of the data, allowing both variables the concentration of Cas+. As in Fig. 1, except that [Gla(r)I6 +
+t o float for each calculation.
+Asplr-PC was employed for the Ca2' titrations.
+
+Determinants of the Calcium-dependent
+Conformation
+mation of the Ca2+/Gla domain
+complex is very different than
+that of the other proteins investigated in this study. These
+results demonstrate the importance
+of a Gla16for maintenance
+of the proper Ca2+-dependent final conformation of PC. Finally, another residue of extreme importance was found at
+the highly conserved Arg", in which the Ca2+-inducedfluorescence change did notoccur. This suggests that either Ca2+
+binding has been greatly affected by this change, or that the
+final conformation of the Ca'+/PC complex was dramatically
+different from that of wtr-PC.
+The next phase
+of this investigation centered upon
+employment of Ca2+-dependent conformationalmonoclonal antibodies, JTC-1 and JTC-3, to assess the abilities of each of the
+Gla mutants to interact with Ca2+ in such a manner as to
+produce the same final conformation as in wtr-PC. These
+distinct antibodies have been previously characterized and
+their epitopes both exist in the Gla domain
+of the Ca2+induced conformation of PC (31). Examples of typical titrations with Ca2+ are illustrated inFig. 3 for wtr-PC and three
+of its recombinant mutants, anda summary of the c60 values
+obtained from these measurements is provided in Table 11.
+Both human plasma PC and wtr-PC
+showed the expected
+dependency onCa2+of binding of each of the antibodies, with
+virtually identical ($0 values. In addition, variants [Gla2, +
+Asplr-PC and [Gln3' + Glalr-PC appeared to undergo the
+normal dependency on Ca2+ toward binding
+of each antibody.
+Approximate 4-6-fold higher Cb0values for Ca2+ were found
+for the variants [Gla14+ Asplr-PC, [Gla" + Asplr-PC, and
+[GlaZ9+ Asplr-PC(Table 11). Ontheoppositeextreme,
+concentrations of ca2+ of up to 40 mM didnotpromote
+antibody binding to any of the following mutants, [Gla6 -+
+Asplr-PC, [Gla7 + Asplr-PC, [Arg'' + Leulr-PC, [Gla16 +
+Asplr-PC, [GlaZ0
++ Asplr-PC, and [GlaZ6
++ Asplr-PC.
+
+of Protein C
+
+26081
+
+TABLE
+I1
+C,, values of Ca'+ for the interaction of Ca'+-dependent monoclonal
+antibodies with human plasma PC, wtr-PC, and variant r-PC
+molecules
+Protein
+
+Cw of Ca2+for
+interaction with
+
+JTC-1
+
+JTC-3
+mM
+
+3.6
+6.8
+Plasma PC
+Wild-type r-PC
+3.0
+4.0
+No binding
+[Gla6"+Asp]r-PC"
+No binding
+[Gla' -+ Asplr-PC
+11.0
+12.5
+[Gla14-+ Asplr-PC
+No binding
+[Arg"-+ Leulr-PC
+No binding
+[Gla16-+ Asplr-PC
+14.4
+15.5
+[Gla" -+ Asplr-PC
+No binding
+[Gla""+ Asplr-PC
+1.5
+2.1
+[GlaZ5+Asplr-PC
+No binding
+[GlaZ6+Asplr-PC
+17.0
+17.0
+[Gla" -+ Asplr-PC
+4.0
+5.5
+[Gln3' "+ Gla]
+a Identity of the normal amino acid in PC, its sequence position,
+and the replacement aminoacid.
+
+to D. As a reasonablestartingpoint,
+we have purposely
+designed the most conservative of possible mutations, since
+our interest was to discover which of the Gla residues are
+most essential to the properties under
+investigation. With
+conservative mutations, subsequent
+loss of the property under
+investigation can bemost safely attributed to theGla residue
+that was eliminated. However, retention of the property with
+these mutations does not preclude the possibility that other
+types of less conservative mutations would cause loss of the
+function of interest. These latter types
+of approachesare
+underway, and will reveal additional informationin the future.
+DISCUSSION
+A previousstudy with this same set
+of mutants was designed
+Inthisinvestigation,
+we haveisolatedallrecombinant
+to
+examine
+which
+of
+the
+Gla
+residues
+were necessary for the
+mutants of PC inwhich a Gla-precursor E residue was altered
+Ca'+-dependent overall anticoagulation activity of APC (29).
+We found that the presence of Gla7, Gla16, GlaZ0,Gla2'j, and
+I
+I
+I
+I
+I
+I
+I
+I
+1
+GlaZ9were essential for such activity, and that GlaZ5(24%
+retention of activity after mutation) was also of considerable
+importance. Mutations to D at Gla6, Gla'*, and Gla" did not
+80
+result in major activity losses, suggesting that some tolerance
+loo
+for change at these sequence positions is present. We also
+found that a major activity loss occurred when the conserved
+amino acid, Arg15, was mutated to L. Essentially no
+effects on
+APC anticoagulation activity were found when a Gla residue
+was placed at sequence position 32, a construction designed
+to examine the question as to whether inclusion of Gla at a
+homologous sequence location in which a Gla residue exists
+in other proteins, such as factorVI1 (35), factor IX (36), and
+prothrombin (37), would influence the activity of another
+protein of this class.
+These results, in combination with the structural informaIO
+20
+30
+40
+tion provided in the current investigation, and in the x-ray
+Calcium ( m M 1
+crystal structure of the prothrombin Gla domain/Ca2+ comFIG. 3. Dependence on the concentration of Ca2+of the bind- plex (X),allow significant conclusions to be made on some
+ing of monoclonal antibody JTC-1 to r-PC variants. wtr-PC aspects of Gla domain structure-function relationships
+in PC.
+(O), [Gla(r)I4 -+ Asplr-PC (A),[Gla(r)" -+ Asplr-PC (O), and
+[ G l a ( ~+
+) ~ Asplr-PC (V)in the presence of monoclonal antibody The data are most fruitfully discussed with consideration of
+'"I-JTC-1 were titrated in microtiter plates with sequential additionsthe relevant portionof the crystal structureof the prothrombinfragment1/Ca2+ complex providedin Fig. 4, andthe
+of Ca2+, and the amount of antibody bound ([Ablb) was measured.
+T h e maximum amount of each antibody bound ([Ab],.,) to the r-PC assumption that the extensive
+homology between the Gla
+adsorbed to the microtiter platewas obtained from an experiment at domains of prothrombin and PC would lead to very similar
+a saturating level of Ca2+.The percent antibody bound at any Ca2+ Ca2+ binding.
+concentration was calculated as [Ab]b/[Ab],., X 100 and plotted as a
+The Ca'+-induced fluorescence quenching observed in profunction of the total Ca2+ concentration. The
+C, (the total Ca2+
+thrombin and other proteins
+of this class is believed to involve
+concentration a t which 50% of the r-PC molecules were bound to
+antibody) was calculated by extrapolation from the graphs of the interaction of the disulfide of the hexapeptideloop (the amino
+Concentration of Ca2+a t 50% saturation with antibody.
+acid atthe
+homologous PC residue isinparenthesis),
+
+1
+
+26082
+
+Determinants of the Calcium-dependent Conformation of Protein C
+
+FIG. 4. X-ray crystal structure of the Gla domain of bovine prothrombin. Except where noted, the amino acid side chains are
+shown from their &carbons. From residues 1 to 42, the amino acid numbering system is that of prothrombin. Following in parenthesis is the
+numbering system for human PC and the amino acid residue at that position in PC, if it is different from prothrombin. Since there is not
+strong sequence homology between bovine prothrombin and human PC between residues 43-62, the residue in parenthesis is the amino acid
+in PC a t the same sequence position as in prothrombin. The side chain carbon atoms of Gla residues are in yellow, and those of residues other
+than Gla are orange. Nitrogen atoms are in blue, oxygens in red, sulfurs in pink, and hydrogens in green. The polypeptide chain backbone of
+the hexapeptide disulfide loop containing Gla residues 20 (Gla") and 21 (Gla") is illustrated, with peptide bond carbon atoms in white. Each
+of the seven Ca2+atoms are depicted by the white spheres,with their surface availabilities indicated. The ribbon of the backbone structure is
+illustrated in navy blue. The amino-terminal amino group of A1 is also shown, since it is of such importance in formation of hydrogen bonds
+and OE4 of Gla2'(GlaZ6).Other hydrogen bonds depicted are those between the HH12 proton
+with OE3 of Gla17(Gla16),OE4 of Glaz1(GlaZ0),
+of Arg6 andOE3 of Gla''(Gla"), presumably of importance in stabilizing the Ca2+-dependentconformation of prothrombin, and between the
+HH21 proton ofArg"(Arg")
+and the OE4 oxygen ofGla17(Gla16), which we propose is critical to the stability of the Ca2+-dependent
+conformation of the Gla domain. We modeled this structure employing the crystal coordinates provided to this laboratory by Dr. Alexander
+Tulinsky (Michigan State University).
+
+Cy~'~(Cys'~)-Cys~~(Cys~~),
+with the aromatic cluster,
+Phe"(Phe"), Trp4'(Trp4'), and T ~ r ~ ~ ( H(Ref.
+i s ~21~and
+) Fig.
+4). Surrounding this area are theside chains of Leu14(Leu13),
+L e ~ ' ~ ( I l e ' ~ )Leu3'(Phe31),
+,
+Leu"(Pro),
+Le@(Leu), and
+Ala%(Alaz7).This rearrangement to a more hydrophobic environment likely accounts for the blue shift in fluorescence
+noted upon addition of Ca2+.There are many similarities in
+PC with this structure of prothrombin, as well as some small
+differences. The same aromatic residues, F and W, respectively, are present at the homologous sequence positions 40
+and 41 in PC, but the Tyr45of prothrombin is replaced by a
+H at the homologous sequence position of PC. Thus, this
+latter residue does not contributeto theCa2+-inducedfluorescence change in PC. Most of the same aliphatic residues that
+are positioned to contribute to the fluorescence blue shift
+upon Ca2+addition in prothrombin are in place in PC, with
+the exceptions noted. Of significance, the putatively important hydrogen bond between Arg5and Gla", which is believed
+t o stabilize the structure of the Gla domain of prothrombin,
+cannot be an important factor for PC, since an R does not
+exist at the equivalent position of PC. Thus, interdomain
+interactions are somewhat different between these two proteins.
+Using the above as a model for PC, along with the fluorescence and antibody data of Tables I and 11, we conclude that
+
+GlaZ5of PC (GlaZ6in Fig. 4) is not essential for the integrity
+of the Ca2+-dependentconformation of PC. Since this residue
+contributes two of the four protein coordination sites to Ca1,and does not coordinate to any other Ca2+(21), its nonessential character can be justified. It is also likely that Ca-1
+does not make a contribution in this regard, since loss of two
+of its four protein coordination sites wouldlikely greatly
+diminish its capacity to bind to PC. However, since a large
+activity loss, of 75% of anticoagulation activity, also accompanies this mutation (29))
+it may beconfidently assumed that
+Ca-1, which resides on the surface of the protein, is important
+for binding of APC to phospholipid, and/or protein S, both
+events being necessary for expression of anticoagulant activity. The other two coordination sites for Ca-1 are provided by
+GlaZ9of PC (Gla3O in Fig. 4), replacement of which also
+eliminates anticoagulant activity. Mutation of this latter residue also has an effect on adoption of the Ca2+-dependent
+conformation of PC, with fluorescence and antibody data
+showing that higher concentrations of Ca2+are needed forthe
+conformational alteration to occur. This is most reasonably
+explained by recognizing that GlaZ9of PC also provides one
+of five protein coordination sites for Ca-2, and one of five
+protein donor sites for Ca-3, the latterof which is notexposed
+to thesurface. Because of this more extensive interaction with
+other Ca" ions, GlaZ9is likely to be important as a structural
+
+Determinants of the Calcium-dependent
+Conformation
+determinant. Loss of this residue and its donation to coordination most likely is the reason for the defective binding of
+Ca2+. This, plus the altered conformation that is adopted,
+contributes to the full loss of anticoagulant activity observed
+(29), even with this most conservative mutation.
+Similarly, some clear interpretations result from consideration of all available data regarding Gla14and Gla" (Gla15 and
+GlaZ0,respectively, of prothrombin, Fig. 4) and Ca-7 of PC.
+Loss of each of these Gla residues had only small effects on
+anticoagulation activity of APC (29), and on the conformational properties of the Caz+-dependentconformation of PC
+that are revealed by the fluorescence and antibody measurements of this investigation. Thus, neither of these residues,
+nor probably Ca-7, are essential for the integrity of the
+structure or the activity of PC and APC. The nonessential
+character of GlaI4 of PC is easily accommodated by the fact
+that this residue only provides one protein coordination site
+for Ca, in particular for Ca-7 (Fig. 4). The only other two
+protein coordination sites for Ca-7 are donated byGla"of
+PC. The slightly altered Ca2+binding properties which result
+from mutation of this residue may reside in the finding that
+Gla" provides one of the three protein coordination donor
+groups for Ca-6, which may bea more essential Ca2+ion, and
+the loss of one of its three protein donor sites may result in
+its weaker interaction with PC. Also, it may be the case that
+Ca-7 does play some minor role in the integrity of the Ca2+dependent structure of PC and APC.
+Most of the Gla residues that coordinate to thenonexposed
+Ca2+ions, namely Ca-3, Ca-4, and Ca-5, are of importance to
+the Ca2+-dependent anticoagulantactivity and/or structural
+properties of APC. Conservative mutation of GlaZ6of PC
+(Gla" of prothrombin (Fig. 4)) leads to a complete activity
+loss of the Ca2+-dependentanticoagulant activity of APC (29),
+complete loss of antibody binding (Table 11), and much higher
+C, values to produce the fluorescence alteration that characterizes the Ca2+-dependentconformation (Table I). Since
+Gla26of PC provides one of the five protein coordination sites
+t o Ca-2, one of the five such sites to Ca-3, and two of the
+seven protein donor sites to Ca-4 (21), its necessity for maintenance of the Ca2+-dependentconformation is readily seen.
+This is especially true of the dependence of Ca-4 coordination
+on Gla". Here, loss of the two protein coordination sites
+would morethan likely weaken its binding to theprotein, and
+since Ca-4 is an internal calcium, its necessity for maintenance of conformational integrity would be predictable. Similarly, Gla16is a residue of considerable importance. Conservative mutation ofGla16 led to a complete loss of the Ca2+dependent anticoagulant activity of the mutant enzyme and
+loss binding of the Ca2+-dependent, Gla domain-directed
+monoclonal antibodies. However, the significant differences
+in thefluorescenceproperties of the Ca2+/Gladomain complex
+between wtr-PCand [Gla16 -+ Asplr-PC suggest that the
+entire conformation of this domain has been severely affected.
+This is not surprisingwhen it is considered that GlaI6donates
+two of five protein coordination sites to Ca-3, two of seven
+such sites to Ca-4, and two of five protein donor sites to Ca5. All of these Ca2+ions are not exposed to the surface, and
+are probably important for structuralmaintenance of the
+Ca2+/Gla domain complex. Loss of all of the coordination
+sites provided by Gla16 wouldclearly have very severe effects
+on the structure of this complex, and the disruption of its
+conformation is therefore entirely expected.
+Regarding the pair of Gla residues at 19 and 20of PC
+(prothrombin residues 20 and 21), which exist in a hexapeptide disulfide loop, an initial observation demonstrated that
+mutation of this pair of Gla residues to D residues, as well as
+
+of Protein C
+
+26083
+
+mutation of one of the covalent-bond-stabilizing C residues
+to a S residue, resulted in a complete loss of anticoagulant
+activity (28). A subsequent investigation demonstrated that a
+single mutation to a D residue at Gla" did not result in a
+significant activity loss, whereas a mutation to a D residue at
+GlaZ0was itself sufficient to account for the nearly complete
+loss of anticoagulant activity (29). Additionally, conservative
+mutation of GlaZ0to a D residue results in a complete loss of
+antibody binding, and, from fluorescence analysis, a slightly
+increased Cso value for production of the Ca2+-dependent
+conformation of the Gla domain. Since Glam provides only
+one of the five protein coordination sites for the internally
+located Ca-5 (21), the slightly higher C50 needed for Ca2+to
+induce the fluorescence alteration characteristic of the Ca2+dependent conformation of PC value may result from a slight
+weakening of the Ca-5/PC interaction. More probably, however, since GlaZ0provides two of the threeprotein coordination
+sites for Ca-6, the complete loss of activity that results upon
+mutation of GlaZ0to a D residue suggests that Ca-6, a surfaceexposed ion, may be important for binding to phospholipid,
+as was the case with Ca-1.
+The Gla pair at positions 6 and 7 of PC (positions 7 and 8
+of prothrombin, Fig. 4) possess activity dependencies similar
+to thatseen for the Gla'9-Gla20pair. A previous investigation
+demonstrated that a double mutation to a D-pair at these
+positions resulted in a complete loss of anticoagulant activity
+of APC (27), whichcouldbefully
+explained by a single
+mutation at Gla7 (29). Neither of these mutations have dramatic effects on Ca2+dependence of the fluorescence alteration of the resulting PC variants, but both prevent antibody
+binding. Since Gla7 provides one of the five protein donor
+sites for Ca-3 and one of the seven such sites for Ca-4 (21),
+the lack of a strong conformational dependency of the Ca2+PC complex on Gla7is not surprising, since it is unlikely that
+removal of Gla7 would greatly influence the binding of these
+two internal Ca2+ions. The nearly complete loss of anticoagulant activity accompanying this mutation (29) maybe a
+result of the fact that Gla7 provides two of the five protein
+donor sites for Ca-2, which is partly exposed to the surface.
+A weakening of the Ca-2/PC interaction, while not resulting
+in a substantial conformational change, may affect the phospholipid binding that is needed for activity. The fact that
+mutation of this residue results in loss of antibody binding
+(Table 11) suggests that Gla7 may be important to binding to
+the antibody, not as a resultof conformational maintenance,
+but as anecessary contributory ligand to theantibody.
+The most difficult explanation centers on the role of Gla6
+in the structure-activity relationships of PC and APC. The
+fact that this residue provides two of the five protein donor
+sites for the internal Ca-5 (21) would suggest that it should
+affect the fluorescence properties of the Ca2+/PCcomplex and
+the Ca2+-dependent anticoagulantactivity of APC. The fact
+that a mutation to a D residue at this site does not influence
+these properties may indicate that a D residue could partly
+substitute for Gla at this position. However, as with Gla7,the
+Gla6-+ Asp mutation does eliminate antibody binding, again
+perhaps as aresult of its direct andnecessary participation in
+this binding event.
+Mutation of Arg" also has profound effects on the structure
+and activity of PC andAPC. A large Ca2+-dependentactivity
+loss accompanies mutation of this residue (29), as well as a
+loss of fluorescence change accompanying Ca2+binding (Table
+I), and complete disruption of antibody binding (Table 11).
+The explanation for this significant influence of Arg15may be
+the result of the hydrogen bonding between the HH21 proton
+ofArg" and the OE4 oxygen atom of the essential Gla16,
+I
+
+26084
+
+Determinants of Calcium-dependent
+the
+Conformation
+Protein
+of
+
+C
+
+which may be necessary for conformational stability of the issues of particular Gla residues and Ca2+ ions involved in
+entire Gla domain of PC.
+structure-activity relationships in the only manner possible
+Inclusion of another Gla residue at a PC sequence position given the large number of Ca2+ions bound to PC and APC,
+equivalent to Gla33 in prothrombin (the electron density of and has provided credible models and concepts that can be
+Gla33was not sufficient to beobserved in the crystal structure)tested in futureinvestigations.
+did not alter the Ca2+-dependent anticoagulation activityof
+REFERENCES
+APC, nor the abilityof PC to interactwith the Ca2+-depend- 1. Kisiel, W., Canfield, W. M., Ericsson, L. H., and Davie, E. W. (1977)
+ent antibodies directed against the Gla domain of PC. The
+Biochemistry 16,5824-5831
+2. Vehar, G. A., and Davie, E. W. (1980) Biochemistry 19,401-410
+small influence of this residue suggested by the C50 values
+3. Walker, F. J. (1980) J. Biol. Chem. 255,5521-5524
+obtained in Tables I and I1 may be due to its presence resulting4. Walker, F. J. (1981) J. Biol. Chem. 266,11128-11131
+5. de Fouw, N. J., Haverkate, F., Bertina, R. M., Koopman, J., vanin a slight reorientation of the Ca2+sites within thecomplex
+Wijngaarden, A., and vanHinsberg, V. W: (1986) Blood 6 7 , 1189-1192
+6. Comp, P. C., and Esmon, C. T. (1981) J. CBn. Inuest. 6 8 , 1221-1228
+because of coordination to this residue. This suggests that
+7. Taylor, F. B., and Lockhart, M. S. (1985) Thromb. Res. 37,639-649
+despite the fact that a Gla exists at this location in several
+8. Sakata, Y., Loskutoff, D. J., Gladson, C. L., Hekman, C. M., and Griffin,
+J. H. (1986) Blood 68,1218-1223
+proteins of this class, it is not essential
+forgeneral Ca2+9. Weinstein, R. E., and Walker, F. J. (1991) Thromb. Res. 6 3 , 123-131
+dependent properties. Thus, this Gla residue is either irrele- 10. Bajzar, L., Fredenburgh, J. C., and Nesheim, M. (1990)J.Bid. Chem. 2 6 6 ,
+16948-16954
+vant, or is responsiblefor the specificity of the particular
+11. Bajzar, L., and Nesheim, M. (1991) Thromb. Huemostasis 6 6 , 1199-1204
+protein in which it is found.
+12. Esmon, N. L., Owen, W. G., and Esmon, C. T. (1982) J. Biol. Chem. 2 6 7 ,
+RRQ-RAA
+Finally, some comments regarding the epitope for the Ca2+- "13. Amphlett, G. W., Kisiel, W., and Castellino, F. J. (1981) Biochemistry 20,
+dependent antibodies are in order. These antibodies, while
+2156-2161
+14. Hill, K. A. W., and Castellino, F. J. (1987) Arch. Biochem. Biophys. 2 6 4 ,
+presumably distinct from each other (31), possess virtually
+196-202
+identical properties in response to Gla mutations. From this 15. Esmon, N. L., DeBault, L. E., and Esmon, C. T. (1983) J. Biol. Chem. 2 6 8 ,
+5548-5553
+investigation,it is seen that Glaresidues at PC sequence 16. Johnson, A. E., Esmon, N. L., Laue, T. M., and Esmon, C. T. (1983) J.
+positions 14, 19, 25, and 29 are not required for reactivity
+Biol. Chem. 258,5554-5560
+Linse, S, and Stenflo, J. (1988) J. Bid. Chem. 2 6 3 , 7411with these antibodies (Table11). Thus, some caution must be 17. Oh_'\n,A.-K.,
+'141'1
+exercised when considering use of such antibodies to assess 18. Rezaie, A. R., Esmon, N. L., and Esmon, C. T. (1992) J. Biol. Chem. 2 6 7 ,
+11701-11704
+completeness of y-carboxylation. On theotherhand,
+Gla 19. Foster,
+D. C., Yoshitake, S., and Davie, E. W. (1985) Proc. Natl. Acad. Sci.
+U. S. A. 82,4673-4677
+residues at PC sequence positions, 6, 7, 16, 20, and 26 are
+D. C., and Davie, E. W. (1985) Proc. Natl. Acad. Sci. U. S. A. 8 1 ,
+necessary for production of the Ca2+-induced conformational 20. Foster,
+4766-4770
+alteration that generates the necessary epitope for reaction 21. Soriano-Garcia, M., Padmanabhan, K., deVos, A. M., and Tulinsky, A.
+(1992) Biochemistry 3 1 , 2554-2566
+with these antibodies. Because of the essential nature of Gla 22. Beckmann, R. J., Schmidt, R. J., Santerre, R. F., Plutzky, J., Crabtree, G.
+R.,
+and Long, G. L. (1985) Nucleic Acids Res. 13,5233-5247
+residues in different regions of the Gla domain, the epitopes
+23. Drakenberg, T., Fernlund, P., Roepstorff, P., and Stenflo, J. (1983) Proc.
+are clearly conformational, and not linear, as has been sugNatl. Acad. Sci. U. S. A. 8 0 , 1802-1806
+Kisiel, W. (1979) J. Clin. Inuest. 6 4 , 761-769
+gested earlier (31). However, a Gla residue at sequence posi- 24.
+25. Mann, K. G., Jenny, R. J., and Krishnaswamy, S. (1988) Annu. Reu.
+tion 7, and perhaps also at position 6, may be needed to
+Biochem. 67,915-956
+S. C. B., Pazzano, P., Chao, Y. B., Walls, J. D., Berg, D. T., McClure,
+directly interact with the antibody, while others are likely 26. Yan,
+D. B., and Grinnell, B. W. (1990) BiolTechnology 8,655-661
+responsible for the conformational organization that results 27. Zhang, L., and Castellino, F. J. (1990) Biochemistry 2 9 , 10828-10834
+Zhang, L., and Castellino, F. J. (1991) Biochemistry 3 0 , 6696-6704
+in antibody binding. Since we have not observed differences 28.
+29. Zhang, L., Jhingan, A,, and Castellino, F. J. (1992) Blood 80,942-952
+in theepitopes for JTC-1 and JTC-3, it likely
+is that they are 30. Heeb, M. J., Schwartz, P., White,T., Lammle, B., Berrettini, M., and
+Griffin, J. (1988) Thromb. Res. 5 2 , 33-43
+in such close proximity that they are indistinguishable even 31. Wakabavashi.
+K., Sakata, Y., and Aoki, N. (1986) J. Biol. Chem. 2 6 1 ,
+11097~lll05
+by these very sensitive measurements.
+32. Astermark, J., Bjork, I., Ohlin, A.-K., and Stonflo, J. (1991) J. Biol. Chem.
+In conclusion, we haveshown in this investigation that
+266,2430-2437
+33. Nelsestuen, G. L. (1976) J. Biol. Chem. 251,5648-5656
+nonsurface-exposed Ca2+ ions, and the amino acid residues
+34. Person, E., Bjork, I., and Stenflo, J. (1991) J. Biol. Chem. 266,2444-2452
+t h a t stabilize their binding to PC, are
+necessary for structural 35. Hagen, F. S., Gray, C. L., O'Hara, P., Grant, F. J., Saari, G. C., Woodbury,
+R. G., Hart, C. E., Insley, M., Kisiel, W., Kurachi, K., and Davie, E. W.
+maintenance of the Gla domain of PC. Surface-exposed Ca2+
+(1986) Proc. Natl. Acad. Sci. U. S. A. 83,2412-2416
+ions, and theGla residues that stabilize their binding to PC, 36. Kurachi, K., and Davie, E. W. (1982) Proc. Natl. Acad. Sci. U. S. A. 7 9 ,
+6461-6464
+are more intimately involved with the Ca2+-dependent anti- 37. Degen, S. J. F., MacGillivray, R. T. A., and Davie, E. W. (1983)Biochemistry
+2 2 , 2087-2097
+coagulation activity of APC. This investigation hasaddressed
+
+"_
+
+

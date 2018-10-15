@@ -1,0 +1,933 @@
+Downloaded from symposium.cshlp.org on November 14, 2012 - Published by Cold Spring Harbor Laboratory
+Press
+
+The LDL Receptor in Familial Hypercholesterolemia:
+Use of Human Mutations to Dissect a Membrane Protein
+D.W. RUSSELL, M . A . LEHRMAN, T.C. SLrDHOF, W. YAMAMOTO, C.G. DAVIS,
+H . H . HOBBS, M.S. BROWN, AND J.L. GOLDSTEIN
+Departments of Molecular Genetics and Internal Medicine, University of Texas,
+Health Science Center at Dallas, Dallas, Texas 75235
+
+The low-density lipoprotein (LDL) receptor is a cellsurface protein that plays an important role in the metabolism of cholesterol in humans and animals (Brown
+and Goldstein 1986). This receptor binds LDL, a
+plasma cholesterol transport protein, and carries it into
+cells. Since its discovery 13 years ago, the LDL receptor
+has proven to be a fertile system for the study of receptor-mediated endocytosis, the process by which macromolecules enter cells after binding to receptors in
+coated pits (Goldstein et al. 1979). This receptor is also
+of interest because its expression is regulated at the
+transcriptional level by a feedback mechanism that is
+responsive to the level of cholesterol in the cell (Russell
+et al. 1983). A third, and so far unique, feature of the
+LDL receptor is the frequent occurrence of mutations
+that disrupt its structure and function. These mutations occur in patients with the genetic disease, familial
+hypercholesterolemia (FH) (Goldstein et al. 1985).
+When mutant receptor genes are present in the heterozygous or homozygous state, the plasma level of LDL
+rises and atherosclerosis ensues.
+The LDL receptor is an integral membrane protein
+that is synthesized on the ribosomes of the rough endoplasmic reticulum as a 120-kD precursor that contains both N-linked and O-linked core sugars (Tolleshaug et al. 1982, 1983; Cummings et al. 1983). After
+the receptor is transported to the Golgi apparatus, the
+precursor sugars are processed to their mature form,
+which shifts the apparent molecular mass of the protein to 160 kD, as determined by migration on SDSpolyacrylamide gels. The 160-kD LDL receptor is then
+transported to the cell surface, where it clusters in
+coated pits and mediates the binding and internalization of cholesterol-rich LDL particles that circulate in
+plasma. The receptor and its bound ligand enter the
+cell by receptor-mediated endocytosis, a process in
+which coated pits invaginate to form coated vesicles.
+After shedding their clathrin coats, these vesicles then
+fuse with each other to form endosomes, within which
+the LDL receptor and its ligand are sorted away from
+each other. The LDL receptor is recycled back to the
+cell surface where it again clusters in coated pits and
+mediates the binding and internalization of additional
+LDL particles (Brown et al. 1983). After its liberation
+from the receptor in the endosome, the LDL is targeted
+to the lysosome where it is degraded. The released cholesterol is used by the cell to synthesize membranes and
+
+to regulate coordinately several genes involved in cholesterol metabolism (Goldstein et al. 1979).
+Many of the steps in the complex itinerary of the
+LDL receptor have been elucidated through the biochemical analysis of mutations in subjects with FH.
+These mutations fall into at least four broad classes,
+affecting (1) the synthesis of the receptor, (2) its transport from the endoplasmic reticulum to the cell surface, (3) its ability to bind LDL, and (4) its ability to
+cluster in clathrin-coated pits and therefore to be internalized. Over the past few years we have developed the
+tools necessary to explore the molecular genetics of the
+LDL receptor in FH. To this end, we purified the LDL
+receptor protein (Schneider et al. 1982), isolated fulllength cDNA clones corresponding to the LDL receptor messenger RNA (Yamamoto et al. 1984), and elucidated the structure of the normal receptor gene (Sfidof et al. 1985a). These cloned DNAs in turn have been
+used to determine the molecular basis of at least one
+example of each of the different classes of mutations
+discussed above.
+In the current paper, we summarize our knowledge
+of these FH mutations and indicate how their study
+has revealed interesting structure-function relationships in the LDL receptor protein. We also review the
+observation that many of the deletions in the LDL receptor gene involve repetitive DNA elements or Alu sequences. We suggest that recombination between two
+Alu sequences accounts in part for the high population
+frequency of FH.
+
+The LDL Receptor Protein
+The structure of the LDL receptor from four species
+(human, bovine, rabbit, and hamster) has been elucidated through the use of protein chemistry techniques,
+cDNA cloning, and DNA sequence analysis (Schneider
+et al. 1982; Russell et al. 1984; Yamamoto et al. 1984,
+1986; Goldstein et al. 1985; T.C. Sfidhof et al., unpubl.). These studies have revealed an evolutionarily
+conserved integral membrane protein consisting of six
+domains (Fig. 1). In order of appearance from the
+amino-terminus, these domains are: (1) a signal sequence; (2) a ligand-binding domain; (3) a domain homologous to the epidermal growth factor (EGF) precursor; (4) a domain of clustered O-linked sugars; (5)
+a transmembrane domain; and (6) a cytoplasmic do-
+
+Cold Spring Harbor Symposia on Quantitative Biology, Volume LI. @1986 Cold Spring Harbor Laboratory 0-87969-052-6/86 $1.00
+
+811
+
+Downloaded from symposium.cshlp.org on November 14, 2012 - Published by Cold Spring Harbor Laboratory
+Press
+
+812
+
+RUSSELL ET AL.
+
+Exons
+
+I
+
+9 2V5 v
+
+NH2R II ~
+Domains
+L
+
+4
+
+9
+
+7v8 9
+
+9
+
+9 9 t0 9 1 4 9 1 4 9
+
+~== I lAB
+,
+
+Ligand Binding
+C9 Complement Homology
+
+9
+
+c
+
+L
+
+15
+
+J/
+
+~6 9
+
+17V18
+
+~
+
+COOH
+
+EGF Precursor Homology
+ClottingFactor Homology
+
+Signal
+Sequence
+
+O- Linked
+Sugars
+
+Cytoplasmic
+
+Transmembrane
+Figure 1. Domain map of the human LDL receptor. A schematic diagram depicting the 860-amino-acid protein is drawn to
+scale in the center. The positions at which introns interrupt the coding sequences are indicated by the arrowheads. Exons are
+numbered above the drawing. Six recognizable protein domains are labeled below the figure. Proteins that have domains homologous with the various LDL receptor domains are indicated below the schematic. (Reprinted, with permission, from Sfidhof
+et al. 1985a.)
+main. We have assigned functional roles to several of
+these domains by comparing the structure of the LDL
+receptor to other membrane proteins and by the analysis of natural and artificially constructed mutations.
+The first domain in the human receptor, a 21-aminoacid signal sequence, is analogous to signal sequences
+in many membrane proteins (Blobel 1980). It is thought
+to mediate the insertion of the nascent LDL receptor
+polypeptide into the endoplasmic reticulum lumen,
+thus initiating the receptor's multistep intracellular
+itinerary.
+The second domain, the ligand-binding domain, mediates the interaction between the receptor and lipoproteins that contain apoprotein B-100 or apoprotein
+E. We have postulated that the binding function is subserved by a 292-amino-acid sequence at the amino-terminus of the mature protein. This domain is composed
+of seven repeats of approximately 40 amino acids that
+are arranged in a head-to-tail array (Sildhof et al.
+1985a). Each repeat contains six cysteine residues that
+are postulated to form three intrarepeat disulfide bonds
+and a cluster of negatively charged amino acids located
+at the carboxy-terminal end. The center of each repeat
+is relatively hydrophobic, and it seems likely that many
+of the disulfide-bonded cysteines are buried in these
+hydrophobic pockets, which are flanked by polar residues. Such a conformation presumably allows the negatively charged residues to appear at the surface of the
+receptor where they bind to a cluster of positively
+charged amino acids on apoprotein E (Innerarity et al.
+1984) or apoprotein B-100 (Knott et al. 1985).
+The third domain of the LDL receptor consists of a
+stretch of approximately 400 amino acids whose most
+striking feature is a strong degree of sequence identity
+to the EGF precursor (Russell et al. 1984; Siidhof et al.
+1985b). In this homologous region, approximately 35070
+of the amino acids are held in common by the two proteins. The function of this domain is unknown. However, several possibilities are being considered: (1) it
+might function as part of the ligand binding domain;
+(2) it might serve to extend the ligand binding domain
+away from the cell surface, thus removing a steric
+
+hindrance to the interaction of the receptor and the
+large LDL particle (~o220 ,~ diameter); (3) it might play
+a role in the binding of LDL receptors to each other or
+to other proteins in the plane of the membrane; and (4)
+it might play a role in the recycling of the LDL receptor
+from the endosome back to the cell surface (Brown et
+al. 1983).
+The fourth domain of the LDL receptor consists of
+a sequence of 58 amino acids that is highly enriched in
+serine and threonine residues. Biochemical and genetic
+studies have shown that this domain contains clustered
+O-linked sugar chains that retard the movement of the
+LDL receptor upon SDS-polyacrylamide gel electrophoresis (Russell et al. 1984; Davis et al. 1986b). The
+function of these clustered O-linked sugars is at present not known. This region of the protein can be deleted without adverse effects on receptor function in
+cultured fibroblasts (Davis et al. 1986b). It is conceivable that in other cell types these clustered O-linked
+sugars play a critical role in LDL receptor function or
+turnover. For instance, in polarized epithelial cells, they
+may serve as targeting signals for movement of the receptor to the basolateral or apical cell surface.
+In addition to the clustered O-linked sugars, the LDL
+receptor contains a few scattered O-linked sugar chains
+that are located in different parts of the molecule. Their
+precise location is as yet unknown (Davis et al. 1986b).
+Kingsley et al. (1986) studied a line of mutant Chinese
+hamster cells that are unable to synthesize O-linked
+sugars as a result of a deficiency of U D P - G a l / U D P GalNAc-4-epimerase. These workers found that Olinked sugars play a role in stabilizing the LDL receptor. When O-linked sugars were not present, LDL receptors were synthesized and apparently reached the
+cell surface, but were rapidly degraded. Inasmuch as
+deletion of the clustered O-linked sugar domain did not
+affect receptor stability (Davis et al. 1986b), the findings of Kingsley et al. (1986) suggest that loss of the
+scattered O-linked sugars is responsible for the unstable receptors produced in the epimerase-deficient hamster cells. Alternatively, it is possible that the instability
+of the LDL receptors in the epimerase-deficient ham-
+
+Downloaded from symposium.cshlp.org on November 14, 2012 - Published by Cold Spring Harbor Laboratory
+Press
+
+LDL R E C E P T O R MUTATIONS IN F H
+ster cells is attributable to tl~e lack of O-linked sugars
+on some other membrane protein or intracellular escort protein whose activity is necessary to prevent the
+receptor from being degraded.
+The fifth domain of the LDL receptor consists of
+22-25 hydrophobic amino acids that span the membrane, thus anchoring the protein. The deletion of this
+region in certain naturally occurring mutations results
+in the secretion of LDL receptors from the cell (Lehrman et al. 1985b). A comparison of membrane-spanning domains from LDL receptors of four different
+species reveals the maintenance of a hydrophobic character, but little actual sequence conservation (Goldstein et al. 1985; Yamamoto et al. 1986; T.C. Siidhof et
+al., unpubl.). Thus, it is unlikely that the transmembrane segment has a specific function, such as transducing a signal across the plasma membrane (after ligand binding) or serving as an ion channel. These
+conclusions are consistent with the finding that the
+LDL receptor recycles constitutively in the absence of
+ligand (Basu et al. 1981) and thus does not require that
+a signal be transduced to the cytoplasmic domain for
+internalization to occur.
+The last domain of the LDL receptor is found at the
+extreme carboxyl terminus of the molecule and consists of 50 amino acids that are located on the cytoplasmic side of the plasma membrane (Russell et al.
+1984). The analysis of naturally occurring and artificial mutations has revealed that this domain targets the
+LDL receptor to coated pits in the plasma membrane
+(Lehrman et al. 1985a; Davis et al. 1986a). The proteins with which the LDL receptor interacts in the
+coated pit are at present not known, nor is it known
+whether other receptors that cluster in coated pits bind
+to the same or different proteins.
+The Human LDL Receptor Gene
+The human LDL receptor locus spans approximately
+45 kb of DNA on the distal short arm (band p13.1p13.3) of chromosome 19 (Lindgren et al. 1985). The
+gene is divided into 18 exons and 17 introns (Stidhof et
+al. 1985a) (Fig. 1). There is a strong correlation between structural domains in the protein and exon sequences in the LDL receptor gene. The signal sequence
+is neatly encoded by the first exon, and many of the
+repeat units in the ligand binding domain are encoded
+by discrete exons. The E G F precursor domain is specified by eight exons that are distributed similarly in the
+LDL receptor and the E G F precursor genes (Sfidhof et
+al. 1985b). The O-linked sugar domain is encoded by a
+discrete exon, and the membrane-spanning and cytoplasmic domains are each encoded by two exons. The
+most 3' exon encodes the 12 amino acids at the carboxyl
+terminus of the protein plus a long 3' untranslated region (2.5 kb) that includes several Alu repetitive elements (Yamamoto et al. 1984; Hobbs et al. 1985).
+Comparison of the LDL receptor with published sequences of other proteins revealed that the receptor
+gene is a mosaic of coding sequences shared with sev-
+
+813
+
+eral other proteins (Fig. 2). Parts of the EGF homology
+region are also found in three plasma proteases involved in blood clotting (factor IX, factor X, and protein C). In addition, the 40-amino-acid, cysteine-rich
+repeat unit of the LDL binding domain is found in
+complement component C9 (Stanley et al. 1985; Stidhof et al. 1985a). In each of these proteins, the shared
+sequences are encoded by discrete exons (Fig. 2). These
+findings support the exon-shuffling hypothesis of Gilbert (1978) and indicate that the LDL receptor is a
+member of at least two supergene families, one containing the segments encoding the E G F precursor region and the other containing the segment shared with
+complement component C9 (Doolittle 1985; Stidhof et
+al. 1985a).
+Mutations in the LDL Receptor Gene
+To date, we have mapped or sequenced 11 mutations
+in the LDL receptor genes of FH patients. As expected
+from the heterogeneity of other human genetic diseases, a plethora of molecular defects in the receptor
+gene have been found, including insertion, deletion,
+nonsense, and missense mutations (Fig. 3). Inasmuch
+as the alterations disrupt different domains of the LDL
+receptor, they have different consequences for the
+binding or receptor-mediated endocytosis of LDL.
+Four of the deletion mutations in the LDL receptor
+gene have been analyzed by cloning and sequencing of
+the deletion joint. Three of these mutations (FH 274,
+FH 626, FH 781) involve homologous recombinations
+between two Alu sequences (Lehrman et al. 1985b;
+Hobbs et al. 1986; M.A. Lehrman et al., in prep.). The
+fourth (FH 381) is a recombination between one Alu
+sequence and a sequence in an exon that by chance is
+homologous to the Alu sequence (Lehrman et al. 1986).
+In two of the recombinations (FH 274 and F H 381), the
+complementary elements were oriented in opposite directions (Lehrman et al. 1985b, 1986). In both cases it
+was possible to draw a double stem-loop (clover leaf)
+structure between these complementary sequences.
+These findings suggest that complex stem-loop structures may predispose to large deletions in the human
+genome (Lehrman et al. 1986).
+Recombination between Alu sequences in the same
+orientation caused the deletions found in FH 626 and
+F H 781 (Fig. 3, legend) (Hobbs et al. 1986; M.A. Lehrman et al.; in prep.). The simplest mechanism that
+could give rise to these mutations is one of homologous
+recombination in which unequal crossing over follows
+mispairing of chromatids. These unequal crossing-over
+events should also produce genes with duplications of
+the regions that are deleted from the FH 626 and F H
+781 alleles. These duplications have not yet been found.
+A total of seven Alu sequences have been observed
+to be involved in mutations in the LDL receptor gene.
+Three Alu sequences have been reported to be involved
+in mutations in globin genes (Jagadeeswaran et al.
+1982; Ottolenghi and Giglioni 1982; Vanin et al. 1983).
+Remarkably, the deletion end points are not located at
+
+Downloaded from symposium.cshlp.org on November 14, 2012 - Published by Cold Spring Harbor Laboratory
+Press
+
+814
+
+R U S S E L L E T AL.
+Membrane
+
+Receptor
+
+EGF
+Precursor
+
+o ,or
+
+DD DDII DDDDI
+I
+
+III
+
+0DDll
+
+Dill
+
+I
+
+Dill
+
+I
+
+Figure 2. Exon shuffling in the LDL receptor. The human LDL receptor is shown at the top. Exons that encode sequences
+shared with other genes are indicated by the small blocks. Roman numerals I-VII indicate the seven repeats in the ligand binding
+domain. Hatched blocks represent exons encoding these repeats, one of which is found in complement component C9. Capital
+letters (A-C) and black boxes indicate three repeats encoded by discrete exons in the EGF precursor homology domain. One or
+more copies of these repeats are found in the EGF precursor, factor IX, factor X, and protein C genes. The speckled boxes
+indicate exons that are shared only by the LDL receptor and EGF precursor genes. The positions of the membrane-spanning
+regions of the LDL receptor and EGF precursor are shown. The other proteins are secreted directly and have no membranous
+component.
+
+r a n d o m t h r o u g h o u t the Alu sequences, b u t r a t h e r are
+clustered (M.A. L e h r m a n et al., in prep). E i g h t of the
+10 d e l e t i o n e n d p o i n t s m a p w i t h i n a 36-bp sequence in
+the left a r m o f the Alu repeat. T h e s e sequences fall
+b e t w e e n the A a n d B b l o c k s t h a t c o n s t i t u t e the b i p a r tite R N A p o l y m e r a s e III p r o m o t e r in the Alu element
+(Paolella et al. 1983). It is t e m p t i n g to speculate t h a t
+t h e i n t e r a c t i o n o f a t r a n s c r i p t i o n f a c t o r with A a n d B
+
++2kb
+
+Exon
+No.
+
+4
+
+2
+
+sequences m i g h t lead to a n increased susceptibility o f
+this region to enzymes o f D N A r e c o m b i n a t i o n .
+
+FH Mutations Reveal Structure-Function
+Relationships in the LDL Receptor
+M u t a t i o n s in the L D L r e c e p t o r gene in F H p a t i e n t s
+have p r o v i d e d insight i n t o f u n c t i o n a l d o m a i n s in t h e
+
++ 4 nt
+
+-12bp -27bp
+
+3
+
+4
+
+5 6
+
+- 0 . 8 kb
+
+7 8 910
+-4kb
+
+"1112 '1314
+
+15
+
+- 5 kb
+
+16 17
+
+48
+
+-5.5 kb
+- 7.8 kb
+It
+
+~IF Insertion
+-4-~Deletion
+9
+
+Nonsense
+
+9
+
+Missense
+
+Figure 3. Mutations in the LDL receptor gene. Exons are shown as hatched boxes and introns as the lines connecting them. The
+map is not drawn to scale. Mutations that have been mapped or cloned are indicated above and below the gene. The mutations
+are: 2-kb insertion in intron 1 (FH 295), 12-bp deletion in exon 4 (WHHL rabbit), ,'027-bp deletion in exon 4 (FH 563), nonsense
+mutation in exon 14 (FH 264, 550, 786, 793), nonsense mutation in exon 17 (FH 683), 4-bp insertion in exon 17 (FH 763), missense
+mutation in exon 17 (FH 380), deletion of 0.8 kb (FH 626), deletion of 4 kb (FH 359 and FH 454), deletion of 5 kb (FH 381),
+deletion of 7.8 kb (FH 781), and deletion of 5.5 kb (FH 274). See text for further details and references.
+
+Downloaded from symposium.cshlp.org on November 14, 2012 - Published by Cold Spring Harbor Laboratory
+Press
+
+LDL R E C E P T O R MUTATIONS IN F H
+protein. To date, fibroblasts from 115 patients (230 alleles) with the clinical syndrome of homozygous FH
+have been analyzed with a battery of immunochemical
+and functional assays. These studies reveal four broad
+classes of mutations (Fig. 4). The first and most prevalent class comprises mutant alleles that fail to produce an immunoprecipitable protein (null alleles). More
+than half of the fibroblast strains harbor at least one
+null allele (Goldstein et al. 1985). Class 2 mutations
+encode proteins blocked in intracellular transport between the endoplasmic reticulum and the Golgi apparatus. Fifty-four of our 115 fibroblast strains harbor at
+least one allele specifying a transport-deficient LDL
+receptor. Class 3 mutant alleles encode proteins that
+are synthesized and transported, but fail to bind LDL
+normally. This is an extremely heterogeneous group;
+affected individuals from different families show
+widely varying levels of LDL binding activity that range
+from < 2% of normal to 30% of normal. Class 4 mutations, although the rarest, have been most revealing
+with respect to the mechanisms of receptor-mediated
+endocytosis. These alleles encode proteins that are efficiently synthesized and transported to the cell surface. These receptors bind LDL normally, but their
+ability to cluster in coated pits is deficient and thus
+these receptors do not internalize bound LDL.
+We have characterized at the molecular level at least
+one member from each of the four classes of mutations
+in the LDL receptor gene. These results are summarized below.
+
+f
+
+815
+
+Class 1 mutations: Null alleles. Two classes of null
+alleles exist: (1) those that contain detectable mRNA
+and (2) those that lack mRNA. So far, about one-third
+of FH homozygotes whose fibroblasts do not synthesize immunoprecipitable receptor protein also fail to
+produce detectable mRNA. Figure 5 shows an experiment in which total RNA isolated from primary diploid fibroblasts from four FH subjects and one normal
+subject were subjected to electrophoresis on an agarose
+gel, transferred to a nylon membrane, and hybridized
+with 32p-labeled single-stranded M13-derived cDNA
+probes (Russell and Yamamoto 1986). To ensure that
+the FH RNA was intact, a radiolabeled cDNA probe
+derived from human fl-actin mRNA (Gunning et al.
+1983) was included in the hybridization. In RNA isolated from normal fibroblasts, these probes detect a
+5.3-kb mRNA derived from the human LDL receptor
+gene and a 1.9-kb mRNA derived from the fl-actin
+gene. In RNAs isolated from the FH cell strains, no
+LDL receptor mRNA is detected even though equivalent amounts of ~-actin mRNA are present in all samples (Fig. 5). Southern blotting analysis of DNA isolated from these four FH cell strains revealed that three
+of them (FH 49, 549, and 808) have a large deletion
+that removes the promoter of the LDL receptor gene
+(H. Hobbs et al., unpubl.). These three subjects are of
+French-Canadian descent, and thus the deletion may
+represent a common allele in FH subjects from this
+ethnic background.
+As described above, we have cloned and characterized another null allele (FH 381) in which a 5-kb deletion removes exons 13-15 of the gene. The truncated
+RNA encoded by this allele is present in the cell, but
+no immunoprecipitable protein can be detected (Lehrman et al. 1986). This mutation therefore represents an
+example of a null allele in which mRNA is produced.
+
+Ecu
+
+~
+
+o
+
+I
+
+-r
+
+-r
+
+-r
+
+h
+
+h
+
+IJ_
+
+I,L
+
+L~
+
+Z
+E NDOPLAS M IC
+RETICULUM
+
+00 E
+~_
+
+o
+
+Z
+
+LDL Receptor
+COATED
+PiT
+
+Class
+of
+Mutation
+
+(9
+|
+
+Synthesis
+
+Transport
+framER
+to
+Golgi
+
+Binding Clustering
+of
+in
+LDL
+Coated Pits
+
+X
+-------~X
+~X
+I
+
+I
+
+._
+
+Ir x
+
+Figure 4. Four classes of mutations at the LDL receptor locus. These mutations disrupt synthesis, transport, binding,
+and clustering of the LDL receptor. See text for a detailed
+description of specific mutant alleles in each class. (Reprinted, with permission, from Goldstein and Brown 1984.)
+
+/3- Actin
+Figure 5. Analysis of four null alleles at LDL receptor locus
+by RNA blotting. Total RNA (10 #g) was isolated from fibroblasts that were incubated for 24 hr in the presence of lipoprotein-deficient serum and 10/zM compactin, a drug that inhibits cholesterol synthesis. This regimen gives a maximal
+induction of LDL receptor mRNA. RNA samples from the
+indicated cell line were subjected to electrophoresis on an
+agarose gel, transferred to a nylon membrane, and probed
+with radiolabeled cDNA of the human LDL receptor and ~actin mRNAs. The postions to which the normal LDL receptor mRNA (5.3 kb) and actin mRNA (1.9 kb) migrated are
+indicated by the arrows.
+
+Downloaded from symposium.cshlp.org on November 14, 2012 - Published by Cold Spring Harbor Laboratory
+Press
+
+816
+
+R U S S E L L ET AL.
+
+In other instances we have observed individuals in
+whom normal amounts of a normal-sized m R N A are
+present, but no immunoprecipitable receptor is produced. Whether these alleles represent simple nonsense
+mutations or other more complex abnormalities is unknown.
+
+Class 2 mutations: Transport-deficient alleles. We
+have recently determined the molecular basis of three
+mutations that encode LDL receptors that accumulate
+in the endoplasmic reticulum (Yamamoto et al. 1986;
+M.A. Lehrman et al., in prep.). In two of the mutations
+(Yamamoto et al. 1986), small in-frame deletions (12
+bp and ~27 bp) occur in exon 4, which encodes three
+repeats of the ligand binding domain (Fig. 3). One of
+these mutations was identified in the Watanabe-heritable hyperlipidemic (WHHL) rabbit, an animal model
+of FH. It removed four residues (Asp-Gly-Ser-Asp)
+from the third repeat in the binding domain. Another
+mutation was characterized by S 1 nuclease mapping of
+the LDL receptor m R N A in fibroblasts from an FH
+patient (FH 563). The findings were suggestive of a
+deletion of approximately nine amino acids in the fifth
+binding repeat (Fig. 3).
+A third class 2 mutation (FH 264) arises from a single base substitution that produces a nonsense codon
+within exon 14 (Fig. 3), which normally encodes a repeated cysteine-rich sequence in the E G F precursor homology domain (repeat C, Fig. 1). The FH 264 protein
+migrates on SDS gels with an apparent molecular mass
+of 95 kD (Tolleshaug et al. 1983). Premature termination within this cysteine-rich region is postulated to
+leave two unpaired cysteine residues at the extreme carboxyl terminus of the C repeat (M.A. Lehrman et al.,
+in prep.).
+Why do these alterations disrupt the transport of the
+receptor to the cell surface? All three of the mutations
+would be expected to distort the receptor in such a way
+that some of the cysteines can no longer form disulfide
+bonds. If these unpaired cysteine residues are located
+on the surface of the protein, they might be available
+for complexing to another protein that retards movement to the surface. Alternatively, the improperly
+folded protein might bind noncovalently to a hypothetical "gatekeeper" protein whose function is to prevent
+the transport of improperly folded proteins to the cell
+surface (Yamamoto et al. 1986). The small amounts of
+LDL receptor present in these mutant cells have so far
+prevented the demonstration of such a hypothetical
+gatekeeper protein, if indeed it exists.
+Class 3 mutations: Binding-deficient alleles. Two
+representatives of this class have been analyzed at the
+molecular level. One mutation, F H 626 was brought
+about by unequal crossing over between Alu sequences
+in introns 4 and 5, thereby deleting a segment of 0.8 kb
+that includes exon 5 (Fig. 3). In the resultant mRNA,
+exon 4 is spliced to exon 6, preserving the reading
+frame. This m R N A produces a shortened protein that
+lacks the sixth repeat in the ligand binding domain.
+The receptor reaches the cell surface and reacts with
+
+anti-receptor antibodies but does not bind LDL, which
+contains apoprotein B-100 as its major protein component. Surprisingly, the deleted protein retains the
+ability to bind and internalize another lipoprotein
+called H-migrating very-low-density lipoprotein (/3VLDL). This lipoprotein binds to the LDL receptor
+with higher affinity than LDL because it contains multiple copies of apoprotein E, a high-affinity ligand for
+the receptor (Mahley and Innerarity 1983). The loss of
+LDL binding is consistent with the hypothesis that the
+seven repeated sequences constitute the LDL binding
+domain. The data further indicate that the sixth repeat
+is required for binding of LDL, but not ~-VLDL, and
+that deletion of a single cysteine-rich repeat can alter
+the binding specificity of the receptor.
+A similar phenotype is manifest in two siblings with
+homozygous FH (FH 359 and FH 454) in which a deletion of 4 kb removed exons 7 and 8 from the LDL receptor gene (C.G. Davis et al., in prep.). Exons 7 and 8
+normally encode the cysteine-rich A and B repeats of
+the EGF precursor homology domain (Fig. 1). In the
+FH 454 mRNA, exon 6 is apparently spliced directly to
+exon 9, again preserving the reading frame of the LDL
+receptor. The resultant protein is transported to the cell
+surface normally but does not bind LDL. It does, however, retain an ability to bind/3-VLDL. These data suggest that the A and B repeats of the EGF precursor
+region play some role in the binding of LDL, but the
+nature of this role is completely unknown at present.
+It is important to note that the FH 626 and FH 454
+receptors have deletions of cysteine-rich domains, but
+they are not blocked in transport to the cell surface.
+This is in contrast to the W H H L rabbit and FH 563, in
+which a small deletion that removes part of a cysteinerich repeat blocks transport. These data suggest that
+each cysteine-rich repeat folds independently. When
+one entire repeat is deleted, there are no unpaired cysteines. When part of a repeat is deleted, the remaining
+portion of the repeat contains unpaired cysteines and
+this accounts for the block in transport. This hypothesis is being tested directly through the use of site-directed mutagenesis of LDL receptor cDNAs.
+
+Class 4 mutations: Internalization-defective alleles. The discovery of internalization-defective alleles in 1976 led to the hypothesis that a defect in a
+(then hypothetical) cytoplasmic domain of the receptor
+might impair targeting to the coated pit (Brown and
+Goldstein 1976; Anderson et al. 1977). To date, we have
+cloned and sequenced five different internalization-defective alleles at the LDL receptor locus and all of these
+have alterations that affect the cytoplasmic domain
+(Lehrman et al. 1985a,b; Davis et al. 1986a; M.A.
+Lehrman et al., in prep.).
+The molecular analysis of the internalization defects
+has resulted in a subclassification of internalizationdefective mutations. The first subclass includes three
+mutations that alter only the sequence of the cytoplasmic domain (Fig. 6). One of these (FH 683) is a
+truncation of the cytoplasmic domain due to a non-
+
+Downloaded from symposium.cshlp.org on November 14, 2012 - Published by Cold Spring Harbor Laboratory
+Press
+
+LDL R E C E P T O R MUTATIONS IN F H
+FH 3 8 0 - J.D.
+
+817
+
+FH 763
+
+~,yToplasm
+
+FH 683
+
+Q
+
+Trp
+
++
+
+~Q
+
+Nonsense
+
++
+-I- Ly
+--
+
+GI,
+
++
+
+Hi
+
+Frameshift
+( insertion
+of 4 bases)
+
+GI
+Gb
++
+
+Hi
+GI
+
++
+
+C=O
+I
+OH
+
+Figure 6. Mutations affecting the cytoplasmic domain of the LDL receptor in three FH homozygotes with the internalizationdefective form of FH. (Reprinted, with permission, from Brown and Goldstein 1986.)
+
+sense mutation at amino acid 792. The resulting LDL
+receptor has only two of the normal 50 amino acids in
+the cytoplasmic domain. This mutation results in an
+almost complete block in the internalization of receptor-bound LDL (Lehrman et al. 1985a; Davis et al.
+1986a). A second mutation (FH 763) results from a duplication of 4 bp in exon 17. This insertion shifts the
+reading frame of the m R N A and results in the synthesis of an LDL receptor with six of the normal 50 amino
+acids and eight novel amino acids in the cytoplasmic
+domain (Lehrman et al. 1985a). A third and most revealing internalization-defective allele in this subclass
+is found in FH 380 (Fig. 6). Here, a single-base-pair
+change results in the substitution of a cysteine residue
+for a tyrosine residue at position 807 (Davis et al.
+1986a). We have hypothesized that this substitution alters the structure of the cytoplasmic domain so that it
+can no longer bind properly to a protein that normally
+mediates its incorporation into coated pits.
+The second subclass of internalization-defective alleles includes two examples, F H 781 and FH 274 (Fig.
+3). Here, deletions remove exons 16-18, which encode
+the membrane-spanning domain as well as the cytoplasmic domain. In the FH 274 and FH781 mutations,
+about 90% of these truncated receptors are secreted
+into the culture medium (Lehrman et al. 1985b). Genomic cloning, DNA sequencing, and S1 nuclease
+mapping studies indicate that exons 1-15 of the gene
+are present in the m R N A and specify the amino-terminal 749 amino acids of the normal protein (M.A.
+Lehrman et al., in prep.). The deletions affect the ability of the receptor m R N A to splice properly after exon
+
+15, thus causing translation to proceed into intron 15.
+This read-through produces a receptor with 55 novel
+amino acids at its carboxyl terminus. Inspection of this
+sequence reveals a stretch of 14 amino acids with a hydrophobic nature that could encode a pseudo-transmembrane domain. It is possible that this novel transmembrane domain might function inefficiently, thus
+retaining only 10% of the LDL receptors within the
+cell while the other 90% are secreted. This hypothesis
+is currently being tested in our laboratory.
+
+SUMMARY
+Since the discovery of the LDL receptor 13 years ago,
+a multidisciplinary approach to its study has revealed
+much about this important cell-surface protein. Most
+recently, we have developed tools in the form of fulllength cDNAs and cloned genomic DNAs necessary to
+understand the molecular genetics of this locus. The
+frequent occurrence of mutations in the LDL receptor
+gene in patients with FH provides a fertile ground on
+which to explore the parts of the receptor that are necessary for its function. The analysis of four large deletions has revealed an unexpectedly universal involvement of Alu repeats in their generation. These studies
+indicate that repetitive DNAs can destabilize a gene
+through homologous recombination. Inasmuch as the
+LDL receptor gene is a mosaic of exons shared with at
+least five other proteins, it is possible that early exonshuffling events involved recombination between these
+repetitive elements. Is it possible that the very plasticity
+that permitted evolution of the LDL receptor also ac-
+
+Downloaded from symposium.cshlp.org on November 14, 2012 - Published by Cold Spring Harbor Laboratory
+Press
+
+818
+
+R U S S E L L ET AL.
+
+counts for its frequent disruption by mutation? Further study may help to answer this question.
+Mutations that disrupt the structure of the protein
+have been identified. The biochemical and cellular
+consequences of these mutations reveal crucial aspects
+of receptor structure. The receptor is clearly divided
+into quasi-independent domains with discrete functions. Mutations that disrupt the cytoplasmic domain
+alter the ability of the LDL receptor to cluster in coated
+pits, but they do not disrupt ligand binding or produce
+major effects on intracellular transport. Some of the
+mutations in the external domain disrupt binding but
+do not affect transport or internalization. Other mutations disrupt transport to the surface without abolishing binding. Some domains of the protein appear to
+function in a cooperative manner. Thus, deletions in
+the EGF precursor homology domain affect the ability
+of the receptor to bind LDL, indicating that this domain acts in collaboration with the actual amino-terminal binding domain.
+Clearly, further study of these human mutations will
+tell us much about the structure and function of the
+LDL receptor and probably other membrane proteins
+as well.
+ACKNOWLEDGMENTS
+This work was supported by research grants from the
+National Institutes of Health (HL 20948 and HL 31346)
+and the Moss Heart Foundation; a Research Career
+Development Award from the National Institutes of
+Health (HL 01287) to D.W.R.; a postdoctoral fellowship from the Jane Coffin Childs Memorial Fund for
+Medical Research to M.A.L.; a postdoctoral fellowship from the Deutsche Forschungsgemeinschaft to
+T.C.S.; a postdoctoral fellowship from the National
+Institutes of Health (HL 06660) to C.G.D.; and a postdoctoral fellowship from the National Institutes of
+Health (AM 07307) to H . H . H .
+REFERENCES
+Anderson, R.G.W., J.L. Goldstein, and M.S. Brown. 1977. A
+mutation that impairs the ability of lipoprotein receptors
+to localise in coated pits on the cell surface of human fibroblasts. Nature 270: 695.
+Basu, S.K., J.L. Goldstein, R.G.W. Anderson, and M.S.
+Brown. 1981. Monensin interrupts the recycling of low
+density lipoprotein receptors in human fibroblasts. Cell
+24: 493.
+Blobel, G. 1980. Intracellular protein topogenesis. Proc. Natl.
+Acad. Sci. 77: 1496.
+Brown, M.S. and J.L. Goldstein. 1976. Analysis of a mutant
+strain of human fibroblasts with a defect in the internalization of receptor-bound low density lipoprotein. Cell
+9: 663.
+--.
+1986. A receptor-mediated pathway for cholesterol
+homeostasis. Science 232: 34.
+Brown, M.S., R.G.W. Anderson, and J.L. Goldstein. 1983.
+Recycling receptors: The round-trip itinerary of migrant
+membrane proteins. Cell 32: 663.
+Cummings, R.D., S. Kornfeld, W.J. Schneider, K.K.
+Hobgood, H. Tolleshaug, M.S. Brown, and J.L. Goldstein. 1983. Biosynthesis of the N- and O-linked oligosac-
+
+charides of the low density lipoprotein receptor. J. Biol.
+Chem. 258: 15261.
+Davis, C.G., M.A. Lehrman, D.W. Russell, R.G.W. Anderson, M.S. Brown, and J.L. Goldstein. 1986a. The J.D.
+mutation in familial hypercholesterolemia: Substitution of
+cysteine for tyrosine in cytoplasmic domain impedes internalization of LDL receptors. Cell 45: 15.
+Davis, C.G., A. Elhammer, D.W. Russell, W.J. Schneider, S.
+Kornfeld, M.S. Brown, and J.L. Goldstein. 1986b. Deletion of clustered O-linked carbohydrates does not impair
+function of low density lipoprotein receptor in transfected
+fibroblasts. J. BioL Chem. 261: 2828.
+Deininger, P.L., D.J. Jolly, C.M. Rubin, T. Friedmann, and
+C.W. Schmid. 1981. Base sequence studies of 300 nucleotide renatured repeated human DNA clones. J. Mol. Biol.
+151: 17.
+Doolittle, R.E 1985. The genealogy of some recently evolved
+vertebrate proteins. Trends Biochem. Sci. 10: 233.
+Gilbert, W. 1978. Why genes in pieces? Nature 271: 501.
+Goldstein, J.L. and M.S. Brown. 1984. Progress in understanding the LDL receptor and HMG CoA reductase, two
+membrane proteins that regulate the plasma cholesterol.
+J. Lipid Res. 25: 1450.
+Goldstein, J.L., R.G.W. Anderson, and M.S. Brown. 1979.
+Coated pits, coated vesicles, and receptor-mediated endocytosis. Nature 279: 679.
+Goldstein, J.L., M.S. Brown, R.G.W. Anderson, D.W. Russell, and W.J. Schneider. 1985. Receptor-mediated endocytosis: Concepts emerging from the LDL receptor system. Annu. Rev. Cell Biol. 1: 1.
+Gunning, P., P. Ponte, H. Okayama, J. Engel, H. Blau, and
+L. Kedes. 1983. Isolation and characterization of fulllength cDNA clones for human c~-, 13-, and ~/-actin
+mRNAs: Skeletal but not cytoplasmic actins have an
+amino-terminal cysteine that is subsequently removed.
+Mol. Cell. Biol. 3: 787.
+Hobbs, H.H., M.S. Brown, J.L. Goldstein, and D.W. Russell.
+1986. Deletion of exon encoding cysteine-rich repeat of
+LDL receptor alters its binding specificity in a subject with
+familial hypercholesterolemia. J. Biol. Chem. (in press).
+Hobbs, H.H., M.A. Lehrman, T. Yamamoto, and D.W. Russell. 1985. Polymorphism and evolution of Alu sequences
+in the human low density lipoprotein receptor gene. Proc.
+Natl. Acad. Sci. 82: 7651.
+Innerarity, T.L., K.H. Weisgraber, K.S. Arnold, S.C. Rall,
+Jr., and R.W. Mahley. 1984. Normalization of receptor
+binding of apolipoprotein E2: Evidence for modulation of
+the binding site conformation. J. Biol. Chem. 259: 7261.
+Jagadeeswaran, P., D. Tuan, B.G. Forget, and S.M. Weissman. 1982. A gene deletion ending at the midpoint of a
+repetitive DNA sequence in one form of hereditary persistance of fetal haemoglobin. Nature 296: 469.
+Kingsley, D:M., K.E Kozarsky, L. Hobbie, and H. Krieger.
+1986. Reversible defects in O-linked glycosylation and LDL
+receptor expression in a UDP-Gal/UDP-GalNAc 4-epimerase deficient mutant. Cell 44: 749.
+Knott, T.J., S.C. Rail, Jr., T.L. Innerarity, S.E Jacobson, M.S.
+Urdea, B. Levy-Wilson, L.M. Powell, R.J. Pease, R. Eddy,
+H. Nakai, M. Byers, L.M. Priestley, E. Robertson, L.B.
+Rall, C. Betsholtz, T.B. Shows, R.W. Mahley, and J. Scott.
+1985. Human apolipoprotein B: Structure of carboxyl-terminal domains, sites of gene expression, and chromosomal localization. Science 230: 37.
+Lehrman, M.A., D.W. Russell, J.L. Goldstein, and M.S.
+Brown. 1986. Exon-Alu recombination deletes 5 kilobases
+from low density lipoprotein receptor gene, producing null
+phenotype in familial hypercholesterolemia. Proc. Natl.
+Acad. Sci. 83: 3679.
+Lehrman, M.A., J.L. Goldstein, M.S. Brown, D.W. Russell,
+and W.J. Schneider. 1985a. Internalization-defective LDL
+receptors produced by genes with nonsense and frameshift
+mutations that truncate the cytoplasmic domain. Cell
+41: 735.
+
+Downloaded from symposium.cshlp.org on November 14, 2012 - Published by Cold Spring Harbor Laboratory
+Press
+
+LDL RECEPTOR MUTATIONS IN FH
+Lehrman, M.A., W.J. Schneider, T.C. Siidhof, M.S. Brown,
+J.L. Goldstein, and D.W. Russell. 1985b. Mutation in LDL
+receptor: Alu-Alu recombination deletes exons encoding
+transmembrane and cytoplasmic domains. Science
+227: 140.
+Lindgren, V., K.L. Luskey, D.W. Russell, and U. Francke.
+1985. Human genes involved in cholesterol metabolism:
+Chromosomal mapping of the loci for the low density lipoprotein receptor and 3-hydroxy-3-methylglutaryl-coenzyme A reductase with cDNA probes. Proc. Natl. Acad.
+Sci. 82: 8567.
+Mahley, R.W. and T.L. Innerarity. 1983. Lipoprotein receptors and cholesterol homeostasis. Biochim. Biophys. Acta.
+737: 197.
+Ottolenghi, S. and B. Giglioni. 1982. The deletion in a type
+of/i~176
+begins in an inverted AluI repeat. Nature 300: 770.
+Paolella, G., M.A. Lucero, M.H. Murphy, and EE. Baralle.
+1983. The Alu family repeat promoter has a tRNA-like bipartite structure. EMBO J. 2: 691.
+Russell, D.W. and T. Yamamoto. 1986. Molecular cloning of
+bovine LDL receptor cDNA. Methods Enzymol. 128: 895.
+Russell, D.W., W.J. Schneider, T. Yamamoto, K.L. Luskey,
+M.S. Brown, and J.L. Goldstein. 1984. Domain map of
+the LDL receptor: Sequence homology with the epidermal
+growth factor precursor. Cell 37: 577.
+Russell, D.W., T. Yamamoto, W.J. Schneider, C.J. Slaughter,
+M.S. Brown, and J.L. Goldstein. 1983. cDNA cloning of
+the bovine low density lipoprotein receptor: Feedback regulation of a receptor mRNA. Proc. Natl. Acad. Sci. 80:
+7501.
+Schneider, W.J., U. Beisiegel, J.L. Goldstein, and M.S. Brown.
+1982. Purification of the low density lipoprotein receptor,
+
+819
+
+an acidic glycoprotein of 164,000 molecular weight. J.
+Biol. Chem. 257: 2664.
+Stanley, K.K., H.-P. Kocher, J.P. Luzio, P. Jackson, and J.
+Tschopp. 1985. The sequence and toplogy of human complement component C9. EMBO J. 4: 375.
+Siidhof, T.C., J.L. Goldstein, M.S. Brown, and D.W. Russell.
+1985a. The LDL receptor gene: A mosaic of exons shared
+with different proteins. Science 228: 815.
+Stidhof, T.C., D.W. Russell, J.L. Goldstein, M.S. Brown, R.
+Sanchez-Pescador, and G.I. Bell. 1985b. Cassette of eight
+exons shared by genes for LDL receptor and EGF precursor. Science 220: 893.
+Tolleshaug, H., J.L. Goldstein, W.J. Schneider, and M.S.
+Brown. 1982. Posttranslational processing of the LDL receptor and its genetic disruption in familial hypercholesterolemia. Cell 30: 715.
+Tolleshaug, H., K.K. Hobgood, M.S. Brown, and J.L. Goldstein. 1983. The LDL receptor locus in familial hypercholesterolemia: Multiple mutations disrupting the transport
+and processing of a membrane receptor. Cell 32: 941.
+Vanin, E.E, P.S. Henthorn, D. Kioussis, E Grosveld, and O.
+Smithies. 1983. Unexpected relationships between four
+large deletions in the human ~-globin gene cluster. Cell
+35: 701.
+Yamamoto, T., R.W. Bishop, M.S. Brown, J.L. Goldstein, and
+D.W. Russell. 1986. Deletion in cysteine-rich region of LDL
+receptor impedes transport to cell surface in WHHL rabbit. Science 232: 1230.
+Yamamoto, T., C.G. Davis, M.S. Brown, W.J. Schneider, M.L.
+Casey, J.L. Goldstein, and D.W. Russell. 1984. The human
+LDL receptor: A cysteine-rich protein with multiple Alu
+sequences in its mRNA. Cell 39: 27.
+
+

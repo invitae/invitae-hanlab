@@ -1,0 +1,1151 @@
+0022-202X/79/7205-0241$02.00/ 0
+THE JOURNAL OF INVESTIGATIVE DERMATOLOGY, 72:241-247, 1979
+Copyright © 1979 by The Williams & Wilkins Co.
+
+Vol. 72, NO. 5
+
+Printed in U.S. A.
+
+Ascorbate Action on Normal and Mutant Human Lysyl Hydroxylases
+from Cultured Dermal Fibroblasts
+ROBERT
+
+L.
+
+MILLER,
+
+B.s.,
+
+LOUIS
+
+J.
+
+II,
+
+ELSAS,
+
+M.D., AND ROBERT
+
+E.
+
+PRIEST, M.D.
+
+Department of Pathology and Laboratory M edicine, Department of Pediatrics, Division of Medical Genetics, Emory University School of
+Medicine, Atlanta, Georgia, U.S.A.
+
+The mechanism of ascorbate action on lysyl hydroxylase (LH) was investigated using cultured dermal fibroblasts from a patient with hydroxylysine-deficient collagen disease and from appropriate control patients.
+Cells from this patient had moderately impaired LH and
+both parents had intermediate values. Prolyl hydroxylase (PH) was normal in these 3 cell lines and the ratio
+between LH and PH proved an effective genetic discriminant among cell lines from different individuals expressing varying enzyme activity.
+Ascorbate requirements for normal and mutant enzymes were defined and compared. Some specificity for
+ascorbate as the principal physiological reductant was
+found. Lysyl hydroxylase activity from controls was 89%
+of maximum when dithiothreitol alone was omitted
+w-hereas only 8% of activity was present when L-ascorbate alone was omitted. Control activity was fully reconstituted when isoascorbate was substituted for L-ascorbate, but activity was absent when dehydroascorbate
+w-as used.
+Enzyme activity in cultured cells from this patient and
+a control was enhanced proportionately by increasing
+ascorbate concentration. At concentrations of 0.5 mM
+and above, saturation was evident and mutant enzyme
+activity was 17% of control. The apparent Kin of both
+enzymes for ascorbate was identical (0.1 mM) while the
+apparent V max of mutant enzyme was reduced to 25%
+of control. Ascorbate did not alter thermostability of
+either mutant or control enzyme, and increasing ascorbate concentration did not overcome competitive inhibition by Cu2+ of Fe 2 + -dependent enzyme activity.
+These studies demonstrated that this patient with type
+VI, Ehlers-Danlos syndrome had reduced skin collagen
+hydroxylysine caused by impaired lysyl hydroxylase,
+that this mutation was transmitted as an autosomal
+recessive trait and that the mutant enzyme had a reduced
+capacity for ascorbate. Ascorbate augmented lysyl hydroxylase activity by dir.ect electron donation at a ferrous ion-containing site of this enzyme complex.
+Manuscript received July 20, 1978; accepted for publication November 28, 1978.
+This work was supported by the Helen A. Miller Medical Scientist
+Program Grant (RLM); National Foundation-March of Dimes Summer Science Research Grant 8-1-60 (RLM) and Program Grant C-208
+(LJE); and Clinical Research Center RR-00039.
+Dr. Elsas is a recipient of USPHS research grant RCDA HD 35615
+from the National Institutes of Health.
+Dr. Priest is a recipient of US PHS research grant HD 11379 from
+the National Institutes of Health.
+Reprint requests to: R. L. Miller, Box 23344, Emory Univ. School of
+Medicine, Atlanta, GA 30322.
+Abbreviations:
+BSA: bovine serum albumin
+DTT: dithiothreitol
+LH: lysyl hydroxylase
+PCMB: p-chloromecurobenzoate
+PH: prolyl hydroxylase
+TCA: trichloroacetic acid
+
+Collagen is the principal structural element of connective
+tissue providing the necessary tensile strength to maintain
+organizational integrity of various organ systems [1,2]. The
+functional capacity of this extracellular fibrous protein is determined largely by sequential posttranslational modifications directed toward specific amino acid residues [3-5]. Hydroxylation
+of predetermined lysyl and prolyl residues in peptide linkage is
+catalyzed by 2 distinct enzymes, lysyl hydroxylase (EC
+1.14.11.4) and prolyl hydroxylase (EC 1.14.11.2) [6]. Both are
+characteristic of a recently discovered class of dioxygenases
+which couple the stoichiometric decarboxylation of a-ketoglutarate to peptidyl hydroxylation [7]. We have previously characterized lysyl hydroxylase in crude lysates of cultured human
+fibroblasts, its requirements for molecular oxygen, ferrous ion,
+a-ketoglutarate, ascorbate and its genetic control in man [8].
+Increased understanding of collagen biochemistry has contributed to a growing awareness of abnonnal collagen synthesis
+and structure associated with certain human disease states
+[9,10]. Hydroxylysine-deficient collagen disease (Ehlers-DanIos
+syndrome, type VI) was the first heritable human disorder of
+collagen in which a specific molecular defect was identified.
+Amino acid analysis of extracted skin collagen from 2 affected
+sisters revealed a hydroxylysine content which was 5% of controls [11]. Krane, Pinnell, and Erbe et al found that lysyl
+hydroxylase activity in lysates of cultured fibroblasts from these
+patients was reduced to between 10% and 14% of controls and
+was not further augmented by supraoptimal cofactor concentrations in vitro [12]. Subsequently, Quinn and Krane demonstrated that this mutant enzyme W(l.S less stable at 37° than the
+wild type and exhibited a lower affmity for ascorbate than
+control enzyme when assayed in the presence of the sulfhydryl
+reagent dithiothreitol and ascorbate [13].
+,
+Four other patients have been described with hydroxylysinedeficient skin collagen and Ehlers-DanIos syndrome [8,14-17].
+One of these 4 was a patient with an autosomal recessive fonn
+of Ehlers-DanIos syndrome (type VI) who had impaired lysyl
+hydroxylase activity in cultured skin fibroblasts and phenotypically normal parents. Ascorbate was identified as the principal
+physiological reductant in the reaction. While the patient was
+not ascorbate 'deficient, in vivo administration of pharmacologic
+amounts of vitamin C increased urinary hydroxylysine excretion
+and improved the patient's scar formation, muscle strength,
+bleeding time, and corneal size. Hydroxylysine content of skin
+did not increase [8]. The data contained in the present study
+characterize the biochemical interaction of ascorbate with lysyl
+hydroxylase from control and this patient's cultured skin fibroblasts and relate this interaction to the previously observed in
+vivo effects.
+
+241
+
+MATERIALS AND METHODS
+Fertilized eggs were purchased from Harold Hatchery, Athens, Georgia. L-[4,5-"H] lysine (21 Ci/mmo!e) and L-[3,4-J H] proline (41 Ci/
+mmole) were purchased from Amersham/Searle Corp. a-Ketoglutarate,
+L-ascorbic acid, and a,a' -dipyridyl were obtained from Sigma Chemical
+Co. Catalase was purchased from Worthington Biochemical Corp.,
+Pentex bovine albumin fraction V, fatty acid poor, from Miles Laboratories, Inc., and dithiothreitol (DTT) from Calbiochem. Dowex 50W-
+
+242
+
+Vol. 72, No.5
+
+MILLER, ELSAS, AND PRIEST
+
+XB was purchased from Bio-Rad Laboratories. Aquasol II scintillation
+cocktail was purchased from New England Nuclear.
+
+the Student's paired t-test and the statistical significance as dermed in
+the text.
+
+RESULTS
+
+Preparation of Labeled Unhydroxylated Substrate
+Labeled unhydroxylated collagen substrate was prepared from 15day-old chick calvaria incubated in 7.0 rnl of Dulbecco's lysine-free
+minimal essential medium with 3.0 mCi ofL-[4,5- 3H] lysine (1 mCi/rnl)
+or 9.6 ml of medium with 400 J.lCi of L-[3,4-3H] proline (1 mCi/ml) as
+previously described by Peterkofsky and Diblasio [lB]. This preparation
+was supplemented with 0.5 mM a,a' -dipyridyl, aerated with 90% air10% CO 2 and incubated for 3 hr at 37° . The calvaria were separated
+from the medium, then rinsed with cold 0.11 M NaCI-0.05M Tris-HCI,
+pH 7.4, containing 1 mM L-Iysine or L-proline and homogenized in 24
+rnl of 0.5 N acetic acid in a Teflon-glass tissue homogenizer. The
+preparation was centrifuged at 20,000 g for 30 min and the clarified
+supernatant dialyzed against 0.4 M NaCI-0.1 M Tris-HCI, pH 7.6 for 4B
+hr before precipitating with 176 mg/ml of solid ammonium sulfate (30%
+saturated solution) . The precipitate was dissolved in 0.2 M NaCI-0.05M
+Tris-HCI, pH 7.6 and dialyzed against the same buffer. This dialyzed
+solution was warmed to 37° for 1.5 hr to allow fibril formation by
+unlabeled soluble collagen. Associated fibrils were pelleted by centrifugation at 20,000 g for 10 min to enhance the specific activity of the
+final substrate preparation. Approximately 5 rnl of L-[4,5- 3H] Iysinelabeled (2.7 X 107 dpm/rnl) or L-[3,4-3H] proline-labeled (4.7 X 106
+dpm/ ml) unhydroxylated collagen substrate were obtained and stored
+in aliquots at -20°C. Each experiment with the mutant and control
+cell lines was performed with the same substrate preparations since
+others have found different substrate preparations had different specific
+activities [13,19].
+
+Fibroblast Culture and Enzyme Preparation
+Skin biopsy material was obtained by punch biopsy and grown in
+monolayer cultures using Dulbecco and Vogt's modified Eagle's media
+supplemented with 15% fetal calf serum and glutamine by previously
+described methods [20]. Cells were seeded at 6.2-7.0 X 10' cells/ml (100
+ml medium) in 690 cm 2 Belco roller bottles, grown to copfluence,
+harvested 2 days postconfluence with trypsin, and pelleted. The pellet
+was resuspended at a density of 2.5-3.0 X 10" cells/ml in 0.2 M NaCI-0.1
+M glycine-50 J.lM DTT-20 mM Tris-HCI buffer, pH 7.5, with rapid
+freezing and thawing 3 times before centrifuging at 15,000 g for 10 min
+at 4°C. Supernatant was either used immediately or dialyzed for 24 hr
+at 4°C against a 0.15 M NaCI-0.1 M glycine-50 J.lM DTT-20 mM TrisHCI buffer, pH 7.5, and frozen at -20°C for no more than one week.
+Dialysis of subcellular preparations from human fibroblast cultures
+had previously been used in this laboratory to clarify the relative
+requirements of aqueous soluble cofactors involved in complex enzyme
+reactions [21,22]' Activity of dialyzed enzyme was stable for 4 weeks at
+-20°C: Protein content was determined by a modified method of Lowry
+et al [23].
+
+Assay of Hydroxylase Activities from Cultured Fibroblasts
+Lysyl hydroxylase activity was evaluated in enriched cytosolic fractions of normal cultured human fibroblasts. In an
+initial assay containing 150 ,.,.g of cytosolic protein, enz~e­
+dependent release of tritium was linear with respect to t~e
+over a 20 min period of incubation (Fig 1) . No increase m
+activity with increasing protein concentration was seen when
+a-ketoglutarate was omitted. Tritium release with 15 ,.,.1 ?f
+substrate plateaued at protein concentrations above 120 ,.,.g (FIg
+2). Addition of substrate, but not enzyme, during assay reproduced a linear relationship. All subsequent assays utilized 1.5
+,.,.1 of substrate preparation and approximately 60 ,.,.g of cytos ohc
+protein in a 20 min incubation. Control enzyme activity· was 3
+to 4 times background. Background was defined as tritium
+released in the absence of the cosubstrate, a-ketoglutarate,
+unless otherwise stated (Fig 2) .
+The specificity and genetic control of lysyl hydroxylase impairment were examined in cultured dermal fibroblasts from
+the proband, his parents and control cell lines. As seen in Table
+I, the mean lysyl hydroxylase activity in non dialyzed lysates of
+the patient's cells was 17% of the mean activity of age-matched
+controls. Activity was reduced at several different enzyme-protein concentrations (data not shown) . Mean activity in lysates
+from fibroblasts of the father and mother was 66% and 39%,
+respectively. The level of prolyl hydroxylase in these same
+lysates was within the range of activities expressed by control
+cells as was mitochondrial branched chain a-ketoacid dehydrogenase. Fibroblasts obtained from normal individuals will express variable lysyl and prolyl hydroxylase activities when
+cultured under identical conditions as indicated by the standard
+deviations in Table I. Quantitation of variant lysyl hydroxylase
+activity by tritium-exchange assay is an arbitrary measurement,
+and caution should be exercised when utilizing percent of control activity as a determinant of enzyme deficiency. Quinn and
+Krane noted that the ratio of lysyl hydroxylase activity to
+prolyl hydroxylase activity best reflected the relative lysyl
+hydroxylase activity in a given cell lysate [13]. As shown in
+
+(xlO- 4 )
+4. 0
+
+Enzyme A ssay
+Lysyl hydroxylase activity was determined by the tritium exchange
+method of Peterkofsky and Di Blasio with minor modification [lB].
+Approximately 310,000 dpm of L-[4,5-"H] Iysyl collagen substrate were
+incubated with 80 J.!l of fibroblast lysate for 20 min at 30°C in a final
+volume of 0.5 ml. The reaction mixture contained 50 mM Tris-HCI
+adjusted to pH 7.5 at 30°C, 0.5 mM a-ketoglutarate, 0.0 to 1.0 mM Lascorbate, 0.1 mg catalase, 0.05 mM Fe(NH,hSO" 0.75 mg bovine serum
+albumin (BSA) and 0.1 roM DTT. The assay was stopped by the
+addition of 50 J.l1 of 50% trichloroacetic acid (TCA). Fifteen J.l1 of BSA
+(25 mg/ ml) were added to the assay tubes with mixing and kept on ice
+15 min. After centrifugation at 15,000 g for 5 min, the combined
+supernatants from the original centrifugation and one wash with 5%
+TCA were applied to 2.5 cm columns of AG Dowex 50W-XB. Eluant
+was collected in scintillation vials and mixed with 8 rnl of Aquasol II for
+counting in a Nuclear Chicago Mark I liquid scintillation counter with
+33% efficiency. Prolyl hydroxylase activity was measured by the same
+procedure except that the reaction mixture contained 47,000 dpm of L[3,4_3H] prolyl collagen substrate and 0.1 mM a-ketoglutarate. In both
+assays enzyme activity was defined as tritium released in the presence
+as compared to the absence of a-ketoglutarate unless otherwise stated.
+In experiments testing the effect of cupric ion on enzyme activity,
+albumin, catalase and dithiothreitol were omitted from the incubation
+mixture. Kinetic analysis was performed in a complete assay system
+lacking dithiothreitol. Lineweaver-Burke plots were generated by the
+method of least squares [24]. Statistical analysis was conducted with
+
+C;
+
+25\~
+
+3. 5
+
+....
+
+VI
+
+5~.,
+
+3. 0
+
+...
+
+2.5
+
+>x
+0
+
+"">0
+
+:I:
+
+--'
+
+0
+
+0..
+
+'"
+E
+
+>- c..
+VI
+
+>-
+
+2.0
+
+15 II L
+
+:E
+
+0
+
+1.5
+1.0
+0.5
+0
+
+O-____
+
+0
+
+~
+
+______
+
+15
+
+~
+
+______L -____- L____
+
+45
+
+30
+TIME
+
+60
+
+~\~
+~\----~
+
+120
+
+(min)
+
+FIG 1. Time-course of enzyme-dependent tritiated-water release
+from collagen ("H) Iysyl substrate. Incubation of dialyzed control cell
+cytosolic fraction containing 150 J.lg protein with 2.8 X 105 dpm (15 J.ll)
+and 4.7 X 10" dpm (25 ,.J) of substrate was carried out as described in
+the text. Data represent duplicate determinations with minus a-ketoglutarate (KGA) blank values subtracted from each point.
+
+May 1979
+
+ASCORBATE ACTION ON NORMAL AND MUTANT COLLAGEN LYSYL HYDROX YLASES
+
+,c,
+
+(+)
+
+KG A
+
+3. 0
+
+....
+v>
+«C
+
+-'
+
+;>-
+
+2. 5
+
+C
+e 2.0
+
+"" =
+"",... '"
+'"
+::>:
+
+0
+
+-'
+
+;>-
+
+,...
+
+==
+<=>
+
+a..
+
+1.5
+
+V>
+
+-'
+
+40
+
+80
+
+120
+PROTEIN
+
+160
+
+200
+
+240
+
+28 0
+
+I~g)
+
+FIG 2. Relationship between tritiated-water release and lysate protein content. Increasing amounts of control cell cytosolic fractions were
+assayed with 2.8 x 10" dpm (15,.d) and 4.7 x 10" dpm (25/-11) of substrate
+as outlined in the text. Mean tritium release in the presence and
+absence of a-ketoglutarate (KGA) is plotted for specified amounts of
+a dded protein.
+TABLE
+
+1. Lysyl and prolyl hydroxylase activities in cultured skin.
+
+fibrobla st lysates
+
+Enzyme Activities
+Prolyl
+Lysyl
+hydroxylase (PH)
+hydroxylase (LH)
+LH:PH
+(DPM "H release/mg
+(DPM "H release/mg
+protein/ 20 min)
+protein/20 min)
+47,639 ± 8,881 (8)
+0.074
+3,505 ± 588 (8)
+Patient
+24,572 ± 2,696 (6)
+7,923 ± 495 (9)
+0.322
+Mother
+56,680 ± 3,251 (6)
+0.240
+13,590 ± 1,569 (9)
+Father
+45,289 ± 8,791 (8)
+21,227 ± 1,360 (8)
+0.469
+Control-326
+40,976 ± 3,274 (3)
+22,740 ± 1,277 (3)
+0.555
+Control-409
+18,455 ± 1,118 (3)
+14,504 ± 665 (3)
+0.786
+Control-525
+29,213 ± 2,452 (4)
+0.740
+21,620 ± 1,455 (4)
+Control-610
+Data are presented as the mean ± 1 standard deviation with the
+t otal number of enzyme assays in 2 sepaJ'ate experiments in parentheses. Control line 409 was assayed at 10 population doublings. The
+remaining cell lines were at 24-26 population doublings.
+Cell line
+
+Table I, this ratio best defmed the expressed genotype among
+the cell lines tested.
+
+Cofactor Requirements of Control and Mutant Enzyme
+Cofactor requirements for dialyzed lysyl hydroxylase were
+assessed. Subcellular enzyme preparations were exhaustively
+dialyzed to assure removal of aqueous-soluble cofactors before
+reconstitution and assay. As seen in Fig 3, when dithiothreitol
+alone was omitted from the reaction, 89% of activity remained,
+indicating that this reducing agent was not a principal reductant
+for the reaction. When catalase, bovine serum albumin, or Fe2 +
+were omitted separately, lysyl hydroxylase activity was 91%,
+73%, and 63% of maximum activity, respectively. When Lascorbate was omitted only 4% of complete activity remained.
+When a-ketoglutarate alone was omitted, essentially no activity
+above that of a minus enzyme blank was present.
+The reducing properties and steric requirements of L-ascorbate action on dialyzed enzyme were investigated with analogs
+of L -ascorbate and unconjugated pteridine (Table II). Control
+activity was measured in the complete assay system without
+dithiothreitol but containing either 1 mM or 10 mM L-ascorbate.
+Isoascorbate, the D-arabinose isomer of L-ascorbate which
+exhibits a similar standard redox potential [25], reconstituted
+
+243
+
+103% and 94% of control activity observed with 1 roM and 10
+mM ascorbate, respectively. Lysyl hydroxylase activity was
+stimulated to a lesser degree by 2-amino-4-hydroxy-6, 7-dim ethyl-5,6,7,8-tetrahydropt eridine, a naturally occurring reducing agent structurally dissimilar from ascor bate. Lysyl h ydroxylation in the presence of 1 mM and 10 mM tetrahydropteridine
+was 82% and 91% of control, respectively. Addition of equal
+concentrations of ascorbate and tetrahydropteridine were not
+additive . Activity in assays containing less than saturating levels
+of L-ascorbate and either 0.02 mM or 0.1 mM tetrahydropteridine was reduced when compared to assays with ascorbate but
+lacking tetrahydropteridine (data not shown). Incubation of
+substrate, cofactors without enzyme and 0.01-10 mM t etrahydropteridine revealed no evidence of nonspecific tritium release
+by pteridine. In marked contrast dehydroascorbate, the oxidation product of L-ascorbate, produced minimal activity at a
+concentration of either 1 mM or 10 mM. These data indicated
+that the reducing properties of ascorbate are required for human lysyl h ydroxylase activity and that tetrahydropteridine
+but not dithiothreitol can partially substitute as a reducing
+agent.
+
+Ascorbate Interaction with Lysyl Hydroxylase
+Certain divalent cations interfere with lysyl and prolyl hydroxylase activities by competing with ferrous ion for binding
+at the active site [26,27]. This enzyme-ferrous ion locus could
+also serve as a site of ascorbate interaction with the active
+enzyme complex. Inhibition of human lysyl hydroxylase with
+Cu 2 + defined Cu 2 + as a site-specific probe and enabled further
+exploration of ascorbate interaction with the enzyme complex.
+Our kinetic analysis defined competitive inhibition of iron-stimulated enzyme activity by cupric ion (Fig 4) . An increase in
+ferrous ion concentration increased lysyl hydroxylase activity
+in the presence of fixed inhibitor concentration. Double reciprocal plots converged at a common ordinate intercept, indicating an identical apparent maximal velocity. A replot of slopes
+of the reciprocal plots against inhibitor concentration was linear, indicating that copper inhibition was unique to iron-specific
+binding sites (data not shown). The apparent K; determined by
+extrapolation was 7 f.l.M. As indicated in Fig 4, 32 f.l.M Cu 2 +
+inhibited enzyme activity with identical ordinate but different
+abscissal intercepts from 64 f.l.M Cu 2+
+To study the effects of ascorbate on copper inhibited lysyl
+
+100
+
+E
+
+Com lete
+(-ICatalase
+
+(-I Dn
+
+:J
+
+E
+><
+
+(-) BSA
+
+"'E
+
+1-IFe2+
+
+~
+LU
+
+V>
+
+<:
+...J
+
+>-
+
+50
+
+X
+0
+
+'"0
+
+>-
+
+:c
+...J
+
+>>-
+
+V>
+
+(-)Ascorbate
+
+c::=J ~
+
+a
+COND ITION
+
+FIG 3. Cofactor requirements for tritiated-water release from ("H)
+Iysyl substrate by human lysyJ hydroxylase. Complete assay system
+contained: Dialyzed control cytosolic fraction (60 p.g protein) , substrate
+(2.8 X 10" dpm) , 0.1 mM dithiothreitol (DTT) , 1.5 mg/ rnl bovine serum
+albumin (BSA) , 0.2 -mg/ ml catalase, 0.05 mM ferrous ion (Fe2+), 0.5
+mM a-ketoglutarate (KGA) and 0.5 mM L -ascorbate. Isolated omissions
+aJ'e indicated. Data represent the mean of quadruplicate observations
+for each condition and are expressed as percent of maximum, the
+activity of the complete system.
+
+244
+
+Vol. 72, No.5
+
+MILLER, ELSAS, AND PRIEST
+
+II. Effect of L-ascorbate, ascorbate analogs and
+tetrahydropteridine on lysyl hydroxylase activity
+Percent
+Activity
+(DPM ' H release/mg
+Control
+Reducing agent
+activity
+protein/20 min)
+TABLE
+
+L-ascorbate
+1.0 mM
+10.0 mM
+Isoascorbate
+1.0 mM
+10.0 mM
+Tetrahydropteridine
+1.0 mM
+10.0 mM
+L-Ascorbate and
+terahydropteridine
+1.0 mM + 1.0 mM
+10.0 mM + 10.0 mM
+Dehydroascorbate
+1.0 mM
+10.0 mM
+
+17,724
+17,931
+
+100
+100
+
+18,226
+16,912
+
+103
+94
+
+14,469
+16,249
+
+82
+91
+
+18,708
+15,995
+
+106
+89
+
+883
+1,582
+
+5
+9
+
+Each reaction contained the complete assay system minus dithiothreitol and the reducing agent specified in the left column. Activity
+was determined under standard conditions and represented the mean
+of quadruplicate observations for each reductant in 2 separate experiments.
+
+inactivation to baseline activity. Although preincubation of
+mutant enzyme in the presence of ascorbate resulted in app~­
+ent greater activity than its absence, the increase in spec c
+activity was not statistically significant (p > 0.1). These da~
+suggested that the mechanism of ascorbate action was no
+primarily to promote thermostability of the enzyme compl~x.
+L-ascorbate was not effective in increasing the relative actiVIty
+of mutant enzyme when exposed to elevated temperatures for
+increasing periods of time (data not shown).
+The effects of increasing L-ascorbate concentration on control and mutant lysyl hydroxylase are shown in Fig 6. Data
+represent the average of 3 separate experiments with the 2 cell
+lines. Control enzyme activity rose rapidly as ascorbate was
+increased from 0.01 mM to an optimum concentration of 0.5
+mM. Further increase to 1.0 mM did not further augment enzyme
+activity. Enzyme activity from the patient's cells also was
+maximum at 0.5 mM ascorbate, but plateaued at a level 17% of
+control. These data were analyzed by Lineweaver-Burke plO~
+4
+in Fig 7. Control enzyme had an apparent V ma • (4 X 10 dpm
+mg protein/20 min) approximately 4 times that observed for
+mutant enzyme (10 4 dpm/mg protein/20 min) . The app~ent
+Km of control and mutant enzyme for L-ascorbate deterrn med
+from extrapolated abscissal intercepts was identical (100 p.M) .
+
+III. Effect of L-ascorbate concentration on copper-inhibited
+lysyl hydroxylase activity
+Activity
+(DPM "H release/mg
+Ascorbate
+A:B
+protein/20 min)
+concentration
+(mM)
+
+TABLE
+
+64 ~M Cu 2 +
+...
+
+;:::
+VI . _
+
+« E
+--' <>
+>-N
+o>< -c:
+~
+
+I. 6
+
+A
+
+..
+
+>-°1.2
+:to
+
+Co
+
+--'
+
+en
+
+>- E
+VI_
+>-::;;
+--'0..
+""";:;-0
+
++.
+
+~
+
+0.8
+
+0~MCu2+ o
+
+0. 4
+/
+
+o~O•
+
+-0. 6
+
+-0.4
+
+-0.2
+
+B
+
+l/LM Fe2 +
+5/LM Fe 2 +
+32/LM Cu 2 +
+32/LM Cu 2 +
+0.70
+1667
+1164
+0.01
+0.71
+2185
+1541
+0.05
+32 ~M Cu 2
+0.77
+2334
+0.1
+1788
+0.82
+0.25
+1836
+2246
+0.82
+2246
+0.5
+1846
+0.81
+2300
+1.0
+1868
+Each reaction contained a modified assay system with a-ketoglutarate as well as ascorbate, ferrous ion, and cupric ion as indicated.
+--0--Dithiothreitol, bovine serum albumin, and catalase were excluded.
+Activity was determined under standard conditions, and represented
+0.8
+\. 0 the mean of quadruplicate observations for each experimental point.
+
+0
+
+0. 2
+
+0
+
+0.4
+
+0. 6
+
+1/IFe 2+\ t~M-ll
+
+FIG 4. Double reciprocal plots of lysyl hydroxylase activity and Fe"+
+in the presence of Cu 2 +. The concentrations of Cu2 + were: 64/LM (."), '32
+/LM (_), none (0 ). Data represent the mean of 4 determinations from
+2 separate experiments. A modified assay system lacking bovine serum
+albumin, catalase and dithiothreitol was incubated under standard
+conditions.
+
+1,10 - II
+
+"k
+11.0
+
+10 .0
+
+hydroxylase, enzyme activity was quantitated over ascorbate ... ~
+:/
+>-N
+ranges from 0.01 to 1.0 mM (Table III). At Fe 2 + /Cu 2 + ratios of ~~
+4.0
+1/32 and 5/ 32 similar augmentation by ascorbate was seen. The
+~1
+percent inhibition of optimum activity was constant at each ~~
+concentration of ascorbate as was the ratio of activity between
+l .O
+these 2 levels of inhibition by Cu 2 + (A:B of Table III). These ~--=>-:>;
+data confirm that Cu 2+ inhibits Fe 2+ binding or function at an ~""
+2.0
+active site on human lysyl hydroxylase, where iron is loosely
+bound to the enzyme complex. While subsaturable copper binding reduced enzyme activity, it did not prevent ascorbate inter1.0
+MUTANT
+- -- - - - - "'I .IAscort>ate
+action with remaining active enzyme.
+- - ___ ,.MUTANT
+The effect of L-ascorbate on the thermostability of control
+~--:--:';
+lO;-C'--;1';5 --------::
+l0:------~
+45 I-IAscorbate
+and mutant enzyme was investigated with cell-free cytosolic
+TIME Of PREINCUBATION Iminl
+fractions (Fig 5) . Aliquots of dialyzed enzyme were preincubated
+at 55° for varying periods of time in the presence or absence of
+FIG 5. Lysyl hydroxylase activity after preincubation of control and
+1.0 mM L-ascorbate. After 10 min of preincubation the specifIc mutant enzyme with L-ascorbate. Preincubation conditions are deactivities of both control and mutant enzyme were substantially scribed in text. Data represent duplicate determinations under standard
+reduced. Preincubation for longer periods produced thermal assay conditions after the specified period of preincubation.
+
+ASCORBATE ACTION ON NORMAL AND MUTANT COLLAGEN LYSYL HYDROXYLASES
+
+245
+
+DISCUSSION
+CONTROL
+
+0_____----------------0
+
+MUTANT
+
+____------e'-------------------e
+0.6
+0.4
+ASCORBATE (mM)
+
+0.2
+
+0.8
+
+1.0
+
+FIG 6. Relationship of ascorbate concentration to control and mutant lysyl hydroxylase activity. Incubations were performed as previously described with varying L-ascorbate concentrations. Data represent the mean value of determinations from 3 separate experiments
+with each cell line. In anyone experiment duplicate determinations of
+tritium release were made at each ascorbate concentration examined.
+Minus-KGA blank values were substrated from each point.
+
+c
+
+E
+o
+
+120
+
+c
+
+0>
+
+E
+
+::E
+
+MUTANT
+
+80
+
+0...
+
+o
+
+......
+Vl
+
+•
+
+<::
+.-J
+
+>X
+
+o
+o
+""
+
+>-
+
+::c
+
+40
+
+.-J
+
+>-
+
+Vl
+
+>-
+
+.-J
+
+- 25
+
+o
+
+25
+
+50
+
+75
+
+. 100
+
+l/IASCORBATE) (mM-l)
+
+FIG 7. Double reciprocal plots of the velocity of lysyl hydroxylase
+
+activity versus ascorbate concentration. Replot of data depicted in Fig
+6 obtained over an ascorbate range from 0.01 mM to 1.0 mM . Each point
+represents the mean value of at least 3 determinations obtained in 3
+separate experiments with each cell line.
+
+Thus, although this mutant enzyme complex had a reduced
+capacity for ascorbate as compared to control, both the control
+and mutant enzymes had a normal affinity for L-ascorbate.
+This result was quite different from the only other previously
+investigated mutant enzyme which had a decreased apparent
+Kill for ascorbate (13].
+
+Our recent description of a patient with mild Ehlers-Danlos
+syndrome (type VI) whose clinical status improved following
+administration of pharmacologic amounts of vitamin C suggested that further study of ascorbate-enzyme interaction in his
+and control cells might clarify both the basic mechanisms of
+ascorbate action on collagen lysyl hydroxylase and the pathological mechanisms producing an altered phenotype [8]. Data
+from parental and the proband's cultured cells confIrmed for
+the first time that deficiency of lysyl hydroxylase activity conformed to an autosomal recessive mode of inheritance. SignifIcant diminution of enzyme activity was observed in cytosolic
+fractions from cultured fIbroblasts of the patient, while preparations from both parents displayed intermediate activity. This
+genetic aberration was specifIc, since prolyl hydroxylase activities from all 3 cell lines were within the range of controls.
+The correlation between phenotypic expression and enzyme
+activity in cultured fIbroblasts suggested that the biochemical
+mechanisms producing an observed clinical response to large
+amounts of ascorbate might also be studied in vitro. After
+exhaustive dialysis our cytosolic preparation of lysyl hydroxylase required the reducing properties of ascorbate for enzyme
+activity. Another naturally occurring reducing agent tetrahydropteridine could partially reconstitute activity but dithiothreitol and dehydroascorbate could not. How then might ascorbate
+act? At least 5 possible interactions were considered. First,
+ascorbate might promote conversion of an inactive proenzyme
+form or association of inactive subunits producing an active
+enzyme complex. Second, this reductant might exert a protective effect on the enzyme complex to reduce its biological or
+physical rate of degradation. A third possible mechanism would
+directly involve its reducing properties in promoting the generation or maintenance of non-specifIc enzymic sulfhydryl
+groups. Fourthly, L-ascorbate might act indirectly to maintain
+free iron it its reduced state during regeneration of the hydroxylating system independently of a more extensive oxidationreduction system [28]. Finally, L-ascorbate might donate electrons directly to the enzyme, possibly causing an alteration in
+the conformation of the enzyme and subsequently augmentation of lysyl hydroxylation.
+With respect to the fIrst hypothesis, the evidence from others
+mitigates its probability. There is no present evidence for
+proenzyme conversion or subunit association requiring L-ascorbate for lysyl hydroxylase. Studies by Miller indicated that
+lysyl hydroxylase activity in L-929 fIbroblasts was not dependent upon ascorbate activation of an inactive precursor form
+[29]. Investigation by Kuttan, Cardinale and Udenfriend of
+prolyl hydroxylase activation in vitro suggested that conversion
+of smaller, cross-reacting protein to a larger, active complex
+was unlikely, and that activation by ascorbate was a direct
+cofactor actipn, causing release of active enzyme bound to
+underhydroxylated collagen in an inactive complex [30). To test
+further this hypothesis, investigators will need a purifIed lysyl
+hydl'Oxylase and its monospecifIc antibody.
+Perhaps ascorbate prolonged the biological half life of the
+enzyme complex by protecting it against degradation? Reduced
+activity expressed in mutant celllysates might reflect enzyme
+present in subnormal amounts as a result of enhanced rates of
+degradation. The question was approached indirectly by measuring the effects of large amounts of ascorbate on the thermostability of this enzyme. Ascorbate did not change the thermal inactivation curves for control or mutant lysyl hydroxylase.
+Evidently, these pharmacological amounts of ascorbate were
+not protecting enzyme against thermal degradation as described
+for thiamine pyrophosphate on branched chain a -ketoacid dehydrogenase or pyridoxal phosphate on cystathionine synthase
+[31-34].
+Thus, 3 possibilities for ascorbate interaction remained: a
+direct effect by maintaining specifIc -SH groups of the apoenzyme, an indirect effect by maintaining free ferrous ion and the
+
+246 .
+
+MILLER; ELSAS, AND PRIEST
+
+direct electron donation to the enzyme complex. The sulfhydryl
+nature of lysyl and prolyl hydroxylase was evidenced by the
+inhibition of lysyl hydroxylase activity by p-chloromecurobenzoate (PCMB), a reagent exhibiting high affinity for sulfhydryl
+groups, and the reversal of this inhibition by dithiothreitol
+[35]. Our data clearly demonstrated that the requirement for
+ascorbate was not satisfied by substitution with dithiothreitol,
+indicating that ascorbate did not act simply to maintain active
+-SH groups and must therefore function in a capacity different
+than dithiothreitol.
+It was possible that ascorbate functioned primarily to maintain free iron in the active ferrous form. Partial but not total
+loss of activity upon removal of ferrous ion indicated that Lascorbate could act without added ferrous ion. However, dialyzed lysyl hydroxylase might retain sufficient iron to allow
+partial activity without addition of free ferrous ion. Maintenance of free ferrous ion in its reduced form should be more
+effectively performed by a reducing agent such as dithiothreitol
+with a greater electron donation potential. Our data showed
+that this was clearly not the case, since dithiothreitol failed to
+substitute for L-ascorbate. The reaction was totally dependent
+upon added ascorbate, even in the presence of freshly made
+Fe 2 + solution.
+Certain divalent metal ions which exhibit a high affinity for
+-SH groups reduced lysyl and prolyl hydroxylase activities by
+competing with Fe 2 + for binding at the active site
+[26,27,36,37]. Our kinetic data indicated that cupric ion inhibition of human lysyl hydroxylase was competitive and was
+overcome by increasing ferrous ion concentration. The apparent
+Ki for copper ion was equal to the apparent Km of the enzyme
+for ferrous ion. The linear replot confirmed that copper
+uniquely competed for iron-specific binding sites. Although the
+exact nature of the ascorbate active site is unknown, direct
+electron donation through bound ferrous ion is one mechanistic
+possibility for ascorbate action that is consistent with this data.
+However, kinetic analysis of this complex multicomponent association could not be further interpreted in the absence of a
+purified enzyme preparation.
+Direct electron donation by ascorbate to the enzymic complex
+at its ferrous ion binding site is supported by several observations from our studies. We found that activity reconstitution in
+dialyzed cell-free lysates achieved with L -ascorbate could be
+duplicated with D-isoascorbate, a stereoisomer with a similar
+electro~-donating potential [25]. Dehydroascorbate, the oxidized form of ascorbate, could not satisfy the ascorbate requirement without added reductant. The failure of dehydroascorbate
+to stimulate enzyme activity indicated that ascorbate was not
+regenerated from dehydroascorbate and that the 2 compounds
+did not function in a coupled oxidation-reduction system as
+cyclic electron carriers. The failure of the oxidized but sterically
+similar cofactor to augment activity also suggested that ascorbate did not function as an inert ligand or an energy source
+conferring more effective conformational changes or stability to
+the holoenzyme complex. The nature of interaction of ascorbate
+with control and mutant lysyl hydroxylase from our patient
+was similar. Assay of mutant enzyme activity from cultured
+cells of our patient revealed a reduced capacity (smaller apparent V max ) for lysyl hydroxylation when compared with control
+enzyme, but both systems displayed an equal affinity (identical
+apparent Km) for ascorbate. We conclude from the above findings that the observed clinical responses to pharmacological
+amounts of ascorbate reflected this cofactor's action as electron
+donor at a ferrous ion-containing site of this enzyme complex.
+We are grateful to Dr. Dean J. Danner for his thoughtful discussions
+and constructive criticisms. We thank Drs. Jean H. Priest and . Jessie
+Moinuddin for their assistance and advice regarding human fibroblast
+tissue culture and Cheryl Jorgensen-Vroman for her secretarial assistance during the preparation of this manuscript.
+REFERENCES
+1. Grant ME, Prockop DJ: The biosynthesis of collagen. N Erigl J
+Med 286:194-199, 242-249, 291- 300, 1972
+
+Vol. 72, No . 5
+2. Priest RE: Biosynthesis of collagen and elastin, Molecular Pathology of Connective Tissues .. Edited by R Perez-Tamayo and M
+Rojkind. New York, Marcel Dekker, Inc, 1973, pp 105-133
+3. Bornstein P: The biosynthesis of collagen. Ann Rev Biochem 43:
+567-603, 1974
+4. Miller EJ, Matukas VJ: Biosynthesis of collagen. The biochemist's
+view. Fed Proc 33:1197-1204, 1974
+5. Gallop PM, Paz MA: Posttranslational protein l}Iodifications, with
+special attention to collagen and elastin. Physiol Rev 55:418-487,
+1975
+6. Cardinale GJ, Udenfriend S: Prolyl hydroxylase, Advances in Enzymology. Edited by A Meister. New York, John Wiley and Sons,
+Inc, 1974, 41:245-300
+7. Abbott MT, Udenfriend S: Alpha-ketoglutarate-coupled dioxygenases, Molecular Mechanisms of Oxygen Activation. Edited by 0
+Hayaishi. New York, Academic Press, 1974,5:167-214
+8. Elsas LJ , Miller RL, Pinnell SR: Inherited human collagen Iysyl
+hydroxylase deficiency: Ascorbic acid response. J Pediatr 92:378384, 1978
+9. Kivirikko KI, Risteli L: Biosynthesis of collagen and its alterations
+in pathological states. Med Bioi 54:159-186, 1976
+.
+10. Uitto J, Lichtenstein JR: Defects in the biochemistry of collagen m
+diseases of connective tissue. J Invest Dermatol 66:59-79, 1976
+11. Pinnell SR, Krane SM, Kenzora JE, Glirncher MJ: A heritable
+disorder of connective tissue. Hydroxylysine-deficient collagen
+disease. N Engl J Med 286:1013-1020, 1972
+12. Krane SM, Pinnell SR, Erbe RW: Lysyl proto collagen hydroxylase
+deficiency in fibroblasts from siblings with hydroxylysine-deficient collagen. Proc Nat Acad Sci USA 69:2899-2903, 1972
+13. Quinn RS, Krane SM: Abnormal properties of collagen Iysyl hydroxylase from skin fibroblasts of siblings with hydroxylysmedeficient collagen. J Clin Invest 57:83-93, 1976
+14. Elsas LJ, Hollins B, Pinnell SR: Hydroxylysine-deficient collagen
+disease: Effect of ascorbic acid. Am J Human Genet 26:28A, 1974
+15. Miller RL, Priest RE, Barton EG, Danner DJ, Elsas LJ: Ascorbic
+acid increases hydroxylation of normal and hydroxylysine-deficient collagen in human fibroblast culture. Fed Proc 36:677A,
+1977
+16. Sussman M, Lichtenstein JR, Nigra TP, Martin GR, McKusick
+VA: Hydroxylysine-deficient skin collagen in a patient with a
+form of the Ehlers-Danlos syndrome. J Bone Jt Surg Am 56A:
+1228-1234, 1974
+17. Steinmann B, Gitzelmann R, Vogel A, Grant ME, Harwood R, Sear
+CHJ: Ehlers-Danlos syndrome in two siblings with deficient
+lysylhydroxylase activity in cultured skin fibroblasts but only
+mild hydroxy lysine deficit in skin. Helv Paediat Acta 30:255-274,
+1975
+18. Peterkofsky B, DiBlasio R: Modification of the tritium-release
+assays for prolyl and lysylhydroxylases using Dowex-50 columns.
+Anal Biochem 66:279-286, 1975
+19. Ryhiinen L, Kivirikko KI: Developmental changes in proto collagen
+lysyl hydroxylase activity in the chick embryo. Biochem Biophys
+Acta 343:121-128, 1974
+20. Priest JH: Medical cytogenetics and cell culture. Philadelphia, 2nd
+edition Lea & Febiger, 1977, pp 263-295.
+21. Elsas LJ, Priest JH, Wheeler FB, Danner DJ, Pask BA: Maple
+Syrup urine disease: Coenzyme function and prenatal monitoring.
+Metabolism 23:569-579, 1974
+22. Danner DJ , Elsas LJ: Subcellular distribution and cofactor function
+of human branched chain alpha-ketoacid dehydrogenase in normal and mutant cultured skin fibroblasts. Biochem Med 13:7-22,
+1975
+23. Lowry OH, Rosebrough NJ, Fan AL, Randall RJ : Protein measurement with the Folin phenol reagent. J Bioi Chern 193:265275, 1957
+24. Segel IH: Enzyme Kinetics. New York, John Wiley and Sons, Inc,
+1975, pp 943-944
+25. Esselen WB, Powers JJ, Woodward R: d-Isoascorbic acid as an
+antioxidant. Ind Eng Chern 37:295-299, 1945
+26. Tuderman .L, Myllylii R, Kivirikko KI: Mechanism of the prolyl
+hydroxylase reaction. 1. Role of co-substrates. Eur J Biochem 80:
+341-348, 1977
+27. Ryhiinen L: Lysyl hydroxylase. Further purification and characterization of the enzyme from chick embryos and chick embryo
+cartilage. Biochirn Biophys Acta 438:71-89, 1976
+28. Hurych J , Hobza, P, Rencova J , Zahradnik R: Approach to the
+hy<;uoxylation of collagenous proline In Biology of Fibroblast.
+Edited by E Kulonen and J Pikkarainen. New York, Academic
+Press, 1973, pp 365-372
+29. Miller RL: .T.he effect of ascorbic acid on lysyl and prolyl hydroxylase activity of cultured fibroblasts. Arch Biochem Biophys 170:
+341-344, 1975
+30. Kuttan R, Cardinale GJ, Udenfriend S: An activatable form of
+prolyl hydroxylase in fibroblast extracts. Biochem Biophys Res
+Commun 64 :947-954, 1975
+31. Elsas LJ, Danner DJ , Rogers, BL: Effect of thiamine on normal
+and mutant human branched-chain alpha-ketoacid dehydrogenase, Thiamine. Edited by CJ Gubler, M Fujiwara, PM Dreyfus.
+New York, John Wiley and Sons, Inc, 1976, pp 335-351
+
+May 1979
+
+ASCORBATE ACTION ON NORMAL AND MUTANT COLLAGEN LYSYL HYDROXYLASES
+
+32. Danner DJ, Lemmon SK, Elsas LJ: Substrate specificity and stabilization by thiamine pyrophosphate of rat liver branched chain
+alpha-ketoacid dehydrogenase. Biochem Med 19:27-38, 1978
+33. Danner DJ, Wheeler FB, Lemmon SK, Elsas LJ: In. uiuo and in
+uitro response of human branched chain alpha-ketoacid dehydrogenase to thiamine and thiamine pyrophosphate. P ediatr Res 12:
+235-238, 1978
+34. Longhi RC, Fleisher LD, Tallan HH, Gaull GE: Cystathionine BSyntrase deficiency: A qualitative abnormality of the deficient
+enzyme modified by Vitamin Bo therapy. Pediatr Res 11:100-108,
+
+247
+
+1977
+35. Kivirikko KI, Prockop DJ : Partial purification and characterization
+of protocollagen lysine hydroxylase from chick embryos. Biochirn
+Biophys Acta 258:366-379, 1972
+36. Rapaka RS, Sorensen KR, Lee SD, Bhat nager RS: Inhibition of
+hydroxyproline synthesis by palladium ions. Biochem Biophys
+Acta 429:63-71, 1976
+37. Vistica DT, Ahrens FA, Ellison WR: The effects of lead upon
+collagen synt hesis and proline hydroxylation in the Swiss mouse
+3T6 fibroblasts. Arch Biochem Biophys 179:15-23, 1977
+
+Announcements
+The Ninth Ibero Latin-American Congress of Dermatology is going to be held in Medellin, Colombia
+from November 24 to 29, 1979. For information please write to Alonso Cortes, M .D .-Apartado aereo #
+054613 Medellin-Colombia South America.
+Thanking you in advance, Alonso Cortes, M.D., Apartado Aereo # 054613, Medellin-Colombia, South
+America.
+The VIIIth International Congress on Photobiology will be held on July 20 to 25,1980, at the University
+of Louis Pasteur in Strasbourg, France. The program will include invited speakers for Symposia and
+Lectures. Free communications may be presented at poster sessions and round table discussions. For
+further information contact M. Charlier, Secretary General, Centre de Biophysique Moleculaire, lA,
+Avenue de la Recherche Scientifique, 45045 Orleans Cedex, France.
+
+

@@ -1,0 +1,906 @@
+Hum Genet (1991) 87 : 177-182
+
+9 Springer-Verlag1991
+
+CG dinucleotide transitions in the factor IX gene account
+for about half of the point mutations in hemophilia B patients:
+a Seattle series
+Shi-Han Chen 1, Min Zhang 1, Everett W. Lovrien 4, C. Ronald Scott 1, and Arthur R. Thompson 2' 3
+1Department of Pediatrics and 2Department of Medicine, University of Washington, and 3Puget Sound Blood Center,
+Seattle, Washington, USA
+4Hemophilia Center, Oregon Health Sciences University, Oregon, USA
+Received July 27, 1990 / Revised October 19, 1990
+
+Summary. Hemophilia B is due to multiple molecular
+defects in the factor IX gene. Over 80% of mutations are
+single base substitutions. By amplification and direct
+sequencing, 51 single base substitutions were found in
+the transcribed sequence of the factor IX genes of patients
+from 50 distinct families with hemophilia B. These include 30 mutations in 29 families not previously reported
+by us; of these, 12 are novel, i.e., not previously published in other series. Of the 51 substitutions in our overall series 23 (45%) occurred as C-to-T or G-to-A transitions at 11 sites within C G dinucleotides. It is estimated
+that CG transitions occur from one to two orders of magnitude more frequently than mutations in nucleotides
+that are not within a C G pair. More than one family had
+identical defects for 6 of the C G mutations. At 4 of these
+sites, most patients had different haplotypes compatible
+with distinct mutations. Non-CG-type mutations occurred thoughout the coding regions with only one mutation
+in more than one family. The latter included 7 families
+with a 397 Ile-to-Thr defect that all share a rare haplotype, suggesting a common ancestor.
+
+Introduction
+Mutations in the X-linked factor IX gene are responsible
+for deficient factor IX activity in patients with hemophilia
+B (Thompson 1991). Haldane (1935) proposed that each
+hemophilic family with an affected m e m b e r would have
+its own "private" variant. This was based on the X-linked
+nature of the gene, the selective disadvantage of the
+bleeding tendency in patients, the lack of a selective advantage in carriers and, therefore, elimination of new
+mutations from populations in a few generations.
+
+Offprint requests to."S. H. Chen, Department of Pediatrics, RD-20,
+University of Washington, Seattle, WA 98195, USA
+
+Genetic heterogeneity of hemophilia B is evident from
+multiple molecular defects of the factor IX gene in different patients. Defects include distinct gene deletions,
+insertions, and point mutations (Brownlee 1989; Thompson 1991). While gross gene deletions or insertions are
+easily detected during routine Southern blot analyses of
+patient's D N A , most point mutations and small nucleotide deletions (or insertions) can only be defined by D N A
+sequencing. It appears that at least 80% of the mutations
+in patients with hemophilia B are due to a variety of single
+nucleotide substitutions throughout the transcribed sequence of the factor IX gene, and transitions within C G
+dinucleotides account for about half of these (Green et
+al. 1990; Koeberl et al. 1989; Zhang et al. 1989a).
+When amplification by the polymerase chain reaction
+(PCR; Saiki et al. 1988) is combined with direct D N A
+sequencing, it is possible to define mutations at the sequence level, to determine origins of mutations, to search
+for mutation "hot spots" in unrelated patients, and to
+test the Haldane hypothesis directly. In this study, 51
+distinct point mutations from a single series are reviewed,
+including 30 not previously reported. Whereas CG dinucleotides represent point "hot spots," other point mutations occur throughout the transcribed sequences. Distinctly different occurrences of the same point mutation
+have only been found as transitions within CG dinucleotides.
+
+Materials and methods
+Patient population and D N A samples
+Blood samples were obtained from a series of patients with hemophilia B, including 41 families from the Pacific Northwest, representing about one-third of the identified families with affected
+members in this area. There were also five samples from patients
+in China (Wang et al. 1990a, b) and four referred from other parts
+of the U.S. Seven additional patients have had mutations other
+
+178
+than point mutations defined and samples on an additional 15 patients have been partially sequenced without a defect being determined at this point. Blood (10-20 ml) samples were drawn into
+heparin, ACD, or EDTA tubes from hemophilia B patients and
+their family members. Citrated plasma was separated by centrifugation and tested for factor IX clotting activities and antigen levels
+as described (Thompson 1977; Bray et al. 1986; Chen et al. 1989b).
+Patients were classified according to their factor IX clotting activity levels and clinical bleeding tendencies as having severe (< 1
+units/dl), moderate (1-5 units/dl) or mild (5-25 units/dl) hemophilia B. All patients with severe hemophilia also had a history of
+relatively frequent, spontaneous bleeding episodes.
+
+fragments 8 a or 8b, alternative primers were used for confirmation
+of sequence. These oligonucleotide primer sequences were bases
+30790-30809 (5'-TFGTGACTTAAAATGAAATT-3') for fragment 8a and bases 31025-31045 (5'TTTGGATCTGGCTATGT
+AAGT-3') for fragment 8b.
+Haplotype analyses were performed by immunoassays (Thr >
+Ala-148, Thompson et al. 1988), PCR (intron 1 insertion, Bouvier
+et al. 1990; BamHI, Zhang et al. 1989b; HhaI, Reiner and Thompson 1990), or Southern blotting (TaqI, Chen et al. 1985).
+
+Polymerase chain reaction (PCR)
+
+U s i n g P C R amplification a n d direct D N A s e q u e n c i n g ,
+the 51 p o i n t m u t a t i o n s r e p r e s e n t 35 different n u c l e o t i d e
+changes in h e m o p h i l i a B p a t i e n t s from 50 distinct families ( T a b l e 2). I n the Seattle series, 21 p o i n t m u t a t i o n s
+have previously b e e n r e p o r t e d as i n d i c a t e d in the table
+references. O f the 30 m u t a t i o n s in 29 families n o t previously reported, 7 defects were associated with mild hemophilia, 13 with a m o d e r a t e l y severe b l e e d i n g t e n d e n c y , 8
+with a severe disorder a n d o n e rare v a r i a n t that did n o t
+change the a m i n o acid s e q u e n c e a n d was the only second
+m u t a t i o n found.
+O f the 50 families 23 have either C - t o - T or G - t o - A
+transitions within C G dinucleotides. These occur as transitions in 10 of 31 C G d i n u c l e o t i d e sites that change codons
+in the coding region of the factor I X gene, and an eleventh
+o n e is in a r e g u l a t o r y r e g i o n 5' to e x o n 1. F i g u r e i shows
+e x a m p l e s of D N A s e q u e n c i n g gels of three of the n e w Cto-T or G - t o - A point m u t a t i o n s within C G dinucleotides.
+T h e s e are at c o d o n s 29.2, 296.2, a n d 333.1. Overall,
+
+Genomic DNA was extracted from leukocytes as previously described (Chen et al. 1985). PCR was performed according to a
+method described by Saiki et al. (1988) with minor modification
+for amplification of factor IX gene fragments (Chen et al. 1989b).
+Nine sets of primers (20-25 nucleotides each) were used to amplify
+all coding regions, exon/intron junctions and the leader sequence
+to nucleotide -66 of factor IX gene. The sequences and locations
+of the primers are presented in Table 1. The nine amplified fragments total 2720bp of the factor IX gene sequence (excluding
+overlap) and readily allow sequencing of all exons and splice junctions and a putative promotor region.
+
+DNA sequencing
+The amplified DNA fragments were further purified by electrophoresis on agarose and electroelution. They were then subjected
+to direct sequencing by the dideoxy-nucleotide chain termination
+method (Sanger et al. 1977). Amplification primers were used for
+sequencing. For patients with defects in exon 8 near the 3' ends of
+
+Table 1. Oligonucleotide primers for factor
+IX fragment amplifications
+
+Primera
+5' Exon 1
+3' Exon 1
+
+Results
+
+Nucleotide
+location
+-85 to
+211 to
+
+Sequence
+-66
+192
+
+5'-TCCAAAGACCCATTGAGGGA-3'
+5'-TCATGTAATCAAAATTTAGT-3'
+
+5' Exon2
+3' Exon 2
+
+6212to 6231
+6650 to 6631
+
+5'-GAAATTGGCTTTCAGATTAT-3'
+5'-ACGGTAATATCTAAAGTGTT-3'
+
+5' Exon 3
+3' Exon 3
+
+6611 to 6630
+6759 to 6740
+
+5'-AGATAGGAAATCAATACCAA-3'
+5'-CCCACATAATTCTCATATGT-3'
+
+5' Exon 4
+3' Exon 4
+
+10324 to 10348
+10587 to 10563
+
+5'-TCTACAGGGGAGGACCGGGCATTCT-3'
+5'-TACACCAATATTGCATTTFCCAGTT-3'
+
+5' Exon 5
+3' Exon 5
+
+17588 to 17607
+17897 to 17878
+
+5'-CATACATGAGTCAGTAGTTC-3'
+5'-AGGAAGCAGATTCAAGTAGG-3'
+
+5' Exon 6
+3' Exon 6
+
+20298 to 20317
+20637 to 20618
+
+5'-TGTAATACATGTTCCATTTG-3'
+5'-GCCTCAGTCTCCCACCTGGC-3'
+
+5' Exon 7
+3' Exon 7
+
+29988 to 30007
+30219 to 30200
+
+5'-TTTCTAGATCAAATGTA~A-3'
+5'-TATGGTGTACCAATCATATT-3'
+
+5' Exon 8a
+Mid-exon 8a
+
+30730 to 30749
+31092 to 31073
+
+5'-GCCAATTAGGTCAGTGGTCC-3'
+5' -TGAAGAACTAAAGCTGATCT-3'
+
+Mid-exon 8b
+3' Exon 8bb
+
+30969 to 30988
+31349 to 31330
+
+5 '- GCTACG~FACACCTATTTGC-3'
+5'-AAGATGGGAAAGTGATTAGT-3'
+
+a The second of each pair of primers represents "antisense" or reverse sequence; inclusive
+sequence numbers (locations) are according to Yoshitake et al. (1985). Sequencing of all
+nine fragments gives information on 2125 bp inlcuding 75 overlapping bp
+b 3' to Stop codon 416
+
+179
+Table 2. Point mutations in hemophilia B patients; Seattle series. * C---~T or G---~A within a CG dinucleotide; + novel nucleotide change,
+not previously described in other series (see Thompson 1991)
+Regional
+location
+
+Position
+or codon a
+
+Nucleotide Amino acid change
+change
+
+Num- Clinical
+berin severity b
+series
+
+Factor IX (units/dl) c
+
+Regulator
+Exon 2
+Exon 2
+Exon 2
+Exon 4
+Exon 4
+
+- 6bp
+27.1
+27.2
+29.2 e
+55.1
+60.1
+
+*G---~A
+G---~A
+A--~T
+*G---~A
+C---~G
+*G--*A
+
+Glu-+Lys
+Glu---~Val
+Arg---~Gln
+Pro---~Ala
+Gly---~Ser
+
+1
+1
+1
+1
+1
+4
+
+Exon 5
+Exon 6
+Exon 6
+Exon 7
+Exon 7
+Exon 7
+Exon 7
+Intron 7
+Exon 8
+Exon 8
+
+107.2
+191.2
+211.1
+215.2
+216.2
+227.3
+233.1
+234.2-1
+248.1
+248.2
+
+T---~C
+C---~A
+G--*T
+G-*A
+T---~C
+T-~C
+*G---~A
+G---~A
+*C---~T
+*G--~A
+
+Val---~Ala
+Gln--*Lys
+Val---~Phe
+Trp---~STOP
+Ile---~Thr
+Val (none)
+Ala---~Thr
+Acceptor Splice J
+Arg---~STOP
+Arg---~Gln
+
+1
+1
+1
+1
+1
+1
+2
+1
+1
+3
+
+Exon
+Exon
+Exon
+Exon
+Exon
+Exon
+Exon
+
+8
+8
+8
+8
+8
+8
+8
+
+252.1
+287.2
+296.2
+307.2
+309.2
+310.3
+333.1
+
+*C---~T
+C---~T
+* C---~T
+T---~C
+G---~T
+G--~A
+*C--~T
+
+Arg---~STOP
+Pro---~Leu
+Thr---~Met
+Val--~Ala
+Gly--*Val
+Trp---~STOP
+Arg---~STOP
+
+1
+1
+4
+1
+1
+1
+3
+
+Exon 8
+
+333.2
+
+*G--*A
+
+Arg---~Gln
+
+2
+
+Exon
+Exon
+Exon
+Exon
+Exon
+Exon
+Exon
+Exon
+Exon
+
+336.1
+338.1
+348.1
+360.2
+364.2
+367.1
+378.1
+390.2
+397.2
+
+T---~C
+* C---~T
+A---~G
+C----~T
+A---~T
+G---~A
+T---~C
+C---~A
+T---~C
+
+Cys---~Arg
+Arg---~STOP
+Met--~Val
+Ser---~Leu
+Asp---~Val
+Gly---~Arg
+Phe---~Leu
+Ala--~Glu
+Ile---~Thr
+
+1
+1
+1
+1
+1
+1
+1
+1
+7
+
+- 10
+< 1
+< 1
+20
+~ 10
+11, 17
+10
+20
+< 1
+4
+< 1
+4
+(see 29.2)
+10, 15
+< 1
+< 1
+4, 3
+1, 4
+< 1
+< 1
+2-5
+15
+< 1
+< 1
+< 1
+< 1
+2
+1
+< 1
+< 1
+3
+2
+< 1
+< 1
+< 1
+2
+3
+1-5
+4, 4
+
+8
+8
+8
+8
+8
+8
+8
+8
+8
+
+(S)-Mi
+S
+S
+Mi
+Mi
+Mi
+Mi
+Mi
+S+I
+Mo
+S
+Mo
+(Mi)
+Mi
+S
+S
+Mo
+Mo
+S
+S
+Mo
+Mi
+S
+S
+S
+Mo
+Mo
+S
+S
+Mo
+Mo
+S
+S
+S
+Mo
+Mo
+Mo
+Mo
+
+Clotting
+activity
+
+Reference d
+
+Antigen
+level
+13
+30
+3
+70
+< 30
+19, 30
+18
+120
+<. 1
+0.1
+11, 15
+< 1
+<.1
+3, 4
+1, 4
+< 1
+< 1
+6-11
+40
+75
+< 1
+< 1
+< 1
+32
+38
+5
+< 1
+103
+130
+130
+14
+< 1
+30
+62
+45-96
+56, 88
+
+Hirosawa et al. 1990
+Chen et al. 1989b
+Wang et al. 1990b
+This study
+This study
+Chen et al. 1989b (2);
+this study
+This study +
+This study + f
+This study +
+This study +
+This study +
+This study (2nd mutation)
+This study (2)
+This study +
+Wang et al. 1990a
+Chen et al. 1989b (2);
+this study
+Chen et al. 1989a
+This study +
+This study (4)
+This study +
+Thompson et al. 1989
+Wang et al. 1990a
+Koeberl et al. 1990a (2)f;
+this study
+Wang et al. 1990a;
+this study
+This study
+Freedenberg et al. 1989
+This study +
+This study +
+This study +
+This study +
+This study +
+Wang et al. 1990a
+Geddes et al. 1989f;
+Thompson et al. 1990 (4);
+this study (2)
+
+a Codon numbers according to the sequence of Yoshitake et al.
+(1985) except a decimal value has been added to indicate which of
+the three nucleotides in each codon is changed
+b Clinical severity correlates with the following baseline activities
+in units/dl: < 1, severe (S); 1-5, moderate (Mo); 6-25, mild (Mi)
+c Normal values for both are 100 units/dl (range 50-150), corresponding to 4 gg/ml in citrate-diluted plasma
+
+d Numbers in parentheses after references indicate numbers of
+families with the same substitution. Families with the same defect
+are not known to be related for at least three generations
+e The 29.2 and 227.2 mutations are in the same patient's gene
+f All 9 fragments, i.e., 8 exons, splice junctions and 5' and 3' sequences, were sequences. For other newly reported patients, sequenced data was obtained on 50% to 90% of codons
+
+t h e r e a r e s e v e n m u t a t i o n sites w i t h a f f e c t e d m e m b e r s
+from two or more different families having the identical
+n u c l e o t i d e s u b s t i t u t i o n s . T h e s e a r e at c o d o n s 6 0 . 1 , 2 3 3 . 1 ,
+2 4 8 . 2 , 2 9 6 . 2 , 3 3 3 . 1 , 3 3 3 . 2 , a n d 397.2. E x c e p t f o r 7 f a m ilies w i t h t h e c o d o n 397.2 m u t a t i o n , t h e o t h e r six sites
+r e p r e s e n t c h a n g e s as m u l t i p l e occurrences d u e t o t r a n s i tions within CG dinucleotides. On haplotype analyses,
+
+t h r e e o f t h e 60.1 d e f e c t s w e r e d i s t i n g u i s h e d b y T h r / A l a
+148 a n d a 5 0 - b p i n t r o n i i n s e r t , t h e t w o 233.1 p a t i e n t s b y
+B a m H I ( o n e C a u c a s i a n a n d o n e B l a c k ) , t h e 333.1 p a t i e n t s b y T h r / A l a 148 a n d HhaI, a n d t h e 333.2 p a t i e n t s
+b y HhaI ( o n e A s i a n , t h e o t h e r s C a u c a s i a n ) . A l l f o u r p a t i e n t s w i t h t h e 248.2 ( A r g - t o - G l n ) m u t a t i o n h a d t h e m o s t
+c o m m o n p h e n o t y p e in C a u c a s i a n s : B a m H I n e g a t i v e , in-
+
+180
+
+Fig. 1A-C. Sequence gels of three
+hemophilic factor IX genes with
+CG-type mutations. Portions of
+sequence gels of three patients
+amplified fragments are shown
+with the single base substitutions
+(asterisk). Letters to the right of
+each sequence gel are the codon
+containing the substitution (arrow
+and shaded) and its adjacent codons. The normal (not shown) and
+patient DNA and amino acid (AA)
+sequences are given below. Patient
+defects include the second bases
+of codons 29 (A, 29.2) and 296
+(B, 296.2) and the first base of
+codon 333 (C, 333.1), and are
+numbered according to Yoshitake
+et al. (1985)
+
+tron 1 insert present, TaqI negative and Thr-148, and
+H h a I positive (as found in 8% of Caucasian factor IX
+genes). Patients f r o m the four families with the 296.1
+change (Thr-to-Met) were the same phenotype except
+for being intron 1 insert absent and H h a I negative (as
+found in 22% of Caucasian factor IX genes).
+On all patients, D N A samples were screened by factor IX c D N A hybridization to Southern blots after separate digestion with TaqI, E c o R I and H i n d I I I (Chen et
+al. 1985). T w o gross gene alterations were apparent on
+Southern blots in different families (a partial deletion
+and an insertion); two other partial deletions were first
+noted by failure to amplify particular exons. A single
+base deletion and a dinucleotide insertion have led to
+frameshift mutations in patients from two other families.
+Finally, a 4-bp deletion at a donor splice junction site
+was found. These seven mutations (and the 50 patients
+with point mutations) have been summarized (Thompson 1991). Overall, 50 of 57 patients (88% with defined
+mutations have had point mutations.
+
+Discussion
+The overabundance of the point mutations at C G dinucleotides ( - 4 5 % ) agrees with published data for point
+mutations in other series of patients with hemophilia B
+(Koeberl et al. 1989; G r e e n et al. 1990). The mechanism
+of mutation "hot spots" at C G dinucleotides appears to
+involve methylation followed by spontaneous deamination of cytosine residues in C G sequences. These result
+in C-to-T or G - t o - A transitions, the latter due to a C-toT substitution in the complimentary strand (Bird 1980).
+Some multiple occurrences of mutations at the same
+site can be documented to be independent events. For
+the CG-type mutations, independent origins of the codon
+333.1 (Arg to Stop) defect have been demonstrated by
+de novo occurrence in three families (Koeberl et al.
+1990a); the three patients in this series (two reported
+previously) also have distinct haplotypes (A. R. T h o m p son and S.-H. Chen, unpublished). In addition, different
+haplotypes of factor IX are associated in each of the three
+
+20-
+
+15-
+
+"6 1oE
+
+E
+5-
+
+I
+..46
+
+l
+
+rl
+
+~1
+
+100
+
+.i
+
+I
+200
+
+Codon
+
+position
+
+9
+
+!..ili]
+~
+
+w I
+
+300
+
+I
+
+r~
+400
+
+Fig. 2. Point mutations in patients
+with hemophilia B. X on the
+horizontal axis indicates that
+mutations at both positions of CG
+dinucleotides will change codes;
+arrowheads indicate that mutations at either C or G will change
+codes. Solid lines depict the
+number of mutations found in
+different families within CG dinucleotides (C to T or G to A).
+Dashed lines indicate numbers of
+mutations found in non-CG codons (from Thompson 1991), the
+majority of which represent different nucleotide substitutions
+
+181
+families with the c o d o n 60.1 (Gly-to-Ser) defect. T h e
+two patients each with the c o d o n s 233.1 (Ala-to-Thr)
+and 333.2 ( A r g - t o - G l n ) defects had different ethnic and
+geographic origins as well as distinct haplotypes. I n contrast, o u r patient with the 29.2 substitution ( A r g - t o - G l n ,
+in Table 1) is likely related to a previously described patient (Koeberl et al. 1989) as both also have a silent, 227.3
+transition (Table 1; B o t t e m a et al. 1989). This is in spite
+of a negative family history in o u r patient. T h e three patients with the 248.2 ( A r g - t o - G l n ) and four patients with
+296.1 (Thr-to-Met) changes c a n n o t be distinguished as
+each have relatively f r e q u e n t patterns o n haplotyping,
+and could be i n d e p e n d e n t m u t a t i o n s or m a y represent a
+" f o u n d e r effect" as described below.
+F o r n o n - C G mutations, the c o d o n 397.2 transition is
+clearly an exception as it has b e e n detected patients f r o m
+21 different families (Fig. 2). All seven of o u r patients
+are Caucasians and have the same c o m m o n h a p l o t y p e ;
+namely: intron 1 insert absent, Taql-, Mspl § X m n l - ,
+Thr-148 § (MnlI-), and Hhal § O f g r e a t e r significance,
+all share the u n c o m m o n ( a b o u t 3% incidence) BamHI §
+allele ( T h o m p s o n et al. 1990). E l e v e n other patients with
+this same defect also share the u n c o m m o n BamHI + allele ( B o t t e m a et al. 1990). It is thus likely that m o s t if
+not all o f the patients having the c o d o n 397.2 m u t a t i o n
+are p r o g e n y of a single ancestor w h o first h a d or carried
+the mutation. T h e m u t a n t gene then dispersed t h r o u g h a
+" f o u n d e r effect" in the population. T h e n o n - C G - t y p e
+mutations are therefore largely multiple, distinct m u t a tion events, supporting H a l d a n e ' s (1935) hypothesis. Assuming the seven 397.2 substitutions represent a single
+event, the C G - t y p e transitions represent 49% of the total
+point m u t a t i o n s in the Seattle series; the p e r c e n t a g e
+could be as low as 43% if all of the 248.1 and 296.1 C G
+transitions were each due to a single m u t a t i o n event.
+G r e e n et al. (1990) states that a c o m p a r a b l e 53% of the
+i n d e p e n d e n t point mutations are C G transitions in their
+series.
+Figure 2 shows f r e q u e n c y o f occurrences of k n o w n
+point m u t a t i o n s as C G transitions (C-to-T or G - t o - A )
+c o m p a r e d to n o n - C G - t y p e substitutions within o t h e r codons of factor IX, as based u p o n a recent review ( T h o m p son 1990). In this review, 50% of 197 distinct families
+with point mutations in the transcribed s e q u e n c e were
+due to mutations located within C G dinucleotides. Assuming that all o f the c o d o n 397.2 families w e r e due to a
+single point m u t a t i o n ( T h o m p s o n et al. 1990; B o t t e m a et
+al. 1991), this figure b e c o m e s 55%.
+A s s u m i n g 80% o f the hemophilic defects are nucleotide substitutions and that the m u t a t i o n rate for h e m o philia B is a b o u t 3 • 10 -6 (Bitter 1964), then the point
+m u t a t i o n rate for a C or G within o n e of the C G dinucleotides in the coding region of the gene is:
+(3 X 10 -6) (0.8)(0.45)
+31
+
+= 3.5 • 10 -8
+
+w h e r e 0.45 is the ratio of transitional mutations in C G
+dinucleotides to the total n u m b e r of point mutations,
+and 31 is the n u m b e r of C and G nucleotides in C G s in
+the coding regions of the gene w h e r e a transition would
+c h a n g e the code. T h e calculated m u t a t i o n rate of a single
+
+C or G nucleotide in the coding region is 3.5 • 10 -8,
+which is at least one to two orders o f m a g n i t u d e greater
+than the estimate o f 10 -9 to 10 -1~ for a single nucleotide
+m u t a t i o n rate in general (Vogel and M o t u l s k y 1986).
+
+Acknowledgements. This work was supported by the National Institutes of Health (HL-31193), American Heart Association (880805), and a clinical research grant (6-463) from the March of
+Dimes Birth Defects Foundation.
+
+References
+Bird AP (1980) DNA methylation and the frequency of CpG in
+animal DNA. Nucleic Acids Res 8:1499-1504
+Bitter K (1964) Erhebungen zur Bestimmung der Mutationsrate
+ftir Hamophilie A und B in Hamburg. Z Mensch Vererb
+Konstitutionslehre 37:251-268
+Bottema CDK, Koeberl DD, Sommer SS (1989) Direct carrier
+testing in 14 families with hemophilia B. Lancet II: 526-529
+Bottema CDK, Ketterling RP, Koeberl DD, Bowie EJW, Taylor
+SAM, Lillicrap D, Shapiro A, Gilchrist G, Sommer SS (1990)
+A past mutation at isoleucine 397 now is a common cause of
+moderate-mild hemophilia B. Br J Haematol 75 : 212-216
+Bouvier DP, Chen SH, Thompson AR (1990) A 50bp polymorphic insertion in the factor IX gene is readily detected by amplification and is in equilibrium with other polymorphic sites. Nucleic Acids Res 18 : 5325
+Bray GL, Weinmann AF, Thompson AR (1986) Calcium-specific
+immunoassays for factor IX: reduced levels of antigen in patients with vitamin K disorders. J Lab Clin Med 107 : 269-278
+Brownlee G (1989) Haemophilia B: a review of patient defects,
+diagnosis with gene probes and prospects for gene therapy. Recent Adv Haematol 5:251-265
+Chen S-H, Yoshitake S, Chance PF, Bray GL, Thompson AR,
+Scott CR, Kurachi K (1985) An intragenic deletion of the factor IX gene in a family with hemophilia B. J Clin Invest 76:
+2161-2164
+Chen S-H, Scott CR, Schoof J, Lovrien EW, Kurachi K (1989a)
+Factor gXportland: a nonsense mutation (CGA to TGA) resulting
+in hemophilia B. Am J Hum Genet 44 : 567-569
+Chen S-H, Thompson AR, Zhang M, Scott CR (1989b) Threepoint mutations in the factor IX genes of five hemophilia B patients. J Clin Invest 84:113-118
+Freedenberg DL, Chen S-H, Scott R (1989) Factor IX-Seattle 4: a
+C to T mutation in the second TaqI site of exon VIII in the factor IX gene: detection by PCR amplification and direct sequencing. Am J Hum Genet 45 : A186
+Geddes VA, Le Bonniec BF, Louie GV, Brayer GD, Thompson
+AR, MacGillivray RTA (1989) A moderate form of hemophilia
+B is caused by a novel mutation in the protease domain of factor IXvancouver. J Biol Chem 264 : 4689-4697
+GianneUi G, Green PM, High KA, Lozier JN, Lillicrap CP, Ludwig M, Olek K, Reitsma PH, Goossens M, Yoshioka A, Sommer S, Brownlee GG (1990) Haemophilia B: database of point
+mutations and short additions and deletions. Nucleic Acids Res
+18 : 4053-4059
+Green PM, Montandon AJ, Bentley DR, Ljung R, Nilsson IMJ,
+Giannelli F (1990) The incidence and distribution of CpG---~TpG
+transitions in the coagulation factor IX gene: a fresh look at
+CpG mutational hotspots. Nucleic Acids Res 18:3227-3231
+Haldane JBS (1935) The rate of spontaneous mutations of a human gene. J Genet 31:317-326
+Hirosawa S, Fahner JB, Salier JP, Wu CT, Lovrien EW, Kurachi
+K (1990) Structural and functional basis of the developmental
+regulation of human coagulation factor IX gene: factor IX
+Leyden. Proc Natl Acad Sci USA 87 : 4421-4425
+Koeberl DD, Bottema CDK, Beustedde J, Sommer SS (1989)
+Functional important regions of the factor IX gene have a low
+
+182
+rate of polymorphism and high rate of mutation in the dinucleotide CpG. Am J Hum Genet 45 : 448-457
+Koeberl DD, Bottema CDK, Sarkar G, Ketterling RP, Chen S-H,
+Sommer SS (1990a) Recurrent nonsense mutations at arginine
+residues cause severe hemophilia B in unrelated hemophiliacs.
+Hum Genet 84 : 387-390
+Koeberl DD, Bottema CDK, Ketterling RP, Bridge PJ, Lillicrap
+DP, Sommer SS (1990b) Mutations causing hemophilia B, direct estimate of the underlying rates of spontaneous germ-line
+transitions, transversions, and deletions in a human gene. Am
+J Hum Genet 47: 202-217
+Reiner AP, Thompson AR (1990) An HhaI polymorphism is present in factor IX genes of Asian subjects. Hum Genet 86 : 87-88
+Saiki RK, Gelfand DHS, Stoffel S, Scharf SJ, Higuchi R, Horn
+GT, Mullis KB, Erlich HA (1988) Primer-directed enzymatic
+amplification of DNA with thermostable DNA polymerase.
+Science 239: 487-491
+Sanger F, Nicklen S, Couson AR (1977) DNA sequencing with
+chain-terminating inhibitors. Proc Natl Acad Sci (USA) 74:
+5463-5467
+Thompson AR (1977) Factor IX antigen by radioimmunoassay:
+abnormal factor IX protein in patients on warfarin therapy and
+with hemophilia B. J Clin Invest 59 : 900-910
+Thompson A R (1991) Molecular defects in hemophilia B patients.
+In: Hoyer LW, Drohan WN (eds) Recombinant technology in
+hemostasis and thrombosis. Plenum, New York, pp 115-131
+Thompson AR, Chen S-H, Smith KJ (1988) Diagnostic role of an
+immunoassay-detected polymorphism of factor IX for potential
+carriers of hemophilia B. Blood 72 : 1633-1638
+
+Note added in proof. Since submission of this manuscript an extended series of mutations in patients studied at the Mayo Clinic
+has appeared with a similar calculation of mutation rates (Koeberl
+et al. 1990b). They also observed patients with the 216.2 (Ile-toThr) and 307.2 (Val-to-Ala) mutations; where tested, our patients'
+haplotypes were the same: intron 1 insert present, TaqI negative
+and Thr-148 in the former (HhaI was also positive in our patient),
+and intron 1 insert absent, TaqI positive and Ala-148 in the latter
+(HhaI was also negative in our patient). In addition, a data base of
+factor IX mutations has been published (Giannelli et al. 1990).
+Within this catalog, the 211.1 mutation (Val-to-Phe) has also been
+found in an unpublished series from Germany; details on this patient will be of interest.
+
+Thompson AR, Brayer GD, Chen S-H (1989) Severe hemophilia
+B due to a Gt.T transversion changing Gly 309 to val and inhibiting active protease conformation by preventing ion pair
+formation. Blood 74 : 134a
+Thompson AR, Bajaj SP, Chen S-H, MacGillivray RTA (1990)
+"Founder" effect in different families with a hemophilia B mutation. Lancet I : 418
+Vogel F, Motulsky AG (1986) Human genetics: problems and approaches, 2nd edn. Springer, New York
+Wang NS, Chen S-H, Thompson AR (1990a) Point mutations in
+four hemophilia B patients from China. Thromb Haemost 64:
+302-306
+Wang NS, Zhang M, Thompson AR, Chen S-H (1990b) Factor
+IXChongquing: a new mutation in the calcium-binding domain of
+factor IX resulting in severe hemophilia B. Thromb Haemost
+63 : 24-26
+Yoshitake S, Schach BG, Foster DC, Davie EW, Kurachi K (1985)
+Nucleotide sequence of the gene for human factor IX (antihemophilic factor B). Biochemistry 24: 3736-3750
+Zhang M, Chen S-H, Thompson AR, Lovrien E, Scott CR (1989)
+CG dinucleotides are "hot spots" in the factor IX gene for
+point mutations: evidence from the study of 25 families with
+defined mutations causing hemophilia B. Am J Hum Genet 45 :
+A231
+Zhang M, Chen S-H, Scott CR, Thompson AR (1989b) The factor
+IX BamHI polymorphism: T to G transversion at the nucleotide sequence 561. Hum Genet 82 : 283-284
+
+

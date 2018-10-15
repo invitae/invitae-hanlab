@@ -133,3 +133,6 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+# data files
+./bag_of_words/data_sample/processed/*.pkl
+

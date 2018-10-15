@@ -1,0 +1,1665 @@
+Cell, Vol. 61, 663-670,
+
+June
+
+1, 1990, Copyright
+
+0 1990 by Cell Press
+
+Multiple Mutations in Highly Conserved Residues
+Are Found in Mildly Affected Cystic Fibrosis
+Patients
+Michael Dean,’ Marga B. White,t Jean Amos,*
+Bernard Gerrard,’ Claudia Stewart,’
+Kon-Taik Khaw,§ and Mark Leppertll
+Biological Carcinogenesis
+and
+Development Program
+Program Resources, Inc.
+t Laboratory of Viral Carcinogenesis
+National Cancer Institute
+Frederick Cancer Research Facility
+Frederick, Maryland 21701
+*Center for Human Genetics
+Boston University School of Medicine
+Boston, Massachusetts 02118
+§Cystic Fibrosis Center
+Massachusetts General Hospital
+Boston, Massachusetts 02114
+11Howard Hughes Medical Institute
+and Department of Human Genetics
+University of Utah
+Salt Lake City, Utah 84132
+l
+
+We have identified
+three different point mutations
+in
+the coding region of the cystic fibrosis transmembrane conductance
+regulator (CFTR) gene. Each mutation segregates
+with the disease in two- or threegeneration
+pedigrees and is not found on the normal
+chromosome
+of any documented
+cystic fibrosis carrier. One of the mutations is found in two independent
+families that contain at least one individual with a mild
+course of disease. All of these alterations
+replace
+charged amino acids with less polar residues and are
+found in the putative transmembrane
+sections of the
+molecule. The mutated amino acids are found to be
+conserved
+in both rodents and amphibians
+and lie in
+a region of CFTR that is believed to form a channel in
+the membrane.
+Although
+these alterations
+are rare,
+they provide important clues to functionally
+important
+regions of the molecule.
+Introduction
+Although cystic fibrosis (CF) has affected humans for
+generations, this disease was not clinically recognized as
+a distinct entity until the 1930s. Dorothy Andersen (1938)
+correctly proposed that the intestinal disorders and vitamin A deficiencies seen in these patients were due to the
+degeneration
+of the pancreas. Pedigree analysis has established CF as an autosomal recessive disorder (Andersen and Hodges, 1947), and di Sant’Agnese et al. (1953)
+observed that CF patients secrete an excess of sodium
+and chloride ions in their sweat. This observation led to
+the development of the sweat iontophoresis test, which remains the differential diagnostic indicator of CF (Gibson
+and Cooke, 1959).
+
+Several reports have documented a defect in the regulation of chloride ion transport of CF epithelial cells from tissue, primary culture, and immortalized cells (Knowles et
+al., 1981; Quinton and Bijman, 1983; Sato and Sato, 1984;
+Welsh and Liedkte, 1986). The chloride channel in normal
+cells is activated by f3-adrenergic agents through the
+production of intracellular CAMP (Quinton, 1983; Knowles
+et al., 1983; Sato and Sato, 1984). Although CF cells can
+be shown to produce CAMP in response to such agents,
+the channels are not activated. However, chloride transport can be measured in CF cells in response to membrane depolarization
+or through stimulation of protein kinase C in the presence of calcium (Frizzell et al., 1986; Li
+et al., 1989; Hwang et al., 1989). Therefore, the CF defect
+may disrupt a pathway whereby CAMP regulates ion transport, but no defective protein has been identified in CF
+cells to date.
+The clinical presentation of CF is variable both between
+and within families (Rosenstein and Langbaum, 1984).
+The majority of patients are diagnosed by the time of
+adolescence, but a few individuals remain undiagnosed
+until the ages of 30-65 (di Sant’Agnese and Davis, 1979;
+Su and Beanblossom,
+1989). Severe, classical CF is
+characterized by abnormalities of the intestine (obstructions, i.e., meconium ileus), lungs (infections), pancreas
+(failure to secrete digestive enzymes), and the reproductive organs (azo-ospermia,
+low female fertility) (Rosenstein and Langbaum, 1984). If untreated, the average age
+of survival is 3-5 years. In contrast, the average lifespan
+of patients receiving optimum treatment (antibiotics, digestive enzymes, and respiratory therapy) is 25-30 (Boat
+et al., 1989). Virtually all patients develop pulmonary damage due to colonization of the lung with antibiotic-resistant
+bacteria.
+A milder form of the disease has been documented in
+100/o-15% of patients, in which pancreatic function is less
+abnormal and the requirement for pancreatic enzymes is
+absent or reduced. These patients are described as pancreatic sufficient (PS) (Gaskin et al., 1982). Durie et al.
+(1986) have demonstrated that PS patients have higher
+levels of serum trypsinogen.
+Direct measurement
+has
+shown increased levels of exocrine enzymes in PS patients (Kopelman et al., 1985). PS is typically concordant
+within families, and these patients have different haplotypes for closely linked markers when compared with
+more severely affected patients (Gasparini et al., 1990;
+Kerem et al., 1989a; this report). This genetic information
+suggests that PS patients have less severe mutations in
+the CF gene.
+CF is the most common fatal genetic disease in Caucasians, with a carrier frequency of 1 in 25 (Rosenstein and
+Langbaum,
+1984). The availability of three-generation
+families with multiple affected offspring made CF a prime
+candidate for the application of linkage analysis and molecular genetics for the cloning of the gene (reviewed in
+Dean, 1988). A series of reports published in 1985 demonstrated that the CF gene was located on the long arm of
+
+Cell
+864
+
+B
+
+t
+Figure
+
+1. SSCP Analysis
+
+of Regions
+
+of the CF Gene
+
+DNA from several CF patients who are not homozygous
+for the common mutation were assayed for SSCPs in exons of the CF gene. (A)
+Exon 4; arrow points to the affected individual in pedigree UT 1425 (see
+Figure 2). (6) Exon 7; arrow points to the affected individual in pedigree
+UT 1446.
+
+chromosome 7 (Tsui et al., 1985; White et al., 1985; Dean
+et al., 1985; Wainwright et al., 1985). Multipoint linkage
+analysis placed the gene between the met proto-oncogene and the anonymous marker D7S8 (Beaudet et al.,
+1986; Lathrop et al., 1988). The region containing the gene
+was refined by cloning CpG-rich islands of DNA, chromosome jumping and walking, and mapping of recombinant
+meioses (Estivifl et al., 1987; lannuzzi et al., 1989; Dean
+et al., 1990). The CF gene was isolated in 1989, from lung
+cell and sweat duct cDNA libraries, and shown to encode
+an approximately 170 kd protein related to a family of membrane-bound active transport molecules (Rommens et al.,
+1989; Riordan et al., 1989; Kerem et al., 1989b). A three
+nucleotide deletion in a putative ATP binding domain is
+found in 70% of CF chromosomes. This mutation occurs
+in the tenth exon of the gene and removes a phenylalanine
+codon at position 508 (AFso8) in a putative ATP binding
+domain.
+Results
+Identification
+of Patients Carrying
+Nucleotide
+Alterations
+We have employed a sensitive assay to examine a group
+of patients who do not contain the common mutation on
+one or both chromosomes in an attempt to identify additional mutations in the gene. Orita et al. (1989a, 1989b) recently described a technique that detects point mutations
+in defined stretches of DNA. This method identifies singlestranded conformation polymorphisms
+(SSCPs), by the
+amplification
+of 100-400 bp segments of radiolabeled
+DNA, which are subsequently denatured and electrophoresed on high resolution, nondenaturing
+acrylamide gels.
+Under these conditions each strand of the DNA fragment
+can fold back on itself in a unique conformation. Mutations
+within a DNA segment will often alter the secondary structure of the molecule and affect its electrophoretic mobility.
+We have used SSCP analysis for 46 CF patients who
+have at least one CF allele that does not contain the com-
+
+mon (AF,& mutation. We designed primers to amplify
+coding regions of the gene from the published sequence
+of the cystic fibrosis transmembrane
+conductance regulator (CFTR). Speculating that the transmembrane
+regions
+may be sites for mutations, we chose the larger exons in
+the regions of the gene containing the putative membranespanning domains for study. Figure 1 shows an SSCP
+analysis of exons 4 and 7 performed on several patients.
+One individual can be identified, for each exon, that contains an aberrantly migrating fragment. Of the 46 patients
+examined, three patients were identified with alterations in
+exon 4. Only one individual was found with an exon 7 alteration.
+Each putative mutation was shown to segregate with the
+disease in the families of these patients (Figure 2). Each
+of the exon 4 and 7 aberrant fragments occurred on a CF
+chromosome that does not contain the AFso8 mutation.
+The alterations were more precisely mapped to determine
+whether the individuals with aberrant exon 4 fragments all
+carry the same mutation. The alteration in pedigree BOS
+7 mapped to a different region of exon 4 than did the UT
+1425 or the BOS 42 mutation, and the fragments migrated
+to a different position on the SSCP gels (data not shown).
+This suggested that the exon 4 alterations are due to at
+least two independent mutations in the three families.
+Nucleotide
+Sequences
+of the Alterations
+The amplified DNA was directly sequenced in order to determine the nucleotide changes responsible for the mobility shifts. In each case we obtained a single ladder of DNA
+sequence that exactly matched the published sequence
+at all but a single nucleotide position (Figures 3 and 4). Individuals from pedigree UT 1425 and BOS 42 showed the
+identical mutation, a G to A transition at nucleotide 482 in
+exon 4. This mutation changes an arginine codon to histidine; it will be referred to as R117H. The mutation in BOS
+7 is a C to G transversion in exon 4 that replaces an aspartic acid residue with histidine (DllOH). Family UT 1446
+contains a C to G transversion
+at position 1172 that
+changes an aspartic acid residue to proline (R347P). This
+latter mutation destroys an Hhal restriction site and creates an Ncol site. Thus each of the nucleotide sequence
+alterations that we detected by the SSCP method does in
+fact result in an amino acid replacement in the CFTR
+gene.
+All amino acid changes in polypeptides do not result in
+functional alterations. To provide further evidence that
+these mutations cause disease, we analyzed 86 two- and
+three-generation
+CF families to determine if these alterations occur on normal chromosomes.
+Because CF is a
+common recessive disease, only normal chromosomes
+from documented carriers can be used as a source of
+non-CF alleles. Since the carriers are healthy, they must
+possess a normal chromosome. None of the exon 4 or 7
+mutations were found in greater than 272 normal chromosomes from carrier parents and grandparents. A more rigorous test would employ the examination of sufficient normal chromosomes of the same haplotype as the mutant
+allele to ensure that the mutation was not a neutral sequence polymorphism occurring on a rare haplotype. All
+
+Mutations
+
+in Mildly
+
+Affected
+
+CF Patients
+
+665
+
+A
+
+METO
+METH
+xv
+KM
+FSOS
+CFX4
+W32
+3.11M
+J29R
+J29P
+
+1
+2
+2
+2
++
++
+2
+1
+1
+2
+
+1
+2
+2
+1
++
+2
+1
+1
+2
+
+2
+1
+1
+1
++
+1
+1
+1
+1
+
+1
+2
+2
+1
++
+2
+1
+1
+2
+
+C
+
+7C22
+METD
+METH
+xv
+KM
+F509
+CFX4
+W32
+3.11M
+3.11T
+JZSA
+
+Figure
+
+2
+1
+1
+1
++
+1
+1
+1
+1
+
+1
+2
+2
+3
++
+2
+1
+1
+2
+
+1
+2
+2
+1
++
++
+2
+2
+2
+2
+
+METD
+METH
+KM19
+MPBd
+F5OS
+CFX4
+311 M
+T
+w29 P
+
+2
+1
+2
+2
++
+1
+1
+1
+
+1
+1
+1
+1
+f++
+1
+2
+2
+
+21
+12
+21
+21
++-+
+11
+12
+12
+
+2 1
+1 2
+2 1
+2 1
++-+
+1 1
+I 2
+1 2
+
+21
+12
+21
+21
+
+1
+1
+1
+1
+
+1
+2
+1
+1
+
+1
+1
+1
+
+-+
+1
+2
+2
+
++
+-+
+11
+12
+12
+
+21
+i2
+21
+21
+-
+
+2
+1
+2
+2
++-+
+
+11
+1 2
+1 2
+
+1
+,
+
+t
+2
+1
+1
++
+1
+2
+2
+
+22
+11
+21
++
++
++
+1 I
+1 2
+
+1
+2
+1
+1
+-
+
+2
+1
+1
+2
++
+
+12
+21
+11
+11
++
++
++
+11
+21
+2
+
+2
+1
+1
+1
++
+1
+1
+
+D
+
+1
+2
+1
+2
+1
++
++
+2
+1
+1
+2
+
+2. Pedigrees
+
+1
+1
+1
+2
+1
+++-+
+--++
+1
+2
+1
+1
+
+12
+12
+12
+21
+12
+
+1
+2
+2
+1
+2
+
+2
+2
+2
+1
+2
+
+11
+22
+11
+11
+
++
+1 1
+1 2
+1 1
+; 1
+
+of CF Families
+
+METD
+METH
+KM
+MPBd
+FSDS
+CFX7
+W32
+311 H
+T
+W2SP
+
+21
+12
+2 1
++
+++
++
+++
+11
+11
+11
+21
+
+1 1 11
+1 1 11
+2 121
+212
+-+++
+++
+-+
+-+
+++
+11
+1 2 1 111
+2 1 111
+111
+11
+1 1 1 111
+2 1 9 11
+111
+
+11
+21
+12
+
+1 2
+1 1
+2 1
+
+1
+1
+2
+
+1
+1
+1
+1
+
+1 2
+1 1
+1 1
+1 1
+
+1
+1
+1
+1
+
+1121
+1 1
+1 1
+1 1
+
+--
+
+1
+1
+1
+1
++
+
+1
+1 2
+1
+1 1
+2
+2 1
+2
+2 1
++
++++
++
+1
+1 1
+2 1 1
+1 1
+1 1 1
+1 1
+2 1 1
+1 1
+
+with New Mutations
+
+Displayed are the pedigrees
+of the families in which alterations
+in exon 4 and 7 were discovered.
+Females are represented
+as circles, males as
+squares. Affected individuals are shown as filled symbols and carriers as half-filled symbols, Children are displayed with the oldest on the left. Below
+each individual is the haplotype for several polymorphic
+markers tightly linked to the CF gene. 1 represents
+the larger allele, allele 1; 2, allele 2.
+The vertical line separates
+the maternal haplotype on the left from the paternal haplotype.
+F508 indicates the phenylalanine
+508 deletion; CFX4
+and CFX7, exon 4 and 7. The plus signs represent wild-type sequence;
+minus signs refer to mutations. (A) BOS 42, from left to right affected individuals
+are 525, 526, and 527. (B) UT 1425, affected patients are 1376, 1377, 1368, 1379, and 1380. (C) SOS 7, CF patient is 150. (D) UT 1446, patients are
+1738, 1737. and 1739.
+
+of the mutations occur on haplotypes that contain the
+larger fragment (allele 1) for the KM19 and MP6d polymorphisms (Figure 2). These restriction fragment length polymorphisms are in tight linkage disequilibrium
+with each
+other (A = 0.85; Estivill et al., 1987). In addition, they show
+a high allelic association with CF (A = 0.77-0.88; Kerem
+et al., 1989a). For all three mutations, we analyzed a -/fold
+excess of normal versus CF chromosomes-a
+statistically
+significant number (Table 1). As further evidence that the
+mutated amino acids are functionally important, we exam-
+
+ined the conservation of these regions across several vertebrate species. Using the same polymerase chain reaction (PCR) primers and amplification conditions employed
+for human DNA, we obtained pure, correctly sized product
+from most species tested (data not shown). We directly
+sequenced the DNA from the most divergent species,
+mouse and frog (Xenopus), using the exon 7 primers (Figure 48). The two assayed regions are remarkably conserved, displaying over 90% identity at both the nucleotide and amino acid levels. The Arg residue, altered in CF,
+
+Cell
+
+866
+
+GATC
+
+GATC
+
+Normal
+Figure
+
+is conserved in both the rodent and amphibian sequences.
+The sequence for exon 4 was not obtained for mouse and
+frog, but the Asp-110 and Arg-117 residues are conserved
+in several mammalian species (data not shown). These
+data strongly suggest that these amino acids play a critical role in the structure and/or function of CFTR. Therefore, we conclude that the mutations we have described
+cause disease, although additional population data and a
+functional assay for the gene will be required to demonstrate this rigorously.
+
+C460
+
+3. Sequences
+
+Clinical Features of Patients
+We compared the clinical symptoms of the patients described here with those of the other patients in our study
+group (Table 2). Both of the families that carry the CF
+R117H mutation contain individuals that are very mildly af-
+
+A482
+
+of Two Mutations
+
+Portions of the DNA sequencing
+gels are shown that display the two
+exon 4 mutations. Arrows point to the position where two nucleotides
+(wild type and mutant) are present in the sequence
+ladder.
+
+Figure
+
+A.
+406
+CF DIIOH
+
+466
+CF R117H
+
+GAAGTCACCAAAGCAGTACAGCCTCTC~ACTGGGAAGAATCATAGCTTCCTAT~CCCG
+EVTKAVQPLLLGR
+IIASYDP
+CAC
+H
+GATAACAAGGAGGAAC~TCTATCGCGAmATCTACGCATCTAGGCATAGGC~ATGCC~CTC~T
+DNKEERSIAIYLGIGLCLLF
+CAC
+
+H
+526
+
+ATTGTGAGGACACTGCTCCTACACCCAGCCA~GGCC~CATCACA~GGAATGCAG
+IVRTLLLHPAI
+FGLHHIGMQ
+
+566
+
+ATGAGAATAGCTATGTTTAGTTTGATTTATAAGAAG
+MRIAMFSLIYKK
+
+1003
+
+ACAGAACTGAAACTGACTCGGAAGGCAGCCTATGTGAGATAC~CAATAGCTCAGCC~C
+TELKLTRKAAYVRYFNSV
+.G..
+AYVRYFNSSAF
+.G..
+AYVRYFNSSAF
+
+6.
+
+xenopur
+
+1063
+
+1123
+
+TTCTTCTCAGGG~C~GTGGTG~ATCTGTGCCCCTATGCACTAATCAAAGGA
+FFSGFFVVFLSVLPYALI[KE
+T.
+..,,
+FFSGFFVVFLSVLPYAL
+.A..
+.T.
+T.
+.,,
+FFSGFFVVFFSVLPYALLKG
+
+AC
+T
+
+ATGGCGGTC
+
+ATCATCCTCCGGAAAATATTCACCACCATCTCAlTCTGCATTGTTCTG
+I
+ILRKIFTTISFCIVLRMAV
+ccc
+
+CF R347P
+G....
+,.A
+IVLRKIFTTISFCIVLRMAV
+.GG...T
+.A
+IGLRKI
+1163
+
+G...
+I
+K
+GC.T.
+
+A.
+
+,.
+
+A.
+FTTISFC
+
+.,
+
+,,.
+
+.C.
+
+.T
+
+c
+IVLRMAI
+
+A.
+.,
+
+ACTCGGCAAmCCCTGGGCTGTACAAACATGGTATGACTCTC~GGAGCAATAAACAAA
+TRQFPWAVQTWYDSLGAINK
+. . ..c..
+TRQFPWAVQT
+
+,,.
+C.......
+
+TRQFPWAVQT
+
+. ..T
+
+.A
+
+4. Effect
+
+of Exon 4 and 7 Mutations
+
+The nucleotide and translated
+amino actd sequences of exons 4 (A) and 7 (6) are displayed.
+In (B) the sequences
+from the BALE/c mouse
+strain and Xenopus laevis are also shown. Below each sequence are the mutations and their
+predicted effect on the amino acid sequence of
+the protein. Putative transmembrane
+segments
+are boxed.
+
+Mutations
+067
+
+in Mildly
+
+Table 1. Population
+
+Affected
+
+Analysis
+
+CF Patients
+
+of CF Mutations
+
+Table
+
+3. Association
+
+of D7S399
+
+No. of Chromosomes
+Mutation
+CF DllOH
+Normal
+CF
+CF R117H
+Normal
+CF
+CF R347P
+Normal
+CF
+
+Wild Type
+
+Mutated
+
+Diagnosis
+
+x2
+
+94
+14
+
+0
+1
+
+6.0a
+
+94
+13
+
+0
+2
+
+12b
+
+96
+14
+
+0
+1
+
+6.0a
+
+Pancreatic
+
+insufficient
+
+Pancreatic
+
+sufficient
+
+(PI)
+(PS)
+
+with Pancreatic
+
+Disease
+
+Allele
+D7S399
+
+Number
+
+1
+2
+1
+2
+
+2
+34
+4
+4
+
+Number refers to number of chromosomes
+with the corresponding
+genotype for the marker MPW (D7S399). PI refers to families in which
+all individuals were diagnosed as pancreatic
+insufficient;
+PS are families with at least one individual who is pancreatic
+sufficient. All data
+are from the Utah research
+pedigrees.
+x2 = 9.4 p < 0.005.
+
+Chromosomes
+are shown that contain allele 1 at the MPGd (D7S399)
+locus. If data were not available for this marker, the KM19 (D7523)
+locus was used. Normal chromosomes
+are from parents or grandparents who are carriers.
+“CF” represents
+chromosomes
+from unrelated
+individuals
+who do not have the common mutation.
+= p < 0.01.
+b p < 0.005.
+
+Even though there are no physical data on the structure
+of the CFTR protein, its similarity to other members of the
+membrane transport family strongly suggests that this
+protein is embedded in the plasma membrane. Although
+few membrane proteins have actually been crystallized,
+transmembrane
+segments are generally thought to consist of approximately 20 amino acids arranged in an a helix. A number of computer algorithms have been developed that employ the hydrophobicity of portions of amino
+acids to predict the presence of transmembrane
+domains
+(Eisenberg, 1984; Engelman et al., 1986). Two of the mutations described here replace highly polar amino acids in
+a domain that is predicted to lie outside of the cell (Riordan
+et al., 1989). This region of 15 residues contains 7 charged
+amino acids and would be unlikely to lie within the membrane (Figure 4). The third change (CF R347P) replaces
+an arginine with a proline residue. This amino acid is
+predicted to lie inside of the sixth transmembrane segment.
+The function of the CFTR molecule is still unclear. Although the defective transport of chloride ions is the most
+well characterized abnormality in CF epithelial cells, aberrant transport of sodium, bicarbonate, and sulfated molecules have also been seen in CF cells and tissues
+(Boucher et al., 1988; Kopelman et al., 1989). Furthermore, a chloride transport complex has been purified from
+bovine cells and appears to be composed of multiple polypeptides that are smaller than CFTR (Landry et al., 1989).
+All of the genes related to CFTR encode proteins involved
+
+fected. In family UT 1425, the three older affected children
+remained undiagnosed
+until the two younger siblings
+were determined to have CF at the ages of 22 and 23. In
+the BOS 42 family, one of the affected patients (#2) is 26
+years old and has a very mild disease phenotype. Thus
+the two families with the same pair of mutations (AF508
+and CF R117H) both contain at least one individual with
+exceptionally mild disease.
+Discussion
+Using a rapid and sensitive assay we have identified three
+point mutations that cause amino acid replacements in
+the coding region of the N-terminal portion of the CFTR
+gene. Three observations support the proposition that
+these mutations are responsible for disease: the mutations have not been found on over 94 normal chromosomes of the same haplotype; the mutations cause the
+replacement of highly charged amino acids that are highly
+conserved in vertebrates; and two families that carry the
+same combination of mutations (AFSo8 and CF R117H)
+show mild clinical features.
+
+Table 2. Clinical
+
+-
+
+Data on CF Patients
+
+Family
+
+Patient
+
+Date of Birth
+
+Age of Diagnosisa
+
+UT 1425
+
+1377
+1366
+1379
+1736
+1737
+1739
+150
+525
+526
+527
+
+10153
+10155
+3/60
+3175
+7177
+11182
+1983
+7161
+6163
+5164
+
+30
+26
+22
+6.5
+6
+10 months
+<3
+2.5
+0.5
+10 days
+
+UT 1446
+
+BOS 7
+BOS 42
+
+a Except where noted, age is in years.
+b Six determinations,
+no gastrointestinal
+c Four determinations,
+mild pulmonary
+
+disorder,
+mild pulmonary
+disease.
+disease, moderate pancreatic
+disease,
+
+Sweat
+
+Cl- (mEq/liter)
+
+87, 62
+
+PS
+PS
+PS
+PS
+PS
+PS
+-
+
+66
+96
+92, 96
+92, 98
+74
+137
+60-7gb
+98-1 20c
+
+moderate
+
+P. aeruginosa
+
+Pancreas
+
+infection.
+
+Status
+
+Cell
+868
+
+in extracellular transport, although none of these polypeptides are involved in ion flux. Thus it is still unclear
+whether CFTR transports chloride ions or whether it regulates chloride flux in a less direct fashion.
+There are several possible mechanisms that could explain the effect of the mutations described here on the CF
+gene. The charged side chains that are replaced could be
+involved in interactions with the molecule being transported by the channel; the mutations could cause structural alterations in the protein; the replaced residues may
+be involved in interactions with other proteins; or they
+could be critical for the proper anchoring of the transmembrane domains in the membrane. The examination of the
+ion transport properties of cells from these patients should
+help distinguish these possibilities.
+We identified different mutations in two of the four families that have at least one individual characterized as PS.
+Thus there would appear to be at least three mutations
+that are responsible for this milder form of the disease, although all four families have a haplotype with the one allele for MPGd (Table 3). However, family BOS 42 clearly
+demonstrates that other factors (genetic and/or environmental) must play a role in the course of the disease. The
+oldest child in this family has severe, chronic Pseudomonas aeruginosa infection of the lung resulting in moderately abnormal pulmonary function and mild pancreatic
+and liver disease. In contrast, her younger sister at age 26
+has virtually no signs of CF, apart from an elevated sweat
+chloride level. The more severely affected child also has
+a much higher sweat chloride value, suggesting that other
+genes participate in the control of ion transport.
+The mutations we have described here are rare and
+may each account for only 1% or 2% of CF chromosomes.
+However, these mutations could be more frequent in more
+geographically
+restricted populations. A consortium of 41
+laboratories from 14 countries has been formed, with a
+combined patient base of over 9,000, to provide accurate
+population data on CF mutations. The R347P mutation
+can be directly assayed by restriction digestion and the
+others by allele-specific oligonucleotides.
+All of the families in this study are of Caucasian origin.
+The paternal grandfather of UT 1446 is of German/French
+extraction. The father of BOS 7 is of Irish/English descent.
+We do not know the ethnic background of the other families Given the large size of the CF gene and the presence
+of deletions (Riordan et al., 1989), frameshift mutations
+(White et al., 1990), and point mutations (this report) in
+both the transmembrane
+and intracellular portions of the
+molecule, it seems likely there will be a large number of
+CF mutations. This may make it more difficult to screen
+for all of the mutations in large populations of patients.
+The AFso8 mutation accounts for approximately 70% of
+CF chromosomes, and about one-half of CF patients are
+homozygous for this mutation (Kerem et al., 1989b; Lemna
+et al., 1990; Dean et al., submitted). Therefore, at least
+40% of patients are likely to be compound heterozygotes.
+CF patients heterozygous for AFso8 demonstrate a broad
+range of severity and include both pancreatic insufficient
+and PS cases. The two families with the R117H mutation
+provide a clear example that clinical characterization
+of
+
+each combination of compound heterozygote may be important in predicting the severity of individual patients.
+It is unclear what the symptoms of a homozygote for the
+mutations described here would be. Such an individual
+could go undiagnosed or could present mild pulmonary,
+fertility, and/or pancreatic complications. The identification of these mild variants will allow this to be tested
+directly. Many techniques exist for detecting point mutations in nucleic acids, but SSCP analysis has many advantages. Samples are taken directly from the thermal
+cycler to electrophoresis
+on easily prepared gels. No extensive treatment of the sample or special equipment is
+required as in other methods. While no information on the
+position of the mutation is obtained and the fragments
+should be less than 400 bp, the amplified product can be
+digested to further localize the mutation. It is uncertain
+what percentage of mutations will be detected by this
+method. Orita et al. (1989b) were able to detect all four ras
+mutations that they directly assayed as well as a mutation
+of an Mspl site. While all three mutations described here
+represent replacements of G residues, Orita et al. (1989b)
+detected A to T, C to A, G to A, G to T, and C to T mutations.
+Single nucleotide deletions can also be detected as
+SSCPs (M. Dean and M. White, unpublished data). This
+method should be applicable to any source of nucleic
+acid, including viruses, plasmids, and tumors. Because
+the assay is for aberrantly migrating strands, mixed cell
+populations such as tumors infiltrated with normal cells
+could be assayed.
+It was recently proposed that a data base should be
+generated of small stretches of human DNA segments defined by PCR primers (sequence-tagged
+sites) in order to
+facilitate the physical mapping of the genome (Olson et
+al., 1989). Sequence-tagged
+sites should be readily amenable to SSCP analysis, and the detection of polymorphisms in them would allow physical maps of the human
+genome to be combined with the genetic maps.
+Experimental
+
+Procedures
+
+Identification
+of SSCPs
+PCRs were performed
+with 100 ng of genomic DNA, 70 mM dNTPs,
+0.1 pl of [32P]dCTP (3000 Cilmmol), 10 mM Tris (pli 8.8), 50 mM KCI,
+1.5 mM MgQ,
+0.01% gelatin, and 1 U of Taq polymerase.
+For exon 4,
+primers CF-32 (5’-AGTCACCAAAGCAGTACAGC)
+and CF-33 (5’-GCTATTCTCATCTGCATTCC)
+were used, and CF-34 (5’CAGAACTGAAACT.
+GACTCGG)
+and CF-35 (5’TGCTCCAAGAGAGTCATACC)
+were used to
+amplify exon 7. The reaction (1 ~1) was added to sequencing
+stop solution (9 ~1) (Sambrook
+et al., 1989) in a 96-well tray and placed in a pan
+of water that had been heated to boiling. After 2 min the tray was removed to room temperature
+and 2 ~1 loaded onto 5% acrylamide-TEE
+gels at 50 W in a cold room for 3 hr. Alternatively,
+10% glycerol was
+added to the gel, which was run at room temperature
+at 20 W for 6 hr.
+The gels were dried and autoradiography
+was performed,
+with an intensifying screen for 12-72 hr. Complete denaturation
+was not always
+achieved.
+To map mutations further, the PCR product was digested with restriction enzymes and electrophoresed
+on 20 cm acrylamide
+gels. The
+gels were stained with ethidium bromide and the bands excised and
+soaked in 100 ul of water at 65% for 1 hr. The eluate was dried,
+resuspended
+in stop solution, and electrophoresed
+as described
+above.
+Direct Sequencing
+Double-stranded
+PCR products
+
+were
+
+eluted
+
+from acrylamide
+
+as de-
+
+Mutations
+869
+
+in Mildly Affected
+
+CF Patients
+
+scribed above and 5 pl was used in a 40 cycle PCR with a 25- to 50-fold
+reduction of one of the primers. The resulting single-stranded
+DNA was
+purified with a Centricon
+100 column (Amicon) and 5 pl sequenced
+with Sequenase
+(U.S. Biochemicals).
+Single-stranded
+material that
+showed a clean band on an acrylamide
+gel typically yielded the
+clearest sequence. The individuals whose DNA was sequenced
+are as
+follows: UT 1425, 1376; UT 1446, 1736; BOS 7, 150; BOS 42, 526. Sequence was determined
+in both directions for all four individuals. The
+R347P mutation was confirmed
+by Hhal and Ncol digestion of amplified DNA The DllOH and R117H mutations were confirmed
+by hybridization
+at 42% with CF-49 (5’TCCTATCACCCGGAT)
+and CF-48
+(5’.GAGGAACACTCTATC).
+respectively
+(data not shown). The filters
+were washed for 10 min at 42%.
+Acknowledgments
+We thank Ray White for his support and encouragement
+of this project,
+Lesa Nelson and Paula Finn for technical assistance,
+Bill Modi for frog
+DNA, Mirian Di Maio for clinical data of family BOS 7, Irene Weber for
+discussions
+on protein structure,
+and Julie Cashour for preparing the
+manuscript.
+This project has been funded at least in part with federal
+funds from the Department
+of Health and Human Services under contract NOI-CO-74102
+with Program Resources,
+Inc.
+The costs of publication of this article were defrayed in part by the
+payment
+of page charges.
+This article must therefore
+be hereby
+marked “advertisement”
+in accordance
+with 18 U.S.C. Section 1734
+solely to indicate this fact.
+Received
+
+February
+
+20, 1990; revised
+
+March
+
+References
+
+Andersen.
+D. H., and Hodges,
+Dis. Child. 72, 62-80.
+
+R. G. (1947). Celiac
+
+and its relation
+syndrome.
+
+Am. J
+
+Beaudet, A., Bowcock,
+A., Buchwald,
+M., Cavalli-Sforza,
+L., Farrall,
+M., King, M. C. , Klinger, K., Lalouel, J. M., Lathrop, G., Naylor, S., Ott,
+J.. Tsui. L.C., Wainwright,
+B., Watkins, P., White, Ft., and Williamson,
+R. (1986). Linkage of cystic fibrosis to two tightly linked DNA markers:
+joint report from acollaborative
+study. Am. J. Hum. Genet. 39,681-693.
+Boat, T. F., Welsh, M. J., and Beaudet, A. L. (1989). Cystic fibrosis. In
+The Metabolic Basis of Inherited Disease, C. R. Striver, A. L. Beaudet,
+W. S. Sly, and D. Valle, eds. (New York: McGraw Hill), pp. 2649-2680.
+Boucher,
+R. C., Cotton, C. U.. Gatzy, J. T., Knowles,
+M. R., and
+Yankaskas,
+J. R. (1988). Evidence for reduced Cl- and increased
+Nat
+permeability
+in cystic fibrosis human primary cell cultures. J. Physiol.
+405, 77-103.
+Dean, M. (1988). Molecular
+Genomics
+3. 93-99.
+
+and genetic
+
+analysis
+
+of cystic
+
+fibrosis.
+
+Dean, M., Park, M., Le Beau, M. M., Robins, T. S., Draz, M. O., Rowley,
+J. D., Blair, D. G., and Vande Woude, G. F. (1985). The human met oncogene
+is related to the tyrosine
+kinase oncogenes.
+Nature 378,
+385-388.
+Dean, M., Drumm, M. L., Stewart, C., Gerrard,
+B., Perry, A., Hidaka,
+N., Cole, J. L., Collins, F. S., and lannuzzi, M. C. (1990). Approaches
+to localizing disease genes as applied to cystic fibrosis, Nucl. Acids
+Res. 18, 3455350.
+di Sant’Agnese,
+P A., and Davis,
+Am. J. Med. 66, 121-132.
+
+P 8. (1979). Cystic fibrosis
+
+rn adults.
+
+di Sant’Agnese,
+P A., Darling, R. C., Perea, G. A.. and Shea, B. A.
+(1953). Abnormal electrolyte
+composition
+of sweat in cystic fibrosrs of
+the pancreas:
+clinical significance
+and relationship
+to the disease.
+Pediatrics
+72. 549-563.
+Dune, P R.. Forstner, G. G., Gaskin,
+K. J., Moore, D. J., Cleghorn,
+G. J., Wong, S. S., and Corey, M. L. (1986). Age-related alterations of
+immunoreactive
+pancreatic
+cationic trypsinogen
+in sera from cystic
+fibrosis pahents with and without pancreatic
+insufficiency,
+Ped. Res.
+20, 209-213.
+Eisenberg,
+D. (1984). Three-dimensional
+surface proteins. Annu. Rev. Biochem.
+
+Estivill. X., Farrall, M.. Scambler, l? J., Bell, G. M., Hawley, K. M. F.,
+Lench. N. J., Bates, G. P.. Kruyer, H. C., Frederick,
+P A., Stanier, P.
+Watson, E. K.. Williamson,
+R., and Wainwright,
+B. J. (1987). A candidate for the cystic fibrosis locus isolated by selection for methylationfree islands. Nature 325, 840-845.
+Frizzell, R. A., Rechkemmer,
+G., and Shoemaker,
+R. L. (1986). Altered
+regulation of airway epithelial cell chloride channels in cystic fibrosis.
+Science 233, 558-560.
+Gaskin,
+K.. Gurwitz,
+D., Corey, M., Levinson,
+H., and Forstner, G.
+(1982). Improved respiratory
+prognosis
+in patients with cystic fibrosis
+with normal fat absorption.
+J. Ped. 100, 857-862
+Gasparini,
+P, Novelli, G., Estivill. X., Oliveri, D., Savora, A., Ruzzo, A.,
+Nunes, V., Borgo, G., Antonelli. M., Williamson,
+R., Pignatti, P F., and
+Dallapiccola,
+B. (1990). The genotype of a new linked DNA marker,
+MP6d-9 is related to the clinical course of cystic fibrosis. J. Med. Genet.
+27, 17-20.
+Gibson, L. E., and Cooke, R. E. (1959). A test for concentration
+of electrolytes in sweat in cystic fibrosis of the pancreas utilizing in pilocarpine
+by iontophoresis.
+Pediatrics 23, 545-549.
+Hwang, T.-C., Lu, L., Zietlin, P L., Gruenert,
+D. C., Huganir, R., and
+Guggino, W. B. (1989). Cl- channels in CF: lack of activation by protein kinase C and CAMP-dependent
+protein kinase. Science 244,
+1351-1353.
+lannuzzi, M. C., Dean, M., Drumm. M. L., Hidaka. N., Cole, J. L.. Perry,
+A., Stewart, C., Gerrard, B., and Collins, F. S. (1989). Isolation of additional polymorphic
+clones from the cystic fibrosis region, using chromosome jumping from D7S8. Am. J. Hum. Genet. 44, 695-703.
+
+30. 1990.
+
+Andersen,
+D. H. (1938). Cystic fibrosis of the pancreas
+to celiac disease. Am. J. Dis. Child. 56, 344-399.
+
+Engelman,
+D. M., Steitz, T. A., and Goldman,
+A. (1986). Identifying
+nonpolar transbilayer
+helices in amino acid sequences
+of membrane
+proteins. Annu. Rev. Biophys. Biophys. Chem. 15, 321-353.
+
+structure of membrane
+54, 595-623.
+
+and
+
+Kerem, B.S., Buchanan,
+J. A., Durie, P.. Corey, M. L.. Levinson, H.,
+Rommens. J. M., Buchwald,
+M., and Tsui, L.-C. (1989a). DNA marker
+haplotype
+association
+with pancreatic
+sufficiency
+in cystic fibrosrs.
+Am. J. Hum. Genet. 44, 827-834.
+Kerem, B.-S., Rommens, J. M., Buchanan, J. A., Markiewicz,
+T. K.. Chakravarti,
+A., Buchwald, M., and Tsui, L.-C. (1989b).
+tion of the cystic fibrosis gene: genetic analysis. Science
+1080.
+Knowles, M., Gatzy, J., and Boucher, R. (1981). Increased
+potential difference
+across respiratory
+epithelia in cystic
+Engl. J. Med. 305, 1489-1495.
+
+D., Cox,
+Identifica245, 1073bioelectric
+fibrosis. N.
+
+Knowles, M. R., Stutts, M. J., Speck, A., Fischer, N., Gatzy, J. T., and
+Boucher, R. C. (1983). Abnormal ion permeation through cystic fibrosis
+respiratory
+epithelium. Science 221, 1067-1089.
+Kopelman,
+H., Durie, P., Gaskin, K., Weizman,
+Z., and Forstner,
+(1985). Pancreatic
+fluid secretion
+and protein hyperconcentration
+cystic fibrosis. N. Engl. J. Med. 372, 329-334.
+
+G.
+in
+
+Kopelman, H., Forstner, G., Durie, P. and Corey, M. (1989). Origins of
+chloride and bicarbonate
+secretory
+defects in the cystic fibrosis pancreas, as suggested by pancreatic
+function studies on control and CF
+subjects with preserved
+pancreatic
+function. Clin. Invest. Med. 12,
+207-21 I.
+Landry, D. W.. Akabas. M. H., Redhead, C.. Edelman,
+A., Cragoe.
+E. J., and Al-Awqat, Ct. (1989). Purification and reconstitution
+of chloride channels from kidney and trachea. Science 244, 1469-1471.
+Lathrop, G. M.. Farrall, M., O’Connell, P.. Wainwright.
+B., Leppert, M.,
+Nakamura.
+Y., Lench, N.. Kruyer, H., Dean, M., Park, M., Vande
+Woude, G.. Lalouel, J.-M., Williamson,
+R., and White, R. (1988). Refined linkage map of chromosome
+7 In the region of the cystic fibrosis
+gene. Am. J. Hum. Genet. 42, 38-44.
+Lemna. W. K., Feldman, G. L., Kerem, B.-S., Fernbach,
+S. D.. Zevkovich, E. P. O’Brien, W. E.. Riordan, J. R.. Collins, F. S.. Tsui. L.C.,
+and Beaudet, A. L. (1990). Mutation analysis for heterozygote
+detecbon and the prenatal diagnosis of cystic fibrosis. N. Engl. J. Med. 322,
+291-296.
+LI, M.. McCann, J. D., Anderson,
+M. P., Clancy, J. P, Lredtke, C. M.,
+Nairn. A. C.. Greengard,
+P., and Welsh, M J. (1989). Regulation Of
+chloride channels by protein kinase C cn normal and cystic fibrosis arrway epithelia. Science 244, 1353-1356.
+
+Cell
+070
+
+Olson, M., Hood, L.. Cantor, C., and Botstein, D. (1989). A common language for physical
+mapping of the human genome. Science 245,
+1434-1435.
+Crita, M., Iwahana, H., Kanazawa,
+(1989a). Detection of polymorphisms
+resis as single-strand
+conformation
+Sci. USA 86, 27662770.
+
+H.. Hayashi, K., and Sekiya, T.
+of human DNA by gel electrophopolymorphisms.
+Proc. Nab. Acad.
+
+Orita. M.. Suzuki, Y., Sekiya, T., and Hayashi, K. (1989b). Rapid and
+sensitive detection of point mutations and DNA polymorphisms
+using
+the polymerase
+chain reaction. Genomics
+5, 874-879.
+Quinton, P M. (1983). Chloride
+301. 421-422.
+
+impermeability
+
+in cystic
+
+fibrosis.
+
+Nature
+
+Quinton, P M.. and Bijman, J. (1983). Higher bioelectric potentials
+to decreased
+chloride absorption
+in the sweat glands of patients
+cystic fibrosis. N. Engl. J. Med. 308, 1185-1189.
+
+due
+with
+
+Riordan, J. R., Rommens. J. M., Kerem. B.S., Alon, N., Rozmahel, R.,
+Grzelczak.
+Z., Zielenski, J.. Lok. S., Plavsic, N., Chou, J.-L., Drumm,
+M. L.. lannuzzi, M. C.. Collins, F. S., and Tsui, L.-C. (1989). Identification of the cystic fibrosis gene: cloning and characterization
+of complementary
+DNA. Science 245, 1066-1073.
+Rommens, J. M.. lannuzzi, M. C., Kerem, B.S., Drumm, M. L., Melmer,
+G., Dean. M., Rozmahel.
+R.. Cole, J. L., Kennedy, D., Hidaka, N.,
+Zsiga, M., Buchwald, M., Riordan. J. R., Tsui. L.C., and Collins, F. S.
+(1989). Identification
+of the cystic fibrosis gene: chromosome
+walking
+and jumping. Science 245, 1059-1065.
+Rosenstein,
+8. J.. and Langbaum,
+Fibrosis,
+L. M. Taussig, ed. (New
+87-l 14.
+
+T. S. (1984). Diagnosis.
+York: Thieme-Stratton,
+
+In Cystic
+Inc.), pp.
+
+Sambrook,
+J., Fritsch, E. F., and Maniatis, T. (1989). Molecular Cloning: A Laboratory
+Manual (Cold Spring Harbor, New York: Cold Spring
+Harbor Laboratory).
+Sato, K.. and Sato, F. (1984). Defective beta adrenergic
+response
+cystic fibrosis sweat glands in viva and in vitro. J. Clin. Invest.
+1763-1771.
+Su, C. T., and Beanblossom,
+B (1989). Typical
+elderly woman. Am. J. Med. 86, 701-703.
+
+cystic
+
+fibrosis
+
+of
+73,
+
+in an
+
+Tsui, L.-C., Buchwald,
+M., Barker, D., Braman, J. C., Knowlton,
+R.,
+Schumm, J. W., Eiberg. H., Mohr, J., Kennedy, D., Plavsic, N.. Zsiga,
+M., Markiewicz,
+D., Akots, G., Brown, V., Helms, C., Gravius, T.. Parker,
+C.. Rediker, K., and Donis-Keller,
+H. (1985). Cystic fibrosis locus defined by a genetically
+linked polymorphic
+DNA marker. Science 230,
+1054-1057.
+Wainwright,
+B. J.. Scrambler,
+P. J., Schmidtke, J.. Watson, E. A., Law,
+H.-Y., Farrall, M., Cook, H. J.. &berg, H.. and Williamson,
+R. (1985). Localization of cystic fibrosis locus to human chromosome
+7cenq22. Nature 318, 384-385.
+Welsh, M. J., and Liedtke, C. M. (1986). Chloride and potassium
+nels in cystic fibrosis airway epithelia. Nature 322, 467-470.
+
+chan-
+
+White, M., Amos, J.. Hsu, J. M.-C., Gerrard, B, Finn, F’.. and Dean, M.
+(1990). A frameshift
+mutation in the cystic fibrosis gene. Nature 344,
+665-667
+White, R.. Woodward,
+S., Leppert, M., O’Connell, P., Hoff, M., Herbst,
+J., Lalouel. J.-M., Dean, M., and Vande Woude, G. (1985). A closely
+linked genetic marker for cystic fibrosis. Nature 378, 382-384.
+Note
+
+Added
+
+in Proof
+
+These mutatrons have been assayed by several members of the Cystic
+Fibrosis Genetic Analysis Consortium.
+Eight additional examples of
+the R117H and six of R347P have been found. Nearly all of these patients are adults with mild symptoms.
+
+

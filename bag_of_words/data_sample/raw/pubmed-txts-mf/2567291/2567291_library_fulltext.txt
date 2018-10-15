@@ -1,0 +1,1228 @@
+THEJOURNALOF BIOLOGICAL
+CHEMISTRY
+
+Val. 264, No. 18, Issue of June 25, pp. 10477-10466,1989
+Printed in U.S.A.
+
+Serum al-Antitrypsin Deficiency Associated with the Common S-type
+(G~uI
+~)‘Val)
+~
+Mutation Results from Intracellular Degradation
+of al-Antitrypsin Prior to Secretion*
+(Received for publication, January 9, 1989)
+
+David T. CurielS, Anna Chytil, Michael Courtney, and Ronald G. Crystal
+From the PulmonaryBranch, National Heart, Lung, and Blood Institute, National Institutesof Health,
+Bethesda, Maryland 20892 and Transgene, I 1 rue De Molsheim, Strasbourg, France
+
+The S-type a1-antitrypsin (alAT) deficiency allele
+differs from the normal M1(ValaI3)allele by a single
+amino acid substitution ( G ~+uVal).
+~ ~To~evaluate the
+molecular pathophysiology responsible for thereduced
+serum levels of alAT associated with the S-type
+allele,
+alAT gene expression was examined in blood monocytes, cells which normally produce alAT, as well as
+murine fibroblasts modified by retroviral gene transfer to express the S-type and normal “type
+human
+a1AT genes. Northernanalysisand
+S 1 protection
+analysisdemonstrated that monocytes of M and S
+homozygotes both express 1.8-kilobase a1AT mRNA
+transcripts in comparable levels and similar in structure. Pulse-chase labeling studies demonstrated that
+both M and S monocytes synthesized and secreted a
+52-kDa protein, but theS monocytes secreted significantly less. The cellular lysatesof both M and S monocytes contained a newly synthesized 50-kDa precursor
+form of alAT, but the S monocytes contained reduced
+amounts. Pulse-chase labeling in the presence of tunicamycin, an inhibitor of core oligosaccharide addition,
+demonstrated that S monocytes exhibited a selective
+inhibition of secretion of 45-kDa nonglycosylated
+alAT not observed in M monocytes. Consistent with
+these observations, murine fibroblastsmodified by retroviral gene transfer tocontain an integratedhuman
+S-type alAT cDNA demonstrated reduced secretion of
+alAT compared with fibroblasts containing an integrated human M-type a1AT cDNAand also reproduced
+the abnormality of alAT biosynthesis observed with
+S-type monocytes. Furthermore, in the presence of
+leupeptin, an inhibitor of cellular proteinases, the S type modified fibroblasts demonstrateda selective augmentation of human alAT secretion not observed for
+the “type. Together, these observations are consistent with theconcept that thesingle A + T mutation of
+the S-typealAT gene results in reduced cellular secretion of alAT because the newly synthesized S-type
+a l A T protein is degraded intracellularly prior to secretion.
+
+a1-Antitrypsin (alAT),’a 52-kDa serum glycoprotein pro* The costs of publication of this article were defrayed in part by
+the payment of page charges. This article must therefore be hereby
+marked “advertisement” in accordance with 18 U.S.C. Section 1734
+solely to indicate this fact.
+$To whom correspondence and reprint requests should be addressed Pulmonary Branch, Bldg. 10, Rm. 6D03, National Institutes
+of Health, Bethesda, MD 20892.
+The abbreviations used are: alAT, al-antitrypsin; SDS, sodium
+dodecyl sulfate; kb, kilobase(s).
+
+duced by hepatocytes and mononuclearphagocytes, serves as
+the major inhibitor of neutrophil elastase in the lower respiratory tract (I,2). In its secreted form,a l A T is composed of
+394 amino acids and three carbohydrateside chains of the N linkedasparaginyltype
+(3-5). Itsprincipalfunction is to
+inactivate neutrophil elastase, a powerful serine protease capable of degrading the major components of the connective
+tissue matrix (5, 6). When serum levels of a l A T are below
+35%of normal, as occurs in the hereditary disorder a1AT
+deficiency, there areinsufficient amounts to protect the
+lower
+respiratory tract from its burden
+of neutrophil elastase, placing the affected individual at high risk for the development
+of pulmonary emphysema (1, 2, 7, 8).
+a l A T is coded for by a highly pleomorphic, single
+copy gene
+of 12.2 kb on chromosome 14 at q31-32.3 (2, 9). T h e a l A T
+phenotype is determinedby codominant expression of the two
+parental alleles (10-12). In USA Caucasians, the most common normal a l A T variants are those of the “family (combined allelic frequency, >go%) and the most common deficiency variants are the S-type (frequency 0.02-0.04) and the
+Z-type (frequency 0.01-0.02) (1,2, 3, 10, 12, 13-17).
+Unlike the Z variant, in which the mechanism responsible
+for the deficiency state is understoodto result from intracellular aggregation of the aberrant molecule causing reduced
+a l A T secretion (4, 18, 19), little is known as to why the S
+allele is associated with reduced serum levels of a1AT. It is
+known, however, that the coding exons of S-type a l A T gene
+differ from the common normal Ml(Val2l3)-type a1ATgene
+byasinglebase
+(M1(Va1213)GAA + S GTA) causing the
+amino acid substitution G ~ Z Vu a l ~(20-22).
+~ ~ This knowledge, together with the observations that the S-type protein
+has a normalserum half-life(23) and an association rate
+constant for neutrophil elastase that is close to normal (24),
+has led to the assumption that the GIuzfi4t o Val mutation
+causes a deficiency in a l A T biosynthesis, resulting in deficient secretion of a l A T by a l A T synthesizing cells (4, 18).
+To evaluate this concept, we have examined a l A T mRNA
+transcripts and a1AT synthesis in mononuclear phagocytes
+recovered from individuals homozygous for the S-type a1AT
+gene. Then, using retroviral gene transfer to establish permanent murine fibroblast lines expressing the S-type and
+normal M1(Va1213)-typehuman a l A T genes, we have reproduced the abnormalities observed in the alAT synthesizing
+cells of the S homozygotes. Together, the observations are
+consistent with the concept that the singleA
+T mutation
+in the S-type a1AT gene causesa serum a l A T deficiency
+because the newly synthesized a l A T is degraded in a l A T
+synthesizing cells prior tosecretion.
+MATERIALSANDMETHODS
+
+Source of al-Antitrypsin Synthesizing Cells-Blood monocytes,
+cells that synthesize and secrete alAT (25, 26), were obtained from
+
+10477
+
+10478
+
+S-type a1 -Antitrypsin Deficiency
+
+normals ("type homozygotes),S-type homozygotes, and, ascontrols,
+2-type homozygotes. The determination of the M, S, and Z states was
+made by a combination of measurement of serum a l A T levels determined by radial immunodiffusion (Calbiochem), a l A T typing by
+isoelectric focusing of serum, and family studies (1, 2, 10-12). The
+normal individuals (n = 7) all wereof phenotype MM (i.e. various
+combinations of the normal alleles M1(Va1'13), Ml(Ala2l3),M2, and
+M3) (12) and had normal a l A T serum levels (295 35 mg/dl)." The
+homozygous S-type alAT-deficient group included five individuals
+with a l A T serum levels of 142 +_ 40 mg/dl. The homozygous Z-type
+a l A T deficient group included two individuals with a l A T serum
+levels of 34 & 6 mg/dl. The monocytes were isolated utilizing adherence purification of mononuclear cells obtained by monocytapheresis
+as described previously (26).
+RNA Analysis of Monocytes-alAT mRNA transcripts of the Stype and M-type monocytes were evaluated by Northern analysis, S1
+nuclease protection analysis, and quantitative dotblot analysis. Total
+cellular RNA was prepared from purified blood monocytes by guanidine hydrochloride extraction and CsCl centrifugation (26).
+Northern analysis was carried out with agarose gel electrophoresis
+under denaturing conditions, transfer to nitrocellulose filters, and
+hybridization utilizing a 3ZP-labeledfull length human a l A T cDNA
+plasmid probe (pPBO1). Exposure of the autoradiograms was for 48
+h a t -70 "C.S1 nuclease analysis was carried out using total cellular
+RNA hybridized under denaturing conditions for 3 h at 56 "C to a
+1.4-kb single strand anti-sense a l A T cDNA probe complementary to
+the protein coding regions of the a1AT gene. Digestion with S1
+nuclease (200 units/ml; Pharmacia LKB Biotechnology Inc.) was for
+30 min at 37 "C. The resulting protected fragments were electrophoresed under alkaline conditions, transferred to nitrocellulose filters,
+and detected by hybridization to a 32P-labeledfull length a l A T cDNA.
+The resulting autoradiograms were exposed for 48 h a t -70 "C.
+Quantification of steady state a l A T mRNA levels was performed
+using dot blot hybridization (26). Total cellular RNA was denatured
+and applied to nitrocellulose filters with a minifold apparatus
+(Schleicher & Schuell) in serial dilutions of10-1.25pg. The filters
+were hybridized as described above and the amount of specific hybridization determined by densitometric analysis of the autoradiograms with results expressed as densitometric units of a l A T mRNA/
+pg total RNA.
+Synthesis and Secretion ofalAT by Monocytes-The synthesis and
+secretion of alAT by the monocytes was evaluated using [35S]methionine as a label and anti-human a1AT antibody (Boehringer Mannheim) immunoprecipitation of the supernatants and cell lysates for
+the presence of 35S-labeleda1AT asdescribed previously (26).
+Modification of Oligosaccharide Side Chain Addition and Processing-Modification of steps inoligosaccharide side chain addition and
+processing of the a l A T synthesized by the monocytes was accomplished by adding tunicamycin, an inhibitor of oligosaccharide side
+chain addition (27-33) (10 pg/ml, Boehringer Mannheim), or swainsonine, an inhibitor of the distal oligosaccharide processing enzyme
+pg/ml, Boehringer Mannheim)
+Golgi mannosidase I1 (27,32,34,35) (5
+during the 12-h period prior to the [35S]methionine labeling and
+during the pulse labeling and chase periods. Immunoprecipitation,
+sodium dodecyl sulfate (SDS)-gel electrophoresis, and fluorography
+were as described previously above.
+Retroviral Gene Transfer of Human M-type andS-type a l A T
+cDNAs to Murine Fibroblasts-Murine fibroblasts were modified to
+contain the human alAT cDNAs of M-type or S-type utilizing a
+retroviral vector as described previously (33). Briefly, the N2 vector
+(36) was modified to contain M-type or S-type a l A T cDNAs (pN2alAT-M and pN2-alAT-S, respectively) by standard procedures.
+Sequence analysis confirmed that pN2-alAT-S differed from pN2alAT-M exclusively by the single nucleotide mutation corresponding
+to the S mutation. Integration of pN2-alAT-M and pN2-alAT-S
+into the genome of $2 cells (37), a helper virus-free packaging cell
+line, was by calcium phosphate transfection (38). Supernatants of
+individual $2 clones transfected with pN2-alAT-M or pN2-alAT-S
+(clones referred to as $2/alAT-M and $2/alAT-S,
+respectively) were
+titered for infectious retrovirus and used to generate polyclonal populations of infected NIH-3T3 cells. In the context that theretroviral
+vector randomly integrates single copies of the provirus, and with the
+knowledge that individual clones with the integrated a l A T cDNA
+produce a1AT at different levels (39), polyclonal populations (rather
+than individual cell populations) were used to ensure that the NIH-
+
+*
+
+'All data are presented as the mean k S.E., and all statistical
+comparisons were made using the two-tailed Student's t test.
+
+3T3 fibroblasts with integrated M- and S-type a1AT cDNAs would
+represent average populations of these cells.
+Analysis of Modified Murine Fibroblasts Containing M-type and S type alAT cDNAs-Confirmation of integration of the full length
+human a l A T cDNAs of M-type and S-type into
+the genome of mouse
+fibroblasts modified by the retroviral transfer was carried out by
+Southern analysis using a 32P-labeleda l A T cDNA probe (33, 40).
+Human a l A T mRNA transcripts were identified in the NIH-3T3/
+alAT-M and NIH-3T3/alAT-S cells by Northern analysis (33).
+Quantification of total cellular RNA for steady state human a l A T
+mRNA levels was as described above for M- and S-type monocytes.
+The secretion of human a l A T by NIH-3T3/alAT-M and NIH3T3/alAT-S cells was evaluated by [35S]methionine pulse-chase
+labeling followed by immunoprecipitation of secreted labeled a l A T
+as described previously (33). The effect of modification of oligosaccharide side chain addition and processing on secretion of human
+a l A T by the cells was accomplished by incubating the cells for 6 h
+with tunicamycin (10 &g/ml) or swainsonine (5 pg/ml) prior to pulse
+labeling and during pulse labeling and chase periods.
+Modification of Intracellular Proteolysis by Inhibition of Cellular
+Proteinases-The effect of inhibition of intracellular proteinases on
+the secretion of human a l A T by NIH-3TB/alAT-M and NIH-3T3/
+a1AT-S cells was examined utilizing leupeptin (Boehringer Mannheim), abroad spectrum inhibitor of cellular proteinases (41-47). The
+cells were plated as before with incubation in the presence of leupeptin
+(0.5 mM) for 24 h prior to analysis and during pulse labeling and
+chase period. The dose of leupeptin was based on previous studies in
+fibroblast cell systems (46). Pulse labeling, immunoprecipitation, gel
+electrophoresis, and fluorography were as described above.
+RESULTS
+
+Evaluation of the Form of S-type alAT mRNA Transcripts
+in Monocytes-The A -+ T substitution of the S mutation not
+only causes an amino acid change (G1uZa+ Val) but asnoted
+by Schindler et al. (48),also creates a region within exon 111
+of the S-type alAT gene with a high degree of homology to
+the consensus 5' donor splice site, thus creating a potential
+aberrant donor splice site (Fig. lA). Inthis regard, it is
+conceivable that the pathogenesis of the serum deficiency of
+alAT associated with the S mutation results from abnormal
+d A T mRNA processing, causing a truncated form of a1AT
+mRNA, andaresultantabnormal
+protein. Three lines of
+evidence, however, suggestthat thisputative splice donor site
+is not recognized. First, Northern blot analysis of RNA of Mtype and S-typemonocytes demonstrated alAT mRNA transcripts of identical size (1.8 kb) in both cell types (Fig. 1B).
+Second, evaluation of the exon I11 region of the alAT mRNA
+transcripts utilizing S1protection analysis with a 1.4-kb single
+strand anti-sense a l A T cDNA probe demonstrated that this
+region of the alAT mRNA transcripts of S-type monocytes
+was identical to that of normal "type monocytes (Fig. IC).
+In contrast, if the potential aberrant 5' donor splice site in
+exon I11 had been utilized, fragments of 0.9 and 0.5 kb would
+have been observed (see Fig. lA).Third, comparison of the
+amounts of alAT mRNA in S-type and"type alAT monocytes demonstrated equal levels of alAT transcripts ( p > 0.3)
+(Fig. 2).
+Secretion of alAT by S-type Monocytes-Evaluation of the
+form of alAT synthesized and secreted by S-type monocytes
+demonstrated a 52-kDa protein, identical to that of normal
+"type monocytes (Fig. 3A). In thisregard, pulse labeling for
+1 h in the presence of [35S]methioninefollowed by a 2-h chase
+period revealed a 52-kDa mature form of a1AT that was
+specifically immunoprecipitated by anti-a1AT antibody from
+the supernatants of S-type monocytes, similar to that of the
+normal "type monocytes and, as an additional control, Ztype monocytes. However, assessment of the relative amount
+of newly synthesized alAT secreted by the S-type monocytes
+showed that it was less than that secreted by normal "type
+monocytes. Following a 1-h pulse with [35S]methionine,the
+
+10479
+
+S-type a1-Antitrypsin Deficiency
+8.
+Northern
+
+A.
+
+IA !E IC
+
+1
+
+-
+
+111
+
+11
+
+IV
+
+H 100 bp
+
+v
+
+MM
+
+SS
+
+1
+
+2
+
+C.
+S1 Protection
+
+1
+
+Normal Splice
+
+MM
+1
+
+4
+
+I
+
+1.4 kb
+
+SS
+
+Probe pPBO1
+
+4
+kb
+1.4
+
+4
+
+0.9 kb
+
+4
+
+0.5 kb
+
+-t
+
+F
+
+4
+
+3
+
+4
+
+FIG. 1. Evaluation of the form of a l A T mRNA transcripts present in monocytes of individuals
+homozygous for M- and S-type a l A T . A , schematic of the alAT gene showing the S-type mutation in exon
+111. Included are exons I,-V of t h e a l A T gene. The nomenclature used for the numbering of the exons (1) is
+directed toward preserving the established nomenclature(22) for the coding exons (11-V) but to include the recent
+observations (71) of additional noncoding exons (IA,IB) 5' to theoriginal exon I (nowIC)(22). The single nucleotide
+substitution (A + T) in exon I11 responsible for the S-type mutation (G1uZa+Val) is indicated. As pointed out
+(48),thisresultsin
+asequence(cross-hatched
+area)with homology tothe 5' consensusdonor splicesite.
+Theoretically, thissequence could be recognized as a splice donor site. If this occurs, instead of the normal 1.8-kb
+a l A T mRNA observed with "type alAT, the S-type mutation would result in a premature splice, with the
+60 base pairs ( b p ) of exon I11 3' to the S mutation site lost. An
+consequence of a truncated a1AT mRNA with the
+arrow indicates the siteof the potential aberrantsplice region in exon 111 created by the S mutation. Shown in the
+lower portion of the panel are the
+possible results of S1 nuclease protection analysis of the S- and M-type mRNAs
+utilizing a single strand anti-sense a1ATcDNA probe (pPBO1) complementary to thecoding regions of t h e a l A T
+gene. The normally spliced a1AT mRNAwould yield a 1.4-kb protected fragment.However, if utilized the aberrant
+splice site would generate fragments of 0.9 and 0.5 kb resulting from nuclease digestion of the nonprotectedregion
+a gap) corresponding to the
+region of exon I11 which would be deleted by aberrant splicing
+of the probe (depicted as
+(cross-hatched region in exon 111). Arrows indicate sites of potential nuclease digestion. B, comparison of M- and
+S-type a1AT mRNA transcripts by Northernanalysis. Following electrophoresis and transfer, totalcellular RNA
+(20 pg/lane) was hybridized with a 32P-labeleda1AT cDNA probe. Lane 1, M M , "type a1AT. Lane 2, SS, S-type
+alAT. The position of the normal 1.8-kb a l A T mRNA transcripts are indicated. C, comparison of t h e a l A T
+transcripts of M- and S-type monocytes by S1 nuclease protection. Total cellular RNA (20 pg) was hybridized to
+digested with S1 nuclease. The resulting RNA/DNAheteroduplex
+a 1.4-kb single strand anti-sensea1AT cDNA and
+protectedfragments were electrophoresed underalkalineconditions,transferred
+to nitrocellulosefilters, and
+hybridized with a full length 32P-labeled a1AT cDNA probe. Lane 3, "type a1AT. Lane 4, S-type alAT. TheStype mRNA yielded a normal 1.4-kb protected fragment indicating that all detectable a l A T transcripts utilize
+only the normal slice sites, i.e. the putative "consensus-like" sequence in exon I11 of the S-type mRNA is not
+used.
+
+S-type monocytes secreted 35S-labeled a l A T in a time-de- natant, the amount secreted
+by Z-type cells was markedlyless
+pendent fashion with the
+labeled a l A T detected in the culture (12 f 2% of"type,
+p < 0.01). These observations are
+supernatant within 30 min and the amount of labeled a1AT consistent with the knowledge that the serum levels of Z
+increasing until 2 h, thereafter leveling off, similar to the homozygotes are approximately 10-15% of normal, whereas
+pattern observed with "type monocytes (not shown). Quan- that of S-homozygotes is 50-60% of normal (1, 2, 15).
+titatively, however, there was a significant difference in the
+Intracellular Newly Synthesized alAT in S-type Monoamounts of newly synthesized a l A T secreted by the S- and cytes-Analysis of the cellular lysates of 35S-labeled blood
+"type cells, with S-type monocytes secreting 42 f 10% of monocytes of homozygous a1AT S-type individuals demonthe amount of a1AT as "type cells (p < 0.01; Fig. 3B). In strated that a 50-kDa intracellular form of a1AT could be
+contrast, while Z-type monocytes had a similar time-depend- specifically immunoprecipitated in a fashion similar to that
+ent pattern of appearance of 35S-labeled a l A T in the super- observed from normal "type and deficient Z-type cells (Fig.
+
+S-type a1 -Antitrypsin Deficiency
+
+10480
+
+A.
+MU
+
+ss
+
+n
+
+2
+
+3
+
+MM
+0.6
+0.5
+
+ss
+
+T
+
+kDa
+52-
+
+"
+
+m
+
+0.4
+1
+
+0.2
+0.:
+
+0.1
+
+MM
+ss
+FIG. 2. Comparison of the levelsof a l A T mRNA transcripts
+in M- and S-typemonocytes (MM and SS, respectively). Total
+cellular RNA was evaluated for a1AT mRNA transcripts using dot
+blot analysis with a 3ZP-labeled a1ATcDNA probe. Resulting autoradiograms were quantified by densitometry. Shown is the amountof
+a l A T mRNA expressed as units/pg totalRNA. Inset, example of the
+a l A T dot blot analysis.
+
+T
+
+mm
+
+ss
+
+zz
+
+FIG. 3. Secretion of newly synthesized a l A T by monocytes
+fromindividuals homozygous for the M-, S-, and Z-types
+(MM, SS, and 22,respectively) of alAT. A, fluorograms of SDS-
+
+4A). In addition, a minor fraction of mature 52-kDa a1AT acrylamide gel analysis of "'S-labeled proteins secreted by monocytes
+(1-h pulse with ['"S]methionine and 2-h chase with label-free media)
+was immunoprecipitated from thecellular lysates aswell as a and immunoprecipitatedwith an anti-alAT antibody.Lane 1, monononspecific 43-kDa band not blocked by an excess of unla- cytes of an individual with a1AT M-type. Lane 2, a1AT S-type.Lane
+beled alAT. The50-kDa major intracellular species of a1AT 3, a l A T Z-type. The position of normal purified plasma a1AT is
+corresponds to an immature precursor form
+of a1AT localized indicated. B, quantification of the relative amount of a l A T secreted
+to therough endoplasmic reticulum and characterizedby the by monocytes. Shown for M-, S-, and Z-type monocytes is the amount
+presence of high mannose-type oligosaccharide side chains of 35S-labeled a1AT secreted by lo6 cells following a 1-h pulse with
+[35S]methionine and a 2-h chase with label-free media. All immuno(32,49) asconfirmed by sensitivity todigestion with endogly- precipitations were carried out on samples containing
+lo6 dpm of
+cosidase H (data not shown). However, despite the fact that total trichloroaceticacid
+(TCA)-precipitable 3'S-labeled protein.
+the S-, M-, and Z-type cells all contained a form of newly Quantification was carried out by densitometric analysis of fluorosynthesized a l A T t h awas
+t qualitatively similar, quantitation grams as inA.
+of the amount of newly synthesized intracellular a1AT was
+markedly different among the different a1AT types. In this stabilizing effects oligosaccharide side chains contribute to
+regard, the amount of newly synthesized intracellular a l A T a1AT structure prior to secretion.
+In the presence of swainsonine, an inhibitor of the oligoisolated from S-type monocytes was reduced compared to Mtype monocytes ( p < 0.01). This is in marked contrast to Z- saccharide processing enzyme Golgi mannoside 11, monocytes
+type monocytes, in which newly synthesized a1AT accumu- of normal "type individuals secreted a1AT molecules with
+lated, resulting inmore intracellular a l A T compared to nor- an apparent molecular mass of 50 kDa (Fig. 5A, lanes 1 and
+mal "type monocytes ( p < 0.01). Thus, while the reduced 2). This size corresponds to a species of a l A T shown in
+secretion of a l A T of Z-type cells occurs in conjunction with previous studies of a1AT biosynthesis to possess "hybrid"
+an intracellular accumulationof a l A T compared to normal, type oligosaccharide side chains (32, 35). Quantitatively, dethe pattern associated with the S-typecells is very different; spite the difference in the form of the oligosaccharide side
+the reduced secretion of a l A T of S-type monocytes is asso- chains, the amount of a1AT secreted by the "type monociated with reduced amounts of newly synthesized intracel- cytes in the presence of swainsonine was similar to that of
+lular alAT.
+the untreated cells (Fig. 5B; p > 0.2). When normal "type
+presence of tunicamycin, an inhibEffect of Modificationof Oligosaccharide Side Chain Proc- cells were incubated in the
+essing on Secretion of alAT by S-type Monocytes-The find- itor that prevents core oligosaccharide addition in the rough
+ing of reduced amounts of the intracellular high mannose endoplasmicreticulum (27, 28), the newly synthesized seform of a l A T associated with S-typemonocytes compared to creted a l A T had a molecular mass of 45 kDa, the known
+normal "type monocytes suggests that the abnormality in molecular mass of nonglycosylated a l A T (32, 33, 49) (Fig.
+the biosynthesisof the S-type alAT
+occurs at, or prior to, the 5A, lane 3 ) . Quantitatively, despite the fact that the a1AT
+level of the rough endoplasmic reticulum. T o further evaluate secreted in the presence of tunicamycin has no carbohydrate
+this concept, inhibitorsof oligosaccharide side chain addition side chains, the normal
+cells still secretea l A T aat level about
+(27, 28) and processing (27, 34) were utilized. These agents 68 3% that of untreated normal cells (Fig. 5B), consistent
+act at defined steps in the carbohydrate side chain biosyn- with the observation inprevious studies that thepresence of
+thetic and processing pathways and thus may exaggerate a n oligosaccharide side chains is not normally a prerequisite for
+abnormality of S-type a1AT biosynthesis through ablation
+of the secretionof a l A T (30-33).
+
++
+
+10481
+
+S-type a1-Antitrypsin Deficiency
+A.
+MY
+
++unWmkd
+
+ss
+
+"
+
+ss
+
+01 AT
+
+Untreated Swainsonine Tunicamycin
+
+kDa
+52-
+
+- kDa
+
++
+
++
+
++
+
++
+
+kDa
+
+50-
+
+Untreated SwainsonineTunicamycin
+
+kDa
+kDa
+.
+.
+52- d
+50-
+
+kDa
+
+*
+459
+
+45-
+
+3
+
+2
+
+1
+
+1
+
+T
+
+MM
+
+SS
+
+loo
+
+5
+
+4
+
+3
+
+2
+
+r-
+
+6
+
+T
+
+ZZ
+
+FIG. 4. Evaluation of intracellular alAT newly synthesized
+by M-, S - , and Z-type (I", SS, and 22, respectively) blood
+monocytes. A, SDS-acrylamide gel electrophoresis andfluorographic
+analysis of lysates of blood monocytes of individuals homozygous for
+a l A T types M, S, and Z incubated in thepresence of ["S]methionine
+(1-h pulsewith["S]methionine,
+nochase).The [3sS]methioninelabeled proteins in the lysates
+were immunoprecipitated with an antialAT antibody prior to analysis. Blocking experiments were accomplished by immunoprecipitating in the presence of excess unlabeled
+alAT. Lane 1, a l A T M-type. Lane 2, identical to lane 1 but with
+immunoprecipitation carried out with excess unlabeled a1AT. Lune
+3, a l A T S-type. Lune 4,a l A T Z-type. The positions of the 52-kDa
+mature form and 50-kDa intracellular formof a l A T are indicated. A
+nonspecific band not blocked by excess unlabeled a l A T is seen a t 43
+kDa. B, quantification of the relative amount of intracellular newly
+synthesized alAT. Following a 1-h pulse with ["SIalAT (no chase),
+the cell lysates were immunoprecipitated with an anti-a1AT antibody
+and analyzed as described in the legend to Fig. 3. All immunopreciplo6dpm total trichloitations were carried out on samples containing
+roacetic acid (TCA)-precipitable 3sS-labeled protein.
+
+N
+'o
+t
+Detectable
+
++
+
+M
+"-
+
++
+
++
+
++
+
+-SS-
+
+FIG. 5. Effect of modification of proximal and distal oligosaccharide side chain processing on the secretion of a l A T by
+homozygous M- (MM) and S-type (SS)monocytes. All cultures
+
+utilized a 1-h pulse with [R"S]methioninefollowed by a 2-h chase with
+unlabeled media. A, SDS-acrylamide gel electrophoresis and fluorographic analysis of a l A T immunoprecipitated from supernatants of
+monocytes cultured with ["S]methionine in the presence of swainsonine (5 pg/ml), a blocker of distal oligosaccharide side chain processing, or tunicamycin (10 pglml), a blocker of core oligosaccharide
+side chain addition. Lane I , control (Untreated) monocytes, a l A T
+With the S-typecells, prevention of trimming of the oligo- "type.
+Lane 2, similar to lane 1, but with the monocytes cultured
+saccharide side chains with swainsonine had comparable ef- with swainsonine. Lane 3, similarto lane I , butculturedinthe
+fects on the form (Fig. 5A, lanes 4 and 5 ) and amount (Fig. presence of tunicamycin. Lane 4, control (Untreated) monocytes, Stype. Lune 5, similarto lane 4, butculturedinthe
+presence of
+5B; p > 0.2) of a l A T secreted as that observed in "type
+cells. In contrast, preventionof core glycosylation with tuni- swainsonine. Lune 6, similar to lane 4,but cultured in the presence
+camycin haddramaticallydifferent effects. In this regard, of tunicamycin. Indicated are the 52-kDa matureform of alAT, the
+50-kDa form of a l A T containing hybrid oligosaccharide side chains,
+incubation of the S-typemonocytes with tunicamycin resulted and the 45-kDa nonglycosylated form of a1AT. B, quantification of
+in the absence of detectable a l A T in the supernatants (Fig. the relative amounts of a l A T secreted by monocytes cultured with
+swainsonine and tunicamycin compared toof that
+control monocytes.
+45-kDanonglycosylated
+5A, lane 6; Fig. 5B).Inaddition,
+a l A T was also not detectable within the cellular lysates of Quantification was performed by densitometric analysis of fluorograms as inA. All immunoprecipitations were carried out with samthe S-type monocytes treated with tunicamycin (data not
+ples containing lo6 dpm total trichloroacetic acid-precipitable 3sSshown). Although it is conceivable that this findingcould be labeled protein. Shown is the relative amount a l A T secreted by Mexplained by loss of antigenicity of the nonglycosylafed S- andS-type monocytes cultured with swainsonineor tunicamycin
+type alAT, the use of a polyclonal anti-alAT antibody for expressed as a percentage of that secreted by control homozygous Mimmunoprecipitation argues against this. Since oligosaccha- and S-type monocytes,respectively. *, S-type monocytes cultured
+ride sidechains contribute to the stability
+of protein structure, with tunicamycin did not secrete any detectable3sS-labeled a1AT.
+
+these observations suggest that the S-type a1AT protein has
+a higher degreeof intrinsic instability than the correspondingsonine on the biosynthesis
+of the S-type alAT
+suggest that it
+normal "type a l A T protein, a phenomenon which is exag- is the presence of oligosaccharide side chains which are obligerated by inhibition of oligosaccharide side chain addition. gated to effect stabilization of the S-type protein, and that
+In addition, the differential
+effects of tunicamycin andswain- the final structureof the side chains does not appear to be a
+
+S-type al-Antitrypsin Deficiency
+
+10482
+
+component
+critical
+of this effect.
+Integration and Expression of the Human alAT cDNAs of
+M-type S-type
+and
+the
+into
+Genome of Murine FibroblastsPermanent integrationof the human alAT cDNAs
+of M-type
+and S-type into murine fibroblasts was accomplished by retroviral gene transfer (see Fig. 6 for details concerning the
+constructs used). The polyclonal populations of modified
+mouse fibroblasts contained the a1AT cDNA and expressed
+human a l A T RNAtranscripts.Southernblotanalysis
+of
+NIH-3T3 cellsinfected with the M-type or S-type human
+a1ATcDNAs(NIH-3T3/alAT-MandNIH-3T3/alAT-S,
+respectively) cut with the restriction endonucleases Hind111
+and XhoI and evaluated utilizing a 32P-labeled human alAT
+cDNA probe demonstrated the presence of the intact, integrated a l A T cDNA (Fig. 7A, lanes 1 and 2 ) . Furthermore,
+Northern analysisof poly(A)+-selected RNA isolated from
+the
+two cell populations demonstrated that both contained three
+a1AT mRNA transcripts containing sequences complementary to the human alAT cDNA, similar to that observed in
+clonal cell populations of NIH-3T3 cells modified with the
+"type
+a l A T cDNA (33) (Fig. 7B, lanes 3 and 4). In this
+regard, the 5.8-kb transcript represents a genomic transcript
+originating from the 5' long terminal repeat, the4.8-kb transcript is the likely product of a spliced genomic transcript
+generated froma cryptic splice acceptor signal between the 5'
+long terminal repeat and theneoR gene, and the 2.4-kb transcript is the
+size predicted to be generated from the transcripts
+driven by the SV40 promoter (33). Importantly, the presence
+of the S mutation sequence did not appear to alter RNA
+processing in the a1AT S-typecDNA containing cells, since
+the same alAT mRNAspecies were observed in S-type cells
+as in the"type cells. Furthermore, dot blot analysis
+of total
+cellular RNA isolated from the two cell populations demonstrated that the amount
+of a l A T mRNA transcriptsexpressed
+in the NIH-3T3IalAT-M and NIH-3T3/alAT-S
+cells was
+
+A.
+NIH-3T3
+a1 AT-M
+
+kb
+1.4-
+
+m
+
+NIH9T3
+a1AT4
+
+e
+
+1
+
+2
+
+NIH-3T3
+a1 AT-M
+
+NIHST3
+a1A T 4
+
+6.
+
+kb
+
+--
+
+5.0 +
+4.6
+
+2.4
+
+@
+
+-..*
+
+3
+
+4
+
+C.
+svu)
+
+,
+
+NlH-3T3/alAT-M
+
+r) @ 0
+
+NIH-3T3/alAT-S
+
+clb
+
+alAT cDNA
+
+0
+
+'
+
+T
+
+H
+WbP
+
+FIG.6. DNA plasmid map of the pN2-alAT-M and pN2alAT-S retroviral vectors containing full length human a l antitrypsin cDNAs of "type and S-type, respectively. The
+plasmids were constructed from the plasmid pN2, a retroviral vector
+based on the plasmidpBR322 together with a-5' long terminal repeat
+( L T R ) containing aviralpackagingsignal,
+thebacterial neomycin
+resistance gene ( N E @ ) , and a 3' long terminal repeat (36). The M type and S-type OlAT cDNAs differ by a single nucleotide substitution (A +T)causing the replacement of glutamic acid by valine a t
+amino acidposition 264 of the coded protein. bp, basepairs.
+
+FIG.7. Evaluationof murine fibroblasts modified by retroviral gene transfer of "type and
+S-type alAT cDNAs. A ,
+identification of human a l A T cDNAs of "type and S-tYPe integrated into the genome of mouse fibroblasts. Shown are data from
+polyclonal populations of NIH-3T3 cells infectedwith theG2-alAT-
+
+S-typeDeficiency
+a1 -Antitrypsin
+NIH-3T3klAT-M
+
++
+
+10483
+
+NiH-3T3kl AT-S
+
++
+
+Untreated
+Swalnsonlna
+Tunicamycin
+
+Unlreated
+
+koa
+52-
+
+-
+
++
+
++
+
+12
+
+Swainsonins
+Tunicamycin
+10
+kDa
+
+koa
+
+8
+
+50- 0
+
+45-
+
+6
+
+4
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+FIG. 8. Effect of modification of proximal and distal oligosaccharide side-chain processing on the secretion of human
+a l A T by mouse fibroblasts containing the integrated a l A T
+"type or S-type cDNAs. NIH-3T3 cells containing the a l A T
+1 h followed by a 2-h
+cDNAs were pulsed with ["S]methionine for
+chase with unlabeled media. Shown are SDS-acrylamide gel electrophoresis and fluorographic analysis of human a1AT immunoprecipitated from supernatants of the modified mouse fibroblasts cultured
+with["S]methionine in the presence of swainsonine (5 pg/ml) or
+tunicamycin (10 pglml).Lane I , control (Untreated) NIH-3T3IalATM cells. Lane 2, similar to lane 1, but withcells culturedwith
+swainsonine. Lane 3, similar to lane 1, but cultured in the presence
+of tunicamycin. Lane 4, control (Untreated) NIH-3T3/alAT-Scells.
+Lane 5,similar to lane 4, but cultured in thepresence of swainsonine.
+presence of tunicamycin.
+Lane 6, similar tolane 4, but cultured in the
+Indicated are the 52-kDa mature secreted form of human alAT, the
+50-kDa secreted formof a l A T containing hybrid oligosaccharide side
+chains and the 45-kDanonglycosylated form of alAT.
+
+comparable (Fig. 7C, p > 0.2). Thus, at the mRNA level,
+murine fibroblasts containing the a l A T cDNAs of"type
+and S-typeexpressed the M and S a l A T cDNAs in a fashion
+comparable to thatof M and S blood monocytes.
+Synthesis andSecretion of Human alATby Murine Fibroblasts Modified to Contain the Human alAT cDNAs of M type and S-type-Quantification of the relative amount of
+human a l A T secreted by murine fibroblasts containing integrated human M-or S-type a1ATcDNAs demonstrated that
+theS-type cells secreted relatively less alAT. Polyclonal
+populations of NIH-3T3/alAT-M and NIH-3T3-alAT-S fibroblasts pulsedwith[35S]methionine
+for 1 hsecreted in
+increasing amounts of 3sS-labeled 52-kDa human a1AT (Fig.
+8, lanes 1 and 4 ) in a time-dependent fashion until plateauing
+at 2 h (not shown). Immunoprecipitation of supernatants of
+
+2
+
+NIH-3T3
+alAT-M
+
++
+
+NIH-3T3
+alAT-S
+
++
+
++
+
++
+
+Swalnsonlne Tunlcamycln Swainsonine Tunicamycin
+
+LNIH-3T3/alAT-MJ
+
+LNIH-3T3hlAT-SJ
+
+FIG. 9. Replication of the a l A T S-type defect in murine
+fibroblasts modified to contain the a l A T "type or S-type
+cDNAs. A, quantification of the relative amount of human a l A T
+secreted by murine fibroblasts containing the integrated a l A T MtypeorS-type cDNAs. Polyclonal populations of NIH-3T3 cells
+containing the a1AT M-type or S-type
+cDNAs were pulsed with [35S]
+methionine for 1 h followed by a 2-h chase with unlabeled media.
+M and $2/alAT-S generated retroviruses (NIH-3T3/alAT-M and
+NIH-3T3/alAT-S, respectively). DNA extracted from the two cell SDS-acrylamide gel electrophoresis, fluorography, and densitometric
+populations was digested with the restriction enzymes Hind111 and quantification of the 35S-labeled human a l A T immunoprecipitated
+XhoI. The DNA (10 pg/lane) was analyzed by Southern blots hybrid- from supernatants of the modified mouse fibroblasts were as in Fig.
+8. All immunoprecipitations were carried out on samples containing
+ized with a 32P-labeledhuman a l A T cDNA probe. Lane I , NIH-3T3/
+proalAT-M; lane 2, NIH-3T3/alAT-S. The 1.4-kb a1AT cDNA insert IO6dpm total trichloroaceticacid (TCA)-precipitable 3sSS-labeled
+tein. B, quantification of the relative amount of human a1ATsecreted
+is present in both the NIH-3T3/alAT-M and NIH-3TB/alAT-S
+by modified murine fibroblasts cultured with swainsonine and tunicells. B, identification of a1AT mRNA transcripts in mouse fibrocamycin compared to that of control cells. Quantification was perblastscontainingtheintegratedhuman
+n l A T M-typeorS-type
+formed by densitometric analysis of fluorograms as in Fig. 8. All
+cDNAs. Shown are data from NIH-3T3 cells infected with the $2/
+immunoprecipitations were carried out with samples containing lo6
+a1AT-M and $2/alAT-S generated retroviruses. Poly(A)'-selected
+RNA (2 pg) from the cell lines was evaluated by RNA blot-analysis dpmtotal precipitable "S-labeled protein.Shown is the relative
+amount of human a l A T secreted by NIH-3T3IalAT-M and NIHutilizing a J2P-labeled humana l A T cDNA probe. Lane 3, NIH-3T3/
+3T3/alAT-S cells cultured with swainsonineortunicamycin
+exalAT-M, lane 4, NIH-3T3/alAT-S. Both the NIH-3T3/alAT-M
+and the NIH-3T3IalAT-Scells contain a l A T mRNA transcripts of pressed as a percentage of that secreted by control NIH-3T3/alATcomparable size. C, comparison of the levels of a l A T mRNA tran- M and NIH-3T3/alAT-S cells, respectively.
+scripts in mouse fibroblasts containing the integrated human a l A T
+M-type or S-type
+cDNAs. Total cellular RNA was evaluated for a l A T modified mouse fibroblasts of both cell types after a1-h
+mRNA transcripts using dot blot analysis with a 32P-labeled a1AT
+cDNA probe. Resulting autoradiogramswere quantified by densitom- "pulse" with [3sS]methionine anda 2-h chase with unlabeled
+media followed by SDS-acrylamide gel electrophoresis, fluoetry. Shown is the amount of a l A T mRNA expressed as unitslpg
+rography, anddensitometric quantification of the labeled
+total RNA. Inset, example of a l A T dot blot analysis.
+
+S-type a1 -Antitrypsin Deficiency
+
+10484
+180
+
+r
+
+ated with the S-type mutation and,
+furthermore, that this
+process can be modified by inhibition of cellular proteinases.
+DISCUSSION
+
+I
+
+Together, the data in the present study suggest that the
+pathogenesis of reduced serum levels of alAT associated with
+the a1AT S allele results from exaggerated intracellular degradation of newly synthesized alAT resulting in reduced
+secretion of a1AT. This conclusion is based on several lines
+of evidence, including the following. 1) Utilizing peripheral
+blood monocytes as an in vitro model system of alAT gene
+expression, evaluation of a1AT mRNA transcripts demonNIH-3T3
+NIH-3T3
+strated that the form and steady state levels of the a1AT
+alAT-M
+alAT-S
++
++
+mRNA associated with the S-type allele are identical to that
+Leupeptin
+Leupeptin
+of the normal "type allele. 2) Monocytes of S homozygotes
+FIG. 10. Effect of inhibition of cellular proteinaseson secre- secrete 42 k 10% of the amount of alAT as do normal
+tion of human a 1AT by murine fibroblastsmodified to contain
+the a l A T "type or S-type cDNAs. Polyclonal populations of monocytes, comparable to the level of serum alAT deficiency
+NIH-3T3 cells containing the LvlAT M-type or S-type cDNAs (NIH- observed in the S homozygote. 3) Inhibition of addition of
+3T3/alAT-M and NIH-3T3/alAT-S,respectively) were treated with oligosaccharide side chains to the newly synthesized S-type
+leupeptin (0.5 mM), an inhibitor of cellular proteinases, for 24 h prior alAT molecule results in markedly reduced secretion of nonto pulse labeling with [36S]methionineas before. All immunoprecipi- glycosylated alAT compared to that of similarly treated Mtations were carried out on samples containing IO6 dpm total preciptype monocytes. 4) Retroviral gene transfer to modify murine
+itable 36S-labeledprotein. Quantification was performed by densito"type
+or S-type human alAT
+metric analysis of fluorograms. Shown is the relative amount of fibroblasts to contain the
+human alAT secreted by NIH-3T3/alAT-M and NIH-3TS/alAT-S cDNAs demonstrated that theresulting S-type murine fibrocells treated with the antiproteinase expressed as a percentage of that blasts containedalAT mRNA transcripts of similar form and
+secreted by untreatedcontrol NIH-3T3IalAT-Mand NIH-3T3/ level as the normal "type
+fibroblasts, but the S-type fibroalAT-S cells, respectively.
+5% less human alAT; i.e. the S-type
+blasts secreted 45
+modified murine fibroblasts behaved identically to the S-type
+secreted human alAT demonstrated that NIH-3T3/alAT-S monocytes, strongly suggesting that the abnormal biosyncells secreted 45 f 5% theamount of human alAT compared thesis of the S-type a1AT is a consequence of the single
+to the NIH-3T3/alAT-Mcells (Fig. 9A, p < 0.01).
+nucleotide substitution (A + T) generating the G1uzU+ Val
+Importantly, notonly did the murine fibroblasts containing amino acid substitutionand is not dependent on the cell
+the a1AT S-type cDNA secrete less human alAT, but the S- synthesizing the protein. 5) Theexaggerated decreased secretype a1AT cDNA containing fibroblasts exhibited a similar tion of S-type a1AT in the presence of a core glycosylation
+abnormality in alAT biosynthesis as observed in S-type inhibitor could be reproduced in the S-type murine fibroblasts.
+monocytes. In this regard, blockade of distal oligosaccharide 6) The alAT secretory defect associated with the S-type
+side chain processing with swainsonine resulted in the secre- mutation couldbe significantly prevented by treating the
+tion of a 50-kDa species of a1AT for both of the cell popula- a l A T synthesizing cells with an inhibitor of cellular proteintions (Fig. 8, lanes 2 and 5 ) in amounts comparable to un- ases, suggesting a role of intracellular proteolysis in the retreated controls (Fig. 9B). In contrast, blockade of oligosac- duced secretion of a1AT by S-type cells.
+This scenario for the pathogenesis of the deficient levels of
+charide side chain addition with tunicamycin resulted in the
+a1AT
+associated with the S-type gene is markedly different
+secretion of a 45-kDa nonglycosylated human alAT by both
+cell populations (Fig. 8, lanes 3 and 6). However, the relative from that conceptualized to occur in association with the Z~ ' Lys subreduction in alAT secretion by treated cells compared to type allele. The Z mutation results from a G I u ~ +
+stitution
+that
+results
+in
+exaggerated
+intracellular
+accumulauntreated controls was dramatically greater for the S-type
+than for the "type cDNA
+containing cells (Fig. 9B), i.e. as tion of newly synthesized alAT, not exaggerated proteolysis
+asapparently occurs in association with the S mutation.
+observed in themonocytes, the nonglycosylated S-type alAT
+Although the mechanisms responsible for the intracellular
+protein appearsto be more dependent than theM-type alAT
+aggregation of alAT associated with the Z mutation are not
+on the presence of oligosaccharide side chains for secretion.
+completely understood, it likely results from the combination
+Effect of Inhibition of Cellular Proteinases on Secretion of of a disruptionof a critical intramolecular salt bridge together
+Human alAT by Modified Murine Fibroblasts-Inhibition of with a charge alteration at residue 342, culminating in imcellular proteinases in murine fibroblasts modified to synthe- paired assumption of the correct three-dimensional conforsize and secrete human alAT demonstrated a selective aug- mation during synthesis and intracellular aggregation at the
+mentation in secretion of alAT by cells containing the S- level of the rough endoplasmic reticulum (19, 50). This aggretype alAT cDNA not observed in thecells containing the M- gation can be visualized histologically within hepatocytes of
+type cDNA. When NIH-3T3/alAT-M and NIH-3T3/alAT- individuals homozygous for Z-type alAT, and analysis of this
+S cells were treated with leupeptin, followed by pulse-chase intracellular alAT has demonstrated alAT molecules with
+labeling with [35S]methionineand evaluation for the amount immature high mannose-type oligosaccharideside chains (51).
+of labeled, human a1AT secreted by the cells, NIH-3T3/
+Unlike individuals with the Z mutation, histologic examialAT-M secreted 102 & 10% the amount of human a l A T as nation of liver of individuals homozygous for S-type mutation
+untreated M-type control cells. In marked contrast, NIHshows no intracellular aggregation of a1AT (52). In addition,
+3T3/alAT-S cells treated in asimilar manner secreted 155 f studies comparing the serum half-life of the S-type alAT
+12% the amount of alAT as the untreated S-type
+control protein to normal "type alAT protein have demonstrated a
+(Fig. 10; p < 0.01). Thus, it appears thatintracellular prote- nearly identical rate of disappearance of the two molecules
+olysis contributes to the abnormality in biosynthesis associ- (23). Together, theseclinical observations are consistentwith
+
++
+
+S-type a1 -Antitrypsin Deficiency
+the concept derived in the present study that the observed
+deficient level of serum alAT seen in association with the S
+homozygous state results from exaggerated intracellular degradation of the newly synthesized alAT.
+One possible explanation of the apparentreduced synthesis
+of alAT of S-type compared to "type monocytes is that
+there is reduced expression of the a1AT gene at the level of
+mRNA processing. In this regard, analysis of the sequence of
+the S-type alAT gene has lead to the hypothesis that the S
+mutation generates an area within the 3"terminal region of
+exon I11 that has a high degree of homology to theconsensus
+5' splice donor sequence (48). If recognized as a splicing site
+during mRNA processing, a truncated alAT mRNA would be
+generated which, if stable, would result in an altered translation reading frame and premature terminationof an abnormal
+protein. Alternatively, an abnormal spliced mRNA might be
+unstable, resulting in reduced levels of alAT mRNA transcripts in a1ATproducing cells. However, the demonstration
+of a correctly processed alAT mRNA product of the S-type
+allele as well as normal levels of steady state alAT mRNA
+associated with the S homozygous state excludes the possibility that the potential aberrant splice site is recognized or, if
+it is recognized, excludes its pathophysiologic relevance.
+Oligosaccharide side chains serve an important function in
+conferring protein stabilization during biosynthesis of many
+secretory and membrane glycoproteins (53, 54). For example,
+in theabsence of their normal complement of oligosaccharide
+side chains, fibronectin (55), acetylcholine receptor (47), human chorionic gonadotropin receptor (56), and the lymphocyte cell surface protein CD4 (57) are all degraded within the
+cell. Interestingly, the finding of secretion of near-normal
+amounts of"type
+alAT in the presence of blockade of
+oligosaccharide addition suggests that oligosaccharide side
+chains are not obligatory for the structural stabilization or
+secretion of the normal form of a1AT (30-33). In marked
+contrast, however, the ability of the newly synthesized S-type
+alAT to remain intact and be secreted by the cell was critically dependent upon the presence of oligosaccharide side
+chains. One explanation of this finding is that the S-type
+protein is less stable than the "type
+protein, a disparity
+which is exaggerated through loss of the stabilizing effect of
+oligosaccharide side chains, i.e. the S-type protein is more
+dependent on the conformational stabilization afforded by the
+alAT.
+oligosaccharide side chains than the normal "type
+Consistent with this concept, crystallographic analysis has
+shown that the S mutation ( G ~ u -+
+' ~Val)
+~ results in the loss
+of an intramolecular salt bridge with Lys3s7(50). Since this
+interaction is likely critical to the tertiary structure of the
+protein, it is reasonable to conclude that theS-type mutation
+would have profound consequences on the conformational
+stability of the alAT molecule. Inthis regard, abnormal
+proteins with perturbations of tertiary conformation have
+been shown to be more susceptible to intracellular proteolysis
+in studies with incorporation of amino acid analogues (46,58)
+and in naturally occurring mutations (59, 60). Therefore, the
+demonstration of a selective increase in secretion of S-type
+a l A T from synthesizing cells treated with a broad spectrum
+inhibitor of cellular proteinases suggests that intracellular
+proteolysis contributes to the abnormal pattern of biosynthesis of a1AT associated with the S-type allele and that this
+proteolysis likely occurs because the S-type alAT molecule is
+conformationally unstable. Importantly, the fact the abnormality of biosynthesis is reproduced in murine fibroblasts
+modified with the S-type a1AT cDNA strongly argues that
+the S-typemutationrenders
+the protein intrinsically less
+stable within the cell, independent of the synthesizing cell.
+
+10485
+
+Multiple mechanisms of intracellular protein degradation
+have been characterized (61-64). In this context, both lysosomal and non-lysosomal pathways have been implicated in
+the degradation of abnormal proteins within the cell (46, 62,
+65-67). The partial reversal of the S-type defect by treatment
+with a broad spectrum inhibitor of cellular proteinases confirms that intracellular degradation of the protein is participatory in the aberrant biosynthesis of alAT associated with
+the Glu264+ Val mutation. The proteinase inhibitor utilized
+in these studies, leupeptin, has been demonstrated to inhibit
+lysosomal proteinases such as thethiol proteinases cathepsin
+B and cathepsinL (42,43) as well as various serine proteinases
+(68). In addition, this agent hasinhibitory activity against the
+calcium-dependent proteinases, calpains, which comprise a
+component of the non-lysosomal pathway of intracellular
+degradation (44, 45,69). It is thus not possible, based on this
+limited analysis, to characterize the specific intracellular
+pathways of protein degradation involved in the proteolysis
+of the S-type alAT. In addition, the fact that the rescue of
+the S-type alAT from proteolysis was only partial suggests
+that additional degradative pathways not inhibitedby leupeptin, such as the ubiquitin pathway (67, 70), may becontributory.
+Acknowledgments-We would like to thank Dr. Susan Leitman
+and the nurses of the National Institutes of Health Clinical Center
+Blood Bank for performing cytapheresis of the study patients and
+Dr. Robert F. Ritchie, Foundation for Blood Research, Scarborough, ME, for referral of several of the study patients. We wouldalso
+like to thank L. Sichert for excellent editorial assistance.
+REFERENCES
+1. Gadek, J. E., and Crystal, R. G. (1982) in Metabolic Basis of
+Inherited Disease (Stanbury, J. B., Wyngaarden, J. B., Fredrickson, D. S., Goldstein, J. L., Brown, M. S., eds) pp. 14501467, McGraw Hill, New York
+2. Brantly, M., Nukiwa, T., and Crystal, R. G. (1988) Am. J. Med.
+84,13-31
+3. Carrell, R. W., and Owen, M. C. (1979) Essays Med. Biochem. 4 ,
+83-119
+4. Carrell, R. W., Jeppsson, J.-O., Laurell, C.-B., Brennan, S. O.,
+Owen, M. C., Vaughan, L., and Boswell, D. R. (1982) Nature
+298,329-334
+5. Travis, J., and Salvesen, G. S. (1983) Annu. Reu. Biochem. 5 2 ,
+655-709
+6. Bieth, J. G. (1986) in Regulation of Matrix Accumulation (Mechan, R., ed) pp. 217-320, Academic Press, New York
+7. Gadek, J. E.,Fells, G. A., Zimmerman, R. L., Rennard, S. I., and
+Crystal, R. G. (1981) J. Clin. Invest. 6 8 , 889-898
+8. Janoff, A. (1985) Am. Reu. Respir. Dis. 1 3 2 , 417-433
+9. Rabin, M., Watson, M., Kidd, V., Woo, S. L. C., Breg, W. R., and
+Ruddle, F. H. (1986) Somatic Cell Mol. Genet. 1 2 , 209-214
+10. Kueppers, F. (1978) in Genetic Determinnnts of Pulmonary Disease (Litwin, S. D., ed)pp. 23-74, Marcel Dekker, New York
+11. Cox, D. W., Johnson, A. M., and Fagerhol, M. K. (1980) Hum.
+Genet. 53,429-433
+12. Fagerhol, M. K., and Cox, D. W. (1981) Adu. Hum. Genet. 1 1 , l 62
+13. Pierce, J. A., Eradio, B., and Dew, T. A. (1975) J . Am. Med.
+ASSOC.
+231, 609-612
+14. Evans, H. E., Bognacki, N. S., Perrott, L. M., and Glass, L. (1977)
+J. Pediatr. DO, 621-624
+15. Fagerhol, M. K. (1969) S c a d . J. Clin. Lab. Znuest. 2 3 , 97-103
+16. Kueppers, F., and Christopherson, M. J.(1978) Am. J. Hum.
+Genet. 30,359-365
+17. Dykes, D. D., Miller, S. A., and Polesky, H. F. (1984) Hum. Hered.
+34,308-310
+18. Carrell, R. W. (1986) J. Clin. Znuest. 78,1427-1431
+19. Brantly, M., Courtney, M., and Crystal, R. G. (1988) Science
+242,1700-1702
+20. Owen, M. C., and Carrell, R. W. (1976) Br. Med. J. 1,130-131
+21. Yoshida, A., Ewing, C., Wessels, M., Lieberman, J., and Gaidulis,
+L. (1977) Am. J. Hum. Genet. 2 9 , 233-239
+
+10486
+
+S-type a1 -Antitrypsin Deficiency
+
+22. Long, G.L., Chandra, T.,Woo, S. L.C., Davie, E. W., and 47. Prives, J. M., and Olden, K. (1980) Proc. Natl. Acad. Sci. U. S.
+Kurachi, K. (1984) Biochemistry 23,4828-4837
+A. 77,5263-5267
+23. Jeppsson, J.-O.,Laurel], C.-B., Nosslin, B., and Cox, D. W. (1978) 48. Schindler, D. (1984) in Human Genetic Disorders: 26th Miami
+Winter Symposium (Ahmad, S., BaIck, S., Schulz, J., Scott, W.,
+Clin. Sci. Mol. Med. 55, 103-107
+24. Ogushi, F., Hubbard, R., Fells, G., Casolaro, A., Curiel, D.,
+and Whelan, J., eds) p. 32, Cambridge University Press, CamBrantly, M., and Crystal, R.
+G. (1988) Am.
+Rev. Respir.Dis.bridge,
+United Kingdom
+J. Biol.
+261,
+137,364-370
+49. Verbanac, K. M., and Heath, E. C. (1986)Chem.
+25. Perlmutter, D. H.,Cole, F. S., Kilbridge, P., Rossing, T. H., and
+9979-9989
+50. Loebermann, H., Tokuoka, R., Deisenhofer, J., and Huber, R.
+Colten, H. R. (1985) Proc. Natl. Acad. Sci. U. S. A. 8 2 , 795(1984) J. Mol. Biol. 177,531-556
+799
+26. Mornex, J.-F., Chytil-Weir, A., Martinet, Y., Courtney, M., 51. H e m , A., and Harpaz, N. (1980) Can. J . Biochem. 58,644-648
+LeCocq, J.-P., and Crystal, R.G.(1986) J . Clin. Invest. 77, 52. Gordon, H. W., Dixon, J., Rogers, J. C., Mittman, C., and Lie1952-1961
+berman, J. (1972) Hum. Pathol. 3 , 361-370
+53. Gibson, R., Kornfeld, S., and Schlesinger, S. (1980) Trends
+27. Elbein, A. D. (1987)Annu. Rev. Biochem. 56,497-534
+Biochem. Sci. 5,290-293
+28. Elbein, A. D.(1981) Trends Biochem. Sci. 6, 219-221
+Chem. 263- 2107-2110
+29. Gross, V., Geiger, T., Tran-Thi, T.-A., Gauthier, F., and Heinrich, 54. Lodish, H.F. (Ig88)J .
+55. Olden, K.,Pratt, R. M., and Yamada, K. M. (1978) Cell 13,461P. C. (1982) Eur. J. Biochem. 129, 317-323
+30. Carlson, J., and Stenflo, J. (1982) J. Biol. Chem. 257, 12987472
+56. Matzuk, M.M., and Boime, I. (1988) J. CellBiol. 106, 104912994
+31. Verbanac, K.M., and Heath, E. C. (1983)Arch. Biochem.Biophys.1059
+57. Konig, R., Ashwell, G., and Hanover, J. A. (1988) J. Biol. Chem.
+223,149-157
+263,9502-9507
+32. Lodish, H. F., and Kong, N. (1984) J. Cell Biol. 98, 1720-1729
+33. G
+~R. I., ~J ~ ,chytil,
+~ ~ ,
+,~
+A.,
+~s,,~ ~ ~lG,l A.,
+~ ~, l ~ ~ ~58.~ Wilson,
+t ~l M.
+~ J., ,and
+~ Hatfield,
+~ D. L. ,(1984) Biochim. Biophys. Acta
+781,205-215
+M. L., Courtney, M., Kantoff, P. W., Nienhuis, A. W., Anderl . sei, U, 59. Winslow, R. M., and Anderson, W. F. (1982) in Metabolic Basis
+son, w. F., and crystal, R. G . (1987) proc.~ ~ tAcad,
+of Inherited Disease (Stanbury, J. B., Wyngaarden, J. B., FredS. A. 84, 1050-1054
+rickson, D. S., Goldstein, J. L., Brown, M. S., eds) pp. 166034. Tulsiani, D. R. P., Harris, T. M., and Touster, 0.(1982) J . Biol.
+1710, McGraw-Hill, New York
+Chem. 2 5 7 , 7936-7939
+60.Lloyd, M.L., and Olsen, W.A. (1987) N. Engl. J. Med. 316,
+35. Gross, V., Tran-Thi, T.-A.,Vosbeck,K., and Heinrich, P. C.
+438-442
+(1983)J. Biol. Chem. 258, 4032-4036
+61. Goldberg, A. L., and St. John, A. C. (1976) Annu. Rev. Biochem.
+36. Armentano, D., Yu, S.-F., Kantoff, P. W., von Ruden, T., Ander45,747-803
+son, W. F., and Gilboa, E. (1987) J. Virol. 61,1647-1650
+62. Pontremoli, S., and Melloni, E. (1986) Annu. Rev. Biochem. 55,
+37. Mann, R., Mulligan, R.C., and Baltimore, D. (1983) Cell 3 3 ,
+455-481
+153-159
+63. Mayer R. J and Doherty F. (1986) FEBS Lett. 198,181-193
+38. Graham, F. L., and van der Eb, A. J. (1973) Virology 52, 456-64.
+~
+i F.~(y987)
+~ FASEB
+,
+>, 1,349-357
+467
+65. Knowles, S. E., and Ballard, F. J. (1976) Biochem. J. 1 5 6 , 60939. Hwang, L.-H. S.,and Gilboa, E. (1984) J. Virol. 50,417-424
+617
+40. Gamer, R. 1.9 Jr.9 Chflil, A.9 Courtney, M.9 and CWstal, R. G.66.
+Dean, R. T., and Riley, P. A. (1978) Biochim. Biophys. Acta 539,
+(1987) Science 237, 762-764
+230-237
+41. Libby, P., and Goldberg, A. L. (1978) Science 199,534-536
+67. Ciechanover, A., Finley, D., and Varshavsky, A. (1984) J . Cell.
+42. Huisman, W., Lanting, L., Doddema, H. J., Bouma, J. M. W.,
+Biochem. 24,27-53
+and Gruber, M. (1974) Biochim. BiophYs. Acta 370.297-307
+68. Umezawa, H., and Aoyagi, T.(1977) in Proteases in Mammalian
+43. Kirschke, H., Langner, J., Wiederanders, B., Ansorge, S., and
+Cells and Tissues (Barrett, A. J., ed) pp. 637-662, NorthBohley, P. (1977) Eur. J. Biochem. 7 4 , 293-301
+Holland, Amsterdam
+44. White, G. C., I1 (1980) Biochim. Biophys. Acta 631, 130-13869.
+Suzuki, K., Imajoh, S., Emori, Y., Kawasaki, H., Minami, Y., and
+Ohno, S. (1987) FEBS Lett. 220, 271-277
+45. Truglia, J. A,, and Stracher, A. (1981)Biochem.Biophys.Res.
+Commun. 100,814-822
+70. Hershko, A. (1988) J. Biol. Chem. 263, 15237-15240
+46. Berg,R. A., Schwartz, M. L., and Crystal, R. G. (1980) Proc. 71. Perlino, E., Cortese, R., and Ciliberto, G. (1977) EMBO J. 6,
+2767-2771
+Natl. Acad. Sci. U. S. A. 7 7 , 4746-4750
+
+i.
+
+

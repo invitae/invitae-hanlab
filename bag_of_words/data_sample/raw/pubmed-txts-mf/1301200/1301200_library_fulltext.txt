@@ -1,0 +1,737 @@
+HUMAN MUTATION 1~129-137(1992)
+
+RESEARCH ARTICLE
+
+Two Missense Mutations Causing Mild
+Hyperphenylalaninemia Associated With D
+Elisabeth Svensson., Randy C. Eisensmith, Bernd Dworniczak, Ulrika von Dobeln, Lars Hagenfeldt,
+Jiirgen Horst, and Savio L.C. Woo
+Howard Hughes Medical fnstitute, DepaTtment of CeU Biology and Institute of Molecular Genetics, Baylor College of Medicine,
+Houston, Texas 77030 (E. S., R. C. E., S.L. C. W. ) ; Department of Clinical Chemistry, Huddinge Universitj Hospital, S- I4 I 86
+Huddinge, Sweden (E.S., U.V.D., L.€l.); and Institur fur Humungenetik der Universitiit, Vesaliutweg 11-14, W-4400 Munster,
+Germany ( R D . , I . H . )
+Communicuted by Charks R. S ~ r i v u
+
+T h e genetic defects responsible for most phenylketonuria (PKU) and hyperphenylalaninemia ( H P A )
+cases are located in the phenylalanine hydroxylase (PAH) gene. Approximately 50-60 mutations have
+been reported in Caucasians and are reflected in a wide range of clinical severities. Most mutations are
+linked to specific haplotypes, as defined by eight polymorphic restriction sites in the P A H gene. We
+hypothesized that there is at least one mild mutation linked to haplotype 12 in the Swedish P K U M P A
+population, since 7 of 8 patients carrying haplotype 1 2 had mild HPA. Sequence analysis revealed a
+C-to-G transversion at the second base of codon 322, resulting in a substitution of glycine for alanine,
+in four mutant haplotype 1 2 genes, and a G-to-A transition at the second base of codon 408, resulting
+in a substitution of glutamine for arginine, in another three mutant haplotype 12 genes. These mutations segregated with mutant haplotype 12 alleles in nuclear families but were not present on normal
+or other mutant alleles. Both mutations were tested in a eukaryotic expression system in which enzyme
+activities of different mutant P A H enzymes reflect the relative severities of the mutations, although
+these in vitro activities cannot be translated directly into in vivo hepatic activities. T h e A322G mutant
+P A H had about 75% and the R408Q mutant P A H about 55% of the wild-type P A H enzyme activity.
+These in vitro activities are the highest reported for mutant P A H enzymes produced in the same
+expression system. The A322G and R408Q mutations should therefore be the mildest P A H mutations
+yet identified and expressed, a conclusion supported by the finding of these mutations in only very
+o 1992 WiIey-Liss, Inc.
+mildly affected patients.
+KEY WORDS: Phenylketonuria, Hyperphenylalaninemia, Phenylalanine hydroxylase, Gene mutations,
+
+Genotype/phenotype
+
+INTRODCUTION
+
+A vast majority of phenylketonuria (PKU) is
+caused by an inherited (autosomal recessive) deficiency of phenylalanine hydroxylase (PAH; phenylalanine 4-monooxygenase, EC 1.14.16.I ). Severely affected individuals have high levels of
+blood phenylalanine and will be mentally retarded
+if left untreated (see Scriver et al., 1988 for
+review).
+In most Western countries, newborns with elevated blood phenylalanine are detected through a
+neonatal screening program. In Sweden, roughly
+65% of these have PKU that necessitates dietary
+treatment through childhood and adolescence and
+0 1992 WILEY-LISS. INC.
+
+about 35% have milder PKU, often called hyperphenylalaninemia (HPA), that does not require
+any dietary regime at all or only during early childhood.
+A number of mutations, mostly single-base substitutions, have been found in the PAH gene. In
+vitro expression analysis in mammalian cells have
+shown that they reduce PAH enzyme activity to a
+variable extent (DiLella et al., 1987; Marvit ec al.,
+1987; Lichter-Konecki et al., 1988; Okano e t al.,
+Received March 17, 1992; accepted April 27, 1992.
+
+*To whom reprint requestdcorrespondence should be addressed.
+
+130
+
+SVENSSON ET AL.
+
+1990; Caillaud et al., 1991; Dworniczak et al.,
+1991; Okano et al., 1991a,b,c; Svensson et al.,
+1992; Wang et al., 1991). Most patients are compound heterozygotes and their clinical state is determined by the combined effect of two mutant
+PAH genes (Avigad et al., 1991; Okano et al.,
+1991b; Svensson et al., 1992).
+Within an ethnically homogeneous population,
+a particular mutation is often associated to a certain haplotype. In current nomenclature, each
+PAH haplotype is defined by a unique combination of eight restriction fragment polymorphisms
+(RFLP) at the PAH locus (Woo, 1989). Haplotype
+12 is relatively common on PKU chromosomes in
+Sweden and Norway as compared to other European countries (Apold et al., 1990; Svensson et
+al., 1991). Eighteen percent (9 alleles) of uncharacterized PKU alleles in Swedish PKU patients are
+of haplotype 12 and 8 of these 9 mutant haplotype
+12 alleles are found in mildly affected HPA patients (Svensson et al., 1991). We speculated that
+these haplotype 12 chromosomes should carry mild
+mutations. In the present study we describe the
+identification and expression analysis of two mutations found in 3 and 4 of these haplotype 12
+PAH genes, respectively.
+MATERIALS AND METHODS
+Families and Phenotypic Classification
+of Patients
+
+We studied 88 families, including 93 of the 105
+children with persistent hyperphenylalaninemia
+detected through the Swedish neonatal screening
+program 1966-1986 (Svensson et al., 1991). Patients with mutant PAH alleles of haplotype 12
+were selected for sequence analysis. Information
+about serum phenylalanine levels and dietary phenylalanine intake was obtained by one of the authors, who was ignorant of the genotypes of the
+patients, either directly through files or via the
+pediatricians and nutritionists in charge of the patients.
+Identification of Mutations
+
+PAH exons were amplified from genomic DNA
+through the polymerase chain reaction (PCR) with
+primers 9A (5’YATGGCCAAGTACTAGGTTG-3‘ ) and 9B (5’-AGTTTCAAAGACCTGAGGGC-3 ’) for exon 9 and primers 12A (5’-ATGCCACTGAGAACTCTCTT-3’) and 12B (5’AGTCTTCGATTACTGAGAAA-3 ’) for exon
+12. Single-strand templates were prepared as described by Spiegelberg et al. (1989) with ratios of
+primer 9A to 9B and 12B to 12A of 50 to 1. Se-
+
+quence analysis was performed with a kit from
+Pharmacia according to the manufacturer’s instructions except that annealing was done at 65°C for
+15 min followed by room temperature for 15 min
+and that the labeling mix was diluted 1:20 instead
+of 1:5. Sequencing primers were 5’-AGACTATAGCACTCCACC-3’ for exon 9 and 12A for
+exon 12.
+Population Screening
+
+Once a mutation had been identified, its exclusive occurrence on PKU alleles and its linkage to
+haplotype 12 was tested by screening for the presence of the mutation on normal and other mutant
+alleles. For the A322G mutation, DNA containing exon 9 amplified from genomic DNA of patients and parents was blotted onto duplicate nylon
+membranes using a slot-blotting device (Schleicher and Schuell). The membranes were hybridized with [ T - ~ ~ P ] A end-labeled
+TP
+oligonucleotides
+for either the mutant (5’-GTAAATTGTGCCGAGCTTTTC-3’) or the normal (5’-GAAAAGCTCGCCACAATTTAC-3’) sequence and
+washed under stringent conditons (DiLella and
+Woo, 1987).
+The screening for the R408Q mutation could be
+simplified, since this mutation abolishes an Hue111
+site. HaeIIl digestion of DNA containing exon 12
+amplified from chromosomes bearing this mutation
+results in one larger fragment instead of two
+smaller fragments. Exon 12 was PCR amplified
+from patient and parental samples. Twenty microliters of the 100-pl amplification reaction was digested with HaeIII and the resulting fragments
+were separated on a 4% NuSieve gel. The expected
+fragments were 27, 103, and 115 bp or, in the
+presence of the R408Q mutation, 27 and 218 bp
+(Eiken et al., 1991).
+Expression Analysis
+
+The entire human PAH cDNA (Kwok et al.,
+1985) was inserted into the polylinker site of the
+human expression vector pRc/CMV (InVitrogen) .
+In this vector, a CMV promoter drives the
+inserted gene and an early SV40 promoter drives a
+neomycin resistance (NEO) gene. We used a
+Muta-GeneR Phagemid Mutagenesis kit (Bio-Rad)
+to introduce the single-base substitutions into the
+PAH sequence. Mutagenic oligonucleotides were
+5’-GTAAATTGTGCCGAGCTTC-3’
+for
+A322G, 5’-AGAAGGGCTGAGGTATT-3‘ for
+R408Q, and 5 ’-GAGAAGGGCCAAGGTATTGTG-3’ for R408W.
+COS cells from three 80-90% confluent 15-cm
+
+HAPLOTYPE 12 MUTATIONS CAUSING HPA
+
+131
+
+a
+FIGURE1. Sequences of regions surrounding the A322G mutation (antisense strand) (a) and
+the R408Q mutation (sense strand) (b). The normal sequence is indicated to the left of the
+autoradiograph with the single-base substitution indicated by an arrow.
+
+plates were transfected via electroporation (Promega) with 100 p g wild-type or mutated pRc/
+CMV/PAH constructs or, as a negative control,
+pRc/CMV. Twenty-five micrograms of pRc/CMV
+containing a P-galactosidase cDNA and 375 p g
+yeast tRNA were cotransfected with normal and
+mutant constructs. After 48-72 hr of culture, the
+cells were harvested and homogenized at 4°C with
+a glass/teflon homogenizer for 5 cycles of 4 sec
+each.
+PAH enzyme activity was assayed as the conversion of [14C]phenylalanine to [14C]tyrosine
+(Ledley et al., 1985b, 1987). For each PAH construct, 100-cl.1mixtures containing 0, 20, 50, 100,
+200, and heat-denatured 200 pg cellular protein
+were incubated for 1 hr at 37°C in 0.05 M Tris
+buffer (pH 7.4) with 1 pCi [14C]phenylalanine
+(485.7 mCi/mmol), 1 mM phenylalanine, 0.2 mM
+tetrahydrobiopterin, 10 units of catalase, and 2
+mM dithiotreitol. The reaction was stopped by incubation at 100°C for 5 min followed by chilling.
+Five microliters of each sample was chromatographed o n a Silica Gel 60 TLC plates (EM Industries, Inc. ) and spots corresponding to phenylalanine and tyrosine were cut out and their activity
+quantitated by scintillation counting (Ledley et
+al., 1987). Western blotting and Northern blotting were performed essentially according to Ledley
+et al. (198513, 1987). PAH mRNA was quantitated
+by slot-blotting six dilutions of 0.375-12.0 pg total RNA onto duplicate nitrocellulose membranes
+
+that were hybridized with the PAH and NEO
+cDNAs. Pieces of membrane corresponding to the
+slots were cut out and radioactivity was measured
+by scintillation counting.
+RESULTS
+Identification of Two Novel Mutations in Exons
+9 and 12
+
+Sequence analysis of exon 9 showed a C-to-G
+transversion at the second base of codon 322, resulting in a substitution of glycine for alanine (Fig.
+l a ) . Sequencing of exon 12 revealed a G-to-A
+transition at the second base of codon 408, resulting in a substitution of glutamine for arginine (Fig.
+lb). Four of the 9 mutant haplotype 12 alleles in
+this analysis were found to carry the A322G mutation and another three the R40SQ mutation.
+Mendelian Segregation of the Mutant Alleles and
+Association With HPA Chromosomes
+
+According to sequence analysis of parental samples from all affected families, both mutations segregated with mutant haplotype 12 alleles. Figure 2
+illustrates the inheritance of a paternal A322G
+mutation and a maternal R408Q mutation in the
+same family.
+ASO-screening for the A322G mutation comprised 177 PKU and 157 normal alleles from the
+sample population, including parental samples in
+which the presence of the A322G mutation had
+been verified by sequencing. Only these samples
+
+132
+
+SVENSSON ET AL.
+TABLE 1. Results From Transient Expression of Mutant PAH
+cDNAs in COS Cells"
+
+Mutation
+Normal
+
+A322G
+
+R408Q
+R408W
+
+mRNA
+quantityb
+
+Enzyme
+activity'
+
+Immunoreactivitvd
+
+Specific
+activitv'
+
+100
+91 L 2
+9322
+102 2 3
+
+100
+75 -c3
+5522
+2.7 2 0.7
+
+100
+10523
+91 ? 2
+2.7 ? 1.3
+
+100
+71 L 9
+60 f 4
+100 & 1
+
+~
+
+R322G/R408Q
+
+R408Q/NORllRL
+
+R408Q/NORnRL
+
+the inheritance of a paternal
+A322G mutation and a maternal R408Q mutation in the
+FIGURE 2. Pedigree showing
+
+same family.
+
+hybridized to the mutant oligonucleotide while all
+samples hybridized to the normal oligonucleotide
+(data not shown).
+We analyzed the same set of samples for the
+presence of the R408Q mutation. Digestion of
+PCR amplified exon 12 with HaeIII resulted in the
+expected fragments of 27, 103, and 115 bp in all
+samples (data not shown). An additional fragment
+of 281 bp was present only in three samples that,
+according to sequence analysis, should have the
+R408Q mutation. This fragment represents the
+loss of an HaeIII site covering the last two bases of
+codon 408.
+Expression Analysis of the Mutant Alleles
+
+We analyzed homogenates of COS cells transiently expressing a wild-type PAH cDNA or a
+PAH cDN,4 with a single-base substitution corresponding to the A322G, R408Q or R408W mutation, created by site-directed mutagenesis. The
+previously reported severe R408W mutation was
+included for comparison, because it involves the
+same codon as R408Q (DiLella et al., 1987).
+RNA analysis revealed similar levels of PAH
+mRNA from all the three mutant and the wildtype PAH cDNAs (Table 1) and the same length
+of PAH mRNA from all of these constructs (data
+not shown).
+Enzyme activity, estimated as conversion of
+phenylalanine to tyrosine, was linear in the range
+of 0-200 p g cellular protein as illustrated by a
+typical experiment in Figure 3A. The relative enzyme activity of each mutant PAH was expressed
+as percentage of wild-type PAH activity and the
+mean value was determined from four independent
+transfection experiments (Table 1). The ratio between A322G PAH activity and R408Q activity
+
+~~~
+
+"All values are expressed as means with standard deviations.
+They were corrected for differences in transfection efficiency by
+normalizing for P-galactosidase activity, and were subtracted
+with background from pRc/CMV-transfectedcells.
+bThe relative PAH mRNA levels, expressed as percent of wildtype PAH mRNA, were based on the ratios of PAH to NEO
+mRNA for 3 pg total RNA, which was in a range of linear relationship between radioactivity and amount of RNA. The values
+are means from 4 independent transfections.
+'PAH activity was measured as conversion of phenylalanine to
+tyrosine versus protein concentration. The relative enzyme activities were calculated from the equations of the straight lines corresponding to assays of each mutant or wild-type PAH from 4
+independent transfections.
+dThe relative immunoreactivity was derived as follows: The lZ5lin
+each piece of membrane corresponding to a PAH band was quantitated by scintillation counting. The relative immunoreactivity
+was derived from a standard curve of 0-200 or 300 pg protein
+from cells transfected with wild-type PAH and 200 pg of protein
+from cells transfected with mutant PAH. The values represent
+means from 3 independent transfections.
+'The specific activity was expressed as percent relative enzyme
+activity of relative immunoreactivity.
+
+was between 1.2 and 1.6 in all 4 experiments.
+Immunoreactivity was similarly quantitated from
+Western blots, which consistently showed one protein band of equal size for each mutant and the
+wild-type PAH (Fig. 3B). There was no detectable
+PAH enzyme or immunoreactivity in cells transfected with pRc/CMV. Both A322G and R408Q
+mutant PAH had a moderately decreased specific
+activity, since their enzyme activities were reduced
+while their immunoreactivities were close to normal (Table 1).
+Correlation Between Mutation Genotype and
+Clinical Phenotype
+
+Eight of 9 mutant haplotype 12 alleles were
+present in patients that had no or minimal dietary
+treatment (Svensson et al., 1991b). One of these 8
+as well as the ninth haplotype 12 allele carried
+currently unidentified mutations. The remaining 7
+haplotype 12 alleles carried either the A322G or
+the R408Q mutation and were present in patients
+with PAH genotypes A322GK408W (two patients), A322G/R252W, A322G/R408Q, R408Q/
+Y414C, and R408Q/R408W. All of these patients
+except one were on free diet and had serum phenylalanine values below 600 pM. Only the
+
+HAPLOTYPE 12 MUTATIONS CAUSING HPA
+
+133
+
+Protein (pg)
+
+B.
+
+1
+
+2
+
+3
+
+FIGURE 3. Enzyme activity and immunoreactivity from wild-
+
+4
+
+5
+
+6
+
+7
+
+type, A322G, R408Q. and R408W PAH, transiently expressed in COS cells. (A) PAH enzyme assay measuring the
+conversion of [14C]phenylalanineto [14C]tyrosinein extracts
+from COS cells transfected with wild-type (a), A322G (o),
+R408Q (m), or R408W ( 0 ) PAH cDNA. (B)Western blot.
+
+Lanes 1-4 contain 50, 100, 150, and 200 pg of protein from
+cells transfected with wild-type PAH. Lanes 5-7 contain 200
+pg of protein from cells transfected with A322G. R408Q, and
+R408W PAH. Protein that was immunologically reactive
+with a goat anti-rat PAH antibody was visualized through
+binding of 1251-labeledprotein G.
+
+R408QIR408W patient had to be maintained on a
+slightly restricted phenylalanine intake (60-70 mg
+kg body weight-' day-') to keep serum phenylalanine below 600 pM.
+Table 2 shows the concentrations of neonatal
+serum phenylalanine and serum phenylalanine at
+5-10 years of age for the 6 patients. The four patients carrying an A322G allele had serum phenylalanine levels around 300 p M neonatally and
+around 230 p M later in childhood, while the other
+two patients had values above 800 pM neonatally
+
+and above 500 pM later on. This indicates that
+the higher activity of the A322G allele, relative to
+the R408Q allele, is reflected in the biochemical
+phenotype. The serum phenylalanine levels of all 4
+A322G patients were roughly the same whether
+the A322G mutation was combined with the
+R40SQ mutation or a null mutation (R252W or
+R408W). Thus, in these patients the contribution
+of the higher activity R40SQ allele, relative to a
+zero activity allele, did not affect the biochemical
+phenotype.
+
+134
+
+SVENSSON ET AL.
+TABLE 2.
+
+Serum Phenylalanine Concentrations of the Six Patients Carrying Either the A322G
+or the R408Q Mutation or Both
+Neonatal serum
+phenylalanine"
+
+Genotype of patient
+
+A322GlR408W
+A322GlR408W
+A322GlR252W
+A322GiR408Q
+R408QN414C
+R408QlR408W
+
+Serum phenylalanine
+at age 5-10 yearsb
+
+luMI
+
+(FM)
+250
+360
+250
+300
+800
+1000
+
+(250, 250)
+(484, 242)
+(250, 250)
+(363, 242)
+(600-700, 700-1200)
+(900,900-1200)
+
+252
+250
+200
+222
+500
+580'
+
+(190,314)
+(eight values: 177-350)
+(nine values: 440-700)
+(eight values: 490-720)
+
+"Meansof the values of the first and the second serum phenylalanine samples obtained during the first
+two weeks of age before any dietary regime had been started.
+bAll patients except the R408Q/R408W patient were on free diet (corresponding to 100-120 mg
+phenylalamine kg body weight-' day-'). Single or mean of two values for three patients who were not
+routinely followed after the first 18 months age since their serum phenylalanine values were sufficiently stable at a level low enough that dietary treatment would never be considered. Means of 8 or
+9 values with indicated ranges for three patients.
+'This child's phenylalanine intake was restricted to 60-70 mg phenylalanine kg body weight-' day-'.
+
+DISCUSSION
+Two novel missense mutations in the PAH
+gene, A322G and R408Q, were identified through
+sequence analysis of Swedish PKU and HPA patients. Both mutations were present exclusively on
+mutant haplotype 12 chromosomes and segregated
+in a Mendelian fashion in nuclear families. All
+patients carrying either of these mutations had
+mild HPA. Expression analysis of these mutant
+PAH proteins demonstrated relatively high in
+vitro activities, normal immunoreact ivit ies, and
+consequently moderately reduced specific activities. These findings are consistent with previous
+correlations between disease phenotype and in
+vitro enzyme activity in this expression system.
+In many studies the severity of a mutation has
+been examined by introducing the mutation into a
+cloned PAH cDNA and transiently expressing this
+mutant construct in COS cells (DiLella et al.,
+1987; Marvit et al., 1987; Lichter-Konecki et al.,
+1988; Okano et al., 1990; Dworniczak et al., 1991;
+Okano et al., 1991a,b,c; Wang et al., 1991;
+Svensson et al., 1992). Most of the reported mutations in the PAH gene lead to little or no residual enzyme activity and are associated with a severe form of PKU. The R261Q and Y414C
+mutations, however, have approximately 30 and
+50% enzyme activity, respectively, in eukaryotic
+expression analyses. Patients with either of these
+two mutations have milder PKU or HPA (Okano
+et al., 1990, 1991c; Svensson et al., 1992). The
+levels of activity of these mutant proteins when
+expressed in vitro in COS cells are most probably
+higher than the corresponding values for the proteins when expressed in vivo in hepatocytes. Otherwise homozygotes for the Y414C mutation would
+
+have the same capacity for phenylalanine hydroxylation as heterozygotes for a null mutation, which
+is clearly not the case, since Y414C homozygotes
+have hyperphenylalaninemia and heterozygotes do
+not (Svensson et al., 1992).
+We have recently shown that 8 or 9 mutant
+haplotype 12 chromosomes in a Swedish PKU sample population are consistently found in very
+mildly affected patients (Svensson et al., 1991). In
+the current article, we present two single-base
+changes that were separately found on 3 and 4 of
+these 8 haplotype 12 chromosomes. Both mutations lead to an amino acid substitution, alanine to
+glycine and arginine to glutamine. Since the immunoreactivity of these mutant enzymes was not
+reduced, we conclude that these amino acid
+changes do not alter the stability of the protein.
+They do, however, cause a certain reduction of
+enzyme activity, which is not surprising since they
+are localized in catalytically active parts of the enzyme (Ledley et al., 1985a; Jennings et al., 1990).
+Only two other PAH mutations have been reported to have a lowered specific activity; Rl58Q
+mutant PAH has about 10% enzyme activity and
+100% immunoreactivity when expressed in COS
+cells (Okano et al., 1990, 1991b) while A194 mutant PAH from liver tissue obtained by needle biopsy has a reduced affinity for phenylalanine (Caillaud et al., 1991).
+It is interesting to compare the effects of the
+R408Q and R408W mutations. The original arginine at position 408 is flanked by prolines in a
+stretch of aminoacids that interrupt a helix-like
+sequence. This P-R-P motif is consistent with a
+turn in this region, as indicated by several different
+programs for the prediction of secondary structure
+
+HAPLOTYPE 12 MUTATIONS CAUSING HPA
+
+and by a search of proteins of known three-dimensional structure contained in the Brookhaven National Laboratory (BNL) database. Replacement of
+arginine with glutamine (R408Q) did not alter immunoreactivity and only moderately reduced enzyme activity. This finding may seem surprising
+considering the charge change involved but is consistent with the high degree of structural similarity
+between these two amino acids. Due to an amino
+group situated at a similar position in the flexible
+side chains of glutamine and arginine, these amino
+acids probably have the potential to form similar
+hydrogen bonds with another residue. In contrast,
+replacement of the arginine at codon 408 with
+tryptophan (R408W) could interfere with such a
+hydrogen bond formation, since the bulkiness and
+rigidity of tryptophan may preclude the right orientation of its corresponding potential hydrogen
+donor. In addition it increases the relative hydrophobicity of this region. T h e R408W mutation apparently affects protein stability dramatically, since
+there was no immunoreactive R408W PAH, and
+thereby eliminates PAH enzyme activity. An interesting test of the role of the arginine at this
+position would be the examination of the properties of an R408K mutant protein. Since lysine and
+arginine are both positively charged and structurally similar, this is the most conservative change
+possible at this position. Unless the 408 residue is
+buried, in which case a replacement with lysine
+would be energetically unfavorable, such a mutant
+protein would be expected to have even higher
+activity than the R408Q PAH.
+Two studies have shown that the COS cell expression system can be used to arrange a wide variety of mutant PAH enzymes according to their
+effect o n phenylalanine hydroxylation and consequently o n a clinical phenotype. Okano e t al.
+(1991b) found a high correlation in Danish and
+German PKU patients between biochemical phenotype (pretreatment phenylalanine levels or phenylalanine tolerance) and in vitro enzyme activity,
+calculated as an average of the activities of the two
+mutant enzymes. We have extended these observations to a Swedish PKU/HPA population including a higher proportion of mild cases (Svensson et
+al., 1992). The reason for this excellent agreement
+between the disease severity and a simple average
+of the in vitro activities may be as follows. Most
+characterized mutations result in a more or less
+complete reduction of enzyme activity due to instability of the mutant protein. Compound heterozygotes for such a severe mutation and a mild
+mutation, which causes little or no reduction in
+
+135
+
+stability, should form predominantly homopolymers of the mildly mutated PAH peptides. Homozygotes for the same mild mutation should, of
+course, form only PAH homopolymers. In both
+studies nearly all patients were either homozygotes
+for a null mutation or a mild mutation or compound heterozygotes for a null mutation and a mild
+mutation. They would therefore be expected to
+form homopolymers almost exclusively.
+The results presented in this article both confirm the usefulness of the COS cell expression system and demonstrate some of its limitations. First,
+the in vitro activities of A322G PAH (75%) and
+R408Q PAH (55%) are higher than any other reported in vitro activity for a mutant PAH tested in
+the same expression system. This finding is in good
+agreement with the presence of these mutations
+only in very mildly affected patients. However,
+these substantial in vitro activities are most likely
+higher than the corresponding in vivo activities
+and they cannot be used to assess the absolute hepatic PAH activities in patients carrying either of
+these mutations. Second, the data presented in
+this article clearly show that the relative capacity
+for phenylalanine hydroxylation in different patients cannot always be accurately predicted from
+the average in vitro activities. We have two examples of patients in whom a high average in vitro
+activity did not result in a milder disease than that
+of a patient with a lower average in vitro activity.
+The R408Q/Y414C patient (53% average in vitro
+activity) had higher serum phenylalanine levels
+than the two A322G/R408W patients and one
+A322G/R252W patient, i.e., A322G/null allele
+patients (38% average in vitro activity). In addition, the A322G/R408Q patient (65% average in
+vitro activity) could not be clinically separated
+from the A322Ghull mutation patients (38% average in vitro activity).
+O n e reason for these observations could be that
+the relative activity of the A322G PAH was underestimated and that it is really high enough to
+make the contribution from a mutant PAH with
+much less activity marginal. Since the ratio of
+A322G PAH and R408Q activity was roughly the
+same in all experiments, laboratory errors in this
+direction are unlikely. Perhaps the COS cells are
+different from the hepatocytes in a way that leads
+to underestimation of the activity of not only normal PAH, but also (to a lesser extent) the A322G
+PAH relative to the activities of other mutant
+PAH enzymes, which would then indirectly be
+overestimated. This could occur if the normal and
+A322G mutant alleles are much more responsive
+
+136
+
+SVENSSON ET AL.
+
+than the other alleles to positive regulatory mechanisms in hepatocytes in vivo (but not in COS
+cells in vitro).
+An alternative explanation for the phenotypic
+similarity between the A322G/R408Q and
+A322Glnull mutation patients is that most
+A322G/R408Q individuals are so mildly affected
+that they are not identified through the neonatal
+screening. The selection of patients for this study
+would then be biased toward the most severely affected among the A322G/R408Q individuals and
+our A322G/R408Q patient would be a nonrepresentative phenotypic extreme. Yet another possibility is that negative interallelic complementation
+is operating in the A322G/R408Q patient. In general, alleles with high activity mutations dominate
+over alleles with low activity mutations (Avigad et
+al., 1991; Okano e t al., 1991b; Svensson e t al.,
+1992) and there is no direct evidence yet for negative interallelic complementation effects in PKU.
+Such evidence will, however, be difficult to obtain
+from a single population, since the prime prerequisite for negative interallelic complementation,
+the presence of two different stable PAH polypeptides, is very rare (excluding heterozygotes). This
+prerequisite is present in both the A322GIR408Q
+and the R408Q/Y414C patients, but the clinical
+data are only compatible with such a mechanism
+occurring in the A322G/R408Q patient, since the
+R408QN414C patient (53% average in vitro activity) is not more severely affected than five
+Y414C/Y414C patients (50% average in vitro activity) (Svensson et al., 1992).
+This study provides an example of how the
+search for mutations can be focused o n a particularly interesting group of patients through the combined information about RFLP haplotypes and
+phenylaline tolerance. It also shows how an identified substitution can be determined to produce a
+disease phenotype, not only by establishing its exclusive presence o n mutant alleles and its segregation with mutant alleles in families, but also by
+demonstrating its reduced in vitro enzyme activity.
+The reported mutations are the first to be identified on a haplotype 12 background, and they are
+the mildest PKU/HPA mutations that have yet
+been identified and characterized. Together with
+the Y414C mutation, these mutations account for
+a majority of the mutant alleles responsible for the
+HPA phenotype in Scandinavian populations.
+The high degree of genetic heterogeneity at the
+PAH locus most likely explains the broad and continuous spectrum of phenotypes observed in hyperphenylalaninemic disorders (disregarding the few
+
+patients with biopterin deficiency). The presence
+of a few different classes of mutant proteins has
+blurred the boundaries between phenotypic subgroups. T h e presence of extremely mild mutations
+may even blur the boundary between benign HPA
+patients and phenotypically normal individuals. It
+would not be surprising if a number of phenotypically normal individuals are, in fact, compound
+heterozygotes for mutant PAH proteins having
+slight but detectable decreases in PAH activity.
+Such individuals, if they do exist, will be detected
+as more mild mutant alleles are identified and
+characterized, and their prevalence in the general
+population is determined.
+ACKNOWLEDGMENTS
+We thank the pediatricians and nutritionists entrusted with the care of the patients for informing
+the families about the project and for supplying the
+clinical data. The project was supported in part by
+NIH Grant HD-17711 to S. L. C. Woo, who is
+also an Investigator with the Howard Hughes Medical Institute, and in part by grants to E. Svensson
+from “Safstaholmsforeningen,” “Svenska Lakaresallskapets forskiningsfond, ” and “Marcus Borgstroms fond for arftlighetsforskning.”
+REFERENCES
+Apold J , Eiken HG, Odland E, Fredriksen A, Bakken A, Lorens
+JB, Boman H (1990) A termination mutation prevalent in
+Norwegian Haplotype 7 phenylketonuria genes. Am J Hum
+Genet 47:1002-1007.
+Avigad S, Kleiman S, Weinstein M, Cohen BE, Schwartz G, Woo
+SLC, Shiloh Y (1991) Compound heterozygosity in nonphenylketonuria hyperphenylalaninemia: The contribution of mutations for classical phenylketonuria. Am J Hum Genet 49:
+393-399.
+Caillaud C, Lyonnet S, Rey F, Melle D, Frebourg T, Berthelon M,
+Vilarinho L, Osorio RV, Rey J, Munnich A (1991) A 3-base
+pair in-frame deletion of the phenylalanine hydroxylase gene
+results in a variant of phenylketonuria. J Biol Chem 266:93519354.
+Dilella AG, Woo SLC (1987) Hybridization of genomic DNA to
+oligonucleotide probes in the presence of tetramethylammonium chloride. Methods Enzymol 152:447-451.
+Dilella AG, Marvic J , Brayton K, Woo SLC (1987) An amino-acid
+substitution involved in phenylketonuria is in linkage disequilibrium with DNA haplotype 2. Nature (London) 327:333336.
+horniczak B, Grudda K, Stumper J, Bartholome K , AulehlaScholz C , Horst J (1991) Phenylalanine hydroxylase gene:
+Novel missense mutation in exon 7 causing severe phenylketonuria. Genornics 9:193-199.
+Eiken HG, Stangeland K, Skjelkvile L, Knappskog P, Boman H,
+Aploid J (1991) Identification of the PKU mutations R408Q
+(hpt 12) and F299C (hpt 8) in Norwegian patients. Hum
+Genet, submitted.
+Jennings I, Kemp B, Cotton R (1991) Localization of cofactor
+binding sites with monoclonal anti-idiotype antibodies: Phe-
+
+HAPLOTYPE 12 MUTATlONS CAUSING HPA
+nylalanine hydroxylase. Proc Natl Acad Sci USA 88:57345738.
+Kowk SCM, Ledley FD, Dilella AG, Robson KJH, Woo SLC
+(1985) Nucleotide sequence of a full-length complementary
+DNA clone and amino acid sequence of human phenylalanine
+hydroxyase. Biochemistry 24:556-561.
+Ledley FD, Dilella AG, Kwok SCM, Woo SLC (1985a) Homology
+between phenylalanine and tyrosine hydroxylases reveals common structural and functional domains. Biochemistry 24:
+3389-3394.
+Ledley FD, Grenett HE, Dilella AG, Kwok SCM, Woo SLC
+(1985b) Gene transfer and expression of human phenylalanine
+hydroxytase. Science 228:77-79.
+Ledley FD, Grenett HE, McGinnis-Shelnutt M, Woo SLC (1986)
+Retroviral-mediated gene transfer of human phenylalanine hydroxylase into NIH 3T3 and hepatoma cells. Proc Natl Acad
+Sci USA 83:409-413.
+Ledley, FD, Grenett HE, Woo SLC (1987) Biochemical characterization of recombinant human phenylalanine hydroxylase
+produced in Eschenchia coli. J Biol Chem 262:2228-2233.
+Lichter-Konecki U, Konecki DS, Dilella AD, Brayton K, Marvit J ,
+Hahn TM,Trefz FK, Woo SLC (1988) Phenylalanine hydroxylase deficiency caused by a single base substitution in an exon
+of the human phenylalanine hydroxylase gene. Biochemistry
+27:2881-2885.
+Marvit J , Dilella AG, Brayton K, Ledley FD, Robson KJH, Woo
+SLC (1987) G T to A T transition at a splice donor site causes
+skipping of the preceding exon in phenylketonuria. Nucl Acids
+Res 15:5613-5628.
+Okano Y, Eisensmith RC, Dasovich M, Wang T, Guttler F, Woo
+SLC (1991a) A prevalent missense mutation in Northern Europe associated with hyperphenylalaninaemia. Eur J Pediatr
+150:347-352.
+
+137
+
+Okano Y, Eisensmith RC, Guttler F, Lichter-Konecki U, Konecki
+D, Trefz FK, Dasovich M, Wang T, Henriksen K, Lou H, Woo
+SLC (1991b) Molecular basis of phenotypic heterogeneity in
+phenylketonuria. N Engl J Med 324:1232-1238.
+Okano Y, Wang T, Eisensmith RC, Longhi R, Giovannini M,
+Cerone R, Romano C , Woo SLC ( 1 9 9 1 ~ )Phenylketonuria
+missense mutations in the Mediterranean. Genomics 9:96103.
+Okano Y, Wang T, Eisensmith RC, Steinmann B, Gitzelmann R,
+Woo SLC (1990) Missense mutations associated with RFLP
+haplotypes 1 and 4 of the human phenylalanine hydroxylase
+gene. Am J Hum Genet 46:18-25.
+Scriver CR, Kaufman S, Woo SLC (1988) Mendelian hyperphenylalaninemia. Annu Rev Genet 22:301-321.
+Svensson E, Anderson B, Hagenfeldt L (1990) Two mutations
+within the coding sequence of the phenylalanine hydroxylase
+gene. Hum Genet 85:300-304.
+Svensson E, von Dobeln U, Hagenfeldt L (1991) Polymorphic
+DNA haplotypes at the phenylalanine hydroxylase locus and
+their relation to phenotype in Swedish phenylketonuria families. Hum Genet 87:ll-17.
+Svensson E, von Dobeln U, Eisensmith RC, Hagenfeldt L, Woo
+SLC (1992) Relation between genotype and phenotype in
+Swedish phenylketonuria and hyperphenylalaninemia patients.
+Eur J Ped, submitted.
+Wang T, Okano Y, Eisensmith RC, Lo WHY, Huang S-Z, Zeng
+Y-T, Yuan L-F, Liu SR, Woo SLC (1991) Missense mutations
+prevalent in Orientals with phenylketonuria: Molecular characterization and clinical implications. Genomics 10:449-456.
+Woo SLC (1989) Molecular basis and population genetics of phenylketonuria. Biochemistry 28: 1-7.
+
+

@@ -1,0 +1,677 @@
+Proc. Natl. Acad. Sci. USA
+Vol. 88, pp. 3748-3752, May 1991
+Genetics
+
+Niemann-Pick disease: A frequent missense mutation in the acid
+sphingomyelinase gene of Ashkenazi Jewish type A
+and B patients
+(lysosomal hydrolase/sphingomyelin/lysosomal storage disease/polymerase chain reaction/heterozygote detection)
+
+ORNA LEVRAN, ROBERT J. DESNICK, AND EDWARD H. SCHUCHMAN*
+Division of Medical and Molecular Genetics, Mount Sinai School of Medicine, New York, NY 10029
+
+Communicated by Donald S. Fredrickson, November 26, 1990
+
+Although the A and B subtypes of NiemanaABSTRACT
+Pick disease (NPD) both result from the deficient activity of ad
+sphingomyelinase (ASM; sphingomyelin cholinephosphohydrolase, EC 3.1.4.12) and the lysosomal aumaon of sphingomyelin, they have remarkably distinct phenotypes. Type A disease s a fatal neurodegenerative disorder of infancy, whereas tpe
+B disease has no neurologic miestations and is characterized
+primarily by reticuloendothelial involvement and survival into
+adulthood. Both disorders are more frequent among individuals
+of Ashkenai Jewis ancestry than in the general population. The
+recent isolation and characterization of cDNA and genomic
+sequences encoding ASM has facilitated investigation of the
+molecular lesions causing the NPD subtypes. Total RNA was
+reverse-trnscribed, and the ASM cDNA from an Ashkenaz
+by the
+Jewish type A patient was specifically
+chain reaction (PCR). Molecular analysis of the PCR products
+revealed a G-* T transversionofnucieotide 1487, which occurred
+at a CpG dinuceotide and predicted an Arg - Leu substitution
+in residue 496. Hybridization of PCR-amplified genomic DNA
+with allele-specific oligonucleotides indicated that the proband
+was homoallelic for the Arg -* Leu substitution and that both
+parents and several other relatives were heterozygous. This
+mutation was detected in 32% (10 of 31) of the Ashkenazi Jewish
+NPD type A alleles studied and occurred in only 5.6% (2 of 36) of
+ASM alleles from non-Jewish type A patients. Of interest, the Arg
+-- Leu substitution occurred in one of the ASM alleles from the
+two Ashkenazi Jewish NPD type B patients studied and in none
+of the ASM alleles of 15 non-Jewish type B patients. In contrast,
+the mutation was not present in 180 ASM alleles from normal
+individuals of Ashkenazi Jewish descent. These findings identify
+mutation among NPD patients of Ashkenai
+a frequent m
+Jewish ancestry that results in neuronopathic type A disease when
+homoallelic and can result in the nonneuronopathi type B
+phenotype when heteroallelic. The identification of this ASM
+mutation in Ashkenazi Jewish patients should facilitate the prevention of NPD in this population by carrier detection with
+molecular diagnostic techniques.
+
+sence of neurologic manifestations, and survival into adulthood. The nature of the biochemical and molecular defects
+that underlie the remarkable clinical heterogeneity in the A
+and B subtypes remains unknown. Although patients with
+both subtypes have residual ASM activity (~1 to 10% of
+normal), biochemical analyses cannot reliably distinguish the
+two phenotypes. Moreover, the clinical course of type B
+NPD is highly variable, and it is not presently possible to
+correlate disease severity with the level of residual ASM
+activity.
+Types A and B NPD occur at least 10 times more frequently
+among individuals of Ashkenazi Jewish ancestry than in the
+general population. It is estimated that the incidence of the
+type A disease among Ashkenazi Jews is -1 in 40,000, a gene
+frequency (q) of =1 in 200, and a heterozygote frequency
+(2pq) of -1 in 100 (5). The incidence of type B NPD in the
+Ashkenazi Jewish population is less frequent, perhaps 1 in
+80,000 (5). Thus, the combined heterozygote frequency for
+types A and B NPD has been estimated to be 1 in 70 among
+individuals of Ashkenazi Jewish decent. Although the enzymatic diagnosis of affected patients with either type A or B
+NPD can be made reliably (4), the enzymatic detection of
+obligate heterozygotes has proven problematic, particularly
+using peripheral leukocytes as the enzyme source. Presumably, the occurrence of neutral sphingomyelinases in some
+sources and/or the presence of residual ASM activity resulting from the mutant allele have contributed to the inability to
+reliably discriminate carriers for either disease subtype. Even
+the use of cultured skin fibroblasts, which do not express the
+neutral sphingomyelinase, has not provided unambiguous
+results with obligate heterozygotes (D. A. Wenger, personal
+
+communication).
+Recently, two partial cDNAs encoding human ASM were
+isolated and sequenced (6). The type 1 cDNA contained an
+in-frame 172 base pairs (bp) encoding 57 amino acids; in the
+type 2 cDNA this sequence was replaced by an in-frame 40
+bp encoding 13 different amino acids. Of the 92 positive
+clones identified by cDNA library screening, the type 1 and
+2 cDNAs represented "90 and 10%o, respectively (6). Subsequent isolation and expression of the full-length type 1 and
+2 cDNAs demonstrated that only the type 1 transcript was
+functional (28). The 2347-bp full-length type 1 cDNA had an
+87-bp 5' untranslated region, an 1890-bp open reading frame
+encoding 629 amino acids, and a 370-bp 3' untranslated
+sequence. Analysis of a polymerase chain reaction (PCR)amplified 1665-bp region of genomic DNA revealed that the
+type 1 and 2 ASM cDNAs resulted from alternative splicing
+
+Types A and B Niemann-Pick disease (NPD) are autosomal
+recessive disorders resulting from the deficient activity of the
+lysosomal hydrolase, acid sphingomyelinase (ASM; sphingomyelin cholinephosphohydrolase, EC 3.1.4.12) and the
+accumulation of sphingomyelin, primarily in reticuloendothelial cell lysosomes (1-4). Type A disease is a rapidly
+progressive neurodegenerative disease of infancy manifested
+by failure to thrive, severe psychomotor retardation, hepatosplenomegaly, and demise by 2-3 years of age. In comparison, type B disease is characterized primarily by reticuloendothelial system sphingomyelin deposition leading to
+hepatosplenomegaly and pulmonary involvement, the ab-
+
+Abbreviations: NPD, Niemann-Pick disease; ASM, acid sphingomyelinase; PCR, polymerase chain reaction; nt, nucleotide; R496L,
+a G -M T transversion of nt 1487 that predicts an Arg -. Leu
+substitution at residue 496.
+*To whom reprint requests should be addressed at: Division of
+Medical and Molecular Genetics, Mount Sinai School of Medicine,
+100th Street and Fifth Avenue, New York, NY 10029.
+
+The publication costs of this article were defrayed in part by page charge
+payment. This article must therefore be hereby marked "advertisement"
+in accordance with 18 U.S.C. §1734 solely to indicate this fact.
+
+3748
+
+Genetics: Levran
+
+et
+
+al.
+
+of a single ASM transcript (28). Moreover, the localization of
+a single ASM-encoding gene (designated SMPDI) to the
+region 11p15.1-pl5.4 by somatic cell and in situ hybridization
+techniques, supports the occurrence of a single ASM locus
+(7). In this communication, we identify a mutation in NPD,
+a G T transversion in nucleotide (nt) 1487 that predicts an
+Arg Leu substitution at position 496 of the ASM polypeptide (R4%L). Notably, this missense mutation was frequently
+found in type A and B NPD patients of Ashkenazi Jewish
+ancestry.
+
+MATERIALS AND METHODS
+Cell Lines. Primary cultures of fibroblasts and lymphoblasts were established from skin biopsies, and peripheral
+blood samples were obtained from NPD patients and family
+members and from normal individuals; informed consent was
+obtained. NPD cell lines GM00112A, GM00165, GM00370,
+GM00406, GM00559, GM02895, and GM03252 were obtained
+from the National Institute of General Medical Sciences
+Human Genetic Mutant Cell Repository (Camden, NJ). Cell
+lines 444X.F01, 534R.F03, 556X.F01, 888V.F01, 2789X.F01,
+4293Q.E02, 4774Z.F01, 5113C.L01, 5115E.FO1, and
+6791M.F01 were obtained from the Service de Biochimie,
+Hospice de Lyon (Lyon, France). Cell lines DMN 83.126,
+DMN 83.133, DMN 84.135, DMN 86.40, DMN 86.49, DMN
+87.71, DMN 87.99, DMN 88.9, GJO, and RNS were provided
+by Peter Penchev (Developmental and Metabolic Neurology
+Branch, National Institute of Neurological and Communicative Disorders and Stroke). The cells were grown in RPMI
+1640 medium/10% fetal bovine serum/1% penicillin/
+streptomycin at 1 mg/ml by standard procedures (8). The
+diagnosis of types A and B NPD was based on clinical criteria
+(e.g., age at onset, presence of neurologic involvement, etc.)
+and by demonstration of markedly deficient ASM activity in
+cultured cells (9).
+Enzyme and Protein Assays. ASM activity was determined
+in cultured fibroblasts obtained from NPD patients and
+normal individuals using the fluorescent natural substrate,
+[N-12(1-pyrenesulfonyl)amido dodecanoyl] sphingomyelin
+as described (9). One unit of activity equals that amount of
+enzyme that hydrolyzes 1 nmol of substrate per hr. Protein
+was determined by a modified fluorescamine assay (10).
+cDNA and Genomic Amplification and Sequencing of the
+Mutant Allele. Total RNA and genomic DNA were isolated
+from cultured skin fibroblasts by standard procedures (11).
+First-strand cDNA was reverse-transcribed from -5 ,g of
+total RNA by using a cDNA synthesis kit according to the
+manufacturer's instructions (Boehringer Mannheim). The
+cDNA (410% of the total reaction) or genomic DNA (-0.5
+Ag) was amplified by PCR with Thermus aquaticus (Taq)
+polymerase (Cetus), essentially as described by Saiki et al.
+(12) with the following conditions and modifications. PCR
+was performed for 30 to 40 cycles and consisted of denaturation for 1 min at 94°C and annealing and extension for 4 min
+at 660C or 720C. To improve the specificity of the PCR
+amplification for the cDNA, a "PCR boost" procedure was
+used. In this procedure the concentrations of the primers and
+Taq polymerase were 0.1 ,uM and 5 units/ml, respectively,
+for the first 15 cycles. Then each primer was added to a final
+concentration of 0.5 AM, and an additional 2 units of Taq
+polymerase was added to the reaction mixture. PCR amplification then proceeded for an additional 15-25 cycles.
+Pairs of sense and antisense oligonucleotide primers were
+synthesized on an Applied Biosystems model 380B DNA
+synthesizer (13) and used to specifically amplify (i) the entire
+coding region of the reverse-transcribed type 1 ASM transcript in three overlapping cDNA fragments, (ii) the 1665-bp
+genomic region containing the alternatively spliced sequences in the type 1 and 2 ASM cDNAs (28), and (iii) a
+
+Proc. Natl. Acad. Sci. USA 88 (1991)
+
+3749
+
+genomic region that included the point mutation for confirmation of the candidate missense mutation. To amplify a
+984-bp fragment from the 5' end of the ASM cDNA, the 29-mer
+sense primer, P1 (5'-AGTAGTCTCGAGACGGGACAGACGAACCA-3'), corresponded to ASM, nt -39 to -23 with an
+additional 12 nt that included an Xho I restriction site and the
+31-mer antisense primer, P2 (5'-AGTAGTCTGCAGAGCAGGGTACATGGCACTG-3'), corresponded to ASM nt 926
+to 945 with an additional 12 nt containing an EcoRI restriction
+site. To amplify an internal 383-bp fragment of the ASM cDNA,
+the 29-mer sense primer, P3 (5'-ATCATCAAGCTTGGGTAACCATGAAAGCA-3'), corresponded to ASM nt 947-964
+with an additional 12 nt containing a HindIII restriction site, and
+the antisense 32-mer primer, P4 (5'-ATCATCGAATTCTACAATTCGGTAATAATTCC-3'), corresponded to ASM nt
+1310 to 1330 with an additional 12 nt containing an EcoRI
+restriction site. To amplify a 789-bp 3' fragment from the ASM
+cDNA, a 19-mer sense primer, P5 (5'-CTCCACGGATCCCGCAGGA-3'), corresponded to ASM nt 1185 to 1203 and contained an internal BamHI restriction site, and an antisense
+32-mer primer, P6 (5'-AGTAGTGTCGACTTGCCTGGTTGAACCACAGC), corresponded to ASM nt 1955 to 1974 with
+an additional 12 nt containing a Sal I restriction site. Primers P3
+and P4 also were used to amplify the 1665-bp internal genomic
+region that contains the alternatively spliced type 1 and 2 cDNA
+sequences. To confirm the candidate mutation by genomic
+sequencing and dot-blot analysis (see below), a 27-mer sense
+primer, P7 (5'-AGTAGTCGACATGGGCAGGATGTGTGG3'), was used with antisense primer P6 to amplify a 567-bp
+genomic fragment containing the G -+ T transversion.
+After PCR amplification, the products were isolated from
+agarose gels and subcloned into either Bluescript KS (+)
+(Stratagene) or pGEM 7Zf (-) (Promega) vectors. For each
+amplified product, from four to six independent subclones
+were sequenced in both orientations by the dideoxynucleotide chain-termination method (14).
+Dot-Blot Analysis. Any nucleotide change that occurred in
+more than two subcloned PCR products was considered a
+candidate mutation and analyzed by dot-blot hybridization
+with allele-specific oligonucleotides. In addition, allelespecific oligonucleotides were constructed and used as
+probes to analyze amplified genomic DNA from normal
+individuals and NPD patients and family members. From
+these studies genomic DNA was rapidly isolated from either
+whole blood or cultured cells by the following procedure.
+About 0.5 ml of whole blood and 0.5 ml of lysis buffer (10 mM
+Tris HCl buffer, pH 7.5/5 mM MgCl2/0.32 M sucrose/1%
+Triton X-100) were mixed at room temperature. After centrifugation at 13,000 x g, the supernatant was removed, and
+0.5 ml of PCR buffer (10 mM Tris HCl buffer, pH 8.3/50 mM
+KCI/2.5 mM MgCl2/gelatin at 0.1 mg/ml/0.45% NonidetP40/0.45% Tween 20/proteinase K at 0.1 mg/ml) was added.
+For cultured cells, the lysis step was omitted, and the washed
+cell pellets were resuspended directly in PCR buffer (-5 x
+106 cells per ml). The samples were then incubated at 60°C for
+1 hr and boiled for 10 min to inactivate the protease; then 25
+,ul was removed for PCR amplification. After agarose gel
+electrophoresis of the PCR products, the concentration of
+each product was estimated by ethidium bromide staining.
+For each sample -0.5 ,ug of DNA was used for the dot-blot
+analysis.
+For the analysis of the R4%L mutation, the 567-bp PCR
+product amplified from genomic DNA was analyzed by
+dot-blot hybridization (11) by using Zetabind nylon membranes (AMF Cuno) and a Bio-Rad dot-blot apparatus. Hybridizations were performed for at least 3 hr at 39°C. After
+hybridization, the blots were washed at room temperature for
+15 min in 6x SSC (1x SSC is 0.15 M sodium chloride/0.015
+M sodium citrate, pH 7.0)/0.1% SDS and then for 2 hr in the
+same solution at either 53TC for the normal (5'-CTATTTG-
+
+Genetics: Levran et al.
+
+3750
+
+Proc. Natl. Acad. Sci. USA 88 (1991)
+3,
+
+G"
+
+A T
+
+C
+
+(J
+
+A
+'I'
+G
+
+A
+
+T
+
+C:
+
+(.'
+
+'m..
+
+'I,
+
+(I.
+'1'
+
+a.....
+
+7l
+
+496
+A rg* G
+C
+C
+
+A.
+
+A
+'1.
+
+A
+I.X
+
+T.
+
+N.:.
+
+rip
+
+A'
+
+mmmom
+
+G;
+Normal
+
+l,
+
+Mutant
+
+Partial sequence of the
+
+FIG. 1.
+
+transversion of nt 1487. cDNA
+
+amplified ASM cDNA from an Ashkenazi Jewish type A NPD patient (proband 1) showing the G -* T
+synthesis, PCR amplification, and DNA sequencing are described. Arrows indicate the G -+ T transversion in
+
+proband 1 (Right) that results in R496L.
+
+GTACACACGG-3') or 480C for the mutation-specific (5'CTATTTGGTACACAAGG-3') oligonucleotide.
+RESULTS
+Identification of the R496L Mutation in an Ashkenazi Jewish
+Type A NPD Patient. To determine the molecular lesions in an
+Ashkenazi Jewish type A NPD patient (proband 1), who had
+'1% of normal ASM activity in cultured fibroblasts, total
+RNA was isolated from cultured lymphoblasts and reversetranscribed into cDNA; then the entire coding region was
+PCR amplified. Nucleotide sequencing of the subcloned PCR
+products revealed a single point mutation in a CpG dinucleotide,
+
+a
+
+G
+
+-+
+
+T transversion of nt 1487 of the
+
+(Fig. 1). This transversion predicted
+
+an
+
+full-length cDNA
+Arg -- Leu substi-
+
+tution in residue 496 of the ASM polypeptide (designated
+R496L). All other base substitutions occurred in only one or
+two of the subcloned PCR products analyzed.
+To confirm the authenticity of this candidate mutation, a
+567-bp region of genomic DNA from the proband, various
+family members, and 90 normal Ashkenazi Jewish individuals
+was PCR amplified and then hybridized with normal and
+R496L-specific radiolabeled oligonucleotides. As shown in
+Fig. 2, the PCR-amplified genomic DNA from proband 1
+hybridized to the mutation-specific, but not to the normal
+allele-specific oligonucleotide, confirming the authenticity of
+
+s
+
+Normal
+
+\NlIIItariI t
+
+the transversion and indicating that proband 1 was homoallelic for the R496L mutation. Of the nine other family
+members studied, both parents, the paternal grandfather, and
+a paternal aunt were heterozygous for the R496L mutation.
+The maternal grandmother did not have the mutation, suggesting that the maternal grandfather was heterozygous for
+this mutation. There was no known consanguinity between
+the maternal or paternal grandfathers whose ancestors were
+from different European countries. Moreover, the R496L
+mutation was not found in 180 ASM alleles studied from a
+group of normal Ashkenazi Jewish individuals, indicating
+that the G
+
+-*
+
+T transversion
+
+was
+
+not
+
+a common
+
+polymor-
+
+phism.
+Occurrence of R496L in Ashkenazi Jewish and Non-Jewish
+NPD Type A Families. The occurrence of R496L in other NPD
+families was determined by dot-blot analysis of genomic
+DNA from 17 unrelated Ashkenazi Jewish and 18 unrelated
+non-Jewish type A NPD families. As indicated in Table 1, of
+the 31 Ashkenazi Jewish NPD alleles studied (i.e., from 6
+unrelated patients and 19 unrelated obligate heterozygotes),
+32% had the R496L mutation. Only proband 1 was homoallelic for the mutation, whereas three obligate heterozygotes
+from unrelated families in which material from patients was
+unavailable were heteroallelic for the R496L mutation. In
+contrast, only 2 of 36 (5;6%) alleles had the R496L mutation
+in non-Jewish NPD type A patients. An American of German
+ancestry was homoallelic for the R496L mutation.
+
+..
+
+*'
+
+0@*
+
+FIG. 2. Identification of the R4%L mutation in amplified genomic DNAs from the members of an Ashkenazi Jewish family with type A NPD
+by dot-blot hybridization with allele-specific oligonucleotides. Note that the patient (proband 1) was homoallelic, and both of her parents were
+heterozygous for R496L.
+
+Genetics: Levran et al.
+Table 1. Frequency of the R4%L mutation in Ashkenazi Jewish
+and non-Jewish families with types A and B NPD
+Unrelated
+Mutant
+families
+alleles
+R496L,
+Source
+studied, no.
+%
+studied, no.
+Type A disease
+Ashkenazi Jewish
+17*
+31
+32
+Non-Jewish
+18
+36
+5.6
+Type B disease
+2
+4
+Ashkenazi Jewish
+25
+15
+30
+Non-Jewish
+0.0
+*In three of these families only one obligate heterozygous parent was
+available for analysis.
+
+Occurrence of the R496L Mutation in Ashkenazi Jewish and
+Non-Jewish NPD Type B Families. Analysis of genomic DNA
+from two unrelated Ashkenazi Jewish NPD type B patients
+revealed the presence of one R496L allele in one patient
+(designated proband 2). In contrast, the R4%L allele was not
+found in genomic DNAs from 15 non-Jewish NPD type B
+patients (Table 1).
+
+DISCUSSION
+Insights into the molecular nature of the remarkably distinct
+type A and B NPD phenotypes have been gained by the
+identification of a mutation in the ASM gene causing this
+lysosomal storage disease. The G -* T transversion of coding
+nt 1487 occurred at a CpG dinucleotide, a known hotspot for
+point mutations (15) and predicted the R496L change in the
+ASM polypeptide. Homoallelism for the R496L mutation
+resulted in the severe neuronopathic type A phenotype, as
+evidenced by proband 1, who had =1% or normal ASM
+activity. It is not known whether the substitution of the basic
+arginine for the more hydrophobic and neutral leucine residue
+altered the enzyme polypeptide catalytic activity, stability, or
+both, because monospecific anti-human ASM antibodies
+useful for immunoblotting are not currently available.
+Of the 17 unrelated Ashkenazi Jewish type A families
+studied, 9 were either homoallelic or heteroallelic for this
+lesion. In this sample, the frequency of the R496L allele was
+32%, indicating that this lesion is an important mutation in
+type A NPD among Ashkenazi Jewish patients. It is likely
+that there is another more frequent mutation or, perhaps,
+multiple mutations, causing type A NPD in Ashkenazi Jewish
+patients. In contrast, analysis of 18 unrelated non-Jewish
+type A patients revealed the presence of the R496L allele in
+only 1 (a frequency of 5.6%). The presence of the R4%L
+allele in this individual may have resulted from an independent mutational event or the occurrence of Jewish ancestors
+in this family.
+One of the two Ashkenazi Jewish type B NPD patients
+studied was heteroallelic for the R4%L mutation. The other
+allele in this Jewish type B patient had a different ASM
+mutation, which presumably resulted in the synthesis of a
+partially functional ASM polypeptide, as this patient had
+-5% residual ASM activity in cultured fibroblasts. The fact
+that none of the 15 non-Jewish type B patients had the R496L
+allele suggests that this allele is extremely rare in type B
+disease outside of the Ashkenazi population. That the R496L
+mutation was not a common polymorphism in the Ashkenazi
+Jewish population was supported by the fact that it was not
+present in 180 ASM alleles analyzed from normal Ashkenazi
+Jewish individuals.
+For the past three decades, the genetic mechanisms responsible for the high frequency of the mutations that cause
+Tay-Sachs disease, Gaucher disease, and NPD in the Ashkenazi Jewish population (gene frequencies of -0.02, 0.02,
+and 0.005, respectively) have been the subject of interest and
+
+Proc. Natl. Acad. Sci. USA 88 (1991)
+
+3751
+
+debate (16-20). Intrigued by the fact that all three of these
+disorders are lysosomal diseases resulting from enzymatic
+defects in the sphingolipid degradative pathway, investigators suggested that there may have been a common selective
+pressure for their high gene frequencies in the Ashkenazi
+Jewish population (20). Others argued that the higher gene
+frequencies in Ashkenazi Jewish individuals could be due to
+higher mutation rates for these genes (16) or founder effect
+and genetic drift (19). The recent identification of the mutations causing these three diseases in the Ashkenazi Jewish
+population has provided insight into this controversy. To
+date, three mutations in the 13-hexosaminidase a chain (localized to chromosomal region 15q23-24) have been identified as the cause of Tay-Sachs disease in almost all Ashkenazi Jewish patients. Two of these mutations result in the
+infantile form, a 4-bp insertion (21) or a splice-site mutation
+(22), which account for -80 and 20% of the mutant alleles,
+respectively. Affected Ashkenazi Jewish patients with the
+less frequent and milder chronic or adult-onset form all have
+been heteroallelic for a point mutation Gly -* Ser at position
+269 (23) and one of the two infantile-onset alleles. Type 1
+Gaucher disease among Ashkenazi Jewish patients results
+from multiple mutations in the acid 83-glucosidase gene (localized to chromosomal region 1q21-q31), the Asn -* Ser (at
+position 370) allele occurring in -75% of the mutant alleles,
+whereas the other 25% include several other lesions (24).
+With the identification of the R4%L mutation causing NPD,
+it appears that in the Ashkenazi Jewish population each of
+these sphingolipidoses results from a common mutation (i.e.,
+-70%o or more of the mutant alleles) and at least one or more
+less frequent mutations in their respective genes. The fact
+that two or more mutant alleles in each gene occur frequently
+in this population argues for selection, rather than for a higher
+mutation rate or founder effect and genetic drift, as the major
+mechanism responsible for their increased frequency. Although it is likely that the major mutation for each disease
+first became established in the Ashkenazi Jewish population
+by founder effect and genetic drift, the finding of two or more
+mutations in each of these genes supports a selective advantage. Because all three disorders involve defects in lysosomal
+enzymes that degrade sphingolipids, it is tempting to suggest
+that a common selective agent, such as resistance to an
+adverse situation (e.g., an infectious disease), could have
+increased the heterozygote frequency by differential survival
+(thus, increased fitness) for individuals heterozygous for each
+of these disorders. Alternatively, heterozygosity for these
+mutations may have been selected for by unrelated pressures
+in the past. Although several hypotheses have been advanced
+(20, 25), the nature of the selective advantages for these
+mutations remains unknown.
+The identification of the R4%L allele and other mutations in.
+the ASM gene in types A and B NPD may provide information
+for genotype-phenotype correlations and permit more accurate
+genetic counseling for newly diagnosed cases in families without a previously affected individual. Identification of other
+mutations, particularly those with residual activity that cause
+type B disease, also may provide structure-function information and may facilitate delineation of the active-site region.
+Previously, the enzymatic detection of heterozygotes for NPD
+types A and B was not sufficiently reliable to permit mass
+voluntary screening in the Ashkenazi Jewish community. Thus,
+the identification of the R496L and other mutations in types A
+and B NPD will permit accurate heterozygote identification in
+families with these lesions as well as heterozygote screening and
+prevention of NPD in the general Ashkenazi Jewish population,
+as has been the prototypic experience with Tay-Sachs disease
+(26). Using molecular techniques, we and others (ref. 27; H.
+Yoo, personal communication) have already demonstrated the
+feasibility of molecular heterozygote screening for Tay-Sachs
+disease in the Ashkenazi Jewish population. The extension of
+
+3752
+
+Genetics: Levran et al.
+
+such molecular screening to include the more common mutations causing Gaucher disease and NPD by the use of multiplex
+PCR should permit the simultaneous screening and prevention
+of all three sphingolipidoses in the Ashkenazi Jewish population.
+We thank our colleagues who provided samples from the NPD
+families. In addition, we acknowledge the expert technical assistance
+of Mr. Constantine Zamfirescu and Ms. Safiana Katz. This work was
+supported by a March of Dimes Basil O'Conner Starter Scholar
+Research Award (5-640), a March of Dimes Basic Research Grant
+(1-1224), and by a grant for the General Clinical Research Center
+(RROO071) from the National Center for Research Resources, National Institutes of Health.
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+
+9.
+10.
+11.
+
+Niemann, A. (1914) Fahrb. Kinderheikd. 79, 1-6.
+Brady, R. O., Kanfer, J. N., Mock, M. B. & Fredrickson,
+D. S. (1966) Proc. Nati. Acad. Sci. USA 55, 366-369.
+Fredrickson, D. S. (1966) in The Metabolic Basis of Inherited
+Disease, eds. Stanbury, J. B., Wyngaarden, J. B. & Fredrickson, D. S. (McGraw-Hill, New York), 2nd Ed., pp. 586-602.
+Spence, M. W. & Callahan, J. E. (1989) in The Metabolic Basis of
+Inherited Disease, eds. Scriver, C. R., Beaudet, A. L., Sly, W. S.
+& Valle, D. (McGraw-Hill, New York), 8th Ed., pp. 1655-1676.
+Goodman, R. M. (1979) Genetic Disorders Among the Jewish
+People (Johns Hopkins Univ. Press, Baltimore), pp. 96-100.
+Quintern, L. E., Schuchman, E. H., Levran, O., Suchi, M.,
+Ferlinz, K., Reinke, H., Sandhoff, K. & Desnick, R. J. (1989)
+EMBO J. 8, 2469-2473.
+Pereira, L., Desnick, R. J., Adler, D., Disteche, C. M. &
+Schuchman, E. H. (1991) Genomics 9, 229-234.
+Bernstein, H. S., Bishop, D. F., Astrin, K. A., Kornreich, R.,
+Eng, C. M., Sakuraba, H. & Desnick, R. J. (1989) J. Clin.
+Invest. 83, 1390-1399.
+Klar, R., Levade, T. & Gatt, S. (1988) Clin. Chim. Acta 176,
+259-268.
+Bishop, D. F. & Desnick, R. J. (1981) J. Biol. Chem. 256,
+1307-1316.
+Sambrook, J., Fritsch, E. F. & Maniatis, T. A. (1989) Molec-
+
+Proc. Natl. Acad. Sci. USA 88 (1991)
+
+12.
+13.
+14.
+
+15.
+
+16.
+17.
+
+18.
+19.
+20.
+21.
+22.
+
+23.
+24.
+25.
+26.
+27.
+
+28.
+
+ular Cloning: A Laboratory Manual (Cold Spring Harbor Lab.,
+Cold Spring Harbor, NY).
+Saiki, R. K., Gelfand, D. H., Stoffel, S., Scharf, S. J., Higuchi,
+R., Horn, G. T., Mullis, K. B. & Erlich, H. A. (1988) Science
+239, 487-491.
+Itakura, K., Rossi, J. J. & Wallace, R. B. (1984) Annu. Rev.
+Biochem. 53, 323-356.
+Sanger, F., Nicklen, J. & Coulson, A. R. (1977) Proc. Natl.
+Acad. Sci. USA 74, 5463-5467.
+Coulondre, C., Miller, J. H., Farabaugh, P. J. & Gilbert, W.
+(1978) Nature (London) 274, 775-780.
+Knudson, A. G. & Kaplan, W. D. (1962) in Cerebral Sphingolipidoses, eds. Aronson, S. M. & Volk, B. W. (Academic,
+New York), pp. 395-411.
+Chase, G. A. & McKusick, V. A. (1972) Am. J. Hum. Genet.
+24, 339-340.
+Myrianthopoulos, N. C., Naylor, A. F. & Aronson, S. M.
+(1972) Am. J. Hum. Genet. 24, 341-342.
+Fraikor, A. L. (1977) Soc. Biol. 24, 117-134.
+Myrianthopoulos, N. C. & Melnick, M. (1977) Prog. Clin. Biol.
+Res. 18, 95-106.
+Myerowitz, R. & Costigan, F. C. (1988) J. Biol. Chem. 263,
+18587-18589.
+Myerowitz, R. (1988) Proc. Natl. Acad. Sci. USA 85, 39553959.
+Navon, R. & Proia, R. L. (1989) Science 243, 1471-1474.
+Tsuji, S., Choudary, P. V., Martin, B. M., Stubblefield, B. K.,
+Mayor, J. A., Barranger, J. A. & Ginns, E. I. (1987) N. Engl.
+J. Med. 316, 570-575.
+Myrianthopoulos, N. C. & Aronson, S. M. (1972) in Advances
+in Experimental Medicine and Biology, eds. Volk, B. W. &
+Aronson, S. M. (Plenum, New York), pp. 561-570.
+Kaback, M. M. (1977) Prog. Clin. Biol. Res. 18, 1-7.
+Riggs-Raine, B. L., Feigenbaum, A. S. J., Natowicz, M., Skomorowski, M., Schuster, S. M., Clarke, J. T. R., Mahuran,
+D. J., Kolodny, E. H. & Gravel, R. A. (1990) N. Engl. J. Med.
+323, 6-12.
+Schuchman, E. H., Suchi, M., Takahashi, T., Sandhoff, K. &
+Desnick, R. J. (1991) J. Biol. Chem., in press.
+
+

@@ -1,0 +1,1656 @@
+ngle Base Mutations in the Human
+Androgen Receptor Gene Causing
+Complete Androgen Insensitivity:
+Rapid Detection by a Modified
+Denaturing Gradient Gel
+lectrophoresis Technique
+
+Alessandra De Bellis*, Charmian A. Quigleyt, Neal F. Cariello,
+Mostafa K. EI-Awady:I:, Madhabananda Sar, Malcolm V. Lane,
+Elizabeth M. Wilson, and Frank S. French
+
+Laboratories for Reproductive Biology
+Departments of Pediatrics (A.D.B., C.A.Q., M.K.E., M.V.L., F.S.F.),
+Pathology (N.F.C.), Cell Biology (M.S.), and Biochemistry/Biophysics
+(E.M.W.)
+University of North Carolina
+Chapel Hill, North Carolina 27599-7500
+
+Mutations of the human androgen receptor (AR)
+gene impair normal sexual differentiation and development in karyotypic males, resulting in a spectrum of external genital phenotypes ranging from
+complete female to nearly complete male. Identification and characterization of these mutations can
+provide valuable information regarding the functional importance of specific amino acids of the AR.
+To screen for point mutations in the AR gene underlying the phenotypic abnormalities in the androgen
+insensitivity syndrome (AIS), the eight exons of the
+AR gene were amplified from genomic DNA using
+the polymerase chain reaction (PCR) and analyzed
+by denaturing gradient gel electrophoresis. A computer program, MELTMAP, was used to identify optimum sequences for denaturing gradient gel electrophoresis, and mutation detection sensitivity was
+enhanced by forming heteroduplexes between control and subject PCR products to create base mismatches. In seven families with complete AIS, single
+base mutations were found in the region of the AR
+gene encoding the steroid-binding domain of the
+receptor. The mutations that converted amino acid
+774 from Arg to His and amino acid 864 from Asp to
+Gly were recreated using site-directed mutagenesis
+and the mutant ARs expressed in COS 7 and CV1
+cells. In both cases, abnormalities of androgen binding and transcriptional activation were consistent
+with the observed sex phenotype. These results
+together with others reported previously demonstrate that single amino acid changes within the
+region encoded by exons D to H of the AR gene can
+
+alter androgen binding and are a common cause of
+complete androgen resistance. The strategy used
+herein, employing denaturing gradient gel analysis
+of heteroduplex PCR products, provides a valuable
+aid to rapid detection of single base mutations in
+AIS. (Molecular Endocrinology 6: 1909-1920, 1992)
+
+INTRODUCTION
+The androgen insensitivity syndrome (AIS) is an Xlinked disorder in which genetic males fail to undergo
+normal fetal masculinization or pubertal virilization (1 ).
+In 46,XY individuals, AIS results in a spectrum of abnormalities in masculine development, the most extreme being the complete female phenotype. Identification of molecular defects underlying the clinical disorders in AIS has recently been the target of extensive
+investigation (2-4). It has become clear that a wide
+variety of androgen receptor (AR) gene mutations underlie the heterogeneity in phenotypic expression of
+AIS. Complete or partial AR gene deletions are an
+uncommon cause of AIS, accounting for up: to 10% of
+cases (5-8). Single base mutations in the coding region
+of the AR gene can result in altered amino acid sequence (4, 9-11 ), introduction of a premature termination codon (3, 12, 13), or altered mRNA splicing (14).
+For rapid detection of single base mutations in the AR
+gene of subjects with complete AIS, we have used a
+strategy based on denaturing gradient gel electrophoresis (DGGE) of DNA fragments amplified from genomic
+DNA by the polymerase chain reaction (PCR).
+The DGGE method is based on the melting properties
+of DNA under denaturing conditions (15). As a DNA
+
+0888-8809/92/1909-1920$03.00/0
+Molecular Endocrinology
+Copyright © 1992 by The Endocrine Society
+
+1909
+
+MOL ENDO· 1992
+1910
+
+fragment migrates through an increasing concentration
+of denaturants (such as formamide and urea), the low
+temperature melting domains within it undergo strand
+separation to produce partially denatured molecules
+with altered electrophoretic mobility. The melting temperature (Tm) of a domain reflects both its base composition and its nucleotide sequence, such that it .can
+be altered by a single base change. DGGE is sensitive
+only to base changes within the low Tm domains; however, melting characteristics of the DNA can be modified
+by the addition of a GC-rich sequence at one end (GC
+clamp) (16). This GC clamp becomes the highest Tm
+domain of the molecule, thus preventing complete
+strand separation and allowing detection of base
+changes throughout the DNA sequence (17, 18). Formation of heteroduplex molecules by combining mutant
+PCR product with wild-type product results in a nucleotide mismatch that enhances the sensitivity of DGGE,
+allowing detection of virtually all single base mutations
+(19). Similarly, heterozygous carriers are readily identified with DGGE analysis by the presence of both mutant
+and wild-type alleles that form heteroduplexes during
+PCR amplification of genomic DNA. Our results highlight the importance of predetermining DNA-melting
+properties by computer analysis and demonstrate the
+utility of heteroduplex analysis in the detection of some
+single base changes.
+Using this strategy, single base mutations were detected in the AR gene of members of seven unrelated
+families with complete AIS. Androgen binding in genital
+skin or testicular fibroblasts was defective in the four
+subjects analyzed; however, immunostaining revealed
+the presence of AR in fibroblast nuclei. Two of the
+mutations found were recreated by site-directed mutagenesis, and the expressed mutant AR proteins were
+defective in androgen binding and transcriptional activation. Identification of naturally occurring mutations in
+the AR gene in AIS provides valuable information regarding the functional importance of specific amino
+acids in the AR.
+
+RESULTS
+Prediction of the Melting Behavior of Amplified AR
+Gene Fragments
+The 11 pairs of oligonucleotide primers used in amplification of the eight exons of the coding region of the AR
+gene are shown in Table 1. Exons 8 through H were
+each amplified using a single pair of primers with sequence derived from the flanking introns (2). The first
+exon (exon A) required four pairs of overlapping primers
+for optimal amplification, due to its large size and the
+presence of repeated sequences. Using the MELTMAP
+program prepared by Lerman and Silverstein (20), melting maps (Tm vs. nucleotide sequence) for each amplified product were used to predict optimal PCR primer
+location and determine gradient conditions for DGGE
+analysis. The addition of a GC-rich sequence (GC-
+
+VUI O l',IU, 11
+
+clamp) to one end of the 5' -oligonucleotide primers
+modified the melting maps, such that all mutations
+within the coding regions were theoretically detectable
+by DGGE (19). Positioning of some primers for PCR
+amplification altered the melting behavior of the PCR
+product. As shown in Fig. 1A, when the 5' -primer for
+amplification of exon D was located at position D1, 135
+basepairs (bp) 5' of the intron-exon junction, the amplified product did not form a sharp band on a denaturing
+gradient gel (Fig. 18). The melting map for this amplification product indicates that the lowest melting domain
+is bounded on either side by regions of higher melting
+temperature (Fig. 1C), a situation known to cause diffuse bands on DGGE (21). However, amplification using
+primer D3 (Fig. 1D) positioned 96 bp closer to the intronexon junction resulted in a single low temperature melting domain (Fig. 1F) and resolution of mutant and wildtype alleles by DGGE (Fig. 1 E).
+
+Identification of AR Gene Mutations
+Agarose gel electrophoresis and ethidium bromide
+staining of amplified AR gene exons from nine subjects
+with complete AIS (including two pairs of affected siblings) revealed no major deletion. To screen for single
+base mutations, amplified exons were further analyzed
+by DGGE. Figure 2A illustrates analysis of exon G from
+two siblings with complete AIS, their mother, and an
+unrelated control (Table 2, subjects 5a and 5b). PCR
+products of the affected siblings (lanes 2 and 3) showed
+altered electrophoretic mobility compared with the control (lane 4). The mother (lane 1), an obligate carrier
+heterozygous for mutant and normal alleles of the AR
+gene, displayed four DNA bands. One band comigrated
+with the normal allele, and a second band with the
+mutant allele of her two affected children. Two upwardshifted bands represent heteroduplexes formed between wild-type and mutant alleles. Heteroduplex formation occurs during PCR when the subject is heterozygous because double stranded DNA products are
+separated and reannealed during thermal cycling, thus
+allowing reassortment of the DNA strands from different
+alleles. These heteroduplexes melt at a higher position
+in the gel because they are destabilized due to the
+single base mismatches in the fragment (19). As shown
+in Fig. 28, sequence analysis of exon G revealed a C
+to T mutation in the two affected siblings, resulting in
+conversion of the codon for Arg 831 (CGA) to a premature
+termination codon (TGA). Sequence numeration is according to Lubahn et al. (22). Their mother showed the
+presence of the normal C and the mutant T at the same
+codon (Fig. 28, left). This single base mutation abolished a cleavage site for the restriction enzyme Csp45
+I. Restriction digest analysis of amplified exon G of
+these subjects and their carrier .mother was used to
+confirm the mutation. Incubation of amplified exon G
+with Csp45 I yielded fragments of 283 and 183 bp from
+control DNA, but only the intact 416-bp product from
+the DNA of the affected subjects. The mother's PCR
+product yielded both the intact 416-bp fragment (mutant
+
+AR Gene Mutations in AIS
+
+1911
+
+Table 1. Oligonucleotide Primers Used in PCR-DGGE Analysis
+Sequence
+
+Exon
+
+A1
+
+Primer
+Location
+
+5'
+
+5' -GCCTGTTGAACTCTTCTGAGC-3'
+5' -GCTGTGAAGGTTGCTGTTCCTC-3'
+
+3'
+
+A2
+
+5' -CACAGGCTACCTGGTCCTGG-3'
+5' -CTGCCTTACACAACTCCTTGGC-3'
+
+5'
+3'
+
+A3
+
+5' -GCTCCCACTTCCTCCAAGGAC-3'
+5' -CGGGTTCTCCAGCTTGATGCG-3'
+
+5'
+3'
+
+A4
+
+5' -CCAGAGTCGCGACTACTACAACTTTCC-3'
+5' -CCAGAACACAGAGTGACTCTGCC-3'
+
+3'
+
+B
+
+5' -GCCTGCAGGTTAATGCTGAAGACC-3'
+5' -CCTAAGTTATTTGATAGGGCCTTGCC-3'
+
+5'
+3'
+
+C
+
+5'-TTATCAGGTCTATCAACTCTTGT-3'
+5' -CTGATGGCCACGTTGCCTATGAA-3'
+
+5'
+3'
+
+D
+
+5' -GATAAA TTCAAGTCTCTCTTCCT-3'
+5' -GATCCCCCTTATCTCA TGCTCCC-3'
+
+5'
+
+E
+
+5'
+
+3'
+
+5'
+
+5' -CAACCCGTCAGTACCCAGACTGACC-3'
+5' -AGCTTCACTGTCACCCCATCACCATC-3'
+
+3'
+
+F
+
+5' -CTCTGGGCTTA TTGGTAAACTTCC-3'
+5' -GTCCAGGAGCTGGCTTTTCCCTA-3'
+
+5'
+3'
+
+G
+
+5' -CTTTCAGATCGGATCCAGCTATCC-3'
+5'-CTCTATCAGGCTGTTCTCCCTGAT-3'
+
+5'
+3'
+
+H
+
+5' -GAGGCCACCTCCTTGTCAACCCTG-3'
+5' -GGAACATGTTCATGACAGACTGTACACTA-3'
+
+5'
+3'
+
+GC-clamp
+
+5' -GCCGCCCGCCGCCGCCCGCCGCGCCGCCCGCCGCCCGCC-3'
+
+Oligonucleotide primers used in PCR-DGGE analysis of the AR gene. Exon A was amplified in four subfragments, designated A 1A4: A 1 = nucleotides 1-427; A2 = nucleotides 384-799; A3 = nucleotides 721-1248; A4 = nucleotides 1148-1753 [numeration
+according to sequence of Lubahn et al. (2)]. Each of the remaining exons was amplified using a single set of intron-located primers.
+Each of the 5' -primers, except that for the A4 fragment, has the 39-bp GC-clamp sequence preceding the AR-specific sequence.
+The primer location is designated as 5' or 3' with respect to its position upstream (5') or downstream (3') of the coding sequence
+of the corresponding exon.
+
+allele) and the normal 283- and 183-bp fragments (not
+shown).
+In another case of complete AIS, the mutation could
+be detected by DGGE only with the use ot heteroduplexes formed by combining mutant and wild-type PCR
+products. Amplified exon E DNA from subject 2a (Fig.
+3, lane 4) showed the same electrophoretic mobility as
+that of the control on a denaturing gradient gel (lane 1).
+However, when amplified exon E DNAs from the affected and control subjects were combined, denatured,
+allowed to reanneal, and analyzed for heteroduplex
+formation, two heteroduplexes were detected (lane 5),
+indicating the presence of a single base mutation. Amplified exon E DNA of the mother of subject 2a exhibited
+heteroduplex bands both when her PCR product was
+hybridized with that of a control subject (lane 3) and
+when the native PCR product was analyzed alone (lane
+2) due to the presence of both the normal and the
+
+mutant alleles of the AR gene in the mother's DNA.
+Using DGGE, seven mutations were localized to exons
+of the AR gene encoding the steroid-binding domain of
+the receptor in individuals with complete AIS and found
+by dideoxy sequencing to be single base changes. The
+results are summarized in Table 2. Heteroduplex analyses of the remaining exons of the AR gene in these
+subjects detected no mutation in any other exon.
+Functional Properties of Mutant Androgen
+Receptors RH774 and DG864
+
+Two of the mutations detected were introduced into
+the wild-type AR cDNA by site-directed mutagenesis to
+examine their effects on AR function. The G to A
+transition in exon F, changing the sense of codon 774
+from Arg (CGC) to His (CAC) (subject 4, RH774), and
+the A to G transition changing codon 864 in exon G
+
+Vol 6 No. 11
+
+MOL ENDO, 1992
+1912
+
+D.
+
+A.
+
+GC-CLAMP
+
+GC-CLAMP
+
+~IMER03
+
+~IMEROI
+
+I
+
+INTRON EXON O
+
+l lNTRON
+
+IN TRON
+
+I EXON O j 1NTRON
+
+PR.I MER 02
+
+2
+
+C.
+
+3
+
+4
+
+PRIMER 02
+
+2
+
+F.
+
+3
+
+4
+
+100
+
+(\
+
+I\
+
+<.)
+0
+
+~ 90
+
+~
+
+::,
+
+!;i
+0::
+
+~ 80
+::E
+
+..
+
+LJJ
+
+1-
+
+I
+70
+
+0
+
+100
+
+200
+
+300
+
+400
+
+"
+
+~
+
+!500 0
+
+100
+
+200
+
+300
+
+400
+
+BASES
+
+Fig. 1. PCR Amplification, DGGE Analysis, and Melting Maps of AR Exon D
+Left, PCR amplification (A) of exon D using 5' GC-clamped primer D1 and 3' -primer D2 produces only long smears on an
+ethidium bromide-stained denaturing gradient gel (B). The melting map for this amplification product (C) shows the presence of an
+internal low temperature melting domain between 60-200 bases bounded by higher melting temperature regions. Right, Amplification
+of exon D using the 5' GC-clamped primer D3 (located 96 nucleotides closer to the intron-exon junction than primer D1) with 3' primer D2 (D) produces sharp bands on DGGE (E). The melting map of the D3-D2 PCR product (F) indicates that the internal low
+temperature domain is no longer present and that the coding region now lies entirely within a single low temperature melting
+domain.
+
+from GAG (Asp) to GGC (Gly) (subject 7, DG864), were
+introduced into the AR cDNA expression vector
+pCMVhAR (23). Mutant cDNAs were transiently expressed in COS 7 and CV1 monkey kidney cell lines. In
+cells expressing mutant RH774, specific androgen binding was present, but was of extremely low affinity, while
+no binding was detectable in cells expressing mutant
+DG864 (Figs. 4 and 5, respectively). lmmunoblot analyses of cells transfected in parallel with those used in
+the binding assays demonstrated similar expression of
+mutant and wild-type AR proteins, indicating that the
+defective androgen binding did not result from altered
+expression of mutant ARs (Figs. 4 and 5, insets). Transcriptional activity of the mutant ARs was tested in CV1
+cells by cotransfection of mutant or wild-type AR
+expression vectors with an androgen-responsive reporter plasmid, pC29GtkCAT, containing two glucocorticoid response elements spaced 29 residues apart and
+linked to the thymidine kinase (tk) promoter and the
+chloramphenicol acetyltransferase (CAT) gene (24). Mutant RH774 induced a low level of CAT activity, but
+only at a supraphysiological androgen concentration of
+
+50 nM methyltrienolone (R1881) (Fig. 4, lower panel),
+while mutant DG864 failed to stimulate CAT activity
+even at 50 nM R1881 (Fig. 5, lower panel). Similar
+results were obtained using testosterone and dihydrotestosterone (not shown). Quantitative measures of
+CAT induction by control and mutant ARs are shown
+in Table 3.
+·
+
+Androgen Binding and Subcellular Localization of
+ARs with Mutations in the Steroid-Binding Domain
+An A to G mutation in exon D of subject 1 resulted in a
+change from Asn (AAT) to Ser (AGT) at amino acid 705
+(Table 2). Cytosine to thymine transitions resulted in
+single amino acid alterations in the AR steroid-binding
+domain of two unrelated subjects (no. 3 and 6) and two
+siblings (no. 5a and 5b) with complete AIS. In exon E
+of subject 3, codon 759 was changed from TCC, encoding serine, to TTC, which encodes phenylalanine; in
+exon G of subjects 5a and 5b, the codon for Arg 831
+(CGA) was converted to a premature termination codon
+(TGA) (Fig. 2); in exon G of subject 6, codon 855 was
+
+AR Gene Mutations in AIS
+
+1913
+
+C!)--n--.---..~D'''
+.
+2
+
+3
+
+4
+
+A.
+
+B.
+
+GATC
+
+GATC
+
+GATC
+
+AA831
+fGA-IGA
+
+Arg-Stop
+Fig. 2. DGGE and Sequence Analysis of Amplified Exon G
+from a Family with Complete AIS
+Ill, 46,XY affected; D, 46,XY control; 0, 46,XX carrier. A,
+Ethidium bromide-stained denaturing gradient gel with 3570% denaturant, showing Ge-clamped PCR products of exon
+G. PCR products of two affected subjects (lanes 2 and 3)
+show altered electrophoretic mobility compared with control
+(lane 4). Amplified exon G of the subjects' mother (lane 1)
+shows both the normal and mutant alleles and two upwardshifted heteroduplex bands that melt at a lower concentration
+of denaturant due to the presence of single base mismatches.
+B, Dideoxy sequencing of exon G PCR products. Control exon
+G sequence is shown on the right, with C at nucleotide 2853
+[numeration per Lubahn et al. (22)]. Exon G sequence of one
+affected sibling (middle) shows T at this position (asterisk).
+DNA sequence of carrier mother (left) displays both C and T
+at this position due to the presence of both the normal and
+the mutant alleles in the PCR-amplified DNA. The C to T
+mutation converts Arg to a termination codon at position 831.
+
+changed from CGC (Arg) to TGC (Cys). Specific high
+affinity androgen binding examined by whole cell binding of [3 H]R1881 in cultured genital skin or testicular
+fibroblasts of these subjects was undetectable over the
+concentration range 0.025-2.5 nM R1881 (not shown).
+Despite the lack of detectable high affinity androgen
+binding, immunoperoxidase staining, using the antibody
+AR32 (to a sequence in the AR N-terminus) (25) demonstrated predominant nuclear localization of AR in
+fibroblasts of all subjects, indistinguishable from that of
+a control fibroblast strain (26) (Fig. 6). In subjects 2a
+and 2b, the A to G mutation at codon 749 in exon E
+changed Met (ATG) to Val (GTG). No androgen binding
+or immunocytochemical data are available for these
+subjects. The nature and location of these mutations
+are summarized in Table 2.
+
+DISCUSSION
+
+The incongruity of a female phenotype in the presence
+of a male genotype has made complete AIS a disorder
+of great fascination for clinicians and biologists. Early
+studies (27, 28) demonstrated that affected subjects
+are resistant to the actions of androgens on target
+tissues. Subsequently, a diversity of abnormalities of
+androgen binding in cultured genital skin fibroblasts of
+affected individuals was described, implicating defects
+of the AR as the basis for this disorder (29-31). Since
+the cloning of the AR cDNA (32) and sequencing of the
+intron-exon boundaries of the gene (2), the molecular
+basis of a number of AR defects has been revealed (214). Analysis of the effects of amino acid changes on
+androgen binding and transactivation should eventually
+help to clarify the importance of specific amino acids in
+the steroid-binding and other domains of the AR. This
+study reports the identification and analysis of single
+base mutations within the region of the AR gene encoding the androgen-binding domain of the receptor in
+seven unrelated families with complete AIS. The application of a modified PCR-DGGE technique to analysis
+of the AR gene facilitated detection of AR gene mutations, allowing rapid identification of mutant exons for
+sequence analysis.
+The effects of an amino acid substitution on receptor
+function and sex phenotype probably reflect both the
+position and the nature of the amino acid substituted.
+Although the three-dimensional structure of the steroidbinding domain remains to be solved, it seems likely
+that certain conserved amino acids are located within
+or near the steroid-binding sequence, while others remote from the active site are essential for its correct
+folding. In this study, single base mutations were detected in exons D, E, F, and G, encoding the major
+portion of the androgen-binding domain of the AR.
+Androgen binding data are available for six of the seven
+mutations. In all cases, specific high affinity androgen
+binding, either in cultured genital skin or testicular fibroblasts or in COS 7 cells transfected with the recreated
+mutant, was negligible or absent. Five of the seven
+mutations described herein (subjects 1, 4, 5a, 5b, 6,
+and 7) occurred at moderately to highly conserved sites
+within the subfamily that includes the progesterone,
+glucocorticoid, mineralocorticoid, and androgen receptors (PR, GR, MR, and AR, respectively). The A to G
+mutation detected in exon D of subject 1 converted
+Asn to Ser at amino acid 705 and was associated with
+the complete absence of high affinity androgen binding
+in genital skin fibroblasts. Asn 705 , a conserved residue
+in PR, GR, and MR, is situated up-stream of the conserved 23-amino acid region (residues 715-737 in AR)
+(22) shown to be crucial for ligand binding by the human
+estrogen receptor (ER) and GR (33-35) and suggested
+as a possible site of interaction of the 90-kDa heat
+shock protein (22). The amino-terminal extent of the
+ligand-binding domain of the AR has not been yet
+established; however, the complete loss of androgen
+binding in this mutant suggests that Asn 705 is either a
+
+MOL ENDO· 1992
+1914
+
+Vol 6 No.11
+
+Table 2. Mutations in the AR Gene in Subjects with Complete AIS
+Subject
+
+Exon
+
+Base No.
+
+Base Change
+
+Codon
+
+2a, 2b
+3
+4
+5a, 5b
+6
+7
+
+D
+E
+E
+F
+G
+G
+G
+
+2476
+2607
+2638
+2683
+2853
+2925
+2953
+
+AtoG
+A toG
+C to T
+G to A
+C to T
+C to T
+A to G
+
+705
+749
+759
+774
+831
+855
+864
+
+Amino Acid
+Change
+
+Amino Acid
+Conserved in
+
+Asn to Ser
+Met to Val
+Ser to Phe
+Arg to His
+Arg to Stop
+Arg to Cys
+Asp to Gly
+
+PR, GR, MR
+MR
+PR,GR
+PR, GR, MR
+PR, GR, MR
+PR, GR, MR
+
+Point mutations detected by DGGE and confirmed by sequence analysis. The location and nature of the base mutation and
+corresponding amino acid change are shown. The last column lists members of the steroid receptor family in which this amino acid
+is conserved.
+
+2
+
+3
+
+4
+
+5
+
+] Heteroduplex
+- Homoduplex
+
+Fig. 3. Homoduplex and Heteroduplex DGGE Analysis of
+Amplified Exon E
+Ethidium bromide-stained denaturing gradient gel with 4575% denaturant, showing GC-clamped PCR products from
+family 2 with complete AIS (Table 2). Amplified DNA from
+subject 2a (lane 4) shows the same electrophoretic mobility
+as control (lane 1). By mixing control and subject 2a PCR
+products, as described in Materials and Methods, heteroduplexes are formed (lane 5, upper bands), indicating the presence of a single base difference between subject and control
+DNA. Since the mother has both the normal and the mutant
+alleles, heteroduplexes form in both the absence (lane 2) and
+the presence (lane 3) of control DNA.
+
+component of the AR steroid-binding site or that it
+contributes to the three-dimensional structure of the
+binding site. There is also evidence from other studies
+that amino acids encoded by the 3' -region of exon D
+are important for steroid binding. Ris-Stalpers et al. (11)
+reported different mutations at Asp 695 in two unrelated
+families. Conversion of negatively charged Asp to neutral Asn increased the thermolability of binding, while
+conversion to His, which may be neutral or positively
+charged, markedly decreased androgen-binding affinity.
+Mutations at nonconserved sites may also have profound effects on functional activity depending on the
+nature of the amino acid change. For example, the Met
+to Val substitution resulting from the A to G mutation
+in codon 749 in exon E (subjects 2a and 2b) is a
+conservative change with respect to hydrophobicity, at
+a nonconserved site, yet resulted in complete androgen
+resistance. Met7 49 is conserved across species in the
+AR, being present in human, rat, and mouse AR, while
+Leu, another hydrophobic amino acid, is present in ER,
+GR, PR, and MR. The uniqueness of Met7 49 to AR
+
+suggests that a property peculiar to Met in this position
+could be particularly important for the ligand-binding
+specificity of AR. Similarly, the C to T mutation identified
+in codon 759 in exon E of subject 3, changing Ser to
+Phe, also occurs at a site not highly conserved among
+the steroid receptors. However, replacement of the
+polar Ser with Phe, a hydrophobic aromatic amino acid,
+resulted in the complete loss of androgen binding.
+To confirm that the mutations identified were capable
+of causing the observed androgen resistance, the functional properties of two mutant ARs were examined in
+cultured mammalian cells after recreation of the mutations by PCR mutagenesis. Mutant RH77 4, caused by
+a G to A transition in exon F (subject 4), had extremely
+low binding affinity for [ 3 H]R1881. Correspondingly, it
+mediated a low level of androgen-induced transcriptional activation only at supraphysiological concentrations of androgen. It is noteworthy that seven other
+unrelated subjects with complete AIS have been reported to have mutations at Arg 774 (4, 1 O, 36, 37). In
+five cases, Arg was mutated to Cys (4, 10, 36, 37), and
+in two, it was mutated to His (36). Conversion of Arg 774
+to Cys was associated with complete absence of androgen binding, lack of transcriptional activity in cotransfection assays, and the phenotype of complete
+AIS. In one study, genital skin fibroblasts of an affected
+subject with this mutation were reported to have reduced AR mRNA levels (1 O); however, in other studies,
+substitutions of Arg 774 with Cys or His were associated
+with normal mRNA levels (4, 36). In contrast to the Arg
+to Cys substitution, conversion of Arg 774 to His does
+not abolish androgen binding; in the study by Prior et
+al. (36), the genital skin fibroblasts of one subject with
+the Arg-His substitution demonstrated androgen binding of reduced affinity and increased thermolability. The
+relatively conservative nature of the Arg to His amino
+acid change probably explains the retention of low level
+transactivation at supraphysiological androgen concentrations in both the present study and the earlier report
+(36).
+Single nucleotide substitutions have also been reported repeatedly at the codons for Arg 831 (CGA) (4,
+38) and Arg 855 (CGC) (39, 40). The C-T mutation identified in exon G of subjects 5a and 5b replaced Arg 831
+with a premature termination codon, predicting a trun-
+
+1915
+
+AR Gene Mutations in AIS
+
+0.14
+
+0.14
+50
+
+•
+
+0.12
+0.1
+
+• Control
+• RH774
+
+•
+
+40
+30
+
+20
+
+a,
+a,
+
+.----------
+
+0.1
+
+00
+
+=oC
+
+•
+
+~ 0.06
+al
+
+'
+
+'
+
+R1881 (nM)
+
+10
+
+20
+
+0
+
+2
+
+R1881
+(nM)
+
+-
+
+30
+
+40
+50
+60
+Bound (fmol)
+
+3
+
+0.01
+Control
+
+4
+
+50
+
+5
+
+70
+
+6
+
+80
+
+7
+
+s
+
+90
+
+10,
+
+'R1881 (nM)•
+
+00
+
+LL 0.08
+
+=oC
+
+6
+
+•
+Kd= 0.7 nM
+
+100
+
+0
+
+Con. DG864
+
+0
+
+10
+
+8
+
+50
+- 0.01
+~
+-----~
+RH774
+
+10
+
+•
+
+0.02
+
+RH774
+
+•
+
+I"
+1!'°
+20
+
+0.04
+
+0.02
+0
+
+10
+
+6
+
+•
+
+0.04
+
+• •
+
+•
+
+~ 0.06
+al
+
+'\J= 0.7 nM
+
+_5-0
+
+• Control
+• DG864
+
+a,
+a,
+
+10 • .,,-
+
+LL o.08
+
+•
+
+0.12
+
+20
+
+2
+
+R1881
+(nM)
+
+-
+
+60
+40
+50
+Bound (fmol)
+
+30
+
+3
+
+0.01
+Control
+
+80
+
+70
+
+4
+
+5
+
+6
+
+50
+
+-
+
+0.01
+
+7
+
+90
+
+100
+
+8
+
+50
+
+DG864
+
+Fig. 4. Functional Analysis of Mutant RH774 (Subject 4)
+Upper panel, Scatchard analysis and saturation curve (top
+right) of [ 3 H]R1881 binding in COS 7 cells transfected with
+control (wild-type) or mutant RH774 AR cDNA expression
+vectors demonstrate that the mutant receptor binds with extremely low affinity. The data points represent specific binding
+(femtomoles) per 105 cells plated. Inset, lmmunoblots of COS
+7 cells transfected with control or mutant AR cDNA vectors
+demonstrate similar levels of receptor expression. lmmunoblots were performed using polyclonal antibody AR 52 (56).
+Lower panel, Induction of CAT activity by control (lanes 1-4)
+and mutant RH774 (lanes 5-8) ARs. CV1 cells were cotransfected with control or mutant AR cDNA expression vectors
+and the reporter plasmid pC29GtkCAT, as described in Materials and Methods. Cells were incubated for 48 h in the
+absence (-) or presence of R1881 (0.01, 1.0, and 50 nM),
+harvested, and assayed for CAT activity. Control AR shows
+androgen-dependent activation of CAT, detectable at 0.01 nM
+R1881, while mutant RH774 shows only a low level of transcriptional activity at 50 nM R1881. See Table 3 for quantitation
+of CAT activity.
+
+Fig. 5. Functional Analysis of Mutant DG864 (Subject 7)
+Upper panel, Scatchard analysis and saturation curve (top
+right) of [3 H]R1881 binding in COS 7 cells transfected with
+control (wild-type) or mutant DG864 AR cDNA expression
+vectors demonstrate that the mutant receptor has complete
+absence of androgen binding. The data points represent specific binding (femtomoles) per 105 cells plated. Inset, lmmunoblots of extracts of COS 7 cells transfected with control or
+mutant AR cDNA vectors demonstrate equivalent levels of
+receptor expression. lmmunoblots were performed using polyclonal antibody AR 52 (56). Lower panel, Induction of CAT
+activity by control (lanes 1-4) and mutant DG864 (lanes 5-8)
+ARs. CV1 cells were cotransfected with control or mutant AR
+cDNA expression vectors and the reporter plasmid
+pC29GtkCAT, as described in Materials and Methods. Cells
+were incubated for 48 h in the absence (-) or presence of
+R1881 (0.01, 1.0, and 50 nM), harvested, and assayed for
+CAT activity. Control AR shows androgen-dependent activation of CAT, detectable at 0.01 nM R1881, while mutant DG864
+shows no transcriptional activity at any concentration of
+R1881. See Table 3 for quantitation of CAT activity.
+
+cation of the receptor protein. Not surprisingly, all mutations introducing premature stop codons into the AR
+gene reported so far have been associated with the
+phenotype of complete AIS and the total absence of
+androgen binding in cultured genital skin fibroblasts (3,
+12, 13). In some of these cases, the receptor protein
+may be expressed only at very low levels or not at all.
+Studies of the testicular feminized (Tfm) mouse demonstrated that introduction of a stop codon into the AR
+gene, causing termination of translation in the N-terminal region, resulted in rapid degradation of AR mRNA
+and, consequently, a low level of receptor protein (41,
+42). In contrast, Marcelli et al. (13) demonstrated a
+normal AR mRNA level in genital skin fibroblasts of a
+subject with complete AIS whose AR gene contained a
+premature termination codon at residue 796 in exon F.
+
+This suggested that truncation of the AR protein, rather
+than decreased AR protein levels, was likely to be the
+principal alteration in this subject. Thus, the location of
+the premature translation termination site may determine its effect on mRNA stability; such codons occurring relatively 3' in the message may be compatible
+with protein production. Interestingly, immunocytochemical studies in cultured genital fibroblasts from our
+subject with premature termination at codon 831, demonstrated nuclear staining similar to the control, suggesting that a truncated AR (presumably lacking Cterminal amino acids 831-919) was expressed. In vitro
+mutagenesis studies have demonstrated that deletion
+of the entire steroid-binding domain results in a nuclear
+AR with a low level of constitutive transcriptional activity
+(23); however, association of the Arg 831 to Stop muta-
+
+Vol 6 No. 11
+
+MOL ENDO, 1992
+1916
+
+Table 3. Fold Induction of CAT Activity by Normal and
+Mutant ARs in the Presence of R1881
+R1881 {nM)
+
+AR
+Control
+RH774
+DG864
+
+0.01
+
+50
+
+8.6 ± 0.3
+1.4±0.1
+1.4 ± 0.2
+
+27.8 ± 1.6
+10.8±1.7
+1.0 ± 0.3
+
+23.3 ± 4.6
+3.0 ± 0.9
+1.0±0.1
+
+Transcriptional activity of the recreated mutant ARs was examined by contransfection of the control or mutant vector,
+with the androgen-responsive reporter plasmid pC29GtkCAT,
+in the presence of 0, 0.01, 1, and 50 nM R1881. Quantitative
+evaluation of CAT activity was performed by cutting the areas
+containing the acetylated and nonacetylated chloramphenicol
+out of the chromatography plates and counting in scintillation
+liquid. Fold induction was calculated for control and mutant
+ARs at each androgen concentration. Values represent the
+mean and SE of three experiments.
+
+CONTROL - antibody AR32
+
+CONTROL - peptide absorbed
+
+SUBJECT 3
+
+SUBJECT 5a
+
+Fig. 6. lmmunocytochemical Localization of AR in Cultured
+Genital Skin Fibroblasts
+Cultured genital skin fibroblasts from control and subjects
+with complete AIS were incubated with R1881, fixed, treated
+with 2 µg/ml antibody AR32, and stained by the avidin-biotinperoxidase method. Upper panels, Control fibroblasts show
+antibody-bound AR concentrated in cell nuclei. This staining is
+abolished by incubation of cells with immunoglobulin G preabsorbed with AR peptide (right). Lower panels, Nuclear staining
+similar to control is seen in fibroblasts from subject 3, who has
+Ser to Phe conversion due to C to T mutation in exon E (left),
+and subject 5a, who has a C to T mutation in exon G, resulting
+in conversion of Arg 831 to a premature termination codon.
+
+tion with a complete female phenotype suggests that
+the truncated AR is devoid of constitutive activity in
+vivo. While it is possible that such a truncated AR with
+weak constitutive activity could be found in a subject
+with AIS, none has been reported thus far.
+The Arg to Cys substitution at amino acid 855 (subject 6) resulting from a C to T mutation in exon G
+illustrates the importance of the nature of the amino
+acid change to receptor function. Conversion of Arg to
+
+Cys at this location was associated with the absence
+of high affinity androgen binding in genital skin fibroblasts and the phenotype of complete AIS. In contrast,
+conversion of this Arg residue to His in two unrelated
+subjects resulted in partial masculinization (39, 40). The
+subject reported by Chang et al. (39) had normal androgen-binding capacity, but decreased binding affinity,
+and Patterson et al. (40) found reduced affinity and
+increased thermolability of androgen binding in genital
+skin fibroblasts of two siblings with severe perineoscrotal hypospadias, micropenis, and bilateral cryptorchidism. It appears likely that the relatively conservative
+nature of the Arg to His conversion compared with the
+Arg to Cys change accounts for the difference in severity of the defect in androgen binding and functional
+activity between the mutations reported previously and
+that described in this study.
+Conversion of Asp to Gly at amino acid 864 (subject
+7, DG864), resulting from an A to G mutation in exon
+G, is also associated with the complete loss of androgen
+binding and transactivation activity. Both Asp 864 and
+Arg 855 are conserved in the homologous positions of
+GR, PR, and MR, and Arg 855 is also conserved at the
+homologous residues in ER, chicken ovalbumin upstream promoter (COUP), estrogen-related receptor
+(ERR), and other members of the steroid receptor superfamily. These amino acids lie in a hydrophobic subregion of the steroid-binding domain (amino acids 853887 in AR) shown in mouse ER (43) to be critical for
+receptor dimerization, a function intimately involved
+with DNA binding and essential for transcriptional activity. Thus, failure of receptor dimerization may contribute
+to the complete lack of functional activity resulting from
+mutations at these sites.
+Arginines at positions 774, 831, and 855 are conserved within the AR, GR, and PR subfamily of steroid
+receptors (4), suggesting that they are critical to the
+structural or functional integrity of the steroid-binding
+domain, but probably not to binding specificity. The
+recurrent nature of the mutations detected in these
+arginine codons (CGC or CGA) may be related to the
+presence of CpG doublets, which are potential recognition sites for DNA methylase. Methylation increases
+the rate of oxidative deamination of cytosine to thymine
+(44, 45), a product that the cell does not recognize the
+need to repair. In keeping with this, all mutations detected in these Arg codons have been C to T or G to A
+(C to T on the antisense strand) transitions. CpG dinucleotides have previously been reported to be mutational "hot spots" in other genes [e.g. factor VIII (46)].
+It is, however, intriguing to note that despite the large
+number of CpG doublets in exon A, only one mutation
+has been reported to date in this exon (47). The reason
+for this is unclear, but a number of possible explanations
+exist. One may be that for some sequence-specific
+reason, CpG doublets in this region are less subject to
+methylation; alternatively, it is possible that mutations
+in this region may be occurring with a frequency equal
+to those elsewhere, but producing neutral substitutions,
+amino acid changes that do not affect protein activity.
+
+AR Gene Mutations in AIS
+
+In support of this, it has already been established that
+certain regions of homopolymeric amino acids in the Nterminus are highly polymorphic (2, 3), suggesting that
+some variability in protein structure is tolerated within
+this region. Extensive investigations of a large number
+of normal and AIS-affected subjects are needed to
+clarify this point.
+These studies demonstrate that denaturing gradient
+gel electrophoresis of genomic DNA amplified by PCR
+is a valuable tool for rapid screening of the AR gene for
+the presence of point mutations, since it minimizes the
+necessity for sequencing all exons of the gene in early
+stages of characterizing mutations. This study also
+highlights the critical importance of specific aspects of
+this procedure. Calculation of the melting map for each
+exon amplification product allows the design of PCR
+primers that generate products suitable for DGGE
+analysis. Heteroduplex formation increases the sensitivity of mutation detection. The heteroduplex method
+originally described made use of radiolabeled control
+DNA as probe (48); however, we found, using simple
+solution hybridization of subject and control DNA, that
+ethidium bromide staining of the gel permits excellent
+visualization of the DNA bands. Direct sequencing of
+single stranded DNA after asymmetric PCR without an
+additional cloning step increases the simplicity and
+speed with which single base mutations can be identified. All mutations identified in this study were transitions (A to G, G to A; C to T, T to C), consistent with
+data from other investigators (2, 4, 10, 12, 13) and with
+the evidence that transitions (from purine to purine or
+pyrimidine to pyrimidine) are the most common type of
+mutation (49). Although there is evidence that conservative transversions, such as G to C, cannot be detected
+by DGGE when homoduplex DNA is examined (50), it
+has been shown that analysis of heteroduplex GCclamped PCR products allows detection of all mutations, including conservative transversions (51 ). Analysis of the AR gene in a larger number of individuals with
+AIS will provide further insights into the structural and
+functional organization of the AR and eventually enable
+mapping of key amino acids in the different domains of
+the AR.
+
+MATERIALS AND METHODS
+Subjects
+
+The nine subjects from seven families evaluated in this study
+comprised five unrelated individuals and two pairs of siblings.
+All had 46,XY karyotype, complete female external genitalia,
+and physical and hormonal features were consistent with the
+diagnosis of complete AIS. Ages ranged from 2 months to 22
+yr. Postpubertal patients had normal breast development at
+puberty, but lacked axillary and pubic hair. Informed written
+consent for genital skin biopsy, testicular biopsy, and/or blood
+samples was obtained, and the study was approved by the
+local institutional review committee.
+Calculation of the Melting Map of the PCR-Amplified DNA
+
+To predict the melting behavior of each amplified product,
+computer analysis was performed using the MELTMAP com-
+
+1917
+
+puter program (20). For each PCR-amplified exon, the sequence of the whole product, comprising exon and flanking
+intron sequences to the end of amplification primers and 5'
+GC-clamp, was analyzed.
+Preparation of Samples for DGGE
+
+Genomic DNA was extracted from blood leukocytes by standard methods. Approximately 0.5-1.0 µg genomic DNA was
+amplified in each 50-µI PCR reaction, using conditions previously described (2). Primers used in the amplification of exons
+B to H were initially those reported by Lubahn et al. (2), with
+the addition of a 39-bp GC-clamp, as shown in Table 1, to the
+5' -end of the human AR-specific 5' -primer sequence. However, after initial experiments, detailed in Results, the locations
+of the 5 '-primers for exons C and D were moved 100 and 96
+bp closer to the intron-exon junctions of their respective exons.
+The AR-specific sequences of all primers used in the remainder
+of the study are provided in Table 1. Amplification conditions
+for exon A were also modified from those used previously.
+The 5'-region of exon A from nucleotides 1-1248 [numeration
+according to the sequence of Lubahn et al. (2)] was amplified
+in three subfragments (A 1, A2, and A3) using the first three
+sets of overlapping primers, as reported previously (2) and
+shown in Table 1, with the addition of the 5' GC-clamp, as
+described above. In the 3' -region of exon A (fragment A4),
+PCR amplification was performed without addition of the GCclamp to the primer, since the high GC content of this region
+of the exon acted as a clamp. Reactions were performed in a
+thermal cycler (Perkin Elmer Corp., Norwalk, CT), as previously
+described (2). A 5-µI aliquot of each PCR reaction was electrophoresed in 1% agarose and examined by ethidium bromide
+staining to confirm the presence of the appropriate-sized product. Amplified DNA products were subsequently electrophoresed on a denaturing gradient gel. To form heteroduplexes,
+approximately equal amounts of amplified subject and control
+DNA (as judged from the agarose gel) were combined in the
+presence of 50 mM EDTA, and the mixture was denatured for
+10 min at 95 C and allowed to reanneal by slow cooling to
+room temperature.
+Denaturing Gradient Gel Electrophoresis
+
+Electrophoresis of the amplified DNA (5-10 µI) was carried out
+using a denaturing gradient gel apparatus (Green Mountain
+Lab Supply, Waltham, MA), as previously described (15). Preparation of denaturing gradient gels was performed as reported
+previously (50). Briefly, homoduplex or heteroduplex DNA
+samples were electrophoresed on a 6.5% polyacrylamide gel
+with a linearly increasing gradient of denaturants formamide
+and urea at 60 C for 12-17 h. The ranges of denaturant
+concentration were determined on the basis of calculations
+from the melting maps and were as follows: exons B, G, and
+H, 30-60% denaturant gradient (100% denaturant is 40%
+formamide/7 M urea); exons C and F, 35-70%; exons D and
+E, 45-75%; exon A, fragment A1, 40-80%; exon A, fragments
+A2 and A3, 35-70%; and exon A, fragment A4, 30-60%
+gradient. After electrophoresis, the gels were stained in ethidium bromide and photographed under UV light. As a positive
+control for the ability of the method to detect single base
+changes, a known mutant DNA was analyzed with each set
+of samples.
+Generation of single stranded DNA and nucleotide
+sequencing
+
+In cases where altered electrophoretic mobility was demonstrated on DGGE, single stranded DNA was subsequently
+prepared for direct sequencing. Initial exon-specific amplification was performed using standard conditions and PCR
+primers without addition of the GC-clamp. Single stranded
+DNA was generated by asymmetric PCR by modification of
+
+Vol 6 No. 11
+
+MOL ENDO· ·1992
+1918
+
+methods previously described (52). One microliter of the initial
+PCR product was used as template DNA, with a primer ratio
+of 100:1 (excess primer/limiting primer). The reaction was
+performed under standard conditions, except that 40-45
+cycles were used to generate sufficient amounts of single
+stranded DNA for sequencing. Amplified DNA products were
+separated from oligonucleotide primers using Centricon microconcentrators (Amicon, Beverly, MA), as previously described
+(52). Approximately 10-20 µI purified concentrated PCR product were dried and resuspended in buffer containing 20 mM
+MgCl2, 50 mM NaCl, 40 µM Tris (pH 7.5), and 2 µM sequencing
+primer (the same as the limiting primer in the PCR reaction) in
+a total volume of 1O µI. After annealing at 65 C for 2 min,
+dideoxy sequencing was performed using the Sequenase kit
+(U.S. Biochemical Corp., Cleveland, OH). Mutations were confirmed by sequencing templates derived from two or more
+independent PCR reactions.
+
+Site-Directed Mutagenesis
+Two single base mutations detected by DGGE, the G-A transition in exon F converting Arg 774 to His (RH774) and the A-G
+transition in exon G changing Asp864 to Gly (DG864), were
+recreated by site-directed mutagenesis, using a modification
+(23) of the PCR technique previously described (53, 54). The
+pCMVhAR expression vector (23) containing the full coding
+sequence of human AR was used as starting DNA in mutagenesis. Oligonucleotide primers containing the desired single
+base substitution were designed in the sense and antisense
+orientations. Two separate PCR reactions were performed,
+each using one of the primers containing the mutation and a
+second up-stream or down-stream primer as appropriate. The
+PCR products were purified, combined, denatured, annealed,
+and used as template in the second stage PCR using the two
+outside primers. The mutant product was digested with the
+appropriate enzymes and cloned back into pCMVhAR for
+subsequent use in functional analysis. The enzymes used were
+Kpnl (Bethesda Research Laboratories, Gaithersburg, MD)
+and Csp45 I (Promega, Madison, WI) for mutant RH 774, and
+Kpnl and Xbal (Bethesda Research Laboratories) for mutant
+DG864. PCR-generated fragments were sequenced to confirm
+the presence of the mutation and to exclude PCR misincorporation.
+
+Analysis of Functional Properties of Mutant Receptors
+For androgen binding studies and immunoblot analysis, COS
+7 cells (American Type Culture Collection, Rockville, MD) were
+plated in 24-well culture plates (100,000 cells/well) or 10-cm
+dishes (1.3 x 106 cells/dish), respectively, and grown in Dulbecco's Modified Essential Medium-High glucose (DMEM-H;
+Gibco-Bethesda Research Laboratories) supplemented with
+5% bovine calf serum (HyClone, Logan, UT), antibiotics, and
+20 mM HEPES, pH 7.2. The next day, cells were transfected
+with 1 µg/well or 10 µg/dish wild-type (pCMVhAR) or mutant
+AR cDNA expression vectors, using the diethylamino-ethyldextran method (55). For immunoblots, cells were harvested
+after a further 48 h, and approximately 150 µg protein (one
+quarter of the total lysate from one dish) were electrophoresed
+in an 8% acrylamide gel. Whole cell androgen binding assays
+and immunoblot analyses using the polyclonal antibody AR 52
+were performed, as previously described (55, 56).
+For measurement of AR transcriptional activation, monkey
+kidney CV1 cells (American Type Culture Collection) were
+plated in 10-cm dishes at 1 .3 x 106 cells/dish and grown in
+DMEM-H supplemented as described above. After 24 h, cells
+were transfected with 1 µg wild-type or mutant AR vector
+using the calcium phosphate precipitation procedure (55). The
+cotransfected reporter plasmid pC29GtkCAT (10 µg) contained two glucocorticoid response elements spaced 29 bp
+apart and located 5' of the tk promoter and the CAT gene
+(24). Cells were incubated in medium containing 0.2% fetal
+calf serum with or without 0.01, 1, and 50 nM R1881. Forty-
+
+eight hours after transfection, cells were harvested in PBS and
+analyzed for CAT activity, as previously described (23). The
+acetylated and nonacetylated forms of [ 14 C]chloramphenicol
+were separated by TLC, and the plate was exposed to x-ray
+film. To quantitate the activation of CAT, the regions of the
+TLC plates containing the acetylated and nonacetylated chloramphenicol were cut out of the plate and counted in scintillation liquid. Calculation of the fold induction of CAT activity was
+performed as previously described (7).
+
+Culture and Analysis of Genital Skin or Testicular
+Fibroblasts
+Fibroblasts established from genital skin or testicular biopsies
+were grown in DMEM-H containing 10% bovine calf serum,
+2.0 mM L-glutamine, 20 mM HEPES buffer, 100 U/ml penicillin,
+and 100 µg/ml streptomycin. For androgen binding studies,
+genital skin or testicular fibroblasts were grown to confluence
+in 10-cm dishes and changed to serum-free medium (phenol
+red-free DMEM-H) on the day before the assay. Cells were
+incubated with different concentrations (0.025-2.5 nM) of the
+synthetic nonmetabolizable androgen [3 H]R1881 in the presence or absence of a 100-fold excess of unlabeled R1881 at
+37 C for 2 h. The cells were washed twice in PBS and
+harvested in 1% sodium dodecyl sulfate. Total radioactivity
+was determined in a scintillation counter, and Scatchard analysis was performed after correction for nonspecific binding. For
+immunocytochemical studies, cultured genital fibroblasts from
+subjects 1, 3, 5, and 6 and a normal foreskin fibroblast cell
+strain (26) were plated into two-chamber slides at a density of
+approximately 30,000 cells/chamber. After 48 h, the medium
+was changed to serum-free, phenol red-free medium with or
+without the addition of a saturating concentration of R1881
+(50 nM). Cells were grown for an additional 24 h; washed in
+PBS; fixed in 2% paraformaldehyde, 10% sucrose, and 0.1 M
+sodium phosphate; treated with 2 µg/ml of the primary immunoglobulin G fraction of AR 32 (25); and stained as previously
+described (57).
+
+Acknowledgments
+We thank Dr. Jacqueline T. Hecht, Department of Pediatrics,
+Health Science Center, University of Texas (Houston, TX); Dr.
+Giuseppe Novelli and Prof. Bruno Dallapiccola, Department of
+Public Health and Cellular Biology, University of Rome (Rome,
+Italy); Dr. Pierluigi Giorgi, Department of Pediatrics, University
+of Ancona (Ancona, Italy); Dr. Felipe Vilchis and Prof. Gregorio
+Perez-Palacios, Department of Reproductive Biology, National
+Institute of Nutrition S. Zubiran (Mexico City, Mexico); Dr.
+Richard Azizkhan, Department of Surgery, University of North
+Carolina (Chapel Hill, NC); and Dr. Bronwen A. J. Evans,
+Department of Child Health, University of Wales College of
+Medicine (Heath Park, Cardiff, United Kingdom), who referred
+subjects with complete AIS.
+
+Received April 10, 1992. Revision received August 21,
+1992. Accepted August 31, 1992.
+
+Address requests for reprints to: Dr. Frank S. French,
+Laboratories for Reproductive Biology, CB 7500 MacNider
+Building, University of North Carolina, Chapel Hill, North
+Carolina 27599-7500.
+This work was supported by NIH Grants HD-04466 and
+HD-18968 (DNA, Histochemistry, and Tissue Culture Cores)
+and Grant FY91-0195 from the March of Dimes Birth Defects
+Foundation.
+* Recipient of a Research Fellowship in Endocrine and Metabolic Sciences from the University of Florence, Italy.
+t Recipient of a Medical Foundation Medical Research Fellowship from the Postgraduate Committee in Medicine, Uni-
+
+AR Gene Mutations in AIS
+
+versity of Sydney, Australia, and holder of the Genentech
+Clinical Scholar Award from the Lawson Wilkins Pediatric
+Endocrine Society, 1991-1993.
+t Recipient of a Rockefeller Biotechnology Career Fellowship.
+
+REFERENCES
+1. Griffin JE, Wilson JD 1989 The androgen resistance syndromes: 5a-reductase deficiency, testicular feminization,
+and related disorders. In: Scriver CR, Beaudet AL, Sly
+WS, Valle D (eds) The Metabolic Basis of Inherited Disease, ed 6. McGraw-Hill, New York, pp 1919-1944
+2. Lubahn DB, Brown TR, Simental JA, Higgs HN, Migeon
+CJ, Wilson EM, French FS 1989 Sequence of the intron/
+exon junctions of the coding region of the human androgen receptor gene and identification of a point mutation
+in a family with complete androgen insensitivity. Proc Natl
+Acad Sci USA 86:9534-9538
+3. Marcelli M, Tilley WD, Wilson CM, Griffin JE, Wilson JD,
+McPhaul MJ 1990 Definition of the human androgen receptor gene structure permits the identification of mutations that cause androgen resistance: premature termination of the receptor protein at amino acid residue 588
+causes complete androgen resistance. Mal Endocrinol
+4:1105-1116
+4. Brown TR, Lubahn DB, Wilson EM, French FS, Migeon
+CJ, Gorden JL 1990 Functional characterization of naturally occurring mutant androgen receptors from subjects
+with complete androgen insensitivity. Mal Endocrinol
+4:1759-1772
+5. Trifiro M, Gottlieb B, Pinsky L, Kaufman M, Prior L,
+Belsham DD, Wrogemann K, Brown CJ, Willard HF, Trapman J, Brinkmann AO, Chang C, Liao S, Sergovich F,
+Jung J 1991 The 56/58 kDa androgen-binding protein in
+male genital skin fibroblasts with a deleted androgen
+receptor gene. Mal Cell Endocrinol 75:37-47
+6. Quigley CA, Friedman KJ, Johnson A, Lafreniere RG,
+Silverman LM, Lubahn DB, Brown TR, Wilson EM, Willard
+HF, French FS 1992 Complete deletion of the androgen
+receptor gene: definition of the null phenotype of the
+androgen insensitivity syndrome and determination of carrier status. J Clin Endocrinol Metab 74:927-933
+7. Quigley CA, Evans BAJ, Simental JA, Marschke KB, Sar
+M, Lubahn DB, Davies P, Hughes IA, Wilson EM, French
+FS 1992 Complete androgen insensitivity due to deletion
+of exon C of the androgen receptor gene highlights the
+functional importance of the second zinc finger of the
+androgen receptor in vivo. Mal Endocrinol 6: 1103-1112
+8. Brown TR, Lubahn DB, Wilson EM, Joseph DR, French
+FS, Migeon CJ 1988 Deletion of the steroid-binding domain of the human androgen receptor gene in one family
+with complete androgen insensitivity syndrome: evidence
+for further genetic heterogeneity in this syndrome. Proc
+Natl Acad Sci USA 85:8151-8155
+9. McPhaul MJ, Marcelli M, Tilley WO, Griffin JE, Wilson JD
+1991 Androgen resistance caused by mutations in the
+androgen receptor gene. FASEB J 5:2910-2915
+10. Marcelli M, Tilley WO, Zoppi S, Griffin JE, Wilson JD,
+McPhaul MJ 1991 Androgen resistance associated with
+a mutation of the androgen receptor at amino acid 772
+(Arg _, Cys) results from a combination of decreased
+messenger ribonucleic acid levels and impairment of receptor function. J Clin Endocrinol Metab 73:318-325
+11. Ris-Stalpers C, Trifiro MA, Kuiper GGJM, Jenster G, Romala G, Sai T, van Rooij HCJ, Kaufman M, Rosenfield RL,
+Liao S, Schweikert H-U, Trapman J, Pinsky L, Brinkmann
+AO 1991 Substitution of aspartic acid-686 by histidine or
+asparagine in the human androgen receptor lead~ t~ a
+functionally inactive protein with altered hormone-b1nd1ng
+characteristics. Mal Endocrinol 5:1562-1569
+
+1919
+
+12. Sai T, Seino S, Chang C, Trifiro M, Pinsky L, Mhatre A,
+Kaufman M, Lambert B, Trapman J, Brinkmann AO, Rosenfield RL, Liao S 1990 An exonic point mutation of the
+androgen receptor gene in a family with complete androgen insensitivity. Am J Hum Genet 46:1095-1100
+13. Marcelli M, Tilley WD, Wilson CM, Wilson JD, Griffin JE,
+McPhaul MJ 1990 A single nucleotide substitution introduces a premature termination codon into the androgen
+receptor gene of a patient with receptor-negative androgen resistance. J Clin Invest 85:1522-1528
+14. Ris-Stalpers C, Kuiper GGJ M, Faber PW, Schweikert HU,
+van Rooij HCJ, Zegers ND, Hodgins MB, Degenhart HJ,
+Trapman J, Brinkmann AO 1990 Aberrant splicing of
+androgen receptor mRNA results in synthesis of a nonfunctional receptor protein in a patient with androgen
+insensitivity. Proc Natl Acad Sci USA 87:7866-7870
+15. Myers RM, Maniatis T, Lerman LS 1987 Detection and
+localization of single base changes by denaturing gradient
+gel electrophoresis. Methods Enzymol 155:501-518
+16. Myers RM, Fischer SG, Maniatis T, Lerman LS 1985
+Modification of the melting properties of duplex DNA by
+attachment of a GC-rich DNA sequence as determined by
+denaturing gradient gel electrophoresis. Nucleic Acids
+Res 13:3111-3129
+17. Myers RM, Fischer SG, Lerman LS, Maniatis T 1985
+Nearly all single base substitutions in DNA fragments
+joined to a GC-clamp can be detected by denaturing
+gradient gel electrophoresis. Nucleic Acids Res 13:31313145
+18. Sheffield VG, Cox DR, Lerman LS, Myers RM 1989
+Attachment of a 40-base-pair G+C-rich sequence (GCclamp) to genomic DNA fragments by the polymerase
+chain reaction results in improved detection of single base
+changes. Proc Natl Acad Sci USA 86:232-236
+19. Myers RM, Sheffield VG, Cox DR 1988 Detection of single
+base changes in DNA: ribonuclease cleavage and denaturing gradient gel electrophoresis. In: Davies KE (ed)
+Genome Analysis: A Practical Approach. IRL Press, Oxford, pp 95-139
+20. Lerman LS, Silverstein K 1987 Computational simulation
+of DNA melting and its application to denaturing gradient
+gel electrophoresis. Methods Enzymol 155:482-501
+21 . Abrams ES, Stanton Jr VP 1992 Use of denaturing gradient gel electrophoresis to study conformational transitions in nucleic acids. Methods Enzymol 212:71-104
+22. Lubahn DB, Joseph DR, Sar M, Tan J-A, Higgs HN,
+Larson RE, French FS, Wilson EM 1988 The human
+androgen receptor: complementary deoxyribonucleic acid
+cloning, sequence analysis and gene expression in prostate. Mal Endocrinol 2:1265-1275
+23. Simental JA, Sar M, Lane MV, French FS, Wilson EM
+1991 Transcriptional activation and nuclear targeting signals of the human androgen receptor. J Biol Chem
+266:510-518
+24. Schule R, Muller M, Kaltschmidt C, Renkawitz R 1988
+Many transcription factors interact synergistically with
+steroid receptors. Science 242: 1418-1420
+25. Sar M, Lubahn DB, French FS, Wilson EM 1990 lmmunohistochemical localization of the androgen receptor in
+rat and human tissues. Endocrinology 127:3180-3186
+26. Van Wyk JJ, Graves DC, Casella SJ, Jacobs S 1985
+Evidence from monoclonal antibody studies that insulin
+stimulates deoxyribonucleic acid synthesis through the
+type I somatomedin receptor. J Clin Endocrinol Metab
+61:639-643
+27. French FS, Baggett B, Van Wyk JJ, Talbert LM, Hubbard
+WR, Johnston FR, Weaver RP, Forchielli E, Rao GS,
+Sarcia IR 1965 Testicular feminization: clinical, morphological and biochemical studies. J Clin Endocrinol Metab
+25:661-677
+28. French FS, Van Wyk JJ, Baggett B, Easterling WE, Talbert
+LM, Johnston FR, Forchielli E, Dey AC 1966 Further
+evidence of a target organ defect in the syndrome of
+
+Vol 6 No. 11
+
+MOL ENDO, 1992
+1920
+
+29.
+
+30.
+
+31.
+32.
+
+33.
+
+34.
+
+35.
+
+36.
+
+37.
+
+38.
+
+39.
+
+40.
+
+41.
+
+42.
+
+testicular feminization. J Clin Endocrinol Metab 26:493503
+Keenan BS, Meyer Ill WJ, Hadjian AJ, Jones HW, Migeon
+CJ 197 4 Syndrome of androgen insensitivity in man:
+absence of 5a-dihydrotestosterone binding protein in skin
+fibroblasts. J Clin Endocrinol Metab 38: 1143-1146
+Amrhein JA, Meyer Ill WJ, Jones HW, Migeon CJ 1976
+Androgen insensitivity in man: evidence for genetic heterogeneity. Proc Natl Acad Sci USA 73:891-894
+Pinsky L, Kaufman M, Summitt RL 1981 Congenital androgen insensitivity due to a qualitatively abnormal androgen receptor. Am J Med Genet 10:91-99
+Lubahn DB, Joseph DR, Sullivan PM, Willard HF, French
+FS, Wilson EM 1988 Cloning of human androgen receptor
+complementary DNA and localization to the x chromosome. Science 240:327-330
+Pratt WB, Jolly DJ, Pratt DV, Hollenberg SM, Giguere V,
+Cadepond FM, Schweizer-Grayer G, Catalli M-G, Evans
+RM, Baulieu E-E 1988 A region in the steroid binding
+domain determines formation of the non-DNA binding, 9S
+glucocorticoid receptor complex. J Biol Chem 263:267273
+Kumar V, Green S, Stack G, Berry M, Jin J-R, Chambon
+P 1987 Functional domains of the human estrogen receptor. Cell 51:941-951
+Giguere V, Hollenberg SM, Rosenfeld MG, Evans RM
+1986 Functional domains of the human glucocorticoid
+receptor. Cell 46:645-652
+Prior L, Bordet S, Trifiro MA, Mhatre A, Kaufman M,
+Pinsky L, Wrogeman K, Belsham DD, Pereira F, Greenberg C, Trapman J, Brinkmann AO, Chang C, Liao S 1992
+Replacement of arginine 773 by cysteine or histidine in
+the human androgen receptor causes complete androgen
+insensitivity with different receptor phenotypes. Am J Hum
+Genet 51 :143-155
+Mebarki F, Gasmi M, Forest MG, David M, Chatelain P,
+Morel Y, Analysis of polymerase chain reaction (PCR)amplified exons of the androgen receptor gene in 14
+patients with androgen resistance. 72nd Annual Meeting
+of The Endocrine Society, Atlanta, GA, 1990, P 222 (Abstract 791)
+Trifiro M, Kaufman M, Bordet S, Beitel L, Kazemi-Esfarjani
+P, Mhatre A, Sabbaghian N, Lumbroso R, Alvarado C,
+Gottlieb B, Pinsky L, 1991 Androgen receptor mutations
+that cause male sexual maldevelopment in man. Am J
+Hum Genet [Suppl] 49:53 (Abstract 267)
+Chang YT, Migeon CJ, Brown TR, Human androgen
+insensitivity syndrome due to androgen receptor gene
+point mutations in subjects with normal androgen receptor
+levels but impaired biological activity. 73rd Annual Meeting
+of The Endocrine Society, Washington, DC, 1991, p 37
+(Abstract 28)
+Patterson MN, Batch JA, Evans BAJ, Hughes IA 1992
+Mutations of the androgen receptor gene in patients with
+partial androgen insensitivity. J Cell Biochem [Suppl 16CJ
+22 (Abstract L136)
+Charest NJ, Zhou Z, Lubahn DB, Olsen KL, Wilson EM,
+French FS 1991 A frameshift mutation destabilizes androgen receptor messenger RNA in the Tfm mouse. Mol
+Endocrinol 5:573-581
+He WW, Kumar MV, Tindall DJ 1991 A frame-shift muta-
+
+43.
+
+44.
+45.
+46.
+
+47.
+
+48.
+
+49.
+
+50.
+
+51.
+
+52.
+
+53.
+
+54.
+
+55.
+
+56.
+
+57.
+
+tion in the androgen receptor gene causes complete
+androgen insensitivity in the testicular-feminized mouse.
+Nucleic Acids Res 19:2373-2378
+Fawell SE, Lees JA, White R, Parker MG 1990 Characterization and colocalization of steroid binding and dimerization activities in the mouse estrogen receptor. Cell
+60:953-962
+Razin A, Riggs AD 1980 DNA methylation and gene
+function. Science 210:604-609
+Duncan BK, Miller JH 1980 Mutagenic deamination of
+cytosine residues in DNA. Nature 287:560-561
+Youssoufian H, Kazazian Jr HH, Phillips DG, Aronis S,
+Tsiftis G, Brown VA, Antonarakis SE 1986 Recurrent
+mutations in haemophilia A give evidence for CpG mutation hotspots. Nature 324:380-382
+Zoppi S, Marcelli M, Harbison MD, Wilson CM, Griffin JE,
+Wilson JD, McPhaul MJ 1992 Androgen resistance arising
+from an N-terminal truncation of the androgen receptor:
+prenatal diagnosis in a family. J Cell Biochem [Suppl 16CJ
+22 (Abstract L227)
+Myers RM, Lumelsky N, Lerman LS, Maniatis T 1985
+Detection of single base substitutions in total genomic
+DNA. Nature 313:495-498
+Topal MD, Fresco JR 1976 Complementary base pairing
+and the origin of substitution mutations. Nature 263:285289
+Traystman MD, Higuchi M, Kasper CK, Antonarakis SE,
+Kazazian Jr HH 1990 Use of denaturing gradient gel
+electrophoresis to detect point mutations in the factor VIII
+gene. Genomics 6:293-301
+Theophilus BDM, Latham T, Grabowski GA, Smith Fl
+1989 Comparison of RNase A, a chemical cleavage and
+GC-clamped denaturing gradient gel electrophoresis for
+the detection of mutations in exon 9 of the human acid (3glucosidase gene. Nucleic Acids Res 17:7707-7722
+Gyllensten UB, Erlich HA 1988 Generation of singlestranded DNA by the polymerase chain reaction and its
+application to direct sequencing of the HLA-DQA locus.
+Proc Natl Acad Sci USA 85:7652-7656
+Higuchi R, Krummel B, Saiki RK 1988 A general method
+of in vitro preparation and specific mutagenesis of DNA
+fragments: study of protein and DNA interactions. Nucleic
+Acids Res 16:7351-7367
+Higuchi R 1990 Recombinant PCR. In: Innis MA, Gelfand
+DH, Snisky JJ, White TJ (eds) PCR Protocols-A Guide to
+Methods and Applications, chapt 22. Academic Press,
+San Diego, pp 177-183
+Yarbrough WG, Quarmby VE, Simental JA, Joseph DR,
+Sar M, Lubahn DB, Olsen KL, French FS, Wilson EM
+1990 A single base mutation in the androgen receptor
+gene causes androgen insensitivity in the testicular feminized rat. J Biol Chem 265:8893-8900
+Quarmby VE, Kemppainen JA, Sar M, Lubahn DB, French
+FS, Wilson EM 1990 Expression of recombinant androgen
+receptor in cultured mammalian cells. Mol Endocrinol
+4:1399-1407
+Sar M 1985 Application of avidin-biotin complex technique
+for the localization of estradiol receptor in target tissues
+using monoclonal antibodies. In: Bullock GR, Petrusz P
+(eds) Techniques in lmmunocytochemistry. Academic
+Press, New York, vol 3:43-54
+
+

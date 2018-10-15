@@ -1,0 +1,557 @@
+HUMAN MUTATION 1:314-319 (1992)
+
+RESEARCH ARTICLE
+
+Four New Mutations of the CFTEt Gene (541delC,
+R347H,R352Q, E5852C)Detected by DGGE Analysis
+in Italian CF Patients, Associated With Different
+Clinical Phenotypes
+Laura Cremonesi, Maurizio Ferrari, * Elena Belloni, Carmelina Magnani, Manuela Seia,
+Patrizia Ronchetto, Magdy Rady, Maria Pia RUSSO,
+Giovanni Romeo, and Marcella Devoto
+Istituto Scientifico H. Sun Raffaele, Laboratorio Centrale, Milan, Italy (L.C., M.F., E. B., C.M.), lstituti Clinici di
+Perfezionamento, Laboratorio di Ricerche Cliniche, Milan, Italy (M. S. 1, and Istituto Giannina Gaslini, Laboratorio di Genetica
+Molecolare, Genoa, Italy (P.R., M. R., M.P.R., G.R., M.D.)
+Communicated by LapChee Tsui
+
+The deltaF508 mutation accounts for about 53% of the molecular defects causing cystic fibrosis (CF)
+in Italy. The numerous additional mutations detected so far are all relatively rare, and about 30% of
+CF chromosomes carries unknown mutations in our patients. In order to identify the non-deltaF508
+mutations causing C F in our population, we performed GCdamped denaturing gradient gel electrophoresis (DGGE) on 9 exons of the cystic fibrosis transmembrane conductance regulator (CFTR) gene
+in a sample of 86 Italian CF patients carrying unknown mutations on at least one chromosome. Direct
+sequencing of 17 samples showing an altered electrophoretic mobility allowed the identification of four
+new mutations (541delC, R347H, R352Q, and ESBSX), five mutations already known (G85E,
+I148T, G178R, 1078delT, and R347f), and one rare variant (1898 3A+G). The strategy based on
+GC-clamped DGGE represents an efficient and rapid approach for mutation detection for those genetic
+diseases, such as CF, in which a large number of rare molecular defects has been described.
+
++
+
+0 1992 Wiley-Liss, Inc.
+KEY WORDS:
+
+Cysic fibrosis, DGGE, GC-clamp, Direct sequencing
+
+INTRODUCTION
+Following the identification of deltaF508 as the
+major mutation causing cystic fibrosis (CF) ( I ) ,
+approximately 200 additional mutations, sequence
+variations, and polymotphisms have been reported
+by members of the CF Genetic Analysis Consortium. The analysis of a sample of 482 Italian CF
+patients revealed that the frequency of deltaF508
+in our population is equal to 53.6% of the total CF
+chromosomes (our unpublished results). In order
+to characterize the remaining molecular defects
+present in our population, we carried out GCclamped denaturing gradient gel electrophoresis
+(DGGE) (2,3) on several exons of the cystic fibrosis conductance transmembrane regulator (CFTR)
+gene in a sample of 86 Italian CF patients, followed by direct sequencing of those samples showing an altered electrophoretic mobility. W e previously reported the detection of 6 new mutations
+0 1992 WILEY-LISS, INC.
+
+and of 6 known mutations in exons 10, 11, 14a,
+15, 19, and 20 (4,5). The mutations present in
+these exons account for about 70% of the total CF
+chromosomes in our patients. The present work
+reports further data on the DGGE screening of 9
+additional exons which allowed the identification
+of four new mutations, five mutations already
+known, and one rare sequence variation.
+
+MATERIALS AND METHODS
+
+A sample of 86 unrelated CF patients, originating from all Italian regions, were selected for
+DGGE analysis. Diagnosis of CF and ascertainment of pancreatic insufficiency were based on typical clinical and laboratory findings, as described
+Received May 19, 1992, accepted July 27, 1992.
+
+*To whom reprint requestsicorrespondence should be addressed.
+
+NEW MUTATIONS OF THE CFTR GENE
+TABLE 1. Primers
+
+315
+
+Sequences and Electrophoresis Conditions for GC-clamped DGGE analysis of 7 exons of CFTR"
+Denaturant
+
+Exon
+3
+
+4
+5
+
+7
+
+9
+21
+22
+
+i5
+i3
+i5
+i3
+i5
+i3
+i5
+i3
+i5
+
+Primers (5'+3')
+
+(X)
+
+Hours
+
+TCCCACTTTrTATTCTTTTG
+(GCCCGCCGGCCCGACCCCCGCGCGTCCGGCGCCCG)ATTCACCAGA~CGTAGTC
+TTTCTCTGTTmCCCCTTT
+(GCCCGCGGCCTGCGCGCCCCCAGCCCGGCCGCCCG)AGCTCACTACCTAA~ATG
+TATCTAACTTTCCAT'MTTC
+
+10-60
+
+3-4
+
+10-60
+
+4
+
+10-60
+
+3
+
+(CGGGCGCCGGACGCGCAGGGGTCGGGCCGGGACGGCGGGC)CTCCGCCTTTCCAG~GTAT
+
+(GCCCGCCGGCCCGACCCCCGCGCGTCCGGCGCCCG)CATCCTGAATITATTGTTA
+
+TGCAGCATTATGGTACATTA
+(GCCCGCCGGCCCGACCCCCGCGCGTCCGGCGCCCG)TGAC
+i3 AAACTAGAAAAAAAAAGAGA
+i5 (GCCCGCCGGCCCGACCCCCGCGCGTCCGGCGCCCG)TCTTCTTCTITCTTTTTTG
+i3 TGTTGCTCCAGGTATGTTAG
+i5 (GCCCGCCGGCCCGACCCCCGCGCGTCCGGCGCCCG)CTCCTGTGmATTTrTAGA
+i3 GTGCTATTAAGTAACAGAAC
+
+10-60
+
+4
+
+30-80
+
+2-3
+
+10-60
+
+3
+
+30-80
+
+4
+
+"For each exon, the primer at the 5' end (i5) is reported on the first line, and that at the 3' end (i3) on the second line. GC-clamped
+sequences are in parentheses.
+
+elsewhere (6). Among these patients, 62 were
+compound heterozygotes for deltaF508 or another
+known mutation (2 W1282X, 1 G542X, and 1
+R553X) (3,7,8) and an unknown non-deltaF508
+mutation. The mutations present in an additional
+group of 24 patients carrying unknown nondeltaF508 mutations on both chromosomes were
+investigated using genomic DNA from the patients' parents, since the possibility of detecting a
+sequence variation is increased by the formation of
+heteroduplexes which follows the PCR when the
+DNA of an obligate heterozygote is analysed. In
+this way, a total of 110 uncharacterized CF chromosomes, 58 deltaF508, 2 W1282X, 1 G542X, 1
+R553X, and 48 normal chromosomes were
+screened for exons 4, 7, 12, 21, and 23 and 54
+uncharacterized CF chromosomes, 26 deltaF508,
+and 28 normal chromosomes for exons 3, 5, 9, and
+22, by DGGE of DNA fragments amplified by PCR
+with specific primers coupled with GC-clamps.
+PCR conditions were as already described (3).
+DGGE conditions and primer sequences for exon
+12 and 23 were those reported by Fanen et al. (9).
+For the other exons, DGGE conditions and primer
+sequences reported in Table 1 were determined using the Melt87 and SQHTX programs by L. Lerman (10). The amplified products were electrophoresed through a 6.5% acrylamide gel
+containing a linearly increasing gradient of denaturant ranging either from 10 to 60% or from 30 to
+80% depending on the exons being examined
+(Table I), at 160 V for 2 to 4 hr. For each exon,
+a series of control samples carrying known mutations, kindly provided by other members of the CF
+Genetic Analysis Consortium, were analysed un-
+
+der the same conditions and in parallel with our
+samples (Table 2).
+Samples showing an altered melting behaviour
+were sequenced either o n double-stranded DNA
+template as already described (4), or o n singlestranded DNA template, amplified using a set of
+primers one of which was biotinylated at the 5'
+end. The resulting biotinylated PCR product was
+immobilized to magnetic streptavidine-conjugated
+beads (Dynabeads M-280 Streptavidin, Dynal
+A.S, N-0212 Oslo, Norway) and sequenced according to the Sanger method using Sequenase
+version 2 (United States Biochemical Corporation, Cleveland, OH 44122) (Fig. l). In all cases,
+sequencing was performed on more than one amplified sample in order to exclude the possibility of
+an error of incorporation due to Taq polymerase.
+Moreover, the genetic transmission of each new
+mutation was confirmed by the analysis of the
+whole nuclear family in order to exclude the occurrence of de novo mutations.
+
+RESULTS
+Direct sequencing of samples containing sequence variations identified by DGGE analysis allowed the characterization of four new mutations
+in exons 4, 7, and 12, five known mutations in
+exons 3 , 4 , 5, and 7, and one rare variant in intron
+12.
+In exon 4, a frameshift mutation (541delC)
+(Fig. 1) due to the deletion of C at position 541
+was detected in two unrelated patients, both carrying deltaF508 o n the other chromosome and
+originating from Northern Italy (Lombardy). Both
+patients have pancreatic insufficiency (PI) and
+
+CREMONESI ET AL.
+
+316
+
+TABLE 2.
+
+Mutation
+
+Known Mutations Tested by DGGE
+Type
+
+444deIA
+556delA
+A455E
+P574H
+N1303K
+R334W
+G85E
+R117H
+G178R
+W1316X
+R347P
+621 + 1G-T
+711 + 1G+T
+G458V
+E1371X
+Y563N
+
+Exon
+4
+4
+9
+12
+21
+7
+3
+4
+5
+21
+7
+4 (intron)
+5 (intron)
+9
+22
+12
+
+"Numbers in parentheses indicate references
+
+FIGURE 1. Sequencing of single stranded PCR product of exon
+4 in two patients bearing the 541delC mutation (1 and 2) and
+one normal control (3). The reverse sequence is shown
+(primer 4 i3). The mutation results from a deletion of a C at
+position 541 (G on the antisense strand).
+
+carry the 541delC mutation in association with
+haplotype B (KM. 19/PstI = 2, XV-2c/TaqI = 1). In
+exon 7, a G to A transition at position 1172 causing the substitution of a histidine for an arginine
+(R347H) was detected in a patient who carries the
+deltaFS08 mutation on the other chromosome,
+and has mild pulmonary disease and pancreatic sufficiency (PS). This mutation, which is associated
+with haplotype C (KM. 19lPstI = 2, XV-ZdTaq
+I = 2), affects the same nucleotide which is altered
+in the R347P mutation (nucleotide change
+G1172+C) described by Dean et al. (15). Both
+mutations destroy an HhaI site, but can be distinguished since R347P also creates an NcoI site.
+The second mutation detected in exon 7 is a missense mutation caused by a G to A transition at
+position 1187 which generates an arginine to glutamine substitution (R352Q). This mutation creates a novel DdeI restriction site. T h e patient car-
+
+rying this mutation, which is associated with
+haplotype A (KM.l9/PstI= 1, XV-2c/TaqI= l ) ,
+has PS and carries a still uncharacterized mutation
+o n the other chromosome. In exon 12, a G to T
+transversion at position 1885 causing the substitution of a stop codon for a glutamic acid (ESSSX)
+was detected in four unrelated patients. This mutation is associated with haplotype B in three chromosomes and with haplotype A in the remaining
+one. All four patients carry unknown mutations on
+the other chromosomes. Of the three patients for
+whom clinical information is available, two have
+PI and one PS.
+Finally an A to G transition in third position of
+the splice donor site of intron 12 (1898 3A-G)
+has been detected in a pancreatic sufficient patient
+on a chromosome characterized by haplotype B.
+Direct sequencing of eight additional samples
+showing an altered electrophoretic behaviour allowed the identification of three G8SE mutations
+in exon 3 (12), one I148T in exon 4 (F. Rininsland, D. Bozon, and L.-C. Tsui, personal communication), one G 178R in exon 5 ( 12), and one
+1078delT (19) and two R347P (15) in exon 7. No
+mutations were detected in exons 9, 21, 22, and 23
+by DGGE analysis.
+A series of control samples corresponding to a
+total of 16 different known mutations located in
+the same 9 exons were also screened by DGGE
+(Table 2). Among these mutations, the only one
+which could not be detected under the conditions
+described in the present work is the N1303K mutation (13), since the control sample carrying this
+mutation did not display a melting behaviour different from that of normal controls. To detect the
+presence of this mutation in our samples, we carried out PCR-mediated site-directed mutagenesis
+as described by Friedman et al. (20). A total of 11
+chromosomes which were negative at the DGGE
+analysis were shown by this method to carry the
+N 1303K mutation.
+
++
+
+DISCUSSION
+The molecular diagnosis of cystic fibrosis is
+hampered by the great number of mutations described in the CFTR gene, most of which occur
+only in individual cases. This is particularly true in
+Italy, where the deltaF508 mutation has a relatively low frequency (53.6%) compared to Northern European countries (21).
+Moreover, among the numerous additional mutations reported so far and included in our previous
+analysis (4,5), only 1717-1G-A (5.7% of total
+CF chromosomes), GS42X (3.9%), and W1282X
+
+NEW MUTATIONS OF THE CFTR GENE
+
+(2.5%) have been detected in our population at a
+frequency higher than 2%.
+DGGE analysis using GC-clamped primers has
+already been described as a reliable method to
+identify DNA regions containing sequence variations which can be then characerized by direct sequencing (22). Combining these two techniques,
+we screened a total of 2362 bp corresponding to 9
+exons of the CFTR gene, coding for a large portion
+of the two transmembrane (TM) and ATP-binding
+domains of the CFTR protein, and including intron-exon boundaries. In total, four new mutations, corresponding to a nonsense, a frameshift,
+and two missense mutations, and five known mutations were identified. In our experience, the mutations detected in these 9 exons and in the 6
+additional exons already reported (4,5) screened
+by DGGE and other methods account for about
+85% of the total CF chromosomes in our patients.
+The nonsense mutation E585X found in four
+unrelated patients and the frameshift mutation
+541delC found in two unrelated patients lead to a
+premature termination of the protein product. Although it cannot be excluded that the patients
+carry other mutations in the exons not yet examined, it is most likely that these two mutations are
+the cause of CF in these patients.
+The missense mutation R347H substitutes a histidine for an arginine residue in the first TM domain. This mutation has been found in a patient
+who bears the deltaF508 mutation on the other
+chromosome, has PS, and mild pulmonary disease.
+The possibility that R347H is not a causative mutation cannot be excluded given the conservative
+amino acid change. However, the mild phenotype
+and the fact that no other mutation has been found
+in the same patient in the 15 exons examined so
+far still support the hypothesis of a role of this
+mutation in the pathology of CF.
+The second missense mutation (R352Q) substitutes a neutral (glutamine) for a basic (arginine)
+residue. The patient bearing this mutation has PS
+and carries an unknown mutation on the other
+chromosome. It has been suggested by Kerem et al.
+(1) that mutations causing CF can be classified as
+severe or mild with respect to the residual pancreatic function, and that pancreatic sufficient patients carry at least one copy of a mild mutation.
+The finding of these two missense mutations in
+two pancreatic sufficient patients (one of whom
+also carries the deltaF508 mutation which, in the
+homozygous state, is generally associated with PI),
+supports the association of missense mutations and
+mild phenotype with respect to pancreatic func-
+
+317
+
+tion (23). Despite these considerations, the only
+way to confirm at the DNA level the mutation
+status of R347H and R352Q in these patients is to
+extend search of mutations to the entire coding
+region plus introdexon boundaries of the CFTR
+gene.
+Finally, an A to G transition (1898 3A-G)
+in the third position of the splice donor site
+(AAG/gtatgt) of intron 12 (24) was detected in a
+pancreatic sufficient patient. N o other sequence
+variation has been detected in the same patient in
+the 15 exons examined so far. This nucleotide substitution was detected only once in 110 nondeltaF508 uncharacterized CF chromosomes, 58
+deltaF508, 2 W1282X, 1 G542X, 1 R553X, and 48
+normal chromosomes examined by DGGE analysis. Moreover, an A at position 1898+3 has always been observed in 12 normal, 5 deltaF508, and
+29 non-deltaF508 CF chromosomes analysed by direct sequencing (J. Zielenski, personal communication). Nevertheless, since the general consensus
+sequence for splice donor sites of different genes
+has been reported as NNN/gt(a/g)agt (25), it is
+possible that this nucleotide substitution represents
+a rare neutral variant rather than a causative mutation. Analysis at the RNA level will show if this
+nucleotide substitution can actually cause an aberrant splicing of intron 12.
+It is of some interest that no mutations were
+detected in our sample in exons 9, 22, and 23. In
+these exons only a minor proportion of molecular
+defects has been so far reported to the CF Genetic
+Analysis Consortium; consequently, the absence
+of molecular defects in these exons in our sample
+could reflect the paucity of mutations in these regions of the gene. A n alternative explanation may
+be that mutations or sequence variations in these
+exons are not likely to disturb CFTR functions
+enough to cause CF and consequently they would
+not be found in a survey of CF patients; nevertheless, no sequence variations were detected in the
+same exons in 48 normal chromosomes analysed.
+Out of 16 different known mutations tested by
+DGGE, only one (N1303K) did not give origin to
+an altered electrophoretic behaviour under the experimental conditions presently described. This
+mutation is a C to G transversion at position 4041,
+and is the only nucleotide change of this kind examined in our study (Table 2): other nucleotide
+substitutions (including one G to C and one T to
+A) were all clearly evidenced by DGGE. The possibility of detecting a sequence variation in a DNA
+fragment depends not only on the nucleotide substitution itself, but also o n the base composition of
+
++
+
+318
+
+CREMONESI ET AL.
+
+the sequence surrounding it (26). However, it has
+already been suggested that conservative transversions may not lead to an alteration of the melting
+behaviour of the fragment being analysed, because
+they do not change its nucleotide composition
+(27). Nonetheless, the approach based o n GCclamped DGGE and direct sequencing represents a
+valid strategy for mutation detection in genes such
+as CFTR with a large number of different molecular defects.
+
+9.
+
+10.
+
+11.
+
+ACKNOWLEDGMENTS
+The authors thank Professor Annamaria Giunta
+and Dr. Luca Romano for help and encouragement, Giuseppe Santamaria and Nadia Soriani for
+technical assistance, and J. -J. Cassiman, G.R.
+Cutting, M. Dean, C. Jones, M. Schwarz, and
+L.-C. Tsui for providing control samples. This
+work was partially supported by P.F. Ingegneria
+Genetica, C.N.R., and by Bio-Rad Laboratories.
+M.R. is supported by a fellowship from the International Center for Genetic Engineering and Biotechnoloev (ICGEB).
+REFERENCES
+1. Kerem B, Rommens JM, Buchanan JA, Markiewicz D, Cox
+TK, Chakravarti A, Buchwald M, et al. (1989) Identification
+of the cystic fibrosis gene: Genetic analysis. Science 245:
+1073-1080.
+2. Myers RM, Maniatis T, Lerman L (1987). Detection and
+localization of single base changes by denaturing gradient gel
+electrophoresis. Methods Enzymol 155501-527.
+3. Vidaud M, Fanen P, Ghanem N , Nicolas S, Goossens M
+(1990) Three point mutations in the CFTR gene in French
+cystic fibrosis patients: Identification by denaturing gradient
+gel electrophoresis. Hum Genet 85:446-449.
+
+4. Devoto M, Ronchetto P, Fanen P, Telleria Oriols JJ, Romeo
+
+5.
+
+6
+
+7
+
+8
+
+G, Goossens M, Ferrari M, Magnani C , Seia M, Cremonesi L
+(1991) Screening for non-deltaF508 mutations in five exons of
+the cystic fibrosis transmembrane conductance regulator
+(CFTR) gene in Italy. Am J Hum Genet 48:1127-1132.
+Ronchetto P, Telleria Oriols JJ, Fanen P, Cremonesi L, Ferrari
+M, Magnani C , Seia M, Goossens M, Romeo G, Devota M
+(1992) A nonsense mutation (R1158X) and a splicing mutation (3849 + 4A-G) in exon 19 of the cystic fibrosis transmembrane conductance regulator gene. Genomics 12:417418.
+Ferrari M, Antonelli M, Bellini F, Borgo G, Castiglione 0,
+Curcio, L. Dallapiccola B, Devoto M, Estivill, X, Gasparini
+P, Giunta A, Marianelli L, Mastella G, Novelli G , Pignatti P,
+Romano L, Romeo G, Seia M, Williamson R (1990) Genetic
+differences in cystic fibrosis patients with and without pancreatic insufficiency. Hum Genet 84:435-438.
+Kerem B, Zielenski J , Markiewizc D, Bozon D, Gazit E, Yahaf
+J, Kennedy D, Riordan JR, Collins FS, Rommens JM, Tsui
+L-C (1990) Identification of mutations in regions corresponding to the 2 putative nucleotide (ATP)-binding folds of the
+cystic fibrosis gene. Proc Natl Acad Sci USA 87:8447-8451.
+Cutting GR, Kasch LM, Rosenstein BJ, Tsui L-C, Kazazian
+HH Jr, Antonarakis SE (1990) Two patients with cystic fi-
+
+12.
+
+13.
+
+14.
+
+15.
+
+brosis, nonsense mutations in each cystic fibrosis gene, and
+mild pulmonary disease. N Engl J Med 223:1685-1689.
+Fanen P, Ghanem N , Vidaud M, Besmond C , Martin J ,
+Costes B, Plassa F, Goossens M (1992) Molecular characterization of cystic fibrosis: 16 novel mutations identified by analysis of the whole cystic fibrosis transmembrane conductance
+regulator (CITR) coding regions and splice site junctions.
+Genomics 13:770-776.
+Lerman L and Silverstein K (1987) Computational simulation
+of DNA melting and its application to denaturing gradient gel
+electrophoresis. Methods Enzymol 155482-501.
+White MB, Krueger LJ, Holsclaw DS Jr, Gerrard B, Stewart
+C, Quittel L, Dolganov G, Baranov V, lvaschenko T, Kapronov NI, Sebastio G, Castiglione 0, Dean M (1991) Detection of three rare frameshift mutations in the cystic fibrosis
+gene in a African-American (CF444delA), and Italian
+(CF2522insC), and a Soviet (CF3821delT). Genomics 10:
+266-269.
+Zielenski J, Bozon D, Kerem B, Markiewicz D, Rommens JM,
+Tsui L-C (1991) Identification of mutations in exons 1
+through 8 of the cystic fibrosis transmembrane conductance
+regulator (CFTR) gene. Genomics 10:229-235.
+Osborne L, Knight RA, Santis G, Hodson M (1991) A mutation in the second nucleotide binding fold of the cystic
+fibrosis gene. Am J Hum Genet 48:608-612.
+Gasparini P, Nunes V, Savoia A, Dognini M, Morral N,
+Gaona A, Bonizzato A, Chillon M. Sangiuolo F, Novelli G,
+Dallapiccola B, Pignatti PF, Estivill X (1991) The search for
+Southern European cystic fibrosis mutations: identification of
+two new mutations, four variants, and intron sequences. Genomics 10:193-200.
+Dean M, White M, Amos J, Gerrard B, Stewart C, Khaw
+K-T, Leppert M (1990) Multiple mutations in highly conserved residues are found in mildly affected cystic fibrosis patients. Cell 61463-870.
+
+16. Cutting GR, Kasch LM, Rosenstein BJ, Tsui L-C, Kazazian
+HH Jr, Antonarakis SE (1990) Two patients with cystic fibrosis, nonsense mutations in each cystic fibrosis gene, and
+mild pulmonary disease. N Engl J Med 323:1685-1689.
+17. Cuppens H , Marynen P, De b e c k C, Cassiman JJ (1990)
+Study of the G542X and G458V mutations in a sample of
+Belgian patients. Pediatr Pulmonol Suppl 5:203.
+18. Cutting GR, Curristan SM, Nash E, Rosenstein BJ, Lerer I,
+Abeliovich D, Hill A, Graham C (1992) Analysis of four
+diverse population groups indicates that a subset of cystic fibrosis mutations occurr in common among Caucasians. Am J
+Hum Genet 50:1185-1196.
+19. Claustres M, Gerrard B, White MB, Desgeorges M, Kjellberg
+P, Rollin B, Dean M (1992) A rare mutation (1078delT) in
+exon 7 of the CFTR gene in a Southern French adult with
+cystic fibrosis. Genomics 13:907-908.
+20. Friedman IF, Highsmith WE, Silverman LM (1991) Detecting
+multiple cystic fibrosis mutations by polymerase chain reaction-mediated site-directed mutagenesis. Clin Chem 37:753755.
+21. European Working Group on Cystic Fibrosis Genetics
+(EWGCFG) (1990) Gradient of Distribution in Europe of the
+major CF mutation and of its associated haplotype. Hum
+Genet 85:436-442.
+22. Teophilus BDM, Latham T, Grabowski GA, Smith FI (1989)
+Comparison of RNAse A, chemical cleavage and GCclamped denaturing gradient gel electrophoresis for the detection of mutations in exon 9 of the human acid P-glucosidase
+gene. Nucleic Acids Res 1717707-7722.
+23. Tsui L-C (1991) Probing the basic defect in cystic fibrosis.
+Cum Opinion Genet 1:4-10.
+24. Zielenski J, Rozmahel R, Bozon D, Kerem S, Grzelczak 2,
+
+NEW MUTATIONS OF THE CFTR GENE
+Riotdan JR, Rommens J , Tsui L-C (1991) Genomic DNA
+sequence of the cystic fibrosis transmembrane conductance
+regulator (CFTR) gene. Genomics 10:214-228.
+25. Mount SM (1982) A catalogue of splice junction sequences.
+Nucleic Acids Res 10:459-472.
+26. Lerman LS, Fischer G , Hurley I, Silverstein K, Lumelsky N
+
+319
+
+(1984) Sequence-Determined DNA separations. Annu Rev
+Biophys Bioeng 13:399-423.
+
+27. Myers RM, Fischer SG, Lerman LS, Maniatis T (1985) Nearly
+all single base substitutions in DNA fragments joined to a
+GC-clamp can be detected by denaturing gradient gel electrophoresis. Nucleic Acids Res 13:3131-3145.
+
+

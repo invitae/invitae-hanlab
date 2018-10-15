@@ -1,0 +1,618 @@
+Am. J. Hum. Genet. 50:427-433, 1992
+
+A Nonsense Mutation in the LDL Receptor Gene Leads to
+Familial Hypercholesterolemia in the Druze Sect
+Daniel Landsberger, * Vardiella Meiner, * Ayeleth Reshef, * Yishai Levy, T
+Deneys R. van der Westhuyzen4 Gerhard A. Coetzeet and Eran Leitersdorf*
+*Department of Medicine and Lipid Research Laboratory, Hadassah University Hospital, Jerusalem; tLipid Research Unit, Rambam Medical Center
+and Faculty of Medicine, Technion-lsrael Institute of Technology, Haifa; and tMedical Research Council, University of Cape Town Research
+Unit for Cell Biology of Atherosclerosis, Department of Medical Biochemistry, University of Cape Town Medical School, Cape Town
+
+Summary
+Familial hypercholesterolemia (FH) is an autosomal dominant disease caused by mutations in the LDL receptor
+gene. Here we characterize an LDL receptor mutation that is associated with a distinct haplotype and causes
+FH in the Druze, a small Middle Eastern Islamic sect with a high degree of inbreeding. The mutation was
+found in FH families from two distinct Druze villages from the Golan Heights (northern Israel). It was not
+found neither in another Druze FH family residing in a different geographical area nor in eight Arab and four
+Jewish FH heterozygote index cases whose hypercholesterolemia cosegregates with an identical LDL receptor gene haplotype. The mutation, a single-base substitution, results in a termination codon in exon 4 of the
+LDL receptor gene that encodes for the fourth repeat of the binding domain of the mature receptor. It can
+be diagnosed by allele-specific oligonucleotide hybridization of PCR-amplified DNA from FH patients.
+Introduction
+
+The LDL receptor is a cell-surface glycoprotein-mediating endocytosis of LDL and thus regulates plasma
+cholesterol (Brown and Goldstein 1986). Mutations in
+the LDL receptor gene cause the autosomal dominant
+disease familial hypercholesterolemia (FH) which is
+prevalent in about 0.2% of the general world population (Goldstein and Brown 1989). Individuals found
+to be heterozygous for a mutation in this gene have an
+elevated plasma LDL cholesterol (LDL-C) level and an
+increased risk for the development of ischemic heart
+disease (IHD).
+The Druze are a small Middle Eastern Islamic sect
+characterized by an eclectic system of doctrines and
+by a cohesion and loyalty among its members that have
+enabled them to maintain their identity and distinctive
+faith through almost 1,000 years (Goetz 1986). It is
+Received July 5, 1991; revision received September 25, 1991.
+Address for correspondence and reprints: Dr. Eran Leitersdorf,
+Department of Medicine and Lipid Research Laboratory, Hadassah
+University Hospital, il-91120 Jerusalem, Israel.
+X 1992 by The American Society of Human Genetics. All rights reserved.
+
+0002-9297/92/5002-0020$02.00
+
+estimated that the Druze currently number 775,000,
+of which 75,000 reside in Israel (Israeli General Encyclopedia 1990). In this community a high degree of
+inbreeding is evident, and the prevalence of consanguineous marriages is the highest of all groups in Israel
+and reaches 49% (Freundlich and Hino 1984). It is
+thus expected that mutant genes would proliferate in
+this community because of founder mechanisms and
+possible genetic drift. Here we describe an LDL receptor gene mutation that is responsible for FH in Druze
+families that reside in two different villages in the Golan Heights in Israel and who represent distinct Druze
+
+lineages.
+Material and Methods
+Material
+
+Restriction endonucleases, DNA polymerase I (Klenow fragment), and other enzymes were obtained
+from New England Biolabs (Beverly, MA), Boehringer
+Mannheim (Mannheim) and Pharmacia (Piscataway,
+NJ). DNA sequence analysis was done using Sequenasetm (United States Biochemical, Cleveland). Other
+chemicals were purchased from Sigma Chemical (St.
+427
+
+Landsberger et al.
+
+428
+
+Louis). Thermus aquaticus DNA polymerase I was
+obtained from Perkin Elmer-Cetus (Norwalk, CT).
+[a-32P] dCTP (3,000 Ci/mmol) and [y_32p] ATP
+(7,000 Ci/mmol) were purchased from New England
+Nuclear (NEN) (Boston). Nylon membranes were
+purchased from Biotransm ICN Biochemical (Irvine,
+CA) and GeneScreen' (NEN). Oligonucleotides were
+synthesized by Biotechnology (Rehovot, Israel). DNA
+was amplified using the Programmable Thermal Controller (MJ Research). LDL (density = 1.019-1.063
+g/ml) and lipoprotein-deficient serum (LPDS) (density
+> 1.25 g/ml) were prepared from human plasma, and
+the LDL was iodinated by the iodine monochloride
+method, all according to methods described elsewhere
+(Aulinskas et al. 1983). The monoclonal anti-LDL
+receptor antibody, IgG-C7, was prepared from hybridoma cells obtained from the American Type Culture Collection (CRL/691) and was iodinated using
+iodogen (Pierce Chemical, Rockford, IL) according to
+the method of Beisiegel et al. (1981). Goat anti-mouse
+IgG (GAM-IgG) was purchased from Cappel Laboratories (Malvern, PA). Na'251 was from Amersham
+(Buckinghamshire), and 35S-methionine was from
+NEN (Du Pont, Wilmington, DE). Dulbecco's modified Eagle's medium (DMEM) and methionine-free
+Eagle's minimum essential medium were provided by
+Highveld Biologicals (Kelvin, South Africa). Plasma
+lipids were determined on a Vitatron model FPS-A
+autoanalyser (Avro Scientific Instruments, Sunnyvale,
+CA). Additional materials are indicated where appropriate.
+Recruitment of Patients and Families
+Druze families with hypercholesterolemia were recruited through the Lipid Research Unit of The Rambam Medical Center in Haifa. Inclusion criteria for
+the index cases were as follows: hypercholesterolemia
+(plasma LDL-C level above the 95th percentile for
+age and gender), tendon xanthomas, and history of
+premature (age <60 years) IHD. For each patient and
+family member a fasting blood sample was collected
+in 0.15% (w/v) EDTA and was shipped on ice to the
+Lipid Research Laboratory at the Hadassah Medical
+Center in Jerusalem for biochemical analysis and genomic DNA extraction. The following diagnostic criteria were used for the detection of homozygotes:
+plasma LDL-C >600 mg/dl and appearance of xanthomatosis during the first decade of life.
+
+agnostic kits (Boehringer Mannheim). Plasma LDL-C
+levels were calculated according to the Friedewald- Levy
+formula (Friedewald et al. 1972).
+LDL Receptor Assays
+
+Skin fibroblasts from an LDL receptor-normal person and from an FH homozygote patient (FH 350-3)
+of one of the Druze families were cultured, and LDL
+receptors were up-regulated for 48 h in medium containing LPDS, all according to methods described elsewhere (Grant et al. 1990). For surface binding at 40Cf
+of either 125I-LDL or '251-IgG-C7, cells were incubated
+for 2 h in DMEM supplemented with LPDS buffered
+with 20 mM Hepes (pH 7.4) and containing the indicated amounts of 125I-labeled ligands. The rate of degradation of the 125I-labeled ligands at 37°C was determined according to a method described elsewhere
+(Goldstein et al. 1983). For [35S] labeling and analysis
+of LDL receptors, cells were incubated with [35S] methionine (50 gCi/ml) in methionine-free medium and
+were chased in DMEM/LPDS containing 200 pM unlabeled methionine. LDL receptors were solubilized,
+immunoprecipitated using IgG-C7/GAM-IgG immune complexes, separated by SDS-PAGE, and visualized by fluorography, all according to methods described elsewhere (Tolleshaug et al. 1982).
+Haplotype Analysis at the LDL Receptor Gene Locus
+
+Genomic DNA was extracted from blood leukocytes (Hobbs et al. 1986) and diluted to a final concentration of 0.1 mg/ml. LDL receptor gene haplotypes
+were constructed through the analysis of the joint segregation of 10 RFLPs, according to a method described elsewhere (Leitersdorf et al. 1989a).
+
+Biochemical Determinations
+
+DNA Amplification and Sequence Analysis
+Total RNA was isolated from human skin fibroblasts of a homozygote case by the guanidine thiocyanate method (Chirgwin et al. 1979). Complementary
+DNA was prepared using a random hexamer oligonucleotide primer and M-MLV reverse transcriptase
+(200 U/pl) (Gibco-BRL, New York). DNA amplification was done according to the method of Saiki et
+al. (1988), using the first-strand cDNA as a template.
+The whole coding region of the LDL receptor cDNA,
+including exons 1-18 was amplified using five sets
+of oligonucleotides. For the amplification of exons
+1-4, upstream oligonucleotide primer designated AR12
+(5'-A TAGGATCCAAATTGCGCTGGACCGTCGCCTTGC-3') that is homologous to exon 1 sequences
+
+Plasma total triglycerides, cholesterol, and HDL-C
+levels were determined using commercially available di-
+
+AR13 (5'-A TAGCATGCTCGTCAGGGCGACAG-
+
+and downstream oligonucleotide primer designated
+
+Familial Hypercholesterolemia in Druze
+
+GTGGCCACAG-3') that is homologous to exon 5
+sequences were used. These oligonucleotides were designed to include also six-nucleotide 5' extensions with
+the consensus sequence for BamHI and SphI restriction endonucleases, respectively (underlined in above
+sequences), and three additional nucleotides (italicized in above sequences). The PCR protocol included
+1.5 min of denaturation at 940C and 5 min of annealing and extension at 680C, with the Thermus aquaticus DNA polymerase enzyme for 35 cycles. After amplification, the PCR products were analyzed on a
+1.5% agarose gel, and the appropriate band was extracted, purified, and subjected to BamHI/SphI digestion followed by subcloning into bacteriophage Ml 3.
+Sequence analysis of both strands of two independent
+M13 clones was performed using the dideoxynucleotide chain-termination method (Sanger et al. 1977).
+Detection of the Druze Mutation
+Oligonucleotides Dl (5'-CCCCAGCTGTGGGCCTGCGACAACG-3') and D2 (5'-CGCCCATACCGCAGTTTTCC-3') were used for amplification of the
+3' end of exon 4 of the LDL receptor gene according
+to a method described elsewhere (Leitersdorf et al.
+1989b). After amplification, the DNA was size fractionated on a 6% polyacrylamide gel, and the band
+sizes were verified. Each one of the PCR products was
+denatured in 0.4 N NaOH/0.025 M EDTA and was
+dot blotted twice on a nylon membrane (GeneScreen.";
+NEN) and hybridized to [32P]-end-labeled allelespecific oligonucleotide probes (oligonucleotide 350NL 5'-GTCTTTACGTGTTCCAA-3' and oligonucleotide 350-MU 5'-GTCTTTAGGTGTTCCAA-3'),
+homologous to the normal and to the mutant genes,
+respectively. The filters were prehybridized at 430C
+in 5 x SSPE /5 x Denhardt's solution/0.5% SDS for
+20 min and then hybridized with 1 x 106 cpm/ml
+end-labeled oligonucleotide for 1 h. The filters were
+then washed in 2 x SSPE/0.1% SDS three times (for
+5 min each) at room temperature, once for 10 min at
+46°C, and once for 3 min at 53°C. Autoradiography
+was performed at - 70°C for 5 h on Kodak XAR-5
+film. After autoradiography the filters were stripped
+at 75°C, and those that were originally hybridized
+with the normal probe were rehybridized with the mutant probe, and vice versa.
+Results
+Druze FH families were recruited from the follow-
+
+ing three villages: Majdal Shams (family FH 350) and
+Ein Kuniye (family FH 367) (from the Golan Heights
+
+429
+in northeastern Israel) and Isfiya (family FH 351)
+(from the Carmel Mountains in northwestern Israel).
+In one family with a homozygote case (FH 350-3),
+parental consanguinity could be demonstrated. Analysis of 10 RFLPs at the LDL receptor gene locus in
+families FH 350 and FH 367 revealed that haplotype
+1 (BsmI +, SphI +, StuI +, AvaIl +, SpeI -, ApaLI5' + , PvuII - , NcoI + , PstI + , and ApaLI-3' + ) cosegregates with hypercholesterolemia in both families
+(data not shown). Haplotype analysis was not carried
+out on individuals from family FH 351.
+Fibroblast cultures were prepared from a clinically
+homozygote Druze FH patient (FH 350-3) who was
+found also to be homozygous for LDL receptor haplotype 1. The binding and degradation of 125I-LDL and
+125I-IgG-C7 monoclonal antibody was studied in fibroblasts from FH 350-3 and from a normal control
+(table 1). The mutant cells exhibited a lack of functional LDL receptors, being unable to specifically bind
+or degrade either 125I-LDL or 125I-IgG-C7 monoclonal
+antibody. The synthesis and processing of LDL receptors in cells from the homozygote patient and from the
+normal control were also compared. Whereas both
+precursor and mature forms of the LDL receptor, biosynthetically labeled with 35S-methionine, were found
+in normal cells, no LDL receptor protein was detected
+in either mutant cell extracts or in culture medium
+from the mutant cells (data not shown).
+After these initial observations, PCR amplification
+of the whole coding region of the LDL receptor gene
+of FH 350-3 was performed. The size of amplified
+products were identical to that in a control sample and
+were as expected from the known cDNA sequence.
+The PCR fragments were then subcloned into a bacteriophage M13 vector. Sequence analysis of exons 1318 of the gene was performed and did not reveal any
+abnormality. Subsequently, a guanine-for-cytosine
+substitution that converts codon 167 from a tyrosine
+to a stop codon (fig. 1) was identified in exon 4. This
+was the only sequence abnormality that was found in
+exons 1-4 of the gene.
+Detection of the Druze mutation was based on DNA
+amplification of the 3' end of exon 4, followed by
+hybridization to end-labeled allele-specific oligonucleotide probes (fig. 2). By this method it was found that
+the mutation is present in FH individuals from families
+FH 350 and FH 367. It is not present either in family
+FH 351 or in eight additional index cases of other
+Arab communities, including seven Moslems and one
+Christian who was previously shown not to carry the
+Lebanese allele (Oppenheim et al., in press). Screening
+of four Jewish FH heterozygote index cases whose
+
+Landsberger et al.
+
+430
+Table I
+LDL Receptor Assays
+
+l25I-LDLa
+CELL
+TYPE
+
+Normal
+FH 350-3
+
+.........
+
+.......
+
+l2SI-IgG-C7b
+
+Bound
+(ng/mg)
+
+Degraded
+(ng/mg/4 h)
+
+Bound
+(ng/mg)
+
+Degraded
+(ng/mg/4 h)
+
+148
+<4 (<3%)
+
+6,126
+<50 (<1%)
+
+39
+<2 (<5%)
+
+482
+<5 (<1%)
+
+NOTE. -Binding at 40C and degradation at 371C were measured as described elsewhere (Grant et al.
+1990). Values in brackets are percent of normal. Nonspecific values were subtracted from all values and
+were measured in parallel dishes containing LDL receptor-negative cells. Similar results were obtained
+in two other experiments in which nonspecific values were obtained by using either an excess of competing
+nonradioactive ligand or sterol-down-regulated cells.
+a Concentration at both 40C and 370C was 10 gg/ml.
+b Concentrations at 41C and at 371C were 1 gg/ml and 3 gg/ml, respectively.
+
+hypercholesterolemia cosegregates with haplotype 1
+at the LDL receptor gene locus for the Druze mutation
+was also negative.
+Analysis of 35 individuals from two Druze families
+(FH 350 and FH 367) revealed that 17 carry the mutant allele. The mean ( ± SD) plasma LDL-C levels for
+the controls was 100.0 ( ± 33.1) mg/dl, and that for
+the cases (those who carry the mutant allele) was 252.9
+( ± 63.0) mg/dl. The age-related plasma LDL-C levels
+for the cases and for the controls are presented in figure
+
+3. A widespread distribution of plasma LDL-C is evident in both groups. One case has an LDL-C level
+which is close to the normal range, and four controls
+were found to have LDL-C levels above the 95th percentile for their age. These results indicate the possibility that other mutant genes and/or environmen-
+
+FH 350
+a
+II
+
+DNA Sequence Analysis
+of FH # 350-3
+Amino
+Acid No.
+
+NORMAI
+
+171
+170
+
+GGG
+CAA
+TTC
+GTG
+TAC
+CTT
+GGT
+AGG
+TGT
+
+169
+168
+167
+166
+165
+164
+163
+
+DNA sequence analysis of mutant LDL receptor
+gene from FH 350-3. Genomic DNA was amplified using oligonucleotides that are complementary to exon 1 and exon 5 sequences
+of the LDL receptor gene (see Material and Methods). These oligonucleotides include also the consensus sequences for BamHI and
+SphI restriction enzymes, respectively. After amplification, the PCR
+products were digested with BamHI and SphI and were subcloned
+into the polylinker site of bacteriophage Ml 3. Sequence analysis of
+the coding strand of a homozygote FH patient (FH 350-3) and of a
+normal control was performed using the dideoxy chain-termination
+method. A guanine-for-cytosine substitution that is expected to result in a nonsense codon is evident in the mutant gene.
+
+Figure I
+
+na
+
+III
+b LDL-C mgldL
+
+,>f~~~~~
+
+5ii~
+230
+
+89 129 302 377 745 245 279
+
+C
+
+Normal
+
+Mutant
+Detection of Druze mutation by PCR and alleleFigure 2
+specific oligonucleotide hybridization. a, Three-generation pedigree
+including eight individuals from family FH 350. The index case is
+indicated by an arrow. Half-blackened pedigree symbols designate
+clinically heterozygote individuals (LDL-C levels above the 95th
+percentile), and the completely blackened symbol designates a homozygote FH case. b, LDL-C levels for all available family members. c, Amplified DNA dotted on nylon membrane and hybridized
+either to end-labeled oligonucleotide primer that is homologous to
+normal sequence (Normal = 350-NL) or to oligonucleotide that is
+homologous to mutant sequence (Mutant = 350-MU). The results
+were visualized after autoradiography at 70'C for 5 h. n.a. =
+not available.
+
+Familial Hypercholesterolemia in Druze
+
+431
+
+-
+
+400
+
+as it is not found in other 12 heterozygote FH index
+
+CASES
+
+cases.
+
+320
+1-.
+
+m
+0)
+
+E 240
+
+*
+
+CONTROLS
+: .
+
+_
+
+O,
+0
+O
+
+-
+
+..
+
+0
+-J
+
+a
+
+0
+
+160
+
+-J
+
+o0
+
+0
+
+0
+
+)~~~~
+
+80
+0
+
+15
+
+o
+
+0
+
+30
+
+45
+
+60
+
+75
+
+AGE (YEARS)
+Age-related plasma LDL-C levels in 35 individuals
+
+Figure 3I
+
+from twoIDruze families, FH 350 and FH 367. Black dots denote
+individual swith mutant allele, and the unblackened circles denote
+individual s without the mutant allele. The regression line for the
+normals is (y) = 1.0(x) + 76.9, r = 0.6; and that for the FH heterozygotes is (y) 1.2(x) + 228.3, r 0.31.
+=
+
+=
+
+tal factc rs modify plasma cholesterol levels in this
+commuriity.
+
+ion
+
+Discussi
+In the present study we have characterized an LDL
+receptor gene mutation in FH families of Druze origin
+who resiide in the Golan Heights. The mutation, a
+single-baise substitution, results in a premature termination c()don at amino acid residue number 167 in the
+fourth rccpeat of the binding domain of the receptor.
+It is the ifirst mutation characterized at the molecular
+level in tlhis community. Experiments in fibroblast cultures revealed the absence of immunoprecipitable protein. Thte mutation is thus classified as a class 1 (null)
+mutatiori (Brown and Goldstein 1986). A recent study
+revealed that, among 20 FH homozygotes bearing
+class 1 E)henotype, 15 different mutations could be
+demonst:rated, eight of which have thus far been characterizedt at the molecular level (Hobbs et al. 1988,
+1990). NZone of these were found to be identical to the
+mutation characterized here. Some of the known LDL
+receptor mutant alleles have been found to be sporadic, wihereas certain mutations are common in several definied populations (Hobbs et al. 1987; Lehrman
+et al. 19837; Aalto-Setala et al. 1989; Leitersdorf et al.
+1989b, 1 990; Meiner et al. 1991). Here we show that
+the Druz(e mutation could be unique to the Druze sect,
+
+The Druze mutation adds to the relatively large
+number of naturally occurring point mutations that
+have been localized to exon 4 of the LDL receptor.
+This may reflect the functional
+importance of those
+0repeats of the receptor binding domain (repeats 3-5)
+that are encoded by exon 4 (Hobbs et al. 1990). The
+Druze mutation occurs in a CpG dinucleotide, a sequence known to be a mutational hot spot because of
+the transition of methylated C residues (occurring only
+in CpG dinucleotides) to T residues that is a result of
+deamination (Cooper and Krawczak 1990). However,
+such a mechanism is clearly not applicable in the case
+of the Druze mutation, which corresponds to a C-to-G
+transition.
+The Druze sect was founded in the 11th century
+and remained isolated because of religious restrictions
+prohibiting outbreeding. For example, several genetic
+markers that were examined among the Druze show
+significant deviations from Hardy-Weinberg distribution, because of increased homozygosity which might
+be explained by a high degree of consanguinity (Nevo
+1988). Krabbe disease, a rare progressive autosomal
+recessive neurodegenerative disorder, is prevalent in a
+large Druze kindred in Israel, probably because of the
+same mechanism (Zlotogora 1985). The prevalence
+of FH in the Druze is unknown. Because of the high
+degree of consanguinity, as well as the existence of this
+population in a localized area for an extended period
+of time, a significant founder effect with high frequency of the mutant gene reported here is expected.
+Figure 3 reveals, in two Druze families (FH 350
+and FH 367), a wide range of LDL-C levels among
+individuals carrying the Druze mutant allele as well as
+among siblings who do not harbor the Druze mutation
+but who, in some cases, are hypercholesterolemic.
+These findings indicate that, in addition to the mutation reported here, other major effects (mutant genes
+and/or environmental factors) may contribute to hypercholesterolemia in this community. The relative
+impact of these factors on the prevalence of IHD in the
+Druze population is unknown. This issue is currently
+under investigation.
+
+Acknowledgments
+We thank Drs. M. S. Brown, J. L. Goldstein, and D. W.
+Russell for providing the DNA probes required for the analysis of the LDL receptor gene RFLPs. Professor G. Brook from
+
+432
+the lipid clinic of the Rambam Medical Center is thanked for
+his cooperation and help in recruitment of patients to the
+study. Mazal Ben-Naim, Osnat Eliav, Sheena Jones, Hajira
+Karjiker, and Rubina Levitzki are thanked for their technical
+assistance. This study was supported in part by The Chief
+Scientist's office, Israel Ministry of Health (grant 1556 to
+E.L.), by The South African Medical Research Council, and
+by the University of Cape Town.
+
+References
+Aalto-Setala K, Helve E, Kovanen PT, Kontula K (1989)
+Finnish type of low density lipoprotein receptor gene mutation (FH-Helsinki) deletes exons encoding the carboxyl-terminal part of the receptor and creates an
+internalization-defective phenotype. J Clin Invest 84:
+499-505
+
+Aulinskas TH, van der Westhuyzen DR, Coetzee GA (1983)
+Ascorbate increases the number of the low density lipoprotein receptors in cultured arterial smooth muscle cells.
+Atherosclerosis 47:159-171
+Beisiegel U, Schneider WJ, Goldstein JL, Anderson RGW,
+Brown MS (1981) Monoclonal antibodies to the low density lipoprotein receptor as probes for the study of receptor-mediated endocytosis and the genetics of familial hypercholesterolemia. J Biol Chem 256:11923-11931
+Brown MS, Goldstein JL (1986) A receptor-mediated pathway for cholesterol homeostasis. Science 232:34-47
+Chirgwin MJ, Przybyla EA, McDonald JR, Rutter JW
+(1979) Isolation of biologically active ribonucleic acid
+from sources enriched in ribonuclease. Biochemistry 18:
+5294-5299
+Cooper DN, Krawczak M (1990) The mutational spectrum
+of single base-pair substitutions causing human genetic
+diseases: patterns and predictions. Hum Genet 85:55-74
+Freundlich E, Hino N (1984) Consanguineous marriage
+among rural Arabs in Israel. IsrJ Med Sci 20:1035-1038
+Friedewald WT, Levy RI, Fredrickson DS (1972) Estimation
+of the concentration of low density lipoprotein cholesterol
+in plasma without use of the preparative ultracentrifuge.
+Clin Chem 18:499-502
+Goetz PW (ed) (1986) Druze. In: The new encyclopedia
+britannica, vol 4. Encyclopedia Britannica, Chicago, p
+237
+Goldstein JL, Basau SK, Brown MS (1983) Receptor-mediated endocytosis of low density lipoprotein in cultured
+cells. Methods Enzymol 98:241-260
+Goldstein JL, Brown MS (1989) Familial hypercholesterolemia. In: Scriver CR, Beaudet AL, Sly WS, Valle D
+(eds) The metabolic basis of inherited disease, 6th ed.
+McGraw-Hill, New York, pp 1215-1250
+Grant KI, Casciola LAF, Coetzee GA, Sanan DA, Gevers
+W. van der Westhuyzen DR (1990) Ammonium chloride
+causes reversible inhibition of low density lipoprotein re-
+
+Landsberger et al.
+ceptor recycling and accelerates receptor degradation. J
+Biol Chem 256:4041-4047
+Hobbs HH, Brown MS, Goldstein JL, Russell DW (1986)
+Deletion of exon encoding cysteine-rich repeat of the LDL
+receptor alters its binding specificity in a subject with familial hypercholesterolemia. J Biol Chem 261:1311413120
+Hobbs HH, Brown MS, Russell DW, Davignon J, Goldstein
+JL (1987) Deletion in the gene for the low-density lipoprotein receptor in a majority of French Canadians with familial hypercholesterolemia. N Engl J Med 317:734-737
+Hobbs HH, Leitersdorf E, Goldstein JL, Brown MS, Russell
+DW (1988) Multiple crm- mutations in familial hypercholesterolemia: evidence for 13 alleles, including four
+deletions. J Clin Invest 81:909-917
+Hobbs HH, Russell DW, Brown MS, Goldstein JL (1990)
+The LDL receptor locus in familial hypercholesterolemia:
+mutational analysis of a membrane protein. Annu Rev
+Genet 24:133-170
+Israeli general encyclopedia, The vol 1. (in Hebrew) (1990)
+Keter, Jerusalem, p 469
+Lehrman MA, Schneider WJ, Brown MS, Davis CG, Elhammer A, Russell DW, Goldstein JL (1987) The Lebanese
+allele at the LDL receptor gene locus: nonsense mutation
+produces truncated receptor that is retained in the endoplasmic reticulum. J Biol Chem 262:401-410
+Leitersdorf E, Chakravarti A, Hobbs HH (1989a) Polymorphic DNA haplotypes at the LDL receptor locus. Am J
+Hum Genet 44:409-421
+Leitersdorf E, Tobin EJ, Davignon J, Hobbs HH (1990)
+Common low-density lipoprotein receptor mutations in
+the French Canadian Population. J Clin Invest 85:10141023
+Leitersdorf E, van der Westhuyzen DR, Coetzee GA, Hobbs
+HH (1989b) Two common low density lipoprotein gene
+mutations cause familial hypercholesterolemia in Afrikaners. J Clin Invest 84:954-961
+Meiner V, Landsberger D, Berkman N, Reshef A, Segal P,
+Seftel HC, van der Westhuyzen DR, et al (1991) A common Lithuanian mutation causing familial hypercholesterolemia in Ashkenazi Jews. Am J Hum Genet 49:
+443-449
+Nevo S (1988) Genetic blood markers in Arab Druze of
+Israel. Am J Phys Anthropol 77:183-190
+Oppenheim A, Friedlander Y, Dann EJ, Berkman N, Pressman Schwartz S, Leitersdorf E. Hypercholesterolemia in
+five Israeli Christian-Arab kindreds is caused by the "Lebanese" allele at the LDL receptor gene locus as well as by
+an additional independent major factor. Hum Genet (in
+
+press)
+Saiki RK, Gelfand DH, Stoffel S, Scharf SJ, Higuchi R, Horn
+GT, Mullis KB, et al (1988) Primer directed enzymatic
+amplification of DNA with a thermostable DNA polymerase. Science 239:487-491
+
+Familial Hypercholesterolemia in Druze
+Sanger F, Nicklen S, Coulson AR (1977) DNA sequencing
+with chain-terminating inhibitors. Proc Natl Acad Sci
+USA 74:5463-5467
+Tolleshaug H, Goldstein JL, Schneider WJ, Brown MS
+(1982) Posttranslational processing of the LDL receptor
+
+433
+and its genetic disruption in familial hypercholesterolemia. Cell 30:715-724
+ZlotogoraJ, Regev R, Zeigler M, Iancu TC, Bach G (1985)
+Krabbe disease: increased incidence in a highly inbred
+community. Am J Med Genet 21:765-770
+
+

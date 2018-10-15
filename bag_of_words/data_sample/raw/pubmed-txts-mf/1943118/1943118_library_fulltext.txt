@@ -1,0 +1,600 @@
+Journal of Surgical Oncology 48:202-206 (1991)
+
+Clinical Features of the Differentiated and
+Undifferentiated Types of Advanced Gastric
+Carcinoma: Univariate and
+Multivariate Analyses
+SUNAO MORIGUCHI, MD, TATSUROU KAMAKURA, MD, TOMOHIRO ODAKA, PhD,
+YOSHlAKl NOSE, MD, YOSHlHlKO MAEHARA, MD, DAISUKE KORENAGA, MD,
+AND KElZO SUGIMACHI, MD, FACS
+From the Departments of Medical lnformatics {S.M., J.K., T.O., Y.N.) and
+Surgery I / (Y.M., D.K., K.S.), Faculty of Medicine, Kyushu University, Fukuoka, japan
+
+This study was done to define clinical features for the different pathological types of advanced gastric carcinoma. One thousand one hundred three
+patients were identified and classified into two groups: 479 patients
+(43.4%) had a differentiated adenocarcinoma and 624 patients (56.6%)
+had an undifferentiated adenocarcinoma. Patients with the undifferentiated
+type were more likely to have large invasive tumors and a higher incidence
+of peritoneal dissemination. Conversely, the patients with the differentiated type were more likely to have a liver metastasis. Multivariate
+analysis, using Cox’ proportional hazard model adjusted for sex, age, and
+other factors, suggested that tumor size was one of the seven most
+independent prognostic factors in patients with the undifferentiated type
+(relative risk = l.Ol), but this parameter lost prognostic value in patients
+with the differentiated type. With regard to correlation between survival
+time and tumor size, the larger the tumor (over 10 cm), the shorter the
+survival time of patients with the undifferentiated type, as compared to
+findings in patients with the differentiated type (P < 0.01). Thus,
+differences in clinical characteristics, including characteristics in the
+individual patients, extent of tumor, distant metastasis, prognostic factors,
+and prognosis correlate with the histopathological type of gastric carcinoma.
+KEYWORDS:prognostic factors, extent of tumor, histopathology
+
+poorly differentiated than in well differentiated gastric
+Several investigators have correlated histopathology carcinoma. Noda et al. [4] observed that the intestinal
+with biological behavior in gastric carcinomas [ 1-31. type metastasized frequently to the liver, whereas the
+Korenaga et al. [ l ] reported that in the undifferentiated diffuse type was associated with a peritoneal disseminatype, aneuploid lesions of DNA ploidy were rarely seen tion. Thus, there may be different prognostic factors for
+at the early stage, but that the frequency remarkably each pathological type because the biological behavior
+increased with deeper gastric wall invasion. On the other differed in each class of the pathology. A search of the
+hand, in the differentiated type DNA-aneuploid lesions literature revealed no report correlating pathological
+occurred at a relatively high incidence but did not relate
+to gastric wall invasion. Maehara et a]. [2,3] found that
+the poorly differentiated type was more sensitive to Accepted for publication July 2, 1991.
+Address reprint requests to Sunao Moriguchi, MD, Department of
+antitumor drugs than was the well differentiated type and Medical Informatics, Faculty of Medicine, Kyushu University 60,
+also that pyrimidine nucleotide synthesis is higher in 3-1-1, Maidashi, Higashi-ku, Fukuoka 812, Japan.
+
+INTRODUCTION
+
+0 1991 Wiley-Liss, Inc.
+
+Prognostic Factors of Advanced Gastric Cancer
+
+203
+
+TABLE I. Data on Differentiated and Undifferentiated Types in Gastric Carcinoma
+Characteristics
+Sex
+Male
+Female
+Age (year)a
+Tumor size (cm)a
+Tumor location
+Upper third
+Middle third
+Lower third
+Whole stomach
+Borrmann type
+I
+
+P
+value*
+
+Differentiated
+n = 479 (43.4%)
+
+Undifferentiated
+n = 624 (56.6%)
+
+363
+116
+58.8 11.7
+7.2 3.2
+
+**
+
+372
+252
+55.7 12.8
+8.8 f 4.2
+
+133
+97
+223
+26
+
+152
+139
+214
+119
+
+<o.o 1
+
+13
+166
+197
+30
+73
+
+12
+127
+252
+162
+71
+
+<0.01
+
+166
+212
+101
+
+114
+355
+155
+
+<0.01
+
+112
+367
+
+144
+480
+
+NS
+
+426
+53
+
+52 1
+103
+
+<O.OI
+
+429
+48
+
+591
+33
+
+<0.01
+
+298
+181
+
+289
+335
+
+<0.01
+
+286
+193
+
+35 I
+273
+
+NS
+
+325
+80
+74
+
+447
+96
+81
+
+NS
+
+I1
+111
+
+IV
+Unclassified
+Degree of the gastric wall invasion
+No serosal invasion
+With serosal invasion
+Invasion into neighboring
+structures
+Lymph node metastasis
+None
+Present
+Peritoneal dissemination
+None
+Present
+Liver metastasis
+None
+Present
+Operative procedures
+Subtotal gastrectomy
+Total gastrectomy
+Operative curability
+Curative
+Non-curative
+Postoperative chemotherapy
+Given
+Not given
+Unknown
+
+*
+
+<o.o 1
+<0.01
+<0.01
+
+* P value based on chi-square test or Mann-Whitney test.
+aMean f SD. NS, not significant.
+differentiation with parameters that could serve as prognostic factors although there were several investigators
+who had reported prognostic factors for gastric carcinoma
+[5-lo]. We used univariate and multivariate analyses to
+correlate clinical factors of sex, age, extent of disease,
+and survival time with the histopathological type in
+attempts to obtain useful prognosticators.
+
+ary 1965 and December 1985 in the Department of
+Surgery 11, Kyushu University Hospital. There were 18
+patients who died within the first 30 days of operation and
+5 for whom data were incomplete or who were lost to
+follow-up, hence 1,103 patients were entered in the
+study. All available information included sex, age, tumor
+location and size, gross appearance according to the
+Borrmann classification, degree of gastric wall invasion,
+MATERIALS AND METHODS
+lymph node metastasis, synchronous liver metastasis and
+Patients
+peritoneal dissemination, operative procedures, operative
+For this retrospective study we used data on 1,126 curability, and postoperative chemotherapy. According
+consecutive patients who underwent elective gastrectomy to the classification by Sugano et al. [ 111 the patients
+for primary advanced gastric carcinoma, between Janu- were put into two categories, one consisted of tubular
+
+204
+
+Moriguchi et al.
+TABLE 11. Cox Regression Analysis of Advanced Gastric Cancer Between Differentiated
+and Undifferentiated Types
+Differentiated
+Prognostic factors
+(observed value)
+Tumor size (/cm)
+Lymph node metastasis
+(none, present)
+Peritoneal dissemination
+(none, present)
+Operative procedures
+(subtotal, total)
+Gastric wall invasion
+(no serosal invasion,
+with serosal invasion,
+invasion into neighboring
+structures)
+Liver metastasis
+(none, present)
+Operative curability
+(curative. non-curative)
+
+Undifferentiated
+
+P value
+
+Regression
+coefficient
+
+NS
+<0.01
+
+-
+
+<0.01
+
+1.123
+
+<O.Ol
+
+0.050
+0.777
+
+<0.05
+
+0.120
+
+<0.05
+
+0.272
+
+<0.01
+
+0.221
+
+<0.05
+
+0.286
+
+<0.01
+
+0.142
+
+<0.01
+
+0.194
+
+<o.o I
+
+1.21 1
+
+<0.01
+
+0.709
+
+<0.01
+
+1.086
+
+<0.01
+
+1.077
+
+P value
+
+Regression
+coefficient
+
++
+
++
+
+*
+adenocarcinoma and papillotubular adenocarcinoma in And (bz) can be expressed as (b,z, + b,z,
+which cancer cells are cuboidal to cylindrical in shape b,zp) where (bl, b, * * * bp) are the regression coeffiand form distinct tubules, with or without papillary cients of the p independent prognostic factors, and (z,,
+projection. The other included mucocellular adenocarci- Z 2 “ ’ zp) are the observed values.
+noma and anaplastic adenocarcinoma where the small
+RESULTS
+cells spread individually and/or show a cord-like arrangeOf the 1,103 patients who underwent gastrectomy for
+ment. Macroscopic and microscopic evaluations were
+made according to the general rules for gastric cancer set advanced gastric carcinoma, 479 (43.4%) patients had
+up by the Japanese Research Society for Gastric Cancer the differentiated type and 624 (56.6%) patients had the
+[ 121. For the purpose of this study, the ending date of the undifferentiated type. At the time of this analysis, the
+follow-up was August 1989. In a statistical analysis, median follow-up time for 258 (23.4%) survivors was
+deaths due to causes other than gastric carcinoma were 133 months and 845 (76.6%) had died. Of the 845
+deaths, 687 were related to gastric carcinoma, 40 were
+considered censored cases.
+due to another malignancy, and 1 18 were due to another
+Statistical Analysis
+disease or to accidents.
+Distribution of the patients according to sex, age, and
+Data were stored in an IBM 4381 mainframe computer. The Biomedical Computer Program (BMDP) was other characteristics with respect to each pathological
+used for all statistical analyses [ 131. The BMDP P4F and class is presented in Table I. Patients with the undifferP3S programs were used for the chi-square test and entiated type tended to be younger and female
+Mann-Whitney test to compare groups of patients with (P < O.Ol), the patients with the undifferentiated type
+respect to each characteristic. The BMDP P1L program were more likely to have whole stomach-located, large
+was used to analyze the survival rates, using the Kaplan- invasive tumors, and a significantly higher percentage of
+Meier method and to test for equality of the survival these patients underwent total gastrectomy ( P < 0.01).
+curves, using the method of Mantel-Cox. The BMDP The reverse was true of the differentiated type. With the
+P2L program was used to determine which variables were undifferentiated type a high percentage of patients had
+independent prognostic factors for survival time, by the peritoneal dissemination. Conversely, in patients with
+Cox’ proportional hazard model in a stepwise manner the differentiated type a higher percentage of patients had
+[ 141. If h (t) is the mortality at time t, the proportional liver metastases ( P < O.Ol), but the frequency of lymph
+node metastasis, operative curability, and postoperative
+hazards model is given as follows:
+chemotherapy was similar in the two classes (P > 0.1)
+(Table I).
+k (t) = k,(t) exp (bz).
+To determine independent prognostic factors after
+The k,(t) is the “baseline” mortality at time t for a patient. gastrectomy for advanced gastric carcinoma, we carried
+
+Prognostic Factors of Advanced Gastric Cancer
+
+a
+
+4
+P
+
+W
+
+s
+
+50-
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Time after operation (years)
+
+I
+
+1
+
+1
+
+0
+
+2
+
+3
+
+4
+
+5
+
+Time after operation (yean)
+
+1
+
+h
+
+x
+
+205
+
+out multivariate analyses, using Cox’ proportional hazard
+model adjusting for sex, age, and other characteristics.
+After stratification according to the pathology, the multivariate analysis indicated that gastric wall invasion,
+peritoneal dissemination, liver metastasis, operative procedure, operative curability, and lymph node metastasis
+were the most important prognostic factors, in both
+classes ( P < 0.01 or 0.05). The multivariate analysis
+indicated that tumor size was also an independent prognostic factor in patients with the undifferentiated type
+(P < 0.01, regression coefficient = 0.050, relative
+risk = l.Ol/cm), however tumor size had no prognostic
+relevance in patients with the differentiated type of
+gastric carcinoma (Table 11).
+To examine the relationship between distribution of
+survival rates and tumor size, we carried out a univariate
+analysis using the Kaplan-Meier method and Mantel-Cox
+analysis. The univariate analysis indicated that tumor size
+correlated with a decreased survival rate for both differentiated and undifferentiated types (P < 0.01). For tumors smaller than 10 cm, the distributions were similar
+for both differentiated and undifferentiated types
+( P > 0.1) (Fig. la, b). For tumors larger than 10 cm, the
+survival time for patients with the undifferentiated type
+was significantly less than for that of the differentiated
+type ( P < 0.01). The cumulative survival rate at 5 years
+was 24.5% for patients with the differentiated type and
+only 12.4% for patients with the undifferentiated type of
+gastric carcinoma (Fig. lc).
+
+DISCUSSION
+Sugano et al. [ l l ] divided gastric carcinoma into
+differentiated and undifferentiated types and suggested
+that the former arises from the intestinal metaplastic
+epithelium, while the latter arises from the ordinary
+mucosa. These two types generally correspond, respectively, to intestinal-type carcinoma and diffuse carcinoma by Laurin’s classification and to expanding type
+and infiltrative type according to Ming’s classification
+[15,16]. Noda et al. [4]reported that the diffuse type
+carcinoma was more common in younger individuals and
+in women, whereas the intestinal type carcinoma was
+more common in aged men. They reported that the
+
+-m
+
+v
+
+.->
+
+I
+0
+
+1
+
+1
+
+2
+
+3
+
+Time after operation (years)
+
+4
+
+5
+
+Fig. 1. Comparison of survival in patients with differentiated type
+and undifferentiated type of gastric carcinoma. The thin black line
+indicates the differentiated type and the bold black line indicates the
+undifferentiated type. a: Tumor size 0 to less than 5 cm; differentiated
+type (n = 118), and undifferentiated type (n = 115) (Mantel-Cox
+analysis, not significant). b: Tumor size 5-10 cm: differentiated type
+(n = 278), and undifferentiated type (n = 295) (Mantel-Cox analysis,
+not significant). c: Tumor size greater than 10 cm: differentiated type
+(n = 83), and undifferentiated type (n = 214) (Mantel-Cox analysis,
+P < 0.01).
+
+206
+
+Moriguchi et al.
+
+diffuse type was more frequently invasive and extensive
+and was associated with peritoneal dissemination,
+whereas the intestinal type metastasized more frequently
+to the liver. Based on the classification by Sugano et al.
+[ l l ] the results agree with the findings of the present
+study. Moreover our findings extended the correlation
+with size of the tumor and enabled detection of independent prognostic factors in differentiated and undifferentiated types. Thus we have been able to characterize the
+two pathological classes of gastric carcinoma by their
+clinical features. Maruyama [ 5 ] reported that gastric wall
+invasion, lymph node metastasis, gross appearance of
+cancer, location, and histological type were the independent prognostic factors in gastric carcinoma. He concluded that tumor size correlated with depth of gastric
+wall invasion and lymph node metastasis although the
+tumor size did have a close correlation with the prognosis. He reported that tumor size had no independent
+prognostic significance after adjusting for other characteristics in the multivariate analysis. Other investigators
+did not discuss the prognostic importance of tumor size
+[&lo]. We determined prognostic factors in each group
+of patients after stratification based on the class of
+pathology. The conclusion reached by Maruyama [5]
+applied only to the differentiated type of gastric cancer in
+the present study. We found that tumor size was clearly
+the most independent prognostic factor for patients with
+the undifferentiated type of carcinoma. In the undifferentiated type, tumors may be more infiltrative or be more
+widespread, independent of the degree of gastric wall
+invasion or status of lymph node metastasis. The tumor
+size may indeed be closely linked to the prognostic
+significance of survival time in the undifferentiated type,
+as tumor size correlated closely to the tumor volume or to
+the number of malignant cells. Hermanek [6] suggested
+that the diffuse type was more extensive throughout the
+gastric wall than was the intestinal type. Husemann [17]
+advocated that the margin of clearance provided at
+gastrectomy be greater for the diffuse type than for the
+intestinal type in case of a carcinoma at the stomach
+cardia. As survival time for the undifferentiated types
+with large tumors was significantly less than that for the
+differentiated type, we recommend that a larger margin
+of clearance from the tumor edge be provided or that an
+extended radical operation be performed for patients with
+the undifferentiated type. When a curative operation,
+despite aggressive treatment, is not effective for such
+patients, then postoperative chemotherapy should be
+prescribed given the greater sensitivity of undifferenti-
+
+ated tumors to antitumor drugs [2,3]. As an accurate
+analysis of prognostic variables is essential, our analysis
+of the prognostic parameters in gastric carcinoma should
+aid in making clinical decisions and thus optimize
+operative and chemotherapeutic success.
+
+ACKNOWLEDGMENTS
+We thank M. Ohara for comments.
+
+REFERENCES
+1. Korenaga D, Haraguchi M, Okamura T, Baba H, Saito A,
+Sugimachi K: DNA ploidy and tumor invasion in human gastric
+cancer. Histopathologic differentiation. Arch Surg 124:314-3 18,
+1989.
+2. Maehara Y, Anai H, Kusumoto H, Sugimachi K: Poorly differentiated human gastric carcinoma is more sensitive to antitumor
+drugs than is well differentiated carcinoma. Eur J Surg Oncol
+13:203-206, 1987.
+3. Maehara Y , Kusumoto T, Sakaguchi Y, Kusumoto H, Kid0 Y,
+Anai H, et al: Pyrimidine nucleotide synthesis is more extensive
+in poorly differentiated than in well-differentiated human gastric
+carcinoma. Cancer 63:9&101, 1989.
+4. Noda S, Soejima K, Inokuchi K: Clinicopathological analysis of
+the intestinal type and diffuse type of gastric carcinoma. Jpn J
+Surg 10:277-283, 1980.
+5. Maruyama K: The most important prognostic factors for gastric
+cancer patients. Scand J Gastroenterol 22:63-68, 1987 (suppl.
+133).
+6. Hermanek P: Prognostic factors in stomach cancer surgery. Eur J
+Surg Oncol 12:241-246, 1986.
+7. Serlin 0, Keehn RJ, Higgins GA Jr, Harrower HW, Mendeloff
+GL: Factors related to survival following resection for gastric
+carcinoma. Analysis of 903 cases. Cancer 40:1319-1329, 1977.
+8. Bozzetti F, Bonfanti G, Morabito A, Bufalino R, Menotti V,
+Andreola S, et al: A multifactorial approach for the prognosis of
+patients with carcinoma of the stomach after curative resection.
+Surg Gynecol Obstet 162:229-234, 1986.
+9. Schmitz-Moormann P, Pohl C, Himmelmann GW, Neumann K:
+Morphological predictors of survival in advanced gastric carcinoma, univariate and multivariate analysis. J Cancer Res Clin
+Oncol 112:15&164, 1986.
+10. Shiu MH, Perrotti M, Brennan F: Adenocarcinoma of the
+stomach: a multivariate analysis of clinical, pathologic and
+treatment factors. Hepatogastroenterology 36:7-12, 1989.
+11. Sugano H, Nakamura K, Kato Y: Pathological studies of human
+gastric cancer. Acta Pathol Jpn 32:329-347, 1982 (suppl. 2).
+12. Japanese Research Society for Gastric Cancer. The general rules
+for the gastric cancer study in surgery and pathology. Part I.
+Clinical classification. Jpn J Surg 11:127-139, 1981.
+13. Dixon WJ (ed.): BMDP Statistical Software Manual. Berkeley:
+University of California Press, 1988, pp 229-744.
+14. Cox DR: Regression models and life tables. J R Statistic SOCSer
+B B34:187-220, 1972.
+15. LaurBn P: The two histologic main types of gastric carcinoma:
+diffuse and so-called intestinal type. Acta Path01Microbiol Scand
+64:3149, 1965.
+16. Ming SC: Gastric carcinoma: a pathological classification. Cancer
+39:2475-2485, 1977.
+17. Husemann B: Cardia carcinoma considered as a distinct clinical
+entity. Br J Surg 76:13&139, 1989.
+
+

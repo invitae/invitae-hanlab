@@ -1,0 +1,645 @@
+© 1992 Oxford University Press
+
+Human Molecular Genetics, Vol. 1, No. 8
+
+599-603
+
+Two hot spots of recombination in the DMD gene
+correlate with the deletion prone regions
+Claudine Oudet, Andre Hanauer, Paula Clemens1, Thomas Caskey1 and Jean-Louis Mandel*
+CNRS-LGME and INSERM U184, Institut de Chimie Biologique, Faculte de Medecine, 67085 Strasbourg, France and
+institute for Molecular Genetics and Howard Hughes Medical Institute, Baylor College of Medicine, Houston, TX, USA
+Received July 21, 1992; Revised and Accepted September 9, 1992
+
+ABSTRACT
+Genetic mapping has indicated that meiotic recombination
+occurs about 4 time more frequently in the dystrophin gene
+than expected on the basis of its length. To detect where
+recombinations occur within the gene, we have studied the
+CEPH families panel using highly polymorphic microsatellite
+markers located at the ends of the gene or flanking the major
+deletion hot spot in intron 44. We found a major hot spot
+of recombination between markers STR44 and STR501, i.e.,
+between exons 44 and 51. Within this hot spot, a peak of
+recombination was located in the large intron 44. A second
+minor recombination prone region was found between DXS
+206, (XJ, in the large intron 7) and the 5' end of the DMD
+gene. The distribution of the recombination events in the gene
+of healthy individuals was very similar to that of deletion
+breakpoints in DMD/BMD patients, suggesting that the two
+phenomenon may share a common mechanism. These results
+should also improve efficiency and accuracy of linkage
+analysis applied to carrier detection and prenatal diagnosis.
+In particular, if markers located at the very 3' end of the
+gene are not informative, the highly polymorphic ones located
+between exons 50 and 60 can be used instead of presently
+available extragenic markers, with a very low risk of
+diagnostic error due to recombination.
+INTRODUCTION
+The most frequent mutations in Duchenne/Becker muscular
+dystrophy (DMD/BMD) are deletions and they account for about
+70%. of the patients Today, multiplex PCR reactions2"5 detect
+almost all deletions in affected males. When no deletion can be
+detected in the proband, intragenic and flanking polymorphic
+markers are commonly used for prenatal diagnosis and carrier
+detection. However, due to the large size of the gene, analysis
+of flanking markers is required, to avoid diagnostic errors due
+to intragenic meiotic recombination.
+In affected families as well as in normal ones, the dystrophin
+gene has been shown to recombine with a high frequency6"8.
+From these studies it was estimated that intragenic recombination
+occurs at a rate of about 10%, 4 times the rate expected on the
+basis of the 2.4Mb size of the dystrophin gene. It was proposed
+that this high rate may be due to localised 'hot spots'. Chen et
+al.6 reported a 3% recombination rate between intragenic loci
+DXS 206 (XJ) and DXS 270 (J Bir) (located 600 kb apart), in
+a large sample of BMD, DMD families. Abbs et al. 7
+
+hypothesized that the deletion prone P20 region around exons
+44—459,10 m a y ajgQ cons titue a recombination hot spot.
+During the past years, highly polymorphic microsatellite
+markers located within the DMD gene or at its 5' or 3' ends,
+have been extensively developed1-4-8- "~ 16 . We took advantage
+of these new markers to test the actual existence of recombination
+hot spots within the normal dystrophin gene, by systematic
+analysis of 39 CEPH families.
+RESULTS
+A series of 10 microsatellite polymorphisms was used in this study
+(table 1). We first tried to find at least one informative marker
+at both the 5' end (near muscle or brain promoters) and in the
+3' region (past exon 55). On the 5' side, markers near the muscle
+promoter had been previously typed by us 8 or by Abbs et al.7.
+For those families which were non informative, we tested the
+highly polymorphic 5' DYS II microsatellite of Feener et al.",
+which is located near the brain promoter. A total of 34 families
+were thus informative on the 5' side. For the 3' region, two
+microsatellites with relatively low informativeness had previously
+been typed 7 ' 8 . In non informative families we now tested the
+DMD lc-2 marker (50% heterozygosity) characterized by Powell
+et al.13. This microsatellite was selected from a cosmid
+containing the Hindin fragments 46 and 47 l3 (detected by cDNA
+probes in genomic DNA10), which correspond to a region
+between exons 56 and 6017 A total of 24 families were thus
+informative for the 3' region, distal to exon 56. Genotypes for
+several pERT87 RFLPs were available from the CEPH data base.
+For those families which showed recombination between pERT
+and the 3' region and for those non informative for the 3' region,
+we typed the microsatellite markers between exons 44 and 51
+(STR 44, 45, 49 and 50) of Clemens et al. 1 . For some
+recombination events, RFLP markers were also typed for more
+precise localisation (XJ2.3 at DXS 206 and J Bir at DXS 270).
+Twenty four intragenic recombinations were detected (fig 1).
+Among them, one was a double recombination in individual 2108.
+Each recombination event was checked by retyping and/or by
+examination of other intragenic markers. These recombination
+events were not randomly located in the gene; there was indeed
+a striking clustering, indicating the presence of two recombination
+prone regions.
+A major hot spot appeared located between introns 44 and 50.
+In this 440kb region17, 11 recombinations were detected. (A
+
+* To whom correspondence should be addressed
+
+Downloaded from https://academic.oup.com/hmg/article-abstract/1/8/599/576062/Two-hot-spots-of-recombination-in-the-DMD-gene
+by guest
+on 13 October 2017
+
+600 Human Molecular Genetics, Vol. 1, No. 8
+
+A.
+0
+
+B.
+
+1.5
+
+0.5
+
+DXS142
+
+BP (pERT84)
+
+2.5 Mb
+
+i
+
+DXS206
+
+DXS164
+
+i
+
+DXS270 DXS269
+
+(XJ) (pERT87) (JBir)
+
+P20
+
+3'U
+
+1c-2 J66
+
+i
+
+1 1
+
+i
+
+Exons 1
+
+10
+
+20 30 40 44
+
+45 46 5051 55
+
+70
+
+60
+
+c.
+i
+
+i
+
+i
+
+i i
+
+i t
+
+Figure 1. Map of intragenic recombinations events. A. Megabase scale starting at the brain dystrophin promoter (BP) of the DMD gene. B. Simplified physical
+map of the DMD gene displaying , above, the loci and probes, and below the location of exons17'32 C. Number and location of recombinations detected in this study.
+
+further 3 recombinations occurring between pERT87 and intron
+45 could not be localised with respect to the intron 44 marker).
+These events represent almost half of all recombinants, and are
+2.5 times more frequent than expected if the distribution along
+the gene was random (p<0.05); they correspond to about 10
+fold the usual recombination rate observed elsewhere in the
+genome (fig. 2). Within this region, a peak was located between
+the markers STR44 and STR45, as it included at least 5
+recombinations (and 5 others whose localisation encompasses this
+region could not be more precisely mapped). Recombinants did
+not display any specific haplotype for markers STR44 and STR45
+(not shown).
+STR44, which flanks the recombination hot spot on the 5' side,
+is located in the very large intron 44 (about 170kb). Intron 44
+and the smaller intron 45 are known to encompass the major
+deletion hot spot within the dystrophin gene 91018 . Deletion
+breakpoints appear largely spread out over intron 44 (although
+precise data are lacking for the 5' half of this intron)18. In order
+to estimate more precisely the position of STR44 with respect
+to the deletion prone region, we checked its presence or absence
+in 26 unrelated patients who have a deletion breakpoint in intron
+44 (Table 2). 4 patients were deleted for exon 44 and 22 for exon
+45. STR44 was present in 17 cases and segregated preferentially
+with exon 44 (19 times out of 26). We conclude that more than
+75 % of deletion breakpoints within the deletion prone region
+(which includes at least part of intron 45) map distal to STR44.
+A second recombination prone region was detected between
+the 5' end of the gene and the marker XJ. Eight recombinations
+occurred between the markers at the 5' end of the gene, and
+pERT87 (a 850 kb region17). Three of the 6 families concerned
+were informative for the XJ2.3 polymorphic probe. Three
+recombinations were localised between muscle exon 1 and exon
+8 (a region of 570kb). The other recombinations could not be
+localised more precisely, because of lack of informativeness of
+the markers. Only one recombinant could be ascribed
+unambiguously to the region between pERT87 and J.Bir, and
+another one between exon 51 and the 3' untranslated region.
+
+151
+
+\Q-
+
+i
+.1
+
+5'end
+
+2.9 1.6
+
+I I I
+XJ pERT .44 45 50.
+STR
+87
+
+3'UTR
+
+Figure 2. Heterogeneity of recombination density throughout the dystrophin gene,
+above: density (in cM/Mb) of recombinations in the DMD gene between markers
+referred to in this study. Abscissa is proportional to physical distances; below:
+genetic map distances (in centiMorgans) estimated by multipoint analysis.
+
+Two point and multipoint linkage analysis was performed.
+Because intragenic microsatellites were not typed in some non
+recombinant families, most two point lod scores involving them
+may be biased towards higher recombination (table 3). This bias
+can be overcome by multipoint analysis which takes into account
+
+Downloaded from https://academic.oup.com/hmg/article-abstract/1/8/599/576062/Two-hot-spots-of-recombination-in-the-DMD-gene
+by guest
+on 13 October 2017
+
+Human Molecular Genetics, Vol. 1, No. 8 601
+Table 1. Microsatellite polymorphisms in the DMD gene used as markers in this study
+Location
+
+Name
+
+Reference
+
+observed
+heterozygozity*
+
+brain dystrophin promoter
+muscle dystrophin promoter
+
+5'DYS-II
+5'DYS MSA
+5'DYS MSB
+STR44
+STR45
+STR49
+STR50
+DMDlc-2
+MP1P
+3'DYS MS
+
+Feener et al.
+Oudet et a]. 8
+
+0.68
+0.57
+0.17
+0.89
+0.83
+0.87
+0.84
+0.46
+0.20
+
+introns 44
+45
+49
+50
+Hd 46, Hd 47 fragments (exons 56-60)
+3'untranslated
+
+:
+
+Clemens et al.1
+
+Powell et al. 13
+Roberts et al.14
+Oudet et al.12
+Beggs et al. 4
+
+0.34
+
+these values do not differ significantly from those expected from published allele frequencies
+
+the markers at each end which were typed also in non
+recombinant families. Estimation of recombination was obtained
+by a 7 point analysis using the C-ILINK program, a speedy
+version of ILINK for CEPH pedigrees (C. Person, personal
+communication). We assumed that the 5' markers near the brain
+or muscle promoter constitute a single genetic locus, and the same
+assumption was made for STR49 and 50, and for DMDlc-2 and
+the 3' end markers. This is justified as a first approximation,
+as no recombination was detected within these groups of markers.
+An overall recombination estimate of 8.7% was obtained between
+the 5' and 3' end, with 3% between the 5' end and XJ and 4.5%
+between exons 44 and 51 . From these results we also estimated
+the ratio of genetic map distance (in cM) to physical distance
+(in megabase) which clearly illustrates the presence of the two
+recombination prone regions (fig. 2).
+From the recombination estimate between the 5' and 3' ends,
+one could expect about 13 families with one recombination, 5
+families with 2, and 2 families with 3. The distribution observed
+does not depart from these probabilities (12 families had 1
+recombinant, 3 had 2, and 2 had 3), and there is thus no indication
+that some families may be more prone to recombination than
+others.
+DISCUSSION
+We have analyzed recombination throughout the dystrophin gene
+using a series of microsatellite markers typed in 39 normal
+(CEPH) families. Our overall estimation of recombination
+between the 5' and 3' end of the gene is about 9%, which is
+slightly less than the 11 % we had obtained previously on a smaller
+number of informative families8. A total of 24 intragenic
+recombination events were mapped.
+We have obtained evidence for two hot spots of recombination
+in the DMD gene: a major one between STR44, in the proximal
+part of intron 44, and STR50 (intron 50), and a minor one
+between the muscle dystrophin promoter and exon 8. In the
+former region, the average recombination rate is llcM per
+megabase, while in the latter it is about 4.5cM per megabase,
+while lcM per megabase is the average over the whole genome.
+Our multipoint estimate of the recombination rate between
+DXS206 and intron 44 is 0.6 cM, which is less than the 2.9cM
+± lcM estimate of Chen et al6 for the interval DXS206DXS270 (the latter is in intron 43), based mostly on the analysis
+of DMD/BMD families. This apparent discrepancy may be due
+to the uncertainty affecting these estimates, as the number of
+
+Table 2. Location of STR44 with respect to deletion breakpoints in intron 44
+Exon 45
+Exon 44
+
++
+
++
+-
+
+16
+
+17
+
+6
+
+9
+26
+
+STR44
+22
+
+Table 3. Maximum two point lod scores between intragenic markers
+
+5'end-pERT87
+5'end-STR44
+5'end-STR45
+5'end-(STR49+50)
+pERT87-STR44
+pERT87-STR45
+pERT87-(STR49+50)
+pERT87-3'end
+STR44-STR45
+STR44-(STR49+50)
+STR45-STR49
+STR45-(STR49+50)
+(STR49+50)-3'end
+5'end-3'end
+
+Zmax
+
+Recombination
+fraction
+
+49.14
+29.98
+11.09
+15.60
+43.98
+13.87
+23.72
+18.05
+15.09
+27.29
+11.40
+15.82
+10.82
+22.71
+
+.04
+.04
+.09*
+.11*
+.005
+.09*
+.08*
+.09
+.06*
+.05*
+.06*
+.05*
+.02*
+.10
+
+Lod-1
+confidence
+limits
+.015-.075
+
+.001 -.035
+.075-.16
+
+.055-.17
+
+As STR45, 49 and 50 have been typed preferentially in recombinant families,
+the corresponding estimates of recombination fraction are biased towards higher
+values; confidence limits are given for values derived from unbiased typing. 3'
+end corresponds to the combination of DMD lc-2, MP1P and 3' DYS MS.
+
+recombination events recorded is small. In our sample a single
+recombinant could be precisely mapped between DXS206 and
+STR44, but 7 other events could only be mapped to a broader
+region which encompasses the DXS206—DXS270 interval. Only
+one intragenic recombination was found distal to exon 51 (in about
+200 meioses informative for the 3' region).
+When the distribution of the recombination events in the CEPH
+panel families was superimposed with the histograms of the
+deletion breakpoints in the BMD and DMD patients reported by
+Koenig et al.9 as well as by Den Dunnen et al.10, there was an
+obvious correlation between the location of the hot spots for
+recombinations and the hot spots for deletions (e.g., see fig. 2
+
+Downloaded from https://academic.oup.com/hmg/article-abstract/1/8/599/576062/Two-hot-spots-of-recombination-in-the-DMD-gene
+by guest
+on 13 October 2017
+
+602 Human Molecular Genetics, Vol. 1, No. 8
+in Den Dunnen et al.10). Moreover, the peaks for recombinations and deletions rose to the same magnitude: about half
+of the recombination events we report, were located between
+introns 44 and 50, whereas about 53% of all deletions observed
+in the study of Koenig et al. 9 took place in the same region. In
+particular at least 5 of the 11 recombinations mapped between
+intron 44 and 50 were located between introns 44 and 45, which
+corresponds to the peak of deletion breakpoint density(910).
+Similarly, at least one sixth of the recombinations were located
+between exons 1 and 8, compared to 18% of the deletions.
+The similar localisation of hot spots of meiotic recombination
+and hot spots of deletions suggest mat they may share a common
+mechanism of genome instability. However, mitotic exchange
+between sister chromatids may be at least as important as meiotic
+recombination in generating deletions or duplications in the
+dystrophin gene, as shown by the approximately equal frequency
+of paternal or maternal origin of such mutations19. Furthermore
+as pointed out by Love et al.20, the higher frequency of deletions
+versus duplications indicate that the major deletion mechanism
+may not be a simple unequal crossing over.
+Homologous recombination between repetitive sequences was
+found frequently involved in generating deletions in some genes,
+such as the steroid sulfatase gene21, the complement Cl-inhibitor
+gene implicated in hereditary angiodema22, the low-densitylipoprotein-receptor gene23 or the a-globin locus24. However,
+the fine mapping of 113 breakpoints of deletions within intron
+44 did not reveal local clustering expected if such mutations were
+linked to the presence of a specific sequence18. The sequence
+of two junction fragments of deletions within the hot spot did
+not reveal an involvement of a repetitive sequence20.
+The sequences which may favor meiotic recombinations in
+mammals are not known. A recombination hot spot within the
+mouse MHC was precisely mapped within a 800bp fragment
+containing a tetranucleotide repeat sequence. However, the strong
+linkage desequilibrium associated to several microsatellites8'25
+does not favour a general enhancement effect of such sequences
+on meiotic recombination. On the other hand, minisatellites have
+been found clustered in telomeric regions that show high
+recombination frequency26"30. The mapping of recombination
+events within the dystrophin gene is not precise enough to allow
+differentiation between the involvement of specific sequences,
+or rather the existence of a particular higher order chromatin
+conformation favoring deletions and other recombination events,
+as suggested by Blonden et al. 18 .
+Our results have important implications for the application of
+linkage analysis for carrier detection and prenatal diagnosis in
+those DMD/BMD families where direct detection of deletions
+or duplications is not possible. The 10% intragenic recombination
+rate renders mandatory the use of flanking markers. On the 5'
+side the microsatellites described near the brain or muscle
+promoters 8> " should provide information in almost all cases.
+The situation was much less favorable at the 3' end since the
+two microsatellites described within the 3'UTR 81214 are not
+very informative, especially as they are in strong linkage
+desequilibrium12. Available extragenic markers mapped in the
+3' telomeric side such as RFLPs at DXS28 or DXS41 are
+moderately informative, but their major drawback in their location
+within 5 to IOCM of the DMD gene. The mapping of
+recombination events within the dystrophin gene indicates that
+the microsatellite described by Powell et al.13 in the exons
+5 6 - 6 0 region, and even the highly informative STR50 repeat1,
+can be used when those in the 3' untranslated region are not
+
+informative. We have estimated the intragenic recombination
+distal to STR50 at .6 cM. Even if a more conservative figure
+of lcM is used, given that about 70% of the coding sequence
+mutation target (point mutations) is located upstream STR50, the
+probability of having at the same time a distal recombination and
+an even more distal mutation causing a diagnostic error would
+be out of the order of 0.13%, and this would concern only about
+10% of the DMD families (i.e. where no deletion is detected
+and where no marker distal to STR50 is informative), an overall
+risk which would be equivalent to that of new mutations in the
+DMD gene.
+MATERIAL AND METHODS
+The CEPH panel of 40 large families was screened for twelve DMD intragenic
+markers (one of the pedigrees was omitted from further analysis because of
+inconsistent results). Microsatellite markers reported in table 1 were typed as
+described in the relevant references, using (in general) one end 32P labeled
+primer, or (in some cases) ethidium bromide staining.
+We used the CEPH data base which provided the typing results for the markers
+84 1Q16, the pERT 87 probes at DXS 164 (pert87-l, 87-8, 87-15, 87-30)31 and
+MP1P i".
+The linkage analysis was performed using the C-ILINK computer program (C.
+Person, personal communication).
+
+ACKNOWLEDGMENTS
+We thank C.Person (CEPH) for providing the C-ILINK program. We are grateful
+to Chantal Weber and Sandra Blumenfeld for skillfull technical assistance. We
+thank A.Staub and F.Ruffenach for the synthesis of oligonucleotides. This work
+was supported by grants from the A.F.M. (Association Francaise contre les
+Myopathies) and from the CHU Regional de Strasbourg.
+
+REFERENCES
+1. Clemens,P.R., Fenwick.R.G., Chamberlain,J.S., Gibbs.R.A., de
+Andrade,M., Chakraborty.R. and Caskey,C.T. (1991) Am. J. Hum. genet,
+49, 951-961.
+2. Chamberlain.J.S., Gibbs.R.A., Ranier.J.E., Nguyen,P.N.and Caskey.C.T.
+(1988) Nucleic Acids Res. , 16, 11141-11156.
+3. Chamberlain.J.S., GibbsR.A., RanierJ.E.and Caskey.C.T. (1990) In
+Innis.M.A., Gelfand.D.H., Sninsky,J.J.and White.T.J. (eds.) PCR Protocols:
+a Guide to Methods and Applications. New York Academic Press.
+4. Beggs.A.H.and Kunkel.L.M. (1990) Nucleic Acids Res., 18, 1931.
+5. Beggs,A.H., Koenig,M., Boyce,F.M.and Kunkel.L.M. (1990) Hum. Genet.,
+86, 4 5 - 4 8 .
+6. Chen.J.D., Hejtmancik.J.F., Romeo,G., Lindlof,M., Boehm.C,
+Caskey.C.T., Kress.W., Fischbeck.K.H., Dreier.M., Serravalle.S.,
+Grimm,T., Kaariainen,H., Ferrari,M., Pfendner,E., Meng.,G., de la
+ChapelleA., Melis.M.A., Muller,B., MacKinlay.A.G., Muller,C.R., and
+Demon, M.J. (1989) Genomics, 4, 105-109.
+7. Abbs.S., Roberts.R.G., Mathew.C.R., Bentley.D.R.and Bobrow.M. (1990)
+Genomics, 7, 602-606.
+8. Oudet,C, Heilig.R., Hanauer.H.and Mandel,J.-L. (1991) Am. J. Hum.
+Genet., 49, 311-319.
+9. Koenig.M., Beggs.A.H., Moyer.M., Scherpf.S., Heindrich.K., Bettecken,T.,
+Meng,G., Muller.C.R., Lindlof.M., Kaarianen.H., de la Chapelle.A.,
+Kiuru.A., Savontaus,M.-L., Gilgenkrantz.H., Recan,D., Chelly,J.,
+Kaplan,J.-C, Covone.A.E., Achidacono,N., Romeo.G., Liechti-Gallari.S.,
+Schneider,V., Braga.S., Moser.H., Darras.B.T., Murphy.P., Francke.U.,
+Chen,D., Morgan.G., Denton.M., Greenberg.C.R., Wrogemann.K.,
+Blonden.L.A., van Paassen.H.M.B., van Ommen.G.J.B.and Kunkel.L.M.
+(1989) Am. J. Hum. Genet., 45, 489-506.
+10. Den Dunnen.J.T., Grootscholten.P.M., Bakker.E., Blonden,L.A.,
+Ginjaar,H.B., Wapenaar.M.C, van Paassen,H.M.B., van Broeckhoven,C,
+Pearson,P.L.and van Ommen.G.J.B., (1989),Am. J. Hum. genet., 45,
+835-847.
+11. Feener.C.A., Boyce.F.M. and Kunkel.L.M. (1991) Am. J. Hum. Genet.
+48, 621-627.
+12. Oudet.C, Heilig.R. and Mandel,J.-L. (1990) Hum. Genet., 84, 283-285.
+13. Powell,J.F., Fodor.F.H., Cockburn.D.J., Monaco,A.P. and Craig.I.W.
+(1991) Nucleic Acids Res., 19, 1159.
+
+Downloaded from https://academic.oup.com/hmg/article-abstract/1/8/599/576062/Two-hot-spots-of-recombination-in-the-DMD-gene
+by guest
+on 13 October 2017
+
+Human Molecular Genetics, Vol. 1, No. 8 603
+14. Roberts.R.G., Montandon,A.J., Bobrow,M. and Bentley,D.K. (1989a)
+Nucleic Acids Res., 1989, 17, 5961-5971.
+15. Roberts,R.G., Cole.C.G., Hart.K.A., Bobrow.M. and Bentley,D.R. (1989b)
+Nucleic Acids Res. 17, 811.
+16. Roberts.R.G., Bobrow.M. and Bentley,D.R.(1990) Nucleic Acids Res., 18,
+1315.
+17. Coffey,A., Roberts.R.G., Green.E.D., Cole.C.G., Butler.E.R., Anand.R.,
+Giannelli.F. and Bentley.D. (1992) Genomics, 12, 474-484.
+18. Blonden,L.A.J., Grootscholten.P.M., Den Dunnen.J.T., Bakker.E.,
+AbbsS., Bobrow.M., Boehm,C, van Broeckhoven,C, Baumbach.L.,
+Chamberlain,J., Caskey.C.T., Demon,M., Felicetti.L., Galuzzi.G.,
+Fischbeck.K.H., Francke.U., Darras.B., Gilgenkrantz.H., Kaplan,J.-C,
+Hernnann.F.H., Junien.C, Boileau.C, Liechti-Gallati.S., Lindlof,M.,
+Matsumoto.T., Niikawa.N., Muller.C.R., Poncin.J., Malcolm.S.,
+Robertson.E., Romeo,G., Covone,A.E., Scheffer.H., Schroder.E.,
+Schwartz.M., Verellen,C, Walker,A., Worton.R., Gillard.E., and van
+Ommen G.J.B. (1991) Genomics, 10, 631-639.
+19. van Essen,A.J., Abbs.S., Baiget.M., BakkerE., Boileau.C, van
+Broeckhoven.C, Bushby,K., Clarke.A., Claustres.M., Covone.A.E.,
+Ferrari,M., Ferlini,A., Galluzzi,G., Grimm.T., Grubben.C, Jeanpierre,M.,
+Kaariainen,H., Liechti-Gallati.S., Melis,M.A., van Ommen,G.-J. B.,
+Poncin,J. E., Scheffer,H., Schwartz,M., Speer,A., Stuhrmann,M., VerellenDumoulin.C, Wikox.D. and ten Kate,L.P. (1992), Hum. Genet., 88,
+249-257.
+20. Love,D.R., England.S.B., Speer.A., Marsden.R.F., Bloomfield.J.F.,
+Roche.A.L., Cross,G.S., Mountford,R.C, Smith,T.J. and Davies.K.E.
+(1991) Genomics, 10, 57-67.
+21. Yen.P.H., Li,X.-M., Tsai,S.-P., Johnson.C, Mohandas.T. and Shapiro.L.J.
+(1990) Cell, 61, 603-610.
+22. Stoppa-Lyonnet.D., Duponchel,C, Meo.T., LaurentJ., Carter,P.E., AralaChaves,M., Cohen,J.H.M., Dewald,G., Goetz,J., Hauptmann.G.,
+Lagrue,G., Lesavre.P., Lopez-Trascasa,M., Misiano.G., Moraine,C,
+Sobel,A., Spath.P. andTosi,M. (1991) Am. J. Hum. Genet., 49,1055-1062.
+23. Horsthemke,B., Beisiegel,U., Dunning,A., Havinga.J.R., Williamson.R. and
+Humphries.S., (1987) Eur. J. Biochem., 164, 7 7 - 8 1 .
+24. Nicholls.R.D., Fishel-Ghodsian.N. and Higgs.D.R., (1987) Cell, 49,
+369-378.
+25. Fujita,R., Hanauer.A., Sirugo.G., Heilig.R. and Mandel,J.-L. (1990) Proc.
+Natl. Acad. Sci., 87, 1796-1800.
+26. Chandley.A.C. (1989), J. Med. Genetics, 26, 546-552.
+27. Royle.N.J., Clarkson,R.E., Wong,Z. and Jeffreys,A.J. (1988) Genomics,
+3, 352-360.
+28. Buetow,K.H., Shiang,R., Yong,P., Nakamure.Y., Lathrop,G.M., White.R.,
+Wasmuth.J.J., Wood.S., Berdahl,L.D., Leysens.N.J., Ritty.T.M.,
+Wise.M.E. and Murray,J.C. (1991) Am. J. Hum. Genet., 48, 911-925.
+29. Rouyer.F., Simmler,M.-C, Johnsson.C, Vergnaud.G., Cooke.H.J. and
+Weissenbach.J. (1986) Nature, 319 291-295.
+30. Page.D.C, Bieker.K., Brown.L.G., Hinton.S., Leppert.M., Lalouel,J.-M.,
+Lathrop.M., Nystrom-Latti.M., de la Chapelle.A., and White.R. (1987)
+Genomics, 1, 243-256.
+31. Klinger.H.P., (ed.) Cytogenetics and Cell Genetics, Human Gene Mapping
+11, 1991, S. Karger, 1632-1633.
+32. Den Dunnen,J.T., Grootscholten,P.M., Dauwerse.J.G., WalkerA.P.,
+Monaco.A.P., ButlerR., AnanR., CoffeyA.J., BentleyD.R., Steensma,H.Y.
+and van Ommen, G.J.B. (1992) Human Mol. Genetics, 1, 19-28.
+
+Downloaded from https://academic.oup.com/hmg/article-abstract/1/8/599/576062/Two-hot-spots-of-recombination-in-the-DMD-gene
+by guest
+on 13 October 2017
+
+

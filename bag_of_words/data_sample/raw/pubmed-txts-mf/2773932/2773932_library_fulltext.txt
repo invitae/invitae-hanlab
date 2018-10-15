@@ -1,0 +1,806 @@
+Am. J. Hum. Genet. 45:354-361, 1989
+
+A High Proportion of ADA Pint Mutations Associated with
+Specific Alanine-to-Valine Substitution
+
+a
+
+M. Louise Markert, * Colette Norby-Slycord, * and Frances E. Ward1
+Department of Pediatrics, Division of Allergy and Immunology, and tDepartment of Microbiology and Immunology, Division of Immunology,
+Duke University Medical Center, Durham, NC
+
+Summary
+In 15%-20% of children with severe combined immunodeficiency (SCID), the underlying defect is adenosine deaminase (ADA) deficiency. The overall goal of our research has been to identify the precise molecular defects in patients with ADA-deficient SCID. In this study, we focused on a patient whom we found to
+have normal sized ADA mRNA by Northern analysis and an intact ADA structural gene by Southern analysis. By cloning and sequencing this patient's ADA cDNA, we found a C-to-T point mutation in exon 11.
+This resulted in the amino acid substitution of a valine for an alanine at position 329 of the ADA protein.
+Sequence analysis revealed that this mutation created a new Banl restriction site. Using Southern analyses,
+we were able to directly screen individuals to determine the frequency of this mutation. By combining data
+on eight families followed at our institution with data on five other families reported in the literature, we
+established that five of 13 patients (seven of 22 alleles) with known or suspected point mutations have this
+defect. This mutation was found to be associated with three different ADA haplotypes. This argues against
+a founder effect and suggests that the mutation is very old. In summary, a conservative amino acid substitution is found in a high proportion of patients with ADA deficiency; this can easily be detected by Southern analysis.
+
+Introduction
+Severe combined immunodeficiency (SCID) is a syndrome characterized by a profound deficiency in B- and
+T-cell function (Bortin and Rimm 1977). Infants born
+with this disorder die in the first few years of life unless
+treated successfully by bone marrow transplantation or
+kept in a sterile isolation facility (Bortin and Rimm
+1977; Buckley et al. 1986). In most cases of SCID the
+underlying molecular defect is unknown. In 15% of
+the patients, however, a deficiency of the enzyme adenosine deaminase (ADA; E.C.3.5.4.4) is found (Kredich
+and Hershfield 1983; Buckley et al. 1986) and is thought
+to be responsible for their immunodeficiency (Giblett
+et al. 1972).
+
+Received February 7, 1989; revision received March 21, 1989.
+Address for correspondence and reprints: M. Louise Markert, M.D.,
+Ph.D., Department of Pediatrics, Box 3068, Duke University Medical Center, Durham, NC 27710.
+0 1989 by The American Society of Human Genetics. All rights reserved.
+
+0002-9297/89/4503-0003$02.00
+
+354
+
+In recent years the normal ADA cDNA (Orkin et al.
+1983; Valerio et al. 1983; Wiginton et al. 1983) and
+normal ADA gene (Wiginton et al. 1986) have been
+characterized, facilitating studies of the molecular
+defects in patients with ADA deficiency. The specific
+mutations found to date have been similar to those found
+in other inherited disorders. In most patients Northern
+RNA analyses have revealed normal sized ADA mRNA
+(Adrian et al. 1984), suggesting that most ADA mutant
+alleles carry a point mutation leading to an inactive or
+unstable ADA protein. In eight mutant ADA cDNAs
+sequenced to date, point mutations affecting amino acid
+sequence have been found (Bonthron et al. 1985; Valerio
+et al. 1986; Akeson et al. 1987, 1988). One patient
+has been described with abnormal sized ADA mRNA,
+and an RNA splicing defect was identified in this case
+(Akeson et al. 1987). In two patients, no ADA mRNA
+has been detected. These patients have been shown to
+carry deletions encompassing the first exon and promoter regions of the ADA gene (Berkvens et al. 1987;
+Markert et al. 1988).
+We are interested in elucidating the molecular defect
+
+355
+
+Common Point Mutation in ADA Deficiency
+in patients with ADA deficiency who are well characterized clinically and immunologically. In this study,
+we began our work by focusing on one patient, LB,
+who was previously shown to have very low levels of
+ADA enzyme activity (Markert et al. 1987a). The research described in the present paper led to the precise
+definition of the mutation in this patient, a point mutation leading to the substitution of valine for alanine
+in the ADA protein. As the point mutation created a
+restriction-site polymorphism, it was possible by Southern analysis to screen additional patients for this mutation. The surprising result of this study was that five
+of 13 patients (seven of 23 alleles) were found to carry
+this mutation. These patients represented a wide diversity of ethnic and racial backgrounds. This is an unusually high percentage of a particular mutation in an
+unselected population.
+
+Probes
+
+The ADA cDNA and genomic probes were provided
+by Dr. John Hutton (Cincinnati). The cDNA and first
+exon genomic probes used in figures 1 and 2 have been
+described in detail elsewhere (Markert et al. 1987b).
+The genomic probe used in figure 4 is the 849-bp-PstIPstI genomic fragment whose 3' end is in exon 11. The
+genomic probe mentioned in table 1 is the 299-bp PstIPstI genomic fragment whose 5' end is in exon 5 (see
+Wiginton et al. 1986 for sequences). The actin control
+probe, pHF1A.1, a cDNA for human fibroblast cytoplasmic 13 actin (Gunning et al. 1983), was provided
+by Dr. Larry Kedes (Stanford). The probes were labeled
+with 32p to a specific activity of >108 cpm/ pg by using
+the random primer method (Feinberg and Vogelstein
+1983, 1984).
+cDNA Synthesis, Cloning, and Sequencing
+
+Material and Methods
+Cell Lines
+
+B lymphoblastoid cell lines were established from
+Ficoll-Hypaque-purified peripheral mononuclear cells
+by Epstein-Barr virus transformation (Markert et al.
+1987b; Katsuki and Hinuma 1975). The patients
+reported in the present paper have been extensively studied clinically at Duke University Medical center (Buckley et al. 1986; Markert et al. 1987a). Enzymatic studies
+have confirmed the patients' lack of ADA enzymatic
+activity (Markert et al. 1987a). HLA typing was used
+to confirm the identity of the cell lines.
+RNA and DNA Purification from the Lymphoblastoid
+Cell Lines
+
+RNA was harvested by the technique of Chirgwin
+(1979; Markert et al. 1987b) by using guanidine
+isothiocyanate extraction and purification by cesium
+chloride gradient centrifugation. Poly A+ RNA was
+isolated according to a method described elsewhere (Avis
+and Leder 1972). DNA was purified by the method of
+Gustafson et al. (1987).
+Southern DNA Analyses
+
+These analyses were done using minor modifications
+of the standard technique of Southern (Southern 1975),
+as described by Markert et al. (1987b).
+Northern RNA Analyses
+
+These analyses were done using formaldehyde agarose
+gels according to a method described elsewhere (Markert et al. 1987b).
+
+cDNA was prepared by the method of Gubler and
+Hoffman (1983). The cDNA was size-selected by the
+potassium-acetate-gradient method of Aruffo and Seed
+(1987). EcoRI adapters (Pharmacia) were added, and
+the cDNA was cloned into XgtlO (Promega). This was
+packaged (Promega) and titered on Escherichia coli
+C600hfl. Two hundred thousand plaques were screened
+by hybridization after transfer to nitrocellulose filters
+by Benton and Davis plaque hybridization (Benton and
+Davis 1977). DNA from positive clones was purified
+by a plate lysate method (Maniatis et al. 1982), and
+recombinants were confirmed by restriction-endonuclease mapping. cDNAs were subcloned into pUC and
+then into M13 vectors. Both strands of five cDNA isolates were sequenced by dideoxy chain-termination analysis (Sanger et al. 1977; Markert et al. 1988).
+Results
+ADA mRNA Levels
+
+Figure 1 shows RNA blot hybridization (Northern
+blot) of poly A+ RNA isolated from the B cell lines
+established from the ADA-deficient patient LB, her parents, and a normal control. The probe used in panel
+A was the BamHI-AccI fragment of the ADA cDNA,
+which contains exons 2-12. Lanes 1-4 contain poly A+
+RNA. All individuals show ADA mRNA of the correct
+size (approximately 1,500 bases). As a control, the membrane in figure 1A was stripped and reprobed with a
+human fibroblast cytoplasmic 1 actin cDNA as shown
+in panel B. All poly A+ RNA samples, including the
+RNA from patient LB in lane 3, hybridized well to the
+
+Markert et al.
+
+356
+
+B
+
+A
+
+C.
+
+C.
+
+a
+
+L
+
+4jc
+C
+
+41
+
+0
+
+C.
+
+,C
+
+43
+
+4-
+
+4JE
+C V
+
+a
+
+IL
+
+:5
+
+41A
+
+L.O
+
+1~~~~C
+
+!q
+
+lb
+
+C
+
+a
+
+L
+
+-
+
+X
+
+9.6kb
+
+7.6kb -
+
+41
+
+.4.6kb
+
+2.6kb
+
+.28 8
+
+< 1.2kb
+
+_18
+
+8
+Probe:
+I
+
+xoxn
+
+I
+
+Exoe.
+
+5'
+
+2
+
+7.6dill A
+7.6
+
+PROBE:
+ADA
+oDNA
+
+PROBE:
+=-ACTIN
+oDNA
+
+Figure I
+Northern blot of poly A+ RNA from LB family. Three
+micrograms of poly A + RNA from the cell lines indicated were applied to the gel. After electrophoresis and capillary blot transfer, the
+filter was hybridized with radiolabeled (A) ADA cDNA or (B) actin
+cDNA. The same filter is shown in both panels. The positions of
+18S and 28S RNA is indicated.
+
+actin probe at the expected position for 1-actin mRNA,
+2,000 bases. Normalization of the signal intensities,
+in panel A, with those for the actin control in panel B
+shows that all RNA samples carry equivalent amounts
+of ADA mRNA.
+Analysis of Gene Integrity at the DNA Level
+
+Figure 2 shows DNA blot hybridization (Southern
+blot) of HindIII-digested DNA from the same B cell
+lines examined in figure 1. The membrane was probed
+with an ADA genomic clone taken from the exon 1 region and with a cDNA probe encompassing exons 2-12.
+
+Probe:
+
+ADA eDNA
+(oxons 2-12)
+2
+I
+
+24 Sin
+
+I,
+
+as
+
+i
+
+1...
+
+i
+
+9.0 1.9 3.6 2.9
+
+Southern blot analyses of DNA from LB family memFigure 2
+bers. Ten micrograms DNA from family members was digested with
+HindIII, electrophoresed, and transferred to a membrane by capillary blotting. The filter on the left was hybridized with a genomic
+probe isolated from exon I, and the filter on the right is the same
+filter hybridized with a probe isolated from an ADA cDNA. At the
+bottom of the figure is a diagrammatic representation of the ADA
+gene. The 12 exons are indicated by vertical lines. The sizes of the
+normal HindIII restriction fragments are indicated.
+
+DNA from patient LB demonstrates the same pattern
+as is seen both in her parents and in the control. This
+demonstrates that the ADA structural gene in patient
+LB is intact.
+cDNA Sequence Results
+
+cDNA prepared from poly (A) RNA was cloned into
+Forty positives were identified; eight were subcloned; and five were
+chosen for sequence analysis. These were subcloned into
+M13 for sequencing. The regions of the five cDNAs
+that were sequenced are indicated in figure 3. Four of
+the five encompassed all the protein-coding portion of
+the ADA cDNA (positions 96-1184).
+Only two differences were found in comparing the
+wild-type sequence to the LB cDNA. Patient LB has
+XgtlO, and 200,000 plaques were screened.
+
+Common Point Mutation in ADA Deficiency
+
+357
+
+a C-to-T mutation in exon 11 (position 1081) of the
+cDNA according to Wiginton et al. [1986]) and a G-toA polymorphism in exon 6 (position 629 ofthe cDNA).
+The mutation at position 1081 causes an amino acid
+substitution of valine for alanine at position 329 of the
+protein sequence. The polymorphism at position 629
+does not affect the amino acid sequence.
+
+L.
+*
+
+L
+L
+
+_-a
+
+E
+
+I
+m
+m mI
+Ji *j J
+
+I..
+
+_
+
+_
+
+0
+
+.6-
+
+o
+
+L.
+
+0.
+
+a
+
+o
+
+E
+.IIDmm
+
+E
+mmI
+-2-,
+
+Southern Analysis of Mutation at Base Pair 1081
+
+Analysis of the cDNA sequence around the 1081 mutation revealed that a new Ball restriction site had been
+formed. Patient LB and her parents were examined to
+determine whether she was homozygous for the mutation. Figure 4 (lanes 1-3) shows the results of a Southern analysis with DNA from the LB family. Patient LB
+demonstrates only the abnormal restriction fragment
+of 1.8 kb. Both of her parents carry one normal fragment of 2.6 kb and one abnormal fragment of 1.8 kb.
+Thus, patient LB is homozygous for this mutation. Because of the cDNA sequencing studies shown in figure
+3, we feel confident that this is the only mutation in
+this patient's ADA mRNA.
+Seven additional ADA-deficient patients (and/or their
+parents) followed at our institution were screened by
+Southern analysis in looking for this mutation. As can
+be seen in figure 4, two additional patients from the
+seven families tested carried this mutation; one (patient
+JB) in addition to LB is homozygous for the mutation,
+and another (patient BJ) is heterozygous for the muta-
+
+Sequencing Strategy
+Normal 0
+
+ADA cDNA
+
+f=ATc
+
++1498
+AAAA
+
+cDNA isolate
++33
+
++1498
+
+1
+
++32
+
++1498
+
+2
+
++158
+
++1ns
+
+3
+
++1498
+
+4
+
++1489
+
+5
+
++32
+
+i
+
+-14
+
+629
+GTG-GTA
+VAL-VAL
+
+1081
+GCG-GTG
+ALA-VAL
+
+Figure 3 Sequence analysis of the ADA cDNA from patient
+LB. Five ADA cDNA clones were independently isolated. The 5' and
+3' limits of the cDNAs are indicated relative to the normal ADA cDNA,
+shown at the top of the figure. The five ADA-cDNA clones were sequenced as indicated by the arrows ( - and -). The polymorphisms
+(+) and mutations (V) found in the five cDNAs are indicated. The
+region missing in clone 2 was never successfully cloned into M13.
+
+< 2.6kb
+< 1.8kb *
+
+Cexan
+I..._
+2.6
+
+kb
+
+*
+
+Normal Allele
+
+B
+
+B
+
+Mutant Allele
+
+1.8 kb
+
+B
+
+T
+
+Ii
+
+B
+
+Figure 4 Examination of patient DNA for the 1081 mutation.
+Ten micrograms of genomic DNA from the indicated cell lines was
+digested with the restriction enzyme Ball and was analyzed by the
+Southern blot technique. Family-member designations are indicated
+above the lanes. The normal restriction fragment is 2,606 bp; the
+mutant restriction fragment indicated by the asterisk is 1,848 bp.
+At the bottom of the figure is a diagrammatic illustration of restriction fragments found in the normal and mutant alleles.
+
+tion. (Data from the normal families are not included.)
+The homozygous state found in LB and JB can likely
+be explained by their parents being related. The LB parents come from a small town and believe it is possible
+that they could have an ancestor in common. The parents of JB are known to be related. Since DNA from
+BJ's father is not available, it is not known whether BJ
+inherited the 1081 mutation or whether it was a spontaneous mutation. LB, JB, and BJ are not related to each
+other by recent intermarriage. They, GM2756, and
+GM2825A come from widely scattered regions of the
+United States and include both white and black individuals.
+
+Markert
+
+358
+The sequences of five mutant alleles (GM1751, GM2471, GM2756, GM2825A, and GM2606) have been
+published elsewhere (see Akeson et al. 1987 for previous summary; also see Akeson et al. 1988). Two of the
+five (GM2825A and GM2756) carry the 1081 mutation. When our data are combined with data previously
+published, we see that five of 13 patients and seven of
+22 alleles with point mutations carry this mutation.
+This is a relatively high frequency of a single point mutation in this population.
+In an assessment of gene frequency, it is important
+to determine which alleles are not included in the compilation. In this study, although 13 patients were examined, 22- not 26- alleles are included. In four individuals, only one allele is listed. For GM2471, only one
+cDNA was successfully cloned (Valerio et al. 1986);
+no comment can be made about the second allele. For
+GM1715, the patient had "partial" ADA deficiency (Wolf
+et al. 1976); one ADA cDNA was normal (Bonthron
+et al. 1985). For GM2825A, the second allele carries
+an RNA splicing problem (Akeson et al. 1987); thus,
+it is not included in this compilation of point mutations. For one of our ADA-deficient patients, only DNA
+from the mother was available, since the patient had
+died in 1977. Thus, only one parental allele could be
+examined by Southern analysis.
+Our assessment of gene frequency in this population
+may be somewhat high because we included both alleles of patient LB and JB. The parents ofJB are related,
+and the parents of LB probably are related. Some investigators would count each patient only once. This would
+lower the observed frequency of this mutation to 25%.
+On the other hand, we may have underestimated the
+frequency of this mutation, since, in the case of two
+patients (three alleles), no patient material was available and parent DNA was screened. One of these parents might have been normal, and the affected patient
+might have carried a spontaneous mutation on one allele. This would not have been detected by examination of parent DNA. Of 19 mutant alleles examined
+from patient material, seven carried the 1081 mutation.
+If only one allele each of LB and JB are counted, then
+five of 17 alleles examined from patient material carry
+the 1081 mutation.
+A total of five other point mutations have been scattered throughout the ADA gene. None of these mutations create restriction-site changes that lend themselves
+to screening by Southern analysis. In contrast to the
+1081 alanine-to-valine mutation described in the present paper, none of the other mutations leading to amino
+
+et
+
+al.
+
+acid substitutions have been detected more than two
+times in the 10 alleles that have been fully sequenced.
+Analysis of ADA Haplotypes in Patients Carrying
+the 1081 Mutation
+
+Table 1 divides the seven alleles carrying the 1081
+mutation into three ADA haplotypes. The first three
+alleles (the first haplotype) come from two white patients, GM2825A and LB. Sequence analysis has shown
+that these three alleles carry an "A" at position 629.
+The homozygosity of patient LB at position 629 was
+confirmed by Southern analysis (data not shown). The
+second three alleles (the second haplotype) comes from
+two black patients, GM2756 and JB. These three alleles carry a "G" at position 629. GM2756's allele was
+sequenced (Akeson et al. 1988). The nucleotide at 629
+in patient JB's alleles was determined by Southern analysis (data not shown). The third haplotype is represented
+by the affected allele of patient BJ. Southern analysis
+reveals a restriction fragment that is of a different size
+than those found in patients LB and JB (see table 1).
+Thus, there are at least three haplotypes associated with
+the 1081 mutation. The possibility also exists that there
+may be more than three haplotypes, since DNA from
+GM2825A and GM2756 was not examined by Southern analysis.
+
+Table I
+Three ADA Haplotypes Found in Association with the
+
+1081 Mutation
+Restriction Fragment Sizea
+
+Mutant Allele (race)
+
+629
+
+GM2825A-a (W) ......
+LB-a (W) .............
+LB-b (W) ............
+GM2756-a (B) ........
+
+A
+A
+A
+G
+G
+G
+?
+
+(kb)
+3.2
+3.2
+
+1081
+T
+T
+T
+T
+T
+T
+T
+
+1.9
+JB-a (B) ..............
+1.9
+JB-b (B) ..............
+2.9
+BJ-a (B)
+a
+A 299-bp DNA probe from intron 5 (see Material and
+Methods) was hybridized to a Southern blot of genomic DNA digested with BalI. A 1.9-kb restriction fragment is detected by Southern
+analysis if a G is present at position 629 of exon 6. A common polymorphism occurs when an A is present at 629. Ball can then not
+cut at 629; a longer restriction fragment of 3.2 kb is usually detected. Finding a 2.9-kb fragment is unusual. Data on GM2825A are
+..............
+
+from Akeson et al. (1987); data on GM2756 are from Akeson et
+al. (1988). The two alleles from each patient are designated a and b.
+
+359
+
+Common Point Mutation in ADA Deficiency
+Discussion
+
+The question arises as to why the 1081 mutation is
+found so frequently in this ADA-deficient patient population. Since three different ADA haplotypes are shown
+to carry the 1081 mutation, two possibilities are most
+likely: either this is a very old mutation or position 1081
+is a hot spot for mutation. The finding of three haplotypes is not consistent with a founder effect.
+It is possible that the CpG dinucleotide at position
+1081 is a hot spot for mutation. The dinucleotide CpG
+is known to frequently be associated with C-to-T mutations and with G-to-A mutations (reviewed in Cooper
+and Youssoufian 1988). The vast majority of CG mutations are CG-TG or CG-CA, consistent with methylation-induced deamination of 5-methylcytosine (Coulondre et al. 1978). This type of mutation was involved
+not only in the 1081 mutation reported in the present
+paper but also in three of the other five mutations described to date (CG to TG at 396, CG to CA at 397,
+and CG to CA at 727; the numbers refer to the cDNA
+sequence of Wiginton et al. [1986]). It is not involved
+in the mutations at either position 334 or position 1006.
+Thus, four of six mutations reported for ADA deficiency
+involve this dinucleotide. What is unknown is why there
+is such a predominance of mutations in the CpG at
+position 1081, as opposed to any of the other CpG
+dinucleotides in the ADA cDNA.
+Our conclusions regarding this mutation in ADA
+deficiency contrast with recent findings in phenylketonuria (PKU). In PKU, certain mutations are associated
+with particular PKU haplotypes (DiLella et al. 1986,
+1987). This suggests that all individuals with a given
+mutation descended from a common ancestor (founder
+effect). With the 1081 ADA mutation, individuals carrying the same mutation have different ADA haplotypes.
+This argues against the founder effect.
+It remains to be determined how the 1081 mutation
+causes a lack of ADA enzyme activity. The mutation
+is a conservative amino acid substitution of valine for
+alanine. One would not predict this mutation to significantly affect protein hydrophobicity or secondary
+structure (Garnier et al. 1978; Akeson et al. 1988). Some
+information has already been published regarding this
+mutation. Akeson et al. (1988) conducted in vitro transfection experiments using a cDNA whose only abnormality was the 1081 mutation. They found markedly
+decreased levels of ADA activity, compared with experiments using the normal ADA cDNA (Akeson et al.
+1988). Western blots of cell lysates from the cell line
+GM2825A, which is heterozygous for this mutation
+
+(Akeson et al. 1987), showed no immunoreactive material (Wiginton and Hutton 1982). Akeson concluded
+from their studies that the mutant protein (Ala to Val,
+1081) may be unstable or structurally altered (Akeson
+et al. 1988). Ultimate proof will require in vitro mutagenesis of the 1081 mutation to wild type and demonstration of restored ADA activity. To investigate these
+possibilities, in vitro translation experiments are currently underway with wild-type and mutant constructs.
+Regardless of why the 1081 mutation is so common,
+this observation may prove useful in patient studies.
+Patients can easily be screened by Southern analysis.
+In a high frequency of cases, this test will reveal the
+underlying mutation of at least one allele.
+
+Acknowledgments
+This research was supported by research grants AI-23791
+and GM-10356 from the National Institutes of Health, by
+Basil O'Connor Starter Scholar Research Award 5-691 from
+the March of Dimes-Birth Defects Foundation, by North
+Carolina Biotechnology grant 87-G02306, by a RJR Research
+Scholar Award, by American Cancer Society Institutional Research grant IN-158C, by a grant from the A. W. McAlister
+Foundation, and by Clinical Research Unit grant M01-RR30 from the Division of Research Resources, General Clinical Research Centers Program, National Institutes of Health.
+M.L.M. is a member ofthe Duke Comprehensive Cancer Center. The efforts of Dr. Ann Akeson in teaching M.L.M. cDNA
+cloning and the guidance of Dr. Russel Kaufman are appreciated. This work is dedicated to the memory of Lauren
+Pymm, a young child with SCID who died after a valiant
+fight with her disease.
+
+References
+Adrian GS, Wiginton DA, HuttonJJ (1984) Structure of adenosine deaminase mRNAs from normal and adenosine
+deaminase-deficient human cell lines. Mol Cell Biol 4:
+1712-1717
+
+Akeson AL, Wiginton DA, Dusing MR, States JC, Hutton
+JJ (1988) Mutant human adenosine deaminase alleles and
+their expression by transfection into fibroblasts J Biol Chem
+263:16291-16296
+Akeson AL, Wiginton DA, States JC, Perme CM, Dusing MR,
+Hutton JJ (1987) Mutations in the human adenosine
+deaminase gene that affect protein structure and RNA splicing. Proc Natl Acad Sci USA 84:5947-5951
+Aruffo A, Seed B (1987) Molecular cloning of a CD28 cDNA
+by a high-efficiency COS cell expression system. Proc Natl
+Acad Sci USA 84:9573-9577
+Aviv H, Leder P (1972) Purification of biologically active globin
+
+360
+messenger RNA by chromatography on oligothymidylic
+acid-cellulose. Proc Nati Acad Sci USA 69:1408-1412
+Benton WD, Davis RW (1977) Screening Xgt recombinant
+clones by hybridization to single plaques in situ. Science
+196:180-182
+Berkvens TM, Gerritsen EJA, Oldenburg M, Breukel C, Wijnen JT, van Ormondt H, Vossen JM, et al (1987) Severe
+combined immune deficiency due to a homozygous 3.2-kb
+deletion spanning the promoter and first exon of the adenosine deaminase gene. Nucleic Acids Res 15:9365-9378
+Bonthron DT, Markham AF, Ginsburg D, Orkin SH (1985)
+Identification of a point mutation in the adenosine deaminase gene responsible for immunodeficiency. J Clin Invest 76:894-897
+Bortin MM, Rimm AA (1977) Severe combined immuno-
+
+deficiency disease: characterization of the disease and results
+of transplantation. J Am Med Assoc 238:591-600
+Buckley RH, Schiff SE, Sampson HA, Schiff RI, Markert ML,
+Knutsen AP, Hershfield MS, et al. (1986) Development of
+immunity in human severe primary T cell deficiency following haploidentical bone marrow stem cell transplantation. J Immunol 136:2398-2407
+ChirgwinJM, Przybyla AE, McDonald RJ, Rutter WJ (1979)
+Isolation of biologically active ribonucleic acid from sources
+enriched in ribonuclease. Biochemistry 18:5294-5299
+Cooper DN, Youssoufian H (1988) The CpG dinucleotide
+and human genetic disease. Hum Genet 78:151-155
+Coulondre C, Miller JH, Farabaugh PJ, Gilbert W (1978) Molecular basis of base substitution hotspots in Escherichia
+coli. Nature 274:775-780
+DiLella AG, Marvit J, Brayton K, Woo SLC (1987) An aminoacid substitution involved in phenylketonuria is a linkage
+disequilibrium with DNA haplotype 2. Nature 327:333336
+DiLella AG, MarvitJ, Lidsky AS, Guttler F, Woo SLC (1986)
+Tight linkage between a splicing mutation and a specific
+DNA haplotype in phenylketonuria. Nature 322:799-803
+Feinberg AP, Vogelstein B (1983) A technique for radiolabeling DNA restriction endonuclease fragments to high specific
+activity. Anal Biochem 132:6-13
+(1984) Addendum to "A technique for radiolabeling
+DNA restriction endonuclease fragments to high specific
+activity." Anal Biochem 137:266-267
+Garnier J, Osguthorpe DJ, Robson B (1978) Analysis of the
+accuracy and implications of simple methods for predicting the secondary structure of globular proteins. J Mol Biol
+120:97-120
+
+Giblett ER, Anderson JE, Cohen F, Pollara B, Meuwissen
+HJ (1972) Adenosine-deaminase deficiency in two patients
+with severely impaired cellular immunity. Lancet 2:10671069
+
+Gubler U, Hoffman BJ (1983) A simple and very efficient
+method for generating cDNA libraries. Gene 25:263-269
+Gunning P, Ponte P, Okayama H, Engel J, Blau H, Kedes L
+(1983) Isolation and characterization of full-length cDNA
+
+Markert et al.
+clones for human a-, 0-, and y-actin mRNAs: skeletal but
+not cytoplasmic actins have an amino-terminal cysteine that
+is subsequently removed. Mol Cell Biol 3:787-795
+Gustafson S, Proper JA, Bowie EJW, Sommer SS (1987)
+Parameters affecting the yield of DNA from human blood.
+Anal Biochem 165:294-299
+Katsuki T, Hinuma Y (1975) Characteristics of cell lines derived from human leukocytes transformed by different
+strains of Epstein-Barr virus. Int J Cancer 15:203-210
+Kredich NM, Hershfield MS (1983) Immunodeficiency diseases caused by adenosine deaminase deficiency and purine nucleoside phosphorylase deficiency. In: Stanbury JB,
+WyngaardenJB, Frederickson DS, GoldsteinJL, Brown MS
+(eds) The metabolic basis of inherited disease, 5th ed.
+McGraw-Hill, New York, pp 1157-1183
+Maniatis T, Fritsch EF, Sambrook J (eds) (1982) Molecular
+cloning: a laboratory manual. Cold Spring Harbor Laboratory, Cold Spring Harbor, NY
+Markert ML, Hershfield MS, Schiff RI, Buckley RH (1987a)
+Adenosine deaminase and purine nucleoside phosphorylase deficiencies: evaluation of therapeutic interventions in
+eight patients. J Clin Immunol 7:389-399
+Markert ML, Hershfield MS, Wiginton DA, States JC, Ward
+FE, Bigner SH, Buckley RH, et al (1987b) Identification
+of a deletion in the adenosine deaminase gene in a child
+with severe combined immunodeficiency. J Immunol 138:
+3203-3206
+Markert ML, Hutton JJ, Wiginton DA, States JC, Kaufman
+RE (1988) Adenosine deaminase (ADA) deficiency due to
+deletion of the ADA gene promoter and first exon by homologous recombination between two Alu elements. J Clin
+Invest 81:;1323-1327
+Orkin SH, Daddona PE, Shewach DS, Markham AF, Brun
+GA, Goff SC, Kelley WN (1983) Molecular cloning of human adenosine deaminase gene sequences. J Biol Chem
+258:12753-12756
+Sanger F, Nicklen S, Coulson AR (1977) DNA sequencing
+with chain-terminating inhibitors. Proc Natl Acad Sci USA
+74:5463-5467
+Southern EM (1975) Detection of specific sequences among
+DNA fragments separated by gel electrophoresis. J Mol Biol
+98:503-517
+Valerio D, Dekker BMM, Duyvesteyn MGC, van der Voorn
+L, Berkvens TM, van Ormondt H, van der Eb AJ (1986)
+One adenosine deaminase allele in a patient with severe
+combined immunodeficiency contains a point mutation
+abolishing enzyme activity. EMBO J 5:113-119
+Valerio D, Duyvesteyn MGC, Khan PM, van Kessel AG, de
+Waard A, van der Eb AJ (1983) Isolation of cDNA clones
+for human adenosine deaminase. Gene 25:231-240
+Wiginton DA, Adrian GS, Friedman RL, Suttle DP, Hutton
+JJ (1983) Cloning of cDNA sequences of human adenosine
+deaminase. Proc Natl Acad Sci USA 80:7481-7485
+Wiginton DA, Hutton JJ (1982) Immunoreactive protein in
+adenosine deaminase deficient human lymphoblast cell
+
+Common Point Mutation in ADA Deficiency
+lines. J Biol Chem 257:3211-3217
+Wiginton DA, Kaplan DJ, States JC, Akeson AL, Perme CM,
+Bilyk IJ, Vaughn AJ, et al (1986) Complete sequence and
+structure of the gene for human adenosine deaminase. Biochemistry 25:8234-8244
+
+361
+Wolf J, Reid R, Anderson J, Rebuck J, Lightbody J, Johnson
+R, Uberti J, et al (1976) Cellular immunodeficiency (Nezelof) associated with ADA deficiency: treatment with thymosin and ADA enzyme replacement. J Reticuloendothelial
+Soc 20:48A
+
+

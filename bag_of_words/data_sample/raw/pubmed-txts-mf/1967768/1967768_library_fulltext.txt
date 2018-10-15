@@ -1,0 +1,490 @@
+306
+
+18. Ribel U, Drejer K, Sorensen AR. Insulin analogues and human insulin:
+Equivalent in vivo biological activity in spite of widely different in vitro
+potencies. Diabetes Res Clin Pract 1988; 5 (suppl 1): S368 (abstr).
+19. Linde B. Dissociation of insulin absorption and blood flow during
+massage of a subcutaneous injection site. Diabetes Care 1986; 6:
+570-74.
+20. Dillon RS. Improved serum insulin profiles in diabetic individuals who
+massaged their insulin injection sites. Diabetes Care 1983; 6: 399-401.
+21. Taylor R, Home PD, Alberti KGMM. Plasma free insulin profiles after
+administration of insulin by jet and conventional syringe injections.
+Diabetes Care 1981; 4: 377-79.
+22. Pehling GB, Gerlich JE. Comparison of plasma insulin profiles after
+administration of insulin by jet spray and conventional needle in
+patients with insulin-dependent diabetes mellitus. Mayo Clin Proc
+1984; 59: 751-54.
+
+Edsberg B, Herly D, Hildebrant P, K&uuml;hl C. Insulin bolus given by
+sprinkler needle: effect on absorption and glycaemic response to a meal.
+Br Med J 1987; 294: 1373-76.
+24. Linde B, Gunnarsson R. Influence of aprotinin on insulin absorption and
+subcutaneous blood flow in type 1 (insulin-dependent) diabetes.
+Diabetologia 1985; 28: 645-48.
+25. Kinmonth AL, Baum JD. Timing of pre-breakfast insulin injections and
+postprandial metabolic control in diabetic children. Br Med J 1980;
+
+23.
+
+280: 604-06.
+26. Lean MEJ, Ng LL, Tennison BR. Interval between insulin injection and
+eating in relation to blood glucose control in adult diabetics. Br Med J
+1985; 290: 105-08.
+27. Dimitriadis GD, Gerich JE. Importance of timing of preprandial
+subcutaneous insulin administration in the management of diabetes
+mellitus. Diabetes Care 1983; 6: 374-77.
+
+Molecular analysis of aldolase B genes in hereditary
+fructose intolerance
+
+molecular basis of hereditary fructose
+intolerance (HFI) was studied in 50 subjects (41
+pedigrees, 82 apparently independent mutant
+alleles of aldolase B) by direct analysis of aldolase
+B genes amplified by means of the polymerase
+chain reaction. The mutation A149P (ala 149&rarr; pro)
+was found in 67% of alleles but was significantly
+more common in patients from northern than from
+southern Europe. Two other point mutations of
+aldolase B were identified. A174D (C&rarr;A; ala 174&rarr;
+asp) was found in subjects from Italy, Switzerland,
+and Yugoslavia (overall frequency 16%) but not in
+those from the United Kingdom, France, or the
+United States. L288&Dgr;C carried a single base-pair
+deletion causing frameshift at codon 288 and was
+restricted to Sicilian subjects. By testing for these
+mutations in amplified DNA with a limited panel of
+allele-specific oligonucleotides, more than 95% of
+HFI patients will be susceptible to genetic
+diagnosis.
+
+The
+
+Introduction
+fructose intolerance (HFI) is an autosomal
+recessive disease that results from a deficiency of aldolase B
+(fructose-bisphosphate aldolase, EC 4.1.2.13) in the liver,
+kidney, and intestine; this enzyme brings about the
+assimilation of fructose by means of cleavage of fructose-1phosphate to trioses.1-3 Affected people suffer from
+abdominal pain, vomiting, and hypoglycaemia after
+ingestion of fructose or related sugars and are most at risk
+from severe metabolic disturbance as infants at weaning.
+Nonetheless, episodic hypoglycaemia, liver disease, renal
+tubular acidosis, and growth retardation follow exposure to
+fructose in later life, occasionally with fatal results.3-6 The
+
+Hereditary
+
+disorder is treated by strict dietary exclusion of fructose,
+sorbitol, and sucrose, and the response is usually complete.
+In undiagnosed patients a strong aversion to sweet-tasting
+foods develops, with a consequent reduction of fructose
+intake, but in the absence of professional advice, complete
+elimination of this sugar from the diet is difficult, and such
+people may suffer symptoms throughout life.1,3,6 Prompt
+recognition of the disease is therefore important for its
+effective management. The diagnosis of HFI is confirmed
+by the intravenous fructose tolerance test or by direct assay
+of fructaldolase activities in tissue biopsy samples.’ These
+procedures are invasive and are especially difficult in infants
+and young children. Detection of disease carriers poses
+particular difficulties, and although heterozygotes have been
+identified by enzymic assay of intestinal mucosa8 and by
+phosphorus-31 magnetic resonance spectroscopy after
+fructose loading,9 until now no simple and direct procedure
+has been available.
+We have described the isolation and characterisation of a
+defective aldolase B gene from a patient with HFI/" We
+identified a single base-pair change which results in the
+replacement of an alanine residue at position 149 by a proline
+ADDRESSES: Departments of Haematology and Medicine,
+Royal Postgraduate Medical School, London, UK (N. C. P. Cross,
+PhD, Prof T. M. Cox, FRCP); Department of Paediatrics, University
+of Naples, Italy (R. de Franchis, MD, G. Sebastio, MD); Biological
+Science Center, Boston University, USA (C. Dazzo, BS, D. R
+Tolan, PhD); Institute of Molecular Pathology, Paris (C. Gr&eacute;gori,
+PhD), H&ocirc;pital Antoine Becl&eacute;r&egrave;, Clamart (M. Odievre, MD); CHRU
+de Nancy, Vandoeuvre, France (M. Vidailhet, MD); Institute for
+Researchon Mental Retardationand Cerebral Development (V.
+Romano, PhD, G. Mascali, PhD), Department of Paediatrics,
+University of Catania, Italy (C. Romano, MD, S Musumeci, MD);
+and University Paediatric Department, Zurich, Switzerland
+(Prof B. Steinmann, MD, Prof R Gitzelmann, MD). Correspondence to
+Prof T. M. Cox, Department of Medicine, University of Cambridge
+School of Medicine, Addenbrooke’s Hospital, Hills Road, Cambridge
+
+CB2 2QQ, UK.
+
+307
+
+TABLE I-PRIMERS FORAMPLlFICATION OFALDOLASE B EXONS
+
+TABLE !t&mdash;OUGONUCLEOT!DE PROBES
+
+wt=wild type
+
+residue. This mutation (A149P), was found in several
+apparently unrelated patients in the United Kingdom." We
+report here the distribution of the A149P mutation in
+Europe and the United States. Furthermore, we have
+characterised two new genetic lesions in HFI and have
+examined their distribution.
+
+Subjects and methods
+50 patients with HFI, from 41 independent families, were studied.
+The patients were from the UK, France, Switzerland, Italy,
+Yugoslavia, and the USA. HFI was diagnosed on the basis of
+clinical history and the intravenous fructose tolerance test; in some
+cases it was confirmed by assay of fructaldolase activities in tissue
+biopsy samples? 3 UK patients were considered to be affected on
+the basis of a typical history of dietary intolerance with episodes
+suggestive of hypoglycaemia. There were 2 sisters, aged 3 and 7
+years, who were found to be homozygous for the A149P mutation,
+and a 54-year-old woman with life-long symptoms of fructose
+intolerance, who also carried the A149P allele. DNA was prepared
+from peripheral blood leucocytes12 or from crude lysates of buccal
+epithelial cells obtained from saline mouthwashes.13
+95% confidence limits (CL) of allele frequencies in population
+samples were derived from exact values of the binomial distribution
+by entering the observed allele frequencies in different samples.14
+The significance of differences in the proportion of alleles between
+TABLE III-GENOTYPES OF PROBANDS
+
+the sample groups was determined by the four-fold contingency
+test.14
+The polymerase chain reaction15 (PCR) was used to amplify
+DNA in a home-made thermocycling apparatus with Taq
+polymerase (Perkin Elmer Cetus). 16 To optimise specificity, the
+annealing temperature was varied between 45&deg;C and 55&deg;C and the
+magnesium (Mg2+) concentration between 1-0 mmol/1 and 1-5
+mmol/1. Blank (no DNA) controls were routinely run in parallel to
+ensure that the reaction components were free of contaminating
+aldolase B sequences. Primers used for amplication of aldolase B
+exons were derived from the genomic sequence17 as shown in table 1.
+Each fragment contained the entire coding sequence of that exon,
+plus splice junctions and lariat branch points.
+Amplified exons were sequenced either directly after production
+of single-stranded DNA by PCR with unequal primer
+concentrations18 or by cloning fragments into the Small site of
+pEMBL19. Reactions were carried out by the chain terminator
+method with ’Sequenase’ (USB) according to the manufacturer’s
+
+recommendations.
+For genotype analysis, exons 5 and 8 were amplified by PCR and
+about 100 ng of the product was immobilised on nylon membranes
+(’Hybond N’, Amersham) by either dot blotting or Southern
+blotting after electrophoresis through 2% agarose gels. Spots of
+wild-type and mutant plasmids were included to serve as
+hybridisation controls. Filters were prehybridised in 6 x SSC
+(SSC=0-015 mol/1 sodium citrate, 0-15 mol/1 sodium chloride),
+5 x Denhardt’s solution (5 x = Ficoll 0-1%, polyvinylpyrrolidone
+0-1%, bovine serum albumin 0&deg; 1 %), 100 jig/ml sonicated salmon
+sperm DNA, for 2 h at 65&deg;C, then hybridised overnight at 37&deg;C by
+the addition of 100 ng y-phosphorus-32 end-labelled
+oligonucleotide probe (about 10g cpm/g) to the prehybridisation
+solution. Blots were washed three times in 6 x SSC, 0-01 % sodium
+dodecyl sulphate at room temperature and exposed to film for 30-60
+min. This low-stringency wash served as a control for the amount of
+target DNA generated in the PCR and to ensure that the probe had
+hybridised efficiently. Two high-stringency washes were carried
+out at the appropriate discriminatory temperature for 2 min in
+6 x SSC, 0-01% sodium dodecyl sulphate. Allele-specific
+oligonucleotides and discriminatory temperatures are given in table
+n. Filters were stripped of probe by heating to 80&deg;C in 0-01%
+sodium dodecyl sulphate before hybridisation with another
+
+oligonucleotide.
+
+Results
+Exon 5 was amplified from each subject’s DNA and probed
+with A149P and A149wt (wild-type) oligonucleotides. After
+washing at high stringency, hybridisation to the A149P
+probe only showed that the subject was homozygous for this
+mutation. Hybridisation to both probes indicated an A149P
+compound heterozygote in which the wild-type signal
+originated from a different mutant allele. A signal with only
+the wild-type probe indicated that the subject did not carry
+A149P on either of his or her defective aldolase B genes.
+Table III shows the genotypes of the probands and table
+IV the allele frequencies among all the subjects studied.
+A149P was prevalent in all the countries studied; the allele
+frequency in HFI patients was 67 1% (95% CL 55-8TABLE IV-ALLELE FREQUENCIES
+
+*In 1 affected
+
+family 3 independent segregating alleles were defined.
+tHeterozygous for L288AC
+tHomozygous for L288AC.
+
+308
+
+Fig 1-Mutations in defective aldolase B alleles.
+
+77-%) overall. There seemed to be a north-south gradient
+in the frequency of the mutation-A149P was significantly
+more prevalent in the UK than in Italy (table III; p < 0-05).
+Of the 41 independent pedigrees, 20 probands (49%) were
+homozygous for A149P and 14 (34%) were compound
+heterozygotes with A149P on one of the mutant alleles.
+Of the 50 patients studied, 7 did not carry the A149P
+mutation on either mutant allele. 2 such patients, both from
+Sicily, were selected for further study. Exons 2-9, which
+include the complete coding region for aldolase B, were
+amplified and sequenced. A single point mutation was
+identified in each; no other lesions were found. The first
+patient carried a transition, C-A, in exon 5 which results in
+the replacement of the invariant alanine residue (GCC) at
+position 174 of the normal protein by an aspartic acid residue
+(GAC). The mutation was therefore termed A174D. The
+second patient carried a single base-pair deletion. The C
+residue of the codon for leucine at position 288 in exon 8 was
+absent; this allele was designated L288AC. This frameshift
+mutation creates a stop codon at position 297, so a protein
+truncated by 67 residues would be produced (fig 1). These
+lesions neither generate nor destroy restriction sites, and
+to
+detect them in genomic DNA, allele-specific
+oligonucleotide probes were synthesised for their respective
+wild-type and mutant sequences. Hybridisation of these
+probes to amplified exon 5 and exon 8 sequences showed
+that these 2 patients were homozygous for their respective
+mutations, despite the fact that neither was apparently the
+product of a consanguineous marriage.
+
+Fig 2-Genotype analysis of representative HFI patients.
+Patients 1, 2, 6, and 8 were homozygous for Al 49 P; patient 3 was
+homozygous for A174D; patients 4, 5, and 10 had genotypes A149P/
+A174D; patient 7 A149P/unknown; patient 9 both alleles unknown.
+
+The A174D mutation occurs in exon 5; the filters
+prepared for the analysis of A149P were stripped and
+reprobed with A174D and A174wt allele-specific oligonucleotides. The genotype analysis of representative HFI
+patients is shown in fig 2. We found Al 74D in several of our
+patients from Switzerland, Italy, and Yugoslavia but not in
+those from the UK, France, or the USA. The frequency of
+independent A174D alleles was 15-9% (13/82; 95% CL
+8-7%-25-6%) overall-30% (8 of 27) in Switzerland and
+22% (4 of 18) in Italy. This mutation also accounted for one
+allele of the single Yugoslavian patient. In all, 2 of the 41
+patients were A174D homozygotes and 9 were A174D
+compound heterozygotes, of which 7 were A149P/A174D.
+Of the 82 independent alleles studied, 68 (83%) were
+either A149P or A174D. Patients with as yet
+uncharacterised lesions were tested for the L288AC and
+L288wt oligonucleotides. Only 2 subjects, both originating
+from Sicily, were positive for this deletion. The first was
+homozygous, and the second was an A149P/L288AC
+compound heterozygote. These subjects were not known to
+be related.
+
+Discussion
+We have previously described the identification of the
+A149P point mutation and speculated that this substitution
+would disrupt the spatial configuration of important
+residues (Lys 146 and Arg 148) on the 0 strand of the
+aldolase B substrate-binding pocket.10 We have now
+characterised two more mutant aldolase B alleles and used
+the PCR and allele-specific oligonucleotide probes to detect
+these lesions in genomic DNA.
+The first lesion is another mis-sense mutation (C-A)
+that results in the replacement of the normal alanine residue
+at position 174 by an aspartic acid residue (A174D). The
+alanine 174 residue is conserved in all the aldolase isozymes
+studied so far, including those of vertebrates, maize, and
+Drosophila.19 Furthermore, in the crystal structure of rabbit
+aldolase A 20 Ala 174 is found in an It.-helical region that is
+juxtaposed to the substrate-binding residues described
+above. The Al 74D substitution results in a change of charge
+that is likely to affect vicinal residues in this important
+region. Both A149P and A174D are located on exon 5 of
+human aldolase B and may thus be conveniently detected by
+probing the same filter with their respective mutant and
+wild-type oligonucleotides. The second lesion is a frameshift
+mutation caused by the deletion of a single C residue at Leu
+288. The change predicts a mutant protein that is shortened
+by 67 aminoacids and therefore lacks several conserved
+regions, including the carboxy-terminus, which is
+important for normal activity. 21
+A149P was found in patients from throughout western
+Europe and also in patients from the USA, though there
+seemed to be a north-south gradient in its frequency in
+Europe. In this study, A174D was restricted to patients
+from Switzerland, Italy, and Yugoslavia.
+The frameshift mutation L288AC was found only in 2
+Sicilian patients (3 of 10 HFI alleles from that island).
+Although these 2 subjects were apparently unrelated and
+came from different regions of Sicily, it remains possible
+that this lesion is confined to 1 extensive family. To ascertain
+whether L288AC is prevalent in Sicily and Sicilian-derived
+populations, it would be necessary to analyse a larger sample
+of patients from the region.
+At the end of this study, 11 of 82 (134%; 95% CL
+
+6-9-22-7%)
+
+mutant
+
+alleles
+
+were
+
+unaccounted
+
+for.
+
+309
+
+Preliminary studies of 4 of these show that each carries a
+different deletion, ranging in size from 4 bp to 1-6 kilobases
+(unpublished). It is possible that the 7 remaining
+uncharacterised alleles also represent private mutations and
+that the frequency of this category reflects the rate of new
+mutation at the human aldolase B locus.
+Infants at weaning who suffer from HFI show signs of
+food rejection and failure to thrive. It is at this age that
+affected patients would benefit most from definitive
+diagnosis so that rigorous dietary treatment could be
+instituted. Most patients acquire a strong distaste for
+sweet-tasting foods, but many suffer episodically
+throughout life as a result of inadvertent ingestion of noxious
+foods and drinkS.l,3,8,11 Existing methods of diagnosis
+(intravenous fructose tolerance test and tissue biopsy Y are
+invasive. We predict that the great majority of individuals
+may be diagnosed by direct testing for the presence of
+prevalent mutant aldolase B alleles. Such testing can
+conveniently be carried out on DNA extracted from small
+samples of blood or from buccal epithelial cells derived from
+saline mouthwashes.1u3
+We have identified two common HFI alleles and a third
+which may be an important cause of the disease in Sicily.
+A149P and A174D both occur in exon 5 and thus may be
+sought after a single PCR amplification. We envisage that
+this search may eventually be achieved by use of amplified
+exon 5 sequences to probe four immobilised allele-specific
+oligonucleotides, so constructed that their discriminating
+temperatures for hybridisation are identical. This method of
+analysis has been successfully applied to the diagnosis of
+
+&bgr;-thalassaemia.22
+In our sample of
+
+82 independent alleles, 71 (86-7%; 95%
+CL 77 3-93 1 %) were accounted for by the three mutations
+described above. At the lower limit, therefore, we would
+expect 60% of HFI patients (0-7732 x 100) to carry at least
+one of these lesions on both alleles, 35% to be compound
+heterozygotes of one common allele and an unknown
+mutation, and only 5% to possess two undefined mutant
+alleles. In practice, we found that of the 41 probands
+examined, 31 (76%) could be genotypically defined, 8
+(19-5%) could be defined for one allele only, 2 (5%) carried
+unknown aldolase B lesions.
+It has been estimated23 that the frequency of HFI may be
+as high as 1 in 20 000 live births. The corresponding
+frequency of carriers in the population would be approximately 1 in 70. We consider the finding of a single mutant
+allele in an individual giving a typical nutritional history or
+suffering from symptoms of HFI to be highly suggestive of
+the disorder, since the probability that the patient is a simple
+heterozygote for HFI, with symptoms due to an unrelated
+cause, would be less than 2%. Thus, at the lowest
+confidence limit of allele frequencies, the probability of
+diagnosing fructose intolerance by direct detection of the
+molecular lesions described here is greater than 95%.
+We thank the many patients and their families who took part in this study and
+Mrs Joan Grantham, who kindly prepared the typescript. This work was
+supported by the Medical Research Council.
+
+REFERENCES
+1. Chambers RA, Pratt RTC. Idiosyncrasy to fructose. Lancet 1956; ii: 340.
+2. Hers HG, Joassin G. Anomalie de l’aldolase hepatique dans l’intolerance
+au fructose. Enzymol Biol Clin 1961; 1: 4-14.
+3. Gitzelmann R, Steinmann B, Van den Berghe G. Disorders of fructose
+metabolism. In: Scriver CR, Beaudet AL, Sly WS, Valle D, eds. The
+metabolic basis of inherited disease, 6th ed. New York: McGraw-Hill,
+
+1989: 399-424.
+
+4. Schulte M-J, Lenz W. Fatal sorbitol infusion in patient with fructosesorbitol intolerance. Lancet 1977; ii: 188.
+5. Odievre M, Gertil C, Gautier M, Alagille D. Hereditary fructose
+intolerance in childhood. Diagnosis, management and course in 55
+patients. Am J Dis Child 1978; 132: 605-08.
+6. Mock DM, Perman JA, Thaler MM, Morris RC. Chronic fructose
+intoxication after infancy in children with hereditary fructose
+intolerance: a cause of growth retardation. N Engl J Med 1982; 309:
+764-69.
+7. Steinmann B, Gitzelmann R. The diagnosis of hereditary fructose
+intolerance. Helv Paediatr Acta 1981; 36: 297-316.
+8. Cox TM, Camilleri M, O’Donnell MW, Chadwick VS. Pseudodominant
+transmission of fructose intolerance in an adult and three offspring.
+Heterozygote detection by intestinal biopsy. N Engl J Med 1982; 307:
+537-40.
+9. Oberhaensli RD, Rajagopalan B, Taylor DJ, et al. Studies of hereditary
+fructose intolerance by use of 31P magnetic resonance spectroscopy.
+Lancet 1987; ii: 931-34.
+10. Cross NCP, Tolan DR, Cox TM. Catalytic deficiency of human aldolase
+B in hereditary fructose intolerance caused by a common missense
+mutation. Cell 1988; 53: 881-85.
+11. Cross NCP, Cox TM. Molecular analysis of aldolase B genes in the
+diagnosis of hereditary fructose intolerance in the United Kingdom.
+Quart J Med 1989; 73: 1015-20.
+12. Sykes BC. DNA in heritable disease. Lancet 1983; ii: 787-88.
+13. Lench N, Staner P, Williamson R. Simple non-invasive method to obtain
+DNA for gene analysis. Lancet 1988; i: 1356-58.
+14. Diem K. Lentner C, eds. Documenta Geigy: scientific tables, 7th edition.
+Basel: Geigy Pharmaceutical Co Ltd, 1970: 85-98; 109-23.
+15. Saiki RK, Gelfand DA, Stoffel S, et al. Primer directed enzymatic
+amplification of DNA with a thermostable DNA polymerase. Science
+
+1988; 239: 487-91.
+16. Foulkes N, Pandolfi de Rinaldis PP, Macdonell J, Cross NCP, Luzzatto
+L. Polymerase chain reaction automated at low cost. Nucl Acids Res
+1988; 239: 487-91.
+17. Tolan DR, Penhoet EE. Characterization of the human aldolase B gene.
+Mol Biol Med 1986; 3: 245-64.
+18. Gyllensten UB, Erlich HA. Generation of single stranded DNA by the
+polymerase chain reaction and its application to direct sequencing of the
+HLA-DQA locus. Proc Natl Acad Sci USA 1988; 85: 7652-56.
+19. Kelley PM, Tolan DR. The complete amino acid sequence for the
+anaerobically induced aldolase from maize derived from cDNA clones.
+Plant Physiol 1986; 82: 1076-80.
+20. Sygusch J, Beaudry D, Allaire M. Molecular architecture of rabbit
+skeletal muscle aldolase at 2.7&Aring; resolution. Proc Natl Acad Sci USA
+1987; 84: 7846-50.
+21. Rose IA, O’Connell EL. Studies on the interaction of aldolase with
+substrate analogues. J Biol Chem 1969; 244: 126-34.
+22. Saiki RK, Walsh PS, Levenson CH, Erlich HA. Genetic analysis of
+amplified DNA with immobilized sequence-specific oligonucleotide
+probes. Proc Natl Acad Sci USA 1989; 86: 6230-34.
+23. Gitzelmann R, Baerlocher K. Vorteile und Nachteile der Fructose in der
+Nahrung. Padiatr Fortbildk Praxis 1973; 37: 40-55.
+
+Then
+
+as
+
+A street
+
+Now
+
+danger
+
+It is long since the first protest was directed against the dangerous
+and untidy, but very common, practice of throwing down fruit skins
+at random in the public way. Yet, as if road and pavement, coated by
+the frosts of winter, were not slippery enough, we still see freely
+distributed upon them those treacherous fragments of orange-peel,
+apple-parings, and the like, which experience and precaution have
+condemned as the frequent causes of accident. Familiar as the evil is,
+its effectual correction is by no means a simple matter. Advice in
+abundance has been applied in vain. Carelessness will not be thus
+instructed, and the difficulty is not the less that the offender is often
+a child. Still, the matter is not hopelessly beyond a chance of
+amendment.... We think it reasonable that every householder
+should clear the snow from the approach to his dwelling. Is it out of
+the question that consumers of fruit be likewise required, on pain of
+a moderate fine, to refrain from littering the streets with dangerous
+waste?
+(From The Lancet of 4 January 1890)
+
+

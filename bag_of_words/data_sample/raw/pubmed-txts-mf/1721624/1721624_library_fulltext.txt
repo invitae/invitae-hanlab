@@ -1,0 +1,767 @@
+Severe Deficiency of Cystic Fibrosis Transmembrane Conductance Regulator
+Messenger RNA Carrying Nonsense Mutations R553X
+and W1316X in Respiratory Epithelial Cells of Patients with Cystic Fibrosis
+Ada Hamosh,t Bruce C. Trapnell,' Pamela L. Zeitlin,* Chahrzad Montrose-Rafizadeh,11
+Beryl J. Rosenstein,* Ronald G. Crystal,' and Garry R. Cutting*"
+*Department ofPediatrics, tCenter for Medical Genetics, and I1Department ofPhysiology, Johns Hopkins University School ofMedicine,
+Baltimore, Maryland 21205; and §Pulmonary Branch, National Heart, Lung, and Blood Institute,
+National Institutes ofHealth, Bethesda, Maryland 20892
+
+Abstract
+Cystic fibrosis (CF) is the most common, lethal inherited disorder in the Caucasian population. We have recently reported
+two African-American patients with nonsense mutations in
+each CF gene and severe pancreatic disease, but mild pulmonary disease. In order to examine the effect of these nonsense
+mutations on CF gene expression, bronchial and nasal epithelial cells were obtained from one of these patients (no. 246), a
+compound heterozygote for nonsense mutations R553X and
+W1316X; a healthy normal individual; a patient (no. 528) homozygous for the common CF mutation (AF508); and a CF
+patient (no. 272) who carries the R553X mutation and a missense mutation, S549N. When mRNA from bronchial cells of
+the normal individual, the AF508 homozygote, and the S549N/
+R553X compound heterozygote was reverse transcribed and
+amplified by polymerase chain reaction using primers derived
+from the CF gene, DNA fragments of the predicted size were
+observed. However, patient no. 246 with nonsense mutations in
+each CF gene has no detectable cystic fibrosis transmembrane
+conductance regulator (CFTR) messenger RNA, and therefore
+should have severely diminished, and possibly absent, CFTIR
+protein. Furthermore, < 2% of the C1FTR transcripts in nasal
+epithelial cells from patient no. 272 (S549N/R553X) were derived from the gene with the nonsense mutation. We conclude
+that severe reduction in CFTR mRNA causes CF, but can have
+different consequences in the lung and pancreas. (J. Clin. Invest. 1991. 88:1800-1885.) Key words: allele-specific oligonucleotides * genotype * phenotype * polymerase chain reaction*
+reverse transcription
+
+Introduction
+Cystic fibrosis (CF)l is the most common, lethal autosomal
+recessive disorder in the Caucasian population (1). As a consequence of abnormal chloride secretion across the apical memAddress reprint requests to Dr. Hamosh, Center for Medical Genetics,
+Blalock 1008, Johns Hopkins Hospital, 600 N. Wolfe St., Baltimore,
+MD 21205.
+Receivedfor publication 6 May 1991 and in revisedform 17 July
+1991.
+1. Abbreviations used in this paper: ASO, allele-specific oligonucleotide(s); CF, cystic fibrosis; CFTR, cystic fibrosis transmembrane conductance regulator; HCK, human cytokeratin; PCR, polymerase chain
+reaction; RT, reverse transcriptase.
+
+J. Clin. Invest.
+© The American Society for Clinical Investigation, Inc.
+
+0021-9738/91/12/1880/06 $2.00
+Volume 88, December 1991, 1880-1885
+1880
+
+Hamosh
+
+et
+
+al
+
+brane of epithelial cells, patients with CF accumulate unusually viscous secretions in their lungs and pancreas (1, 2). The
+gene responsible for CF, termed the cystic fibrosis transmembrane conductance regulator (CFTR), has 27 exons encoding a
+protein of 1,480 amino acids (3, 4). The putative structure of
+CFTR is similar to the multidrug resistance proteins in that it
+has two ATP-binding sites each of which follows six transmembrane domains (4, 5). The two halves of CFTR are linked by a
+proposed regulatory domain which has multiple potential sites
+for phosphorylation by protein kinases and many charged residues. The regulatory domain is of unknown function but is
+unique within the ATP-binding transporter superfamily (4, 5).
+Transfection of cell lines lacking endogenous chloride secretion with CFTR cDNA produces a novel cAMP-mediated chloride current, suggesting that CFTR itself is a chloride channel
+
+(6, 7).
+Over 100 mutations in the gene responsible for CF have
+now been identified (CF Genetic Analysis Consortium, unpublished data). There appears to be a correlation between presence of the common mutation, AF508, and presence of pancreatic disease (8), but not for the severity of lung disease.
+Three nonsense mutations, G542X, R553X, and W1282X
+(9, 10) are currently the second, fourth, and fifth most common
+CF mutations with worldwide frequencies of 4.2%, 1.5%, and
+1%, respectively (CF Genetic Analysis Consortium, unpublished data). The W1282X mutation, a nonsense mutation in
+exon 20, is the most common CF mutation in the Ashkenazi
+Jewish population where it is present on 50% of CF alleles
+(G. R. Cutting, S. M. Curristin, and D. Abeliovich, unpublished data). These population frequencies indicate that - 1 in
+200 CF patients carries a nonsense mutation on each CF allele.
+The phenotype of patients bearing these nonsense mutations is largely unknown. We have recently reported two patients with a different nonsense mutation in each CF gene and
+severe pancreatic disease but mild pulmonary disease (11).
+Two additional CF patients, homozygous for the G542X nonsense mutation in exon 11, have been reported with similar
+clinical manifestations (12, 13). Nonsense mutations in several
+human disease genes have been shown to cause severe reduction in mRNA levels, leading to absent protein product and
+severe clinical disease (14-22). Here we report that a CF patient
+with nonsense mutations in each CFTR gene has undetectable
+CFTR mRNA in bronchial and nasal epithelial cells associated
+with severe pancreatic disease but unexpectedly mild pulmonary disease.
+
+Methods
+Patients and controls. Patient no. 246, a 22-yr-old African-American
+female with CF, is a compound heterozygote for two nonsense mutations; an arginine to stop at codon 553 (R553X) in exon I 1, and a
+
+tryptophan to stop at codon 1316 (W1316X) in exon 21 ( 11). She has
+very mild pulmonary disease for her age and severe pancreatic disease
+which have been fully described previously (1 1). Tracheal and bronchial cells were collected by bronchial brushing, and nasal epithelial
+cells by nasal brushing.
+Patient no. 272 is a 14-yr-old African-American male with CF diagnosed at 3.5 yrs of age. His CF mutations have been previously reported
+(9); an R553X mutation on one allele, and a missense mutation on the
+other allele, serine to asparagine at codon 549 (S549N) in exon 11. He
+has pancreatic disease requiring pancreatic enzyme supplementation,
+but has had no other gastrointestinal complications. He has mild to
+moderate pulmonary disease characterized by a forced vital capacity
+(FVC) of 82% predicted, a forced expiratory volume in 1 s (FEV,) of
+75% predicted, and a Brasfield chest x-ray score of 15 (best possible
+score 25) (23). His overall Shwachman clinical score is 81 (best possible
+= 100) (24), and both his height and weight are just above the 25th
+percentile. Nasal epithelial cells were obtained from this patient by
+brushing and from a primary epithelial cell culture (LDNP) derived
+from an excised nasal polyp.
+Patient no. S28, a 25-yr-old Caucasian male with CF, is homozygous for the phenylalanine deletion mutation at codon 508 (AF508).
+He has pancreatic disease requiring pancreatic enzyme supplementation, but has had no other gastrointestinal complications. He has moderate to severe pulmonary disease characterized by an FVC of 58%
+predicted, and an FEV, of 32% predicted. Brasfield chest x-ray score
+and Shwachman clinical score are not available. Height is above the
+90th percentile; weight is between the 5th and 10th percentile.
+Bronchial and nasal epithelial cells were obtained from a 22-yr-old
+healthy Caucasian female, and a 30-yr-old healthy Caucasian female,
+respectively. Neither individual is a carrier of the AF508 mutation.
+Informed consent was obtained for each procedure performed.
+RNA extraction and single-strand cDNA synthesis. Cells from
+brushings either were placed directly into 4 M guanidinium thiocyanate buffer, or were transferred to culture medium, pelleted and then
+resuspended in guanidinium thiocyanate buffer. Cells from the LDNP
+cell culture were washed twice with PBS, then scraped offinto 2 ml of4
+M guanidinium thiocyanate buffer. Total RNA was extracted using the
+acid-guanidinium thiocyanate-phenol-chloroform method (25).
+Each set of cDNA synthesis experiments included a control sample
+in which all reagents except RNA were present. Approximately 3 Mg of
+total RNA suspended in 7 Ml of 10 mM Tris, 5 mM EDTA, and 0.1%
+Sarcosyl was added to 10 Ml of 50 mM oligo-dT (Primer p[dT] 15,
+Boehringer-Mannheim Biochemicals, Indianapolis, IN) and 52 Ml of
+diethylpyrocarbonate-treated water in a 0.5-ml Eppendorf tube. The
+mixture was incubated at 65°C for 3 min and then chilled on ice for 2
+min. 200 U of RNase inhibitor (Boehringer-Mannheim), 5 Ml of 10
+mM (each) dNTP (Pharmacia, Inc., Piscataway, NJ), 20 Ml of SX Moloney murine leukemia virus reverse transcriptase (RT) buffer, and 2 M1
+Moloney murine leukemia virus RT (Bethesda Research Laboratories,
+Rockville, MD) were added to the mixture, which was then incubated
+for 40 min at 37°C. An additional 2 Ml of Moloney murine leukemia
+virus RT was added to the mixture which was then incubated for a
+further 40 min. The single-strand cDNA was extracted by the addition
+of 100 Ml of a 1:1 phenol/chloroform solution. After gentle mixing, the
+layers were separated by centrifugation in a microfuge for 90 s at room
+temperature. The aqueous layer was transferred to a new tube to which
+20 Ml of 2.5 M sodium acetate and 200 Ml of ice-cold ethanol were
+added. The cDNA was precipitated for 2-20 h at -20°C. After centrifugation at 12,000 rpm for 15 min at 4°C, the cDNA pellet was resuspended in 20 Mil of distilled water.
+Polymerase chain reaction (PCR) amplification. PCR amplification
+was performed as previously described (26). The sequence and annealing temperatures of all PCR primers used are listed in Table I. Each set
+of PCR reactions included a control with water replacing the DNA to
+check for contamination of PCR reagents. To confirm that cDNA had
+been synthesized, and to check for genomic DNA contamination, an
+aliquot of cDNA was amplified using primers derived from the human
+D3-actin gene (27). The primers are chosen from exons 3 and 5 ofs-actin
+
+so that amplification of cDNA using these primers produces a 228-bp
+fragment, while amplification of genomic DNA yields a 435-bp fragment.
+In order to confirm the epithelial cell origin of the mRNA, an aliquot of cDNA was amplified using human cytokeratin 15 (HCK 15)
+primers (Table I). HCK 15 is an acidic, type I cytokeratin present in
+tracheal and epiglottis epithelium in substantial quantities, but not
+found in bladder or intestinal epithelium or in squamous cell- or adenocarcinomas (28-30). Amplified HCK 15 cDNA yields a 588-bp fragment.
+CFTR cDNA was amplified in sections due to its length. Exons 1-7,
+7-10, 11, 13-18, and 18-24 were amplified (Fig. 1). (The antisense
+primer used for the 3'-end of exon 10 [C16D] has been previously
+described [4].)
+Each reaction mixture contained 50-300 ng of cDNA or 5001,000 ng ofgenomic DNA, 10 M1 of lOX Taq buffer (500 mM KCl; 100
+mM Tris, pH 8.3; 25 mM MgC12; 0.1% [wt/vol] gelatin), 2.5 U Taq
+polymerase (Cetus Corp., Emeryville, CA), 2 ,d 10 mM (each) dNTP
+(Pharmacia, Cetus), 2 ,d of each 10 mM primer, and distilled water to
+bring the total volume to 100 Ml. After denaturing at 94°C for 6 min, 30
+or 35 cycles were performed of denaturing at 94°C for 45 s, annealing
+at the temperature indicated in Table I for 45 s, then extension at 72°C
+for 1 min. The last cycle was followed by final extension at 72°C for 10
+min. 10 ul of each sample was then electrophoresed through a 1%
+agarose, 3% NuSieve (FMC Corp., Rockland, ME) gel, stained with
+ethidium bromide, and photographed on an ultraviolet transilluminator (Spectromics Corp., Westbury, NY).
+Allele-specific oligonucleotide hybridization. Preparation of dot
+blots was performed as previously described (26). Filters were hybridized for 60 min with 5 X 106 cpm/ml of 32P end-labeled oligonucleotides specific for either normal or mutant alleles (Table I) (31). The
+blots were washed twice at room temperature for 5 min, followed by a
+final wash for 15 min at the temperature indicated in Table I.
+The amount of radioactively labeled probe hybridized to each DNA
+sample dot blotted onto nitrocellulose was assessed by counting the
+emissions from 32p three times for 5 min in a liquid scintillation
+counter (Beckman Instruments, Inc., Palo Alto, CA), and using the
+average counts per minute. Background counts, defined as the average
+counts per minute of three 5-min counts using a comparable size piece
+of the filter to which no DNA had been transferred, were subtracted
+from the average counts per minute for each DNA sample dot.
+
+Results
+Amplification of cDNA reverse transcribed from total RNA of
+bronchial and nasal epithelial cells from the normal individuals, patients nos. 246,272, and S28 using fl-actin and HCK 15
+primers produced the correct size DNA fragments (Fig. 2, a
+and b, some data not shown). This indicated that cDNA was
+synthesized, and was of respiratory epithelial cell origin.
+CFTR cDNA from exons 1-7, 13-18, and 18-24 was amplified from bronchial and nasal epithelial cells from the normal individuals, the AF508 homozygote (no. S28), and the
+S549N/R553X compound heterozygote (no. 272) (Fig. 2,
+some data not shown). CFTR DNA could not be detected at
+the level of ethidium bromide staining after amplification of
+cDNA from bronchial epithelial cells from the patient (no.
+246) with nonsense mutations in each CFTR gene (Fig. 2, a
+and c). This demonstrated that both the R553X and WI 316X
+mutations are associated with reductions in mRNA levels.
+Exons 7-13 could not be reliably amplified as one fragment
+from single strand cDNA template despite attempts with three
+different antisense primers from the 3'-end of exon 13. Therefore, exons 7- 1 0 was amplified. In the initial experiments, all of
+the fragments amplified from CFTR cDNA were > 1 kb. Since
+amplification of smaller DNA fragments is more efficient than
+
+Undetectable CFTR Messenger RNA Associated with Nonsense Mutations
+
+1881
+
+Table I. PCR Primers and Allele-specific Oligonucleotides
+PCR annealing temperature
+
+Sequence
+
+PCR primer
+
+ac
+,3-Actin-5'
+f3-Actin-3'
+Human cytokeratin 15
+
+5'-GCACTCTTCCAGCCTTCC-3'
+5'-GCGCTCAGGAGGAGCAAT-3'
+
+58
+58
+
+HCK15-5'
+HCK15-3'
+CFTR
+Exon 1-5'
+Exon 7-3'
+Exon I1-5'
+Exon 11-3'
+Exon 13-5'
+Exon 18-3'
+Exon 18-5'
+Exon 24-3'
+
+5'-TGAAGGAGTTCAGCAGCCAGCTGG-3'
+5'-ACTGACTCTTCTACATTGATGTGG-3'
+
+58
+58
+
+5'-AGGCACCCAGAGTAGT-3'
+5'-TGCTCCAAGAGAGTCATACC-3'
+5'-CATCTCCAAGTTTGCAGAGA-3'
+5'-CTTGCTAAAGAAATTCTTGCT-3'
+5'-TGAACCTGATGACACACTCA-3'
+5'-AAGCTATCCACATCTATGCTG-3'
+
+56
+56
+56
+56
+58
+58
+58
+58
+
+5'-AGAGTTGGTATTATCCTGACT-3'
+5'-CCATGAGCAAATGTCCCATG-3'
+
+Allele-specific oligonucleotide
+
+Sequence*
+
+Wash temperature
+°C
+
+5'-TGAGTGGAGGTCAACGAG-3'
+5'-TGAGTGGAGGTCAATGAG-3'
+
+549/553 NL
+553X
+549N
+1316NL
+1316X
+
+61
+59
+59
+42
+42
+
+5'-TGAATGGAGGTCAACGAG-3'
+
+5'-GAAATATGGAAAGTTG-3'
+5'-GAAATATAGAAAGTTG-3'
+
+*The mutant nucleotide is underlined.
+
+amplification of larger fragments (32), we amplified a 100-bp
+region from exon 11 in an attempt to detect very low levels of
+CFTR transcript. Amplification of these exons from bronchial
+cell cDNA of the normal individuals, the AF508 homozygote,
+and the S549N/R553X compound heterozygote produced the
+correct size fragments. CFTR DNA could not be detected from
+amplified bronchial epithelial cDNA of patient no. 246 on
+ethidium bromide stained gels. In order to increase the sensitivity of detection and to analyze the relative level of transcripts
+containing the S549N and R553X mutations, the DNA amplified from exon 11 was hybridized with allele-specific oligonucleotides (ASO).
+As shown in Fig. 3, CFTR exon 11 DNA amplified from
+normal genomic DNA and normal bronchial cell cDNA hybridized to the normal sequence oligonucleotide (549/553 NL)
+(Fig. 3, NL Genomic and NL cDNA), as expected. CFTR exon
+
+11 DNA amplified from genomic DNA of patient no. 246
+(R553X/Wl316X) hybridized to both the normal (since the
+W1316X allele has normal sequence in exon 1) and the 553X
+oligonucleotides (Fig. 3, 246 Genomic). However, neither ASO
+hybridized to amplified cDNA of patient no. 246, indicating
+that CFTR transcripts were undetectable in this patient's bronchial epithelial cells (Fig. 3, 246 cDNA).
+CFTR exon 11 DNA amplified from genomic DNA isolated from the nasal polyp cell culture (LDNP) of patient no.
+272 (S549N/R553X) hybridized to the 549N and 553X oligonucleotides but not to 549/553 NL (Fig. 3, 272 Genomic), as
+predicted. DNA amplified from cDNA synthesized from the
+nasal polyp cell culture (LDNP) hybridized to the 549N oligonucleotide (Fig. 3, 272 cDNA). A faint signal was detected with
+the 553X oligonucleotide at 30 cycles (Fig. 3, 272 cDNA).
+The relative amount of amplified DNA from each allele
+
+CFTR cDNA
+1 2 3 4
+
+5 6a 6b
+
+111
+!111~~~
+11 72bp
+
+7
+
+8 9
+
+10 1112
+
+1
+* 0
+
+704bpp
+
+1
+-
+
+13
+
+14ab 15 1617a17b 18 19
+
+1
+
+111
+
+20 2122 23 24
+
+11
+
+1160bp
+
+1099bp
+
+Figure 1. Schematic representation of the CFTR cDNA with the size of the 27 exons (numbered above) drawn to scale. PCR primers for each
+exon are indicated as boxes and described in Table I. Lengths of the PCR amplified fragments are indicated below.
+
+1882
+
+Hamosh et al.
+
+7CFTR7
+
+A
+
+. .
+
+1-7
+
+r
+M
+
+C
+
+=
+
+C NL
+
+NL cm
+
+E*
+
+18-24
+cm
+
+C NL
+
+2
+
+CY
+
+Z
+
+CD
+
+o
+
+2
+
+CDJC
+E
+
+N
+
+N
+
+cm
+
+cm
+
+5491553 NL
+
+bp
+t 1172
+1099 bp
+
+*ASO
+
+553X
+
+<- 228 bp
+549N
+
+B
+M
+
+0
+=
+
+Ce
+
+C
+
+Z
+
+C0
+
+cm
+
+-_--588 bp
+
+C
+0
+
+M
+
+NN
+ID
+CCV
+C
+
+NL
+
+cM
+
+cVj
+
+Un
+
+P
+
+Figure 3. 32P-labeled ASO hybridization to PCR amplified genomic
+DNA or cDNA from CFTR exon 11. ASO used in each hybridization
+is as shown (sequences and final wash temperatures are listed in Table
+I); dots are in duplicate. NL Genomic, genomic DNA from a normal
+individual; NL cDNA, cDNA from a normal individual; 272 Genomic, genomic DNA from patient no. 272 (S549N/R553X) LDNP
+nasal polyp cell culture; 272 cDNA, LDNP cDNA; 246 Genomic: genomic DNA from patient no. 246 (R553X/Wl316X); 246 cDNA,
+cDNA derived from patient no. 246 bronchial cell RNA. PCR amplification was for 30 cycles, except for 272 Genomic which was amplified for 25 cycles. To control for variability in ASO affinity, exposure time was adjusted to equalize the intensity of the alleles from the
+genomic DNA of patient no. 246 (246 Genomic) and patient no. 272
+(272 Genomic).
+
+-1160 bp
+
+Figure 2. Ethidium bromide staining of PCR amplified cDNA derived
+from respiratory epithelial cells. (A) Primers used in each set of reactions are shown above the lanes (each reaction was performed for 30
+cycles). cDNA templates are as follows: C is cDNA synthesized using
+water in place of RNA, NL is from bronchial cells of normal subject,
+246 is from bronchial cells of patient no. 246 (R553X/W1 3 16X). (B)
+Amplification of HCK 15 after 30 cycles of PCR. cDNA templates
+are as above and as follows: 272 is from LDNP the nasal polyp cell
+culture derived from patient no. 272 (S549N/R553X). (C) Amplification of CFTR exons 13-18 after 35 cycles of PCR. cDNA templates
+for C are as above and as follows: S28 is from bronchial cells from
+patient no. S28 (AF508/AF508), P is from CFTR cDNA plasmid
+pBQ4.7. (Primer sequences are listed in Table I; fragment lengths are
+shown in Fig. 1.) M is Hae III digested 'Ix phage DNA used as a size
+marker (Bethesda Research Laboratories) H20 is a PCR control
+sample with all PCR reagents and primers, but no cDNA. Note: in C
+only one-third (by volume) as much cDNA was used for S28 PCR
+reaction as was used for NL.
+
+was quantitated by counting the radioactivity emitted by the
+32P-labeled ASO hybridized to PCR-amplified target DNA.
+Each CF allele of patient no. 272 is expected to be amplified
+equally from genomic DNA. Therefore, these samples were
+used to correct for different hybridization affinities of the
+ASOs. After subtracting background radioactivity and correcting for ASO affinity, the DNA hybridized with the R553X
+ASO had only 3.5% ofthe radioactive cpm of the DNA hybridized with the 549N ASO. This indicates that mRNA transcripts
+from the R553X nonsense mutation account for < 2% of the
+expected number of CFTR transcripts.
+
+To analyze the region containing the nonsense mutation in
+exon 21 (WI 316X), DNA samples amplified from genomic
+DNA and cDNA from patient no. 246, and cDNA from a
+normal subject were analyzed with ASOs. Genomic DNA encompassing exon 21 was amplified using primers (2li-5' and
+21i-3') selected from intron sequence flanking the exon (21).
+DNA was amplified from exons 18-24 of CFTR using bronchial cell cDNA from patient no. 246 and a normal subject as a
+template. The oligonucleotides corresponding to the normal
+sequence (1316 NL) and the mutant sequence (1316X) hybridized to amplified genomic DNA (Fig. 4, 246 Genomic), as expected. The normal sequence ASO (1316 NL) hybridized to the
+amplified cDNA from CFTR exons 18-24 from the normal
+subject (Fig. 4, NL cDNA). However, neither ASO detected
+amplified DNA from exons 18-24 from the cDNA of the patient (no. 246) with nonsense mutations in each CFTR gene
+(Fig. 4, 246 cDNA). This further confirmed that CFTR tran-
+
+E0
+°
+o5
+N
+
+1316 NL
+
+*
+
+ASO
+
+Z
+
+Z
+
+u
+N
+
+Q
+z
+
+Figure 4. 32P-labeled ASO hybridization to PCR amplified genomic
+DNA of CFTR exon 21 of patient
+no. 246 (246 Genomic) and PCR
+amplified cDNA of CFTR exons
+18-24 from bronchial cells of patient no. 246 (246 cDNA)
+(R553X/W1316X) and a normal
+
+subject (NL cDNA). Oligonucleotide used for each hybridization is
+as shown. PCR was performed for
+30 cycles. (Oligonucleotide sequences and final wash temperatures are
+listed in Table I.)
+1316 X
+
+*
+
+Undetectable CFTR Messenger RNA Associated with Nonsense Mutations
+
+1883
+
+scripts were undetectable in the respiratory epithelial cells of
+this patient.
+
+Discussion
+In this study we demonstrate that a patient with two nonsense
+mutations in the CF gene, R553X and W1316X, has severely
+diminished CFTR mRNA in respiratory epithelial cells. We
+have confirmed that R553X, the fourth most common CF mutation worldwide, is associated with a severe reduction in
+CFTR mRNA in a second patient (no. 272), a compound heterozygote for this mutation and the S549N missense mutation.
+The observation that nonsense mutations in CFTR result
+in undetectable levels of mRNA is not unexpected. A number
+of nonsense mutations in other genes, such as the f3-globin
+gene, the a,-antitrypsin gene, and the insulin receptor gene,
+have been associated with significantly decreased or undetectable mRNA levels in cells that normally express the respective
+proteins (I15-17, 19-22). Occasionally, nonsense mutations are
+associated with normal mRNA levels but truncated proteins
+(14, 18). However, when mRNA is severely decreased or undetectable, the respective protein product is absent. We therefore
+expect that patient no. 246 has severely reduced or probably
+absent CFTR protein.
+The mechanism whereby nonsense mutations yield decreased cytoplasmic mRNA levels is not fully understood. Urlaub and colleagues (33) demonstrated that nonsense mutations occurring prior to the final exon of the dihydrofolate reductase gene, when expressed in Chinese hamster ovary cells,
+result in very low intracytoplasmic levels of dihydrofolate reductase mRNA. Nonsense mutations in the last exon of this
+gene result in normal levels of dihydrofolate reductase mRNA.
+Nuclear run-on studies and actinomycin-D inhibition of new
+RNA synthesis demonstrated that the low mRNA levels were
+not the result of decreased transcription or rapid degradation of
+mRNA. This suggested that mRNA processing and translocation are coupled, leading to the development of two possible
+models. In the "translational translocation" model, intracytoplasmic translation pulls pre-mRNA through the nuclear splicing machinery and across the nuclear envelope. Nonsense mutations occurring in the last two exons are not recognized until
+after translocation is nearly complete. In the "nuclear scanning" model, pre-mRNAs are scanned for nonsense mutations
+prior to translocation across the nuclear membrane. This process might be linked to exon scanning for splice site determination, as recently suggested (34, 35).
+Interestingly, the four patients reported (1 1-13) with nonsense mutations in each CF gene have a similar phenotype:
+mild to moderate pulmonary disease associated with severe
+pancreatic disease. We have demonstrated that one of these
+patients has very reduced and possibly absent respiratory epithelial CFTR mRNA, which should result in similar reductions
+in protein levels. Although it has not been demonstrated, we
+would predict that CFTR is also severely diminished in pancreatic epithelial cells. This suggests that in this patient, severe
+reduction in CFTR levels is less deleterious to her lungs than
+her pancreas. If CFTR is a chloride channel, as suggested by
+recent expression studies (6, 7), perhaps it is not the only pathway for chloride secretion in respiratory epithelial cells. In the
+near-absence of CFTR, epithelial chloride channels encoded
+by other genes may be able to compensate sufficiently to minimize pulmonary disease.
+1884
+
+Hamosh et al.
+
+The observation of mild to moderate lung disease in the
+four reported patients with nonsense mutations on each CF
+allele (1 1-13) may merely reflect the very small sample size. As
+more such patients are described, it might become apparent
+that they manifest the same broad variability in pulmonary
+disease as is observed in patients homozygous for the AF508
+mutation (8). However, if the phenotype of mild pulmonary
+disease in CF patients with nonsense mutations on each allele
+holds true, it would suggest that severely reduced levels of
+CFTR may be less deleterious to respiratory epithelial cell
+function than the exclusive presence of altered CFTR. This
+hypothesis is consistent with the findings of Smith and coworkers (36) who demonstrated that overexpression of several
+mutant CFTR cDNAs in COS cells resulted in incomplete glycosylation of the protein. These authors propose that abnormal
+post-translational modification of mutant CFTR interferes
+with its trafficking to the cell membrane leading to an accumulation of mutant protein in the Golgi. More recent observations
+in normal and CF airway epithelial cells suggest that mutant
+CFTR causes abnormal acidification ofintracellular organelles
+affecting post-translational modification and trafficking of
+other proteins (37). In either case, severe reduction of CFTR in
+respiratory epithelial cells might allow more normal intracellular physiology in some patients.
+If the mild pulmonary phenotype seen thus far in CF patients with nonsense mutations on each allele does not hold
+true, then the variability may be a product of genetic background. The two patients we have described (1 1) are AfricanAmericans. A recent retrospective cohort analysis comparing
+the phenotype of black and white CF patients found that black
+patients had fewer hospitalizations for pulmonary exacerbations and better mean forced vital capacity and chest x-ray
+scores (38). These findings suggest that African-American CF
+patients in general have less severe pulmonary disease than
+Caucasian CF patients. Since the study did not control for genotype, the phenotypic differences may reflect differences in the
+variety of CF genotypes between the two populations. An alternative explanation is that the genetic background of AfricanAmerican patients better compensates for any CF mutation.
+Further studies will be necessary to elucidate the role of genetic
+background in modifying CF phenotype.
+In conclusion, two nonsense mutations in the CF gene,
+R553X and W1316X, both result in undetectable CFTR
+mRNA in respiratory epithelial cells. Our patient has mild pulmonary disease and severe pancreatic disease, indicating that
+CFTR is not essential for viability and that the mechanism of
+chloride secretion and the role of CFTR might differ between
+the epithelial cells of the lung and pancreas. Since R553X is the
+fourth most common CF mutation worldwide, it may be possible to study homozygotes with this mutation to determine the
+range of phenotypes when CFTR is absent.
+Note added in proof Since we submitted the manuscript for this
+article, we have demonstrated that CFTR protein is undetectable by
+Western blot analysis of nasal epithelial cell protein from patient no.
+246 who has undetectable mRNA (39).
+
+Acknowledgments
+We thank Drs. Haig H. Kazazian, Jr., lain McIntosh, and Harry C.
+Dietz for their advice. This work could not have been done without the
+
+contributions of Dr. Mary H. Wagner, who performed the nasal brushings, and Dr. Noel McElvaney who performed the bronchial brushings.
+This work has been supported by grants from the National Institutes of Health (Drs. Hamosh, Cutting, Zeitlin and Kazazian) and the
+CF Foundation (Drs. Zeitlin and Cutting). Dr. Cutting is a Merck Clinician Scientist.
+
+References
+1. Boat, T. F., M. J. Welsh, and A. L. Beaudet. 1989. Cystic fibrosis. In The
+Metabolic Basis of Inherited Disease. 6th edition. C. L. Scriver, A. L. Beaudet,
+W. S. Sly, and D. Valle, editors. McGraw-Hill, New York. 2649-2680.
+2. Frizell, R. A., G. Rechkemmer, and R. L. Shoemaker. 1986. Altered Regulation of airway epithelial cell chloride channels in cystic fibrosis. Science (Wash.
+DC). 233:558-560.
+3. Rommens, J. M., M. C. lanuzzi, B. Kerem, M. L. Drumm, G. Melmer, M.
+Dean, R. Rozmahel, J. L. Cole, D. Kennedy, N. Hidaka, et al. 1989. Identification of the cystic fibrosis gene: chromosome walking and jumping. Science
+(Wash. DC). 245:1059-1065.
+4. Riordan, J. R., J. M. Rommens, B. Kerem, N. Alon, R. Rozmahel, Z.
+Grzelczak, J. Zielenski, S. Lok, N. Plavsic, J. Chou, et al. 1989. Identification of
+the cystic fibrosis gene: cloning and characterization of the complementary DNA.
+Science (Wash. DC). 245:1066-1073.
+5. Higgins, C. F. 1989. Export-import family expands. Nature (Lond.).
+340:342.
+6. Kartner, N., J. W. Hanrahan, T. J. Jensen, A. L. Neismith, S. Sun, C. A.
+Ackerley, E. F. Reyes, L. Tsui, J. M. Rommens, C. E. Bear, et al. 1991. Expression
+of the cystic fibrosis gene is non-epithelial invertebrate cells produces a regulated
+anion conductance. Cell. 64:681-691.
+7. Anderson, M. P., D. P. Rich, R. J. Gregory, A. E. Smith, and M. J. Welsh.
+1991. Generation of cAMP-activated chloride currents by expression of CFTR.
+Science (Wash. DC). 251:679-682.
+8. Kerem, E., M. Corey, B. Kerem, J. Rommens, D. Markiewicz, H. Levison,
+L. Tsui, and P. Durie. 1990. The relation between genotype and phenotype in
+cystic fibrosis-analysis of the most common mutation (DF508). N. Engl. J.
+Med. 323:1517-1522.
+9. Cutting, G. R., L. M. Kasch, B. J. Rosenstein, J. Zielenski, L. Tsui, S. E.
+Antonarakis, and H. H. Kazazian. 1990. A cluster of cystic fibrosis mutations in
+the first nucleotide-binding fold of the cystic fibrosis conductance regulator protein. Nature (Lond.). 346:366-369.
+10. Kerem, B-S, J. Zielinski, D. Markiewicz, D. Bozon, E. Gazit, J. Yahav, D.
+Kennedy, J. R. Riordan, F. S. Collins, and J. M. Rommens. 1990. Identification
+ofmutations in regions corresponding to the two putative nucleotide (ATP)-binding folds of the cystic fibrosis gene. Proc. Natl. Acad. Sci. USA. 87:8447-8451.
+11. Cutting, G. R., L. M. Kasch, B. J. Rosenstein, L. Tsui, H. H. Kazazian,
+and S. E. Antonarakis. 1990. Two patients with cystic fibrosis nonsense mutations in each cystic fibrosis gene, and mild pulmonary disease. N. Engl. J. Med.
+323:1685-1689.
+12. Cuppens, H., P. Marynen, C. De Boeck, F. De Baets, E. Eggermont, H.
+Van den Beghe, and J. J. Cassiman. 1990. A child, homozygous for a stop mutation in exon 11, shows milder cystic fibrosis symptoms than her heterozygous
+nephew. J. Med. Genet. 27:717-719.
+13. Beaudet, A. L., R. G. Perciaccante, and G. R. Cutting. 1991. Homozygous
+nonsense mutation causing cystic fibrosis with uniparental disomy. Am. J. Hum.
+Genet. 48:1213.
+14. Lehrman, M. A., W. J. Schneider, M. S. Brown, C. G. Davis, A. Elhammer, D. W. Russell, and J. L. Goldstein. 1987. The Lebanese allele at the low
+density lipoprotein receptor locus: nonsense mutation produces truncated receptor that is retained in endoplasmic reticulum. J. Biol. Chem. 262:401-410.
+15. Baserga, S., and E. J. Benz, Jr. 1988. Nonsense mutations in the human
+fl-globin gene affect mRNA metabolism. Proc. Nati. Acad. Sci. USA. 85:20562060.
+16. Satoh, K., T. Nukiwa, M. Brantly, R. I. Garver, M. Hofker, M. Courtney,
+and R. G. Crystal. 1988. Emphysema associated with complete absence of al-antitrypsin of a stop codon in an a l-antitrypsin-coding exon. Am. J Hum. Genet.
+42:77-83.
+17. Globerman, H., M. Amor, K. L. Parker, M. I. New, and P. C. White. 1988.
+
+Nonsense mutation causing steroid 21-hydroxylase deficiency. J. Clin. Invest.
+82: 139-144.
+18. Fojo, S. S., P. Lohse, C. Parrott, G. Baggio, C. Gabelli, F. Thomas, J.
+Hoffman, and H. B. Brewer, Jr. 1989. A nonsense mutation in the apolipoprotein
+C-Ip.do,, gene in a patient with apolipoprotein C-II deficiency. J. Clin. Invest.
+84:1215-1219.
+19. Chen, S. H., C. R. Scott, J. Schoof, E. W. Lovrien, and K. Kurachi. 1989.
+Factor IXp,,,d: a nonsense mutation (CGA to TGA) resulting in hemophilia B.
+Am. J. Hum. Genet. 44:567-569.
+20. Ware, J., S. R. Russell, V. Vicente, R. E. Scharf, A. Tomer, R. McMillan,
+and Z. M. Ruggeri. 1990. Nonsense mutation in the glycoprotein Iba coding
+sequence associated with Bernard-Soulier syndrome. Proc. Natl. Acad. Sci. USA.
+87:2026-2030.
+21. Kajihara, S., T. Mukai, Y. Arai, M. Owada, T. Kitagawa, and K. Hori.
+1990. Hereditary fructose intolerance caused by a nonsense mutation ofthe aldolase B gene. Am. J. Hum. Genet. 47:562-567.
+22. Kadowaki, T., H. Kadowaki, M. M. Rechler, M. Serrano-Rios, J. Roth, P.
+Gorden, and S. I. Taylor. 1990. Five mutant alleles ofthe insulin receptor gene in
+patients with genetic forms of insulin resistance. J. Clin. Invest. 86:254-264.
+23. Brasfield, D., G. Hicks, S. Soong, and R. E. Tiller. 1979. The chest roentgenogram in cystic fibrosis: a new scoring system. Pediatrics. 63:24-29.
+24. Shwachman, H., and L. L. Kulczycki. 1958. Long-term study of one
+hundred five patients with cystic fibrosis. Am. J. Dis. Child. 96:6-15.
+25. Chomczynski, P., and N. Sacchi. 1987. Single-step method of RNA isolation by acid guanidinium thiocyanate-phenol-chloroform extraction. Anal. Biochem. 162:156-159.
+26. Saiki, R. L., C. Chang, C. H. Levenson, T. C. Warren, C. D. Boehm, H. H.
+Kazazian, and H. A. Erlich. 1988. Diagnosis of sickle cell anemia and ,-thalessemia with enzymatically amplified DNA and nonradioactive allele-specific oligonucleotide probes. N. Engl. J. Med. 319:537-541.
+27. Ng, S., P. Gunning, R. Eddy, P. Ponte, J. Leavitt, T. Shows, and L. Kedes.
+1985. Evolution of the functional human ,-actin gene and its multi-pseudogene
+family: conservation of noncoding regions and chromosomal dispersion of pseudogenes. Mol. Cell. Biol. 5:2720-2732.
+28. Leube, R. E., B. L. Bader, F. X. Bosch, R. Zimmerman, and T. Achstaetter. 1988. Molecular characterization and expression of the stratification-related
+cytokeratins 4 and 15. J. Cell Biol. 106:1249-1261.
+29. Moll, R., W. W. Franke, D. L. Schiller, B. Geiger, and R. Krepler. 1983.
+The catalog of human cytokeratins: patterns of expression in normal epithelia,
+tumors, and cultured cells. Cell. 31:11-24.
+30. Trapnell, B. C., C. Chu, P. K. Paakko, T. C. Banks, K. Yoshimura, V. J.
+Ferrans, M. S. Chernick, and R. G. Crystal. 1991. Expression of the cystic fibrosis
+transmembrane conductance regulator gene in the respiratory tract of normals
+and individuals with cystic fibrosis. Proc. Natl. Acad. Sci. USA. 88:6565-6569.
+31. Kerem, B., J. M. Rommens, J. A. Buchanan, D. Markiewicz, T. K. Cox,
+A. Chakravarti, M. Buchwald, and L. Tsui. 1989. Identification of the cystic
+fibrosis gene: genetic analysis. Science (Wash. DC). 245:1073-1080.
+32. Saiki, R. K., D. H. Gelfand, S. Stoffel, S. J. Scharf, R. Higuchi, G. T. Horn,
+K. B. Mullis, and H. A. Erlich. 1988. Primer-directed enzymatic amplification of
+DNA with a thermostable DNA polymerase. Science (Wash. DC). 239:487-491.
+33. Urlaub, G., P. J. Mitchell, C. J. Ciudad, and L. A. Chasin. 1989. Nonsense
+mutations in the dihydrofolate reductase gene affect RNA processing. Mol. Cell.
+Biol. 9:2868-2880.
+34. Robberson, B. L., G. L. Cote, and S. M. Berget. 1990. Exon definition may
+facilitate splice site selection in RNAs with multiple exons. Mol. Cell. Biol. 10:8494.
+35. Cheng, J., M. Fogel-Petrovic, and L. E. Maquat. 1990. Translation to near
+the distal end of the penultimate exon is required for normal levels of spliced
+triosephosphate isomerase mRNA. Mol. Cell. Biol. 10:5215-5225.
+36. Cheng, S. H., R. J. Gregory, J. Marshall, S. Paul, D. W. Souza, G. A.
+White, C. R. O'Riordan, and A. E. Smith. 1990. Defective intracellular transport
+and processing of CFTR is the molecular basis of most cystic fibrosis. Cell.
+63:827-834.
+37. Barasch, J., B. Kiss, A. Prince, L. Saiman, D. Gruenert, and Q. Al-Awqati.
+1991. Defective acidification of intracellular organelles in cystic fibrosis. Nature
+(Lond.). 352:70-73.
+38. McColley, S. A., B. J. Rosenstein, and G. R. Cutting. 1991. Differences in
+expression of cystic fibrosis in blacks and whites. Am. J. Dis. Child. 145:94-97.
+39. Zeitlin, P. L., I. Crawford, L. Lu, S. Woel, M. E. Cohen, M. Donowitz, et
+al. 1991. CFTR protein expression in primary and cultured epithelia. Proc. Natl.
+Acad. Sci. USA. In press.
+
+Undetectable CFTR Messenger RNA Associated with Nonsense Mutations
+
+1885
+
+

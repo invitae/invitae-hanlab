@@ -1,0 +1,1139 @@
+Am. J. Hum. Genet. 51:81-91, 1992
+
+Nonsense-Codon Mutations of the Ornithine Aminotransferase
+Gene with Decreased Levels of Mutant mRNA in Gyrate
+Atrophy
+Yukihiko Mashima,* Akira Murakami,* Richard G. Weleber,t' Nancy G.
+Lorne Clarke,§ Takashi Shiono,11 and George Inana*
+
+Kennawayj
+
+Bascom Palmer Eye Institute, University of Miami Schoor of Medicine, Miami; Department of tOphthalmology and *Molecular and Medical
+Genetics, Oregon Health Sciences University, Portland; §Department of Medical Genetics, University of British Columbia, Vancouver; and
+IlDepartment of Ophthalmology, Tohoku University, Sendai, Japan
+
+Summary
+A generalized deficiency of the mitochondrial matrix enzyme ornithine aminotransferase (OAT) is the inborn
+error in gyrate atrophy (GA), an autosomal recessive degenerative disease of the retina and choroid of the
+eye. Mutations in the OAT gene show a high degree of molecular heterogeneity in GA, reflecting the genetic
+heterogeneity in this disease. Using the combined techniques of PCR, denaturing gradient gel electrophoresis, and direct sequencing, we have identified three nonsense-codon mutations and one nonsense codongenerating mutation of the OAT gene in GA pedigrees. Three of them are single-base substitutions, and
+one is a 2-bp deletion resulting in a reading frameshift. A nonsense codon created at position 79 (TGA) by
+a frameshift and nonsense mutations at codons 209 (TAT--TAA) and 299 (TAC-'oTAG) result in abnormally low levels of OAT mRNA in the patient's skin fibroblasts. A nonsense mutation at codon 426
+(CGA-"TGA) in the last exon, however, has little effect on the mRNA level. Thus, the mRNA level can
+be reduced by nonsense-codon mutations, but the position of the mutation may be important, with earlier
+premature-translation termination having a greater effect than a later mutation.
+
+Introduction
+
+Gyrate atrophy (GA) of the choroid and retina is an
+autosomal recessive eye disorder involving a progressive loss of vision due to severe chorioretinal degeneration (Valle and Simell 1989). The underlying biochemical defect in GA is in the mitochondrial matrix
+enzyme, ornithine aminotransferase (OAT). The defect is systemic and leads to hyperornithinemia. The
+mechanism by which the OAT deficiency and hyperornithinemia lead to the chorioretinal degeneration,
+however, is not known.
+A variety of OAT mutations have been reported in
+Received August 19, 1991; final revision received March 5,
+1992.
+Address for correspondence and reprints: George Inana, M.D.,
+Ph.D., Bascom Palmer Eye Institute, University of Miami School
+of Medicine, 1638 NW 10th Avenue, Miami, FL 33136.
+i 1992 by The American Society of Human Genetics. All rights reserved.
+0002-9297/92/5101-0009$02.00
+
+GA patients, by our group and others (Inana et al.
+1988, 1989; Mitchell et al. 1988, 1989b; Ramesh et
+al. 1988; McClatchey et al. 1990; Akaki et al. in
+press), demonstrating a high degree of molecular heterogeneity in this disease. In view of this, a rapid and
+efficient method of detection of mutations would be
+useful for the study of GA. Such a method is a combination of denaturing gradient gel electrophoresis
+(DGGE) and direct sequencing of PCR-amplified
+(Saiki et al. 1985) gene sequences. DGGE is a gel system developed by Fischer and Lerman (1983) that separates DNA fragments according to their sequencespecific melting properties and that is capable of
+resolving DNA fragments differing by as little as a
+single base. Attachment of a GC-rich region (GC
+clamp) to PCR-amplified genomic DNA fragments has
+improved the resolution of DNA fragments shown,
+by DGGE, as containing a single-base substitution
+(Sheffield et al. 1989). Using these techniques, we have
+identified three nonsense-codon mutations and one
+81
+
+Mashima et al.
+
+82
+
+nonsense codon-generating mutation of the OAT
+gene in GA pedigrees. Three nonsense mutations are
+due to single-base substitutions in codons 209, 299,
+and 426, and one (codon 79) is caused by a 2-bp deletion at codons 64 and 65, resulting in a reading
+frameshift. The nonsense-codon mutations result in
+a variable decrease in the level of steady-state OAT
+mRNA, with the earlier premature terminations in
+the coding sequence appearing to have a greater effect
+than the later ones.
+Subjects and Methods
+Subjects
+Patient 1. - This patient was diagnosed, at the age of
+23 years, as having GA. Retinal findings were characteristic, as was the elevation of plasma ornithine. No
+change in plasma ornithine was noted on pyridoxine
+therapy. OAT activity was not detectable in cell extracts from skin fibroblasts. The patient was adopted
+at birth in Canada, and no family information was
+available.
+Patient 2.-The clinical characteristics of this patient
+have been described elsewhere (patient 4 of Weleber
+et al. [1982] and Kennaway et al. [1989]; also see fig.
+12-5 in Weleber and Kennaway 1988). OAT activity
+was not detectable in cell extracts from skin fibroblasts. Southern blot analysis and northern blot analysis of this patient and his family have been reported
+elsewhere (Inana et al. 1988; Hotta et al. 1989). This
+patient has a partial heterozygous deletion of 1,072
+bp, including exon 6, of the functional OAT gene
+(Akaki et al., in press). Northern blot analysis revealed
+no detectable OAT mRNA. The patient is of English,
+Dutch, German, and French ancestry.
+Patient 3.-This 19-year old male of English and
+German ancestry had the GA diagnosis made at 19
+years of age. Night vision had been poor since early
+childhood. With - 8.00 + 0.50 axis 1250 he saw
+20/ 80± , J3 at near, right eye, and with - 4.00 sphere
+he saw 20/300, J12 at near, left eye. He had normal
+color vision in the right eye and a moderate color
+deficiency in the left eye, midperipheral scotomas between 100 and 300 from fixation, and, on Goldmann
+perimetry, marked decrease of solid angles of peripheral kinetic visual fields (Weleber and Tobler 1986)
+(IV4e test Isopter was 1.41 steradian [right] and 1.36
+steradian [left] [normal 3.59 ± 0.25], and I4e test
+Isopter was 0.274 steradian [right] and 0.077 steradian [left] [normal 2.621 + 0.266]). His examination
+
+showed moderately advanced posterior subcapsular
+cataracts bilaterally, typical total vascular atrophy of
+the peripheral choroid and retina, and a nonaveraged
+Ganzfeld electroretinogram that was undetectable
+above noise (<10 gV). Serum ornithine level before
+treatment with vitamin B6 was 912 ± 21 iimol/liter
+and, after treatment with 300 mg/d, was 903 and
+912 pmol/liter (normal 83 ± 30 gmol/liter). OAT
+activity was not detectable in extracts from skin fibroblasts.
+Patient 4.-The clinical characteristics of this patient
+have been described elsewhere (fig. 12-1 of Weleber
+and Kennaway 1988). OAT activity was 10 ± 3
+nmol/mg protein/h (normal 276 ± 111) in cell extracts from skin fibroblasts (patient 8 of Kennaway et
+al. 1989). The patient is of Italian, Dutch, and Irish
+ancestry.
+Patient 5.- The clinical characteristics of this patient
+have been described elsewhere (patient 2 of Hayasaka
+et al. 1981). OAT activity was not detectable in cell
+extracts from skin fibroblasts. The patient is Japanese.
+None of the five patients was responsive to vitamin B6
+therapy.
+
+Southeem Blot Analysis
+High-molecular-weight DNA was isolated from the
+patients' skin fibroblasts according to the method of
+Blin and Stafford (1976). The DNA was digested with
+several restriction enzymes, electrophoresed on 0.8%
+agarose gel, transferred onto nylon membrane, hybridized with the human OAT cDNA, washed, and
+autoradiographed, as described by Inana et al. (1988).
+Northem Blot Analysis
+
+Total RNA was isolated from the patient skin fibroblasts by the guanidine thiocyanate method (Chirgwin et al. 1979), electrophoresed on 0.8% denaturing
+agarose gel, transferred onto nylon membrane, hybridized with the human OAT cDNA or actin cDNA,
+washed, and autoradiographed, as described by Inana
+et al. (1988). Actin probing was performed to check
+the quality and quantity of RNA present on the blot
+for each lane. The intensities of the hybridization
+bands were quantitated by densitometry.
+Amplification of Genomic DNA by PCR
+Short segments of genomic DNA were amplified by
+the PCR technique using the Taq DNA polymerase
+(Perkin Elmer Cetus). A pair of primers (22-mer) complementary to the sense and antisense strands were
+chosen from the intron sequence flanking each exon.
+
+Decreased mRNA in Gyrate Atrophy
+PCR amplification was carried out for 30 cycles on a
+DNA thermal cycler (Perkin Elmer Cetus); each round
+consisted of 1 min at 941C for denaturation, 1 min
+at 54-601C for annealing, and 1 min at 720C for
+extension.
+DGGE
+
+A 5' primer, which included the above-mentioned
+original 5'-primer sequences to which a 40-bp GC-rich
+sequence (GC clamp) was added, was synthesized
+(Sheffield et al. 1989). The amplification was performed using the original 3' primer and the
+GC-clamped 5' primer. Each of the amplified sequences was tested with the computer programs
+MELT, MU, and SQHTX (Lerman and Silverstein
+1987) to determine the optimal condition for the gel
+run.
+The denaturing gradient gel apparatus used in this
+investigation consisted of the PROTEAN® II xi cell
+(BIO-RAD) system placed in a 600C water bath (Myers et al. 1987). The denaturing gel is a 6.5% polyacrylamide gel containing a linearly increasing gradient from 20% to 80% denaturant. The 100%
+denaturant consists of 7 M urea and 40% (v/v) formamide. The PCR-amplified product was electrophoresed at 80 V or 150 V for 6-15 h. After electrophoresis, the gel was stained in ethidium bromide (2 gg/ml)
+for 15 min and was photographed by UV transillumination with Polaroid type 57 panchromatic film.
+Direct Sequencing of PCR products
+A sequencing primer located internal to the amplification primer for a PCR-amplified DNA was end
+labeled with [y-32P] ATP (3,000 Ci/mmol) by using
+T4 DNA polynucleotide kinase. Double-stranded amplified DNA (200-300 ng) was sequenced by a direct
+genomic-sequencing technique using a Sequenase kit
+(United States Biochemical) containing T7 polymerase, according to a method described by Newton et al.
+
+(1988).
+Results
+Southern and Northern Blot Analysis of the OAT Gene
+Southern blot analysis of genomic DNA extracted
+from skin fibroblasts of patient 2 demonstrated one
+normal appearing OAT allele and another with a partial heterozygous deletion, as previously reported
+(data not shown; Inana et al. 1988; Hotta et al. 1989).
+Southern blot analysis of patients 1 and 3-5 did not
+
+83
+
+reveal any modification of the OAT gene fragments
+with the OAT cDNA probe, eliminating the possibility
+of a gross deletion or rearrangement of the OAT gene.
+Northern blot analysis of skin fibroblast RNA from
+the patients with standardization, by actin mRNA hybridization and densitometric analysis, of quantity
+and quality of RNA present in each lane demonstrated
+a variable decrease in the level of OAT mRNA in five
+patients (fig. 1). The steady-state levels of total OAT
+mRNA, which were densitometrically determined and
+normalized, are shown in table 1. Presumed allelespecific mRNA levels, which had a range of 0%100%, were estimated from the results of the complete
+analysis, as described in the Discussion. The analysis
+was repeated three times to confirm the results.
+DGGE and Direct Sequencing of PCR-amplifled OAT Gene
+
+In patient 1, DGGE revealed two separate exon 3
+bands and four exon 6 bands, which represents a pattern for a heterozygote (fig. 2). In exon 6, the bottom
+band migrating with the normal band represents the
+normal allele, the second band up from the bottom
+represents the mutant allele, and the top two bands
+represent the heteroduplex DNA fragments produced
+by PCR as artifacts. This is a typical DGGE pattern
+for heterozygosity. In exon 3, the lower band is made
+up of the normal allele and a comigrating mutant allele, making it broader, and the upper band contains
+heteroduplex DNA fragments that are comigrating,
+resulting in an atypical heterozygous pattern. Direct
+sequencing analysis of the PCR-amplified exon 3 region revealed a 2-bp deletion (AG) (fig. 3A) in codons
+64 and 65, which results in a reading frameshift and
+a premature stop codon at codon 79 (T GAC-TGA
+C) in exon 4. Direct sequencing of the exon 6 region
+revealed a C--A nucleotide substitution in the second
+nucleotide of codon 199, replacing a Pro with a Gln
+(data not shown).
+Patient 2 was found to have a single exon 6 band
+that did not migrate with the normal band (fig. 2). This
+single-band pattern in DGGE normally represents a
+pattern of a homozygous mutation or failure to obtain
+a PCR product from one of the alleles. The latter,
+in fact, was the case in this patient, and the pattern
+represents a compound heterozygote, because the
+other allele has been shown to have a partial deletion
+of the gene, including exon 6 (Inana et al. 1988; Akaki
+et al., in press). Direct sequencing of the exon 6 region
+showed a T--A nucleotide substitution in codon 209
+(fig. 3B). This alteration results in a nonsense mutation, replacing a Tyr with a TAA stop codon. The
+
+Mashima et al.
+
+84
+
+.4)
+
+lbN
+
+DK
+
+<0
+
+11-1.0
+0
+
+19
+
+I
+OAT
+
+Actin
+
+Northern blot analysis of OAT and actin mRNA in five GA patients with nonsense-codon mutations. The quantity and
+Figure I
+quality of RNA present in each lane was standardized by actin mRNA hybridization and densitometric analysis, and the normalized OAT
+mRNA levels relative to those in the control are given in table 1.
+
+deletion including exon 6, in the other allele, also results in a premature stop codon in exon 7, because of
+a reading frameshift (data not shown; Akaki et al., in
+press).
+Patient 3 had three separate exon 6 bands by
+DGGE, indicating heterozygosity (fig. 2). The bottom
+band migrated in a manner identical with that shown
+by patient 2's fragment and represents the mutant allele. Direct sequencing analysis of exon 6 showed, in
+addition to the normal T nucleotide, T-EA nucleotide
+substitution in codon 209 (Tyr to stop codon), identical to that in patient 2, which is consistent with a
+pattern for a heterozygote (Fig. 3B). Direct sequencing
+of the exon 10 region, where the other mutation was
+detected by DGGE, revealed a G-IA nucleotide substitution in the second nucleotide of codon 373, replacing a Gly with a Glu (data not shown).
+Patient 4 had three separate bands in exons 6 and
+8, by DGGE, indicating heterozygosity in these regions (fig. 2). A heterozygous COG nucleotide substitution in codon 299 in exon 8 was identified by direct
+sequencing analysis (Fig. 3C). This mutation results
+in a nonsense mutation, replacing a Tyr with a TAG
+
+stop codon. Direct sequencing of the exon 6 region
+revealed a heterozygous G--C nucleotide substitution
+in the second nucleotide of codon 180, replacing an
+Arg with a Thr (data not shown). A homozygous G*C
+nucleotide substitution is reported to be indistinguishable by DGGE (Traystman et al. 1990). Thus, in this
+case, G*C mutations were detected by DGGE, because oftheir heterozygosity and the presence ofheteroduplex bands.
+Patient 5 was found, by DGGE, to have a single
+exon 11 band that did not migrate with the normal
+band, a result that represents either a pattern for a
+homozygous mutation or failure to obtain a PCR
+product from one of the alleles (fig. 2). A homozygous
+C-OT nucleotide substitution in codon 426 was identified by direct sequencing analysis (Fig. 3D). This mutation results in a nonsense mutation, replacing an Arg
+with a TGA stop codon.
+Discussion
+
+By analysis of genomic DNA, using PCR in combination with DGGE and direct sequencing, we have
+
+85
+
+Decreased mRNA in Gyrate Atrophy
+Table I
+Mutations In OAT Gene (439 Codons) In GA
+
+Patient
+
+Total OATmRNA Levela
+(%)
+
+Mutations
+
+Estimated Allele-specific
+OAT mRNA Levelb
+(%)
+
+0-10
+Codon 64, 65, AGA GGA (2-bp
+deletion)-frameshift-stop
+codon (codon 79c, exon 4)
+90-100
+Codon 199 CCA (Pro)-CAA (Gln)
+0
+2
+0
+Codon 209 (exon 6) TAT (Try)TAA (stop codon)
+0
+Partial deletion of gene including
+exon 6-'frameshift-stop codon
+(codon 192,c exon 7)
+0
+3
+50
+Codon 209 (exon 6) TAT (Try)TAA (stop codon)
+100
+Codon 373 GGA (Gly)GAA (Glu)
+20-40
+4 .....
+60-70
+Codon 299 (exon 8) TAC (Tyr)-*
+TAG (stop codon)
+100
+Codon 180 AGG (Arg)
+ACG (Thr)
+80-90
+Codon 426 (exon 11, homozygous)
+5
+80-90
+CGA (Arg)-TGA (stop codon)
+a
+Determined by densitometric analysis of northern blots (fig. 1), with normalization of RNA quantity
+and quality by actin mRNA hybridization, expressed as percentage of averaged normal level.
+b Estimated on the basis of both codominance of expression of the OAT gene alleles and available
+information on the mRNA expression of specific alleles. See Discussion. Expressed as percentage of
+averaged normal level for an allele, which is half of the total level.
+c Newly generated codon resulting from a reading frameshift mutation.
+1
+
+.....
+
+50
+
+.....
+
+.....
+
+.....
+
+identified four premature-termination codon mutations in the OAT gene of five GA patients: three from
+point mutations and one from a frameshift mutation
+due to a 2-bp deletion. In one of these cases another
+premature-termination mutation which results from
+a 1 ,072-bp deletion, elimination of exon 6, and a reading frameshift (Akaki et al., in press) -was also
+known. Northern analysis of OAT mRNA in these
+cases demonstrated a variable decrease in their
+steady-state levels.
+The codominance of the expression of the OAT
+gene alleles has been amply demonstrated in the past,
+at both the protein level and the mRNA level (Valle
+et al. 1977; Hotta et al. 1989). Each allele appears to
+express its share of OAT independently of the other,
+be it at a normal or a subnormal level. This was clearly
+demonstrated, at the mRNA level, in obligate heterozygous carriers in a GA family in which the proband
+carried two null alleles (Hotta et al. 1989). Thus, one
+should be able to make a reasonable estimate of allele-
+
+specific OAT-mRNA levels if information is available
+both for the total and for one of the two alleles. Estimation of the allele-specific mRNA levels, on the basis
+of this principle and other information (discussed below), indicated that these nonsense mutations result
+in a variable decrease in the level of steady-state OAT
+mRNA.
+Our patient 1 was a compound heterozygote with
+a 2-bp deletion producing a premature-termination
+codon in one allele and a missense mutation in codon
+199 in the other allele, identical to the missense mutation reported by Kaufman et al. (1990). Since no
+abnormality of mRNA level was mentioned for the
+codon 199 missense mutation, the allele with the
+premature-termination codon (new codon 79) appears
+to lead to nearly a 100% decrease in the level of its
+OAT mRNA, resulting in a net total decrease of approximately 50% (table 1). Patient 2, whose northern
+blot analysis revealed no detectable OAT mRNA, had
+compound heterozygous mutations in the OAT gene,
+
+N11
+
+4b0
+
+Exon
+
+9
+
+I.
+
+A.)
+
+N
+
+%-
+
+A
+
+N
+
+Ik
+
+lb40
+
+e~
+
+0
+
+qh
+
+3 Exon b
+
+Exon 6
+
+Nl-
+
+lb
+
+r),
+%-
+
+.4Zk
+C..
+
+0 ~
+
+N
+N1
+
+q
+
+VI','
+
+9',
+
+Exon
+
+Exon 6
+
+10
+
+4')
+
+!(ZZ-
+
+11.
+N
+
+l
+lb.%
+
+0
+
+q4h
+
+N
+
+NLl-1
+
+lb
+
+9
+
+0i
+
+S
+
+0
+
+q4h
+
+q
+
+Exon 1I1
+
+Exon 6 Exon 8
+
+Figure 2 Detection of mutations in exons of the OAT gene, by DGGE, in five GA patients. GC-clamped, PCR-amplified fragments
+of each exon were electrophoresed in a denaturing gradient gel and were screened for mutations. Patients 1, 3, and 4 demonstrate a
+heterozygous pattern of mutations with heteroduplexes, and patients 2 and 5 demonstrate a homozygous pattern with only homoduplexes
+on the gel. Patients 2 and 3 have the same mutation in exon 6, demonstrated by a mutant allele showing identical migration in both patients
+and confirmed by sequencing.
+
+86
+
+to
+
+o
+
+<
+
+gILnn <S
+
+n
+
+I~I-
+
+0
+
+a.
+
+<
+LD
+
+06
+
+-I
+
+u
+
+ID.j -
+
+<1j
+eCD I- C
+
+0
+
+-
+
+U
+
+4c
+
+<C
+
+CDI-
+
+<
+O
+
+Lt')
+
+0 04
+
+=
+
+A
+
+4C
+
+<
+
+Li
+
+I-'
+
+C
+
+CD
+
+4.
+
+a
+
+Li
+
+(U
+
+.<
+
+<
+
+4-.
+
+I--
+
+N
+410
+
+Lo
+
+c
+S
+Z5
+
+I~-
+
+a
+
+E
+L-
+
+ID
+
+z
+
+U
+
+o
+
+5
+I-
+
+z
+
+E
+
+0
+
+2
+
+Li
+
+aL..
+
+44-
+
+4c
+
+_
+
+V
+
+4
+
+CL CD U
+
+4'
+
+I-
+
+"I
+
+.,
+"i
+
+<-
+
+-4
+
+<0
+in
+
+.-
+
+=
+
+a
+
+L.C-
+
+I.-
+
+S,
+a- 1~ £CS CfUc
+F0a -0 o@
+
+co
+
+-
+
+J < 00%
+In%wO r- 0Ch
+
+00--"
+
+-
+
+Z
+0 4c o
+,N<o
+
+<c
+
+<
+
+0C0 I
+<C
+
+oc 0
+
+CI*
+
+1
+
+a
+
+4-0
+Op
+tD
+tD
+
+<
+
+u
+
+_5iI fr 4
+
+4:
+
+a
+
+co-
+
+14J
+
+aL
+
+CD
+
+c
+
+a.
+
+0
+
+4)
+
+4.
+
+(U
+
+O
+
+-b
+
+Li
+
+T
+
+~CD
+H
+U
+
+EL
+
+fm
+
+EL-
+
+0
+
+z
+
+Z
+
+Li
+
+u
+
+CD
+
+4
+C <o <
+L--J
+
+<
+
+2
+
+to
+
+< oz o~< < < < 0o\O.
+LLJi L--j L
+L-
+
+>.
+
+>
+
+>.
+
+U
+
+kD
+
+aN
+
+no
+
+N4
+
+87
+
+<I-
+
+u
+
+to
+
+>,~
+
+:
+
+C4l
+
+O
+
+N
+
+tJ
+
+L.
+
+0
+
+>%
+
+L.
+
+0
+
+r
+
+at
+
+<
+
+I-
+
+o
+
+(1
+
+o
+
+"
+
+mm
+
+88
+
+consisting of a nonsense mutation in codon 209 in one
+allele and a partial deletion (including exon 6) of the
+gene, producing, in the other allele, a reading frameshift and a premature translation termination at a new
+codon 192 in exon 7. Since no mutation was detected
+in the 5'-flanking promoter region of the OAT gene by
+direct sequencing analysis, the lack of mRNA expression in both alleles is likely due to the prematuretermination codons (table 1). That the abnormal,
+truncated mRNA from the partially deleted allele
+could also be unstable and rapidly degraded cannot be
+ruled out. Absence of mRNA also explains the negligible amount of immunoreactive OAT protein previously found in fibroblast mitochondria from this patient (Kennaway et al. 1989). Patient 3 was also a
+compound heterozygote with a codon 373 missense
+mutation and a codon 209 nonsense mutation identical to that in patient 2. In patient 3, as in patient 2,
+the allele with the codon 209 nonsense mutation is
+predicted not to express OAT mRNA, such that the
+missense allele is the only expressing allele, resulting
+in a net total OAT mRNA level of 50% (table 1),
+which is in agreement with the result from the northern
+analysis. Patient 4 was another compound heterozygote with a codon 299 nonsense mutation, a codon
+180 missense mutation, and an mRNA decrease. Since
+the northern blot analysis of a GA patient with a homozygous codon 180 missense mutation was reported
+to show normal mRNA expression (Mitchell et al.
+1989b), the decreased level of OAT mRNA must have
+resulted from the codon 299 nonsense mutation. The
+codon 299 nonsense mutation appears to lead to
+nearly a 60%-80% decrease in the level of expressed
+OAT mRNA (or expression of 20%-40% of normal),
+resulting in a net total decrease of 30%-40% (or net
+total expression of 60%-70% of normal) (table 1).
+This is consistent with our previous demonstration,
+by immunoblotting, of an appreciable level of normal
+size OAT protein, presumably expressed by the missense allele in fibroblast mitochondria from this patient (Kennaway et al. 1989). In patient 5, who has a
+homozygous codon 426 nonsense mutation, the mutation appears to result in only a slight, equal decrease
+(10%-20%) in the level of OAT mRNA for each of
+the alleles, which result in a net total decrease of the
+same amount (or net total expression of 80%-90% of
+normal) (table 1). There is a small possibility that this
+patient is actually a compound heterozygote but that
+only one allele in the exon 11 region could be PCR
+amplified and examined. Even if this were the case and
+even if all ofthe mRNA decrease were due to the codon
+
+Mashima et al.
+426 nonsense mutation, however, the estimated decrease (20%-40%) would still be the least among all
+the nonsense codons examined here.
+Thus, the level of mRNA can be affected by a mutation that affects translation, as shown by the five
+premature-translation-termination codon mutations
+described. In the past, two nonsense-codon mutations
+in the OAT gene have been reported. One was a nonsense mutation in the OAT-coding exon 11, codon
+396 (CGA--TGA), but the level of OAT mRNA was
+not mentioned by Mitchell et al. (1989c). The other
+was a splicing mutation in intron 3, causing a reading
+frameshift that produced a premature-termination codon (Mitchell et al. 1989a). In this case, the level of
+OAT mRNA was reduced to about 10% of normal.
+Nonsense mutations (Atweh et al. 1988; Baserga
+and Benz 1988; Daar and Maquat 1988; Lim et al.
+1989; Urlaub et al. 1989; Kadokawa et al. 1990) and
+frameshift mutations that produce a nonsense codon
+(Baumann et al. 1985; Fojo et al. 1988; Lim et al.
+1989) have been shown to decrease mRNA levels.
+Other mutations shown to decrease mRNA levels have
+included a deletion that removes both the promoter
+and the first exon of a gene (Hobbs et al. 1987) and a
+single mutation in the polyadenylation signal sequence
+(Higgs et al. 1983). Reversion of mRNA-decreasing
+nonsense mutations to either the wild-type or missense
+sequence resulted in normalization of the RNA levels
+(Urlaub et al. 1989). Three major mechanisms have
+been proposed to explain the mRNA decrease due to
+nonsense mutations. Nonsense mutations have been
+found to decrease mRNA levels by increasing mRNA's
+turnover rate without lowering its instantaneous rate
+of synthesis (Lim et al. 1989). This increase in turnover is thought to be mediated through ribosomal interaction. When a premature-translation-termination
+codon is encountered, ribosomes detach from the
+mRNA. The lack of ribosomal binding to a large section of mRNA may expose it to endogenous nuclease
+degradation, thus affecting mRNA half-life and turnover (Daar and Maquat 1988). This hypothesis would
+predict a positional effect of nonsense-codon mutations, such that an earlier premature termination
+would have a more deleterious effect on the mRNA
+than would a later one. The other two proposed mechanisms are (1) that the loss of mRNA from nonsense
+mutations results from a block in ribosome-mediated
+nuclear-to-cytoplasmic transport and/or (2) the effect
+that nonsense mutations have on mRNA metabolism
+in the nucleus (Humphries et al. 1984; Takeshita et
+al. 1984; Baserga and Benz 1988).
+
+Decreased mRNA in Gyrate Atrophy
+0-10%
+
+1
+
+TG
+
+3
+
+89
+
+,0% .0%
+
+4
+
+5
+
+6
+
+7
+
+20-40%
+
+8
+
+9
+
+80-90% (OAT mRNA level)
+
+10
+
+TGA
+
+AAAA
+
+exon
+
+100 bp
+Figure 4
+Schematic representation of nonsense-codon mutations in the OAT gene, and their effects on the OAT mRNA level. The
+numbered boxes represent the OAT gene exons; blackened ovals represent the premature terminations due to point mutations; and
+unblackened ovals represent the premature terminations due to reading frameshifts. ATG = translation initiation codon; and TGA =
+translation-termination codon. Estimated allele-specific OAT mRNA levels are indicated above each premature-termination mutation. The
+premature-termination codon generated in exon 7 by a reading frameshift because of a deletion in the exon 6 region (Akaki et al., in press)
+is included. The position of this codon in the mutant mRNA is where exon 6 is in the normal mRNA.
+
+The mRNA-decreasing effect of the nonsensecodon mutations appeared to be variable. The degree
+to which the mRNA level was affected by the nonsense
+mutations appeared to depend on the position of the
+mutation in the coding sequence (fig. 4). It has been
+reported, for genes such as triosephoiphate isomerase,
+that the correlation of mRNA levels with the position
+of premature-translation-termination mutations is not
+linear (Daar and Maquat 1988) but also that nonsense
+codon mutations in the last exon have little effect on
+the level of mRNA, whereas nonsense mutations in
+the first half of the mRNA result in decreased levels of
+mRNA (Baumann et al. 1985; Daar and Maquat
+1988; Urlaub et al. 1989). The latter phenomenon
+was observed in our five GA patients with the
+nonsense-codon mutations. A significant decrease in
+OAT mRNA appeared to occur with premature terminations in codons 79 (exon 4), 192 (newly generated
+in exon 7), and 209 (exon 6), while very little decrease
+of OAT mRNA occurred with a nonsense codon at
+426 (exon 11) (fig. 4). The normal length of OAT is
+439 amino acids. There was a suggestion of linearity
+of the positional effect in our cases, in that the codon
+299 (exon 8) nonsense mutation appeared to show an
+intermediate level of OAT mRNA decrease (60%80%) (fig. 4). Our results support both (1) the importance of the position of the premature-termination
+mutation, with respect to its effect on mRNA, and (2)
+the ribosomal detachment hypothesis of the mechanism of mRNA decrease (Daar and Maquat 1988).
+Finally, the prevalence of compound heterozygosity
+(patients 1-4) and the diversity of the mutations (eight
+
+different mutations in five patients) confirmed the
+enormous genetic heterogeneity present in this disease.
+
+Acknowledgments
+This research was supported in part by U.S. Public Health
+Service grant EY08904, by Research to Prevent Blindness,
+Inc., and by the Retinitis Pigmentosa Foundation, Inc. The
+human actin probe was provided by Dr. L. Kedes.
+
+References
+Akaki Y, Hotta Y, Mashima Y, Murakami A, Kennaway
+NG, Weleber RG, Inana G. Deletion in the ornithine aminotransferase gene in gyrate atrophy. J Biol Chem (in
+press)
+Atweh GF, Brickner HE, Zhu X-X, Kazazian HH, Forget
+BG (1988) New amber mutation in a j3-thalassemic gene
+with nonmeasurable levels of mutant messenger RNA in
+vivo. J Clin Invest 82:557-561
+Baserga SJ, Benz EJ (1988) Nonsense mutations in the human 3-globin gene affect mRNA metabolism. Proc Natl
+Acad Sci USA 85:2056-2060
+Baumann B, Potash MJ, Kohler G (1985) Consequences of
+frameshift mutations at the immunoglobulin heavy chain
+locus of the mouse. EMBO J 4:351-359
+Blin N, Stafford DW (1976) Isolation of high-molecularweight DNA. Nucleic Acids Res 3:2303-2308
+Chirgwin JM, Przybyla AE, MacDonald RJ, Rutter WJ
+(1979) Isolation of biologically active ribonucleic acid
+from sources enriched in ribonuclease. Biochemistry 18:
+5294-5299
+Daar IO, Maquat LE (1988) Premature translation termina-
+
+90
+tion mediates triosephosphate isomerase mRNA degradation. Mol Cell Biol 8:802-813
+Fischer SG, Lerman LS (1983) DNA fragments differing by
+single base-pair substitutions are separated in denaturing
+gradient gels: correspondence with melting theory. Proc
+Natl Acad Sci USA 80:1579-1583
+Fojo SS, Stalenhoef AFH, Marr K, Gregg RE, Ross RS,
+Brewer HB (1988) A deletion mutation in the apoC-II
+gene (apoC-I Nijmegen) of a patient with a deficiency of
+apolipoprotein C-II. J Biol Chem 263:17913-17916
+Hayasaka S, Saito T, Nakajima H, Takaku Y, Shiono T,
+Mizuno K, Ohmura K, et al (1981) Gyrate atrophy with
+hyperornithinaemia: different types of responsiveness to
+vitamin B6. Br J Ophthalmol 65:478-483
+Higgs DR, Goodbourn SEY, Lamb J, Clegg JB, Weatherall
+DJ (1983) a-thalassaemia caused by a polyadenylation
+signal mutation. Nature 306:398-400
+Hobbs HH, Brown MS, Russell DW, DavignonJ, Goldstein
+JL (1987) Deletion in the gene for the low-densitylipoprotein receptor in a majority of French Canadians
+with familial hypercholesterolemia. N Engl J Med 317:
+734-737
+Hotta Y, Kennaway NG, Weleber RG, Inana G (1989) Inheritance of ornithine aminotransferase gene, mRNA,
+and enzyme defect in a family with gyrate atrophy of the
+chorioid and retina. Am J Hum Genet 44:353-357
+Humphries RK, Ley TJ, Anagnou NP, Baur AW, Nienhuis
+AW (1984) 1-39 thalassemia gene: a premature termination codon causes 0-mRNA deficiency without affecting
+cytoplasmic P-mRNA stability. Blood 64:23-32
+Inana G, Chambers C, Hotta Y, Inouye L, Filpula D, Pulford
+S, Shiono T (1989) Point mutation affecting processing of
+the ornithine aminotransferase precursor protein in gyrate
+atrophy. J Biol Chem 264:17432-17436
+Inana G, Hotta Y, Zintz C, Takki K, Weleber RG, Kennaway NG, Nakayasu K, et al (1988) Expression defect of
+ornithine aminotransferase gene in gyrate atrophy. Invest
+Ophthalmol Vis Sci 29:1001-1005
+Kadokawa T, Kadokawa H, Taylor S (1990) A nonsense
+mutation causing decreased levels of insulin receptor
+mRNA: detection by a simplified technique for direct sequencing of genomic DNA amplified by the polymerase
+chain reaction. Proc Natl Acad Sci USA 87:658-662
+Kaufman DL, Ramesh V, McClatchey AI, Menkes JH,
+Tobin AJ (1990) Detection of point mutations associated
+with genetic diseases by an exon scanning technique. Genomics 8:656-663
+Kennaway NG, Stankova L, Wirtz MK, Weleber RG (1989)
+Gyrate atrophy of the choroid and retina: characterization
+of mutant ornithine aminotransferase and mechanism of
+response to vitamin B6. Am J Hum Genet 44:344-352
+Lerman LS, Silverstein K (1987) Computational simulation
+of DNA melting and its application to denaturing gradient
+gel electrophoresis. Methods Enzymol 155:482-501
+
+Mashima et al.
+Lim S, Mullins JJ, Chen C-M, Gross KW, Maquat LE
+(1989) Novel metabolism of several 1-thalassemic 3-globin
+mRNAs in the erythroid tissues of transgenic mice. EMBO
+J 8:2613-2619
+McClatchey Al, Kauffman DL, Berson EL, Tobin AJ, Shih
+VE, Gusella JF, Ramesh V (1990) Splicing defect at the
+ornithine aminotransferase (OAT) locus in gyrate atrophy. Am J Hum Genet 47:790-794
+Mitchell GA, Brody LC, Sipila I, Engelhardt JE, Steel G,
+Obie C, Fontaine G, et al (1989a) Inactivtion of ornithine8-aminotransferase (OAT) by splice-mediated insertion
+of Alu sequences: a new role for Alu in human mutation?
+Pediatr Res 27 [Suppl]: 134A
+Mitchell GA, Brody LC, Sipila I, Looney JE, Wong C, Engelhardt JF, Patel A, et al (1989b) At least two mutant
+alleles of ornithine-8-aminotransferase cause gyrate atrophy of the choroid and retina in Finns. Proc Natl Acad Sci
+USA 86:197-201
+Mitchell GA, Brody LC, Sipila I, Looney J, Wong C, Steel
+G, Suchanek M, et al (1988) An initiator codon mutation
+in ornithine-8-aminotransferase causing gyrate atrophy
+of the chorioid and retina. J Clin Invest 81:630-633
+Mitchell G, Brody L, Sipila I, Simell 0, EngelhardtJ, Martin
+L, Steel G, et al (1989c) Mutational analysis of ornithine8-aminotransferase (OAT) in 72 gyrate atrophy (GA) pedigrees. Am J Hum Genet 45 [Suppl]: A207
+Myers RM, Maniatis T, Lerman LS (1987) Detection and
+
+localization of single base changes by denaturing gradient
+gel electrophoresis. Methods Enzymol 155:501-527
+Newton CR, Kalsheker N, Graham A, Powell S, Grmmack
+A, RileyJ, Markham AF (1988) Diagnosis of ac-antitrypsin deficiency by enzymatic amplification of human genomic DNA and direct sequencing of polymerase chain reaction products. Nucleic Acids Res 16:8233-8243
+Ramesh V, McClatchey AI, Ramesh N, Benoit LA, Berson
+EL, Shih VE, Gusella JF (1988) Molecular basis of ornithine aminotransferase deficiency in B-6-responsive and
+-nonresponsive forms of gyrate atrophy. Proc Natl Acad
+Sci USA 85:3777-3780
+Saiki RK, Scharf S, Faloona F, Mullis KB, Horn GT, Erlich
+HA, Arnheim N (1985) Enzymatic amplification of
+,B-globin genomic sequences and restriction site analysis
+for diagnosis of sickle cell anemia. Science 230:13501354
+
+Sheffield VC, Cox DR, Lerman LS, Myers RM (1989) Attachment of a 40-base-pair G + C rich sequence (GCclamp) to genomic DNA fragments by the polymerase
+chain reaction results in improved detection of single-base
+changes. Proc Natl Acad Sci USA 86:232-236
+Takeshita KB, Forget BG, Scarpa A, Benz EJ (1984) Intranuclear defect in 0-globin mRNA accumulation due to a
+premature translation termination codon. Blood 64:2332
+Traystman MD, Higuchi M, Kasper CK, Antonarakis SE,
+
+Decreased mRNA in Gyrate Atrophy
+Kazazian HH (1990) Use of denaturing gradient gel electrophoresis to detect point mutations in the factor VIII
+gene. Genomics 6:293-301
+Urlaub G, Mitchell PJ, Ciudad CJ, Chasin LA (1989) Nonsense mutations in the dihydrofolate reductase gene affect
+RNA processing. Mol Cell Biol 9:2868-2880
+Valle D, Kaiser-Kupfer MI, DelValle LA (1977) Gyrate atrophy of the choroid and retina: deficiency of ornithine aminotransferase in transformed lymphocytes. Proc Natl
+Acad Sci USA 74:5159-5161
+Valle D, Simell 0 (1989) Hyperornithinemias. In: Scriver
+CR, Beaudet AL, Sly WS, Valle D (eds) The metabolic
+
+91
+basis of inherited disease, 6th ed. McGraw-Hill, New
+York, pp 599-627
+Weleber RG, Kennaway NG (1988) Gyrate atrophy of the
+choroid and retina. In: HeckenlivelyJR (ed) Retinitis pigmentosa. JB Lippincott, Philadelphia, pp 198-200
+Weleber RG, Tobler WR (1986) Computerized quantitative
+analysis of kinetic visual fields. Am J Ophthalmol 101:
+461-468
+Weleber RG, Wirtz MK, Kennaway NG (1982) Gyrate atrophy of the choroid and retina: clinical and biochemical
+heterogeneity and response to vitamin B6. Birth Defects
+18:219-230
+
+

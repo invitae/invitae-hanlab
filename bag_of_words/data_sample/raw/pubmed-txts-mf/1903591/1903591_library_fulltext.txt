@@ -1,0 +1,763 @@
+Am. J. Hum. Genet. 48:1159-1167, 1991
+
+Tyrosinase Gene Mutations Associated with Type
+Oculocutaneous Albinism
+
+lB
+
+("Yellow")
+
+Lutz B. Giebel,* Ram K. Tripathi,* Kathleen M. Strunk,* Jon M. Hanifin,t Charles E. Jackson,
+Richard A. King,§ and Richard A. Spritz*
+*Departments of Medical Genetics and Pediatrics, University of Wisconsin, Madison; TDepartment of Dermatology, Oregon Health Sciences
+University, Portland; WDivision of Clinical and Molecular Genetics, Department of Medicine, Henry Ford Hospital, Detroit; and §Department
+of Medicine and Institute of Human Genetics, University of Minnesota, Minneapolis
+
+Summary
+We have identified three different tyrosinase gene mutant alleles in four unrelated patients with type TB
+("yellow") oculocutaneous albinism (OCA) and thus have demonstrated that type TB OCA is allelic to type
+IA (tyrosinase negative) OCA. In an inbred Amish kindred, type IB OCA results from homozygosity for a
+Pro-'Qeu substitution at codon 406. In the second family, type IB OCA results from compound heterozygosity for a type IA OCA allele (codon 81 Pro-*Leu) and a novel type IB allele (codon 275 ValFPhe). In the
+third patient, type IB OCA results from compound heterozygosity for the same type IB allele (codon 275
+Val-"Phe) and a novel type IB OCA allele. In a fourth patient, type IB OCA results from compound heterozygosity for the codon 81 type IA OCA allele and a type IB allele that contains no identifiable abnormalities;
+dysfunction of this type IB allele apparently results from a mutation either well within one of the large introns
+or at some distance from the tyrosinase gene. In vitro expression of the Amish type TB allele in nonpigmented
+HeLa cells demonstrates that the Pro-->Leu substitution at codon 406 greatly reduces but does not abolish
+tyrosinase enzymatic activity, a finding consistent with the clinical phenotype.
+
+Introduction
+
+Human oculocutaneous albinism (OCA) is a heterogeneous group of autosomal recessive genetic disorders
+of pigmentation. Affected individuals are characterized by reduced or absent melanin synthesis in pigment
+cells of the skin, hair follicles, and eyes. Hypopigmentation of the retina is associated with decreased visual
+acuity, photophobia, and varying degrees of nystagmus (reviewed by King and Summers 1988; Witkop
+et al. 1989). Type I OCA results from deficient activity
+of melanocyte tyrosinase (E.C.1.14.18.1), the enzyme that catalyzes the first two steps in the melanin
+biosynthetic pathway: (1) the hydroxylation of tyrosine to dihydroxyphenylalanine (dopa) and (2) the
+Received November 7, 1990; revision received January 29,
+1991.
+Address for correspondence and reprints: Richard A. Spritz, 309
+Laboratory of Genetics, University of Wisconsin, 445 Henry Mall,
+Madison WI 53706.
+i 1991 by The American Society of Human Genetics. All rights reserved.
+0002-9297/91 /4806-0019$02.00
+
+subsequent oxidation of dopa to dopaquinone (Lerner
+and Fitzpatrick 1950). In classic, type IA (tyrosinasenegative) OCA, tyrosinase activity and melanin biosynthesis are entirely absent, whereas, in type IB OCA,
+tyrosinase activity and melanin production are greatly
+reduced.
+Type IB ("yellow") OCA was first described in an
+inbred Amish kindred (Nance et al. 1970) and was
+later identified in other populations. Patients with type
+IB OCA completely lack detectable pigment at birth
+and initially are indistinguishable from patients with
+classic, type IA OCA. However, patients with type IB
+OCA accumulate some melanin pigment, principally
+the yellow-red pheomelanins, during childhood and
+adulthood. The activity of hairbulb tyrosinase is greatly
+reduced in type IB OCA, and the existence of apparent
+type IA/IB OCA compound heterozygotes suggests
+that type IA and type IB OCA are allelic (Hu et al.
+1980; Giebel et al. 1990). Cloning and sequence analysis of the human tyrosinase gene, located in chromosome segment 11ql4-->q21 (Barton et al. 1988), has
+permitted the recent identification of several different
+1159
+
+Giebel et al.
+
+1160
+
+tyrosinase gene mutations in patients with type I OCA
+(Tomita et al. 1989; Giebel et al. 1990, 1991b, and
+in press; Kikuchi et al. 1990; Spritz et al. 1990, 1991;
+Takeda et al. 1990). In the present paper we directly
+demonstrate that types IA and IB OCA are allelic and
+describe two novel missense mutations of the tyrosinase gene in four patients with type IB OCA. Furthermore, we show that the "Amish" type IB OCA mutation results in a >90% reduction in tyrosinase
+enzymatic activity in HeLa cells transfected with the
+mutant gene, as compared with that in cells transfected with the normal gene. This correlates well with
+the accumulation of a small amount of melanin pigment by individuals homozygous for this allele.
+Patients and Methods
+Patients
+Patient 1 (fig. 1A) was an adult Caucasian male, one
+of several members of an inbred Amish kindred with
+OCA type IB. This is the same kindred reported in
+the original description of type IB OCA (Nance et al.
+1970); patient 1 is individual VII.9 in that report.
+
+Note that considerable dark eumelanin pigment has
+accumulated in his scalp and facial hair over time.
+Patient 2 (fig. 1B) was an adult Caucasian female
+with typical features of OCA type IB. Detailed clinical
+descriptions and genetic analyses of her family have
+also been published previously (Hu et al. 1980; Giebel
+et al. 1990); patient 2 is patient 11 of family 1 in
+Giebel et al. (1990). Note that a moderate amount of
+yellow-red pheomelanin has accumulated in her scalp
+and facial hair over time.
+Patient 3 (fig. 1 C) was a 19-year-old Caucasian male
+with severe type IB OCA. There was very little detectable melanin pigment in his skin, hair, and eyes. His
+irides were pale blue and transilluminated completely,
+and his retinas had almost no detectable pigment. The
+visual acuity was greatly reduced, with foveal hypoplasia, constant nystagmus, and photophobia. A small
+amount of brown eumelanin pigment was evident in
+both his facial hair and the hair on his extremities.
+Patient 4 (fig. 1D) was a 15-year-old Caucasian
+male with typical type IB OCA. An extensive study of
+his very large family has been published (Giebel et al.
+1990); patient 4 is patient IX of family 2 in that same
+report. Small to moderate amounts of both yellow
+pheomelanin and dark eumelanin pigment have accumulated in his scalp and facial hair over time.
+Quantitative assay of tyrosinase (tyrosine hydroxylase) in freshly epilated anagen hairbulbs (Kind and
+
+Olds 1985) revealed no detectable activity, except for
+patient 3, in whom tyrosinase activity was 0.255 pmol
+tyrosine oxidized/120 min/hairbulb (normal range
+for blond individuals 1.50 ± 0.85; n = 13).
+Analysis of Genetic Linkage
+
+DNA was isolated from peripheral blood leukocytes
+of patient 1 and many members of his Amish kindred
+(fig. 2), was digested with TaqI, and was analyzed
+by Southern blot hybridization (Southern 1975) using
+cloned human tyrosinase cDNA as probe (Kwon et al.
+1987). Autoradiograms were scored for polymorphic
+2.8-kb versus 2.4-kb TaqI tyrosinase gene fragments
+(Spritz et al. 1988), and TaqI haplotypes were assigned to each individual. The OCA carrier status of
+all family members was defined by quantitative assay
+of tyrosinase (tyrosine hydroxylase) activity in anagen
+hairbulbs (King and Olds 1985). Linkage between the
+tyrosinase TaqI RFLP and type IB OCA was assessed
+by determination of logarithm-of-odds (lod) scores by
+using version 3 (1987) of the LIPED program (Ott
+1974). Tyrosinase gene RFLP linkage analyses of the
+families of patients 2 and 4 have been published previously (Giebel et al. 1990).
+PCR and DNA Sequencing
+
+DNA fragments corresponding to the five exons
+plus adjacent flanking regions of the human tyrosinase
+gene (Giebel et al. 1991a) were PCR amplified from
+0.1-1.0 gg DNA of the four patients and were gel
+purified, cloned into bacteriophage vectors Ml3mpl 8
+or mpl9, and sequenced, exactly as described elsewhere (Spritz et al. 1991).
+
+Allele-specipc Oligonucleotide Hybridization
+Tyrosinase exon 2 gene fragments were PCR amplified from genomic DNA of OCA patients, their family
+members, and 30 unrelated normally pigmented individuals, exactly as described elsewhere (Spritz et al.
+1991). Twenty microliters of each PCR reaction was
+transferred to MAGNA nylon membranes (Micron
+Separations) with a Bio-Dot SF microfiltration device
+(Bio-Rad). Allele-specific oligonucleotide hybridizations of replicate filters were performed (Kogan and
+Gitschier 1990) by using 5'-radiolabeled 19-mer oligonucleotides corresponding to the normal (5'-ATTGTCTGTAGCCGATTGG-3') and mutant (5'-ATTTTCTGTAGCCGATTGG-3') - forms of codon 275.
+Restriction-Enzyme Cleavage Analysis
+Tyrosinase exon 4 gene fragments of patient 1,
+
+1161
+
+Tyrosinase Gene Mutations in Albinism
+
+Figure I
+
+Photographs of four patients with type 1B OCA. A, Patient 1. B, Patient 2. C, Patient 3. D, Patient 4.
+
+many members of his kindred (fig. 2), and four unrelated patients with type I OCA were PCR amplified
+exactly as described elsewhere (Spritz et al. 1991).
+Amplification products were digested with Mn1I and
+were analyzed by PAGE for the presence of the codon
+406 mutation.
+
+Site-directed Mutagenesis and In Vitro Expression
+of Cloned Tyrosinase cDNAs
+
+The codon 406 CCT (Pro)--CTT (Leu) IB OCA
+mutation was introduced into the human tyrosinase
+cDNA expression plasmid pcTYR (Bouchard et al.
+
+Giebel et al.
+
+1162
+A
+
+2 .-4
+
+111
+__I_
+
+112
+
+1/2
+
+1l/2
+
+1/2 2/2
+
+1/2
+
+1/1
+
+l/l
+
+1/2 1/2
+
+1/2
+
+1/2l/
+
+2/2 2/2
+
+B
+
+Pedigrees of two portions of Amish kindred with
+Figure 2
+lB OCA. TaqI RFLP haplotypes are indicated: haplotype 1
+is a 2.8-kb polymorphic fragment, and haplotype 2 is a 2.4-kb
+fragment. The arrow denotes patient 1. A more complete pedigree
+of the extended kindred has been published by Nance et al. (1970).
+type
+
+1989) according to a method described elsewhere
+(Giebel and Spritz 1990b). Exon 4 of the tyrosinase
+gene was PCR amplified from DNA (30 ng) of an M13
+exon 4 clone containing the codon 406 mutation, by
+using 20-mer oligonucleotide primers (5'-TATTTTTGAGCAGTGGCTCC-3' and 5'-TAGCTATCTACAAGATTCAG-3'). PCR conditions were as described elsewhere (Giebel and Spritz 1990b), except
+that (a) only 25 cycles were performed and (b) the
+annealing step was two min. An exon 2-3-4 product
+was then amplified from 30 ng of tyrosinase cDNA by
+using as one primer 5 pmol gel-purified mutant exon
+4 PCR product and as second primer a 20-mer oligonucleotide (5'-ATTGTCTGTAGCCGATTGGA-3')
+derived from the 5' end of exon 2. The resultant mutant exon 2-3-4 PCR product contained the codon 406
+mutation and unique PvuII and BglII sites; these sites
+were used to replace the PvuII/BglII fragment of
+pcTYR by the corresponding codon 406 mutant fragment. The nucleotide sequence of the mutant expression plasmid pcTYR-T406 was verified by doublestranded DNA sequencing (Zhang et al. 1988).
+Expression of tyrosinase and chloramphenicol acetyltransferase (CAT) was assayed by transient cotransfection of either pcTYR or pcTYR-T406 plus
+pSV2CAT into cultured HeLa cells by using the calcium phosphate precipitation procedure (Gorman et
+al. 1982). Cells were harvested 64 h after transfection,
+were lysed in 20 mM sodium phosphate buffer pH
+6.8, 0.5% Triton X-100, and were sonicated. After
+centrifugation the supernatant was dialyzed twice
+against 5 mM sodium phosphate buffer, pH 6.8. Fluorometric assay of cell extracts for tyrosinase (tyrosine
+hydroxylase) activity was done according to a method
+described elsewhere (Husain et al. 1982), except that
+
+4 mM ascorbic acid was included as reductant for
+tyrosine hydroxylation (Tripathi et al. 1988) and to
+reduce any dopaquinone formed by tyrosinase back to
+dopa; thus, measurement of amount of dopa formed
+provides a true estimate of the tyrosine hydroxylase
+activity of tyrosinase. The 55-gl reactions containing
+0.1 mM L-tyrosine, 5 gM L-dopa, 4 mM ascorbic
+acid, 40 mM sodium phosphate buffer pH 6.8, and
+15 Rl cell extract were incubated for 4 h. Production of
+dopa was measured by specific fluorescence at 360-nm
+excitation and 490-nm emission wavelengths. Protein
+concentrations of cell extracts were determined according to the method of Peterson (1977) and CAT
+activities were determined according to the method of
+Gorman et al. (1982).
+Results
+Type IB OCA Is Linked to the Tyrosinase Gene
+
+TaqI digests were used to assign tyrosinase RFLP
+haplotypes to patient 1 and other members of the original Amish kindred with type IB OCA (fig. 2). Genetic
+linkage analysis of this family demonstrated linkage
+between OCA and the tyrosinase gene (lod score =
+1.07, 0 = 0). Although part of this kindred was relatively uninformative (fig. 2B), the OCA IB trait cosegregated with the 2.8-kb polymorphic TaqI tyrosinase
+gene fragment; all individuals studied in the Amish
+kindred with homozygous type IB OCA were homozygous for the 2.8-kb TaqI fragment.
+We have previously published genetic linkage analyses of the families of patients 2 and 4 (Giebel et al.
+1990) and have shown that in both families the type
+I OCA mutations are linked to the tyrosinase gene.
+Lod scores in these two families were 1.50 (8 = 0) and
+6.17 (0 = 0), respectively. In both families individuals
+with type IB OCA were apparent compound heterozygotes for a type IB OCA allele and a frequent type
+IA OCA allele, containing a Pro--Leu substitution at
+codon 81 (Giebel et al. 1990).
+Patient I Is Homozygous for a Novel Missense Mutation
+at Codon 406
+
+To identify mutations that cause type IB OCA, we
+PCR amplified each of the five exons of the tyrosinase
+gene plus adjacent noncoding sequences from genomic
+DNA of each of the four patients by using oligonucleotide primers derived from the normal tyrosinase gene
+sequence (Giebel et al. 1 991a). Amplification products
+were cloned in M13 vectors, and their DNA sequences
+were determined.
+
+Tyrosinase Gene Mutations in Albinism
+Patient
+
+1163
+Patient
+..G A T C
+
+Normal
+
+Normal
+(
+
+A
+
+T
+
+I
+
+-a
+
+.-
+
+G; A
+
+T f
+
+.3,
+
+ITyr
+
+TlVal
+
+Glu
+~ In
+
+II Leu
+
+406
+
+j
+
+Pro 406
+
+eu
+
+Le
+Ar
+Se
+
+krg
+;er
+
+:ys
+
+Cy
+
+fal 275
+Ile
+IVS1
+
+275 Phi
+
+EArg
+A
+
+lIHis
+Arg
+
+IVS1
+
+GArg
+ILeu
+Normal
+
+OCA
+
+406
+CTC CGA AGG CAC CGT CCT CTT CAA GAA GTT TAT
+Leu Arg Arg His Arg Pro Leu Gin Glu Val Tyr
+CTT
+Leu
+
+Figure 3
+Tyrosinase gene sequences in region of codon 406
+mutation of patient 1. The sequences shown are those of the coding
+strand.
+
+Analysis of the tyrosinase gene sequence of patient
+1 revealed that he is homozygous for a novel missense
+substitution, CCT (Pro)--CTT (Leu), at codon 406
+(fig. 3). No other abnormalities were found. At two
+nonpathological polymorphic sites within the tyrosinase-coding sequence, codon 192 TCT (Ser) versus
+TAT (Tyr) (Giebel and Spritz 1990a) and codon 402
+CGA (Arg) versus CAA (Gln) (Tripathi et al., in press),
+patient 1 was homozygous, having TAT (Tyr) and
+CGA (Arg), respectively. Both of these polymorphisms are commonly found among normal individ-
+
+uals.
+The codon 406 CCT--CTT substitution abolishes
+an MnlI restriction site, enabling us to easily test
+whether this substitution is a type IB OCA mutation
+or a nonpathologic polymorphism. Exon 4 tyrosinase
+gene fragments were amplified from genomic DNAs
+of all members of the Amish kindred shown in figure
+2, were digested with Mn1I, and were analyzed by gel
+electrophoresis (data not shown). The distribution of
+the codon 406 substitution correlated perfectly with
+carrier status as determined by assay of tyrosinase enzymatic activity and RFLP data. All individuals with
+type IB OCA were homozygous for the codon 406
+mutation; all OCA carriers were heterozygous for the
+codon 406 mutant allele; and all of the noncarriers had
+only the normal allele. We also analyzed the DNAs
+of 14 unrelated patients with type I OCA, including
+patients 2-4 of the present study; none had the codon
+
+Normal
+OCA
+
+IVS1
+275
+AATGTTTTGTACAG ATT GTC TGT AGC CGA TTG GAG
+Ile Val Cys Ser Arg Leu Glu
+TTC
+
+Phe
+
+Figure 4
+Tyrosinase gene sequences in region of codon 275
+mutation of patients 2 and 3.
+
+406 mutant allele. We have also not detected the codon 406 substitution by DNA sequence analyses of 16
+additional unrelated type IA OCA patients and two
+normal individuals. Therefore, the codon 406 substitution is not a common polymorphism but instead
+appears to be a private type IB OCA mutation in the
+Amish.
+Patients 2 and 3 are Compound Heterozygotes for a
+Novel Missense Substitution at Codon 275 and for
+Different Type IA OCA Mutations
+
+The nucleotide sequence of tyrosinase gene fragments of patient 2 showed her to be a compound heterozygote for two different OCA alleles, each containing a different missense substitution. One allele,
+containing a CCT (Pro)--CTT (Leu) substitution at
+codon 81, is a relatively frequent type IA OCA allele
+(Giebel et al. 1990; authors' unpublished data). The
+patient's type IB OCA allele contains a novel substitution, GTC (Val)--TTC (Phe) at codon 275 (fig. 4).
+No other abnormalities were found. Patient 2 was
+homozygous for TCT (Ser) at polymorphic codon 192
+and for CGA (Arg) at polymorphic codon 402.
+Tyrosinase gene DNA sequence analysis of patient
+3 showed that he is also a compound heterozygote,
+for the same codon 275 Pro-*Leu type IB OCA mutant
+allele (fig. 4) and a novel allele, containing a frameshift
+(CGT--CCGT) at codon 501 (fig. 5). The frameshift
+
+Giebel et al.
+
+1164
+Patient
+G
+
+w
+
+IB OCA allele (Giebel et al. 1990). Nucleotide sequence analysis of the tyrosinase genes of patient 4
+confirmed this, demonstrating the codon 81 substitution in one of his two alleles. However, no abnormality could be identified in the other allele, including in
+the five exons, 39-87 bases of the adjacent intervening
+sequences, 693 bases of the 5' promoter region, and
+388 bases of the 3' flanking region. These data suggest
+that the type IB OCA mutation in patient 4 may be
+either deep within one of the four large intervening
+sequences or at some distance from the tyrosinase
+gene. This apparent type IB OCA allele is associated
+with TAT (Tyr) at polymorphic codon 192 and with
+CAA (Gln) at polymorphic codon 402.
+
+Norma
+
+A T C
+
+M.
+
+501
+
+Normol
+OCA
+
+501
+TGT CGT CAC AAG AGA AAG CAG CTT CCT GAA
+Cys Arg His Lys Arg Lys Gin Leu Pro GI u
+
+...
+
+CCG TCA CAA GAG AAA GCA CCT TCC TGA A...
+Pro Ser Gin Glu Lys Ala Pro Ser TER
+
+Figure 5
+Tyrosinase gene sequences in region of codon 501
+mutation of patient 3.
+at codon 501 results in alteration or deletion of the 29
+carboxyl-terminal residues of tyrosinase; therefore,
+this is most likely a type IA OCA allele. No other
+abnormalities were found. Patient 3 was homozygous
+for TCT (Ser) at polymorphic codon 192 and was
+heterozygous CGA (Arg)/CAA (Gln) at polymorphic
+codon 402.
+To determine whether the codon 275 tyrosinase
+gene substitution is causative of type IB OCA or is
+simply a nonpathologic polymorphism, we PCR amplified exon 2 gene fragments from DNA of patient 2,
+her entire family (see fig. 1 in Giebel et al. 1990), and
+30 unrelated normal individuals. The exon 2 amplification products were then analyzed by allele-specific oligonucleotide hybridization (data not shown). The distribution of the codon 275 substitution correlated
+perfectly with tyrosinase enzymatic activity and RFLP
+data. All three individuals with type IB OCA in this
+family were compound heterozygotes for the codon
+275 and codon 81 mutant alleles; all type IB OCA
+carriers were heterozygous for only the codon 275
+mutant allele; and all of the noncarriers and the 30
+unrelated normal individuals had only normal alleles.
+
+The Type IB OCA Mutant Allele of Patient 4 Contains No
+Identifiable Abnormality
+Previous family studies involving patient 4 indicated
+that he is a compound heterozygote for the codon 81
+
+Pro--Leu IB OCA mutant allele and an unknown type
+
+The Amish Codon 406 Pro--Leu Substitution Drastically
+Reduces Tyrosinase Enzymatic Activity
+
+To investigate the effect of the Amish codon 406
+CCT (Pro)--CTT (Leu) type IB OCA mutation, we
+introduced this substitution into the human tyrosinase
+cDNA expression plasmid pcTYR (Bouchard et al.
+1989) by site-directed in vitro mutagenesis. The wildtype (pcTYR) and the mutant tyrosinase (pcTYRT406) expression plasmids were each transiently cotransfected along with pSV2CAT into cultured HeLa
+cells. The cells were harvested 64 h after transfection,
+and tyrosinase (tyrosine hydroxylase) activity, chloramphenicol acetyltransferase (CAT) activity, and protein concentrations were determined (table 1). The
+CAT activity served as an internal control for transfection efficiency. As shown in table 1, the tyrosinase
+activity in HeLa cells transfected with the codon 406
+Pro-*Leu mutant tyrosinase expression plasmid was
+only ".7% of the activity in cells transfected with the
+wild-type plasmid.
+It is interesting that, in general, the amount of pigment apparent in the four type IB OCA patients in the
+present study correlates only modestly well with their
+genotypes. Patient 1, who has the most apparent melanin pigment (fig. 1A), is homoallelic for type IB OCA,
+whereas patients 2-4, who all have considerably less
+melanin pigment (fig. 1B-D), are all type IA/IB compound heterozygotes. The pigmentation phenotype of
+type IB OCA is quite homogeneous within sibships
+(family 1 and family 2). However, there can be considerable phenotypic differences among unrelated type IB
+OCA patients, even among those with quite similar
+genotypes, and significant age-related accumulation
+of predominantly yellow-red pheomelanin is not a
+constant feature. In addition, the clinical phenotype
+among patients with type IB OCA does not correlate
+
+1165
+
+Tyrosinase Gene Mutations in Albinism
+Table I
+Activities of Normal and Codon 406 Pro- Leu
+Mutant Tyrosinases in Transfected
+HeLa Cells
+
+Plasmida
+
+pcTYR ................
+pcTYR-T406
+
+...............
+
+Tyrosinase Specific Activityb
+5.6 ± .3 (100 ± 5.4%)
+.4 ± .1 (7.1 ± 1.8%)
+
+a
+pcTYR is the expression plasmid containing the normal human
+tyrosinase cDNA; pcTYR-T406 is the corresponding plasmid containing the codon 406 Pro-Leu substitution.
+b Each experiment was performed in triplicate; the value presented is the average value for the three plates. 1 unit of tyrosinase
+activity was defined as 1 pmol dopa formed/min. The tyrosinase
+specific activities shown were corrected for slight plate-to-plate variation in transfection efficiency, by dividing by the CAT activity
+(percentage of 14C-chloramphenicol converted to the two forms of
+acetyl-chloramphenicol) in the extract of each plate of transfected
+HeLa cells.
+
+well with measured levels of hairbulb tyrosinase activity, the assay for which is unreliable toward the low
+end of its range. Patients 2 and 3 are both type IA/IB
+compound heterozygotes and share the same codon
+275 Val- Phe type IB OCA allele (fig. 4). However,
+patient 2 (fig. 1B) has much more apparent pigment
+than does patient 3 (fig. 1C), who appears almost as
+severely hypopigmented as do patients with type IA
+OCA, despite having the highest hairbulb tyrosinase
+activity among the patients studied here, at the low
+end of the normal range. These differences of pigmentation phenotypes, along with poor correlation between clinical phenotype and measured tyrosinase enzymatic activity in type IB OCA, most likely result
+from epistatic phenomena acting on a background of
+low residual tyrosinase activity. By way of illustration,
+we note that the normally pigmented parents and sibs
+of patient 2 are very darkly complected, whereas those
+of patient 3 are very lightly complected; therefore, in
+the absence of OCA, patient 2 might otherwise have
+been darkly complected, whereas patient 3 might otherwise have been lightly complected.
+We have shown that the phenotypes of both type IA
+OCA and type IB OCA result from homozygosity or
+compound heterozygosity for a series of allelic mutations at the human tyrosinase locus. This will greatly
+enhance genetic counseling for the various forms of
+type I OCA. The occurrence of the codon 275 mutant
+allele in both proband 2 and proband 3, who are unrelated, suggests that this may be a frequent allele in
+patients with type IB OCA. Furthermore, the availability of carrier detection for the Amish codon 406
+
+mutant allele offers obvious advantages for genetic
+counseling of this high-risk population.
+Discussion
+
+Type IB OCA was first described by Nance et al.
+(1970) in an inbred Amish kindred. Tyrosinase enzymatic activity is decreased or undetectable, respectively, in type IB OCA and type IA OCA, and the
+observation of families with apparent type IA/ IB OCA
+compound heterozygotes strongly suggested that these
+two forms of OCA are allelic (Hu et al. 1980; Giebel
+et al. 1990). Recent advances in recombinant-DNA
+technology made it possible to investigate the molecular relationship between type IA OCA and type IB
+OCA. In the present study we have considered four
+unrelated patients with type IB OCA, including one of
+the original inbred Amish kindred described by Nance
+et al. (1970). Tyrosinase gene RFLP linkage analyses
+were consistent with allelism of types IA and IB OCA.
+Nucleotide sequence analysis of the tyrosinase genes
+of patient 1, the Amish patient, demonstrated that he
+is homozygous for a novel Pro Leu substitution at
+codon 406 (fig. 3). Patient 2 was a compound heterozygote for a previously published (Giebel et al. 1990)
+type IA OCA allele, i.e., codon 81 Pro- Leu, and a
+novel allele containing a type IB OCA substitution,
+i.e., codon 275 Val-)Phe (fig. 4). Patient 3 was a compound heterozygote for the same codon 275 Val Phe
+type IB OCA allele and a novel type IA OCA allele,
+containing a frameshift at codon 501. Patient 4 was
+also apparently a compound heterozygote, for the codon 81 Pro--Leu type IA OCA allele and a tyrosinase
+allele in which we detected no abnormality. It is likely
+that this allele contains a mutation either well within
+one of the four large intervening sequences or at some
+distance from the tyrosinase structural gene. Thus, at
+least three different tyrosinase alleles can be associated
+with type IB OCA.
+We tested the effect that the Amish codon 406 ProLeu substitution had on tyrosinase enzymatic activity,
+by expressing a tyrosinase cDNA containing this mutation in HeLa cells. We found that the codon 406
+substitution greatly decreases, but does not abolish,
+tyrosinase activity in vitro, a finding consistent with
+the "leaky" in vivo phenotype of type IB OCA in patients homozygous for this mutant allele.
+It is interesting that, in general, the amount of pigment apparent in the four type IB OCA patients in the
+present study correlates only modestly well with their
+genotypes. Patient 1, who has the most apparent mela-
+
+1166
+
+nin pigment (fig. 1A), is homoallelic for type TB OCA,
+whereas patients 2-4, who all have considerably less
+melanin pigment (fig. 1B-D), are all type IA/1B compound heterozygotes. The pigmentation phenotype of
+type IB OCA is quite homogeneous within sibships
+(family 1 and family 2). However, there can be considerable phenotypic differences among unrelated type IB
+OCA patients, even among those with quite similar
+genotypes, and significant age-related accumulation
+of predominantly yellow-red pheomelanin is not a
+constant feature. In addition, the clinical phenotype
+among patients with type IB OCA does not correlate
+well with measured levels of hairbulb tyrosinase activity, the assay for which is unreliable toward the low
+end of its range. Patients 2 and 3 are both type IA/IB
+compound heterozygotes and share the same codon
+275 Val--Phe type IB OCA allele (fig. 4). However,
+patient 2 (fig. 1B) has much more apparent pigment
+than does patient 3 (fig. 1C), who appears almost as
+severely hypopigmented as do patients with type IA
+OCA, despite having the highest hairbulb tyrosinase
+activity among the patients studied here, at the low
+end of the normal range. These differences of pigmentation phenotypes, along with poor correlation between clinical phenotype and measured tyrosinase enzymatic activity in type IB OCA, most likely result
+from epistatic phenomena acting on a background of
+low residual tyrosinase activity. By way of illustration,
+we note that the normally pigmented parents and sibs
+of patient 2 are very darkly complected, whereas those
+of patient 3 are very lightly complected; therefore, in
+the absence of OCA, patient 2 might otherwise have
+been darkly complected, whereas patient 3 might otherwise have been lightly complected.
+We have shown that the phenotypes of both type IA
+OCA and type IB OCA result from homozygosity or
+compound heterozygosity for a series of allelic mutations at the human tyrosinase locus. This will greatly
+enhance genetic counseling for the various forms of
+type I OCA. The occurrence of the codon 275 mutant
+allele in both proband 2 and proband 3, who are unrelated, suggests that this may be a frequent allele in
+patients with type IB OCA. Furthermore, the availability of carrier detection for the Amish codon 406
+mutant allele offers obvious advantages for genetic
+counseling of this high-risk population.
+
+Acknowledgments
+The authors thank Dr. B. Kwon for the human tyrosinase
+cDNA plasmid pMel34 and Dr. B. Bouchard for the human
+
+Giebel et al.
+tyrosinase expression plasmid pcTYR. This work was supported by March of Dimes- Birth Defects Foundation Clinical Research Grant 6-408 and by National Institutes of
+Health grant AR-39892. This is paper 3172 from the Laboratory of Genetics, University of Wisconsin, Madison.
+
+References
+Barton DE, Kwon BS, Francke U (1988) Human tyrosinase
+gene mapped to chromosome 11 (q14--q21), defines second region of homology with mouse chromosome 7. Genomics 3:17-24
+Bouchard B, Fuller BB, Vijayasaradhi S Houghton A (1989)
+Induction of pigmentation in mouse fibroblasts by expression of human tyrosinase cDNA. J Exp Med 169:20292042
+Giebel LB, Musarella MA, Spritz RA. A nonsense mutation
+in the tyrosinase gene of Afghan patients with tyrosinasenegative (type IA) oculocutaneous albinism. J Med Genet
+(in press)
+Giebel LB, Spritz RA (1990a) RFLP for Mbo I in the human
+tyrosinase (Tyr) gene detected by PCR. Nucleic Acids Res
+18:3103
+(1990b) Site-directed mutagenesis using doublestranded DNA fragment as a PCR primer. Nucleic Acids
+Res 18:4947
+Giebel LB, Strunk KM, King RA, Spritz RA (1990) A frequent tyrosinase gene mutation in classic, tyrosinasenegative (type IA) oculocutaneous albinism. Proc NatI
+Acad Sci USA 87:3255-3258
+Giebel LB, Strunk KM, Spritz RA (199la) Organization and
+nucleotide sequence of the human tyrosinase gene and a
+truncated tyrosinase-related segment. Genomics 9:435445
+Giebel LB, Tripathi RK, King RA, Spritz RA (1991b) A
+tyrosinase gene missense mutation in temperaturesensitive type I oculocutaneous albinism. J Clin Invest 87:
+1119-1122
+Gorman CM, Moffat LF, Howard BH (1982) Recombinant
+genomes which express chloromphenicol acetyltransferase in mammalian cells. Mol Cell Biol 2:1044-1051
+Hu F, HanifinJM, Prescott GH, Tongue AC (1980) Yellow
+mutant albinism: cytochemical, ultrastructural, and genetic characterization suggesting multiple allelism. Am J
+Hum Genet 32:387-395
+Husain I, Vijayan E, Ramaiah A, Pasricha JS, Madan NC
+(1982) Demonstration of tyrosinase in the vitiligo skin of
+human beings by a sensitive fluorometric method as well
+as by '4C(U)-L-tyrosine incorporation into melanin. J Invest Dermatol 78:243-252
+Kikuchi H. Hara S, Ishiguro S, Tamai M, Watanabe M
+(1990) Detection of point mutation in the tyrosinase gene
+of a Japanese albino patient by direct sequencing of amplified DNA. Hum Genet 85:123-124
+King RA, Olds DP (1985) Hairbulb tyrosinase activity in
+
+Tyrosinase Gene Mutations in Albinism
+oculocutaneous albinism: suggestions for pathway control and block location. Am J Med Genet 20:49-55
+King RA, Summers GC (1988) Albinism. Dermatol Clin 6:
+217-228
+Kogan SC, Gitschier J (1990) Genetic prediction of hemophilia A. In: Innis MA, Gelfand DH, Sninsky JJ, White
+TJ (eds) PCR protocols. Academic Press, San Diego, pp
+288-299
+Kwon BS, Haq AK, Pomerantz SH, Halaban R (1987) Isolation and sequence of a cDNA clone for human tyrosinase
+that maps at the mouse c-albino locus. Proc Natl Acad Sci
+USA 84:7473-7477
+Lerner AB, Fitzpatrick TB (1950) Biochemistry of melanin
+formation. Physiol Rev 30:91-126
+Nance WE, Jackson CE, Witkop CJ Jr (1970) Amish albinism: a distinctive autosomal recessive phenotype. Am J
+Hum Genet 22:579-586
+Ott J (1974) Estimation of the recombination fraction in
+human pedigrees: efficient computation of the likelihood
+for human linkage studies. Am J Hum Genet 26:588-597
+Peterson GL (1977) A simplification of the protein assay
+method of Lowry et al., which is more generally applicable. Anal Biochem 83:346-356
+Southern EM (1975) Detection of specific sequences among
+DNA fragments separated by gel electrophoresis. J Mol
+Biol 98:503-507
+Spritz RA, Strunk KM, Giebel LB, King RA (1990) Detection of mutations in the tyrosinase gene in a patient with
+type IA oculocutaneous albinism. N Engl J Med 322:
+1724-1728
+Spritz RA, Strunk KM, Hsieh C-L, Sekhon GS, Francke
+
+1167
+U (1991) Homozygous tyrosinase gene mutation in an
+American black with tyrosinase-negative (type IA) oculocutaneous albinism. Am J Hum Genet 48:318-324
+Spritz RA, Strunk K, Oetting H, King R (1988) RFLP for
+Taq I at the human tyrosinase locus. Nucleic Acids Res
+16:9890
+Takeda A, Tomita Y, Matsunaga J, Tagami H, Shibahara
+S (1990) Molecular basis of tyrosinase-negative oculocutaneous albinism. J Biol Chem 265:17792-17797
+Tomita Y, Takeda A, Okinaga S, Tagami H, Shibahara S
+(1989) Human oculocutaneous albinism caused by a single base insertion in the tyrosinase gene. Biochem Biophys
+Res Commun 164:990-996
+Tripathi RK, Chaya Devi C, Ramaiah R (1988) pH-dependent interconversion of two forms of tyrosinase in human
+skin. Biochem J 252:481-487
+Tripathi RK, Giebel LB, Strunk KM, Spritz RA. A polymorphism of the human tyrosinase gene is associated with
+temperature-sensitive enzymatic activity. Gene Expression (in press)
+Witkop CJ Jr, Quevedo WC Jr, Fitzpatrick TB, King RA
+(1989) Albinism. In: Scriver CR, Beaudet RL, Sly WS,
+Valle D (eds) The metabolic basis of inherited disease, 6th
+ed. McGraw-Hill, New York, pp 2905-2947
+Wittbjer A, Dahlback B, Odh G. Rosengren A-M, Rosengren E, Rorsman H (1989) Isolation of human tyrosinase
+from cultured melanaoma cells. Acta Derm Venereol
+(Stockh) 69:125-131
+Zhang H, Scholl R, Browse J, Somerville C (1988) Double
+stranded DNA sequencing as a choice for DNA sequencing. Nucleic Acids Res 16:1220
+
+

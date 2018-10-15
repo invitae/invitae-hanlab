@@ -1,0 +1,2952 @@
+Neuron,
+
+Vol. 8. 891-897,
+
+May,
+
+1992, Copyright
+
+0 1992 by Cell Press
+
+Mutations in an S4 Segment of the Adult
+Skeletal Muscle Sodium Channel Cause
+Paramyotonia Congenita
+Louis j. Ptafek,*+
+Alfred
+1. George,
+Jr.,§iI
+Robert
+L. Barchi,§#
+Robert
+C. Criggs,**
+Jack E. Riggs,++
+Margaret
+Robertson,+*
+and Mark
+F. Leppert+*
+*Department
+of Neurology
++Department
+of Human
+Genetics
+*Howard
+Hughes
+Medical
+Institute
+University
+of Utah
+Health
+Sciences
+Center
+Salt Lake City,
+Utah
+84132
+§David
+Mahoney
+Institute
+of Neurological
+Sciences
+IlDepartment
+of Medicine
+#Department
+of Neurology
+University
+of Pennsylvania
+School
+of Medicine
+Philadelphia,
+Pennsylvania
+19104
+**Department
+of Neurology
+University
+of Rochester
+School
+of Medicine
+Rochester,
+New York
+14642
+++Department
+of Neurology
+West
+Virginia
+University
+School
+of Medicine
+Morgantown,
+West
+Virginia
+26506
+
+The periodic
+paralyses
+are a group
+of autosomal
+dominant muscle
+diseases
+sharing
+a common
+feature
+of episodic
+paralysis.
+In one form,
+paramyotonia
+congenita
+(PC), the paralysis
+usually
+occurs
+with
+muscle
+cooling.
+Electrophysiologic
+studies
+of muscle
+from
+PC patients
+have revealed
+temperature-dependent
+alterations
+in sodium
+channel
+(NaCh)
+function.
+This observation
+led to
+demonstration
+of genetic
+linkage
+of a skeletal
+muscle
+NaCh gene to a PC disease
+allele. We now report
+the use
+of the single-strand
+conformation
+polymorphism
+technique to define
+alleles specific
+to PC patients
+from three
+families.
+Sequencing
+of these
+alleles
+defined
+base pair
+changes
+within
+the same codon,
+which
+resulted
+in two
+distinct
+amino
+acid substitutions
+for a highly
+conserved
+arginine
+residue
+in the S4 helix of domain
+4 in the adult
+skeletal
+muscle
+NaCh.
+These data establish
+the chromosome 17q NaCh
+locus as the PC gene and represent
+two
+mutations
+causing
+the distinctive,
+temperature-sensitive
+PC phenotype.
+Introduction
+The periodic
+paralyses
+are a group
+of neuromuscular
+diseases
+with overlapping
+clinical
+and electrophysiological
+features
+and
+include
+hyperkalemic
+periodic
+paralysis
+(HYPP),
+hypokalemic
+periodic
+paralysis,
+and
+paramyotonia
+congenita
+(PC). Patients
+with these
+disorders
+share
+the common
+feature
+of episodic
+weakness. Some of these
+patients
+also demonstrate
+clinical
+and electrophysiological
+myotonia,
+a form
+of abnormal electrical
+activity
+consisting
+of repetitive
+action
+potentials
+on electromyography
+associated
+with
+delayed
+relaxation
+of muscle
+(Riggs
+and Griggs,
+1979).
+
+Attacks
+
+of paralysis
+
+and
+
+myotonia
+
+may
+
+occur
+
+sponta-
+
+neously
+or may be precipitated
+by factors
+including
+exercise,
+alterations
+of extracellular
+potassium
+levels,
+and muscle
+cooling.
+The particular
+precipitants
+of attacks
+in patients
+are often
+useful
+in classifying
+such
+individuals
+clinically.
+For example,
+HYPP is one type
+in which
+potassium
+loading
+can precipitate
+attacks.
+Serum
+potassium
+levels
+may
+be normal
+or elevated
+during
+an attack,
+thus
+distinguishing
+such
+patients
+from
+those
+with
+hypokalemic
+periodic
+paralysis.
+PC is an autosomal
+dominant
+myotonic
+disorder
+characterized
+by cold-induced,
+prolonged,
+localized
+muscle
+contraction
+and weakness
+(Riggs
+and Griggs,
+1979). Muscle
+activity
+aggravates
+the myotonia
+associated with
+PC (paradoxical
+myotonia),
+in contrast
+to
+the usual
+improvement
+with
+exercise
+seen
+in most
+myotonic
+disorders
+(classical
+myotonia).
+Most
+patientswithPCdemonstratesomedegreeofworsening
+of myotonia
+with potassium
+loading.
+Patients
+with
+PC
+may
+experience
+episodes
+of generalized
+weakness
+(periodic
+paralysis)
+unassociated
+with cold exposure.
+In the “pure”
+form
+of PC, these
+attacks
+of weakness
+areassociated
+with normo-or
+hypokalemia.
+However,
+there
+are patients
+with otherwise
+typical
+PC in whom
+attacks
+of generalized
+weakness
+can be precipitated
+by potassium
+loading
+(Riggs,
+1988).
+Electrophysiological
+investigation
+of HYPP and PC
+muscle
+in vitro
+has demonstrated
+alteration
+of muscle
+membrane
+sodium
+conductance
+(Lehmann-Horn
+et
+al., 1981, 1987a,
+1987b;
+Rude1 et al., 1989), suggesting
+that the molecular
+alteration
+may reside
+in a skeletal
+muscle
+sodium
+channel
+(NaCh)
+gene.
+This was supported
+by genetic
+linkage
+of SCN4A, the gene encoding the adult
+isoform
+of the NaCh
+a subunit,
+to HYPP
+(Fontaine
+et al., 1990; Pt%ek
+et al., 1991a; Ebers et al.,
+1991; Koch
+et al., 1991a) and PC (PtaEek
+et al., 1991b;
+Ebers
+et al., 1991; Koch
+et al., 1991b).
+An interesting
+potassium-sensitiveformof
+myotoniacongenitawithout periodic
+paralysis
+is also genetically
+linked
+to this
+locus
+(PtaEek
+et al., 1992). Identification
+of twodistinct
+mutations
+in SCN4A from
+HYPP patient
+DNA
+established
+SCN4A as the HYPP gene (Ptacek
+et al., 1991~;
+Rojas et al., 1991).
+The unique
+features
+of PC suggest
+that one or more
+mutations
+in SCNM,
+different
+from
+those
+causing
+HYPP, might
+be responsible
+for the disorder.
+Furthermore,
+identification
+of mutations
+in DNA
+from
+PC
+patients
+is required
+to demonstrate
+that SCN4A is the
+PC gene
+rather
+than
+a closely
+linked
+marker
+for another
+chromosome
+17q gene.
+We therefore
+undertook
+a search
+for
+mutations
+in the
+human
+gene
+(SCN4A) that encodes
+the tetrodotoxin-sensitive
+adult
+skeletal
+muscle
+NaCh
+isoform
+(hSkM?),
+using
+singlestrand
+conformation
+polymorphism
+(SSCP)
+analysis
+(Orita
+et al., 1989a,
+1989b)
+in an attempt
+to demonstrate
+that
+PC results
+from
+molecular
+alterations
+in
+this protein.
+SSCP analysis
+identifies
+most
+single
+or
+
+Neuron
+
+892
+
+Exon
+
+N-2
+
+Exon N-l
+I
+
+N3.f
++
+
+N-2.,
+4-
+
+Exon
+N&f
+
++
+N-l.‘
+
+++
+N-l I
+
+N
+
+Na.r
++*
+Nb.,
+
+4Nb.r
+
+Na.f
+
+5'
+
+AGCGTCCTCACTAGCTTCTC
+
+3'
+
+Na.r
+
+5'
+
+ATGCCCGACTCCTTCTTGAC
+
+3'
+
+Nb.f
+
+5'
+
+CCTCCTCCTCCTCCTGGTCAT
+
+3'
+
+Nb.r
+
+5'
+
+GGGCTCGCTGCTCTCCTCTGT
+
+3'
+
+N-1.f
+
+5'
+
+CAACTCCTCCACATCCACTCC
+
+3'
+
+N-1.r
+
+5'
+
+GGTGCAGGGGCAGGTGTGTCC
+
+3'
+
+N-2.f
+
+5'
+
+TGGAGGCAGGAAGGGGAACT
+
+3'
+
+N-2.r
+
+5'
+
+GGCAGCACACACAGGACAGG
+
+3'
+
+Figure
+
+1. SSCP Prtmers
+
+PCR amplification
+of the three most 3’ exons of SCN4A was performed
+with four primer pairs. Na.f/Na.r
+and Nb.f/Nb.r
+were designed
+to allow amplification
+of the sequence
+of exon N that encodes
+S4-S6 of M&Ml domain 4; N-l.f/N-1.r
+and N-2.f/N-2.r
+were used to amplify
+D4iSl-S3
+and the 3-4 interdomain,
+respectively.
+The sequence
+of these primers
+and their relationship
+to exons N-2, N-l, and N are
+shown.
+
+multiple
+base changes
+in DNA
+fragments
+up to 400
+bases
+in length
+(Orita
+et al., 1989a,
+1989b).
+Sequence
+alterations
+are detected
+as shifts
+in electrophoretic
+mobility
+of single-strand
+DNA
+on nondenaturing
+acrylamide
+gels; the two complementary
+strands
+of a
+DNA segment
+usually
+resolve
+as two SSCP conformers
+of distinct
+mobilities.
+Base pair change
+variants
+are
+identified
+by differences
+in pattern
+among
+the DNAs
+of the sample
+set. SSCP has proven
+useful
+in the analysis of other
+disease-causing
+mutations,
+such as cystic
+fibrosis,
+neurofibromatosis
+type 1, familial
+polyposis,
+and HYPP,
+in which
+DNA
+sequence
+variations
+have
+been characterized
+successfully
+at the level of single
+base substitutions
+(Dean
+et al., 1990; Cawthon
+et al.,
+1990; Groden
+et al., 1991; Ptacek
+et al., 1991c).
+Results
+Evaluation
+of Patients
+PC patients
+in kindred
+1637 have been
+reported
+previously
+(Rich,
+1894; Ptdcek
+et al., 1991b).
+The affected
+individuals
+in this family
+have spontaneous
+episodic
+attacks
+of quadriparesis
+and
+myotonia
+that
+is provoked
+by muscle
+cooling.
+No potassium
+sensitivity
+has been
+reported
+by these
+patients,
+but formal
+potassium
+challenge
+has never
+been performed.
+Patients
+from
+kindred
+1800 have
+been
+reported
+elsewhere
+(Riggs
+et al., 1977) and have similar
+cold-induced
+myotonia
+and
+attacks
+of periodic
+paralysis.
+Potassium
+loading
+in oneof
+these
+patients
+resulted
+in worsening
+of the myotonia
+but improvement
+of strength.
+Patients
+in kindred
+1984 also have the pure
+form
+of PC
+with periodic
+paralysis
+and myotonia
+that is provoked
+by cooling.
+The patient
+whose
+DNA we studied
+has
+undergone
+a potassium
+challenge,
+which
+resulted
+in
+severe,
+generalized
+muscle
+stiffness
+and pain, a slight
+increase
+in myotonia,
+but
+no change
+in strength
+(Griggs,
+1978).
+Partial
+Cenomic
+Organization
+of SCN4A
+Intron-exon
+boundaries
+in SCN4A
+were
+
+determined
+
+by sequencing
+genomic
+clone
+hlO.l
+(George
+et al.,
+1992a)
+with
+oligonucleotide
+primers
+designed
+from
+the cDNA
+sequence
+of hSkM7
+(George
+et al., 1992b).
+Twelve
+exons
+encompassing
+codons
+615-1837
+and
+ranging
+in size from
+54-2248
+bp were
+defined
+in a
+region
+of approximately
+20 kb. Three
+exons
+(enumerated
+in a 3’ to 5’ direction
+as N, 2248 bp; N-l, 270
+bp; and N-2, 104 bp) contain
+the coding
+sequence
+corresponding
+to the carboxyl
+terminus,
+domain
+4,
+and the interdomain
+3-4 region.
+Four pairs
+of oligonucleotide
+primers
+(Figure
+1) were
+designed
+for use
+in amplifying
+regions
+of these
+exons
+that encode
+domain 4 and the 3-4 interdomain.
+Identification
+of Nucleotide
+Alterations
+in PC Patient
+DNA
+The very
+high
+degree
+of conservation
+of DNA
+and
+amino
+acid sequence
+in the membrane-spanning
+segments
+of the NaCh
+and the presence
+of HYPP mutations in these
+regions
+led us toconcentrateour
+search
+for PC mutations
+in the repeat
+domains.
+Patients
+from
+all three
+PC families
+demonstrated
+aberrant
+conformers (Figure
+2) when
+investigated
+with
+SSCP analysis
+with
+primer
+set Na.f/Na.r.
+No abnormalities
+were
+noted
+with
+SSCP using
+the remaining
+three
+primer
+sets (data not shown).
+The pattern
+of aberrant
+banding
+appeared
+similar
+in all three
+families
+studied,
+thus
+suggesting
+that all three
+families
+might
+have the same
+mutation.
+Alternatively,
+different
+mutations
+may yield
+the same aberrant
+bands
+if they alter the electrophoretie mobility
+similarly.
+The aberrant
+pattern
+seen in
+the three
+PC patients
+was not seen
+in the DNA
+of
+106 unrelated,
+normal
+individuals
+whose
+DNA
+was
+evaluated
+by SSCP.
+Transmission
+of Disease
+Allele
+in PC Families
+The aberrant
+banding
+pattern
+was shown
+to cosegregate with the disease
+allele in kindreds
+1637 and 1800.
+The aberrant
+conformers
+were
+present
+in all affected
+individuals
+in these
+families
+and in none
+of the unaffected
+family
+members
+(Figures
+2a and 2b). DNA was
+
+Paramyotonia
+893
+
+Congenita
+
+Mutations
+
+a. Kindred 1637
+
+Figure
+
+b. Kindred 1800
+
+2. SSCP Conformers
+
+from
+
+the SCN4A
+
+Gene
+
+Specific
+
+c. Kindred 1984
+
+to PC Patients
+
+The sequence
+corresponding
+to nt 43664615
+of hSkM7 (George
+et al., 1992b) was PCR amplified
+with primers
+Na.f and Na.r. Each lane
+on the SSCP autoradiograph
+corresponds
+to the individual
+in the pedigree
+above. Open symbols
+represent
+unaffected
+individuals,
+while closed symbols
+represent
+affected
+people. The abnormal
+bands that were sequenced
+are denoted
+by the arrows.
+(a) Unique
+conformers
+occur in affected
+individuals
+from kindred
+1637 but not in unaffected
+family members.
+(b) Unique conformers
+in kindred
+1800 cosegregate
+with the disease allele. (c) Patient sample 13688 from kindred
+1984demonstrates
+the abnormal
+conformers
+migrating
+at the same position.
+The following
+controls
+are included
+on this autoradiogram:
+A, HYPP patient #10263, kindred
+1590; B, PC patient
+#13195, kindred
+1800; and C, HYPP patient #13371, kindred
+1891.
+
+available
+for only
+one individual
+from
+kindred
+1984
+(patient
+#1368&T) and demonstrated
+the same
+abnormality
+(Figure
+2~). Cosegregation
+of the
+aberrant
+pattern
+in these
+families
+supports
+the idea that the
+alterations
+resulting
+in SSCP mobility
+shifts
+are PC
+mutations.
+Aberrant
+bands
+must
+be sequenced
+to
+demonstrate
+molecular
+alterations
+responsible
+for
+
+a.
+
+Normal
+
+b. Kindred
+
+Figure
+
+conformer
+
+c. Kindred
+
+1637
+#I2088
+*--pm
+GTTCTOTOT
+
+d. Kindred
+
+3. Sequences
+
+of SSCP Aberrant
+
+1800
+
+#13195
+
+1984
+#I 3688
+*
+OTTCClTGT
+
+Bands
+
+Sequence
+from
+the region
+corresponding
+to nt 4415-4423
+(George
+et al., 1992b) of hSkM7 is shown. Altered nucleotides
+are
+indicated
+by an asterisk.
+Sequence
+of the sense strand is shown
+for (a) normal
+conformer,
+(b) patient
+Wl2088, kindred
+1637, (c)
+patient #13195, kindred
+1800, and (d) patient
+#13688, kindred
+1984. Sequencing
+of the antisense
+strands
+yielded
+consistent
+results (data not shown).
+
+mobility
+shifts.
+tions
+must
+be
+temperature-sensitive
+in vitro,
+
+Ultimately,
+performed
+
+expression
+to determine
+phenotype
+can
+
+of such
+mutawhether
+the
+be reproduced
+
+DNA
+Sequence
+of SSCP Conformers
+DNA eluted
+from
+the SSCP bands
+was sequenced
+and
+revealed
+three
+different
+patterns.
+The first (Figure
+3a)
+corresponds
+to the normal
+hSkM7
+sequence.
+The second (Figure
+3b), present
+in patient
+#I2088
+from
+kindred 1637, demonstrates
+a C to T transition
+at position
+4419 of hSkM1 (George
+et al., 199213). When
+read
+in
+frame,
+this represents
+a first position
+change
+resulting
+in substitution
+of an arginine
+by a cysteine
+residue.
+The third
+pattern
+(Figures
+3c and 3d), in patient
+#I3195
+from
+kindred
+1800 and patient
+#I3688
+from
+kindred
+1984, revealed
+a G to A transition
+at position
+4420 of
+hSkM7 (George
+et al., 1992b).
+When
+read in frame,
+this
+second
+position
+change
+leads
+to substitution
+of the
+same
+arginine
+residue
+by a histidine.
+The
+normal
+hSkMl and mutant
+DNA sequence
+in the region
+of the
+mutations
+are aligned
+in Figure
+4. These
+alterations
+occur
+in the same codon
+encoding
+a highly
+conserved
+arginine
+residue
+in the fourth
+putative
+membranespanning
+segment
+(S4) of domain
+4 (Figure
+5).
+These
+nucleotide
+substitutions
+occurred
+within
+the
+context
+of a CpG
+dimer.
+The majority
+of methylation
+in human
+DNA occurs
+on the cytosine
+in CpG dimer
+sequences;
+this interferes
+with efficient
+correction
+of
+C to T transitions
+resulting
+from
+5-methyl
+cytosine
+deamination.
+These
+sites are, therefore,
+potential
+hot
+spots for mutation
+in either
+strand
+(Barker
+et al., 1984).
+One of the two mutations
+already
+described
+in HYPP
+demonstrated
+a C toT transition
+(PtaCek
+et al., 1991c).
+
+Figure
+hSkM7
+
+4. Alignment
+of DNA
+and PC Mutants
+
+Sequence
+
+(bp4410-4430)
+
+of Normal
+
+Mutation
+PC 1 occurs
+in kindred
+1637, and mutation
+PC 2 was
+found in kindreds
+1800 and 1984. The CGT codon encoding
+the
+arginine
+at position
+1448 in the normal sequence,
+along with the
+two mutant codons,
+is enclosed
+by the rectangle.
+In PC 1, a C to
+T transition
+was found in the first position
+of this codon, thus
+encoding
+a cysteine
+residue. In PC 2, a G to A transition
+is noted
+at the second position
+of this codon, thus encoding
+a histidine
+residue.
+
+Discussion
+PC is a rare hereditary
+disease
+characterized
+by autosomal
+dominant
+transmission,
+myotonia
+that is accentuated
+by exposure
+to cold and worsened
+by exercise,
+and attacks
+of muscular
+weakness
+or flaccid
+paralysis
+that are induced
+by muscle
+cooling
+(Riggs
+and Griggs,
+1979). Although
+often
+considered
+as a distinct
+clinical
+entity
+separate
+from
+the HYPPs,
+PC is
+now known
+to be one of a variety
+of related
+clinical
+syndromes
+including
+HYPP that are caused
+by structural
+lesions
+in the adult
+skeletal
+muscle
+voltagedependent
+NaCh.
+Voltage-dependent
+NaChs
+are intrinsic
+membrane
+proteins
+that consist
+of a single
+large polypeptidewith
+a molecular
+weight
+of -260,000,
+containing
+1800-2000
+aa and 25%-30%
+complex
+carbohydrate
+by weight.
+Within
+this large
+protein
+are four
+regions
+of internal
+homology,
+each
+encompassing
+225-325
+aa. Analysis
+of these
+repeat
+domains
+identifies
+at least six potential
+transmembrane
+helices
+at conserved
+locations
+in
+each domain.
+The most striking
+of these
+is the S4 helix,
+which
+contains
+a repeating
+(x-x-Arg/Lys)
+motif
+that results
+in the presence
+of a positively
+charged
+amino
+acid at every
+third
+position.
+This helix
+is thought
+to
+play a central
+role in voltage-dependent
+channel
+activation.
+While
+voltage-dependent
+NaChs
+from
+all species
+share
+a common
+architecture,
+there
+are multiple
+forms
+of NaChs
+that can be expressed
+in different
+tissues
+of a single
+species,
+or even at the same
+time
+within
+the same tissue
+(Barchi,
+1987). These
+isoforms
+differ
+predominantly
+in the sequence
+of their
+amino
+and carboxyl
+termini
+and in the regions
+linking
+the
+internal
+repeat
+domains.
+At least six NaCh
+isoforms
+have been characterized
+in rat (Noda
+et al., 1986; Kayano et al., 1988; Trimmer
+et al., 1989; Rogart
+et al., 1989;
+Kallen
+et al., 1990), and the NaCh
+isoform
+expressed
+in human
+adult
+skeletal
+muscle
+(hSkM7)
+has recently
+been
+cloned
+and sequenced
+(George
+et al., 1992b).
+This
+channel
+isoform
+is the product
+of the SCN4A
+gene
+(George
+et al., 1991).
+In PC, cooling
+of skeletal
+muscle
+leads first to hyperexcitability
+and then,
+in some
+cases,
+to paralysis.
+In
+vitro,
+skeletal
+muscle
+from
+PC patients
+iselectrophysiologically
+normal
+at 37°C
+but depolarizes
+and
+be-
+
+;‘ ;, .
+
+Figure
+
+5. NaCh
+
+Model
+
+with
+
+Mutations
+
+The channel
+consists
+of four homologous
+domains,
+each with
+six membrane-spanning
+segments.
+The portion
+of channel consisting of segments
+3-5 in domain
+4 is enlarged
+in the Inset to
+show the normal amino acid sequence
+in this region. .Arginine
+1448 is shown in black along with the two substitutions
+at this
+location
+produced
+by the mutations
+reported
+here.
+
+comes
+electrically
+unexcitable
+when
+the temperature
+is lowered
+to 27OC (Lehmann-Horn
+et al., 1987b).
+This
+depolarization
+is associated
+with the appearance
+of an
+abnormally
+large membrane
+conductance
+to sodium
+ions that can be blocked
+by tetrodotoxin
+and presumably involves
+voltage-dependent
+NaChs.
+Support
+for
+a roleof
+NaChs
+in the pathogenesisof
+this disease
+has
+recently
+been
+provided
+by genetic
+analyses
+in which
+tight
+linkage
+was demonstrated
+between
+the expression of the PC phenotype
+in affected
+families
+and the
+presence
+of characteristic
+restriction
+fragment
+length
+polymorphisms
+at the adult
+skeletal
+muscle
+NaCh
+gene
+locus
+(Ptatek
+et al., 1991b;
+Ebers
+et al., 1991).
+We now confirm
+this role by documenting
+specific
+mutations
+that occur
+in the NaCh
+gene SCN4A
+in PC
+patient
+DNA.
+The occurrence
+of nucleotide
+sequence
+alterations
+in the adult
+skeletal
+muscle
+NaCh
+that cosegregate
+with the PC phenotype
+in three
+unrelated
+families
+and
+the absence
+of these
+abnormalities
+in 106 unrelated
+normal
+individuals
+argue
+that mutations
+in hSkM7
+are
+the molecular
+basis
+for this syndrome
+in these
+families. Both of the abnormalities
+described
+here result
+in similar
+SSCP mobility
+shifts.
+They
+both
+occur
+in
+the codon
+encoding
+arginine
+1448, a residue
+that lies
+
+Paramyotonia
+895
+
+Congenita
+
+PC Mutation
+PC Mutation
+HSkMl
+Human
+
+1
+2
+
+cardiac
+
+Ra:
+
+Skeletal
+
+Rat
+
+Brain
+
+Rat Brain
+Rat Bra111
+Electroplax
+Drosophila
+
+NaCh
+
+muscle
+Type I
+Type 2
+Type 3
+Eel
+Para Locus
+
+Mutations
+
+qKYFVSPTLF
+L-L TRTARTGR
+qKYFVSPTL F Ih IVIRLARIGR
+qKYFVSPTLF
+R IRLARIGR
+qKYFfSPTLF
+R IRLARIGR
+qKYFVSPTLF
+R IRLARIGR
+eKYF"SPTLF
+R IRLARIGR
+eKYFVSPTLF
+R IRLARIGR
+eKYFVSPTLF
+R IRLARIGR
+eKYFVSPTLF
+R IRLARIaR
+eKYFVSPTL1
+R r vRvAkvGR
+
+l -
+
+vr.RLIrGAKG
+VL~%LIrGAKG
+vLRLIrGAKG
+iLRLIrGAKG
+vLRLIrGAKG
+iLRLIkGAKG
+iLRLIkGAKG
+iLRLIkGAKG
+"LRLIraAKG
+"LRLvkGAKG
+
+IRTLLFALMM
+IRTLLFALMM
+IRTLLFALMM
+IRTLLFALMM
+IRTLLFALMM
+IRTLLFALMM
+IRTLLFALMM
+IRTLLFALMM
+IRTLLFALMM
+IRTLLFALaM
+
+m/s4 -
+
+within
+the S4 segment
+of hSkM1
+domain
+4. This residue is absolutely
+conserved
+in all known
+NaCh
+sequences
+across
+highly
+divergent
+species
+(Figure
+6).
+The mutations
+replace
+this arginine
+residue
+with
+either cysteine
+or histidine
+and therefore
+neutralize
+this
+highly
+conserved
+S4 positive
+charge
+(the charge
+on
+histidine
+[pKa = 61 will be dependent
+on its local environment,
+but is not likely
+to have
+a strong
+positive
+charge).
+The location
+of the two PC NaCh
+mutations
+is distinct
+from
+the two
+reported
+HYPP
+mutations
+(PtZek
+et al., 1991c; Rojas et al., 1991), and this molecular heterogeneity
+is likely
+to be responsible
+for differences
+in the clinical
+presentation
+of these
+two syndromes.
+The two hSkM1
+mutations
+described
+in this
+paper
+probably
+do not account
+for all cases
+of PC,
+since
+we have been
+unable
+to detect
+the same
+SSCP
+abnormality
+in three
+other
+families
+with the same disease phenotype
+(unpublished
+data).
+Although
+the
+exact
+functional
+consequences
+of
+neutralizing
+arginine
+1448 in hSkM7
+can only
+be revealed
+by a detailed
+electrophysiologic
+study
+of the
+mutant
+channel
+itself,
+some
+insight
+can be gained
+from
+studies
+of the effects
+of S4 segment
+mutations
+in other
+voltage-dependent
+sodium
+and potassium
+channels.
+Site-directed
+mutagenesis
+experiments
+involving
+the S4 segment
+of the rat brain
+II NaCh
+and
+the Shaker
+B potassium
+channel
+support
+the hypothesis that this segment
+does act as the voltage
+sensor
+in
+the biophysical
+mechanism
+of activation
+(Stuhmer
+et
+al., 1989; Papazian
+et al., 1991). Substitution
+of a neutral amino
+acid for individual
+positively
+charged
+residuesinS4ofdomainsland2oftheratbrain
+Ilchannel
+decreases
+the steepness
+of the voltage
+dependence
+of activation
+and shifts
+the midpoint
+of the activation
+curve
+along
+the voltage
+axis (Stuhmer
+et al., 1989).
+Mutations
+neutralizing
+charges
+in the
+Shaker
+potassium
+channel
+S4 have a less predictable
+effect,
+but
+also shift
+both
+the slope
+of the activation
+curve
+and
+the location
+of the curve
+on the voltage
+axis. In addition,
+S4 mutations
+in the Shaker
+potassium
+channel
+indicate
+coupling
+between
+channel
+activation
+and inactivation.
+A characteristic
+of the PC phenotype
+is the presence
+of both
+cold-induced
+myotonia
+and
+intermittent
+weakness,
+suggesting
+that a single
+mutation
+near the
+amino
+terminus
+of the S4 helix of domain
+4can,
+under
+different
+physiological
+circumstances,
+lead to either
+repetitive
+NaCh
+activation
+or failure
+of activation
+and
+
+Figure 6. Alignment
+of NaCh Amino Acid
+Sequences
+from Various
+Species Showing
+High Degree of Amino Acid Homology
+Highly conserved
+residues
+are denoted
+by
+capital letters; nonconserved
+amino acids
+are represented
+by lower case letters. The
+amino acid position where the substitution
+occurs
+is enclosed
+in the rectangle.
+The
+normal residue for the eieht normal channels listed is arainine.
+This arainine
+is replaced by a cyst;ine
+in PC 1 a& by a histidine in PC 2.
+
+paralysis.
+Although
+repetitive
+activity
+could
+result
+from a shift in the voltage
+dependence
+either
+of activation to more
+negative
+potentials
+or of inactivation
+to
+more
+positive
+potentials,
+the persistent
+sodium
+currents
+reported
+in electrophysiological
+recordings
+from
+PC muscle
+(Lehmann-Horn
+et al., 1987b)
+suggest
+that channel
+inactivation
+may be the process
+that is
+primarily
+affected.
+It has been
+shown
+that failure
+of
+NaCh
+inactivation,
+even
+in a small percentage
+of the
+channel
+population,
+can lead to membrane
+depolarization,
+inactivation
+of the other
+normal
+NaChs,
+and
+muscle
+paralysis
+(Cannon
+et al., 1991).
+Given
+the effects of S4 mutations
+in Shaker,
+it is also possible
+that
+the mutations
+described
+here could
+affect
+both inactivation
+and activation.
+However,
+sincethese
+mutations
+insert
+different
+amino
+acids
+than
+the substitution
+studied
+at the comparable
+location
+in Shaker,
+this
+point
+can only
+be resolved
+through
+the study
+of the
+mutated
+PC channel
+expressed
+in vitro.
+The temperature
+sensitivity
+of symptoms
+is an interesting
+aspect
+of the PC phenotype,
+and we can speculate as to how this relates
+to NaCh
+defects.
+Structural
+changes
+due to the mutations
+reported
+here
+might
+alter the relative
+energy
+levels
+of various
+conformations
+associated
+with different
+NaCh
+gating
+modes.
+If
+the factors
+stabilizing
+such
+states
+differ
+in their
+entropic
+contributions
+between
+mutant
+and wild-type
+channels,
+changes
+in temperature
+may differentially
+affect
+the preferred
+channel
+conformation
+in each
+case, and lower
+temperatures
+might
+serve to stabilize
+the mutant
+channel
+in a state associated
+with
+an abnormal
+gating
+mode.
+This might
+be anticipated
+if, for
+example,
+hydrophobic
+interactions
+play a prominent
+role in stabilizing
+a particular
+conformation.
+Alternatively,
+the mutations
+may render
+the channel
+abnormally
+sensitive
+to other
+cellular
+processes
+that are
+themselves
+temperature
+sensitive,
+such as phosphorylation
+or G protein
+interaction.
+Ultimately,
+the correlation
+between
+the mutations
+described
+here and the
+pathophysiology
+of excitation
+in PC will require
+the
+expression
+and analysis
+of human
+skeletal
+muscle
+NaChs
+in which
+this mutation
+has been
+introduced.
+Experimental
+
+Procedures
+
+Identification
+of PC Patients
+PC patients
+with well-documented
+disease
+were
+identified
+through
+the Muscular
+Dystrophy
+Association
+clinics at the University
+of Utah, the University
+of Rochester,
+and the University
+
+Neuron
+896
+
+of West Virginia.
+Each patient was examined
+by one of the authors (L. J. P., R. C. G., and J. E. R.). All family members,
+including
+unaffected
+individuals
+and spouses,
+were examined
+whenever
+possible.
+All human
+tissue samples
+used in this project
+were
+obtained
+with the approval
+of the Institutional
+Review Board at
+the University
+of Utah Health Sciences
+Center.
+Tissue Culture
+Epstein-Barr virus
+was used to transform
+lymphocytes
+from normal and PC individuals.
+These lymphoblastoid
+cell lines then
+were cultured
+at 37OC, 5% CO2 in RPMI 1640 medium
+(Cellgroi
+Mediatech)
+containing
+1% Nutridoma
+(Boehringer
+Mannheim),
+5% fetal bovine serum (Hyclone),
+and 50 Ulmlgentamicin
+sulfate.
+Patient DNA was obtained
+directly
+from peripheral
+blood by
+phenol-chloroform
+extraction.
+PCR Amplification
+DNA samples were amplified
+for SSCP analysis
+using the polymerase chain reaction (PCR) (3 min at 94OC, 1 time; 1 min at 94OC,
+1 min at annealing
+temperature,
+1 min at 72OC, 30 times). The
+annealing
+temperature
+for each reaction was bT-8°C
+below the
+T, for the primers.
+The reaction
+mixture
+was made up of the
+following:
+200 ng of DNA, 0.5 uM of each primer,
+70 uM of each
+deoxynucleoside
+triphosphate,
+10 mM Tris (pH 8.3), 50 mM KCI,
+1.5 mM MgCI,, 0.01% gelatin, 0.25 U of Taq polymerase,
+and
+0.1 ul of [a-32P]dCTP (3000 Cilml) in a volume
+of 10 ~1.
+SSCP Gel Analysis
+PCR products
+were diluted in 50 ul of a mixture containing
+0.1%
+SDSandlOmM
+EDTA. Fivemicrolitersofthismixturewasfurther
+diluted with 6 ul of running buffer (95% formamide,
+20 mM EDTA,
+0.05% bromphenol
+blue, 0.05% xylene cyanol).
+Products
+were
+denatured
+at 94OC for 3 min and kept on ice until 3 ul of each
+sample was loaded onto 5% polyacrylamidegels.
+Twoconditions
+were run for each set of reactions:
+a 90 mM Tris-borate
+(pH 7.5),
+2 mM EDTA gel at 4OC and a 90 mM Tris-borate
+(pH 7.5), 2 mM
+EDTA, 10% glycerol
+gel at room temperature.
+Electrophoresis
+was carried out for both conditions
+at a constant
+power of 40 W.
+After electrophoresis,
+gels were transferred
+to Whatmann
+3MM
+paper and dried on vacuum
+slab dryers.
+Autoradiography
+with
+Kodak X-Omat AR film was performed
+with intensifying
+screens
+for 24-36 hr.
+Sequencing
+of SSCP Conformers
+Individual
+SSCP bands were cut directly
+from the dried gels,
+placed in 100 ul of distilled
+water, shaken
+for 30 min at room
+temperature,
+and centrifuged
+briefly. A 10 ul aliquot of this supernatant
+was used for PCR amplification
+with primers 5’upNa.f
+3’ and 5’rpNa.r
+3’ (up- and rp- represent
+the -2lM13
+universal
+and reverse primer
+sequences,
+respectively).
+Reaction
+mixture
+was as follows:
+0.5 uM of each primer,
+10 mM Tris (pH 8.3), 50
+mM KCI, 1.5 mM MgCb, 0.01% gelatin, 2.5 nmol of dNTP mixture.
+Samples were vortexed,
+spun down, placed on ice, and overlayered with mineral oil. Two units of Taq polymerase
+were added
+to each reaction.
+Reactions
+were placed in a preheated
+DNA
+thermal
+cycler at 94OC and run with the following
+parameters:
+94OC, 1 min; 55OC, 1 min; 72OC, 1 min (30 times). Amplified
+products were resolved
+on 4% agarose
+gels (Maniatis
+et al., 1982)
+and isolated from the gel with Geneclean
+(Bio 101, La Jolla, CA).
+These products
+were sequenced
+using the dideoxy
+termination
+method
+(Sanger
+et al., 1977), with fluorescently
+tagged Ml3
+universal
+or reverse
+sequencing
+primers
+on an applied
+Biosystems model 373A DNA sequencer
+(Applied Biosystems,
+Foster
+City, CA).
+Acknowledgments
+Theauthors
+aregrateful
+to the families who participated
+in these
+studies
+and to Sharon Austin,
+Nancy Chaney,
+Keith Johnson,
+Edward Meenen,
+Diane Storvick,
+and Minalee
+Woodward
+for
+technical
+assistance.
+The authors appreciate
+helpful discussions
+with Barry Ganetzky,
+Mark Keating, Jack Petajan, Andrew
+Thliveris, and Ray White.
+This investigation
+was supported
+by Na-
+
+tional Institutes
+of Health grants 1 Kll HD00940-01
+(to L. J. P.).
+NS-18013 (to R. L. B.), and AR-01862 (to A. L. C.); by Public Health
+Service
+research
+grants MOI-RR00064
+(University
+of Utah) and
+MOI-RR0004
+(University
+of Rochester)
+from the National Center
+for Research
+Resources;
+by the Howard
+Hughes
+Medical
+Institute; by the Utah Technology
+Access
+Center (NIH grant 8 RO’I
+HG00367 from the Center for Human Genome
+Research);
+and by
+grants from the Muscular
+Dystrophy
+Association
+(to L. J. P. and
+R. L. B.) and the PEW Charitable
+Trust (R. L. B.). A. L. C. is a Lucille
+P. Markey
+Scholar,
+and this work was supported
+in part by a
+grant from the Lucille P. Markey
+Charitable
+Trust.
+The costs of publication
+of this article were defrayed
+in part
+by the payment
+of page charges.
+This article must therefore
+be
+hereby marked “advertisement”
+in accordance
+with 18 USC Section 1734 solely to indicate this fact.
+Received
+
+January
+
+13, 1992; revrsed
+
+February
+
+20, 1992.
+
+References
+Barchi, R. L. (1987). Sodium channel
+diversity:
+subtle
+on a complex
+theme. Trends
+Neurosci.
+70, 221-223.
+
+variations
+
+Barker,
+D., Schafer,
+M., and White,
+R. (1984). Restriction
+containing
+CpC show a higher frequency
+of polymorphism
+human DNA. Cell 36, 131-138.
+Cannon,
+channel
+induced
+
+S. C., Brown, R. H.,Jr.,
+defect in hyperkalemic
+failure of inactivation.
+
+sites
+in
+
+and Corey, D. P. (1991). A sodium
+periodic
+paralysis:
+potassiumNeuron
+6, 619-626.
+
+Cawthon,
+R. M., Weiss,
+R., Xu, C., Viskochil,
+D., Culver,
+M.,
+Stevens, J., Robertson,
+M., Dunn, D., Cesteland,
+R., O’Connell,
+P., and White,
+R. (1990). A major segment
+of the neurofibromatosis type 1 gene: cDNA sequence,
+genomic
+structure,
+and
+point mutations.
+Cell 62, 193-201.
+Dean, M., White, M. B., Amos, J., Gerrard,
+B., Stewart, C., Khaw,
+K.-T., and Leppert,
+M. (1990). Multiple
+mutations
+in highly conserved residues
+are found in mildly affected
+cystic fibrosis
+patients
+Cell 61, 863-870.
+Ebers, G. C., George,
+A. L., Barchi,
+Kallen, R. G., Lathrop,C.M.,Beckmann,
+W. F., Campbell,
+R. D., and Hudson,
+congenita
+and hyperkalemic
+periodic
+adult muscle sodium
+channel
+gene.
+
+R. L., Ting-Passador,
+5. S.,
+J. S., Hahn,A.
+F., Brown,
+A. J. (1991). Paramyotonia
+paralysis are linked to the
+Ann. Neural.
+30, 810-816.
+
+Fontaine,
+B., Khurana,
+T. S., Hoffman,
+E. P., Bruns, C.. Harries.
+J, L., Trofatter,
+J. A., Hanson, M. P., Rich, J., McFarlane,
+H.. Yasek,
+D. M., Romano,
+D., Gusella,
+J., and Brown, R. (1990). Hyperkalemic periodic
+paralysis
+and the adult muscle sodium
+channel
+gene. Science 250, 1000-1002.
+George,
+A. L., Ledbetter,
+D. H., Kallen, R. G., and Barchr, R. L.
+(1991). Assignment
+of a human skeletal muscle sodium channel
+alpha subunit
+gene (SCMA)
+to 17q23.1-25.3.
+Cenomics
+9, 555556.
+George,
+structure
+skeletal
+
+A. L., Kallen, R. G., and Barchi,
+and partial genomic
+organization
+muscle sodium
+channel.
+Biophys.
+
+R. L. (1992a). Primary
+of the adult human
+J. 61, A108.
+
+George,A.
+L., Komrsarof,
+J., Kallen, R. C., and Barchr, R. L. (1992b).
+Primary
+structure
+of the adult human
+skeletal
+muscle voltagedependent
+Nat channel.
+Ann. Neural.
+37, 131-137.
+Criggs,
+Effects
+
+R. C., Moxley,
+of acetarolamide
+
+R. T., Riggs, J. E., and Engel, W. K. (1978).
+on myotonia.
+Ann. Neural. 3, 531-537.
+
+Groden,
+J., Thliveris,
+A., Samowitz,
+W., Carlson,
+M., Celbert,
+L.,
+Albertsen,
+H., Joslyn, G., Stevens,
+J., Spirio, L., Robertson,
+M.,
+Sargeant,
+L., Krapcho,
+K., Wolff,
+E., Burt, R., Hughes,
+J. P.,
+Warrington,
+J., McPherson,
+J., Wasmuth,
+J., Le Paslrer,
+D.,
+Abderrahim,
+H., Cohen,
+D., Leppert,
+M., and White,
+R. (1991).
+Identification
+and characterization
+of the familial adenomatous
+polyposis
+coli gene. Cell 66, 589-600.
+Kallen, R. G., Sheng, 7. H., Yang, J., Chen, L., Rogart, R. B., and
+Barchi, R. L. (1990). Primary structure
+and expression
+of a sodium
+channel characteristic
+of denervated
+and immature
+rat skeletal
+muscle.
+Neuron
+4. 233-242.
+
+Paramyotonia
+097
+
+Congenita
+
+Mutations
+
+Kayano, T., Noda, M., Flockerzi,
+V., Takahashi,
+H., and Numa, S.
+(1988). Primary structureof
+rat brain sodium channel III deduced
+from the cDNA sequence.
+FEBS Lett. 228, 187-194.
+Koch, M.
+Rudel, R.,
+F. (1991a).
+ralysis to
+
+C., Ricker,
+K., Otto,
+M., Grimm,
+T., Hoffman,
+E. P.,
+Bender, K., 2011, B., Harper,
+P. S., and Lehmann-Horn,
+Confirmation
+of linkage of hyperkalemic
+periodic
+pachromosome
+17. J. Med. Genet. 28, 583-586.
+
+Koch, M. C., Ricker, K., Otto, M., Grimm,
+T., Bender, K., Zoll, B.,
+Harper,
+P. S., Lehmann-Horn,
+F., Rudel, R., and Hoffman,
+E. P.
+(1991b). Linkage data suggesting
+allelic heterogeneity
+for paramyotonia
+congenita
+and hyperkalemic
+periodic
+paralysis
+on
+chromosome
+17. Hum. Cenet. 88, 71-74.
+Lehmann-Horn,
+F., Rudel, R., Denglar,
+A., and Ricker,
+K. (1981). Membrane
+congenita
+with and without
+myotonia
+Muscle
+Nerve 4, 396-406.
+
+R., Lorkovic,
+H., Haass,
+defects
+in paramyotonia
+in a warm environment.
+
+Lehmann-Horn,
+F., Kuther, G., Ricker, K., Crafe, P., Ballanyi, K.,
+and Rudel, R. (1987a). Adynamia
+episodica
+hereditaria
+with myotonia: a non-inactivating
+sodium
+current
+and the effect of extracellular
+pH. Muscle
+Nerve IO, 363-374.
+Lehmann-Horn,
+F., Rtidel, R., and Ricker, K. (1987b3. Membrane
+defects
+in paramyotonia
+congenita
+(Eulenburg).
+Muscle
+Nerve
+70, 633-641.
+Maniatis,
+T., Fritsch, E., and Sambrook,
+J. (1982). Molecular
+Cloning: A Laboratory
+Manual (Cold Spring Harbor,
+New York: Cold
+Spring Harbor
+Laboratory),
+pp. 150-169.
+Noda, M., Ikeda, T., Kayanao,T.,
+Suzuki, H., Takahashi,
+H., Kurasaki, M., Takasashi,
+H., and Numa, S. (1986). Existence of distinct
+sodium
+channel
+messenger
+RNA’s in rat brain. Nature 320,188192
+Orita, M., Iwahana,
+H., Kanazawa,
+H., Hayashi,
+K., and Sekiya,
+T. (1989a). Detection
+of polymorphisms
+of human DNA by gel
+electrophoresis
+as single strand conformation
+polymorphisms.
+Proc. Natl. Acad. Sci. USA 86, 2766-2770.
+Orita, M., Suzuki, Y., Sekiya, T., and Hayashi,
+K. (1989b). Rapid
+and sensitive
+detection
+of point mutations
+and DNA polymorphisms
+using the polymerase
+chain reaction.
+Genomics
+5, 874879.
+Papazian,
+D. M., Timpe,
+L. C., Jan, Y. N., and Jan, L. Y. (1991).
+Alteration
+of voltage-dependence
+of Shaker potassium
+channel
+by mutations
+in the S4 sequence.
+Nature 349, 305-310.
+Ptdcek, L. J., Tyler, F., Trimmer,
+M. (1991a). Analysis
+in a large
+pedigree
+supports
+tight linkage
+J. Hum. Cenet. 49, 378-382.
+
+J. S., Agnew,
+hyperkalemic
+to a sodium
+
+W. S., and Leppert,
+periodic
+paralysis
+channel
+locus. Am.
+
+Ptdcek, L. J., Trimmer,
+J. S., Agnew, W. S., Roberts, J. W., Petajan,
+J. H., and Leppert,
+M. (1991b). Paramyotonia
+congenita
+and hyperkalemic
+periodic
+paralysis
+map to the same sodium
+channel
+gene locus. Am. J. Hum. Cenet. 49,851-854.
+Ptacek,
+L. J., George,
+A. L., Jr., Criggs,
+R. C., Tawil, R., Kallen,
+R. G., Barchi, R. L., Robertson,
+M., and Leppert,
+M. F. (1991~).
+identification
+of a mutation
+in the gene causing
+hyperkalemic
+periodic
+paralysis.
+Cell 67, 1021-1027.
+Ptacek, L. J., Tawil, R., Griggs,
+R. C., Storvick,
+D., and Leppert,
+M. F. (1992). Linkage of atypical
+myotonia
+congenita
+to a sodium
+channel
+locus. Neurology
+42, 431-433.
+Rich,
+Med.
+Riggs,
+498.
+
+E. C. (1894). A unique
+News 65, 210-213.
+J. E. (1988).
+
+The
+
+Riggs, J. E., and Griggs,
+the periodic
+paralyses.
+Riggs, J. E., Griggs,
+induced
+weakness
+Med. 86, 169-173.
+
+form
+
+periodic
+
+of motor
+
+paralysis
+
+due to cold.
+
+paralyses.
+
+Neural.
+
+Clin.
+
+R. C. (1979). Diagnosis
+Clin. Neuropharmacol.
+
+R. C., and Moxley,
+in paramyotonia
+
+6, 485-
+
+and treatment
+4, 123-138.
+
+of
+
+R.T. (1977). Acetazolamidecongenita.
+Ann. Intern.
+
+Rogart, R. B., Cribbs,
+L. L., Muglia,
+L. K., Kephart,
+D. D., and
+Kaiser, M. W. (1989). Molecular
+cloning
+of a putative
+tetrodotoxin-resistant
+rat heart sodium
+channel
+isoform.
+Proc. Natl.
+Acad. Sci. USA 86, 8170-8174.
+
+Rojas, C. V., Wang,
+B. R.,and Brown, R.
+muscle Na channel
+ralysis. Nature 354,
+
+J., Schwartz,
+L. S., Hoffmann,
+H. (1991).Amet-to-val
+mutation
+alpha-subunit
+in hyperkalemic
+387-389.
+
+E. P., Powell,
+in theskeletal
+periodic
+pa-
+
+Rtidel, R., Ruppersberg,
+J. P., and Spittelmeister,
+W. (1989). Abnormalities
+of the fast sodium
+current
+in myotonic
+dystrophy,
+recessive
+generalized
+myotonia,
+and adynamia
+episodica.
+Muscle Nerve 72, 281-287.
+Sanger, F., Nicklen,
+with chain-terminating
+5463-5467.
+
+S., and Coulson,
+A. (1977). DNA
+inhibitors.
+Proc. Natl. Acad.
+
+sequencing
+Sci. USA 74,
+
+Stuhmer,
+W., Conti, F., Suzuki,
+H., Wang, X., Noda,
+N., Kubo, H., and Numa, S. (1989). Structural
+parts
+activation
+and inactivation
+of the sodium
+channel.
+597-603.
+
+M., Yahagi,
+involved
+in
+Nature 339,
+
+Trimmer,
+J. S., Cooperman,
+S. S., Tomiko,
+S. A., Zhou, J., Crean,
+S. M., Boyle, M. B., Kallen, R.G., Sheng,Z.,
+Barchi, R. L., Sigworth,
+F. J., Goodman,
+R. H., Agnew, W. S., and Mandel G. (1989). Primary structureand
+functional
+expression
+of a mammalian
+skeletal muscle sodium
+channel.
+Neuron
+3, 33-49.
+
+

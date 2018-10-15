@@ -1,0 +1,1003 @@
+Proc. Natl. Acad. Sci. USA
+Vol. 92, pp. 10177-10181, October 1995
+Genetics
+
+Mutations in the gene encoding the a subunit of the rod
+cGMP-gated channel in autosomal recessive retiiitis pigmentosa
+THADDEUS P. DRYJA*t, JoHN T. FINNS, YOU-WEI PENG4, TERRI L. McGEE*, ELIOT L. BERSON*,
+
+AND KING-WAI YAUt
+*The Berman-Gund Laboratory for the Study of Retinal Degenerations and the Taylor Smith Laboratory, Harvard Medical School, Massachusetts Eye and Ear
+Infirmary, 243 Charles Street, Boston, MA 02114; and $Department of Neuroscience and Howard Hughes Medical Institute, Johns Hopkins University
+School of Medicine, Baltimore, MD 21205
+
+Communicated by Denis Baylor, Stanford University School of Medicine, Stanford, CA, June 12, 1995 (received for review May 2, 1995)
+
+ABSTRACT
+Mutations in the genes encoding two proteins of the retinal rod phototransduction cascade, opsin and
+the j3 subunit of rod cGMP phosphodiesterase, cause retinitis
+pigmentosa (RP) in some families. Here we report defects in
+a third member of this biochemical pathway in still other
+patients with this disease. We screened 94 unrelated patients
+with autosomal dominant RP and 173 unrelated patients with
+autosomal recessive RP for mutations in the gene encoding the
+a subunit of the rod cGMP-gated cation channel. Five mutant
+sequences cosegregated with disease among four unrelated
+families with autosomal recessive RP. Two of these were
+nonsense mutations early in the reading frame (Glu76End and
+Lysl39End) and one was a deletion encompassing most if not
+all of the transcriptional unit; these three alleles would not be
+expected to encode a functional channel. The remaining two
+mutations were a missense mutation (Ser316Phe) and a
+frameshift [Arg654(1-bp del)] mutation truncating the last 32
+aa in the C terminus. The latter two mutations were expressed
+in vitro and found to encode proteins that were predominantly
+retained inside the cell instead of being targeted to the plasma
+membrane. We conclude that the absence or paucity of
+functional cGMP-gated cation channels in the plasma membrane is deleterious to rod photoreceptors and is an uncommon cause of RP.
+
+The genomic structure and sequence of the 10 exons encoding
+the a subunit have been determined (12, 13), allowing one to
+screen this sequence for defects in patients. This a subunit can
+also be expressed in vitro and its channel activity can be
+quantified (9, 13).
+
+MATERIALS AND METHODS
+Ascertainment of Patients. Patients were categorized by the
+inheritance pattern of the disease as described (14). A set of
+96 unrelated individuals without known photoreceptor degeneration were recruited as normal controls. After informed
+consent, blood samples were collected from each patient and
+normal control, and leukocyte DNA was purified.
+Screening for Mutations. The single-strand conformation
+polymorphism technique was used to screen for point mutations or other small-scale sequence changes (15). The PCR was
+carried out in 96-well microtiter plates with the following sets
+of primers (sense/antisense): exon 3, TTCTCCTCAGATATGAAACT/TAAATTAAAGAACITGTAGCT; exon 4, CTG-
+
+CAGTGGTTGAAAACATT/GCACCAAGGGATGGATCATA; exon 5, TATTGTGATTTCACTGCATG/GATTCAGATATATTCCTACA; exons 6 and 7, AAATAAGAGTGGAAGACTGT/GGAAAATCATCCCTGCATCT7; exon 8,
+TTCTTGTATCTTGGTAACTA/TGAACTTGGAAACTAGAAAT; exon 9, TTTATTTATACAAGTGTTTC/AAATATTCAAAACTGAACAT; exon 10a, AAGGAGAAA-
+
+Retinitis pigmentosa (RP) is a genetically heterogeneous set of
+diseases in which affected individuals develop progressive
+degeneration of the rod and cone photoreceptors. Patients
+typically experience night blindness by age 20 followed by
+progressive loss of peripheral visual field and later central
+visual field that leads to blindness usually in middle age. Oral
+vitamin A supplementation slows the course of the disease in
+most cases (1). Dominant, recessive, X chromosome-linked,
+and digenic patterns of inheritance are exemplified by families
+with RP, and even among the families with the same inheritance pattern, there is nonallelic heterogeneity. More than 15
+genes have been implicated by linkage studies, five of which
+have been identified to date. Two of these genes encode
+proteins known to function in the phototransduction pathway
+[namely, rhodopsin (2) and the ,3 subunit of rod cGMPphosphodiesterase (3)], two are photoreceptor-specific proteins of unknown function [peripherin/RDS (4-6) and ROM1
+(6)], and one is an unconventional myosin (7).
+Here we report the analysis of the gene encoding the a
+subunit of the rod cGMP-gated cation channel, which is the
+protein involved in the last stage of the phototransduction
+pathway (for review, see ref. 8). The rod cGMP-gated cation
+channel is a heterooligomer composed of two homologous
+subunits (a and (3), each with cytoplasmic N and C termini, six
+putative transmembrane domains, and a pore region (9-11).
+
+CACTGAATTGA/CGTAACAACCTGTTTAATCT; exon
+10b, GTTAGGGTGGAACTATCCAG/CCTATGTTACCAACGATGGT; exon 10c, CTTTGTGGTGGTTGATTTCC/TTGCAATTTCAAGACCAACT;exonlOd,TTTGCTGATTGTGAAGCTGG/GCCAAGATTCGGGCAAACCT;
+exon 10e, CAGTAGACCTCCITGCAAACC/CATGTCCCTGTTAATGACCA. Variant bands were evaluated by direct
+genomic sequencing of the corresponding PCR-amplified
+DNA segments (16). Sequence variations expected to affect
+protein sequence or expression were evaluated by the singlestrand conformation polymorphism technique for cosegregation with the disease in the relatives of the respective
+probands.
+In selected cases, Southern blot analysis was used to screen
+for gene deletions or rearrangements with radiolabeled cDNA
+fragments (probe pCNCG) derived from the human a subunit
+of the cGMP-gated channel gene (13).
+Expression of the Ser316Phe and Arg654(1-bp del) Alleles
+in Vitro. The cDNA encoding the a subunit of the human
+cGMP-gated cation channel was inserted into the polylinker
+site of pCIS (17). In vitro mutagenesis of the wild-type channel
+cDNA to produce the Ser316Phe and Arg654(1-bp del) mutations identified in patients was carried out with standard
+procedures with single-stranded DNA and oligonucleotides.
+
+The publication costs of this article were defrayed in part by page charge
+payment. This article must therefore be hereby marked "advertisement" in
+accordance with 18 U.S.C. §1734 solely to indicate this fact.
+
+Abbreviation: RP, retinitis pigmentosa.
+
+tTo whom reprint
+
+10177
+
+requests
+
+should be addressed.
+
+10178
+
+Dryja et aL
+
+Genetics:
+
+Proc. Natl. Acad. Sci. USA 92 (1995)
+
+For expression of the proteins, cultured human embryonic
+kidney cells (HEK-293) were transfected with a mixture of
+expression plasmid (10 ,ug), carrier DNA (pBluescript, 10 ,ug),
+and simian virus 40 tumor antigen expression plasmid (RSVTAg, 1 ,g) by the calcium phosphate method (18).
+Electrical Recordings. At 48-72 hr after transfection, patchclamp recordings were made from excised inside-out membrane patches of transfected HEK-293 cells at room temperature. The patch pipette contained "O-Ca2+" solution (140 mM
+NaCl/5 mM KCl/1 mM Na2-EGTA/10 mM Hepes-NaOH, pH
+7.6). The bath perfusate before establishment of a membrane
+seal was Ringer's solution (140 mM NaCl/5 mM KCl/10 mM
+HepesNaOH/2 mM CaCl2/1 mM MgCl2, pH 7.6). Before
+excision of the patch, the bath perfusate was switched to
+"0-Ca2+" solution. Appropriate concentrations of cGMP were
+added to the bath solution.
+Immunocytochemistry. Transfected cells were harvested
+from a culture dish, centrifuged, and, after resuspension,
+pipetted onto a poly(D-lysine)-coated microscope slide. The
+cells were fixed overnight in 4% (wt/vol) paraformaldehyde in
+100 mM sodium phosphate (pH 7.3) at 4°C and then washed
+in phosphate-buffered saline (PBS). Triton X-100 (0.1%) was
+A. Glu76End
+#6829
+
+3'
+
+Control
+C TAG
+_ T
+
+11-1
+
+~~~
+I
+
+* ~~~.
+*
+\
+
+11-2
+
+Gr~
+
+Sequence Variants Discovered. A total of 94 unrelated
+patients with autosomal dominant RP and 173 unrelated
+patients with autosomal recessive RP were evaluated for
+mutations in the gene encoding the a subunit of the cGMPgated channel. The entire coding sequence and a variable
+amount of intron sequence flanking the exons were screened.
+Among the patients with dominant RP were 16 known to have
+pathogenic mutations in the rhodopsin or peripherin/RDS
+
+Control
+
+3'
+
+CTAGCTAG
+A
+
+I
+
+Tyvr78
+
+A
+
+-
+
+A
+
+G
+
+A >Lys 141
+
+9
+;
+
+GfTZ>End 76
+
+4A-&
+
+aC
+
+e
+
+|
+intron 4
+
+Lys/
+GA/T End 139
+
+>Glu 138
+~~~~~~~~A
+G
+:A
+>Glu 137
+
+i
+
+;l,
+
+\ST
+
+.
+
+|
+
+-
+
+>
+
+\T
+
+IA
+
+A
+
+5
+
+C. Ser316Phe
+#B11 62
+Control
+C T AG
+
+11-2
+C T AG
+
+Ser 140
+
+G
+
+Gu
+
+a4s *
+
+>Asp 142
+
+C
+
+C_
+
+-
+
+T
+
+G"
+
+>Gln 77
+c~~~~~~~~~
+~
+G~~~~~~
+
+A
+~
+
+~
+
+...
+
+RESULTS
+
+B. Lysl39End
+#7067
+
+T >Leu 79
+
+CTAG
+
+present in all incubation and wash buffers. The cells were
+incubated overnight with the monoclonal antibody PMc 2G1 1
+(19) (1:50 dilution in PBS) at 4°C. After two washes in PBS, the
+cells were incubated with the secondary antibody (fluoresceinconjugated goat anti-mouse immunoglobulin, Cappel, 1:50
+dilution) in PBS for 2 hr at room temperature, then washed,
+and sealed with coverslips. The cells were viewed on a confocal
+laser scanning microscope at 1-,um-thick optical sections. The
+gain and blackness levels were set so that in each optical
+section, white in the pseudo-color image corresponded to the
+maximum signal intensity.
+
+>Lys 136
+
+1
+
+D. Arg654 (1 -bp del)
+3'
+A
+
+>Lys 319
+> Ser 318
+
+A
+A
+
+T
+C
+
+T
+
+Control
+
+>Lys 6;57
+C >/ Thr 6;5
+A
+
+IC>
+
+FIG. 1. Sequences of mutations
+in the gene encoding the a subunit
+of the channel protein and their
+cosegregation with recessive RP.
+(A-D) Results of directly sequencing PCR-amplified DNA from patients with the mutations Glu76End,
+Lysl39End, Ser316Phe, and Arg654
+(1-bp del), respectively. In A-D, the
+sequence from an individual without the respective mutation is also
+shown as a normal control. (C) The
+
+T >Leu 355 >Stop
+Te
+Av
+G
+Arg 6 549 Asp
+
+A
+
+T
+A
+
+fie 317
+
+T
+
+Ser/
+
+C/T
+
+memutant
+
+A
+A
+
+I
+
+CTAGCTAG
+
+>
+
+T
+
+wild typi
+
+3,
+
+#6162
+11-2
+
+>Phe
+
+e
+
+316
+1-bp
+
+T
+del
+
+A
+
+>Tyr 315
+Phe 314
+
+>T Val313
+
+A
+A,
+
+Gln
+
+A
+
+Lys 6
+
+>Gin
+;52> Lys
+T >Leu 6;51 >Leu
+C
+6
+
+;53
+
+5'
+
+1
+
+2
+
+1
+
+1
+
+2
+
+ID/ +
+B/+
+
+11
+
+11
+
+J ,
+D/1
+
+1/ B/C
+
+1
+
+2
+
+a
+del/+
+
+C/ +
+
+/tB3
+
+11
+
+dCldel
+
+2
+
+C/±+
+
+III
+
+D/+ D/+
+
+B/C
+
+#6829
+
+1
+
+A/E
+
+B/C
+
+E/F
+
+Ser316Phe
+
+appears
+
+monoallelic because individual II-2
+has a deletion of the other allele.
+(E-H) Transmission of these alleles
+in the families that segregate them.
+The alleles are designated as follows:
+
+A, Glu76End; B, Lysl39End; C,
+
+2
+
+C/del*\
+
+mutation
+
+2
+
+C/+
+
+D/D
+1
+
+H.
+
+G. #B1 62
+
+F. #7067
+
+E. #6162
+
+Ser316Phe; D, Arg654 (1-bp del);
+del, deletion of most or all of the
+/A/F A/E
+
+transcriptional unit; E, Asp at codon
+114; F, Asn at codon 114. In family
+6162 (E), members I-1 and I-2 are
+first cousins. An arrow marks the
+proband in each pedigree.
+
+Genetics:
+
+Dryja et aL
+
+Table 1. Allele frequencies of nonpathogenic variants
+No. of respective alleles
+Autosomal
+Autosomal
+Normal
+dominant
+recessive
+Variation
+RP
+RP
+controls
+ND
+Arg28Gln (CGA/CAA)
+185/3
+339/7
+-29 bp exon 4 (A/T)
+ND
+149/43
+126/40
+-26 bp exon 6 (C/T)
+147/45
+150/38
+277/69
+
+Aspll4Asn (GAT/AAT)*
+167/25
+155/33
+Glu-100 (GAA/GAG)*
+186/6
+184/4
+Intron 8 poly(A) repeat
+ND
+ND
+Thr-469 (ACA/ACG)
+ND
+188/0
+ND
+ND
+Phe-540 (TTC/TTT)
+ND, allele frequency not determined.
+*Published sequence is the less common allele (18).
+
+308/38
+339/7
+ND
+
+345/1
+329/17
+
+genes, and among the patients with recessive RP were 6 known
+to have pathogenic mutations in the rhodopsin, ROM1, RDS,
+or the rod f3-phosphodiesterase genes. We identified two
+categories of deviations from the published sequence (13). The
+first group of anomalies were deemed polymorphisms or rare
+variants unrelated to disease because (i) they were predicted
+not to alter the sequence of the encoded protein, (ii) they did
+not cosegregate with RP in families carrying them, or (iii) they
+were found with approximately equal frequency among patients with dominant disease, recessive disease, or no disease
+(i.e., unaffected individuals who served as controls). In this
+category of presumably nonpathogenic sequence variations
+were three silent changes in the coding region (affecting
+codons Glu-100, Thr-469, and Phe-540), two missense changes
+(Arg28Gln and Aspll4Asn), two single-base variations in
+introns (A vs. T 29 bp upstream of exon 4 and C vs. T 26 bp
+upstream of exon 6), and a variation in the length of a poly(A)
+repeat in intron 8 (see Table 1 for allele frequencies).
+The second group of anomalies all altered the sequence or
+expression of the encoded protein and were ultimately interpreted as pathogenic mutations. Of the five mutations in this
+group, three clearly were null alleles: two nonsense mutations
+occurring early in the reading frame (Glu76End and
+Lysl39End, Fig. 1 A and B) and a deletion of most or all of the
+transcriptional unit that was indicated by the reduced intensity
+of hybridizing bands by Southern blot analysis (data not
+illustrated). Although the remaining two mutations altered the
+sequence of the encoded protein, it was not obvious from
+inspection whether they would interfere with the protein's
+function. These were a missense mutation (Ser3l6Phe, Fig.
+1C) in the fifth putative transmembrane domain and a frameshift mutation [Arg654(1-bp del), Fig. ID] near the end of the
+reading frame that leads to the alteration of aa 654 and
+truncation of the C-terminal 32 aa residues.
+Cosegregation Analysis. Four families with autosomal recessive RP each segregated one or two of the five mutations.
+In three of the families, the affected individuals were either
+homozygous for a mutation [Arg 654(1-bp del) in family 6162,
+Fig. 1E] or were compound heterozygotes (Lys139End and
+Ser316Phe in family 7067, Fig. iF; Ser316Phe and gene
+deletion in family B162, Fig. 1G). Unaffected relatives either
+had no mutation or were heterozygote carriers for only one
+mutation. Based on the cosegregation of these mutations with
+the disease and the results from the expression of the
+Ser316Phe and Arg654(1-bp del) mutations in vitro (see below), we concluded that these mutations are the cause of RP
+in these three families.
+In the fourth family with recessive RP (family 6829, Fig. lH),
+the nonsense mutation Glu76End was present heterozygously
+in the two affected sisters and in their unaffected father. No
+mutation was detected in the maternally derived allele in the
+two affected sisters. In fact, analysis with the polymorphism
+
+s@
+
+Proc. Natl. Acad. Sci. USA 92 (1995)
+
+10179
+
+Aspll4Asn showed that they received different alleles at this
+locus from their mother (Fig. 1H). Because of the absence of
+a pathogenic mutation in the maternally derived alleles in
+these two sisters, it is possible that there is a pathogenic
+mutation in a gene encoding another subunit of the channel
+protein or some other protein that interacts with the a subunit
+and that the combination of the two defects is the cause of RP.
+This explanation would be reminiscent of the digenic inheritance that has been previously discovered among some families
+with RP in which affected members are double heterozygotes
+for mutations in the unlinked peripherin/RDS and ROMI
+genes (6). An alternative possibility is that this mutation is not
+the cause of RP in this family.
+One individual with autosomal dominant RP carried the
+Ser316Phe mutation heterozygously. Five available affected
+members of the corresponding family (6003) had been previously found to carry heterozygously the rhodopsin missense
+mutation Pro347Leu (20), whereas the channel protein mutation was present only in two affected siblings and their
+unaffected mother. There was no clear difference in phenotype
+between the relatives who carried only the rhodopsin mutation
+
+A.Wild Type
+
+1.0.
+
+control
+
+control
+
+0
+
+0
+
+_
+
+E
+
+0.42
+
+j4 pA
+100
+
+10
+
+30 ms
+
+1600
+
+[cGMP] (gM
+
+B. Ser3l 6Phe
+
+la2
+
+0.6
+
+~~~~~~0
+z 0.2
+
+L-
+
+-
+
+0.8
+
+1.0
+T 0.8
+
+I
+I
+
+0'.6
+a
+
+E
+
+0.42
+
+II
+
+z0.2
+
+-J4 pA
+
+30 ms
+
+100
+
+1
+
+10
+
+100
+
+1000
+
+[cGMPJ (gM)
+
+C. Arg654(1 -bp del)
+
+ooo
+
+10
+
+1.0.
+E0
+-
+
+0.8.
+0.6.
+
+IL
+
+,N
+
+E
+
+0.4.
+
+z 0.2.
+4 pA
+
+30 ms
+
+1
+
+[cGMP] W
+FIG. 2. Electrophysiological data from excised patches of plasma
+membrane from HEK-293 cells transfected with cDNAs encoding the
+wild-type channel protein and the Ser316Phe and Arg654(1-bp del)
+mutants. (Left) Sample electrical records from responsive patches in
+the absence and presence of cGMP for the three cases. cGMP
+concentration was 10 ,LM in A, 10 ,uM in B, and 60 ,uM in C. Patches
+in A and B had more than one channel, while patch in C had a single
+channel. Membrane potential was held at +60 mV. (Right) Doseresponse relation between normalized mean current and cGMP
+concentration for the three channel proteins. Averaged data are shown
+for the wild type, and individual experiments are shown for the
+mutants. Curves are least-squares fits to the data based on the Hill
+equation, j = [cG]n/([cG]n + K"112), where j is normalized current,
+[cG] is cGMP concentration, K112 is the half-activating cGMP concentration, and n is the Hill coefficient. K1/2 and n values, respectively,
+are 55 ,uM and 2.3 inA; 93 ,lM and 1.8 (-), 88 piM and 1.5 (A), and
+157 ,uM and 1.9 (-) in B, and 55 ,uM and 1.7 in C. The dashed curves
+in B and C are identical to the solid curve in A.
+
+10180
+
+Genetics:
+
+Dryja et al.
+
+and the siblings who carried both the rhodopsin and the
+channel protein mutations. We concluded that the rhodopsin
+mutation was the cause of the siblings' retinitis pigmentosa and
+that in addition they carried the recessive channel protein
+mutation Ser316Phe by chance and without obvious effect.
+Expression of the Ser316Phe and Arg654(1-bp del) Alleles
+in Vitro. To check for any functional defects in the Ser316Phe
+and Arg654(1-bp del) mutant proteins that might support their
+role in RP, we introduced these mutations into a rod channel
+cDNA sequence and transiently expressed the mutant proteins
+in cultured HEK-293 cells. Inside-out patches of plasma
+membrane were excised from transfected cells and tested for
+sensitivity to bath-applied cGMP. With either mutant, the
+frequency of detecting functional cGMP-activated channels
+was extremely low. With the Ser316Phe point mutation, only
+3 out of a total of 85 patches tested responded to cGMP. Two
+of these responsive patches apparently had a single cGMPgated channel, while the third had perhaps 7 channels, as
+judged from the size of the macroscopic current at a saturating
+cGMP concentration. In parallel transfections with the wildtype cDNA, 15 out of 28 tested patches were responsive to
+cGMP; the induced current was also generally much larger,
+indicating the presence of a much greater number of channels
+(between 8 and 470). With the Arg654(1-bp del) mutation,
+only 1 out of 83 patches responded to cGMP, and it again had
+a single channel; in contrast, 17 out of 37 patches in parallel
+experiments with the wild-type channel responded to cGMP
+with much larger currents (equivalent to between 13 and 170
+channels per patch). Despite the low frequency of detected
+mutant channels in the plasma membrane, these channels
+nonetheless did not show significant deviations from the
+normal channels in either the open-channel current or the
+dependence on cGMP concentration. In Fig. 2 Left, singlechannel openings of the wild-type and the two mutant channels
+are compared. In all three cases, the single-channel current at
++60 mV was -1.8 pA. The open times also appeared to be
+comparable, though this parameter has not been examined
+closely. In Fig. 2 Right, the dose-response relations between
+current activation and cGMP concentration are plotted. There
+is good agreement in this relation between wild-type channel
+and the Arg654(1-bp del) mutant. The deviation in this
+relation between wild-type and the Ser316Phe mutant also
+may not be significant, because the sample size for the mutant
+is too small; K112 values for the wild-type channel have been
+observed to be as large as 100 ,uM (10, 13). The possibility that
+the cGMP-gated channels on the plasma membrane of cells
+transfected with the mutant cDNAs represented endogenous
+
+Proc. Natl. Acad. Sci. USA 92 (1995)
+Table 2. Summary of immunofluorescence experiments
+Wild
+Arg654
+Ser316Phe (1-bp del)
+type
+2
+3
+2
+No. of transfections
+200
+300
+200
+Total no. of cells examined
+14 (7)
+27 (9)
+152 (76)
+No. of cells with staining
+only of cell
+circumference
+0
+1 (0.5)
+215 (72)
+No. of cells with staining
+only of cell interior
+48 (24)
+185 (92.5)
+58 (19)
+No. of cells with staining of
+both circumference and
+cell interior*
+Values in parentheses are percents.
+*In this category, the cells expressing the wild-type sequence generally
+showed stronger staining of the circumference than the cell interior,
+whereas cells expressing either mutant sequence showed stronger
+staining of the cell interior.
+
+channels on HEK-293 cells seems unlikely because previous
+work using mock-transfected cells (18) or cells transfected with
+the channel 3-subunit cDNA alone (10) has not detected these
+open-channel events.
+To examine whether the paucity of expressed mutant channels on the plasma membrane of HEK-293 cells is due to poor
+expression of the proteins or their failure to reach the surface
+membrane, we stained the transfected cells with the monoclonal antibody PMc 2G11 (19), which recognizes an epitope
+on the C-terminal segment; this epitope is still present in the
+Ser316Phe and Arg654(1-bp del) proteins. Confocal microscopic images of the stained cells clearly show the wild-type
+protein located almost exclusively on the surface membrane
+of the HEK-293 cells (Fig. 3A), whereas the mutant proteins
+appear to be predominantly trapped inside the cell (Fig. 3 B
+and C). Collected data leading to a similar conclusion are
+presented in Table 2. Mock-transfected cells were also
+examined, and they did not show any staining (data not
+shown). Thus, the mutant proteins were expressed, and the
+rare presence of functional channels as assayed electrophysiologically appeared to be due to their failure to reach the
+plasma membrane.
+
+DISCUSSION
+We have presented evidence that mutations in the gene
+encoding the a subunit of the cGMP-gated channel protein are
+
+FIG. 3. Confocal images of immunofluorescence staining from the expressed wild-type and mutant channels in HEK-293 cells, with the antibody
+PMc 2G11. In each case, the optical section is horizontal and is roughly through the middle of the stained cell, with the yellow/white color indicating
+the location of the protein. (Bars: 10 glm.) (A) Wild type. (B) Ser316Phe mutant. (C) Arg654(1-bp del) mutant.
+
+Genetics:
+Extracellular
+
+Dryja et aL
+
+Proc. Natl. Acad. Sci. USA 92 (1995)
+
+10181
+
+tions). The nonailelic heterogeneity in RP is highlighted by the
+recognition that '80% of cases are still without an identified
+cause. Since three of the six identified genes code for proteins
+in the phototransduction cascade, it is likely that genes encoding other members of this pathway will be found to be the
+cause of some of the remaining cases.
+
+Pore
+
+We thank L. Hahn, J. Li, J. Morrow, and J. Quinn for technical
+assistance; Dr. J. Nathans for providing us with probes and intron
+sequences; Dr. R. Molday for the gift of the antibody PMc 2G11; and
+M. J. Delannoy for help with confocal microscopy. This work was
+supported by grants from the National Institutes of Health (EY08683,
+EY06837, and EY00169) and from the Foundation Fighting Blindness,
+Baltimore. K.-W.Y. is an Investigator of the Howard Hughes Medical
+Institute.
+Intracellular
+
+-bp
+Arg654(1
+
+del)
+
+COOH
+
+FIG. 4. Diagram showing the putative folding pattern of the
+channel a subunit in the membrane (11). The locations of the pore and
+the cGMP-binding domain are indicated. Arrows point to the first
+residue altered by four of the mutations described in this paper. The
+fifth mutation is a deletion of the entire gene (not illustrated).
+
+of autosomal recessive RP. Three of the mutant alleles
+(Glu76End, Lysl39End, and a deletion of the gene) are null
+either because they would encode a protein without the
+transmembrane domains and the pore forming region (Fig. 4)
+or because they would encode no protein at all. When expressed in vitro, the remaining two alleles [Ser316Phe and
+Arg654(1-bp del)] encoded channels that, while functional,
+mostly failed to reach the plasma membrane. Based on these
+observations, it is likely that the pathogenesis of photoreceptor
+degeneration due to these mutations is a consequence of the
+paucity or lack of cGMP-gated channels on the plasma membrane of the rod outer segments. An alternative explanation,
+at least for the Ser316Phe and Arg654(1-bp del) mutant
+proteins, would be that these mutant proteins cause disease by
+accumulating inside the rod inner segment and by interfering
+with protein processing or the general metabolism of the
+photoreceptors, as thought to be the case for some rhodopsin
+mutants causing autosomal dominant RP (21, 22). However,
+this latter explanation does not seem likely in view of the
+recessive nature of these channel mutations. The molecular
+basis for the intracellular retention of the Ser316Phe and
+Arg654(1-bp del) mutant proteins remains to be identified.
+In normal rod photoreceptors, wild-type channels close in
+the light due to a reduction in cytoplasmic cGMP. In patients
+with RP due to these recessive null mutations, the rod photoreceptors would functionally mimic wild-type photoreceptors exposed to constant bright light because there would be
+few or no open cGMP-gated channels. It remains undetermined whether this predicted perturbation in the physiology of
+photoreceptors is actually the cause of their degeneration.
+Mutations associated with the a subunit of the cGMP
+channel were found to be responsible for only 3 or 4 out of 173
+unrelated cases of recessive RP and none of 94 cases of
+dominant RP. Since about half of all cases of RP are due to
+autosomal recessive mutations, the gene encoding the a subunit of the channel protein accounts for only -1% of cases of
+this disease. If one includes both dominant and recessive
+mutations at the six RP loci so far identified, one locus
+(rhodopsin) accounts for -10% of all cases (20) and the
+remaining five loci together (peripherin/RDS, ROMI, the
+subunit of cGMP-phosphodiesterase, myosin VIIA, and the a
+subunit of the cGMP-gated channel) account for another
+-10% of cases (refs. 3, 6, and 23 and unpublished observaa cause
+
+1. Berson, E. L., Rosner, B., Sandberg, M. A., Hayes, K. C., Nicholson, B. W., Weigel-DiFranco, C. & Willett, W. (1993) Arch.
+Ophthalmol. 111, 761-772.
+2. Dryja, T. P., McGee, T. L., Reichel, E., Hahn, L. B., Cowley,
+G. S., Yandell, D. W., Sandberg, M. A. & Berson, E. L. (1990)
+Nature (London) 343, 364-366.
+3. McLaughlin, M. E., Ehrhart, T. L., Berson, E. L. & Dryja, T. P.
+(1995) Proc. Natl. Acad. Sci. USA 92, 3249-3253.
+4. Farrar, G. J., Kenna, P., Jordan, S. A., Rajendra, K S.,
+Humphries, M. M., Sharp, E. M., Sheils, D. M. & Humphries, P.
+(1991) Nature (London) 354, 478-480.
+5. Kajiwara, K, Hahn, L. B., Mukai, S., Travis, G. H., Berson, E. L.
+& Dryja, T. P. (1991) Nature (London) 354, 480-483.
+6. Kajiwara, K, Berson, E. L. & Dryja, T. P. (1994) Science 264,
+1604-1608.
+7. Weil, D., Blanchard, S., Kaplan, J., Guilford, P., Gibson, F., et al.
+
+(1995) Nature (London) 374, 60-61.
+8. Yau, K.-W. (1994) Invest. Ophthalmol. Visual Sci. 35, 9-32.
+9. Kaupp, U. B., Niidome, T., Tanabe, T., Terada, S., Bonigk, W.,
+Stuhmer, W., Cook, N. J., Kangawa, K., Matsuo, K., Hirose, T.,
+Miyata, T. & Numa, S. (1989) Nature (London) 342, 762-766.
+10. Chen, T.-Y., Peng, Y.-W., Dhallan, R. S., Ahamed, B., Reed,
+R. R. & Yau, K-W. (1993) Nature (London) 362, 764-767.
+11. Yau, K-W. & Chen, T.-Y. (1995) in Handbook of Receptors and
+Channels, ed. North, R. A. (CRC, Boca Raton, FL), pp. 307-335.
+12. Pittler, S. J., Lee, A. K., Altherr, M. R., Howard, T. A., Seldin,
+M. F., Hurwitz, R. L., Wasmuth, J. J. & Baehr, W. (1992) J. Biol.
+Chem. 267, 6257-6262.
+13. Dhallan, R. S., Macke, J. P., Eddy, R. L., Shows, T. B., Reed,
+R. R., Yau, K.-W. & Nathans, J. (1992) J. Neurosci. 12, 32483256.
+14. Cotran, P. R., Ringens, P. J., Crabb, J. W., Berson, E. L. & Dryja,
+T. P. (1990) Exp. Eye Res. 51, 15-19.
+15. Orita, M., Iwahana, H., Kanazawa, H., Hayashi, K. & Sekiya, T.
+(1989) Proc. Natl. Acad. Sci. USA 86, 2766-2770.
+16. Yandell, D. W. & Dryja, T. P. (1989) in Cold Spring Harbor
+Symposium Series: Cancer Cells 7-Molecular Diagnostics of Human Cancer, eds. Furth, M. & Greaves, M. (Cold Spring Harbor
+Lab. Press, Plainview, NY), pp. 223-227.
+17. Gorman, C. M., Gies, D. R. & McCray, G. (1990) DNA Protein
+Eng. Technol. 2, 3-10.
+18. Dhallan, R. S., Yau, K-W., Schrader, K A. & Reed, R. R. (1990)
+Nature (London) 347, 184-187.
+19. Molday, R. S., Molday, L. L., Dose, A., Clark-Lewis, I., Illing, M.,
+Cook, N. J., Eismann, E. & Kaupp, U. B. (1991) J. Biol. Chem.
+266, 21917-21922.
+20. Vaithinathan, R., Berson, E. L. & Dryja, T. P. (1994) Genomics
+21, 461-463.
+21. Sung, C.-H., Schneider, B. G., Agarwal, N., Papermaster, D. S. &
+Nathans, J. (1991) Proc. Natl. Acad. Sci. USA 88, 8840-8844.
+22. Colley, N. J., Cassill, J. A., Baker, E. K & Zuker, C. S. (1995)
+Proc. Natl. Acad. Sci. USA 92, 3070-3074.
+23. Bascom, R. A., Liu, L., Humphries, P., Fishman, G. A., Murray,
+J. C. & McInnes, R. R. (1993) Hum. Mol. Genet. 2, 1975-1977.
+
+

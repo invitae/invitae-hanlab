@@ -1,0 +1,1193 @@
+Com
+And
+Insensitivity
+to Deletion of Exon C of the
+Androgen Receptor Gene Highlights
+the Functional Importance. of the
+Second Zinc Finger of the Androgen
+Receptor in Vivo
+
+Charmian A. Quigley*, Bronwen A. J. Evans, Jorge A. Simental,
+Keith B. Marschke, Madhabananda Sar, Dennis B. Lubahnt,
+Peter Davies, leuan A. Hughes:f:, Elizabeth M. Wilson, and
+Frank S. French
+
+Laboratories for Reproductive Biology
+Departments of Pediatrics (C.A.Q., J.A.S., K.B.M., F.S.F.)
+Cell Biology and Anatomy (M.S.)
+Pathology (D.B.L.) and
+Biochemistry (E.M.W.)
+University of North Carolina at Chapel Hill
+Chapel Hill, North Carolina 27599-7500
+Department of Child Health (B.A.J.E., I.A.H.)
+and Tenovus Institute for Cancer Research (P.O.)
+University of Wales College of Medicine
+Cardiff, Wales
+
+Androgen-dependent gene transcription is mediated
+by the androgen receptor (AR) through interaction
+of its central zinc finger region with specific DNA
+sequences on target genes. Failure of this receptormediated gene transcription results in end organ
+resistance to androgens-the androgen insensitivity
+syndromes. In a pair of siblings with complete androgen insensitivity who had supranormal levels of
+androgen binding in genital skin fibroblasts, polymerase chain reaction and Southern blot analysis of
+the androgen receptor gene confirmed by polymerase chain reaction and sequence analysis of AR
+cDNA, revealed an in-frame deletion of exon C encoding the second zinc finger of the receptor. The
+mutant receptor in cultured genital skin fibroblasts
+had normal androgen binding affinity and was local- ·
+ized in the nucleus but had markedly reduced DNAbinding affinity. When recreated in vitro and tested
+in a cotransfection assay system the mutant receptor failed to activate transcription of an androgenresponsive reporter gene. This naturally occurring
+mutation highlights the functional dependence of the
+AR upon its second zinc finger in vivo and explains
+the complete insensitivity to androgen manifest by
+the affected individuals despite increased androgen
+0888-8809/92/1103-1112$03.00/0
+Molecular Endocrinology
+Copyright © 1992 by The Endocrine Society
+
+binding. The elevated AR levels in the subjects'
+genital skin fibroblasts further suggests a possible
+role for the second zinc finger in autoregulation of
+receptor levels in vivo. (Molecular Endocrinology 6:
+
+1103-1112, 1992)
+
+INTRODUCTION
+
+Human male sexual differentiation and development are
+critically dependent upon androgen-driven activation of
+maleness-determining genes of unknown identity. Failure of normal embryonic induction of such genes in
+karyotypically 46,XY individuals can result either from
+inadequate androgen levels or from inadequate response to normal androgen levels and leads to defective fetal masculinization. The major cause of impaired
+response to androgen is defects of the androgen receptor (AR)-the androgen insensitivity syndromes (AIS).
+This heterogeneous group of receptor abnormalities
+produces varying degrees of AR dysfunction accompanied by a constellation of phenotypic abnormalities
+ranging from mild hypospadias through significant genital ambiguity to complete failure of masculinization
+i resulting in a female external phenotype.
+Quantitative and qualitative abnormalities of androgen binding in genital skin fibroblasts have implicated
+
+1103
+
+MOL ENDO. 1992
+1104
+
+the AR in the pathogenesis of AIS for many years (13). AIS has traditionally been classified as receptornegative or receptor-positive depending upon the absence or presence of specific high affinity androgen
+binding in cultured genital skin fibroblasts (4-7). Up to
+35% of individuals with complete AIS have normal
+androgen binding capacity in genital skin fibroblasts (48) often associated with qualitative binding abnormalities such as reduced affinity (5, 7), rapid ligand dissociation (7, 9), thermolability (7, 9, 10), and altered binding specificity (7).
+The AR is comprised of distinct functional domains
+(11) encoded by an X-chromosomal gene containing
+eight exons [ designated A-H (12) or 1-8 (13)): the most
+5' exon (exon A or 1) encodes the N-terminal transcription-regulating domain of the receptor (14); exons B
+and C (2 and 3) encode the central DNA-binding zinc
+finger domain (12); exon D (or 4) encodes the hinge
+region that contains a signal for nuclear translocation
+of the receptor (14); the 3' portion of exon D and exons
+E-H (5 to 8) encode the androgen binding domain (12).
+Examination of the AR gene in AIS-affected subjects
+has revealed that underlying the wide.. spectrum of
+androgen-binding abnormalities is an equal diversity of
+molecwlar defects in exons encoding the androgenbinding domain (12, 15-22). The majority are single
+base pair mutations that alter an amino acid (12, 1619), introduce a premature termination codon (20, 21 ),
+or cause aberrant mRNA splicing (22).
+In a small number of cases of AIS (4, 6) androgen
+binding in cultured genital skin fibroblasts is apparently
+qualitatively as well as quantitatively normal, indicating
+an abnormality in some facet of AR target gene activation distal to androgen binding. The lack of androgen
+binding abnormality in these cases prompted their designation as postreceptor defects (9, 23); however, the
+discovery of point mutations in exons B and C (24-26),
+encoding the receptor zinc fingers, indicates that this
+form of AIS can result from abnormalities in the DNA
+binding domain. To further examine the basis for androgen resistance in the presence of normal androgen
+binding, we studied a pair of siblings with complete AIS
+who had supranormal levels of high affinity androgen
+binding in cultured genital skin fibroblasts (27). Analysis
+of the AR gene defect in these subjects provides an
+explanation for the functional failure of the AR in the
+presence of elevated androgen binding; it highlights the
+importance of the second zinc finger of the AR in
+mediating receptor-DNA-binding, and thus androgendependent transcriptional activation in vivo, and suggests a possible role for the second zinc finger in
+autoregulation of receptor levels.
+
+RESULTS
+Deletion of Exon C of the AR Gene in AIS-Affected
+Siblings
+
+Elevated levels of qualitatively normal androgen binding
+were demonstrated in previous studies of cultured gen-
+
+Vol 6 No. 7
+
+ital skin fibroblasts of the two 46,XY siblings with
+complete AIS who were the subjects of this study (27)
+. (see Materials and Methods). Thus we postulated an
+abnormality outside the receptor androgen-binding domain. Analysis of genomic DNA of the two affected
+siblings revealed a deletion of exon C of the AR gene,
+encoding the second zinc finger of the receptor DNAbinding domain. This exon failed to amplify from genomic DNA of the subjects after 30 cycles of polymerase
+chain reaction (PCR) using oligonucleotide primers
+flanking exon C (Fig. 1A, lanes 1-4). Relatives and
+unrelated control individuals demonstrated the expected PCR product of 413 base pairs (bp). Amplification of exons A, B, and D-H resulted in the expected
+sized products in the two AIS subjects and in relatives
+
+/
+
+/
+
+I
+•
+2
+
+bp
+
+3
+
+4
+
+®
+
+c5 C)
+5
+
+6
+
+Control
+
+D
+8
+
+7
+
+510 396 -
+
+Polymerase Chain Reaction
+
+Controls
+
+OD
+kb
+6.56-
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+4.36-
+
+[fil
+
+Southern Blot - Bam H I Digest
+
+Fig. 1. Evidence of Deletion of Exon C of the Androgen
+Receptdr Gene
+11111, 4'6,XY AIS-affected; D, 46,XY normal male; O 46,XX
+female; 0, obligate carrier mother. A, PCR amplification of
+genomic DNA using intron-located primers specific for amplification of exon C. Products of the PCR were electrophoresed
+through 1.4% agarose and stained with ethidium bromide.
+Lanes 1-4 are duplicate PCR reactions for each of the affected
+children, showing absence of the expected 413-bp PCR product. This product is present in lanes 5 and 6 (46,XX siblings),
+7 (carrier mother), and 8 (unrelated control). B, Autoradiograph
+of Southern blot of BamHl-digested genomic DNA (10 µg),
+hybridized ,with 32 P-labeled exon C-specific probe. The ex1
+pected ban d at about 4.4 kb is absent from lanes 1 and 2 (the
+affected children) but present in lanes 3:..7 (siblings, mother,
+and unrelated controls).
+·
+
+Functional Defects of Second Zinc Finger-Deleted AR
+
+and controls (data not shown). Autoradiographs of
+Southern blots of BamHl-digested genomic DNA hybridized with a 32 P-labeled probe encompassing exon
+C showed a band at about 4.4 kilobases (kb) in digests
+of genomic DNA from relatives and controls. This band
+was absent from digests of DNA from the two affected
+children (Fig. 1 B, lanes 1 and 2). Similarly, the expected
+9.4-kb band produced by hybridization of fcoRl-digested genomic DNA with the exon C probe was absent
+from the genomic digests of both affected children (data
+not shown). When blots were rehybridized with a factor
+IX cDNA probe (28), all subjects displayed the expected
+bands at 25 kb on BamHI digestion and 12.5 kb on
+fcoRI digestion, indicating equivalence of DNA digestion, loading, and transfer (not shown).
+Complementary DNA produced by reverse transcription of poly(Aj+ RNA obtained from genital skin fibroblasts of one of the affected siblings and an unrelated
+control was amplified by PCR using primers with sequence from exons B and E (Fig. 2). Amplification of
+control cDNA resulted in a PCR product of the predicted
+size of about 660 bp. In contrast, a product of about
+540 bp resulted from amplification of the subject's
+cDNA. The size difference between control and subject
+PCR product reflected the absence of the 117-bp exon
+C (Fig. 2). The same size difference between subject
+and control PCR product was seen when cDNA was ·
+amplified with primers from exons A and G (not shown).
+Dideoxy sequencing of the subject's amplified cDNA
+demonstrated direct continuity of sequence from exon
+B to exon D, indicating that correct splicing had occurred between these exons with no disturbance of the
+translational reading frame.
+The Zinc Finger-Deficient Receptor Localizes in the
+Nucleus But Has Reduced DNA Binding and is
+Transcriptionally Inactive
+
+Deletion of the second zinc finger of the AR predicts a
+number of possible consequences for receptor function.
+Subcellular localization of receptor could potentially be
+disturbed either by the structural alteration of the receptor or by a change in its DNA-binding characteristics.
+However, as demonstrated in Fig. 3, immunoperoxidase staining using the primary immunoglobulin G (lgG)
+fraction of antibody AR 32 [directed to the N-terminal
+region of the AR (29)], demonstrated predominant nuclear localization of AR in both control (30) and subject
+genital skin fibroblasts in the. presence and absence
+(not shown) of 50 nM R 1881.
+Second, it was expected that deletion of the second
+zinc finger would disrupt receptor-DNA binding and
+,consequently target gene transcriptional activation. ARDNA binding was examined by partition sedimentation
+analysis (31-33) of binding of [ 3 H]dihydrotestosterone
+(DHT)-AR complexes to the mouse mammary tumor
+virus-long terminal repeat sequence (MMTV-LTR) that
+contains hormone response element (HRE) nucleotide
+sequences previously shown to be androgen responsive (34). AR extracted from control fibroblasts dem-
+
+1105
+
+SUBJECT
+
+CONTROL
+117 bp
+cDNA
+
+Amplttied
+
+Product
+
+I FI
+
+I I
+
+~~-~
+
+664 bp
+
+547 bp
+
+A
+Control
+
+Subject
+
+Control
+
+Amplttied
+
+I B IC I
+
+Product/
+
+OAAG/GAAA...
+QluQ/ lyLys
+
+D
+
+Subject
+
+IE I
+
+~
+
+...GGAAG /CCCQQ
+GlyA /laArg
+
+IB I
+
+D
+
+IE I
+
+QAAQ/CCCQQ
+QluA/laArg
+
+C
+Fig. 2. PCR and Sequence Analysis of cDNA
+A, PCR was carried out using as template either control
+(left) or subject (right) cDNA. PCR primers designed from
+sequences in exons 8 and E produce a 664-bp product when
+used with control cDNA. A 547-bp product was predicted for
+amplification of subject cDNA (reflecting absence of the 117bp exon C). B, Result of 30 cycles of PCR using 250 ng
+control (left) and subject (right) cDNA. Amplification products
+were electrophoresed through 1.2% agarose and stained with
+ethidium bromide. The expected sized products are seen for
+control (at around 660 bp) and subject (around 540 bp). C,
+Dideoxy sequencing of control (left) and subject (right) PCR
+products cloned into pGEM 3Zf(+). There was direct continuity
+of sequence between exons B and D (bold type) in the
+subject's cDNA, confirming the in-frame deletion of exon C.
+The resulting amino acid sequence in the vicinity of the splice
+junction is shown below the nucleotide sequence for control
+and subject.
+
+onstrated high affinity [ dissociation constant (Kd) = 0 .1
+nM] and low affinity (Kd = 2.7 nM) components of DNA
+binding. Subject AR showed only low affinity DNA
+binding (Kd = 5.0 nM) (Fig. 4).
+Transcriptional activation by the zinc finger-deficient
+AR was tested by transient transfection of the mutant
+AR cDNA recreated in the eucaryotic expression vector
+pCMVhAR (34) using PCR mutagenesis methods (14,
+35). CV1 cells were cotransfected with the reporter
+plasmid pC29GtkCAT (36) that contains two glucocorticoid response elements [shown to be androgen responsive (14)] spaced 29 bp apart and positioned 5' of
+title thymidine kinase promoter and the chloramphenicol
+acetyl transferase (CAT) gene, together with either the
+normal (pCMVhAR)~ or mutant (pCMVhARdelC) AR
+
+MOL ENDO, 1992
+1106
+
+Vol 6 No. 7
+
+CAT activity. In contrast, expression of the second zinc
+finger~deletion mutant under the same conditions failed
+to induce activation of the CAT gene (Fig. 5). Control
+transfection with the parent vector [pCMV5 (37)], without insert, produced no CAT activation. The recreated
+mutant AR expressed in COS 7 cells displayed high
+affinity binding of [3 H]R1881 (Kd = 0.16 nM}, similar to
+that of the normal AR (Kd = 0.18 nM}. Furthermore,
+immunoblots of extracts from COS 7 cells transiently
+expressing the normal or mutant AR demonstrated
+
+A
+
+CONTROL FIBROBLASTS
+
+D
+
+C
+
+SUBJECT FIBROBLASTS
+
+Fig. 3. lmmunocytochemical Localization of AR in Cultured
+Genital Skin Fibroblasts
+Cultured genital skin fibroblasts plated into chamber slides
+were incubated for 24 h in 50 nM R1881, fixed, treated with 2
+µg/ml primary lgG fraction of a polyclonal antibody raised
+against a sequence in the N-terminal region of the AR (AR 32),
+and stained by the avidin-biotin-peroxidase method. Antibodybound AR is dark-staining material concentrated in the nuclei
+of control (A) and subject (C) cells. This staining is abolished
+by incubation with immune lgG preadsorbed with AR peptide
+(Band D).
+
+R1881
+
++
+pCMVhAR
+
++
+pCMVhARdelC
+
+40
+
+1.2 ~ - - - - - - - - - - - - - - - - ~
+05~-~~---~
+
+Control
+
+-----e--
+
+A---------:a.-
+
+Subject _ ,A -
+
+.),,'
+
+a:
+<(
+QJ
+
+C
+
+0
+
+0.8
+
+Q)
+
+u:::
+
+10
+
+---a:
+
+0.6
+
+§
+
+0.4
+
+<(
+'O
+
+15
+
+20
+
+FREE AR (nmol/1)
+
+30
+
+t5:,
+"O
+C
+
+20
+
+"O
+
+0
+
+co
+
+0
+LL
+
+0.2
+
+0.1
+
+0.2
+
+0.3
+
+0.4
+
+0.5
+
+10
+
+0.6
+
+Bound AR (nmol/1)
+Fig. 4. AR Binding to MMTV-LTR Sequence
+Crude nuclear extracts from control and subject fibroblasts
+were incubated with [ 3 H]DHT and [3 H]DHT-AR complexes
+obtained by elution from an affinity matrix. The labeled complexes were incubated with linearized pMSG-CAT, and [3 H]
+AR bound to DNA was separated from unbound [3 H]AR by
+fractionation in 5-20% sucrose gradients. Binding data are
+shown as Scatchard plots (main graph) and saturation curves
+(inset). Vectoral analysis of control data (•) by the method of
+Rosenthal (73) suggests high affinity (A, Kd = 0.1 nM) and low
+affinity (B, Kd = 2.7 nM) components of DNA binding. The
+subject AR shows only low affinity DNA binding (A, dashed
+line, Kd = 5.0 nM).
+
+expression vector. Expression of normal human AR
+cDNA in the presence of 50 nM R1881 (methyltrienolone), a saturating concentration of 1:!ndrogen, produced
+greater than 30-fold androgen-dependent activation of
+
+0
+
+pCMVhAR
+
+pCMVhARdelC
+
+Fig. 5. Transcriptional Activation Function of Zinc FingerDeficient AR Recreated by PCR Mutagenesis
+Normal (pCMVhAR) or exon C-deleted (pCMVhARdelC) AR
+cDNAs c_loned into the pCMV5 expression vector were used
+in cotransfection assays to determine the androgen-dependent
+transcriptional activation function of the expressed ARs. The
+androgen-responsive reporter plasmid pC29GtkCAT was cotransfected into CV1 cells with the AR vector of interest. Top,
+Autoradiograph of a representative TLC plate. Cells were
+incubated in the absence(-) or presence(+) of 50 nM R1881.
+The pCMVhAR vector, containing the normal AR cDNA (lanes
+1 and 2) shows marked androgen-dependent CAT activation,
+while the pCMVhARdelC vector, containing the exon C-deleted
+AR cDNA (lanes 3 and 4) shows no CAT activity. Bottom, Bar
+graph displaying fold induction of CAT activity by AR vectors.
+The norma\ AR (pCMVhAR) induces CAT by 32- ± 6-fold,
+while exon p-deleted AR (pCMVhARdelC)_ shows no induction
+(1.0 ± 0.1 ).: Results represent the mean + so of three experiments.
+'
+'
+
+Functional Defects of Second Zinc Finger-Deleted AR
+
+equivalent levels of receptor expression, indicating that
+the failure of AR-mediated trans-activation was not a
+function of reduced expression of the mutant AR compared with the normal AR (data not shown).
+
+DISCUSSION
+
+Because hormone-binding is the primary event in ARmediated target gene activation, it is not surprising that
+abnormalities of AR androgen binding result in defective
+target gene expression. In keeping with the high frequency of androgen-binding abnormalities in AIS, the
+great majority of cases in which a molecular defect has
+been determined are associated with abnormalities in
+exons encoding the androgen-binding domain of the
+receptor (12, 15-22). Definition of the molecular defect
+in cases of AIS in which all characteristics of androgen
+binding are normal has been more elusive. This report
+illustrates such an abnormality-a defect outside the
+hormone-binding domain that functionally incapacitates
+the receptor.
+The affected siblings described in this report displayed complete androgen resistance despite supranormal concentrations of qualitatively normal androgen
+binding (27) and normal nuclear localization of the AR
+in genital skin fibroblasts. Examination of the AR gene
+and cDNA revealed a deletion of exon C, resulting in
+splicing of exon B to exon D, without disturbance of
+the translational reading frame. The deletion of exon C
+predicts a receptor protein that lacks 39 amino acids
+encompassing the second zinc finger, but retains the
+hinge region and androgen-binding domain; the retention of these regions explains the normal nuclear localization and high affinity androgen binding of this receptor. This mutant receptor is, however, defective in target
+gene activation, evidenced in vivo by the complete
+absence of response to androgen-the total failure of
+masculinization of the karyotypically 46,XY affected
+siblings-and in vitro by the failure of the recreated zinc
+finger-deficient AR to activate transcription of an androgen-responsive reporter gene in cotransfection assays.
+The loss of trans-activating ability of this naturally occurring mutant receptor probably results from severe
+impairment of receptor interaction with HRE nucleotide
+sequences at target genes, as evidenced by the decreased affinity of the mutant AR extracted from genital
+skin fibroblasts for the HAE-containing MMTV-LTR sequence.
+This study highlights the importance of the second
+zinc finger of the AR in target gene activation in vivo
+1 and provides some insight into other functional roles of
+this region of the receptor. Although no similar natural
+deletion has previously been reported, single amino acid
+alterations in the zinc fingers of the AR (24-26) and of
+the vitamin D receptor (38, 39) have been described in
+association with hormone resistance in vivo and diminished transcriptional activation when recreated in vitro.
+Transcriptional activation by the AR and many other
+
+1107
+
+steroid receptors follows a series of coordinated events.
+Hormone binding, receptor activation, and nuclear
+trans.location are followed by interaction of the hormone-receptor complex, apparently as a dimer, with
+specific enhancer-like nucleotide sequences-HREsin the vicinity of target genes to modulate activity of
+target gene promoters (40).
+Both zinc fingers of the DNA-binding domain are
+absolutely required for transcriptional regulation in vitro
+(41, 42). Mutagenesis (41-44) and crystallographic (45)
+studies of other steroid receptors have revealed that
+the two zinc fingers are structurally and functionally
+distinct subdomains. The first finger is responsible for
+recognition of the specific target DNA sequence (4244). The second finger orients the receptor for DNA
+binding (43), stabilizes DNA-protein interaction (42, 43),
+contains a site directly involved in transcription activation (46), and provides the dimerization interface (45).
+Dimerization and DNA binding appear to be intimately
+related processes. Crystallographic analysis of the
+DNA-binding domain of the glucocorticoid receptor (GR)
+has revealed that DNA binding induces dimerization,
+placing the dimer subunits in adjacent major grooves
+on the DNA (45). Other studies in GR, however, have
+shown that dimerization of receptor is the primary
+event, essential for specific high affinity receptor-DNA
+binding (47), and that the GR exists as a dimer even in
+the absence of DNA (48). The progesterone (49) and
+estrogen receptors (50) have also been shown to interact with their HREs as dimers, and the AR presumably
+functions similarly. Although one study (51) has defined
+a region within the steroid-binding domain as critical for
+dimerization, the major determinant of dimerization is
+probably the second zinc finger (47). Thus it is likely
+that the second zinc finger-deficient AR described in
+this report is incapable of dimerization and thus of
+forming the stable high affinity interactions with target
+DNA necessary for transcriptional activation; the absence of high affinity DNA binding demonstrated in this
+mutant receptor is consistent with this speculation.
+In contrast to its critical role in the DNA binding
+essential for transcriptional activation, the second zinc
+finger does not appear to be required for nuclear localization of the receptor; fibroblasts from these AISaffected siblings showed normal nuclear retention of
+3
+[ H]DHT (27) and normal nuclear localization of the AR
+in immunocytochemical studies. Although a hormonedependent nuclear localization signal has been described within the second zinc finger of the progesterone receptor (52), our data from this mutant AR indicate
+that neither nuclear transport nor nuclear retention of
+AR are qualitatively dependent upon sequences within
+or functions of the second zinc finger. This is consistent
+with in vitro data indicating that a major nuclear localization signal in the AR resides in the hinge region
+downstream of the second zinc finger (14) and parallels
+t.he observation in the progesterone receptor and estrogen receptor (52, 53) that the hinge-region signal plays
+the dominant role in mediating, receptor nuclear transport.
+
+MOL ENDO, 1992
+1108
+
+An intriguing feature of this mutant AR is its supranormal concentration in cultured genital skin fibroblasts
+of the affected siblings (27). One possible explanation
+for this finding is failure of autologous down-regulation,
+a normal feature of AR (54, 55) and other steroid
+receptors (56-59) .. Receptor down-regulation is thought
+to be mediated by a decrease in the rate of transcription
+or the half-life of receptor mRNA (55, 57, 59). The
+mechanism involved is unknown, however it may be
+analogous to receptor-mediated inhibition of target
+gene transcription. This has been shown to be a function of the DNA-binding domain in the GR (46, 60) with
+which the AR shares high sequence homology. The
+testicular feminized (Tfm) rat, an animal model of androgen insensitivity in which a single amino acid alteration
+in the androgen-binding domain severely disturbs AR
+function (61), does not show the normal androgendependent down-regulation of AR mRNA seen in the
+wild type (54). Similarly, although we have not quantified
+AR mRNA in this study, the elevated receptor levels
+found in our subjects' genital skin fibroblasts could
+perhaps reflect an inability of the zinc finger-deficient
+receptor to mediate down-regulation of AR mRNA.
+No other natural intragenic exon deletion has been
+described in the AR gene or other steroid receptor
+genes; however, this type of mutation is common in the
+huge X-chromosomal gene encoding the structural
+muscle protein, dystrophin. Deletions that disturb the
+translational reading frame of this gene produce the
+severe Duchenne form of muscular dystrophy, while inframe deletions that presumably result in semifunctional
+internally deleted proteins cause the milder Becker form
+(62). Analysis of deletions in the dystrophin gene has
+revealed that the disruption or maintenance of the
+reading frame by an intragenic exon deletion depends
+upon the nature of the exon-intron borders of the exons
+flanking the deletion: only deletions that juxtapose two
+exons with borders at the same position in the triplet
+will maintain the reading frame. In the AR gene only
+exons C and D are flanked by exons with borders
+which, when spliced, produce a complete triplet (i.e. B/
+Dor C/E). Consequently, deletion of exons other than
+these will produce a frameshift mutation and thus a
+severely truncated protein. In the dystrophin gene the
+deletion breakpoints have been shown to cluster within
+the larger intrans of the gene (63). Analogous to this,
+the potential for deletion of exons C or D of the AR
+gene may be increased by the fact that both are flanked
+by the largest intrans in the gene, approximately 1015 kb each (13; Lubahn, D. B., and J. A. Simental,
+unpublished observations). Because of this large size
+of the intrans flanking exon C, we have not attempted
+to map the deletion breakpoints.
+With the definition of the molecular basis of many AR
+defects, the traditional receptor-positive vs. receptor-·
+negative terminology has become inaccurate. The term
+receptor-negative, which has been liberally applied to
+AIS cases characterized by absence of androgen binding, now accurately applies only to instances in which
+no AR protein is produced-complete deletion of the
+
+Vol 6 No. 7
+
+AR gene (64, 65), or other defects such as premature
+termination codons (13, 20, 21) or aberrant splicing (22)
+. that may disrupt mRNA stability and thus receptor
+protein production. The term postreceptor defect is
+equally unenlightening. Mutations within the DNA binding domain such as described here and elsewhere (2426), although having no effect on androgen binding,
+nonetheless produce a severely dysfunctional receptor.
+Another class of mutations as yet undefined could
+include abnormality of the promoter region of a critical
+AR target gene or dysfunction of some other factor
+specifically required for efficient target gene transcription by the AR. These, if discovered, would represent
+the true postreceptor defects.
+
+MATERIALS AND METHODS
+Subjects
+
+The clinical details of the affected children and their unaffected
+relatives have been previously described (27). The index subject is a phenotypic female with 46,XY karyotype. She presented at 10 days of age with bilateral inguinal herniae, each
+of which contained a testis. There was no clitoromegaly or
+other clinical evidence of androgen effect. One of three older
+sisters was subsequently found to also have a 46,XY karyotype. She entered puberty at 12.8 yr and progressed to full
+feminization but developed no pubic hair. The testes were
+removed at the completion of puberty. The younger child is
+currently prepubertal at 12 yr of age. Both children underwent
+genital skin biopsy for androgen binding studies on cultured
+fibroblasts.
+Previous analysis demonstrated a 2.5-fold elevation of total
+cellular AR concentration in genital skin fibroblasts of these
+children compared with controls. The [3 H]DHT binding affinity,
+thermostability, and dissociation rate of the DHT-receptor
+complex were normal, and the proportion of whole cell [ 3 H]
+DHT binding located in the nuclear fraction was 60% both for
+the subjects' cells and a normal fibroblast strain (27).
+Methods
+Polymerase Chain Reaction Approximately 0.5-1.0 µg genomic DNA extracted from leukocytes of subjects, female relatives, and unrelated controls by standard methods were used
+in each 50- or 100-µI PCR reaction. Twelve sets of oligonucleotide primers 23-29 bp in length were used in PCR to amplify
+the eight exons of the AR gene as previously described (12,
+66). Products of the PCR (285-455 bp in length) were examined by ethidium bromide staining after electrophoresis in 1 .21.4% (wt/vol) agarose gels.
+The exon C-specific probe for Southern analysis was prepared by PCR of exon C using control genomic DNA as
+template. The product, purified by electroelution from an agarose gel slice, was 32 P-labeled using a random prime kit
+(Boehringer Mannheim, Indianapolis, IN).
+
+Genomic DNA (10 µg) of subjects,
+female relatives, and controls was digested separately with
+restriction endonucleases EcoRI and BamHI (BRL, Gaithersburg, MD) for 16 h under reaction conditions specified by the
+manufacturers. DNA was separated on 1% (wt/vol) agarose
+gels and transferred to GeneScreen Plus (NEN, Boston, MA)
+in 0.4 M NaOH buffer. Prehybridization, hybridization, and
+washing of the membranes were as previously described (15).
+The 32 P-la~eled probe was used at 106 cpm/ml solution in
+hybridizations. Membranes were exposed to Kodak XAR-5
+film (East/nan Kodak Co., Rochester, NY) with intensifying
+Southern Blot Analysis
+
+Functional Defects of Second Zinc Finger-Deleted AR
+
+screens at - 70 C for up to 10 days. To control for equivalence
+of DNA digestion, loading, and transfer, the blots were washed
+free of probe according to the manufacturer's specifications
+and rehybridized with a 32 P-labeled Xbal fragment encompassing exon 1 of the factor IX gene (28).
+Analysis of cDNA Genital skin fibroblasts obtained at biopsy
+were grown to confluence in Medium 199 (GIBCO BRL, Gaithersburg, 'MD) supplemented with 10% fetal calf serum (HyClone, Logan, UT), 100 U/ml penicillin, 100 µg/ml streptomycin,
+2.0 mM L-glutamine, and 20 mM HEPES. For total RNA extraction, cells were harvested in guanidine thiocyanate (67) and
+centrifuged through a cesium chloride gradient. Polyadenylated RNA was isolated by chromatography with oligo(dT)
+cellulose (Collaborative Research, Bedford, MA) (68). cDNA
+was produced by reverse transcription from 5 µg poly(Aj+ RNA
+using avian myeloblastosis virus reverse transcriptase (Life
+Sciences, St. Petersburg, FL). PCR was performed on 50 ng
+subject and control cDNA [obtained from a control fibroblast
+cell strain (16)] using primers designed from sequences in
+exons B and E (nucleotides 1991-2028 and 2628-2653,
+respectively) or exons A and G (nucleotides 1844-1869 and
+2847-2870, respectively) (numeration according to Ref. 12).
+The PCR products were electrophoresed through 1 .2% agarose and examined for the 117-bp size difference corresponding to exon C. The amplified cDNA from the latter PCR was
+subsequently purified, cloned into pGEM -3Zf(+) (Promega,
+Madison, WI), and sequenced by the dideoxy chain termination
+method (69) using the exon A and G primers detailed above
+and Sequenase DNA polymerase (United States Biochemical,
+Cleveland, OH).
+Site-Directed Mutagenesis To examine the functional char,
+acteristics of the zinc finger-deficient receptor, the mutation
+was recreated by site-directed mutagenesis using a modification (14) of the PCR technique described by Higuchi (35). The
+AR expression vector pCMVhAR (34) containing the full-length
+human AR cDNA cloned into the eukaryotic vector pCMV5
+(37) was used as the starting DNA in these experiments. A
+pair of complementary mutagenic oligonucleotide primers was
+designed comprising the last 20 bp of 3' -exon B sequence in
+continuity with the initial 18 bp 5' -exon D sequence, and
+containing none of the intervening exon C sequence. Two
+separate primary PCR reactions were performed, each using
+one of the mutagenic primers and an appropriate upstream or
+downstream primer with sequence from exon A or H (the
+external primers). The products of the primary PCR were
+purified, combined, denatured, and annealed and used as
+template in the secondary PCR using the two external primers.
+This produced the large amplified product with the intended
+deletion. This final PCR product and the starting vector,
+pCMVhAR, were digested with Hindlll (BRL) and Csp45 I
+(Promega) and the mutant cDNA fragment cloned back into
+the starting vector to create the exon C-deleted mutant AR
+vector, pCMVhARdelC, for subsequent use in functional studies. The PCR-generated region of this construct-bounded by
+the 5' Hindlll (exon B) and 3' Csp45 I (exon G) cloning siteswas sequenced to exclude PCR errors.
+Transient DNA Transfections and Transcription Activation
+by ARs To examine transcriptional activating ability of the
+mutant AR, 10-cm dishes containing 1.3 x 106 monkey kidney
+CV1 cells (American Type Culture Collection, Rockville, MD)
+were grown in Dulbecco's Modified Essential Medium-High
+Glucose (DMEM-H; GIBCO BRL) supplemented as above
+except that fetal calf serum was at 5%. Cells were transfected
+' with 1 µg of either the normal AR expression vector,
+pCMVhAR, or the exon C deletion mutant AR vector,
+pCMVhARdelC, using the calcium phosphate precipitation
+method (61 ). The reporter plasmid pC29GtkCAT (10 µg) (36),
+containing two glucocorticoid response elements separated
+by 29 bp positioned 5' of the thymidine kinase promoter and
+the CAT gene (70), was cotransfected. Cells were incubated
+for 48 h in medium containing 0.2% serum with or without 50
+nM R1881, harvested, and assayed as previously described
+
+1109
+
+(34) for activity of the CAT enzyme by reaction with o-threo[1,2-14C]chloramphenicol (ICN Biornedicals, Costa Mesa, CA).
+The reaction products were separated by TLC and autoradiographs examined for the presence of the faster migrating
+acetylated products of chloramphenicol. To quantitate the
+stimulation of CAT activity, regions of the TLC plates containing the acetylated and nonacetylated chloramphenicol were
+cut out and counted in scintillation liquid (Scintiverse BO, Fisher
+Scientific, Raleigh, NC) in a liquid scintillation counter. The
+percent acetylated [ 14 C]chloramphenicol was calculated as
+(cpm acetylated + cpm total) x 100, for each reaction. The
+percent acetylated [ 14 C]chloramphenicol in the absence of
+R1881 was defined as baseline for each vector tested. Fold
+induction of CAT activity was calculated as percent acetylated
+in the presence of R1881 + baseline, for each vector. The
+results are given as mean + so for three independent experiments, using three separate clones of the pCMVhARdelC
+construct.
+lmmunoblots and Androgen Binding of Expressed AR For
+analysis of mutant AR protein expression and androgen binding, COS 7 cells (American Type Culture Collection) were
+plated in 10-cm dishes at 1.2 x 106 cells per dish or in 48-well
+culture plates plated at 50,000 cells per well, respectively, and
+grown in DMEM-H with 5% fetal calf serum, antibiotics, and
+15 mM HEPES (pH 7 .2). After 24 h, the cells were transfected
+with 10 µg/dish or 0.5 µg/well normal (pCMVhAR) or mutant
+(pCMVhARdelC) AR expression vector using the diethylaminoethyl-dextran method (71 ). Whole cell androgen binding assays
+over the range 0.05-5.0 nM R1881 and immunoblots using
+antibody AR 52, an antibody to the N-terminal region of AR,
+were performed as previously described (34, 61).
+lmmunocytochemical Localization of the AR Cultured genital skin fibroblasts from one of the affected siblings and a
+normal foreskin fibroblast cell strain (30) were plated into twochamber glass slides in standard supplemented medium as
+above. After 48 h the medium was changed to serum-free,
+phenol red-free DMEM-H, with or without the addition of 50
+nM R1881. Cells were grown for up to a further 24 h, washed
+in PBS, and fixed in 2% paraformaldehyde, 10% sucrose, and
+0.1 M sodium phosphate, pH 7.2. They were treated with 2
+µg/ml of the primary lgG fraction of AR 32 (29) and stained by
+the avidin biotin peroxidase complex method as previously
+described (29, 72). To control for specificity of the antibody
+reaction, duplicate wells were incubated with preimmune lgG
+or with antibody preadsorbed with the free peptide antigen.
+Partition Sedimentation Analysis of AR Binding to
+DNA The interaction of androgen-AR complexes with the
+MMTV-LTR sequence was assayed using a zonal sedimentation velocity technique (31-33). Crude nuclear preparations of
+subject and control genital skin fibroblasts were extracted with
+20 mM HEPES pH 7.4, 1 mM EDTA, 1 mM EGTA, 600 mM
+KCI, 1 mM phenylmethylsulfonyl fluoride, and 20 nM [3 H]DHT,
+centrifuged at 50,000 rpm for 30 min at 4 C and desalted
+using a Sephadex G25 column. [ 3 H]DHT-AR complexes were
+prepared by incubation of crude nuclear extracts of subject
+and control cultured genital skin fibroblasts with [ 3 H]DHT
+followed by elution from a DHT-17-hemisuccinate affinity matrix (as described in Ref. 31). Plasmid pMSG-CAT (Pharmacia,
+Knowlhill, Great Britain) that contains androgen response element sequences within the MMTV-LTR sequence was linearized by digestion with Pvul and incubated (approximately 2
+nM) with [3 H]DHT-receptor complexes (0-20 nM) in reaction
+mixtures containing 1 mM NaxP0 4, pH 7.0, 0.1 mM EDTA and
+50 mM NaCl. After 60 min incubation on ice, 140-µI aliquots
+were layered over 5-20% (wt/vol) linear sucrose gradients (5
+ml) in buffer as above and centrifuged in a Sorvall TV865
+vertical rotor (Dupont UK Ltd., Hertfordshire, UK; r.v = 7.83
+cm) for 35 min at 65,000 rpm (370,000 x Gav), Since [3 H]DHTAR-DNA complexes sediment to the bottom of the gradient at
+high concentrations of normal AR (20 nM), gradients were
+fractionated from the bottom, and DNA-bound AR was concentrated in fractions 2-7. AR~DNA binding data were plotted
+
+MOL ENDO, 1992
+1110
+
+according to Scatchard and the binding affinities obtained by
+vectoral analysis of Scatchard plots using the method of
+Rosenthal (73).
+
+Acknowledgments
+We are very grateful to Malcolm V. Lane for excellent and
+good-natured technical assistance.
+
+Received December 13, 1991. Revision received April 6,
+1992. Accepted April 22, 1992.
+Address requests for reprints to: Dr. Charmian A. Quigley,
+Laboratories for Reproductive Biology, CB 7500 MacNider
+Building, University of North Carolina at Chapel Hill, Chapel
+Hill, North Carolina 27599-7500.
+This work was supported in part by NIH Grants P30-HD18968 (Recombinant DNA and Histochemistry Cores), R01 •
+HD-04466, and FY91-0195 from the March of Dimes Birth
+Defects Foundation.
+* Recipient of a Medical Foundation Medical Research Fellowship from the Postgraduate Committee in Medicine, University of Sydney, Australia, and holds the Genentech Clinical
+Scholar Award, 1991-1993.
+t A Pew Scholar in the Biomedical Sciences Program.
+:j: Present address: Department of Paediatrics, University of
+Cambridge School of Clinical Medicine, Hills Road, Cambridge,
+England.
+
+REFERENCES
+1. Keenan BS, Meyer Ill WJ, Hadjian AJ, Jones HW, Migeon
+CJ 1974 Syndrome of androgen insensitivity in man:
+absence of 5a-dihydrotestosterone binding protein in skin
+fibroblasts. J Clin Endocrinol Metab 38: 1143-1146
+2. Griffin JE, Punyashthiti K, Wilson JD 1976 Dihydrotestosterone binding by cultured human fibroblasts. J Clin Invest
+57:1342-1351
+3. Kaufman M, Straisfeld C, Pinsky L 1976 Male pseudohermaphroditism presumably due to target organ unresponsiveness to androgens: deficient 5a-dihydrotestosterone
+binding in cultured skin fibroblasts. J Clin Invest 58:345350
+4. Kaufman M, Pinsky L, Baird PA, McGillivray BC 1979
+Complete androgen insensitivity with a normal amount of
+5a-dihydrotestosterone-binding activity in labium majus
+skin fibroblasts. Am J Med Genet 4:401-411
+5. Brown TR, Migeon CJ 1981 Cultured human skin fibroblasts: a model for the study of androgen action. Mol Cell
+Biochem 36:3-22
+6. Hughes IA, Evans BAJ 1987 Androgen insensitivity in
+forty-nine patients: classification based on clinical and
+androgen receptor phenotypes. Horm Res 28:25-29
+7. Brown TR, Maes M, Rothwell SW, Migeon CJ 1982
+Human complete androgen insensitivity with normal dihydrotestosterone binding capacity in cultured genital skin
+fibroblasts: evidence for a qualitative abnormality of the
+receptor. J Clin Endocrinol Metab 55:61-69
+8. Amrhein JA, Meyer Ill WJ, Jones Jr HW, Migeon CJ 1976
+Androgen insensitivity in man: evidence for genetic heterogeneity. Proc Natl Acad Sci USA 73:891-894
+9. Pinsky L, Kaufman M, Summitt RL 1981 Congenital androgen insensitivity due to a qualitatively abnormal androgen receptor. Am J Med Genet 10:91-99
+·
+10. Griffin JE 1979 Testicular feminization associated with a
+thermolablie androgen receptor in cultured human fibroblasts. J Clin Invest 64:1624-1631
+11. Jenster G, van der Korput HAGM, van Vroonhoven C,
+van der Kwast TH, Trapman J; Brinkmann AO 1991
+Domains of the human androgen receptor involved in
+
+Vol 6 No. 7
+
+steroid binding, transcriptional activation and subcellular
+localization. Mol Endocrinol 5:1396-1404
+12. Lubahn DB, Brown TR, Simental JA, Higgs HN, Migeon
+CJ, Wilson EM, French FS 1989 Sequence of the intron/
+exon junctions of the coding region of the human androgen receptor gene and identification of a point mutation
+in a family with complete androgen insensitivity. Proc Natl
+Acad Sci USA 86:9534-9538
+13. Marcelli M, Tilley WD, Wilson CM, Griffin JE, Wilson JD,
+McPhaul MJ 1990 Definition of the human androgen receptor gene structure permits the identification of mutations that cause androgen resistance: premature termination of the receptor protein at amino acid 588 causes
+complete androgen resistance. Mol Endocrinol 4: 11051116
+14. Simental JA, Sar M, Lane MV, French FS, Wilson EM
+1991 Transcriptional activation and nuclear targeting signals of the human androgen receptor. J Biol Chem
+266:510-518
+15. Brown TR, Lubahn DB, Wilson EM, Joseph DR, French
+FS, Migeon CJ 1988 Deletion of the steroid-binding domain of the human androgen receptor gene in one family
+with complete androgen insensitivity syndrome: evidence
+for further genetic heterogeneity in this syndrome. Proc
+Natl Acad Sci USA 85:8151-8155
+16. Brown TR, Lubahn DB, Wilson EM, French FS, Migeon
+CJ, Gorden JL 1990 Functional characterization of naturally occurring mutant androgen receptors from subjects
+with complete androgen insensitivity. Mol Endocrinol
+4:1759-1772
+17. McPhaul MJ, Marcelli M, Tilley WD, Griffin JE, IsidroGutierrez RF, Wilson JD 1991 Molecular basis of andro. gen resistance in a family with a qualitative abnormality of
+the androgen receptor and responsive to high-dose androgen therapy. J Clin Invest 87:1413-1421
+18. McPhaul MJ, Marcelli M, Tilley WD, Griffin JE, Wilson JD
+1991 Androgen resistance caused by mutations in the
+androgen receptor gene. FAS EB J 5:2910-2915
+19. Marcelli M, Tilley WO, Zoppi S, Griffin JE, Wilson JD,
+McPhaul MJ 1991 Androgen resistance associated with
+a mutation of the androgen receptor at amino acid 772
+(Arg-Cys) results from a combination of decreased messenger ribonucleic acid levels and impairment of receptor
+function. J Clin Endocrinol Metab 73:318-325
+20. Marcelli M, Tilley WD, Wilson CM, Wilson JD, Griffin JE,
+McPhaul MJ 1990 A single nucleotide substitution introduces a premature termination codon into the androgen
+receptor gene of a patient with receptor-negative androgen resistance. J Clin Invest 85:1522-1528
+21. Sai T, Seine S, Chang C, Trifiro M, Pinsky L, Mhatre A,
+Kaufman M, Lambert B, Trapman J, Brinkmann AO, Rosenfield RL, Liao S 1990 An exonic point mutation of the
+androgen receptor gene in a family with complete androgen insensitivity. Am J Hum Genet 46:1095-1100
+22. Ris-Stalpers C, Kuiper GGJM, Faber PW, Schweikert HU,
+van Rooij HCJ, Zegers ND, Hodgins MB, Degenhart HJ,
+Trapman J, Brinkmann AO 1990 Aberrant splicing of
+androgen receptor mRNA results in synthesis of a nonft:mctional receptor protein in a patient with androgen
+insensitivity. Proc Natl Acad Sci USA 87:7866-7870
+23. Wilson JD, Griffin JE 1985 Mutations that impair androgen
+action. Trends Genet 5:335-340
+24. Chang YT, Migeon CJ, Brown TR, Human androgen
+insensitivity syndrome due to androgen receptor gene
+point mutations in subjects with normal androgen receptor
+levels but impaired biological activity. Program of the 73rd
+Annual Meeting of The Endocrine Society, Washington,
+DC, 11991 , p 37 (Abstract 28)
+25. Zoppi S, Marcelli M, Griffin JE, Wilson JD, Point mutations
+in the DNA-binding domain are a frequent cause of receptor p,ositive androgen resistance. Program of the 73rd
+Annu,al Meeting of The Endocrine .Society, Washington,
+DC, 1991, p 94 (Abstract 254)
+26. Marc,elli M, Zoppi S, Grine PB, Griffin JE, Wilson JD,
+
+Functional Defects of Second Zinc Finger-Deleted AF!
+
+27.
+
+28.
+
+29.
+
+30.
+
+31 .
+
+32.
+
+33.
+
+34.
+
+35.
+
+36.
+
+37.
+
+38.
+
+39.
+
+40.
+41.
+
+42.
+
+43.
+44.
+
+45.
+
+46.
+
+McPhaul MJ 1991 A mutation in the DNA-binding domain
+of the androgen receptor gene causes complete testicular.
+feminization in a patient with receptor-positive androgen
+resistance. J Clin Invest 87:1123-1126
+Hughes IA, Evans BAJ 1986 Complete androgen insensitivity syndrome characterized by increased concentration of a normal androgen receptor in genital skin fibroblasts. J Clin Endocrinol Metab 63:309-315
+Yoshitake S, Schach BG, Foster DC, Davie EW, Kurachi
+K 1985 Nucleotide sequence of the gene for human factor
+IX (antihemophilic factor B). Biochemistry 24:3736-3750
+Sar M, Lubahn DB, French FS, Wilson EM 1990 lmmunohistochemical localization of the androgen receptor in
+rat and human tissues. Endocrinology 127:3180-3186
+Van Wyk JJ, Graves DC, Casella SJ; Jacobs S 1985
+Evidence from monoclonal antibody studies that insulin
+stimulates deoxyribonucleic acid synthesis through the
+type I somatomedin receptor. J Clin Endocrinol Metab
+61:639-643
+Davies P, Thomas P 1984 Interaction of androgen receptors with chromatin and DNA. J Steroid Biochem 20:5765
+Compton JG, Schrader WT, O'Malley BW 1984 Progesterone receptor binding to DNA: studies by sedimentation
+velocity methods. J Steroid Biochem 20:89-94
+Davies P, Thomas P, Manning DL 1986 Correlations
+between prostate chromatin structure and transcriptional
+activity and acceptor site distribution. Prostate 8:151-166
+Quarmby VE, Kemppainen JA, Sar M, Lubahn DB, French
+FS, Wilson EM 1990 Expression of recombinant androgen
+receptor in cultured mammalian cells. Mol Endocrinol
+4:1399-1407
+Higuchi R 1990 Recombinant PCR Chapter 22. In: Innis
+MA, Gelfand DH, Sninsky JJ, White TJ (eds) PCR Protocols A Guide to Methods and Applications. Academic
+Press, San Diego, pp 177-183
+SchOle R, Muller M, Kaltschmidt C, Renkawitz R 1988
+Many transcription factors interact synergistically with
+steroid receptors. Science 242:1418-1420
+Andersson G, Davis DL, Dahlback H, Jornvall H, Russell
+DW 1989 Cloning, structure and expression of the mitochondrial cytochrome P-450 steroid 26-hydroxylase, a bile
+acid biosynthetic enzyme. J Biol Chem 264:8222-8229
+Hughes MR, Malloy PF, Kieback DG, Kesterson RA, Pike
+JW, Feldman D, O'malley BW 1988 point mutations in the
+human vitamin D receptor gene associated with hypocalcemic rickets. Science 242:1702-1705
+Sone T, Marx SJ, Liberman UA, Pike JW 1990 A unique
+point mutation in the human vitamin D receptor chromosomal gene confers hereditary resistance to 1 ,25-dihydroxyvitamin D3 • Mol Endocrinol 4:623-631
+Beato M 1989 Gene regulation by steroid hormones. Cell
+56:335-344
+Hollenberg SM, Evans RM 1988 Multiple and cooperative
+trans-activation domains of the human glucocorticoid receptor. Cell 55:899-906
+Green S, Kumar V, Theulaz I, Wahli W, Chambon P 1988
+The N-terminal DNA-binding "zinc finger" of the oestrogen
+and glucocorticoid receptors determines target gene
+specificity. EMBO J 7:3037-3044
+Berg J 1989 DNA binding specificity of steroid receptors.
+Cell 57:1065-1068
+Danielsen M, Hinck L, Ringold GM 1989 Two amino acids
+within the knuckle of the first zinc finger specify DNA
+response element activation by the glucocorticoid receptor. Cell 57:1131-1138
+Luisi BF, Xu WX, Otwinowski Z, Freedman LP, Yamamoto
+KR, Sigler PB .1991 Crystallographic analysis of the interaction of the glucocorticoid receptor with DNA. Nature
+352:497-505
+Schena M, Freedman LP, Yamamoto KR 1989 Mutations
+in the glucocorticoid receptor zinc finger region that distinguish interdigitated DNA binding and transcriptional
+enhancement activities. Genes Dev 3: 1590-1601
+
+1111
+
+47. Dahlman-Wright K, Wright A, Gustafsson J-A, CarlstedtDuke J 1991 Interaction of the glucocorticoid receptor
+DNA-binding domain with DNA as a dimer is mediated by
+a short segment of five amino acids. J Biol Chem
+266:3107-3112
+48. Wrange O, Eriksson P, Perlmann T 1989 The purified
+activated glucocorticoid receptor is a homodimer. J Biol
+Chem 264:5253-5259
+49. Tsai SY, Carlstedt-Duke J, Weigel NL, Dahlman K, Gustafsson J-A, Tsai M-J, O'Malley BW 1988 Molecular interactions of steroid hormone receptor with its enhancer
+element: evidence for receptor dimer formation. Cell
+55:361-369
+50. Kumar V, Chambon P 1988 The estrogen receptor binds
+tightly to its responsive element as a ligand-induced homodimer. Cell 55:145-156
+51. Fawell SE, Lees JA, White R, Parker MG 1990 Characterization and colocalization of steroid binding and dimerization activities in the mouse estrogen receptor. Cell
+60:953-962
+52. Guiochon-Mantel A, Lescop P, Christin-Maitre S, Loosfelt
+H, Perrot-Applanat M, Milgrom E 1991 Nucleocytoplasmic
+shuttling of the progesterone receptor. EMBO J 10:38513859
+53. Picard D, Kumar V, Chambon P, Yamamoto KR 1990
+Signal transduction by steroid hormones: nuclear localization is differentially regulated in estrogen and glucocorticoid receptors. Cell Regul 1 :291-299
+54. Quarmby VE, Yarbrough WG, Lubahn DB, French FS,
+Wilson EM 1990 Autologous down-regulation of androgen
+receptor messenger ribonucleic acid. Mol Endocrinol
+4:22-28
+55. Shan L-X, Rodriguez MC, Janne OA 1990 Regulation of
+androgen receptor protein and mRNA concentrations by
+androgens in rat ventral prostate and seminal vesicles
+and in human hepatoma cells. Mol Endocrinol 4:16361646
+56. Saceda M, Lippman ME, Chambon P, Lindsey RL,
+Ponglikitmongkol M, Puente M, Martin MB 1988 Regulation of the estogen receptor in MCF-7 cells by estradiol.
+Mol Endocrinol 2: 1157-1162
+57. Dong Y, Poellinger L, Gustafsson J-A, Okret S 1988
+Regulation of glucocorticoid receptor expression: evidence for transcriptional and posttranslational mechanisms. Mol Endocrinol 2:1256-1264
+58. Burnstein KL, Jewell CM, Cidlowski JA 1990 Human
+glucocorticoid receptor cDNA contains sequences sufficient for receptor down-regulation. J Biol Chem
+265:7284-7291
+59. Alexander IE, Clarke CL, Shine J, Sutherland RL 1989
+Progestin inhibition of progesterone receptor gene
+expression in human breast cancer cells. Mol Endocrinol
+3:1377-1386
+60. Miesfeld R, Sakai D, Inoue A, Schena M, Godowski PJ,
+Yamamoto KR 1988 Glucocorticoid receptor sequences
+that confer positive and negative transcriptional regulation. In: Ringold G (ed) Steroid Hormone Action, UCLA
+Symposium on Molecular and Cellular Biology. Alan R
+Liss, New York, pp 193-200
+61. Yarbrough WG, Quarmby VE, Simental JA, Joseph DR,
+Sar M, Lubahn DB, Olsen KL, French FS, Wilson EM
+1990 A single base mutation in the androgen receptor
+gene causes androgen insensitivity in the testicular feminized rat. J Biol Chem 265:8893-8900
+62. Koenig M, Beggs AH, Moyer M, Scherpf S, Heindrich K,
+Bettecken T, Meng G, MOiier CR, Lindlof M, Kaariainen
+H, de la Chapelle A, Kiuru A, Savontaus M-L, Gilgenkrantz
+H, Recan D, Chelly J, Kaplan J-C, Covone AE, Archidiacono N, Romeo G, Liechti-Gallati S, Schneider V, Braga
+S, Moser H, Darras BT, Murphy P, Francke U, Chen JD,
+Morgan G, Denton M, Greenberg CR, Wrogemann K,
+Blenden LAJ, van Paassen HMB, van Ommen GJB,
+Kunkel LM 1989 The molecular basis for Duchenne versus
+
+Vol 6 No. 7
+
+MOL ENDO, 1992
+
+1112
+
+Becker muscular dystrophy: correlation of severity with
+type of deletion. Am J Hum Genet 45:498-506
+63. Den Dunnen JT, Grootscholten PM, Bakker E, Blonden
+LAJ, Ginjaar HB, Wapenaar MC, van Paassen HMS, van
+Broeckhoven C, Pearson PL, van Ommen GJB 1989
+Topography of the Duchenne muscular dystrophy (DMD)
+gene: FIGE and cDNA analysis of 194 cases reveals 115
+deletions and 13 .duplications. Am J Hum Genet 45:835-
+
+847
+64. Trifiro M, Gottleib B, Pinsky L, Kaufman M, Prior L,
+Belsham DD, Wrogemann K, Brown CJ, Willard HF, Trapman J, Brinkmann AO, Chang C, Liao S, Sergovich F,
+Jung J 1991 The 56/58 kDa androgen-binding protein in
+male genital skin fibroblasts with a deleted androgen
+receptor gene. Mol Cell Endocrinol 75:37-47
+65. Quigley CA, Friedman KJ, Johnson A, Lafreniere RG,
+Silverman LM, Lubahn DB, Brown TR, Wilson EM, Willard
+HF, French FS 1992 Complete deletion of the androgen
+receptor gene: definition of the null phenotype of the
+androgen insensitivity syndrome and determination of carrier status. J Clin Endocrinol Metab 74:927-933
+66. Lubahn DB, Brown TR, Simental JA, Higgs HN, Migeon
+CJ, Wilson EM, French FS 1990 Correction. Proc Natl
+Acad Sci USA 87:4411
+67. Chirgwin JM, Przybyla AE, MacDonald RJ, Rutter WJ
+1979 Isolation of biologically active ribonucleic acid from
+
+sources
+
+enriched
+
+in
+
+ribonucleases.
+
+Biochemistry
+
+18:5294-5299
+68. Lund PK, Moats-Staats BM, Hynes MA, Simmons JG,
+Jansen M, D'Ercole AJ, Van Wyk JJ 1986 SomatomedinC/insulin-like growth factor I and insulin-like growth factor
+II mRNAs in rat fetal and adult tissues. J Biol Chem
+
+261 :14539-14544
+69. Sanger F, Nicklen S, Coulson AR 1977 DNA sequencing
+with chain-terminating inhibitors. Proc Natl Acad Sci USA
+
+7 4:5463-5467
+70. Miesfeld R, Rusconi S, Godowski PJ, Maler BA, Okret S,
+Wikstrom A-C, Gustafsson J-A, Yamamoto KR 1986 Genetic complementation of a glucocorticoid receptor deficiency by expression of cloned receptor cDNA. Cell
+
+46:389-399
+71. Lopata MA, Cleveland OW, Sollner-Webb B 1984 High
+level transient expression of a chloramphenicol acetyl
+transferase gene by DEAE-dextran mediated DNA transfection coupled with a dimethyl sulfoxide or glycerol shock
+treatment. Nucleic Acids Res 12:5707-5717
+72. Sar M 1985 Application of avidin-biotin complex technique
+for the localization of estradiol receptor in target tissues
+using monoclonal antibodies. In: Bullock GR, Petrusz P
+(eds) Techniques in lmmunocytochemistry. Academic
+Press, New York, vol 3:43-54
+73. Rosenthal HE 1967 A graphic method for the determination and presentation of binding parameters in a complex
+system. Anal Biochem 20:525-532
+
+

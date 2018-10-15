@@ -1,0 +1,872 @@
+Mol. BioI. Med. (1991) 8, 95-100
+
+Additional Mutations in Argininosuccinate Synthetase Causing Citrullinemia
+KEIKO KOBAYASHIt, CRAIG ROSENBLOOM, ARTHUR
+
+L.
+
+BEAUDET AND WILLIAM
+
+E.
+
+O'BRlENt
+
+Howard Hughes Medical Institute and Institute for Molecular Genetics
+Baylor College of Medicine
+Houston, TX 77030, U.S.A.
+(Received 14 January 1991, and in revised form 31 January 1991)
+Summary. Deficiency of argininosuccinate synthetase causes arginine auxotrophy in lower organisms and
+
+causes citrullinemia in humans and cattle. Previously, seven missense mutations, four mutations
+associated with an absence of an exon in mRNA, and one splicing mutation have been identified in
+human neonatal citrullinemia. Reverse transcription of mRNA, amplification of cDNA and sequencing of
+cDNA clones were used to identify two additional missense mutations causing citrullinemia. One
+mutation involves substitution of leucine for serine at position 18 (S18L) and the other a substitution of
+cysteine for arginine at position 86 (R86C). Both of these mutations represent C ---+ T transitions in CpG
+dinucleotides, and eight of nine missense mutations causing human citrullinemia involve similar
+transitions in CpG dinucleotides. The nucleotide coding sequence and deduced amino acid analysis are
+available for four mammalian species, yeast and three bacterial species. Six of nine missense mutations in
+humans occur in amino acid positions that are completely conserved in these organisms. Mutations
+causing human citrullinemia are extremely heterogeneous, and all non-consanguineous individuals
+studied to date are compound heterozygotes.
+
+by a complete or nearly complete deficiency of arginino succinate synthetase activity (Brusilow & Horwich,
+1989; Harper et al., 1986). Classic neonatal citrullinemia in humans is characterized by > 100-fold
+increased levels of blood citrulline, hyperammonemia,
+mental retardation and early death unless treated
+(Brusilow & Horwich, 1989; Beaudet et al., 1986).
+Enzyme activity is expressed in cultured human fibroblasts, and early work demonstrated an absence of
+cross-reacting immune material, but the presence of
+near normal levels of mRNA in most cell lines (Su et
+al., 1982). Nuclease protection studies indicated considerable heterogeneity among cell lines, with
+evidence for defects larger than single base changes in
+mRNA associated with some mutant alleles (Su et al.,
+1983). More recent studies (Jackson et ai., 1989;
+Kobayashi et al., 1990; Su & Lin, 1990) have identified' seven single base missense mutations causing
+citrullinemia and five other mutations associated with
+large deletions in the mRNA. These deletions
+included the absence of a single exon sequence from
+cDNA clones of four alleles (exon 5, 6, 7 or 13).
+Deletions of genomic DNA were found in the two
+mutations without exon 5 or6 in the mRNA, but
+normal Southern blots were found for the two associated with the absence of exon 7 or 13. One mutation
+resulting in the absence of the first seven base-pairs of
+
+Introduction
+Argininosuccinate synthetase (EC 6.3.4.5) catalyses
+the conversion of citrulline, aspartate and ATP into
+argininosuccinate, AMP and pyrophosphate. In
+lower organisms, the enzyme functions in the
+pathway for biosynthesis of arginine. In ureotelic
+animals such as man, the enzyme is expressed at high
+levels in the liver where it functions as part of the urea
+cycle. The human enzyme is a cytoplasmic homotetramer with a subunit molecular weight of 46,400.
+The nucleotide coding sequence and deduced amino
+acid sequence for the enzyme are known for humans
+(Bock et al., 1983), rat (Surh et al., 1988), mouse (Surh
+et al., 1991), cow (Dennis et al., 1989), Saccharomyces
+cerevisiae (Van Vliet et al., 1990), Escherichia coli
+(Van Vliet et al., 1990), and two archaebacteria
+(Morris & Reeve, 1988).
+Deficiency of argininosuccinate synthetase in lower
+organisms causes a nutritional requirement for arginine. In humans and cattle, citrullinemia has been
+identified as, an autosomal recessive disorder caused
+
+t Present address: Department of Biochemistry, Faculty
+of Medicine, Kagoshima University, Kagoshima 890,
+Japan.
+t Author for correspondence at: Institute for Molecular
+Genetics, Baylor College of Medicine, One Baylor Plaza,
+Houston, TX 77030, U.S.A.
+
+95
+
+96
+
+K. Kobayashi et al.
+
+exon 16 in the cDNA sequence was caused by a G to
+C substitution in the last base of intron 15, resulting
+in splicing to a cryptic site within exon 16. Bovine
+citrullinemia is caused by a nonsense mutation in
+codon 86 (Dennis et al., 1989). In this paper, we
+present the characterization of two additional
+missense mutations causing neonatal human citrullinemia. The sites of missense mutations are compared
+with the amino acid sequences for the enzyme from
+bacteria to mammals.
+
+Information Resource, Department of Cell Biology,
+Baylor College of Medicine. The amino acid alignments were generated using the PIMA program (see
+Smith & Smith, 1990). Restriction endonuclease
+digestions were carried out according to the supplier's
+recommendations. Procedures for gel electrophoresis,
+ligation reactions, recovery of DNA fragments and
+other methods were performed as described
+(Sambrook et al., 1989).
+ENZYME ASSAYS
+
+Materials and methods
+GENERAL METHODS
+
+The cell lines used in this study were made available to our laboratory from other centers for the
+confirmation of the diagnosis of citrullinemia. RNA
+was isolated as described by Chomczynski & Sacchi
+(1987). Methods for the synthesis of cDNA and for
+the amplification and cloning of the products have
+been described (Jackson et al., 1989; Kobayashi et al.,
+1990). Oligonucleotides SF and TB (Kobayashi et al.,
+1990) were employed to amplify the entire coding
+region of the argininosuccinate synthetase mRNA.
+The amplified DNA was digested with BamHI and
+Pst! and ligated into M13mp18 or M13mp19 as
+desired. Additional oligonucleotides used in these
+analyses are given in Figure 1. DNA sequencing was
+performed on the Applied Biosystems model 370A
+DNA sequencer. Computer analysis was performed
+using the facilities of the Molecular Biology
+
+-
+
+---.- -+-
+
+SF
+eDNA
+
+E13F E13B
+
+~
+ATG
+
+1
+
+r-- P --,
+
+-+TB·1
+
+~
+
+TB-2
+
+TAG
+1239
+
+SF(-89 TO -70)
+
+: GCTACTGCAGCTGCCACCGCTGCCCGAGCC
+
+E., F(839 to
+
+: GCTACTGCAGGTATCTACGAGACCCCAGCA
+
+858)
+
+Enzyme assays were performed as described (Su et
+al., 1982). For routine assays, the concentrations of
+substrates were 5·7 mM-citrulline, 1 mM-aspartate and
+1 mM-A TP. For the determination of the Km values
+for citrulline, the concentrations of citrulline were
+varied from 0·25 mM to 130 mM, with the concentration of the other substrates fixed at 1 mM-aspartate
+and 1 mM-ATP.
+Results
+
+First strand cDNA was synthesized by reverse
+transcription of RNA from cultured skin fibroblasts
+of cell lines GM63 and MR. The single-stranded
+cDNA containing the entire coding region was amplified using the oligonucleotides SF and TB as
+described (Jackson et al., 1989; Kobayashi et al.,
+1990). Cell line GM63 was known to contain two
+mRNA species by virtue of Sl nuclease analysis (Su et
+al., 1983), and one of the alleles has a deletion of exon
+5 and produces a smaller product in the amplification
+reaction (Jackson et al., 1989). For this analysis we
+isolated clones that did not have deletion of the
+sequences contained within exon 5. Cell line MR had
+not been previously studied.
+
+r-- P --,
+
+IDENTIFICATION AND CONFIRMATION OF SINGLE BASE
+
+r-- B --,
+
+CHANGES
+
+E., B(970 to 951)
+
+:CGTAGGATCCCGGTATACACCAGCTCAGCA
+
+TB-1(1275 TO 1255)
+
+r-- B --,
+: CGTAGGATCCAATTGAGGAGGCCCCAGCTCC
+
+TB-2(1452 TO 1433)
+
+r-- B --,
+: CGTAGGATCCATAGCTCCCCACCGCAGCTG
+
+FIGURE 1. Oligonucleotide primers used for amplification of
+argininosuccinate synthetase eDNA. The coding region of
+the argininosuccinate synthetase eDNA is represented by
+the hatched segment. The locations of each primer are
+indicated by arrows and by the nucleotide co-ordinates in
+parentheses. Nucleotides found in the cDNA sequence are
+underlined and all primers have an added restriction
+enzyme site for either PstI (P) or BamHI (B). The nucleotides are numbered, with the A residue of the initiation
+codon as + 1.
+
+Four clones from each cell line were sequenced. All
+four clones from cell line GM63 were found to
+'contain a single base change (C -+ T) at base-pair 256
+(data not shown). This mutation resulted in the
+substitution of cysteine (TGC) for arginine (CGC) in
+codon 86 (R86C). The presence of the C -+ T change
+at 256 bpt in cell line GM63 results in the loss of an
+AvaIl restriction site. To confirm the presence of this
+mutation, an independent amplification was performed using the SF and E13B oligonucleotides
+
+t Abbreviation used:
+
+bp, base-pair(s).
+
+97
+
+Argininosuccinate Synthetase and Citrullinemia
+
+M N
+
+GM
+
+1- +11_ +1
+
+-415
+-292
+-123
+
+123
+
+Normal
+Allele 1
+Allele 2
+
+292
+
+*~
+
+t
+
+t
+t·
+
+415
+226 (
+
+)
+
+t
+
+259
+
+58
+,.......
+
+tt
+tt
+tt
+
+72
+
+,..,..,.."
+
+217
+
+t
+t
+
+L
+
+FIGURE 2. Confirmation of the R86C mutation in GM63. The cDNA from GM63 (GM) and from a normal cell line (N) was
+amplified using the SF and E13B primers (Fig. 1). The positions of AvaIl sites are indicated by arrows with the sizes of
+restriction fragments indicated (in bp). Allele 1 indicates the expected results for the R86C mutation and Allele 2 indicates
+the expected results for the deletion of ex on 5. PCR products were digested ( + ) or not ( - ) with AvaIl. The 292 and 123 bp
+fragments are absent in GM63 and a 415 bp fragment is present. The 226 bp fragment co migrates with the 217 bp fragment.
+M indicates DNA markers (in bp).
+(Fig. 1). These primers produce a 1021 bp product.
+The loss of the AvaIl site is predicted to result in the
+loss of the 292 bp and 123 bp fragments and the
+creation of a new 415 bp product (Fig. 2). The other
+allele in cell line GM63 has no ex on 5 sequences and
+results in a 226 bp fragment for this region. Following
+digestion with AvaIl, the products are consistent with
+the absence of exon 5 sequences in one allele and with
+the loss of the AvaIl site in the other allele.
+In our previous work, we identified four single-base
+missense mutations that resulted in the loss of
+different Mspl sites in the amplified DNA. All of
+these mutations (R304W, G324S, R363W, G390R)
+are within the 3' half of the eDNA. This information
+allowed us to screen cell lines for the presence of these
+mutations prior to sequencing the amplified products.
+To perform such an analysis, we amplified a 639 bp
+fragment spanning this region using oligonucleotides
+E13F and TB-2. Digestion of the amplified DNA
+
+from cell line MR indicated the presence of the
+G390R mutation in one allele in this cell line. In order
+to identify the remaining mutation in this cell line,
+full-length
+amplified
+DNA
+was
+sequenced.
+Automated DNA sequencing revealed a single base
+change (C --t T) in patient MR at base-pair 53 (Fig. 3).
+This resulted in substitution of leucine (TTG) for
+serine (TCG) in codon 18 (S18L). This mutation also
+resu~ted in the loss of an MnlI restriction enzyme site
+(CCTq in exon 3. The presence of this mutation was
+confirmed by demonstrating the loss of the MnlI site
+in DNA prepared from an independent amplification
+reaction using oligonucleotides E3F and MB
+(Kobayashi et ai., 1990) (data not shown).
+KINETIC ANALYSIS OF ARGININOSUCCINATE SYNTHETASE
+
+Cell line GM63 has been reported to produce
+enzyme with an altered Km for citrulline (Tedesco &
+
+K. Kobayashi et al.
+
+98
+
+Leu
+
+Ser
+
+•
+
+T~'y'''f~'''~~t~l'i'!
+
+Mutant
+
+Normal
+
+3. Partial nucleotide sequence of a cDNA clone containing the serine to leucine substitution at position 18.
+
+FIGURE
+
+Mellman, 1967}. We confirmed and extended the data
+available regarding the kinetic properties of arginino·
+succinate synthetase in cell line GM63. This cell line
+showed no detectable activity of argininosuccinate
+synthetase by our usual assay method. However,
+when the concentration of citrulline was increased,
+the argininosuccinate synthetase activity was detect·
+able in this cell line, but the Vmax was still low, and a
+significant alteration in the Km for citrulline wa
+noted (Table 1).
+Discussion
+
+Fourteen mutations have been identified in the
+argininosuccinate synthetase gene in cell lines derived
+from patients with neonatal citrullinemia, and one
+TABLE
+
+1. Kinetics studies of argininosuccinate synthetase
+~.x of activity
+(mU/mg protein)
+
+Control
+GM63
+1 mU
+
+2'35
+
+0·121
+=
+
+Km for citrulline
+(mM)
+
+0'08
+>100
+
+1 nanomole of argininosuccinate formed/min.
+
+mutation was found as the cause of citrullinemia in
+cattle. Ten of these mutations involve single base
+changes in the coding sequence for the enzyme, four
+involve the absence of an exon in the mRNA, and one
+causes abnormal splicing. Eight of nine single base
+mutations observed in the human argininosuccinate
+synthetase gene involve a C ~ T transition in a CpG
+dinucleotide, and the single mutation observed in
+cattle also involves such a transition. Of the 14
+patients we have studied, all have been shown to be
+compound heterozygotes, with the exception of two
+patients that were born from consanguineous
+matings.
+Since most of the cell lines studied are known to be
+compound heterozygotes, it is difficult to draw
+conclusions regarding the effect of the mutations on
+the kinetic parameters of the mutant protein. In the
+case of GM63, one allele has a deletion of exon 5, and
+it might be assumed that any protein product derived
+from this allele is completely inactive and perhaps
+rapidly degraded. If such were the case, the only
+contribution to the activity observed in this cell line
+would be that derived from the allele with the R86C
+mutation. Interestingly, this mutation involves an
+amino acid position that is not conserved between
+species, and substitution at a non·conserved site
+
+99
+
+Argininosuccinate Synthetase and Citrullinemia
+
+G14S
+Patt
+hum
+mba
+mva
+see
+eeD
+
+\
+
+rnXX
+MSSKGS
+MAKKVA
+MQEKIA
+MSKGK
+MTTILKHLPVGQRIG
+
+I
+
+S18L
+
+ggeAdSGGLDTSXXe
+VVL-Y-------CIL
+.. L-Y-------VCI
+V.L-Y-------CCL
+VCL-Y-------VIL
+.. I-F-------AAL
+
+XfbXrpXXXggXfjf
+VWLKEQGYD •. VIAY
+PILKEKYGYDEVVTI
+KLLEDKYNY.KVVSV
+AWLLDQATE .. VVAF
+LWMRQKGAV •. PYAY
+
+XXleGQggpkkfrXX XXXAXpfjgXpXXXX
+LANI-- .. KEDFEEA RKKALKLGAKKVFIE
+SVDV--P.EEEIKRA DAKAEKIS.NKHYTI
+AVDV--P.EDDLKEP EEKAKKLGVLKHYTI
+MANV-- .• EEDFDAAKVLALKIGACKFVCG
+TANL--PDEEDYDAI PRRAMEYG.AENARL
+
+XXXprXXXXXXfXXa
+DVSREFVEEFIWPAI
+DAKEEFVKDYVFPLI
+bAKEEFAVDYIFRAI
+GLSEDFVKDILFPAV
+IDCRKQLVAEGlAAI
+
+R86C
+Patt
+hum
+mba
+mva
+see
+eeD
+
+I
+
+pXXhXemgggggXYX
+QSSALYED .... RYL
+KANGSYE ..... GYV
+KANALYE •.... GYP
+QVNAVYED .... VYL
+QCGAFHNTTGGLTYF
+
+79
+77
+77
+78
+76
+85
+
+R157H
+XjTjehRjfXhXXXX
+LG-SLA-PCIARKQV
+MG-SIA-PLIAKKVV
+LS-ALA-PLIAIKIA
+LG-SLA-PVIAKAQI
+NT-PLG-AVTGTMLV
+
+I
+
+XXXppXGXXXfjrGX
+EIAQRE-AKYVSH-A
+EAARKE-AVALAH-C
+ELAKEI-ADAISH-C
+DVAKQE-CFAVSH-C
+AAMKED-VNIWGD-S
+
+TXKGNDXXRFXXXXX
+-G----QV--ELSCY
+-G----QL--EAVFR
+-G----QF--ESVIR
+-G----QI--ELSFY
+-Y----IE--YRYGL
+
+XggjrerffXPfXXX
+SLAPQIKVIA-WRMP
+Q.. TDMDVIA-MREM
+TKAPEIEIIA-VRDL
+ALKPDVKCIT-WRMP
+LTNAELQIYK-WLDT
+
+mfgggggjRrXXXrd
+EFYNRFKG-NDLMEY
+NL ..... T-EWEIDY
+NL ..•.• T-TEEIQY
+EFFERFAG-KDLLDY
+DFIDELGG-HEMSEF
+
+169
+163
+155
+158
+162
+175
+
+XLEggljXXXXXXXX
+I-- .. NPKNQAPPGL
+R-- .• DPSFVPPEEI
+I-- .. NPMIETPKEC
+I-- .• DPDTTPPKDM
+D--YLNSSVKIVNPN
+
+fXXXXXXXXXXXXXr
+YTKTQDPAKAPNTPD
+FEWTTSPEKAPEQPR
+FAWTVDPKIAKDEEE
+WKLIVDPMDAPDQPQ
+MGVKFWDESVKIPAE
+
+XeraXFpXGXPVXer
+ILEIE-KK-V--KVT
+VVDIG-EA-V--SLD
+YVEIE-KA-V--AIN
+DLTID-ER-L--KLT
+EVTVR-EQ-H--ALN
+
+XXrXXXXXXXXgggg
+NVKDGTTHQTS ....
+GEKMSGYAFVK ....
+GQKFDAINVIK ....
+YTDNKTSKEVSVTKP
+GKTFSDDVEMM ..•.
+
+259
+247
+239
+242
+250
+261
+
+S180N
+Patt
+hum
+mba
+mva
+see
+eeD
+
+XXXXGfXfXXrXXrj
+AKQH-IPIPVTPKNP
+AKEH-IPVEVTKSKP
+AKEK-IPIPVDLEKP
+AAQK-IFVAQTKAKP
+MIAC-FDYKMSVEKA
+
+I
+
+dSXDrNXXXXiXEhX
+W-M-E-LMHISY-AG
+W-V-E-IWSRSI-GG
+F-I-E-LWGRSI-GG
+W-T-E-QAHISY-AG
+Y-T-S-MLGATH-AK
+
+R304W
+Patt
+hum
+mba
+mva
+see
+eeD
+
+gggggXXrrehXXrG
+LELFMYLNEVAGKH..... KMNEIAGEN..... EANKLAGRNLDVFLAASNLARAN.... LEANRIGGRH-
+
+eGXXDXaE1RfeXXK
+V-RI-IV-N-FIGMV-RT-MI-D-VLGLY-RV-II-D-VLGLV-RI-IV-D-YINLL-MS-QI-N-IIEA-
+
+jRXXYEXjjXgeLXX
+S-GIY-TPAGTI-YH
+A-ENY-HPAATV-RQ
+S-ENY-CPGA.I-LI
+S-GCY-QAPLTV-RK
+S-GIY-APGMAL-HI
+
+R363W
+Patt
+hum
+mba
+mva
+see
+eeD
+
+XXegXXXXrrerGXV
+HCI.AKSQERVE-KAFI.DKSQERVT-IAFV.DKTQERMN-ISMI.QPSQNSVN-TDSLQRWVASQIT-E-
+
+I
+
+rXreXnGXXXXeXrr
+QVSVLK-QVYILGRE
+KVRLYK-ALTILARS
+RAKLYK-SLRIVGRE
+RVRLYK-NVIILGRS
+TLELRR-NDYSILNT
+
+XgXXXXYrXrXXifm
+S.PLSLYNEELVSMN
+S.PNALYSEDLVSFD
+S.ECALYQENMVSFE
+TKTEKLYDPTESSMD
+VSENLTYKPERLTME
+
+I
+
+jgrXXerXXXXrrrX
+A.HLDIEAFTMDREV
+PNSRPLRNSSLTRSE
+TAHKALEQLVLSREE
+A.HVDLEGLTLDKEV
+AYERLLTGIHNEDTI
+
+XXfrXXXggXrfXrL
+RKIKQGL.GLKFAELKFKKIV.DDQWSELVFKEMV.DSKYADRQLRDSLVTPNYSREQYHAHG .. RQLDR-
+
+G324S
+I
+
+XYXGXXXrjXXXXer
+V-T-FWHSPECEFVR
+A-Y-LVDEPLYADLN
+I-K-LWHEPLRHDLD
+I-N-FLLHPECEYIR
+L-Q-RWFDSQALMLR
+
+349
+335
+323
+325
+339
+345
+
+--------------KVTAK ..........
+KQ .............
+K..............
+TKGEELTLX ......
+GYAKTGLLSSSAASG
+
+421
+412
+396
+397
+421
+435
+
+G390R
+I
+
+ggXXXfXXrXXXGXX
+V.QGDYEPTDAT-FI
+.. SQTIDQKGSE-FA
+.. NKDMDQREIV-MV
+E.LTGFLPTDTT-FI
+KGDSVFSPDDRI-QL
+
+XfrXfrXXXXXr--NINSLRLKEYHRLQS
+KYHGFQARMYRKVMD
+KFHGLQAAIFESLRN
+AIQAIRIKKYGESKK
+TMRNLDITDTREKLF
+
+FIGURE 4. Amino acid sequence comparison of argininosuccinate synthetase from five organisms. Identifications are as
+follows: hum, human; mba, M. barkeri; mva, M. vannielii; see, S. cerevisiae; and eco, E. coli. Patt refers to the amino acid
+class covering pattern (Smith & Smith, 1990). Capital letters, with the exception of X, in the Patt represent the standard
+amino acid code. Other letters refer to: g, gap; X (one amino acid of any type); f(CIVLMFWY); r (HNDEQKRST);
+c (IVLM); e (FWYH); m (NDE); p (EQKR); j (STAGP); a (IV); b (LM); d (FWY); I (ND); k (DE); 0 (EQ); n (KR); i (ST);
+h (AG). Dashes indicate amino acid identity and dots indicate gaps. The 9 missense mutations known in the human are
+indicated above the position of the altered amino acid. A correction for the human sequence has been reported (Kobayashi
+et al., 1990).
+
+might be more likely to result in residual enzyme
+activity. The kinetic data are consistent with the lack
+of detectable enzyme activity in extracts under
+normal assay conditions and with the presence of
+detectable incorporation of [14C]citrulline by intact
+cells of line GM63 (Su et al., 1982).
+The deduced amino acid sequence for argininosuccinate synthetase from eight species is currently available. These include human (Bock et al., 1983;
+Kobayashi et al., 1990), rat (Surh et al., 1988), mouse
+
+(Surh' et al., 1991), cow (Dennis et al., 1989),
+Methanococcus vannielii (Morris & Reeve, 1988),
+Methanosarcina barkeri MS (Morris & Reeve, 1988),
+E. coli (Van Vliet et al., 1990) and S. cerevisiae (Van
+Vliet et al., 1990). The human, rat, murine and bovine
+protein sequences are at least 93% identical, and a
+comparison of these sequences provides little insight
+into critical residues within the sequence. In contrast,
+a comparison of the more highly diverged sequences
+provides a much clearer picture of amino acid
+
+100
+
+K. Kobayashi et al.
+
+residues that are critical to the function of the
+enzyme. Such a comparison is provided in Figure 4.
+The comparison in Figure 4 reveals two regions
+from human residues 10 to 18 and 118 to 129 that are
+highly conserved in all species. Although there are no
+other large sites of significant conservation, there are
+numerous single amino· acid residues throughout the
+protein that are conserved among these highly
+diverged organisms. Of the nine amino acid residues
+involved in missense mutations, six alter residues that
+are completely conserved among these species. It is
+not known which amino acid residues are essential
+for the binding of the amino acid substrates by the
+enzyme. There is evidence that specific arginine
+residues are involved in the binding of ATP and PPi .
+Chemical modification studies indicated that arginine
+residues 153 and/or 157 were involved in the binding
+of ATP (Isashiki et al., 1989). We reported a
+mutation, R157H, that affected one of these arginine
+residues (Kobayashi et al., 1990), and this residue is
+conserved among the species whereas arginine 153 is
+not conserved.
+
+Acknowledgements
+
+We express our appreciation to David Wheeler in
+the Molecular Biology Information Resource at
+Baylor College of Medicine for assistance with the
+amino acid alignments. This project was supported in
+part by the Baylor Mental Retardation Research
+Center (NIH P30 HD24064).
+
+References
+Beaudet, A. L., O'Brien, W. E., Bock, H.-G. 0., Freytag,
+S. O. & Su, T.-S. (1986). The human argininosuccinate
+synthetase locus and citrullinemia. Advan. Hum. Genet.
+15, 161-196.
+Bock, H.-G. 0., Su, T.-S., O'Brien, W. E. & Beaudet, A. L.
+(1983). Sequence for human argininosuccinate synthetase
+cDNA. Nue!. Acids Res. 11, 6505-6512.
+Brusilow, S. W. & Horwich, A. L. (1989). Urea cycle
+enzymes. In The Metabolic Basis of Inherited Disease
+(Scriver, C. R., Beaudet, A. L., Sly, W. S. & Valle, D.,
+eds), McGraw-Hili, New York, pp. 629-663.
+Chomczynski, P. & Sacchi, N. (1987). Single-step method
+of
+RNA
+isolation
+by
+acid
+guanidinium
+Anal.
+thiocyanate-phenol-chloroform
+extraction.
+Biochem. 162, 156-159.
+Dennis, J. A., Healy, P. J., Beaudet, A. L. & O'Brien, W,E.
+(1989). Molecular definition of bovine argininosuccinate
+
+synthetase deficiency. hoc. Nat. A cad. Sci., U.S.A. 86,
+7947-7951.
+Harper, P. A. W., Healy, P. J., Dennis, J. A., O'Brien, J. J.
+& Rayward, D. H. (1986). Citrullinemia as a cause of
+neurological disease in neonatal Friesian calves. Aust.
+Vet. J. 63, 378-379.
+Isashiki, Y., Noda, T., Kobayashi, K., Sase, M., Saheki, T.
+& Titani, K. (1989). Identification of essential arginine
+of human
+residue(s)
+for
+Mg-ATP
+binding
+argininosuccinate synthetase. Protein Seq. Data Anal. 2,
+283-287.
+Jackson, M. J., Kobayashi, K., Beaudet, A. L. & O'Brien,
+W. E. (1989). Analysis of deletions at the human
+argininosuccinate synthetase locus. Mol. Bioi. Med. 6,
+179-186.
+Kobayashi, K., Jackson, M. J., Tick, D. B., O'Brien, W. E.
+& Beaudet, A. L. (1990). Heterogeneity of mutations
+in argininosuccinate synthetase causing human
+citrullinemia. J. Bioi. Chern. 265, 11361-11367.
+Morris, C. J. & Reeve, J. N. (1988). Conservation of
+structure in the human gene encoding argininosuccinate
+synthetase and the argG genes of the archaebacteria
+Methanosarcina barkeri MS and Methanococcus vanielii.
+J. Bacteriol. 170,3125-3130.
+Sambrook, J., Fritsch, E. F. & Maniatis, T. (1989).
+Molecular Cloning. A Laboratory Manual, Cold Spring
+Harbor Laboratory Press, Cold Spring Harbor, NY,
+pp.758-778.
+Smith, R. F. & Smith, T. F. (1990). Automatic generation
+of primary sequence patterns from sets of related protein
+sequences. hoc. Nat. Acad. Sci., U.S.A. 87, 118-122.
+Su, T.-S. & Lin, L.-H. (1990). Analysis of a splice acceptor
+site mutation which produces multiple splicing
+abnormalities in the human argininosuccinate synthetase
+locus. J. Bioi. Chern. 265, 19716-19720.
+Su, T.-S., Bock, H.-G. 0., Beaudet, A. L. & O'Brien, W. E.
+(1982). Molecular analysis of argininosuccinate
+synthetase deficiency in human fibroblasts. J. Clin.
+Invest. 70, 1334-1339.
+Su, T.-S., Beaudet, A. L. & O'Brien, W. E. (1983).
+Abnormal mRNA for argininosuccinate synthetase in
+citrullinemia. Nature (London), 301, 533-534.
+Surh, L. C., Morris, S. M., O'Brien, W. E. & Beaudet,
+A. L. (1988). Nucleotide sequence of the cDNA encoding
+the rat argininosuccinate synthetase. Nue!. Acids Res. 16,
+9352.
+Surh, L. C., Beaudet, A. L. & O'Brien, W. E. (1991).
+Molecular
+characterization
+of
+the
+murine
+argininosuccinate synthetase locus. Gene, 99, 181-189.
+Tedesco, T. A. & Mellman, W. J. (1967). Argininosuccinate
+synthetase activity and citrulline metabolism in cells
+cultured from a citrullinemia subject. Proc. Nat. Acad.
+Sci., U.S.A. 57, 829-834.
+Van Vliet, F., Crabeel, M., Boyen, A., Tricot, C., Stalon,
+V., Falmagne, P., Nakamura, Y., Baumberg, S. &
+Glansdorff, N. (1990). Sequences of the genes encoding
+argininosuccinate synthetase in Escherichia coli and
+Saccharomyces
+cereVlSlae:
+Comparison
+with
+methanogenic archaebacteria and mammals. Gene 95,
+99-104.
+
+

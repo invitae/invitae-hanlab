@@ -1,0 +1,546 @@
+© 1992 Oxford University Press
+
+Human Molecular Genetics, Vol. 1, No. 3
+
+171-174
+
+Both mutations in G6PD A - are necessary to produce
+the G6PD deficient phenotype
+Margaret Town, Jose M.Bautista, Philip J.Mason and Lucio Luzzatto*
+Department of Haematology, Royal Postgraduate Medical School, Hammersmith Hospital, London W12 ONN, UK
+Received March 17, 1992; Revised and Accepted April 9, 1992
+
+ABSTRACT
+
+INTRODUCTION
+G6PD deficiency has been known to be a cause of haemolytic
+anaemia for over 30 years'. However, the molecular basis of
+G6PD deficiency has been clarified only recently2-3. Nearly all
+G6PD variants associated with enzyme deficiency so far
+characterized at the molecular level result from single point
+mutations3-4. The two exceptions are G6PD Sunderland, which
+has a 3 bp deletion5, and G6PD A - , which has two separate
+point mutations6, as had been previously suggested7. One of
+these two mutations (126 Asn —Asp) is found on its own in the
+variant G6PD A, which is non-deficient, is polymorphic in
+Africa8, and is easily resolved electrophoretically from the
+normal enzyme type, G6PD B. This would suggest that the other
+mutation (68Val — Met) is responsible for G6PD deficiency.
+Because the electrophoretic mobility of a G6PD type with this
+
+* To whom correspondence should be addressed
+
+amino acid replacement is expected to be normal, the
+corresponding phenotype ought to be ' B - ' . Although this
+phenotype has been rarely reported in Africa9, we have not
+found the Val —Met mutation alone in DNA from about 100
+G6PD deficient or from 50 G6PD normal samples we have tested
+(ref. 10 and T. Vulliamy, unpublished observations). Thus, it is
+not clear whether the 68Val —Met replacement would cause
+enzyme deficiency by itself.
+In order to resolve this question, we have used site-directed
+mutagenesis to introduce the two mutations of G6PD A - , both
+separately and together, into an expression construct able to
+produce human G6PD in E. coli. We report here that in fact
+G6PD deficiency arises in the variant A - through an unexpected
+synergistic interaction between the two amino acid replacements
+that co-exist in the protein molecule.
+
+RESULTS
+Production of recombinant mutant enzymes
+Normal human recombinant G6PD was produced in a mutant
+strain of E.coli devoid of endogenous G6PD activity". The
+enzyme was purified to homogeneity by affinity chromatography
+as previously described1213. Point mutations were introduced
+into the G6PD expression plasmid to produce mutated proteins
+(Fig.l) which were then purified using the same method. SDS
+PAGE analysis of the purified enzyme preparations on overloaded
+gels shows a single protein band, and the maximum level of
+impurities is estimated at less than 5% (data not shown).
+Characterization of mutant enzymes
+For each construct we first determined the molecular specific
+activity of the enzyme purified to homogeneity (Table 1). Each
+of the two mutations of G6PD A - causes some loss of catalytic
+activity, and when both are together the effect is approximately
+additive. However, even with both mutations the specific activity
+of the enzyme is still 50% of normal, which cannot account for
+the extent of deficiency associated with G6PD A— in red cells
+(about 12%: see line 4 in Table 1).
+We next analyzed the yield of enzyme activity obtained in
+parallel cultures. Here again we find a decrease (of about 30%)
+with each of the the two mutations. However, when both
+mutations are present together the yield is only 4%. In order to
+make sure that this is not due to different kinetics of enzyme
+
+Downloaded from http://hmg.oxfordjournals.org/ at Reprints Desk on October 4, 2016
+
+The high prevalence of glucose 6-phosphate dehydrogenase
+(G6PD) deficiency in African populations is due almost
+entirely to the enzyme variant A - , which differs from the
+wild-type G6PD B by two amino acid replacements, 68
+Val—Met and 126 Asn—Asp. The non-deficient polymorphic
+variant G6PD A contains only the mutation 126 Asn—Asp.
+The frequencies of the G6PD A and of the G6PD A - genes
+in parts of Africa are both about 0.2. The 68 Val—Met
+mutation has not been found in a B background. This could
+be because the 68 Val—Met mutation happened to arise in
+an A gene in the first instance, or because the 68 Val—Met
+mutation alone is not sufficient to cause G6PD deficiency. We
+have approached this question by producing G6PD B, A, A - ,
+and G6PD 68 Val—Met in a bacterial expression system and
+analysing their biochemical properties. With each single
+mutation we found a slight decrease in both the specific
+activity and the yield of enzyme when compared to G6PD
+B. When both mutations were introduced together, there was
+a roughly additive effect on specific activity, but a much more
+drastic effect on enzyme yield (4% of normal). This synergistk
+effect was also demonstrated on thermal stability, especially
+at low NADP concentrations. Comparable results were
+produced when the replacement 119 Gin—Glu was studied
+instead of 126 Asn—Asp. We infer that the coexistence of
+the two mutations is responsible for enzyme deficiency in
+G6PD A - because they act synergistically in causing
+instability of the enzyme.
+
+172 Human Molecular Genetics, Vol. 1, No. 3
+production we tested the yield as a function of time during culture
+from 2 to 24 hours: the ratio of activity between G6PD A - and
+G6PD B was always less than 0.12.
+Instability of the G6PD A - enzyme
+Since the amount of plasmid (as assessed by inspection of agarose
+gels: data not shown) was similar in each culture, the most likely
+explanation for the loss in enzyme activity is that the combination
+of the two changes makes the protein molecule unstable. Since
+the most conspicuous difference betwee G6PD B and G6PD A,
+caused by the 126 Asn—Asp replacement, is the change in net
+charge, we have introduced a similar replacement, 119 Gin —Glu
+in a nearby position. Thisreplacementby itself causes a signficant
+loss in the yield of enzyme, but again this is much more severe
+if combined with the 68 Val — Met replacement (lines 5 and 6
+in Table 1).
+
+It is quite striking that the yields obtained from the bacterial
+cultures producing G6PD B, A and A - parallel closely the levels
+of enzyme activity found in human red cells from subjects with
+these G6PD variants (Table 1, column 5). We have previously
+used the temperature-dependence of enzyme inactivation (melting
+curves) as a sensitive method to measure differences between
+G6PD variants14. By this technique we found that G6PD A has a lower melting temperature than either the wild type or the
+single mutants (Fig 2). The difference is especially apparent at
+very low NADP concentrations, in keeping with results
+previously obtained with the red cell enzyme14. In addition,
+immunoblot analysis with an anti-G6PD antibody15 shows
+similar amounts of G6PD protein from bacterial cultures
+producing G6PD B and A, but only a very faint band from a
+comparable culture producing G6PD A - (Fig 3).
+
+S
+
+B B.
+—K.V.W
+
+1 1
+
+X
+
+G6PD
+
+——,
+
+/
+
+112
+
+125.
+
+Val
+
+Gin
+
+Asn
+
+B
+
+val
+
+Sin
+
+Asp
+
+A
+
+Met
+
+6 in
+
+Asn
+
+6SM
+
+Met
+
+Gin
+
+Asp
+
+A-
+
+val
+
+Glu
+
+Asn
+
+1 19E
+
+Met
+
+Glu
+
+Asn
+
+1 I9E.68M
+
+Figure 1. The G6PD constructs used in this study. G6PD cDNA'2 (stippled) was
+cloned into plasmid pKK233-2 (ref 33) behind the trc promotor. The wild type
+sequence (B) was then mutated so as to have, in the three positions 68, 119 and
+126 the amino acid residues shown below the diagram (mutated amino acids are
+shown in bold). Restriction enzyme sites are B, BamHI; Bs, BstEII; S, Smal:
+X, Xhol.
+
+G6PD is a 'housekeeping' enzyme ubiquitously present in cells
+at low concentrations4. Some 300 G6PD alleles associated with
+enzyme deficiency have been reported, with residual activity in
+red cells ranging from less than 3 to 20% of normal4. Numerous
+polymorphic G6PD deficient alleles have been characterized in
+human populations. For instance, G6PD Mediterranean has a
+prevalence of between 1 and 60% in various ethnic groups in
+the Mediterranean region and in the Middle East. G6PD A — ,
+the subject of this study, has a prevalence of 1 to 22% in
+populations in Africa and of African descent, with tens of millions
+of people affected, fortunately generally asymptomatic16.
+G6PD mutant alleles must meet one or more of certain
+requirements in order to become polymorphic. First, they may
+be neutral with respect to natural selection; this is probably the
+case for the non deficient variant G6PD A. Second, they may
+cause a degree of enzyme deficiency in red cells that confers
+relative resistance against malaria: thus, they will increase in
+frequency as a result of selection by Plasmodium falciparum[1.
+Third, they must not cause an enzyme deficiency so severe as
+to produce chronic haemolysis; many such alleles exist18, but
+none has become polymorphic in any population.
+
+Table 1. Properties of natural and artificial G6PD mutants*
+G6PD type
+
+Mutations
+introduced
+
+Specific activity
+% of Bb
+
+1
+
+1
+
+3
+
+Enzyme
+activity
+from culture
+% of B<
+4
+
+B
+
+None
+126 Asn —Asp
+68 Val-Met
+126 Asn —Asp
+68 Val-Met
+119 GIn-Glu
+68Val- Met
+119 GIn-Glu
+
+100±9
+90±l5
+76 ±22
+5O±7
+
+100±18
+66±1
+69±I8
+4±1
+
+100
+84
+-
+
+17±2
+2.5±0.6
+
+—
+-
+
+A
+68M
+A-
+
+U9E
+U9E:68M
+
+98±5
+62 ±13
+
+Enzyme
+activity
+in red cells
+% of B<i
+
+5
+
+12
+
+a) Cultures were grown for 20 to 22 hours to an OD 550 of 10.4 ±2.4. After lysis of the cells G6PD activity was measured on an
+aliquot of the extract13. From the remaining extract the enzyme was punfied to homogeneity by affinity chromotography The values
+shown in columns 4 and 5 are the means ± sd for 5 separate experiments.
+b) The specific activity of G6PD B purified protein was 220± 21 IU/mg protein.
+c) The yield of enzyme activity of G6PD from 500ml of culture was 1.78O±31 IU.
+d) from ref 30. This value represents the enzyme activity of G6PD (in I.U. per g Hb) in red cells of individual males with the different
+G6PD variants.
+
+Downloaded from http://hmg.oxfordjournals.org/ at Reprints Desk on October 4, 2016
+
+DISCUSSION
+
+Human Molecular Genetics, Vol. 1, No. 3 173
+activity, but a strongly synergistic effect with respect to enzyme
+activity yield. In other words, the 68Val —Met replacement
+causes enzyme deficiency only if it exists in a G6PD A context,
+in keeping with the second alternative mentioned above. That
+a charged amino acid change (119 Glu— Gin) close to the G6PD
+A mutation (126 Asn— Asp) behaves in a similar manner
+suggests it may be this change in net charge that renders the
+molecule more likely to become unstable as a result of a second
+mutation.
+Our data do not exclude the occurrence of the 68Val—Met
+mutation on its own: indeed, this situation would be expected
+to arise, very rarely, by genetic recombination. Since this amino
+acid replacement is electrophoretically silent, and we predict that
+it would not cause G6PD deficiency in red cells, it is not
+surprising that it may have passed unnoticed. It could only be
+detected by targeted analysis of normal African subjects at the
+DNA level.
+Red cell G6PD deficiency in A — is due to loss of enzyme
+activity on red blood cell aging22, and in certain experimental
+conditions the lowered stability of the A-enzyme can be
+demonstrated in vitro. In agreement with previous studies on the
+red cell enzyme we find here, using purified recombinant G6PD,
+that the thermal stability of A — in low NADP concentrations
+is reproducibly lower than that of A and B. The stability of
+various G6PD types in E. coli is reflected in the yield of enzyme
+from cultures, and it correlates with their stability in red cells.
+Since properties of proteolytic enzymes of E. coli and of human
+red cells are likely to be quite different, it seems reasonable to
+surmise that these mutations introduce an intrinsic instability in
+the enzyme molecule. The thermostability data support this view.
+We conclude that the enzyme deficiency of G6PD A —, one
+of the most prevalent types of human enzymopathy23, results
+
+M
+
+2
+
+3
+
+A
+
+5
+
+M
+
+i*
+11
+
+10
+
+9
+
+6
+
+3
+
+-log NADP CONCENTRATION (M)
+
+B
+
+u
+
+11
+
+9
+
+7
+
+5
+
+3
+
+-log NADP CONCENTRATION (M)
+
+Figure 2. Transition temperatures of recombinant G6PD variants. The temperature
+at which 50% of the original enzyme activity remains ( T ^ O is plotted against
+the NADP concentration (M) Graph 1: B, white square; A, white circle; A - ,
+black square. Graph 2: B, white square, 119, white circle; 119+68, black square.
+
+Figure 3. Western blot of recombinant G6PD proteins. Lysates of cells expressing
+recombinant G6PD enzymes and containing equal quantities of total protein were
+electrophoresed in a denaturing polyacrilamide gel. After western blotting, filters
+were hybridised to G6PD specific antibody and the contact time extended in order
+to detect very small quantities of G6PD protein. This resulted in a high background.
+The arrow shows the position of G6PD. Lane 1, untransformed DR6I2 cells.
+Lane 2, G6PD B. Lane 3, G6PD A Lane 4, G6PD 68M. Lane 5.G6PD A - .
+M molecular weight markers.
+
+Downloaded from http://hmg.oxfordjournals.org/ at Reprints Desk on October 4, 2016
+
+The experiments reported in this paper were designed to explain
+the observation that most of the G6PD deficiency in Africa
+(G6PD A - ) is caused by a double mutation (68Val — Met,
+126Asn — Asp), i.e. by a second mutation in the rarer A allele
+(frequency about 20%), rather than by a single mutation in the
+more common B allele (frequency about 60%). This situation
+is thus far unique, since polymorphic variants associated with
+G6PD deficiency in other parts of the world (e.g. G6PD
+Mediterranean, G6PD Mahidol) result from single point
+mutations.
+G6PD A— has clearly become polymorphic on account of
+malaria selection. In principle, we can envisage two explanations
+as to why it is a double mutant. (1) If 68Val —Met occurred on
+its own, it would be so severely deficient as to be quasi-lethal,
+and therefore not susceptible to positive selection. (2) If
+68Val —Met occurred on its own, it would not cause G6PD
+deficiency, and therefore it would not confer any advantage
+against malaria (as has been previously speculated19"21). As for
+the first possibility, the experiments reported here show that the
+single mutation (68Val —Met) is not likely to be lethal: in fact,
+a protein containing this mutation has a specific activity and
+stability similar to the normal G6PD types A and B. By contrast,
+our data show that each of the two amino acid replacements of
+G6PD A — causes a decrease in both specific activity and enzyme
+activity yield. The co-existence of the two mutations in the same
+molecule has a simple additive effect with respect to specific
+
+174 Human Molecular Genetics, Vol. 1, No. 3
+from the fact that the 68 Val —Met mutation has occurred in a
+G6PD A gene, which was already polymorphic in Africa. Malaria
+selection has then caused the G6PD A — gene to become in turn
+polymorphic17. Examples of double mutants are already known
+in human genetics: for instance, in the cases of Hb C Harlem24
+and of Hb S Antilles25. However, as far we know, this is the
+first instance in which a double mutant produces pathology, where
+each of the two mutations alone would be asymptomatic.
+MATERIALS AND METHODS
+
+Bacterial strains, cultures and enzyme analysis
+For the expression of normal or mutant G6PD E. coli strain DR6121728 was
+transformed with the appropriate expression plasmid, pKK233-2 G6PD or one
+of its derivatives (selectable with ampicillin). 200 ml of Superbroth medium29
+containing ampicillin (50 ^g/ml) were inoculated with 2 ml of an overnight culture
+of bacteria, and incubated at 37°C with shaking. After incubation for 90 min,
+cells were induced with 4 mM isopropyl-1 -thioiS-D-galactopyranoside, and grown
+for 20 to 22 hours to an O.D.550 of 10.4 ± 2.4. After lysis of the cells G6PD
+activity was was measured on an aliquot of the extract. From theremainingextract
+the enzyme was purified to homogeneity by affinity chromatography as described
+previously12.
+Enzymatic assays were performed measuring the increase in absorbance at 340
+run according to previously published procedures30. The buffer used in the kinetic
+studies was always Tris-Borate 0.25 M pH 8.0 (ref.7).
+The technique used to study thermal denaturatkxi ('melting curves') of recombinant
+G6PD variants was essentially as previously described14. Purified enzymes were
+diluted in NADP-free buffer, containing 0.1 % BSA, and concentrated using
+rrucroconcentrator tubes (Amicon). Dialysis was carried out with several changes
+of buffer until the concentration of NADP was calculated to be 10 pM. Portions
+of the dialysed solutions were adjusted to the specified NADP concentrations and
+aliquots of these were heated to the specified temperatures for 7 minutes, placed
+on ice and then assayed for G6PD activity. Western blotting and probing with
+anti-G6PD antibodies was performed as described previously31.
+
+ACKNOWLEDGEMENTS
+We thank Dr T.Vulliamy and Dr V.Calabro for numerous suggestions;
+Mr D.Stevens for excellent technical assistance, and Dr Max Perutz for helpful
+comments on the manuscript. Financial support for this work was received from
+the MRC through a Programme Grant and from the EEC. P.M., J B. and M.T.
+received travel funds from a British Council Acciones Integradas grant.
+
+REFERENCES
+1. Carson, P. E., Flanagan, C. L., Ickes, C. E. & Alving, A. Science 124.
+484-485 (1956).
+2. Vulliamy, T. J , D'Urso, M., Battistuzzi, G. . et al. Proc. Natl. Acad. Sci.
+USA 85, 5171-5175 (1988)
+3. Beutler, E. N. Engl. J. Med. 324, 169-174 (1991).
+4. Vulliamy, T.J., Mason, P.J. & Luzzarto.L. TIG, in the press.
+5. MacDonald, D., Town, M., Mason, P. J., Vulliamy.T, J, Luzzatto, L. &
+Goff, M. C. Nature 350, 115 (1991).
+6. Hirono, A. & Beutler, E. Proc. Natl. Acad. Sci. USA 85, 3951-3954 (1988).
+7. Babalola, A. O. G., Bectlestone, J. G. & Luzzatto, L. J. Biol. Chem. 251.
+2992-3002 (1976).
+8. Luzzatto, L. Israel J Med Sci 9. 1181-1194 (1973).
+9. Owusu, S.K. and Opare-Manta, A. (1972). Lancet ii:44
+
+Downloaded from http://hmg.oxfordjournals.org/ at Reprints Desk on October 4, 2016
+
+Ptasmid constructs
+All DNA manipulations were carried out by standard procedures26. The
+construction of plasmid pKK233-2 G6PD and its use to produce pure G6PD in
+E.coli has been described12. Using a single-stranded M13 clone containing the
+BamHI-XhoI fragment oligonucleotidc-directed mutagenesis was performed27 to
+generate the amino acid substitutions. Oligonucleotides used were: I, GGCATAGCCCATTATGAAGGTGTT, to produce the change 68 Val-Met; II,
+GGAGGGCATCCATGTGGCTG, to produce the change 126 Asn-Asp; and
+III, GAGGCGCTCGTAGGAGGC, to produce the change 119 Glu-Gln.
+The BstEII-Smal fragment, containing the mutation was then checked by
+nucleotide sequence analysis and cloned into BstEII-Smal cleaved pKK233-2
+G6PD.
+
+10. Vulliamy.T.J., Othman.A., Town.M., Nathwani.A , Falusi.A.G.,
+Mason,P.J.,.and Luzzatto. L. (1991) Proc. Nail. Acad. Sci. USA 88
+8568-8571
+II Fraenkel.D. (1968) J. Bactenol. 95, 1267-1271.
+12. Bautista, J., Mason, P. & Luzzatto, L. (1992) Bkxhim Biophys Acta (in press)
+13. Mason, P. J., Bautista, J., Vulliamy, T. J., Turner, N. & Luzzatto, L. Cell
+63, 9-10 (1990).
+14. Luzzatto, L. & Allan, N. C. (1965) Biochem. Biophys. Res. Commun. 21,
+547-554
+15. De Flora, A., Morelli, A., Frascio, M., Corte, G., Curti, B., Galliano, M ,
+Gozzer, C , Minchiotti, L., M (1977). Biochim. Biophys Acta 500:
+109-123
+16. Luzzatto.L. and Mehta.A. (1989) In Scriver.C.R., Beaudet.A.L., Sly.W.S.
+and Valle.D. (eds.). The Metabolic Basis of Inherited Disease. McGrawHill, New York, Vol. 6th . pp. 2237-2265.
+17. Luzzatto, L. Blood 54, 961-976 (1979).
+18. Beutler, E. in Hemolytic anemia in disorders of red cell metabolism (ed
+Beutler, E.) 23-167 (Plenum Medical Book Company, New York, 1978).
+19. Beutler, E. (1989) Blood 73, 1397-1401
+20. Beutler, E. (1989) Blood 73,1860-1861
+21. Yoshida, A. (1989) Blood 73, 1860
+22. Piomelli.S., Corash.L.M., Davenport,D D., MiragliaJ. and Amorosi.E.L
+(1968) J. Clin. Invest., 47, 940-948.
+23. Luzzatto, L & Battistuzzi, G. Adv Hum Genet 14, 217-329 (1985).
+24. Bookchin, R. M., Nagel, R. L. & Ranney, H. M. J Biol Chem 242. 248
+(1967).
+25. Monplaisir, N., Merault, G., Poyart, C , et al. Proc. Natl. Acad. Sci 83,
+9363-9367 (1986).
+26. Sambrook.J. Fritsch,E.F. and Maniatis.T. (1989) Molecular Cloning. A
+laboratory manual. Cold Spring Harbor New York.
+27. Zoller.M.J. and Smith.M. (1983) Meth. Enzymol. 100, 468-500.
+28. Rowley, D., and Wolf, J. (1991). J. Bactenol. 173: 968-977
+29. Davis.R.W., Botstein.D. and RothJ.R. (1980). Advanced Bacterial Genetics
+Cold Spring Harbor.New York.
+30. Battistuzzi,G., Esan G.J.F., Fasuan.F.A., Modiano.G. and Luzzatto. L.
+(1977) Am. J. Hum. Genet. 29, 31-36.
+31 Mason, P., Vulliamy, T., Foulkes, N., Town, M., Haidar, B , and Luzzatto,
+L. (1988) Eur.J. Biochem 178: 109-113
+32. Persico, M. G., Viglietto, G., Martini, G. , et al. Nucl Acids Res. 14,
+2511-2521 &7822 (1986)
+33. Amann, E. & Brosius, J. Gene 40, 183 (1985).
+
+

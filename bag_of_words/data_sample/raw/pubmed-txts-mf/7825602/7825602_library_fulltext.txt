@@ -1,0 +1,826 @@
+Am. J. Hum. Genet. 56.44-50, 1995
+
+Spectrum of Mutations in the Gene Encoding the
+Adrenoleukodystrophy Protein
+Marjolijn J. L. Ligtenberg,' Stephan Kemp,2 Claude-Olivier Sarde,3 Bjorn M. van Geel,2 Wim J. KleiJer,4
+Peter G. Barth,2Jean-Louis Mandel,3 Bernard A. van Oost,' and Pieter A. Bolhuis2
+'Department of Human Genetics, University Hospital Nilmegen, HB, Nijmegen; 2Department of Neurology, Academic Medical Center, Amsterdam;
+3Laboratoire de Genetique Moleculaire des Eucaryotes du CNRS, Unite 184 de l'INSERM, Strasbourg; and 4Department of Clinical Genetics, Erasmus
+University, Rotterdam
+
+Summary
+X-linked adrenoleukodystrophy (ALD) has been associated with mutations in a gene encoding an ATP-binding
+transporter, which is located in the peroxisomal membrane. Deficiency of the gene leads to impaired peroxisomal n-oxidation. Systematic analysis of the open reading frame of the ALD gene, using reverse transcriptasePCR, followed by direct sequencing, revealed mutations
+in all 28 unrelated kindreds analyzed. No entire gene deletions or drastic promoter mutations were detected. In
+only one kindred did the mutation involve multiple exons.
+The other mutations were small alterations leading to missense (13 of 28) or nonsense mutations, a single amino acid
+deletion, frameshifts, or splice acceptor-site defects. Mutations affecting a single amino acid were concentrated in
+the region between the third and fourth putative transmembrane domains and in the ATP-binding domain. Mutations were detected in all investigated ALD kindreds,
+suggesting that this gene is the only gene responsible for
+X-linked ALD. This overview of mutations is useful in the
+determination of structurally and functionally important
+regions and provides an efficient screening strategy for
+identification of mutations in the ALD gene.
+Introduction
+X-linked adrenoleukodystrophy (ALD) is a peroxisomal
+disorder characterized by impaired peroxisomal P-oxidation of very-long-chain fatty acids (VLCFAs), which probably is a consequence of reduced activation of the
+VLCFAs. This results in demyelination of the nervous system and adrenocortical insufficiency. The phenotype of
+ALD is highly variable, the most frequent phenotypes being childhood cerebral ALD, adrenomyeloneuropathy
+(AMN), and adrenocortical insufficiency (Addison disReceived July 20, 1994; accepted for publication October 4, 1994
+Address for correspondence and reprints: Dr. P. A. Bolhuis, Department of Neurology, Academic Medical Center, Meibergdreef 9, 1105
+AZ Amsterdam, the Netherlands.
+© 1995 by The American Society of Human Genetics. All rights reserved.
+0002-9297/95/5601-0006$02.00
+
+44
+
+ease). All male ALD patients and most carriers have an elevated level of VLCFA in plasma and fibroblasts, making
+the diagnosis of ALD relatively straightforward (for overview see Moser and Moser 1989).
+Recently, a gene responsible for the disease in ALD patients was identified, using positional cloning, on the basis
+of its localization in Xq28 close to the color-vision genes.
+The ALD gene belongs to the superfamily of ATP-binding
+cassette (ABC)-transporter genes and encodes a protein,
+ALDP, containing six putative membrane-spanning regions and one ATP-binding domain (Mosser et al. 1993).
+ALDP shows 30% identity with PMP70, a peroxisomal
+membrane protein also belonging to the ABC-transporter
+family (Kamijo et al. 1990). Monoclonal antibodies raised
+against part of ALDP showed the protein to be located in
+the peroxisomal membrane. This suggests that this protein
+plays a role in the active transport of enzymes, cofactors,
+and/or substrates involved in the P-oxidation of VLCFA
+over the peroxisomal membrane (Contreras et al. 1994;
+Mosser et al. 1994). Intragenic deletions were initially
+found in -6% of the unrelated ALD patients analyzed
+(Mosser et al. 1993). Also, two point mutations, one leading to a missense and the other to a nonsense mutation,
+have been described more recently (Cartier et al. 1993;
+Uchiyama et al. 1994). Moreover, ALDP could not be detected in lymphoblast and fibroblast lines of several ALD
+patients (Contreras et al. 1994; Mosser et al. 1994).
+We report the first systematic analysis of ALD mutations, over the whole protein-coding region, in a large
+group of patients. We identified ALD mutations in all 28
+independent kindreds studied. This overview of the type
+and position of the mutations gives more insight into the
+structurally and functionally important regions of the protein and facilitates the design of a strategy for the identification of mutations in other ALD kindreds.
+Material and Methods
+Oligonucleotide Primers
+For nomenclature of the primers, the positions of the 5'
+end of the oligonucleotides are indicated, followed by
+"F," for forward, or "R," for reverse primers. Positions
+refer to those given by Mosser et al. (1993) (EMBL database Z21876). Primers followed by an asterisk are located
+
+45
+
+Ligtenberg et al.: Mutations in the ALD Gene
+
+IV *t
+11 *
+I
+
+.
+
+V 0*
+
+D
+
+400
+
+1
+
+I
+
+44
+
+11rDAD<k<\71l
+
+>
+
+I
+200
+
+D
+
+A
+
+A
+600
+
+60
+
+1000
+
+1200
+
+140
+
+low
+
+18
+
+2000
+
+2200
+
+2400
+
+2600
+
+Figure I
+Schematic representation of primer positions. The box represents the open reading frame of the ALD mRNA. The lines before and
+behind the box represent the 5' UTR and 3' UTR, respectively. Lines 7-9 represent introns in which primers were chosen to confirm the mutations on
+genomic DNA (not to scale); lines I-V represent the overlapping PCR products that cover the entire open reading frame of the cDNA. Blackened
+triangles represent primers used in the amplification of the cDNA and sequencing (see also table 1); and unblackened triangles indicate primers used
+for sequencing of these PCR products. Primers depicted in the intron sequences and below the cDNA are used only in the confirmation of the
+mutations on genomic DNA. Triangles pointing to the right indicate forward primers, and those pointing to the left indicate reverse primers. The
+approximate position of the primers is indicated by the scale bar, denoting the nucleotide number of the cDNA (see Mosser et al. 1993). Primer
+sequences are as follows: 303F, AGCAACAATCCTTCCAGCC; 576F, AAAGCTGGCATGAACCGGG; 685F, CCTTGGTGAGCCGCACCTTC;
+702F, TTCCTGTCGGTGTATGTGGC; 914F, CCAGCAGACCTACTACCGGG; 1300F, TGCTACAGCGCTCCTACCAG; 1479F, GTGAAGAAGGCAGCCTTGGA; 1681F, GTCACTTCAAGAGGCCCAGG; 1781F, CCAGGTGGTGGATGTGGAA; 1870F, TCAGGGTGGAGGAAGGCAT;
+1880F, GGAAGGCATGCATCTGCTC; 1890F, CATCTGCTCATCACAGGCCC; 2061F, TACCCGGACTCAGTGGAGGA; 2312F, GATCTTCCAGGCGGCCAAGG; 2527F, AGGAGCTCTGCCAGATCCTG; 593R, CCGGTTCATGCCAGCTTTGGC; 821R, GGTAGCAGGGAGGGCGATGA;
+840R, GGATGGCACTGTTGACGAAGG; 931R, CGGTAGTAGGTCTGCTGGGA; 1145R, GAGGAACACCACGAGGCCGG; 1231R, TGTAGCGCAGCTCCCCCTTC; 1384R, AACTGCTCCAGCATAACATACCAC; 1409R, GGCGCTCCACACATACTTCA; 1542R, TGAAGGCTTCTGTGCGCTC; 1752R, GGACACCAGACCGGCCTAT; 1861R, CTGGCCACCACCACCTCT; 1975R, ACACCACCGTACGTGGGC; 2016R, GCGGGATGTAGAACATGC; 2114R, CAGGTCCTGCTCCGAGTAGC; 2194R, TCCTTCCAGTCACACATAGCCTC; 2204R, CGACAGGACGTCCTTCCAGT; 2366R, CCGGTGGGTGATGGAGAG; 2478R, GCTGCTTCTCCTCCGTCAG; 2669R, TGTGATCCGAGGTTGGGG; 2686R,
+TGCTGCTGTCTCCTTCATGTG; 2742R, GGGTTT--TCTAGGAGGAGGGG; 544F*, CAGGGGCCCTGTCGTCACAG (intron 7); 849F*, TGGAGGGTGCACAGACTCTC (intron 8); 876R*, GCCGAGAGGAGAGTCTGTGC (intron 8); and 1078R*, AGGCCACCTCCTCCCCTCAG
+(intron 9).
+
+in introns, and the numbers refer to their position in a partial genomic DNA sequence encompassing part of intron
+7 through exon 10 (Sarde et al. 1994). For a schematic
+presentation of the primer positions and sequences, see
+figure 1.
+Cell Lines, RNA Isolation, Reverse-Transcriptase-PCR, and
+Sequencing
+Fibroblast lines from 25 male patients and 3 female carriers, who were diagnosed on the basis of clinical findings
+and elevated levels of VLCFAs in plasma or fibroblasts
+from 28 unrelated ALD kindreds, were cultured in Dulbecco's modified Eagle medium, supplemented with 10%
+FCS and 50 ig gentamycin/ml or 50 U penicillin/ml and
+50 U streptomycin/ml. On trypsinization, the cells were
+washed twice in ice-cold PBS. RNA was isolated using guanidinium isothiocyanate, as described elsewhere (Kemp et
+al. 1994b) or RNAzol (Biotecx), according to the protocol
+supplied by the manufacturer. Reverse transcription was
+performed with random primers, using Maloney murine
+leukemia virus-reverse transcriptase (Gibco-BRL). The
+cDNA was amplified as five overlapping fragments (see fig.
+1 and table 1). When two subsequent PCR reactions were
+used, 5 gl of the first reaction was transferred to the second reaction, making an end volume of 100 gl. PCR reactions of fragment 1 were performed in 10 mM Tris-HCI
+
+pH 8.4, 2.25 mM MgCl2, 50 mM NaCl, 0.01% gelatin,
+0.1% Triton X-100, 10% dimethylsulfoxide (DMSO), 0.2
+jg BSA/gl (Boehringer-Mannheim), 0.65 mM dNTP, 1 ng
+each forward and reverse primer/gl, and 0.05 U AmpliTaq
+DNA polymerase/gl (Perkin-Elmer). For fragments 2 and
+5, 67 mM Tris-HCI pH 8.8, 6.7 mM MgCl2, 16.6 mM
+(NH4)2SO4, 10mM ,-mercaptoethanol, 10% DMSO, 0.2
+jg BSA/gl, 0.65 mM dNTP, 1 ng each forward and reverse primer/gl, and 0.05 U AmpliTaq DNA polymerase/
+jl were used. PCR was performed for 30 cycles (1 min at
+93°C, 1.5 min at 55°C, and 2 min at 72°C for fragment 1;
+and 1 min at 94°C, 1.5 min at 59°C, and 2 min at 72°C
+for fragments 2 and 5). PCRs of fragments 3 and 4 were
+performed as described by Kemp et al. (1994b). To remove
+free primers and nucleotides, products of fragments 1, 2,
+and 5 were separated on agarose gels, extracted from the
+gel, and precipitated. For fragments 3 and 4, the QIAquick-spin PCR purification kit (Qiagen) was used.
+Sequencing of fragments 1, 2, and 5 was performed with
+the Taq DyeDeoxy terminator cycle sequencing kit (Applied Biosystems and Perkin-Elmer), using the primers indicated in figure 1 and table 1, according to the protocol
+supplied by the manufacturer. The sequence reactions
+were run and analyzed, using an automatic sequencer (ABI
+373A). Sequencing and analysis of fragments 3 and 4 were
+performed as described by Kemp et al. (1994b).
+
+46
+
+Am.J. Hum. Genet. 56:44-50, 1995
+
+Table I
+Primers Used for PCR and Sequencing of ALD cDNA
+First-Step
+PCR
+
+Second-Step
+PCR
+
+....
+
+303F-840R
+685F-1409R
+
+....
+
+1300F-2016R
+
+303F-821R
+702F-1384R
+Not done
+
+303F,576F
+702F,914F
+1300F; 1479F; 1681F; 1781F;
+
+Not done
+
+1880F; 2061F
+
+2194R; 2204R
+
+1890F-2669R
+
+2061F;2312F;2527F
+
+2478R;2669R
+
+cDNA Fragment
+I .....
+II ......
+III ......
+
+.....
+
+IV ......
+V..........
+
+....
+
+Forward Sequencing
+
+Reverse Sequencing
+593R; 840R
+931R;1145R;1384R
+1542R; 1752R; 1861R; 1975R
+
+1880F
+1870F-2366R
+1870F-2686R
+
+NOTE.-Numbers followed by "R" or "F" indicate primers used in the PCR.
+Five overlapping fragments in which the open reading frame of the cDNA was amplified.
+
+'
+
+Confirmation of Mutations on Genomic DNA
+Chromosomal DNA was isolated from EDTA-anticoagulated blood or fibroblasts as described by Kemp et al.
+(1994b) or using the salt-extraction method (Miller et al.
+1988). Amplification of 100 ng of genomic DNA was performed in 100 jl, using oligonucleotide primers on both
+sides of the mutation (see table 2). Amplification with
+primers 303F and 821 R was performed, as described above
+for fragment 1 of the cDNA, for primers 1479F and
+1861R, and 1781F and 1861R conditions were used as described by Kemp et al. (1994b). The remaining PCRs were
+performed as described for fragment 2 and 4 of the cDNA.
+Mutations previously detected on cDNA were confirmed
+by HpaII digestion (T1045C and C929A), by analysis of
+the length of a radioactively labeled PCR product on a
+polyacrylamide gel (del 1801-1802) (Kemp et al. 1994b) or
+by direct sequencing of the PCR product as described
+above for the cDNA.
+To increase the specificity for genomic ALD sequences
+in Xq28, the amplification was performed in two subsequent steps for some of the PCRs (table 2, note g). For
+the first step, 0.1 ng DNA/jl was amplified in 10 cycles.
+Subsequently, 5 ,ul product was transferred to the second
+reaction, with a final volume of 100 jl. For all sequence
+reactions spanning exons 8-10, the annealing temperature
+in the cycle sequencing reaction was increased to 60°C,
+which is identical to the elongation temperature of the reaction. These conditions were used to exploit sequence
+differences between the ALD gene and homologous sequences that are not located on Xq28.
+
+Results
+Detection of Mutations Affecting the ALD mRNA
+Mutations in the ALD gene were analyzed in one
+affected person from each of 28 kindreds, by sequencing
+the ALD cDNA derived from male patients or female carriers. Overlapping PCR fragments representing the entire
+open reading frame were sequenced directly on both
+strands (for primers see fig. 1 and table 1). Only when a
+
+mutation resulting in a truncated protein product was detected and confirmed on genomic DNA (see below) was
+sequencing of the entire open reading frame not completed.
+Fragments representing ALD mRNA were obtained in
+all fibroblast lines. Since the PCRs were not necessarily
+performed in the linear range of amplification, and since
+this method of detection is able to reflect even very low
+amounts of ALD mRNA, the level of transcription of the
+ALD gene cannot be judged. Therefore, this method enabled us merely to detect qualitative alterations or complete absence of the mRNA.
+In all kindreds, a mutation of the ALD gene was detected. The nucleotide alteration was different for 24 of
+28 patients analyzed. No indication of more than one mutation was obtained in each case. An overview of all
+different mutations is given in table 2 and figure 2. Mutations are ordered 5' to 3', in five different classes: missense
+mutations (13), amino acid deletion (1), nonsense mutations (4), and frameshift mutations caused either by deletion of one or more nucleotides (8) or by splice site mutations (2).
+Apart from these mutations, a G/A polymorphism at
+position 1934 (no amino acid change) and a C/G polymorphism at position 2632 (downstream of the stop codon)
+were observed (Kemp et al. 1994b). In all cDNAs sequenced, the C at position 754 was replaced by a T, altering an alanine to a valine residue.
+Analysis of Mutations on Genomic DNA
+All mutations were confirmed in PCR products derived
+from genomic DNA of the patient or an affected family
+member, using the information about the exon-intron organization of the ALD gene (Sarde et al. 1994). Mutations
+C929A and T1045C were verified by digestion of a genomic PCR product by HpaII. The mutation C929A destroys
+a HpaII recognition site. Complete digestion was monitored by using a PCR product containing an additional
+HpaII site (primers 702F and 1145R). The mutation
+T1045C created a novel HpaII site, which was confirmed
+
+47
+
+Ligtenberg et al.: Mutations in the ALD Gene
+
+Table 2
+Mutations in the Putative ALD Gene in Patients Studied
+Type of Mutation and
+cDNA Alterationa
+
+Amino Acid
+
+GenomicMutation
+Detectiond
+
+Kindred
+Reference
+Number
+
+Alterationb
+
+Exonc
+
+Genomic-PCR
+Primers
+
+R104C (R)
+S149N (N)
+R152P (K)
+R163H (R)
+D194H (D)
+L220P (L)
+G266R (G)
+R389H (R)
+
+1
+1
+1
+1
+1
+1
+1
+3
+
+303F + 821R
+702F + 1145R
+702F + 1145R
+702F + 931R
+685F + 1145R
+914F + 1145R
+702F + 1231R
+1479F + 1861R
+
+303F, 821R
+702F, 931R
+702F, 931R
+702F, 931R
+914F, 1145R
+HpaII
+914F,1231R
+1479F,1752R
+
+AMN
+AMN
+ChALD
+SympCar
+ChALD
+AMN
+AMN
+AMN
+
+17
+8
+27
+14
+12
+7
+24
+20
+
+E609K(E)
+
+8
+8
+8
+9
+
+544F*+ 1078R*h
+544F*+ 1078R*h
+544F* + 2742R
+544F* + 2742R
+
+544F*, 876R*
+544F*, 876R*
+544F*, 876R*
+2312F, 1078R*
+
+AMN
+ChALD
+ChALD
+AMN
+
+13,18
+
+E609G (E)
+R617C (R)
+R660W (R)
+
+5
+23
+21
+
+del 1657 (V)
+
+9
+
+849F* + 2478Rh
+
+2312F,1078R*
+
+ChALD
+
+6
+
+Q133h
+
+ChALD
+
+Phenotype'
+
+Missense:
+C696Tf ................
+G832A ................
+G841C ................
+G874Af ................
+G966C ................
+T1045C ................
+G1182A .................
+G1552A .................
+(2X):
+G2211A .................
+A2212G ................
+C2235Tf ................
+C2364Tf ................
+Amino acid deletion:
+del 2355-2357
+Nonsense:
+C783Tf ................
+G797A ................
+C855T ................
+C929A ................
+
+W137h
+Q157h
+Y181h
+
+1
+1
+1
+1
+
+702F + 931R
+685F +1145R
+702F + 1145R
+702F + 1145R
+
+702F, 931R
+702F,931R
+702F,931R
+HpaIl
+
+ChALD
+AMN
+ChALD
+
+26
+10
+9
+15
+
+Frameshift:
+delC442 ................
+del C663 ................
+dell71-1178 ...........
+
+A19>
+G92>
+F261>
+
+1
+1
+1
+
+303F + 821R
+303F + 840R
+702F + 1231R
+
+303F,593R
+576F, 821R
+914F,1231R
+
+ChALD
+ChALD
+ChALD
+
+2
+22
+28
+
+E471>
+P534>
+
+5
+6-9
+
+1781F + 1861R
+1890F +2669R
+
+Polyacrylamide gel
+1890F,1078R*
+
+ChALD, AMN
+AMN
+
+3,4,16,25
+11
+
+R545>
+R622>
+
+SA 7
+SA 9
+
+1880F +2132R
+849F* + 1078R*h
+
+1880F,2114R
+849F*, 1078R*
+
+ChALD
+AMN
+
+1
+19
+
+...........
+
+(4X):
+
+del 1801-1802 ...........
+alt 1989-2377
+Splice defect:
+de12021-2054 ...........
+ins 8 bp 2251f ............
+
+...........
+
+Nucleotide numbers refer to Mosser et al. (1993), EMBL database Z21876.
+Amino acid numbers refer to Mosser et al. (1993) (start codon is +1); in case of a frameshift or splice-defect mutation, the last amino acid residue
+that is not altered in the expected protein product is indicated. The corresponding residue in the human PMP70 protein is indicated in parenthesis.
+"
+Exon number affected by the mutation. SA = alteration of the splice acceptor site (for details see Kemp et al. 1994a).
+d Numbers indicate primers used for sequencing. HpaII = mutation confirmed by HpaII digestion; and polyacrylamide gel = deletion monitored as
+a decrease in size of the PCR product.
+' Phenotype of the patient tested in this family-ChALD = childhood ALD; and SympCar = a symptomatic carrier.
+f Mutation that might be the result of deamination of methylated CpG.
+g Mutation detected in a female carrier and for which no other family material was available.
+h
+PCR input material was derived from PCR with primer 544F and primer 2669R (10 cycles). (See Material and Methods.)
+a
+
+b
+
+using a comparable PCR product (primers 914F and
+1145R). The dinucleotide deletion at positions 1801 and
+1802 was monitored by analysis of radioactively labeled
+PCR products overlapping the deletion site on a polyacrylamide gel. The remaining mutations were confirmed by direct sequencing of a genomic PCR product, using primer
+combinations as indicated in table 2.
+For the kindreds carrying the missense mutations
+G874A and C2235T, and for one of the kindreds with a
+dinucleotide deletion at positions 1801-1802, the cDNA
+fragments were derived from fibroblasts of female carriers.
+It was established, by analysis of genomic DNA from
+
+mothers (carriers on the basis of elevated levels of VLCFA)
+and unaffected sisters, that these alterations were indeed
+present in the affected alleles, except for the G874A alteration. No other material was available from the kindred in
+which the latter mutation was detected, and thus definitive
+proof that this alteration is indeed present in the mutated
+chromosome is not available. All other mutations were detected in male patient material.
+Mutations located in exon 8, intron 8, and exon 9 were
+difficult to detect in PCR products derived from genomic
+DNA, as a result of highly homologous sequences with
+exactly the same length amplified from unknown regions
+
+Am. J. Hum. Genet. 56:44-50, 1995
+
+48
+
+1
+
+2 3 4 56 7 89 10
+
+II
+
+Figure 2
+
+Distribution of mutations in the ALD gene. The boxes
+10 exons (Sarde et al. 1994);
+the lines between these boxes represent introns (not in scale), and those
+before exon 1 and behind exon 10 represent UTRs of the transcribed
+sequence. Hatched boxes represent regions encoding the six putative
+membrane-spanning domains (Klein et al. 1985); and the cross-hatched
+boxes represent the region encompassing the ATP-binding folds and their
+interjacent region. Each vertical bar represents the location of a mutation
+detected in this study. For the frameshift mutations, the last amino acid
+that is not altered by the mutation is indicated. The arrows represent the
+alteration of the splice acceptor site used, an alteration due either to
+mutation of the authentic splice acceptor site, resulting in the use of a
+cryptic acceptor site farther downstream, or to the generation of a novel
+splice acceptor site upstream of the actual splice site.
+represent coding regions distributed over the
+
+outside Xq28 (see also Sarde et al. 1994). With a primer in
+intron 7 and in the UTR, DNA from a human control and
+from a somatic cell hybrid containing Xq28 as the only
+source of human DNA was amplified. Comparison of sequences derived from either PCR product revealed differences between the ALD gene and the homologous sequences outside Xq28, which were used to design primers
+with preference for the ALD gene. These primers were applied under stringent conditions to generate PCR products
+and sequences that were more Xq28 specific. Although
+amplification of other copies was not completely avoided,
+it was possible to confirm the mutations previously observed in the cDNA, by comparison of sequences derived
+from control and patient DNAs.
+The most drastic alteration of the gene structure found
+led to a frameshift at amino acid position P534. In the
+cDNA, the region between nucleotide 1988 in exon 6 and
+nucleotide 2378, the start of exon 10, was absent, while 88
+nucleotides of unknown origin were inserted. Analysis of
+the mutation at the genomic level revealed a replacement of
+a region between nucleotide 1988 in exon 6 and nucleotide
+2368 in exon 9, by a segment of -574 nucleotides, which
+apparently harbors a cryptic splice donor site 89 nucleotides
+downstream of nucleotide 1988. Sequence comparison revealed that this segment is derived from an internal part of
+intron 7, which is --2 kb long (Sarde et al. 1994).
+Discussion
+We have detected a mutation in the coding region of the
+ALD gene in all 28 investigated ALD kindreds. No indications of drastic promoter mutations were obtained, as
+RNA could be detected in all patients. A single partial (and
+
+complex) deletion was observed, in agreement with the
+low (6%) frequency of such mutations reported by Mosser
+et al. (1993). No deletion of the entire gene has been reported to date.
+The ALD gene product shows all characteristics of an
+ABC transporter, with only a single domain containing putative membrane-spanning segments and one ATP-binding
+domain. The functional entity of a typical ABC transporter
+consists of two sets of these domains. In some transporters, both sets are assembled in a single polypeptide chain
+(like P-glycoprotein), while others are formed by dimerization of two polypeptides with a structure analogous to
+that of ALDP (like the peptide transporter, which is encoded by two closely linked genes on chromosome 6) (for
+review see Higgins 1992). This suggests that ALDP functions as a homodimer or forms a heterodimer with a homologous protein. Mutations affecting this putative partner would most likely also lead to an ALD phenotype. We
+can now practically exclude the presence of such a putative gene on the X chromosome, as we found mutations in
+the known ALD gene in all kindreds tested. Formally, we
+cannot exclude the possibility that mutations in an autosomal gene encoding a presumed partner of ALDP are responsible for the disease in some rare patients. It has been
+proposed that PMP70 might be such a partner (Valle and
+Girtner 1993).
+In 14 (50%) of 28 kindreds, the mutation affected a single amino acid residue. Since no direct functional assay is
+available, definitive proof is lacking that these mutations
+cause ALD. However, it is unlikely that these alterations
+are merely polymorphisms, since in all these cases only one
+alteration was found, which was different for 13 of 14 kindreds. None of these alterations were detected in kindreds
+with a mutation resulting in a truncated product. Moreover, although ALDP and PMP70 share only 30% amino
+acid identity, 10 of 13 different mutations affect amino
+acids conserved between both proteins, and 2 mutations
+affect residues with very conservative changes between
+ALDP and PMP70 (see table 2), suggesting that they indeed affect functionally or structurally important residues
+of the protein. In the remaining mutation, S149N, the
+ALDP residue is replaced by the corresponding PMP70
+residue. By analogy with mutations detected in the cystic
+fibrosis transmembrane conductance-regulator gene, another member of the family of ABC transporters involved
+in a genetic disease, one might expect to find a high frequency of alterations in the ATP-binding domain, especially in its two ATP-binding-site motifs (for review see
+Tsui 1992). However, only three different mutations,
+affecting two different amino acid residues, were found in
+one of the ATP-binding-site motifs. These three mutations affect amino acid residues that are strongly conserved
+among different ABC transporters (Mosser et al. 1993). Although the missense mutation R660W and the deletion of
+an isoleucine at position 657 are located 30 and 27 amino
+acids downstream of the second ATP-binding site motif,
+
+Ligtenberg et al.: Mutations in the ALD Gene
+
+respectively, they are situated within a strongly conserved
+region. Possibly, these latter two mutations affect the
+structure of the ATP-binding domain, leading to diminished ATP binding or hydrolysis. Recently, a search for
+mutations in exons 6 and 8 that encode the 2 ATP-binding-site motifs in 50 French patients uncovered four missense mutations (including the R617C mutation also
+found by us [Fanen et al. 1994]). In our series, the majority
+of missense mutations were found far upstream from the
+ATP-binding domain. Remarkably, the relative number of
+missense mutations is high in exon 1, especially between
+the third and fourth putative transmembrane regions,
+which can only be partially attributed to the high CpG
+richness in this region (see table 2). Apparently, these mutations affect ALDP function, suggesting that this is a functionally or structurally important region that might be involved in substrate selection or transport or in homo- or
+heterodimerization.
+Mutations leading to a truncated and possibly labile
+protein are detected in 50% of the kindreds. These truncations are caused by nonsense mutations, deletions of
+one or a couple of nucleotides, a deletion affecting
+multiple exons, or splice acceptor-site mutations. In all
+these cases, the predicted translation products are truncated upstream or within the ATP-binding domain, suggesting that the mutations result in complete absence of
+ALDP function.
+The majority of mutations were found only once in the
+kindreds investigated. Exceptions are one of the ATPbinding-site motif mutations (E609K), which was detected in 2 kindreds, and a dinucleotide deletion resulting
+in a frameshift immediately downstream of E471, which
+was observed in 4 of the above kindreds and 1 of 10
+different kindreds screened for this mutation on genomic
+DNA only (Kemp et al. 1994b). The five kindreds with the
+dinucleotide deletion had different haplotypes in the ALD
+region, suggesting that this mutation occurred independently in these kindreds. In the two kindreds with the mutation G221 1A, the haplotype of the polymorphic markers
+close to the ALD gene was different (results not shown),
+making it likely that these mutations also result from two
+independent events.
+The observed distribution of the mutations may be used
+to develop a strategy to detect mutations in other ALD
+kindreds. Screening for the mutation is the most reliable
+genetic assay to establish the carrier status of females in
+ALD kindreds. This is especially important, since in 5%10% of female carriers no elevated level of VLCFA is detected (for review see Moser and Moser 1989). Starting
+with the screening of exon 5 for the presence of the recurrent dinucleotide deletion at positions 1801-1802, followed by analysis of the large coding region of exon 1, in
+which mutations were found frequently (see table 2 and
+fig. 2), a majority of mutations are expected to be discovered (18 of 28 mutations in our series). The dinucleotide
+deletion is easily testable on genomic DNA, by using prim-
+
+49
+
+ers flanking the putative hot spot and by scoring for the
+size difference (Kemp et al. 1994b). Mutations in the first
+exon can easily be detected by analysis of genomic PCR
+products, e.g., by SSCP or direct sequencing. When no mutations are found, the remaining exons should be tested
+with emphasis on exons 8 and 9. These exons are difficult
+to examine at genomic level, because of the presence of
+very homologous sequences elsewhere in the genome (also
+see Sarde et al. 1994), and should preferentially be investigated on PCR products derived from cDNA. Therefore,
+collecting fibroblasts of patients is advisable when the mutation has not been previously defined in the kindred.
+Considerable phenotypic variation can be found within
+a single X-linked ALD kindred. This indicates that, apart
+from the mutation in the ALD gene, other genetic or environmental factors may modulate the phenotype (Maestri
+and Beaty 1992). However, a correlation between genotype and phenotype might still exist: a certain type of ALD
+mutation might, for instance, be present in kindreds with
+AMN patients only. The identification of ALD mutations
+will allow further investigation of the relationship between
+genotype and phenotype.
+In conclusion, the systematic analysis of X-linked ALD
+mutations demonstrates that the identified ALD gene is
+most likely the only gene responsible for ALD on the X
+chromosome, limiting mutation detection to the analysis
+of only a single gene. Moreover, the distribution of the
+mutations in this gene suggests an efficient screening strategy, which is of special relevance for the identification of
+carriers in ALD kindreds.
+
+Acknowledgments
+We thank S. D. van der Velde-Visser, E. M. T. A. Boender-van
+Rossum, M. E. Meijboom, P. Mooyer, and R. A. Wolterman,
+for cell culturing; Dr. J. Bakkeren, clinical chemist, Dr. R. J. A.
+Wanders, biochemist, and Dr. R. B. H. Schutgens, clinical chemist, for the generous gift of fibroblast lines; C. J. M. Dekker and
+S. W. Denis, for assays of VLCFA; and the clinical geneticists,
+Drs. P. D. Maaswinkel-Mooy, C. J. van Asperen, L. ten Kate, H.
+Brunner, A. J. M. Hoogeboom, and B. Hamel, for providing us
+with clinical material. This work was supported in part by NWO
+grant 900-716-821 to B.A.V.O. and by support from Stichting
+NKGG, Utrecht, the Netherlands, to P.G.B. and P.A.B.
+
+References
+Cartier N, Sarde C-O, Douar A-M, Mosser J, Mandel J-L, Aubourg P (1993) Abnormal messenger RNA expression and a
+missense mutation in patients with X-linked adrenoleukodystrophy. Hum Mol Genet 2:1949-1951
+Contreras M, Mosser J, Mandel JL, Aubourg P, Singh I (1994)
+The protein coded by the X-adrenoleukodystrophy gene is a
+peroxisomal integral membrane protein. FEBS Lett 344:
+211-215
+Fanen P, Guidoux S, Sarde C-O, Mandel J-L, Goossens M, Aubourg P (1994) Identification of mutations in the putative
+
+50
+
+ATP-binding domain of the adrenoleukodystrophy gene. J
+Clin Invest 94:516-520
+Higgins CF (1992) ABC transporters: from microorganisms to
+man. Annu Rev Cell Biol 8:67-113
+Kamijo K, Taketani S, Yokota S, Osumi T, Hashimoto T (1990)
+The 70-kDa peroxisomal membrane protein is a member of
+the Mdr (P-glycoprotein)-related ATP-binding protein superfamily. J Biol Chem 265:4534-4540
+Kemp S, Ligtenberg MJL, van Geel BM, Barth PG, Sarde C-O,
+van Oost BA, Bolhuis PA (1994a) Intronic mutations in the
+adrenoleukodystrophy gene. Hum Mutat (in press)
+Kemp S, Ligtenberg MJL, van Geel BM, Barth PG, Wolterman
+RA, Schoute F, Sarde C-O, et al (1994b) Identification of a two
+base pair deletion in five unrelated families with adrenoleukodystrophy: a possible hot spot for mutations. Biochem Biophys
+Res Commun 202:647-653
+Maestri NE, Beaty TH (1992) Predictions of a 2-locus model for
+disease heterogeneity: application to adrenoleukodystrophy.
+Am J Med Genet 44:576-582
+Miller SA, Dykes DD, Polesky HF (1988) A simple salting out
+procedure for extracting DNA from human nucleated cells.
+Nucleic Acids Res 16:1215
+Moser HW, Moser AB (1989) Adrenoleukodystrophy (X-
+
+Am. J. Hum. Genet. 56:44-50, 1995
+
+linked). In: Scriver CR, Beaudet AL, Sly WS, Valle D (eds) The
+metabolic basis of inherited disease, 6th ed. McGraw-Hill,
+New York, pp 1511-1532
+Mosser J, Douar A-M, Sarde C-O, Kioschis P, Feil R, Moser H,
+Poustka A-M, et al (1993) Putative X-linked adrenoleukodystrophy gene shares unexpected homology with ABC transporters. Nature 361:726-730
+Mosser J, Lutz Y, Stoeckel ME, Sarde CO, Kretz C, Douar AM,
+LopezJ, et al (1994) The gene responsible for adrenoleukodystrophy encodes a peroxisomal membrane protein. Hum Mol
+Genet 3:265-271
+Sarde C-O, Mosser J, Kioschis P, Kretz C, Vicaire S, Aubourg P,
+Poustka A, et al (1994) Genomic organization of the adrenoleukodystrophy gene. Genomics 22:13-20
+Tsui L-C (1992) The spectrum of cystic fibrosis mutations.
+Trends Genet 8:392-398
+Uchiyama A, Suzuki Y, Song X-Q, Fukao T, Imamura A, Tomatsu S, Shimozawa N, et al (1994) Identification of a nonsense mutation in ALD protein cDNA from a patient with adrenoleukodystrophy. Biochem Biophys Res Commun 198:
+632-636
+Valle D, Gartner J (1993) Penetrating the peroxisome. Nature
+361:682-683
+
+

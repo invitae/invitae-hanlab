@@ -1,0 +1,761 @@
+Proc. Natl. Acad. Sci. USA
+Vol. 91, pp. 12785-12789, December 1994
+Physiology
+
+Sodium channel mutations in paramyotonia congenita exhibit
+similar biophysical phenotypes in vitro
+(myotonia/periodic paralysis/inactivation/electrophysiology)
+
+NAIBO YANGt, SEN JId, MING ZHOU§, Louis J.
+
+PTAtEK0, ROBERT L. BARCHIt, RICHARD HORNt,
+
+AND ALFRED L. GEORGE, JR.§
+tDepartment of Physiology, Jefferson Medical College, Philadelphia,
+
+PA 19107; tDepartment of Neuroscience and the David Mahoney Institute of
+Neurological Sciences, University of Pennsylvania School of Medicine, Philadelphia, PA 19104; ¶Departments of Neurology and Human Genetics,
+University of Utah School of Medicine, Salt Lake City, UT 84132; and §Departments of Medicine and Pharmacology, Vanderbilt University
+School of Medicine, Nashville, TN 37232-2372
+
+Communicated by James M. Sprague, September 15, 1994 (received for review July 1, 1994)
+
+Electrophysiological evidence exists for a functional defect
+in the skeletal muscle Na+ channel in patients with both HYPP
+and PC (4-7), and recent genetic studies have confirmed that
+HYPP and PC are allelic disorders of the skeletal muscle
+voltage-gated sodium channel a-subunit gene (SCN4A,
+17q23.1-q25.3) (8-10). There have been 14 missense SCN4A
+mutations found in patients with either HYPP or PC; at least
+five are associated with a typical PC phenotype (11-17). Many
+of these identified mutations occur in regions of the Na+
+channel protein for which little or no structure-function correlation exists. Therefore, the relationship between these
+various genotypes and specific phenotypes is not immediately
+obvious.
+To improve our understanding of these diseases we have
+studied six of these SCN4A mutations using the recombinant
+human skeletal muscle Na+ channel (hSkMl) (18) expressed
+heterologously in a mammalian cell line. We find that all of
+the PC mutants exhibit similar changes in channel inactivation and that these changes are distinct from those that
+characterize the in vitro behavior of the expressed HYPP
+mutation. These observations provide solid evidence that the
+biophysical behavior of Na+ channel alleles that cause PC
+differs from that of HYPP mutations.
+
+ABSTRACT
+Mutations in the skeletal muscle voltagegated Na+ channel a-subunit have been found in patients with
+two distinct hereditary disorders of sarcolemmal excitation:
+hyperkalemic periodic paralysis (HYPP) and paramyotonia
+congenita (PC). Six of these mutations have been functionally
+expressed in a heterologous cell line (tsA201 cells) using the
+recombinant human skeletal muscle Na+ channel a-subunit
+cDNA hSkMl. PC mutants from diverse locations in this
+subunit (T1313M, L1433R, R1448H, R1448C, A1156T) all
+exhibit a similar disturbance in channel inactivation characterized by reduced macroscopic rate, accelerated recovery, and
+altered voltage dependence. PC mutants had no significant
+abnormality in activation. In contrast, one HYPP mutation
+studied (T704M) has a normal inactivation rate but exhibits
+shifts in the midpoints of steady-state activation and inactivation along the voltage axis. These findings help to explain the
+phenotypic differences between HYPP and PC at the molecular
+and biophysical level and contribute to our understanding of
+Na+ channel structure and function.
+
+Sodium channels are integral membrane proteins that exist in
+most excitable cells and are primarily responsible for the
+rapid depolarization characterizing the initial phase of an
+action potential (1). In skeletal muscle, Na+ channels are
+essential for the propagation of action potentials along the
+muscle fiber surface and into the t-tubular system, triggering
+events that ultimately lead to contraction. Functional disturbances in muscle Na+ channels are associated with unusual disease phenotypes generally categorized as the periodic paralyses and nondystrophic myotonias (2).
+Paramyotonia congenita (PC) is a rare, autosomal dominant hereditary disease characterized by painless stiffness
+(myotonia) of voluntary muscles that occurs upon exposure
+to cold or following strenuous exercise (3). The disorder is
+clinically heterogeneous, and some patients exhibit episodic
+weakness and other features resembling another rare disorder, hyperkalemic periodic paralysis (HYPP). The clinical
+features of both PC and HYPP can be attributed to abnormal
+skeletal muscle membrane excitability, and symptoms can be
+correlated with either sarcolemmal hyperexcitability or inexcitability. In HYPP, the dominant clinical presentation is
+that of episodic muscle weakness or paralysis. Paralysis in
+this setting occurs concomitantly with a failure of the sarcolemma to initiate and conduct action potentials (inexcitability) (4). In contrast, PC patients primarily have symptoms of
+
+MATERIALS AND METHODS
+Construction and Expression of hSkMl Mutants. Sitedirected mutagenesis was performed using the Altered Sites
+mutagenesis system employing the plasmid vector pSELECT
+(Promega) as described (19). For creation of mutants A1156T
+and T1313M, an additional pSELECT-hSkMl construct was
+made by directionally subcloning a 1564-bp Sac I/HindIll
+fragment (nt 2488-4051) of wild-type (WT) hSkMl into the
+vector in the antisense orientation, and single-stranded DNA
+was rescued using R408 helper phage. For T704M, a 1909-bp
+BamHI/Sph I fragment (nt 327-2235) was subcloned into the
+vector. Mutagenic oligonucleotides were as follows: A1156T,
+5'-GCCCTCCTAGGCACCATCCCCTCCA-3'; T1313M, 5'ACCTCTTTATGATGGAGGAACAGA-3'; L1433R, 5'GATCAGGTCAGAGCGGGCAAGGCCCAC-3'; T704M,
+5'-GGGTAACCTGATGCTGGTGCTGGC-3'; R1448H and
+R1448C were as described (19). All mutations were verified
+by dideoxynucleotide sequencing. Following mutagenesis,
+full-length mutant hSkMl constructs were assembled in the
+mammalian expression vector pRc/CMV, and introduced
+into tsA201 cells by transient transfection (calcium phosphate
+precipitation method) as described (19). Cells were used for
+recording 24-60 hr after transfection.
+
+sarcolemmal hyperexcitability, with repetitive muscle action
+potentials that lead to muscle stiffness or myotonia.
+The publication costs of this article were defrayed in part by page charge
+payment. This article must therefore be hereby marked "advertisement"
+in accordance with 18 U.S.C. §1734 solely to indicate this fact.
+
+Abbreviations: HYPP, hyperkalemic periodic paralysis; PC, paramyotonia congenita; WT, wild-type.
+12785
+
+12786
+
+Physiology: Yang et al.
+
+Proc. Natl. Acad. Sci. USA 91 (1994)
+
+Electrophysiology. Standard whole cell recordings were
+obtained as described (19). We compensated 80% of the
+series resistance, which was always <3 Mfl. The series
+resistance errors were <4 mV. Patch electrodes contained (in
+mM) 35 NaCl, 105 CsF, 10 EGTA, and 10 Cs-Hepes (pH 7.4).
+The bath contained 150 NaCl, 2 KCl, 1.5 CaCl2, 1 MgCl2, and
+10 Na-Hepes (pH 7.4). The data were filtered at 5 kHz and
+acquired using the program PCLAMP (Axon Instruments,
+Foster City, CA). Solution components were obtained from
+Sigma. Temperature was controlled by a Peltier unit using a
+TC-10 controller (Dagan Instruments, Minneapolis). Except
+where indicated, currents were measured at 21-22°C.
+Whole cell data were analyzed by a combination of PCLAMP
+programs and SIGMAPLOT (Jandel, San Rafael, CA). Steadystate inactivation curves were fit to the equation I/Imax = 1/{1
++ exp[SiF (V- Vo.5)/RT}, where Imax is the current measured
+at the most negative prepulse potential (usually -140 mV),
+Vo.5 is the midpoint of the curve, Si is the slope factor, and
+RT/F = 25 mV. A Boltzmann curve was also fit to conductance-voltage curves obtained from peak current after a
+depolarization. Recovery from inactivation was fit to a single
+exponential decay, and the time constants at each recovery
+potential were fit to r(V) = r(O) * exp(8rVF/RJ), where Sr is
+the slope of the curve and r(0) is the time constant for
+recovery at 0 mV. Each experiment was performed on four
+to six cells, and the data are presented as mean + SEM. Two
+independent clones for each mutant were characterized to
+decrease the possibility that the observed effects were due to
+inadvertent mutations.
+
+RESULTS
+PC Mutations Slow Na+ Channel Inactivation. WT hSkMl
+Na+ channels and five PC mutants constructed in the hSkMl
+background were expressed transiently in tsA201 cells and
+the resulting Na+ currents were examined by patch clamp
+electrophysiology in the whole cell configuration. Fig. 1
+shows sodium currents obtained by whole cell recording for
+these six alleles. The currents from all clones show a typical
+pattern of rapid voltage-dependent activation followed by
+inactivation. However, all of the PC mutant channel currents
+Wildtype
+A
+
+i
+
+differed from WT in showing variable slowing in channel
+inactivation.
+Normalized plots of peak current vs. membrane potential
+are superimposable for all six clones (Fig. 2A), suggesting
+that the voltage dependence of activation is unaffected by PC
+mutations. The kinetics of activation are also normal in the
+PC mutants. Superimposed scaled plots of the inward current
+at -10 mV for each clone show the striking effect of PC
+mutations on inactivation with little change in the kinetics of
+activation (Fig. 2B). A similarity in activation time course for
+WT and PC mutants was obtained at all membrane potentials,
+as measured by the half-time from the onset of the depolarization to the time of the peak current (Fig. 2C).
+We quantified the slowing of inactivation for PC mutants
+by fitting the decay of sodium current, after a depolarizing
+voltage step, to a single exponential function with a time
+constant, rh. In general, a single exponential provided a good
+fit to the data, and the currents decayed to zero during
+sufficiently long depolarizations. These time constants are
+plotted in Fig. 3A as a function of membrane potential. All PC
+mutants had rh values significantly greater than those observed in the WT over the entire voltage range from -40 to
++80 mV.
+The voltage dependence of steady-state inactivation for the
+five PC mutants is also significantly altered (Fig. 3B). Table
+1 shows that this voltage dependence, as indicated by the
+slopes obtained from Boltzmann curves fit to the data,
+decreases in the following order: WT > T1313M > A1156T
+> R1448H > L1433R > R1448C. Furthermore, mutants
+R1448H, L1433R, and R1448C exhibit large shifts in the
+midpoints of steady-state inactivation, when compared with
+the WT (Fig. 3B; Table 1). The midpoints are shifted in the
+hyperpolarizing direction for the two mutants in the S4
+segment of domain 4 (S4/D4), R1448H and R1448C, and in
+the depolarizing direction for the S3/D4 mutant L1433R.
+These differences imply that a single mechanism may not
+explain the alterations in channel gating characteristics of PC
+mutants.
+PC Mutations Accelerate Recovery from Inactivation. Despite having slowed inactivation, all of the PC mutants that
+we examined had a faster rate of recovery from inactivation
+A1 156T
+
+2nA
+
+R1448C
+
+1.0 nA
+5 ms
+
+0.5 nA
+5 ms
+
+FIG. 1. Effect of PC mutations on macroscopic sodium currents. Cells were held at -100 mV and activated by depolarizations in 10-mV
+increments from -60 mV to +80 mV.
+
+Proc. Natl. Acad. Sci. USA 91 (1994)
+
+Physiology: Yang et al.
+
+C
+
+B
+
+A
+Voltage (mV)
+
+Vtest
+
+=-OmV
+
+t 0.0
+80
+
+-80
+
+Wildtype
+R1448H
+T1313M
+Al156T
+L1433R
+R1448C
+
+a
+C-
+
+0N -0.5
+
+Sims
+
+-0
+
+-c
+
+E 0.3
+
+°
+
+0.5
+E0.4
+
+0.4
+.a
+
+*
+o
+°
+
+z.
+
+A
+
+v
+
+12787
+Wildtype
+T1313M
+R1448C
+R1448H
+
+A1156T
+L1433R
+
+;,0.2
+It
+
+0.1
+0.0
+-60-40-20 0 20 40 60 80
+
+Voltage (mV)
+
+FIG. 2. Activation in PC mutants. (A) Normalized current-voltage relationships for the peak currents for WT and PC mutations. (B)
+Superimposed currents at -10 mV, normalized to the same peak value. The clones are listed in order of their effects on the rate of inactivation,
+with WT being fastest and R1448C the slowest at this voltage. (C) Half-time for activation vs. membrane potential.
+
+in mammalian cells by other investigators (21, 22). The
+currents generated by these HYPP mutations differ substantially from those we describe here for PC mutants. One report
+showed a small noninactivating component of macroscopic
+sodium current after a depolarization (21), whereas the other
+report emphasized a 10- to 15-mV hyperpolarizing shift in the
+peak current-voltage relationship (22). Neither study reported significant changes in the time constants for fast
+inactivation. In contrast, the PC mutants we studied all have
+voltage dependences of activation indistinguishable from WT
+and show a pronounced slowing of fast inactivation. However, our data were obtained with the human muscle Na+
+channel (hSkMl) rather than the rat muscle channel used in
+the above studies. We therefore constructed the HYPP
+mutant T704M in hSkMl and examined its properties under
+the same conditions as above, to test if PC and HYPP
+mutations truly produce distinct functional abnormalities in
+hSkMl.
+Fig. 4A shows a family of sodium currents from the HYPP
+mutant T704M. The peak current-voltage relationship of
+these currents is compared with the WT in Fig. 4B. These
+data show two properties consistent with the previous studies
+using this mutation in rSkMl, a small increase in noninactivating current, especially seen at positive voltages in our
+experiments, and a hyperpolarizing shift in the peak currentvoltage relationship (21, 22). When compared with WT,
+T704M showed no difference in Th (Fig. 4C) or recovery from
+inactivation (data not shown). However, in contrast with the
+
+than the WT channels (Fig. 3C). The voltage dependence of
+the recovery rate was also affected in the PC mutants. The
+slopes of the regression lines of the semilogarithmic plot of
+Fig. 3C (expressed as an equivalent charge; see Materials
+and Methods) are a direct measurement of the voltage
+dependence of the recovery rate. Table 1 shows that this
+voltage dependence has the same relative order among the six
+mutants as we observed for steady-state inactivation. The
+reduction in voltage dependence is most severe in mutants
+R1448H, L1433R, and R1448C. These three mutants are all in
+domain 4 and are located near the extracellular surface of the
+channel, according to a standard topological interpretation of
+the structure of the sodium channel (20). This raises the
+possibility that R1448 and L1433 are located within structures
+that are important for inactivation.
+Temperature Sensitivity of PC Mutations. One of the clinical features of PC is the exacerbation of muscle stiffness by
+cold, and many investigators assumed that the corresponding
+Na+ channel mutations would prove to be temperature
+sensitive (15). We previously found little difference between
+the temperature dependence of Th in WT and that observed
+in the PC mutants at residue R1448 for temperatures between
+14AC and 30°C (19). We obtained similar measurements for
+the PC mutant T1313M and again found little difference from
+the WT over this temperature range (data not shown).
+Biophysical Differences Between PC and HYPP. Two HYPP
+mutations, T704M and M1592V, have been constructed in
+rSkM1, the rat homolog of hSkM1, and expressed transiently
+
+C
+
+A
+10.0
+
+-
+
+10
+
+ce
+
+E 1.0-
+
+0)
+
+a)
+H
+
+-
+
+32-
+
+I1*
+-120 -110 -100 -90
+
+0.1
+
+-60 -40-20 0 20 40 60 80
+
+Voltage (mV)
+
+Voltage (mV)
+
+B
+
+hold inactivation recovery test
+OmV
+OmV
+
+1.0
+I)
+
+9
+u
+
+-80
+
+hold
+
+15 ms
+
+0.8
+0.6
+
+/
+
+-120 mV
+
+N0
+
+I._
+
+0.4
+
+CIS
+
+E
+
+*
+
+0.2
+-
+
+140 -120 -100 -80 -60 -40 -20
+
+Voltage (mV)
+
+0
+
+Wildtype
+T1313M
+R1448C
+
+A
+V
+
+O
+
+R1448H
+
+A1 156T
+L1433R
+
+FIG. 3. Inactivation in PC mutants. (A) Time
+constants of inactivation vs. voltage for currents
+activated by step depolarizations. The decay of
+current after the peak was well fit by a single
+exponential relaxation with a time constant Th.
+All mutations show a significant increase in Th,
+as seen in the sodium currents of Fig. 1. (B)
+Steady-state inactivation at -10 mV induced by
+500-ms prepulses at the indicated voltages.
+Holding potential, -120 mV. The curves were
+fit to the equation in Materials and Methods.
+The best-fit midpoints and slopes are listed in
+Table 1. (C) Recovery time constants vs. recovery membrane potential. Voltage protocol is
+shown below the plot. Cells were held at -120
+mV and inactivated with a 15-ms, 0-mV prepulse. The time course of recovery was well fit
+by a single exponential. The time constants of
+recovery were fit to the equation in Materials
+and Methods. The slopes are given in Table 1.
+
+12788
+
+Physiology: Yang et al.
+
+Proc. Natl. Acad. Sci. USA 91 (1994)
+
+Table 1. Voltage dependence of inactivation
+Recovery
+Steady state
+Sample
+T(0), s
+VO.5, mV
+8j, eo
+3r, eo
+WT
+1.40 ± 0.03 1.43 ± 0.19 5.05 ± 0.07 -75.5 ± 0.8
+T1313M 1.40 ± 0.04 1.23 ± 0.31 4.75 ± 0.13 -66.8 ± 1.2
+A1156T 1.16 ± 0.08 0.42 ± 0.13 3.93 ± 0.07 -69.9 ± 0.1
+R1448H 0.96 ± 0.02 0.15 ± 0.02 3.12 ± 0.08 -82.3 ± 0.8
+L1433R 0.86 ± 0.08 0.09 ± 0.04 3.01 ± 0.07 -55.5 ± 0.3
+R1448C 0.71 ± 0.02 0.05 ± 0.002 2.27 ± 0.10 -92.0 ± 3.4
+Symbols and equations defined in Materials and Methods. The
+data for steady-state inactivation for R1448H and R1448C were
+obtained from a previous study (19).
+
+results of Cummins et al. (22), steady-state inactivation in
+T704M was shifted 12.8 mV in the depolarizing direction (Fig.
+4D). Thus, it would seem that this mutation produces a more
+severe phenotype when expressed in hSkMl than in rSkMl.
+The combination of a 9.1-mV hyperpolarizing shift of activation with a depolarizing shift of inactivation (Fig. 4D)
+creates a range of voltages (-65 to -30 mV) over which a
+steady-state sodium current will flow.
+
+DISCUSSION
+Understanding the molecular basis for gating of ion channels
+by membrane potential has been the subject of intense
+investigation. A unique opportunity now exists to examine
+previously unexplored regions of the voltage-gated Na+
+channel by using two unusual genetic diseases of muscle, PC
+and HYPP, as models for channel dysfunction. In these two
+distinct, but related, disorders of muscle membrane excitability, mutations in the gene encoding the skeletal muscle
+Na+ channel a-subunit disturb gating of the channel in unique
+ways.
+In our experiments using the human muscle Na+ channel
+hSkMl, the HYPP mutant T704M shifts the midpoints of
+steady-state activation and inactivation along the voltage axis
+without affecting the rate or voltage dependence of either
+process. These functional abnormalities can lead to persistent Na+ current at voltages where the activation and inactivation curves overlap (Fig. 4D). The occurrence of this
+"window current" will tend to cause depolarization of skel-
+
+A
+
+etal muscle cells in HYPP patients. In contrast, Na+ channel
+mutations found in PC exhibit normal activation kinetics but
+share three characteristic disturbances in inactivation: (i)
+reduced rate and voltage dependence of inactivation, (ii)
+altered voltage dependence of steady-state inactivation, and
+(iii) increased rate and decreased voltage dependence of
+recovery from inactivation.
+Alterations in either the kinetic or the steady-state properties of inactivation may have significant effects on muscle
+excitability. The kinetic effects seen with PC mutations, a
+decreased rate of inactivation and an increased rate of
+recovery from inactivation, would increase excitability during and following action potentials. By contrast, the steadystate properties of inactivation will determine the number of
+Na+ channels available to open during a depolarization. It is
+in this regard that the PC mutants differ dramatically among
+one another. Our data show hyperpolarizing shifts in steadystate inactivation for mutations of R1448 but depolarizing
+shifts for all other mutants, especially L1433R (Fig. 3B; Table
+1). However, individuals with either the R1448 or the L1433
+mutation have a similar PC phenotype (12, 13). Thus, the final
+clinical expression of these mutations seems unrelated to the
+direction and magnitude of the shifts they produce in steadystate inactivation. Since all of the PC mutations studied
+produce similar abnormalities in the kinetics of inactivation,
+the kinetic effects are likely to be the most important in
+determining phenotype.
+The hyperpolarizing shifts in steady-state inactivation for
+R1448 mutants cannot be explained by a slow inactivation of
+the channel during the 500-ms prepulse we used for measuring steady-state inactivation, because similar experiments
+with R1448C using 25-ms prepulses produced data with the
+same midpoint as we observed in Fig. 3B (data not shown).
+A possible explanation for this is that the rate of entry into an
+inactivated state is faster for these mutants than WT at
+potentials more negative than -60 mV. This is the expected
+result of the extrapolation of Th vs. voltage curves (Fig. 3A)
+to voltages more negative than -40 mV. For example, the Th
+of R1448C is almost completely voltage independent below 0
+mV (see figure 2B in ref. 19), whereas Th for WT increases
+strongly with hyperpolarization (Fig. 3A). Therefore, even
+though R1448C channels recover faster from inactivation
+than WT channels at voltages more hyperpolarized than -80
+
+10.0
+
+T704M (HYPP)
+
+ik
+
+F-
+
+E
+5 ms
+
+1.0 -
+
+a
+
+0.1
+-60 -40 -20 0 20 40 60 80
+
+Voltage (mV)
+*
+*
+
+B
+
+<& -20
+\i -0.4
+-0.6
+
+c.
+
+1.0
+
+-o
+
+0.6
+
+u
+
+0.8
+
+20
+
+80
+
+FIG. 4. Sodium currents of T704M. (A) Cells
+held at -100 mV and activated by depolarizations in 10-mV increments from -60 to
++80 mV. (B) Normalized current-voltage relationships for the peak currents for WT and
+T704M. (C) Th VS. voltage for WT and T704M.
+(D) Steady-state inactivation (solid symbols)
+and normalized conductance-voltage (G-V)
+curves (open symbols) for WT and T704M. Both
+curves were fit by a Boltzmann relationship.
+The midpoint and slope of the inactivation curve
+for T704M are -62.7
+2.1 mV and 5.05
+0.07eo. The midpoint and slope of the G-V curve
+for the WT are -29.3 ± 3.9 mV and 3.05 ±
+0.70eo; for T704M these values are -38.4 1.2
+mV and 3.59 + 0.09eo.
+were
+
+D
+0.4
+
+Voltage (mV)
+-80
+
+WT
+HYPP
+
+0
+-
+
+:
+a0
+
+0.4
+
+C
+
+0.2
+
+-C
+
+±
+
+0.0
+
+-120-100 -80 -60 -40 -20 0
+Voltage (mV)
+
+±
+
+Physiology: Yang et al.
+mV (Fig. 4C), the entry into inactivated states will be much
+more frequent for R1448C than WT and hence a greater
+degree of steady-state inactivation at these voltages.
+The PC mutations that we studied all affect channel inactivation. We speculate that they either alter the structure of
+the inactivation gate or its receptor or modify the kinetics of
+inactivation by affecting conformational transitions elsewhere in the channel protein. The inactivation gate has been
+postulated to be the cytoplasmic linker between D3 and D4
+(23, 24). One of the PC mutants, T1313M, is in this linker and
+its neighboring residues (isoleucine, phenylalanine, methionine) are known to play a critical role in fast inactivation (25).
+Ofthe other four PC mutations, one, A1156T, is located in the
+cytoplasmic loop between S4 and S5 in D3. The corresponding segment in voltage-gated potassium channels is believed
+to be part of the receptor for the inactivation gate (26). The
+remaining three mutations are located at a distance from
+either the inactivation gate or its putative receptor in current
+models of Na+ channel structure (L1433R, D4/S3; R1448H
+and R1448C, D4/S4). One possibility that would account for
+the similar phenotype of these mutants is that, through
+allosteric effects, they indirectly modify the conformation of
+the gate or its receptor. Another hypothesis is that these
+mutants affect a part of the molecule that must undergo a
+critical conformation change during the steps leading to
+gate-receptor interaction. Such mutations might have a profound effect on the macroscopic rates of channel inactivation
+without directly affecting the binding affilnity of the gate for
+its receptor site on the cytoplasmic surface of the protein.
+Finally, since the Na+ channel 181 subunit is known to have
+significant effects on hSkMl inactivation (27), mutations that
+
+disrupt the association of a and 81 subunits could produce
+slowed inactivation similar to that observed for PC mutants.
+We feel this is not a likely explanation for our data since
+absence of,1 subunit would result in slowed recovery from
+inactivation as well (28), not accelerated recovery as observed with PC mutations. However, mutations that affect
+the interaction of a and P1 subunits in a more specific fashion
+might produce phenotypes similar to those seen for the PC
+mutants described here.
+This work was supported by National Institutes of Health Grants
+NS32387, AR41691, NS18013, and HD00940 and by a grant from the
+Muscular Dystrophy Association (R.L.B.). A.L.G. is a Lucille P.
+Markey Scholar, and this work is supported in part by a grant from
+the Lucille P. Markey Charitable Trust.
+1. Catterall, W. A. (1992) Physiol. Rev. 72, Suppl., S15-S48.
+2. Barchi, R. L. & Furman, R. E. (1992) in Diseases of the
+Nervous System, eds. Asbury, A. K., Mckhann, G. M. &
+McDonald, W. I. (Saunders, Philadelphia), pp. 146-163.
+3. Griggs, R. C. (1977) Adv. Neurol. 17, 143-159.
+4. Rudel, R. & Lehmann-Horn, F. (1985) Physiol. Rev. 65,
+310-356.
+5. Lehmann-Horn, F., Rudel, R., Ricker, K., Lorkovic, H.,
+Dengler, R. & Hopf, H. C. (1983) Muscle Nerve 6, 113-121.
+6. Lehmann-Horn, F., Rudel, R. & Ricker, K. (1987) Muscle
+Nerve 10, 633-641.
+
+Proc. Natl. Acad. Sci. USA 91 (1994)
+
+12789
+
+7. Cannon, S. C., Brown, R. H. & Corey, D. P. (1991) Neuron 6,
+619-626.
+8. Fontaine, B., Khurana, T. S., Hoffman, E. P., Bruns,
+G. A. P., Haines, J. L., Trofatter, J. A., Hanson, M. P., Rich,
+J., McFarlane, H., Yasek, D. M., Romano, D., Gusella, J. F.
+& Brown, R. H. (1990) Science 250, 1000-1002.
+9. Ptacek, L. J., Trimmer, J. S., Agnew, W. S., Roberts, J. W.,
+Petajan, J. H. & Leppert, M. (1991) Am. J. Hum. Genet. 49,
+851-854.
+10. Ebers, G. C., George, A. L., Barchi, R. L., Kallen, R. G.,
+Ting-Passador, S. S., Lathrop, M., Beckmann, J., Hahn,
+A. F., Brown, W. F., Campbell, R. & Hudson, A. J. (1991)
+
+Ann. Neurol. 30, 810-816.
+11. Ptacek, L. J., George, A. L., Griggs, R. C., Tawil, R., Kallen,
+R. G., Barchi, R. L., Robertson, M. & Leppert, M. F. (1991)
+
+Cell 67, 1021-1027.
+12. Ptacek, L. J., George, A. L., Barchi, R. L., Griggs, R. C.,
+Riggs, J. E., Robertson, M. & Leppert, M. F. (1992) Neuron 8,
+
+891-897.
+13. Ptacek, L. J., Gouw, L., Kwiecinski, H., McMainis, P., Mendell, J. R., Barohn, R. J., George, A. L., Barchi, R. L., Robertson, M. & Leppert, M. F. (1993) Ann. Neurol. 33, 300-307.
+14. Rojas, C. V., Wang, J., Schwartz, L. S., Hoffman, E. P.,
+Powell, B. R. & Brown, R. H. (1991) Nature (London) 354,
+387-389.
+15. McClatchey, A. I., Van den Bergh, P., Pericak-Vance, M. A.,
+Raskind, W., Verellen, C., McKenna-Yasek, D., Keshav, R.,
+Haines, J. L., Bird, T., Brown, R. H. & Gusella, J. F. (1992)
+Cell 68, 769-774.
+16. McClatchey, A. I., McKenna-Yasek, D., Cros, D., Worthen,
+H. G., Kuncl, R. W., DeSilva, S. M., Cornblath, D. R.,
+Gusella, J. F. & Brown, R. H., Jr. (1992) Nat. Genet. 2,
+148-152.
+17. Ptacek, L. J., Tawil, R. & Griggs, R. C. (1994) Neurology 44,
+A335 (abstr.).
+18. George, A. L., Komisarof, J., Kallen, R. G. & Barchi, R. L.
+(1992) Ann. Neurol. 31, 131-137.
+19. Chahine, M., George, A. L. Jr., Zhou, M., Ji, S., Sun, W.,
+Barchi, R. L. & Horn, R. (1994) Neuron 12, 281-294.
+20. Noda, M., Shimizu, S., Tanabe, T., Takai, T., Kayano, T.,
+Ikeda, T., Takahashi, H., Nakayama, H., Kaknaoka, Y.,
+Minamino, N., Kkangawa, K., Matsuo, H., Raftery, M. A.,
+Hirose, T., Inayama, S., Hayashida, H., Miyata, T. & Numa,
+S. (1984) Nature (London) 312, 121-127.
+21. Cannon, S. C. & Strittmatter, S. M. (1993) Neuron 10,317-326.
+22. Cummins, T. R., Zhou, J., Sigworth, F. J., Ukomadu, C.,
+Stephan, M., Ptacek, L. J. & Agnew, W. S. (1993) Neuron 10,
+667-678.
+23. Stuhmer, W., Conti, F., Suzuki, H., Wang, X., Noda, M.,
+Yahagi, N., Kubo, H. & Numa, S. (1989) Nature (London) 339,
+597-603.
+24. Vassilev, P., Scheuer, T. & Catterall, W. A. (1989) Proc. Natl.
+Acad. Sci. USA 86, 8147-8151.
+25. West, J. W., Patton, D. E., Scheuer, T., Wang, Y., Goldin,
+A. L. & Catterall, W. A. (1992) Proc. Natl. Acad. Sci. USA 89,
+10910-10914.
+26. Isacoff, E. Y., Jan, Y. N. & Jan, L. Y. (1991) Nature (London)
+353, 86-90.
+27. Makita, N., Bennett, P. B., Jr., & George, A. L., Jr. (1994) J.
+Biol. Chem. 269, 7571-7578.
+28. Ji, S., Sun, W., George, A., Horn, R. & Barchi, R. (1994) J.
+Gen. Physiol. 104, 625-643.
+
+

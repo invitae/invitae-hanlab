@@ -1,0 +1,783 @@
+Proc. Natl. Acad. Sci. USA
+Vol. 88, pp. 5272-5276, June 1991
+Genetics
+
+A single base insertion in the putative transmembrane domain of
+the tyrosinase gene as a cause for tyrosinase-negative
+oculocutaneous albinism
+(human albinism/skin pigmentation/insertional mutation/prenatal diagnosis/melanocyte culture)
+
+CHAYA D. CHINTAMANENI*, RUTH HALABANt, YVONNE KOBAYASHI*, CARL J. WITKOP, JR.O,
+AND BYOUNG S. KWON*§
+*Department of Microbiology and Immunology and Walther Oncology Center, Indiana University School of Medicine, Indianapolis, IN 46202-5120;
+
+tDepartment of Dermatology, Yale University School of Medicine, New Haven, CT 06510; and *Department of Oral Pathology and Genetics,
+University of Minnesota, Minneapolis, MN 55455
+
+Communicated by Liane B. Russell, March 29, 1991 (received for review December 10, 1990)
+
+resulted in an inactive enzyme with an altered carboxyl
+terminus.
+
+We have determined a molecular defect to be
+ABSTRACT
+the likely basis for inactivity of the tyrosinase (EC 1.14.18.1)
+from a patient with tyrosinase-negative oculocutaneous albinism. A single base (thymine) was inserted in exon 5 of the
+tyrosinase gene following codon 471 in the putative transmembrane coding region. This insertion caused a shift in the reading
+frame of 19 amino acids at the 3' end and introduced a
+premature termination signal that would be expected to truncate the protein by 21 amino acids at the carboxyl terminus.
+The albino tyrosinase was not recognized by antibodies directed
+to the carboxyl terminus of tyrosinase. Furthermore, as shown
+by gel electrophoresis of the immunoprecipitated protein, the
+tyrosinase was =3 kDa smaller than normal. Similar immunoprecipitation data were obtained when cloned normal and
+mutant tyrosinases were expressed in COS-1 cells.
+
+MATERIALS AND METHODS
+Cell Cultures. Tyrosinase-negative albino melanocytes
+from the proband and normal human control melanocytes
+were cultured from shaved skin biopsy samples as described
+(15). The melanocytes were grown in Ham's F-10 medium
+(American Biorganics, North Tonawanda, NY) supplemented with penicillin (200 units/ml), streptomycin (100
+,ug/ml), L-glutamine (1 mM), newborn calf serum (2.5%), and
+calf serum (2.5%) (both from GIBCO), phorbol 12-myristate
+13-acetate (85 nM, Chemsyn Science Laboratories, Lenexa,
+KS), 3-isobutyl-1-methylxanthine (0.1 mM, Sigma), insulin (5
+,ug/ml), and bovine pituitary extract (40 .g/ml). Jurkat and
+MOLT-3 are T-cell leukemia lines and were cultured in RPMI
+1640 medium supplemented with fetal bovine serum (10%)
+streptomycin (100 ,.g/ml), and penicillin (100 units/ml).
+COS-1 cells were grown in Dulbecco's modified Eagle's
+medium containing fetal bovine serum (10o), penicillin (100
+units/ml), and streptomycin (100 ,ug/ml).
+Southern Blot Hybridization. High molecular weight human
+genomic DNA was prepared as described (8). DNA digested
+with Taq I restriction endonuclease was electrophoresed in
+1% agarose gels at 4°C, transferred to GeneScreenPlus membrane (DuPont/NEN) as described by Southern (16), and
+hybridized to 32P-labeled normal human tyrosinase cDNA
+Pmel34 (8) at 65°C. The blot was then washed twice in 2X
+standard saline citrate (SSC) for 5 min at room temperature,
+twice at 65°C in 2x SSC/1% SDS for 30 min, and twice with
+0.1 x SSC for 30 min at room temperature. The blot was
+autoradiographed for 2 days at -80°C.
+RNA Blot Analysis. Poly(A)+ RNA samples from normal
+human melanocytes, the proband tyrosinase-negative albino
+melanocytes, human melanotic and amelanotic melanoma
+cells, and Jurkat and MOLT-3 were fractionated in formaldehyde/1.4% agarose denaturing gels (17) and transferred to
+GeneScreenPlus membrane. The blot was hybridized to
+nick-translated normal human tyrosinase cDNA Pmel34 in
+50% (vol/vol) formamide/10o (wt/vol) dextran sulfate/1 M
+sodium chloride/1% (wt/vol) SDS containing 100 ,ug of
+sheared salmon sperm DNA per milliliter.
+Construction and Screening of cDNA Library. The normal
+tyrosinase cDNA library was constructed and screened as
+described (8). A cDNA library was also prepared from
+poly(A)+ RNA derived from the proband's tyrosinasenegative albino melanocytes and cloned in a Agtll cloning
+
+Oculocutaneous albinism (OCA) is a syndrome that encompasses a group of individual inborn errors, each inherited as
+a Mendelian autosomal recessive trait and characterized by
+the absence or near absence of melanin pigmentation in the
+skin, hair, and eyes. To date, depending upon the classification method, there are 8 or 11 recognized forms of OCA (1,
+2). No melanin is produced in the absence of tyrosinase, a
+copper-containing glycoprotein (3). Tyrosinase (monophenol, 3,4-dihydroxyphenylalanine:oxygen oxidoreductase,
+EC 1.14.18.1) catalyzes three reactions in the melanin biosynthetic pathway: hydroxylation of L-tyrosine to 3,4dihydroxy-L-phenylalanine (dopa), oxidation of dopa to
+dopaquinone, and oxidation of 5,6-dihydroxyindole to indole-5,6-quinone (3-6). OCA is a serious disorder since the
+deficiency of melanin produces visual difficulties such as
+nystagmus, strabismus, photophobia, and astigmatism. The
+cutaneous photosensitivity results in a predisposition of the
+skin to cancer (1). The most severe form of OCA is tyrosinase-negative albinism, in which, by definition, tyrosinase
+activity is not detected in the hair bulbs (7). The incidence of
+this form of OCA in the United States is estimated at 1:39,000
+in the Caucasian population and 1:28,000 in the Black population (1).
+We have isolated a human tyrosinase cDNA (8) and used
+it to show that the tyrosinase gene is present as a single copy
+per haploid genome at the TYR locus on human chromosome
+11 (9) and at the c locus on mouse chromosome 7 (8). The
+availability of tyrosinase cDNA enabled us and others to
+identify mutations in human and murine tyrosinase-negative
+albinos (10-14). In this report, we show a mutation in the
+tyrosinase gene of a tyrosinase-negative albino patient that
+The publication costs of this article were defrayed in part by page charge
+payment. This article must therefore be hereby marked "advertisement"
+in accordance with 18 U.S.C. §1734 solely to indicate this fact.
+
+Abbreviation: OCA, oculocutaneous albinism.
+§To whom reprint requests should be addressed.
+5272
+
+Genetics: Chintarnaneni et al.
+vector (18, 19). The latter library was screened with two
+different 32P-labeled oligomers, which represented the 5' and
+3' ends of normal tyrosinase cDNA.
+DNA Sequencing. Restriction fragments of cDNA from
+normal human melanocytes were subcloned into a M13
+vector for sequence determination by the dideoxy chaintermination method (20). The albino tyrosinase cDNAs were
+sequenced by the double-stranded sequencing method (21)
+using various oligonucleotides corresponding to different
+regions of the tyrosinase cDNA. The 3' region of the Bgl
+II-EcoRI fragment of the albino tyrosinase cDNA was subcloned into the M13mp8 BamHI/EcoRI site and sequenced
+by the dideoxy chain-termination method.
+Tyrosinase Assay. Tyrosinase activity was determined in
+anagen hair bulbs as described by King and Witkop (22).
+Tyrosinase activity in melanocyte extracts was measured by
+the method of Pomerantz (23); 1 unit of enzyme is defined as
+the activity that catalyzes the oxidation of 1 .umol of tyrosine
+per minute.
+Immunoprecipitation. Melanocytes in culture were deprived of methionine and cysteine for 4 hr and pulsed for 15
+min with Trans35S-label (500 ,Ci/ml; ICN). The cells were
+lysed in phosphate-buffered saline (PBS: pH 7.4)/1% (vol/
+vol) Nonidet P40/0.1% (wt/vol) SDS/0.1 mM phenylmethylsulfonyl fluoride and subjected to immunoprecipitation
+with either polyclonal anti-tyrosinase antibodies raised in
+rabbits against hamster tyrosinase (a-tyr) (15) or with antibodies raised against a synthetic peptide spanning the carboxyl-terminal 15 amino acids of mouse tyrosinase (a-PEP7,
+a gift from V. J. Hearing, National Cancer Institute, Bethesda, MD; ref. 24). Twelve of these 15 amino acids are
+identical in murine and human tyrosinase. Immune complexes were resolved by PAGE and fluorographed at -75°C
+for 1 or 2 days (a-tyr, a-PEP7, respectively).
+Transfection of COS-1 Cells with Normal and Albino Tyrosinase cDNA. COS-1 cells were grown to 30-50% confluency in Dulbecco's modified Eagle's medium as described
+above and transfected by the DEAE-dextran method (25)
+with 4 ,ug of plasmid DNA containing normal and albino
+tyrosinase cDNA inserts. Normal tyrosinase cDNA clone
+Pmel34 lacks nucleotide A of the first ATG codon (8).
+Therefore, we constructed a new clone, Pmel34A, which
+contained the initiation ATG codon, by replacing the 5'-end
+EcoRI-HgiAI fragment of Pmel34 with the corresponding
+fragment containing the first ATG codon. This construct and
+the albino cDNA were ligated to expression vector pXM (26)
+and used in the transfection of COS-1 cells.
+Forty-four hours after transfection, the cells were incubated for 4 hr in methionine/cysieine-free medium and pulsed
+with Trans35S-label (500 ,uCi/ml) for 15 min. The cultures
+were washed twice with PBS, harvested by scraping, and
+lysed in PBS/1.0% Nonidet P-40/0.1% SDS with protease
+inhibitors (phenylmethylsulfonyl fluoride, 1 mM; leupeptin,
+pepstatin, chymostatin, and bestatin, each 1 ,Lg/ml) for 2 hr
+on ice. The lysates were centrifuged at 10,000 x g for 10 min.
+The supernatants were used for immunoprecipitation as
+described above.
+
+RESULTS
+Taq I Restriction Fragment Length Polymorphism of the
+Proband and His Parents. The proband is a 1.5-year-old
+Caucasian boy with tyrosinase-negative OCA. His parents,
+both Caucasians of Irish descent, are of normal phenotype
+but are heterozygotes with respect to tyrosinase activity as
+determined by the hair-bulb tyrosinase assay (22). Southern
+blot analysis of the genomic DNA of this family revealed Taq
+I polymorphic fragments of either 2.4 kb (father and child) or
+2.8 kb (mother and child) and four nonpolymorphic fragments
+of 0.6, 0.9, 1.4, and 5.0 kb (all three) (Fig. 1). This polymor-
+
+Proc. Natl. Acad. Sci. USA 88 (1991)
+1
+
+5273
+
+3
+
+2
+
+kb
+
+NO-5.0
+%* -2.8
+t -2.4
+
+0I -1.4
+-0.9
+-0.6
+
+FIG. 1. Southern blot analysis of Taq I-digested genomic DNA of
+a tyrosinase-negative albino proband and his parents. High molecular
+weight genomic DNA was digested with Taq I, electrophoresed in a
+1% agarose gel, transferred to GeneScreenPlus membrane, and
+hybridized to 32P-labeled normal human tyrosinase cDNA Pmel34
+(8). Lane 1, father; lane 2, mother; and lane 3, proband. Marker sizes
+are shown in kilobases (kb).
+
+phism does not correlate with OCA, since unrelated normal
+individuals have the same frequency of polymorphism at
+these two alleles (ref. 27 and unpublished data). However,
+this analysis indicates that the tyrosinase gene of the proband
+is not associated with deletions or rearrangements detectable
+at this level.
+RNA Blot Analysis. To determine whether tyrosinase was
+
+transcribed normally, Northern blots of poly(A)+ RNA from
+the proband melanocytes were compared with those from
+normal melanocytes (Fig. 2). There was no difference in size
+or abundance of the proband tyrosinase mRNA relative to the
+tyrosinase mRNA from normal melanocytes or melanoma
+cells, which suggests that at this level as well there were no
+major defects of transcription.
+Isolation and Sequencing of Albino Tyrosinase cDNA
+Clones. The melanocytes of the proband were amelanotic but
+A
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+B
+
+FIG. 2. Northern blot analysis of poly(A)+ RNA derived from
+cultures of melanocytic and nonmelanocytic cell lines. (A) Poly(A)+
+RNA samples from normal human melanocytes (lane 1), the
+proband's tyrosinase-negative albino melanocytes (lane 2), human
+amelanotic melanoma cells (lane 3), human melanotic melanoma
+cells (lane 4), Jurkat T cells (lane 5), and MOLT-3 T cells (lane 6)
+were fractionated in a formaldehyde/1.4% agarose denaturing gel,
+blotted onto GeneScreenPlus membrane, and hybridized to 32Plabeled Pmel34. (B) The same blot was stripped and hybridized to
+nick-translated human y-actin cDNA to show the amount of mRNA
+loaded in each lane. Tyrosinase mRNA was not detected in cells from
+nonmelanocytic origin (Jurkat and MOLT-3). The difference in the
+intensity of the tyrosinase bands in A is due to different amounts of
+poly(A)+ RNA loaded onto the gel as evidenced by subsequent
+hybridization of the same blot to a y-actin probe in B.
+
+5274
+
+Genetics: Chintamaneni et al.
+
+Proc. Nati. Acad. Sci. USA 88 (1991)
+
+had residual tyrosinase activity, 5.7 microunits/mg of protein
+in comparison 'With 1673 microunits/mg in neonatal melanocytes pooled from normal donors, as measured in vitro by the
+method of Pomerantz (23). Since there was no decrease in the
+-18
+1
+
+61
+
+121
+181
+241
+301
+
+361
+
+421
+481
+
+541
+601
+661
+
+721
+781
+841
+
+amount or size of the tyrosinase mRNA or major deletion in
+the tyrosinase gene, we investigated the possibility of a
+pathogenic point mutation. We constructed a cDNA library
+from the poly(A)' RNA of the cultured albino melanocytes
+
+T CCTGCAGACC TTGTGAGGAC TAGAGGAAGA
+-l +1
+ATG CTC CTG GCT GTT TTG TAC TGC CTG CTG TGG AGT TTC CAG ACC TCC GCT GGC CAT TTC
+Met Lou Lou Ala Val Lou Tyr CI LuLuTDSrP.Gnhrer Ala Gl His Ph.
+CCT AGA GCC TGT GTC TCC TCT AAG AAC
+Pro Arg Ala Cys Val Ser Ser Lys Ann
+30
+GGG GAC AGG AGT CCC TGT GGC CAG CTT
+Gly Asp Arg Ser Pro Cys Gly Gin Leu
+50
+TCC AAT GCA CCA CT GGG CCT CAA TT
+Ser Ann Ala Pro Lou Gly Pro Gin Ph.
+70
+CC? TCC GTC TTT TAT AAT AGO ACC TGC
+Pro Ser Val Ph. Tyr Aen Ara Thr Cys
+90
+GGA AAC TGC AAG TTT GGC T?? TGG GGA
+Gly Ann Cys Lys Pho Gly Ph. Trp Gly
+110
+AGA AAC ATC TTC GAT TTG AGT GCC CCA
+Arg Aen Ile Ph. Asp Lou Sor Ala Pro
+130
+GCA AAG CAT ACC ATC AGC TCA GAC TAT
+Ala Lye His Thr Ilie Sor Sor Asp Tyr
+150
+*
+AAT GGA TCA ACA CCC ATG TT AAC GAC
+Ain Gly Sor Thr Pro Mot Pho Ann Asp
+170
+TAT TAT GTG TCA ATG GAT GCA CTG C??
+Tyr Tyr Val Sor Mot Asp Ala Lou Lou
+190
+0CC CAT GAA GCA CCA GCT TTT CTG CC?
+Ala His Glu Ala Pro Ala Ph. Lou Pro
+210
+GAA ATC CAG AAG CTG ACA GGA GAT GAA
+Glu Ilo Gin Lye Lou ?hr Gly Asp Glu
+230
+GCA GAA AAG TO? GAC AT? TGC ACA GA?
+Ala Giu Lye Cys Asp Ile Cys ?hr' Asp
+250
+AAC ?TA CTC AGC CCA GCA TCA TTC TTC
+Asn Lou Lou Sor Pro Ala Sor Pho Phe
+270
+GAG ?AC AAC AGC CAT CAG TCT TA ?GC
+Glu Tyr Ann Sor His Gin Sor Lou Cys
+
+21
+AAACC
+
+CTG ATG GAG AAG GAA TGC TGT CCA CCG TGG AGC
+
+Leu Met Giu Lys Glu Cys Cys Pro Pro Trp Ser
+40
+TCA GGC AGA GOT TCC TGT CAG AAT ATC CT? CTG
+Ser Gly' Arg Gly Ser Cys Gin Ann Ilie Lou Lou
+60
+CCC TTC ACA GGG GTG GAT GAC CGG GAG TCG
+Pro Ph. Thr Gly Val Asp Asp Arg Glu Sor
+80
+CAG TGC TCT GGC AAC TTC ATG GGA TTC AAC
+Gin Cys Sor Gly Ann Ph. Met Gly Ph. Ann
+100
+CCA AAC TGC ACA GAG AGA CGA CTC TTG GTG
+Pro Ann Cys Thr Glu Arg Airg Lou Lou Val
+120
+GAG AAG GAC AAA TTT TT? G'CC TAC CTC ACT
+Glu Lye Asp Lye Ph. Pho Ala Tyr Lou Thr
+140
+GTC ATC CCC ATA GGG ACC TAT GGC CAA ATG
+Val Ile Pro Ile Gly Thr Tyr Gly Gin Mot
+160
+ATC AAT ATT TAT GAC CTC TTT GTC TGG ATG
+Ile Aen Ile Tyr Asp Lou Ph. Val Trp Mot
+
+*180
+
+GGG GGA TAT GAA ATC TGG AGA GAC AT?
+Gly Gly Tyr Glu Ile Trp Arg Asp Ile
+200
+TGG CAT AGA CTC TTC TTG TTG CGOO TGG
+Trp His Arg Lou Ph. Lou Lou Arg Trp
+AAC TTC ACT ATT CCA TAT
+Aen Phe Thr Ile Pro Tyr
+GAG TAC ATG GGA GOT CAG
+
+TOO
+
+TGG
+
+Trp
+TOT
+
+Cye
+AGA
+
+Arg
+TA
+
+Lou
+AAA
+
+Lye
+CAT ATA
+
+His
+
+le.
+
+GAT TT TC?
+Asp Pho Se
+GAA CAA
+Glu Gin
+
+220
+GAC
+
+?rp Asp
+CAC ~CCC
+
+Glu Tyr Mot Gly Gly Gin His Pro
+TCC TC? TOO CAG A?? GTC TO? AGC
+Sor Sor Trp Gin Ii. Val Cys Sor
+
+TGG CGG
+
+GAT
+
+Trp Arg Asp
+240
+ACA AAT CC?
+Thr Aen Pro
+260
+CGA TG GAG
+Arg Lou Glu
+280
+CGO CGT AAT
+
+AAT GOA ACG, CCC GAG GOA CC? TA
+Ann Gly Thr Pro Glu Gly Pro Lou Arg Arg Asnn
+
+G
+?CCCTTC
+C
+A 300
+CC? GOA AAC CA? GAC AAA TCC
+CCA OG
+T
+TA GAA TT AGA
+C
+C
+C
+C
+A
+Pro Gly Asn His Asp Lye Sor Thr Thr Pro Arg Lou Pro Sor Sor Ala Asp Val Glu Pho Ar
+310
+320
+961 TGC CG AG? TG ACC CAA TAT GAA TCT GO? TCC ATG GA? AAA GC? GCC AAT TC AGC TT?
+Cys Lou Sor Lou Thr Gin Tyr Glu Sor Gly Sor Met Asp Lye Ala Ala Aen Pho Ser Ph.
+330
+340
+1021 AGA AAT ACA CTG GAA GOA TT GCT AGT CCA CT? AC? GGO ATA GCG GA? GCC TCT CAA AGC
+Arg Ann Thr Lou Glu Gly Ph. Ala Sor Pro Lou ?hr Gly Ile Ala Asp Ala Sor Gin Sor
+350
+360
+1081 AGC ATG CAC AAT GCC TTG CAC ATC TAT ATO AAT GOA ACA ATG TCC CAG GA CAG GOA TC?
+Sor Mot His Aen Ala Lou His Ile Tyr Mot Ann Gly Thr Met Sor Gin Val Gin Gly Sor
+370
+380
+1141 0CC AAC OAT CC? AC ?TC C?? CT? CAC CAT GCA T?? GT? GAC AG? AT? T?? GAG CAG TGO
+Ala Aen Asp Pro Ile Ph. Lou Lou His His Ala Pho Val Asp Sor Ilie Pho Glu Gin Trp
+*
+400
+1201 CTC CAA AGO CAC CGT CC? CTT ~~~~~~~~~390
+CAA GAA 0?? TAT CCA GAA 0CC AA? GCA CCC AT? GGA CA? CGA
+Leu Gin Arg His Arg Pro Leu Gin Giu Val Tyr Pro Giu Ala Asn Ala rro Ile Gly His Arm
+410
+420
+1261 AAC CGG GAA ?CC TAC ATG OTT CC? TTT ATA CCA CTG TAC AGA AAT GOT OAT TTC TTT AT?
+Asn Arg Giu Ser Tyr Met Val Pro Phe Ile Pro LOU Tyr Arg Asn Gly Asp Ph. Phe Iie
+430
+440
+1321 ?CA TCC AAA OAT CTG GGC TAT GAC TAT AGC TAT CTA CAA GA? TCA GAC CCA GAC TCT TTT
+Sor Ser Lye Asp Lou Gly Tyr Asp Tyr Ser Tyr Lou Gin Asp Ser Asp Pro Asp Ser Ph.
+450
+460
+1381 CAA GAC TAC AT? AAG TCC TAT TTG GAA CAA GCG AGT COO ATC TOO TCA TOG CTC CT? 000
+Gin Asp Tyr Ilie Lye Ser ?yr Leu Glu Gin Ala Sor Arg Ile Tr2 Sor Tro~ Lou Lou Gly
+470
+*480
+1441 GCG GCO ATO OTA 000 0CC GTC CTC ACT 0CC CTO CTO GCA 000 CC? GTO AGC TTG CTO TOT C??
+Ala Ala Met Val Giv, Ala Val Leu Thr Ala Lou Lou Ala Gly Pro Vai Ser Lou Leu Cys Lou
+-NTGC CCT OCT GGC AGG GCC TGT GAG CTT GCT GTG
+Cys Pro Ala Gly Arg Ala Cys Glu Lou Ala Val
+500
+490
+1501 COT CAC AAG AGA AAG CAG CT? CC? GAA GAA AAG CAG CCA CTC CTC ATO GAO AAA GAG OAT
+Arg His Lys Arg Lye Gin Leu Pro Glu Giu Lye Gin Pro Leu Leu Met Glu Lye Giu Asp
+TCG TCA CAA GAG AAA GCA OCT TCC TGA
+Ser Ser Gin Glu Lys Ala Ala Ser-510
+1561 TAC CAC AGC TTG TA? CAG AGC CAT TTA TAA AAAGGCTTAGGCAATAGAGTAGGGCCAAAAAGCCTGACCT
+Tyr His Ser Lou Tyr Gin Ser His Leu-901
+
+1631
+1712
+1792
+1873
+
+CATTATAATAGCAGTCAAATTCGTGATTTTAGCATGAATGA
+CCATCAGGACTCTCATAGAACAACGCTGCTCGTTATACCTT
+ACTTCCTACCTTTTAGAGAGTATGTAGGACGTTTTTTATAA
+GTGCTCTTATTTTAAAAAA
+
+FIG. 3. Nucleotide sequence of normal human tyrosinase cDNA (Pmel34A), the deduced amino acid sequence, and the changes predicted
+on
+te
+bais
+f
+th
+idntifed
+ointmuttionin te abinoproand.Nuceoties re nmbeed fom te frst uclotid ofthe TG nititio
+codon. The deduced amino acids are shown below the nucleotide sequence and are numbered from the amino-terminal amino acid of mature
+tyrosinase. The amino acid residues of the putative signal peptide are indicated by negative numbers and are heavily underlined. The potential
+glycosylation sites are underlined in regular print. The putative transmembrane region is doubly underlined. The stop codons are indicated by
+three dashes. The nucleotide and deduced amino acid sequences downstream from the T insertional mutation (horizontal arrow) in the albino
+cDNA are shown in italics. The positions of five potentially harmless point mutations are shown by stars, and the nucleotide substitutions and
+consequent amino acid changes are indicated at right and are underlined.
+
+~4N:rt-IlC*
+
+Genetics: Chintamaneni
+
+et
+
+al.
+
+in the Agtll cloning vector (18, 19). The cDNA library was
+screened with two oligonucleotide probes, representing the
+first and fourth exons of the tyrosinase gene to avoid isolating
+cDNAs of alternatively spliced RNA (28). From 300,000
+plaques of recombinant phages screened, 8 independent
+clones hybridized to both probes. The cDNA inserts varied
+in size from 1.4 to 2 kb. Sequencing of five of these clones by
+a double-stranded-DNA sequencing method (21), using various oligonucleotide primers spanning different regions of the
+tyrosinase cDNA, showed that the clones were full-length.
+The albino nucleotide sequence was compared to that of
+Pmel34 (8) and to other cDNAs spanning the 5' and 3'
+portions of tyrosinase. Fig. 3 presents the sequence of
+Pmel34A, the corrected version of tyrosinase cDNA Pmel34
+(8). The assignment of the signal sequence is based on
+tyrosinase protein sequence information (29). The mature
+tyrosinase is composed of 511 amino acids with seven potential glycosylation sites (Fig. 3). The albino tyrosinase
+sequence differs from Pmel34A by five nucleotide substitutions and one insertion. The substitutions were detected at
+nucleotide positions 498, 575, 923, 1205, and 1484, counted
+from the A of the initiation codon ATG. These substitutions
+would result in amino acid changes indicated at positions 148,
+174, 290, 384, and 477. They can be regarded as polymorphism. However, an insertion occurred at the putative transmembrane region, where a T residue was found between
+nucleotides 1467 and 1468 after codon 471 (Fig. 4). This
+mutation alters the reading frame and introduces a premature
+termination signal, TGA (nucleotide positions 1528-1530)
+after amino acid 490 (Figs. 3 and 4). This mutation would be
+expected to result in tyrosinase that differs from the normal
+enzyme in the 19 amino acids at its carboxyl terminus and that
+lacks 21 carboxyl-terminal amino acids.
+Immunoprecipitation of Tyrosinase with Anti-Tyrosinase
+Antibodies. The predicted structural alteration due to the T
+insertional mutation was corroborated by immunoprecipitation studies. The albino tyrosinase immunoprecipitated with
+anti-tyrosinase antibodies (a-tyr) had faster electrophoretic
+mobility in polyacrylamide gels, with an estimated size 3 kDa
+smaller than the normal tyrosinase (Fig. 5 Left). Antibodies
+that recognize the carboxyl terminus of tyrosinase (a-PEP7;
+ref. 24) did not immunoprecipitate the albino tyrosinase (Fig.
+5 Left). These results indicate that the tyrosinase of our
+proband has a major defect at the carboxyl terminus. The
+same results were obtained with tyrosinase immunoprecipitated from C(S-1 cells transiently expressing normal or
+albino tyrosinase cDNA. Anti-tyrosinase antibodies immunoprecipitated tyrosinase from both normal and albino
+cDNA-transfected cells, with the albino tyrosinase again
+displaying faster mobility, and a-PEP7 failed to immunoprecipitate the albino tyrosinase (Fig. 5 Right). Untransfected
+and pXM (vector)-transfected COS-1 cells did not produce
+51
+C
+C
+C
+
+G
+T
+C
+
+A
+C
+
+31
+
+A
+
+Nonnal
+C G
+
+Mutant
+
+T
+
+A C G T
+
+5
+
+C
+
+G
+
+T
+
+_
+
+A
+
+FIG. 4. Portion of sequencing gel containing the T insertional
+mutation. The normal sequence represents Pmel34A and the mutant
+sequence is that of the albino tyrosinase cDNA. The mutation site is
+indicated by arrows. The sequence is labeled 5' and 3' in reference
+to the orientation of the tyrosinase gene.
+
+Proc. Natl. Acad. Sci. USA 88 (1991)
+Melanocytes
+a-tyr
+
+a-PEP7
+
+N Ty- N Ty-
+
+5275
+
+cDNA transfectants
+
+r
+
+a-tyr
+
+1
+
+C1 C2 Ty- N
+
+ra-PEP7
+C1 C2 Ty N
+
+p...
+
+........
+
+FIG. 5. PAGE analysis of pulse-labeled immunoprecipitated tyrosinase protein. (Left) Tyrosinase from normal (N) and albino (Ty-)
+melanocytes. (Right) Tyrosinase from normal (N) and albino (Ty-)
+cDNA-transfected COS-1 cells. Controls: C1, nontransfected; C2,
+pXM DNA-transfected.
+
+immunoreactive tyrosinase (Fig. 5 Right, lanes C1 and C2,
+respectively).
+
+DISCUSSION
+Our observations support the conclusion that the single base
+insertion in the putative transmembrane region of this albino
+tyrosinase produces a protein that is altered in its carboxyl
+terminus and renders the enzyme inactive. The eight isolated
+tyrosinase cDNA clones have the same T insertion, and we
+could not detect a-PEP7-immunoprecipitable tyrosinase
+even after long fluorographic exposure (5 days, data not
+shown). Ifthe proband were heterozygous for the T insertion,
+one should detect "50% of the tyrosinase with the a-PEP7
+antibodies. This result may indicate that both alleles of the
+proband harbor the same mutation. The other alternative is
+that one allele produces no mRNA or an unstable mRNA,
+since the parents were unrelated. We could not find differences in the mRNA levels of the albino and normal controls.
+However, tyrosinase is an inducible enzyme (30), and the
+components of the medium, such as phorbol ester, alter the
+level of tyrosinase (15). Therefore, the level of expression of
+tyrosinase in the cultured melanocytes does not necessarily
+reflect the situation in vivo.
+The mutation observed by us is different from the mutation
+reported by Tomita et al. (12), where a single base C insertion
+in exon 2 of an OCA individual caused a shift of the reading
+frame and introduced a premature termination signal after
+amino acid 298. In that case, it was not demonstrated that the
+albino melanocytes produced the predicted truncated tyrosinase. Another tyrosinase gene mutation was reported by
+Giebel et al. (13) in 6 out of 30 unrelated tyrosinase-negative
+albinos, where a change from C to T (CCT -- CTT) at codon
+81 (codon 63 of the Pmel34A sequence, Fig. 3) would result
+in a substitution of leucine for proline. This Pro -) Leu
+mutation is not at any of the putative functional domains such
+as the transmembrane, copper binding, or glycosylation
+sequences. Nevertheless, the proline and the five amino acids
+preceding it are conserved in both tyrosinase and the melanocyte-specific b-locus protein catalase B (8, 31, 32), which
+indicates an important function for this domain. Spritz et al.
+(14) also reported two missense substitutions in an albino:
+one in one of the two putative copper binding sites and the
+other in a potential glycosylation site. Whether these mutations can be held responsible for the inactivity of the enzyme(s) remains to be validated at the protein level.
+The nucleotide substitutions detected at positions 498, 575,
+923, 1205, and 1484 in albino tyrosinase cDNA putatively
+alter the amino acids at positions 148, 174, 290, 384, and 477.
+Four of these substitutions are also seen in other normal
+tyrosinase sequences (refs. 14, 33, and 34; unpublished data).
+
+5276
+
+Genetics: Chintamaneni et al.
+
+The fifth, a Met -- Ile change at position 148, was not
+reported before; but because of the conservative nature of the
+substitution, it may represent another site of polymorphism.
+The mutation observed in our proband in the putative
+transmembrane domain would cause, in addition to truncation, a reduction in hydrophobicity due to the introduction of
+arginine and glutamic residues and, therefore, would inter-
+
+fere with the insertion of the protein into the melanosomal
+membrane. Several peroxisomal enzymes have been shown
+to have a targeting signal at the carboxyl terminus. Melanosomes are considered by some investigators to be modified
+peroxisomes.f Tyrosinase shares the carboxyl-terminal SerHis-Leu peroxisomal targeting sequence with some peroxisomal enzymes (35). Therefore, if tyrosinase uses the carboxyl-terminal Ser-His-Leu as the melanosomal targeting
+signal, the truncation would abolish the signal.
+Our results and those of others (12-14) have shown several
+kinds of mutations that can produce tyrosinase-negative
+OCA. The heterogeneity of mutations at the TYR locus make
+efficient prenatal diagnosis and carrier detection dependent
+on the availability of a panel of probes.
+
+1Moellmann, G. & Halaban, R., Fourteenth International Pigment
+Cell Conference, Oct. 31-Nov. 4, 1990, Kobe, Japan, p. 90 (abstr.).
+We thank Dr. V. J. Hearing (National Cancer Institute, Bethesda,
+MD) for the a-PEP7 antibodies, Dr. C. B. Cuono for performing the
+shave biopsy, Dr. Gisela Moellmann for editing and helpful suggestions on the manuscript, and Dorothy Starnes and Susan Fordyce for
+typing the manuscript. This work was supported by grants from the
+National Institutes of Health (AR40248, AR39848, and CA44542), the
+Schering Corporation, and the March of Dimes Birth Defects Foundation.
+1. Witkop, C. J., Jr., Quevedo, W. C., Jr., Fitzpatrick, T. B. &
+King, R. A. (1989) in The Metabolic Basis ofInherited Disease,
+eds. Scriver, C. R., Beaudet, A. L., Sly, W. S. & Valle, D.
+(McGraw-Hill, New York), Vol. 2, pp. 2905-2947.
+2. King, R. A. (1987) in Neurocutaneous Diseases, ed. Gomez,
+M. R. (Butterworth, Boston), pp. 311-325.
+3. Lerner, A. B., Fitzpatrick, T. B., Calkins, E. & Summerson,
+W. H. (1949) J. Biol. Chem. 178, 185-195.
+4. Pomerantz, S. H. (1966) J. Biol. Chem. 241, 161-168.
+5. Shimao, K. (1962) Biochim. Biophys. Acta 62, 205-215.
+6. Korner, A. & Pawelek, J. M. (1982) Science 217, 1163-1165.
+7. Witkop, C. J., Jr. (1971) in Advances in Human Genetics, eds.
+Hariss, H. & Hirschhoen, J. (Plenum, New York), Vol. 2, pp.
+61-142.
+8. Kwon, B. S., Haq, A. K., Pomerantz, S. H. & Halaban, R.
+(1987) Proc. Nat!. Acad. Sci. USA 84, 7473-7477.
+9. Barton, D. E., Kwon, B. S. & Francke, U. (1988) Genomics 3,
+17-24.
+
+Proc. Natl. Acad. Sci. USA 88 (1991)
+10. Kwon, B. S., Wakulchik, M., Haq, A. K., Halaban, R. &
+Kestler, D. (1988) Biochem. Biophys. Res. Commun. 153,
+1301-1309.
+11. Kwon, B. S., Halaban, R. & Chintamaneni, C. (1989) Biochem.
+Biophys. Res. Commun. 161, 252-260.
+12. Tomita, Y., Takeda, A., Okinaga, S., Tagami, H. & Shibahara,
+S. (1989) Biochem. Biophys. Res. Commun. 164, 990-996.
+13. Giebel, L. B., Strunk, K. M., King, R. A., Hanifin, J. M. &
+Spritz, R. A. (1990) Proc. Natl. Acad. Sci. USA 87, 3255-3258.
+14. Spritz, R. A., Strunk, K. M., Giebel, L. B. & King, R. A.
+(1990) N. Engl. J. Med. 322, 1724-1728.
+15. Halaban, R., Pomerantz, S. H., Marshall, S., Lambert, D. T.
+& Lerner, A. B. (1983) J. Cell Biol. 97, 480-488.
+16. Southern, E. M. (1975) J. Mol. Biol. 87, 503-517.
+17. Thomas, P. S. (1980) Proc. Natl. Acad. Sci. USA 77, 52015205.
+18. Kwon, B. S., Kim, G. S., Prystowsky, M. B., Lancki, D. W.,
+Sabath, D. E., Pan, J. L. & Weissman, S. M. (1987) Proc.
+Natl. Acad. Sci. USA 84, 2896-2900.
+19. Young, R. A. & Davis, R. W. (1983) Proc. Natl. Acad. Sci.
+USA 80, 1194-1198.
+20. Sanger, F., Nicklen, S. & Coulson, A. R. (1977) Proc. Natl.
+Acad. Sci. USA 74, 5463-5467.
+21. Chen, E. Y. & Seeburg, P. H. (1985) DNA 4, 165-170.
+22. King, R. A. & Witkop, C. J., Jr. (1976) Nature (London) 262,
+69-71.
+23. Pomerantz, S. H. (1969) Science 164, 838-839.
+24. Jimenez, M., Tsukamoto, K. & Hearing, V. J. (1991) J. Biol.
+Chem. 266, 1147-1155.
+25. Selden, R. F. (1989) in Current Protocols in MolecularBiology,
+eds. Ausubel, F. M., Brent, R., Kingston, R. E., Moore,
+D. D., Seidman, J. G., Smith, J. A. & Struhl, K. (Wiley, New
+York), Vol. 1, pp. 9.0.1-9.9.6.
+26. Yang, Y. C., Cirlelta, A. B., Temple, P. A., Chung, M. P.,
+Kovacic, S., Witek-Giannolti, J. A., Leary, A. C., Kriz, R.,
+Donahue, R. E., Won, G. G. & Clark, S. C. (1986) Cell 47,
+3-10.
+27. Spritz, R., Strunk, K., Oetting, W. & King, R. (1989) Nucleic
+Acids Res. 16, 9890.
+28. Ruppert, S., Muller, G., Kwon, B. S. & Schutz, G. (1988)
+EMBO J. 7, 2715-2722.
+29. Wittbjer, A., Dahlback, B., Odh, G., Rosengren, A. M.,
+Rosengren, E. & Rossman, H. (1989) Acta Derm. Venerol. 69,
+125-131.
+30. Kwon, B. S., Halaban, R., Kim, G. S., Usack, L., Pomerantz,
+S. & Haq, A. K. (1987) Mol. Biol. Med. 4, 339-355.
+31. Shibahara, S., Tomita, Y., Sakuhura, T., Nager, C., Chaudhuri, B. & Muller, R. (1986) Nucleic Acids Res. 14, 2413-2427.
+32. Halaban, R. & Moellmann, G. (1990) Proc. Natl. Acad. Sci.
+USA 87, 4809-4813.
+33. Shibahara, S., Tomita, Y., Tagami, H., Muller, R. M. &
+Cohen, T. (1988) Tohoku J. Exp. Med. 156, 403-414.
+34. Bouchard, B., Fuller, B. B., Vijayasaradhi, S. & Houghton,
+A. N. (1989) J. Exp. Med. 169, 2029-2042.
+35. Gould, J. J., Keller, G. A. & Subramani, S. (1988) J. Cell Biol.
+107, 897-905.
+
+

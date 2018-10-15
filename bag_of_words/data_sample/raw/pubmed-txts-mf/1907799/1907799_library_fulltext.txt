@@ -1,0 +1,637 @@
+Am. J. Hum. Genet. 49:414-420, 1991
+
+Pyruvate Dehydrogenase Deficiency Due to a 20-bp Deletion in
+Exon I I of the Pyruvate Dehydrogenase (PDH) Ela Gene
+Kathy Chun, Nevi MacKay, Roumyana Petrova-Benedict, and Brian H. Robinson
+Department of Biochemistry and Paediatrics, University of Toronto, and Research Institute, Hospital for Sick Children, Toronto
+
+Summary
+A 20-bp deletion in the last exon of the pyruvate dehydrogenase (PDH) Ela gene was found in a severely
+affected female patient diagnosed with PDH deficiency. PDH-complex activity in the patient's fibroblasts
+was 22% of that in normal controls. The mutation was characterized using PCR techniques with both patient
+cDNA and genomic DNA, followed by sequencing of the products. E113 cDNA sequence was found to be
+the same as that in controls. The deletion causes a frameshift and the occurrence of a premature stop codon.
+Western blot analysis revealed an extra band migrating just above the PDH E113 band. Northern blot analysis
+showed normal levels of both Eia and Elp1 message when probed with the respective cDNAs. However, a
+larger intermediate-size transcript was observed for this patient in the Elp blot. The 20-bp deletion was not
+found in either parent's genomic DNA, and hence we conclude that the mutation must have occurred de novo,
+either in the germ-line cells or immediately following fertilization.
+
+Introduction
+
+The pyruvate dehydrogenase (PDH) complex plays a
+central role in energy metabolism. This multienzyme
+complex is composed of three catalytic enzymes: PDH
+(El), dihydrolipoamide acetyltransferase (E2), and dihydrolipoamide dehydrogenase (E3) (Randle et al.
+1978). El, an OL242 tetramer, contains the main sites
+for regulation of the PDH complex, specifically on the
+Ela subunit. Regulation is by a phosphorylationdephosphorylation mechanism (Linn et al. 1969). The
+Ela subunit also contains the thiamine pyrophosphate
+binding site which plays an important role in the decarboxylation of pyruvate (Hawkins et al. 1989).
+Genetic defects in the PDH complex are one of the
+most common causes of congenital childhood lactic
+acidemia (Robinson 1980). Clinical presentation of
+patients with PDH-complex deficiency is extremely
+heterogeneous. Mildly affected patients suffer only
+
+Received November 30, 1990; revision received April 2, 1991.
+Address for correspondence and reprints: Brian H. Robinson,
+Ph.D., Research Institute, Hospital for Sick Children, 555 University Avenue, Toronto, Ontario M5G 1X8, Canada.
+© 1991 by The American Society of Human Genetics. All rights reserved.
+0002-9297/91 /4902-0019$02.00
+
+414
+
+from ataxic episodes, while severely affected patients
+develop fatal lactic acidosis (Robinson et al. 1980,
+1987). In addition to the metabolic disturbance, structural central nervous system damage seems to be a
+characteristic feature of PDH deficiency.
+Human PDH-complex deficiency is usually diagnosed by measurement of PDH-complex activity in
+cultured fibroblasts or tissue, along with immunochemical analysis of the protein subunits. In the majority of cases, the defect seems to lie in the E1 enzyme,
+an a2 12 tetramer of subunit Mr 41,000 and 36,000,
+respectively, for a and 13 components. The cDNA sequences for both E1a and E13 have now been elucidated in our own and other laboratories (Dahl et al.
+1987; DeMeirleir et al. 1988; Koike et al. 1988; Ho
+et al. 1989; Chun et al. 1990). The E1a gene has been
+localized to the p22.1-p22.2 region of the X chromosome (Brown et al. 1989), and its gene structure has
+been determined (Maragos et al. 1989). There have
+been two different frameshift mutations in the PDH
+Ela gene described in patients with PDH deficiency
+(Endo et al. 1989; Dahl et al. 1990). Here, we report
+on a female patient with PDH deficiency in whom
+some normal PDH E1a protein is present, while, because of the presence of a frameshift mutation, some
+E1a protein is produced as a truncated smaller version.
+
+415
+
+Pyruvate Dehydrogenase Deficiency
+Subject and Methods
+Case Report
+A female patient, AF, birth weight 1.88 kg, was
+born at 35 wk gestation and required intubation and
+ventilation in the immediate postnatal period. The
+baby continued to be lethargic and hypotonic and
+showed little psychomotor development in the following months. At age 7 mo she developed some seizure
+activity and was found to have an abnormal EEG;
+blood lactate and blood pyruvate were elevated, and
+she had mild hepatosplenomegaly. When seen at age
+12 mo for an episode of pneumonia, she was observed
+to be profoundly retarded, with some facial dysmorphism, and her weight had increased to 9.3 kg.
+Blood lactate levels at that time varied between 5.0
+and 15.8 mM. Simultaneous measurement of blood
+lactate (5.46 mM) and blood pyruvate (0.21 mM)
+gave a lactate-to-pyruvate ratio of 25:1. A computed
+tomography scan of the head showed dilated ventricles
+and cortical thinning. At this point, a diagnosis of
+PDH deficiency was made on the basis of the low activity in cultured skin fibroblasts. In the ensuing 2 years
+she showed little further development, and she died at
+the age of 3 years.
+Cultured skin fibroblasts were grown from the patient from a forearm skin biopsy in a-MEM culture
+medium. The activity of the PDH complex in the native and dichloroacetate (DCA)-activated state was determined in fibroblast extracts by the method of Sheu
+et al. (1981). The activities of the E1 pyruvate decarboxylase, the E2 transacetylase, and the E3 lipoamide
+dehydrogenase were determined as described previously (Robinson et al. 1980; MacKay et al. 1986).
+Cytochrome oxidase was measured by the method of
+Glerum et al. (1987).
+mRNA, cDNA, and DNA Preparation
+Total RNA was purified from cultured skin fibroblasts of patient AF by the method of Maniatis et al.
+(1982). First-strand cDNA was synthesized using approximately 20 gg of total cellular RNA and an E1a
+
+gene-specific oligonucleotide, aG17 (5'-GTACAAACTGCATGCAATTACTACC-3'). M-MLV reverse
+transcriptase (Moloney murine leukemia virus) was
+purchased from BRL, and RNA Guard® ribonuclease
+inhibitor and the deoxynucleotides were purchased
+from Pharmacia. The first strand of the ElD cDNA
+was synthesized using oligo dT (Pharmacia) as the
+primer. DNA was prepared from cultured skin fibro-
+
+blasts by a modified version of the method of Miller
+et al. (1988).
+Western Blot Analysis
+
+Samples of human cultured skin fibroblasts were
+subjected to digitonin and Triton X-100 extraction,
+and the Triton extracts were resolved on a 10% polyacrylamide gel. This gel was then electroblotted onto
+nitrocellulose and probed with rabbit and-bovine
+heart PDH-complex antibody. Immunoreactive proteins were visualized by goat anti-rabbit IgG and
+horseradish peroxidase staining.
+Northern Blot Analysis
+
+Purified total RNA samples from human skin fibroblasts were run through a 1% agarose gel containing formamide (Davis et al. 1986). The RNA was
+then transferred onto Hybond membrane (Amersham)
+and probed with random primer 32P-labeled cDNA,
+initially for PDH E1a and later for PDH E1i (DeMeirlier et al. 1988; Chun et al. 1990).
+
+Amplification of DNA
+cDNA and genomic DNA were amplified by the PCR
+(Saiki et al. 1988). Conditions were as recommended
+by the manufacturer of Taq polymerase (Promega).
+Synthetic oligonucleotide primers used in the El a cDNA
+amplification were aG21 (5'-GTAGAATTCTCGTGCCTCCTGGGTTGTGA-3'), AVA-R (5'-TCTCGGACGGAAAGGCCCCG-3'), AVA-F (5'-TCACGGCTTTACTTTCACCC-3'), and aGl7' (5'-TCTAGAATTCGTACAAACTGCATGCAATTAC-5'). Synthetic oligonucleotide primers used in the Elp cDNA
+amplification were OiG14 (5'-GACCAAGcTtGCGGCGGTGTCT-3') and ,BG12 (5'-CCAGGatCcGTGCCAGCAAGTATTT-3') lowercase letters indicate artificially induced mismatches for ease in subcloning.
+Synthetic oligonucleotide primers used in the amplification of exon 11 of E1a in genomic DNA were El iF
+(5'-TTTAGGAAtTcGATGTGGAAGT-3') and El R
+(5'-CTGACaagCTTAAACTTGATCCAC-3'). A cycle
+consisted of denaturation at 94°C for 60 s; annealing- at 61 0C (for E1a cDNA fragment A), 550C (for
+Ela cDNA fragment B), 570C (for E1lp cDNA), or
+470C (for genomic DNA)-for 60 s; and extension at
+720C for 90 s (for cDNAs) or 60 s (for genomic DNA).
+After 30 cycles, the amplified fragments were visualized on ethidium bromide-stained agarose gels (BRL).
+
+Chun et al.
+
+416
+DNA Sequence Analysis
+
+Amplified DNA fragments were subcloned into
+plasmid pSP65 (Boehringer Mannheim) for sequencing. DNA sequencing was performed by the Sanger
+dideoxy chain-termination method on double-stranded
+templates, using a T7 polymerase sequencing kit (Pharmacia) (Sanger et al. 1977).
+
+A
+5,
+a oG21
+
+AVA-F
+--b.
+--IN.
+
+3,
+20 - bp deletion
+%101
+
+4-
+
+4
+
+AVA-R
+
+aG17
+
+~~~~~~AAAAA
+
+B
+5,
+
+3'
+
+5G14
+
+-~~~~~~~~~~~~~~
+~
+~~~~11
+
+--01-~
+~
+
+AAAAU
+
+AG12
+
+Results
+
+Biochemical investigations (table 1) revealed a defect in the activity of the PDH complex in which the
+DCA-activated state was 22% of the activity found in
+controls. The E1 pyruvate decarboxylase component
+of the complex was 18% of the activity in controls. E2
+
+and E3 values were in the normal range of activities,
+the activity of cytochrome oxidase.
+
+Figure I
+Western blotting of PDH EI-deficient cultured skin
+fibroblast extracts with anti-PDH complex antibody. Lanes 1-7,
+PDH-deficient cell lines 2638, 2653, 2654, 2645 (patient AF),
+2641, 2595, and 2583. Lane 8, Control cell line 2491. Above each
+lane is both the residual percentage PDH complex activity of each
+cell line (DCA activated) and a code to indicate the clinical presentation of the patient: C = control; A = ataxic episodes; PR = psychomotor retardation, NL = neonatal lactic acidosis.
+
+as was
+
+Western and Northern Blot Analysis
+
+A western blot of seven PDH complex-deficient patient fibroblast cell lines (fig. 1, lanes 1-7) and one
+control cell line (fig. 1, lane 8) was probed with antiPDH-complex antibody (fig. 1). Two patient cell lines
+(fig. 1, lanes 5 and 7) had no significant amounts of
+either Ela or E1,l protein. One patient (fig. 1, lane 2)
+had two faint Eia bands, and patient AF (fig. 1, lane
+4) had a second protein band immediately above the
+Elp band. Examination of mRNA levels for the E1a
+and E1p subunits, after northern blotting with the respective cDNA probes, revealed normal message levels
+
+for both the a and ,B subunits in the deficient cell lines
+tested (fig. 2). However, patient AF also displayed an
+anomolous intermediate-size species of mRNA when
+probed with the E1d cDNA (fig. 2, lane 2).
+Characterization of the Mutation
+
+Total RNA was prepared from cultured skin fibroblasts and used as a template for cDNA synthesis of
+the coding region of PDH E1a. This cDNA was then
+used to generate two fragments (A and B; fig. 3) by
+PCR, as described in the Subject and Methods section
+
+Table I
+Activities of Enzyme of PDH Complex In Cultured Skin Fibroblasts
+
+MEAN ± SEM ACTIVITYa
+(nmol/mg cell protein)
+Patient or Mother
+Controls
+PDH complex:
+Native:
+Patient AF ....................
+1.196 ± .137 (5)
+.313 ± .070 (3)
+................
+Mother ....................................
+.737 ± .084 (5) 1.170
+.14±3(5)
+DCA activated:
+± .201 (5)
+PatientAF ....................................
+.308 ± .061 1.386(3)
+Mother ....................................
+.2 ±4(5)
+.987 ± .113 (3) 1.519
+11.6 (1)
+9.2 (1)
+Dihydrolipoyl transacetylase (E2), patient AF
+10.5 (1)
+10.8 (1)
+Lipoamide dehydrogenase (E3), patient AF
+.2.98 ± .32 (2)
+1.99 ± 1.03 (2)
+Pyruvate carboxylase, patient AF
+4.18 (1)
+Cytochrome oxidase, patient AF .5.06 (1)
+.737 ± .499 (3)
+Pyruvate decarboxylase (El), patient AF ..131 ± .045 (3)
+a Except for pyruvate decarboxylase (El) values, which are expressed as activity per hour, data are
+expressed as activity per minute.
+
+Pyruvate Dehydrogenase Deficiency
+
+417
+
+E1 -a
+
+E2
+
+E3
+XEM .t z.,..--i,,l~~~~et
+
+i
+
+._
+
+~~~~E~c
+
+Figure 2
+Northern blotting of total cellular RNA from cultured skin fibroblast cell lines of patients with PDH-complex deficiency. The blot was probed with 32P-labeled E1a cDNA and then
+with the E1p cDNA, in separate experiments. Lanes 1-4, 7, and 8,
+PDH-deficient cell lines 2641, 2645 (patient AF), 2554, 825, and
+1588, respectively. Lanes 5 and 6, Control cell lines 1206 and 1286,
+respectively.
+
+above. Subcloning and sequencing made it apparent
+that the patient had two distinct sequences for the
+E1a cDNA, one which was normal and one which
+contained a 20-bp deletion (fig. 4). Amplification and
+sequencing of the patient's cDNA for PDH E1lp
+showed only normal sequence, identical to that found
+in control subjects.
+Amplification of exon 11 of the PDH E1a gene
+(Maragos et al. 1989) by PCR for patient genomic
+DNA showed a triple band when the products were
+run on a 1.5% agarose gel. Along with the normal size
+band (166 bp) was a second, smaller band (146 bp)
+and a larger, third band (fig. 5). Subsequent subcloning and sequencing of the two lower bands revealed
+that the 166-bp fragment contained the normal exon
+11 sequence, whereas the smaller fragment contained
+a 20-bp deletion seen in the cDNA prepared from message. The upper band was thought to be a heteroduplex of the 146- and 166-bp bands. The conclusion
+was that the patient exhibited heterozygosity at this
+locus, one allele having a 20-bp deletion starting at
+nucleotide 1144 (fig. 6) and one allele being normal.
+
+1 2 3 4 5 6 7 8
+Figure 3
+Schematic diagram showing location of oligonucleotide primers used in PCR amplification of PDH Ela (A) and PDH
+E1 (B) cDNAs. The location of the deletion is indicated also, in
+panel A.
+
+3'
+A
+
+CONTROL
+
+P A TI E N T
+
+ACGT
+
+ACGT
+
+C
+
+af
+-Al
+
+3'
+
+A
+
+a1
+
+A.
+
+'a'
+
+T
+
+T
+
+C
+
+T
+
+a
+
+c^
+
+a
+
+a
+
+C
+T
+C
+
+T
+
+c
+
+C
+C
+
+a
+A
+
+CX
+A
+
+/
+
+T
+A
+a
+
+C
+C
+
+a
+
+5'
+C.
+
+5
+
+DNA sequence analysis of mutation in patient AF.
+Figure 4
+The DNA sequence of the normal gene of patient AF is shown on
+the left, and the sequence of the mutant gene is shown on the right.
+The 20-bp deletion is boxed in the normal sequence.
+
+418
+
+Chun et al.
+
+1 2 3 4 5 6
+
+bp
+1 05 7-
+
+7 70
+
+-
+
+6 0 9-
+
+4 9 53 92 -
+
+335 _
+297
+2 10
+1 62
+
+Figure 5
+Analysis for presence of 20-bp deletion in exon 11
+of PDH Ela gene in the parents of patient AF. The PCR reaction
+was performed using oligonucleotide primers E1 iF and E1 iR and
+was analyzed as described in Subject and Methods. The sizes of the
+PCR products of the normal gene (156 bp) and the mutant gene
+(136 bp) are shown on the right. Lane 1, DNA size marker. Lane
+2, Father. Lane 3, Mother. Lane 4, Patient AF. Lane 5, Control
+DNA. Lane 6, water blank.
+
+The 20-bp deletion causes a frameshift that a premature stop codon is created at nucleotide 1197. PCR
+amplification of exon 11 of the parents of the patient
+revealed that both had only normal versions of the
+gene present in fibroblast DNA.
+Discussion
+A mutation was found in the PDH Ela gene of a
+female patient who suffered from severe lactic acidosis. cDNA sequence analysis of her PDH Ela gene
+
+revealed a normal sequence and one with a 20-bp deletion, causing a frameshift mutation (fig. 6). Subsequent DNA sequence analysis of exon 11 of the PDH
+E1a gene again revealed one normal version and one
+with the same 20-bp deletion as found in the cDNA.
+Not only is there a deletion of amino acids that is due
+to the actual 20-bp deletion, but the frameshift causes
+a premature stop codon to appear 46 bp upstream of
+the real stop codon (fig. 6). Hence we would expect
+the mutant PDH Ela protein to be 15 amino acids
+shorter than the normal one of 390 amino acids (including the 29-amino-acid leader sequence). In addition, the frameshift also alters the amino acid sequence
+from the normal protein (fig. 6), at the C terminus.
+This in turn predicts that there are two potential
+protein products of the PDH El a gene - one of normal
+molecular mass (41 kb) and one of lower molecular
+mass (rv38 kb) that is produced by the deleted Ela
+gene. The anomolous band seen in the protein electrophoresis is not, as was originally hypothesized, an abnormal version of the El3 protein but is in fact a shortened version of the Ela protein. Northern blotting
+also pointed to EI$ as a potential problem because
+an accumulation of unprocessed higher-molecularweight mRNA was evident in the total mRNA prepared from the patient cell line. It is possible that some
+feedback inhibition of mRNA processing is occurring
+as a result of the formation of nonfunctional PDH
+complexes. However, there is no evidence of this happening in other PDH Ela-defective cell lines, even
+when there is little cross-reacting material present in
+the cells.
+After activation, the cultured skin fibroblasts display a PDH-complex activity that is of 22% of that
+found in controls (table 1). The activity of the pyruvate
+decarboxylase (El) component was found to be 18%
+of the control value. Clearly, in this particular case
+
+340
+360
+350
+Glu Ile Asp Val Glu Val Arg Lys Glu Ile Glu Asp Pro Ala Gln Phe Ala Ala Ala Asp Pro Glu Pro Pro Leu Glu Glu Leu Gly Tyr
+GAA ATT GAT GTG GAA GTG AGG AAG GAG ATT GAG GAT CCT GCC CAG TTT GCC GCG GCC GAT CCT GAG CCA CCT TTG GAA GAG CTG GGC TAC
+GGG CTA
+
+Gly Leu
+370
+His
+CAC
+CCA
+Pro
+
+Ile Tyr Ser
+ATC TAC TCC
+CAT CTA CTC
+His Leu Leu
+
+380
+Ser
+AGC
+CAG
+Gln
+
+Asp Pro
+GAC CCA
+CGA CCC
+Arg Pro
+
+Pro
+CCT
+ACC
+Thr
+
+Phe
+TTT
+TTT
+Phe
+
+390
+
+Glu Val Arg Gly Ala Asn Gln Trp Ile Lys Phe Lys Ser Val Ser OC
+GAA GTT CGT GGT GCC AAT CAG TGG ATC AAG TTT AAG TCA GTC AGT TAA GGGGAGGAGAAGGAGAGGTT
+TGA
+Stop
+
+AATTGCATGCAGTTTGTACATTAGTGCATTAAAAGATGAATTATTGAGTGCTTAAAGATTAAAAAAAAAAA
+
+Figure 6 DNA sequence of exon 11 and 3' untranslated region of PDH Elca gene. The first underlined 20-bp sequence is the deletion;
+the second underlined 20-bp segment is 75% homologous to the deleted sequence. The change in amino acid sequence caused by the
+frameshift is shown below the nucleotide sequence.
+
+Pyruvate Dehydrogenase Deficiency
+we do not have the simple 50% reduction in enzyme
+activity of the complex that would be predicted from
+the one-gene, one-transcript model of enzyme synthesis. There are two plausible explanations for these
+findings. The first explanation is based on the fact that
+the location of the Ela gene on the X chromosome
+makes it subject to random inactivation in females
+(Lyon 1988). It could be deduced that some 80% of
+the cells in this culture had normal Ela genes that had
+been randomly inactivated, leaving 80% of the Ela
+production in the hands of the defective genes producing short transcripts. There is no evidence from the
+western blot that this is so. It would seem that complexes formed from the abnormal Ela translation
+products are stable, even if inactive. An alternative
+explanation is that, when stable products are formed
+in the a2 2 tetramer from the normal gene a and from
+the abnormal gene as, the complexes formed will be
+asl1h, asasOiB, aasOiO, and aarop, only the last version
+being active. The resulting activity would be 25% of
+normal. However, this would imply that random inactivation had not taken place and that both transcripts
+were being produced in the same cell.
+Since the parents appeared to possess only normal
+DNA in their skin fibroblast cultures, we can only
+assume that in this family we are dealing with a germline mutation. However, we could not make a concrete diagnosis, as the clinical presentation of heterozygous females carrying defective X-linked depends on
+the pattern of X-chromosome inactivation. To check
+whether either parent carried the same defective PDH
+Ela as did the patient, genomic fibroblast DNAs of
+both parents were amplified in the same set of PCR
+reactions as was the patient's (fig. 5). No 20-bp deletion was found in either parent's DNA, confirming
+that the origin of the defect was indeed germ line. In
+the cases previously reported, the Ela deletions occurred at the 3' end of the cDNA sequence (Endo et
+al. 1989; Dahl et al. 1990). It is interesting that the
+deletion in patient AF also occurs at the 3' end of
+the cDNA sequence. Unlike the two reported cases,
+however, the 20-bp deletion is not part of a tandem
+direct-repeat sequence. Nevertheless, 22 bp downstream of the 20-bp deletion is a 20-bp region which
+is 75% homologous to the deletion (fig. 6). Whether
+this is just a coincidence or whether there is a significance to it is still unknown.
+
+Acknowledgments
+We thank the Medical Research Council, the National
+Foundation The March of Dimes, and the Beta Sigma Phi
+Sorority for financial support.
+
+419
+
+References
+Brown RM, Dahl H-HM, Brown GK (1989) X chromosome
+localization of the functional gene for the Ela subunit of
+the human pyruvate dehydrogenase complex. Genomics
+4:174-181
+Chun K, MacKay N, Willard HF, Robinson BH (1990)
+Isolation, characterization and chromosomal allocation
+of cDNA clones for the El i subunit of the pyruvate dehydrogenase complex. Eur J Biochem 194:587-592
+Dahl H-HM, Hunt SM, Hutchison WM, Brown GK (1987)
+The human pyruvate dehydrogenase complex: isolation
+of cDNA clones for the Ela subunit, sequence analysis
+and characterization of the mRNA. J Biol Chem 262:
+7398-7403
+Dahl H-HM, Maragos C, Brown RM, Hansen LL, Brown
+GK (1990) Pyruvate dehydrogenase deficiency caused by
+deletion of a 7-bp repeat sequence in the Elca gene. Am J
+Hum Genet 47:286-293
+Davis LO, Dibner MD, Battey JF (1986) Basic methods in
+molecular biology. Elsevier Scientific, New York
+DeMeirleir L, MacKay N, Lam Hon Wah AM, Robinson
+BH (1988) Isolation of a full-length complementary DNA
+coding for human El a subunit of the pyruvate dehydrogenase complex. J Biol Chem 263:1991-1995
+Endo H. Hasegawa K, Narisawa K, Tada K, Kagawa Y,
+Ohta S (1989) Defective gene in lactic acidosis: abnormal
+pyruvate dehydrogenase Ela-subunit caused by a frame
+shift. Am J Hum Genet 44:358-364
+Glerum M, Robinson BH, Spratt C, Wilson J, Patrick D
+(1987) Abnormal kinetic behavior of cytochrome oxidase
+in a case of Leigh disease. Am J Hum Genet 41:584-593
+Hawkins C, Borges A, Perham R (1989) A common structural motif in thiamin pyrophosphate binding enzymes.
+FEBS Lett 225:77-82
+Ho L, Wexler ID, Liu T-C, Thekkumkara TJ, Patel MS
+(1989) Characterization of cDNAs encoding human pyruvate dehydrogenase a subunit. Proc Natl Acad Sci USA
+86:5330-5334
+Koike K, Ohta S, Urata Y, Kagawa Y, Koike M (1988)
+Cloning and sequencing of cDNAs encoding a and 0i subunits of human pyruvate dehydrogenase. Proc Natl Acad
+Sci USA 85:41-45
+Linn TC, Pettit FH, Reed LJ (1969) a-Keto acid dehydrogenase complexes, X-regulation of the activity of the pyruvate dehydrogenase complex from beef kidney mitochondria by phosphorylation and dephosphorylation.
+Proc Natl Acad Sci USA 62:234-241
+Lyon MF (1988) The William Allan Memorial Award Address: X-chromosome inactivation and the location and
+expression of X-linked genes. Am J Hum Genet 42:8-16
+MacKay N. Petrova-Benedict R. ThoeneJ, Bergen B, Wilson
+W, Robinson BH (1986) Lacticacidemia due to pyruvate
+dehydrogenase deficiency with evidence of protein polymorphism in the a-subunit of the enzyme. Eur J Pediatr
+144:445-450
+Maniatis T. Fritsch EF, SambrookJ (1982) Molecular clon-
+
+420
+ing: a laboratory manual. Cold Spring Harbor Laboratory, Cold Spring Harbor, NY
+Maragos C, Hutchison WM, Hayasaka K, Brown GK, Dahl
+H-HM (1989) Structural organization of the gene for the
+Eia subunit of the human pyruvate dehydrogenase complex. J Biol Chem 264:12294-12298
+Miller SA, Dykes DD, Polesky HF (1988) A simple salting
+out procedure for extracting DNA from human nucleated
+cells. Nucleic Acids Res 16:1215
+Randle RJ, Sugden PH, Kirbey AL, Radcliffe PM, Hutson
+NJ (1978) Regulation of pyruvate oxidation and the conservation of glucose. Biochem Soc Symp 43:47-67
+Robinson BH, MacMillan H, Petrova-Benedict R, Sherwood WG (1987) Variable clinical presentation in patients with defective El component of pyruvate dehydrogenase complex. J Pediatr 111:525-533
+
+Chun et al.
+Robinson BH, Taylor J, Sherwood WG (1980) The genetic
+heterogeneity of lactic acidosis: occurrence of recognizable inborn errors of metabolism in a paediatric population with lactic acidosis. Pediatr Res 14:956-962
+Saiki RK, Gelfand DH, Stoffel S, Scharf SJ, Higuchi R, Horn
+GT, Mullis KB, et al (1988) Primer-directed enzymatic
+amplification of DNA with a thermostable DNA polymerase. Science 239:487-491
+Sanger F, Nicklen S, Coulson AR (1977) DNA sequencing
+with chain terminating inhibitors. Proc Natl Acad Sci USA
+74:5463-5467
+Sheu KFR, Hu CW, Utter MF (1981) Pyruvate dehydrogenase complex in normal and deficient fibroblasts. J Clin
+Invest 67:1463-1471
+
+

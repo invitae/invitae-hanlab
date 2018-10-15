@@ -1,0 +1,1142 @@
+THEJOURNAL
+OF BIOLOGICAL
+CHEMISTRY
+
+Vol. 267, No. 5, Iasue of Februnry 15,pp. 3302-3307,1992
+Printed in U.S.A.
+
+Ornithine &AminotransferaseMutations in Gyrate Atrophy
+ALLELIC HETEROGENEITY AND FUNCTIONAL CONSEQUENCES*
+(Received for publication, August 21, 1991)
+
+Lawrence C. Brody$I, Grant A. Mitchellli, Cassandra Obie$, Jacques Michaudli, Gary
+Steel$,
+,Muriel Kaiser-Kupfer**,and David Valle$$$
+Gidle Fontainev, Marie-France Robertli, Ilkka SipilaII
+From the $Laboratory of Genetics, Howard Hughes MedicalInstitute and the Department of Pediatrics, Johns Hopkins
+University School of Medicine, Baltimore, Maryland 21205, the nService de Gedtique Mgdicale, Hbpital Ste-Justine, Montreal,
+Quebec, Canada H3TI C5, the 11Department of Pediatrics, Children’s Hospital of Helsinki, Helsinki, Finland, and the **National
+Eye Institute, National Institutes of Health, Bethesda, Maryland 20892
+
+Ornithine b-aminotransferase is a nuclear-encoded matrix where they assemble into the active homohexameric
+mitochondrial matrix enzyme whichcatalyzes the re- form of the enzyme (1). In humans, deficiency of OAT causes
+versible interconversion of ornithine and a-ketoglu- gyrate atrophy of the choroid and retina (GA), an autosomal
+tarate to glutamate semialdehyde and glutamate. Inrecessive trait characterized by ornithine accumulation and a
+herited deficiency of ornithine b-aminotransferase
+re- distinctive chorioretinal degeneration. We and others have
+sults in ornithine accumulation and a characteristic cloned and sequenced a near full length human OAT cDNA
+chorioretinal degeneration,gyrate atrophy of the cho- (2-4), determined thestructural
+gene organization, and
+roid and retina. We havesurveyedtheornithine
+mapped it to 10q26 (5, 6). Although the amino acid sequence
+&aminotransferase genes of gyrate atrophy patients of many a-aminotransferases is known, OAT and, recently
+for mutations. Using a variety of techniques, we discovered and molecularly characterized 21 newly g1utamate:succinic semialdehyde transaminase (4-aminoburecognizedornithineb-aminotransferase alleles. We tyrate transaminase; EC 2.6.1.19) (7) are the only Q-aminodetermined the consequences of these and three transferases whose primary sequence is available (8).Thirteen
+previously described mutationson ornithine b-amino- mutant OAT alleles have been described in individuals with
+transferase mRNA, antigen, andenzyme activity in GA (9-14).
+We used a varietyof techniques including RNase A proteccultured fibroblasts. The majority(20/24) of these alleles produce normal amounts of normally sized orni- tion, single strand conformational polymorphism (SSCP)
+thine &aminotransferasemRNA. By contrast, only 2/ analysis, and thepolymerase chain reaction (PCR) with direct
+24 hadnormalamountsof
+ornithineb-aminotrans- sequencing to detect mutations in the OAT genes of patients
+ferase antigen. Reproducing these mutations by site- with GA. Herein we describe 21 newly recognized OAT mudirected mutagenesisand expressing the mutant orni- tations and present biochemical and functional characterizathineb-aminotransferaseinChinesehamsterovary
+tion of these and three other OAT mutant alleles which we
+cells confirms that several of these mutations inacti- have previously reported (9, 12). Our results identify amino
+vate ornithineb-aminotransferaseandcause gyrate acid residues important to the structure and
+function of OAT.
+atrophy in these patients.
+A report on the population distribution and clinical characterization of these alleles will appear elsewhere.’
+EXPERIMENTALPROCEDURES
+
+Ornithine&aminotransferase
+(OAT’; ~-ornithine:P-oxoacid aminotransferase; EC2.6.1.13) is a mitochondrial matrix
+enzyme which catalyzes the reversible conversion of ornithine
+and a-ketoglutarate to glutamate semialdehyde and glutamate. OAT monomers are synthesized as 49-kDa precursors
+and processed to 45 kDa upon entry into the mitochondrial
+
+OAT AlleleNomenclature
+
+OAT missense alleles are designated using the single letter abbreviation for amino acids and codon numbers with codon 1corresponding to the initiation methionine. The first letter and the following
+number indicate the normal residue and codon number, respectively.
+For missense mutations the final letter indicates the replacement
+residue. Nonsense mutations are indicated by the suffix “ter” follow* This work was supported in part by National Eye Institute Grant ing the codon number, e.g., G40lter. Small (1-2 bp) deletions or
+EY02948 (to D. V.) and the Canadian Network of Centers of Excel- insertions are indicated by “fs” (for frameshift)after the codon
+lence, the Medical Research Council of Canada, the Fonds de la number followed by the number of bases inserted or deleted, e.g.
+Recherche en SantCduQuebec, and the UniversitC de Montrhal 1127fs(+l). The suffix “A” indicates deletion of a single codon, e.g.
+(CAFIR) (to G. M.). The costs of publication of this article were A184A.
+defrayed in part by the payment of page charges. This article must
+therefore be hereby marked “advertisement” in accordance with 18
+Cell Culture
+U.S.C. Section 1734 solely to indicate this fact.
+Culture of patient and control fibroblasts, Chinese hamster ovary
+§ Supported by the Howard Hughes Medical Institute.
+$$ Investigator at theHoward Hughes Medical Institute. Towhom (CHO-K1) and Chinese hamster lung (CHL) cell lines was as decorrespondence should be addressed: Howard Hughes Medical Insti- scribed (12). TFC7 is a CHO subline expressing wild type human
+tute, PCTB 802, John Hopkins University School of Medicine, 725 OAT activity. This cell line was isolated by selection for proline
+prototrophy (15) after transfection with a human OAT expression
+N. Wolfe St., Baltimore, MD21205.Tel.:410-955-4260;Fax:410vector.
+955-7397.
+The abbreviations used are: OAT, ornithine b-aminotransferase;
+L. C. Brody, G. A. Mitchell, L. S. Martin, M. T. Geraghty, C.
+GA, gyrate atrophy of the choroid and retina; PCR, polymerase chain
+reaction; CHO, Chinese hamster ovary; SSCP, single strand confor- Obie, G. Steel, J. Michaud, G. Fontaine, M.-F. Robert, I. Sipila, M.
+Kaiser-Kupfer, and D. Valle, manuscript in preparation.
+mational polymorphism; bp, base pair.
+
+3302
+
+3303
+
+Ornithine &Aminotransferase Mutations
+Plasmids, Probes, and Cloning Vectors
+Unless otherwise indicated pGEM4 (Promega) wasused for all
+cloning manipulations. A plasmid containing human OAT cDNA,
+phuOAT6, was used as the starting material for site-directed mutagenesis. This clone includes the complete (1317 bp) open reading
+frame, 60 bp of 5'-nontranslated and the entire 635 bp of the 3'nontranslated region (4). The eukaryotic expression vector p91023b
+was a gift of R. Kaufman, Genetics Institute (16). The plasmid,
+pCH110, contains the Escherichia coli lac2 gene and produces
+@-galactosidaseactivity in eukaryotic cells (17). pm@5is a full length
+mouse @-tubulincDNA clone (18).
+Restriction endonuclease digestion was used to isolate DNA segments for probe preparation. The desired restriction fragments were
+gel purified and labeled with [a-32P]dCTPby random hexamer priming (19).
+
+Wild tvpe
+cDNA
+template
+
+Slte at desired mutation
+
+1
+
+Restridon Site 1
+
+.
+)
+
+Prlmer B
+
+Primer A
+
+AmpNfy with primers A and 6
+
+'Len arm" product
+
+-
+
+RNase A Protection
+Detection of single nucleotide mismatches in RNA-RNA hybrids
+was performed as previously described (12, 21, 22). Riboprobes were
+made from three phuOAT6 subclones: EcoRI-BamHI (bp -60 to 660),
+HinfI-SmaI (bp 608 to 1282),or HinfI -Hind111 (bp 608 to 1386) which
+span the protein coding region of the wild type OAT mRNA (12).
+The products of the RNase protection reaction were separated on a
+6% denaturing polyacrylamide gel (23) and their size was used to
+predict the location of the mismatched bases.
+Single Strand ConformationalPolymorphism (SSCP)
+SSCP analysis was performed on the products of PCR amplification of OAT exons plus flanking splice sequences from genomic DNA
+as described by Orita et al. (24) with the modification that
+dATP and [a-35S]dCTPwere incorporated during the amplification
+reaction.
+Confirmation of Mutations
+Any exon with a putative mutation was amplified at least twice
+and sequenced in both directions. The presence of a mutation was
+confirmed in genomic DNA by demonstration of a restriction site
+alteration, if this was a predicted result of the mutation, and/or by
+allele-specific oligonucleotide hybridization to slot-blotted products
+of additional PCR amplification of the genomic DNAof the proband
+and other available members of the pedigree (25,26).
+Mutant cDNA Construction
+cDNA Subclones from GA Patient Fibroblast RNA-Mutant OAT
+cDNA was synthesized by reverse transcription of patient fibroblast
+RNA (12). DNA cassettes containing the mutations R180T, A184A,
+and L402P were synthesized by PCR amplification of the relevant
+region of the appropriate cDNA as described (20). The amplified
+PCR products were digested at unique restriction sites flanking the
+mutation. The mutant cassette was gel purified in a 2% low melting
+point agarose gel (BRL), excised, and subcloned into thecorresponding region of phuOAT6. The presence of the mutation and theabsence
+of any other alterations was confirmed by sequencing the entire region
+corresponding to the mutantcassette and cloning restriction sites in
+the recombinant mutant clone.
+Cloning of Mutations by Site-directed Mutagenesis-DNA cassettes
+containing MlI, R154L, R271K,P417L, and L437F wereconstructed
+by site-directed mutagenesis. Oligonucleotides containing the desired
+mutation (18 to 56-mers) were synthesized. In the case of M1I and
+P417L, both the mutation and a nearby unique restriction site were
+included in the oligonucleotide. For each of the other mutations, a
+total of four oligonucleotideswere synthesized (Fig. 1). phuOAT6 (10
+ng) was used as a template for PCR (100 pl of reaction, Gene AMP
+
+Primer D
+
+Primer C containing
+muiatlon
+
+1
+
+t
+
+Amplify with primersC and D
+
+arm'
+
+'Right
+
+prcduct
+
+-
+
+Klenow lillends
+
+I
+
+Digest left arm" whh
+restrictionenzyme 1
+
+DNA Sequencing
+Double stranded plasmid DNAwas alkaline denatured and sequenced with T7 DNA polymerase according the manufacturer's
+directions (PharmaciaLKB
+Biotechnology Inc.). Sequencing of
+cloned PCR material was performed on pools of clones to dilute any
+clone with a random Taq polymerase error and to insure representation of both alleles. For direct sequencing of PCR-amplified fragments, the amplified products were passed twice through Centricon30 filters (Amicon) or gel-purified and sequenced directly using either
+the PCR primers or internal oligonucleotideprimers and [a-%]dATP
+to label the products (20).
+
+-
+
+Restridon She 2
+
+Ligate "let arm' and 'right arm" to
+wild type cDNA vector cut with
+restrictionenzymes 1 and 2
+
+I
+
+Digest 'right arm' wlth
+restnctionenzyme 2
+
+CZIl
+Recombinant Mutant cDNAvector
+
+FIG. 1. General method for PCR based site-specific mutagenesis. An outline of the scheme used to generate site-specific
+mutations in vitro utilizing PCR. This method was used to generate
+a recombinant OAT cDNA clone containing various missense mutations.
+Kit, Cetus, see above). After initial denaturation at 94 "C for 4 min,
+the amplification reaction cycled between 94 "C and thepredicted T ,
+( T , = 4 "C per G or C nucleotide 2 "C per A or T nucleotide) of
+the primer with the lower melting point using a 15-5 dwell-time at
+each temperature. After 25 cycles, the products were elongated at
+72 "C for 4 min. An aliquot (10 pl) of the reaction was electrophoresed
+ona 5% agarose gel (3% Nusieve, FMC, 2% Type I, Sigma) and
+visualized with ethidium bromide to evaluate the amplification. To
+remove any nucleotides added beyond the template by Taq polymerase
+(27), we used the 3' - 5' exonuclease activity of Klenow fragment by
+incubating the remainder of the reaction mixture with Klenow fragment (6 units) and deoxynucleotide triphosphate (250 WM each) for
+30 min at 37 "C (23). The product was purified with Geneclean (Bio
+101), eluted, and the 5' ends phosphorylated with polynucleotide
+kinase (15-20 units, as directed by the supplier, Boehringer Mannheim). The reaction mixture was diluted to 50 pl with H,O and a 20pl aliquot digested with appropriate restriction enzymes. Fragments
+of the correct size were gel purified in 2% low melting point agarose
+and subcloned into theappropriate site of phuOAT6.
+For mutations which were not within 50 bp of a unique restriction
+site (R154L, R271K, and L437F), themutant cDNAswere constructed as a two-part cassettewith left and right arms (Fig. 1). The
+desired mutation was incorporated into one of the two oligonucleotides which form the junction between the arms of the cassette (27).
+A triple ligation (vector-unique site 1-left arm-blunt-right arm-unique
+site 2-vector) was required to generate the complete mutant cassette
+which was then ligated into thecorresponding sites of phuOAT6. To
+confirm that thedesired mutation was the only alteration introduced
+into the huOAT cDNA, the region corresponding to theentire cassette
+and the cloning restriction sites was sequenced. The full-length
+recombinant OAT cDNA was removedfrom pGEM4 with EcoRI and
+ligated into p91023b for expression.
+
++
+
+Transfections
+DNA transfection (28) was performed using as the recipient cells
+(12) our NC5 subclone of the Chinese hamster ovary cell line, CHOK1, which lacks endogenous OAT mRNA, protein, and activity.
+Enzyme Assays
+Cell lysate OAT activity was measured radiochemically (29). A
+standard assay mixture contained 0.7 mM L-ornithine, 0.7 mM aketoglutarate, 16 pM pyridoxal phosphate, 0.1 M KPO, (pH 8.0), 0.10
+pCi of [3H]ornithine (DuPont-New EnglandNuclear), and 25-50 pg
+
+3304
+
+Ornithine &AminotransferaseMutations
+
+of protein in a final volume of 250 pl. Following incubation at 37 "C
+for 1 h the reaction was terminated by addition of 6 N HCI (50 p ] ) .
+Under these conditions, the reaction product, glutamate semialdehyde, is converted nonenzumatically to A1-pyrroline-5-carboxylate
+which is separated from ornithine by ion exchange chromatography
+on disposable 1-ml DowexAG 50W-X8 H+ form 100-200 mesh
+columns. Activities as low as 1 nmol of product/h/mg of protein
+(about 1%that of control fibroblasts) are detectable. P-Galactosidase
+activity was determined as described by Miller (30).
+
+which was present in 19 of 24 Finnish pedigrees, the other
+mutant alleles were uncommon, being represented in only
+1-7 of the 58 non-Finnish pedigrees studied. In each instance
+the mutant allele was found in a patient(s) and not in the
+controls (data notshown).
+Consequences of Mutations on Fibroblast OAT mRNA and
+Antigen-Elucidation of the consequences of mutations on
+fibroblast OAT mRNA, antigen, and activity is complicated
+by allelic heterogeneity. The majority of the GA patients are
+RNA Isolation and Northern Blotting
+compound heterozygotes at the OAT locus. We were able to
+Total cellular RNA was isolated by the guanidinium isothiocyanate determine unambiguously the consequence of aparticular
+method (31), electrophoresed on 1.5% agarose-formaldehydegels (23),
+transferred to nylon membranes (Hybond N, Amersham Corp.), and OAT mutation on mRNA and protein phenotypes for 13
+hybridized with probes generated by random hexamer priming (19) mutant alleles for which fibroblasts from true homozygotes
+were available. Assuming no interactions occur between the
+of the desired template.
+products of each allele, a correlation between genotype and
+Anti-OAT Peptide Antisera
+phenotype was also possible in fibroblasts from compound
+A peptide corresponding to residues 32-50
+of
+human OAT heterozygotes when there wasnegligible amounts of OAT
+(KTVQGPPTSDDIFEREYKY) was synthesized on an Applied Bio- mRNA and/or antigen. When OAT antigen and/or mRNA
+systems 430A peptide synthesizer, and purified by reverse phase high was present, it was not possible to evaluate the contribution
+performance liquid chromatography. The sequence of the peptide was of each allele to the phenotype. With these caveats in mind,
+verified with an Applied Biosystems 470A protein sequenator. A
+sample of the peptide (2 mg)was cross-linked to keyhole limpet Northern blot analysis of fibroblast RNA from GA patients
+hemocyanin (4 mg) with glutaraldehyde (O.l%, 1 h, room tempera- with the 24 OAT mutant alleles is shown in Fig. 2 A . The
+ture), dialyzed in phosphate-buffered saline (pH 7.35), and anamount mRNA phenotype for 14 alleles was scorable: 10 produced
+of this cross-linked material containing 150 pg of peptide was mixed approximately normal amounts of OAT mRNA, while in the
+with 2 ml of complete Freund's adjuvant (Sigma) and injected sub- remaining four, it was markedly reduced. The other10 alleles
+cutaneously into a 2-kg rabbit. Two intramuscular booster injections were found only in compound heterozygotes and theirmRNA
+(50 pg of cross-linked peptide in incomplete Freund's adjuvant) were
+administered 4 and 8 weeks after the initial injection. Serum was phenotype was indeterminant.
+The immunoblot analysis of OAT antigen from these same
+collected 10 days after the first boost and at 2-week intervals thereafter. Preimmune serum was used as a control for immunoblots. We 24 alleles is shown in Fig. 2C. Two alleles, R154L and R180T,
+verified the specificity of the antibody by demonstrating that it
+produce normal amounts of OAT antigen and 20 alleles have
+identified a 45-kDa protein in control fibroblast and liver homoge- little or no detectable OAT antigen. Two alleles (Y55H and
+nates which was absent in fibroblast extracts from a GA patient who A184A) are unscorable. Thus, themajority of these mutations
+lacked detectable OAT mRNA (data not shown).
+result in a marked reduction of immunologically detectable
+OAT protein in cultured fibroblasts.
+Immunoblots
+Expression-All of the mutations tested by transfection
+Cell sonicates (25-50pgof
+protein) were subjected to sodium produced large amounts of OAT mRNA (Fig. 3A). At the
+dodecyl sulfate-polyacrylamide gel electrophoresis (32) and electroblotted to polyvinylidene difluoride membrane (Immobilon, Milli- protein level, transfection with wild type, R154L, R180T, and
+pore). Immunoblots were performed exactly as described (33) utilizing L437F OAT alleles produced a similar amount of normally
+size (45 kDa) OAT antigen (Fig. 3C). A small amount (-3%)
+anti-OAT peptide antiserum (1/500 dilution).
+of a slightly larger band (49 kDa) which may represent unRESULTS
+processed pre-OAT is also present. In support of this interpretation,
+the49-kDa band is not observed in cells transfected
+Mutation Detection-In the genomic DNA of GA patients
+we found 25 mutations in the 24 OAT mutant alleles listed in with the M1I allele which, as expected, has no detectable
+Table I. One allele, P417L/L437F, has two missense muta- OAT antigen. Despite the presence of a large amount of OAT
+antigen, in R180T or R154L transfectants, no enzymatic
+tions in cis. Nine of the mutations (MlI,
+Y55H, C93F, R154L,
+activity was detected. Thus, theexpression data fit well with
+R180T, A184A, A270P, R271K, and R396ter) were first localthe conclusion from fibroblast studies that both of these
+ized to a specific region of the cDNA using the RNase A
+alleles yield inactive yet stable OAT protein. By contrast,
+protection technique. The exact mutation was then deterL437F produces an enzymatically active protein similar to
+mined by sequencing PCR products amplified either from
+wild type, suggesting this mutation has little effect on OAT
+genomic DNA or from cDNA synthesized from fibroblast
+function. P417L, which we found only in cis with L437F,
+RNA. Nine mutations ((N89K, I127fs(+l), P241L, R250P, yields little OAT antigen and no OAT activity. We conclude
+T2671, E318fs(-1), G353D, C394R,and G40lter))were local- that in the P417L/L347F allele, the missense mutation at
+ized to a particular exon by SSCP and identified by directly codon 417 is responsible for the loss of OAT function. Three
+sequencing the products of PCR amplifications of the relevant alleles, A184A, R271K, and L402P, yield a small amount of
+exon. The remaining seven mutations ((H53fs(-1), Y245C, normally sized antigen which is enzymatically inactive. In the
+N334fs(-l), G375A, L402P, P417L, and L437F)) were de- fibroblast analysis, we scored two of these, R271K and L402P,
+tected by sequencing PCR amplified OAT exons or cDNA, as OAT antigen negative. This discrepancy between expreswithout prior localization.
+sion following transient transfection and patient fibroblasts
+Allele-specific oligonucleotide hybridization or restriction probably reflects the much higher level of expression of the
+enzyme analysis (in thosecases for which the mutation alters transfected OAT gene in the recipient CHO K1 cells as
+a restriction site) was used to screen our patient population compared to the endogenous gene in cultured human fibro(82 probands) and a panel of 30 unrelated control individuals blasts (roughly 3-15-fold for protein and activity).
+for 16 of the 24 alleles described hereim3 Aside from L402P,
+Screening for the following alleles has not yet been performed:
+H53f~(-1), 1127fs(+l), A184A, E318fs(-l),N334f~(-1),
+G353D,
+G375A, and R396ter.
+
+DISCUSSION
+
+We have utilized several mutation detection methods t o
+identify OAT mutations in patients with GA. Our choice of
+
+3305
+
+Ornithine &AminotransferaseMutations
+TABLE
+I
+OAT mutant alleles
+
+The nucleotide(s) position mutated (nt) refers to the OAT cDNA (4) and the nucleotide(s) alteration is given.
+The observed phenotype of the allele at thelevel of mRNA and antigen was graded as 0, undetectable; 1+,barely
+detectable; 2+, reduced levels compared to control; 3+, indistinguishable as compared to control; I, indeterminant,
+unable to be scored due to compound heterozygosity. The functional significance of each allele as measured by
+expression in a transient transfection assay is designated as
+if the mutant allele inactivates OAT function; or
+as "-"if it has no effect on enzymatic activity. Functional significance was assumed for those mutations which
+disrupt the reading frame (RF). Functional significance was inferred (inf) for nonconservative missense mutations
+which were not directly tested.
+
+"+"
+
+Allele
+
+MI1
+H53fs(-l)
+Y55H
+N89K
+C93F
+1127fs(+l)
+R154L
+R180T
+A184A
+P241L
+Y245C
+R250P
+T267I
+A270P
+R271K
+E318fs(-l)
+N334fs(-l)
+G353D
+G375A
+C394R
+R396ter
+G40lter
+L402P
+P417L
+L437F
+
+Exon
+
+Ethnic origin
+
+Nucleotide Nucleotide
+change
+
+Detection method
+
+3 Lebanese Maronite
+3 Iraqi Jew
+3 Aust/Hung/English
+Finnish
+4
+4 German/Italian
+4 Welsh
+5 English/German
+6 Finnish/American
+6 Portugese
+German/Italian
+7
+7 English
+7 French
+8 Ashkenazi Jew
+8 Portugese
+8 Japanese
+9Turkish
+(Sephardic)
+10 West African
+10 Spanish
+10 Hispanic (Nicaraguan)
+11 English
+11 East Indian
+11 German/American
+11 Finnish
+11 English
+11
+
+RNase A
+Exon PCR & sequencing
+RNase A
+SSCP
+RNase A
+SSCP
+RNase A
+RNase A
+RNase A
+SSCP
+Exon PCR & sequencing
+SSCP
+SSCP
+RNase A
+RNase A
+SSCP
+PCR cDNA & sequencing
+SSCP
+PCR cDNA & sequencing
+SSCP
+RNase A
+SSCP
+Exon PCR & sequencing
+Exon PCR & sequencing
+
+3
+159
+163
+267
+278
+380-1
+461
+539
+550
+722
+734
+749
+800
+808
+812
+949-52
+1028-31
+1058
+1124
+1180
+1186
+1201
+1205
+1250
+1311
+
+G+A
+del C
+T+C
+C+A
+G+T
+ins T
+G+T
+G+C
+del GCT
+C+T
+A+G
+G+C
+C+T
+G+C
+G+A
+del G
+del A
+G+A
+G+C
+T+C
+C+T
+G+T
+T+C
+C+T
+G+T
+
+Functional
+significance
+
+Consequence
+mRNA
+Antigen
+
+Missense
+Frameshift
+Missense
+Missense
+Missense
+Frameshift
+Missense
+Missense
+Deletes A 184
+Missense
+Missense
+Missense
+Missense
+Missense
+Missense
+Frameshift
+Frameshift
+Missense
+Missense
+Missense
+Termination
+Termination
+Missense
+Missense
+Missense
+
+3+
+1+
+
+I
+I
+I
+2+
+3+
+3+
+
+I
+I
+I
+3+
+3+
+3+
+3+
+1+
+1+
+3+
+
+I
+I
+3+
+I
+3+
+3+
+3+
+
+0
+0
+I
+0
+I
+0
+2+
+3+
+I
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3+
+
++
+RF
+inf
+inf
+inf
+RF
+
++
++
++
+
+inf
+inf
+inf
+inf
+inf
+inf
+RF
+RF
+inf
+inf
+inf
+RF
+RF
+
++
++-
+
+FIG. 2. Analysis ofOATmRNA
+and antigen in cultured human fibroblasts. An asterisk denotes patients
+homozygous for the indicated allele.
+Panel A, Northern blot analysis of total
+cellular RNA (10 pg of RNA/lane) isolated from GA patient fibroblast and hybridized to a human OAT cDNA probe.
+The positions of the 28 S and 18 S ribosomal subunits are indicated. Panel B,
+the same filter frompanelA rehybridized
+to a mouse 8-tubulin probe to control for
+RNA loading. Panel C, immunoblot
+analysis of cell sonicates (50 pg of protein/lane) of GA patient fibroblasts. The
+molecular mass of the OAT subunits as
+calculated from the migration of standards (Rainbow Markers, Amersham
+Corp.)is shown.
+
+L
+
+-
+
+C
+/
+
+m
+
+0.
+
+methods was influenced by several features of the OAT gene.
+First, itis a relatively small autosomal gene (11exons of 52793 bp). Second, it is expressed in cultured fibroblasts, so that
+mutant OAT mRNA could be isolated and characterized.
+Third, by initial Southern and Northern blot analysis in each
+GA family (datanot
+shown), we foundno
+large rearrangements of the OAT gene. Therefore, methods of mutation detection with sensitivity adequate to detectpoint
+mutations were required.
+For the OAT alleles reported herewe mainly employed two
+screening methods to localize mutations, RNase A protection
+and SSCP. Although RNase A digestion detects many single
+base pairmismatches (34), it requires large amounts of mRNA
+
+0
+
+-
+
+18s
+
+-45kD
+
+and radioactivity and has imperfect sensitivity since some
+mismatches are not cleaved (34). We estimate that we detected approximately 50% of the OAT mutations in the cell
+lines we studied by RNase A protection. Although the sensitivity of the RNase A technique theoretically could be improved by using each strand of PCR amplified cDNA as the
+target sequence, we have largely abandoned this method in
+favor of SSCP analysis of amplified exons. This latter technique has proved to be simpler and more sensitive (35).
+All the OAT mutations described in this report (summarized in Table I) are subtle alterations in coding regions of
+the OAT gene. Most (20) are nucleotide substitutions, including 11transitions andnine transversions, while the remaining
+
+Ornithine &Aminotransferase Mutations
+
+3306
+
+R250P, T2671, A270P, R271K, G353D, G375A, and C394R)
+we infer the mutationis pathologic because these alleles were
+found only in GA patients and not in 30 unrelated controls
+(60 chromosomes). For those missense mutations which we
+have not analyzed by expression studies, we cannot exclude
+the possibility that theidentified mutation is neutral and the
+functionallysignificant mutation was undetected by our
+screening methods. However, the observation that 10 of these
+12 mutations alter amino acids conserved between Saccharomyces cereuisiae and humanOAT suggests that the mutations
+alter residues important for OAT structure and/or function
+(see below, Fig. 4).
+At the mRNA level most of the OAT mutant alleles have a
+normal amount of normally sized message. Four alleles,
+H53fs(-1), 1127fs(+l), E318fs(-1), and N334fs(-1), have
+markedly reduced levels of fibroblast OAT mRNA. In these,
+the open reading frame is truncated to77, 384,983, and 1065
+nucleotides, respectively, incontrasttothe
+1317-bp open
+reading frame of wild type OAT. These truncated open readingframes endin exons 3,4, 9, and 10, respectively, as
+compared to wild type OAT, which terminates translation in
+the 11th exon. One allele, R396ter, terminates translation
+prematurely but still in exon 11 and has normal amounts of
+OAT mRNA (G40lter could not be scored because it is present
+in a compound heterozygote). Thus, as hasbeen observed in
+@-globin(36), dihydrofolate reductase (37), and triose-phosphate isomerase (38), premature termination in the terminal
+exon of OAT seems to have no effect on mRNA levels but
+termination in the penultimate exon or earlier is associated
+with markedly reduced levels of mRNA.
+The most common phenotype of the OAT mutation at the
+protein level is a lack of immunoreactive OAT peptide. Of the
+20 alleles (10 in homozygous individuals) with normal
+amounts of OAT mRNA, two (10%) have normal amounts of
+OAT antigen.The remainder have little or no detectableOAT
+antigen.Interestingly, 12 of these 20 alleles have simple
+missense mutations. With the caveat that absence of OAT
+protein is defined as a failure to react with an antipeptide
+antibody, we tentatively classify these 13 alleles as protein
+destabilizing missense mutations. Destabilizing mutations
+often result inthe disruption of hydrophobic and electrostatic
+
+five are small (1-3 bp) deletions or insertions. Of the transitions, three represent C d T or G d A mutations a t one of the
+26 CpG dinucleotide pairs found in the 1317-bp coding sequence of the OAT gene. Themutationsare
+distributed
+throughout the OAT protein and have various consequences
+on the primary amino acid sequence. The majority (18/25)
+are missense mutations: four are frameshifts; two are nonsense mutations; and one is an in-frame deletion of a single
+codon. For 12 alleles (Y55H, N89K, C93F, P241L, Y245C,
+
+- 285
+- I85
+
+- 185
+
+--
+
+C
+
+~
+
+W
+
+*
+
+-
+
+a
+
+o
+
+h
+
+.
+
+a
+
+a
+
+$
+
+~
+
+~
+
+490
+45m
+
+@
+
+FIG. 3. Expression of human OAT mRNA, protein, and activity in CHO K l cells. Panel A, Northern blot of total cellular
+RNA isolated 48 h post-transfection probed with a full-length OAT
+cDNA probe. Each lane contains12 pg of RNA except TFC7 (10 pg).
+The positions of the 28 S and 18 S ribosomal subunits are indicated.
+The CHL cell lane shows the lack of hybridization to endogenous
+Chinese hamster OAT mRNA. Panel B, the same filter from panel A
+stripped and rehybridized with a mouse 0-tubulin probe to control
+for RNAloading. Panel C, immunoblot analysis of total cellular
+protein from transfected CHO K1 cell. Each lane contains 50 pg of
+total cellular protein except TFC7 (25 pg). CHL is not included in
+this panel. Panel D,OAT specific activity (expressed as nanomole of
+P5C/mg of protein/h) in transfected CHO-K1cell homogenates. The
+data is the mean of duplicate assays on the extracts shown in Panel
+/7
+
+L.
+
+M11
+
+4
+
+30
+10
+20
+MFSKLAHLORFAVLSRGVHSSVASATSVATK
+Mitochondrial Leader Peptide Cleavage
+Y55H
+
+4
+
+50
+
+40
+
+FIG. 4. Localization of missense
+mutations on an alignment of human
+and S. cerevisiae OAT amino acid
+sequences. Amino acid identities are
+shaded. Dashes indicate gaps in the human sequence introduced required to
+align it to theyeast polypeptide. The site
+2 3 0 leader sequence
+2 2 0 cleavof mitochondrial
+age and thepyridoxal phosphate (PLP)binding site are shown. The residues altered by mutations described in this report are marked by arrows and labeled.
+The sequence of the synthetic peptide
+used to generate the anti-OAT antibody
+(see "Experimental Procedures") is
+underlined.
+
+f
+
+NBSK C93F
+
+60
+
+4
+
+80
+
+70
+
+4
+
+100
+
+VOGPPTSDDIFEREVKYGAHNYHPLPVALERGKGIYLWDVEGRKVFDFLSSVSAVNOGHCHPKIVNALKSOVDKLT
+MSEATLSKOTIEWENKYSAHNYHPLPVVFHKAKGAHLWDP~GKLYLDFLSAYSAVNOGHCHPHIIKALTEOAGTLT
+R154L
+
+I20 I40
+
+110
+
+150
+
+I30
+
+RtBOT A184A
+
+4
+
+160
+
+I70
+
+4
+
+4
+
+LTSRAFYNNVLGEYEEVITKLFNVHKVLPMNTGVEAGETACKLARKWGYTVKGIOKVKAKIVFAAGNFWGRTLSAI
+LSSRAFHNDVVAOFAKFVTEFSGFETVLPMNTGAEAVETALKLARRWGYMKKNIPODKAIILGAEGNFHGRTFGAI
+R250P
+
+P241L Y245C
+
+4 4 4
+SSSTD-PTSVDGFGPFMP----GFDI--IPYNDLPALERALODP---NVAAFMVEPIOGEAGVVVPDPGYLMGVRE
+2 1 01 9 0
+
+200
+
+SLSTDVEDSKLHFGPFVPNVASGHSVHKIRYGHAEDFVPILESPEGKNVAAIILEPIOREAGIVVPPADYFPKVSA
+
+a a(
+
+T267i A270P
+
+260
+
+A271K
+
+PLP
+
+I
+
+2 80
+
+300
+
+310
+
+320
+
+LCTRHOVLFIADEIOTGLARTGRWLAVD-YE-NVRPDIVLLGKALSGGLVPVSAVLCDDDIMLTIKPGEHGSTYGG
+LCRKHNVLLIVDEIOTGIGRTGELLCVDHYKAEAKPDIVLLGKALSGGVLPVSCVLSSHDIMSCFTPGSHGSTFGG
+G353D
+
+340
+
+3504
+
+330
+
+360
+
+370
+
+G375A
+
+4
+
+380
+
+C394R
+
+390
+
+4
+
+NPLGCRVAIAALEVLEEENLAENADKLGI I LRNELMKL-P-SD-VVTAVRGKGLLNAIVIKETK-D-WDAWKVCLR
+
+NPLASRVAIAALEVlRDEKLCORAAOLGSSFIAOLKALOAKSNGIISEVRGMGLLTAIVIDPSKANGKTAWDLCLL
+
++
+
+L402P
+
+P417L
+
+410
+
+4
+
+L437F
+
+420
+
+430
+
+4
+
+L R D N G L L A K P T H G D I I R F A P P L V I K E D E L R E S I E I INKTILSF
+MKDOGLLAKPTHDHllRLAPPLVlSEEDLOTGVETlAKCIDLL
+
+ransferase Mutations
+Ornithine 6-Aminot~
+interactions within the protein core (39). Ten of these destabilizing missense mutations (N89K, P241L, Y245C, A270P,
+R271K, G353D,G375A,C393R, L402P, and P417L) effect
+residues conserved between S. cerevisiae (40), rat and human
+OAT (Fig. 4). The two mutations altering nonconserved res- I
+idues (A270P and R250P) both involve proline. This imino
+acid forms the least flexible peptide bond (41) so it is not
+surprising that substitution by proline at thesepositions
+would be deleterious to OAT structure (39). The importance
+of A270 is reinforced by the observation that even a conservative substitution at the next residue (R271K) produces an
+OAT antigen negative phenotype.
+Two of the missense OAT mutations, R180T and R154L,
+completely inactivate OAT function without reducing OAT
+antigen, In other enzymes whose structure is better understood, mutations which alter function without an effect on
+stability often involve residues that participate in the active
+site (39,42,43).R180 and R154 are conserved in S. cerevisiae
+OAT. We speculate that these residues may be involved in
+the active site of OAT.
+Curiously, one allele, P417L/L437F, has two missense mutations in cis as shown by sequencing PCR-generated cDNA
+clones and pedigree analysis (data not shown).Two missense
+mutations in cis have been described in an allele for glycoasparaginase and an allele for glucocerebrosidase, the genes
+affected in aspartylglucoseaminuria (44) and Gaucher disease
+(45), respectively. To determine if P417L and L437F were
+acting in concert or independently to cause OAT inactivation,
+we cloned each separately and expressed them in transient
+transfection assays. The P417L mutation is mRNA positive,
+antigen negative, and activity negative; L437F, by contrast,
+had no discernable effect on OAT mRNA, protein, or activity
+(Fig. 3). These results are consistent with predictions from
+the yeast human OAT homology. P417 is conserved while the
+residue in S. cereuisiae corresponding to L437 is an asparate.
+The residues at codons 438 and 439of the human enzyme
+also have diverged as compared with those in S. cerevisiae.
+This suggests that alterations at theextreme C terminus of
+the protein aretolerated. We conclude that L437F is a neutral
+mutation while P417L inactivates OAT.
+thank Sandy Muscelli forher expert assistance in preparation and Sonye Danoff for her careful reading of
+this manuscript.
+Acknowledgments-We
+
+Note Added in Proof-Since
+
+submission of this manuscript, we
+have had the opportunity to study fibroblasts from a patient homozygous for the P417L/L437F allele. Our results confirm that this is
+an mRNA-positive, antigen-negative, activity-negative allele.
+REFERENCES
+1. Markovic-Housley, Z., Kania, M., Lustig, A., Vincent, M. G., Jansonius, J.
+N.. and John. R. A. (1987), Eur. J . Aiochpm
+.. .. _",
+la2.245-Tin
+"_
+2. Ramesh, V., Shaffer, M . M., Allaire, J. M., Shih, V. E., and Gusella, J. F.
+(1986) DNA (N. Y.)5,493-501
+3. Inana, G., Totsuka, S., Redmond, M., Dougherty, T., Nagle, J., Shiono, T.,
+Ohura, T., Kominami, E., and Katunuma, N. (1986) Proc. Natl. Acad.
+Sci. U. S. A. 83,1203-1207
+~~
+
+~
+
+"
+"
+
+"_
+
+3307
+
+4. Mitchell. G.A,.Loonev.
+J. E.. Brodv. L.C.. Steel. G.. Suchanek, M.,
+Engelhardt, J. F., Willard, H. F., i n d V i l e , D. -(i988) J. Biol. Chem.
+263,14288-14295
+5. Wu, J., Ramesh, V., Kidd, J. R., Castiglione C. M. Myers S. Carson, N
+Anderson, L.. Gusella. J. F.. Simoson. N. E.. i n d Kid& K . K. (1988:
+Cytogenet; Cell Genet. 48,126-127
+6. Zintz, C. B., and Inana, G. (1990) Ex Eye Res. 60, 759-770
+7. Bartsch, K., von Johnn-Marteville,
+and Schulz, A. (1990) J. Bacteriol.
+1 7 2 , 7035-7042
+8. Hayashi, H., Wada, H., Yoshimura, T., Esaki, N., and Soda, K. (1990)
+Annu. Reu. Biochem. 69,87-110
+9. Mitchell, G. A., BTody, L. C.,, Looney, J., Steel, G., Suchanek, M., Dowling,
+C., Der Kaloustlan, V., Kalser-Kupfer, M. I., and Valle, D. (1988) J. Clin.
+Inuest. 81,630-633
+10. Inana, G., Hotta, Y., Zintz, C., Takki, K., Weleber, R. G. Kennaway, N.
+G., Nakayasu, K., Nakajima, A., and Shiono, T. (1988) inuest. Ophthlmol. & Visual Sci. 2 9 , 1001-1005
+11. McClatchey, A. I., Kaufman, D. L., Berson, E. L., Tobin, A. J., Shih, V. E.,
+Gusella, J. F., and Ramesh, V. (1990) Am. J. Hum. Genet. 4 7 , 790-794
+12. Mitchell, G. A., Brody, L. C., Sipila, I., Looney J. E Wong C. En elhardt
+J. F Patel A. S., Steel, G.,ObieC.,Kais&-K;'pfer,
+M., a'nd balle, D:
+(1986) Pro; Natl. Acad. Sci. U. S.'A. 8 6 , 197-201
+13. Ramesh, V., McClatchey, A. I., Ramesh, N., Benoit, L. A Berson, E. L.
+Shih, V. E., and Gusella, J. F. (1988) Proc. Natl. Acad. Zci. U. S. A. 85:
+3777-3780
+14. Ramesh, V., McClatchey, A., Herron, B., Weleber, R., Kennaway, N.
+O'Donnell, J., Berson, E. L., Shih, V. E., and Gusella, J. F. (1990) Inuest:
+0 h t h l & Visual Sci. 31,310
+15. Valz, D., Downing, S. J., Harris, S. C., and Phang, J. M. (1973) Biochem.
+Biophys. Res. Commun. 53,1130-1136
+16. Oprian, D. D., Molday, R. S., Kaufman, R. J., and Khorana, H. G. (1987)
+Proc. Natl. Acad. Sci. U. S. A. 84,8874-8878
+17. Hall, C. V., Jacob, P. E., Ringold, G. M., and Lee, F. (1983) J. Mol. Appl.
+Genet. 2,101-109
+18. Sullivan, K. F., and Cleveland, D. W. (1986) Proc. Natl. Acad. Sci. U. S. A.
+83,4327-4331
+19. Feinberg, A. P., and Vogelstein, B. (1983) Anal. Bbchem. 132,6-13
+20. Mitchell, G. A., Labuda, D., Fontaine, G., Saudubray, J. M. Bonnefont, J.
+P., Lyonnet, S., Brody, L. C., Steel, G., Obie, C., and ialle, D.(1991)
+Proc. Natl. Acad. Sci. U. S. A. 88,815-819
+21. Gibbs, R. A., and Caskey, C. T. (1987) Science 236,303-305
+22. Veres, G., Gibbs, R. A., Scherer, S. E., and Caskey, C. T. (1987) Science
+237,415-417
+23. Sambrook, J., Fritsch, E. F., and Maniatis, T. (1989) Moleculnr Cloning:A
+Manual, 2nd Ed, Cold Spring Harbor Laboratory, Cold Spring
+I
+
+~~~~
+
+~
+
+I~
+
+'
+
+I;,
+
+24. Orita, M., Suzuki, Y., Sekiya, T., and Hayashi, K. (1989) Genomics 6,874879
+25. Kafatos, F. C., Jones, C. W., and Efstratiadis,A. (1979) Nucleic Acids Res.
+7.
+1541-1557
+- ,~26. Orkin, S. H., Markham, A. F., and Kazazian, H. H., Jr. (1983) J. Clin.
+Inupat
+.
+...- -. 71.
+", 775-719
+. . _ . ._
+27. Hemsley, A. Arnheim N. Toney M.D. Cortopassi, G., and Galas, D. J.
+(1989) Nuheic Acids'Rei. 17,6845-655'1
+28. Chen, C., and Okayama, H. (1987) Mol. Cell. Biol. 7,2745-2752
+29. Valle,D. Kaiser-Kupfer M. I. and DelValle,L.
+A. (1977) Proc. Natl.
+Acad. dci. U. S. A. 74,'5159-6161
+30. Miller, J. H. (1972) in Ex eriments in Molecular Genetics, Cold Spring
+Harbor Laboratory, Col S rlng Harbor, pp. 352-355
+31. Chirgwin, J. M., Przyby1:A)
+E. MacDonald, R. J.,andRutter, W. J.
+(1979) Biochemistry 18,5294-6299
+32. Laemmli U. K. (1970) Nature 227,680-685
+O'Brien, W. E., and McInnes, R. R. (1986) Am. J.Hum. Genet.
+33. Simard,
+39,38-51
+34. Gibbs, R. A., and Caskey, C. T. (1985) Science 2 3 0 , 1242-1246
+35. Michaud, J., Brody, L.C., Fontaine G., Robert, M.-F., Steel, G. KaiserKupfer, M. I., Mitchell, G. A., and Valle, D. (1991) Am. J. Huh. Genet.
+49, A2519
+36. Baserga, S. J., and Benz, E.J. (1988) Proc. Natl. Acad. Sci. U. S. A. 85,
+"
+
+"
+1
+-
+
+i.,
+
+2n~-2nca
+
+39. Pakula A. A. and Sauer R. T. (1989) Annu. Reu. Genet. 23,289-310
+40. Degols,'G. (1687) Eur. J.'Biochem. 169,193-200.
+41. Shulz, G. E.,and Schirmer, R. H. (1979) in Principles of Protein Structure,
+pp. 17-26, S ringer Verlag New York
+42. Bowie, J. U., ieidhaar-Olso;, J. F., Lim, W. A,, and Sauer, R. T. (1990)
+Science 2 4 7 , 1306-1310
+43. Knowles, J. R. (1987) Science 236,1252-1258
+44. Mononen, I., Heisterkamp N., Kaartinen, V. Williams J. C., Yates J. R.
+III?Griffin, P. R., Hood: L. E., and Groffen, J. (199i) Proc. Natl.'Acad:
+Sct. U. S. A. 88,2941-2945
+45.
+C. M., Ohashi, T Yu X. J., Weiler, S., and Barranger, J. A. (1990)
+D A Cell Bml. 9, 233:24i
+
+Hen%
+
+

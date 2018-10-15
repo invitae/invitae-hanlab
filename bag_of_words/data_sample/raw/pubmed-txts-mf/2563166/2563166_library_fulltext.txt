@@ -1,0 +1,793 @@
+Proc. Natl. Acad. Sci. USA
+Vol. 86, pp. 587-591, January 1989
+Genetics
+
+Association between a specific apolipoprotein B mutation and
+familial defective apolipoprotein B-100
+(genetic disease/cholesterol metabolism)
+
+Luis F. SORIA*, ERWIN H. LUDWIG*, HOWARD R. G. CLARKE*, GLORIA L. VEGAt, SCOTT M. GRUNDYt,
+AND BRIAN J. MCCARTHY*:
+*Gladstone Foundation Laboratories for Cardiovascular Disease, Cardiovascular Research Institute, University of California, San Francisco, P.O. Box 40608,
+San Francisco, CA 94140-0608; and tCenter for Human Nutrition, Departments of Internal Medicine, Biochemistry, and Clinical Nutrition, University of
+Texas, Dallas, TX 75235
+
+Communicated by Richard J. Havel, October 17, 1988
+
+Familial defective apolipoprotein (apo) B-100
+ABSTRACT
+is a genetic disease that leads to hypercholesterolemia and to an
+increased serum concentration of low density lipoproteins that
+bind defectively to the apoB,E(LDL) receptor. The disorder
+appears to result from a mutation in the gene for apoB-100.
+Extensive sequence analysis of the two alleles of one subject
+heterozygous for the disorder has revealed a previously unreported mutation in the codon for amino acid 3500 that results
+in the substitution of glutamine for arginine. This same mutant
+allele occurs in six other, unrelated subjects and in eight
+affected relatives in two of these families. A partial haplotype
+of this mutant apoB-100 allele was constructed by sequence
+analysis and restriction enzyme digestion at positions where
+variations in the apoB-100 are known to occur. This haplotype
+is the same in three probands and four affected members of one
+family and lacks a polymorphic Xba I site whose presence has
+been correlated with high cholesterol levels. Thus, it appears
+that the mutation in the codon for amino acid 3500 (CGG -+
+CAG), a CG mutational "hot spot," defmes a minor apoB-100
+allele associated with defective low density lipoproteins and
+hypercholesterolemia.
+
+receptor on fibroblasts in an in vitro assay (3). Studies of the
+kindred of this patient indicated that the proband and affected
+family members are heterozygotes and that the defect is
+transmitted in a co-dominant fashion. This pattern of inheritance is consistent with the fact that each LDL particle
+contains but one apoB-100 molecule (4). Thus, affected
+individuals contain two LDL populations, one with defective
+receptor binding capacity and the other with normal properties.
+The present study concerns the molecular basis of this
+disease, termed familial defective apoB-100 (3). The DNA of
+the mutant allele contains a mutation that segregates with the
+defective binding and the moderate cholesterolemia in the
+kindred referred to above. The genomes of six unrelated
+subjects with moderate hypercholesterolemia contain the
+same mutation in the apoB gene. The relationship of this
+mutation to other genetic markers that have been used to
+trace defective apoB alleles in the population is discussed.
+
+The level of cholesterol in human plasma is to a large extent
+controlled by the interaction of low density lipoproteins
+(LDLs) with apoB,E(LDL) (or LDL) receptors. LDLs transport about two-thirds of the plasma cholesterol and are
+removed from the circulation by the apoB,E(LDL) receptor
+as a result of binding to apolipoprotein B-100 (apoB-100), the
+protein moiety of LDL. Individuals with high LDL levels are
+often predisposed to premature coronary disease. In principle, elevated LDL concentrations that result from inefficient
+clearance of LDL particles by the receptor may derive either
+from defects in the receptor or from defects in the ligand,
+apoB-100. The former class of genetic disorder is well
+established: familial hypercholesterolemia (1). Individuals
+with this genetic disease may lack the apoB,E(LDL) receptor
+or possess defective variants of it. However, because this
+genetic defect is relatively rare and most hypercholesterolemic individuals possess apoB,E(LDL) receptors that lack
+detectable defects, attention has been focused on other
+possible causes of increased LDL levels. One possibility is
+the presence of a mutant form of apoB-100.
+A group of moderately hypercholesterolemic patients has
+been shown (2) to have a reduced fractional clearance rate of
+autologous LDL as compared with normal LDL. This finding
+suggested that the retarded clearance resulted from a defective binding of LDL to its receptor, thereby accounting for
+the high levels of LDL cholesterol. LDLs from one of these
+patients exhibited defective binding to the apoB,E(LDL)
+
+Patient Material. Plasma and leukocytes were obtained
+from individuals of three families. The proband of the R.
+family, G.R., had been shown to have a reduced clearance of
+autologous LDL compared with homozygous normal LDL
+(2). Of eight R. family members tested, four have LDLs that
+bind abnormally to the apoB,E(LDL) receptor in normal
+human fibroblasts (3). Two other patients (W.S. and R.N.)
+were identified as probands of the S. and N. families,
+respectively. These patients were found to have delayed in
+vivo clearance of autologous LDL from plasma (5). Likewise,
+W.S. and 4 of 15 family members tested have LDLs that
+exhibit abnormal binding to normal human fibroblast apoB,E(LDL) receptors. R.N. (who was recruited into the study
+by Margo Denke, Dallas, TX) also possesses LDLs that have
+abnormal receptor binding. Techniques to define abnormal
+binding of LDL to receptors in normal human fibroblasts
+have been presented in detail elsewhere (3). DNA was
+prepared by phenol extraction and ethanol precipitation.
+Genomic Libraries. Two libraries were prepared from G.R.
+DNA in phage A. The first contained DNA partially digested
+with Mbo I and ligated to arms of A FIX (Stratagene) (4 X 106
+recombinants with inserts of between 9 and 22 kilobases).
+The second contained DNA digested to completion with
+EcoRI and inserted into A ZAP (Stratagene) (7 X 106
+recombinants with inserts of between 0.1 and 10 kilobases).
+
+MATERIALS AND METHODS
+
+Abbreviations: apo (prefix), apolipoprotein; LDL, low density lipoprotein; PCR, polymerase chain reaction; ASO, allele-specific oligonucleotide; RFLP, restriction fragment length polymorphism.
+tTo whom reprint requests should be addressed at: Gladstone
+Foundation Laboratories, P.O. Box 40608, San Francisco, CA
+94140-0608.
+
+The publication costs of this article were defrayed in part by page charge
+payment. This article must therefore be hereby marked "advertisement"
+in accordance with 18 U.S.C. §1734 solely to indicate this fact.
+
+587
+
+588
+
+Genetics: Soria et al.
+
+Proc. Natl. Acad. Sci. USA 86 (1989)
+
+Table 1. Sequence and cDNA position of oligonucleotides used
+Primer
+or probe
+Sequence
+cDNA fragment
+PCR1
+AAATAACCTTAATCATCAATTGGT
+bp 7,591-7,614
+PCR2
+bp 7,809-7,789
+GGTTCTTAGCAGCAAGAGTCC
+PCR3
+GTGTGCCTTCATACACAT
+bp 10,000-10,017
+PCR4
+TCTCGGGAATATTCAGGAACTATTG bp 10,644-10,668
+PCR5
+GTGCTCCCAGAGGGAATATATGCGT bp 10,823-10,799
+PCR6
+CTAAGGATCCTGCAATGTCAAGGT
+bp 11,124-11,101
+ASO1
+CTCTTCCACATTTCAAGG
+bp 10,075-10,092
+AS02
+bp 10,075-10,092
+CTCTTCCAfATTTCAAGG
+AS03 AGCACACGGTCTTCA
+bp 10,701-10,715
+ASO4
+AGCACACAGTCTTCA
+bp 10,701-10,715
+ASO5
+AGAAGCCACACTCCA
+bp 10,784-10,798
+
+subcloned from the G.R. A ZAP library, represents the
+possessing the G -3 A substitution at the
+codon for amino acid 3500).
+
+mutant allele (i.e.,
+
+RESULTS
+A Mutation in the Human ApoB Gene. To identify a
+mutation that could be responsible for a defect in the ability
+of LDL to bind to its receptor, we examined the part of the
+gene corresponding to the carboxyl-terminal half of apoB100. Lipoproteins containing apoB-48, the amino-terminal
+half of apo-B100, do not bind to the apoB,E(LDL) receptor
+(8); also, the epitopes of antibodies that block LDL binding
+to the receptor are localized to the carboxyl-terminal onethird of the protein in a region encoded by the large 7572-bp
+exon 26 (9). Since G.R. is heterozygous for the defect, only
+substitutions occurring in one but not both of the patient's
+two apoB alleles can be causally related to defective LDL.
+Fig. 1 illustrates the positions at which differences in the
+apoB-100 sequence have been reported. This information
+was assembled from known DNA polymorphisms (10, 11)
+together with four complete cDNA sequences (12-15), a gene
+sequence (10), and several partial sequences (16, 17). All
+reported variations are included, even though some may have
+resulted from cloning or sequencing errors. Codons and
+amino acids reported in the majority of the publications are
+termed "consensus" in Fig. 1, even though the appropriateness of this designation could be contested. Likewise, codons
+and amino acid residues depicted in the lower half of the
+figure are referred to as variants only because they have been
+reported less often. These two sequences do not represent
+established haplotypes, and their relative frequencies in the
+population have not been ascertained (10).
+Two libraries of G.R. DNA were constructed in A vectors.
+ApoB-containing clones covering the regions illustrated in
+Fig. 1 were isolated. Several of the 13 subclones were
+screened for differences by DNA sequencing. After extensive sequencing of multiple isolates, only one change was
+detected. This alteration reflected a CGG -- CAG change in
+the codon for amino acid 3500, causing a substitution of
+glutamine for arginine (Fig. 2). To the best of our knowledge,
+this variant has not been reported. No other previously
+unreported nucleotide changes were observed. Furthermore,
+none of the variant positions illustrated in Fig. 1 were shown
+to be heterozygous in G.R. DNA except position 7673, the
+Xba I site, which is a third-position substitution that does not
+change the amino acid. An extensive sequence analysis of the
+mutant allele yielded the results that are summarized in Fig.
+
+The libraries were screened with various human apoB cDNA
+probes.
+DNA Sequencing. DNA from A clones was subcloned into
+M13 vectors and sequenced by the Sanger dideoxynucleotide
+chain-termination method (6).
+Oligonucleotides. All oligonucleotides were synthesized on
+an Applied Biosystems synthesizer model 380B. Those used
+as primers for the polymerase chain reaction (PCR) or as
+allele-specific oligonucleotide probes (ASOs) are listed in
+Table 1. Probes were end-labeled with T4 polynucleotide
+kinase and [32P]ATP to 106 cpm/ng.
+PCR. The PCR was used for local amplification of sections
+of the human apoB gene. Reactions were conducted in an
+automated Perkin-Elmer/Cetus thermal cycler by using
+thermostable Thermus aquaticus DNA polymerase obtained
+from Cetus (7).
+Xba I Polymorphism. The presence or absence of the Xba
+I site at position 7673 was determined by amplifying a
+segment of exon 26 from position 7591 to position 7809 by
+using primers PCR1 and PCR2. Complete digestion of the
+amplified band with Xba I yielded two fragments, of 136 and
+82 base pairs (bp).
+Msp I Polymorphism. The presence or absence of the Msp
+I site at position 11,039 was determined by amplifying a
+480-bp segment of exon 26 from position 10,644 to position
+11,124 by using primers PCR4 and PCR6. Complete digestion
+of the amplified band with Msp I yielded two fragments, of
+395 and 85 bp.
+Plasmids. Plasmid p46a, containing an EcoRI-EcoRI 1549bp fragment from exon 26 subcloned from the G.R. A ZAP
+DNA library, represents the wild-type allele. Plasmid p43,
+containing an EcoRI-EcoRI 1549-bp fragment from exon 26
+
+cDNA
+AminoAcid
+
+Consensus
+
+xbai
+
+Msp I
+
+7673
+
+11039
+
+2488 2512 251326392653 2691 2822
+
+3029
+
+3212 3292 34003404 3405 3611 3705 3797 3849 3901
+
+Thr Val Gly Val Leu Ile Ala
+ACC GTA GGC GTA CTG ATT GCT
+
+Leu
+
+THG
+
+His Asp Lys Ala Glu Arg
+lie Gin ValI Leu
+CAC GAT AAA GCC GM CGG ATT CAG GTC OCTA
+
+/7
+
+I
+
+I
+
+I
+
+7500
+
+Variants
+
+ACT GTC AGC GTC CAG ATA GCC
+Thr Val Ser Val Gin lle Ala
+
+11916
+
+CTG
+Leu
+
+CAG CAT ACA CCG CM CAG ACT CGA GCC
+Gin His Thr Pro Gin Gin Thr Arg Ala
+
+CTT
+Leu
+
+FIG. 1. Variations in base sequence of the gene and in amino acid sequence of the protein for human apoB as determined by restriction
+I. The region in exon 26 from bp 7500 to bp 11,916 on the cDNA map is shown.
+The consensus sequence is defined as the nucleotide and amino acid sequence determined by a majority of investigators reporting the sequence;
+the variants represent alternative residues reported by a minority of investigators.
+
+fragment length polymorphisms (RFLPs) with Xba I and Msp
+
+Proc. Natl. Acad. Sci. USA 86 (1989)
+
+Genetics: Soria et al.
+
+589
+
+Msp1
+cDNA
+Amino Acid
+
+Mutant
+
+10708 11039
+
+7673
+2488
+
+2639 2653 2691 2822
+
+Thr
+ACC
+
+GTA CTG ATT GCT
+
+Val
+
+Leu
+
+lie
+
+Ala
+
+3029 3212 3292 3400 3404 3405 3500 3611 3705
+
+7500
+
+7I
+
+A7
+
+L JI
+A
+
+B
+C
+
+gIg
+
+I I.I
+II@@SI
+
+gI
+
+I
+
+I
+
+I
+
+I
+
+CGG CGG ATT
+Arg Arg lie
+
+A
+
+ws
+
+$
+
+of,66f isssSSS
+I
+
+c
+
+CTA
+
+CTA
+Leu
+
+p46a p43
+
+RN WS
+
+Leu
+
+a third proband, R.N. (Fig. 3 Left), indicates that this subject
+is also heterozygous for the same mutation. Four other
+individuals with defective LDLs, who were unrelated to any
+of the aforementioned, were also heterozygous for the
+mutation.
+Haplotype of the Mutant Allele. We wished to establish a
+partial haplotype of the mutant allele, in part to determine the
+extent to which other markers (e.g., the Xba I polymorphism
+at position 7673) correlate with this allele. This question was
+of interest because earlier studies established that the X2
+allele(i.e., the allele containing the Xba I site) is associated
+with higher levels of plasma cholesterol (18, 19). For this
+purpose, we determined the genotype of each member of the
+R. kindred and of two other hypercholesterolemic patients at
+the Xba I site (the 5' side of the Arg -- Gln change) and the
+Msp I site (the 3' side). For both RFLPs the genotype was
+determined by digesting amplified DNA representing these
+two regions with Xba I and Msp I. The results are summarized in Fig. 4. With respect to the Xba I genotype, it is clear
+that the mutant allele must be X1. For example, the proband
+and his two brothers are X1/X2, and the affected granddaughter is X1/X1, but the unaffected son of G.R. is X2/X2.
+The genotypes of the unrelated patients R.N. and W.S. are
+consistent with this view, as is the fact that the G.R. mutant
+allele has the codon ACC for amino acid 2488 (i.e., X1). In
+contrast, the normal allele of G.R. is X2. Although the Msp
+I polymorphism proved to be less informative, the data are
+
+2 in terms of the variant positions of Fig. 1. Sequencing of the
+other G.R. allele has been less extensive, but the sequences
+established at several of the variant positions conform to
+published sequences. The sequence of the codon for amino
+acid 3292, deduced by annealing an amplified region encompassed by PCR3 and PCR5 with oligonucleotides ASO1 and
+ASO2, proved to encode aspartic acid in both alleles.
+Inheritance of the Arginine/Glutamine Polymorphism. To
+test whether the CGG -- CAG mutation in the codon for
+amino acid 3500 segregated with defective LDLs, a family
+study was undertaken. A region of the apoB gene of the R.
+and S. kindreds encompassing the mutation was amplified,
+and the amplified DNA was screened with ASOs. To this end,
+a pair of 15-mer oligonucleotides representing the mutant and
+normal alleles were synthesized: ASO3 and ASO4 (see Table
+1). A third oligonucleotide probe (ASO5) within the amplified
+region was used, representing a region whose sequence was
+identical in both G.R. alleles. These three oligonucleotides
+were used to probe the amplified DNAs in a slot blot (Fig. 3).
+Two plasmid DNAs were included to evaluate the discrimination afforded by the two allele-specific probes. The results
+demonstrate that the mutation segregates in members of both
+families with defective LDLs and moderate hypercholesterolemia. Only affected family members carry the mutant
+allele. The extent of reaction with the third oligonucleotide
+complementary to positions 10,784-10,798 controls for differential amplification of each DNA. Analysis of the DNA of
+
+GR
+
+FIG. 2. Representation of the
+base and amino acid sequence of
+the mutant and normal alleles of
+patient G.R. in the region between
+bp 7500 and bp 11,916 of the human apoB gene. The thickened
+portion of the two horizontal lines
+indicates the directly sequenced
+portions of the two alleles. The
+asterisk indicates the base sequence deduced from probing
+with AS01 and ASO2. The mutation in the codon for amino acid
+3500 is boxed for emphasis.
+
+11916
+
+GAT ACA GCC CPMA
+Asp Thr Al GI'in
+
+Thr
+
+p46a p43
+
+Val
+GTC
+
+II I T
+
+ACT
+
+Normal
+
+Gin Arg lie
+CGG ATT
+
+Leu His Asp Thr Ala Gin
+TTG CAC GAT ACA GCC CM
+
+3849 3901
+
+I ofe
+
+Io
+
+FIG. 3. Inheritance of the mutation in the codon for amino acid 3500 of the human apoB-100 gene. (Left) The pedigree of the proband G.R.,
+his kindred, and two unrelated subjects (R.N. and W.S.). (Right) The pedigree of proband W.S. and his kindred. Half-solid circles and squares
+represent individuals whose LDLs bound defectively to apoB,E(LDL) receptors, and open symbols represent subjects whose LDLs bound
+normally (5). Rows A, B, and C, respectively, are autoradiograms of slot blots probed with 32P-labeled oligonucleotides AS03, AS04, and AS05.
+DNA from each subject was subjected to the PCR using oligonucleotide primers PCR5 and PCR6. Conditions for the amplification were 30 cycles
+of denaturation for 1 min at 940C, annealing for 1 s at 370C, and extension at 580C. Also included are DNA of plasmids p46a and p43, representing
+the wild-type and mutant allele sequences, respectively. The slot blot was probed with 32P-labeled oligonucleotides AS03, AS04, and AS05.
+After overnight annealing at 420C in a solution of 0.9 M NaCl, 0.09 M EDTA, and 0.1% NaDodSO4 with 250 1g of tRNA per ml, the filter was
+washed twice for 5 min in 0.15 M NaCl/0.015 M sodium citrate at room temperature, and 2 min in 0.15 M NaCl/0.15 M sodium citrate at 460C
+for AS03, at 440C for AS04, and at 460C for AS05.
+
+590
+
+Genetics: Soria et al.
+
+Proc. Natl. Acad. Sci. USA 86 (1989)
+
+El
+cDNA/Amino Acid
+Position
+
+GR
+
+RN
+
+E
+WS
+
+7673/2488
+
+X2/X2
+
+X2/X1
+
+X2/X1
+
+X2/X1
+
+Xi/Xi
+
+X2/Xl
+
+X2/Xl
+
+Xi/Xi
+
+Xi/Xi
+
+X2/Xi
+
+Xi/Xi
+
+10708/3500
+
+R1/Rl
+
+Rl/R2
+
+R1/R2
+
+Rl/R2
+
+Ri/Ri
+
+Ri/Ri
+
+Ri/Ri
+
+Rl/R2
+
+Rl/R2
+
+R1/R2
+
+R1/R2
+
+11039/3611
+
+Ml/Ml
+
+Mi/Mi
+
+Ml/Mi
+
+Mi/Ml
+
+Mi/Mi
+
+Mi/Mi
+
+Mi/Mi
+
+Mi/Mi
+
+Mi/Mi
+
+Mi/M2
+
+Mi/Mi
+
+FIG. 4. Genotypes of members of the R. family (G.R. is the proband). Below the pedigree are listed genotypes at three positions: the Xba
+I RFLP (Xl and X2), amino acid 3500 (Ri and R2), and the Msp I RFLP (Ml and M2). Also listed are genotypes of two other probands, R.N.
+and W.S. The Xba I RFLP was determined by subjecting the DNA of each subject to the PCR using primer oligonucleotides PCR1 and PCR2.
+Conditions for the amplification were 30 cycles of denaturation for 1 min at 94°C, annealing at 37°C for 2 min, extension for 3 min at 58°C, and
+digestion with excess Xba I for 3 hr at 37°C, followed by acrylamide gel analysis. For the Msp I polymorphism, amplification was for 30 cycles
+by using oligonucleotide primers PCR4 and PCR6 under the same conditions, except that extension was for 5 min. The data for the codon 3500
+polymorphism R1/R2 are from Fig. 3.
+
+consistent with the view that the mutant allele has the partial
+haplotype X1-Gln350-M1 and contains no other undescribed
+variations between bp 7673 and bp 11,912.
+
+DISCUSSION
+A high degree of genetic polymorphism in human LDL has
+been recognized since 1976, when it was established that
+allotypic antibodies in the serum of multiply transfused
+patients are capable of distinguishing allelic variants of LDL
+(20). These allotypic variants have been shown to be closely
+linked to DNA polymorphisms in the apoB gene (21).
+Furthermore, comparison of five complete and several partial
+published human apoB gene sequences revealed more than 60
+nucleotide substitutions, the majority of which affect the
+amino acid sequence of the protein (10). Our intention in the
+present study was to determine whether any of these polymorphisms correlated with familial defective apoB-100.
+As a result of many previous studies, two correlations
+between apoB polymorphisms and abnormalities in lipoprotein metabolism have been established. Serum cholesterol
+and triacylglycerol levels are higher in individuals with the
+Ag(x-) epitope than in individuals with the Ag(x') epitope
+(22). Furthermore, theXba I RFLP, which is in strong linkage
+disequilibrium with the Ag(x) epitope, is also correlated with
+serum cholesterol levels. Homozygotes with alleles that lack
+the Xba I site (i.e., X1/X1) tend to have lower serum
+cholesterol levels than X2/X2 homozygotes or X1/X2 heterozygotes (18, 19). This effect seems to be attributable to a
+difference in the level of LDL and apoB (23). Other authors
+have noted an association between the Xba I polymorphism
+and myocardial infarction (24). Other RFLPs in the apoB
+gene fail to correlate with abnormalities in lipid metabolism
+(19).
+The mutation reported here changes the codon for amino
+acid 3500 and correlates with hypercholesterolemia and with
+
+defective LDL binding to the receptor. All three familial
+defective apoB-100 probands described here and all affected
+members in two kindreds have this same mutation. Our most
+recent data define a total of seven unrelated probands
+heterozygous for this mutation, all of whom have defective
+LDLs. Furthermore, all of their relatives shown to carry the
+mutant allele also have LDLs that are defective in binding to
+the receptor (data not shown). We have failed to detect any
+other differences between the two alleles of the original
+proband G.R., except for the fact that he is heterozygous for
+the Xba I polymorphism at nucleotide 7673 that changes the
+third position of a threonine codon. However, we have not
+yet determined the complete sequence of this mutant apoB
+allele. Therefore, the argument that the substitution of
+glutamine for arginine at amino acid 3500 is responsible for
+the defective binding of LDL to the receptor remains circumstantial. Attempts to express full-length apoB gene
+constructs in cultured cells that differ only in this codon are
+a logical test of this proposition.
+The mutation in the codon for amino acid 3500, CGG
+CAG, is an example of a potential mutational "hot spot."
+Mutations at CG dinucleotides in higher animals are unusually frequent (25, 26) as a result of methylation of cytosine on
+the 5' side of guanine and spontaneous deamination of
+5-methylcytosine to thymine (27). In the present case the
+mutation is attributable to a C T transition in the noncoding
+strand. Such mutational hot spots have been reported in the
+human gene for factor VIII (28). It has been estimated that the
+extent of hypermutability at CG dinucleotides in the factor
+VIII gene is 10- to 20-fold greater than the rate at other
+positions (29). That CG dinucleotides in general are potential
+mutational hot spots is suggested by the unusually high
+frequency of polymorphism at a number of loci in human
+DNA where CG occurs in the recognition site for certain
+restriction enzymes such as Msp I and Taq I (29). In the case
+of the human apoB gene, two other polymorphisms have
+-*
+
+Genetics: Soria et al.
+been reported (11, 30) that result from mutations at CG
+dinucleotides, both at Msp I sites. Again by analogy to the
+factor VIII gene (28), these three CG dinucleotides may be
+hot spots where recurrent mutations have taken place in the
+human population.
+The amino acid substitution at position 3500 occurs in a
+region implicated in LDL binding to the apoB,E(LDL)
+receptor. Although the receptor binding domain of apoB-100
+has yet to be precisely defined, several lines of evidence point
+to this region of the protein encoded by exon 26. Two
+sequences in this region encode stretches of basic amino
+acids beginning at positions 3147 and 3359, the second of
+which displays some similarity to the receptor binding domain of apoE (14). Furthermore, the epitopes of several
+antibodies that inhibit LDL binding to its receptor also map
+to this region (31). Of particular relevance is the fact that one
+of these monoclonal antibodies, MB47, can distinguish mutant from normal LDL in terms of affinity (5). The epitope of
+this antibody has been localized between residues 3350 and
+3506 (12). Thus, the difference in affinity is presumably
+attributable to the substitution of glutamine for arginine. The
+fact that this antibody can recognize a change on the surface
+of LDL and also inhibit receptor binding is consistent with a
+role for arginine-3500 in receptor binding. This amino acid is
+located within a cluster of basic residues in apoB-100,
+although its sequence does not resemble that of the receptor
+binding domain of apoE.
+In addition to establishing the presence of the mutation in
+the codon for arginine-3500 in hypercholesterolemic subjects
+and their relatives, the haplotype of the mutant allele must be
+defined. This is important because the human apoB gene is so
+polymorphic: at least 14 haplotypes exist at different frequencies in various populations (32). At present, our information is
+limited to the region of exon 26 corresponding to amino acids
+2488-3611 [i.e., between the polymorphic Xba I site (18, 19) and
+a polymorphic Msp I site (11)]. Of particular interest is the fact
+
+that the mutant alleles of all three probands examined contain
+the X1 variant of the Xba I polymorphism. Thus, although the
+association between the mutation at position 3500 and the Xba
+I polymorphism has yet to be studied in a large number of
+subjects, it would appear unlikely that previous studies reporting association between the X2 genotype and high cholesterol
+levels simply reflect the mutation discussed here. On the
+contrary, the mutation at position 3500 appears to define a
+minor X1 allele that segregates with defective LDL and moderate
+
+hypercholesterolemia.
+
+We thank Kate Sholly for manuscript preparation, James X.
+Warger for graphics, and Al Averbach and Sally Gullatt Seehafer for
+editorial assistance. We acknowledge the generous cooperation of
+
+members of the two families who participated in this study. This
+research was supported by Grant HL 38781 from the National
+Institutes of Health. Computer resources used to carry out our
+studies were provided by the BIONET National Computer Resource
+for Molecular Biology, which is funded by Grant P41RR01685 of the
+Biomedical Research Technology Program, Division of Research
+Resources, National Institutes of Health.
+1. Goldstein, J. L. & Brown, M. S. (1983) in The Metabolic Basis
+of Inherited Disease, eds. Stanbury, J. B., Wyngaarden, J. B.,
+Fredrickson, D. S., Goldstein, J. L. & Brown, M. S. (McGraw-Hill, New York), 5th Ed., pp. 672-712.
+2. Vega, G. L. & Grundy, S. M. (1986) J. Clin. Invest. 78, 14101414.
+
+Proc. Nati. Acad. Sci. USA 86 (1989)
+
+591
+
+3. Innerarity, T. L., Weisgraber, K. H., Arnold, K. S., Mahley,
+R. W., Krauss, R. M., Vega, G. L. & Grundy, S. M. (1987)
+Proc. Natl. Acad. Sci. USA 84, 6919-6923.
+4. Elovson, J., Jacobs, J. C., Schumaker, V. N. & Puppione,
+D. L. (1985) Biochemistry 24, 1569-1578.
+5. Weisgraber, K. H., Innerarity, T. L., Newhouse, Y., Young,
+S. G., Arnold, K. S., Krauss, R. M., Vega, G. L., Grundy,
+S. M. & Mahley, R. W. (1988) Proc. Natl. Acad. Sci. USA 85,
+9758-9762.
+6. Sanger, F., Nicklen, S. & Coulson, A. R. (1977) Proc. Natl.
+Acad. Sci. USA 74, 5463-5467.
+7. Saiki, R. K., Gelfand, D. H., Stoffel, S., Scharf, S. J., Higuchi,
+R., Horn, G. T., Mullis, K. B. & Erlich, H. A. (1988) Science
+239, 487-491.
+8. Hui, D. Y., Innerarity, T. L., Milne, R. W., Marcel, Y. L. &
+Mahley, R. W. (1984) J. Biol. Chem. 259, 15060-15068.
+9. Marcel, Y. L., Hogue, M., Theolis, R., Jr., & Milne, R. W.
+(1982) J. Biol. Chem. 257, 13165-13168.
+10. Ludwig, E. H., Blackhart, B. D., Pierotti, V. R., Caiati, L.,
+Fortier, C., Knott, T., Scott, J., Mahley, R. W., Levy-Wilson,
+B. & McCarthy, B. J. (1987) DNA 6, 363-372.
+11. Huang, L.-S., de Graaf, J. & Breslow, J. L. (1988) J. Lipid Res.
+29, 63-67.
+12. Chen, S.-H., Yang, C.-Y., Chen, P.-F., Setzer, D., Tanimura,
+M., Li, W.-H., Gotto, A. M., Jr., & Chan, L. (1986) J. Biol.
+Chem. 261, 12918-12921.
+13. Cladaras, C., Hadzopoulou-Cladaras, M., Nolte, R. T., Atkinson, D. & Zannis, V. I. (1986) EMBO J. 5, 3495-3507.
+14. Knott, T. J., Pease, R. J., Powell, L. M., Wallis, S. C., Rall,
+S. C., Jr., Innerarity, T. L., Blackhart, B., Taylor, W. H.,
+Marcel, Y., Milne, R., Johnson, D., Fuller, M., Lusis, A. J.,
+McCarthy, B. J., Mahley, R. W., Levy-Wilson, B. & Scott, J.
+(1986) Nature (London) 323, 734-738.
+15. Law, S. W., Grant, S. M., Higuchi, K., Hospattankar, A.,
+Lackner, K., Lee, N. & Brewer, H. B., Jr. (1986) Proc. Natl.
+Acad. Sci. USA 83, 8142-8146.
+16. Carlsson, P., Darnfors, C., Olofsson, S.-O. & Bjursell, G.
+(1986) Gene 49, 29-51.
+17. Protter, A. A., Hardman, D. A., Sato, K. Y., Schilling, J. W.,
+Yamanaka, M., Hort, Y. J., Hjerrild, K. A., Chen, G. C. &
+Kane, J. P. (1986) Proc. Natl. Acad. Sci. USA 83, 5678-5682.
+18. Law, A., Wallis, S. C., Powell, L. M., Pease, R. J., Brunt, H.,
+Priestley, L. M., Knott, T. J., Scott, J., Altman, D. G., Miller,
+G. J., Rajput, J. & Miller, N. E. (1986) Lancet i, 1301-1303.
+19. Talmud, P. J., Barni, N., Kessling, A. M., Carlsson, P.,
+Darnfors, C., Bjursell, G., Galton, D., Wynn, V., Kirk, H.,
+Hayden, M. R. & Humphries, S. E. (1987) Atherosclerosis 67,
+81-89.
+20. Berg, K., Hames, C., Dahlen, G., Frick, M. H. & Krishan, I.
+(1976) Proc. Natl. Acad. Sci. USA 73, 937-940.
+21. Berg, K., Powell, L. M., Wallis, S. C., Pease, R., Knott, T. J.
+& Scott, J. (1986) Proc. Natl. Acad. Sci. USA 83, 7367-7370.
+22. Tikkanen, M. J. (1987) Adv. Exp. Med. Biol. 210, 55-62.
+23. Berg, K. (1986) Clin. Genet. 30, 515-520.
+24. Hegele, R. A., Huang, L.-S., Herbert, P. N., Blum, C. B.,
+Buring, J. E., Hennekens, C. H. & Breslow, J. L. (1986) N.
+Engl. J. Med. 315, 1509-1515.
+25. Salser, W. (1977) Cold Spring Harbor Symp. Quant. Biol. 42,
+985-1002.
+26. Bird, A. P. (1980) Nucleic Acids Res. 8, 1499-1506.
+27. Coulondre, C., Miller, J. H., Farabaugh, P. J. & Gilbert, W.
+(1978) Nature (London) 274, 775-780.
+28. Youssoufian, H., Antonarakis, S. E., Bell, W., Griffin, A. M.
+& Kazazian, H. H., Jr. (1988) Am. J. Hum. Genet. 42, 718-725.
+29. Barker, D., Schafer, M. & White, R. (1984) Cell 36, 131-138.
+30. Ladias, J., Kwiterovich, P., Lusis, A., Smith, H. & Antonarakis, S. (1987) Circulation 76, IV-3 (abstr.).
+31. Marcel, Y. L., Innerarity, T. L., Spilman, C., Mahley, R. W.,
+Protter, A. A. & Milne, R. W. (1987) Arteriosclerosis 7, 166175.
+32. Lusis, A. J. (1988) J. Lipid Res. 29, 397-429.
+
+

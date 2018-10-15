@@ -1,0 +1,637 @@
+BIOCHEMICAL AND BIOPHYSICALRESEARCH COMMUNICATIONS
+
+Vo1.153, No. 1,1988
+
+Pages 463-469
+
+May 31,1988
+
+A SPLICING DEFECT DUE TO AN EXON-INTRON JUNCTIONAL MUTATION
+RESULTS IN ABNORMAL 9-HEXOSAMINIDASE a CHAIN mRNAs
+IN ASHKENAZI JEWISH PATIENTS WITH TAY-SACHS DISEASE*
+Kousaku Ohno and Kunihiko Suzuki
+The Biological Sciences Research Center
+Departments of Neurology and Psychiatry
+University of North Carolina School of Medicine
+Chapel Hill, NC 27599
+Received April 29, 1988
+
+SUMMARY: Abnormal 9-hexosaminidase a chain mRNAs from an Ashkenazi Jewish
+patient with the classical infantile Tay-Sachs disease contained intact or
+truncated intron 12 sequences. Sequence analysis showed a single nucleotide
+transversion at the 5' donor site of intron 12 from the normal G to C. This
+provides the first evidence that this junctional mutation, also found
+independently in two other laboratories by analysis of genomic clones, results
+in functional abnormality. Analysis with normal and mutant oligonucleotides
+as probes indicated that our patient was a compound heterozygote With only one
+allele having the transversion. The patient studied in the other two
+laboratories was also a compound heterozygote. Another Ashkenazi Jewish
+patient was normal in this region in both alleles. Thus, the splicing defect
+is the underlying genetic cause in some but not all Ashkenazi Jewish patients
+with Tay-Sachs disease. © 1988 AcademicPress, Inc.
+
+The classical infantile Tay-Sachs disease prevalent among Ashkenazi Jews
+is the prototype of human sphingolipidoses [i].
+
+The disease is caused by a
+
+genetic deficiency of 9-hexosaminidase ~ subunit [2,3].
+
+The cDNA and the gene
+
+encoding the normal human 9-hexosaminidase a chain have been isolated and
+characterized [4-6].
+
+A major deletion in the 5' end of the gene was described
+
+for Tay-Sachs disease occurring in the French-Canadian population [7,8].
+
+We
+
+identified specific point mutations responsible for the disease within the
+protein-coding sequence of the gene in two mRNA-positive variants of the
+disease [9,10].
+
+However, the gene abnormality underlying the classical
+
+Ashkenazi Jewish form of the disease remains elusive.
+
+Even though the 9-
+
+hexosaminidase a mRNA is nearly undetectable in this form [Ii], a diffuse
+smear is usually visible on Northern analysis, consistent with a recent report
+of normal transcription of the gene [12].
+
+We isolated a series of abnormal 9-
+
+hexosaminidase a cDNAs from fibroblasts of a patient and examined their
+structure.
+
+*The content of this manuscript was presented at the annual meeting of
+the American Society for Neurochemistry, March 6-11, 1988, in New Orleans, LA.
+
+463
+
+0006-291X/88 $1.50
+Copyright © 1988 by Academic Press, Inc.
+All rights of reproduction in any form reserved.
+
+Vol. 153, No. 1, 1988
+
+BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+
+MATERIALS AND METHODS
+Materials. The fibroblast cell lines obtained from the Human Genetic
+Mutant Cell Depository, Coriell Institute for Medical Research, Camden, NJ,
+included three cell lines from infantile Jewish patients (GM0502B, GM2968,
+GM0515A).
+Control cell lines were from our own collection.
+All cultures were
+maintained in our laboratory under the standardized conditions before use.
+Bethesda Research Laboratories (Gaithersburg, MD), Boerhinger Mannheim
+(Indianapolis, IN), International Biotechnologies Inc. (New Haven, CT) and New
+England Biolab (Beverley, MA) were the main sources for enzymes, reagents and
+other molecular biological supplies. Radioisotopes were obtained from ICN
+Radiochemieals (Irvine, CA). Sources for non-standard materials will be
+indicated below as needed.
+Northern Analysis.
+Poly A+ RNA was prepared from fibroblasts from i00
+150-mi flasks [13]. For routine Northern analysis, approximately 1 ~g of poly
+A+ RNA/sample was electrophoresed in i% agarose/formaldehyde denaturing gel
+[14]. The amount of RNA was increased to 10 ~g/sample to visualize the faint
+signals in Jewish Tay-Sachs disease samples. Transfer of RNA to BIOTRANS TM
+Nylon membrane (1.2 ~m)(ICN, Irvine, CA), hybridization with a full-length
+normal ~-hexosaminidase a cDNA (pSHa-5)[4] labelled with [a-32p]dATP by nicktranslation [15], and subsequent washing were carried out as described by the
+manufacturer.
+Blots were exposed to Kodak X-ray film at -70 ° using a Cronex
+Hi-Plus intensifying screen. An actin cDNA was used as the control probe.
+Isolation of cDNA Clones.
+The poly A+ RNA fraction was isolated from
+fibroblasts from an Ashkenazi Jewish patient (GM0502B).
+Because of the
+expected low frequency of the ~-hexosaminidase a message, a cDNA library was
+constructed from i0 ~g of the mRNA fraction essentially according to the
+procedure of Gubler and Hoffman [16] but ligated into the lambda gtll phage
+through the Eco RI linker. The library was screened, without amplification,
+with the 32p-labelled normal full-length B-hexosaminidase a cDNA (pBHa-5)[4].
+Contrary to our expectation of a low yield, more than 40 positive clones were
+identified and 31 of them were purified.
+Several clones were selected for
+further studies on the basis that they were positive for the probes for the 5'
+terminus, the middle portion, and the 3' terminus of the normal cDNA.
+After
+purification, the inserts were transferred to the pUC-13 plasmid vector.
+
+DNA Sequence Analysis.
+The DNA sequence analysis was carried out by the
+Sanger dideoxy chain-termination method [17] with appropriate MI3 vectors, the
+17-mer sequencing primer, and 35S-labelled dATP [18]. The DNA polymerases
+used were either the Klenow enzyme or the commercial Sequenase (US Biochem.
+Corp., Cleveland, Ohio).
+Genomic DNAAnalysis with Oligonucleotide Probes. In order to examine
+possible genetic heterogeneity of Tay-Sachs disease in the Ashkenazi Jewish
+population, two 21-mer oligonucleotide probes with the normal and mutant
+sequences, centered around the mutation, were synthesized.
+Genomic DNA was
+isolated according to the standard procedure [19] and digested with Hpa I and
+Xba I. Agarose gel electrophoresis, direct drying of the gel, labelling of
+the probes with multiple 32p-nucleotides, hybridization to the separated DNA,
+and autoradiography were done essentially as described b y T h e i n and Wallace
+without modification [20].
+
+RESULTS
+Northern Analysls.
+
+While ~-hexosaminidase a mRNA is nearly undetectable
+
+in the Ashkenazi Jewish form of Tay-Sachs disease on the standard Northern
+analysis, positive signals could be visualized when 10 ~g of the nlRNA fraction
+
+464
+
+Vol. 153, No. 1, 1988
+
+was applied,
+
+BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+
+or when a probe of very high specific activity or a long exposure
+
+time was used (Fig. i).
+
+The signal was usually a diffuse smear ranging from
+
+the area substantially larger than the normal ~-hexosaminidase a mRNA to the
+area of the normal a chain message.
+
+Positive signals of the abnormally large
+
+sizes in the area of 3 kb were not obvious in controls even when 10 ~g of mRNA
+was applied,
+
+suggesting that they might represent abnormally large and
+
+unstable mRNA produced by the Tay-Sachs fibroblasts.
+Structure of eDNAs.
+
+Restriction mapping of three eDNA clones obtained
+
+from the unamplified eDNA library indicated that they contained an abnormal
+segment of several hundred bases not present in the normal full-length eDNA.
+Its location was between the downstream Kpn I and the unique Hinc II sites and
+contained several restriction sites (Stu I, Pvu II, Hinc II, Sau3A I, Apa
+I)(Fig. 2).
+
+The normal full-length eDNA did not hybridize to the Pvu II-Apa I
+
+Normal cI)NA
+
+K
+
+H
+
+5'....~
+
+~
+
+3'
+
+,7.5
+,4.4
+
+K
+,2.4
+
+5 .... ~
+
+St P H
+
+~
+
+S
+
+iiiii~ i iiiiiiiii
+iiii}iiii~i
+iiiiiiiiiiiiiiiiiiiii{iiiiiiiiiiiii~~
+,
+,
+
+,1.4
+
+I
+
+Clones 4BI and 7AI
+
+/
+/
+
+i
+
+K
+
+StPB
+
+#
+,
+
+A H
+
+. . . . . . . .
+
+[. i l
+
+[H
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+5 .... ~ ~ i i i i ~ i i i i ~ i i i i ~ i i i i i ~ i i i i ~
+
+@
+
+®
+Fig. i. Northern blotting analysis of ~-hexosaminidase a mRNA from
+normal and Tay-Sachs fibroblasts.
+Technical details are described in the
+text. Lane a: normal fibroblast poly A+ RNA fraction, i ~g, Lane b: normal,
+i0 ~g, Lane c: Tay-Sachs fibroblasts (GM0502B) poly A+ RNA fraction, i ~g,
+Lane d: Tay-Sachs, i0 ~g, Signal is essentially undetectable in the Tay-Sachs
+disease sample at the i Ug level but a diffuse signal is clearly visible at
+the I0 ~g level. The numbers indicate the positions of the standard poly(A)tailed RNA molecular size ladders. The two arrows indicate positions of
+normal ~-hexosaminidase ~ chain mRNA. The larger of the normal mRNA species
+is due to an alternate poly A site and constitutes approximately 5% of total
+in human fibroblasts. The size distribution is abnormal in the Tay-Sachs
+samples.
+Fig. 2. Restriction maps of abnormal ~-hexosaminidase a cDNAs isolated
+from a Ashkenazi Jewish Tay-Saehs disease. Compared to the normal sequence,
+three clones contained an extra segment (light shaded bar) located between the
+Kpn I in exon 12 and Hinc II in exon 13 in the normal eDNA. The abnormal
+segment appeared shorter in clones 7AI and 4BI at the 3' end, missing the
+Sau3A I and Apa I sites. Names of restriction sites are abbreviated: K, Kpn
+I; H, Hinc II; St, Stu I; P, Pvu II; S, Sau3A I; A, Apa I. Sequence
+analysis indicated that the extra segment is intron 12, intact in Clone 9AI
+and truncated in Clones 4BI and 7AI.
+
+465
+
+3'
+
+Vol. 153, No. 1, 1988
+
+BIOCHEMICAL
+AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+
+restriction fragment within this segment.
+
+Since the downstream Kpn I site is
+
+at the 5' end of exon 12 and the unique Hinc II site is within exon 13, it was
+plausible that this abnormal segment might be intron 12.
+
+Sequence analysis of
+
+the segment between the Kpn I and the unique Hinc II sites showed that the
+extra segment is indeed intron 12, either intact or truncated at the 3' end
+(Fig. 3)[6].
+
+No sequence abnormalities were detected around the junction of
+
+intron 12 and exon 13 in clone 9AI.
+
+However, the first nucleotide at the 5'
+
+donor site of intron 12 was consistently C, instead of the normal G.
+
+In a
+
+recent survey of nearly 1500 exon-intron junctional sequences, the first two
+nucleotides at the 5' donor site of introns were always GT [21].
+
+Thus, the
+
+single-base transversion from G to C at the exon 12-intron 12 junction can
+explain the retention of intron 12 in these mRNAs.
+Genomic D N A A n a l y s i s
+
+for the Junctional Transversion.
+
+Hybridization of
+
+the normal and mutant oligonucleotide probes to genomic DNA digests indicated
+that the cell line we studied (GM0502B) was heterozygous with respect to the
+transversion at the exon 12-intron 12 junction (Fig. 4).
+normal in this region.
+
+The other allele was
+
+The same result was obtained for GM2968.
+
+In another
+
+cell line from an infantile Ashkenazi Jewish Tay-Sachs patient (GM0515A), both
+
+exon 12
+
+1
+
+intron 12
+
+I
+
+normal
+
+-- - C A A C A C A A A C C T G G T C C C C A G G C T C T G IG T A A G G G T T T T C G G G G G G G A G G T G G A G G - - -
+
+mutant
+
+- - - C A A C A C A A A C C T G G T C C C C A G G C T C T G IC T A A G G G T T T T C G G G G G G G A G G T G G A G G - - Dde I
+
+A
+
+G
+
+C
+
+T
+
+Fig. 3. The exon 12-intron 12 junctional sequence in Tay-Sachs disease.
+The junction of exon 12 and intron 12 was sequenced in the three abnormal Bhexosaminidase u cDNAs from the Tay-Sachs patient that retained intron 12. In
+all three clones, there was a single nucleotide transversion at the 5' donor
+site of intron 12. The top row shows the normal sequence, and the bottom row
+the mutant sequence. The transversion from the normal G to C is indicated by
+an arrow. The mutation generates a new Dde I site. The photograph shows the
+portion of a sequencing gel with the abnormal C indicated by an arrow.
+
+466
+
+Vol. 153, No. 1, 1988
+
+BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+
+a
+
+b
+
+c
+
+d
+
+a
+
+b
+
+c
+
+d
+
+1.8 kb '=']k
+
+Fig. 4. Analysis of genomic DNA with oligonucleotide probes. Genomic
+DNA, double-digested with Hpa I and Xba I, was electrophoresed in 1% agarose
+gel, dried and directly hybridized to labelled probes in 5 x SSC, 0.1% SDS and
+I00 ~g/ml salmon sperm DNA at 59°C [22]. The conditions of differential
+washing for the matched and single-base mismatched probes were in 6 x SSC at
+59°C for 3 min. The double digestion results in a 1.8 kb fragment containing
+the exon 12-intron 12 junction of the B-hexosaminidase a gene [8]. Left
+panel, normal probe; right panel, mutant probe, a, normal control; b,
+GM0502B; c, GM2968; d, GM0515A. Only the normal junctional sequence is
+present in the control and GM0515A, while both GM0502B and GM2968 are compound
+heterozygotes giving positive signals for both the normal and the mutant
+sequences.
+alleles were normal
+Ashkenazi
+
+in this region.
+
+These results
+
+Jewish form of infantile Tay-Sachs
+
+indicated that the
+
+disease is genetically
+
+heterogeneous.
+
+DISCUSSION
+In a recent meeting,
+a single-base
+Gravel,
+
+transversion
+
+two groups of investigators
+
+Toronto and R. Myerowitz,
+
+NIH)[22].
+
+studied the same cell line (GM2968).
+
+by taking an entirely different
+
+approach.
+
+smear of the B-hexosaminidase
+
+of Tay-Sachs
+
+fibroblast
+
+these groups
+
+isolated genomic clones.
+
+found the same junctional mutation
+
+a mRNA signal on Northern analysis
+
+lines had an abnormal size distribution,
+
+some clearly larger than normal mIRNA.
+
+including
+
+We reasoned that these abnormal mRNA
+
+insight into the nature of the mutation responsible
+
+unstable mRNA and thus for the disease.
+
+transversion
+
+reported
+
+We had observed that the nearly
+
+undetectable
+
+unamplified
+
+Coincidentally,
+
+They sequenced
+
+In the present study, we have independently
+
+should provide
+
+independently
+
+of G to C at the 5' donor site of intron 12 (R.
+
+library, we found unexcised
+at the 5' donor site.
+
+introns appears to be obligatory
+
+In three cDNA clones obtained from an
+intron 12 with the single-nucleotide
+
+Since the first GT at the 5' donor site of
+
+[21], the transversion
+
+in splicing failure at the junction.
+
+for the
+
+Nevertheless,
+
+467
+
+is expected to result
+
+our findings provide the
+
+Vol. 153, No. 1, 1988
+
+BIOCHEMICAL
+AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+
+first experimental evidence that the junctional mutation in fact results in a
+series of abnormal and unstable ~-hexosaminidase a chain mRNAs.
+
+Preliminary
+
+results on these and additional cDNAs indicate that the consequences of the
+splicing defect are complex and not limited to retention of intron 12.
+Detailed characterization of a series of abnormal ~-hexosaminidase a chain
+mRNA is underway.
+The high incidence and the uniform clinical/pathological
+
+features of
+
+infantile Tay-Sachs disease among Ashkenazi Jews were suggestive of a single
+genetically homogeneous disorder.
+
+The founder effect and other factors have
+
+been proposed to explain the unusually high concentration of the disease in a
+single ethnic group.
+
+However, the analysis of genomlc DNA with the normal and
+
+mutant oligonucleotide probes showed clearly that two patients were compound
+heterozygotes with only one allele carrying the exon 12-intron 12 junctional
+mutation and that another patient was normal in this region,
+
+Our results are
+
+in agreement with those of Myerowitz who, taking advantage of the new Dde i
+site generated by the mutation (Fig. 3), found only six out of the twenty
+heterozygous carriers with the Junctional mutation [22].
+
+The infantile Tay-
+
+Sachs disease among the Ashkenazi Jewish population is thus genetically
+heterogeneous.
+
+The junctional mutation is only one of the two or possibly
+
+more different mutations responsible for Ashkenazi Jewish Tay-Sachs disease.
+
+ACKNOWLEDGEMENT
+The oligonucleotide probes were synthesized by the Core DNA synthesis
+facility of the University of North Carolina Program in Molecular Biology and
+Biotechnologyunder supervision of Dr. Dana Fowlkes. We thank Dr. Rachel
+Myerowitz (ref. 22), who made her manuscript available to us before
+publication.
+This investigation was supported in part by a research grant,
+ROI NS-24289, and a Mental Retardation Research Center Core Grant, P30 HD03110, from the United States Public Health Service.
+
+REFERENCES
+I. Sandhoff, K., Conzelmann, E., Neufeld, E. F., Kaback, M. M. & Suzuki, K.
+(1988) in The Metabolic Basis of Inherited Disease, Sixth edition, eds.
+Scriver, C. R., Beaudet, A. L., Sly, W. S. & Valle, D. (McGraw-Hill,
+NY), in press.
+2. Okada, S. & O'Brien, J. S. (1969) Science 165, 698-700.
+3. Sandhoff, K. (1969) FEBS Lett. 4, 351-354.
+4. Myerowitz, R., Piekarz, R., Neufeld, E. F., Shows, T. B. & Suzuki, K.
+(1985) Proc. Natl. Acad. Sci., U.S.A. 82, 7830-7834.
+5. Korneluk, R. G., Mahuran, D. J., Neote, K., Klavins, M. H., O'Dowd, B. F.,
+Tropack, M., Willard, H. F., Anderson, M.-J., Lowden, J. A. & Gravel, R.
+A. (1986) J. Biol. Chem. 261, 8407-8413.
+J. Biol. Chem. 262, 5677-5681.
+6 . Proia, R. L. & Soravia, E. (1987)
+7. Myerowltz, R. & Hogikyan, N. D. (1986) Science 232, 1646-i6~8.
+8. Myerow~tz, R. & Hoglkyan, N. D. (1987) J. Biol. Ghem. 262:15396-15399.
+9. Ohno, K. & Suzuki, K. (1988) J. Neurochem. 50, 316-318.
+10. Nakano, K., Mnscillo, M., Ohno, K., Hoffman, A. J. and Suzuki~ K. (1988)
+J. Neurochem., in press.
+
+468
+
+Vol. 153, No. 1, 1988
+
+BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+
+ii. Myerowitz, R. & Proia, R. L. (1984) Proc. Natl. Acad. Sci., U.S.A. 81,
+5394-5398.
+12. Paw, B. H. & Neufeld, E. F. (1988) J. Biol. Chem. 263:3012-3015.
+13. Aviv, H. & Leder, P. (1972) Proc. Natl. Acad. Sci., U.S.A. 69, 1408-1412.
+14. Goldberg, D. A. (1980) Proc. Natl. Acad. Sci., U.S.A. 77, 5794-5798.
+15. Rigby, P. W. J. Dickmann, M., Rhodes, C. & Berg, P. (1977) J. Molec.
+Biol. 113, 237-251.
+16. Gubler, U. & Hoffman, B. J. (1983) Gene 25:263-269.
+17. Sanger, F., Nicklen, S. & Coulson, A. R. (1977) Proc. Natl. Acad. Sci.,
+U.S.A. 74, 5463-5467.
+18. Biggin, M. D., Gibson, J. J. & Hong, G. F. (1983) Proc. Natl. Acad. Sci.,
+U.S.A. 80, 3963-3965.
+19. Maniatis, T., Fritsch, E. F. & Sambrook, J. (1982) Molecular Cloning. A
+Laboratory Manual, Cold Spring Harbor Laboratory, Cold Spring Harbor,
+NY.
+20. Thein, S. L. & Wallace, R. B. (1986) in Human Genetic Disease, A Practical
+Approach, ed. Davies, K. E. (IRL Press, Oxford), pp. 33-50.
+21. Shapiro, M. B. & Senapathy, P. (1987) Nucleic Acid Res. 15:7155-7174.
+22. Myerowitz, R. (1988) Proc. Natl. Acad. Sci., U.S.A., in press.
+
+469
+
+

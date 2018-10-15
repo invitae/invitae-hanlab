@@ -1,0 +1,523 @@
+Original Articles
+
+Direct mutational analysis in a family with hereditary
+non-polyposis colorectal cancer
+N. S . Van de Water
+
+S. M. Stewart
+
+Scientific Officer, Department of Haernatology, Auckland Hospital
+and Department of Molecular Medicine, University of Auckland
+School of Medicine, Auckland, New Zealand.
+
+Registry Coordinator, Department of Pathology, University of
+Auckland School of Medicine, Auckland, New Zealand.
+
+P. Jeevaratnam
+
+M. R. Lane
+
+Technician, Department of Pathology, University of Auckland School
+of Medicine, Auckland, New Zealand.
+
+Gastroenterologist, Department of Medicine, Auckland Hospital,
+Auckland, New Zealand.
+
+P. J. Browett
+
+J. R. Jass
+
+Senior Lecturer in Haematology, Department of Molecular Medicine,
+University of Auckland School of Medicine and Department of
+Haematology, Auckland Hospital, Auckland, New Zealand.
+
+Professor of Pathology, Department of Pathology, University of
+Auckland School of Medicine, Auckland, New Zealand.
+
+Abstract
+Background: It is now known that a proportion of cases of hereditary non-polyposis colorectal
+cancer (HNPCC) is caused by mutations in the human homologue of the yeast DNA mismatch
+repair gene MSH2. A proline to leucine change due to a C to T transition in codon 622 oflzMSH2
+has been identified in a large HNPCC family of over 240 individuals.
+Aim: To develop an assay to detect the family-specific mutation and apply the findings to genetic
+screening.
+Methods: The C to T change in codon 622 creates a new Mae I site (CTAG) allowing a simple,
+non-radioactive assay to be developed in order to detect this mutation. The assay was applied to
+affected members of the family and their first degree relatives (siblings and offspring) between
+the ages of 17 and 77 years, a total of 75 subjects within two generations (IV and V).
+Results: 13/13 (100%) subjects with cancer were mutation positive, 7/7 (100%) elderly subjects
+from generation IV and with no evidence ofcancer were mutation negative, 23/57 (40%) subjects
+from generation V were mutation positive and 0 6 0 (100%) unrelated subjects were mutation
+negative. Following the demonstration of perfect segregation of the disease with the mutation,
+family members were invited to receive the results of the test. Sixty-three (84%) responded within
+six weeks of receiving the invitation. Genetic screening and counselling members of HNPCC
+families was perceived as beneficial overall, allowing non-carriers of the mutant gene (as well as
+their descendants) to be removed from a programme of colonoscopic surveillance. (Aust NZ J
+Med 1994; 24: 682-686.)
+Key words: Cancer, colon, rectum, hereditary, mutation.
+
+INTRODUCTION
+Hereditary non-polyposis colorectal cancer (HNPCC)
+accounts for around 5% of cases of colorectal cancer and
+
+is characterised by autosomal dominant inheritance,
+with high penetrance and an early age of onset. Bowel
+cancers are more likely to occur in the proximal colon
+
+Reprint requests CO: Professor J. R. Jass, Department of Pathology, University of Auckland, School of Medicine, Private Bag 92019, Auckland,
+New Zealand.
+This work is supported by the Health Research Council and Cancer Society of New Zealand.
+
+682
+
+Aust N Z J Med 1994; 24
+
+VAN DE WATER E T AL.
+
+and to be multiple. Extracolonic cancers, particularly
+of endometrium, occur with increased frequency.l
+Colorectal cancers originate within benign neoplastic
+polyps termed adenomas; the progression of these to
+cancer is accompanied by increasing size, epithelial
+dysplasia and villosity.2
+Linkage analysis in two HNPCC families revealed
+close linkage of the disease to the anonymous marker
+D2S123 which maps to the region of 2~15-16.3Two
+groups have subsequently identified germline mutations in a gene within this region called hMSH2.4,5The
+hMSH2 gene is a human homologue of the bacterial
+MutS and yeast MSH genes which play a central role
+in DNA mismatch repair. In E. coli the three gene
+products of MutS, MutL, and MutH are involved in
+the initial steps of mismatch repair and act in a coordinated fashion to bind and excise any newly
+replicated DNA which may have mismatch errors. The
+role ofMutS in this process is to bind to the mismatch
+and form a complex with MutL and MutH. Eukaryote
+cells are thought to carry out essentially the same
+process with homologues of the bacterial system.6
+A human homologue of the bacterial MutL gene,
+hMLHf, has also been identified. This gene resides
+on chromosome 3p21,'r8 a region previously linked to
+cancer susceptibility in some HNPCC kindreds.' Inactivation of mismatch repair genes leads to the
+accumulation of numerous replication errors in DNA,
+particularly within microsatellite regions of the
+genome.'O Such replication errors have been
+documented in colon and endometrial cancers from
+HNPCC families." Germline mutations within either
+the hMSHZ or hMLHl genes are believed to be responsible for most cases of HNPCC.' Recently, however,
+two additional genes hPMSl and hPMS,?(on chromosomes 2 and 7 respectively) have been implicated in
+HNPCC."
+DNA from several affected members of a New
+Zealand HNPCC family (J) was found to contain a
+germline mutation in one hMSH2 allele.4 The C to
+T transition in codon 622 results in a proline to leucine
+substitution in a highly conserved position in all known
+MutS-related genes from both prokaryotes and
+eukaryotes.' We describe here a simple non-radioactive
+test for the codon 622 C to T transition, which creates
+a new Mae I restriction enzyme site. Its use in the
+screening of at-risk members of family J is described.
+
+METHODS
+The subjects involved in this study were derived from
+two sources: 50 unrelated randomly selected healthy
+volunteers were used as a normal control group and
+75 individuals were selected as the test group from an
+HNPCC family of over 240 members in which the
+underlying mutation was characterised previously as
+a C to T transition at codon 622.' The selected
+HEREDITARY COLORECTAL CANCER
+
+individuals represented all living family members who
+had either histologically confirmed colorectal and/or
+endometrial or ovarian cancer (13) or were siblings or
+direct descendants of those diagnosed with colorectal
+andlor endometrial or ovarian cancer (62). The subjects
+were members of generation IV or succeeding generation V of the family.
+Generation IV included 11 members with colorectal
+andlor endometrial (ten) or ovarian (one) cancer and
+seven subjects with no cancer. There were nine affected
+but deceased members of generation IV and one noncompliant subject from whom DNA samples were not
+available. Generation V included two individuals with
+colorectal cancer and 55 at-risk subjects without cancer.
+DNA was not obtained from one member of generation
+V who had died of colorectal cancer. The age range
+of subjects in generation V was 17-49 years (mean 31).
+All but seven at-risk subjects in generations IV and
+V have been colonoscoped on at least one occasion.
+Written informed consent was obtained in accordance
+with the requirements of the North Health Ethics
+Committee.
+Genomic DNA from each individual was prepared
+from 10 mL peripheral blood samples using standard
+proteinase Klphenol extraction. DNA was amplified
+by the polymerase chain reaction (PCR) using the
+primers 5 'CCTGTTCCATATGTACGA-3 ' and
+5 'CAAAGTATACGTCATTAGGA-3 ', resulting in
+a 127 bp fragment containing hMSH2 codons 616 to
+657. 200 ng of DNA was amplified in 50 pL reaction
+volumes, using PCR conditions consisting of 30 cycles
+at 94°C for one minute, 55°C for one minute, and
+72 "C for one minute in the buffer supplied with the
+Taq polymerase (Boehringer Mannheim). The PCR
+product was subjected to Mae I digestion according
+to the supplier's recommendations (Boehringer Mannheim) and analysed by electrophoresis on 2% agarose
+gels stained with ethidium bromide. Direct sequencing
+of PCR products was performed using the fmol
+sequencing system (Promega) and [A33P] ATP end
+labelled primers.
+The 75 family members were contacted by letter and
+advised that the results of the mutational analysis were
+available. It was made clear that they had the right to
+know and also the right not to know the findings. It
+was also explained that if they chose to be informed
+of the findings, we would be advising that colonoscopic
+screening could be discontinued for those with a negative result. By six weeks 63 (84%) subjects had
+returned consent forms, 60 indicating their desire to
+be told the findings and three declining the offer.
+Those wishing to be informed were invited by telephone to attend an interview at which the findings and
+counselling were provided. For those with a positive
+result the importance of continued colonoscopic
+screening was stressed. It was also emphasised that
+683
+Aust NZ J Med 1994; 24
+
+Those with a negative result were told that their risk
+of developing colorectal cancer was not 070, but the
+same as that for the general population.
+
+Figure I: Mae I analysis of hMSH2 mutation in a subset of
+HNPCC family J. Lane M is a 100 bp ladder. The upper
+band for each subject is at 127 bp and the lower band is
+108 bp. Filled in symbols represent patients with histologically confirmed colorectal cancer. Clear and stippled
+symbols are cancer free subjects.
+
+their children would be at 50% risk of inheriting the
+altered gene and would require DNA testing to be
+followed by colonoscopy if the test were positive.
+
+RESULTS
+The presence or absence of a Mae I restriction
+endonuclease recognition site (CTAG) created by the
+mutation at codon 622 was exploited as a means of
+identifying individuals in this family who carry the
+germline hMSH2 mutation. Using the primers
+described, PCR amplification of the region of the
+hMSH2 gene covering codons 616 to 657 produced
+a predicted PCR product of 127 bp. The product
+amplified from the mutant sequence contained a novel
+Mae I site, resulting in fragments of 108 bp and 19 bp
+following digestion, whereas the product containing
+the wild-type sequence was unchanged (Figure 1). This
+was confirmed by direct sequencing of the PCR
+product in two subjects (data not shown).
+DNA samples from a control group of 50 individuals
+unrelated to family J were tested and all generated a
+single band of 127 bp following Mae I digestion of the
+PCR product. Seventy-five members of family J were
+tested and the results are demonstrated according to
+generation and phenotype (Table 1). In generation IV
+there was perfect segregation between phenotype and
+test result. All subjects with histologically confirmed
+colorectal (eight) or endometrial/ovarian (three) cancer
+generated bands of 127, 108 and 19 bp, indicative of
+a germline mutation at codon 622 (C to T transition).
+Subjects with no mutation have developed neither
+colorectal cancer nor adenoma. A mixed hyperplastic
+polyp/adenoma was removed from a male subject aged
+65 with no mutation. Small unclassified polyps were
+removed from one mutation negative male. Generation
+V equates to an at-risk group in which, as expected,
+the codon 622 mutation was present in approximately
+50% of those tested (40.3%). Four subjects carrying
+the mutation have developed colorectal neoplasms: a
+
+TABLE 1
+Distribution of Lesions According to Generation and Presence or Absence of Mutation
+
+Generation I V *
+gene mutation
+no gene mutation
+
+CRC
+
+Other CA
+
+Polyp
+
+AD
+
+HP
+
+Mixed polyp
+
+Neg
+
+No endosc
+
+8
+0
+
+3
+
+0
+1
+
+0
+0
+
+0
+0
+
+0
+1
+
+0
+3
+
+0
+
+11
+
+2
+
+7
+-
+
+0
+
+Total
+
+18
+
+Generation V t
+gene mutation
+no gene mutation
+
+2
+0
+
+0
+0
+
+1
+0
+
+2
+
+0
+
+1
+4
+
+0
+
+0
+
+16
+26
+
+1
+
+23
+
+4
+
+34
+c7
+
+JI
+
+Overall total
+
+75
+
+*Age range = 54-77; mean age = 63
+?Age range = 17-49, mean age = 31
+Abbrevialions: CRC = colorectal cancer (does not exclude presence of other cancers or polyps); Other CA = endometrial or ovarian cancer; Polyp = polyp(s)
+at colonoscopy, but not submitted for histology; AD = adenoma(s) (no CRC);HP = hyperplastic polyp(s) (no AD or CRC): Mixed polyp = mixed hyperplastic
+polypiadenoma; Neg = negative for polyps or cancer of colorecium or cancer in extracolonic sites associated with HNPCC; No endosc= patient refused
+endoscopy (6) or too young (1). otherwise alive and well.
+
+684
+
+Aust NZ J Med 1994; 24
+
+VAN DE WATER E T AL.
+
+cancer in a male aged 19, a cancer in a female aged
+36, three metachronous tubular or tubulovillous
+adenomas of the rectum in a female at ages 22,26 and
+27 and a tubular adenoma in a female aged 30 years.
+In a fifth (male) subject ‘polyps’ were diathermied
+without histological verification of their nature at 36,
+37 and 40 years.
+
+DISCUSSION
+In this study the predictable generation of a new
+restriction enzyme site was successfully exploited to
+allow distinction between wild-type and mutant
+hMSH2 alleles. Not only was there perfect segregation of the DNA mutational assay with the HNPCC
+phenotype, but the results were consistent with linkage
+analysis undertaken for most members of the same
+~edigree.~
+The benefit of presymptomatic genetic testing for
+HNPCC was made clear in this study of one large
+family. Those not carrying the gene were immediately
+removed from a group at high risk of developing
+colorectal cancer and requiring regular colonoscopic
+screening. Concerns at the possibility of passing the
+mutation on to their children were assuaged also.
+Those shown to carry the gene remained in a high risk
+group and so their position was not radically altered.
+It is reasonable to suggest that the net result of gene
+testing was a beneficial one. However, it is important
+to monitor the medium and long term effects of genetic
+testing. The psychological impact of learning that a
+50% risk of gene carriage has become 100% may not
+be negligible.
+Because of the large size of the family and the
+demonstration of perfect disease segregation, there can
+be no doubt that codon 622 mutation in hMSH2 underlies the hereditary disposition to colorectal cancer in
+this family. Furthermore, a test tailored to exploit the
+presence of the mutation would reliably identify gene
+carriers within the at-risk group. It has been shown
+that mutations may occur at other sites in the hMSH2
+gene.4,5 In addition other genes, such as hMLH1,
+hPMSl and hPMS2 are implicated in HNPCC.7.8.12
+The test described in this study would apply only to
+families with a C to T mutation in codon 622 of
+hMSH2. It remains to be shown whether this is a mutational ‘hotspot’ that could be utilised in a significant
+proportion of HNPCC families. It is more likely that
+only the general principle of the approach adopted
+herein could be applied elsewhere. Nevertheless, the
+construction of extended pedigrees through the classic
+genealogical approach provides a graphic demonstration of the value of family-specific mutation analysis.
+The development of a test in which the presence of
+a specific mutation could be confidently related to
+HNPCC was facilitated by the large number of living
+subjects with a cancer from a single HNPCC family.
+HEREDITARYCOLORECTAL CANCER
+
+Nevertheless, the decision to provide the results and
+advise on the need for hrther colonoscopic surveillance
+was not taken lightly. The results and their implications were discussed carefully with each individual in
+sessions lasting half an hour. Questionnaires were then
+provided to promote feedback and allow the effects of
+counselling to be monitored.
+Observations over many generations have shown the
+hMSH2 gene mutation in this family to be highly
+penetrant. It will be important to observe carefully the
+natural history of the disease in gene carriers and
+monitor the utility of three yearly colonoscopy in relation to cancer prevention. At this time, only four of
+23 gene positive subjects in generation V have developed colorectal neoplasms (Table l), although a fifth
+had ‘polyps’ diathermied. Hyperplastic polyps have
+been identified in both gene positive and gene negative individuals and are unlikely to be markers of the
+HNPCC gene. It is therefore important to submit all
+polyps detected endoscopically for histological examination. One mixed ‘hyperplastic polypladenoma’ was
+found in a gene negative male aged 65 from generation
+IV (presumably an incidental lesion).
+Despite the fact that the affected family members
+share an identical hMSH2 mutation, the age at onset,
+number and location of both adenomas and carcinomas
+shows considerable variation from person to person.
+It is clear, however, that adenomas do not occur in
+large numbers, an observation that accords with the
+view that genes causing HNPCC serve to accelerate
+the progression of adenoma to carcinoma but do not
+initiate adenoma de~elopment.’,~For this reason,
+mutation positive subjects were told to expect and not
+to be falsely reassured by a series of negative colonoscopic examinations in the coming years. The initiation
+of adenoma development is presumably influenced
+quite independently by other factors and this would
+in turn underpin the phenotypic variability of the
+disorder. These additional factors are likely to be both
+hereditary13 and environmental. This is a potentially
+important point, introducing the possibility of
+adenoma (hence carcinoma)prevention through dietary
+andlor chemical intervention. Currently, DNA testing
+would not be undertaken until the time of commencement of colonoscopy (20 years). However, this might
+change if intervention therapy in childhood were
+shown to be beneficial. One individual expressed at
+the time of counselling a strong preference for her
+children to be tested immediately. We examined the
+issue from several standpoints and concluded that
+delaying the decision for some months would be
+advisable.
+In summary, this is the first report of DNA screening
+in an HNPCC family. The test allowed reliable resolution of at-risk subjects into those with and without
+a codon 622 mutation in hMSH2. The results were
+Ausr NZ J Med 1994; 24
+685
+
+imparted to family members through a carefully
+monitored approach that will need to be kept under
+review.
+Date of submission: 23 August 1994
+
+References
+1. Lynch HT, Smyrk TC, Watson P et al. Genetics, natural history,
+tumor spectrum, and pathology of hereditary nonpolyposis
+colorectal cancer: an updated review. Gastroenterology 1993;
+104: 1535-49.
+2. Jass JR, Stewart SM, Stewart J, Lane MR. Hereditary nonpolyposis colorectal cancer: morphologies, genes and mutations.
+Mutat Res 1994; 290: 125-32.
+3. Peltomaki P, Aaltonen LA, Sistonen P er al. Genetic mapping
+of a locus predisposing to human colorectal cancer. Science 1993;
+260: 810-2.
+4. Leach FS, Nicolaides NC, Papadopoulos N et al. Mutations
+of a murS homolog in hereditary nonpolyposis colorectal cancer.
+Cell 1993; 75: 1215-25.
+5. Fishel R, Lescoe MK, Rao MRS et al. The human mutator
+gene homolog MSH2 and its association with hereditary nonpolyposis colon cancer. Cell 1993; 75: 1027-38.
+
+6. Friedberg EC (Ed.). The enzymology of DNA repair. Mutat
+Res 1990; 236: 145-314.
+7. Bronner CE, Baker SM, Morrison PT et al. Mutation in the
+DNA mismatch repair gene homologue hMLHI is associated
+with hereditary non-polyposis colon cancer. Nature 1994; 368:
+258-61.
+8. Papadopoulos N, Nicolaides NC, Wei Y-F et al. Mutation of
+a mutL homolog in hereditary colon cancer. Science 1994; 263:
+1625-9.
+9. Lindblom A, Tannergird P, Werelius B, Nordenskjold M .
+Genetic mapping of a second locus predisposing to hereditary
+non-polyposis colon cancer. Nature Genetics 1993; 5: 279 82.
+10. Ionov Y, Peinado MA, Malkhosyan S, Shibata D, Perucho M.
+Ubiquitous somatic mutations in simple repeated sequences
+reveal a new mechanism for colonic carcinogenesis. Nature 1993;
+363: 558-61.
+11. Aaltonen LA, Peltomaki PS, Leach FS et al. Clues to the pathogenesis of familial colorectal cancer. Science 1993; 260: 812-6.
+12. Nicolaides NC, Papadopoulos N, Liu B et al. Mutations of two
+PMS homologues in hereditary nonpolyposis colon cancer.
+Nature 1994; 371: 75-80.
+13. Cannon-Albright LA, Skolnick MH, Bishop T, Lee RG, Burt
+RW. Common inheritance of susceptibility to colonic adenomatous polyps and associated colorectal cancers. N Engl J Med
+1988; 319: 533-7.
+
+DESPERATE
+IN DUBBO
+T h e three physicians in Dubbo are seeking
+a 4th physician to practice in Dubbo and the
+surrounding region, and to share the on-call
+roster at Dubbo Base Hospital.
+The new physician would share responsibility
+for general medical admissions, and a subspecialty interest would be welcome.
+Dubbo is the regional centre for over 100,000
+people. The encumbent physicians have each
+been in practice in Dubbo for between 14 and
+22 years.
+For further information, please contact the
+Medical Superintendent, Dubbo Base Hospital
+(068) 85 8666 or;
+Dr J. Ganalese (068) 84 5111
+Dr J. Gibson (068) 82 4244
+Dr D. Hammill (068) 82 4244
+I
+
+686
+
+Aust NZ J Med 1994; 24
+
+VAN DE WATER ET AL.
+
+

@@ -1,0 +1,1419 @@
+Hum Genet (1994) 94:533-542
+
+9 Springer-Verlag 1994
+
+Thilo D6rk 9Frauke Mekus 9Karen Schmidt
+Jutta Bol3hammer 9Rainer Fislage 9Thomas Heuer
+Violetta Dziadek 9Thomas Neumann 9Nanette K~ilin
+Ulrich Wulbrand 9Brigitte W u l f . Horst yon der Hardt
+Gtinther MaaB 9Burkhard Ttimmler
+
+Detection of more than 50 different CFTR mutations
+in a large group of German cystic fibrosis patients
+
+Received: 17 March 1994 / Revised 9 Mai 1994
+
+A b s t r a c t We have conducted a comprehensive study of
+the molecular basis of cystic fibrosis (CF) in 350 German
+CF patients. A screening approach based on single-strand
+conformation analysis and direct sequencing of genomic
+polymerase chain reaction products has allowed us to detect the molecular defects on 95.4% of the CF chromosomes within the coding region and splice sites of the cystic fibrosis transmembrane conductance regulator (CFTR)
+gene. The spectrum of sequence changes comprises 54
+different mutations, including 17 missense mutations, 14
+nonsense mutations, 11 frameshift mutations, 10 splice
+site variants and two amino acid deletions. Eleven of
+these mutations have not previously been described. Our
+results reflect the marked mutational heterogeneity of CF
+in a large sample of patients from a non-isolated population.
+
+Introduction
+Cystic fibrosis (CF) is a common severe disorder of the
+exocrine glands (reviewed by Boat et al. 1989). Major
+clinical manifestations of the disease are exocrine pancreatic insufficiency and recurrent airway infections with opportunistic pathogens that ultimately lead to destruction of
+
+T. D6rk (5;~I). F. Mekus. K. Schmidt 9J. BoBhammer 9R. Fis]age
+T. Heuer 9V. Dziadek 9T. Neumann 9N. K~ilin 9U. Wulbrand
+B. Wulf. B. Ttimmler
+Klinische Forschergruppe
+"Molekulare Pathologie der Mukoviszidose" OE 6711,
+Medizinische Hochschule Hannover,
+D-30623 Hannover, Germany
+H. vonder Hardt
+Abteilung P~idiatrische Pneumologie,
+Medizinische Hochschule Hannover,
+D-30623 Hannover, Germany
+G. MaaB
+Abteilung Biophysikalische Chemie,
+Medizinische Hochschule Hannover,
+D-30623 Hannover, Germany
+
+lung tissue and right heart failure. Pancreatic status and
+the risk of airway infection have both been shown to be
+subject of a genetic predisposition (Santis et al. 1990;
+Kristidis et al. 1992; Kubesch et al. 1993; The CF Genotype-Phenotype Consortium 1993), but a high variability
+in the clinical progression of the disease can be seen even
+among siblings within the same family (Santis et al.
+1990). About 5 % - 1 0 % of the patients can be diagnosed at
+birth by a meconium ileus. In most other cases, the clinical diagnosis is based on the observation of fatty bulky
+stools, recurrent infections or failure to thrive and is generally confirmed by the measurement of elevated sweat
+chloride concentrations.
+CF is inherited in an autosomal recessive fashion. The
+frequency of the disease varies among ethnic groups and is
+highest in populations of Caucasian descent, where about
+1 in 2000 newborns are affected and 1 in 25 individuals are
+thought to be heterozygous carriers. The gene responsible
+for CF, the cystic fibrosis transmembrane conductance regulator (CFTR) gene, has been localized on chromosome
+7q31 and encompasses about 250 kb with 27 exons (Rommens et al. 1989; Zielenski et al. 1991 a). CFTR encodes a
+transmembrane protein of 1480 amino acids that is mainly
+expressed in epithelial cell types and that has been shown
+to function as a low-conductance chloride channel regulated by cAMP-dependent phosphorylation and by nucleoside triphosphates (Riordan et al. 1989; Anderson et al.
+1991; Cheng et al. 1991; Bear et al. 1992). A single mutation in exon 10 of the CFTR gene, the 3-bp deletion AF508,
+has been found on about 70% of Caucasian CF chromosomes (Kerem et al. 1989; Tsui 1992a). More recently, the
+concerted action of several groups has revealed more than
+300 other CFTR mutations and sequence variations in CF
+patients worldwide (Tsui 1992 a, b).
+In a few previous studies on Caucasian CF patients, the
+analysis of a limited number of mutations has allowed a
+detection rate of more than 95% (Ferec et al. 1992; Cheadle et al. 1993; Cuppens et al. 1993), which is frequently
+regarded as a threshold for the initiation of large-scale
+screening efforts in a particular population (Workshop on
+Population Screening for the CF Gene 1990). In this
+
+534
+study, we have employed single-strand conformation
+p o l y m o r p h i s m (SSCP) analysis for a rapid and sensitive
+localization of C F T R mutations prior to direct sequencing
+in a group of 350 G e r m a n CF patients. We detected and
+identified 54 different C F T R mutations on 668 out of 700
+CF chromosomes, corresponding to a detection rate of
+95.4%. The spectrum of these mutations and their extragenic and intragenic restriction fragment length polymorphism (RFLP) haplotypes are presented below.
+
+Materials and methods
+Patients
+Some 350 German CF families took part in this study. In order to
+ascertain accurate frequency data for Caucasian chromosomes, patients were not included here whenever family anamnesis revealed
+that one parent or grand-parent originated from a non-Caucasian
+population, Patient and parental samples were contributed from the
+pediatric centers in Hannover, Bonn, Esslingen, Essen, Bremen,
+Giegen, Bad Sachsa, Osnabrtick and Kassel. The diagnosis of CF
+was based on clinical observations and was confirmed by three
+measurements of abnormally high sweat chloride concentrations.
+Classification of a patient as pancreatic sufficient required normal
+faecal fat excretion for at least three days. Whenever possible, KEDTA-blood samples were obtained from the patient and from the
+parents. Genomic DNA was prepared from peripheral lymphocytes as previously described (Gross-Bellard et al. 1973).
+Polymerase chain reaction amplification
+and direct mutation analysis
+The 27 exons of the CFTR gene together with their flanking intron
+regions were amplified as before (Zielenski et al. 1991 a) with the
+exception of exons 1, 14b, 17a and 24. For the latter four exons,
+we used different primers, viz. 5"-GGT CTT TGG CAT TAG
+GAG CTT G -3" (li-5), 5"-CTC ACC CAA CTA ATG GTC ATC3" (14bi-3), 5"-ATC ACT GAC ACA CTT TGT CCA CT-3"
+(17ai-5), 5"-AGT AGA TTA ACA ATA AAG AAT CTC-3"
+(17ai-3) and 5"-TCC ATG AGG TGA CTG TCC C-3" (24i-3).
+Screening for the AF508 mutation was performed by heteroduplex
+analysis in 12% polyacrylamide gel electrophoresis (PAGE)
+(Rommens et al. 1990). Haplotype analysis and direct testing of
+further common CFTR mutations were carried out as published
+elsewhere (D~Srket al. 1992a). The intron mutations 3849 + 10 kB
+C-+T and 1811 + 1.6 kB A--+G were separately screened according to the instructions of W. E. Highsmith jr. et al. and M. Chillon
+et al. (personal communications to the Cystic Fibrosis Genetic
+Analysis Consortium).
+SSCP analysis
+Approximately 0.5 btg genomic DNA was included as the template
+in a 50-btl polymerase chain reaction (PCR) containing 20 btM
+dNTPs, 0.5 gM of each oligodeoxynucleotide primer, 50 mM KCI,
+1.5 mM MgC12, 10 mM TRIS/HCI pH 8.0, 1.5 U Taq DNA polymerase. After 20 PCR cycles had been performed, a 20-1al aliquot
+was transferred into a fresh tube containing 1 btl 20 gM dCTP,
+dGTP, dTTP and I laCi o~-33p-dATP(Amersham Buchler). Fifteen
+additional PCR cycles were then performed in parallel with both
+tubes, and the unlabeled PCR product was run on an agarose gel as
+a control. In order to obtain DNA fragments with a favourable
+length of 100-300 nucleotides, the labeled PCR product was digested with an appropriate restriction enzyme (New England BioLabs) prior to SSCP analysis. At least two different digests were
+performed for each analysed region; the most frequently used enzymes were Hinfl (for exons 2, 3, 4, 8, 11, 12, 13, 14a, 15 and 24),
+
+DdeI (exons 6b, 7, 11, 13, 16, 18 and 19), Rsal (exons 2, 9, 14a,
+15, 17b and 18), HphI (exons 1, 11, 12, 20 and 23) and ScrFI (exons 6a, 14b, 16 and 22). The digested PCR product was mixed
+with an equal amount of loading buffer (95% formamide, 20 mM
+EDTA, 0.05% bromophenol blue, 0.05% xylene cyanol FF), denatured at 95~ for 3 min and immediately chilled on ice. The samples were then loaded onto a precooled 40-cm polyacrylamide
+wedge gel consisting of 5% acrylamide, 1 x TBE (0.09 M TRISborate, 0.002 M EDTA, pH 8.3), 5% glycerol. Electrophoresis was
+run at 25 W, at 10~ for 5 h. The gel was fixed in 10% acetic acid
+for 40 min, dried and exposed overnight.
+
+Sequence analysis
+Symmetric PCR products were purified by ultrafiltration through
+Centricon-100 tubes (Amicon, Beverly, Mass.). One of the two
+strands was then selectively amplified from 1/5 of the purified retentate by 15 cycles of asymmetric PCR including only one
+primer. Asymmetric PCR products were again purified by ultrafiltration and were sequenced by the dideoxynucleotide chain termination method using Sequenase 2.0 DNA polymerase according to
+the manufacturer's instruction (USB/Amersham).
+
+Results
+Mutation screening
+We used a cascade screening approach for the rapid analysis of C F T R mutations in 350 G e r m a n patients. The most
+frequent C F mutation AF508 was first tested by a heteroduplex assay in 12% PAGE ( R o m m e n s et al. 1990). A few
+other mutations k n o w n to be frequent (e.g. N I 3 0 3 K ,
+R553X, G542X, G551D, 2789+5 G - + A and 3849+10 kB
+C--+T) were then screened by specific direct methods as
+previously described (D6rk et al. 1992 a). Since after this
+pre-screening, about 35% of samples carried at least one
+unidentified mutation, we employed SSCP analysis (Orita
+et al. 1989) for the detection of u n k n o w n sequence variants. This simple rapid screening method is based on the
+observation that single-stranded D N A molecules differing
+by as little as one single base substitution may form different conformers and migrate differently in a n o n - d e n a turing polyacrylamide gel (Orita et al. 1989). To achieve a
+favourable fragment length of 1 5 0 - 3 0 0 bp, labelled PCR
+products were digested at internal restriction sites. Generally, two different restriction digests, yielding fragments
+with overlapping sequences, were separately e x a m i n e d
+under identical electrophoresis conditions. Figure 1 illustrates some results for single nucleotide substitutions in
+four different regions of the C F T R gene. In agreement
+with previous reports on the sensitivity of SSCP analysis
+(Sheffield et al. 1993; Hayashi and Yandell 1993; Glavac
+and Dean 1993), we could reliably detect, from at least
+one of the two digests, 98 sequence changes (92%) in 106
+characterized control samples carrying different mutations and sequence variants througout the C F T R gene.
+Each mutation detected by the aberrant migration of PCR
+products was subsequently confirmed and identified by
+direct sequencing. In the case of novel missense or splice
+site mutations, a panel of 100 normal chromosomes from
+unaffected members of CF families was screened for the
+
+535
+A
+
+G
+
+C
+
+T
+
+A
+
+G
+
+C
+
+T
+
+G
+C
+G
+
+Control
+
+R 75 X
+
+Figo2 Direct sequencing showing heterozygosity for the R75X
+nonsense mutation (arrow, right) in exon 3
+T
+
+C
+
+G
+
+A
+
+T
+
+C
+
+G
+
+A
+
+j
+Fig. 1 a--d SSCP analysis of genomic PCR products from different regions of the CFTR gene. a Detection of mutations in exon 20
+(HphI fragment): 3850-3 T-eG (lane 3), S1251N (lane 4), W1282X
+(lane 5), 4002 A---~G(lane 6). b Detection of mutations in exon 13
+(DdeI fragment): 2043delG (lane 3) (Fanen et al. 1992), L619S
+(lane 4). e Analysis of the dimorphism 1898 + 152 T/A (Chillon et
+al. 1991) in intron 12: homozygosity for T (lanes 1, 6, 7), homozygosity for A (lane 2), heterozygosity T/A (lanes 3, 4, 5). d Detection of mutations in exon 17b (RsaI fragment): 3272-26 A---~G
+(lane 2), R1066C (lane 3). Controls of wild type sequence were
+separated in all other lanes of Fig.la, b, d
+
+-~-G
+
+G 673X
+
+Identification of new mutations
+During the course of this work, several mutations and sequence variations were found that have not previously been
+reported and are briefly described below. Following the recommended nomenclature for mutations (Beaudet and Tsui
+1993), amino acids are designated by the single-letter code
+(with "X" for a termination codon), and nucleotides are numbered according to the cDNA sequence (Riordan et al. 1989).
+Four novel nonsense mutations have been uncovered
+in single German CF families. (1) R 7 5 X is a C - + T transition at nucleotide 355 leading to the termination mutation
+R 7 5 X (Fig. 2). It was identified in a 9-year-old patient.
+This mutation occurs at a C p G dinucleotide within exon 3
+where a benign missense variant (R75Q) has previously
+been described (Zielenski et al. 1991 b). The pancreas-insufficient patient inherited R 7 5 X from his father and the
+mutation N 1 3 0 3 K (Osborne et al. 1991) from his mother.
+The R75X nonsense mutation is associated with a rare sequence variant 125 G---~C (Cutting et al. 1992) in the promoter region o f the C F T R gene. It creates a recognition
+site for HphI. (2) G 6 7 3 X is a nonsense mutation found in
+
+Control
+
+Fig.3 Identification of the nonsense mutation G673X (arrow,
+
+left) in exon 13
+T
+
+presence o f the variation in order to exclude a frequent benign sequence variant.
+
+G
+A
+A
+G
+G
+A
+
+C
+
+G
+
+A
+
+T
+
+C
+
+G
+
+A
+
+T
+
+C
+
+G
+
+A
+
+c\
+A
+A
+A
+A
+A
+
+!_f
+Control
+
+2184 ins A
+
+2184 del A
+
+Fig.4 Direct sequencing showing heterozygosity for the frameshift mutation 2184insA (middle) and 2184delA (right) within
+exon 13
+
+exon 13 of the C F T R gene. The G--+T transversion at nucleotide position 2149 (Fig.3) creates a recognition site
+for MslI. G 6 7 3 X was present in a 25-year-old female who
+is c o m p o u n d heterozygous for AI507 (Kerem et al. 1990)
+and G673X; she is pancreatic insufficient. (3) L 7 1 9 X was
+detected in a 4-year-old female who is c o m p o u n d heterozygous for AF508 and L719X. This patient was also
+pancreatic insufficient and had b e c o m e colonized with
+Pseudomonas aeruginosa during infancy. (4) The L 1 0 5 9 X
+mutation represents a novel T---~G transversion within
+exon 17b where it abolishes a recognition site for HindIII.
+
+536
+Table 1 Frequency distribution and haplotypes of CFTR mutations in 700 German CF chromosomes
+Mutation ~
+
+Nucleotide changesb
+
+Locationc
+
+Frequencyd
+
+Q39x
+E60X
+R75X
+405+1 G---~A
+E92X
+R117C
+R117H
+621+1 G--+T
+H199Y
+1078delT
+R334W
+1336K
+R347P
+1342-2 A--+C
+Q414X
+A455E
+V456F
+A1507
+AF508
+1717-1 G--+A
+G542X
+G551D
+Q552X
+R553X
+L558S
+1811+I.6kBA-+G
+1833delT
+L619S
+2143delT
+G673X
+2183AA---)G
+2184delA
+
+C--~T at 247
+G-+T at 310
+C--+T at 355
+G-+A at 405+1
+G--~T at 406
+C---~T at 481
+G--+A at 482
+G--+T at 621+1
+C--+T at 727
+Deletion of T at 1078
+C-~T at 1132
+T-->A at 1139
+G--+C at 1172
+A--+C at 1342-2
+C--+T at 1372
+C-+A at 1496
+G--~T at 1498
+Deletion of 3 bp between 1648-1653
+Deletion of 3 bp between 1652-1655
+G--+A at 1717-1
+G--+T at 1756
+G--+A at 1784
+C-+T at 1786
+C--+T at 1789
+T--+C at 1805
+A--+Gat 1811+l.6kB
+Deletion of T at 1833
+T-+C at 1988
+Deletion o f T at 2143/2144
+G-->T at 2149
+Deletion of A at 2184 and A--~G at 2183
+Deletion of A at 2184
+
+Exon 2
+Exon 3
+Exon 3
+Intron 3
+Exon 4
+Exon 4
+Exon 4
+Intron 4
+Exon 6a
+Exon 7
+Exon 7
+Exon 7
+Exon 7
+Intron 8
+Exon 9
+Exon 9
+Exon 9
+Exon 10
+Exon 10
+lntron 10
+Exon 11
+Exon 11
+Exon 11
+Exon 11
+Exon 11
+lntron 11
+Exon 12
+Exon 13
+Exon 13
+Exon 13
+Exon 13
+Exon 13
+
+1 (0.1%)
+1 (0.1%)
+1 (0.1%)
+1 (0.1%)
+2 (0.3%)
+1 (0.1%)
+2 (0.3%)
+1 (0.1%)
+1 (0.1%)
+4 (0.6%)
+2 (0.3%)
+3 (0.4%)
+11 (1.6%)
+3 (0.4%)
+1 (0.1%)
+1 (0.1%)
+1 (0.1%)
+1 (0.1%)
+504 (72.0%)
+6 (0.9%)
+10 (1.4%)
+7 (l.0%)
+1 (0.1%)
+16 (2.3%)
+1 (0.1%)
+1 (0.1%)
+1 (0.1%)
+1 (0.1%)
+5 (0.7%)
+l (0.1%)
+4 (0.6%)
+2 (0.3%)
+
+2184insA
+L719X
+2789+5 G--+A
+2991de132
+3100insA
+I1005R
+3272-26 A--~G
+LI059X
+R1066C
+LI077P
+YI092X
+R1162X
+3659de1C
+3849+10 kB C---)T
+3850-3 T--+G
+S 1251N
+
+Insertion of A at 2184
+T-->A at 2288
+G--+A at 2789+5
+Deletion of 32 bp from 2991-3022
+Insertion of A at 3100
+T--+G at 3146
+A--+G at 3272-26
+T-~G at 3308
+C-->T at 3328
+T---~C at 3362
+C--+A at 3408
+C--~T at 3616
+Deletion of C at 3659
+C--+T at 3839+10 kB
+T-->G at 3850 3
+G---~A at 3884
+
+Exon 13
+Exon 13
+lntron 14b
+Exon 15
+Exon 16
+Exon 17a
+Intron 17a
+Exon 17b
+Exon 17b
+Exon 17b
+Exon 17b
+Exon 19
+Exon 19
+lntron 19
+lntron 19
+Exon 20
+
+3905insT
+WI282X
+Q1291R
+N1303K
+4114 ATA--~TT
+4374+1 G-+T
+
+Insertion of T at 3905
+G---~A at 3978
+A--+G at 4004
+C---~G at 4041
+Deletion of A and A--~T at 41144116
+G--+T at 4374+1
+
+Exon 20
+Exon 20
+Exon 20
+Exon 21
+Exon 22
+Intron 23
+
+Total
+~' Mutations are designated according to the suggested nomenclature (Beaudet and Tsui 1993)
+b Numbers of nucleotides refer to the cDNA sequence (Riordan et
+al. 1989)
+c Exon and intron numbers are described (Zielenski et al. (1991a)
+a Frequency data are given as number (relative fraction) of alleles
+among 700 German CF chromosomes
+e Haplotypes of extragenic and intragenic dimorphic markers (Estiviii et al. 1987; D0rk et al. 1992a) were classified as listed in the
+appendix (see below), n.p., noninformative phase. Minor haplotypes are indicated in italics
+
+Haplotype~ Referencef
+D3
+A2
+C2
+C2
+B2
+C2
+B6
+B1
+A2
+C2
+BI
+A2
+A2,
+A4
+D3
+BI
+B3
+D5
+B1,
+B3
+B1
+B3
+A4
+A4,
+C2
+A2
+C2
+D3
+BI
+C2
+D5,
+A2
+
+C2
+
+DI, B7
+
+B4, D3
+
+B5
+
+4
+1
+6
+2
+1
+3
+6
+1
+2
+1
+2
+2
+4
+7
+1
+2
+
+(0.6%)
+(0.1%)
+(0.9%)
+(0.3%)
+(0.1%)
+(0.4%)
+(0.9%)
+(0.1%)
+(0.3%)
+(0.1%)
+(0.3%)
+(0.3%)
+(0.6%)
+(1.0%)
+(0.1%)
+(0.3 %)
+
+C2,
+B3
+D3,
+D3
+C2
+A2
+D3,
+C2
+B3
+A3
+C2
+C2
+C2
+B l,
+A2
+C2
+
+B3, D3
+
+1
+5
+1
+16
+1
+1
+
+(0.1%)
+(0.7%)
+(0.1%)
+(2.3%)
+(0.1%)
+(0.1%)
+
+n.p.
+B3
+B3
+BI,A1
+B3
+D5
+
+B3
+
+A2
+
+D3
+
+Cutting et al. (1992)
+Malone et al. (*)
+This study
+D6rk et al. (1993c)
+Will et al. (1994)
+This study
+Dean et al. (1990)
+Zielenski et al. (1991b)
+This study (*)
+Claustres et al. (1992)
+Gasparini et al. (1991)
+Cuppens et al. (1993)
+Dean et al. (1990)
+D/3rk et al. (1993b)
+D6rk et al. (1994a)
+Kerem et al. (1990)
+D6rk et al. (1994a)
+Kerem et al. (1990)
+Kerem et al. (1989)
+Kerem et al. (1990)
+Kerem et al. (1990)
+Cutting et al. (1990)
+Devoto et al. (1991)
+Cutting et al. (1990)
+Maggio et al. (*)
+Chillonetal.(*)
+Schwartz et al. (*)
+This study
+DOrk et al. (1992b)
+This study
+Bozon et al. (1994)
+Chevalier-Porst et al. 1994,
+this study
+This study
+This study
+Highsmith et al. (*)
+D6rk et al. (1994b)
+This study
+This study
+Fanen et al. (1992)
+This study
+Fanen et al. (1992)
+Bozon et al. (1994)
+Bozcm et al. (1994)
+Gasparini et al. (1991)
+Kerem et al. (1990)
+Highsmith et al. (*)
+D6rk et al. (1993a)
+Kfilin et al. (1992a),
+Mercier et al. (1993)
+Liechti-Gallati et al. (1992)
+Vidaud et al. (1990)
+This study
+Osborne et al. (1991)
+D6rk et al. (1993d)
+D6rk et al. (1993a)
+
+668 (95.4%)
+f The following mutations (*) were reported to the Cystic Fibrosis
+Genetic Analysis Consortium as personal communications: E60X
+by G. Malone, M. Schwartz and M. Super; H199Y by T.DOrk and
+B.Tttmmler (in preparation); L558S by M. Maggio, M.Goossens
+and P. Fanen; 1811+1.6 kB A--+G by M.Chillon, T. D6rk, V.
+Nunes, T.Casals and X.Estivill; 1833delT by M.Schwartz, A.L.
+Palle and G. V. Christensen; 2789+5 G----~Aby W. E. Highsmith Jr.,
+T.Strong, L. Burch, L.M.Silverman, F.S.Collins, R.C. Boucher
+and M.R. Knowles; 3849+10 kB C-+T by W.E. Highsmith Jr.,
+L. Butch, T. F. Boat, R. C. Boucher, L. M. Silverman and M. R. Knowles
+
+537
+Table 1 Appendix
+
+marker haplotypes
+
+Dimorphic
+
+Extragenic
+
+XV-2c
+(TaqI)
+
+KM.19
+(PstI)
+
+A
+B
+C
+D
+
+1
+1
+2
+2
+
+1
+2
+1
+2
+
+This mutation was identified in a 20-year-old female patient who is compound heterozygous for the two nonsense
+mutations R553X (Cutting et al. 1990) and L1059X. The
+patient who was diagnosed by pathological sweat tests at
+the late age of 10 years now presents moderate pancreatic
+insufficiency and is colonized with P aeruginosa.
+Three new frameshift mutations were identified, two of
+which were located within a stretch of seven consecutive
+adenine residues ranging from nucleotides 2178 to 2184 in
+exon 13; the third lies within exon 16. (1) The insertion
+2184insA (Fig.4) has been detected in four unrelated CF
+families. Whereas one heterozygote R117C/2184insA presents with borderline disease (see below), three compound
+heterozygotes AF508/2184insA are pancreatic insufficient
+with severe forms of CF. We thus classify 2184insA as the
+"pancreas-insufficient" and R117C as the "pancreas-sufficient" allele. (2) The deletion 2184delA (Fig.4) was detected in two unrelated German patients both of whom are
+pancreatic insufficient and compound heterozygous for
+AF508 and 2184delA. This mutation has independently
+been found in French CF patients (Chevalier-Porst et al.
+1994). Furthermore, a different mutation at this apparent
+hotspot of frameshift, the previously reported complex
+mutation 2183AA---~G (Bozon et al. 1994) could be confirmed in a further four German CF families. Although
+2184delA and 2183AA---~G differ from each other only by
+the presence or absence of an additional A---~G substitution, they probably have evolved independently, as both
+mutations are associated with different haplotypes (Table 1).
+(3) The frameshift insertion 3100insA was identified within exon 16 in a severely affected pancreatic-insufficient
+patient who carries AF508 on his other allele. Interestingly, the seven nucleotide sequence immediately preceding the 3100insA mutation is identical to the sequence preceding another adenine insertion, the previously published
+mutation 435insA in exon 4 of the CFTR gene (K~ilin et al.
+1992b).
+Four novel amino acid substitutions have been identified in the two putative transmembrane domains, the regulatory domain and the second nucleotide-binding domain
+of CFTR. (1) In the first transmembrane domain, the mutation R117C was initially identified in a 12-year-old pancreatic sufficient German CF patient. This mutation occurs at the same CpG dinucleotide as the previously described and extensively characterized mutation R l l 7 H
+(Dean et al. 1990; Kiesewetter et al. 1993; Sheppard et al.
+1993; The CF Genotype-Phenotype Consortium 1993)
+
+Intragenic
+
+(GATT)n
+
+M470V
+
+T854
+
+TUB20
+
+1
+
+6
+
+1
+
+1
+
+2
+
+2
+3
+4
+5
+6
+7
+
+7
+7
+6
+7
+7
+6
+
+2
+1
+1
+1
+1
+1
+
+1
+2
+2
+1
+2
+1
+
+2
+1
+2
+2
+2
+1
+
+A G C
+
+T
+
+A
+
+G
+
+C
+
+T
+
+A
+
+G
+
+C
+
+T
+
+C
+G
+C
+T
+
+Control
+
+R 117 H
+
+R 117 C
+
+Fig. 5 Direct sequencing of the two mild missense mutations (arrows) R117H (middle) and R117C (right) in exon 4 in heterozygous patients
+A
+
+G
+
+C
+
+T
+
+A
+
+G
+
+C
+
+T
+
+G
+T
+T
+
+T_~T
+Control
+
+L 619 S
+
+Fig.6 Direct sequencing of the missense substitution L619S (arrow, right) in exon 13
+
+(Fig. 5). R l l 7 C can be distinguished from R l l 7 H by the
+SSCP pattern and also by restriction enzyme analysis as it
+creates a recognition site for BsmI. In the single affected
+German family, the child with CF carries R l l 7 C on his
+paternal chromosome and the frameshift mutation
+2184insA (see above) on his maternal chromosome. Despite clearly pathological sweat chloride concentrations,
+the clinical course of the obese patient has been almost
+asymptomatic so far and has not required CF-specific
+treatment. A similar mild disease was observed for single
+Scandinavian R l l 7 C patients (M. Schwartz, personal
+communication; Shackleton et al. 1992). (2) In a single
+pancreatic-insufficient patient, we identified the missense
+variant L619S within exon 13 (Fig.6). The predicted
+amino acid substitution occurs in a portion of the regulatory domain of CFTR; this region is conserved between
+
+538
+A
+
+G
+
+C
+
+T
+
+A
+
+G
+
+C
+
+T
+
+G
+C
+G
+A
+T
+A
+T
+C
+G
+
+A/
+
+Control
+
+I 1005 R
+
+Fig.7 Direct sequencing of the missense mutation I1005R (arrow, right) within exon 17a
+
+human, mouse, bovine and Xenopus C F T R (Tucker et al.
+1992). As the L619S change was present in conjunction
+with the previously known rare sequence variant 1716
+G--->A (Kerem et al. 1990) on the same allele, it was difficult to decide whether both sequence changes were required to cause the disease. However, whereas the 1716
+G---~A was also seen on a non-CF chromosome, the L619S
+substitution was only detected in this single family. (3)
+Three unrelated CF patients with severe lung disease but
+moderately impaired pancreatic function were found to be
+heterozygous for the novel missense mutation I I 0 0 5 R
+(Fig. 7). Two patients were found to be heterozygous for
+AF508/I1005R; the third carried N 1 3 0 3 K on the other allele. The T---~G transversion in exon 17a could be tested
+by restriction e n z y m e analysis as it creates a recognition
+site for MaeI and abolishes a SfcI site. The predicted arginine for isoleucine substitution introduces a unique positive charge into a stretch of hydrophobic amino acid residues within the second transmembrane domain (Riordan
+et al. 1989). (4) The mutation Q 1 2 9 1 R affects the last
+codon of exon 20, within the C F T R region coding for the
+second nucleotide-binding domain. This substitution was
+found in a pancreas-insufficient patient carrying AF508
+on his other chromosome. The predicted amino acid substitution Q1291R might be located within the centre re-
+
+gion of the conserved "ATP-binding cassette" (Riordan et
+al. 1989) and thus may impair the regulation of CFTR. Alternatively, it could affect the correct splicing of exon 20
+in a similar way as described for the Q1291H mutation in
+the same codon (Jones et al. 1992).
+In addition to several previously known dimorphisms,
+we have identified two frequent polymorphisms in introns
+15 and 21 and one rare sequence variant within the coding
+region of the exon 17b. (1) The G--cA transition at nucleotide 3041-92 (intron 15) is present on alleles with the
+dimorphic marker haplotype 3 or 7 (Table 1 appendix)
+and is found on about 25% of German non-AF508 chromosomes. Because of its convenient detection, this NsiI
+R F L P (briefly termed "TUB I5") has proved to be useful
+as an additional tool for intragenic dimorphic marker haplotype determination (D6rk et al. 1992a). (2) During
+SSCP analysis of exon 22 PCR products, subtle migration
+differences in a number of samples were caused by a
+4096-283T/C polymorphism in intron 21, which is located 19 nucleotides downstream of the c o m m o n l y used
+PCR primer 22i-5 (Zielenski et al. 1991 a). This SSCP
+again appeared to be associated with haplotype 3 in the
+analysed non-AF508 CF samples, but no efforts were
+made to determine more thoroughly the allele frequencies
+on normal chromosomes. (3) The neutral sequence variant
+at codon T1095 in exon 17b, 3417 A---)T, was detected
+only once, in a single German CF family with as yet unknown C F T R mutations.
+
+Frequencies and distribution of C F T R mutations
+The combined approach o f direct mutation analysis, single-strand conformation analysis and direct sequencing
+led us to detect 54 different C F T R mutations in the 700
+CF chromosomes under investigation. AF508, by far the
+most frequent mutation in Germany, was found on 72% of
+CF chromosomes. There are, however, only six additional
+C F T R mutations with a frequency of approximately 1%
+or more of the CF chromosomes; two nonsense mutations,
+G542X and R553X, and the missense mutations G551D
+and N I 3 0 3 K were predominantly seen in severely affected patients, whereas the transmembrane missense mutation R347P and the splice mutation 3849 + 10 kB C---~T
+
+Table 2 Rare sequence variants in the CFTR promoter and coding region
+
+Sequence variant
+
+Nucleotide change
+
+Location
+
+Frequency
+
+Associated mutatiow'
+
+Reference
+
+125 G--+C
+F508C
+1716 G---)A
+R553Q
+R668C
+3030 G---~A
+I1027 T
+3417 A-+T
+4002 A--eG
+
+G--~C at 125
+T--~G at 1655
+G---~A at 1716
+G-~A at 1790
+C--~T at 2134
+G--+A at 3030
+T--~C at 3212
+A--->Tat 3417
+A--~G at 4002
+
+Promoter
+Exon 10
+Exon 10
+Exon I 1
+Exon 13
+Exon 15
+Exon 17a
+Exon 17b
+Exon 20
+
+1 (0.1%)
+2 (0.3%)
+1 (0.1%)
+I (0.1%)
+1 (0.1%)
+1 (0.1%)
+2 (0.3%)
+1 (0.1%)
+2 (0.3%)
+
+R75X
+S 1251N
+L619S
+*
+3849+10 kB C--eT
+405+1 G--~A
+*
+Unknown
+Unknown
+
+Cutting et al. (1992)
+Kobayashi et al. (1990)
+Kerem et al. (1990)
+D6rk et al. ( 1991 )
+Fanen et al. (1992)
+Chillon et al. (1992)
+Fanen et al. (1992)
+This study
+Ferec et al. (1992)
+
+~'Marked (*) sequence variations were present on AF508 chromosomes
+
+539
+were the most frequent in pancreas-sufficient patients.
+Some 47 different mutations were present at a lower frequency in the investigated panel; most of them could only
+be confirmed as single cases. When compared with other
+recent studies from the neighbouring countries of Belgium (Cuppens et al. 1993; Mercier et al. 1993) and
+France (Fanen et al. 1992; Ferec et al. 1992; Claustres et
+al. 1993), 8-17 mutations are in common between our
+study panel and these populations. This subset of frequent
+mutations accounts for 90% of CF alleles in our study
+group. The frequency distribution of all identified mutations and their associated haplotypes are compiled in
+Table 1. A few of these mutations are found on alleles carrying additional rare sequence variants that are listed in
+Table 2. After the completion of our SSCP screening,
+4.6% of the CF alleles remain undefined. Haplotype
+analysis of these chromosomes suggests the presence of at
+least five further hidden CFTR mutations. Twenty patients
+who are compound heterozygous for one known and one
+still undefined, CFTR mutation suffer from moderate to
+severe forms of CF. Five of the six patients in which both
+mutations are unknown are however almost asymptomatic,
+despite consistently elevated sweat chloride concentrations. Further clinical and genetic analyses are required to
+examine the molecular basis for the borderline disease observed in this patient subgroup.
+
+Discussion
+We present the results of an extensive analysis of the 27
+exons and the flanking intron sequences of the CFTR
+gene in 700 German CF chromosomes. SSCP analysis
+followed by direct sequencing of aberrantly migrating
+samples has allowed us to identify more than 50 different
+CFTR mutations accounting for 95.4% of the CF alleles
+under investigation. These results support the nature of
+CF as a monogenic disease and demonstrate the usefulness of the SSCP technique for rapid sensitive mutation
+screening. The small number of unidentified alleles may
+have escaped detection because of technical limitations of
+SSCP analysis for a particular sequence or could reflect
+mutations outside the investigated regions of the CFTR
+gene, e.g. intron mutations, promoter mutations or large
+genomic deletions. Many different studies have previously indicated that CF mutations are distributed over the
+whole CFTR gene (Fanen et al. 1992; Ferec et al. 1992;
+Tsui 1992a, b; Cheadle et al. 1993; Claustres et al. 1993;
+Cuppens et al. 1993), The mutations in our panel affected
+20 of the 27 CFTR exons with only a few apparent clusters. Mutational hotspots for single nucleotide changes
+can be noted at CpG dinucleotides, such as in codons 117
+or 553, and a hotspot of frameshift mutations is represented by the oligomeric stretch of seven consecutive
+adenines in exon 13. Increased mutability of these particular sequences is demonstrated not only by the occurrence
+of different mutations at the same codon, but also by the
+presence of the mutations R553X and 2184insA in two incompatible dimorphic marker haplotypes; this suggests
+
+recurrent mutational events. With regard to CFTR function, missense mutations are significantly more frequent
+in the nucleotide-binding domains or the predicted transmembrane helices, whereas the large exon 13, coding for
+the unique regulatory domain of CFFR, mainly harbours
+nonsense and frameshift mutations. It has been proposed
+(Tsui 1992a; Claustres et al. 1993) that this asymmetric
+distribution reflects the high sensitivity of chloride-channel-forming and ATP-binding regions in the CFTR protein to changes in charge and structure, in contrast to the
+more degenerate cAMP-mediated regulation through
+phosphorylation of multiple sites in the R-domain (Cheng
+et al. 1991). Interestingly, all six missense mutations in
+the first transmembrane domain of CFTR are associated
+with pancreatic sufficiency in our study group, consistent
+with the view that this type of mutations modulates hut
+does not abolish the conductance properties of the ion
+channel (Tsui 1992a; Sheppard et al. 1993; Tabcharani et
+al. 1993). A major caveat in such interpretations is that the
+disease-causing character of many CFTR missense mutations has not yet been established. Whereas the effects of
+several splice, nonsense or frameshift mutations have
+been thoroughly analysed (e.g. Jones et al. 1992; D6rk et
+al. 1993c, 1994b; Will et al. 1994; and references therein), there clearly remains a need for future investigations
+into the consequences of rare missense mutations on
+CFTR processing and function in vivo. Nevertheless, in
+the absence of detailed knowledge about CFTR structure
+and substrates, mutational and clinical data on missense
+mutations aid the elucidation of the vulnerable sites of
+functional importance in the CFTR protein.
+The identification of CFTR mutations in most of the
+investigated German CF chromosomes allows for more
+accurate genetic diagnosis and counselling in the affected
+families, facilities that accompany the improvement of
+carrier diagnosis by microsatellite typing (Morral et al.
+1991; Zielenski et al. 1991 c). However, the large number
+of different mutations in an extensive group of patients
+also has implications for any large-scale screening efforts
+in a mixed population. At present, screening programmes
+for families with no history of CF are controversial with
+respect to their ethical and social consequences (Wilfond
+and Fost 1990; Fost 1992), and different conclusions may
+be drawn in different countries. Should populations wish
+to be tested, it has been recommended that screening
+should provide a better than 95% detection rate to give at
+least the same certainty to the counselled couples as to
+any unscreened couples (Workshop on Population Screening for the CF Gene 1990). Detection rates ranging from
+88% to 99.5% have meanwhile been achieved for some
+Caucasian populations (Fanen et al. 1992; Ferec et al.
+1992; Super and Schwarz 1992; Cheadle et al. 1993;
+Claustres et al. 1993; Cuppens et al. 1993; Mercier et al.
+1993), mostly after the identification of fewer than 30 different mutations in samples consisting of 100-200 CF patients. However, the number of mutations to be uncovered
+for an appropriate detection rate appears to depend on
+both the investigated population and the sample size. In
+this study of 350 German CF patients, we had to identify
+
+540
+more than fifty different mutations in several different regions o f the C F T R gene to surpass the proposed threshold
+(see above) at which where population-based screening
+theoretically can be offered. A further nine C F T R mutations have been detected in G e r m a n patients o f non-Caucasian descent (K~ilin et al, 1992b; D6rk et al. 1993a;
+N un es et al. 1993; unpublished data) but they have not
+been included in our survey. T h e low frequencies of c o m mon m o l e c u l a r defects, the large n u m b e r of " p r i v a t e " mutations, ethnic h et e r o g e n e it y (as discussed by Ober et al.
+1992) and an increasing n u m b e r o f case reports with c o m plex alleles (D6rk et al. 1991; K~ilin et al. 1992a; Cu p p en s
+et al. 1993; K i e s e w e t t e r et al. 1993) could thus significantly i m p e d e large-scale screening. Therefore, it cannot
+be anticipated from the results o f this study that the direct
+analysis o f a subset o f mutations, even if sampled by multiplex assays, wo u l d presently be able to provide thorough
+screening at low cost in a large non-isolated population.
+Acknowledgements We cordially thank the CF families who
+took part in this study, and our clinical colleagues Drs. Smaczny,
+Rank, and Steinkamp (Hannover), Drs. Keller, Holtschmidt, and
+Prof. Dr. Lentze (Bonn), Prof. Dr. Rappen (Esslingen a. N.), Prof.
+Dr. Stephan (Essen), Dr. Wiebecke (Bremen), Dr. Szczepanski
+(Osnabrtick), Prof. Dr. Lindemann (Giegen), Dr. Effenberger, and
+Prof. Dr. Schindera (Kassel), Dr. Metz (Bad Sachsa), Prof. Dr.
+Mtinker, and Prof. Dr. Wegener (Ludwigshafen) for their co-operation during the collection of samples. We furthermore thank Martin Farr and Thomas Richter for experimental contributions to haplotype and mutation analyses, and Drs. Heiner Wolfes and Manfred Stuhrmann for supporting us with oligodeoxynucleotides. We
+gratefully acknowledge the collaboration with the members of the
+Cystic Fibrosis Genetic Analysis Consortium (directed by Dr. LapChee Tsui, Toronto) who communicated their results on mutation
+analysis prior to publication and made control samples available.
+This work was supported by grants from the Deutsche Forschungsgemeinschaft (DFG), the Max-Planck-Gesellschaft (MPG), the
+Deutsche Gesellschaft zur BekSmpfung der Mukoviszidose
+(DGzBM) and the Mukoviszidose-Hilfe e.V..
+
+References
+Anderson MP, Berger HA, Rich DP, Gregory RJ, Smith AE,
+Welsh MJ (1991) Nucleoside triphosphates are required to
+open the CFTR chloride channel. Cell 67 : 775-784
+Bear CE, Li C, Kartner N, Bridges RJ, Jensen T J, Ramjeesingh M,
+Riordan JR (1992) Purification and functional reconstitution of
+the cystic fibrosis transmembrane conductance regulator
+(CFTR). Cell 68 : 809-818
+Beaudet AL, Tsui L-C (1993) A suggested nomenclature for designating mutations. Hum Mutat 2 : 245-248
+Boat TF, Welsh MJ, Beaudet AL (1989) Cystic fibrosis, ln:
+Scriver CR, Beaudet AL, Sly WS, Valle D (eds) The metabolic
+basis of inherited disease, 6th edn. McGraw-Hill, New York,
+pp 2649-2680
+Bozon D, Zielenski J, Rininsland F, Tsui L-C (1994) Identification
+of four new mutations in the cystic fibrosis transmembrane
+conductance regulator gene: 1148T, L1077P, Y1092X,
+2183AA ~ G. Hum Murat 3:330-332
+Chevalier-Porst F, Bonardot AM, Gilly R, Chazalette JP, Mathieu
+M, Bozon D (1994) Mutation analysis in 600 French cystic fibrosis patients. J Med Genet 31:541-544
+Cheadle JP, Goodchild MC, Meredith AL (1993) Direct sequencing of the complete CFTR gene: the molecular characterisation
+of 99.5% of CF chromosomes in Wales, Hum Mol Genet 2:
+1551-1556
+
+Cheng SH, Rich DP, Marshall J, Gregory R J, Welsh M J, Smith AE
+(1991) Phosphorylation of the R domain by cAMP-dependent
+protein kinase regulates the CFTR chloride channel. Cell 66:
+1027-1036
+Chillon M, Nunes V, Estivill X (1991) SSCP-polymorphism in intron 12 of the CFTR gene recognized by Bcll. Nucleic Acids
+Res 19:6343
+Chillon M, Palacio A, Nunes V, Estivill X (1992) A rare DNA
+variant in exon 15 of the cystic fibrosis transmembrane conductance regulator (CFTR) gene. Hum Genet 90 : 474
+Claustres M, Gerrard B, White MB, Desgeorges M, Kjellberg P,
+Rollin B, Dean M (1992) A rare mutation (1078delT) in exon 7
+of the CFTR gene in a Southern French adult with cystic fibrosis. Genomics 13 : 907-908
+Claustres M, Laussel M, Desgeorges M, Giansily M, Culard J-F,
+Razakatsara G, Demaille J (1993) Analysis of the 27 exons and
+flanking regions of the cystic fibrosis gene: 40 different mutations account for 91.2% of the mutant alleles in Southern
+France. Hum Mol Genet 2 : 1209-1213
+Cuppens H, Marynen P, De Boeck C, Cassiinan JJ (1993) Detection of 98.5% of the mutations in 200 Belgian cystic fibrosis alleles by reverse dot-blot and sequencing of the complete coding region and exon/intron junctions of the CFTR gene. Genomics 18 : 693-697
+Cutting GR, Kasch LM, Rosenstein BJ, Zielenski J, Tsui L-C, Antonarakis SE, Kazazian HH jr (1990) A cluster of cystic fibrosis mutations in the first nucleotide-binding fold of the cystic
+fibrosis conductance regulator protein. Nature 346 : 366-369
+Cutting GR, Curristin SM, Nash E, Rosenstein BJ, Lerer 1, Abeliovich D, Hill A, Graham C (1992) Analysis of four diverse
+population groups indicate that a subset of cystic fibrosis mutations occur in common among Caucasians. Am J Hum Genet
+50:1184-1195
+Dean M, White M, Amos J, Gerrard B, Stewart C, Khaw KT, Leppert M (1990) Multiple mutations in highly conserved residues
+are found in mildly affected cystic fibrosis patients. Cell 61:
+863-870
+Devoto M, Ronchetto P, Fanen P, Orriols JJT, Romeo G, Goossens
+M, Ferrari M, Magnani C, Seia M, Cremonesi L (1991) Screening for non-deltaF508 mutations in five exons of the cystic fibrosis transmembrane conductance regulator (CFTR) gene in
+Italy. Am J Hum Genet 48 : 1127-1132
+D6rk T, Wulbrand U, Richter T, Neumann T, Wolfes H, Wulf B,
+Maag G, Ttimmler B (1991) Cystic fibrosis with three mutations in the cystic fibrosis transmembrane conductance regulator gene. Hum Genet 87:441-446
+D6rk T, Neumann T, Wulbrand U, Wulf B, K~ilin N, Maass G,
+Krawczak M, Guillermit H, Ferec C, Horn G, Klinger K,
+Kerem BS, Zielenski J, Tsui L-C, Ttimmler B (1992a) lntraand extragenic marker haplotypes of CFTR mutations in cystic
+fibrosis families. Hum Genet 88 : 417-425
+D/3rk T, KNin N, Stuhrmann M, Schmidtke J, Tiimmler B (1992b)
+A termination mutation (2143delT) in the CFTR gene of German cystic fibrosis patients. Hum Genet 90 : 279-284
+D6rk T, Wulbrand U, Ttimmler B (1993 a) Four novel cystic fibrosis mutations in splice junction sequences affecting the CFTR
+nucleotide binding folds. Genomics 15 : 688-691
+D6rk T, Fislage R, Rappen U, Ttimmler B (1993 b) Severe splice
+site mutation preceding exon 9 of the CFTR gene. Hum Mol
+Genet 2:1313-1314
+D6rk T, Will K, Demmer A, Ttimmler B (1993c) A donor splice
+mutation (405+1 G--~A) in cystic fibrosis associated with exon
+skipping in epithelial CFTR mRNA. Hum Mol Genet 2:1965-1966
+DOrk T, Fislage R, Ttimmler B (1993d) Complex mutation 4114
+ATA --~ TT in exon 22 of the cystic fibrosis gene CFTR. Hum
+Murat 2 : 489-491
+D/Srk T, Fislage R, Neumann T, Wulf B, Tiimmler B ( 1994 a) Exon
+9 of the CFTR gene: splice site haplotypes and cystic fibrosis
+mutations. Hum Genet 93 : 67-73
+D6rk T, Will K, Grade K, Krawczak M, Ttimmler B (1994b) A 32
+bp deletion (2991de132) in the cystic fibrosis gene associated
+with CFTR mRNA reduction. Hum Mutat 4 : 65-70
+
+541
+Estivill X, Scambler PJ, Wainwright BJ, Hawley K, Frederick P,
+Schwartz M, Baiget M, Kere J, Williamson R, Farrall M (1987)
+Pattern of polymorphism and linkage disequilibrium for cystic
+fibrosis. Genomics 1 : 257-263
+Fanen P, Ghanem N, Vidaud M, Besmond C, Martin J, Costes B,
+Plassa F, Goossens M (1992) Molecular characterization of
+cystic fibrosis: 16 novel mutations identified by analysis of the
+whole cystic fibrosis conductance transmembrane regulator
+(CFTR) coding regions and splice site junctions. Genomics
+13:770-776
+Ferec C, Audrezet MP, Mercier B, Guillermit H, Moullier P,
+Quere I, Verlinguer C (1992) Detection of over 98% cystic fibrosis mutations in a Celtic population. Nature Genet 1:
+188-191
+Fost N (1992) Ethical implications of screening asymptomatic individuals. FASEB J 6:2813-2817
+Gasparini P, Nunes V, Savoia A, Dognini M, Morral N, Gaona A,
+Bonizzato A, Chillon M, Sangiulo F, Novelli G, Dallapiccola
+B, Pignatti PF, Estivill X (1991) The search for South European cystic fibrosis mutations: identification of two new mutations, four variants and intronic sequences. Genomics 10:
+193-200
+Glavac D, Dean M (1993) Optimization of the single-strand conformation polymorphism (SSCP) technique for detection of
+point mutations. Hum Mutat 2:404-414
+Gross-Bellard M, Dudet P, Chambon P (1973) Isolation of highmolecular-weight DNA from mammalian cells. Eur J Biochem
+36:32-38
+Hayashi K, Yandell DW (1993) How sensitive is PCR-SSCP?
+Hum Mutat 2 : 338-346
+Jones CT, Mclntosh I,Keston M, Ferguson A, Brock DJH (1992)
+Three novel mutations in the cystic fibrosis gene detected by
+chemical cleavage: analysis of variant splicing and a nonsense
+mutation. Hum Mol Genet 1 : 11-17
+K~ilin N, D6rk T, Tiimmler B (1992a) A cystic fibrosis allele encoding missense mutations in both nucleotide binding folds of
+the cystic fibrosis transmembrane conductance regulator. Hum
+Mutat 1 : 204-210
+K~ilin N, D6rk T, Bozon D, Ttimmler B (1992b) A novel frameshift mutation in the cystic fibrosis gene (435insA) demonstrates the ambiguity of restriction analysis for mutation
+screening. Hum Mol Genet 1 : 545-546
+Kerem BS, Rommens JM, Buchanan JA, Markiewicz D, Cox TK,
+Chakravarti A, Buchwald M, Tsui L-C (1989) Identification of
+the cystic fibrosis gene: genetic analysis. Science 245:
+1073-1080
+Kerem BS, Zielenski J, Markiewicz D, Bozon D, Gazit E, Yahaf J,
+Kennedy D, Riordan JR, Collins FS, Rommens JM, Tsui L-C
+(1990) Identification of mutations in regions corresponding to
+the two putative nucleotide (ATP-) binding folds of the cystic
+fibrosis gene. Proc Natl Acad Sci USA 87 : 8447-8451
+Kiesewetter S, Macek M jr, Davis C, Curristin MS, Chu C-S, Graham C, Shrimpton AE~ Cashman SM, Tsui L-C, Mickle J,
+Amos J, Highsmith WE jr, Shuber A, Witt DR, Crystal RG,
+Cutting GR (1993) A mutation in CFTR produces different
+phenotypes depending on the chromosomal background. Nature Genet 5 : 274-277
+Kobayashi K, Knowles M, O'Brien WE, Beaudet AL (1990) Benign missense variations in the cystic fibrosis gene. Am J Hum
+Genet 47 : 611-615
+Kristidis P, Bozon D, Corey M, Markiewicz D, Rommens JM,
+Tsui L-C, Durie P (1992) Genetic determination of exocrine
+pancreatic function in cystic fibrosis. Am J Hum Genet 50:
+1178-1184
+
+Kubesch P, D6rk T, Wulbrand U, K~ilin N, Neumann T, Wulf B,
+Geerlings H, Weil3brodt H, Hardt H vonder, Ttimmler B
+(1993) Genetic determinants of cystic fibrosis airways' colonization with Pseudomonas aeruginosa. Lancet 341 : 189-193
+Liechti-Gallati S, Bonsall I, Malik N, Schneider V, Kraemer LG,
+Ruedeberg A, Moser H, Kraemer R (1992) Genotype/phenotype association in cystic fibrosis: analyses of the AF508,
+R553X, and 3905insT mutations. Pediatr Res 32:175-178
+
+Mercier B, Lissens W, Audrezet MP, Bonduelle M, Liebars I,
+Ferec C (1993) Detection of more than 94% cystic fibrosis mutations in a sample of Belgian population and identification of
+four novel mutations. Hum Mutat 2 : 16-20
+Morral N, Nunes V, Casals T, Estivill X (1991) CA/GT microsatellite alleles within the cystic fibrosis transmembrane
+conductance regulator (CFTR) gene are not generated by unequal crossingover. Genomics 10:692-698
+Nunes V, Chillon M, D6rk T, Ttimmler B, Casals T, Estivill X
+(1993) A new missense mutation (E92K) in the first transmembrane domain of the CFFR gene causes a benign cystic fibrosis
+phenotype. Hum Mol Genet 2 : 79-80
+Ober C, Lester LA, Mott C, Billstrand C, Lemke A, Ven K van
+der, Marcus S, Kraut J, Lloyd-Still J, Booth C (1992) Ethnic
+heterogeneity and cystic fibrosis transmembrane regulator
+(CFTR) mutation frequencies in Chicago-area CF families. Am
+J Hum Genet 51:1344-1348
+Orita M, Suzuki Y, Sekiya T, Hayashi K (1989) Rapid and sensitive detection of point mutations and DNA polymorphisms using polymerase chain reaction. Genomics 5 : 874-879
+Osborne L, Knight RA, Santis G, Hodson M (1991) A mutation in
+the second nucleotide binding fold of the cystic fibrosis gene.
+Am J Hum Genet 48:608-612
+Riordan JR, Rommens JM, Kerem BS, Alon N, Rozmahel R,
+Grzelczak Z, Zielenski J, Lok S, Plavsic N, Chou JL, Drumm
+ML, lannuzzi ML, Collins FS, Tsui L-C (1989) Identification
+of the cystic fibrosis gene: cloning and characterization of
+complementary DNA. Science 245 : 1066-1073
+Rommens JM, Iannuzzi MC, Kerem BS, Drumm ML, Melmer G,
+Dean M, Rozmahel R, Cole JL, Kennedy D, Hidaka N, Zsiga
+M, Buchwald M, Riordan JR, Tsui L-C, Collins FS (1989)
+Identification of the cystic fibrosis gene: chromosome walking
+and jumping. Science 245:1059-1065
+Rommens JM, Kerem BS, Greer W, Chang P, Tsui L-C, Ray P
+(1990) Rapid nonradioactive detection of the major CF mutation. Am J Hum Genet 46 : 395-396
+Santis G, Osborne L, Knight RA, Hodson M (1990) Independent
+genetic determinants of pancreatic and pulmonary status in cystic fibrosis. Lancet 336:1081-1084
+Shackleton S, Beards F, Harris A (1992) Detection of novel and
+rare mutations in exon 4 of the cystic fibrosis gene by SSCP.
+Hum Mol Genet 1 : 4 3 9 4 4 0
+Sheffield VC, Beck JS, Kwitek AE, Sandstrom DW, Stone EM
+(1993) The sensitivity of single-strand conformation polymorphism analysis for the detection of single base substitutions.
+Genomics 16:325-332
+Sheppard DN, Rich DP, Ostedgaard LS, Gregory RJ, Smith AE,
+Welsh MJ (1993) Mutations in CFFR associated with mild disease form CI- channels with altered pore properties. Nature
+362:160-164
+Super M, Schwarz MJ (1992) Mutations of the cystic fibrosis gene
+locus within the population of the Northwest of England. Eur J
+Pediatr Res 151 : 108-111
+Tabcharani JA, Rommens JM, Hou X-Y, Chang X-B, Tsui L-C,
+Riordan JR, Hanrahan JW (1993) Multi-ion pore behaviour in
+the CFTR chloride channel. Nature 366 : 79-82
+The Cystic Fibrosis Genotype-Phenotype Consortium (1993) Correlation between genotype and phenotype in cystic fibrosis: analysis of seven common mutations. N Engl J Med 329:1308-1313
+Tsui L-C (1992a) The spectrum of cystic fibrosis mutations.
+Trends Genet 8 : 392-398
+Tsui L-C (1992b) Mutations and sequence variations detected in
+the cystic fibrosis transmembrane conductance regulator
+(CFTR) gene: a report from the Cystic Fibrosis Genetic Analysis Consortium. Hum Mutat 1 : 197-203
+Tucker SJ, Tannahill D, Higgins CF (1992) Identification and developmental expression of the Xenopus laevis cystic fibrosis transmembrane conductance regulator gene. Hum Mol Genet 1 : 77-82
+Vidaud M, Fanen P, Martin J, Ghanem N, Nicolas S, Goossens M
+(1990) Three mutations in the CFTR gene in French cystic fibrosis patients: identification by denaturing gradient gel electrophoresis. Hum Genet 85 : 446449
+
+542
+Wilfond BS, Fost N (1990) The cystic fibrosis gene: medical and
+social implications tk)r heterozygote detection. J Am Med Assoc 263 : 2777-2783
+Will K, D6rk T, Stuhrmann M, Meitinger T, Bertele-Harms R,
+Ttimmler B, Schmidtke J (1994) A novel exon in the cystic fibrosis transmembrane conductance regulator gene activated by
+the nonsense mutation E92X in airway epithelial cells of patients with cystic fibrosis. J Clin Invest 93 : 1852 1859
+Workshop on Population Screening for the Cystic Fibrosis Gene
+(1990) Statement from the National Institutes of Health Workshop on population screening for the cystic fibrosis gene. N
+Engl J Med 323 : 70-71
+
+Zielenski J, Rozmahel R, Bozon D, Kerem BS, Grzelczak Z, Riordan JR, Rommens JM, Tsui L-C (1991 a) Genomic DNA sequence of the cystic fibrosis transmembrane conductance regulator (CFTR) gene. Genomics 10 : 214-228
+Zielenski J, Bozon D, Kerem B, Markiewicz D, Durie P, Rommens JM, Tsui L-C (1991 b) Identification of mutations in exons I through 8 of the cystic fibrosis transmembrane conductance regulator (CFTR) gene. Genomics 10:229-235
+Zielenski J, Markiewicz D, Rininsland F, Rommens J, Tsui L-C
+(1991 c) A cluster of highly polymorphic dinucleotide repeats
+in intron 17b of the cystic fibrosis transmembrane conductance
+regulator (CFTR) gene. Am J Hum Genet 49:1256-1262
+
+

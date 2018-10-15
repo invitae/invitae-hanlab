@@ -1,0 +1,945 @@
+HUMAN MUTATION 1:491-500 (1992)
+
+RESEARCH ARTICLE
+
+Two Novel Mutations Responsible for Hereditary
+Type I Protein C Deficiency: Characterization by
+Denaturing Gradient Gel E l e c t r ~ p h ~ r e ~ i ~
+S. Gandrille, * M. Vidaud, M. Aiach, M. Alhenc-Gelas, A.M. Fischer, M. Gouault-Heilman,
+P. Toulon, J.N. Fiessinger, and M. Goossens
+INSERM U.91 and Laboratoire d'He'matologie, HGpital Henri-Mondm, 94010 Cre'teil (S.G., M.V., M.G.-H., M.G.),
+Group de Recherche sur la Thrombose, lNSERM CJF 91-01, Faculte' des Sciences Pharmaceutiques et Biologiques and Centre
+Claude Bernard de Recherche en Pathologie Vasculaire, HGpital Broussais, 75006 Paris (S. G.,M.A., M. A. -G., J. N. F.),
+Laboratoire d'He'matologie, HGpital Necker, 75015 Paris (A.M. F.), and Laboratoire d'He'mtologie, HGpital Cochin, 75014
+Paris (I? T. 1, France
+Communicated by Jean-Claude Kaphn
+
+Hereditary protein C (PC) deficiency is usually associated with a high risk of thrombosis. We report
+the results of a study undertaken to screen for molecular defects in families with hereditary quantitative PC deficiency. Using a strategy combining polymerase chain reaction amplification of selected
+gene fragments, denaturing gradient gel electrophoresis of the amplification products, and direct sequencing of fragments with altered melting behavior, we studied the PC gene exons and exodintron
+junctions of subjects with hereditary type I PC deficiency. Computer simulation of DNA melting was
+used to design several sets of primers, each containing a GC-clamp, permitting the complete analysis of
+each amplified exon sequence. Using this procedure, we identified two previously undescribed mutations located in exon VII: a C-to-T substitution generating a nonsense codon in place of Arg 157 in
+the mature PC and a G-to-A substitution converting Arg 178 to GIn. The two mutations were detected
+in, respectively, 3 and 2 apparently independent families. This strategy is therefore a valuable tool for
+screening patients, and the results emphasize its advantages over plasma assays in individuals with a
+family history of thrombosis. o 1992 Wiley-Liss, Inc.
+KEY WORDS:
+
+Protein C deficiency, Mutations, Thrombosis
+
+INTRODUCTION
+Protein C (PC) is a vitamin K-dependent
+plasma glycoprotein which is converted into a
+serine protease after activation by thrombin complexed to thrombomodulin, a vascular receptor.
+Protein S, another vitamin K-dependent protein,
+regulates the reaction by assembling protein S-protein C complexes on phospholipid surfaces. These
+complexes inactivate the two coagulation factors F
+VIII and F V, thus reducing thrombin generation
+(for review see Clouse and Comp, 1986; Esmon,
+1989).
+The clinical expression of hereditary PC deficiency is variable. A mild fall in the PC concentration is associated with thrombotic complications in about 50% of apparently heterozygous
+individuals (Horellou et al., 1984; Bovill et al.,
+1989). T h e frequency of this dominant clinical
+0 1992 WILEY-LISS,INC.
+
+trait is estimated at 1 in 15,000 in the general
+population (Miletich, 1990).
+Patients with undetectable levels of circulating
+PC, thought to be either homozygotes or compound heterozygotes, develop massive thrombosis
+during the neonatal period (Marciniak et al.,
+1985). The parents and some family members of
+these homozygous subjects are usually asymptomatic but present heterozygous plasma phenotype
+(Marlar et al., 1989). The frequency of such asymptomatic heterozygous subjects is estimated at 1 in
+Received July 2, 1992; accepted September 30, 1992.
+*To whom reprint requestskorrespondence should be addressed.
+This work was presented as a preliminay report at the 32nd
+Annual Meeting of the American Society of Hematology, Boston,
+MA, December 1990, and has appeared in abstracted form in Blood
+76:507a, 1990 (Abstr, Suppl 1).
+
+492
+
+GANDRILLE ET AL.
+
+200 or 300 in the general population (Miletich et
+al., 1987).
+These data suggest that only 1 in 50-80 patients with heterozygous plasma phenotype develops clinical symptoms and, in the absence of objective criteria to differentiate dominant and
+recessive clinical traits, it is impossible to evaluate
+the thrombotic risk associated with a mild deficiency in a given patient. Moreover, the overlapping concentration ranges in normal subjects and
+deficient patients (Broekmans and Conard, 1988)
+make it difficult to identify plasma heterozygosity
+in patients with PC borderline values.
+Identification of the molecular abnormality at
+the gene level is the only way of clarifying the
+heterogeneous presentations in hereditary PC deficiency. Direct analysis of genomic DNA could
+help to establish the diagnosis and to identify patients at risk of thrombosis.
+The PC gene, which maps to chromosome 2
+(Rocchi et al., 1986; Kato et al., 1988; Patracchini
+et al., 1989), was sequenced by Foster e t al. (1985)
+and comprises 9 exons (Plutzky et al., 1986). Until
+1991, few examples of genomic abnormalities had
+been described in type I deficiency (characterized
+by a simultaneous decrease in PC antigen levels
+and activity). Apart from 3 cases of large insertions
+or deletions (Crabtree et al., 1985), most patients
+with heterozygous genotype had point mutations.
+A Trp 402 to Cys substitution and a nonsense
+codon at position 306 have been described by
+Romeo et al. (1987). Of 30 novel mutations recently reported (Reitsma et al., 1991; Gandrille et
+al., 1991; Grundy et al., 1991a; Yamamoto e t al.,
+1991; Tsuda e t al., 1991; Sala et al., 1991), only 6
+were due to microdeletions or insertions (Yamamoto et al., 1991; Tsuda et al., 1991; Sala et
+al., 1991). Four families with homozygous genotype have also been described (Grundy et al.,
+1991b; Conard et al., 1992).
+In an attempt to identify the mutations responsible for PC deficiency in a large series of patients,
+we have developed a strategy for rapid screening of
+amplified gene fragments. It involves amplification
+of genomic DNA targets by the polymerase chain
+reaction (PCR), followed by denaturing gradient
+gel electrophoresis (DGGE). In carefully chosen
+conditions, fragments bearing mutations display a
+shift in mobility on DGGE. We applied this strategy to the analysis of exon VII in 25 families with
+type I PC deficiency and we detected 2 novel mutations in 5 apparently independent families. In 3
+cases, a C-to-T substitution generated a nonsense
+codon at position 157 of the protein, while in the
+
+Main Features in Terms of Thrombotic Risk of the
+12 Subjects Presenting a Mutation in PC Exon VII
+
+TABLE 1.
+
+Subject
+
+Year
+of birth
+
+Clinical presentation
+(age in years at the
+first thrombotic event)
+
+Family A
+
+11.4
+11.6
+11.9
+
+1953
+1958
+1971
+
+Arterial thrombosis (32)
+Asymptomatic
+Asymptomatic
+
+1941
+1967
+1968
+
+Asymptomatic
+Asymptomatic
+Pulmonary embolism (20)
+
+1945
+1966
+1968
+
+Asymptomatic
+Asymptomatic
+Pulmonary embolism (21)
+
+1951
+1984
+1941
+
+Placental infarction (36)
+Asymptomatic
+Deep and superficial venous
+thrombosis (18)
+
+Family B
+
+1.2
+11.1
+11.2
+Family C
+1.2
+
+11.2
+11.3
+Family D
+1.2
+
+11.1
+Patient E
+
+remaining 2 cases, a G-to-A substitution converted Arg 178 to GIn.
+MATERIALS AND METHODS
+Patients
+
+Exon VII from subjects belonging to 25 families
+presenting with hereditary type I PC deficiency
+were studied. Five apparently independent families
+presented with a mutation in this exon. The main
+clinical features of these five family members are
+described in Table 1, and 4 of the 5 pedigrees are
+presented in Figure 1. Unfortunately, only the
+propositus of family E could be explored (an acquired PC deficiency was excluded by normal hemostasis test results).
+One of the 3 affected members in each family A
+or B presented unusual thrombosis. In the propositus of family A, several episodes of lower-limb arterial thrombosis with no apparent cause were observed. Subject 11.2 of family B suffered a
+pulmonary embolism after starting oral contraception. In family C, patient 11.3 suffered from pulmonary embolism at the age of 21 years, whereas
+the other 2 patients were asymptomatic. The propositus of family D (1.2) was investigated following
+a fetal death due to placental infarction. Patient E
+had presented recurrent deep-vein thrombosis
+since the age of 18 years.
+Seven of the 12 heterozygous patients were
+asymptomatic; the first thrombotic complication
+in the other 5 patients (Table 1) occurred between
+
+TWO NOVEL MUTATIONS IN TYPE I PC DEFICIENCY
+
+493
+
+FAMILY A
+
+I
+1
+
+6
+
+f
+
+7
+
+8
+
+9
+
+53%
+
+FAMILY C
+
+FAMILY B
+94 010
+
+100%
+
+65%
+
+55 010
+
+I
+19
+
+2
+
+FAMILY D
+
+41 %
+FIGURE 1. Pedigrees of families with a mutation in exon VII.
+
+Propositi are indicated by arrows. PC levels (percentages)
+were measured using the 3 different assay kits described in
+Materials and Methods except for 1 patient (*antigen level).
+
+the ages of 18 and 26 years, in accordance with
+previous findings (Marlar, 1985; Broekmans,
+
+1988).
+The diagnosis of PC deficiency was based o n low
+PC activities, measured using an amidolytic assay
+(Stachrom Prot C, Stago, Asniere, France, or Berichrom Behring, Rueil, France), a coagulation assay (Staclot, Stago), and low antigen levels (Asserachrom Prot C, Stago). The normal range was
+70-130% in the 3 commercial techniques.
+Venous blood samples were collected in 0.11 M
+trisodium citrate (1:lO) for PC assays and the
+plasma was kept frozen until use. Blood was collected in ethylene diamine tetracetic acid for the
+DNA studies and kept at VC. Leukocytes were
+isolated within 48 hr and stored frozen until DNA
+extraction.
+
+As the results of the 3 kits were similar, only the results
+obtained with the amidolytic assay are shown. 00 = normal male/female; 0 @ = subjects bearing a mutation; El 0
+= not studied;
+= deceased.
+
+Molecular Biology Techniques
+Materia1s
+Themus aquaticus (Taq) polymerase (5 U/p,l)
+was from Perkin-Elmer Cetus Instruments (Norwalk, CT).
+The deoxynucleotides deoxyadenosine triphosphate (dATP), deoxycytosine triphosphate
+(dCTP), deoxythymidine triphosphate (dTTP),
+and deoxyguanosine triphosphate (dGTP) were
+from Pharmacia Fine Chemicals (Uppsala, Sweden). The OPC columns were from Applied Biosystems (Roissy, France). The sequenase kit was
+from the U.S. Biochemical Corporation (Cleveland, OH) and the Centricon 100 apparatus from
+Amicon (Denver, CO). C X - ~ ~ S ( ~ A
+and
+T PY) - ~ ~ P (dATP) were from Amersham (Buckinghamshire,
+
+UK).
+
+494
+
+GANDRILLE ET AL.
+
+TABLE 2. Oligonucleotide Primers for
+
+Exon
+
+I
+I1
+I11
+
+IV
+ivsb D
+
+V
+VI
+
+VII
+VIIl
+IX
+
+PCR Amplification of PC Exons and Allele-SpecificOligonucleotide (ASO)Probes
+
+Primer
+name
+PCPROMA
+GCPCPROMB
+GCPC 2A
+PC 2B
+GCPC 3
+PC 3A
+PC 3B
+PC 45A
+PC 45B
+PC 6A
+GCPC 6B
+PC 7A
+GCPC 7B
+GCPC 8A
+PC 8B
+PC 9A1
+GCPC 9A2
+GCPC 9B1
+PC 9B2
+GCPC 9C1
+PC 9C2
+PC 9c3
+
+AS0 name
+157 N CGA
+157 M TGA
+178 N CGG
+178 M CAG
+
+Oligonucleotide sequences
+5’-AGAGGTGGGCTTCGGGCAGA-3’
+
+5’4G/C),,-GGACCTGAGACTGTGGCTGC-3‘
+5’4G/C),,-GCAGAGCAGCAGCGGGGGTA-3’
+5’-GAGGCCACAAGGGTCCCGGG-3‘
+5’-(G/C),o-TGCTTCCTCAGACCCCCTCA-3’
+
+5’-CCTCGAAGTCACAGATCTCC-3‘
+5’-TCGAGGCCCCTGCTGGTTAC-3’
+5’-ACACCGGCTGCAGGAGCCTG-3‘
+
+5’-TGCTGGTGCCGCGCCCCCAA-3’
+5‘-GGCGCGGCACCAGCACCAGC-3‘
+
+5’-(G/C),,-AACCCTCCTGAGCCCCCCGC-3’
+5’-GACCAAGACAGGAGGGCAGT-3‘
+5’4G/C),,-CCCAGCACGTGAGCAGCCGG-3’
+
+5’4G/C),o-ATATGAAACCCAGGTGCCCT-3’
+
+5’-TCCCCCTACCCAGGCCTCTG-3’
+5’-TGGGTGCACAGTCTCCGGGT-3‘
+5’4G/C),,-GGGAGGCAGATGGGCACTAT-3’
+5‘4G/C),,-GAGCACCACCGACAATGACA-3’
+5’-GCATCCTGCCGGTCCCCGAG-3’
+
+5’4G/C),,-TGAGCAACATGGTGTCTGAG-3’
+5’-CGCCGTAGTTGTGAAGGAGC-3’
+5’-GCTTGTTACATGTCCCTTTA-3’
+
+Nucleotide
+numbering”
+- 1637 to - 1618
+- 1268 to - 1287
+-72 to -53
+111 to 92
+1256 to 1275
+1465 to 1446
+1565 to 1546
+2921 to 2940
+3270 to 3289
+3275 to 3294
+3546 to 3527
+6055 to 6074
+6303to 6284
+7063 to 7082
+7308 to 7289
+8247 to 8266
+8551 to 8532
+8468to 8487
+8779 to 8760
+8719 to 8738
+8889 to 8870
+9043 to 9024
+
+Sequence
+5’-TACCCTGAAACGAGACACAGA-3’
+
+5‘-TCTGTGTCTCATTTCAGGTGA-3’
+
+5’-GCTGTCTCCCCGCCTGGTCAT-3’
+5’-ATGACCAGGCAGGGAGACAGC-3’
+
+”Nucleotidenumbering as in Foster et al. (1985).
+bivs = intervening sequence.
+
+Methods
+
+DNA was extracted from the patients’ leukocytes and purified as previously described (MolhoSabatier et al., 1989).
+Oligonucleotides were synthesized on a gene assembler (381A DNA synthesizer, Applied Biosysterns). The 20-mers (i.e., PC7) were purified by
+ethanol precipitation, while the GC-clamps (i. e.,
+the 55-mers GCPC7 containing a 35 nucleotide
+GC-clamp) were purified on an OPC column prior
+to ethanol precipitation.
+General strategy
+
+Enzymatic amplification of each PC gene exon
+and its splice junctions was performed essentially as
+described by Saiki e t al. (1988), using a set of
+oligonucleotides comprising a 20-mers and a
+primer to which a G
+C-rich sequence (GCclamp) comprising various numbers of nucleotides
+was added (Myers et al. , 1985a,b; Sheffield e t al. ,
+1989). This GC-rich region allows amplified fragments to be screened for sequence variations by
+
++
+
+DGGE. All primer sequences are presented in Table 2 and their locations are presented in Figure 2.
+The locations of the PCR primers were chosen
+using the computer programs MELT 87 and
+SQHTX, written and kindly provided by Drs. Lerman and Silverstein (1987). These softwares simulate the melting behavior of DNA fragments according to their nucleotide sequence and base
+composition. The information thus acquired was
+used to select positions for PCR primers allowing
+the generation of fragments suitable for DGGE
+analysis and to determine the range of denaturant
+concentrations and electrophoresis times giving
+maximum gel resolution. In every instance, one of
+the amplification primers carried at its 5‘ end an
+additional G
+C-rich nucleotide fragment in order to create a high temperature melting domain
+(Sheffield et al., 1989) and to position the sequence of interest within the first melting domain.
+Because of their length, exons 111 and IX were
+studied using 2 and 3 sets of primers, respectively.
+DGGE could not be used for exons IV and V be-
+
++
+
+TWO NOVEL MUTATIONS IN TYPE I PC DEFICIENCY
+IVS A
+
+IVS B
+
+IVS
+
+C
+
+-
+
+IVS E
+
+IVS F
+
+495
+
+IVS G
+
+PC9C2
+
+4
+
+Pc9c3
+GCPCPA P C P B
+
+pc3B
+
+L
+PCBA
+
+s C 6 B
+
+GCPCBA
+
+EBB
+
+GCPC~BI
+
+FC~BZ
+
+FIGURE2. Location of the amplification primers on the PC gene. The GC-clamps are sym-
+
+bolized by the open bars.
+
+90
+
+cause of their very high melting temperatures.
+These exons were studied for each patient by direct
+sequencing after asymmetric PCR.
+
+GCPC7
+
+DGGE and sequencing of the DNA domain
+bearing the mutation
+
+PC gene exon VII amplification was performed using PC7 and GCPC7 as extension primers. As shown in Figure 3, PC7 was located in IVS
+F and GC-PC 7 in IVS G. Amplification was
+performed as follows: each PCR mixture contained
+30 pmol of each primer, 200 p M of each dNTP, 1
+pg of genomic DNA, 1 x PCR buffer [I0 mM
+Tris-HC1, pH 8.3, 50 mM KC1, 1 mM MgCl,,
+0.01% (w/v) gelatin], and 2.5 U of Tag polymerase
+in a final volume of 100 ELI. The reactions were run
+in a Perkin-Elmer Cetus DNA thermal cycler. The
+thermal profile included 5 min denaturation at
+94"C, followed by 30 cycles consisting of denaturation for 1 min at 94"C, annealing for 1 min at
+60"C, and extension for 1 min at 72°C. Samples
+were held at 72°C for 10 min, and the PCR cycles
+were followed by 10 min denaturation at 94°C and
+45 min at 56°C to favor heteroduplex formation.
+The 284-bp PCR product obtained was analyzed
+on a 6% polyacrylamide gel.
+0 DGGE was performed as described by Attree
+et al. (1989). Amplified DNA fragments were subjected to electrophoresis for 5 hr at 160 V in a
+6.5% polyacrylamide gel containing a 30-80% denaturant gradient (100% denaturant = 7 M urea
+and 40% formamide in TAE buffer) and stained
+with e thidium bromide.
+0 T h e asymmetric PCR method developed by
+Gyllensten and Erlich (1988) was performed using
+5 pmol of PC7 and 50 pmol of GCPC7, as described above, except that the thermal profile involved 60 cycles. This reaction leads to the preferential amplification and enrichment of the
+noncoding strand of exon VII. The single-stranded
+templates were sequenced using the sequenase kit
+with PC7 as the sequencing primer.
+Oligoprobe hybridization: To confirm the
+
+a2
+(7
+
+2
+
+5
+78
+
+74
+
+1
+0
+
+50 100 150 200 250 300
+BASE POSITION
+
+FIGURE 3. Melting map of PC exon VII. Positions of primers
+PC7 and GCPC7 are indicated. The GC-clampis symbolized
+by the open bar.
+
+mutations detected by direct sequencing, four 21mer oligonucleotides were synthesized (Table 2);
+157 N CGA and 178 N CGG correspond to the
+wild-type sequence, and 157 M TGA and 178 M
+CAG correspond to the identified mutations. Amplified exon VII DNA fragments from each member of families A-E and from normal subjects were
+blotted onto nitrocellulose membranes, hybridized
+with the 5 '-end labeled allele-specific oligonucleotide (ASO) probes, and washed in stringent conditions.
+RESULTS
+Using DGGE, we analyzed all the coding regions and splice junctions of the PC gene. For
+exons 1-111 and VI-IX, computer prediction of
+DNA melting behavior enabled us to design a set
+of 2 primers. The first contained a GC-rich region
+(GC-clamp) at its 5' end, permitting the complete
+analysis of each amplified PC gene exon and its
+flanking splice-site sequences by DGGE. The
+
+496
+
+GANDRILLE ET AL.
+
+FIGURE4. DGGE patterns of amplified PC exon VII with abnormal melting behavior from subjects of
+
+families with the Arg 178 to Gln mutation (a) or the Arg 157 to nonsense codon (b). Subjects are
+designated by the numbering system used in Figure 1. NS = normal subject.
+
+other exons (IV and V) were analyzed by direct
+sequencing after asymmetric PCR amplification.
+In the 5 families with mild PC deficiency depicted in Figure 1, the only abnormality was located in exon VII.
+Figure 3 depicts the position of the primers
+(PC7 and GCPC7) used to amplify a 284-bp fragment. The melting curve of the resulting amplified
+fragment confirmed that the sequence of interest
+(exon VII and its associated splice region) was located within the first melting domain of the DNA
+fragment.
+Two different DGGE patterns were observed,
+suggesting the existence of 2 different exon VII
+mutations: 1 in families A and B and 1 in families
+
+GE.
+The normal and mutant homoduplex fragments
+were not separated in families A and B, but the
+presence of heteroduplexes (upper 2 bands) was
+typical of a nucleotide substitution in 1 of the alleles (Fig. 4a). Heteroduplexes, generated during
+the last step of PCR, are due to mismatches of
+normal alleles with mutant alleles and melt at a
+lower denaturant concentration. Patients 11.6 and
+11.9 (family A) and 1.2 (family B) were carriers,
+since their abnormal DGGE pattern was identical
+to that of the propositus.
+
+In families C and D (Fig. 4b) and in patient E,
+the DGGE patterns contained 4 bands, with the
+upper 2 bands constituting a very close doublet.
+These patterns are also typical of heterozygosity:
+band 4 migrated like DNA fragments from normal
+subjects and represents normal homoduplexes.
+Band 3 corresponded to homoduplexes of the mutant allele. Bands 1 and 2 resulted from the generation of heteroduplexes.
+To check that the observed abnormalities were
+not neutral polymorphisms, we tested 60 individuals with normal PC levels; the DGGE pattern was
+normal in all cases.
+The genomic abnormalities were further characterized by direct sequencing of the singlestranded fragment obtained by asymmetric amplification. In families A and B (Fig. 5a), a G-to-A
+transition converted Arg 178 to Gln. In the other
+three families, a C-to-T substitution generated a
+nonsense codon in place of the Arg at position 157
+(Fig. 5b).
+Hybridization of amplified exon VII fragments
+with AS 0 corresponding to either the normal or
+abnormal sequences (Fig. 6) confirmed that all the
+patients with PC deficiency were heterozygous for
+the defect, as both normal and mutant AS0 hybridized with amplified DNA.
+
+TWO NOVEL MUTATIONS IN TYPE 1 PC DEFICIENCY
+
+497
+
+FIGURE5. (a) Sequence of exon VII of patients with the Arg 178 to Gln mutation. As the patients were
+heterozygous for the mutation, both normal (CGG) and mutated (CAG) codons are present. (b)
+Sequence of exon VII of patients with the Arg 157 to nonsense mutation. As the patients were
+heterozygous for the mutation, both normal (CGA) and mutated (TGA) codons are present.
+
+DISCUSSION
+Some of the difficulties encountered in the diagnosis of hereditary PC deficiencies can be overcome by using DNA analysis, and DGGE proved
+to be a valuable tool in this setting. This electrophoretic method enables DNA fragments to be
+separated according to changes in the melting
+properties produced by simple nucleotide substitutions (Fischer and Lerman, 1983; Myers et al.,
+198%). The technique permitted rapid screening
+of our patients, restricting the need for DNA sequencing to the samples showing abnormal electrophoretic mobility.
+We detected 2 novel mutations in exon VII
+which would alter expression of the protein in
+some of our patients. A missense mutation (in 2
+families) or a nonsense codon (in the other 3 fam-
+
+ilies) were located in this critical domain which
+contains 2 cleavage sites essential for correct maturation of the protein and its activation by thrombin.
+In the former case, the mutation led to the replacement of the Arg at position 178 by a Gln. PC
+is a vitamin K-dependent zymogen presenting
+structural similarities with clotting factors 11, VII,
+IX, and X. Arg 178 is located within a domain
+containing several highly conserved amino acids
+and is adjacent to Gly 179, a residue found at this
+position in most vitamin K-dependent proteins
+(when sequences are aligned). In factor IX, the
+substitution of Gln 191, which is located immediately after the corresponding Gly, is associated
+with severe antigen-negative hemophilia B (Giannelli e t al., 1990). The Arg 178 to Gln muta-
+
+498
+
+-
+
+GANDRILLE ET AL.
+
+normal despite a borderline PC level. These results
+confirm
+that the available plasma assays (3 of
+NS 12 I 1 112 NS NS 115 116 117 118 119
+which were used in this study) can often fail to
+0 ~ 0 ~ 0 0 a ~ 178
+0 N C0G G 0 identify PC deficiency in heterozygous subjects.
+Although our population of patients is too small
+0
+0
+0
+0 178 M CAG
+to draw any conclusion with regard to phenotype/
+genotype correlation, some of the data deserve attention. In both families bearing the Arg 178 to
+Gln mutation, some of the subjects had borderline
+plasma PC values. In subject 11.5 of family A, the
+FAMILY D
+FAMILY C Subject I 2 Subject E
+DNA study enabled us to exclude the presence of
+/
+the
+mutation. In family B, the propositus (11.2)
+NS I 1 12 112 113
+had a PC level of 72% in the amidolytic assay and
+157NCGA
+0 0 0 0 0 0
+65% in the immunoenzymatic assay. Unfortunately, no samples were available for DNA studies
+for this patient. The mother carried the mutation,
+8 0
+0 0 157MTGA
+despite borderline PC levels with respective values
+FIGURE 6. Dot blots of samples from family members with
+of 65 and 78% with the 2 assays. It is possible that
+normal (157 N CGA or 178 N CGG) and mutant (157 M TGA
+the Arg 178 to Gln mutation would lead to an
+or 178 M CAG) probes. For details, see Materials and Methincreased turnover of PC or render it unstable,
+ods.
+resulting in a moderate decrease in its plasma level
+and a thrombotic tendency.
+tion is therefore likely to have a deleterious effect
+The mutation observed in the other 3 families
+on PC folding. The fact that the DGGE pattern
+gave rise t o a stop codon which was associated with
+characteristic of this mutation was not observed in
+clearly low levels of both PC activity and antigen
+amplified DNA fragments from 60 control subjects
+in all the patients explored, regardless of the assays
+makes it unlikely that this nucleotide substitution
+used. This mutation introduces a nonsense codon
+is a polymorphism. The value of DNA analysis is
+at position 157 which gives rise to a truncated
+illustrated by the fact that 1 of these patients famprotein lacking two-thirds of the polypeptide
+ily B, 11.2 was considered normal in terms of the
+chain. Two hypotheses may explain the absence of
+plasma assay results whereas he carried the mutathe abnormal protein in the circulation: either the
+tion. In another subject with no thrombotic commRNA is unstable and thus cannot be translated
+plications family A, 11.5, the DGGE pattern was
+into protein or the truncated protein is not seFAMILY B
+
+FAMILY A
+
+I
+
+I
+
+14
+
+I
+
+I1
+
+Ill
+
+IV
+
+v
+
+VII
+
+VI
+
+lea im
+
+147
+
+vK
+
+IX
+
+Vlll
+
+F P C G R P w KQM E K KQS H L KQDT E
+
+1c
+
+1
+
+STOP
+
+DQEDQv D
+
+~ I D GLK M T RQG D s P w Q
+
+11
+L W
+
+1
+
+Q
+
+w
+
+FIGURE 7. Schematic representationof the mutations described on CpG of the PC gene exon VI1. The
+size of the entire gene is 11.6 kb. Sizes of the exons are indicated in base pairs below each exon.
+Amino acids correspondingto hot-spots for mutation are circled.
+
+TWO NOVEL MUTATIONS IN TYPE I PC DEFICIENCY
+
+creted. However, it is interesting to note that in
+the 3 family C members bearing the mutation, PC
+levels varied over a wide range.
+The 2 mutations described here involve CpG
+dinucleotides which are likely to be hot-spots for
+mutation in vertebrates (Bird, 1980) by methylation-mediated deamination of 5-methylcytosine,
+the most frequent cause of recurrent mutation in
+man (Cooper and Krawczak, 1990). Four previously described mutations, Arg 169 to Trp causing
+type I1 qualitative hereditary PC deficiency (Matsuda et al., 1987; Grundy et al., 1989), and 3
+mutations responsible for quantitative deficiencies,
+Arg 152 + Cys, Pro 168 + Leu, and Arg 178 +
+Trp (Gandrille et al., 1991; Reitsma et al., 1991;
+Conard et al., 1992), also involved CpG dimers.
+Therefore, 5 of the 6 CpG dimers present in exon
+VII have so far been shown to be the sites of mutations, as summarized in Figure 7. These hot-spots
+for mutation may explain the recurrence of the
+mutations of our families; however, as our patients
+were all European Caucasian, 1 family being Portuguese, and the others being French families, we
+cannot exclude an identity by descent, as described
+in 3 families by Reitsma et al. (1991).
+
+ACKNOWLEDGMENTS
+
+S.G. was the recipient of a grant from La Fondation pour la Recherche Medicale. This work was
+supported by 1’Institut National pour la SantC et la
+Recherche Medicale (INSERM) , by 1’Association
+Claude Bernard, and by a grant from 1’Association
+Franqaise contre les Myopathies. We thank Drs.
+Lerman and Silverstein, who kindly provided the
+computer programs MELT 87 and SQHTX.
+REFERENCES
+Attree 0, Vidaud D, Vidaud M, Amselem S,Lavergne JM, Goossens M (1989) Mutations in the catalytic domain of human
+coagulation factor IX: Rapid characterization by direct genomic
+sequencing of DNA fragments displaying an altered melting
+behavior. Genomics 4:266-272.
+Bird AP (1980) DNA methylation and the frequency of CpG in
+animal DNA. Nucleic Acids Res 8:1499-1504.
+Bovill EG, Bauer KA, Dickerman JD, Callas P, West B (1989)
+The clinical spectrum of heterozygous protein C deficiency in
+a large New England kindred. Blood 73:712-717.
+Broekmans AW, Conard] (1988) Hereditary protein C deficiency.
+In Bertina RM (ed): Protein C and Related Proteins. New
+York: Churchill Livingstone, pp 160-181.
+Clouse LH, Comp PC (1986) The regulation of hemostasis: The
+protein C system. N Engl J Med 314:1298-1304.
+Conard J , Horellou MH, Van Dreden P, Samama M, Reitsma PH,
+Poort S,Bertina RM (1992) Homozygous protein C deficiency
+with late onset and recurrent coumarin-induced skin necrosis.
+Lancet 339: 743-744.
+Cooper DN, Krawczak M (1990) The mutational spectrum of sin-
+
+499
+
+gle base-pair substitutions causing human genetic disease: Patterns and predictions. Hum Genet 85:55-74.
+Crabtree GR, Plutzky J, Marler R, Bertina RM, Broekmans AW,
+Griffin J, Zarcharski L, Gruppo R, Sala N, Long G (1985) The
+range of genotypes underlying human protein C deficiency.
+Thromb Haemostas 5456 (Abstr S331).
+Esmon CIT (1989) The roles of protein C and thrombomodulin in
+the regulation of blood coagulation. J Biol Chem 264:47434746.
+Fischer SG, Lerman LS (1983) DNA fragments differing by single
+base-pair substitutions are separated in denaturing gradient
+gels: Correspondence with melting theory. Proc Natl Acad Sci
+USA 80:1579-1583.
+Foster DC, Yoshitake S, Davie EW (1985) The nucleotide sequence of the gene for human protein C. Proc Natl Acad Sci
+USA 82:4673-4677.
+Gandrille S, Vidaud M, Aiach M, Alhenc-gelas M, Fischer AM,
+Gouault-Heilman M, Toulon P, Goossens M (1991) Six previously undescribed mutations in 9 families with protein C
+quantitative deficiency. Thromb Haemostas 65:646 (Abstr 3).
+Giannelli F, Green PM, High KA, Lozier JN, Lillicrap DP, Ludwig
+M, Olek K, Reitsma PH, Goossens M, Yoshioka A, Sommer S,
+Brownle G G (1990) Haemophilia B: Data base of point mutations and short additions and deletions. Nucleic Acids Res
+18:4053-4059.
+Grundy CB, Chitolie A, Talbot S,Bevan I), Kakkar V, Cooper
+DN (1989) Protein C London 1: A recurrent mutation at Arg
+169 (CGG+TGG) in the protein C gene causing thrombosis.
+Nucl Acids Res 17:10513.
+Grundy CB, Melissari E, Kakkar VV, Cooper DN (1991a) A molecular genetic study of protein C deficiency. Thromb Haemostas 65:646 (Abstr 2).
+Grundy CB, Lindo V, Kakkar VV, Melissari E, Scully MF, Cooper
+DN (1991b) Late-onset homozygous protein C deficiency. Lancet 338:575-576.
+Gyllensten UB, Erlich H A (1988) Generation of single-stranded
+DNA by the polymerase chain reaction and its application to
+direct sequending of the HLA-DQA locus. Proc Nit1 Acad Sci
+USA 85:7652-7656.
+Horellou MH, Conard J, Bertina RM, Samama M (1984) Congenital protein C deficiency and thrombotic disease in nine
+French families. Br Med J 289:1285-1287.
+Kato A, Miura 0 , Sumi Y, Aoki N (1988) Assignment of the
+human protein C gene (PROC) to chromosome region
+2q14---q21 by in situ hybridization. Cytogen Cell Genet 47:
+46-47.
+Lerman LS, Silverstein K (1987) Computational simulation of
+DNA melting and its application to denaturing gradient gel
+electrophoresis. Methods Enzymol 155:482-501.
+Marciniak E, Wilson HD, Marlar RA (1985) Neonatal purpura
+fulminans: A genetic disorder related to the absence of protein
+C in blood. Blood 65:15-20.
+Marlar RA (1985) Protein C in thromboembolic disease. Semin
+Thromb Haemostas 11:389-395.
+Marlar RA, Montgomery RR, Broekmans AW, and the Working
+Party (1989) Diagnosis and treatment of homozygous protein C
+deficiency. J Pediatr 114:528-534.
+Matsuda M, Sugo T, Sakata Y, Murayama H, Mimuro J, Tanabe S,
+Yoshitake S (1987) A thrombotic state due to an abnormal
+protein C. N Engl J Med 319:1265-1268.
+Miletich JP, Sherman L, Broze G (1987) Absence of thrombosis in
+subjects with heterozygous protein C deficiency. New Engl J
+Med 317:991-996.
+Miletich JP (1990) Laboratory diagnostic of protein C deficiency.
+Semin Thromb Haemostas 16:169-1 76.
+Molho-Sabatier P, Aiach M, Gaillard I, Fiessinger IN,Fischer
+
+500
+
+GANDRILLE ET AL.
+
+AM, Chadeuf G, Clauser E (1989) Molecular characterization
+of seven AT 111 variants using PCR. Identification of a new
+mutation: Ala 384-Pro. J Clin Invest 84:1236-1242.
+Myers RM, Fischer SG, Lerman LS, Maniatis T (1985a) Nearly all
+single base substitutions in DNA fragments joined to a GCclamp can be detected by denaturing gradient gel electrophoresis. Nucleic Acids Res 13:3131-3145.
+Myers RM, Fischer SG, Maniatis T, Lerman LS (1985b) Modification of the melting properties of duplex DNA by attachment
+C-rich DNA sequence as determined by denaturing
+of a G
+gradient gel electrophoresis. Nucleic Acids Res 13:3111-3129.
+)
+Myers RM, Lumelsky N, Lerman LS, Maniatis T ( 1 9 8 5 ~ Detection of single base substitutions in total genomic DNA. Nature
+3 13495-497.
+Patracchini P, Aiello V, Palazzi P, Calzolari E, Bernardi F (1989)
+Subclonalization of the human protein C gene on chromosome
+2q13-ql4. Hum Genet 81~191-192.
+Plutzky 1, Hoskins JH, Long GL, Crabtree OR (1986) Evolution
+and organization of the human protein C gene. Proc Natl Acad
+Sci USA 83546-550.
+Reitsma PH, Poort SR, Allaart CF, Briet E, Bertina RM (1991)
+The spectrum of genetic defects in a panel of 40 Dutch families
+with symptomatic protein C deficiency type I: Heterogeneity
+and founder effects. Blood 78:890-894.
+Rocchi M, Roncuzzi L, Santamaria R, Archidiacono N, Dente L,
+Romeo G (1986) Mapping through somatic cell hybrids and
+cDNA probes of protein C to chromosome 2 , factor X to chromosome 13, and cY1-glycoprotein to chromosome 9. Hum
+Genet 74:30-33.
+
++
+
+Romeo G, Hassan HJ, Staempfli S, Roncuzzi L, Cianetti L,
+Leonardi A, Vicente V, Mannucci PM, Bertina RM, Peschle
+C, Cortese R (1987) Hereditary thrombophilia: Identification
+of nonsense and missense mutations in the protein C gene.
+Proc Natl Acad Sci USA 84:2829-2832.
+Saiki RK, Gelfand DH, Stoffel S, Scharf SJ, Higuchi R, Horn GT,
+Mullis KB, Erlich HA (1988) Primer-directed enzymatic amplification of DNA with a thermostable DNA polymerase. Science 239:487-491.
+Sala N , Poort SR, Bertina RM, Soria JM, Fonrcuberta J , Reitsma
+PH (1991) Identification of two deletions and four point mutations in the protein C gene of 6 unrelated Spanish patients
+with hereditary protein C deficiency. Thromb Haemostas 65:
+1197 (Abstr 1809).
+Shefield VC, Cox DR, Lerman LS, Myers RM (1989) Attachment of a 40-base-pair G
+C-rich sequence (GC-clamp) to
+genomic DNA fragments by the polymerase chain reaction
+results in improved detection of single-base changes. Proc Natl
+Acad Sci USA 86~232-236.
+
++
+
+Tsuda S, Reitsma P, Miletich J (1991) Molecular defect causing
+heterozygous protein C deficiency in three asymptomatic kindreds. Thromb Haemostas 65:647 (Abstr 7).
+Yamamoto K, Tanimoto M, Matsushita T, Sigiura I, Takamatsu J,
+Saito H (1991) Hereditary protein C deficiency due to a frameshift mutation in exon IX of the protein C gene. Thromb
+Haemostas 65:646 (Abstr 4).
+
+

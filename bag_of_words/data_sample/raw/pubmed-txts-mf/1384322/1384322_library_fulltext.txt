@@ -1,0 +1,1027 @@
+Am. J. Hum. Genet. 51:763-772, 1992
+
+Molecular Analysis of Mutations in a Patient with Purine
+Nucleoside Phosphorylase Deficiency
+Michelle R. Aust,* Lucy G. Andrewst Michael J. Barrettt Colette J. Norby-Slycord,*
+and M. Louise Markert*,t
+*Departments of Pediatrics and tMicrobiology and Immunology, Duke University
+Immunology, Sunnyside Hospital, Clackamas, OR
+
+Medical Center, Durham, NC; and
+
+$Department of Allergy and
+
+Summary
+Purine nucleoside phosphorylase (PNP) deficiency is an inherited autosomal recessive disorder resulting in
+severe combined immunodeficiency. The purpose of this study was to determine the molecular defects
+responsible for PNP deficiency in one such patient. The patient's PNP cDNA was amplified by PCR and
+sequenced. Point mutations leading to amino acid substitutions were found in both alleles. One point
+mutation led to a Ser-to-Gly substitution at amino acid 51 and was common to both alleles. In addition, an
+Asp-to-Gly substitution at amino acid 128 and an Arg-to-Pro substitution at amino acid 234 were found
+in the maternal and paternal alleles, respectively. In order to prove that these mutations were responsible for
+the disease state, each of the three mutations was constructed separately by site-directed mutagenesis of the
+normal PNP cDNA, and each was transiently expressed in COS cells. Lysates from cells transfected with the
+allele carrying the substitution at amino acid 51 retained both function and immunoreactivity. Lysates from
+cells transfected with PNP alleles carrying a substitution at either amino acid 128 or amino acid 234 contained
+immunoreactive material but had no detectable human PNP activity. In summary, molecular analysis of
+this patient identified point mutations within the PNP gene which are responsible for the enzyme deficiency.
+
+Introduction
+
+Purine nucleoside phosphorylase (PNP; E.C.2.4.2.1)
+deficiency is a rare form of severe combined immunodeficiency. It was first described, in 1975 by Giblett et
+al. (1975), in a 5-year-old girl with T-cell immunodeficiency. Subsequently, 32 other patients, including
+the patient studied in the present report, have been
+identified (Markert et al. 1987a; Markert 1991). Children with PNP deficiency typically have profoundly
+deficient T-cell function and either normal, decreased,
+or autoreactive B-cell function. In addition to recurrent infections and failure to thrive, some of these
+children also suffer from autoimmune disease, neurologic impairment, and malignancies (Markert 1991).
+Received September 3, 1991; final revision received May 28,
+1992.
+Address for correspondence and reprints: Dr. M. Louise Markert, Box 3068, Duke University Medical Center, Durham, NC
+27710.
+C) 1992 by The American Society of Human Genetics. All rights reserved.
+0002-9297/92/5104-0010$02.00
+
+PNP-deficient patients die in the first or second decade
+of life, usually from infections (Ammann et al. 1978;
+Carapella-de Luca et al. 1978; Virelizier et al. 1978;
+Corrales et al. 1983; McGinniss et al. 1985), malignancies (Stoop et al. 1977; Watson et al. 1981),
+or graft-versus-host disease following nonirradiatedblood transfusions (Stoop et al. 1977; Strobel et al.
+1989).
+Human PNP is a symmetric trimer composed of
+three identical 32,153-dalton subunits, each with a
+substrate-binding site (Agarwal and Parks 1969; Zannis et al. 1978; Williams et al. 1987). PNP reversibly
+catalyzes the phosphorolysis of the purine nucleosides,
+(deoxy)inosine and (deoxy)guanosine, to their respective purine bases and the corresponding ribose-1phosphate. In T cells, the absence of PNP activity is
+thought to lead to an accumulation of deoxyguanosine
+triphosphate, an accumulation which inhibits the enzyme ribonucleotide reductase (Carson et al. 1977;
+Mitchell et al. 1978; Ullmann et al. 1979; Kredich
+and Hershfield 1989). This inhibition blocks DNA
+763
+
+Aust et al.
+
+764
+
+synthesis, thereby preventing the cellular proliferation
+required for an immune response.
+PNP deficiency is inherited in an autosomal recessive fashion. The PNP gene is located on chromosome
+14 (Ricciuti and Ruddle 1973) and comprises six exons spaced over approximately 9 kb of DNA (Williams et al. 1984, 1987). Several different mutant PNP
+proteins have been described. These have been characterized with regard to altered migration in isoelectric
+focusing, resistance to sulfhydryl oxidation, and heat
+instability (Siegenbeek van Heukelom et al. 1976; Gudas et al. 1978; Wortmann et al. 1979; McRoberts
+and Martin 1980). To date, the genetic mutation responsible for enzyme inactivity has been identified in
+only one homozygous patient (Williams et al. 1987).
+In that patient, a single-base-pair change which resulted in an amino acid substitution was detected. We
+describe the sequence of two mutant PNP alleles from
+a second PNP-deficient patient, TP. In these alleles we
+identify three unique point mutations (different from
+the one previously described), two of which result in
+the loss of enzymatic activity. Coupled with the
+knowledge of the crystallographic structure (Ealick et
+al. 1990), these observations let us speculate about
+the role of certain amino acids in PNP structure and
+function.
+Material and Methods
+Cell Lines
+
+B-lymphoblastoid cell lines were established from
+Ficoll-Hypaque-purified peripheral mononuclear cells
+by Epstein-Barr virus transformation (Katsuki and Hinuma 1975) in the presence of 1 gg cyclosporin A/ml
+(Anderson and Gusella 1984). The identity of each cell
+line studied was confirmed by HLA typing, courtesy of
+Dr. Francis Ward (Duke University), and by a radiochemical assay of PNP activity.
+PNP Assay
+
+Extracts from the B-lymphoblastoid cell lines, prepared by freezing and thawing, were chromatographed on a G25 Sephadex spun column according
+to a method described by Greenberg et al. (1989).
+These cell extracts were assayed for PNP activity essentially according to a method described by Fox et al.
+(1977), except that 14C-hypoxanthine (product) was
+separated from substrate ('4C-inosine) on cellulose
+thin-layer plates (PolygramCel 400 UV2so; MackereyNagel) which were developed in water.
+
+Protein Levels
+
+Protein levels of the B-lymphoblastoid and COS cell
+lysates were determined using the BioRad protein
+assay, Bradford (1976) method.
+RNA and DNA Purification
+
+RNA was isolated from the patient's cell line by the
+technique of Chirgwin et al. (1979; Markert et al.
+1987b), by guanidinium isothiocyanate extraction followed by purification using cesium chloride gradient
+centrifugation. Poly(A+ ) RNA was prepared using
+oligo[dT] column chromatography (Avis and Leder
+1972). DNA was purified by the method of Gustafson
+et al. (1987).
+Northern RNA Analyses
+Approximately 3.5
+
+pg of Poly(A + ) RNA was applied to each lane of a 2.2 M formaldehyde 1% agarose gel (Thomas 1983). The RNA was transferred to
+a Pall Biodyne A membrane (ICN Radiochemicals,
+Irvine, CA) and was processed according to a method
+described by Markert et al. (1987b).
+Probes
+
+The plasmid, pPNP1, a nearly full-length (1,418
+bp) PNP cDNA in the plasmid pBR322, was provided
+by Dr. David Martin (Genentech, Inc.) (Williams et
+al. 1984). The PNP cDNA probe used for Southern
+analyses was a 587-bp PstI restriction fragment derived from pPNP1. This fragment encompassed the 3'
+139 bp of exon 2, all of exons 3 and 4, and the first
+168 bp of exon 5 of the PNP cDNA. The adenosine
+deaminase control probe, 117-7, obtained from Drs.
+John Hutton and Dan Wiginton (Cincinnati), extends
+between the BamHI sites at positions 14373 and
+14784 of the ADA gene (Wiginton et al. 1986). This
+position is 5' of exon 2 of the ADA gene. The actin
+control probe, pHFBA. 1, contains the 3' untranslated
+region of the human fibroblast cytoplasmic ,B-actin
+cDNA (Gunning et al. 1983) and was provided by Dr.
+Larry Kedes (University of Southern California). The
+probes were labeled with 32p to a specific activity of
+greater than 108 cpm/pg (Feinberg and Vogelstein
+1983, 1984).
+cDNA Synthesis, Cloning, and Sequencing
+cDNA was prepared by the method of Gubler and
+Hoffman (1983). The PNP cDNA was amplified from
+the total cDNA by PCR (Perkin Elmer Cetus) (Saiki et
+al. 1985) by a sense primer from - 79 to - 60 and an
+
+Point Mutations in PNP Deficiency
+
+antisense primer from + 1182 to + 1201 of the PNP
+cDNA (the numbering is with respect to the initiation
+of translation in the normal PNP cDNA) (Williams et
+al. 1984). This amplified cDNA was cloned (from the
+BamHI site at - 58 to the blunted 3' end) into the
+plasmid, pGEM3Zf- (Promega). PNP cDNA for
+both alleles was sequenced by the double-stranded
+(Wang et al. 1988) dideoxynucleotide chain-termination method (Sanger et al. 1977). Mutations which led
+to restriction-site changes were confirmed by Southern
+analysis of genomic DNA (Southern 1975). The sequences of both alleles were confirmed by sequencing
+patient PNP cDNAs which had been cloned from an
+independent PCR amplification.
+Transfections
+Site-directed mutagenesis (Taylor et al. 1985) of
+the normal PNP cDNA was performed for each point
+mutation by the Amersham oligonucleotide-directed
+in vitro mutagenesis system, version 2. The directions
+in the technical manual were followed. In brief, a mutant oligomer was synthesized and phosphorylated
+with T4 polynucleotide kinase. This was annealed to
+single-strand template (made from normal PNP cDNA
+in pGEM3Zf- plasmid [Promega]). A mutant DNA
+strand incorporating thionucleotides was synthesized
+using the mutant oligomer as a primer. The nonmutant template was removed by nicking with Ncil enzyme and treatment with exonuclease III. The second
+strand was then synthesized with DNA polymerase I
+and ligated with T4 DNA ligase. Escherichia coli were
+transformed with the resulting double-stranded plasmid containing the mutated cDNA insert. Mutant
+PNP cDNAs were confirmed by sequencing (as above)
+and then were cloned into the BamHI site of the pRK5
+expression vector (Didsbury et al. 1989), obtained
+from Dr. John Didsbury (Duke University). This vector contains the simian virus 40 enhancer and cytomegalovirus promoter. The 5' end of the PNP cDNA
+sequence thus was the BamHI site at - 58 with respect
+to the ATG at the initiation of translation. The 3' end
+of the sequence was the final base pair in the normal
+PNP cDNA pPNP1 described above. The BamHI site
+at the 3' end was derived from the multiple cloning
+site of the vector used in the site-directed mutagenesis
+experiments. The cesium chloride-purified mutant
+cDNAs were transfected into COS cells by the DEAEdextran method (McCutchan and Pagano 1968; Didsbury et al. 1989). In brief, 6-cm dishes of cells were
+incubated in 2 ml Dulbecco's modified Eagle medium
+
+765
+
+(DMEM) with 10% NuSerum (Collaborative Research) and 0.1 mM chloroquine. DNA (3 gg) was
+added in 120 gl DEAE dextran (6.6 mg/ml; Pharmacia) in Tris-buffered saline pH 7.5. After 3 h at
+37°C, the medium was aspirated, and the cells were
+treated at room temperature for 1 min with 1.5 ml of
+10 g dimethyl sulfoxide/100 ml in PBS (PBS = 137
+mM sodium chloride, 2.7 mM potassium chloride,
+0.88 mM potassium phosphate, 6.6 mM sodium
+phosphate, pH 7.5). Cells were then washed twice in
+PBS and were then returned to medium (DMEM with
+10% FCS and 50 mM HEPES). Forty-eight hours after
+transfection, cells were washed with PBS and removed
+from the plates with 0.04 g trypsin/100 ml, 0.5 mM
+EDTA (Gibco), in 137 mM sodium chloride, 5.4 mM
+potassium chloride, 5.5 mM glucose, 4.2 mM sodium
+bicarbonate for 5 min at 37°C. Cells from each 60-mm
+plate were resuspended at a concentration of 107 cells/
+100 gl in 10 mM Tris-HCl pH 8,1 mM EDTA, 1 mM
+2-mercaptoethanol; were subjected to three rounds of
+alternate freezing and thawing in dry ice/ethanol; and
+were stored in liquid nitrogen.
+
+Enzyme Activity
+Equivalent amounts of protein from each lysate
+were applied to a Tris/EDTA/borate pH 8.8 agarose
+gel (Innovative Chemistry, Marshfield, MA). The
+samples were electrophoresed in a temperature-controlled (4°C) electrophoresis chamber (Innovative
+Chemistry) at 160 V for 45 min. PNP activity was
+detected by overlaying the gel with approximately 12
+ml of a mixture containing 6 mM inosine, 7 mM sodium arsenate, 33 mM Tris pH 8, 0.017 units xanthine oxidase/ml, 0.7 mM nitro blue tetrazolium,
+0.14 mM phenazine methosulfate, 0.5 g agarose/ 100
+ml. PNP was detected as a purple spot after incubation
+in the dark for 1 h at 370C.
+Isoelectric Focusing
+Lysates (approximately 80 gg of protein each) were
+applied to a 1-mm slab isoelectric focusing gel of 5.5 %
+acrylamide, 2.2% ampholytes (Resolytes pH 3.5-10;
+Hoefer), 0.1% glycerol. The upper (cathode) buffer was 0.02 M NaOH; the lower (anode) buffer was
+0.02 M acetic acid. The gel was run for 2 h at 20 W.
+After the gel had run, enzyme activity was detected as
+described above by overlaying the gel with a mixture
+containing substrate, or immunoreactivity was detected by the immunoblotting procedure (see below).
+
+766
+
+Aust et al.
+
+Immunoblot
+
+Immunoreactivity was assessed by applying lysates
+(approximately 80 ig of protein each) to isoelectric
+focusing gels or to SDS-PAGE with 10% acrylamide
+in the lower gel. The protein was transferred from the
+gel to Immobilon-nitrocellulose (Millipore) by electroblotting for 2 h at 70 V in a Hoefer TE42 apparatus. The Immobilon was pretreated by being dipped
+in water and then soaking for 5 min in transfer buffer
+containing 39 mM glycine, 48 mM Tris, 1.3 mM SDS,
+6.2 M methanol, pH 8.3. After transfer, the membrane was stained with India ink. Rabbit anti-PNP
+IgG, a gift from Dr. William Osborne (University of
+Washington, Seattle) (Osborne et al. 1977) was added
+at a 10 -'dilution with 5 g Carnation nonfat dry milk/
+100 ml in TBS-T (TBS-T = 20 mM Tris pH 7.6, 137
+mM sodium chloride, 0.1 g Tween 20/100 ml) to
+block nonspecific binding. The blot was hybridized
+overnight at room temperature with the primary antibody, was washed three times in TBS-T, and hybridized for 2 h at room temperature with the secondary
+antibody, [1251] donkey F(ab')2 anti-rabbit IgG (Amersham). The hybridized blot was again washed at room
+temperature in TBS-T and was autoradiographed at
+- 70'C for 10-14 d.
+Results
+Clinical History and Cell-Line Data
+
+The clinical history, immune function studies, and
+PNP levels in the patient, TP, have been described
+elsewhere (Markert et al. 1987a). PNP activity levels
+in the HLA-typed B-lymphoblastoid cell lines were 18
+nm/h/mg protein and 1,900 nm/h/mg protein for
+patient TP and her mother, respectively (normal range
+2,496-8,276 nm/h/mg protein; n = 10). These results are consistent with those previously reported for
+the red-cell-hemolysate PNP activity levels.
+To study the enzyme activity and immunoreactivity
+of PNP in B-cell lines derived from the patient and her
+mother, lysates were applied to isoelectric focusing
+gels (fig. 1). PNP activity was detected by overlaying
+the gel with the substrate linked to a color reaction.
+Duplicate gels were analyzed by immunoblotting.
+PNP in cells derived from the patient's mother ran to
+a similar position as did normal human PNP (fig. 1A);
+however, the enzyme activity appeared to be less than
+that of the control, consistent with the PNP activity
+levels reported above. On immunoblotting, lysates of
+
+cells derived from the mother revealed one band cor-
+
+0
+
+0
+
+E
+
+0
+
+0
+C
+0
+C.
+
+0
+
+E
+
+oL a_
+
+0
+4-'
+
+C
+0
+)
+
+PNP >
+
+ACTIVITY
+
+IMMUNOBLOT
+
+PNP activity and immunoreactivity in cell lysates
+Figure I
+from members of the TP family. In the left-hand panel, lysates
+containing approximately 80 gg of protein were applied to an
+isoelectric-focusing gel. After electrophoresis, the gel was overlaid
+with the PNP substrate linked to a color reaction. This panel shows
+both the absence of PNP activity in lysates of B-cell lines derived
+from the patient and the presence of PNP activity in the lysates of
+cells derived from her mother and from a normal control. The gels
+were oriented with the cathode at the top. In the right-hand panel,
+a duplicate isoelectric-focusing gel was blotted to a membrane and
+was probed for immunoreactive PNP protein. This shows the absence of immunoreactive protein in the lysates of cells derived from
+the patient.
+
+responding to normal PNP, whereas lysates derived
+from the patient had no immunoreactive material (fig.
+1B). Material from the father was not available.
+PNP mRNA Levels
+Figure 2 shows RNA blot hybridization (Northern
+
+blot) of poly(A + ) RNA isolated from the lymphoblastoid cell lines established from patient TP and her
+mother. As shown in figure 2A, 32P-labeled full-length
+PNP cDNA hybridized to mRNA of patient TP and
+her mother at the same position as it did in the normal
+control. As a control, the membrane was stripped and
+probed with a 1-actin cDNA (fig. 2B). All samples
+hybridized to the actin probe at the expected position
+(approximately that of 18S RNA). The size of P-actin
+mRNA is thought to be 1,761 nucleotides plus a poly
+A tail (Ponte et al. 1984); and the size of PNP mRNA
+is thought to be 1,500 nucleotides plus a poly A tail
+(Jonsson et al. 1991). The PNP mRNA appears to
+
+767
+
+Point Mutations in PNP Deficiency
+
+BP
+
+An
+0
+
+L.
+
+4-
+
+-C
+
+L.
+
+a
+
+4-
+
+0 0.00
+
+C.)
+
+TP Allele A
+T-.C 60
+
+L.
+
+L.
+
+4-
+
+-C4.-0
+
++1
+5
+
+AGT-+GGT 151
+Ser - Gly 51
+
+T-.C 171
+4
+
+1.
+
+GAT-*GGT 383
+Asp -_ Gly 128
+TGA
+
+3'
+
+I
+
+C OL 0
+A
+
+CGGATCGGAG -41
+
+-28 8
+
+-18a8
+
+TP Allele B
+AGT-.GGT
+
+CGA-*CCA 701
+Arg -_ Pro 234
+
+151
+
+Ser -. Gly 51
++i\ /T--+C 171
+
+T-,C 60
+
+TGA
+I
+
+CGGATCGGAG -41
+
+PROBE:
+PNP
+oDNA
+
+PROBE:
+ACTIN
+oDNA
+
+p -
+
+Northern blot analysis of the TP family. Poly(A + )
+Figure 2
+RNA was probed with either a 32P-labeled PNP cDNA probe (A) or
+a ,B-actin cDNA probe (B). The gel shown in panel A has been
+stripped and reprobed in panel B. The position of 18S and 28S
+rRNA which was run in parallel is indicated.
+
+be only slightly smaller than the actin mRNA. The
+relative intensities of the bands with the PNP probe
+are similar to those with the actin probe, indicating
+that unequal amounts of poly(A +) RNA had been
+loaded in each lane. Thus, the relative amounts of
+PNP mRNA in cell lines derived from patient TP and
+her mother were similar to that in control cell lines.
+cDNA Sequencing
+
+PNP cDNA from patient TP was amplified by PCR,
+cloned, and sequenced; two mutant PNP alleles were
+identified. Figure 3 shows a schematic representation
+of the mutations and polymorphisms in the patient's
+two alleles. It is noteworthy that both alleles share four
+polymorphisms and one base-pair change resulting in
+an amino acid substitution. Two of the polymorphisms, the double A in the 3' untranslated region and
+the two tandem copies of a 10-bp sequence in the 5'
+
+903
+
+/I
+
+3'
+A
+
+903
+
+Two mutant PNP cDNAs in patient TP. Arrows
+Figure 3
+indicate the polymorphisms and the point mutations leading to
+amino acid substitutions found in both alleles. + 1 = position of
+the ATG for the start of translation; and TGA = position of the
+end of translation.
+
+flanking region, have been reported elsewhere (Williams et al. 1984, 1987). The other two polymorphisms, at bp 60 and bp 171, have not been previously
+reported. The nucleotide change leading to an amino
+acid substitution which is common to both alleles occurs at nucleotide 151 (AGT to GGT) in exon 2 and
+results in a change from Ser to Gly at position 51 in
+the protein. In allele A, the base change at nucleotide
+383 (GAT to GGT) in exon 4, a base change which
+leads to an Asp-to-Gly substitution at amino acid position 128, results in the loss of an EcoRV restriction
+site. A Southern blot (fig. 4) confirms this change and
+demonstrates that allele A was inherited from the
+mother. In allele B, the base change at nucleotide 701
+(CGA to CCA) in exon 5, a base change which leads
+to an Arg-to-Pro substitution at amino acid position
+234, results in the loss of a TaqI restriction site. A
+Southern blot (not shown) confirms this change, but,
+because paternal blood was not available for this
+study, we could not determine whether this change
+was inherited from the father or was a spontaneous
+mutation.
+Functional Studies
+In order to determine which, if any, of the point
+mutations were responsible for the deficiency in pa-
+
+Aust et al.
+
+768
+go
+
+5
+0
+
+r-I
+
+M7. .X..
+
+;'AF
+P..,
+
+0
+L
+V
+
+b
+
+C
+4i
+
+r-I
+
+0
+
+a
+
+b
+
+0: 0: (Cs 1. 0: A
+.,
+
+17 kbe
+12 kb D
+
+m.
+
+IV"38.2
+
+kb
+
+4.Skb >
+
+PUP
+
+*one
+
+3
+
+PrNe
+
+pri
+on"U
+
+AbA
+
+545.
+TMutant PNP
+
+17 kbe
+
+E
+
+E a 345
+14.6 kUI
+
+E
+
+EE
+
+E
+
+5.3 kb
+
+E
+
+T
+13 kb
+a54 01
+
+Normal PNP
+
+a
+
+Normal ADA
+
+E
+
+Figure 4 Southern analysis of genomic DNA, in examination of the point mutation at position 383. DNA was derived from
+the individuals indicated. DNA was digested with EcoRV, electrophoresed on an agarose gel, and transferred to a membrane. The
+left-hand panel shows the membrane after hybridization with a
+radiolabeled PNP cDNA fragment containing part of exon 2, all of
+exons 3 and 4, and part of exon 5. With the mutant PNP allele
+found in patient TP and her mother, the loss of an EcoRV site in
+exon 4 results in the appearance of the larger, 17-kb fragment. The
+right-hand panel shows the same membrane after it was stripped
+and reprobed with a genomic clone derived from the exon 2 region
+of the adenosine deaminase gene. Only the band of the appropriate
+size was detected, showing that the DNA had been digested fully.
+The band at 8.2 kb in the left-hand panel likely represents DNA
+cross-reactive with the PNP probe.
+
+tient TP, we expressed the normal cDNA as well as
+each mutant cDNA in vitro in COS cells. To create
+the mutant cDNAs, we used site-directed mutagenesis
+to create the specific mutation in a full-length normal
+PNP cDNA. Creation of the mutant was verified by
+sequencing across the site of the mutation. The mutant
+cDNA was cloned into an expression vector. As controls, the normal PNP cDNA and an antisense PNP
+cDNA were cloned into the expression vector. These
+were transfected into the COS cells by a DEAE dextran
+
+method. The cells were harvested at 48 h, and lysates
+were examined by immunoblot and PNP-activity analysis.
+Electrophoresis of the cell lysates separated the human and monkey PNP proteins. Enzyme detection by
+a color reaction showed that mutant gene products
+containing amino acid substitutions either at position
+128 or at position 234 had no enzymatic activity (fig.
+5A). Only the monkey PNP activity could be detected
+in these lysates. The mutant gene product containing
+the amino acid substitution at position 51 retained
+enzyme activity; bands were detected at the positions
+of both normal human and normal monkey PNP migration. Figure 5B shows an immunoblot done after
+the lysates were subjected to SDS-PAGE. The antibody used does not react significantly with monkey
+PNP; only trace amounts of immunoreactive material
+are found in untransfected COS lysates or COS lysates
+from the antisense transfection experiments. Lysates
+from cells transfected with the construct containing
+the substitution at amino acid position 51 were immunoreactive as well as functionally active. Lysates from
+cells transfected with constructs containing either the
+mutation at amino acid position 128 or the mutation
+at amino acid position 234 contained immunoreactive
+PNP.
+Discussion
+
+We investigated the molecular defect in PNP-deficient patient TP. This patient's enzyme deficiency has
+been documented previously by enzyme assays of red
+blood cells, and we confirmed the deficiency by the
+same assay of the B-lymphoblastoid cell line. Northern
+analysis was used to categorize the type of defect which
+led to a loss of PNP enzymatic function in our patient.
+The detection of a normal amount of full-length PNP
+mRNA in patient TP suggested that at least one of her
+PNP alleles carried a point mutation. We were able, in
+fact, to show that both alleles carried point mutations
+which affected amino acid sequence. We were able to
+show by site-directed mutagenesis that the mutations
+in patient TP's PNP alleles disrupted PNP function. By
+Southern analysis, we determined that allele A was
+inherited from the patient's mother.
+Ealick et al. (1990) have elucidated the crystallographic structure of the wild-type PNP enzyme. The
+core of the PNP subunit consists of an eight-stranded
+mixed beta-pleated sheet and a five-stranded mixed
+beta-pleated sheet which form a distorted barrel structure. This barrel is surrounded by seven alpha-helices.
+
+Point Mutations in PNP Deficiency
+
+769
+
+BE
+
+IMMUNOBLOT
+
+As
+
+aI
+
+PNP ACTIVITY GEL
+
+C
+
+3eN
+
+0
+
+a
+
+Ec
+
+0
+a
+
+0I
+a
+0
+
+In
+
+"I
+N
+
+C4
+V-
+
+a
+
+W0
+
+>
+
+a
+
+o
+69 kd
+<4 46 kd
+
+PNP >
+huan PNP
+
+a
+
+0
+
+4
+
+.)
+
+mockey PDP >
+
+V-
+
+0
+
+,~
+0
+
+< 30 kd
+
+4 21.5 kd
+4 14.3 kd
+
+Figure 5
+Structure/function analyses. Panel A shows the PNP enzymatic activity of various COS cell lysates, and panel B shows the
+immunoreactivity of the same lysates. One to two microliters of each lysate was electrophoresed on an agarose gel and then was overlaid
+with a solution containing PNP substrate (A). In addition, S pIl (approximately 80 fig of protein) was electrophoresed on SDS-PAGE and
+then was transferred to a membrane and probed with rabbit anti-PNP IgG and an '25I-labeled anti-rabbit IgG (B). The lysates are as follows:
+Lane 1, Human control cells. Lane 2, COS cells transfected with a vector containing PNP cDNA carrying the mutation at bp 151 (amino
+acid position 51, Ser to Gly). Lane 3, COS cells transfected with a vector containing PNP cDNA carrying the mutation at bp 701 (amino
+acid position 234, Arg to Pro). Lane 4, COS cells transfected with a vector containing PNP cDNA carrying the mutation at bp 383 (amino
+acid position 128, Asp to Gly). Lane 5, COS cells transfected with a vector containing anti-sense PNP cDNA. Lane 6, COS cells transfected
+with a vector containing sense PNP cDNA. Lane 7, COS cells. Gels were oriented with the cathode at the top. For both the activity gel
+and the immunoblot, the same banding pattern was seen on lysates made from separate transfection experiments. Approximately equal
+amounts of protein were added to each lane.
+
+The Ser-to-Gly substitution at amino acid position 51
+is in one of the connecting loops between two betapleated sheets and is quite removed from the substrate-binding site. These two amino acids are similar
+in size and charge. It is not surprising, then, that the
+PNP protein with Gly at amino acid position 51 retains
+enzymatic activity and immunoreactivity. As this mutation was common to both alleles, it is possible that
+this change represents a polymorphism within the
+population.
+In contrast, the Asp-to-Gly substitution at amino
+acid position 128 affects the charge of the molecule
+and results in loss of enzyme activity. The mutation in
+allele B leads to an Arg-to-Pro substitution at amino
+acid position 234. This particular amino acid is in a
+four-amino-acid sequence which makes a sharp turn
+between an alpha-helix and a beta-pleated sheet (Ealick et al. 1990). The positive charge on the arginine
+is probably important for stabilizing this sequence and
+for allowing proper folding. A proline would undoubtedly disrupt this sharp turn.
+Since we detect no immunoreactive PNP in the patient cell lysates but do detect it in the COS lysates, we
+
+believe that both mutants may be quickly degraded
+within the cell. These mutant proteins are found in the
+COS cells because their expression is driven at high
+levels off our vector. The finding of immunoreactive
+PNP in lysates from cells transfected with the PNP
+alleles mutant at either residue 128 or residue 234 is
+similar to Williams et al.'s (1987) finding that PNP
+carrying a substitution from Glu to Lys at amino acid
+position 89 lacked enzymatic activity but remained
+immunoreactive although the protein focused at a
+more basic pI than did normal PNP.
+We compared this PNP-deficient patient's mutations with point mutations found in other diseases. A
+review of published point mutations in disease genes
+has shown that 63 % of point mutations are transitions
+(Cooper and Krawczak 1990). In this patient, four
+of the five mutations were transitions. Cooper and
+Krawczak's (1990) review also showed that 32% of
+all point mutations in disease genes occurred in a CpG
+sequence. These mutations (CG to TG or CG to CA)
+are consistent with the methylation-mediated deamination of 5-methyl cytosine (Cooper and Youssoufian
+1988; Cooper and Krawczak 1990). As CpG sequences
+
+Aust et al.
+
+770
+
+tend to be hot spots for mutation, mutations at these
+sites are often found in many individuals. None of
+the point mutations described in the present paper
+occurred at a CpG sequence.
+In PNP deficiency, one must consider the effect of
+trimer formation on enzyme activity. It has been suggested, although not formally proved, that trimer formation is necessary for enzyme activity (Ealick et al.
+1990). Heterotrimers have been found in parents of
+children with PNP deficiency. These trimers contain
+one or two normal subunits mixed with two or one
+mutant subunits. Osborne et al. (1977) showed that
+parents of one PNP-deficient child expressed some immunoreactive PNP (14% of total) which migrated at a
+position in native gels which is consistent with trimers
+composed of mixtures of mutant and normal subunits.
+The PNP activity of the parents was between onequarter and one-third of normal. One can postulate
+that the mixed heterotrimers were responsible for the
+parents' PNP activity being less than half of normal.
+This finding contrasts with our results. The two mutations (substitutions at amino acid positions 128 and
+234) which cause lack of enzyme activity do not result
+in accumulation of any immunoreactive material in
+the patient's or mother's cells. On isoelectric-focusing
+gels, PNP from the patient's mother runs as a single
+normal band. In isoelectric focusing, heterotrimers
+containing normal and mutant subunits should have
+been detected by the presence of an additional band(s)
+located closer to the cathode than the normal trimer
+(Williams et al. 1987). Presumably, the mutant PNP
+is rapidly degraded. Perhaps because of this, the PNP
+activity of maternal cell lysates is approximately half
+of normal, not less than this.
+It is interesting to correlate the known PNP mutations with the clinical data on patients. Although early
+reports suggested that B-cell function was normal or
+increased in PNP deficiency, more recent studies have
+shown that B-cell function can be disrupted as well
+(Markert 1991). This is the case with patient TP. She
+has had normal B-cell counts but significantly depressed immunoglobulin levels (Markert et al. 1 987a).
+In contrast, the only other patient whose molecular
+defect has been characterized had normal B-cell function (Giblett et al. 1975). The immunologic differences between these patients may be secondary to
+genes other than PNP which vary between the two
+patients.
+In summary, TP is only the second patient whose
+PNP deficiency has been characterized at the molecular level. We identified one point mutation which does
+
+not disrupt the protein's enzymatic activity and immunoreactivity and which may reflect a polymorphism
+within the population. In addition, we found two new
+point mutations within the PNP gene which result in
+proteins without enzymatic function. Although immunoreactivity was found in lysates of cells transfected
+with the mutant alleles, the patient's cells had no detectable immunoreactive PNP protein. This implies
+that these mutant proteins may be rapidly degraded in
+the cell.
+
+Acknowledgments
+This research was supported by the following grants: National Institutes of Health research grant AI-23791 and
+training grant 5T32-AI-07062, a RJR Nabisco Research
+Scholars Award, Basil O'Connor Starter Scholar Research
+Award 5-691 from the March of Dimes Birth Defects Foundation, North Carolina Biotechnology grant 87-G02306, an
+Alexander Worth McAlister Foundation, Inc. grant, American
+Cancer Society Institutional Research grant IN-158C, and
+Clinical Research Unit grant M01-RR-30 from the Division
+of Research Resources, General Clinical Research Centers
+Program, National Institutes of Health. M.L.M. is a member of the Duke Comprehensive Cancer Center.
+
+References
+Agarwal RP, ParksJr RE (1969) Purine nucleoside phosphorylase from human erythrocytes. IV. Crystallization and
+some properties. J Biol Chem 244:644-647
+Ammann AJ, Wara DW, Allen T (1978) Immunotherapy
+and immunopathologic studies in a patient with nucleoside phosphorylase deficiency. Clin Immunol Immunopathol 10:262-269
+Anderson MA, Gusella JF (1984) Use of cyclosporin A in
+establishing Epstein-Barr virus-transformed human lymphoblastoid cell lines. In Vitro 20:856-858
+Avis H, Leder P (1972) Purification of biologically active
+globin messenger RNA by chromatography on oligothymidylic acid-cellulose. Proc Natl Acad Sci USA 69:14081412
+Bradford MM (1976) A rapid and sensitive method for the
+quantitation of microgram quantities of protein utilizing
+the principle of protein-dye binding. Anal Biochem 72:
+248-254
+Carapella-de Luca EC, Aiuti F, Lucarelli P, Bruni L, Baroni
+CD, Imperato C, Roos D, et al (1978) A patient with
+nucleoside phosphorylase deficiency, selective T-cell deficiency, and autoimmune hemolytic anemia. J Pediatr 93:
+1000-1003
+Carson DA, Kaye J, Seegmiller JE (1977) Lymphospecific
+toxicity in adenosine deaminase deficiency and purine nu-
+
+Point Mutations in PNP Deficiency
+cleoside phosphorylase deficiency: possible role of nucleoside kinase(s). Proc Natl Acad Sci USA 74:5677-5681
+Chirgwin JM, Przybyla AE, MacDonald RJ, Rutter WJ
+(1979) Isolation of biologically active ribonucleic acid
+from sources enriched in ribonuclease. Biochemistry 24:
+5294-5299
+Cooper DN, Krawczak M (1990) The mutational spectrum
+of single base-pair substitutions causing human genetic
+disease: patterns and predictions. Hum Genet 85:55-74
+Cooper DN, Youssoufian H (1988) The CpG dinucleotide
+and human genetic disease. Hum Genet 78:151-155
+Corrales FB, Madero L, ZabayJM, Ludena MC, Gomez De
+La Concha E, Lozano C, Sainz T (1983) Deficit de purina
+nucleosido fosforilasa. An Esp Pediatr 18:248-253
+Didsbury J, Weber RF, Bokoch GM, Evans T, Snyderman
+R (1989) rac, a novel ras-related family of proteins that
+are botulinum toxin substrates. J Biol Chem 264:1637816382
+Ealick SE, Rule SA, Carter DC, Greenhough TJ, Sudhakar
+Babu YS, Cook WJ, Habash J, et al (1990) Three-dimensional structure of human erythrocytic purine nucleoside
+phosphorylase at 3.2 A resolution. J Biol Chem 265:
+1812-1820
+
+Feinberg AP, Vogelstein B (1983) A technique for radiolabeling DNA restriction endonuclease fragments to high
+specific activity. Anal Biochem 132:6-13
+(1984) Addendum: a technique for radiolabeling
+DNA restriction endonuclease fragments to high specific
+activity. Anal Biochem 132:266-267
+Fox IH, Andres CM, Gelfand EW, Biggar D (1977) Purine
+nucleoside phosphorylase deficiency: altered kinetic properties of a mutant enzyme. Science 197:1084-1086
+Giblett ER, Ammann AJ, Sandman R, Wara DW, Diamond
+LK (1975) Nucleoside-phosphorylase deficiency in a child
+with severely defective T-cell immunity and normal B-cell
+immunity. Lancet 1:1010-1013
+Greenberg ML, Chaffee S, Hershfield MS (1989) Basis for
+resistance to 3-deazaaristeromycin, an inhibitor of S-adenosylhomocysteine hydrolase, in human B-lymphoblasts.
+J Biol Chem 264:795-803
+Gubler U, Hoffman BJ (1983) A simple and very efficient
+method for generating cDNA libraries. Gene 25:263-269
+Gudas LJ, Zannis VI, Clift SM, Ammann AJ, Staal GEJ
+(1978) Characterization of mutant subunits of human purine nucleoside phosphorylase. J Biol Chem 253:89168924
+
+Gunning P, Ponte P, Okayama H, Engel J, Blau H, Kedes L
+(1983) Isolation and characterization of full-length cDNA
+clones for human a-, 1-, and y-actin mRNAs: skeletal but
+not cytoplasmic actins have an amino-terminal cysteine
+that is subsequently removed. Mol Cell Biol 3:787-795
+Gustafson S, Proper JA, Bowie EJW, Sommer SS (1987)
+Parameters affecting the yield of DNA from human blood.
+Anal Biochem 165:294-299
+Jonsson JJ, Williams SR, McIvor RS (1991) Sequence and
+functional characterization of the human purine nucleo-
+
+771
+side phosphorylase promoter. Nucleic Acids Res 19:
+5015-5020
+Katsuki T, Hinuma Y (1975) Characteristics of cell lines
+derived from human leukocytes transformed by different
+strains of Epstein-Barr virus. Int J Cancer 15:203-210
+Kredich NM, Hershfield MS (1989) Immunodeficiency diseases caused by adenosine deaminase deficiency and purine nucleoside phosphorylase deficiency. In: Scriver CR,
+Beaudet AL, Sly WS, Valle D (eds) The metabolic basis
+of inherited disease, 6th ed. McGraw-Hill, New York, pp
+1045-1075
+McCutchan JH, Pagano JS (1968) Enhancement of the infectivity of simian virus 40 deoxyribonucleic acid with
+diethylaminoethyl-dextran. J Natl Cancer Inst 41:351357
+McGinniss MH, Wasniowska K, Zopf DA, Straus SE,
+Reichert CM (1985) An erythrocyte Pr auto-antibody
+with sialoglycoprotein specificity in a patient with purine
+nucleoside phosphorylase deficiency. Transfusion 25:
+131-136
+McRoberts JA, Martin DW Jr (1980) Submolecular characterization of a mutant human purine-nucleoside phosphorylase. J Biol Chem 255:5605-5615
+Markert ML (1991) Purine nucleoside phosphorylase deficiency. Immunodefic Rev 3:45-81
+Markert ML, Hershfield MS, Schiff RI, Buckley RH (1987a)
+Adenosine deaminase and purine nucleoside phosphorylase deficiencies: evaluation of therapeutic interventions in
+eight patients. J Clin Immunol 7:389-399
+Markert ML, Hershfield MS, Wiginton DA, StatesJC, Ward
+FE, Bigner SH, Buckley RH, et al (1987b) Identification
+of a deletion in the adenosine deaminase gene in a child
+with severe combined immunodeficiency. J Immunol 138:
+3203-3206
+Mitchell BS, Mejias E, Daddona PE, Kelley WN (1978)
+Purinogenic immunodeficiency diseases: selective toxicity
+of deoxyribonucleosides for T cells. Proc Natl Acad Sci
+USA 75:5011-5014
+Osborne WRA, Chen S-H, Giblett ER, Biggar WD, Ammann AA, Scott CR (1977) Purine nucleoside phosphorylase deficiency: evidence for molecular heterogeneity in
+two families with enzyme-deficient members. J Clin Invest
+60:741-746
+Ponte P, Ng S-Y, Engel J, Gunning P, Kedes L (1984) Evolutionary conservation in the untranslated regions of actin
+mRNAs: DNA sequence of a human beta-actin cDNA.
+Nucleic Acids Res 12:1687-1696
+Ricciuti F. Ruddle FH (1973) Assignment of nucleoside
+phosphorylase to D-14 and localization of x-linked loci in
+man by somatic cell genetics. Nature New Biol 241:180182
+Saiki RK, Scharf S, Faloona F, Mullis KB, Horn GT, Erlich
+HA, Arnheim N (1985) Enzymatic amplification of 0-globin
+genomic sequences and restriction site analysis for diagnosis of sickle cell anemia. Science 230:1350-1354
+Sanger F, Nicklen S, Coulson AR (1977) DNA sequencing
+
+772
+with chain-terminating inhibitors. Proc Natl Acad Sci
+USA 74:5463-5467
+Siegenbeek Van Heukelom LH, Staal GEJ, Stoop JW, Zegers BJM (1976) An abnormal form of purine nucleoside
+phosphorylase in a family with a child with severe defective T-cell and normal B-cell immunity. Clin Chim Acta
+72:117-124
+Southern EM (1975) Detection of specific sequences among
+DNA fragments separated by gel electrophoresis. J Mol
+Biol 98:503-517
+Stoop JW, Zegers BJM, Hendrickx GFM, Siegenbeek van
+Heukelom LH, Staal GEJ, DeBree PK, Wadman SK, et al
+(1977) Purine nucleoside phosphorylase deficiency associated with selective cellular immunodeficiency. N Engl J
+Med 296:651-655
+Strobel S, Morgan G, Simmonds AH, Levinsky RJ (1989)
+Fatal graft versus host disease after platelet transfusions
+in a child with purine nucleoside phosphorylase deficiency. Eur J Pediatr 148:312-314
+Taylor JW, Ott J, Eckstein F (1985) The rapid generation
+of oligonucleotide-directed mutations at high frequency
+using phosphorothioate-modified DNA. Nucleic Acids
+Res 13:8765-8785
+Thomas PS (1983) Hybridization of denatured RNA transferred or dotted to nitrocellulose paper. Methods Enzymol 100:255-267
+Ullman B, Gudas LJ, Clift SM, Martin DW Jr (1979) Isolation and characterization of purine-nucleoside phosphorylase-deficient T-lymphoma cells and secondary mutants
+with altered ribonucleotide reductase: genetic model for
+immunodeficiency disease. Proc Natl Acad Sci USA 76:
+1074-1078
+
+Aust et al.
+Virelizier JL, Hamet M, Ballet JJ, Reinert P, Griscelli C
+(1978) Impaired defense against vaccinia in a child with
+T-lymphocyte deficiency associated with inosine phosphorylase defect. J Pediatr 92:358-362
+Wang L-M, Weber DK, Johnson T, Sakaguchi AY (1988)
+Supercoil sequencing using unpurified templates produced by rapid boiling. BioTechniques 6:839-843
+Watson AR, Evans DIK, Marsden HB, Miller V, Rogers PA
+(1981) Purine nucleoside phosphorylase deficiency associated with a fatal lymphoproliferative disorder. Arch Dis
+Child 56:563-565
+Wiginton DA, Kaplan DJ, States JC, Akeson AL, Perme
+CM, Bilyk IJ, Vaughn AJ, et al (1986) Complete sequence
+and structure of the gene for human adenosine deaminase.
+Biochemistry 25:8234-8244
+Williams SR, Gekeler V, McIvor RS, Martin DW Jr (1987)
+A human purine nucleoside phosphorylase deficiency
+caused by a single base change. J Biol Chem 262:23322338
+Williams SR, Goddard JM, Martin DW Jr (1984) Human
+purine nucleoside phosphorylase cDNA sequence and genomic clone characterization. Nucleic Acids Res 12:
+5779-5787
+Wortmann RL, Andres C, Kaminska J, Mejias E, Gelfand
+E, Arnold W, Rich K, et al (1979) Purine nucleoside phosphorylase deficiency: biochemical properties and heterogeneity in two families. Arthritis Rheum 22:524-531
+Zannis V, Doyle D, Martin DW Jr (1978) Purification and
+characterization of human erythrocyte purine nucleoside
+phosphorylase and its subunits. J Biol Chem 253:504510
+
+

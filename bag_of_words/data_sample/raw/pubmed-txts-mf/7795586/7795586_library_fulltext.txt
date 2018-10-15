@@ -1,0 +1,1766 @@
+© 1995 Oxford University Press
+
+Human Molecular Genetics, 1995, Vol. 4, No. 3
+
+341-349
+
+Mucopolysaccharidosis IVA: screening
+and identification of mutations of the
+N-acetylgalactosamine-6-sulfate sulfatase
+gene
+Tatsuya Ogawa*, Shunji Tomatsu, Seiji Fukuda, Atsushi Yamagishi,
+Golam Md. Maruf Rezvi, Kazuko Sukegawa, Naomi Kondo, Yasuyuki Suzuki,
+Nobuyuki Shimozawa and Tadao Orii
+Department of Pediatrics, Gifu University School of Medicine, 40 Tsukasa-machi, Gifu 500, Japan
+Received October 7, 1994; Revised and Accepted December 13, 1994
+
+Mutations causing mucopolysaccharidosis IVA in 15 Japanese and one Caucasian patient were characterized.
+To screen these mutations, we used a combination of single strand conformation polymorphism analysis and
+heteroduplex analysis for PCR products of targeted cDNA or genomic DNA. Various small mutations were
+identified in 23 of 26 alleles, while the other six alleles had large rearrangements. Cycle sequencing of PCR
+products revealed 15 different mutations, including 12 missense, one nonsense, one frame shift (2 bp deletion)
+and one splice site mutation, in accord with the broad range of clinical phenotypes. Two alleles have different
+mutations in the same nucleotide position of exon 3 (R94C, CGC->TGC; R94G, CGC->GGC), diagnosed by
+sequencing and by allelic-specific oligohybridization (ASO). One allele had two amino acid changes, E450V
+in exon 12 and V488M in exon 13, thereby indicating a double point mutation. All 16 mutations reported were
+confirmed by restriction enzyme assay or by allelic-specific oligohybridization. Transfection of mutagenized
+cDNAs into patients' fibrobiasts showed that all mutations caused completely deficient or markedly decreased
+N-acetylgalactosamine-6-sulfate sulfatase (GALNS) activity, thereby indicating that these mutations were
+responsible for the enzyme deficiency.
+
+INTRODUCTION
+N-acetylgalactosamine-6-sulfate sulfatase (GALNS, E.C.3.1.6.4)
+is a lysosomal enzyme related to glycosaminoglycan degradation. GALNS, also known as galactose-6-sulfate sulfatase
+(\-4), hydrolyzes the sulfate ester group of N-acetylgalactosamine-6-sulfate at the nonreducing end of chondroitin-6-sulfate,
+and that of galactose-6-sulfate at the nonreducing end of keratan
+sulfate (5,6). GALNS deficiency (mucopolysaccharidosis IVA)
+is an autosomal recessive disorder clinically divided into
+severe, intermediate and mild forms. The best known and the
+most severe form is so-called Morquio disease with typical
+classical features, including specific spondyloepiphyseal
+dysplasia, short trunk dwarfism, coxa valga, odontoid hypoplasia, corneal opacities, preservation of intelligence and
+excessive urinary excretion of keratan sulfate and chondroitin6-sulfate (7,8); death usually occurs in the second decade of
+life. The intermediate form is somewhat milder (9). In the
+mild form, there are only minimal symptoms of the disease
+with a potentially normal quality of life (10-13). It has been
+
+*To whom correspondence should be addressed
+
+Downloaded from https://academic.oup.com/hmg/article-abstract/4/3/341/588768
+by Reprints Desk user
+on 02 February 2018
+
+suggested that the clinical heterogeneity with a broad spectrum
+has different mutations within the GALNS gene (9-13).
+GALNS has been purified from human placenta to homogeneity
+and a polyclonal antibody against the enzyme has been
+developed (4,14). However, as it is difficult to distinguish
+among these subtypes by biochemical measurements of the
+enzyme activity, mutation research will provide an explanation
+for the clinical variation at the molecular level.
+Investigation into the molecular basis of MPS IVA patients
+has been facilitated by isolation and characterization of the
+full-length cDNA encoding human GALNS (15). Southern
+blot analysis showed one common rearrangement (16,17).
+Availability of the cDNA structure facilitated the analyses of
+the first two exonic mutations (1342delCA and N204K) causing
+severe and mild forms of MPS IVA (18). The genomic gene
+encoding GALNS has been isolated (19) and the chromosomal
+localization has been mapped (20-22). Knowledge of the exonintron structure makes it more feasible to detect various
+
+342
+
+Human Molecular Genetics, 1995, Vol. 4, No. 3
+
+mutations containing splice site mutations (23) or exon skipping
+from genomic DNA. Multiple polymorphisms have also been
+described (17,24-26; unpublished data).
+As part of our ongoing studies on the molecular basis of
+MPS IVA, we adopted a combined protocol of heteroduplex
+and SSCP analysis to facilitate a rapid and reliable detection
+of mutation and to avoid false negative results. To better
+understand the relationship of genotype to clinical phenotype
+and to study the distribution of mutations within the GALNS
+gene, we investigated 16 different small mutations in 17
+patients with MPS IVA.
+
+RESULTS
+Southern blots, PCR amplification, heteroduplex analysis
+and SSCP analysis
+Southern blot analysis was obtained using the GALNS cDNA
+probe and genomic probes with patients' genomic DNAs
+digested by BamHl, HindlU and EcoRL Six alleles (five
+patients) had some large rearrangements. A common, large
+structural rearrangement was indicated by the presence of
+identical abnormal fragments and restriction enzyme mapping.
+One patient (case 11) was homozygous and three patients
+
+Table 1. Primers for PCR amplification of genomic DNA
+Primer name
+
+Segment*
+
+Oligonucleotide
+
+Fragment length
+
+5' CGGGGCTCCGCGGCTCCCGTGGTTG 3'
+5' CTGCCCCGTCCCACCGCCCGCACTC3'
+
+171bp
+
+168bp
+
+Exon 1
+OMF139
+OMF110
+
+Sense, - 2 7 — 3 "
+Antisense, + 27—+3
+Exon 2
+
+OMF113
+
+Sense, - 2 7 — 3
+
+5' TCCTCCTCCCCGTGCTCTTCCCTGC 3'
+
+OMF114
+
+Antisense, +27—+3
+
+5' CTGGGGGCGAGGGCCOOGCTGACTT 3'
+
+Exon 3
+OMF115
+OMF134
+
+Sense,-103—79
+Antisense, +99—+75
+
+OMF148
+
+Exon 4
+Sense,-174 — 1 5 0
+Antisense, + 27—+3
+
+OMF119
+
+Exon 5
+Sense, - 6 7 — 4 3
+
+OMF147
+
+5' CTCGTCTGTCACGCGTCTGTCTACT3'
+5' CAGCTTGCCACCCGAGTCCCGGAGA 3'
+
+277bp
+
+5' AATCTTGGGAAGTGCCATGCCCTGT 3'
+
+304bp
+
+5' CTGGGCAGGCGTGGCCAGGAGACTT 3'
+5' TTGCTGCTCAGAACTTCCGAGTGTC 3'
+5' CCAGGCAGGAGCCACATAGGCTCTG 3'
+
+OMF121
+
+Antisense, +200—+176
+Exon 6
+Sense,-170—146
+
+OMF122
+
+Antisense, +106—+82
+
+5' ACGGGGTGAGGTTGATGCGTTCCTG 3'
+
+OMF120
+
+5' ATGATCCACCTTCCACAGCCTCACA 31
+
+411 bp
+
+344bp
+
+Exon 7
+OMF123
+OMF124
+
+Sense, - 2 7 — 3
+Antisense, +200—+176
+
+5' AGGACGACAGTGTGTCTCTCTCCAT3'
+
+353bp
+
+5' TGGCTTATGAAGGACAGAGCCAGCA3'
+
+Exon 8
+OMF125
+OMF126
+
+Sense,-130—106
+Antisense, +59—+35
+
+5' GCCAGTTTCACTGTGGTCTGTGAAG 3'
+5' CACTCTTCGCTGACACGCTGGCTGT3'
+
+329bp
+
+5' ACATCTGGTCCCAGTGGCCTGACAA 3'
+
+189bp
+
+Exon 9
+OMF135
+OMF145
+OMF127
+OMF128
+
+Sense, - 4 1 — 1 7
+Antisense, +43—+19
+Exon 10
+Sense,-124 — 1 0 0
+Antisense, +117—+93
+
+5' AGGCCTGGACCTGCTGCCGGCAGAC 3'
+51 GCGTGTGAGCATGTATGCATATCTG 3'
+
+378bp
+
+5' AGCACGCCTATGTCCAGAACGAGGA 3'
+
+Exon 11
+OMF129
+
+Sense, - 1 2 5 — 1 0 1
+
+51 GTAAAGTATCAACCAAGACCTCACG 3'
+
+OMF130
+
+Antisense, +64—+40
+
+5' CTCAGGGCCACGTCTGATAGAGATG 3'
+
+290bp
+
+Exon 12
+Sense, -33—-9
+Antisense, +46—+22
+
+5' CTCCAGGACACACCTrCCCTCTTCTS1
+5' TCCGGCTGGCACTGCTCAGCAGCCA 3'
+
+200bp
+
+OMF138
+OMF142
+OMF143
+
+Exon 13
+Sense,-91—67
+Antisense, +46—+22
+
+5' TAGAGCTCTGCAGCCTCAGCCTGTC 31
+5' CCCTGTGCTGGCCACGGTTCATCCT3'
+
+295bp
+
+5' TTGACAAGAGTGAGACTGTCTCAGA3'
+5' CTGCGTCTGCAGGTGCTGTCTGTCT31
+
+323bp
+
+OMF137
+
+OMF133
+OMF14
+
+Exon 14
+Sense, -110—-86
+Antisense, + 1 2 9 — + 1 0 5 * * *
+
+•Numbered from each intron/extron junction according to Nakashima el al. (1994) (19).
+**1 is the adenine of the initiator Met codon according to Tomatsu et al. (1991) (15).
+*** 1 is the guanine of the stop codon.
+
+Downloaded from https://academic.oup.com/hmg/article-abstract/4/3/341/588768
+by Reprints Desk user
+on 02 February 2018
+
+Human Molecular Genetics, 1995, Vol. 4, No. 3 343
+(cases 9, 10 and 12) were heterozygous for this rearrangement
+(data will be reported in detail elsewhere). In another allele, a
+different large rearrangement was suggested by gene dosage
+(case 8, manuscript in preparation).
+Oligonucleotide primers were used to amplify all coding
+regions of the GALNS gene in all 14 exonic fragments (Table
+1, Fig. 1). The 26 alleles in 16 patients were of an apparently
+identical size, as were ones from controls in all 14 exons
+amplified from genomic DNA. For these alleles, heteroduplex
+analysis and SSCP analysis by MDE gel were made. The
+SSCP pattern of some exon-fragments in patients showed a
+clear, abnormal mobility, compared to control (data not shown).
+Altered SSCP bands were observed for other fragments and
+are summarized (Table 2). The heteroduplex analysis also
+revealed bands with an abnormal mobility (data not shown),
+and as expected, the most striking example was the sample
+where the heteroduplexes were presumed to contain 'a bubble'
+due to a 2 bp deletion. Addition of control DNA product
+
+* (bp)
+
+Figure 1. PCR amplification of all exons (1-14). Normal control genomes
+were used for templates. All were amplified using the same protocol (described
+in the text).
+
+to each patient's PCR fragment enhanced the appropriate
+differences, compared to control, in some patients homozygous
+for the mutation (IVSlnt-2) or apparently hemizygous (i.e.,
+each patient is heterozygous for one point mutation, while the
+other allele was confirmed to be a large deletion, by Southern
+blotting; Q148X, P151S, V138A, R386C: to be reported
+elsewhere). Under the single SSCP conditions we used, we
+detected 13 previously uncharacterized and two known different mutations. All 15 mutations could be clearly distinguished
+from the wild type. In contrast, 9 of 15 mutations [11 (42%)
+of 26 alleles] were distinguishable from the wild type, by
+heteroduplex analysis. With use of the MDE gel, SSCP proved
+to be a more efficient technique with high sensitivity and
+specificity, compared tofindingswith the heteroduplex analysis.
+As a result, in the 25 of 28 alleles investigated (89%), 15
+kinds of mutations were identified using this screening system.
+Sequence analysis of positive fragments
+PCR fragments with an abnormal mobility were further studied
+by subcloning in T-vector and cycle sequencing, and 15 various
+kinds of mutations causing this disorder were determined
+(11 kinds of polymorphic nucleotide substitutions were also
+observed and only one of 11 polymorphisms had an altered
+amino acid sequence) (24—26; unpublished data).
+Sequence analysis revealed 13 point mutations in 12 cases,
+one 2 bp deletion in two cases and one splice site mutation in
+one sibling (Fig. 2). In severe cases 1 to 9, 11 kinds of small
+mutations (9 exonic point mutations, one 2 bp deletion and
+one splice mutation) were detected. The 2 bp deleted mutation
+found was 1342delCA, seen as a homozygous state in case 3
+(previously reported case) and as a compound heterozygote in
+case 4. The deletion of 2 bp CA residues at cDNA base
+positions 1343 and 1344 resulted in a frameshift mutation and
+the resulting frame in the 1342delCA allele was altered after
+the His codon until a stop codon was reached at position 1558
+to 1560 (TGA) (18). The IVSlnt-2 mutation was the only
+
+Table 2. Mutations in the human GALNS gene
+Restriction
+Exon/
+
+Base
+
+Codon
+
+Heteroduplex
+
+SSCP
+
+site
+
+change
+
+change
+
+analysis
+
+analysis
+
+alternation ##
+
+ASO
+
+Population
+
+Reference
+
+Acceptor splice
+
+negative
+
+positive
+
+Fokl(t)
+
+positive
+
+Japanese
+
+Tomatsu et al. (1994)
+present study
+
+Mutation
+
+intron
+
+IVS1nt-2
+
+11
+
+-
+
+R94C
+
+E3
+
+94
+
+CGC-TGC
+
+Arg—Cys
+
+positive
+
+positive
+
+Fok I (-)
+
+positive
+
+Caucasian
+
+R94G
+
+E3
+
+94
+
+CGC-GGC
+
+Arg-Gly
+
+positive
+
+positive
+
+Fok I (•)
+
+positive
+
+Japanese
+
+present study
+
+V138A
+
+E4
+
+138
+
+GTC-GCC
+
+Val-Ala
+
+negative
+
+positive
+
+Nae I (+)
+
+not done
+
+Japanese
+
+in preperation*
+
+O148X
+
+E5
+
+148
+
+CAG-TAG
+
+Gin—Ter
+
+positive
+
+positive
+
+Mae I(+)
+
+not done
+
+Japanese
+
+in preperation*
+
+P151S
+N204K
+
+E5
+
+151
+
+OCC-TCC
+
+Pro—Ser
+
+positive
+
+positive
+
+E6
+
+204
+
+AAC—AAG
+
+Asn—Lys
+
+positive
+negative
+
+positive
+
+Fukuda et al. (1992) (18)
+
+Codon #
+
+site error
+
+Alu l(+)
+
+not done
+
+Japanese
+Japanese
+
+in preperation*
+
+M318R
+
+E9
+
+318
+
+ATG—AGG
+
+Met—Arg
+
+positive
+
+positive
+
+Fok I (-)
+
+not done
+
+Japanese
+
+present study
+
+M343R
+
+E10
+
+343
+
+ATG-TTG
+
+Met-Arg
+
+positive
+
+positive
+
+Nlam (•)
+
+not done
+
+Japanese
+
+present study
+
+D344N
+
+E10
+
+344
+
+GAC-AAC
+
+Asp—Asn
+
+negative
+
+positive
+
+Cfr 13 l(-)
+
+not done
+
+Japanese
+
+present study
+
+F346L
+
+E10
+
+346
+
+TTC-TTA
+
+Phe—Leu
+
+positive
+
+positive
+
+not done
+
+Japanese
+
+R386C
+
+E11
+
+386
+
+CGT-TGT
+
+Arg—Cys
+
+negative
+
+positive
+
+Msel(+)
+Dsal(-)
+
+1342delCA
+
+E12
+
+430
+
+CAC—C
+
+Frameshift,
+
+positive
+
+positive
+
+positive
+
+Japanese
+
+present study
+in preperation*
+
+positive
+
+Japanese
+
+Fukuda et al. (1992) (18)
+
+positive
+
+Japanese
+
+present study
+
+positive
+
+Japanese
+
+present study
+
+premature
+termination
+E450V
+
+E12
+
+450
+
+GAG-GTG
+
+Glu—Val
+
+positive
+
+positive
+
+V488M"
+
+E13
+
+488
+
+GTG—ATG
+
+Val-Met
+
+negative
+
+positive
+
+#Codon number from the translation start.
+##Restriction endonuclease recognition site created (+) or eliminated (-) by the mutation.
+*To be reported in detail elsewhere.
+**Polymorphism.
+
+Downloaded from https://academic.oup.com/hmg/article-abstract/4/3/341/588768
+by Reprints Desk user
+on 02 February 2018
+
+Nspl(+)
+
+344
+
+Human Molecular Genetics, 1995, Vol. 4, No. 3
+CCCATCTGCAATGGC
+
+C)
+
+GGAGGGAGGAGGGAG
+
+1,
+1
+ii
+
+M318R
+T
+i
+
+Case 16
+mutation : R94C
+330
+
+Case 13
+mutation : R94G
+330
+
+I
+
+I
+
+wild:
+
+CCC ATC CGC AAT GGC
+Arg
+92—Pro lie
+Asn Gly
+Cys
+mutantCCC ATC TGC AAT GGC
+
+Case7
+mutation : M318R
+
+1010
+
+CCCATCCGCAATGGC
+Arg
+92—Pro lie
+Asn Gly
+Gly
+mutant:CCC ATC G.GC AAT GGC
+
+f>
+
+GACCTCTTAACCACC
+
+I
+
+t
+
+F346Lf;
+ii
+
+1 !'•!!
+
+I ^
+
+':
+
+ii
+
+II- M1 =1 p.jjjjl
+
+I
+
+wild:
+
+GGA GGG AIG AGG GAG
+Met
+316—Gly Gly
+Arg Glu
+Arg
+mutant:GGA GGG AQG AGG GAG
+
+g)
+
+CCAGGGGTGAGGTTC
+
+111
+
+M343RII k <\l I!'!
+
+CaseS
+mutation : M343R
+1080
+wild:
+
+I
+
+AGCATCATGGACCTC
+Met
+341—Ser He
+Asp Leu
+Arg
+mutant:AGC ATC 1TG GAC CTC
+
+h) CTCAACATGTGCAAC
+V488M
+
+I : 1
+II :'
+ll
+It!
+ll
+"i ,ll
+
+II!
+
+"M
+Case4
+mutation : D344N
+1080
+
+I
+
+1
+«All
+
+MrapAi I
+
+wild:
+
+AGCATCTTGGACCTC
+
+'ll'
+
+CaseS
+mutation : F346L
+1090
+
+I
+
+wild: ATC ATG GAC CTC TTC wild: GAC CTC TTC ACC ACC
+Asp
+Phe
+342—lie Met
+Leu Phe
+344—Asp Leu
+Thr Thr
+Asn
+Leu
+mutant:ATC ATG AAC CTC TTC mutant:GAC CTC TTA ACC ACC
+
+\
+'1
+I
+
+''Id
+
+M life
+
+Case6
+mutation : E450V
+1400
+
+Case6
+mutation : V488M
+
+1520
+I1
+wad: CCA GGG GAG AGG TTC wild: CTC AAC GTG TGC AAC
+Glu
+Val
+486—Leu Asn
+Cys Asn
+448—Pro Gly
+Arg Phe
+Val
+Met
+mutant:CCA GGG GTG AGG TTC mutant:CTC AAC ATG TGC AAC
+
+1
+
+Figure 2. Identification of point mutations in GALNS-gene exons of eight MPS IVA patients. Each amplified DNA fragment was subcloned and sequenced on
+both strands by fluorescent dye primer cycle sequencing and analysis on an automated DNA sequencer. Sequencing diagrams covering positions of each
+nucleotide alteration are shown. The nucleotide sequences are given above the graphs. Only the mutant sequence is shown; the position of each mutation is
+marked with an arrowhead (panels a-d). In the lower half of each panel, wild-type and mutant nucleotide and amino acid sequences are given (amino acid
+numbering is on the left, and nucleotide numbering is above the normal sequences).
+
+splice site mutation of all mutations studied in the GALNS
+gene (23).
+The seven exonic point mutations found in severe patients
+were D344N, M343R, F346L, M318R, R386C, Q148X and
+P151S. Both the E450V and V488M point mutations were
+observed on the same allele in the case 6 patient, and confirmed
+by genomic DNA and further mutant cDNA sequencing. Only
+the mother was found heterozygous for this double point
+mutation, determined by sequence analysis of the cDNA
+product; the father had neither E450V nor V488M mutations.
+Another mutation on the other allele remains to be identified
+as no other abnormal band containing a mutation was detectable. In two intermediate cases (12 and 13), two different
+kinds of point mutations other than the N204K mutation
+defining a mild case were detected; the first one, VI38A (case
+12), was a T to C substitution resulting in a Val (GTC) replaced
+by an Ala (GCC) at codon 138; the second one, R94C (case
+13) was a C to T substitution resulting in an Arg (CGC) to
+
+Downloaded from https://academic.oup.com/hmg/article-abstract/4/3/341/588768
+by Reprints Desk user
+on 02 February 2018
+
+Cys (TGC) change at codon 94 and the third one was R94G,
+another C to G substitution causing an Arg (CGC) to Gly
+(GGC) change at codon 94 at the same nucleotide position as
+the R94C. The second R94C mutation was also observed in
+case 16 with an atypical type and a 2-3% residual activity
+of GALNS.
+In Japanese brothers with mild type (cases 14 and 15) with
+a 2-3% residual activity, the N204K mutation was seen as a
+homozygous state (previously reported case). This N204K
+change was also detected in a heterozygous state in one
+Japanese patient with an intermediate form and harboring
+R94G on the other allele.
+Restriction enzyme analysis
+After complete sequencing of the PCR products, restriction
+enzyme analysis or/and allelic-specific oligonucleotide hybridization were done to confirm the mutation and to screen other
+patients' PCR products for these known mutations.
+
+Human Molecular Genetics, 1995, Vol. 4, No. 3 345
+
+a)
+
+case 7
+r
+
+Fokl
+
+]
+
+123 bp
+ladder
+
+b) Nspl
+
+case 6
+
+123 b p
+
+ladder
+
+(bp)
+
+295-
+
+190107-
+
+82-
+
+105-
+
+case 16
+
+C)
+
+121-
+
+Figure 3. Restriction-enzyme analysis of the mutations. PCR-amplified genomic DNA segments were incubated, with or without the restriction enzymes, as
+indicated,and the products were analyzed on an 8% polyacrylamide gel. Negative prints of ethidium bromide-stained gels are presented. The symbols of minus
+(—) and plus ( + ) show undigested and digested samples, respectively. N means normal controls, (a) The M318R mutation is produced by T to G transversion
+abolishing Fold site ( G G A T G - K J G A G G ) . For the normal allele, two fragments of 107 bp and 82 bp are shown and in the mutant allele, only a 189 bp was
+detected. The presence of three fragments of 82, 107 and 189 bp revealed a heterozygous state (case 7). (b) The G to A transition led to V488M alteration
+creating a Nspl restriction site (CGTG->CATG). The absence of this restriction site makes for a single 295 bp fragment of 190 bp and 105 bp (case 6). (c) This
+Fokl
+site
+is
+abolished
+by
+a
+different
+single
+nucleotide
+substitution
+at
+the
+same
+position,
+nt
+336
+(C to T or C to G alteration). In the normal control and, after Fold digestion, the 277 bp fragment was divided into two fragments of 156 bp and 121 bp and
+in both mutant alleles (R94C and fragments of 121, 156 and 277 bp, as a heterozygote.
+
+The M318R mutation destroys the site at which Fokl cleaves
+the 189 bp segment to 107 bp and 82 bp (Fig. 3a). The V488M
+alteration creates a Nspl restriction site, at which a 295 bp
+segment is divided into 190 bp and 105 bp (Fig. 3b). Other
+data on restriction enzyme analysis of each mutation, except
+the R94C, R94G and IVSlnt-2 mutations, indicated that it was
+feasible to detect a one base substitution (data not shown).
+The R94G and R94C mutations in cases 13 and 16 patients,
+respectively, had the same Fok I (4NNNNNNNNNCATCC-)
+restriction enzyme digestion pattern, heterozygously, deter-
+
+Downloaded from https://academic.oup.com/hmg/article-abstract/4/3/341/588768
+by Reprints Desk user
+on 02 February 2018
+
+mined using PCR-amplified genomic fragments in exon 3
+(Fig. 3c). Different single base substitutions for both mutations
+(from sequencing data) were found at the same position
+(R94C: -CGC-->-TGC-, R94G: -CGC-->-GGC-). Therefore,
+these two mutations could not be distinguished using only
+newly destroyed Fokl, although allelic-specific oligohybridization (ASO) analysis did lead to identification of this one base
+mismatch (see below).
+IVSlnt-2 (ag->gg) produced the novel Fokl site (GGATGNNNNNNNNNX), but the created Fokl site could not be
+
+346
+
+Human Molecular Genetics, 1995, Vol. 4, No. 3
+<
+3
+
+S3
+
+on
+
+g
+
+to
+
+gs
+
+2 >2S
+
+s
+
+V iill
+
+8
+
+Jill III
+10
+
+11
+
+12
+
+13
+
+14
+
+Figure 4. Location of mutations in the GALNS gene. The fourteen boxes represent each exon of the GALNS gene, according to the numbering.
+
+recognized clearly, as another Fokl site existed at position of
+5 bp downstream of the new site (ggATGGGATGNN N N I N N N N N I ) . TO confirm this mutation, ASO analysis
+was also done (see below).
+Allelic-specific oligohybridization analysis
+Amplified genomic DNA was examined for confirmation of
+the precise genotype by means of ASO, using the dot blot
+method, if there were no altered recognition sites in the area
+of mutations (P151S, 1342delCA and E450V) or there was
+difficulty in detecting mutations by restriction enzyme analysis
+(IVSlnt-2, R94C and R94G) (data not shown).
+An amplified DNA sample in exon 5 from case 10 with
+P151S and double gene deletion was found specifically to
+hybridize with the PI5IS mutation-specific oligonucleotide
+but not to hybridize with the nominal-specific oligonucleotide,
+indicating that the patient seemed to be a homozygote for this
+allele (detailed analysis will be reported elsewhere). DNA
+sample from the case 6 patient with the double point mutation
+of E450V and V488M was hybridized with normal and mutant
+ASO probes (O-3, 4, 5 and 6) shown as a heterozygote.
+PCR products from sibling cases 1 and 2 with IVSlnt-2
+were hybridized only to the mutant ASO sequence (0-2), and
+these two cases were homozygous for this mutant allele, as
+identified by sequencing (23).
+Although restriction enzyme analysis could not separate the
+R94C mutation in case 16 from the R94G mutation in case
+13 because of the same mutational nucleotide position, dot
+blot analysis could define these two mutations using each
+mutant-specific oligonucleotide. Each amplified DNA sample
+from cases 13 and 16 patients tested positive for the R94G or
+R94C mutation-specific ASO probe, respectively. The ASO
+probe to the normal sequence at this nucleotide position also
+hybridized with these DNA samples, indicating a heterozygote
+for each mutant allele. Enzyme restriction analysis and ASO
+hybridization revealed that none of the above mutations were
+present in 50 normal chromosomes but were present in
+MPSIVA chromosomes.
+Expression of mutagenized cDNA
+cDNAs, each bearing only one of the 15 identified exonic
+mutations, were constructed from the normal cDNA, using
+in vitro mutagenesis. GALNS-deficient fibroblasts transfected
+by the pCAGGS vector carrying GALNS cDNA constructs of
+the 15 different mutations failed to express GALNS activity.
+GALNS-deficient fibroblasts transfected with normal GALNS
+
+Downloaded from https://academic.oup.com/hmg/article-abstract/4/3/341/588768
+by Reprints Desk user
+on 02 February 2018
+
+Table 3. Activity of GALNS in transfected enzyme-deficient fibroblasts
+Plasmid
+
+Control fibroblast
+Deficient fibroblast
+pMF(R94C)
+pMF(R94G)
+pMF(V138A)
+pMF(Q148X)
+pMF(P151S)
+pMF(N204K)
+pMF(M318R)
+pMF(M343R)
+pMF(D344N)
+pMF(F346L)
+pMF(R386C)
+pMF(1342delCA)
+pMF(E450V)
+pMF(V488M)
+pMF(Normal)
+
+GALNS activity'
+(nmol/mg protein/h)
+18.1
+1.3
+0.1
+0.1
+0.1
+0.2
+0.3
+0.1
+0.2
+0.3
+0.1
+0.3
+0.7
+0.1
+1.8
+15.8
+17.4
+
+^Transient assay for all normal or mutant vectors was confirmed in two
+independent experiments. GALNS activity shown in this table is average of
+two transfected assays.
+
+cDNA and V488M construct had nearly the same level of
+activity as seen in the normal control fibroblasts, thereby
+suggesting that V488M is a silent polymorphism.
+There were no clear differences observed among other
+different mutations in multiple independent experiments,
+except for one mutation (V488M) (Table 3).
+
+DISCUSSION
+The positions of the mutations in GALNS are shown in Figure
+4. The mutations so far identified in MPS IVA patients are
+spread evenly throughout the coding region of the GALNS
+gene. No single small mutation has been found to account for
+a large fraction of the MPS IVA cases in the Japanese
+population, thereby implying that there is no definite mutational
+hot spot. Simple screening methods combined with PCR,
+SSCP and heteroduplex analysis have also been developed for
+identification of single base mismatches or small rearrangements. Thus, one can rapidly screen the entire GALNS gene
+to localize the mutation to a specific exon. This can then be
+followed by cycle sequencing of that exon and exon/intron
+junction to identify the mutation.
+
+Human Molecular Genetics, 1995, Vol. 4, No. 3 347
+Table 4. Phenotype/genotype summary of MPS IVA mutations
+
+Case
+No.
+
+Phenotype
+
+1
+2
+3
+4
+5
+
+severe
+severe
+severe
+severe
+severe
+
+6
+7
+8
+9
+
+severe
+severe
+severe
+severe
+severe
+severe
+intermediate
+intermediate
+mild
+mild
+
+10
+11
+12
+13
+14
+15
+16
+
+unknown
+(atypical)
+
+Genotype
+
+Sex
+
+IVS1nt-2/ IVS1nt-2
+IVS1nt-2/ IVS1nt-2
+1342delCA/ 1342delCA
+1342delCA/ D344N
+
+F
+M
+F
+M
+
+M343R / F346L
+
+F
+M
+F
+M
+M
+M
+
+E450V / ?
+M318R/ ?
+R386C/ large deletion
+double deletion / Q148X
+double deletion/ P151S
+double deletion / double deletion
+double deletion/ V138A
+R94G / N204K
+N204K/ N204K
+N204K/ N204K
+R94C/ ?
+
+The use of heteroduplex analysis or SSCP analysis with
+MDE gel facilitated the detection of small mutations. However,
+SSCP analysis identified 15 mutations derived from 23 alleles
+(23/26:88%). On the other hand, heteroduplex analysis revealed
+nine different mutations, present in 11 of 26 alleles (11/
+26:42%). These results indicate that SSCP was a more efficient
+method of screening for small mutations in the GALNS gene,
+using this unique gel.
+Additionally, 11 polymorphic nucleotide substitutions were
+also detected with this system and some were informative for
+haplotype analysis to provide important information on the
+origin and distribution of known mutations and carrier
+diagnosis with undetermined mutations (data not shown).
+Eleven of 15 of these mutations had an altered restriction
+enzyme site; therefore PCR amplification of the target DNA
+followed by restriction enzyme digestion proved to be rapid
+and such known mutations could be easily detected. Screening
+for the other mutations with no change in the restriction
+enzyme site or the R94C and R94G mutations at the same
+nucleotide position was effectively facilitated by ASO analysis.
+After detecting mutations, the phenotypic characterization
+of some mutations was inferred from clinical properties of
+homozygous patients, or of heterozygous patients with other
+characterized mutations. Homozygotes for the new mutations
+would be expected to be rare in a randomly breeding population
+but were encountered in consanguineous patients of our study.
+Severe sibling cases 1 and 2 were homozygous for IVS1 nt-2,
+severe case 3 for 1342delCA and mild sibling cases 14 and
+15 for N204K, respectively (Table 4). Moreover, in the severe
+case 11 patient in whom a double gene deletion was present
+in both alleles, no functional GALNS activity or mRNA could
+be defined, thereby suggesting that this large rearrangement
+
+Downloaded from https://academic.oup.com/hmg/article-abstract/4/3/341/588768
+by Reprints Desk user
+on 02 February 2018
+
+M
+M
+M
+M
+M
+M
+
+Age
+at
+diagnosis
+
+Enzyme
+activity
+
+4 y.o.
+1 y-Q.
+20 y.o.
+12 y.o.
+36 y.o.
+3 y.o.
+1 y.o.
+4 y.o.
+4 y.o.
+3 y.o.
+5 y.o.
+6 y.o.
+16 y.o.
+25 y.o.
+29 y.o.
+12 y.o.
+
+3%
+
+Consanguinity
+
+Population
+
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Japanese
+Caucasian
+
+would define a severe form. From these observations of
+homozygous mutations, the phenotype was assumed when
+another mutation was in heterozygous combination with the
+1342delCA, N204K, IVS 1 nt-2 or double gene deletion
+mutation.
+Sulfatase family cDNAs such as human GALNS, IDS (28),
+G6S (29), ARSA (30), ARSB (31), ARSC (32) and ARSU
+(33) have been isolated and the amino acid sequences were
+compared. There was a striking sequence homology (around
+30%), especially in N-terminal (residues 31-144), the central
+(residues 225-365) and the C-terminal (residues 438^150). It
+has been suggested that highly homologous regions are necessary for the maintenance of the common sulfatase, while nonhomologous regions are important for transmembrane domains,
+glycosylation, internal proteolysis and substrate binding (15).
+Eight point mutations affected amino acids conserved in
+more than three of seven sulfatases (R94C, R94G, V138A,
+P151S, M343R, D344N, F346L and E450V), while the other
+six point mutations were detected in non-conserved regions.
+Conserved amino acids regions are functionally more essential than non-conserved regions and it was speculated that the
+occurrence of mutations in a highly homologous region might
+give rise to severely affected patients (34). The present
+identification of mutations such as R94C, R94G and VI38A
+causing milder MPS IVA in a conserved region provides
+further insight into this controversy. As the substitution of
+arginine for cysteine is from a basic hydrophobic amino acid
+to a neutral hydrophobic one, with small change of secondary
+structure, the GALNS protein structure is expected to change
+slightly.
+Therefore, even in a conserved region, the determinant
+factor for phenotypic characteristics relates not only to a
+
+348
+
+Human Molecular Genetics, 1995, Vol. 4, No. 3
+
+Table 5. Primers for ASO
+Primer name
+< IVS1M-2 >
+0-1: Probe A (normal)
+O-2: Probe G(IVS1nt-2)
+< R94C and R94G >
+O-7: Probe C (normal)
+0-8: Probe T (R94C)
+0-9: Probe G(R94G)
+< P151S>
+0-10: Probe C (normal)
+0-11: Probe T(P151S)
+< R386C >
+0-12: Probe C (normal)
+O-13: Probe T (R386C)
+< 1342delCA>
+O-14: Probe CA (normal)
+0-15: Probe Del (1342delCA)
+< E450V >
+O-3: Probe A (normal)
+0-4: Probe T (E450V)
+< V488M >
+0-5: Probe G (normal)
+O-6: ProbeA(V488M)
+
+Oligonucleotide
+
+Tm CC)*
+
+5' TTCCCTGCAGATGGGAT 3'
+5' ATCCCATCCGCAGGGAA 3'
+
+52
+54
+
+5' TACCCATCCGCAATGGC 3'
+5' GCCATTGCAGATGGGTA3'
+5' TACCCATCGGCAATGGC 3'
+
+54
+52
+54
+
+5' AGTTCCACCCCCTGMG 3'
+5' CTTCAGGGAGTGGMCT3'
+
+54
+52
+
+1
+
+5' TCTATTACCGTGGCGAC3
+5' GTCGCCACAGTAATAGA3'
+
+52
+50
+
+5' GTCACAACTCACAATCTGG 3'
+5' GTCACAACTCAATCTGG 3'
+
+56
+50
+
+5' CCCAGGGGAGAGGTTCC 3'
+5' CCCAGGGGTGAGGTTCC3'
+
+58
+58
+
+5' AGCTCAACGTGTGCAAC 3'
+5' AGCTCAACATGTGCAAC 3'
+
+52
+50
+
+*Tm (°C) = (G + C) X4 + (A + T) X2 (G,C,A or T is each base number
+in primer)
+
+Table 6. Mutagenic oligonucleotides
+
+Primer name
+
+Oligonucleotide
+
+OMF (R94C)
+
+5' GCTACCCATCTGCAATGGCTT3'
+
+another mutation (e.g., E450V mutation in this study). Further
+detection of mutations in MPS IVA patients will reveal whether
+or not this polymorphism is causative for GALNS deficiency.
+Reliable enzymatic tests to accurately predict the severity
+of MPS IVA in unrelated patients are not available. Nevertheless, the present identification of specific molecular defects in
+MPS IVA patients will facilitate more precise carrier testing
+and provide the basis for genotype/phenotype correlations for
+this disease.
+
+MATERIALS AND METHODS
+Patients
+We studied the mutations in 16 patients from 14 unrelated families (four
+females, 12 males; fifteen Japanese, one Caucasian; 12 sporadic cases, two
+sets of siblings). Five Japanese patients were the offspring of first cousin
+parents, including two sets of siblings (10,24-26). Diagnoses were confirmed
+by demonstration of low GALNS activity in leukocytes or fibroblasts (27).
+The clinical evaluation of most of the patients included complete medical
+history, physical examination, routine hematological and biochemical tests
+and measurement of fibroblast GALNS activity. Radiological studies were
+also done to determine clinical severity, including chest radiograph and bone
+survey (cervical, thoracic and lumbar spine; long bones, pelvis and skull).
+Patients were assigned to one of three clinical phenotypes, except for one
+atypical case; severe (classical), intermediate or mild.
+One fibroblast sample originated from a Caucasian and was obtained from
+the Human Genetic Mutant Cell Repository (Coriell Institute for Medical
+Research, Camden, NJ), where it is listed as GM958; the diagnosis was an
+atypical case with 3% of residual activity (clinical data and other laboratory
+findings were unknown).
+Eleven Japanese patients with one sibling were cases of classical Morquio
+disease, the other sibling cases reported previously (18) were a mild form
+with below 2% residual activity. The intermediate form was diagnosed in two
+Japanese patients.
+
+OMF (R94G)
+
+5' GCTACCCATCGGCAATGGCTT 3'
+
+OMF(V138A)
+
+51 AGCAAGATTGCCGGCAAGTGG 3 1
+
+DNA analysis
+Genomic DNA was extracted from leukocytes or cultured skin fibroblasts,
+according to standard methods. The genomic DNA samples were amplified
+by PCR with Taq polymerase (Wako, Osaka, Japan). The cycling reaction
+was done in a DNA Thermal Cycler (Perkin Elmer Cetus, Norwalk, CT),
+including a total volume of 100 |il, with iXTaq polymerase buffer (50 mM
+KC1, 10 mM Tris-HCl, pH 8.3, 1.5 mM MgCl2, 0.1% gelatin), 50 pmol of
+each primer, 200 u.M mixed dNTPs, 2.5U Taq DNA polymerase and genomic
+DNA or first strand cDNA. Amplification procedure for every fragment
+involved 40 cycles of PCR, as follows: 1 min at 94°C (denaturation), I min
+at 54-65°C (annealing of primers), and I min at 72°C (extension). After the
+last cycle, the samples were incubated for an additional 7 min at 72°C. The
+primer sequences and allele specific oligomers used for mutation analysis
+and mutagenic oligonucleotides were synthesized on an automated DNA
+synthesizer (Applied Biosystems, Foster City, CA); their sequences are listed
+in Tables 1, 5 and 6, except for the primers used for cDNA amplification as
+already described (18).
+
+OMF(Q148X)
+
+5' TCACAGGCCCTAGTTCCACCC 3'
+
+OMF(P151S)
+
+51 CCAGTTCCACTCCCTGAAGCA31
+
+OMF(N204K)
+
+51 GGGAAGCCAAGCTCACCCAGA31
+
+OMF(M318R)
+
+51 GAAGGAGGGAGGAGGGAGCCT31
+
+OMF (M343R)
+
+5' GGGCAGCATCTTGGACCTCTT 3'
+
+OMF(D344N)
+
+51 CAGCATCATGAACCTCTTCAC 3'
+
+OMF (F346L)
+
+5' TGGACCTCTTAACCACCAGCC3'
+
+OMF(R386C)
+
+5' CTTCTATTACTGTGGCGACAC31
+
+OMF(1342delCA)
+
+51 GGTCACAACTCAATCTGGAA3 1
+
+OMF(E450V)
+
+5' GACCCAGGGGTGAGGTTCCCC 3'
+
+OMF (V488M)
+
+5 1 CCAGCTCAACATGTGCAACTG31
+
+Mutation analysis
+
+change in the essential conserved amino acid but also to the
+effect on secondary or/and tertiary structure, by amino acid
+substitution.
+A higher in vitro expression would make way for precise
+comparisons of the activity and stability of the residual enzymes
+expressed by each mutant GALNS allele. It seems likely that
+residual activities expressed by the mutant alleles would be
+too low for biochemical characterization. The V488M mutation
+carried an unexpected increase of GALNS activity in the
+transient expression study, hence, this alteration is a polymorphism. However, as we did not see this V488M alteration in fifty
+normal individuals, this rare polymorphism may effect the
+reduction of enzyme activity in vivo, in association with
+
+Downloaded from https://academic.oup.com/hmg/article-abstract/4/3/341/588768
+by Reprints Desk user
+on 02 February 2018
+
+Southern blots. As a first screening, Southern blots were obtained to detect
+large rearrangements and polymorphisms, using GALNS cDNA probes and
+genomic DNA probes together with several kinds of restriction enzymes.
+Heteroduplex analysis by MDE gel. Heteroduplex analysis using MDE
+(mutation detection enhancement, AT Biochem, Malvern, PA) gel was done
+on individual amplified exons and exon/intron junctions which varied from
+168 bp to 411 bp. To screen mutations, initially 5 \i\ of the PCR product from
+each patient was used and was analyzed as a loading sample, then 2.5 \x\ of
+the PCR product from the patient and 2.5 |il of the PCR product from a
+normal control were mixed and screened to avoid missing a homozygous
+mutation and to create an artificial heterozygous state. Before loading, I |il
+of gel loading buffer for each 5 nl of sample was added, boiled for 2 min
+and slowly cooled down to room temperature. Samples for every exon were
+electrophoresed at 700 volts constant power for 20 h on a 20X35 cm gel in
+0.6XTBE. After electrophoresis, the DNA was visualised following ethidium
+bromide staining for 20 min followed by destaining for 3 h.
+SSCP analysis by MDE. For SSCP analysis, each fragment of 168 bp to 411
+bp was amplified using unlabeled primers, and 0.2 ^1 of [32P]dCTP (3000
+
+Human Molecular Genetics, 1995, Vol. 4, No. 3 349
+Ci/m mol; Amersham, Buckinghamshire, UK) was added in the reaction
+mixture. The concentration of dNTPs was lowered to 20 U.M and the reaction
+volume to 10 |il. Following amplification, 1 \i\ of the reaction mixture was
+mixed with 9 nl of 95% formamide, 0.05% bromophenol blue, 0.05% xylene
+cyanol, 10 mM NaOH and 20 mM EDTA. The mixture was boiled for 2 min,
+cooled on ice and applied on MDE gel (described in detail in heteroduplex
+analysis) containing 0.6XTBE. No other additives such as formamide, DMSO,
+urea or sucrose were included in this MDE gel.
+Electrophoresis was done for 12 to 30 h adequate to the fragment size at 6
+Watts at room temperature. The gel was transferred to chromatographic paper
+(3MM Chr, Whatman, Maidstone, UK), dried and exposed to X-ray film for
+24 h.
+Sequencing. All the amplified fragments, showing abnormal mobility by SSCP
+and heteroduplex analysis, were purified and subcloned into T-vector (Novagen,
+Madison, WI).
+DNA sequencing of at least five independent clones for each fragment was
+done in both directions, by the cycle sequencing method with Taq polymerase,
+for the incorporation of fluorescent labeled dideoxynucleotides (ABI, Foster
+City, CA). Reactions were analyzed by an ABI373A fluorescent DNA
+sequencer.
+Restriction enzyme analysis. Restriction enzyme digestion was used to determine the presence of each mutation, respectively. Restriction enzymes were
+purchased from Boehringer Mannheim Biochemics (Mannheim, Germany),
+New England Biolabs (Beverly, MA), Takara Shuzo (Kyoto, Japan) and
+Toyobo (Osaka, Japan) (Table 2).
+Allelic-specific oligonucleotide hybridization analysis. Mutations IVSlnt-2,
+R94C, R94G, E450V and V488M were also detected by means of oligonucleotide hybridization of PCR amplified fragments of genomic DNA.
+Two (il of amplified samples was dotted by a dot apparatus (BRL,
+Gaithersburg, MD) and Hybond-N nylon membrane (Amersham) and hybridized separately with the appropriate normal and mutant oligonucleotide probe
+(see Table 5).
+The procedure is as follows: 2(0.1 of amplified product, 178 nl of ddH2O
+and 20 (il of denaturing solution (2N NaOH) were mixed and incubated for
+10 min at room temperature; 200 fj.1 of neutralized solution (IM NH4OAc)
+was added and chilled on ice. After dot blotting of treated samples on nylon
+membrane, the membrane was allowed to air dry and then cross-linked using
+an UV cross linker for 5 min. The membrane was then placed into a plastic
+tube and prehybridized for at least 30 min with 5 ml of hybridization buffer
+from a hybridization buffer tablet (Amersham). Next, a 5' oligonucleotide
+end-labelled probe with Y[ 32 PJATP and T 4 polynucleotide kinase was added
+to the plastic tube together with the same hybridization buffer, and the
+membrane was hybridized for at least 2 h at 37°C. Following incubation, the
+membrane was washed with 2XSSC, 0.1% SDS solution at room temperature
+twice for 15 min each and then washed again with the same solution at the
+appropriate temperature (Tm-3°C) twice for 15 min each. The membrane was
+briefly dried, enclosed in Saran wrap and exposed at room temperature to
+X-ray film for I to 5 h.
+Expression of mutagenized cDNA. The method for introducing a series of
+mutations into cloned cDNA was done according to instructions in a
+Transformer-Site Directed Mutagenesis Kit, by the supplier (Clontech, Palo
+Alto, CA). The mutagenic oligonucleotides are listed in Table 5. The sitespecific mutagenized cDNAs were subcloned into pCAGGS (kindly provided
+by Dr J.Miyazaki, University of Tokyo). Each mutation in the expression
+vector was confirmed by sequencing. Transfection of mutagenized cDNAs
+into GALNS-deficient fibroblasts was done using a liposome-mediated method
+(Wako) and measurement of GALNS expression was done in the cell extracts
+at 120 h after transfection (4,9,15).
+
+ACKNOWLEDGEMENTS
+We thank Ms Ohara for her helpful comments and Ms Tanahashi for helpful
+assistance. This work was supported in part by Grants-in-Aid for Scientific
+Research (03265102, 05454286, 03557044) from the Ministry of Education,
+Science and Culture of Japan, and a grant (5A-6-02) from the National Center
+of Neurology and Psychiatry of the Ministry and Welfare of Japan.
+
+REFERENCES
+1. Matalon,R., Arbogast.B., Justice,P, Brandt.I.K. and Dorfman.A. (1974)
+Biochem. Biophys. Res. Commun. 61, 709-715.
+2. Singh,J., Di Ferrante.N., Niebes.P. and Tavella,D. (1976) J. Clin. Invest
+57, 1036.
+
+Downloaded from https://academic.oup.com/hmg/article-abstract/4/3/341/588768
+by Reprints Desk user
+on 02 February 2018
+
+3. Horwitz,A.L. and Dorfman,A. (1978) Biochem. Biophys. Res. Commun.
+80, 819-825.
+4. Masue,M., Sukegawa.K., Orii,T. and Hashimoto.T. (1991) J. Biochem.
+110, 965-970.
+5. Di Ferrante,N., GinsbergX.C, Donnelly.P.V. and Di Ferrante.D.T. (1978)
+Science 199, 79-81.
+6. YutakaJ., Okada,S., Kato.T., Inui.K. and Yabuuchi.H. (1982) Clin. Chim.
+Ada 122, 169-180.
+7. Morquio.L. (1929) Bull. Soc. Pediat. Paris 27, 145-152.
+8. Maroteaux.P. and Lamy.M. (1967) Lancet 2, 510.
+9. GlosslJ., Maroteaux.P., Di Natale.P. and Kresse,H. (1981) Pediat. Res.
+15, 976-978.
+10. Orii, T., Kiman.T., Sukegawa.K., Kanemura,T.. Hattori.S., Taga,T. and
+Ko,K. (1981) Conn. Tissue 13, 169-175.
+11. Fujimoto.A. and Horwitz,A.L. (1983) Am. J. Med. Genet. 15, 265-273.
+12. HechitJ.T., Scott,C.I.,Jr, smith.T.K. and WilliamsJ.C. (1984) Am. J. Med.
+Genet. 18, 369-371.
+13. Beck.M., Glossl.J., Grubisic,A. and Spranger.J. (1986) Clin. Genet. 29,
+325-331.
+14. BielickiJ. and Hopwood.J.J. (1991) Biochem. J. 279, 515-520.
+15. Tomatsu,S., Fukuda.S., Masue.M., Sukegawa,K.,Fukao,T., Yamagishi.A.,
+Hori,T., Iwata.H., Ogawa.T, Nakashima.Y., Hanyu,Y, Hashimoto.T.,
+Yagi,K., Hayashi,Y.,Titani,T., Oyama.R., Suzuki.M. and Orii.T. (1991)
+Biochem. Biophys. Res. Commun. 181, 677-683.
+16. Tomatsu.S., Fukuda.S., Uchiyama.A., Hori.T., Nakashima.Y., Kondo,N.,
+Suzuki,Y., Shimozawa,N., Sukegawa.K. and Orii, T. (1994) J. Inherited
+Metab. Dis. 17, 601-605.
+17. Tomatsu.S., Fukuda,S., Cooper.A., Wraith,J.E., Uchiyama.A., Hori.T,
+Nakashima.T., Sukegawa,K., Kondo.N., Suzuki,Y, Shimozawa,N. and
+Orii.T. Hum. Genet. In Press.
+18. Fukuda,S., Tomatsu.S., Masue.M., Sukegawa.K., Iwata.H., Ogawa.T.,
+Nakashima.Y., Hori,T., Yamagishi.A., Hanyu.Y, Morooka.K., Kiman.T.,
+Hashimoto.T. and Orii.T. (1992) J. Clin. Invest. 90, 1049-1053.
+19. Nakashima.Y., Tomatsu.S., Hori.T., Fukuda.S., Sukegawa.K., Kondo.N.,
+Suzuki,Y, Shimozawa.N. and Orii.T. (1994) Genomics 20, 99-104.
+20. Tomatsu.S., Fukuda,S., Masue.M., Sukegawa.K., Masuno,M. and Orii,T.
+(1992) Am. J. Hum. Genet. 51(Suppl), A178.
+21. Baker.E., Xiao.H.G., Orsborn.A.M., Sutherland.G.R., Callen,D.F.,
+Hopwood,J.J. and Morris.C.P. (1993) Am. J. Hum. Genet. 52, 96-98.
+22. Masuno.M., Tomatsu.S., Nakashima,Y, Hori.T., Fukuda.S., Masue.M.,
+Sukegawa.K. and Orii,T. (1993) Genomics 16, 777-778.
+23. Tomatsu.S., Fukuda.S., Ogawa,T, Kato,Z., Isogal.K., Kondo.N.,
+Suzuki,Y, Shimozawa.N., Sukegawa.K. and Orii.T. (1994) Hum. Mol.
+Genet. 3, 1427-1428.
+24. Tomatsu.S.,
+Fukuda.S.,
+Uchiyama.A.,
+Hori.T.,
+Nakashima.Y.,
+Sukegawa.K., Kondo.N., Suzuki,Y, Shimozawa.N. and Orii.T. Hum.
+Genet. In Press.
+25. Tomatsu.S., Fukuda.S., Iwata.H., Ogawa.T., Sukegawa.K. and Orii,T.
+(1994) Hum. Mol. Genet. 3, 1208.
+26. Tomatsu.S., Fukuda.S., Iwata.H., OgawaJ., Sukegawa.K. and Orii.T.
+(1994) Hum. Mol. Genet. 3, 1208.
+27. Sukegawa.K. and Orii.T. (1982) J. Inher. Metab. Dis. 5, 231-232.
+28. Wilson.PJ., Morris.C.P., Anson,D.S., Occhiodord.T., BielickiJ.,
+Clements.P.R. and Hopwood.J.J. (1990) Proc. Natl Acad. Sci. USA 87,
+8531-8535.
+29. Robertson,D.A., Freeman.C, Nelson,P.V., Morris.C.P. and Hopwood,J.J.
+(1988) Biochem. Biophys. Res. Commun. 157, 218-224.
+30. Stein,C, Gieselmann.V., KreysingJ., Schmidt.B., Pohlmann.R.,
+Waheed.A., Meyer.H.E., 0'Brien.J.S. and von Figura.K. (1989) J. Biol.
+Chem. 265, 3374-3381.
+31. Peters,C, Schmidt.B., Rommerskirch.W., Rupp.K. and von Figura.K.
+(1990) J. Biol. Chem. 265, 3374-3381.
+32. Stein.C, Hille.A., Seidel,J., Rijnbout.S., Waheed,A., Schmidt.B., Genze.H.
+and von Figura.K. (1989) J. Biol. Chem. 264, 13865-13872.
+33. Sasaki.H., Yamada K., Akasaka.K., Kawasaki,H., Suzuki.K., Saito.A.,
+Sato,M. and Shimada.H. (1988) Eur. J. Biochem. Ml, 9-13.
+34. Bunge.S., Steglich.C, Beck.M., Rosenkranz,W., Schwinger.E.,
+HopwoodJ.J. and Gal,A. (1992) Hum. Mol. Genet. 5, 335-339.
+
+

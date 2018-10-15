@@ -1,0 +1,1472 @@
+Diagnosis of heterozygous familial hypercholesterolemia. DNA analysis complements clinical
+examination and analysis of serum lipid levels.
+P V Koivisto, U M Koivisto, T A Miettinen and K Kontula
+Arterioscler Thromb Vasc Biol. 1992;12:584-592
+doi: 10.1161/01.ATV.12.5.584
+Arteriosclerosis, Thrombosis, and Vascular Biology is published by the American Heart Association, 7272 Greenville
+Avenue, Dallas, TX 75231
+Copyright © 1992 American Heart Association, Inc. All rights reserved.
+Print ISSN: 1079-5642. Online ISSN: 1524-4636
+
+The online version of this article, along with updated information and services, is located on the
+World Wide Web at:
+http://atvb.ahajournals.org/content/12/5/584
+
+Permissions: Requests for permissions to reproduce figures, tables, or portions of articles originally published in
+Arteriosclerosis, Thrombosis, and Vascular Biology can be obtained via RightsLink, a service of the Copyright
+Clearance Center, not the Editorial Office. Once the online version of the published article for which permission
+is being requested is located, click Request Permissions in the middle column of the Web page under Services.
+Further information about this process is available in the Permissions and Rights Question and Answerdocument.
+Reprints: Information about reprints can be found online at:
+http://www.lww.com/reprints
+Subscriptions: Information about subscribing to Arteriosclerosis, Thrombosis, and Vascular Biology is online
+at:
+http://atvb.ahajournals.org//subscriptions/
+
+Downloaded from http://atvb.ahajournals.org/ by guest on October 11, 2012
+
+584
+
+Diagnosis of Heterozygous
+Familial Hypercholesterolemia
+DNA Analysis Complements
+Clinical Examination and
+Analysis of Serum Lipid Levels
+Pekka V.I. Koivisto, Ulla-Maija Koivisto, Tatu A. Miettinen, and Kimmo Kontula
+The concordance of clinical and molecular genetic diagnoses of heterozygous familial hypercholesterolemia (FH) was studied in 65 subjects (10 propositi and 55 first-degree relatives) from 10 families with FH.
+Nine propositi were carriers of the FH-Helsinki deletion of the low density lipoprotein (LDL) receptor
+gene, prevalent in the Finnish population, while a new deletion, extending from intron 14 to intron 15 of
+the LDL receptor gene, was identified in one family. Serum LDL cholesterol levels used in the clinical
+diagnosis (<5.0 mmol/1, not FH; 5.0-5.9 mmol/l, possible FH; 2:6.0 mmol/1, FH; limits are 1 mmol/1 lower
+for those <18 years) were derived from an authoritative recommendation. Tendon xanthomas constituted
+an additional criterion. With the DNA analysis as the reference, 55 (85%) subjects could be correctly
+classified clinically as FH patients or subjects without FH. The remaining 10 subjects were misclassified
+or were in the "possible FH" category. When the age- and sex-specific 95th percentile LDL cholesterol
+levels were used instead of the rigid values for both adults and children, the percentage of correct
+diagnoses rose to 95%. Common genetic polymorphisms of apolipoproteins E and B did not markedly
+affect LDL cholesterol levels in FH patients, whereas increasing age and obesity were associated with
+elevated LDL levels. In conclusion, DNA analysis is a valuable adjunct to the diagnosis of FH that is
+applicable to families with a known mutation of the LDL receptor gene. If DNA methods are not available,
+age- and sex-specific LDL levels should be used as an aid in the clinical diagnosis of FH. (Arteriosclerosis
+and Thrombosis 1992;12:584-592)
+KEYWORDS • familial hypercholesterolemia • low density lipoprotein receptor gene • apolipoprotein
+B • apolipoprotein E
+
+R
+
+ecent developments in the treatment of hyperlipidemias have led to an increasing need for
+systematic recommendations for the recognition and management of these disorders.1-2 The diagnosis of familial hypercholesterolemia (FH) has relied on
+its principal clinical features: elevated serum total and
+low density lipoprotein (LDL) cholesterol concentrations, the presence of tendon xanthomas and premature
+coronary heart disease (CHD), and similar findings in a
+first-degree relative.3 FH is caused by a mutation of the
+LDL receptor gene, resulting in the defective functioning and/or a diminished number of LDL receptors in
+the hepatic and other cells, which in turn is accompanied by the slow receptor-mediated catabolism of LDL
+and the accumulation of LDL in the circulation.3"5 FH
+From the Second Department of Medicine and the Institute of
+Biotechnology, University of Helsinki, Helsinki, Finland.
+This study was conducted under a contract with the Finnish Life
+and Pension Insurance Companies and was also supported by
+grants from the Sigrid Juselius Foundation, the Medical Council of
+the Academy of Finland, the Finnish Heart Foundation, the
+Finnish Heart Association, the Paulo Foundation, and the Paavo
+Nurmi Foundation, Helsinki, Finland.
+Address for correspondence: Pekka V.I. Koivisto, MD, Second
+Department of Medicine, University of Helsinki, SF-00290 Helsinki, Finland.
+Received October 23,1991; revision accepted February 6,1992.
+
+is inherited in an autosomal codominant way, with the
+prevalence of heterozygous patients being approximately one in 500 in most populations.3
+The phenotypic expression of heterozygous FH depends on exogenous factors, including diet6 and the use
+of hypolipidemic drugs, as well as genetic polymorphism
+of the ligands for the LDL receptor, i.e., apolipoproteins E and B.7-8 In one family, a putative "cholesterol
+lowering gene" was found to even normalize serum
+LDL cholesterol levels of the known carriers of the LDL
+receptor gene mutation.9 All these findings call for
+unequivocal diagnostic methods for FH.
+A cell-biological diagnosis of FH may be accomplished by studying LDL binding, internalization, and
+degradation by cultured fibroblasts3 or by lymphocyte
+proliferation in response to mitogen administration as a
+function of the prevailing LDL cholesterol concentration.1011 These methods are, however, technically very
+demanding, and the use of hypolipidemic drugs may
+interfere with lymphocyte culture assays. Use of molecular genetic techniques would constitute an ideal diagnostic approach for FH, with no interference by exogenous lipid-modulating factors. The multitude of LDL
+receptor gene mutations, ranging from single nucleotide
+changes to large deletions and insertions, limits the
+usefulness of the DNA approach for the diagnosis of
+
+Downloaded from http://atvb.ahajournals.org/ by guest on October 11, 2012
+
+Koivisto el al
+
+FH in most populations.5 In some genetically homogeneous populations, such as Lebanese Christian Arabs,12
+French-Canadians,13 and South African Afrikaners,14
+one or a few LDL receptor gene mutations have been
+enriched by a founder gene effect. The Finnish population is another example of a genetically homogeneous
+population, and in fact, about 40% of the Finnish FH
+patients carry the same type of LDL receptor gene
+mutation.15-16 This mutation, designated as FH-Helsinki, deletes exons 16 and 17 and a portion of exon 18
+of the LDL receptor gene and results in an internalization-defective phenotype of FH.15
+The present study was conducted to clarify 1)
+whether in given families with an established LDL
+receptor gene mutation the conventional clinical criteria
+of FH match with the molecular genetic diagnosis of
+FH, 2) if any variation in LDL cholesterol levels could
+be explained by genetic variation of apolipoproteins B
+and E and whether their effects contribute to any
+discrepancy between the clinical and the DNA diagnosis
+of FH, and 3) whether any evidence in favor of the
+existence of possible cholesterol-lowering gene(s) in FH
+families could be provided.
+Methods
+Patients and Design of the Study
+Ten propositi with large deletions of the LDL receptor gene and their first-degree relatives (parents, siblings, and children) were investigated. In addition, if
+clinical data favored the diagnosis of FH ("FH" or
+"possible FH"; see below) in a relative, the first-degree
+relatives of the latter person were also invited to the
+study. Very young children (<7 years of age) and
+relatives living outside the Helsinki University Central
+Hospital district were not invited.
+The propositi were identified during an ongoing
+screening of hypercholesterolemic subjects for the FHHelsinki gene in Finland. The propositi and their relatives were invited by a letter in which the purpose of the
+study was stated. A total of 65 of the 69 invited
+individuals visited the outpatient clinic, where fasting
+blood samples were drawn and a physical examination
+was performed. The clinical diagnoses were set by one
+of the investigators following a protocol designed for
+this study, while the FH diagnosis by DNA analysis was
+accomplished by another investigator. The two judgments were kept blinded to each other until the whole
+study had been completed. The study protocol was
+approved by the Ethics Committee of the hospital.
+Physical Examination
+The patients were asked about previous cholesterol
+measurements, medications, and illnesses, with a particular attention to findings and symptoms suggestive of
+CHD. They were classified as having CHD if a previous
+diagnosis of myocardial infarction or angina pectoris
+had been established or if they had had exercise electrocardiographic findings compatible with those of
+CHD.
+During physical examination the presence of tendon
+and subperiosteal xanthomas, corneal arcus, and xanthelasmas was registered. For xanthomas, a three-stage
+classification was used as follows: 1) no xanthomas, 2)
+suspected xanthomas (slight irregularity in a tendon or
+
+Diagnosis of Familial Hypercholesterolemia
+
+585
+
+olecranon or a slightly predominant tibial tuberosity),
+or 3) unequivocal xanthomas. The latero-lateral thickness (in millimeters) of the Achilles tendons was measured using a ruler, by taking the tendon between the
+thumb and index finger and applying slight pressure,
+with the patient relaxed in bed with the ankle flexed at
+90°.
+Laboratory Methods
+Serum cholesterol17 and triglyceride18 concentrations
+were measured by enzymatic methods using commercial
+kits obtained from Boehringer (Mannheim, FRG). The
+concentration of high density lipoprotein (HDL) cholesterol was measured enzymatically after precipitation
+of LDL and very low density lipoprotein (VLDL)
+fractions with dextran sulfate and magnesium chloride.19 The concentration of LDL cholesterol was calculated using the Friedewald formula.20
+To exclude causes of secondary hypercholesterolemia, serum aspartate aminotransferase, alkaline phosphatase, creatinine, thyroid stimulating hormone, fasting blood glucose, and urine protein were determined
+using standard techniques of the clinical laboratory.
+Findings in these tests were normal with the exception
+of a slightly elevated aspartate aminotransferase activity
+in one case and an elevated fasting blood glucose (8.1
+mmol/l) in another. Both of these patients were middleaged obese non-FH men. In addition, one male FH
+patient had insulin-dependent diabetes mellitus.
+Clinical Diagnosis of Familial Hypercholesterolemia
+Most young FH patients do not have xanthomas.3 The
+concentration of LDL cholesterol in serum is a better
+discriminator between FH and non-FH patients than is
+total cholesterol.21 Therefore, serum LDL cholesterol
+concentration was chosen as the main criterion. Serum
+cholesterol levels show day-to-day variation,22 and serum LDL cholesterol levels of FH and non-FH patients
+overlap.3'21 Therefore, a three-stage classification (not
+FH, possible FH, and FH) was used.
+The LDL cholesterol limits for these categories were
+derived from the Policy Statement of the European
+Atherosclerosis Society.2 According to this statement,
+LDL cholesterol levels >4.9 mmol/l (or total cholesterol
+>7.8 mmol/l) are compatible with adult FH, although
+adult FH patients usually have total cholesterol levels
+>9 mmol/l. Accordingly, for the present study the LDL
+cholesterol limits were chosen as follows: 1) <5.0
+mmol/l for "not FH," 2) 5.0-5.9 mmol/l for "possible
+FH," and 3) ^6.0 mmol/l for "FH." If a patient with a
+serum LDL cholesterol level in the "possible FH" range
+had unequivocal xanthomas, he or she was diagnosed as
+having FH. According to the policy statement, in children and adolescents serum total cholesterol levels >6.7
+mmol/l are compatible with FH. 2 Therefore, the LDL
+cholesterol limits for the diagnostic categories in children (<18 years) were set 1 mmol/l lower than those for
+the adults. Patients taking hypolipidemic drugs were
+judged to have FH if they were documented to have a
+pretreatment serum total cholesterol concentration ^ 9
+mmol/l.2 This criterion was used in 15 cases. One
+patient, the sister of a propositus, with a serum LDL
+cholesterol concentration of 4.8 mmol/l was considered
+to have FH despite the protocol outlined above because
+
+Downloaded from http://atvb.ahajournals.org/ by guest on October 11, 2012
+
+586
+
+Arteriosclerosis and Thrombosis
+
+Vol 12, No 5 May 1992
+
+1) she had metastasized carcinoma of the breast, 2) she
+reported an earlier serum cholesterol level of 9.5
+mmol/1, and 3) her son had clinically evident FH with
+xanthomatosis.
+The present criteria for the diagnosis of FH are more
+conservative than those presented in the policy statement, according to which all serum LDL levels compatible with FH (>4.9 mmol/1 in adults) together with the
+presence of xanthomas in a relative (which was true for
+all the patients of the present series) provide a definite
+diagnosis of FH. Our decision to include adult patients
+with serum LDL cholesterol levels in the range of
+5.0-5.9 mmol/1 in the FH group only if xanthomas were
+present was based on the fact that serum cholesterol
+concentration levels are higher in the Finnish population than in most other Western populations.23-24
+DNA Analysis
+Leukocytic DNA was extracted from 10 ml EDTAanticoagulated whole blood. The assay for the FHHelsinki mutation, which is caused by a 9.5-kb deletion
+at the 3' end of the LDL receptor gene, was performed
+as previously described.15-25 In brief, DNA was digested
+with BamHl, fractionated by agar gel electrophoresis,
+transferred to nitrocellulose filters, and hybridized by
+using a cDNA probe specific to exons 11—17 of the LDL
+receptor gene. This probe was prepared by BamHl-Xho
+I digestion of pLDLR3 (a gift from Drs. D.W. Russell,
+M.S. Brown, and J.L. Goldstein, Dallas, Tex.), which
+contains 971 nucleotides. The presence of the FHHelsinki mutation is characterized by the appearance of
+an extra 8-kb BamHl restriction fragment in addition to
+the normal 17-kb BamHl restriction fragment.15
+For the determination of the Xba I polymorphism of
+apolipoprotein B, DNA samples were analyzed essentially as described above with the exception that the
+enzyme Xba I was used to digest the samples and that
+the apolipoprotein B cDNA probe pB23 (donated by
+Dr. Jan L. Breslow, New York) was used in the hybridization analysis.8 The allele resulting in the formation of
+an 8.6-kb Xba I fragment is designated as XI and that
+generating a 5-kb fragment as X2.
+The common apolipoprotein E alleles e2, e3, and e4
+were determined by direct DNA analysis.26 In this
+method, the target DNA is amplified by the polymerase
+chain reaction (PCR) and subsequently analyzed by
+digestion with the restriction enzyme Hha I, followed by
+polyacrylamide gel electrophoresis of the cleavage
+products.26
+Statistical Methods
+Statistical calculations were carried out using BMDP
+statistical software program 7D to explore statistical
+significances of differences between groups and program 6D to compute linear correlations (BMDP Statistical Software, Inc., Los Angeles). All the data are given
+as mean±SEM.
+Results
+Clinical Versus DNA Diagnosis of
+Familial Hypercholesterolemia
+Altogether, 65 subjects from 10 families took part in
+the study. Fifty-four were adults (including the 10
+propositi), and 11 were children (<18 years). A clinical
+
+<18yr
+CLINICAL
+
+DNA
+
+CUNICAL
+
+DNA
+FH+
+
+FH+/-
+
+FH+/-
+
+FH-
+
+FH-
+
+FH-
+
+FIGURE 1. Diagram showing clinical versus DNA diagnosis
+of familial hypercholesterolemia (FH) in adults (>18 years)
+and children and adolescents (<18 years). FH+, FH+I-,
+and FH— denote the diagnostic categories "FH," "possible
+FH," and "not FH," respectively, and the numbers denote
+quantities of patients in each category.
+
+diagnosis of FH was set in 28 cases, six were in the
+"possible FH" category, and 31 subjects were considered not to have FH (Figure 1).
+DNA analysis showed that 25 of the 28 subjects with
+the clinical diagnosis of FH had inherited the FHHelsinki mutation (or the "M family" mutation; see
+below) of the LDL receptor gene (Figure 1). The three
+subjects who were misclassified as FH patients on
+clinical grounds were adult persons. In two of them,
+LDL cholesterol levels (6.1 and 6.2 mmol/1) were only
+slightly above the classification limit (6 mmol/1),
+whereas the third, a woman in her 60s, had an LDL
+cholesterol level of 6.8 mmol/1.
+Four of the six subjects in the "possible FH" category
+proved to have inherited the FH-Helsinki or the M
+family mutation (Figure 1). Only one patient with a
+DNA diagnosis of FH was classified in the clinical "not
+FH" category. This 12-year-old boy, belonging to the M
+family (see below), had a serum LDL cholesterol concentration of 3.0 mmol/1.
+Characteristics of the Low Density Lipoprotein
+Receptor Gene Mutation in the M Family
+In one of the 10 families (the M family), the LDL
+receptor gene mutation turned out to be different from
+the true FH-Helsinki mutation, although the propositus
+of this family (a 65-year-old woman) had earlier been
+tentatively classified as a carrier of the FH-Helsinki
+gene. In the FH members of this family, the extra
+BamHl fragment hybridizable with the LDL receptor
+cDNA probe was slightly larger (11 kb) than that (8 kb)
+in families with the FH-Helsinki mutation (Figure 2).
+The boundaries of this 11-kb fragment were judged to
+be determined by the BamHl restriction sites in intron
+10 and exon 18 (Figure 2). Digestion of the DNA
+samples with Kpnl resulted, in addition to the formation
+of three invariant bands (about 23,15, and 9 kb in size)
+both in the member of the M family and the control
+subjects, in the appearance of a faint band with a
+molecular size of about 3 kb (Figure 2). The generation
+of this fragment is apparently determined by the Kpnl
+sites in introns 14 and 16 (Figure 2). The extra 10-kb
+Pvu II fragment is explainable by the narrowing of the
+distance between the Pvu II sites in introns 10 and 16 in
+the M mutation (Figure 2). The 5'- end and the 3'-end
+boundaries of the extra 18-kb EcoRV fragment in the
+mutant DNA are determined by the EcoTLV restriction
+sites in exon 13 and at the 3'-flanking area of the LDL
+
+Downloaded from http://atvb.ahajournals.org/ by guest on October 11, 2012
+
+Koivisto et al
+
+Diagnosis of Familial Hypercholesterolemia
+
+587
+
+A.
+Kpnl
+
+BamHI
+
+M H C M H C
+
+PvuII
+M H C
+
+EcoRY
+
+Xbal
+
+M H C
+
+M H C
+
+10
+
+8
+
+m
+
+•
+
+B.
+
+probe
+
+hKE
+
+P
+
+II
+
+B EX
+
+I
+
+I II
+
+10
+
+1112
+
+—-H
+
+H
+
+-H
+
+EK
+1314
+
+P'XXKPPX B P X EK
+
+i i i u
+
+iwr
+
+15
+
+16 17
+
+H-
+
+18
+
+/
+10
+
+1112
+
+H
+
+1314
+
+is' 17
+
+11 12
+
+-H-
+
+18
+
+FH-M
+
+H-
+
+10
+
+NORMAL
+
+1314
+
+15; /'18
+
+FH-HELSINKI
+
+1 kb
+
+FIGURE 2. Analysis of the low density lipoprotein (LDL)
+receptor gene mutation in the M family; for comparison,
+corresponding hybridization data for the FH-Helsinki mutation are also shown. Panel A: Southern blot hybridization
+analysis ofDNA samples from a member of the Mfamily (M),
+an FH patient from a family with a known carrier status for
+the FH-Helsinki mutation (H), and a healthy control (C).
+Restriction enzymes used are shown uppermost, and positions
+of molecular-size markers are at right. Panel B: Relevant
+restriction sites for Kpn / (K), BamHI (B), Pvu / / (P), EcoRV
+(E), and Xba I (X) at the 3' end of the normal LDL receptor
+gene and schematic illustration of the FH-M (LDL receptor
+gene mutation in the M family) and FH-Helsinki deletions.
+FH, familial hypercholesterolemia.
+
+receptor gene, respectively (Figure 2). The abnormal
+5-kb Xba I fragment is likely to result from a closer
+distance between the Xba I sites in intron 12 and intron
+16 in the mutant gene (Figure 2). Collectively, these data
+indicate that the M family mutation is most likely a
+deletion of about 6 kb, extending from intron 14 to intron
+15 and thus deleting the entire exon 15 (Figure 2).
+Lipoprotein Concentrations
+Serum total and LDL cholesterol concentrations according to age and results of DNA analysis are plotted
+in Figure 3; data for the M family are indicated by
+separate symbols. The 12-year-old boy clinically misclassified as a non-FH subject in the M family had the
+lowest serum LDL cholesterol concentration recorded
+for known carriers of a mutant LDL receptor gene in
+the present study (Figure 3). Serum LDL cholesterol
+
+P •rx o
+
+X
+
+^o
+
+4
+
+v
+
+*
+
+2
+
+o
+
+nn
+
+6
+
+OCfcD
+
+x
+
+v
+
+a
+
+w
+
+S
+o
+
+o
+
+0°
+
+n
+20
+
+40
+
+60
+
+80
+
+AQE,y*ar*
+FIGURE 3. Scatter plots of serum total (upper panel) and
+low density lipoprotein (LDL) (lower panel) cholesterol
+levels according to age of the subjects studied. Circles represent members of FH-Helsinki families, and squares represent
+members of the M family, who were further divided into FH
+patients (FH confirmed by DNA analysis, • , m) and non-FH
+relatives (FH excluded by DNA analysis, O, n). Crosses
+represent FH-Helsinki patients taking hypolipidemic drugs,
+while the single asterisk represents an FH patient from the M
+family taking hypolipidemic drugs. Broken lines show LDL
+cholesterol limits used in the clinical evaluation of FH (upper
+line, definite FH; lower line, possible FH). FH, familial
+hypercholesterolemia.
+
+concentrations in the M family were otherwise well in
+the range of the other FH patients (Figure 3). Therefore, in subsequent analyses of lipoprotein levels in FH
+and non-FH subjects, data from the M family were
+combined with those of the other families.
+All but two of the DNA-verified FH patients who
+were more than 40 years of age were taking hypolipidemic medication during the course of the present
+study. These two patients, including a 68-year-old
+woman with a metastasized carcinoma of the breast and
+a 44-year-old man with insulin-dependent diabetes mellitus and a strict low-fat/high-carbohydrate diet, had
+serum LDL cholesterol levels below the FH range
+(Figure 3). In untreated adult DNA-verified FH patients, serum total cholesterol concentrations ranged
+from 6.8 to 9.7 mmol/l, and in children and adolescents
+the corresponding values amounted to 4.7-7.3 mmol/l.
+The mean serum total cholesterol concentration of the
+untreated FH patients was 7.5±0.4 mmol/l, and that of
+non-FH relatives was 5.3±0.3 mmol/l.
+Serum HDL cholesterol levels did not show significant variation in different categories of the study cohort
+(FH patients versus non-FH subjects, children and
+adolescents versus adults, or male versus female pa-
+
+Downloaded from http://atvb.ahajournals.org/ by guest on October 11, 2012
+
+588
+
+Arteriosclerosis and Thrombosis
+
+Vol 12, No 5 May 1992
+
+TABLE 1. Serum Tnglyceride and High Density Lipoprotein Cholesterol Concentrations According to Age and Gender
+in DNA-Verified Familial Hypercholesterolemia Patients and Their Non-Familial Hypercholesterolemia
+First-Degree Relatives
+n
+
+All
+
+n
+
+Non-FH
+
+n
+
+FH
+
+P*
+
+50
+
+1.2±0.1
+
+35
+
+1.2±0.2
+
+15
+
+1.3±0.2
+
+NS
+
+11
+39
+
+0.7+0.1
+1.4±0.2
+0.03
+
+6
+29
+
+0.6±0.1
+1.3±0.2
+
+5
+10
+
+0.8±0.1
+1.6±0.2
+0.04
+
+NS
+NS
+
+11
+
+1.3±0.2
+1.4±0.4
+
+NS
+NS
+
+Serum triglycerides (mmol/1)
+All
+Age
+
+<18yrs
+>18yrs
+
+Pt
+Gender
+Male
+Female
+
+NS
+
+1.4 ±0.2
+1.0+0.1
+NS
+
+16
+
+50
+
+1.2±0.0
+
+35
+
+1.3±0.1
+
+15
+
+1.2+0.1
+
+NS
+
+11
+
+1.3+0.1
+1.2 ±0.0
+
+6
+29
+
+1.5+0.2
+1.2+0.1
+
+5
+10
+
+1.2±0.1
+l.l±0.1
+
+NS
+NS
+
+30
+20
+
+pt
+
+19
+
+1.4±0.3
+1.0±0.2
+
+4
+
+NS
+
+NS
+
+HDL cholesterol (mmol/1)
+All
+Age
+
+<18yrs
+>18yrs
+
+39
+
+NS
+
+Pt
+Gender
+Male
+Female
+
+Pt
+
+30
+20
+
+1.2±0.1
+1.3±0.1
+NS
+
+NS
+
+NS
+19
+16
+
+1.2±0.1
+1.3±0.1
+
+11
+4
+
+1.2+0.1
+1.1+0.1
+
+NS
+
+NS
+NS
+
+NS
+
+Values are mean±SEM. Only patients not taking hypolipidemic drugs were included.
+FH, familial hypercholesterolemia; HDL, high density lipoprotein; NS, not significant.
+•Statistical significance of the difference between FH and non-FH subjects.
+tStatistical significance of the difference between age groups and between genders.
+
+tients; Table 1). In contrast, serum triglyceride levels
+were higher in adult subjects; this difference reached
+statistical significance in the FH group (Table 1).
+Factors Influencing Serum Low Density Lipoprotein
+Cholesterol Levels in Patients Not Taking
+Hypolipidemic Drugs
+The mean serum LDL cholesterol level of the FH
+patients with an established DNA diagnosis who were
+not taking hypolipidemic drugs was 2.5 mmol/1 higher
+than that of the non-FH patients (Table 2). Children
+and adolescents had a serum LDL cholesterol level
+approximately 1.4-1.7 mmol/1 lower than that of the
+adults. In this study gender did not significantly affect
+serum LDL cholesterol levels.
+There was a positive correlation between serum LDL
+cholesterol concentration and age in the non-FH group
+in particular (r=0.650, p<0.001; Figure 3). Serum LDL
+cholesterol levels were also closely correlated with the
+body mass index in the non-FH subjects (r=0.596,
+p<0.001), in the untreated FH patients (r=0.679,
+p<0.005), and in both groups combined (r=0.414,
+p<0.01). When the patients were divided into two
+groups according to their body mass index, the more
+obese group had a higher mean serum LDL cholesterol
+level (Table 2).
+The apolipoprotein E allele frequencies in the total
+cohort examined were as follows: e2, 0.10; e3, 0.65; and
+et, 0.25. The frequency of the e4 allele was higher in FH
+patients (0.33) than in their unaffected relatives (0.17;
+p<0.05). The presence of the e4 allele was not associated with significant variations of serum LDL choles-
+
+terol level in the total number of untreated subjects or
+either of its subgroups, i.e., subjects with or without FH
+(Table 2). The frequency of the XI allele of the apolipoprotein B gene was 0.73 and that of the X2 allele was
+0.27 in the total cohort examined. There were no
+significant differences in the apolipoprotein B allele
+frequencies of subjects with and without FH. The
+presence of the X2 allele was associated with a higher
+mean serum LDL cholesterol concentration than its
+absence in the non-FH subjects; this association was not
+found in FH patients (Table 2).
+All of the three adult non-FH subjects who were
+misclassified as FH patients on clinical grounds had the
+X1X2 genotype of apolipoprotein B. One of them
+possessed the (414 genotype, whereas the others had the
+genotypes e3/2 and e3/3 of apolipoprotein E. The corresponding apolipoprotein B and E genotypes of the
+FH child clinically misclassified as a non-FH subject
+were X1X2 and e4/3, respectively.
+Serum Low Density Lipoprotein Cholesterol
+Concentrations in Familial Hypercholesterolemia
+Patients Taking Hypolipidemic Drugs
+The mean serum LDL cholesterol concentration in
+the 15 adult FH patients taking hypolipidemic drugs was
+4.98±0.28 mmol/1. All of them reported consumption of
+a hypolipidemic diet. In this group the mean serum
+LDL cholesterol, HDL cholesterol, or triglyceride concentrations did not show significant variation according
+to the apolipoprotein E or B genotypes (data not
+shown), but female patients had a higher mean serum
+
+Downloaded from http://atvb.ahajournals.org/ by guest on October 11, 2012
+
+Koivisto et al
+
+Diagnosis of Familial Hypercholesterolemia
+
+589
+
+TABLE 2. Effect of Age, Gender, Obesity, and the Polymorphisms of Apolipoproteins E and B on Strum Low Density
+Upoprotein Cholesterol Concentration in Patients With a DNA Diagnosis of Familial Hypercholesterolemia and Their
+Non-Familial Hypercholesterolemia First-Degree Relatives
+LDL cholesterol (mmol/1)
+n
+
+All
+
+n
+
+Non-FH
+
+n
+
+FH
+
+50
+
+4.2±0.2
+
+35
+
+3.5±0.2
+
+15
+
+6.0+0.3
+
+<18yrs
+
+11
+
+3.4±0.4
+
+6
+
+23 ±0.2
+
+5
+
+4.6 ±0.5
+
+£l8yrs
+
+39
+
+4.4±03
+
+29
+
+3.7±0.3
+
+10
+
+6.3 ± 0 3
+
+All
+Age
+
+NS
+
+P
+Gender
+
+0.03
+
+0.01
+
+Male
+
+30
+
+43±0.3
+
+19
+
+3.5±03
+
+11
+
+5.7±0.4
+
+Female
+
+20
+
+3.9±0.4
+
+16
+
+3.4±0.4
+
+4
+
+5.7±0.4
+
+NS
+
+P
+Obesity
+
+NS
+
+NS
+
+BMI £25 kg/m2
+
+20
+
+5.0±03
+
+15
+
+4.6±0.3
+
+5
+
+6.4 ±0.5
+
+BMI <25 kg/m2
+
+30
+
+3.5 ± 0 3
+
+20
+
+2.7±0.2
+
+10
+
+5.4±0.4
+
+<0.01
+
+P
+Apo E
+
+< 0.001
+
+NS
+
+et Present*
+
+17
+
+4.2+0.4
+
+10
+
+3.2±0.4
+
+7
+
+5.7±0.6
+
+et Absent*
+
+33
+
+4.1±0.3
+
+25
+
+3.6±0.3
+
+8
+
+5.8±0.4
+
+NS
+
+P
+Apo B
+
+NS
+
+NS
+
+X2 Present!
+
+26
+
+4.4±03
+
+19
+
+3.9±0.3
+
+7
+
+5.7±0.6
+
+X2 Absentt
+
+24
+
+3.9±0.4
+
+16
+
+2.9 ±0.3
+
+8
+
+5.8±0.4
+
+NS
+
+P
+
+0.03
+
+NS
+
+Values are raean±SEM. Only patients not taking hypolipidemic drugs were included.
+LDL, low density lipoprotein; FH, familial hypercholesterolemia; BMI, body mass index; apo, apolipoprotein; NS,
+not significant.
+*et Present, at least one et allele present; et absent, no et allele present.
+fA2 present, genotypes X1X2 or X2X2; X2 absent, genotype XlXl.
+HDL cholesterol level than did the male patients
+(1.42+0.09 versus 1.13±0.08 mmol/l,/?=0.02).
+Findings on Physical Examination and History of
+Coronary Heart Disease
+Xanthomatosis was demonstrated in 17 of the 25
+adult DNA-verified FH patients (68%) but in none of
+the non-FH patients (Figure 4). In addition, xanthomatosis was suspected in one young and six adult FH
+FH HALES
+
+0
+
+10
+
+patients, as well as in two non-FH patients who both
+were more than 55 years of age. Thus, only two (8%) of
+the 25 adult FH patients were totally free of signs of
+xanthomatosis. Unequivocal xanthomatosis was most
+commonly noted in the Achilles tendons, whereas suspected xanthomas were often recorded in the subperiosteal regions (Table 3). The Achilles tendons of the
+adult FH patients were significantly thicker than those
+of the non-FH subjects (Table 3;/><0.001). The thick-
+
+FH FEMALES
+
+2 0 3 0 4 0 6 0 6 0 7 0
+
+. .. n.
+0
+
+AOE,yMlS
+
+10
+
+2 0 3 0 4 0 5 0 6 0 7 0
+AOE,yMra
+
+NON-FH FEMALES
+
+NON-FH MALES
+
+FIGURE 4. Chart showing clinical findings
+suggestive of familial hypercholesterolemia
+(FH) according to age and sex. Classification
+into FH and non-FH groups was based on
+DNA analysis. Each square represents one
+subject. CHD, coronary heart disease.
+
+~rh . rHn im
+10
+
+2 0 3 0 4 0 5 0 6 0 7 0
+
+0
+
+10
+
+AQE,yMT*
+
+AGE, years
+ctsd xanthomas
+
+2 0 3 0 4 0 5 0 6 0 7 0
+
+) xinthomas
+
+Q CHD
+
+Q DpoJd arcus f j xanttMlasmas
+
+Downloaded from http://atvb.ahajournals.org/ by guest on October 11, 2012
+
+590
+
+Arteriosclerosis and Thrombosis
+
+Vol 12, No 5 May 1992
+
+TABLE 3. Occurrence of Xanthomas and the Latero-Lateral
+Thickness of the Achilles Tendon in Familial Hypercholesterolemia and Non-Familial Hypercholesterolemia Subjects
+
+Achilles tendon
+Xanthomas
+Suspected xanthomas
+No xanthomas
+Thickness :»20 mm
+Thickness, mean
+(mm)
+
+FH
+2:18 yrs <18yrs
+(n=25) (71=5)
+
+Non-FH
+2:18 yrs <18yrs
+(n=29)
+(n=6)
+
+14(56)
+3(12)
+8(32)
+
+5(100)
+
+1(3)
+28(97)
+
+19(76)
+
+2(40)
+
+2(7)
+
+6(100)
+
+21.5±0.9 17.7±2.4 15.1±0.6 16.0±1.0
+
+Other tendons
+Xanthomas
+Suspected xanthomas
+No xanthomas
+
+15(60)
+
+Subperiosteal xanthomas
+Xanthomas
+Suspected xanthomas
+No xanthomas
+
+9(36)
+10 (49) 1(20)
+6(24) 4(80)
+
+Xanthomas present
+and/or Achilles tendon
+thickness a20 ram
+
+21 (84)
+
+10(40)
+5(100)
+
+2 (40)
+
+29(100)
+
+6(100)
+
+2(7)
+27(93)
+
+6(100)
+
+2 (7)
+
+The figures show the numbers of patients, with percentages in
+parentheses. Classification into FH and non-FH groups was based
+on DNA analysis.
+FH, familial hypercholesterolemia.
+
+ness was ^20 mm in 76% of the adult FH patients but
+in only 7% of their non-FH relatives. The combination
+of an unequivocal xanthomatosis and/or a thick (^20
+mm) Achilles tendon provided an even better discrimination between FH patients and non-FH subjects (Table 3).
+In comparison with tendon xanthomas and subperiosteal xanthomatosis, lid xanthelasmas (32%) and lipoid
+arcus (16%) were seen less frequently in the adult FH
+patients (Figure 4). None of the FH patients or their
+relatives below 45 years of age had symptomatic CHD.
+In contrast, all four male and four of seven female FH
+patients of at least 45 years of age had a history of
+symptomatic CHD (Figure 4).
+Discussion
+The enrichment of a specific LDL receptor gene
+mutation in the Finnish population facilitates an unequivocal discrimination between FH and non-FH
+members of families with a known carrier status of this
+mutant gene. This prompted us to clarify how accurate
+the routine clinical criteria — family and patient history,
+serum LDL cholesterol concentration, and the presence
+of tendon xanthomas — are in the diagnosis of heterozygous FH. The availability of a confirmatory diagnostic
+technique also permits studies in which the effects of
+age, gender, and drug and dietary interventions, as well
+as the genetic variation of other DNA loci on the
+phenotypic features of FH, can be investigated.
+
+Using somewhat modified criteria of an authoritative
+recommendation,2 we achieved a correct clinical diagnosis of FH in 55 (85%) of the 65 subjects examined.
+Four subjects were placed in an incorrect diagnostic
+category, and six subjects were assigned to the "possible
+FH" group. In the age group <18 years, only two of the
+five FH children were correctly diagnosed clinically
+because the serum LDL levels in the remaining three
+patients were lower than the diagnostic limits adopted.
+In this age group tendon xanthomas are a rarity and,
+therefore, virtually never assist in the diagnosis. All
+these data emphasize the usefulness of DNA methods
+as an adjunct in the diagnosis of heterozygous FH.
+When FH is suspected on clinical presentation, the
+age of the patient should be carefully taken into account. If the Finnish age- and sex-specific 95th percentile LDL cholesterol concentration curves (Reference
+27 and A. Reunanen, unpublished) were depicted in
+Figure 3, the serum LDL cholesterol concentrations of
+the present non-FH subjects would not exceed this 95th
+percentile level. The corresponding value would be
+below the age- and sex-specific 95th percentile level in
+only four FH patients, including two children and a
+44-year-old man with insulin-dependent diabetes mellitus and a strict low-fat diet, as well as the patient with
+metastasized carcinoma of the breast who was discussed
+earlier. In fact, the introduction of the age- and sexspecific 95th percentile LDL cholesterol values instead
+of the rigid ones originally employed would have permitted a correct diagnosis (FH versus non-FH) in 95%
+of the subjects of the present study.
+During the initial screening, all propositi of the
+present study were judged to be carriers of the FHHelsinki mutation of the LDL receptor gene. This
+mutation, unique to the Finnish population, is an =9.5kb-long deletion of the LDL receptor gene that eliminates exons 16 and 17 and part of exon 18, resulting in
+a truncated LDL receptor protein and leading to a
+defective internalization of LDL particles.15 During the
+progress of the present study, one of the probands and
+six of her affected relatives belonging to the M family
+were demonstrated to have an LDL receptor gene
+deletion reminiscent of but yet different from the FHHelsinki mutation. Further studies revealed that this
+mutation is due to an =«6-kb deletion extending from
+intron 14 to intron 15 (Figure 2). The determination of
+the exact boundaries of this deletion was, however, not
+possible on the basis of the current data. We have
+designated this mutation FH-Espoo according to the
+residence of the M family. Although the mean serum
+LDL cholesterol levels in the FH-Espoo family were not
+different from those in other famines, a 12-year-old boy
+with FH-Espoo and his affected cousin had relatively
+low serum LDL cholesterol levels (3.0 and 4.0 mmol/1,
+respectively; Figure 3). The possibility that the low LDL
+cholesterol levels in the two young cousins could be due
+to a "cholesterol lowering gene" 9 is made less likely by
+the fact that their fathers were carriers of the M family
+mutation and had high serum LDL cholesterol levels. In
+the families with the FH-Helsinki mutation, a total of 23
+subjects were identified as carriers of the mutant gene
+by DNA analysis. None of them was clinically classified
+in the non-FH category, and only four of them, each
+from separate families, were classified as "possible FH"
+patients. Collectively, we were unable to find evidence
+
+Downloaded from http://atvb.ahajournals.org/ by guest on October 11, 2012
+
+Koivisto et al
+
+for the occurrence of a putative cholesterol-lowering
+gene in the families examined by us.
+Polymorphisms of the genes encoding the ligands for
+the LDL receptor, apolipoproteins E and B, have been
+shown to affect serum total and LDL cholesterol levels
+in FH patients in some but not in all studies.7-8^28-30 In
+the present study in which only a relatively small group
+of untreated patients was available, these polymorphisms did not significantly affect serum LDL cholesterol levels in FH patients. Of the non-FH relatives,
+carriers of the apolipoprotein X2 allele had a higher
+mean serum LDL cholesterol level than did those
+without this allele, which is in accordance with our
+earlier findings in a random Finnish population sample.31 The overrepresentation of apolipoprotein E allele
+e4 in our FH patients compared with unaffected relatives is very likely a chance association because the
+genes for the LDL receptor and apolipoprotein E have
+been localized on opposite ends of chromosome 1932
+and therefore should not be linked. No association
+between FH and any apolipoprotein E phenotype has
+been noted in other studies.28-29
+The present study, in which the ultimate diagnosis of
+FH was based on DNA analysis and thus is unequivocal,
+confirms the findings of earlier studies of the prevalence
+of some physical findings in heterozygous FH patients.
+Tendon xanthomatosis was encountered in 68% of the
+adult FH patients, which compares well with earlier
+estimates.3-33"35 The simple measurement of the Achilles tendon thickness (^20 mm) identified three quarters
+of the adult FH patients. This percentage is almost as
+high as that achieved by measuring Achilles tendon
+thickness radiologicalry.34 Our simple method is, however, less precise than the radiological methods, and an
+excess of subcutaneous fat may cause falsely elevated
+values. In fact, in the present series the two non-FH
+subjects with abnormally thick Achilles tendons were
+both obese.
+In conclusion, our study shows that more than 10% of
+adult members belonging to FH families may be incorrectly classified as FH or non-FH subjects when simple
+clinical criteria like those in the present study are used.
+However, when age-, population-, and sex-specific 95th
+percentile values for serum LDL cholesterol are used
+instead of common reference limits for all adults, only
+one of 20 subjects is incorrectly classified as to the FH
+status. In doubtful cases and in particular in the evaluation of children, detection or exclusion of an LDL
+receptor gene mutation is a very useful adjunct to
+confirm or refute the diagnosis. The applicability of
+DNA diagnostics is especially conspicuous in populations with an enrichment of specific LDL receptor
+mutation(s) until convenient simultaneous screening
+techniques for multiple mutations of a specific gene
+become available.
+Acknowledgment
+The authors wish to thank Ms. Kaija Kettunen for her
+outstanding technical assistance.
+
+References
+1. National Cholesterol Education Program coordinated by the
+National Heart, Lung, and Blood Institute: Highlights of the Report
+of the Expert Panel on Detection, Evaluation and Treatment ofHigfi
+
+Diagnosis of Familial Hypercholesterolemia
+
+591
+
+Blood Cholesterol in Adults. NIH publication No. 88-2926.
+Bethesda, Md, National Institutes of Health, 1987
+2. Study Group, European Atherosclerosis Society: The recognition
+and management of hypertipidaemia in adults: A policy statement
+of the European Atherosclerosis Society. Eur Heart J 1988;9:
+571-600
+3. Goldstein JL, Brown MS: Familial hypercholesterolemia, in
+Scriver CR, Beaudet AL, Shy WS, Valle D (eds): The Metabolic
+Basis of Inherited Disease. New York, McGraw-Hill Book Co, Inc,
+1989, pp 1215-1250
+4. Brown MS, Goldstein JL: A receptor-mediated pathway for cholesterol homeostasis. Science 1986^32:34-47
+5. Russell DW, Esser V, Hobbs H: Molecular basis of familial
+hypercholesterolemia. Arteriosclerosis 1989^(suppl I):I-8—1-13
+6. Thompson GR, Seed M, Niththyananthan S, McCarthy S,
+Thorogood M: Genotypic and phenotypic variation in familial
+hypercholesterolemia. Arteriosclerosis 1989;9(suppl I):I-75-I-80
+7. Eto M, Watanabe K, Chonan N, Ishii JC Familial hypercholesterolemia and apolipoprotein E4. Atherosclerosis 1988;72:123-128
+8. Aalto-Setaia K, Gylling H, Helve E, Kovanen P, Miettinen TA,
+Turtola H, Kontula K; Genetic polymorphism of the apoprotein B
+gene locus influences serum LDL cholesterol level in familial
+hypercholesterolemia. Hum Genet 1989;82:305-307
+9. Hobbs HH, Leitersdorf E, Leffert CC, Cryer DR, Brown MS,
+Goldstein JL: Evidence for a dominant gene that suppresses
+hypercholesterolemia in a family with defective low density lipoprotein receptors. / Clin Invest 1989;84:656-664
+10. Cuthbert JA, East CA, BDheimer DW, Lipsky PE: Detection of
+familial hypercholesterolemia by assaying functional low-density
+lipoprotein receptors on lymphocytes. N Engl J Med 1986^314:
+879-883
+11. Cuthbert JA, Lipsky PE: Identification of low density lipoprotein
+receptor abnormalities by assaying functional receptors on proliferating lymphocytes. Arteriosclerosis 1989;9(suppl I):I-43-I-49
+12. Lehrman MA, Schneider WJ, Brown MS, Davis CG, Elhammer A,
+Russell DW, Goldstein JL: The Lebanese allele of the low density
+lipoprotein receptor locus: Nonsense mutation produces truncated
+receptor that is retained in endoplasmic reticulum. J Bio! Chem
+1987062:401-410
+13. Hobbs HH, Brown MS, Russell DW, Davignon J, Goldstein JL:
+Deletion in LDL receptor gene occurs in majority of French
+Canadians with familial hypercholesterolemia. N £ng/ / Med
+1987^17:734-737
+14. Leitersdorf E, Van Der Westhuyzen DR, Coetzee GA, Hobbs HH:
+Two common low density lipoprotein receptor gene mutations
+cause familial hypercholesterolemia in Afrikaners. J Clin Invest
+1989;84:954-961
+15. Aalto-Setaia K, Helve E, Kovanen FT, Kontula K: The Finnish
+type of LDL receptor gene mutation (FH-Helsinki) deletes exons
+encoding the carboxy-terminal part of the receptor and creates an
+internalization-defective phenotype. / Clin Invest 1989;84:499-505
+16. Aalto-Setaia K, Koivisto U-M, Miettinen TA, Gylling H, Kesaniemi YA, Savolainen M, Pyoraia K, Ebeling T, Mononen I, Turtola
+H, Viikari J, Kontula K: Prevalence and geographical distribution
+of major LDL receptor gene rearrangements in Finland. / Intern
+Med (in press)
+17. Kattermann R, Jaworek D, M611er G: Multicentrc study of a new
+enzymatic method of cholesterol determination. / Clin Chem Clin
+Biochem 1984^22:245-251
+18. Wahlefeld AW: Trigrycerides: Determination after enzymatic
+hydrolysis, in Bergmeyer HU (ed): Methods in Enzymatic Analysis,
+ed 2. Weinheim and New York/London, Verlag-Chemie and
+Academic Press Inc, 1974, p 1831
+19. Finley PR, Schifman RB, Williams RJ, lichti DA: Cholesterol in
+high-density lipoprotein: Use of Mg*+/dextran sulphate in its
+enzymatic measurement. Clin Chem 1978;24:931-933
+20. Friedewald WT, Levy RJ, Fredrickson DS: Estimation of the
+concentration of low-density lipoprotein cholesterol in plasma,
+without use of the preparative ultracentrifuge. Clin Chem 1972;18:
+499-502
+21. Kwiterovich PO J r Pediatric implications of heterozygous familial
+hypercholesterolemia: Screening and dietary treatment. Arteriosclerosis 1989^)(suppl I):I-11-1-20
+22. Hegsted DM, Nicolosi RJ: Individual variation in serum cholesterol levels. Proc NatlAcad Sd U S A 1987;84:6259-6261
+23. Keys A: Coronary heart disease in seven countries: XVII. The diet.
+Circulation 1970;41(suppl I):I-162-I-183
+24. Knuiman JT, West CE, Burema J: Serum total and high density
+lipoprotein cholesterol concentrations and body mass index in
+adult men from 13 countries. Am J Epidemiol 1982;116:631-642
+
+Downloaded from http://atvb.ahajournals.org/ by guest on October 11, 2012
+
+592
+
+Arteriosclerosis and Thrombosis
+
+Vol 12, No 5 May 1992
+
+25. Aalto-SetSia K, Gylling H, Miettinen T, Kontula K: Identification
+of a deletion in the LDL receptor gene: A Finnish type of
+mutation. FEBS Lett 1988;23O:31-34
+26. Kontula K, Aalto-SetSIS K, Kuusi T, HSm&lSinen L, SyvSnen A-C:
+Apolipoprotein E polymorphism determined by restriction enzyme
+analysis of DNA amplified by porymerase chain reaction: Convenient alternative to phenotyping by isoelectric focusing. Clin Chem
+199036:2087-2092
+27. Viikari J, Ronnemaa T, Seppanen A, Marniemi J, Porkka K,
+RasSnen L, Uhari M, Salo MK, Kaprio EA, Nuutinen EM,
+Pesonen E, PietikSinen M, Dahl M, Akerblom HK: Serum lipids
+and lipoproteins in children, adolescents and young adults in
+1980-1986. Ann Med 1991;25:53-59
+28. Gylling H, Kuusi T, Vanhanen H, Miettinen TA: Apolipoprotein E
+phenotype and cholesterol metabolism in familial bypercholesterolemia. Atherosclerosis 1989;80:27-32
+29. Dallongeville J, Roy M, Leboeuf N, Xhignesse M, Davignon J,
+Lussier-Cacan S: Apolipoprotein E polymorphism association with
+lipoprotein profile in endogenous hypertrigryceridemia and familial hypercholesterolemia. Arterioscler Thromb 1991;ll:272-278
+30. Gylling H, Aalto-SetSIS K, Kontula K, Miettinen TA: Serum low
+density lipoprotein cholesterol level and cholesterol absorption
+efficiency are influenced by apolipoprotein B and E polymorphism
+and by the FH-Helsinki mutation of the low density lipoprotein
+
+31.
+
+32.
+
+33.
+
+34.
+
+35.
+
+receptor gene in familial hypercholesterolemia. Arterioscler
+Thromb 1991;11:1368-1375
+Aalto-SetalS K, Tikkanen MJ, Taskinen MR, Nieminen M, Holmberg P, Kontula K: XbaX and c/g polymorphisms of the apolipoprotein B gene locus are associated with serum cholesterol and
+LDL cholesterol levels in Finland. Atherosclerosis 1988;74:47-54
+McKusick VA: Genetic map of the human genome autosomes, and
+X, Y, and mitocbondrial chromosomes, in Scriver CR, Beaudet
+AL, Shy WS, Valle D (eds): The Metabolic Basis of Inherited
+Disease. New York, McGraw-Hill Book Co, Inc, 1989, pp 73-163
+Kwiterovich PO Jr, Fredrickson DS, Levy RI: Familial hypercholesterolemia (one form of familial type II hyperlipoproteinemia):
+A study of its biochemical, genetic, and clinical presentation in
+childhood. / Clin Invest 1974^3:1237-1249
+Mabuchi H, Ito S, Haba T, Ueda K, Tatami R, Kametami T,
+Koizumi J, Ohta M, Miyamoto S, Takeda R, Takegoshi T: Discrimination of familial hypercholesterolemia and secondary hypercholesterolemia by Achilles' tendon thickness. Atherosclerosis 1977;
+28:61-68
+Gagn6 C, Moorjani S, Brun D, Toussaint M, Lupien P-J: Heterozygous familial hypercholesterolemia: Relationship between
+plasma lipids, lipoproteins, clinical manifestations and ischaemic
+heart disease in men and women. Atherosclerosis 1979^34:13-24
+
+Downloaded from http://atvb.ahajournals.org/ by guest on October 11, 2012
+
+

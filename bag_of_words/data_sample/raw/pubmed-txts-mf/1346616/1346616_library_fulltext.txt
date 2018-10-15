@@ -1,0 +1,1154 @@
+Cloning and Expression of a Mutant Methylmalonyl Coenzyme A Mutase with
+Altered Cobalamin Affinity That Causes mut- Methylmalonic Aciduria
+Ana Maria Crane, Ruud Jansen, Elizabeth R. Andrews, and Fred D. Ledley
+Howard Hughes Medical Institute, Departments of Cell Biology and Pediatrics, Baylor College of Medicine, Houston, Texas 77030
+
+Abstract
+Distinct genotypic and phenotypic forms of methylmalonyl
+CoA mutase (MCM) apoenzyme deficiency can be delineated
+by biochemical analysis of mutant fibroblasts. One form, designated mut-, expresses a phenotype in which residual enzyme
+activity is evident in cultured cells exposed to high concentrations of hydroxycobalamin. We describe cloning of an MCM
+cDNA from cells exhibiting a mut- phenotype and characterization of the mutant gene product overexpressed in primary mut'
+human fibroblasts and Saccharomyces cerevisiae. Three novel
+base changes were observed. Recombinant clones containing
+one of these base changes (G717V) express four characteristics
+of the mut- phenotype: failure to constitute 14Cqpropionate incorporation activity in fibroblasts assayed under basal cell culture conditions, constitution of 1[4Cjpropionate incorporation
+activity in fibroblasts stimulated with 0.1-1.0 ,g/ml hydroxycobalamin, interallelic complementation with alleles bearing an
+R93H mutation, and an apparent K. (adenosylcobalamin)
+1,000-fold higher than normal. These results demonstrate that
+the G717V mutation produces the mut- phenotype and localizes determinants for adenosylcobalamin binding near the carboxyl terminus of MCM. (J. Clin. Invest. 1992. 89:385-391.)
+Key words: inborn errors of metabolism * organic acids * adenosylcobalamin * molecular cloning * Saccharomyces cerevisiae
+
+Introduction
+Methylmalonic aciduria (MMA)' represents a set of inborn
+errors of metabolism that result from inadequate function of
+the enzyme L-methylmalonyl CoA mutase (MCM, EC
+5.4.99.2). This enzyme catalyzes isomerization of L-methylmalonyl CoA to succinyl CoA in the pathway by which propionate or propionyl CoA is metabolized via methylmalonyl CoA
+to Kreb's cycle intermediates (1). The MCM holoenzyme is a
+homodimer that contains 1 mol of an adenosylcobalamin cofactor for each mole of subunit (2). Distinct genotypic forms of
+MMA are caused by defects in the MCM apoenzyme (designated mut MMA; McKusick number 251000; reference 3) or
+defects in enzymes required for providing the adenosylcobalaR. Jansen's present address is Laboratorium coor Moleculaire Biologie,
+Centraal Diergeneeskundit Instituut, Edelhertweg 15, Netherlands.
+Address correspondence to F. D. Ledley, Howard Hughes Medical
+Institute, Department of Cell Biology, Baylor College of Medicine,
+Houston, TX 77030.
+Receivedfor publication 14 August 1991 and in revisedform 9 October 1991.
+1. Abbreviations used in this paper: MCM, methylmalonyl CoA mutase; MMA, methylmalonic aciduria; PCR, polymerase chain reaction.
+
+min cofactor (designated cbl MMA; McKusick numbers
+251100 and 251110; reference 3). Two distinct phenotypic
+forms of mut MMA can be delineated by biochemical analysis
+of fibroblasts from patients with MMA: mulP, in which fibroblasts exhibit no ['4C]propionate incorporation under any conditions or detectable MCM apoenzyme activity in vitro, and
+mut-, in which fibroblasts exhibit ['4C]propionate incorporation when stimulated by high concentrations of hydroxycobalamin (4-7). This biochemical variation is thought to underlie
+the varied clinical expressions of MCM deficiency, which range
+from fulminant neonatal acidosis, multiorgan failure, and
+death (8) to benign, persistent MMA without any corresponding clinical or developmental abnormalities (9).
+Additional classes of mut MMA have recently been delineated by somatic cell complementation studies with mut°
+WG1 130 fibroblasts (10). Somatic cell fusions between
+WG1 130 and most mut- fibroblasts restore [14C]propionate
+incorporation, apparently by interallelic complementation,
+whereas fusions between WG 1130 and most mut° fibroblasts
+did not complement ['4C]propionate incorporation.
+We have reported cloning of the normal human MCM
+cDNA, which comprises 2,798 bases and encodes a propeptide
+of 750 amino acids (83,007 D) with a 32-amino acid mitochondrial targeting sequence and a 718-amino acid mature
+apoenzyme (1 1, 12). DNA-mediated gene transfer ofthis clone
+into primary mulP fibroblasts restores [14C]propionate incorporation to normal levels during the transient phase of recombinant gene expression after electroporation (13), confirming
+that defects at this gene locus are responsible for the mut genotype. The recombinant MCM apoenzyme has been expressed
+at high levels in Saccharomyces cerevisiae for biochemical analysis and has been shown to exhibit kinetic parameters indistinguishable from the native enzyme (Andrews, E., R. Jansen,
+A. M. Crane, M. F. Wilkemeyer, D. McDonnell, and F. D.
+Ledley, unpublished data). Of particular relevance to the present experiments is the fact that S. cerevisiae does not have
+endogenous MCM (14) and does not produce adenosylcobalamin, so that the recombinant MCM produced in this organism
+is entirely apoenzyme.
+Several mutations have been identified in human MCM
+(10, 15, 16), including two nonsense mutations (W1O5R and
+A378E) that give rise to a classic mut° phenotype (16) and a
+mutation (R93H) that exhibits interallelic complementation
+(10) with mut fibroblasts. We describe here the cloning, sequencing, and expression of an MCM mutation expressing the
+mut- phenotype and the characterization of the activity of the
+recombinant gene product expressed in fibroblasts and S. cerevisiae.
+
+Methods
+J. Clin. Invest.
+©3 The American Society for Clinical Investigation, Inc.
+
+0021-9738/92/02/0385/07 $2.00
+Volume 89, February 1992, 385-391
+
+Fibroblasts from patients with mut MMA. The DS79 fibroblasts were
+provided by Dr. David Valle (Johns Hopkins University, Baltimore,
+MD) and were previously shown to exhibit a mut- phenotype (7).
+Cobalamin-binding Mutation That Causes mut- Methylmalonic Aciduria
+
+385
+
+Kpn
+
+GM 1673 fibroblasts were obtained from the National Institute of General Medical Sciences (Bethesda, MD) Mutant Cell Repository and
+were previously shown to express a mut' phenotype with low levels of
+MCM mRNA (7). MAS and WG1 130 are mut' cell lines, the mutations of which have been described previously (10, 16).
+Cloning and sequencing ofMCM cDNA. Total RNA was prepared
+from confluent fibroblasts, and cDNA was synthesized and amplified
+by polymerase chain reaction (PCR; Fig. 1) as described previously
+(16). First-strand cDNA was generated from oligonucleotide 33 in the
+3' untranslated region of the cDNA and used as a template for two PCR
+reactions between oligonucleotides 53 and 28 and between oligonucleotides 23 and 21. The products of the 5' reaction were cloned into the
+ClaI/KpnI sites of pGEM7zft+) using the ClaI site within oligonucleotide 53 and the internal KpnI site at base 720. The products of the 3'
+reaction were cloned into the KpnI/BamHI sites of pGEM7zf(+) using
+the internal KpnI and BclI sites. Double-stranded dideoxy sequencing
+was performed using the T7- (Q501 1, Promega Corp., Madison, WI),
+SP6- (Q512 1, Promega), or MCM-specific primers (Fig. 1). Clonal isolates were sequenced and compared with the sequence from a pool of
+15 independent clones to confirm the authenticity of sequence variations. Oligonucleotide sequences are in reference 16.
+DNA-mediated gene transfer and assay of["C]propionate incorporation in fibroblasts. An expression vector was constructed using the
+normal human MCM cDNA (pCMV-hMCM) in the plasmid
+pNAssCMV (17, 18), the cytomegalovirus immediate early promoter,
+the SV40 late viral protein splice donor and acceptor signals, and the
+SV40 polyadenylation sequences (Fig. 3 A, clone F). Mutant clones
+were constructed by substituting fragments from the PCR-generated
+cDNA clones into the normal vector (Fig. 3 A). A BamHI/NsiI fragment containing H532R (base 1,671) was replaced in a subclone containing the 5' end of the normal MCM gene (Fig. 3 A, clone 1). A
+NsiI/EcoRI fragment containing V67 11 (base 2,087) and G717V (base
+2,226) was combined with fragments from the normal hMCM expression vector (Fig. 3 A, clone 2). Normal sequences corresponding to
+V67 1I were restored by replacing a normal NsiI/AocI fragment, and
+normal sequences corresponding to G717V were restored by replacing
+a normal AocI/SalI fragment. Full-length clones were reconstituted by
+three-part ligation from 5' NotI/NsiI and 3' NsiI/SalI fragments. All
+A. REVERSE TRANSCRIPTION
+mRNA
+1st strand cDNA
+
+AAAA
+
+4-
+
+33
+
+40
+
+21
+
+B. POLYMERASE CHAIN REACTION
+23 4-
+
+Cial
+53 4-
+
+Kpnl
+4
+
+_CMSA7-81\
+~~~~~pO3EM7Zf(+)
+
+8
+
+TT7
+
+Clal
+
+34T
+b
+-pI
+
+-
+
+500
+
+0
+bases
+
+BcIl
+
+40 28
+
+C. SEQUENCING
+spe -,
+
+mmq.-
+
+Results
+
+16 -_
+35 -_
+28-*
+37
+
+1000
+
+28
+
+1500
+
+BcIl
+1 ~ SI'
+
+4- 137-_1 _SP6
+
+2000
+
+pEM7zf(+)
+
+2500
+
+Figure 1. Scheme for cloning and sequencing MCM cDNA. Firststrand cDNA was synthesized with oligonucleotide 33 (A). This material was added to two PCR reactions that amplify the 5' and the 3'
+ends of the cDNA, respectively (B). The PCR products were subcloned into the ClaI/KpnI or KpnI/BamHI sites of the vector
+pGEM7zf(+) and sequenced using the SP6 or T7 promoter primers
+or oligonucleotides complementary to the MCM sequence as indicated (C). The oligonucleotide sequences have been published previously (21).
+386
+
+subcloned segments were sequenced to confirm the absence of artifactual sequence changes, and all gene expression experiments were performed with two independent subclones.
+The clones were introduced via electroporation (19) into GM 1673
+cells, which express low amounts of MCM mRNA and no significant
+['4C]propionate incorporation under any conditions (7, 13). Electroporation was performed using a Gene Pulser (Bio-Rad Laboratories,
+Richmond, CA) after a 5-min incubation of 0.3 ml of cells (density of
+1.2 X 107/ml) with 10-20,Mg DNA, voltage pulses of260 V, and capacitance of 960,uF. MCM activity was assayed 2 d after electroporation by
+['4C]propionate incorporation (7, 13, 20, 21).
+Incorporation of ['4C]propionate into TCA-precipitable material is
+dependent on MCM holoenzyme activity and provides a sensitive measure of MCM holoenzyme activity. [3H]Leucine incorporation was
+measured to normalize for cell number and constitutive protein synthesis. The results are expressed as the mean nanomoles propionate per
+micromole leucine incorporated in triplicate samples. Cobalamin reof mut cells was assayed by measuring ['4Cjpropionate
+sponsiveness,
+incorporation in the presence of 1.0 ug/ml hydroxycobalamin. Significant propionate incorporation is determined from the mean and standard deviation compared with GM 1673 controls.
+Expression and enzyme assays in S. cerevisiae. The vector pYEPVhMCM for expression of human MCM in S. cerevisiae will be described elsewhere (Andrews, E., R. Jansen, A. M. Crane, M. F. Wilkemeyer, D. McDonnell, and F. R. Ledley, unpublished data). This clone
+contains the human MCM open reading frame with truncated 5' and 3'
+untranslated regions, the CUPlp promoter, 2s origin of replication,
+and TRP-l gene for tryptophan selection (22) (Fig. S A). Sequence
+fragments containing all three sequence variations or only G717V were
+substituted into this vector on a KpnI/EcoRI segment by three-part
+ligation of the mutant KpnI/EcoRI fragment with EcoRI/ClaI and
+KpnI/ClaI fragments from the normal clone. The clones were introduced into the proteinase-deficient S. cerevisiae strain BJ3505 (TrplI,
+Ura3Y), and expression ofthe recombinant gene was induced with 100
+MM CuS04 when cultures reached an OD6w of 0.5. The cells were
+harvested 4 h after induction by centrifugation; lysed using GlassperlenTM (B. Braun Melsungen, Melsungen, Germany) (0.45-0.5 mm) in
+28 mM NaPO4, pH 7.0, 5 mM EDTA; and cleared of particulate matter by centrifugation.
+MCM activity was measured in vitro using the potassium permanganate/perchloric acid method (23-25). Each reaction contained 50200Mgg crude extract, 100 mM Tris-PO4, pH 7.5, 0.5-2 mM D/L-methylmalonyl CoA (Sigma Chemical Co., St. Louis, MO), 160,000 dpm
+D/L-['4C]methylmalonyl CoA (56 mCi/mmol, Amersham Corp., Arlington Heights, IL), and 0- 1.0 mM adenosylcobalamin in a volume of
+300,Ml. The reaction was incubated in the dark for 20 min at 30°C and
+stopped by adding 100 Ml 2 M perchloric acid and boiling. The total
+protein content was determined using a protein assay (BioRad Laboratories). Each experiment was performed in triplicate, and the results are
+expressed as nanomoles succinate formed/milligram protein per hour.
+
+A. M. Crane, R. Jansen, E. R. Andrews, and F. D.
+
+Ledley
+
+Characteristics of DS79 (mut) fibroblasts. Diagnostic studies
+of DS79 fibroblasts have shown that these cells belong to the
+mut complementation group. Studies in our laboratory confirm that these cells exhibit no detectable apoenzyme in vitro
+under standard assay conditions and no significant ['4C]propionate incorporation under basal culture conditions. The
+addition of hydroxycobalamin to the culture at concentrations
+
+of 0.1-1.0 ,ug/ml stimulated ['4C]propionate incorporation (7).
+The diagnosis of mut MMA was confirmed by DNA-mediated
+gene transfer, which restored ['4C]propionate incorporation
+(13). Thus, we conclude that these fibroblasts exhibit a mut
+phenotype analogous to the one originally described by Willard
+and Rosenberg (4-6).
+
+with 1 ,ug/ml hydroxycobalamin (Fig. 3 B, lanes C and E).
+Thus, G717V alone was responsible for the impaired MCM
+activity in DS79 cDNA clones.
+Interallelic complementation between G717V and R93H
+mutations. To test whether the G717V mutation exhibited the
+complete phenotype of the parental DS79 fibroblasts, we investigated whether clones with G717V would complement the
+R93H mutation (10). It has been shown previously that DNAmediated gene transfer of clones with R93H into the mut' fibroblasts GM 1673 (low mRNA phenotype) or MAS (heterozygous for W1O5R and A378E mutations) does not restore [14C]propionate incorporation, whereas DNA-mediated gene
+transfer of the same clone into the DS79 fibroblasts increased
+['4C]propionate incorporation (10). To replicate this phenomenon, equal concentrations of plasmids with the G717V, R93H,
+W105R, or A378E mutations were electroporated into
+GM 1673 fibroblasts in various combinations (Fig. 4 A) or into
+DS79 (Fig. 4 B). ['4C]Propionate incorporation in GM1673
+fibroblasts was not stimulated by vector alone, W1O5R,
+A378E, R93H, or G7l7V. Combinations of G717V + W1O5R
+or G717V + A378E similarly failed to constitute [14C]propionate incorporation, as did combinations of R93H
++ W1O5R or R93H + A378E. In contrast, cells electroporated
+with G717V + R93H exhibited increased ['4C]propionate incorporation equivalent to that attained by transfer of R93H
+clones into the parental DS79 fibroblasts (Fig. 4 B). These experiments demonstrate selective interallelic complementation
+between the G717V and R93H mutations.
+Characteristics ofthe mutant gene product. Segments of the
+mutant cDNA bearing all three novel sequences or the G717V
+mutation alone were substituted for normal sequences in the
+expression vector YEPV-MCM (Fig. 5 A) and introduced into
+
+Identification of mutations in DS79. Three differences were
+identified between the sequence of DS79 and the consensus
+sequence: H532R (a - g, base 1,671), V6711 (g -- a, base
+2,087), and G717V (g t, base 2,226) (Fig. 2). All three novel
+sequences were uniformly present in a mixture of 15 cDNA
+clones, suggesting that these sequences were not PCR artifacts.
+Thus, this patient is homozygous for all three novel sequences
+or is a compound heterozygote in which the heterologous allele
+is not represented in the cDNA clones (15).
+To confirm that these sequence variations were responsible
+for the mur phenotype, an expression vector that contained all
+three changes was constructed (Fig. 3 A, clone A). This clone
+was not capable of inducing ['4C]propionate incorporation in
+mutP GM 1673 fibroblasts assayed under basal conditions, but
+activity was stimulated when 1 gtg/ml hydroxycobalamin was
+added to the culture media (Fig. 3 B, lane A). This stimulation
+is quantitatively similar to the ['4C]propionate incorporation
+observed in the parental DS79 cells without electroporation
+(Fig. 3 C, BLANK) or after electroporation with the vector
+alone (Fig. 3 C, CMV). These data demonstrate that the MCM
+cDNA from the DS79 fibroblasts expressed the phenotype of
+the parental cells.
+Expression constructs were made with different permutations of the three potential mutations to determine which
+amino acid change was responsible for the pathological phenotype. Clones containing only H532R (Fig. 3 A, clone B) or only
+V67 11 (Fig. 3 A, clone D) induced ['4C]propionate incorporation (Fig. 3 B, lanes B and D) equivalent to that of a normal
+MCM clone (Fig. 3 B, lane F). Clones containing both V67 I1
+and G717V (Fig. 3 A, clone C) or only G717V (Fig. 3 A, clone
+E) failed to constitute ['4C]propionate incorporation under basal conditions, but incorporation was evident in cells treated
+
+normal / mutant
+
+normal / mutant
+
+normal / mutant
+
+(antisense)
+
+(antisense)
+
+(sense)
+'a,
+_
+
+Blow
+
+NORMAL
+
+GA
+
+MUTANT
+
+---.TGT
+
+.Glu
+
+Glu
+
+2ys
+532
+
+ui
+
+Val 'I.- Val
+
+GI 1. er
+GG c4TA AGC
+GGqATA GC
+GI I. er
+
+GA4T GT
+
+~
+
+GTT3G1GTT
+.........
+GT ITT1GTT
+..
+
+Val
+
+:j Val
+717
+
+671
+
+ai mlin D
+
+Figure 2. Novel sequences
+acid identified in DS79 fibroblasts. Three differences
+were observed between the
+
+_mmmmm^*
+1671
+V
+
++
+
+Kpnl
+500
+
+BamHl
+1000
+
+V
+
+from DS79 and the normal
+(consensus) sequence of
+human MCM. The changes
+in nucleic acids and amino
+acids are shown. The order
+of sequencing lanes is A,
+
+V
+
+(BcIl/BamHl)
+EcoRI
+
+Aocl
+
+Nsil
+1500
+
+nucleiic acid MCM cDNA sequences
+
+2087 2226
+
+2000
+
+2500
+
+3000
+
+T,C,G.
+
+Cobalamin-binding Mutation That Causes mut- Methylmalonic Aciduria
+
+387
+
+A
+
+MUTATIONS
+
+V671
+H532R
+
+_mm
+
+3' PCR CLONE
+SUBCLONES
+
+G717V
+
+__CK
+
+-W
+
+1
+
+2
+
+EXPRESSION CLONES
+A
+B
+C
+II
+II
+
+v
+
+VW.
+
+II
+
+11 11
+
+NS
+
+A BC
+
+D
+E
+
+K
+
+A
+
+F
+
+H
+
+E
+_N
+
+E H
+
+B
+
+CMV PROMOTOR
+-500
+
+0
+
+S
+Nv
+
+SV4O poly-A
+500
+
+1000
+
+2000 2500 3000 3500
+NORMAL SEQUENCE
+
+1500
+
+D879 SEQUENCES
+
+C
+
+B
+
+nmol propionate/Jmol
+
+nmol propionate/pgmol
+
+leucine
+
+120 -
+
+120
+
+leucine
+7- _
+td err
+B12
+-8 12
+
+Figure 3. Expression of
+cDNA clones containing
+novel sequences and
+identification ofthe
+pathogenic mutation. (A)
+Construction of expres-
+
+sion vectors. Segments of
+the 3' PCR clone were
+combined with normal
+sequences in the vector
+80o
+8o
+pGEM5 (clones I and 2)
+and then substituted into
+60o L
+60 t
+|
+1
+|
+the normal MCM expresvector pCMVsion
+|
+....
+..0
+4 0; ....40Oe,,
+ss
+l
+hMCM (clone F). Each
+IIII
+|
+2
+11
+t
+1
+|
+construct contains differ20 1
+1
+2 0F..
+3
+S
+S
+]
+|
+1
+.v
+t21
+ent permutations of the
+novel sequences observed
+in DS79, which are indiBLANK CMV
+F
+B
+CMV BLANK
+A
+C
+D
+E
+cated by inverted triangles. (B) Expression of mutant clones in pnmary mutP fibroblasts. The expression vectors containing various combinations of base changes illustrated in A (clones A-F) were electroporated into a primary mut°, GM 1673 fibroblasts. ['4C]Propionate incorporation was assayed (in triplicate) in the absence or presence of 1 gg/ml B 12 (hydroxycobalamin). Lanes A-F correspond to cells electroporated with the corresponding clone
+illustrated in A. BLANK, nonelectroporated cells, CMV, cells transformed with vector alone as a control. (C) Activity of the parental mur
+fibroblasts DS79. ['4C]Propionate incorporation is shown in the absence or presence of 1 ,ug/ml B12 (hydroxycobalamin). BLANK, nonelectroporated cells; CMV, cells transformed with vector alone as a control.
+
+1 00
+
+1 0
+
+detected in extracts containing the mutant enzymes in the presence of higher concentrations of adenosylcobalamin (1 mM).
+The mutant enzyme exhibited a similar dependence on substrate concentration. Maximal activity in extracts that con-
+
+S. cerevisiae. No MCM enzyme activity was detected in extracts containing the mutant enzyme in the presence of concentrations of adenosylcobalamin < 10 ,uM, which stimulated
+maximal activity of the normal enzyme. MCM activity was
+
+A
+
+B
+
+70
+
+pmol leucine
+
+nmol propionate/limol leucine
+
+EI
+
+50-
+
+40
+30
+
+B0
+A
+
+388
+
+B
+
+C D
+
+E
+
+F
+
+G
+
+H I
+
+J
+
+K
+
+A D
+
+A. M. Crane, R. Jansen, E. R. Andrews, and F. D.
+
+E
+
+Ledley
+
+U
+
+Std err
+
+Figure 4. Interallelic complementation between
+clones with the G717V and R93H mutations. (A) Cotransformation of mut" fibroblasts with mutant cDNA
+clones. Mutant MCM clones containing G717V,
+R93H, W105R, or A378E were electroporated into
+mull, GM 1673 fibroblasts alone, or in combinations.
+All experiments were performed in the absence of
+added cofactor. A, CMV vector alone; B, W1O5R; C,
+A378E; D, R93H; E, G717V; F, G717V + R93H; G,
+G717V + WIO5R; H, G717V + A378E; I, R93H
++ WIO5R; J, R93H + A378E; K, normal human
+MCM. (B) Mutant clones were electroporated into
+the mut-, DS79 fibroblasts as a control. Letter designations are the same as in A.
+
+A
+
+Table I. Specific Activity of MCM in Crude Extracts of Liver and
+S. cerevisiae Expressing Recombinant Human MCM
+
+pYEPV-hMCM
+
+CUPip
+
+hMCM
+
+Xhol/Sall
+
+CYCl TERM
+
+EcoRi Kpnl
+EcoRi BgIll
+IIi
+
+Nanomoles succinate formed/
+mg per hour [Methylmalonyl CoA]
+
+Clal
+
+Source
+
+pYEPV-DS79
+
+m
+
+Mouse liver
+YEPV
+YEPV + hMCM
+YEPV + DS79
+YEPV + DS79(Val)
+
+W_,
+
+pYEPV-DS79(Val)
+
+-500
+
+0
+
+500
+
+1000
+
+1500
+
+2000
+
+2500
+
+300 0O
+
+BASE
+MCM cDNA
+
+B
+
+G717
+
+DS79 cDNA
+
+2 mM
+
+428
+5
+
+NA
+7
+
+1,238
+
+5,121
+
+81
+120
+
+353
+265
+
+Maximal MCM activity was assayed in vitro in the presence of 0.61.0 mM adenosylcobalamin. No activity was detectable in the absence
+of exogenously added cofactor. NA, not assayed.
+
+SUBCLONE
+
+the G7 1 7V mutation affected the adenosylcobalamin-binding
+function of the apoenzyme.
+
+nmol succinate/mg/h
+
+15010
+
+A
+
+-I-
+
+717V MCM
+DS
+0879 MCM
+VECTOR
+
+Discussion
+
+NORMAL MCM
+
+This report describes
+
+10
+
+a
+
+mutation in the MCM cDNA that is
+
+responsible for an intermediate defect in enzyme activity. The
+clone was isolated from fibroblasts that exhibit a mur phenotype in which ['4C]propionate metabolism is essentially undetectable under basal conditions, but can be stimulated by the
+addition of excess hydroxycobalamin. Previous work by Wil-
+
+100
+
+5010
+
+lard and
+
+±
+
+Ct
+0.001
+
+0.5 mM
+
+-I-~~~~~
+0.01
+
+0.1
+
+an
+
+1
+
+10
+
+100
+
+1000
+
+[ado-cbIl pM
+Figure 5. Expression of mutant cDNA in S. ceerevisiae. (A) Vector for
+expression of mutant cDNA in S. cerevisiae. Normal hMCM has
+been expressed in the YEPV vector containi ing the CUP promoter.
+Segments of the 3' PCR clones from fibrobla sts DS79 (Fig. 3 A, clone
+A) containing all three sequence variations oir segments containing
+only the G7 17V mutation (Fig. 3 A, clone E )were substituted into
+susttuted in to
+)werethre
+the YEPV-hMCM vector. The clone contain ing
+all three sequence
+variations (YEPV-DS79) has a reading frame identical to the mRNA
+of DS79 fibroblasts. The other clone (YEPV .DS79[ Val]) contains
+only a single deviation from the normal seqiuence. The position of
+mutations is indicated by triangles. (B) MCM4 activity in S. cerevisiae
+expressing normal or mutant human MCM. MCM activity was assayed in vitro as a function of cobalamin coincentration. Activity of
+normal MCM produced in S. cerevisiae, MC?M containing all three
+sequence variations (-v-), MCM containi ng only
+the G7 17V mutation (-A-), and YEPV vector alone are 4shown. Extracts with
+mutant clones were assayed in the presence o
+M mrethyn
+malo ny0
+f2ininm the
+CoA. Extracts with normal clones were assayed
+presence of 0.5
+mM methylmalonyl CoA.
+
+tained the mutant enzyme was < 1% o Ifthat observed in extracts containing the normal enzyme (TFable I). The apparent
+
+Km (adenosylcobalamin) of the normal Lrecombinant protein
+(Fig. 5 B) is similar to that ofnative humain MCM in crude liver
+extracts and to data reported by our laboiratory previously (26).
+The apparent Km values for the cDNA bearing all three sequence changes and the one bearing onl)y the G7 1 7V mutation
+(Fig. 5 B) are consistent with the values reported from studies
+of primary mur fibroblasts (4, 6). These data demonstrate that
+
+Rosenberg (4-6) suggested
+
+enzyme with
+
+an
+
+altered
+
+that such cell lines contain
+
+Km for adenosylcobalamin. We
+
+found that clones that contain a single mutation, G7 17V, expressed four unique characteristics of the mut- phenotype: (a)
+failure to constitute [14C]propionate incorporation in mut'
+cells under basal culture conditions, (b) the ability to constitute
+['4C]propionate incorporation in muto cells cultured with 1 ,ug/
+ml hydroxycobalamin, (c) interallelic complementation with
+
+alleles bearing the R93H mutation, and (d)
+
+an
+
+apparent Km
+
+(adenosylcobalamin) 1,000-fold higher than normal.
+
+We previously identified several m utations that cause m ut0
+phenotypes in which enzyme activity is completely eliminated
+(27). One is an amber mutation that terminates normal transla-
+
+tion at codon 17 and leads to the translation of truncated gene
+products from internal AUG codons (15), one introduces a
+hydrophilic residue in a sharply hydrophobic region at the
+center of the
+phan residue
+
+protein ( 16), and
+to
+
+one
+
+alters
+
+an
+
+aromatic trypto-
+
+arginine (16). We have also identified
+
+a
+
+muta-
+
+tion in WGl 130 fibroblasts that exhibits interallelic complementation with most muF fibroblasts but not most mut' fibroblasts
+
+(10).
+
+Each
+
+of
+
+these
+
+m utations
+
+occurs
+
+within
+
+the
+
+amino-terminal portion of the protein, and we have hypothesized that determinants in this region play a critical role in
+catalytic function.
+In contrast, this study identified three positions at which
+the clones from DS79 differed from the consensus sequence of
+other clones of normal and mut0 cell lines that have been sequenced in our laboratory. Each of these potential mutations is
+near the carboxy terminus of the protein. One, H532R, is a
+nonconservative substitution that does not interfere with enzyme activity, suggesting that it occurs in a region of the protein not intimately involved in function. Another, V67 1I, is
+highly conservative. The pathogenic mutation is G7 1 7V,
+
+Cobalamin-binding Mutation That Causes mut- Methylmalonic Aciduria
+
+389
+
+690
+
+710
+
+700
+
+G717V
+720
+
+730
+
+740
+
+750
+
+I'I'I
+
+I
+
+Figure 6. Structural context of the G7 1 7V
+mutation. Optimal sequence alignment is
+shown for human MCM, mouse MCM, P.
+shermandi MUTB (a), and P. shermanli
+MUTA ((3) sequences in the region
+surrounding the G717V mutation. Predictions of secondary structure by Chou and
+
+HUMAN MCM
+
+NSLGRPDILVMCGGVIPPQDYEFLFEVGVSNVFGPGTRIPKAAVQVLDDIEKCLEKKQQSV*
+
+MOUSE MCM
+
+TALGRPDILVMCGGVIPPQDYEFLYEVGVSNVFGPGNRIPRAAVQVLDDIEKCLAEKQQSV*
+
+Fasman (29, 30) are shown for the normal
+
++
++++*+ +* *
+*
++*++*+*
++++ ++I +
+DKLGRPDILITVGGVIPEQDFDELRKDGAVEIYTPGTVIPESAISLVKKLRASLDA*
+
+humanMCMandMCMwiththeG717V
+
+P. sherm M1{UTB
+P. sherm MUTA
+
+---GD-D-AAEAEKLI-DGR-LF-MGM-DVVD--TLSSTLDILGVAK*
+
+re
+
+s
+
+mutation. These predictions show regions
+favorable for a-helix formation, regions
+
+I
+
+favorable for #-sheet formation, and sequences that tend to break these regular
+a-HELIX PREDICTION
+*, Identical to eukaryotic MCM
+S*-=========-_=====structures.
+NORMAL
+P. shermanii MUTA and MUTB; +,
+S===============and
+identical to eukaryotic MCM and P. sherS-SHEET PREDICTION
+predicted regionof
+maniiMUTB;
+f
+NORMAL
+............................region
+a-helix; ---, predicted regionof-sheet;
+. ,*- Li. 11111
+*.
+G717V..L.
+A Wo, helix- or sheet-breaking sequences;
+
+G717V
+
+..............
+
+........
+
+690
+
+700
+
+710
+
+720
+
+730
+
+which is not conservative because of the critical role glycine
+residues play in the secondary structure, stabilizing (-turns and
+disrupting both regular a-helical and (3-sheet structures. ChouFasman predictions of secondary structure (28, 29) for the normal and mutant sequences in this region suggest either that the
+absence of the helix terminating glycine could enable an adjacent a-helix to extend further toward the carboxy terminus, or
+that valine in this position could initiate (3-sheet formation that
+would not be predicted for the normal protein (Fig. 6).
+Homologous MCM genes have been cloned from mouse
+and from the prokaryote Propionibacterium shermanii. The
+murine enzyme exhibits 94% amino acid sequence identity and
+similar kinetics as human (26). P. shermanii MCM is a heterodimer of homologous a (MUTB gene) and (3 (MUTA gene)
+subunits (30, 31). There is a 59% identity between human
+MCM and the P. shermanii MUTB gene and a 22% identity
+between human MCM and the MUTA gene (32). The glycine
+residue at position 717 is conserved in human, murine, and P.
+shermanii MUTB sequences but not in MUTA (Fig. 6). There
+is, however, little overall sequence preservation between the
+eukaryotic and prokaryotic enzymes in the regions immediately surrounding this glycine. There is similarity in flanking
+regions that could fold together to constitute homologous cobalamin-binding determinants. This pattern of homology predicts
+that the effect of the G7 1 7V mutation may be to disrupt the
+tertiary assembly of these determinants by introducing additional rotation at the end of a segment of a-helix or folding this
+region deeper into the hydrophobic core of the protein.
+The position of this mutation and the pattern of homology
+between the eukaryotic and prokaryotic enzymes are interesting, considering the interallelic complementation observed
+between G717V and R93H. It has been proposed that this
+complementation may result from constitution of a single
+asymmetrical catalytic center composed of cobalamin-binding
+determinants from clones bearing the R93H mutation with
+discrete catalytic functions remaining on mut alleles (10).
+This is consistent with evidence that the normal enzyme binds
+2 mol of adenosylcobalamin/homodimer (2) and with a model
+in which the catalytic core is composed of two symmetrical
+catalytic centers constituted in trans from determinants on opposite subunits. It is interesting that there is no apparent homol390
+
+A. M. Crane, R. Jansen, E. R. Andrews, and F. D. Ledley
+
+740
+
+750
+
+*, Indeterminate.
+
+ogy between MUTB and MUTA in the regions surrounding
+this presumed cobalamin-binding site, given the observation
+that P. shermanii MCM binds only 1 mol adenosylcobalamin/
+heterodimer (Leadlay, P. F., personal communication). A
+more detailed picture of structure function determinants will
+arise from knowledge of the tertiary structure ofMCM (33) and
+additional characterization of natural or site-directed mutants
+of the eukaryotic or prokaryotic proteins.
+
+Acknowledgments
+The authors thank Dr. David Valle for contributing the DS79 fibroblasts, Amira Elgawly for technical assistance, and Tammy Reid for
+preparation of this manuscript.
+This work was supported by grants HD-24 186 and HD-24064 from
+the National Institutes of Health. F. D. Ledley is an Assistant Investigator of the Howard Hughes Medical Institute.
+
+References
+1. Rosenberg, L. E., and W. A. Fenton. 1989. Disorders of propionate and
+
+methylmalonate metabolism. In The Metabolic Basis of Inherited Disease. 6th
+ed. C. R. Scriver, A. L. Beaudet, W. S. Sly, and D. Valle, editors. McGraw Hill,
+New York. 822-844.
+2. Cannata, J. J., A. Focesi, R. Mazumder, R. C. Warner, and S. Ochoa. 1965.
+Metabolism of propionic acid in animal tissues. XII. Properties of mammalian
+
+methylmalonyl CoA mutase. J. Biol. Chem. 240:3249-3257.
+
+3. McKusick, V. A. 1990. Mendelian Inheritance in Man. 9th ed. Johns Hopkins University Press, Baltimore, MD. 1328-1329.
+4. Willard, H. F., and L. E. Rosenberg. 1977. Inherited deficiencies of human
+methylmalonyl CoA mutase activity: reduced affinity of mutant apoenzyme for
+adenosylcobalamin. Biochem. Biophys. Res. Commun. 78:927-934.
+5. Willard, H. F., and L. E. Rosenberg. 1979. Inherited deficiencies ofmethylmalonyl CoA mutase: biochemical and genetic studies in cultured skin fibroblasts. In Methods for the Study of Inborn Errors ofMetabolism. R. A. Hommes,
+editor. Elsevier, New York. 297-31 1.
+6. Willard, H. F., and L. E. Rosenberg. 1980. Inherited methylmalonyl CoA
+mutase apoenzyme deficiency in human fibroblasts: evidences for allelic heterogeneity, genetic compounds, and codominant expression. J. Clin. Invest. 65:690698.
+7. Ledley, F. D., A. M. Crane, and M. Lumetta. 1990. Heterogeneous alleles
+and expression of methylmalonyl CoA mutase in mut methylmalonic acidemia.
+Am. J. Hum. Genet. 46:539-547.
+8. Matsui, S. M., M. J. Mahoney, and L. E. Rosenberg. 1983. The natural
+history of the inherited methylmalonic acidemias. N. Engl. J. Med. 308:857-86 1.
+9. Ledley, F. D., H. L. Levy, V. E. Shih, R. Benjamin, and M. J. Mahoney.
+1984. Benign methylmalonic aciduria. N. Engl. J. Med. 311:1015-1018.
+
+10. Raff, M. L., A. M. Crane, R. Jansen, F. D. Ledley, and D. S. Rosenblatt.
+1991. Genetic characterization of mut locus mutation discriminating heterogeneity in mut0 and mut- methylmalonic aciduria by interallelic complementation. J.
+Clin. Invest. 87:203-207.
+11. Ledley, F. D., M. Lumetta, P. N. Nguyen, J. F. Kolhouse, and R. H. Allen.
+1988. Molecular cloning of L-methylmalonyl-CoA mutase: gene transfer and
+analysis of mut cell lines. Proc. NatL. Acad. Sci. USA. 85:3518-3521.
+12. Jansen, R., F. Kalousek, W. A. Fenton, L. E. Rosenberg, and F. D. Ledley.
+1989. Cloning of full-length methylmalonyl-CoA mutase from a cDNA library
+using the polymerase chain reaction. Genomics. 4:198-205.
+13. Wilkemeyer, M. F., A. M. Crane, and F. D. Ledley. 1991. Differential
+diagnosis of mut and cbl methylmalonic aciduria by DNA-mediated gene transfer
+in primary fibroblast. J. Clin. Invest. 87:915-918.
+14. Ledley, F. D., A. M. Crane, K. T. Klish, and G. S. May. 1991. Is there
+methylmalonyl CoA mutase in Aspergillus nidulans? Biochem. Biophys. Res.
+Commun. 177:1076-108 1.
+15. Ledley, F. D., R. Jansen, S. U. Nham, W. E. Fenton, and L. E. Rosenberg.
+1990. Mutation eliminating mitochondrial leader sequence of methylmalonyl
+CoA mutase causes mut0 methylmalonic acidemia. Proc. NatL. Acad. Sci. USA.
+87:3147-3150.
+16. Jansen, R., and F. D. Ledley. 1990. Heterozygous mutations at the mut
+locus in fibroblasts with mut0 methylmalonic acidemia identified by polymerase
+chain reaction cDNA cloning. Am. J. Hum. Genet. 47:808-814.
+17. MacGregor, G., and C. T. Caskey. 1989. Construction of plasmids that
+express E. coli fl-galactosidase in mammalian cells. Nucleic Acids Res. 17:2365.
+18. MacGregor, G. R., G. P. Nolan, S. Fiering, and L. A. Herzenberg. 1991.
+Methods Mol. Biol. 7:217-235.
+19. Shigekawa, K., and W. J. Dower. 1988. Electroporation of eukaryotes and
+prokaryotes: a general approach to the introduction of macromolecules into cells.
+BioTechniques. 6:742-751.
+20. Rosenblatt, D. S., B. A. Cooper, A. Pottier, H. Leu-Shing, N. Matiaszuk,
+and K. Grauer. 1984. Altered vitamin B12 metabolism in fibroblasts from a
+patient with megaloblastic anemia and homocystinuria due to a new defect in
+methionine biosynthesis. J. Clin. Invest. 74:2149-2156.
+21. Willard, H. F., L. M. Ambani, A. C. Hart, M. J. Mahoney, and L. E.
+Rosenberg. 1976. Rapid prenatal and postnatal detection of inborn errors of
+
+propionate, methylmalonate, and cobalamin metabolism: a sensitive assay using
+cultured cells. Hum. Genet. 34:277-283.
+22. McDonnell, D. P., J. W. Pike, D. J. Drutz, T. R. Butt, and B. W. O'Malley.
+1989. Reconstitution of the vitamin D-responsive osteocalcin transcription unit
+in Saccharomyces cerevisiae. Mol. Cell. Biol. 9:3517-3523.
+23. Kolhouse, J. F., S. P. Stabler, and R. H. Allen. 1988. L-methylmalonylCoA mutase from human placenta. Methods Enzymol. 166:407-414.
+24. Kolhouse, J. F., C. Utley, and R. H. Allen. 1980. Isolation and characterization of methylmalonyl-CoA mutase from human placenta. J. Biol. Chem.
+255:2708-27 12.
+25. Fenton, W. A., A. M. Hack, H. F. Willard, A. Gertler, and L. E. Rosenberg. 1982. Purification and properties of methylmalonyl coenzyme A mutase
+from human liver. Arch. Biochem. Biophys. 214:815-823.
+26. Wilkemeyer, M., A. M. Crane, and F. D. Ledley. 1990. Primary structure
+and activity of murine methylmalonyl CoA mutase. Biochem. J. 271:449-455.
+27. Ledley, F. D. 1990. Perspectives on methylmalonic acidemia resulting
+from molecular cloning of methylmalonyl CoA mutase. Bioessays. 12:335-340.
+28. Chou, P. Y., and G. D. Fasman. 1974. Conformational parameters for
+amino acids in helical, beta-sheet, and random coil regions calculated from proteins. Biochemistry. 13:211-222.
+29. Chou, P. Y., and G. D. Fasman. 1974. Prediction of protein conformation. Biochemistry. 13:222-245.
+30. Marsh, N., N. McKie, N. K. Davis, and P. F. Leadlay. 1989. Cloning and
+structural characterization of the genes coding for adenosylcobalamin-dependent
+methylmalonyl-CoA mutase from Propionibacterium shermanii. Biochem. J.
+260:345-352.
+31. Francalanci, F., N. K. Davis, J. Q. Fuller, D. M. Murfitt, and P. F. Leadlay. 1986. The subunit structure of methylmalonyl-CoA mutase from Propionibacterium shermanii. Biochem. J. 236:489-494.
+32. Leadlay, P. F., and F. D. Ledley. 1989. Primary sequences homology
+between methylmalonyl Coa mutase from Propionibacterium shermanii and
+Homo sapiens. Cobalamin '88. Proc. Int. Symp. Biomed. Physiol. Vitamin B12,
+Ist, London. 343-354.
+33. Marsh, N., P. F. Leadlay, and P. R. Evans. 1988. Crystallization and
+preliminary diffraction data for adenosylcobalamin-dependent methylmalonylCoA mutase from Propionibacterium shermanii. J. Mol. Biol. 200:421-422.
+
+Cobalamin-binding Mutation That Causes mut- Methylmalonic Aciduria
+
+391
+
+
