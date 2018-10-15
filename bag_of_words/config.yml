@@ -1,0 +1,5 @@
+classifier:
+  - input_dir: "../data/processed/"
+  - cross_validation_folds: 3
+  - classifier: ""
+  - n_estimators: 1
