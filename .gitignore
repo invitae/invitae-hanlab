@@ -134,5 +134,5 @@ Temporary Items
 .apdisk
 
 # data files
-.pkl
+*.pkl
 
