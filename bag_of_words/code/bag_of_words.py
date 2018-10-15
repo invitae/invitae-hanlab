@@ -18,7 +18,7 @@ def read_corpus(indir):
                 corpus[pmid] += text
     return corpus
 
-def tokenize_corpus(corpus, outdir, tokenizer="tf", output="pkl", max_df=0.5, min_df=0.01):
+def tokenize_corpus(corpus, outdir, tokenizer="tfidf", output="pkl", max_df=0.5, min_df=0.01):
     # Tokenize a corpus into a doc-by-token sparse matrix
     logger = get_console_logger("tokenize_corpus")
     logger.info("Building bag-of-words representation ...")
@@ -28,13 +28,15 @@ def tokenize_corpus(corpus, outdir, tokenizer="tf", output="pkl", max_df=0.5, mi
         vectorizer = TfidfVectorizer(max_df=max_df, min_df=min_df)
     else:
         logger.error("Invalid tokenizer.")
-    bow = vectorizer.fit_transform(list(corpus.values()))
+    #bow = vectorizer.fit_transform(list(corpus.values()))
+    bow = vectorizer.fit_transform([corpus[x] for x in sorted(corpus)])
     if output == "pkl":
         outfile = outdir + "bag_of_words_" + tokenizer + ".pkl"
         logger.info("Writing to %s ..." % format(outfile))
         with open(outfile, 'wb') as fout:
             pickle.dump(bow, fout)
-            bow_rownames = list(corpus.keys())
+            #bow_rownames = list(corpus.keys())
+            bow_rownames = sorted(corpus)
             pickle.dump(bow_rownames, fout)
             bow_colnames = vectorizer.get_feature_names()
             pickle.dump(bow_colnames, fout)
@@ -45,8 +47,8 @@ def tokenize_corpus(corpus, outdir, tokenizer="tf", output="pkl", max_df=0.5, mi
     logger.info("Done!")
 
 if __name__ == "__main__":
-    INDIR = "../data_sample/raw/pubmed-txts-mf/"
-    OUTDIR = "../data_sample/processed/"
+    INDIR = "../data/raw/pubmed-txts-mf/"
+    OUTDIR = "../data/processed/"
     corpus = read_corpus(indir=INDIR)
-    tokenize_corpus(corpus, OUTDIR, tokenizer="tf", output="pkl", max_df=0.5, min_df=0.01)
+    tokenize_corpus(corpus, OUTDIR, tokenizer="tfidf", output="pkl", max_df=0.5, min_df=0.01)
 
