@@ -12,6 +12,5 @@ FROM docker.elastic.co/elasticsearch/elasticsearch:6.4.2
 
 # install ElasticSearch Learning to Rank plugin
 COPY --from=ltr-builder /home/gradle/elasticsearch-learning-to-rank/build/distributions/ltr-1.1.0-es6.4.2.zip .
-RUN ls
 RUN elasticsearch-plugin install --batch file://$PWD/ltr-1.1.0-es6.4.2.zip
 
