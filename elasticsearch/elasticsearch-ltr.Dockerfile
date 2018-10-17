@@ -7,10 +7,11 @@ RUN sed -i 's/6\.4\.1/6\.4\.2/g' build.gradle
 RUN cat build.gradle
 RUN ./gradlew clean check
 
-#FROM docker.elastic.co/elasticsearch/elasticsearch:6.4.1
-FROM bitnami/elasticsearch:6.4.2-debian-9
+# install the ltr-plugin
+FROM docker.elastic.co/elasticsearch/elasticsearch:6.4.2
 
 # install ElasticSearch Learning to Rank plugin
 COPY --from=ltr-builder /home/gradle/elasticsearch-learning-to-rank/build/distributions/ltr-1.1.0-es6.4.2.zip .
-RUN elasticsearch-plugin install --batch file:///${pwd}/ltr-1.1.0-es6.4.2.zip
+RUN ls
+RUN elasticsearch-plugin install --batch file://$PWD/ltr-1.1.0-es6.4.2.zip
 
