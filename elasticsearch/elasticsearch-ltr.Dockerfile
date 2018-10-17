@@ -11,7 +11,5 @@ RUN ./gradlew clean check
 FROM docker.elastic.co/elasticsearch/elasticsearch:6.4.2
 
 # install ElasticSearch Learning to Rank plugin
-COPY --from=ltr-builder /home/gradle/elasticsearch-learning-to-rank/build/distributions/ltr-1.1.0-es6.4.2.zip .
-RUN elasticsearch-plugin install --batch file://$PWD/ltr-1.1.0-es6.4.2.zip
-RUN rm ltr-1.1.0-es6.4.2.zip
-
+COPY --from=ltr-builder /home/gradle/elasticsearch-learning-to-rank/build/distributions/ltr-1.1.0-es6.4.2.zip /tmp/
+RUN elasticsearch-plugin install --batch file:///tmp/ltr-1.1.0-es6.4.2.zip
