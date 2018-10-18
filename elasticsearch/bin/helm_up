@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Installs tiller on the current k8s cluster and updates the repos
+
+helm init
+helm update

@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+# Simple script to populate a 'test' index. It is assumed that the environment variable $NODE_PORT is set to an exposed
+# port on the current host.
+# Adds 100 test json files to a test index as background processes to simulate load.
+
+for file in $(ls data/test-json)
+do
+  echo indexing $file
+  curl -s -H "Content-Type: application/json" -XPUT localhost:$NODE_PORT/test/_doc/$file --data-binary @data/test-json/$file &
+done

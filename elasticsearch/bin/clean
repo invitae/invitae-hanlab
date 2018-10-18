@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Delete the elasticsearch-ltr helm install and the associated Persistant Volumen Claims
+
+helm del --purge elasticsearch-ltr
+kubectl delete pvc -l release=elasticsearch-ltr,component=data

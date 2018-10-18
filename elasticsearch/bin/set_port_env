@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+
+export NODE_PORT=$(kubectl get --namespace default -o jsonpath="{.spec.ports[0].nodePort}" services elasticsearch-ltr-client)
+export NODE_IP=$(kubectl get nodes --namespace default -o jsonpath="{.items[0].status.addresses[0].address}")
+echo http://127.0.0.1:$NODE_PORT local
+echo http://$NODE_IP:$NODE_PORT remote
