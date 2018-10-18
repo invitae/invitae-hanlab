@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 
 helm install -f values-local.yaml --name elasticsearch-ltr stable/elasticsearch
-sleep 30
-bin/set_port_env
+sleep 5
+. bin/set_port_env
