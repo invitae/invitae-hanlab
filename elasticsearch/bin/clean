@@ -3,4 +3,3 @@
 
 helm del --purge elasticsearch-ltr
 kubectl delete pvc -l release=elasticsearch-ltr,component=data
-kubectl delete pv --all
