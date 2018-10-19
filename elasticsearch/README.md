@@ -21,6 +21,11 @@ ElasticSearch cluster.
     ```
 1. You may want to increase the resource allocation of the Docker install to have at least `4GB` of memory allocated.
 1. Ensure that "Kubernetes is running" is displayed in the Docker-for-mac tray dropdown.
+1. Ensure that `docker-for-desktop` is the current Kubernetes config by either selecting the option from the 
+Kubernetes section of the Docker-for-mac tray dropdown, or by:
+    ```bash
+    kubectl config use-context docker-for-desktop
+    ```
 
 #### Installing ElasticSearch
 After these packages are installed, you are ready to install and test the ElasticSearch cluster.
