@@ -32,3 +32,11 @@ Steps:
 2. Run `doc_labels.py` to build a doc-by-label matrix.
 3. Run `classifiers.py` to train and test various classifiers.
 
+## How to Run WeSTClass
+
+In `bag_of_words/data_westclass` there is a sample dataset for testing the WeSTClass weakly-supervised text classification tool. You may follow those steps:
+
+1. Clone the WeSTClass repo at `https://github.com/invitae/WeSTClass.git`.
+2. Replace the files in the folder `WestClass/yelp` with the files in `bag_of_words/data_westclass`.
+3. Modify the file `WeSTClass/main.py` and set the variable `max_sequence_length` tp 10000 or a larger number.
+4. In WeSTClass folder, execute `python main.py --dataset yelp --sup_source docs --model cnn --with_evaluation False`. Make sure you are using Python 3.6. You may change the parameters as needed.
